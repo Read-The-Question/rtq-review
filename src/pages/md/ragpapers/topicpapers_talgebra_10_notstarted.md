@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-notstarted"
 title: "TopicPaper - Algebra - 10 - NOTSTARTED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>CC8D31D6-8901-4DAE-81FC-A15B074ED555</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:30</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -70,7 +70,7 @@ TODOANSWER
 <p>EE517412-3A90-4259-8284-D1CA5B14FECF</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:22</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -223,7 +223,7 @@ $2, 14, 42$
 <p>CEA617F8-C87A-493E-AB2E-F648E4945EC8</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:22</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -415,7 +415,7 @@ TODOANSWER
 <p>1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:21</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -566,7 +566,7 @@ $2, 24, 72$
 <p>2512EA6E-6A08-448C-BB2A-C8D9924A368E</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:11</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -623,7 +623,7 @@ $42 \text{toffees}$
 <p>6053BD3A-018D-47D6-A9C9-460F05339B43</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:2</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:3:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -756,7 +756,7 @@ TODOANSWER
 <p>E04A5D82-8409-45E4-B659-1A199BE3C232</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:1</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-2-g0"
 title: "TopicPaper - Infer - 2 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:29</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

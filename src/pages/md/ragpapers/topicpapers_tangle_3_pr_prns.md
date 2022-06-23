@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-pr-prns"
 title: "TopicPaper - Angle - 3 - PR - PRNS"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>92AD100E-4F0C-43B3-8449-31A16D2E0DEA</p>
 </div>
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:16</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -120,7 +120,7 @@ $80 \degree$
 <p>E0755DC5-C021-4820-B018-FBD663D724BC</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:28</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -221,7 +221,7 @@ $210 \degree$
 <p>7DEE085F-FD27-4FBE-B961-7848EFAF05B5</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:18</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -352,7 +352,7 @@ $130 \degree$
 <p>17360B83-7524-4915-9C57-EA134B592244</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -467,7 +467,7 @@ Angle but explanatory
 <p>7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:17</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

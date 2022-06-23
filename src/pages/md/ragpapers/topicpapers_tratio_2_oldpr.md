@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-2-oldpr"
 title: "TopicPaper - Ratio - 2 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>AED1CAB4-1114-4003-8768-AEE3317FB324</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:1</p>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -198,7 +198,7 @@ Blue Answer : add \pounds
 <p>714AC34D-AA55-45CA-A28E-C0DB3E0A56F8</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:3</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -344,7 +344,7 @@ Part B:
 <p>069669D4-0614-4FCA-A2AF-20506A369CB1</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:10</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -505,7 +505,7 @@ Part A : in slack
 <p>1219A3ED-0814-4A5C-AA62-80C6F0E44674</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:19</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -674,7 +674,7 @@ PArt B Star 1.2 Euro = 1 pound solve step by step ..til mixed fraction pound 6 1
 <p>5532584A-CE17-4B4B-B43F-B4E567FC5002</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:5</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -779,7 +779,7 @@ then answer. write 8.30 not 8.3
 <p>232F57C7-E301-4FFA-80DA-C7978576A982</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:12</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -907,7 +907,7 @@ and not money pounds !!! in weight so remains \"pounds\" change in blue answer t
 <p>4C42DA9B-C12A-4A7A-B493-F806C22437DB</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:16</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1001,7 +1001,7 @@ blue answer : 63 girls
 <p>1BDA0077-610F-493E-B36C-43C8D0A51441</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:11</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1096,7 +1096,7 @@ check COst (make o small) check spacing \\
 <p>36415844-5CC2-4E29-9E67-F5B06F9F9D26</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:5</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1196,7 +1196,7 @@ $\pounds 3.15$
 <p>A62C35C0-E5F1-4D14-9EB3-E17302B61C39</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:17</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1297,7 +1297,7 @@ line 2: give comma after APTQ                                                   
 <p>089B56B3-5FE5-42D9-A2A5-5A1136AECEE9</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:4</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

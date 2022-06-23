@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-blocked"
 title: "TopicPaper - Simpleword - 4 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>2D3887D2-B353-4878-B512-D95F4548DFE8</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:4</p>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -68,7 +68,7 @@ $17$
 <p>78014A49-10F8-489D-B6FC-B8F15474740B</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:0</p>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

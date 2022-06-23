@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-oldpr"
 title: "TopicPaper - Algebra - 5 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>1FC72FAC-44B2-4E36-9646-A48B84FD818F</p>
 </div>
 <div class='papername'>
-<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:3</p>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -170,7 +170,7 @@ Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
 <p>E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828</p>
 </div>
 <div class='papername'>
-<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:13</p>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -279,7 +279,7 @@ Please aligned(&) according to the format and change pound to p inside the katex
 <p>E8C861DF-9822-4FA8-BE0B-C4698C43089C</p>
 </div>
 <div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:24</p>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

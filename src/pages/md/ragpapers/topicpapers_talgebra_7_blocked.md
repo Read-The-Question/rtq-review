@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-blocked"
 title: "TopicPaper - Algebra - 7 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>C2047E1E-44EC-45A8-8D46-B84E3ACCC574</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:18</p>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -63,7 +63,7 @@ $36 days$
 <p>C2E4602D-7614-4602-B0C7-6BE05EC0D2F4</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:21</p>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -122,7 +122,7 @@ $9,12$
 <p>2225AC51-DD9D-4735-95C7-96330E32FE3A</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:23</p>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -193,7 +193,7 @@ $147$
 <p>D7186894-D434-4DCA-9C80-DE0355633F24</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4:0:3</p>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -251,7 +251,7 @@ $65$
 <p>B2F63041-ED48-4974-9D2B-15C31CCE8E6A</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:8</p>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

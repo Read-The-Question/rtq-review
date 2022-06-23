@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-oldpr"
 title: "TopicPaper - Time - 2 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
 </div>
 <div class='papername'>
-<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>
@@ -101,7 +101,7 @@ $71 \ \text {seconds}$
 <p>87F66A43-5223-4E50-9A24-6CC4F1EDA93A</p>
 </div>
 <div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:16</p>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>

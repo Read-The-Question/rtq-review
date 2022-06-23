@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-oldpr"
 title: "TopicPaper - Algebra - 14 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>E14872CA-A458-40F9-8C07-62F2E9C9CC11</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:12</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -221,7 +221,7 @@ Change in Blue answer as mentioned in Part A
 <p>3333F909-34F8-4849-86F8-FDA974248AC6</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:10</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -432,7 +432,7 @@ Part C : Not solved, solve please
 <p>139515A2-06C2-4784-A793-112DD4CB90CD</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:33</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:34</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -631,7 +631,7 @@ Part B : not solved
 <p>CA18EE51-E05D-43B3-9A52-6279C6630C9D</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:10</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -835,7 +835,7 @@ Not solved : solve please. same like before parts.
 <p>D6C77BFE-E594-4024-93C0-48A0970659C7</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -981,7 +981,7 @@ refer 0A0A949A-4315-41A1-A28D-C39E8F6FC5E9 part b . but keep boxed.
 <p>2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:10</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

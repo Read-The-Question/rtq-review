@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-blocked"
 title: "TopicPaper - Fraction - 5 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>E0A78854-701F-451E-8B91-1F4FE8B4DACB</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:12</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -67,7 +67,7 @@ $\dfrac {9} {25}$
 <p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:8</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>

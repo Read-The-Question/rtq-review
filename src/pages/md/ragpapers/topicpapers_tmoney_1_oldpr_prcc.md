@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-oldpr-prcc"
 title: "TopicPaper - Money - 1 - OLDPR - PRCC"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>08B091C3-398E-4C33-9232-9F1C961D0DD6</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:14</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_ak_oldpr</p>
@@ -106,7 +106,7 @@ $\pounds 3.25$
 <p>98E30B30-DDF8-4611-BFF5-108696A59D3F</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:15</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_ak_oldpr</p>
@@ -201,7 +201,7 @@ tunitpromt missing
 <p>D71A8D20-2E8A-4417-920F-57E32AF54FC8</p>
 </div>
 <div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:19</p>
+<p>colfes-school--11-plus--maths--9999--sample-paper:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_ak_oldpr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-oldpr"
 title: "TopicPaper - Time - 3 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:9</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>
@@ -94,7 +94,7 @@ $9{:}02 \ \text{am}$
 <p>CB718008-6C5B-486B-83F4-A32A6530AAA0</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:12</p>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>
@@ -180,7 +180,7 @@ $18{:}27$
 <p>B436492B-ADE1-4E62-B5CC-10E5C7D215FC</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:14</p>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>
@@ -272,7 +272,7 @@ $450 \ \text {seconds}$
 <p>F541C565-A23A-42AB-A949-6DABF9981E5A</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:5</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>
@@ -356,7 +356,7 @@ $115  \ \text{minutes}$
 <p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:5</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>
@@ -508,7 +508,7 @@ $\pounds 25.5$
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:17</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>

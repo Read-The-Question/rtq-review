@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-17"
 title: "TopicPaper - Algebra - 17"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>B475D829-FDEB-40B6-8FA4-023371521EB4</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:3</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -106,7 +106,7 @@ $10000$
 <p>24C887CF-4462-405D-A46E-9A5B7A2C09DE</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:8</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -246,7 +246,7 @@ $\dfrac {11} {12}$
 <p>798959A4-A1CC-4746-BBFD-BB83D4CA9BC0</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:9</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -300,7 +300,7 @@ TODOANSWER
 <p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:16</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -407,7 +407,7 @@ $\dfrac{1} {2}$
 <p>3275A71A-639B-441D-A05F-DB24503E5553</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:18</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -472,7 +472,7 @@ TODOANSWER
 <p>706748E4-8A3B-422B-A4AB-A60AA490E362</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:21</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -566,7 +566,7 @@ $34$
 <p>B67C812C-8264-4E3E-AE90-257236E2DAC5</p>
 </div>
 <div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:14</p>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -667,7 +667,7 @@ Delete last sentence (the summary sentences now follow only if a variable is the
 <p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
 </div>
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:21</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -801,7 +801,7 @@ $\dfrac {1} {3}$
 <p>0C074B21-7DBC-45D1-A408-217D2217ABF2</p>
 </div>
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:25</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -930,7 +930,7 @@ TODOANSWER
 <p>59A15B1E-9BD7-46F5-A252-A20015C38A1A</p>
 </div>
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:26</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1071,7 +1071,7 @@ $4$
 <p>4E026293-8092-4F84-94CD-07F5A6F4E37D</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:7</p>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1324,7 +1324,7 @@ PArt d add a new step 3 = 3 +       5/2 then the step with 3 x 2.....
 <p>3A6DE7DE-2610-4BB9-B90F-CF47C2F942B9</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:9</p>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1545,7 +1545,7 @@ Part e : solved wrong : its = 3 -2e + 2  (not -2) and then 5 -2e  (change answer
 <p>10F6A653-86A6-4A15-B189-E38E373A64BD</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:13</p>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1730,7 +1730,7 @@ Part C : Change Step 2:  to 2x  =  3 (x -4) then 2x = (3 x x) - (3 x 4) solve fu
 <p>21D2A583-FB30-4094-B30F-00057B5E3942</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:1</p>
+<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1895,7 +1895,7 @@ TODOANSWER
 <p>EF6C4BDF-FB5F-47E7-A7CA-14BDC56D176E</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:5</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1985,7 +1985,7 @@ $\pounds 51$
 <p>F4722F0A-FE19-4DC1-BE2D-4BA0FACA8523</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:7</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2087,7 +2087,7 @@ $30$
 <p>8E48E97E-BA10-4089-919F-C660C53FBEF5</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:10</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2142,7 +2142,7 @@ $15 \text{rounds}$
 <p>33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:11</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2249,7 +2249,7 @@ a = 30 not 3!  The number he started with  $= 30$ The answer he should have obta
 <p>3D42270C-70A1-4EE1-AED9-6A08F7425716</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:16</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2303,7 +2303,7 @@ TODOANSWER
 <p>48C8A320-D1E7-4D75-84D8-799A4AA7A4A2</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:26</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2457,7 +2457,7 @@ Part B : take the variable \"a\" not \"x\" inside katex Step 1 put \times betwee
 <p>48A65A07-BA43-4EDF-B878-C0D0AF3AD175</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2587,7 +2587,7 @@ TODOANSWER
 <p>63ED19B8-7E96-4F52-9B00-D3ED22D0D160</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2683,7 +2683,7 @@ Change : Let the number I thought of $= a$
 <p>FC3ABA33-5D43-482E-9D5F-4D8124DCB134</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:18</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2780,7 +2780,7 @@ $\pounds 27$
 <p>ED17A3F3-CADC-4CD5-8751-EDF6ACD97079</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:24</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2924,7 +2924,7 @@ $80m + 15t$
 <p>6ED09898-3049-403B-862A-0997F0A0FB65</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:27</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3030,7 +3030,7 @@ $1011$
 <p>17228C50-1BB7-4807-8D6C-B2365B926A0B</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:17</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3190,7 +3190,7 @@ TODOANSWER
 <p>5C46037A-9D8E-4709-A27D-EC329D33E470</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:2</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3283,7 +3283,7 @@ $\pounds 1.6$
 <p>B98103D1-4222-4227-ACB8-6A322C10E281</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:7</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3347,7 +3347,7 @@ TODOANSWER
 <p>9BAEC1C3-1291-46F0-8A06-C2CB59BB5445</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:7</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3516,7 +3516,7 @@ $-5$
 <p>225E084E-3E8B-41BC-8F2E-8117437E9AF8</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:10</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

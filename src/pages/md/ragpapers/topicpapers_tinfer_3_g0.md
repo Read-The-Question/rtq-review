@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-3-g0"
 title: "TopicPaper - Infer - 3 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>4049C025-C8E3-420D-90F0-FEE76BCC81C5</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:29</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -167,7 +167,7 @@ $6$
 <p>84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:39</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:40</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

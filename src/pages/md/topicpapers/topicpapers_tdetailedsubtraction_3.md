@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-3"
 title: "TopicPaper - Detailedsubtraction - 3"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>00BD8854-44AE-4DAA-B246-619A4C0D1148</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:1</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -102,7 +102,7 @@ $6359$
 <p>3FC5884C-8C77-4219-9E15-546D62002A8C</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:1</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -184,7 +184,7 @@ $1686$
 <p>3C09A39C-598A-4864-B456-2C4C74356A45</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -266,7 +266,7 @@ $247$
 <p>6277A78F-503A-4B75-B993-9B2E55B696CD</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -348,7 +348,7 @@ $252$
 <p>C4CF7D3D-392A-4880-A5A1-150F9EF14E3B</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -436,7 +436,7 @@ $1.47$
 <p>D1D231EE-FD6E-4511-A774-A7768DAB3B3D</p>
 </div>
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:1</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -518,7 +518,7 @@ $447$
 <p>CAC5AF78-EA65-4D7A-8C3A-0B66CA30D7FD</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:1</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -600,7 +600,7 @@ $3288$
 <p>87BBBF95-BF05-4710-8206-4E337956FB22</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:1</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -683,7 +683,7 @@ $696$
 <p>07CD4B67-7485-4B17-AF5E-4254EB60E880</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:1</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-blocked"
 title: "TopicPaper - Fraction - 6 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>341FE350-6A25-436A-A25E-E7AB9A1C6E15</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:18</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -81,7 +81,7 @@ $\dfrac{1}{12} + \dfrac{1}{6} + \dfrac{1}{4}$
 <p>AD502CB4-2E22-4698-9006-B92D0D53A2AF</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:3</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -187,7 +187,7 @@ $\text{D}$
 <p>40063D7A-77F1-4202-9161-7E6E6C22F8EF</p>
 </div>
 <div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:2</p>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -246,7 +246,7 @@ $\dfrac {3} {5}$
 <p>A1E3093E-6A93-4CB8-A627-77D10D5C257A</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:19</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

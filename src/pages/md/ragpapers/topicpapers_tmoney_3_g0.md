@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g0"
 title: "TopicPaper - Money - 3 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>FB9C0752-B2BA-49B8-96AA-048619C2539C</p>
 </div>
 <div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -185,7 +185,7 @@ $\pounds 28$
 <p>C3168C71-1453-467B-B9E0-F3062E77C342</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:0</p>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -411,18 +411,18 @@ $37 \ \text{kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2789A11E-A02B-4F5F-8CBE-35BF532941D3</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:14</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -441,7 +441,6 @@ Find four ninths of $963\text{p}$
 
 $
 \begin{aligned}
-&= \text {four ninths of} \ 963 \text{p} \\\\
 &= \dfrac {4} {9} \ \text{of} \ 963 \text{p} \\\\
 &= \dfrac {4} {9} \times 963 \\\\
 &= \dfrac {4 \times 963} {9} \\\\
@@ -502,18 +501,18 @@ DONE Step 1 = \text {four ninths of} \  963 \text{p} \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2B5D56B6-9D9F-41E6-8D6E-2058BC838997</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:14</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -531,16 +530,15 @@ Find five eighths of $408 \text{p}$
 <div class='working'>
 
 $
-\begin{aligned}
-&= \text[five eighths of} \ 408 \text{p} \\\\
-&= \dfrac {5} {8} \ \text{of} \ 408 \text{p} \\\\
-&= \dfrac {5} {8} \times 408 \text{p} \\\\
+\begin {aligned}
+&= \dfrac {5} {8} \ \text {of} \ 408 \text {p} \\\\
+&= \dfrac {5} {8} \times 408 \\\\
 &= \dfrac {5 \times 408} {8} \\\\
 &= \dfrac {5 \times 8 \times 51} {8} \\\\
-&= \dfrac {5 \times \cancel{8} \times 51} {\cancel{8}} \\\\
+&= \dfrac {5 \times \cancel {8} \times 51} {\cancel {8}} \\\\
 &= 5 \times 51 \\\\
-&= 255 \text{p}
-\end{aligned}
+&= 255 \text {p}
+\end {aligned}
 $
 
 </div>
@@ -598,7 +596,7 @@ DONE Step 1 : &= \text[five eighths of} \ 408 \text{p}
 <p>A44E4F3A-9D7D-4F20-A66B-292B5CDE97B1</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:23</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:24</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -686,7 +684,7 @@ $\pounds 2.88$
 <p>A1C5A3A8-776A-4AE7-A826-842521976016</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:13</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -900,7 +898,7 @@ $\pounds 43.75$
 <p>B474E464-5AEF-419A-9B3D-08581A43D0DE</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:38</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:39</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -989,7 +987,7 @@ $\pounds 2.80$
 <p>07B7F155-62F9-4100-8C73-1796ABA98DCB</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:4</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1070,18 +1068,18 @@ $\pounds 2.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F3F34EA3-2E57-420F-B3B7-CB31E96031AB</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:7</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1154,12 +1152,10 @@ What is $11\%$ of $\pounds 950$?
 
 $
 \begin{aligned}
-&= 11\% \ \text{of} \ \pounds 950 \\\\
-&= 11\% \times 950 \\\\
-&= (10\% + 1\%) \times 950 \\\\
-&= 10\% \times 950 + 1\% \times 950 \\\\
-&= 95 + \dfrac {1} {100} \times 950 \\\\
-&= 95 + \dfrac {950} {100} \\\\
+&= 11 \% \ \text{of} \ \pounds 950 \\\\
+&= \dfrac {11} {100} \times 950 \\\\
+&= \dfrac {11 \times 950} {100} \\\\
+&= \dfrac {10450} {100} \\\\
 &= \pounds 104.50
 \end{aligned}
 $
@@ -1217,7 +1213,7 @@ $\pounds 104.50$
 <p>2FE662D1-5747-42DC-BB3C-817459AFFB50</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:11</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1299,7 +1295,7 @@ $\pounds 7.30$
 <p>56C543D5-BB5B-4474-8B73-44CAEEF83470</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:4</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1384,7 +1380,7 @@ $\pounds 23.20$
 <p>63A0B53E-C684-46F3-9F2D-D318FB75DE93</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:7</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1531,7 +1527,7 @@ DONE Part b ..(10% + 5% ) x 760 ???
 <p>EFD43A9D-C622-4E56-8393-2CA2B39FA64E</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:11</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1614,7 +1610,7 @@ $\pounds 6.20$
 <p>7CF52F4B-090D-493A-8346-80188BAA6634</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:29</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1714,7 +1710,7 @@ $\pounds 27$
 <p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:35</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:36</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1799,7 +1795,7 @@ $\pounds 4$
 <p>29A6018D-4F9B-47BC-AEF7-2AB556029423</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:0</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1888,7 +1884,7 @@ $\pounds 4.30$
 <p>0E978EF0-5AA5-41D7-BA1E-A165B13DC328</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:1</p>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1969,7 +1965,7 @@ $\pounds 16$
 <p>81AADA28-3EE1-4D17-82EE-CBBF6BF4E0D7</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:0:1</p>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2052,7 +2048,7 @@ $\pounds 18$
 <p>B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:3</p>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2141,7 +2137,7 @@ $\pounds 7.50$
 <p>F7CB4C96-99C6-4696-913C-ACB1B87877A1</p>
 </div>
 <div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:15</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2236,7 +2232,7 @@ $\pounds 3.28$
 <p>4D17A6EE-BFCA-43FF-BD1A-329ADAFFC202</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:24</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2386,7 +2382,7 @@ $15$
 <p>AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:2</p>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2487,18 +2483,18 @@ $\pounds 288$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>655C3EF2-4B38-45E9-8354-01DF35EC3875</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:3</p>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2517,15 +2513,15 @@ The museum took a total of $\pounds 600$ in entrance fees one Friday. How many p
 
 As per the question,
 
-Total fee collected $= \pounds 600$
-
-Enterance fee per person $= \pounds 1.20$
-
 $
 \begin{aligned}
-\text {Number of people visited on Friday} &= \dfrac {\text {Total Fee collected}} {\text {Enterance fee}} \\\\
-                                           &= \dfrac {600} {1.20} \\\\
-                                           &= \pounds 500
+\text {Total number of people}      &= \dfrac {600} {1.20} \\\\
+                                    &= \dfrac {600 \times 100} {1.20 \times 100} \\\\
+                                    &= \dfrac {600 \times 100} {120} \\\\
+                                    &= \dfrac {5 \times 12 \times 10 \times 100} {12 \times 10} \\\\
+                                    &= \dfrac {5 \times \cancel {12} \times \cancel {10} \times 100} {\cancel {12} \times \cancel {10}} \\\\
+                                    &= 5 \times 100 \\\\
+                                    &= \pounds 500
 \end{aligned}
 $
 
@@ -2574,18 +2570,18 @@ $\pounds 500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5171E4DB-A0AE-48C2-A77F-6BE170E11A11</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:7</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2605,11 +2601,12 @@ $\pounds 1.28 - 57 \text{p}$
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
+Let's convert all the expenses into pounds.
+
 $
 \begin{array}{cccccccccccccc}
-&= \pounds1.28 - 57  \text{p} \\\\
-&= 128 \text{p}  - 57  \text{p} \\\\
-&= 71 \text{p} \\\\
+&= \pounds 1.28 - 57 \text {p} \\\\
+&= \pounds 1.28 - \pounds 0.57 \\\\
 &= \pounds 0.71
 \end{array}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-g0"
 title: "TopicPaper - Statistics - 1 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>5614DA7B-6653-4819-8562-EDB2A90A83C7</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:24</p>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -105,7 +105,7 @@ $2$
 <p>E127726D-DDB2-4A3F-99BF-CFACF66B8527</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:9</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -204,7 +204,7 @@ $10  \ \text{kg}$
 <p>359E9CAF-B6FE-434F-9191-AF9614CF6D12</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:21</p>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-g2"
 title: "TopicPaper - Sequence - 5 - G2"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>2ED209A4-4A2F-4B4F-975D-685105DF2587</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:9</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -121,7 +121,7 @@ $12 \dfrac{1}{2}$
 <p>3C00C796-049E-471D-AEC7-FACC3D844E29</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:7</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -380,7 +380,7 @@ $81$
 <p>A56D32B4-ADA7-4676-BE6D-CAD6C5B21EE8</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -552,7 +552,7 @@ $48$
 <p>D168A689-BEA7-4B56-857F-9D17A9FE37E3</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:19</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -811,7 +811,7 @@ $4$
 <p>23C2C66A-F265-4FF5-8FF4-FAF4BF40218D</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:7</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -910,7 +910,7 @@ $61$
 <p>7AD11D07-8452-4D33-A58B-2F361B96929A</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:7</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -1011,7 +1011,7 @@ $87$
 <p>44FC571D-648D-4BAC-856A-7740FD79FC86</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:5</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -1112,7 +1112,7 @@ $55$
 <p>88DB0446-3822-4E24-9EE8-BAD9AAF0EC47</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:4</p>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -1213,7 +1213,7 @@ $57$
 <p>2377F631-0B3B-443B-ACA8-80A032557FBC</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:4</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>

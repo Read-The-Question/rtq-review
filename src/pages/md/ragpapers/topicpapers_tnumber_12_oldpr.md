@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-oldpr"
 title: "TopicPaper - Number - 12 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>D49D9EA7-E52B-4221-A409-AFE1EB8E46AE</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -179,7 +179,7 @@ Same as part a
 <p>39F565E5-A22B-4C7B-8F60-9AC45AFB6764</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:32</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -452,7 +452,7 @@ $1, 2$
 <p>FC8421CA-91B3-47D9-A6F5-43D083840F7F</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:6</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -615,7 +615,7 @@ $3$
 <p>66123310-D9F1-45C3-86F1-7A120C1FCB10</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:25</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -714,7 +714,7 @@ $\dfrac{11}{10}$
 <p>F25E82C3-2612-4DD6-9E94-BBA4771C38C6</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:3</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -813,7 +813,7 @@ write in katex align...... Largest 4 digit number=...Smallest 3 digit number =..
 <p>516A8256-4FAD-4AF0-A7CC-7D00BB6B5147</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:20</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -899,7 +899,7 @@ $2$
 <p>A4713302-D07D-4F6B-A90F-15306CAD8332</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:25</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1007,7 +1007,7 @@ change: 460 to 640                                                              
 <p>E67458AA-6552-4F44-B7F8-5DEBC4A8A336</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:29</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1099,7 +1099,7 @@ $\dfrac{9}{10}$
 <p>3CCC8580-4989-4891-ADF4-6BD2F0008C55</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1198,7 +1198,7 @@ $25, 4$
 <p>F1897CC8-FE90-4E2E-8BE9-4A13D3D30B54</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:7</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

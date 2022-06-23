@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-oldpr"
 title: "TopicPaper - Number - 16 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>0764EC27-58BF-4C34-A78B-8EB71ECB65E3</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:9</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -102,7 +102,7 @@ $\dfrac {31} {120}$
 <p>AF41292A-EA87-4917-AA96-255A70031420</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:13</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -231,7 +231,7 @@ The whole numbers which leave a remainder of 7 when dividied into 46 = 13 and 39
 <p>2F004FED-C180-43D6-92EB-C8E129B37242</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:6</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -330,7 +330,7 @@ $D$
 <p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:24</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -417,7 +417,7 @@ $161$
 <p>B8D6BAFA-557D-451D-BA17-5723EF73E965</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:8</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

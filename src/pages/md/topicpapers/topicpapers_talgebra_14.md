@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-14"
 title: "TopicPaper - Algebra - 14"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>F02FB4F1-68F5-4FE5-9070-16666391FDCB</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:10</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -199,7 +199,7 @@ $152$
 <p>23036B78-59C9-4958-A9D7-2BEF6461A408</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:11</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -344,7 +344,7 @@ $12 \text{p}$
 <p>53762856-3EC8-489C-8BC4-5F21432EF753</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:15</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -437,7 +437,7 @@ $19$
 <p>D9392A40-884A-464D-8238-386B5F1D4905</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:35</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:36</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -636,7 +636,7 @@ $13, \ 13$
 <p>B5A67EBF-7804-44BA-A78D-4588DF38FCE3</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:4</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -722,7 +722,7 @@ $34$
 <p>6E54CC2F-AFAA-4163-A221-70B208AE9DB1</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:11</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -797,7 +797,7 @@ $1$
 <p>E14872CA-A458-40F9-8C07-62F2E9C9CC11</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:12</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1008,7 +1008,7 @@ Change in Blue answer as mentioned in Part A
 <p>0F690421-C9C5-4DB3-9C6A-89E4566CA3CB</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:16</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1262,7 +1262,7 @@ $24$
 <p>38BA54B1-2465-413D-86CA-0E4B69E83BBB</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:19</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1317,7 +1317,7 @@ TODOANSWER
 <p>D49BE703-5007-4E0C-834B-D94CE4943D9A</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:28</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1420,7 +1420,7 @@ TODOANSWER
 <p>741D4B23-CAFA-4F93-89CD-510329E71E8B</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:29</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1480,7 +1480,7 @@ TODOANSWER
 <p>89CDFC1D-DCE2-4229-9070-5DBF40AD75CE</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:37</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:38</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1611,7 +1611,7 @@ TODOANSWER
 <p>83FAE6C0-964A-45D6-8133-91B1D8ED4A3F</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:15</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1683,7 +1683,7 @@ TODOANSWER
 <p>CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:26</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1784,7 +1784,7 @@ $11$
 <p>0F3C8516-8502-4079-9E42-35AFA206FC61</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:31</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:32</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1856,7 +1856,7 @@ TODOANSWER
 <p>6CB0F5E6-F7EC-4E39-816A-4384AF737221</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:37</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:38</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1925,7 +1925,7 @@ TODOANSWER
 <p>3333F909-34F8-4849-86F8-FDA974248AC6</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:10</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2136,7 +2136,7 @@ Part C : Not solved, solve please
 <p>139515A2-06C2-4784-A793-112DD4CB90CD</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:33</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:34</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2335,7 +2335,7 @@ Part B : not solved
 <p>83A2D48E-F607-4D54-8C66-13090126E67F</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:4</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2419,7 +2419,7 @@ $37, 38$
 <p>40A1042E-46FD-4240-8581-0BE5D177E5C3</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:5</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2504,7 +2504,7 @@ $2080$
 <p>A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:9</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2593,7 +2593,7 @@ $52$
 <p>32EB0062-998B-4864-B2C0-301E5BCAA66A</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:10</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2780,7 +2780,7 @@ $\dfrac {1} {2}$
 <p>29F24834-5082-45DE-A93E-0937145E16AE</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:18</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2941,7 +2941,7 @@ $\pounds 3.95$
 <p>376F37EC-1A3D-4857-B11B-3A35720D6E40</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:32</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:33</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3042,7 +3042,7 @@ $24$
 <p>72C1C1EE-244B-4996-987D-70CF6D6C69F2</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:9</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3104,7 +3104,7 @@ $5,12$
 <p>CA18EE51-E05D-43B3-9A52-6279C6630C9D</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:10</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -3308,7 +3308,7 @@ Not solved : solve please. same like before parts.
 <p>242EEF52-EC83-4981-9213-C3AB0000BF4B</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:12</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3359,7 +3359,7 @@ TODOANSWER
 <p>AFB999E3-6C2D-410C-B1AC-5FC2B01FD318</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:18</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3456,7 +3456,7 @@ TODOANSWER
 <p>A3322121-290F-4CFC-9806-85525C62D61C</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:19</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3513,7 +3513,7 @@ TODOANSWER
 <p>CE545B6F-60A2-4CD2-AC8A-401E23D2D1B6</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:31</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:32</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3566,7 +3566,7 @@ TODOANSWER
 <p>45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:4</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3654,7 +3654,7 @@ $81$
 <p>6DE9A7A7-AD34-403D-8860-9E22A51BF727</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:13</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3712,7 +3712,7 @@ TODOANSWER
 <p>F922D651-408E-4359-84E9-92753CFE0F39</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:16</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3808,7 +3808,7 @@ $\pounds 2.900$
 <p>A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:17</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3896,7 +3896,7 @@ $14$
 <p>4E3F385A-D69B-41D1-A8C0-0B1AB628B01A</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:18</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3999,7 +3999,7 @@ $150 \ \text {grams}$
 <p>FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:19</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -4057,7 +4057,7 @@ $36$
 <p>DECB8B2F-C98F-461B-8772-23E3052D7DF2</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:20</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4146,7 +4146,7 @@ $\pounds 72.75$
 <p>A797888F-EA60-476D-A295-F49C7CBF4F2C</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:35</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:36</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -4273,7 +4273,7 @@ TODOANSWER
 <p>D6C77BFE-E594-4024-93C0-48A0970659C7</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -4419,7 +4419,7 @@ refer 0A0A949A-4315-41A1-A28D-C39E8F6FC5E9 part b . but keep boxed.
 <p>2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:10</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-oldpr"
 title: "TopicPaper - Algebra - 16 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>97E481D7-AB21-4BC5-A018-A6D984DF8B70</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:11</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -106,7 +106,7 @@ We know, a number is a multiple of 5 if it has 0 or 5 at its units place.
 <p>2ABA366D-6722-48B2-9A4C-D98E63A13BFD</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:14</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -289,7 +289,7 @@ Put in blue answer £5
 <p>EA27B9DD-790C-44A0-8752-26E1204AF515</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:14</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -418,7 +418,7 @@ Smallest amount he spends &= 3 x Cost of 5 packs + 1 x Cost of 2 packs
 <p>94669F97-3EC9-472D-9A7F-01E61D890604</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:17</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -523,7 +523,7 @@ LAst sentence : The missing number = 4
 <p>D3C5761E-89B9-4E65-945B-16E81E23F067</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:20</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -633,7 +633,7 @@ Change your bleu answer also.
 <p>9FBBD942-5D1D-4C22-990D-69A275C0ADF1</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:22</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -752,7 +752,7 @@ The number in the missing box = 8
 <p>2960FFC6-FBA2-447C-BF04-E3648C9CB1C2</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:4</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -864,7 +864,7 @@ blue answer = 14 years
 <p>10D44C55-4639-4E1B-933F-702EB8DE1D6F</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:6</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

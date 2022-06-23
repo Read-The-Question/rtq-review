@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-blocked"
 title: "TopicPaper - Number - 6 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>4BC74879-1E38-4EF0-946C-81DC94A3877B</p>
 </div>
 <div class='papername'>
-<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -59,7 +59,7 @@ $k + 30$
 <p>086D94CB-886E-4ACA-8DCD-B35E5C030E87</p>
 </div>
 <div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:4</p>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-oldpr"
 title: "TopicPaper - Algebra - 10 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:6</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -196,7 +196,7 @@ x x 22 = ..... then x will fall and remain on the left side.
 <p>E7751CD6-54CE-4BCD-BCD5-9E1364D791B2</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:6</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -383,7 +383,7 @@ answer is 4 . please change blue answer also
 <p>EED677CE-038C-415E-9155-1F7B7166B19B</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:6</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -555,7 +555,7 @@ n = 6
 <p>B40C9067-5309-4BDD-A6D3-04C7A850101A</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:30</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -655,7 +655,7 @@ Area of full shape = 2 x (Area of 1/2 Triangle) (fit your calculations according
 <p>83110D7D-4A15-444F-BC4E-DC7DC2E96129</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:15</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -774,7 +774,7 @@ Check slack. Change the blue answer its $19, 13$
 <p>682CC1A0-4A88-4DD0-BD42-0767DA7FEE5D</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:17</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -991,7 +991,7 @@ For $7$ boxes of eggs, I will pay $=....$
 <p>70495CDE-A694-44BF-9BDE-E42271978492</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:14</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1087,7 +1087,7 @@ no commas in figures. change in blue answer also.
 <p>C5BEA94E-1A7E-437A-B7E1-A81049B5F92C</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:19</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1192,7 +1192,7 @@ The number Verity thought of $=..$
 <p>714A3922-27FE-4977-8C4F-8B64886AF8C2</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:21</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1291,7 +1291,7 @@ height = ..... use space before cm and that in \text{cm}
 <p>7D2466F0-AE57-429A-BA31-12DECBC77D48</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:6</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1403,7 +1403,7 @@ Missing number = 0.627 - (0.6+0.02)
 <p>DFD8D8D5-83F1-4AA0-B9E2-0ED508142867</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:10</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1557,7 +1557,7 @@ Present the sequence and underline under the missing number... show also (+4)
 <p>B51C61A9-BBFD-4FCA-9F5F-BB543CC361E8</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:12</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1682,7 +1682,7 @@ No. of biscuits Alysha has =2 + a (Solve)
 <p>7B74D5EE-ABDD-4862-9E72-635714D53045</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:13</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1784,7 +1784,7 @@ Jemmas number = 4
 <p>786ECD30-5585-4FE5-91C7-28D8FFC8B3AE</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:15</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1889,7 +1889,7 @@ in blue answer : 8 oranges
 <p>9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:2</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1989,7 +1989,7 @@ After step 3 calculated wrong . you changed the x to + . So solve again. answer 
 <p>59DED6AF-072C-4471-8B10-931ECD8F050E</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:4</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2126,7 +2126,7 @@ after finding a .. then substitute it in one of the equation and get b..
 <p>D29C2F36-7EB5-46B2-8EF3-61D8FC17FEFD</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:0</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2265,7 +2265,7 @@ No need to put the repeatation of question in boxed form in answer.workings.
 <p>E095A1B1-A5D7-4A9A-9C71-AB7E49731549</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:9</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2375,7 +2375,7 @@ so make changes also in blue answer
 <p>ED0E72A9-DD21-4A7F-9701-21CDEA62D691</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:15</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2486,7 +2486,7 @@ delete your answer.
 <p>4D8E25F8-9D3B-41E4-A587-01F4188FD3F2</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:16</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2646,7 +2646,7 @@ The money Al... had =  £1. 80
 <p>B09AF32E-2996-4090-B6BE-24F80181CD57</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:0</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

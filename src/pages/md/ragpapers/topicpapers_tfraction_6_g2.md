@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-g2"
 title: "TopicPaper - Fraction - 6 - G2"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>57857312-9D34-4AE2-9A5C-5DCF6B0AF748</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:13</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -96,7 +96,7 @@ $\dfrac {3} {2}$
 <p>3E354580-E360-40DE-9965-73067BBCFACC</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:4</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -181,7 +181,7 @@ $60$
 <p>3EB032BA-F853-47A6-B7BC-89CC6505AF43</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:10</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -264,7 +264,7 @@ $\dfrac {13} {20}$
 <p>7A0547CE-4780-4C98-8F44-705D53000745</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:2</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -352,7 +352,7 @@ $4 \dfrac{1}{2}$
 <p>91042F17-061F-4256-AC8C-8BE46A41FCD2</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:12</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -435,7 +435,7 @@ $\dfrac {9} {25}$
 <p>62028F5D-6918-47EE-9E20-6E995EF362A2</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:15</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -521,7 +521,7 @@ $30 \ \text{pence}$
 <p>8785FAA8-FBEF-4E7F-99FB-5C0DF172A032</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:2</p>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -606,7 +606,7 @@ ${5} \dfrac {7} {10}$
 <p>D10A6085-4014-4283-8DD5-61D3BA1C5A67</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:10</p>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -689,7 +689,7 @@ $\dfrac {7} {25}$
 <p>511CA557-7CD0-4112-AAFA-299E1D083D08</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -772,7 +772,7 @@ $\dfrac {7} {25}$
 <p>657ABA41-9C05-4E30-95CB-2DBD07F705A8</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:12</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -857,7 +857,7 @@ $30$
 <p>69D9A9B8-8B5E-4E13-992D-5BBC123F9133</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:6</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -940,7 +940,7 @@ $\dfrac{16}{25}$
 <p>DD9DD726-1CE0-4DDC-863C-8DB9621C8BC0</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1025,7 +1025,7 @@ $\dfrac{3}{8}$
 <p>C135697D-F7AA-4A2E-9224-953D73C4FFCC</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:5</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1110,7 +1110,7 @@ $2 \dfrac{13}{20}$
 <p>5CAE2035-ACFB-4976-9866-CE0FF0A09401</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1195,7 +1195,7 @@ $20$
 <p>4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:6</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1278,7 +1278,7 @@ $\dfrac {21} {25}$
 <p>0C204FF4-56BC-4832-8FCF-F9D7CC6ACE1E</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1363,7 +1363,7 @@ $1 \dfrac {5} {8}$
 <p>9A0A3024-E276-47D9-92A1-2D8CA04AFD8E</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:6</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1446,7 +1446,7 @@ $\dfrac {17} {20}$
 <p>D1E6B317-4876-44B4-8AF6-CFECB874C981</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:6</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1535,7 +1535,7 @@ $1 \dfrac {1} {2}$
 <p>79C0FC25-F281-49EB-AE07-3B81473C1FB4</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:8</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1618,7 +1618,7 @@ $\dfrac {7} {10}$
 <p>4F01DAFD-37C9-41AD-9708-5C7D3ABDB74E</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:3</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1702,7 +1702,7 @@ $2500$
 <p>C8B5AFE0-229B-4D30-9B2B-06F02E360468</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:9</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1783,7 +1783,7 @@ $149.5$
 <p>22C2C797-A9DB-44D3-9BA8-229285BB4917</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:21</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1925,7 +1925,7 @@ $8$
 <p>0116AD01-1516-4A9D-AD3F-738ECA82148C</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:1</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2067,7 +2067,7 @@ $\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 <p>EF90B9B4-8BF8-49FC-86B2-6102DFA704A6</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:1</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2150,7 +2150,7 @@ $504$
 <p>E845F272-E34C-499A-801E-077528252F84</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:6</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2294,7 +2294,7 @@ $16$
 <p>353BB995-A155-4687-A64F-8268496F03B4</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:8</p>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2507,7 +2507,7 @@ $2\dfrac{2} {3}$
 <p>BB57B12D-D89B-4ECA-843A-B6986E277E18</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:1</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2678,7 +2678,7 @@ $\dfrac {13} {5}$
 <p>3F89A6FE-B7C1-4C80-8A74-01269A0E9DF6</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:10</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2759,7 +2759,7 @@ $\dfrac{3} {5}$
 <p>3A278338-B661-4BB9-886A-D1185D1179A5</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:11</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2842,7 +2842,7 @@ $\dfrac {1} {6}$
 <p>B7E09540-6E26-4093-AD58-4A234B10122F</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:12</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>

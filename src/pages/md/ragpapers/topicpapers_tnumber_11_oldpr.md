@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-oldpr"
 title: "TopicPaper - Number - 11 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>D1EFB235-0632-4659-A133-C69D93EDD053</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:8</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -179,7 +179,7 @@ $15, -7$
 <p>D98DBBF2-7AD9-4207-B861-10DE19DB559C</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:8</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -348,7 +348,7 @@ Refer to the corrections done in similar question in previous paper.
 <p>70786BCF-B76F-413D-8757-8FDB44C7E665</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:0</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -429,7 +429,7 @@ out of katex and in wokings km2...and in blue answer...
 <p>AE2425E2-0767-4210-BB91-89195849257C</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:1</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -509,7 +509,7 @@ text only not in katex
 <p>9918B00D-75CB-41DB-93FD-465940FFC114</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:0</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -721,7 +721,7 @@ PArt c: Delete the leftmost & from the whole array. that is why the alignment is
 <p>5AD1D649-ADC0-4830-A4DB-A96DBBC66358</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:1</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -810,7 +810,7 @@ no array.. refer coding rules
 <p>05AA06CF-C57A-4771-B89F-03FFAD47E78D</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:7</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -898,7 +898,7 @@ direct answer
 <p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:9</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -990,7 +990,7 @@ katex error
 <p>F5C3AB3C-C84A-4D5B-AB13-C1400D84FD8E</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:0</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

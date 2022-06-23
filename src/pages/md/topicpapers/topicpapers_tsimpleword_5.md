@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-5"
 title: "TopicPaper - Simpleword - 5"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>9F713E0D-70F0-4FA4-ABD0-C1978385B4BD</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:14</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -117,7 +117,7 @@ Refer to the corrections done in similar question in previous paper.
 <p>B8DCCFD7-123E-4363-91EB-FDD6690FA383</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:14</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -205,7 +205,7 @@ $68$
 <p>8BD8C6A9-6A7F-4A9C-95F8-A5F6238FE933</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:16</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -337,7 +337,7 @@ $9$
 <p>EB3F1B83-16B7-4CB0-98B2-F96141CC8059</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:24</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -517,7 +517,7 @@ $156$
 <p>44871CCE-80E9-4654-AF29-D474783C1D63</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:33</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -625,7 +625,7 @@ $96 \ \text{g}$
 <p>84E35E31-655A-4772-B0AE-B39EA42AC170</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:16</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -718,7 +718,7 @@ String (Remains) &= Sting (Total) - String (Cut) (solve accordingly)
 <p>BEE41EE6-C7C6-4063-ACAF-9A44CDF54241</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:2</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -887,7 +887,7 @@ $9072$ rounded of to nearest $100 = 9100$ Change blue answer as well.
 <p>2085300E-35CB-4683-B8A1-2619BA04C321</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:13</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1004,7 +1004,7 @@ Total Width = First (Section) + Second (Section) + Third (Section)
 <p>69A4F37D-67F6-4431-A926-35B71140C637</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:15</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1189,7 +1189,7 @@ Fraction of Amount (Left) = Money (Left) / Money (Total)
 <p>485D2C3B-79CA-4AFB-A224-7A24063389FC</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:14</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1303,7 +1303,7 @@ blue answer 0.15 grams
 <p>495FD032-B939-449E-9F1F-6F8D821D8B70</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:10</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1409,7 +1409,7 @@ Multiple of 8 that is also divisible by 3, and ends in 2 = 72
 <p>8887F042-1EF1-4B73-B76D-1171B3382465</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:17</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1523,7 +1523,7 @@ Packs of pen that needs to be bought is 26 whole packets and 1 more packet for t
 <p>E1623FA7-4357-40D5-B38B-F87B2832B3C4</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:18</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1638,7 +1638,7 @@ put the tex part step 1 in katex\text
 <p>8D859487-1917-4AF8-9CAA-CC95403EF019</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:19</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1724,7 +1724,7 @@ $45, 53$
 <p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:8</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1819,7 +1819,7 @@ change your answer accoridngly...
 <p>F6E175B5-9571-4201-8E17-818A77EA6BAE</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:8</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1917,7 +1917,7 @@ Dont add it directly check :- 463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B   edit: pleas
 <p>1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:13</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2006,7 +2006,7 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 <p>75F310E6-BEA4-40F1-997F-C89D0ADB9052</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:14</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2088,7 +2088,7 @@ $1000$
 <p>2D3F5E62-8FD7-4F33-8609-8208FED8B677</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:17</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2179,7 +2179,7 @@ As per the question
 <p>1C1407AB-FAA5-4405-B150-73807FC42C74</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:11</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2240,7 +2240,7 @@ TODOANSWER
 <p>3E0E5DE9-1583-44E0-BBF6-BB26C7321B11</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:11</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2359,7 +2359,7 @@ $34$
 <p>39CD99D1-94AE-4F11-9246-6E764CCCD9DA</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:5</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2443,7 +2443,7 @@ $23$
 <p>F0CF5A9D-A8E8-491B-9B6C-101C02179061</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:6</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2582,7 +2582,7 @@ $2523 \ \text{feet}$
 <p>898D6F7E-99FF-4F84-8A70-E702FD934F2F</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:10</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2648,7 +2648,7 @@ $\pounds 1.64$
 <p>00E0557B-AB16-45B8-9F57-B6B47CD8DFAB</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:28</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2875,7 +2875,7 @@ TODOANSWER
 <p>A01A640F-EDFD-4999-9FB4-D5CB13DE99BE</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:7</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2961,7 +2961,7 @@ $\pounds 46200$
 <p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:13</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -3069,7 +3069,7 @@ check alignment and remove extra spaces
 <p>8C3E04F3-B482-4044-8E82-BC156118F873</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:6</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3153,7 +3153,7 @@ $19$
 <p>169B3F23-EB06-4E0D-9414-80C1BA4C87CC</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:8</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3246,7 +3246,7 @@ $111 \text{ kg}$
 <p>5E994A15-210A-4E96-ADB1-37708E2A3CCD</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:9</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3301,7 +3301,7 @@ TODOANSWER
 <p>4C1FFBEC-5A20-4587-B402-F509D681C586</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:11</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -3350,7 +3350,7 @@ $36$
 <p>DF2455A7-D708-47AC-8218-FA13D8012E7B</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:13</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3438,7 +3438,7 @@ $13, 4$
 <p>4BE31404-8368-4FC0-AD60-34110662E9C4</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:4</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3522,7 +3522,7 @@ $\pounds 92320$
 <p>772EA294-FCB4-48AA-8534-6BAB6C1F0033</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:16</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3576,7 +3576,7 @@ TODOANSWER
 <p>9C383E08-4749-45BF-BEF8-E4A40FD242F4</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:0:0</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3769,7 +3769,7 @@ $204$
 <p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:0:7</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -3960,7 +3960,7 @@ Part C = is it not 15 min / 60 x 100 ?? solve accordingly if correct...
 <p>EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:10</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4046,7 +4046,7 @@ $165$
 <p>B127C71F-2BCF-48B3-B549-CAE182563C18</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:16</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4137,7 +4137,7 @@ $\dfrac {5} {8}$
 <p>C56A7779-1D7A-41C9-B595-405FF4558BAF</p>
 </div>
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:14</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -4194,7 +4194,7 @@ TODOANSWER
 <p>D9F5E368-303E-4350-B374-E1004752976E</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:13</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

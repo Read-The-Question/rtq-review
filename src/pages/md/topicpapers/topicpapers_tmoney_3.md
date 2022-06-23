@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>FB9C0752-B2BA-49B8-96AA-048619C2539C</p>
 </div>
 <div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -195,7 +195,7 @@ $\pounds 28$
 <p>4D36DDE1-18A4-4F91-A9F3-7CB993E6A6E3</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:25</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:26</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -374,7 +374,7 @@ TODOANSWER
 <p>662D8D5A-FC30-4723-82E2-9B0B4ED1FDE9</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:13</p>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -421,7 +421,7 @@ $56 p , So 10*5 and 5*5 and 1*1$
 <p>3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4:0:6</p>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -476,7 +476,7 @@ TODOANSWER
 <p>C3168C71-1453-467B-B9E0-F3062E77C342</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:0</p>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -702,18 +702,18 @@ $37 \ \text{kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2789A11E-A02B-4F5F-8CBE-35BF532941D3</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:14</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -732,7 +732,6 @@ Find four ninths of $963\text{p}$
 
 $
 \begin{aligned}
-&= \text {four ninths of} \ 963 \text{p} \\\\
 &= \dfrac {4} {9} \ \text{of} \ 963 \text{p} \\\\
 &= \dfrac {4} {9} \times 963 \\\\
 &= \dfrac {4 \times 963} {9} \\\\
@@ -793,18 +792,18 @@ DONE Step 1 = \text {four ninths of} \  963 \text{p} \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2B5D56B6-9D9F-41E6-8D6E-2058BC838997</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:14</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -822,16 +821,15 @@ Find five eighths of $408 \text{p}$
 <div class='working'>
 
 $
-\begin{aligned}
-&= \text[five eighths of} \ 408 \text{p} \\\\
-&= \dfrac {5} {8} \ \text{of} \ 408 \text{p} \\\\
-&= \dfrac {5} {8} \times 408 \text{p} \\\\
+\begin {aligned}
+&= \dfrac {5} {8} \ \text {of} \ 408 \text {p} \\\\
+&= \dfrac {5} {8} \times 408 \\\\
 &= \dfrac {5 \times 408} {8} \\\\
 &= \dfrac {5 \times 8 \times 51} {8} \\\\
-&= \dfrac {5 \times \cancel{8} \times 51} {\cancel{8}} \\\\
+&= \dfrac {5 \times \cancel {8} \times 51} {\cancel {8}} \\\\
 &= 5 \times 51 \\\\
-&= 255 \text{p}
-\end{aligned}
+&= 255 \text {p}
+\end {aligned}
 $
 
 </div>
@@ -889,7 +887,7 @@ DONE Step 1 : &= \text[five eighths of} \ 408 \text{p}
 <p>A44E4F3A-9D7D-4F20-A66B-292B5CDE97B1</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:23</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:24</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -977,7 +975,7 @@ $\pounds 2.88$
 <p>A1C5A3A8-776A-4AE7-A826-842521976016</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:13</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1191,7 +1189,7 @@ $\pounds 43.75$
 <p>B474E464-5AEF-419A-9B3D-08581A43D0DE</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:38</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:39</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1280,7 +1278,7 @@ $\pounds 2.80$
 <p>07B7F155-62F9-4100-8C73-1796ABA98DCB</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:4</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1361,18 +1359,18 @@ $\pounds 2.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F3F34EA3-2E57-420F-B3B7-CB31E96031AB</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:7</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1445,12 +1443,10 @@ What is $11\%$ of $\pounds 950$?
 
 $
 \begin{aligned}
-&= 11\% \ \text{of} \ \pounds 950 \\\\
-&= 11\% \times 950 \\\\
-&= (10\% + 1\%) \times 950 \\\\
-&= 10\% \times 950 + 1\% \times 950 \\\\
-&= 95 + \dfrac {1} {100} \times 950 \\\\
-&= 95 + \dfrac {950} {100} \\\\
+&= 11 \% \ \text{of} \ \pounds 950 \\\\
+&= \dfrac {11} {100} \times 950 \\\\
+&= \dfrac {11 \times 950} {100} \\\\
+&= \dfrac {10450} {100} \\\\
 &= \pounds 104.50
 \end{aligned}
 $
@@ -1508,7 +1504,7 @@ $\pounds 104.50$
 <p>2FE662D1-5747-42DC-BB3C-817459AFFB50</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:11</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1590,7 +1586,7 @@ $\pounds 7.30$
 <p>6A7A8296-115E-4018-A6E7-A4AA31CB5F0F</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:35</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:36</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -1634,7 +1630,7 @@ TODOANSWER
 <p>56C543D5-BB5B-4474-8B73-44CAEEF83470</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:4</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1719,7 +1715,7 @@ $\pounds 23.20$
 <p>63A0B53E-C684-46F3-9F2D-D318FB75DE93</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:7</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1866,7 +1862,7 @@ DONE Part b ..(10% + 5% ) x 760 ???
 <p>EFD43A9D-C622-4E56-8393-2CA2B39FA64E</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:11</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -1949,7 +1945,7 @@ $\pounds 6.20$
 <p>7CF52F4B-090D-493A-8346-80188BAA6634</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:29</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2049,7 +2045,7 @@ $\pounds 27$
 <p>E939A9F2-9AF4-43F6-9C5F-9F1C96A47959</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:35</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:36</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2134,7 +2130,7 @@ $\pounds 4$
 <p>29A6018D-4F9B-47BC-AEF7-2AB556029423</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:0</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2223,7 +2219,7 @@ $\pounds 4.30$
 <p>95085B3A-C82A-498B-BBB6-0C147CB6D891</p>
 </div>
 <div class='papername'>
-<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:0</p>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -2385,7 +2381,7 @@ TODOANSWER
 <p>0E978EF0-5AA5-41D7-BA1E-A165B13DC328</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:1</p>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2466,7 +2462,7 @@ $\pounds 16$
 <p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:8</p>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -2524,7 +2520,7 @@ $22$
 <p>81AADA28-3EE1-4D17-82EE-CBBF6BF4E0D7</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:0:1</p>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2607,7 +2603,7 @@ $\pounds 18$
 <p>B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:3</p>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -2691,18 +2687,18 @@ $\pounds 7.50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B14230C1-397F-4229-962F-877D59B5C1B2</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:0</p>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2741,34 +2737,26 @@ How much did she pay in total for her stationery?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
-$4$ Rulers for $46$p each
-
-$5$ Pens for $37$p each
-
-$3$ Pencils for $3$p each 
-
-Let's calculate how much did she pay in total.
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text{Total (Paid)}              &= \ \text{Cost (No. of Ruler} \times \text{Cost)} + \text{(No. of Pens} \times \text{Cost)} + \text{(No. of Pencils} \times \text{Cost)} \\\\
-                                 &= 4 \times 46 \text{p} + 5 \times 37 \text{p} + 3 \times 13 \text{p} \\\\
-                                 &= 184 \text{p} + 185 \text{p} + 39 \text{p} \\\\
-                                 &= 408 \text{p} \\\\
-                                 &= \pounds 4.08
+\text {Total cost}  &= 4 \times 46 \text {p} + 5 \times 37 \text {p} + 3 \times 3 \text {p} \\\\
+                    &= 4 \times \pounds 0.46 + 5 \times \pounds 0.37 + 3 \times \pounds 0.03 \\\\
+                    &= 1.84 + 1.85 + 0.09 \\\\
+                    &= \pounds 3.78
 \end{aligned}
 $
-
-Danielle paid $409$p or $\pounds 4.08$ for her total purchases.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$408 \text{p}$ or $\pounds 4.08$
+\pounds 3.78
 
 </div>
 </div>
@@ -2785,28 +2773,19 @@ If she paid with a $\pounds 10$ note, how much change did she get?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-Change = Total Paid - Total purchases.
-
 $
-\begin{array}{cccccccccccccc}
-        & 1  & 0  \ . & 0  & 0 \\
-   {}-  &    & 4  \ . & 0  & 8 \\
-\hline
-        &    & 5  \ . & 9  & 2 \\
-\hline
-\end{array}
+\begin {aligned}
+\text {Change received}     &= \pounds 10 - \pounds 3.78 \\\\
+                            &= \pounds 6.22
+\end {aligned}
 $
-
-Danielle got $\pounds 5.92$ back.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 5.92$
+$\pounds 6.22$
 
 </div>
 </div>
@@ -2849,18 +2828,18 @@ $\pounds 5.92$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>26BE9BBB-6A7B-493E-92F7-34048794B52B</p>
 </div>
 <div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2877,27 +2856,16 @@ If you buy $8$ second class stamps costing $44 \text{p}$ each, how much change w
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
-
-Let's convert the total amount into pence.
-
-$
-\begin{aligned}
-\text{Total amount} &= \pounds 5 \\\\ 
-                    &= 5 \times 100 \text{p} \\\\
-                    &= 500 \text{p}
-\end{aligned}
-$ 
-​
-As per the question,
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text {Change received }    &= \text {Total amount - Total spend} \\\\
-                            &= 500\text{p} - 8 \times 44 \text p \\\\
-                            &= 500 - 352 \\\\
-                            &= 148\text{p} \\\\
+\text {Change received}     &= \pounds 5 - 8 \times 44 \text {p} \\\\
+                            &= \pounds 5 - 8 \times \pounds 0.44 \\\\
+                            &= 5 - 3.52 \\\\
                             &= \pounds 1.48
 \end{aligned}
 $
@@ -2907,7 +2875,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$148 \ \text{p} \ \text{or} \ \pounds 1.48$
+$\pounds 1.48$
 
 </div>
 </div>
@@ -2947,18 +2915,18 @@ $148 \ \text{p} \ \text{or} \ \pounds 1.48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>88771F84-2908-43E4-9380-A12099F3BB56</p>
 </div>
 <div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:7</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2983,18 +2951,20 @@ If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your ans
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text{Change he will get}                       &= \text{Total money} - 3 \times \text{Cost of a banana} - 5 \times \text{Cost of an apple} \\\\
-                                                &= \pounds 2 - 3 \times 12 \text{p} - 5 \times 11 \text{p} \\\\
-                                                &= \pounds 2 - 36 \text{p} - 55 \text{p} \\\\
-                                                &= \pounds 2 - 91 \text{p} \\\\
-                                                &= \pounds 2 - \pounds 0.91 \\\\
-                                                &= \pounds 1.09 \\\\
-                                                &= 109 \ \text{pence}
+\text {Money spent}         &= 3 \times 12 \text {p} + 5 \times 11 \text {p} \\\\
+                            &= 3 \times \pounds 0.12 + 5 \times \pounds 0.11 \\\\
+                            &= 0.36 + 0.55 \\\\
+                            &= \pounds 0.91 \\\\
+\text {Change received}     &= 2 - 0.91 \\\\
+                            &= 1.09 \\\\
+                            &= \pounds 1 \ \text {and} \ 9 \text {p}
 \end{aligned}
 $
 
@@ -3003,7 +2973,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
+$\pounds 1 \ \text {and} \ 9 \text {p}$
 
 </div>
 </div>
@@ -3048,7 +3018,7 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 <p>F7CB4C96-99C6-4696-913C-ACB1B87877A1</p>
 </div>
 <div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:15</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -3143,7 +3113,7 @@ $\pounds 3.28$
 <p>4D17A6EE-BFCA-43FF-BD1A-329ADAFFC202</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:24</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -3293,7 +3263,7 @@ $15$
 <p>AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:2</p>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -3394,18 +3364,18 @@ $\pounds 288$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>655C3EF2-4B38-45E9-8354-01DF35EC3875</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:3</p>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3424,15 +3394,15 @@ The museum took a total of $\pounds 600$ in entrance fees one Friday. How many p
 
 As per the question,
 
-Total fee collected $= \pounds 600$
-
-Enterance fee per person $= \pounds 1.20$
-
 $
 \begin{aligned}
-\text {Number of people visited on Friday} &= \dfrac {\text {Total Fee collected}} {\text {Enterance fee}} \\\\
-                                           &= \dfrac {600} {1.20} \\\\
-                                           &= \pounds 500
+\text {Total number of people}      &= \dfrac {600} {1.20} \\\\
+                                    &= \dfrac {600 \times 100} {1.20 \times 100} \\\\
+                                    &= \dfrac {600 \times 100} {120} \\\\
+                                    &= \dfrac {5 \times 12 \times 10 \times 100} {12 \times 10} \\\\
+                                    &= \dfrac {5 \times \cancel {12} \times \cancel {10} \times 100} {\cancel {12} \times \cancel {10}} \\\\
+                                    &= 5 \times 100 \\\\
+                                    &= \pounds 500
 \end{aligned}
 $
 
@@ -3486,7 +3456,7 @@ $\pounds 500$
 <p>13EB25A7-7018-4055-A4AC-53AE6FFF28FA</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:3</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -3579,18 +3549,18 @@ $\pounds 155.1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>74C05D8E-262C-47B1-ABB4-5F06E493406E</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:12</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3629,11 +3599,12 @@ How much would it cost for $6$ adults to go to the zoo?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Total cost} &= \text{Cost (Ticket) \times No. of adults} \\\\
-                  &= \pounds {9.30} \times 6 \\\\
-                  &= \pounds 55.80
+\text {Total cost}  &= 6 \times \pounds 9.30 \\\\
+                    &= \pounds 55.80
 \end{aligned}
 $
 
@@ -3644,7 +3615,6 @@ $
 <div class='answer'>
 
 $\pounds 55.80$
-
 
 </div>
 </div>
@@ -3661,12 +3631,13 @@ How much would it cost for $3$ adults and $4$ children?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Total cost}  &=  \text{Cost (Adult) \times No. of Adults + Cost (Children) \times No. of children} \\\\
-                   &=  \pounds {9.30} \times 3 + \pounds {6.40} \times 4 \\\\
-                   &=  \pounds 27.9 + 25.6 \\\\
-                   &=  \pounds 53.5
+\text{Total cost}   &= 3 \times \pounds 9.30 + 4 \times \pounds 6.40 \\\\
+                    &= 27.90 + 25.60 \\\\
+                    &= \pounds 53.50
 \end{aligned}
 $
 
@@ -3676,7 +3647,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 53.5$
+$\pounds 53.50$
 
 </div>
 </div>
@@ -3719,37 +3690,6 @@ $3 \ \text {people}$
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='74C05D8E-262C-47B1-ABB4-5F06E493406E' id='FORM-74C05D8E-262C-47B1-ABB4-5F06E493406E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-74C05D8E-262C-47B1-ABB4-5F06E493406E'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -3758,7 +3698,7 @@ $3 \ \text {people}$
 <p>A1426515-EEB1-42FF-91BB-F3BFD31D7485</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:12</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -3912,18 +3852,18 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D16BC637-6F15-423F-A1AA-CE2DD196F103</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:20</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3940,13 +3880,12 @@ A calculator costs $\pounds 1.75$. In 1979 the same calculator cost 24 times as 
 <div class='workings'>
 <div class='working'>
 
-According to the question,
+As per the question,
 
 $
 \begin{aligned}
-\text{Cost (1979)} &= \text{Cost (Now) x 24} \\\\ 
-                   &= \pounds 1.75 \times 24 \\\\
-                   &= \pounds 42
+\text{Cost in 1979} &= 24 \times \pounds 1.75 \\\\
+                    &= \pounds 42
 \end{aligned}
 $
 
@@ -4000,18 +3939,18 @@ Cost in 1979...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>ADBF2411-1D01-472E-9BC0-7C51FF7A56D5</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:3</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4052,9 +3991,8 @@ What is the total cost?
 
 $
 \begin{aligned}
-\text{Total cost} &= \text{Total nnumber of items \times Cost of per item} \\\\\ 
-                  &= 5 \ \times \pounds 12.98 \\\\
-                  &= \pounds 64.9
+\text {Total cost}      &= 5 \times \pounds 12.98 \\\\
+                        &= \pounds 64.90
 \end{aligned}
 $
 
@@ -4063,7 +4001,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 64.9$
+$\pounds 64.90$
 
 </div>
 </div>
@@ -4080,14 +4018,14 @@ If you worked out the answer to part $(a)$ on a calculator, what would the displ
 <div class='workings'>
 <div class='working'>
 
-$\pounds 64.9$
+$64.9$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 64.9$
+$64.9$
 
 </div>
 </div>
@@ -4130,18 +4068,18 @@ $\pounds 64.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:12</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4304,7 +4242,7 @@ $\pounds 2$
 <p>76677BD9-5139-49DC-AD55-3BC75E0182F3</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:21</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -4348,18 +4286,18 @@ $\pounds {5.80}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5171E4DB-A0AE-48C2-A77F-6BE170E11A11</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:7</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4379,11 +4317,12 @@ $\pounds 1.28 - 57 \text{p}$
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
+Let's convert all the expenses into pounds.
+
 $
 \begin{array}{cccccccccccccc}
-&= \pounds1.28 - 57  \text{p} \\\\
-&= 128 \text{p}  - 57  \text{p} \\\\
-&= 71 \text{p} \\\\
+&= \pounds 1.28 - 57 \text {p} \\\\
+&= \pounds 1.28 - \pounds 0.57 \\\\
 &= \pounds 0.71
 \end{array}
 $

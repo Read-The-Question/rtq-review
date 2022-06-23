@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-g0"
 title: "TopicPaper - Angle - 3 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:5</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -125,7 +125,7 @@ Uday: look again after changes.
 <p>DB9E2E26-0316-4C3F-9AF2-5DD67552215E</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:0:1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -350,7 +350,7 @@ $40 \degree$
 <p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:8</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -460,7 +460,7 @@ $105 \degree$
 <p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:11</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -566,7 +566,7 @@ $108 \degree$
 <p>D5B7995B-1A69-47C2-AD74-3593471D778A</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:2</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -669,7 +669,7 @@ $x = 117 \degree, \ \ y = 29 \degree$
 <p>93995941-DF79-4306-A16E-1B3F36315184</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:15</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -784,7 +784,7 @@ $30 \degree$
 <p>D90DBE3D-71F6-47D8-B03D-147F904077DE</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:21</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>

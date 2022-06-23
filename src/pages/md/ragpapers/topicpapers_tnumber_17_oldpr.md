@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-oldpr"
 title: "TopicPaper - Number - 17 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>3DEA1C5D-5098-4644-85E8-342D00E123E8</p>
 </div>
 <div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:0</p>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -218,7 +218,7 @@ Part e give space in subquestion after \"of\"
 <p>D61C4BCD-16FD-4C38-A89B-A1E29838248E</p>
 </div>
 <div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -383,7 +383,7 @@ $7420$
 <p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
 </div>
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:2</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -721,7 +721,7 @@ Part H: direct answer
 <p>3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4</p>
 </div>
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -806,7 +806,7 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 <p>14E5F246-D749-41FC-B5F4-8237AC1F466F</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:19</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -962,7 +962,7 @@ $146700$
 <p>84DF97A5-920D-4BF6-91EC-3314D5655765</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:27</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1306,7 +1306,7 @@ $12$
 <p>9918BF12-FEBA-4F5C-898C-ACF17E04EDD0</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:6</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

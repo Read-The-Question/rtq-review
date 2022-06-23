@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-blocked"
 title: "TopicPaper - Detailedmultiplication - 3 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>BCD8F98E-1992-48C8-9BF7-D16279322487</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:18</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -67,7 +67,7 @@ $\boxed{1} \ \boxed{3} \times \boxed{6} =\boxed{7} \ \boxed{8}$
 <p>179E36BA-F4C4-40DB-B15A-730F51236EB0</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:28</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>

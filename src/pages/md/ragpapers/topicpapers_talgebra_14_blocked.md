@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-blocked"
 title: "TopicPaper - Algebra - 14 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>6E54CC2F-AFAA-4163-A221-70B208AE9DB1</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:11</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -85,7 +85,7 @@ $1$
 <p>FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:19</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

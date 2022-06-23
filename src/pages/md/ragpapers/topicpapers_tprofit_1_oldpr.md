@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-oldpr"
 title: "TopicPaper - Profit - 1 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>450FEC63-5580-47DE-83CB-40719744776C</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:25</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -145,7 +145,7 @@ $\text{Shop C} = \pounds 820$
 <p>A6B8B57F-EC4F-46B7-B764-FB72554BB7C3</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:5</p>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -244,7 +244,7 @@ No need to explain this much. Price of seesaw in 2011 = price of seesaw in 2010 
 <p>B8231480-932C-4FB3-9B63-7AD293068E36</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:21</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

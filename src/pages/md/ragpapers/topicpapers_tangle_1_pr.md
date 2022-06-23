@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-pr"
 title: "TopicPaper - Angle - 1 - PR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>D89D0F88-FC46-4178-A22E-462028F52077</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:7</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:8</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -136,7 +136,7 @@ $z = 46 \degree$
 <p>FEFD6CFA-CB81-4C1B-8D8E-B3859170445C</p>
 </div>
 <div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -245,7 +245,7 @@ $75 \degree$
 <p>7D88A99B-2884-41F7-AFBF-593C0094BC10</p>
 </div>
 <div class='papername'>
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:8</p>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -338,7 +338,7 @@ $35 \degree$
 <p>45D6CC57-CF40-4978-B0E0-366243A0E33D</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:20</p>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -466,7 +466,7 @@ $75 \degree$
 <p>DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:13</p>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -646,7 +646,7 @@ Obtuse angle
 <p>64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:5</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -731,7 +731,7 @@ $120 \degree$
 <p>2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:5</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -816,7 +816,7 @@ $120 \degree$
 <p>B5BFCDCA-D197-4C79-8537-F5E6D1C97217</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:8</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -901,7 +901,7 @@ $360 \degree$
 <p>277680C6-9DE8-4939-9C31-D456D52387D8</p>
 </div>
 <div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:15</p>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

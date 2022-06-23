@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>83171B40-5CB7-43E9-84C7-6F8C993632BD</p>
 </div>
 <div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:20</p>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -235,7 +235,7 @@ Part a: 2 answers, use 2 answer tomls
 <p>80790EEF-2304-4498-BB95-EF177366DBC9</p>
 </div>
 <div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:5</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:6</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -354,7 +354,7 @@ use key = Perimeter and Area in answer toml
 <p>87087F13-14DD-46B1-A8A3-E1A8693515AD</p>
 </div>
 <div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:0</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:3:1</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -498,7 +498,7 @@ Area = 4 * 7
 <p>5A5A99FB-F341-46EE-95C4-A97BE92AF7E3</p>
 </div>
 <div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:5</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:6</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -613,7 +613,7 @@ abbrev is broken!!
 <p>B135AC08-8D4C-4E0C-8A85-A93842A7B0C6</p>
 </div>
 <div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:0</p>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:3:1</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -731,7 +731,7 @@ Same as previous question, refer comments in 87087F13-14DD-46B1-A8A3-E1A8693515A
 <p>E0F74877-22A8-4F68-A09E-6C2FBED20974</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:10</p>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -860,7 +860,7 @@ TODOANSWER
 <p>7F3FEB8B-AA67-48D1-8E2A-568843B4D06A</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:10</p>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -986,7 +986,7 @@ TODOANSWER
 <p>37241372-32CF-4C98-A54E-BBD279C33AA8</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:11</p>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -1076,7 +1076,7 @@ $400 \text{ cm}^2$
 <p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:14</p>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1233,7 +1233,7 @@ a. Use abbr and then solve, move formula out of aligned.
 <p>19EE7E0C-B8FF-4814-AAEB-A716512C556A</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:19</p>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -1297,7 +1297,7 @@ TODOANSWER
 <p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:2</p>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1453,7 +1453,7 @@ Lets find the area of the rectangle.
 <p>D36EB8D1-F797-4291-92E6-21171425524C</p>
 </div>
 <div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:14</p>
+<p>colfes-school--11-plus--maths--9999--sample-paper:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1564,7 +1564,7 @@ Add comment to add a diagram with missing side calculated.
 <p>A378EBC6-7DBB-440C-8EF8-40C2D3B7F5D7</p>
 </div>
 <div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:28</p>
+<p>colfes-school--11-plus--maths--9999--sample-paper:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1754,7 +1754,7 @@ Line 3 = 3 x w
 <p>79724FE5-0A3C-4E20-865A-B61A7EA91907</p>
 </div>
 <div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:29</p>
+<p>colfes-school--11-plus--maths--9999--sample-paper:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1899,7 +1899,7 @@ solve till end
 <p>854AB127-D8BC-47B5-B2F2-57A4B41711C0</p>
 </div>
 <div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1:0:8</p>
+<p>csse--11-plus--maths--2015--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -2028,7 +2028,7 @@ TODOANSWER
 <p>87A85138-F437-4970-BA90-ACB105CE6A2A</p>
 </div>
 <div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2:0:6</p>
+<p>csse--11-plus--maths--2015--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -2227,7 +2227,7 @@ TODOANSWER
 <p>366615BC-8C29-4BAC-A992-39C9C243AA0F</p>
 </div>
 <div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3:0:6</p>
+<p>csse--11-plus--maths--2016--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -2418,7 +2418,7 @@ $3.6 \ \text {m} ^ 2$
 <p>1F772585-A2E3-4F46-8D78-FAF28F2C0EFC</p>
 </div>
 <div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4:0:13</p>
+<p>csse--11-plus--maths--2017--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -2589,7 +2589,7 @@ TODOANSWER
 <p>E156FCF4-8724-4DC6-AABF-2DABDD73B31C</p>
 </div>
 <div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4:0:18</p>
+<p>csse--11-plus--maths--2017--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -2646,7 +2646,7 @@ TODOANSWER
 <p>B40F0224-3A38-441B-8EC1-C720B33CE28F</p>
 </div>
 <div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -2743,7 +2743,7 @@ Write abbr for perimeter for triangle
 <p>786619B1-FD62-4472-B91E-8153392F2D10</p>
 </div>
 <div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -2832,7 +2832,7 @@ $6 \ \text {cm} ^2$
 <p>B38F91FE-988F-49E4-A160-D55F591DA695</p>
 </div>
 <div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:33</p>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -2924,7 +2924,7 @@ Write abbr for perimeter for a regular polygon, n * side
 <p>370F3542-08EC-4F50-B120-2FFAC114E74B</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:12</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -2984,7 +2984,7 @@ TODOANSWER
 <p>DF364C7B-916F-4E4A-9EDB-17FAAC55C154</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:12</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -3044,7 +3044,7 @@ TODOANSWER
 <p>D648BFB2-9E92-4C01-96BE-8EBD7EBD85A3</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:13</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -3104,7 +3104,7 @@ TODOANSWER
 <p>6F116C3D-FA3B-4099-92C3-8F7387914956</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:12</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -3164,7 +3164,7 @@ TODOANSWER
 <p>5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:35</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:36</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -3224,7 +3224,7 @@ TODOANSWER
 <p>78B273A1-70B3-40B5-A9B9-E8FA95A37234</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:37</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:38</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -3326,7 +3326,7 @@ Use expanded abbrev for rectangle.
 <p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:42</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:43</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -3424,7 +3424,7 @@ Write abbr for a polygon
 <p>66E9B7CE-E06F-43D2-94F9-6F0D8DA3D28F</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:0:16</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -3643,7 +3643,7 @@ $1.2 \text {m}$
 <p>5743D96D-D40B-4E87-8774-99FCA17BCEB5</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b:0:14</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -3884,7 +3884,7 @@ TODOANSWER
 <p>A202F7A2-B7E9-47A2-8529-FED0F2ED6E6B</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:14</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -4106,7 +4106,7 @@ $1.6 \ \text {m}$
 <p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:16</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -4222,7 +4222,7 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 <p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:20</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -4375,7 +4375,7 @@ $32 \ \text {cm}$
 <p>C2C54A9F-8C6F-473D-A704-5517BD28A1B4</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:11</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -4538,7 +4538,7 @@ TODOANSWER
 <p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:14</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -4654,7 +4654,7 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 <p>23668103-E528-4E12-9483-BAD939874F05</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:19</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -4822,7 +4822,7 @@ TODOANSWER
 <p>BDFE7C42-E5DA-4E12-8BA2-EE31FFE0FA8B</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:13</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -4916,7 +4916,7 @@ $58 \ \text {cm}$
 <p>22918995-BD89-462E-840F-56972A76677B</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:3</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -5077,7 +5077,7 @@ $2 (h + w)$
 <p>97A3E093-B7B6-443D-9FE2-CC20B3E4BA24</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:17</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>

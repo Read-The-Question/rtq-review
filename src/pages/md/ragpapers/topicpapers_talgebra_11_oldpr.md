@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-oldpr"
 title: "TopicPaper - Algebra - 11 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>CC0F7948-FB93-4B7D-B62E-499490AD2FB6</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:2</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -197,7 +197,7 @@ change \"x\" into a
 <p>33003293-7D63-4EEE-98E2-B0957B77805A</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:31</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -296,7 +296,7 @@ CALL ARAVIND
 <p>1B3F4C98-47C5-4822-9812-B9AD2C131A7A</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:11</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -398,7 +398,7 @@ CHECK WORKING (126÷n=9......126/n = 9.....126 = 9xn.... then the 9n = 126 step)
 <p>85473E1B-41B4-4C2F-8183-407C3B81B2F5</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:24</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -499,7 +499,7 @@ Write As per the question
 <p>B4811CE8-001C-4E89-B5D6-B3377D1B9012</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:8</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -611,7 +611,7 @@ Follow coding guilines.. no need to put L and S in text..  too many correction, 
 <p>ED008E3F-8F7E-4C9F-9A58-76EFAE55003D</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:6</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -715,7 +715,7 @@ step 1: bring out of katex and make it line 1 as: Let the missing number be $=a$
 <p>8F65EFC2-3A6B-4CAA-94E2-F2E6C6BB69F5</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:16</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -819,7 +819,7 @@ Wrong format -                                                                  
 <p>8F7E2B54-63AD-42F0-AD22-0B1036DA619C</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:28</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -919,7 +919,7 @@ Line 2: Delete                                                                  
 <p>34E90EE8-F186-4B70-B1BF-498352434A48</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:8</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1035,7 +1035,7 @@ provide second answer with                                                      
 <p>B5F307B0-90F4-4C09-A5E1-8ABB595A2010</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:9</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1130,7 +1130,7 @@ Add line 2: If the bigger cube is painted red all over                          
 <p>96B75922-DE58-4EFF-BB3F-2AE920BF563A</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:10</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1225,7 +1225,7 @@ Add line 2: only center small cube on the face of bigger cube shares a a face wi
 <p>041A050A-D326-4793-8BA0-8D47A9552390</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:11</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1316,7 +1316,7 @@ i feel answer is 0, explain me this answer how did u do
 <p>85EB3724-4385-40C7-99FC-BD96F06DD4F3</p>
 </div>
 <div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:8</p>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1435,7 +1435,7 @@ refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
 <p>A44515A9-1C0B-4A2E-99CA-D73054BD487E</p>
 </div>
 <div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

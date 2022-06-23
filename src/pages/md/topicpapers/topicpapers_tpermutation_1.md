@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpermutation-1"
 title: "TopicPaper - Permutation - 1"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>46E107A3-0905-4217-99F1-812F3AB41832</p>
 </div>
 <div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:11</p>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -147,7 +147,7 @@ TODOANSWER
 <p>31275674-A54A-40CB-954F-6A4D5E749290</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:10</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -208,7 +208,7 @@ TODOANSWER
 <p>900C37A8-8886-4CA0-88A9-F104C7287DA3</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:33</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:34</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -258,7 +258,7 @@ TODOANSWER
 <p>826766D1-0786-4F68-AD0B-6CA2C8F22C40</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:18</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -333,7 +333,7 @@ $6$
 <p>D1877BC6-DBDD-470A-9061-101346F1F6A4</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:14</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -398,7 +398,7 @@ $5$
 <p>FAD3A72B-8B37-4011-BDA2-D70E94CDEB4B</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:19</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

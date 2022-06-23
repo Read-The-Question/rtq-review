@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-oldpr"
 title: "TopicPaper - Algebra - 9 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>312B54F7-8745-4C65-B52D-35F6198E8ACD</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:2</p>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -125,7 +125,7 @@ Let the cost of first item. Delete line 3,4 . For spacing use \ .
 <p>5AF5AFC7-6421-43C4-B38A-CD7C667BAE96</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:6</p>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -224,7 +224,7 @@ No need to explain this much. Length (x) = length (Lower figure) + 1/3 \times le
 <p>EF38AE5F-0E2D-457D-BC03-05E80C5371F1</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:0</p>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -421,7 +421,7 @@ the write.. 2 full buses and for rest $9$ one more bus
 <p>3BADA08D-7FEF-4ADD-98DC-7E1F438D14C6</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:3</p>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -537,7 +537,7 @@ in blue answer only $15$ delete rest
 <p>6DD07370-84B5-4E20-889C-79CF42BC0EA0</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:11</p>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -671,7 +671,7 @@ a = CANCEL
 <p>8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678</p>
 </div>
 <div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:14</p>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -871,7 +871,7 @@ a. As per the question, (next line ) Money received by Peter = 2 x Helen = 2 x p
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
 </div>
 <div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:17</p>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

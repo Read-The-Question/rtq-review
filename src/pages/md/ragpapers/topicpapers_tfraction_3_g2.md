@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-g2"
 title: "TopicPaper - Fraction - 3 - G2"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>452B5F78-B44B-4698-881F-BB372733F867</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:10</p>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -94,7 +94,7 @@ twenty-one over thirty-two
 <p>31BD2044-3056-47C9-8E05-88DECA154BCC</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:5</p>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -295,7 +295,7 @@ $\dfrac {35} {33}$
 <p>2AFEEC0B-0A5C-4959-86EB-B1237A25AF55</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:21</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -380,7 +380,7 @@ $\dfrac {3} {8}$
 <p>BA988DEA-8C7A-4CEF-ADFB-EE44323C036B</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:26</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -468,7 +468,7 @@ $\dfrac {1} {3}$
 <p>4D13B102-C31F-46B4-9F05-1CA5A1F3F0AC</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:21</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -553,7 +553,7 @@ $\dfrac {3} {8}$
 <p>754433C6-C251-49A8-A0E6-BACFDC3868C8</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:26</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -638,7 +638,7 @@ $\dfrac {2} {27}$
 <p>BA8C9025-5D51-45CB-AB50-26D0AF93F391</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:15</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -730,7 +730,7 @@ $23$
 <p>BB9CE25B-4958-4DBB-8FFE-DD6C84F92B80</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:21</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -818,7 +818,7 @@ $\dfrac {3} {4}$
 <p>1EA2A88B-C76E-4665-BDDD-C600AB4E762B</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:22</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -903,7 +903,7 @@ $\dfrac {1} {15}$
 <p>4DAC2267-23FB-4819-9BFF-D6661D1E820C</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:37</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:38</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -983,7 +983,7 @@ $499.5$
 <p>1B5D8F8D-C8DE-4749-80CE-805DE7791F8B</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:14</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1126,7 +1126,7 @@ $160$
 <p>C5B7F2AD-605F-4ECB-8F47-F359264257D8</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:21</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1211,7 +1211,7 @@ $\dfrac {8} {9}$
 <p>6FCF87BC-7FC0-4143-8311-AE5B7D93E916</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:22</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1296,7 +1296,7 @@ $\dfrac {1} {40}$
 <p>33B18564-2700-4A22-A3AA-9917139FFDB7</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:27</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:28</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1459,7 +1459,7 @@ $\dfrac {303} {1000}$
 <p>8BEEE719-9728-4C11-A5A8-ABB5EBA8B984</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:8</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1631,7 +1631,7 @@ $\dfrac {22} {25}$
 <p>67DF39CD-1E0F-4819-A398-56826AE81698</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:13</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1773,7 +1773,7 @@ $\dfrac {3} {2}$
 <p>20FFB3B3-D90A-4723-80DE-4B7A60EEC7ED</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:14</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1858,7 +1858,7 @@ $3 \dfrac {1} {8}$
 <p>51BE3331-B883-4A95-BF82-EF9386AA637F</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:15</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1946,7 +1946,7 @@ $8 \dfrac {1} {2}$
 <p>8EEE6266-967C-4E51-97A3-7AE95A7170BA</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:8</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2118,7 +2118,7 @@ $\dfrac {101} {250}$
 <p>19EB1F00-24D6-4752-9327-34D60363D8FE</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:13</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2262,7 +2262,7 @@ $\dfrac {9} {2}$
 <p>3B35DA76-9FFD-4D45-A368-26A6E1FF5D17</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:14</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2347,7 +2347,7 @@ $3 \dfrac {5} {12}$
 <p>1DE3A110-3CD1-4E43-998D-02E77C821897</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:15</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2432,7 +2432,7 @@ $7 \dfrac {11} {42}$
 <p>05D5464A-89CC-4410-80A9-8CB5FBA029A3</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:2</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2512,7 +2512,7 @@ $\dfrac {7} {1000}$
 <p>1AC37420-ED76-46DB-8EA0-B4C20BC0B176</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:6</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2652,7 +2652,7 @@ $\dfrac {6} {7}$
 <p>90552CD9-4926-45A0-94A8-264B18306EE8</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:7</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2737,7 +2737,7 @@ $1 \dfrac {3} {4}$
 <p>A62FD050-8CF5-4180-9976-6E1B8C2FC613</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:9</p>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2879,7 +2879,7 @@ $15$
 <p>237A2594-E539-4227-8976-A91F96C1B86B</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:2</p>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>

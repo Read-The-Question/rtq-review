@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-g0"
 title: "TopicPaper - Algebra - 11 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>998DABA8-00BE-4F0A-8D36-19CCA9E7D239</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:25</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -111,7 +111,7 @@ $53$
 <p>7C7B09CA-32E5-42A1-9057-06F6895DD676</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:29</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -329,7 +329,7 @@ $\pounds 1.70$
 <p>072C52DE-5BD3-4299-845A-4CA76E632B3F</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:12</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -421,7 +421,7 @@ $6c - 3d$
 <p>C2CBB803-CAE6-49B9-ADCD-2636CA8618C1</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:24</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -513,7 +513,7 @@ $3d + 9e$
 <p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
 </div>
 <div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:33</p>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

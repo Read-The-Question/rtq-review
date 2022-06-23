@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-2-blocked"
 title: "TopicPaper - Detailedaddition - 2 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>331C381B-219C-4816-954F-66F69E16FE64</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:5</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>

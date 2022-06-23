@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-oldpr"
 title: "TopicPaper - Angle - 2 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>8A00786C-8FA5-49F0-B059-E903FB36850E</p>
 </div>
 <div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1:0:10</p>
+<p>kent-college--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -215,7 +215,7 @@ Line 3 : We know, the sum of a right angle is 90°.
 <p>8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D</p>
 </div>
 <div class='papername'>
-<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:12</p>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -492,7 +492,7 @@ Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. 
 <p>2A28B44D-4B73-46C1-955A-1029E0F22147</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:6</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -593,7 +593,7 @@ Write the line sum of angle = 180 .. search the line from website....wording req
 <p>802A33FA-D4AC-4248-BE3E-09CA75FF7E82</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:13</p>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -826,7 +826,7 @@ In blue answer
 <p>3E301085-F062-490D-99FF-D572D1FB6E58</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:9</p>
+<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -959,7 +959,7 @@ y =44°
 <p>B6391AE6-AFDE-4F0B-865B-5BD6985A8B78</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:1</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1071,7 +1071,7 @@ CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL
 <p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
 </div>
 <div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:26</p>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>

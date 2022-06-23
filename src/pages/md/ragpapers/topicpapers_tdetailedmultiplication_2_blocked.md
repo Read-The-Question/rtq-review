@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-blocked"
 title: "TopicPaper - Detailedmultiplication - 2 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>6C6C99EF-061D-4392-A08C-F3ADAD13E4B0</p>
 </div>
 <div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:13</p>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -65,7 +65,7 @@ $7$
 <p>968EE108-F6FB-4476-B6DF-7B810890B1BC</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:10</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -217,7 +217,7 @@ $72$
 <p>29826990-7CF3-48F9-A4E1-518D0B0296D5</p>
 </div>
 <div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-pr-prns"
 title: "TopicPaper - Detailedmultiplication - 2 - PR - PRNS"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>AE9309E3-39F8-4402-875E-80C8ABE317C4</p>
 </div>
 <div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:2</p>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -108,7 +108,7 @@ $7200$
 <p>89CBFDE4-945C-49CB-88BA-378290DC6C26</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:3</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -201,7 +201,7 @@ $10150$
 <p>745F518F-A5FF-426F-A2D5-6404A2A3F23D</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:4</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>

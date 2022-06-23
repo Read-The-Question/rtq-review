@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-g0"
 title: "TopicPaper - Ratio - 3 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>AAF50B0C-7B6A-4176-B987-3E6426D91A8E</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:0:2</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -238,7 +238,7 @@ $\pounds 51.9$
 <p>73AB1540-BF83-4DB5-AA04-6CBFFEAA9D36</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:2</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -381,7 +381,7 @@ $\pounds 19.06$
 <p>19998D9F-5DF8-4849-8E56-5E323FFC1669</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -465,7 +465,7 @@ $8$
 <p>80AF6598-5742-4BDF-B71B-8920EC92BDFB</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:11</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -550,7 +550,7 @@ $\pounds 208$
 <p>46840062-D806-40C4-87D1-6366C54D2C35</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:13</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -651,7 +651,7 @@ $18$
 <p>36A2225F-49FB-4E71-9561-C6253B697DCB</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:33</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:34</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -735,7 +735,7 @@ $103$
 <p>17131C86-8915-4E9B-A3C5-B02B1A2A9B0F</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:9</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -884,7 +884,7 @@ $\pounds 13.14$
 <p>2A0FA070-25B8-4F23-B272-463207966E46</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:20</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -973,7 +973,7 @@ $\pounds 52.2$
 <p>5453CF7D-DE10-4877-8C83-1EC92DD3939E</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:12</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1063,7 +1063,7 @@ $600 \ \text{m}$
 <p>24DFFEAC-422C-47BF-8BEF-FF9CAA88348B</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:10</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1156,7 +1156,7 @@ $27 \ \text{zebras}$
 <p>FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA</p>
 </div>
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:24</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-pr-prns"
 title: "TopicPaper - Fraction - 4 - PR - PRNS"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:31</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -181,7 +181,7 @@ Part B & C wrong.
 <p>7C880FB9-423C-4D4A-BF9E-566DD6634617</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:1</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -263,7 +263,7 @@ $22$
 <p>C6136B68-EFD7-48C2-A5A2-83850D03E47A</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:15</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -349,7 +349,7 @@ $15$
 <p>173A89D2-2138-4943-AFAE-53768C9E5BC0</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:7</p>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:8</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>

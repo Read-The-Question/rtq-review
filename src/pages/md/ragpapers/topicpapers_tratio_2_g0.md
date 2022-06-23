@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-2-g0"
 title: "TopicPaper - Ratio - 2 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>B101365B-DE62-48DE-89C1-F6C3C78D7692</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:0</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -266,7 +266,7 @@ $49643$
 <p>AB8D141C-6937-4BD2-823D-644039CF0E18</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:22</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -407,7 +407,7 @@ $3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
 <p>C48AA42C-D9F5-4E65-943B-3DCB0718938D</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:6</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -489,7 +489,7 @@ $\pounds 11$
 <p>BDE42C42-21C6-48DE-81AE-A84F76777818</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:4</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

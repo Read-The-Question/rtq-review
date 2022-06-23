@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-pr-prns"
 title: "TopicPaper - Angle - 2 - PR - PRNS"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC</p>
 </div>
 <div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:9</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -147,7 +147,7 @@ $75 \degree$
 <p>884210A5-5A22-4C28-BC32-2F3819EB8B3D</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:26</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -310,7 +310,7 @@ TODOANSWER
 <p>8C3738E6-75D6-4E8F-912D-0AA1EEB6F854</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:29</p>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -469,7 +469,7 @@ $
 <p>8562F28B-A45E-4D92-8E28-7562EE200450</p>
 </div>
 <div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:28</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -563,7 +563,7 @@ $110 \degree$
 <p>6B2636D1-144E-416C-AFF5-4E6348F2D18B</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:25</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -683,7 +683,7 @@ tgeometry question
 <p>453DC04D-CA8F-48C4-88A2-8AC9261FA908</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:26</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-6-g0"
 title: "TopicPaper - Algebra - 6 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>03B1D61C-7CBC-4E0B-A194-696178602F1C</p>
 </div>
 <div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:6</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -194,7 +194,7 @@ $-30, -32, 100$
 <p>48C65EB8-9775-47FA-92CD-8B8FF4D26C07</p>
 </div>
 <div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:8</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -335,7 +335,7 @@ $-x + 23$
 <p>D283FA4A-33AB-496A-950F-B2EB59FA6F01</p>
 </div>
 <div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:9</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -545,7 +545,7 @@ $\dfrac {1} {2}$
 <p>0DB51330-766E-464D-9295-67675484FDA4</p>
 </div>
 <div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:19</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -738,7 +738,7 @@ $\dfrac {t ^ 2} {4}$
 <p>6608C680-BF3B-41A9-B171-C598733FE00F</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:4</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -828,7 +828,7 @@ $7$
 <p>D0234A9E-B354-49F2-86CF-030A38955623</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:6</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -992,7 +992,7 @@ ${} \div 3 \ \text {and} \ {} - 16$
 <p>51C00E11-4522-456E-9573-8B2298390591</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:10</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1130,7 +1130,7 @@ $26 \ \text {computers}$
 <p>4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:18</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1302,7 +1302,7 @@ $- \dfrac {4} {9}$
 <p>2BE1B352-38EE-45ED-B07A-12B3ABD5532C</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:21</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1448,7 +1448,7 @@ $27$
 <p>49F70149-6E7A-4A5E-9D2E-9FBDD68F2349</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:22</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1537,7 +1537,7 @@ $6$
 <p>370E6891-00C4-4400-9412-56FFA4BE4110</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:10</p>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1622,7 +1622,7 @@ $\pounds 242$
 <p>CA23ED80-3421-4BAC-BBB7-618D72B3F32C</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:15</p>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1812,7 +1812,7 @@ $11$
 <p>E9A0FA5F-BD86-427B-91F1-7D0A086BB6AE</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:21</p>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2105,7 +2105,7 @@ $(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1), \ (0,20)$
 <p>0FE51052-D2CD-4586-8EBB-DB99CD3025CA</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:24</p>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2248,7 +2248,7 @@ $8$
 <p>C8A77F0B-4C4D-421C-877B-72F489BBA0E6</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:6</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2329,7 +2329,7 @@ $75 \ \text {m}$
 <p>9B2BAD76-821C-4206-AED5-F5F1A8A5545E</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:11</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2426,7 +2426,7 @@ $600 \ \text{g}$
 <p>C279109D-A77E-4019-9C41-983257A9DDF8</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:15</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2562,7 +2562,7 @@ $a - 4b$
 <p>F202EB77-1406-4EA6-951F-C009520818C9</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:18</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2645,7 +2645,7 @@ $\pounds 8.19$
 <p>E7870838-DE3A-47DD-86EE-1A74709B54F2</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:19</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2820,7 +2820,7 @@ $4$
 <p>B262AEAA-906F-455F-9F60-3F9875266B0B</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:21</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2900,7 +2900,7 @@ $12$
 <p>1B75D1B9-5669-4840-977E-AF67A1065F16</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:28</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2987,7 +2987,7 @@ $60 \%$
 <p>251FBF03-47A6-429C-803A-6682014D04F1</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:29</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3069,7 +3069,7 @@ $240 \ \text{g}$
 <p>9534D4D0-5ABE-4A31-B52C-8A1B05281589</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:7</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3241,7 +3241,7 @@ $4$
 <p>01216F9C-A7F5-4791-AC06-D99D4185E47A</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:19</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3328,7 +3328,7 @@ $8$
 <p>BB2373FF-1D5B-413C-8160-D9BBA4F4E551</p>
 </div>
 <div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:19</p>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

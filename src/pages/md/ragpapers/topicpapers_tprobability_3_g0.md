@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-3-g0"
 title: "TopicPaper - Probability - 3 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

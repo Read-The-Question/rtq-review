@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability-3"
 title: "TopicPaper - Probability - 3"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>36237D66-C49D-480D-BC6D-502C70540385</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:14</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -216,7 +216,7 @@ TODOANSWER
 <p>5957E305-2A26-4913-9626-91FC0AF27674</p>
 </div>
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:22</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -279,7 +279,7 @@ TODOANSWER
 <p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -423,7 +423,7 @@ $\dfrac {3} {10}$
 <p>B42777BC-120D-48AF-AD07-D0BBABFF65E2</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:13</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

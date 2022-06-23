@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-blocked"
 title: "TopicPaper - Number - 15 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>76EE240E-E3B0-4269-A3BB-7FF0D66152EC</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:8</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -61,7 +61,7 @@ $2 \times 3 \times 7 = 42$
 <p>630DCE19-82BD-4D48-9DC5-AF5A310AB452</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:30</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:31</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

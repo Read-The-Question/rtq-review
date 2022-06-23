@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-oldpr-prcc"
 title: "TopicPaper - Angle - 3 - OLDPR - PRCC"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>49AAD1B8-2F4E-4147-AA60-E6B5D8F00875</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -240,7 +240,7 @@ $45 \degree$
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:4</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>

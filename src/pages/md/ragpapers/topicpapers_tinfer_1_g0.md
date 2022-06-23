@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-1-g0"
 title: "TopicPaper - Infer - 1 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>93D90ADD-9783-488E-8E72-B211E323F0BD</p>
 </div>
 <div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1:0:20</p>
+<p>csse--11-plus--maths--2015--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -216,7 +216,7 @@ $\text {B}, \text {E}, \text {G}$
 <p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
 </div>
 <div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:9</p>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

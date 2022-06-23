@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-g0"
 title: "TopicPaper - Algebra - 2 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>61824054-48C2-4222-94CE-B049FCF364CB</p>
 </div>
 <div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:5</p>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -209,7 +209,7 @@ $265 \ \text{girls}$
 <p>90559230-2BC2-4EB0-84DF-D9BA98C6058E</p>
 </div>
 <div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:18</p>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -298,7 +298,7 @@ $\pounds 10.08$
 <p>F540568C-C61B-4E8A-BFF9-10AF9AC433D7</p>
 </div>
 <div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-2:0:6</p>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -508,7 +508,7 @@ $0$
 <p>5DEB5130-9B77-4FA1-865A-BA2AA2AA14E4</p>
 </div>
 <div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:8</p>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -635,7 +635,7 @@ $1,6,21,20$
 <p>0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6</p>
 </div>
 <div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:5</p>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -711,7 +711,7 @@ $\text {Money left} = \pounds (330 - X)$
 <p>60A40A72-24E4-471F-A028-152B28477469</p>
 </div>
 <div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:10</p>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -800,7 +800,7 @@ $\pounds 1158$
 <p>390841FC-F40F-4579-93B4-7F3BE8284DF2</p>
 </div>
 <div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:16</p>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

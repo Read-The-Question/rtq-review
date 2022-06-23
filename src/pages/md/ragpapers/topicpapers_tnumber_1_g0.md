@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g0"
 title: "TopicPaper - Number - 1 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>9D649605-D139-478F-BB54-746029DB4066</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:2</p>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -225,7 +225,7 @@ Not following the coding guidelines for simple algebra.
 <p>4624AA36-41A6-4B3C-B4F2-11671F5E0925</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:3</p>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -397,7 +397,7 @@ $\dfrac {4} {5}$
 <p>5795CBC5-BF94-4D7F-BB5B-55C2F37EC9F2</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:20</p>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -570,7 +570,7 @@ $27$
 <p>269CAEB1-ECC7-4634-9068-42EF39354F2F</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:0</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -761,7 +761,7 @@ $7995$
 <p>CB985892-807A-481A-863E-243A882E5ED9</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:0</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -904,7 +904,7 @@ $492$
 <p>009D6B34-62AB-4E8A-B3B9-09BCC4A3140E</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:3</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1093,7 +1093,7 @@ $9$
 <p>02D4678C-2407-4D76-9D31-57EE67F35A29</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:11</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1175,7 +1175,7 @@ $91, 350$
 <p>D66F927C-0A34-4DAE-BB63-EAB3689C61CC</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:0</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1253,7 +1253,7 @@ $14036$
 <p>2414B804-D702-4FED-B317-F76BD48DA812</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:1</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1429,7 +1429,7 @@ $8$
 <p>0A0A949A-4315-41A1-A28D-C39E8F6FC5E9</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:5</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1581,7 +1581,7 @@ $0.2$
 <p>680B2DDC-4438-441C-A50B-D93FE578EBF9</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:6</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1759,7 +1759,7 @@ $9, 49$
 <p>30A3B574-CDF9-4730-A7AF-15CE0C6A1084</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:0:0</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1849,7 +1849,7 @@ $80$
 <p>D1711F29-C3FB-46E4-AF05-C3D286EB729E</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:0:2</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1940,7 +1940,7 @@ $333$
 <p>A99C08EB-7124-4965-8037-088A5FBC046B</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:0:3</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2029,7 +2029,7 @@ $13$
 <p>6EA572FE-FB00-44DD-A787-BAF1F99D3A04</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:0:24</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2122,7 +2122,7 @@ $-16$
 <p>E050D127-B790-44E2-8C2E-2E52B8429BCE</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:1</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2197,7 +2197,7 @@ $8521$
 <p>58B18870-5B83-45CF-AD52-6B727497392A</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:2</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2277,7 +2277,7 @@ $-43$
 <p>39547CBC-4623-45FA-B56B-A6BB9A5811A9</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:1</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2359,7 +2359,7 @@ $13$
 <p>6F087310-2750-47AA-8B72-0FD80BCEBA2B</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:18</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2445,7 +2445,7 @@ $11$
 <p>1BA20C38-82B4-4096-B66A-9DA4EE8620E8</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:3</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2626,7 +2626,7 @@ $50$
 <p>85FD3DB9-A666-4D58-8BAE-262C8ECA3FB7</p>
 </div>
 <div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2719,7 +2719,7 @@ $7$
 <p>8F66D2BA-D78E-4C07-BD24-B7741E19A525</p>
 </div>
 <div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:8</p>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2806,7 +2806,7 @@ $nine tenths$
 <p>723278F6-68EA-4B8A-A325-641508B83065</p>
 </div>
 <div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:4</p>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2898,7 +2898,7 @@ $24$
 <p>6B767751-9356-4E00-A5CA-C3F92CBA012A</p>
 </div>
 <div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:0:2</p>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

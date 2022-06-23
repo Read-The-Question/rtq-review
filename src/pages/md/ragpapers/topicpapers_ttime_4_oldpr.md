@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-oldpr"
 title: "TopicPaper - Time - 4 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:14</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>
@@ -186,7 +186,7 @@ $11 \ \text{ mins}$
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:10</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>
@@ -358,7 +358,7 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 <p>19C4B959-6C02-4D22-B36F-6E0A58FE85F7</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:18</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_bs_oldpr</p>

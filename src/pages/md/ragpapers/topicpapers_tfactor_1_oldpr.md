@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfactor-1-oldpr"
 title: "TopicPaper - Factor - 1 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:7</p>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -145,7 +145,7 @@ take 24 in line 2 also out of text..
 <p>7EDC8D07-F0B7-488E-966B-4C742A083200</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:21</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -361,7 +361,7 @@ Part D :is correct
 <p>FEC89A56-1AF8-4052-8EDD-95EC29CBFA28</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:21</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -542,7 +542,7 @@ Refer to the corrections done in similar question in previous paper.
 <p>F8D3AEA5-00FC-4260-A2B7-A0A6D9A6B650</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

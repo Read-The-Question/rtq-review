@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-3"
 title: "TopicPaper - Order - 3"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>0C9827F9-2D97-4BEA-B8FF-C1F070B06641</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -113,7 +113,7 @@ $= 0.7098$
 <p>EBCA6760-D0CE-4FA4-BA50-308D963A2254</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:9</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -190,7 +190,7 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 <p>EE3C4DCD-FFE0-4F39-903A-B6C02F46BA3A</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:9</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -249,7 +249,7 @@ TODOANSWER
 <p>294B1C8E-3A75-4E3B-93E8-579CF1EB4C09</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:11</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -305,7 +305,7 @@ TODOANSWER
 <p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:0:8</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -395,7 +395,7 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 <p>5FFD2F9B-A581-4E18-9166-D2D7F6120C86</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:12</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -495,7 +495,7 @@ $2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.
 <p>BCABF532-DB4D-44EA-893A-A8CB7914EE55</p>
 </div>
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:1</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -572,7 +572,7 @@ $4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
 <p>0F966EC3-188D-4048-9DCF-CEC6B6FF7B61</p>
 </div>
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:7</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -628,7 +628,7 @@ TODOANSWER
 <p>2516CBC2-1DA0-4907-AFF5-DDE8C971594D</p>
 </div>
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:8</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -727,7 +727,7 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 <p>014D4DAF-E024-4E0F-B4D3-D05F245403AD</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -823,7 +823,7 @@ $3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
 <p>A3140AAF-E610-429C-AF4F-341B3488C084</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:13</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -933,7 +933,7 @@ $\text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfra
 <p>53FB1D0A-B461-448E-853F-B08C8593DFC5</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:5</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1030,7 +1030,7 @@ $\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
 <p>14EFBA91-BE93-4FA7-9B60-535F8D09F894</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1115,7 +1115,7 @@ $0.092$
 <p>005C15B9-60F0-488A-8FFD-A63DB387E325</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:4</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1211,7 +1211,7 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 <p>D823862D-86E3-4E97-A680-E4F7053C3121</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:8</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1317,7 +1317,7 @@ $19.8$
 <p>BB8F8A69-2497-442F-AF8E-B6D0341C768E</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:10</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1394,7 +1394,7 @@ $52.4  \quad 52.402 \quad 52.42$
 <p>5702F561-6E2E-4760-BBD8-682C0DF387A6</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:9</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1471,7 +1471,7 @@ $2.203, \quad 2.23, \quad 2.3, \quad 2.303$
 <p>CD389F37-64A4-45DB-AE0F-1858129962AE</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:9</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1548,7 +1548,7 @@ $5.02, \quad  5.2, \quad 5.202, \quad 5.22$
 <p>CEB88377-E568-4AA9-86C7-30EC02DF65EB</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1635,7 +1635,7 @@ $1.05$
 <p>74E6193A-F4D2-4F44-ABE7-1859D3CD5AD9</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:9</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1712,7 +1712,7 @@ $3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 <p>55915BFE-F660-43D9-B855-A23AD77C520A</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1796,7 +1796,7 @@ $3.564$
 <p>1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:7</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1883,7 +1883,7 @@ $0.603$
 <p>096131F4-72CE-446C-9543-2653E59BA346</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:9</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1960,7 +1960,7 @@ $3.043, \quad 3.304, \quad 3.34, \quad 3.4$
 <p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:16</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2051,7 +2051,7 @@ $\dfrac{3}{4}$
 <p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:12</p>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2146,7 +2146,7 @@ $\dfrac {2} {3}$
 <p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:7</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2256,7 +2256,7 @@ $33\%$
 <p>51948298-6710-4968-BC7A-6F04A5AA66B1</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:4</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2353,7 +2353,7 @@ $\dfrac {2} {3}$
 <p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:5</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2574,7 +2574,7 @@ $\dfrac {10} {12}$
 <p>30F8E595-EE50-4532-916C-D174DB902094</p>
 </div>
 <div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:9</p>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2655,7 +2655,7 @@ $0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 <p>B528A77B-5606-4111-B12C-09F06AFE3099</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2810,7 +2810,7 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 <p>92F50556-BDE8-4519-B178-C9ADAC015801</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:14</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -3016,7 +3016,7 @@ decimals
 <p>75A55853-F6F6-49CC-BDCE-31C9343FD3FB</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:8</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

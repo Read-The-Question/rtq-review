@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-blocked"
 title: "TopicPaper - Algebra - 16 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>815AB33A-E6F1-4432-B03B-F60E812D1A18</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:13</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

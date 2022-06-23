@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-13-oldpr"
 title: "TopicPaper - Algebra - 13 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>71244B72-5BA2-4E9F-B6E1-473CCA0B319A</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:8</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -114,7 +114,7 @@ make in into 1 answer
 <p>C0D9FF0B-D58D-4B87-A15F-D131577FBD10</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:4</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -210,7 +210,7 @@ align on &=
 <p>86501673-7B9E-47F8-95C0-554BDF31C482</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:9</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

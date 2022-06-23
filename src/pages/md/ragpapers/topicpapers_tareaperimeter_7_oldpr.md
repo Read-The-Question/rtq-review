@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>66489EBB-AF77-436C-8265-5C9A279D0B94</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:28</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -199,7 +199,7 @@ PArt B = Not solved.solve please
 <p>DC8558C2-EE37-46DD-A01E-FF5282A31014</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:29</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -311,7 +311,7 @@ not directly related. thou.
 <p>A60ACF29-F74F-4CDB-846D-DE660531F19A</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:24</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -413,7 +413,7 @@ not directly related. thou.
 <p>51A3EFEE-AEFC-4035-956A-355C5FB4F3EB</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:36</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:37</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -641,7 +641,7 @@ Blue answer = 18 Stickers
 <p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:10</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -755,7 +755,7 @@ rtq_abbr_katex_formula_perimeter_rectangle
 <p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:19</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -883,7 +883,7 @@ Shaded Area = Area of ABCD - Area of rectangle inside ABCD (there is no T as you
 <p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:7</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>

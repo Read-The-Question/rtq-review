@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-blocked"
 title: "TopicPaper - Probability - 2 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>843F06E7-DEA4-416D-81A0-B9328792593D</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:0:12</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

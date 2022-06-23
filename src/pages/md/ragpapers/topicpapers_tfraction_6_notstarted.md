@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-notstarted"
 title: "TopicPaper - Fraction - 6 - NOTSTARTED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>61BBB217-3B14-4521-9FBE-3800F9FD9D24</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:33</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:34</p>
 </div>
 <div class='rag'>
 <p>rag_ar_notstarted</p>
@@ -207,7 +207,7 @@ TODOANSWER
 <p>1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_notstarted</p>
@@ -262,7 +262,7 @@ $3\dfrac{1}{2}$ or $\dfrac{7}{2}$
 <p>6975D4C4-7A3B-4AE4-968A-13F66593DA85</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:7</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_ar_notstarted</p>
@@ -319,7 +319,7 @@ TODOANSWER
 <p>B312B8A5-E0AD-4546-B70A-03DA93E314AC</p>
 </div>
 <div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_notstarted</p>

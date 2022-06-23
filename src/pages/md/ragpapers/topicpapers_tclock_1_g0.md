@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tclock-1-g0"
 title: "TopicPaper - Clock - 1 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>9A2CE487-4367-455E-A627-FFFE0C8FF292</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:37</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -94,7 +94,7 @@ $45 \degree$
 <p>7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:37</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:38</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -178,7 +178,7 @@ $165 \degree$
 <p>14F5E25E-982B-4BD0-99BF-68170A5DA82C</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:39</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:40</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -264,7 +264,7 @@ $30 \degree$
 <p>4FAE2ECB-8394-4207-9FAD-04BFD8BDE179</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:37</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:38</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -348,7 +348,7 @@ $255 \degree$
 <p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:12</p>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -480,7 +480,7 @@ $120 \degree$
 <p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:18</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

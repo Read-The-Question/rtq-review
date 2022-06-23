@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-g0"
 title: "TopicPaper - Profit - 1 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>05561C2E-68D5-42DC-876C-EC372F879900</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:9</p>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -114,7 +114,7 @@ Deal A
 <p>B9A0C103-F37E-45E0-8E72-914E65E4982D</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:6</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -196,7 +196,7 @@ $\pounds 98$
 <p>83FF262B-C3C2-446A-888D-017561433336</p>
 </div>
 <div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:12</p>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -373,7 +373,7 @@ $\pounds 12$
 <p>1AAFE106-7AAC-4CDC-A29A-4F1C26310DB8</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:0</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -455,7 +455,7 @@ $\pounds 57.85$
 <p>AEFC7170-49BA-433E-8F3B-1767FD16C053</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:32</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -543,7 +543,7 @@ $\pounds 38250$
 <p>DC500CC0-5255-4C48-9B31-D96DA44379AE</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:0</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -625,7 +625,7 @@ $\pounds 140.55$
 <p>E3968AD3-9BB4-40FA-8CF4-DCE9AADD831D</p>
 </div>
 <div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:0</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -707,7 +707,7 @@ $\pounds 161.35$
 <p>D9679475-899C-4D1A-87C4-D5CC0437D309</p>
 </div>
 <div class='papername'>
-<p>highgate-school--11-plus--maths--2013--sample-paper-d:0:1</p>
+<p>highgate-school--11-plus--maths--2013--sample-paper-d:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -809,7 +809,7 @@ $\pounds 450$
 <p>CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:4</p>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -893,7 +893,7 @@ $15.81$
 <p>3AFA86B0-9BFB-41F8-900A-072D2C1A833D</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:8</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -982,7 +982,7 @@ $210$
 <p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:0:7</p>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1174,7 +1174,7 @@ $\pounds 1193.4$
 <p>123B050C-DB35-4294-97F0-0DCBAFF89F1E</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:6</p>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1267,7 +1267,7 @@ $\pounds 75$
 <p>7B238D76-DC32-4173-81A3-114829891742</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:13</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

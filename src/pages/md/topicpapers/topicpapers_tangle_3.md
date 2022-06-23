@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-3"
 title: "TopicPaper - Angle - 3"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>F7B13CED-C215-4AE0-A046-CA11FC93E811</p>
 </div>
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:17</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_na_prbd</p>
@@ -87,7 +87,7 @@ TODOANSWER
 <p>92AD100E-4F0C-43B3-8449-31A16D2E0DEA</p>
 </div>
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:16</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -197,7 +197,7 @@ $80 \degree$
 <p>E0755DC5-C021-4820-B018-FBD663D724BC</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:28</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -298,7 +298,7 @@ $210 \degree$
 <p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:4</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -408,7 +408,7 @@ $100 \degree$
 <p>49AAD1B8-2F4E-4147-AA60-E6B5D8F00875</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -638,7 +638,7 @@ $45 \degree$
 <p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:5</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -753,7 +753,7 @@ Uday: look again after changes.
 <p>DB9E2E26-0316-4C3F-9AF2-5DD67552215E</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:0:1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -978,7 +978,7 @@ $40 \degree$
 <p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:8</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1088,7 +1088,7 @@ $105 \degree$
 <p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:11</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1194,7 +1194,7 @@ $108 \degree$
 <p>D5B7995B-1A69-47C2-AD74-3593471D778A</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:2</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1297,7 +1297,7 @@ $x = 117 \degree, \ \ y = 29 \degree$
 <p>93995941-DF79-4306-A16E-1B3F36315184</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:15</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1412,7 +1412,7 @@ $30 \degree$
 <p>7DEE085F-FD27-4FBE-B961-7848EFAF05B5</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:18</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -1543,7 +1543,7 @@ $130 \degree$
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:4</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1640,7 +1640,7 @@ $27 \degree$
 <p>30F14B44-C370-42DC-ACB1-B6C24CB565FD</p>
 </div>
 <div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_na_prbd</p>
@@ -1697,7 +1697,7 @@ TODOANSWER
 <p>17360B83-7524-4915-9C57-EA134B592244</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -1812,7 +1812,7 @@ Angle but explanatory
 <p>C3637EB3-06AC-44BA-B12B-9EC4A9565D76</p>
 </div>
 <div class='papername'>
-<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:4</p>
+<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_na_prbd</p>
@@ -2007,7 +2007,7 @@ TODOANSWER
 <p>D90DBE3D-71F6-47D8-B03D-147F904077DE</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:21</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -2106,7 +2106,7 @@ $16 \degree$
 <p>7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6</p>
 </div>
 <div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:17</p>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

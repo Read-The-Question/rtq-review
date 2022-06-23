@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g0-prcc"
 title: "TopicPaper - Areaperimeter - 2 - G0 - PRCC"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>A202F7A2-B7E9-47A2-8529-FED0F2ED6E6B</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:14</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -232,7 +232,7 @@ $1.6 \ \text {m}$
 <p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:16</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -348,7 +348,7 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 <p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:20</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -501,7 +501,7 @@ $32 \ \text {cm}$
 <p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:14</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -617,7 +617,7 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 <p>BDFE7C42-E5DA-4E12-8BA2-EE31FFE0FA8B</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:13</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -711,7 +711,7 @@ $58 \ \text {cm}$
 <p>97A3E093-B7B6-443D-9FE2-CC20B3E4BA24</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:17</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>

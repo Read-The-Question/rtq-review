@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-g0"
 title: "TopicPaper - Statistics - 2 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>5A332CAD-49BF-495D-A0D3-65B70B2A784D</p>
 </div>
 <div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:6</p>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -91,7 +91,7 @@ $15$
 <p>33AE5B44-DF29-4E31-BCFC-4228FFCA3041</p>
 </div>
 <div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:12</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

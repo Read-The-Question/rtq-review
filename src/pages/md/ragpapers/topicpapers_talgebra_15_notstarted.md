@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-notstarted"
 title: "TopicPaper - Algebra - 15 - NOTSTARTED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>2AF65CA0-8C6F-4B92-9F42-BF41BAFA0C33</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:21</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -108,7 +108,7 @@ TODOANSWER
 <p>5777C924-5686-4F39-B664-8811F6230813</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:39</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:40</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -216,7 +216,7 @@ TODOANSWER
 <p>308A9EC5-48D0-4A9A-B391-60317A1D8F6E</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:41</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:42</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -269,7 +269,7 @@ TODOANSWER
 <p>C918F898-DCE1-4B0B-95FA-F2465D672E52</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:44</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:45</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -331,7 +331,7 @@ TODOANSWER
 <p>4DACC7C4-808D-4D5B-9F08-E7D2914E09BD</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:7</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -479,7 +479,7 @@ Total CDs = 7 + 3
 <p>8988C475-ACC9-4864-8F7F-91364E1B67A1</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:0:5</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -539,7 +539,7 @@ TODOANSWER
 <p>27D02444-74FB-437E-803D-BEE8B6392DD0</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:0:8</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -764,7 +764,7 @@ TODOANSWER
 <p>65264E31-A41E-4690-BB10-C5FBD6D4BCE9</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:0:9</p>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1023,7 +1023,7 @@ TODOANSWER
 <p>71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:9</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1155,7 +1155,7 @@ $\pounds 7$
 <p>C862B344-92C5-4BC5-81A4-E798F30F2402</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:19</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1275,7 +1275,7 @@ $59$
 <p>FF304983-407B-4F08-A1A7-266719ACE0F0</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:0:4</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1470,7 +1470,7 @@ $N = 9$
 <p>0F87C3AF-04E1-4CE4-95B8-6058896522BF</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:0:5</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1673,7 +1673,7 @@ $240 \ \text{m}$
 <p>271C8CFC-140E-47D7-B956-A1833C472BB4</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:0:9</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1979,7 +1979,7 @@ $\pounds 4$
 <p>84DF03D9-35BF-4360-B6DC-B1BC22506A5E</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2178,7 +2178,7 @@ TODOANSWER
 <p>D3205029-7848-4470-8FDF-8B32C8E28E77</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:0:7</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsymmetry-1-notstarted"
 title: "TopicPaper - Symmetry - 1 - NOTSTARTED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>88784DF1-855E-47AE-A6EF-82FC23ADD1C9</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:3</p>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -67,7 +67,7 @@ TODOANSWER
 <p>794A5992-423B-4DEA-9BC8-CADF21664EFA</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:17</p>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -124,7 +124,7 @@ TODOANSWER
 <p>702E6294-E08B-43C0-BB02-104BBD96CCF8</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:4</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -183,7 +183,7 @@ $3$
 <p>B2907727-9EAA-4EAE-B1D3-4715D0CA8813</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:12</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -246,7 +246,7 @@ TODOANSWER
 <p>31CF13C3-E473-4571-A175-50D8AB2E4A75</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:22</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -341,7 +341,7 @@ TODOANSWER
 <p>0F83B378-870A-46A5-BBA2-DB87BF64CCC4</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:0:5</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

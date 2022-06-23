@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-blocked"
 title: "TopicPaper - Fraction - 3 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>45CA540D-6B4E-432C-AF62-A63ACD57A941</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:7</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -245,7 +245,7 @@ $\dfrac {2} {5}$
 <p>7F8B7DAA-2971-4079-9737-6D7B149AA96E</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:1</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -418,7 +418,7 @@ $1 \dfrac {9} {10}$
 <p>4F9F4C6D-374B-4A3F-A930-14B9759C0925</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:11</p>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -639,7 +639,7 @@ $\dfrac{-2}{5}$
 <p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:17</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -777,7 +777,7 @@ $0.45$
 <p>A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:14</p>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -842,7 +842,7 @@ $\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\\ \\\\ \dfrac {4} {9} \text{ of } 360
 <p>7C3DC077-F159-440D-95DC-21DDF801F0B4</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:20</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>

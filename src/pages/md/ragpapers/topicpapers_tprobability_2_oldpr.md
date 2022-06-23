@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-oldpr"
 title: "TopicPaper - Probability - 2 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>48808E0F-DECB-4D83-B293-06E1EB8FC2E4</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:9</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-8-oldpr"
 title: "TopicPaper - Algebra - 8 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>84C4F75A-1071-4AE8-8252-CDE115D02C03</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:16</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -124,7 +124,7 @@ Money Martin have = \pounds 19 + 13
 <p>7E727E97-35F7-45AC-9A84-DFE534728056</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:0:2</p>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

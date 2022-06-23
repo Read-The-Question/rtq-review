@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-notstarted"
 title: "TopicPaper - Algebra - 16 - NOTSTARTED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>0A878D38-8A24-4519-99E0-D0C3B1A35DA7</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:0:7</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -265,7 +265,7 @@ $\pounds 274$
 <p>C3BE9AFF-3897-4101-88BA-E1C514952C0C</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:0:0</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -332,7 +332,7 @@ TODOANSWER
 <p>4CED6511-C49B-4229-A375-35FEA63D3656</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:0:4</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -527,7 +527,7 @@ TODOANSWER
 <p>75194A1F-473A-4C38-BC62-99DC9DA43047</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:0:8</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -731,7 +731,7 @@ TODOANSWER
 <p>4E0A1485-BEE2-4FBC-A8D7-48C9A73A6388</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:0:10</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -903,7 +903,7 @@ TODOANSWER
 <p>0DDB7D8E-8C0B-4FC8-872C-52FBE4C7EC8F</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:13</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1016,7 +1016,7 @@ $50p$
 <p>10B05544-761B-457F-96DF-14CD6C641037</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:19</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1159,7 +1159,7 @@ $72$
 <p>130DB243-D3C7-45CA-9989-ED58478FAE23</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:0:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1348,7 +1348,7 @@ $4 \ \text {m}$
 <p>EC76AD4B-0FB5-4FAA-9501-93309D05DD30</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:0:5</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1521,7 +1521,7 @@ $3 \text {cm}$
 <p>338BD9F0-E09D-4540-A23F-773F26F2E6B6</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:6</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1587,7 +1587,7 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 <p>594EBD3F-1293-4FF8-93B0-C9B96E73E43C</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:18</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1696,7 +1696,7 @@ $\text{The missing numbers are :} 39, 187, 112, 10, 112$
 <p>FDEB857E-2289-4056-9087-65D68B1A15E2</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:11</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1829,7 +1829,7 @@ $640 \text { mm}$
 <p>40BB4AA1-3BD3-470A-93B3-6A06036015BD</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:17</p>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

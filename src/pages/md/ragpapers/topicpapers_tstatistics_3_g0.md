@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-3-g0"
 title: "TopicPaper - Statistics - 3 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>B650F2F1-1FB6-4F45-872E-045F8838014C</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:0:14</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -159,7 +159,7 @@ $\pounds 7.14$
 <p>2E4B6B46-9C74-48E1-9CCC-D09491A7E79D</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:8</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -244,7 +244,7 @@ $11$
 <p>ECB9BF93-8E27-42A0-873B-87BFA9D37BB8</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:23</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:24</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -332,7 +332,7 @@ $17$
 <p>15AAA21D-323A-42DC-BF5A-82371B49D4EB</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:18</p>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -428,7 +428,7 @@ $44 \ \text{kg}$
 <p>2C9FD9EC-F28E-4BA1-8D8C-70118055B9D2</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:14</p>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -511,7 +511,7 @@ $3$
 <p>B1663F8E-5D97-46AD-80FC-DFEBC4114EED</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:14</p>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -620,7 +620,7 @@ $11\ \text {mm}$
 <p>00C35702-5C9A-410E-8258-FD4D136875E0</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:12</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

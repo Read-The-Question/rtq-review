@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-3-oldpr"
 title: "TopicPaper - Graph - 3 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>A068EE90-357B-4E72-854F-DF950A5D447E</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:11</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -194,7 +194,7 @@ in blue answer Ford (Use captials as in normal english)
 <p>1E41AB8C-F0A4-4285-998A-D76D7DD412AA</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:11</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -375,7 +375,7 @@ Part C : Refer to the correctiosn done in similar question in previous paper.
 <p>552840B2-0E36-4290-AC67-292C3F32FFE0</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:11</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -539,7 +539,7 @@ Part c : is it not food technology.. as the chart shows no one chose Food techno
 <p>0CC40F6E-A0EB-4D96-A29B-510F9BBC8915</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:6</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -720,7 +720,7 @@ As per the bar chart,
 <p>422F78A1-EBFB-4834-9E93-8E37FE51E544</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:13</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

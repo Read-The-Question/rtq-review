@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-oldpr-prcc"
 title: "TopicPaper - Detailedmultiplication - 3 - OLDPR - PRCC"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>8FAB0389-CCAC-493C-8213-8DFBF84F06CC</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:2</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_oldpr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-g0"
 title: "TopicPaper - Probability - 2 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:17</p>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -105,7 +105,7 @@ $105$
 <p>804485E5-7451-4F75-8F5C-D624DA927416</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:18</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -200,7 +200,7 @@ $82$
 <p>81411267-4268-441B-B266-ABB3F942DF98</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:27</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -372,7 +372,7 @@ $\dfrac {13} {18}$
 <p>DE59EBA0-1D3D-4B9E-85A3-E01E6A60BF2B</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:19</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -537,7 +537,7 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <p>5386A862-7004-4EB7-85BF-4DB8111B2763</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:26</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -636,7 +636,7 @@ $\text {Getting a head with a fair coin}$
 <p>FF850235-7104-4915-9390-211E83691462</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:15</p>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -724,7 +724,7 @@ $\dfrac { 11 } {  20 }$
 <p>E6588871-D766-4716-B6B4-2BB08ABB7D9F</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:15</p>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -814,7 +814,7 @@ $\dfrac { 6 } { 25 }$
 <p>3C2D79BD-AEA4-4564-8DED-BB94FFC30951</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:12</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

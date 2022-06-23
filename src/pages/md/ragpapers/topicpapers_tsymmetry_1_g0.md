@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsymmetry-1-g0"
 title: "TopicPaper - Symmetry - 1 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>CF538E3C-9256-410E-8CF8-47DD610CDB1F</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-oldpr"
 title: "TopicPaper - Simpleword - 4 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>85AF4A82-D8F4-4C46-A7A4-17F82A02167C</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:1</p>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -98,7 +98,7 @@ U took reference from somewhere?? If no, Then change the working to - As per the
 <p>344D2219-6B52-4A1E-9CAC-AD845022B342</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:3</p>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -194,7 +194,7 @@ No need to explain this much. write all in one equation
 <p>E0F69367-13D4-422E-A7ED-7CE21DF00DB8</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:2</p>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -367,7 +367,7 @@ In answer delete boxes
 <p>0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:8</p>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -464,7 +464,7 @@ Refer to UUID : 7B238D76-DC32-4173-81A3-114829891742 and change your accordingly
 <p>02E8A3E3-375F-4D9B-81E3-04DF65B30116</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:0</p>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -637,7 +637,7 @@ same isn blue answer only number (look original question paper)
 <p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:1</p>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -824,7 +824,7 @@ Step 3 1140 to 1120
 <p>C4D8FFF9-4461-4B89-8BE3-4C402598EB60</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:2</p>
+<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -984,7 +984,7 @@ Bill each month = Total bill in a year / No. of months in a year
 <p>F7FB7A20-0F3A-452F-8BE4-998904AC107F</p>
 </div>
 <div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:1:0</p>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1173,7 +1173,7 @@ Delete last sentence:Total number of goals = 600
 <p>6014D0DC-121E-4166-AA88-61ECCE18CFBB</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:14</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

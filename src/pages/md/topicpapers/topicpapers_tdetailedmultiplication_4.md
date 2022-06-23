@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-4"
 title: "TopicPaper - Detailedmultiplication - 4"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,7 +20,7 @@ date: 2022-06-23 09:17:09
 <p>188700EF-2ADC-4245-B7FF-E3562E1C61DB</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:2</p>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -108,7 +108,7 @@ $1641000$
 <p>2CE07E4A-7062-4FF5-82E8-6A74B140FEA1</p>
 </div>
 <div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:2</p>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -193,7 +193,7 @@ $13464$
 <p>4260496C-5CFD-4DCF-AD5E-0942547499C8</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:2</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -274,7 +274,7 @@ $196$
 <p>79F23A29-1172-45A2-8516-2EE7A4E3916B</p>
 </div>
 <div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -360,7 +360,7 @@ $71685$
 <p>0BBE4126-D528-4588-9AF9-F9CE49056600</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:0</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -440,7 +440,7 @@ $48$
 <p>3114740D-C53A-49EC-B433-2572189ED29D</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:3</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -520,7 +520,7 @@ $56$
 <p>F858DC13-E706-4D45-B60D-CF904A6C3072</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:4</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -600,7 +600,7 @@ $432$
 <p>7A1BE18D-7F3E-4C3E-BBB5-57FB9BEA3BF1</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:5</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -680,7 +680,7 @@ $9800$
 <p>56E5E6AF-A895-45C2-A9F6-20497B067AAE</p>
 </div>
 <div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:8</p>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>

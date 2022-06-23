@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-g2"
 title: "TopicPaper - Angle - 2 - G2"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>3852614B-1AE4-4DBC-B778-EAC0383CA0FA</p>
 </div>
 <div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:11</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -150,7 +150,7 @@ $90 \degree$
 <p>15416CC2-104A-4AFC-B2E3-BD1EFCF2BC21</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:25</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:26</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -356,7 +356,7 @@ $110 \degree$
 <p>D3A08968-A69A-4BA3-95F9-C69A858F5630</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:29</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:30</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -456,7 +456,7 @@ $42 \degree$
 <p>F2C47797-13C0-4FDF-AA9D-ED17BA456CC4</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:26</p>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -548,7 +548,7 @@ $55 \degree$
 <p>4A3EA266-6BEF-4B0E-9F13-1DCD864E5C55</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:26</p>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -640,7 +640,7 @@ $75 \degree$
 <p>3E5707E8-A605-4AEB-83F5-1DF28EF49EA0</p>
 </div>
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:14</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -732,7 +732,7 @@ $40 \degree$
 <p>AB151B1F-7B35-4FF4-AC18-4876BE694A05</p>
 </div>
 <div class='papername'>
-<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -828,7 +828,7 @@ $60 \degree$
 <p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:0:15</p>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -958,7 +958,7 @@ $b$ $=$ $15 \degree$
 <p>05657E57-5AAE-47F6-9CCF-40E96CD77C36</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:11</p>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1118,7 +1118,7 @@ $36 \degree$
 <p>338F96DE-9214-4EE9-A056-D7F61969FCBE</p>
 </div>
 <div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:23</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1233,7 +1233,7 @@ $140 \degree$
 <p>BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9</p>
 </div>
 <div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:26</p>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1331,7 +1331,7 @@ $150 \degree$
 <p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:20</p>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1514,7 +1514,7 @@ $90 \degree$
 <p>6F9F32E1-F006-4C6E-8240-5A785690A7E2</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:8</p>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1620,7 +1620,7 @@ $\text{angle Q}$
 <p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
 </div>
 <div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:22</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1823,7 +1823,7 @@ $73 \degree, 107 \degree$
 <p>A34D1AFD-1A13-4C1A-8344-2A8E62131D4A</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:7</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1915,7 +1915,7 @@ $58 \degree$
 <p>473B53F9-0065-4183-A92E-E456B6396E3B</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:16</p>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -2027,7 +2027,7 @@ $56 \degree$
 <p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:2</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -2129,7 +2129,7 @@ $85 \degree$
 <p>D25333F7-26CB-40ED-B8C0-0A79EDC6213F</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>

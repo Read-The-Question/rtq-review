@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-notstarted"
 title: "TopicPaper - Algebra - 7 - NOTSTARTED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>B5302994-EC09-45D9-8366-DECBAB0E73A2</p>
 </div>
 <div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:34</p>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:35</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -73,7 +73,7 @@ TODOANSWER
 <p>500FFE5A-6753-4E58-8436-313774F3E51C</p>
 </div>
 <div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:36</p>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:37</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -129,7 +129,7 @@ TODOANSWER
 <p>DB1AD910-8F2A-448D-87E9-93B8F4063A1F</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:8</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -188,7 +188,7 @@ $40$
 <p>F5248F77-33B8-4AC4-A9B4-0AF399DA1C63</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:9</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

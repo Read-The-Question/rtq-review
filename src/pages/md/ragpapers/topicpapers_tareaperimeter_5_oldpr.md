@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:9</p>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:10</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -206,7 +206,7 @@ Change blue answer accordingly.
 <p>408B312B-6431-4F80-A288-66DBFDD7A7F3</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:14</p>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:15</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -310,7 +310,7 @@ Pertimeter of a rectangle =  2 x length x width = sum of all sides
 <p>BF1E2A8F-F5C7-4634-912A-F66697436636</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:15</p>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:16</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -422,7 +422,7 @@ Blue answer change $18 \ \text{cm}^2$
 <p>AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:16</p>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -567,7 +567,7 @@ Area of a rectangle = length x width
 <p>527152F8-094F-4AFE-A50B-4595C903532F</p>
 </div>
 <div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:1:4</p>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -797,7 +797,7 @@ Area of a square &= Side^2
 <p>8E4B5715-53BB-42A4-9945-FBB59D2C6806</p>
 </div>
 <div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:11</p>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1111,7 +1111,7 @@ solve like you did...
 <p>196B7FB7-BE4D-4577-B993-353DAB477794</p>
 </div>
 <div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:22</p>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1223,7 +1223,7 @@ step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I
 <p>BAA3C1DC-AC85-4E56-81D2-E788C4B255D2</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:12</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1313,7 +1313,7 @@ Area &= 4 x 7.1
 <p>93360AA4-2B9F-4C55-BC75-2CD78B9FD6F2</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:16</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1519,7 +1519,7 @@ change blue ansawer accrodingly.
 <p>17EB6AE3-FD45-41A0-9FF9-AF38640101B5</p>
 </div>
 <div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:22</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1722,7 +1722,7 @@ solve.. use correct units and spacing before units.. if needed
 <p>6BC8FC6A-56E2-4B38-905F-06368D1DB22F</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:17</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1826,7 +1826,7 @@ change step 1 : Jump the sides.
 <p>7ED92958-A20C-4CB1-B94C-7667D1274879</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:8</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1937,7 +1937,7 @@ WRONG WORKING check tarea in site EDIT : Nothing changed??
 <p>9A5410BD-3EE5-409F-8688-DA50768205F0</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:21</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -2038,7 +2038,7 @@ $4$
 <p>A2279230-AADE-4793-B27A-4810B6805DE7</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:5</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:6</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -2167,7 +2167,7 @@ Follow coding guilines.. no need to put l and b in text.. Write the statement(us
 <p>A7776F84-C1E8-4F7A-B95D-0642729A4BD1</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:2</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -2269,7 +2269,7 @@ line 1: As per the question,  (A) (,)                                           
 <p>61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -2375,7 +2375,7 @@ line 1, 2, 3: Delete                                                            
 <p>73F88708-385D-49B6-B52A-C7C9AF1BAE57</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:22</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -2554,7 +2554,7 @@ part A                                                                          
 <p>8F274E8D-5AD2-4460-B3B3-A57416506B6E</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:12</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:13</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>

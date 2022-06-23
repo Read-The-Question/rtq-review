@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-1-pr-prns"
 title: "TopicPaper - Detailedsubtraction - 1 - PR - PRNS"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>5076E85F-CDAE-4C5E-851D-F9C834A45C1D</p>
 </div>
 <div class='papername'>
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:4</p>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-g2"
 title: "TopicPaper - Money - 1 - G2"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>8B53538F-9FA0-4E30-B73C-B54B18223907</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:4</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -100,7 +100,7 @@ $\pounds 4.90$
 <p>C37C7D80-A04A-4A0E-94DE-218ED2624A77</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:6</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -184,7 +184,7 @@ $\pounds 248$
 <p>F6E48CC4-2A27-4920-ACA3-5DF53454BA33</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:8</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -268,7 +268,7 @@ $\pounds 16$
 <p>CC427C13-15A7-43F3-8EE1-B0704BC35344</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:11</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -348,7 +348,7 @@ $\pounds 2.76$
 <p>832A3C13-EDDB-4546-A482-E080BF08895B</p>
 </div>
 <div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:13</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -432,7 +432,7 @@ $\pounds 16$
 <p>559166DC-6DDF-4875-BF83-BA488BB42DFA</p>
 </div>
 <div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:2</p>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -523,7 +523,7 @@ $\pounds 18.07$
 <p>0A52D945-A28D-4AF7-B094-8C90084E6EB6</p>
 </div>
 <div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1:0:11</p>
+<p>csse--11-plus--maths--2015--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -619,7 +619,7 @@ $\pounds 55$
 <p>336B71BC-D933-4B73-8AC5-2EDE7391DCB5</p>
 </div>
 <div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3:0:5</p>
+<p>csse--11-plus--maths--2016--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>

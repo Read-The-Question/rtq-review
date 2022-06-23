@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-3-g0"
 title: "TopicPaper - Division - 3 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>17BF339B-7079-4966-BEB2-8B3FF23FA92A</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

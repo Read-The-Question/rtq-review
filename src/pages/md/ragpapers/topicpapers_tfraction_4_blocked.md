@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-blocked"
 title: "TopicPaper - Fraction - 4 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
 </div>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:13</p>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:14</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -77,7 +77,7 @@ $\dfrac {4} {9}$
 <p>48450F7A-0A8A-471A-90C4-B1E78B195B12</p>
 </div>
 <div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -128,7 +128,7 @@ $634$
 <p>6864E850-7B4A-42CC-B277-9E186CB962B8</p>
 </div>
 <div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:3</p>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -179,7 +179,7 @@ $398$
 <p>49B00B08-583C-4982-92BC-E09BCE8B7244</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:0</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -256,7 +256,7 @@ $5, \ 8, \ 25$
 <p>A133195C-50E7-4B5A-BEED-8C9CC8036DBA</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:0</p>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
@@ -329,7 +329,7 @@ $6, 28$
 <p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
 </div>
 <div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:16</p>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>

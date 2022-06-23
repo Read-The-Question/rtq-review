@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-pr-prns"
 title: "TopicPaper - Fraction - 2 - PR - PRNS"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>54CAAF21-5640-4453-94EA-660CB9EDE5B7</p>
 </div>
 <div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:17</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:18</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -99,7 +99,7 @@ $\dfrac {2} {9}$
 <p>D91E7853-54E2-4996-A0E0-63852AA3A9B8</p>
 </div>
 <div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:0:6</p>
+<p>forest-school--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -195,7 +195,7 @@ three quarters
 <p>374C875F-6104-457A-9946-7366D583AA37</p>
 </div>
 <div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:3</p>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -292,7 +292,7 @@ $39$
 <p>0966D772-1DBA-4DD8-A2D9-C6E088334DE5</p>
 </div>
 <div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:5</p>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -394,7 +394,7 @@ $6$
 <p>9D4AAB0C-13C4-481F-B671-A752B18754B0</p>
 </div>
 <div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:11</p>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>

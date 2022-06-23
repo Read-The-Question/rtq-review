@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-blocked"
 title: "TopicPaper - Algebra - 10 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>FC4F6CFA-9375-4C0E-8FA7-3428B8E1BD56</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:27</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -107,7 +107,7 @@ $\pounds 50$
 <p>B9D7A048-0361-4F81-A8A8-64EC81D6A373</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:28</p>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -167,7 +167,7 @@ $25, 5$
 <p>F309BCDF-1E65-486A-B43C-4F8547E68817</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:23</p>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:24</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -326,7 +326,7 @@ $\text {No, it does not make sense to use the formula for older people because a
 <p>301495E4-984D-4E5B-B022-507BD60D3235</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:24</p>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -384,7 +384,7 @@ $1800 \text {metres}$
 <p>C47BB056-BB47-49E9-A0DC-50131CC6D1FE</p>
 </div>
 <div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:25</p>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -456,7 +456,7 @@ $10 \text{chickens}, 20 \text{cows}$
 <p>B7931AAD-CC40-434A-B67C-9F5D390398BC</p>
 </div>
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:2</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

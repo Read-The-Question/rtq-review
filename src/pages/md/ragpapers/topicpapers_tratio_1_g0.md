@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-1-g0"
 title: "TopicPaper - Ratio - 1 - G0"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>5860A867-7759-4511-AF82-70728B52390C</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:20</p>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -110,7 +110,7 @@ $11$ friends
 <p>3CF2E7E6-C0AF-4E86-9374-F5C10C55C419</p>
 </div>
 <div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:0:7</p>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -199,7 +199,7 @@ $360 \ \text{ml}$
 <p>CE8C7AD4-B1AC-4902-B427-7BDEABBF4680</p>
 </div>
 <div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3:0:4</p>
+<p>forest-school--11-plus--maths--2020--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -282,7 +282,7 @@ $\pounds 2500$
 <p>7FE7F568-7B71-4112-B005-8AAA4EE29378</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:24</p>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

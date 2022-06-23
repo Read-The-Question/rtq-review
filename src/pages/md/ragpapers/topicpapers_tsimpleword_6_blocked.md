@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-blocked"
 title: "TopicPaper - Simpleword - 6 - BLOCKED"
-date: 2022-06-23 09:17:09
+date: 2022-06-23 12:04:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10,7 +10,7 @@ date: 2022-06-23 09:17:09
 <p>0D89D99C-655A-400F-A2BF-436B599651FB</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:5</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

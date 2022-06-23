@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-06-23 17:30:55
+date: 2022-06-23 18:12:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -278,7 +278,7 @@ $\dfrac {5} {8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>54CAAF21-5640-4453-94EA-660CB9EDE5B7</p>
 </div>
@@ -286,10 +286,10 @@ $\dfrac {5} {8}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -333,37 +333,6 @@ $\dfrac {2} {9}$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='54CAAF21-5640-4453-94EA-660CB9EDE5B7' id='FORM-54CAAF21-5640-4453-94EA-660CB9EDE5B7' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-54CAAF21-5640-4453-94EA-660CB9EDE5B7'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -919,7 +888,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D91E7853-54E2-4996-A0E0-63852AA3A9B8</p>
 </div>
@@ -927,7 +896,7 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -948,27 +917,19 @@ You must justify your answer clearly.
 <div class='workings'>
 <div class='working'>
 
-Let's make both of the denominator equal to compare.
+Let's make the denominator the same for both, so we can compare them.
 
 $
 \begin{aligned}
-&= \dfrac {2} {3} \\\\
-&= \dfrac {2 \times 4} {3 \times 4} \\\\
-&= \dfrac {8} {12}
+&= \dfrac {2} {3}, \quad \dfrac {3} {4} \\\\
+&= \dfrac {2 \times 4} {3 \times 4}, \quad \dfrac {3 \times 3} {4 \times 3} \\\\
+&= \dfrac {8} {12}, \quad \dfrac {9} {12} \\\\
+&= \dfrac {8} {12}  <  \dfrac {9} {12} \\\\
+&= \dfrac {2} {3}  <  \dfrac {3} {4} 
 \end{aligned}
 $
 
-$
-\begin{aligned}
-&= \dfrac {3} {4} \\\\
-&= \dfrac {3 \times 3} {4 \times 3} \\\\
-&= \dfrac {9} {12}
-\end{aligned}
-$
-
-Since 9 greater than 8. $\dfrac {9} {12}$ is greater than $\dfrac {8} {12}$.
-
-Therefore $\dfrac {3} {4}$ or three quarters is greater than $\dfrac {2} {3}$ or two thirds.
+As per the calculation above, three quarters is greater than two thirds.
 
 </div>
 </div>
@@ -984,26 +945,26 @@ three quarters
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' id='FORM-D91E7853-54E2-4996-A0E0-63852AA3A9B8' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='D91E7853-54E2-4996-A0E0-63852AA3A9B8' id='FORM-D91E7853-54E2-4996-A0E0-63852AA3A9B8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

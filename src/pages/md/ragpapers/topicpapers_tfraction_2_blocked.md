@@ -1,9 +1,67 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-blocked"
 title: "TopicPaper - Fraction - 2 - BLOCKED"
-date: 2022-06-23 17:30:55
+date: 2022-06-23 18:12:24
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>54CAAF21-5640-4453-94EA-660CB9EDE5B7</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:18</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a design formed by drawing six lines in a regular hexagon. The lines divide each edge of the hexagon into three equal parts. What fraction of the hexagon is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {number of triangles in one hexagon} &= 6 \\\\
+\text {total triangles}                    &= 6 \times 7 + 12 \\\\
+                                           &= 42 + 12 \\\\
+                                           &= 54 \\\\
+\text {fraction of hexagon shaded}         &= \dfrac {12} {54} \\\\
+                                           &= \dfrac {2 \times 6} {6 \times 9} \\\\
+                                           &= \dfrac {2 \times \cancel{6}} {\cancel{6} \times 9} \\\\
+                                           &= \dfrac {2} {9}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {9}$
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

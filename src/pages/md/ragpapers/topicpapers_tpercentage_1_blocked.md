@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-blocked"
 title: "TopicPaper - Percentage - 1 - BLOCKED"
-date: 2022-06-22 19:09:59
+date: 2022-06-23 09:17:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-22 19:09:59
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ub_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -256,7 +256,7 @@ $30\% \text{ of } \ 30$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ub_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

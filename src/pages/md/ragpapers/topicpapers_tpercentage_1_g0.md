@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g0"
 title: "TopicPaper - Percentage - 1 - G0"
-date: 2022-06-22 19:09:59
+date: 2022-06-23 09:17:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-22 19:09:59
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -110,7 +110,7 @@ per the diagram
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -219,7 +219,7 @@ Refer F73B4CF0-A753-41AA-B759-D42A1107AB86
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -377,7 +377,7 @@ Refer F73B4CF0-A753-41AA-B759-D42A1107AB86
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

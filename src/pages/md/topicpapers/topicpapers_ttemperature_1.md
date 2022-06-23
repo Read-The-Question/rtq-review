@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2022-06-22 19:09:59
+date: 2022-06-23 09:17:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-06-22 19:09:59
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -182,7 +182,7 @@ $4 \degree  \text{C}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -337,7 +337,7 @@ $12 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -400,7 +400,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -481,7 +481,7 @@ $7 \degree \text{C}$
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -673,7 +673,7 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -834,7 +834,7 @@ TODOANSWER
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -892,7 +892,7 @@ TODOANSWER
 <p>csse--11-plus--maths--2015--sample-paper-2:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1081,7 +1081,7 @@ $10$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1153,7 +1153,7 @@ $- 2 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>589CB670-19FF-4680-B62A-A16EE6BD7418</p>
 </div>
@@ -1161,7 +1161,7 @@ $- 2 \degree$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g1</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1309,26 +1309,26 @@ Belfast, Cadiff & Plymouth, London
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' id='FORM-589CB670-19FF-4680-B62A-A16EE6BD7418' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' id='FORM-589CB670-19FF-4680-B62A-A16EE6BD7418' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1340,7 +1340,7 @@ Belfast, Cadiff & Plymouth, London
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>0237E500-6C62-4B6B-9D5F-1235E8D6E07B</p>
 </div>
@@ -1348,7 +1348,7 @@ Belfast, Cadiff & Plymouth, London
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g1</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1503,26 +1503,26 @@ Manchester
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' id='FORM-0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' id='FORM-0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1542,7 +1542,7 @@ Manchester
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1623,7 +1623,7 @@ $61 \degree \text{C}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1767,7 +1767,7 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:27</p>
 </div>
 <div class='rag'>
-<p>rag_ub_blocked</p>
+<p>rag_ga_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1879,7 +1879,7 @@ $-18 \degree \text{C}$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2015,7 +2015,7 @@ $\pounds 30$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2210,7 +2210,7 @@ $-9 \degree \text {C}$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2291,7 +2291,7 @@ $19 \degree$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2376,7 +2376,7 @@ $4 \degree \text{C}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2489,7 +2489,7 @@ Remove summary line Rome is warmer than ...
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2549,7 +2549,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2634,7 +2634,7 @@ $-7 \degree \text{C}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2699,7 +2699,7 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2753,7 +2753,7 @@ TODOANSWER
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2863,7 +2863,7 @@ Difference = 23 - 12
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3009,7 +3009,7 @@ $-7 \degree \text{C}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3084,7 +3084,7 @@ $5 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4C30C140-DE0B-4840-B727-FB67ABC627E4</p>
 </div>
@@ -3092,7 +3092,7 @@ $5 \degree \text {C}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g1</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3241,26 +3241,26 @@ $-3 \degree \text {C}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' id='FORM-4C30C140-DE0B-4840-B727-FB67ABC627E4' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' id='FORM-4C30C140-DE0B-4840-B727-FB67ABC627E4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3280,7 +3280,7 @@ $-3 \degree \text {C}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3462,7 +3462,7 @@ Do not write \ \text{C}. Write \text{C}
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3563,7 +3563,7 @@ Write \text{C} instead of \ \text{C} in workings and answers
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3691,7 +3691,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3764,7 +3764,7 @@ $-8 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9</p>
 </div>
@@ -3772,7 +3772,7 @@ $-8 \degree \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g1</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3866,26 +3866,26 @@ $6 \degree \text{C}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' id='FORM-1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' id='FORM-1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3905,7 +3905,7 @@ $6 \degree \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4005,7 +4005,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4147,7 +4147,7 @@ $-7 \degree \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4292,7 +4292,7 @@ $-7 \degree \text {C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4454,7 +4454,7 @@ Change \ \text{C}
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4555,7 +4555,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ga_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4710,7 +4710,7 @@ Remove As per the diagram
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:30</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g2</p>
+<p>rag_ga_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4903,7 +4903,7 @@ $96$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ga_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

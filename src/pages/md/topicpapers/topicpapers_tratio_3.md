@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-3"
 title: "TopicPaper - Ratio - 3"
-date: 2022-06-23 18:26:54
+date: 2022-06-23 20:14:01
 ---
 <div class='paper'>
 <div class='meta'>

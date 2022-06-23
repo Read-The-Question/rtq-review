@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-06-23 18:12:24
+date: 2022-06-23 18:26:54
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1307,7 +1307,7 @@ Write down (in simplest form) the fraction that the arrow is pointing to:
 <div class='working'>
 
 $
-/begin{aligned}
+\begin{aligned}
 &= \dfrac {1} {2} \bigg ( \dfrac {3} {10} + \dfrac {1} {2} \bigg ) \\\\
 &= \dfrac {1} {2} \bigg ( \dfrac {3} {10} + \dfrac {5} {2 \times 5} \bigg ) \\\\
 &= \dfrac {1} {2} \bigg ( \dfrac {3} {10} + \dfrac {5} {10} \bigg ) \\\\
@@ -1318,7 +1318,7 @@ $
 &= \dfrac {2 \times 4} {2 \times 5} \\\\
 &= \dfrac {\cancel{2} \times 4} {\cancel{2} \times 5} \\\\
 &= \dfrac {4} {5}
-/end{aligned}
+\end{aligned}
 $
 
 </div>

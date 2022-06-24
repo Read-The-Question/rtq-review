@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-blocked"
 title: "TopicPaper - Angle - 2 - BLOCKED"
-date: 2022-06-24 15:09:23
+date: 2022-06-24 18:32:48
 ---
 <ul class='question default-decimal'>
 <li>

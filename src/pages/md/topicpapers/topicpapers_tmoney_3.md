@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-06-24 15:09:23
+date: 2022-06-24 18:32:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2618,7 +2618,7 @@ $\pounds 7.50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B14230C1-397F-4229-962F-877D59B5C1B2</p>
 </div>
@@ -2626,10 +2626,10 @@ $\pounds 7.50$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2668,14 +2668,11 @@ How much did she pay in total for her stationery?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-.
-
 $
 \begin{aligned}
-\text {Total cost}  &= 4 \times 46 \text {p} + 5 \times 37 \text {p} + 3 \times 3 \text {p} \\\\
-                    &= 4 \times \pounds 0.46 + 5 \times \pounds 0.37 + 3 \times \pounds 0.03 \\\\
-                    &= 1.84 + 1.85 + 0.09 \\\\
+\text {Total cost}  &= 4 \times 46 + 5 \times 37 + 3 \times 3 \\\\
+                    &= 184 + 185 + 9 \\\\
+                    &= 378 \text {p}  \\\\
                     &= \pounds 3.78
 \end{aligned}
 $
@@ -2726,26 +2723,26 @@ $\pounds 6.22$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' id='FORM-B14230C1-397F-4229-962F-877D59B5C1B2' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='B14230C1-397F-4229-962F-877D59B5C1B2' id='FORM-B14230C1-397F-4229-962F-877D59B5C1B2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2757,7 +2754,7 @@ $\pounds 6.22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>26BE9BBB-6A7B-493E-92F7-34048794B52B</p>
 </div>
@@ -2765,10 +2762,10 @@ $\pounds 6.22$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2811,26 +2808,26 @@ $\pounds 1.48$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' id='FORM-26BE9BBB-6A7B-493E-92F7-34048794B52B' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='26BE9BBB-6A7B-493E-92F7-34048794B52B' id='FORM-26BE9BBB-6A7B-493E-92F7-34048794B52B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2842,7 +2839,7 @@ $\pounds 1.48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>88771F84-2908-43E4-9380-A12099F3BB56</p>
 </div>
@@ -2850,10 +2847,10 @@ $\pounds 1.48$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2883,9 +2880,9 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-\text {Money spent}         &= 3 \times 12 \text {p} + 5 \times 11 \text {p} \\\\
-                            &= 3 \times \pounds 0.12 + 5 \times \pounds 0.11 \\\\
-                            &= 0.36 + 0.55 \\\\
+\text {Money spent}         &= 3 \times 12  + 5 \times 11 \\\\
+                            &= 36 + 55 \\\\
+                            &= 91 \text{p} \\\\
                             &= \pounds 0.91 \\\\
 \text {Change received}     &= 2 - 0.91 \\\\
                             &= 1.09 \\\\
@@ -2907,26 +2904,26 @@ $\pounds 1 \ \text {and} \ 9 \text {p}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' id='FORM-88771F84-2908-43E4-9380-A12099F3BB56' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='88771F84-2908-43E4-9380-A12099F3BB56' id='FORM-88771F84-2908-43E4-9380-A12099F3BB56' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3799,11 +3796,9 @@ A calculator costs $\pounds 1.75$. In 1979 the same calculator cost 24 times as 
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{Cost in 1979} &= 24 \times \pounds 1.75 \\\\
+\text{Cost in 1979} &= 24 \times 1.75 \\\\
                     &= \pounds 42
 \end{aligned}
 $
@@ -3858,7 +3853,7 @@ Cost in 1979...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>ADBF2411-1D01-472E-9BC0-7C51FF7A56D5</p>
 </div>
@@ -3866,10 +3861,10 @@ Cost in 1979...
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3910,7 +3905,7 @@ What is the total cost?
 
 $
 \begin{aligned}
-\text {Total cost}      &= 5 \times \pounds 12.98 \\\\
+\text {Total cost}      &= 5 \times 12.98 \\\\
                         &= \pounds 64.90
 \end{aligned}
 $
@@ -3956,26 +3951,26 @@ $64.9$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' id='FORM-ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' id='FORM-ADBF2411-1D01-472E-9BC0-7C51FF7A56D5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3987,7 +3982,7 @@ $64.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66</p>
 </div>
@@ -3995,10 +3990,10 @@ $64.9$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4037,11 +4032,9 @@ How much would it cost for $6$ adults to go to the zoo?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text {Total cost}  &= 6 \times \pounds 12.50 \\\\
+\text {Total cost}  &= 6 \times 12.50 \\\\
                     &= \pounds 75
 \end{aligned}
 $
@@ -4068,11 +4061,9 @@ How much would it cost for $3$ adults and $4$ children?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text {Total cost}  &= 3 \times \pounds 12.50 + 4 \times \pounds 8 \\\\
+\text {Total cost}  &= 3 \times 12.50 + 4 \times 8 \\\\
                     &= 37.50 + 32 \\\\
                     &= \pounds 69.50
 \end{aligned}
@@ -4100,21 +4091,14 @@ The zoo has a Family Ticket for sale which allows two adults and three children 
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text {Total cost of five separate tickets}     &= 2 \times \pounds 12.50 + 3 \times 8 \\\\
+\text {Cost of } 5 \text{ separate tickets}     &= 2 \times 12.50 + 3 8 \\\\
                                                 &= 25 + 24 \\\\
-                                                &= \pounds 49
+                                                &= \pounds 49 \\\\
+\text {Money saved}                             &= 49 - 38 \\\\
+                                                &= \pounds 11
 \end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Money saved}     &= 49 - 38 \\\\
-                        &= \pounds 11
-\end{aligned}
 $
 
 </div>
@@ -4134,26 +4118,26 @@ $\pounds 11$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' id='FORM-36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' id='FORM-36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

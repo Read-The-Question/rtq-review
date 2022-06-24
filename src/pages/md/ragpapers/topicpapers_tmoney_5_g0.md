@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-5-g0"
 title: "TopicPaper - Money - 5 - G0"
-date: 2022-06-24 07:14:51
+date: 2022-06-24 11:05:13
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>43EF5D79-3FD1-422A-BD9F-D7DC37283EA9</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-24 07:14:51
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -40,30 +40,26 @@ How much change did she get from $$\pounds 5$?
 <div class='workings'>
 <div class='working'>
 
-Let the change Alison recieved $= a$
-
-$\pounds 5$ = $5 \times 100 \text{p}$ = $500 \text{p}$
-
-As per the question,
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
-2 \times 53 \text{p} + 3 \times 27 \text{p} + 124 \text{p} + a              &= 500 \text{p} \\\\
-106 + 81 + 124 + a                                                          &= 500 \\\\
-311 + a                                                                     &= 500 \\\\
-a                                                                           &= 500 - 311 \\\\
-a                                                                           &= 189  \text{p}
+\text {Money spent}     &= 2 \times 53 \text {p} + 3 \times 27 \text {p} + \pounds 1.24 \\\\
+                        &= 2 \times \pounds 0.53 + 3 \times \pounds 0.27 + \pounds 1.24 \\\\
+                        &= 1.06 + 0.81 + 1.24 \\\\
+                        &= \pounds 3.11 \\\\
+\text {Change received} &= 5 - 3.11 \\\\
+                        &= \pounds 1.89
 \end{aligned}
 $
-
-Change Alison recieved $= 189 \text{p}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$189 \text{p}$
+$\pounds 1.89$
 
 </div>
 </div>
@@ -103,7 +99,7 @@ $189 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>37D61EFA-7D37-4E7B-87AC-FE2256B7021C</p>
 </div>
@@ -114,7 +110,7 @@ $189 \text{p}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -166,27 +162,17 @@ How much does **one** apple cost?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-Cost of $4$ apples = Money he paid - Money he recieved 
-
-$
-\begin{aligned}
-&= \pounds 2 - \pounds 1.20 \\\\
-&= \pounds 0.80
-\end{aligned}
-$
-
-Cost of $1$ apple = $\pounds \dfrac{0.80} {4}$
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
-&= \dfrac {0.8 \times 10} {4 \times 10} \\\\
-&= \dfrac {8} {4 \times 10} \\\\
-&= \dfrac {4 \times 2} {4 \times 10} \\\\
-&= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 10} \\\\
-&= \dfrac {2}{10} \\\\
-&= \pounds 0.2
+\text {Cost of an apple}    &= \dfrac {2 - 1.20} {4} \\\\
+                            &= \dfrac {0.80} {4} \\\\
+                            &= \dfrac {0.20 \times 4} {4} \\\\
+                            &= \dfrac {0.20 \times \cancel {4}} {\cancel {4}} \\\\
+                            &= \pounds 0.20 \\\\
+                            &= 20 \text {p}
 \end{aligned}
 $
 
@@ -195,7 +181,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.2$
+$20 \text {p}$
 
 </div>
 </div>
@@ -220,34 +206,23 @@ What is the greatest number of oranges Raj can buy with $\pounds 1?
 <div class='workings'>
 <div class='working'>
 
-Let the greatest number of oranges Raj can buy = $a$
-
-Cost of each orange = $15 \text{p}$
-
-Total money Raj has = $\pounds 1 = 100 \text{p}$
-
 As per the question,
 
 $
-\begin{aligned}
-15 \times a         &< 100 \\\\
-a                   &< \dfrac{100} {15} \\\\
-a                   &< \dfrac{20 \times 5} {3 \times 5} \\\\
-a                   &< \dfrac{20 \times \cancel{5}} {3 \times \cancel{5}} \\\\
-a                   &< \dfrac {20} {3} \\\\
-a                   &< 6.66 \\\\
-a                   &= 6
-\end{aligned}
+\begin {aligned}
+\text {Number of oranges}   &= \dfrac {\pounds 1} {15 \text {p}} \\\\
+                            &= \dfrac {100 \text {p}} {15 \text {p}} \\\\
+                            &= 6.66 \\\\
+                            &= 6 \ \text {oranges}
+\end {aligned}
 $
-
-The greatest number of oranges Raj can buy = $6$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6$
+$6 \ \text {oranges}$
 
 </div>
 </div>

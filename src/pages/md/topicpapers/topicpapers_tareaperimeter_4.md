@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-4"
 title: "TopicPaper - Areaperimeter - 4"
-date: 2022-06-24 07:14:51
+date: 2022-06-24 11:05:13
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2160,13 +2160,14 @@ ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
 Let the breadth of rectangle $= x$
 
+Length $= x + 2$
+
 As per the question,
 
 $
 \begin{aligned}
-\text {Length}                                          &= x + 2 \\\\
 \text {Perimeter}                                       &= 14 \\\\
-2 \times(x + (x + 2))                                   &= 14 \\\\
+2 \times((x + 2) + x)                                   &= 14 \\\\
 2 \times(2x + 2)                                        &= 14 \\\\
 (2x + 2)                                                &= \dfrac {14} {2} \\\\
 (2x + 2)                                                &= \dfrac {7 \times 2} {2} \\\\
@@ -2228,7 +2229,7 @@ $1.25 \ \text{m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>80A03144-6FE7-47FE-80C3-2CE1292F70D2</p>
 </div>
@@ -2239,7 +2240,7 @@ $1.25 \ \text{m}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2290,7 +2291,7 @@ $
                                                     &= \dfrac {20 \text{m}^{2}} {5} \\\\
                                                     &= \dfrac {4 \times 5} {5} \\\\
                                                     &= \dfrac {4 \times \cancel{5}} {\cancel{5}} \\\\
-                                                    &= 4 \text{m}^{2}
+                                                    &= 4 \ \text{m}^{2}
 \end{aligned}
 $
 
@@ -2299,7 +2300,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4 \text{m}^{2}$
+$4 \ \text{m}^{2}$
 
 </div>
 </div>
@@ -2310,32 +2311,36 @@ $4 \text{m}^{2}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What Is the length of each side of each Individual square?
+What is the length of each side of each Individual square?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the length of each side of the individual square (in m) $= a$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+Let each side of the individual square (in m) $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Area} &= \text{side} \times \text{side}
- \\\\
-a \times a                                      &= 4 \text{m}^{2} \\\\
-a^{2}                                           &= 2^{2} \\\\
-a                                               &= 2 \text{m}
+a \times a                                      &= 4 \\\\
+a^{2}                                           &= 4 \\\\
+a                                               &= \sqrt {4} \\\\
+a                                               &= 2 \ \text {m}
 \end{aligned}
 $
 
-The length of each side of the individual square $= 2 \text{m}$.
+The length of each side of the individual square $= 2 \ \text{m}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2 \text{m}$
+$2 \ \text{m}$
 
 </div>
 </div>
@@ -2352,11 +2357,13 @@ What Is the perimeter of the path?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
 $
 \begin{aligned} 
-\text{Perimeter}                                    &= \text{Sum of all sides} \\\\
-                                                    &= 2 \text{m} \times 12 \\\\
-                                                    &= 24 \text{m}
+\text{Perimeter}                                    &= 2 \times 12 \\\\
+                                                    &= 24 \ \text{m}
 \end{aligned}
 $
 
@@ -2365,7 +2372,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \text{m}$
+$24 \ \text{m}$
 
 </div>
 </div>
@@ -2408,7 +2415,7 @@ $24 \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9F69A09F-DC67-4C65-9482-73903E4F9BB4</p>
 </div>
@@ -2419,7 +2426,7 @@ $24 \text{m}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2439,30 +2446,32 @@ A square has area $49\ \text{cm}^2$. What is the perimeter of the square?
 <div class='workings'>
 <div class='working'>
 
-We know, 
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-Area of a square $= \text{Side} \times \text{Side}$
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let side of the square (in cm) $= a$
 
 As per the question,
 
-Let the length of the square (in cm) $= a$
-
 $
 \begin{aligned}
-a \times a                                      &= 49 \ \text{cm}^2\\\\
-a^{2}                                           &= 7^{2} \\\\
+a \times a                                      &= 49 \\\\
+a^{2}                                           &= 49 \\\\
+a                                               &= \sqrt {49} \\\\
 a                                               &= 7 \ \text{cm}
 \end{aligned}
 $
 
-The length of the side of the square $= 7 \ \text{cm}$
+Side of the square $= 7 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
 $
 \begin{aligned}
-\text{Perimeter of the square}                  &= 4 \times a \\\\
-                                                &= 4 \times 7 \\\\
+\text{Perimeter of the square}                  &= 4 \times 7 \\\\
                                                 &= 28 \ \text{cm}
 \end{aligned}
 $
@@ -2512,7 +2521,7 @@ $28 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FB99253B-2684-4954-B0CD-C244509033ED</p>
 </div>
@@ -2523,7 +2532,7 @@ $28 \ \text{cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2543,31 +2552,32 @@ A square has area $64\ \text{cm}^2$. What is the perimeter of the square?
 <div class='workings'>
 <div class='working'>
 
-We know,
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-Area of a square $= \text{Side} \times \text{Side}$
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let side of the square (in cm) $= a$
 
 As per the question,
 
-Let the length of the square (in cm) $= a$
-
-
 $
 \begin{aligned}
-a \times a                                      &= 64 \ \text{cm}^2\\\\
-a^{2}                                           &= 8^{2} \\\\
+a \times a                                      &= 64 \\\\
+a^{2}                                           &= 64 \\\\
+a                                               &= \sqrt {64} \\\\
 a                                               &= 8 \ \text{cm}
 \end{aligned}
 $
 
-The length of the side of the square $= 8 \ \text{cm}$
+Side of the square $= 8 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
 $
 \begin{aligned}
-\text{Perimeter of the square}                  &= 4 \times a \\\\
-                                                &= 4 \times 8 \\\\
+\text{Perimeter of the square}                  &= 4 \times 8 \\\\
                                                 &= 32 \ \text{cm}
 \end{aligned}
 $
@@ -2717,7 +2727,7 @@ $76 \text{m}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4AFBC40F-1638-4EA4-8624-F4D2729AD1A4</p>
 </div>
@@ -2728,7 +2738,7 @@ $76 \text{m}^{2}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2760,7 +2770,7 @@ As per the question,
 
 $
 \begin{aligned}
-a \times a                                      &= 36 \ \text{cm}^2\\\\
+a \times a                                      &= 36 \\\\
 a^{2}                                           &= 36 \\\\
 a                                               &= \sqrt {36} \\\\
 a                                               &= 6 \ \text{cm}
@@ -2773,8 +2783,7 @@ Let's find the perimeter of the square.
 
 $
 \begin{aligned}
-\text{Perimeter of the square}                  &= 4 \times a \\\\
-                                                &= 4 \times 6 \\\\
+\text{Perimeter of the square}                  &= 4 \times 6 \\\\
                                                 &= 24 \ \text{cm}
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-oldpr"
 title: "TopicPaper - Money - 4 - OLDPR"
-date: 2022-06-24 07:14:51
+date: 2022-06-24 11:05:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -177,7 +177,7 @@ How much money is collected?
 
 $
 \begin{aligned}
-\text{Money collected}  &= 85 \times \pounds 1.30 \\\\
+\text{Money collected}  &= 85 \times 1.30 \\\\
                         &= \pounds 110.50
 \end{aligned}
 $
@@ -232,7 +232,7 @@ delete total money collected at end
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>ED194211-094B-4A65-A8B1-1480273C455A</p>
 </div>
@@ -243,7 +243,7 @@ delete total money collected at end
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -261,15 +261,15 @@ The jar of coffee cost $\pounds 3.69$ and the carton of milk cost $89 \text{p}$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
-\text {Cost of sugar}       &= \text {Total cost} - \text {Cost of coffee} - \text {Cost of milk} \\\\
-                            &= \pounds 5.15 - \pounds 3.69 - 89 \text {p} \\\\
-                            &= \pounds 5.15 - \pounds 3.69 - \pounds 0.89 \\\\
-                            &= 5.15 - 4.58 \\\\
-\text {Cost of sugar}       &= \pounds 0.57 = 57 \text {p}
+\text {Cost of sugar}       &= \pounds 5.15 - \pounds 3.69 - 89 \text {p}) \\\\
+                            &= 515 \text {p} - 369 \text {p} - 89 \text {p}) \\\\
+                            &= 146 - 89 \\\\
+                            &= 57 \text {p}
 \end{aligned}
 $
 
@@ -323,7 +323,7 @@ missing unitconvert sentence..
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC</p>
 </div>
@@ -334,7 +334,7 @@ missing unitconvert sentence..
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -357,7 +357,7 @@ Price List
 Sandwich $\pounds 1.49
 Cookie $\pounds 0.69
 Ice Lolly $\pounds 0.49
-Soda $\pounds 0.9
+Soda $\pounds 0.99
 -->
 
 
@@ -366,20 +366,17 @@ Soda $\pounds 0.9
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+As per the table,
 
 $
 \begin{aligned}
-\text{The total change} &= \text{The total amount he has} - (\text{cost of  2 sandwiches} + \text{cost of  a cookie}) \\\\
-&=  \pounds 5 - (2 \times \pounds 1.49 + \pounds 0.69) \\\\
-&=  5 - (2.98 + 0.69) \\\\
-&=  5 - 3.67 \\\\
-&=  1.33 \\\\
-&=  \pounds 1.33
+\text {Money spent}     &= 2 \times 1.49 + 0.69 \\\\
+                        &= 2.98 + 0.69 \\\\
+                        &= \pounds 3.67 \\\\
+\text {Change received} &= 5 - 3.67 \\\\
+                        &= \pounds 1.33
 \end{aligned}
 $
-
-Change he recieves =  $\pounds 1.33$.
 
 </div>
 </div>
@@ -426,7 +423,7 @@ $\pounds 1.33$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B997CEC0-1CE9-4FA7-9498-ABBF735994C3</p>
 </div>
@@ -437,7 +434,7 @@ $\pounds 1.33$
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -454,10 +451,27 @@ Which is better value, $600 \ \text{g}$ for $\pounds 3$ or $500 \ \text{g}$ for 
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$
+\begin {aligned}
+\text {First value}     &= \dfrac {600} {3} \\\\
+                        &= \dfrac {3 \times 200} {3} \\\\
+                        &= \dfrac {\cancel {3} \times 200} {\cancel {3}} \\\\
+                        &= 200 \ \text {g} \\\\
+\text {Second value}    &= \dfrac {500} {2.75} \\\\
+                        &= \dfrac {500 \times 100} {2.75 \times 100} \\\\
+                        &= \dfrac {500 \times 100} {275} \\\\
+                        &= \dfrac {5 \times 5 \times 5 \times 2 \times 2 \times 100} {5 \times 5 \times 11} \\\\
+                        &= \dfrac {\cancel {5} \times \cancel {5} \times 20 \times 100} {\cancel {5} \times \cancel {5} \times 11} \\\\
+                        &= \dfrac {20 \times 100} {11} \\\\
+                        &= \dfrac {2000} {11} \\\\
+                        &= 181 \ \text {remainder} \ 9 \\\\
+                        &\approx 181 \ \text {g}
+\end {aligned}
+$
 
-$\text{By comparing equal mass}$,
-$600 \ \text{g} \  \text{for} \  \pounds 3  \ \text{is better value than}  \ 500 \ \text{g} \  \text{for} \  \pounds 2.75$
+Using the calculation above,
+
+Better value $= 600 \ \text {g}$ for $\pounds 3$
 
 </div>
 </div>
@@ -538,21 +552,16 @@ The local bakery sells muffins at $85 \text{p}$ each. I have $\pounds 15$ to spe
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-Let the number of muffins I can buy be $=a$
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
-\text{Cost of each muffin} \times {Number of muffins I can buy}  &= {Total Money I have} \\\\
-85 \times a                                                      &= \pounds 15   \\\\\
-85 \times a                                                      &= 1500 \text{pence} \\\\
-a                                                                &= \dfrac{1500}{85} \\\\
-a                                                                &= \dfrac{300 \times 5}{17 \times 5} \\\\
-a                                                                &= \dfrac{300 \times \cancel{5}}{17 \times \cancel{5}} \\\\
-a                                                                &= \dfrac{300}{17} \\\\
-a                                                                &= 17 \dfrac {11} {17} \\\\
-a                                                                &= \approx 17
+\text {Number of muffins}   &= \dfrac {\pounds 15} {85 \text {p}} \\\\
+                            &= \dfrac {1500 \text {p}} {85 \text {p}} \\\\
+                            &= \dfrac {1500} {85} \\\\
+                            &= 17.64 \\\\
+                            &= 17
 \end{aligned}
 $
 

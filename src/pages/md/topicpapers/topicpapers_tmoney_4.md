@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-4"
 title: "TopicPaper - Money - 4"
-date: 2022-06-24 06:03:42
+date: 2022-06-24 07:14:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1919,8 +1919,6 @@ What is the cost, in pence, of one ice lolly?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pence.
 
 $
 \begin{aligned}
@@ -4157,8 +4155,6 @@ My garden centre sells Summer bedding plants at $85 \text{p}$ each. I have $\pou
 
 ABBR: It is really important to use the right units in calculations and convert where required.
 
-
-Let's convert all the expenses into pence.
 
 $
 \begin{aligned}

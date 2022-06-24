@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g0-prcc"
 title: "TopicPaper - Money - 4 - G0 - PRCC"
-date: 2022-06-24 06:03:42
+date: 2022-06-24 07:14:51
 ---
 <ul class='question default-decimal'>
 <li>
@@ -415,8 +415,6 @@ What is the cost, in pence, of one ice lolly?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pence.
 
 $
 \begin{aligned}

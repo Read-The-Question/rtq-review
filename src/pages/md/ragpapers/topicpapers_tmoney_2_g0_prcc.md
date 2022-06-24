@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g0-prcc"
 title: "TopicPaper - Money - 2 - G0 - PRCC"
-date: 2022-06-24 06:03:42
+date: 2022-06-24 07:14:51
 ---
 <ul class='question default-decimal'>
 <li>
@@ -137,8 +137,6 @@ How much change will she receive?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pence.
 
 $
 \begin {aligned}
@@ -551,8 +549,6 @@ Let the cost of a bag (in \text {pence}) $= a$
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pence.
-
 As per the question,
 
 $
@@ -711,8 +707,6 @@ How many times can she visit a side show if she has a cream tea as well?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pence.
 
 $
 \begin {aligned}

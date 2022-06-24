@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g2"
 title: "TopicPaper - Money - 2 - G2"
-date: 2022-06-24 06:03:42
+date: 2022-06-24 07:14:51
 ---
 <ul class='question default-decimal'>
 <li>
@@ -43,26 +43,22 @@ Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pence.
-
 $
 \begin {aligned}
-\text {Cost of 12 cans}                 &= 12 \times 65 \ \text {pence} \\\\
-                                        &= 780 \ \text {pence} \\\\
-\text {Difference}                      &= 780 \ \text {pence} - \pounds 6.95 \\\\
-                                        &= 780 \ \text {pence} - 695 \ \text {pence} \\\\
-                                        &= 85 \ \text {pence}
+\text {Cost of 12 cans}                 &= 12 \times 65 \\\\
+                                        &= 780 \text {p} \\\\
+\text {Cheaper by}                      &= 780 \text {p} - \pounds 6.95 \\\\
+                                        &= 780 \text {p} - 695 \text {p} \\\\
+                                        &= 85 \text {p}
 \end {aligned}
 $
-
-It is $85 \ \text {pence}$ cheaper to buy a multipack of $12$ cans than to buy $12$ cans individually.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$85 \ \text {pence}$
+$85 \text {p}$
 
 </div>
 </div>
@@ -137,19 +133,15 @@ Calculate how much cheaper it is to buy a multipack of $15$ packets of crisps th
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pence.
-
 $
 \begin {aligned}
-\text {Cost of 15 packets}  &= 15 \times 35 \ \text {pence} \\\\
-                            &= 525 \ \text {pence} \\\\
-\text {Difference}          &= 525 \ \text {pence} - \pounds 3.90 \\\\
-                            &= 525 \ \text {pence} - 390 \ \text {pence} \\\\
-                            &= 135 \ \text {pence}
+\text {Cost of 15 packets}  &= 15 \times 35 \\\\
+                            &= 525 \text {p} \\\\
+\text {Cheaper by}          &= 525 \text {p} - \pounds 3.90 \\\\
+                            &= 525 \text {p} - 390 \text {p} \\\\
+                            &= 135 \text {p}
 \end {aligned}
 $
-
-It is $135 \ \text {pence}$ cheaper to buy a multipack of $15$ packets than to buy $15$ packets individually.
 
 </div>
 </div>
@@ -249,9 +241,9 @@ Work out how much money Clare had in total, giving your answer in pounds and pen
 
 $
 \begin{aligned}
-\text {Total amount}    &= 8 \times 35 \text {p} + 30 \text {p} \\\\
-                        &= 8 \times \pounds 0.35 + \pounds 0.30 \\\\
-                        &= 2.80 + 0.30 \\\\
+\text {Total amount}    &= 8 \times 35 + 30  \\\\
+                        &= 280 + 30 \\\\
+                        &= 310 \text {p} \\\\
                         &= \pounds 3.10 \\\\
                         &= \pounds 3 \ \text {and} \ 10 \text {p}
 \end{aligned}
@@ -283,13 +275,13 @@ Work out the price of one packet of jelly gum.
 
 $
 \begin{aligned}
-\text {Cost of 5 lollipops}     &= 5 \times 35 \text {p} \\\\
-                                &= 5 \times \pounds 0.35 \\\\
-                                &= \pounds 1.75 \\\\
-\text {Cost of 3 jelly gums}    &= 3.10 - 1.75 \\\\
-\text {Cost of 1 jelly gums}    &= \dfrac {3.10 - 1.75} {3} \\\\
-                                &= \dfrac {1.35} {3} \\\\
-                                &= \pounds 0.45 \\\\
+\text {Cost of 5 lollipops}     &= 5 \times 35 \\\\
+                                &= 175 \text {p} \\\\
+\text {Cost of 3 jelly gums}    &= 310 - 175 \\\\
+\text {Cost of 1 jelly gums}    &= \dfrac {1} {3} \times (310 - 175) \\\\
+                                &= \dfrac {135} {3} \\\\
+                                &= \dfrac {45 \times 3} {3} \\\\
+                                &= \dfrac {45 \times \cancel{3}} {\cancel{3}} \\\\
                                 &= 45 \text {p}
 \end{aligned}
 $
@@ -523,7 +515,7 @@ $40\%$ of $\pounds 728$.
 
 $
 \begin{aligned}
-&= 40 \% \text \ {of} \ \pounds 728 \\\\
+&= 40 \% \text { of } \pounds 728 \\\\
 &= \dfrac {40} {100} \times 728 \\\\
 &= \dfrac {40 \times 728} {100} \\\\
 &= \dfrac {29120} {100} \\\\
@@ -632,7 +624,7 @@ How much money does he spend altogether?
 
 $
 \begin{aligned}
-\text{Money spent}  &= \pounds 3.99 + \pounds 1.65 + \pounds 1.80 \\\\
+\text{Money spent}  &= 3.99 + 1.65 + 1.80 \\\\
                     &= \pounds 7.44
 \end{aligned}
 $
@@ -661,7 +653,7 @@ How much change should he get from the $\pounds 20$ note?
 
 $
 \begin{aligned}
-\text{Change received}  &= \pounds 20 - \pounds 7.44 \\\\
+\text{Change received}  &= 20 - 7.44 \\\\
                         &= \pounds 12.56
 \end{aligned}
 $
@@ -865,13 +857,11 @@ five family members. How much does each family member get?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text {Each family member gets}     &= \dfrac {\pounds 54 - \pounds 12} {5} \\\\
-                                    &= \dfrac {42} {5} \\\\
-                                    &= \pounds 8.40
+\text {Family member share}     &= \dfrac {54 - 12} {5} \\\\
+                                &= \dfrac {42} {5} \\\\
+                                &= \pounds 8.40
 \end{aligned}
 $
 
@@ -991,9 +981,9 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-\text {Money spent}     &= 4 \times 75 \text {p} + 3 \times 95 \text {p} \\\\
-                        &= 4 \times \pounds 0.75 + 3 \times \pounds 0.95 \\\\
-                        &= 3 + 2.85 \\\\
+\text {Money spent}     &= 4 \times 75 + 3 \times 95 \\\\
+                        &= 300 + 285 \\\\
+                        &= 585 \text{p} \\\\
                         &= \pounds 5.85 \\\\
 \text {Change received} &= 10 - 5.85 \\\\
                         &= \pounds 4.15
@@ -1131,11 +1121,9 @@ Work out how many cookies there are in a special offer tin.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text {Total cookies}   &= 40 + \dfrac {3} {10} \ \text {of} \ 40 \\\\
+\text {Total Cookies}   &= 40 + \dfrac {3} {10} \ \text {of} \ 40 \\\\
                         &= 40 + \dfrac {3} {10} \times 40 \\\\
                         &= 40 + \dfrac {3 \times 40} {10} \\\\
                         &= 40 + \dfrac {3 \times 4 \times 10} {10} \\\\
@@ -1501,9 +1489,9 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-\text {Money spent}     &= 4 \times 65 \ \text {pence} + 3 \times 83 \ \text {pence} \\\\
-                        &= 4 \times \pounds 0.65 + 3 \times \pounds 0.83 \\\\
-                        &= 2.60 + 2.49 \\\\
+\text {Money spent}     &= 4 \times 65 + 3 \times 83 \\\\
+                        &= 260 + 249 \\\\
+                        &= 509 \text{p} \\\\
                         &= \pounds 5.09 \\\\
 \text {Change received} &= 10 - 5.09 \\\\
                         &= \pounds 4.91
@@ -1601,9 +1589,9 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-\text {Money spent}     &= 7 \times 55 \ \text {pence} + 4 \times 63 \ \text {pence} \\\\
-                        &= 7 \times \pounds 0.55 + 4 \times \pounds 0.63 \\\\
-                        &= 3.85 + 2.52 \\\\
+\text {Money spent}     &= 7 \times 55 + 4 \times 63 \\\\
+                        &= 385 + 252 \\\\
+                        &= 637 \text{p} \\\\
                         &= \pounds 6.37 \\\\
 \text {Change received} &= 10 - 6.37 \\\\
                         &= \pounds 3.63
@@ -1926,7 +1914,7 @@ $
 \begin{aligned}
 \text {Money spent}     &= 68 \text {p} + \pounds 3.29 + 5 \times 22 \text {p} + 2 \times 39 \text {p} \\\\
                         &= \pounds 0.68 + \pounds 3.29 + 5 \times \pounds 0.22 + 2 \times \pounds 0.39 \\\\
-                        &= \pounds 3.97 + \pounds 1.1 + 0.78 \\\\
+                        &= 3.97 + 1.1 + 0.78 \\\\
                         &= \pounds 5.85 \\\\
 \text {Change received} &= 20 - 5.85 \\\\
                         &= \pounds 14.15

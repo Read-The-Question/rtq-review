@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-06-24 13:11:40
+date: 2022-06-24 14:18:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1248,7 +1248,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2C3445E3-1339-4624-8B1D-200B7F496333</p>
 </div>
@@ -1256,7 +1256,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1276,24 +1276,14 @@ tmoney
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1311,24 +1301,21 @@ $How much did the pen cost?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Cost of pen}     &= 10 - 4.95 - 1.30 - 2.25 \\\\
+                        &= 5.05 - 1.30 - 2.25 \\\\
+                        &= 3.75 - 2.25 \\\\
+                        &= \pounds 1.50
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 1.50$
 
 </div>
 </div>
@@ -1349,24 +1336,23 @@ How much was the sum of money?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Total money}     &= 3 \times \pounds 3.18 + 2 \text {p} \\\\
+                        &= \pounds 9.54 + \pounds 0.02 \\\\
+                        &= \pounds 9.56
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 9.56$
 
 </div>
 </div>
@@ -1387,24 +1373,22 @@ How many coins are in the jar?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Total coins}     &= \dfrac {\pounds 18.55} {5 \text {p}} \\\\
+                        &= \dfrac {1855 \text {p}} {5 \text {p}} \\\\
+                        &= \dfrac {5 \times 371} {5} \\\\
+                        &= \dfrac {\cancel {5} \times 371} {\cancel {5}} \\\\
+                        &= 371
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$371$
 
 </div>
 </div>
@@ -1413,10 +1397,41 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2C3445E3-1339-4624-8B1D-200B7F496333' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2C3445E3-1339-4624-8B1D-200B7F496333' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2C3445E3-1339-4624-8B1D-200B7F496333' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2C3445E3-1339-4624-8B1D-200B7F496333' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2C3445E3-1339-4624-8B1D-200B7F496333' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2C3445E3-1339-4624-8B1D-200B7F496333' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='2C3445E3-1339-4624-8B1D-200B7F496333' id='FORM-2C3445E3-1339-4624-8B1D-200B7F496333' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2C3445E3-1339-4624-8B1D-200B7F496333'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A954B032-59C4-4BB1-9D4E-4ADF3315E888</p>
 </div>
@@ -1424,7 +1439,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1444,24 +1459,14 @@ tmoney
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1479,24 +1484,31 @@ What was the cost of ach adult ticket?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the cost of an adult ticket (in $\pounds$) $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin {aligned}
+30 \times a + 16 \times 3   &= 408 \\\\
+30a + 48                    &= 408 \\\\
+30a                         &= 408 - 48 \\\\
+30a                         &= 360 \\\\
+a                           &= \dfrac {360} {30} \\\\
+a                           &= \dfrac {12 \times 30} {30} \\\\
+a                           &= \dfrac {12 \times \cancel {30}} {\cancel {30}} \\\\
+a                           &= \pounds 12
+\end {aligned}
+$
+
+Cost of an adult ticket $= \pounds 12$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 12$
 
 </div>
 </div>
@@ -1515,24 +1527,25 @@ What is the sale price of a hoody that originally cost  $\pounds 30$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Sales Price}     &= 30 - 15 \% \ \text {of} \ 30 \\\\
+                        &= 30 - \dfrac {15} {100} \times 30 \\\\
+                        &= 30 - \dfrac {15 \times 30} {100} \\\\
+                        &= 30 - \dfrac {450} {100} \\\\
+                        &= 30 - 4.50 \\\\
+                        &= \pounds 25.50
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 25.50$
 
 </div>
 </div>
@@ -1553,24 +1566,37 @@ How many stickers does Guy have?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let stickers Guy has $= a$
 
-</div>
-<div class='working'>
+Asif has $= \dfrac {a} {2}$
 
-TODOWORKING
+Kyal has $= a - 5$
+
+As per the question,
+
+$
+\begin {aligned}
+a + \dfrac {a} {2} + a - 5                                                                  &= 35 \\\\
+\dfrac {a \times 2} {1 \times 2} + \dfrac {a} {2} + \dfrac {(a - 5) \times 2} {1 \times 2}  &= 35 \\\\
+\dfrac {2a} {2} + \dfrac {a} {2} + \dfrac {a \times 2 - 5 \times 2} {2}                     &= 35 \\\\
+\dfrac {2a + a + 2a - 10} {2}                                                               &= 35 \\\\
+5a - 10                                                                                     &= 35 \times 2 \\\\
+5a                                                                                          &= 70 + 10 \\\\
+a                                                                                           &= \dfrac {80} {5} \\\\
+a                                                                                           &= \dfrac {5 \times 16} {5} \\\\
+a                                                                                           &= \dfrac {\cancel {5} \times 16} {\cancel {5}} \\\\
+a                                                                                           &= 16
+\end {aligned}
+$
+
+Guy has $= 16$ stickers
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$16$
 
 </div>
 </div>
@@ -1579,6 +1605,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A954B032-59C4-4BB1-9D4E-4ADF3315E888' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A954B032-59C4-4BB1-9D4E-4ADF3315E888' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A954B032-59C4-4BB1-9D4E-4ADF3315E888' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A954B032-59C4-4BB1-9D4E-4ADF3315E888' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A954B032-59C4-4BB1-9D4E-4ADF3315E888' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A954B032-59C4-4BB1-9D4E-4ADF3315E888' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A954B032-59C4-4BB1-9D4E-4ADF3315E888' id='FORM-A954B032-59C4-4BB1-9D4E-4ADF3315E888' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A954B032-59C4-4BB1-9D4E-4ADF3315E888'>Initial</p>
+</div>
 </div>
 </li>
 <li>

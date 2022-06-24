@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-pr"
 title: "TopicPaper - Money - 1 - PR"
-date: 2022-06-24 14:18:23
+date: 2022-06-24 15:09:23
 ---
 <ul class='question default-decimal'>
 <li>
@@ -578,6 +578,258 @@ $16$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-A954B032-59C4-4BB1-9D4E-4ADF3315E888'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>4E57F639-F608-4331-AA87-22415889E213</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2:1:11</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+TJ is sorting out prices for the snack shop at school, he has a box of $15$ chocolate bars. He bought the while box for 
+$\pounds 4.05$. He plans to sell the bars for $35 \text{p}$ each.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much money will TJ recieve if he sells all 15 bars at 35 \text{p}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+$
+\begin{aligned}
+\text {Profit}  &= 15 \times 35 \ \text {p} - \pounds 4.05 \\\\
+                &= 15 \times \pounds 0.35 - \pounds 4.05 \\\\
+                &= 5.25 - 4.05 \\\\
+                &= \pounds 1.20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much did TJ pay each bar when he bought the box?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Cost of a bar}   &= \dfrac {4.05} {15} \\\\
+                        &= \dfrac {4.05 \times 100} {15 \times 100} \\\\
+                        &= \dfrac {405} {15 \times 100} \\\\
+                        &= \dfrac {15 \times 27} {15 \times 100} \\\\
+                        &= \dfrac {\cancel {15} \times 27} {\cancel {15} \times 100} \\\\
+                        &= \dfrac {27} {100} \\\\
+                        &= \pounds 0.27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 0.27$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+TJ also has two types of cereal snacks: raisin bars and nut bars. Each raisin bar is $12 \text{p}$ 
+more to buy than a nut bar. Nine raisin bars and twelve nut bars cost $\pounds 5.28$.
+
+How much more do nine raisin bars cost than nine nut bars?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let the cost of a nut bar (in pence) $= a$
+
+Cost of a raisin bar (in pence) $= a + 12$
+
+As per the question,
+
+$
+\begin {aligned}
+9 \times (a + 12) + 12 \times a     &= \pounds 5.28 \\\\
+9 \times a + 9 \times 12 + 12a      &= 528 \text {p} \\\\
+9a + 108 + 12a                      &= 528 \\\\
+21a                                 &= 528 - 108 \\\\
+21a                                 &= 420 \\\\
+a                                   &= \dfrac {420} {21} \\\\
+a                                   &= \dfrac {20 \times 21} {21} \\\\
+a                                   &= \dfrac {20 \times \cancel {21}} {\cancel {21}} \\\\
+a                                   &= 21 \text {p}
+\end {aligned}
+$
+
+Cost of a nut bar $= 21 \text {p}$
+
+$
+\begin {aligned}
+\text {Cost of a nut bar}       &= 21 \text {p} \\\\
+\text {Cost of a raisin bar}    &= 21 + 9 \\\\
+                                &= 30 \text {p}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Cost of} \ 9 \ \text {nut bars}      &= 9 \times 21 \\\\
+                                            &= 189 \text {p} \\\\
+\text {Cost of} \ 9 \ \text {raisin bars}   &= 9 \times 30 \\\\
+                                            &= 270 \text {p}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Difference}  &= 270 - 189 \\\\
+                    &= 81 \text {p}
+\end {aligned}
+$
+
+Nine raisin bars cost $81 \text {p}$ more than nine nut bars.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81 \text {p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much does a raisin bar cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Cost of a raisin bar}    &= \dfrac {270} {9} \\\\
+                                &= \dfrac {9 \times 30} {9} \\\\
+                                &= \dfrac {\cancel {9} \times 30} {\cancel {9}} \\\\
+                                &= 30 \text {p}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \text {p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4E57F639-F608-4331-AA87-22415889E213' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4E57F639-F608-4331-AA87-22415889E213' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4E57F639-F608-4331-AA87-22415889E213' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4E57F639-F608-4331-AA87-22415889E213' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4E57F639-F608-4331-AA87-22415889E213' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4E57F639-F608-4331-AA87-22415889E213' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='4E57F639-F608-4331-AA87-22415889E213' id='FORM-4E57F639-F608-4331-AA87-22415889E213' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4E57F639-F608-4331-AA87-22415889E213'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-blocked"
 title: "TopicPaper - Algebra - 14 - BLOCKED"
-date: 2022-06-24 14:18:23
+date: 2022-06-24 15:09:23
 ---
 <ul class='question default-decimal'>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-notstarted"
 title: "TopicPaper - Money - 1 - NOTSTARTED"
-date: 2022-06-24 14:18:23
+date: 2022-06-24 15:09:23
 ---
 <ul class='question default-decimal'>
 <li>
@@ -445,18 +445,8 @@ How many cans of lemonade were sold that day?
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -531,175 +521,6 @@ TODOANSWER
 </div>
 </div>
 
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>4E57F639-F608-4331-AA87-22415889E213</p>
-</div>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2:1:11</p>
-</div>
-<div class='rag'>
-<p>rag_ak_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-TJ is sorting out prices for the snack shop at school, he has a box of $15$ chocolate bars. He bought the while box for 
-$\pounds 4.05$. He plans to sell the bars for $35 \text{p}$ each.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much money will TJ recieve if he sells all 15 bars at 35 \text{p}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {TJ will recieve}     &= 15 \times 35 \ \text {p} - \pounds 4.05 \\\\
-                            &= 15 \times \pounds \dfrac {35} {100} - \pounds 4.05 \\\\
-                            &= 15 \times 0.35 - 4.05 \\\\
-                            &= 5.25 - 4.05 \\\\
-                            &= \pounds 1.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1.2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much did TJ pay each bar when he bought the box?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {TJ paid}     &= 4.05 \div 15 \\\\
-                    &= \dfrac {4.05} {15} \\\\
-                    &= \pounds 0.27
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 0.27$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-TJ also has two types of cereal snacks: raisin bars and nut bars. Each raisin bar is $12 \text{p}$ 
-more to buy than a nut bar. Nine raisin bars and twelve nut bars cost $\pounds 5.28$.
-
-How much more do nine raisin bars cost than nine nut bars?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much does a raisin bar cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0"
 title: "TopicPaper - Areaperimeter - 4 - G0"
-date: 2022-06-23 20:14:01
+date: 2022-06-24 05:10:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -228,12 +228,14 @@ Find the perimeter and area of this shape:
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
 As per the diagram,
 
 $
 \begin{aligned}
-\text {Perimeter}   &= \text {Sum of all sides} \\\\
-                    &= 6 + 5 + 9 + 4 \\\\
+\text {Perimeter}   &= 6 + 5 + 9 + 4 \\\\
                     &= 24 \ \text {cm}
 \end{aligned}
 $
@@ -389,11 +391,18 @@ What is the total surface area of the box?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Surface area} &= 2 \times (\text {length} \times \text {width} + \text {length} \times \text {height} + \text {height} \times \text {width})$
+
+As per the diagram,
+
 $
 \begin{aligned}
-\text {Total surface area} &= 2 \times \text {length} \times \text {width} + 2 \times \text {length} \times \text {height} + 2 \times \text {height} \times \text {width} \\\\
-                           &= 2 \times 6 \times 10 + 2 \times 6 \times 3 + 2 \times 3 \times 10 \\\\
-                           &= 120 + 36 + 60 \\\\
+\text{Length}              &= 6 \\\\
+\text{Width}               &= 10 \\\\
+\text{Height}              &= 3 \\\\
+\text {Total surface area} &= 2 \times (6 \times 10 + 6 \times 3 + 3 \times 10) \\\\
+                           &= 2 \times (60 + 18 + 30) \\\\
+                           &= 2 \times 108 \\\\
                            &= 216 \ \text {cm}^2
 \end{aligned}
 $
@@ -674,19 +683,23 @@ Calculate the lengths of the other three sides.
 <div class='workings'>
 <div class='working'>
 
-Since opposite sides of a rectangle are equal so one of the side is of 8cm.
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+Let the width $= w$ 
+
+As per the question,
 
 $
 \begin{aligned}
-\text {Perimeter of rectangle}     &= 22 \\\\
-2 \times \text {(length + width)}  &= 22 \\\\
-2 \times (8 + \text {width})       &= 22 \\\\
-16 + 2 \times \text {width}        &= 22 \\\\
-2 \times \text {width}             &= 22 - 16 \\\\
-2 \times \text {width}             &= 6 \\\\
-\text {width}                      &= \dfrac {6} {2} \\\\
-\text {width}                      &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
-\text {width}                      &= 3
+\text {Perimeter of rectangle}      &= 22 \\\\
+2 \times (8 + w)                    &= 22 \\\\
+16 + 2 \times w                     &= 22 \\\\
+2 \times \text w                    &= 22 - 16 \\\\
+2 \times \text w                    &= 6 \\\\
+w                                   &= \dfrac {6} {2} \\\\
+w                                   &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
+w                                   &= 3 \ \text{cm}
 \end{aligned}
 $
 
@@ -782,7 +795,7 @@ $
 \begin{aligned}
 s \times s                                              &= 0.25 \\\\
 s ^ 2                                                   &= 0.25 \\\\
-s                                                       &= \sqrt(0.25) \\\\
+s                                                       &= \sqrt {0.25} \\\\
 s                                                       &= 0.5 \ \text{m} \\\\
 \text{Perimeter}                                        &= 4 \times s \\\\
                                                         &= 4 \times 0.25 \\\\

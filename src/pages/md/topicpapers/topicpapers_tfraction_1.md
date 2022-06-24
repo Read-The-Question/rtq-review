@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-06-23 20:14:01
+date: 2022-06-24 05:10:49
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1400,7 +1400,7 @@ Draw a line on the beaker to indicate the level of water in it.
 
 $
 \begin{aligned}
-\text {water in each beaker} &= \dfrac {total water} {total beakers} \\\\
+\text {water in each beaker} &= \dfrac {\text{total water}} {\text{total beakers}} \\\\
                              &= \dfrac {1.8} {6} \\\\
                              &= 0.3 \text {litre} \\\\
                              &= 300 \text {ml} \\\\
@@ -1409,15 +1409,15 @@ $
 
 $
 \begin{aligned}
-\text {Water in one division of beaker}       &= \dfrac {total capacity} {number of divisions} \\\\
-                                              &= \dfrac {400} {8} \\\\
-                                              &= \dfrac {8 \times 50} {8} \\\\
-                                              &= \dfrac {\cancel{8} \times 50} {\cancel{8}} \\\\
-                                              &= 50 \\\\
-\{number of divisions containing 300ml water} &= \dfrac {300} {50} \\\\
-                                              &= \dfrac {50 \times 6} {50} \\\\
-                                              &= \dfrac {\cancel{50} \times 6} {50} \\\\
-                                              &= 6
+\text {Water in one division of beaker}           &= \dfrac {\text{total capacity}} {\text{number of divisions}} \\\\
+                                                  &= \dfrac {400} {8} \\\\
+                                                  &= \dfrac {8 \times 50} {8} \\\\
+                                                  &= \dfrac {\cancel{8} \times 50} {\cancel{8}} \\\\
+                                                  &= 50 \\\\
+\text{number of divisions containing 300ml water} &= \dfrac {300} {50} \\\\
+                                                  &= \dfrac {50 \times 6} {50} \\\\
+                                                  &= \dfrac {\cancel{50} \times 6} {50} \\\\
+                                                  &= 6
 \end{aligned}
 $
 
@@ -3659,7 +3659,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>DC86C66C-E58D-4ADC-8C65-42A99B583CEC</p>
 </div>
@@ -3667,7 +3667,7 @@ $14$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

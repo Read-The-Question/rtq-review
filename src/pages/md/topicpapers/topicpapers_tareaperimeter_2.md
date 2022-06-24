@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-06-23 20:14:01
+date: 2022-06-24 05:10:49
 ---
 <div class='paper'>
 <div class='meta'>
@@ -79,7 +79,17 @@ As per the diagram,
 $
 \begin {aligned}
 \text {Top missing length}  &= 5 + 2 + 5 \\\\
-                            &= 12 \ \text {cm} \\\\
+                            &= 12 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin {aligned}
 \text {Side missing length} &= 8 \ \text {cm}
 \end {aligned}
 $
@@ -89,7 +99,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$12 \ \text {cm}, 8 \ \text {cm}$
+$12 \ \text {cm}$
+
+</div>
+<div class='answer'>
+
+$8 \ \text {cm}$
 
 </div>
 </div>
@@ -106,12 +121,14 @@ Find the **perimeter** of the T shape. State the units.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Perimeter of the T shape}  &= \text {Sum of all sides} \\\\
-                                  &= 2 \times 3 + 5 \times 2 + 8 \times 2 + 12 \\\\
+\text {Perimeter of the T shape}  &= 2 \times 3 + 5 \times 2 + 8 \times 2 + 12 \\\\
                                   &= 6 + 10 + 16 + 12 \\\\
                                   &= 44 \ \text {cm}
 \end {aligned}
@@ -269,7 +286,7 @@ Work out the perimeter and area of the following shape:
 ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
 
-ABBR: $\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the diagram,
@@ -292,7 +309,12 @@ $
 </div>
 <div class='answer'>
 
-$18 \ \text {cm}, 14 \ \text {cm} ^ 2$
+Perimeter $=$ $18 \ \text {cm}$
+
+</div>
+<div class='answer'>
+
+Area $=$ $14 \ \text {cm} ^ 2$
 
 </div>
 </div>
@@ -390,22 +412,17 @@ What is the area of the shaded parallelogram?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of parallelogram} = \text{base} \times \text{height}$
 
 
 As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of parallelogram}   &= \text {Area of rectangle} - \text {Area of two triangles} \\\\
-                               &= 9 \times 4 - (\dfrac {1} {2} \times 2 \times 4 + \dfrac {1} {2} \times 2 \times 4) \\\\
-                               &= 36 - (\dfrac {2 \times 4} {2} + \dfrac {2 \times 4} {2}) \\\\
-                               &= 36 - (\dfrac {\cancel {2} \times 4} {\cancel {2}} + \dfrac {\cancel {2} \times 4} {\cancel {2}}) \\\\
-                               &= 36 - (4 + 4) \\\\
-                               &= 36 - 8 \\\\
+\text {Height}                 &= 4 \\\\
+\text {Base}                   &= 9 - 2 \\\\
+                               &= 7 \\\\
+\text {Area}                    &= 7 \times 4 \\\\
                                &= 28 \ \text {cm}^ 2
 \end{aligned}
 $
@@ -493,7 +510,7 @@ Area = 4 * 7
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5A5A99FB-F341-46EE-95C4-A97BE92AF7E3</p>
 </div>
@@ -504,7 +521,7 @@ Area = 4 * 7
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -529,8 +546,8 @@ Work out the perimeter and area of the following shape:
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
-_expanded
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
 
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
@@ -555,7 +572,12 @@ $
 </div>
 <div class='answer'>
 
-$18 \ \text{cm}, 14 \ \text{cm} ^ 2$
+$P = 18 \ \text{cm}$
+
+</div>
+<div class='answer'>
+
+$A = 14 \ \text{cm} ^ 2$
 
 </div>
 </div>
@@ -608,7 +630,7 @@ abbrev is broken!!
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B135AC08-8D4C-4E0C-8A85-A93842A7B0C6</p>
 </div>
@@ -619,7 +641,7 @@ abbrev is broken!!
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -649,22 +671,17 @@ What is the area of the shaded parallelogram?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of parallelogram} = \text{base} \times \text{height}$
 
 
 As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of parallelogram}   &= \text {Area of rectangle} - \text {Area of two triangles} \\\\
-                               &= 9 \times 4 - (\dfrac {1} {2} \times 2 \times 4 + \dfrac {1} {2} \times 2 \times 4) \\\\
-                               &= 36 - (\dfrac {2 \times 4} {2} + \dfrac {2 \times 4} {2}) \\\\
-                               &= 36 - (\dfrac {\cancel {2} \times 4} {\cancel {2}} + \dfrac {\cancel {2} \times 4} {\cancel {2}}) \\\\
-                               &= 36 - (4 + 4) \\\\
-                               &= 36 - 8 \\\\
+\text {Height}                 &= 4 \\\\
+\text {Base}                   &= 9 - 2 \\\\
+                               &= 7 \\\\
+\text {Area}                    &= 7 \times 4 \\\\
                                &= 28 \ \text {cm}^ 2
 \end{aligned}
 $
@@ -1071,7 +1088,7 @@ $400 \text{ cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
 </div>
@@ -1082,7 +1099,7 @@ $400 \text{ cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1124,10 +1141,14 @@ Calculate the perimeter of the triangle.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
+As per the diagram,
+
 $
 \begin{aligned}
-\text{ Perimeter}   &= \text {Sum of all sides} \\\\
-                    &= 3 + 5.8 + 6 \\\\
+\text{ Perimeter}   &= 3 + 5.8 + 6 \\\\
                     &= 14.8 \ \text{cm}
 \end{aligned}
 $
@@ -1292,7 +1313,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
 </div>
@@ -1303,7 +1324,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1323,15 +1344,17 @@ A rectangle is $6 \ \text{cm}$ longer than it is wide. Its perimeter is $32 \ \t
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
-_expanded
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
 
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-Let the wide (in cm) $= a$
+Let the width (in cm) $= a$
 
-As per the question, length $= 6 + a$
+Length $= 6 + a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -1346,7 +1369,7 @@ a                              &= 5 \ \text {cm}
 \end{aligned}
 $
 
-Now, let's find the area of the rectangle.
+Let's find the area of the rectangle.
 
 $
 \begin{aligned}
@@ -1448,7 +1471,7 @@ Lets find the area of the rectangle.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D36EB8D1-F797-4291-92E6-21171425524C</p>
 </div>
@@ -1459,7 +1482,7 @@ Lets find the area of the rectangle.
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1484,12 +1507,24 @@ A mouse walks all the way around the edge of this field. How far does the mouse 
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add a diagram with missing sides calculated.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {The mouse walked}  &= \text {Sum of all edges} \\\\
-                          &= 70 + 75 + (130 - 70) + 25 + 130 + (75 + 25) \\\\
+\text {The mouse walked}  &= 70 + 75 + (130 - 70) + 25 + 130 + (75 + 25) \\\\
                           &= 145 + 60 + 155 + 100 \\\\
                           &= 460 \ \text {m}
 \end {aligned}
@@ -2641,7 +2676,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B40F0224-3A38-441B-8EC1-C720B33CE28F</p>
 </div>
@@ -2652,7 +2687,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2674,12 +2709,14 @@ Calculate the perimeter of this triangle
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of triangle} = \text{Sum of all sides}$
+
+
 As per the diagram,
 
 $
 \begin{aligned}
-\text {Perimeter}   &= \text {Sum of all sides} \\\\
-                    &= 3 + 4 + 5 \\\\
+\text {Perimeter}   &= 3 + 4 + 5 \\\\
                     &= 12 \ \text{cm}
 \end{aligned}
 $
@@ -2827,7 +2864,7 @@ $6 \ \text {cm} ^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B38F91FE-988F-49E4-A160-D55F591DA695</p>
 </div>
@@ -2838,7 +2875,7 @@ $6 \ \text {cm} ^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2854,6 +2891,9 @@ If each side is $6 \ \text{centimetres}$ long, calculate the perimeter.
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text{Perimeter of regular polygon} = \text{n} \times \text{side}$
+
 
 As per the diagram,
 
@@ -3219,7 +3259,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>78B273A1-70B3-40B5-A9B9-E8FA95A37234</p>
 </div>
@@ -3230,7 +3270,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3252,7 +3292,7 @@ How many slabs will he need?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 $
@@ -3321,7 +3361,7 @@ Use expanded abbrev for rectangle.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
 </div>
@@ -3332,7 +3372,7 @@ Use expanded abbrev for rectangle.
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3355,12 +3395,14 @@ What is the perimeter of the shape above?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
 As per the diagram,
 
 $
 \begin{aligned}
-\text{Perimeter}   &= \text {Sum of all sides} \\\\
-                   &= a + a + a + b + b \\\\
+\text{Perimeter}   &= a + a + a + b + b \\\\
                    &= 3 a + 2 b
 \end{aligned}
 $

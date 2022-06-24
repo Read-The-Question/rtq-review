@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-pr"
 title: "TopicPaper - Fraction - 1 - PR"
-date: 2022-06-23 20:14:01
+date: 2022-06-24 05:10:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -185,7 +185,7 @@ Draw a line on the beaker to indicate the level of water in it.
 
 $
 \begin{aligned}
-\text {water in each beaker} &= \dfrac {total water} {total beakers} \\\\
+\text {water in each beaker} &= \dfrac {\text{total water}} {\text{total beakers}} \\\\
                              &= \dfrac {1.8} {6} \\\\
                              &= 0.3 \text {litre} \\\\
                              &= 300 \text {ml} \\\\
@@ -194,15 +194,15 @@ $
 
 $
 \begin{aligned}
-\text {Water in one division of beaker}       &= \dfrac {total capacity} {number of divisions} \\\\
-                                              &= \dfrac {400} {8} \\\\
-                                              &= \dfrac {8 \times 50} {8} \\\\
-                                              &= \dfrac {\cancel{8} \times 50} {\cancel{8}} \\\\
-                                              &= 50 \\\\
-\{number of divisions containing 300ml water} &= \dfrac {300} {50} \\\\
-                                              &= \dfrac {50 \times 6} {50} \\\\
-                                              &= \dfrac {\cancel{50} \times 6} {50} \\\\
-                                              &= 6
+\text {Water in one division of beaker}           &= \dfrac {\text{total capacity}} {\text{number of divisions}} \\\\
+                                                  &= \dfrac {400} {8} \\\\
+                                                  &= \dfrac {8 \times 50} {8} \\\\
+                                                  &= \dfrac {\cancel{8} \times 50} {\cancel{8}} \\\\
+                                                  &= 50 \\\\
+\text{number of divisions containing 300ml water} &= \dfrac {300} {50} \\\\
+                                                  &= \dfrac {50 \times 6} {50} \\\\
+                                                  &= \dfrac {\cancel{50} \times 6} {50} \\\\
+                                                  &= 6
 \end{aligned}
 $
 

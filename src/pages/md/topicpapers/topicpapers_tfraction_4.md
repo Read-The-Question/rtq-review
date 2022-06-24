@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-06-23 20:14:01
+date: 2022-06-24 05:10:49
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2222,7 +2222,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>75CDCC16-17B1-4305-B233-5DF5C29AE401</p>
 </div>
@@ -2230,7 +2230,7 @@ $21$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2376,6 +2376,37 @@ $\dfrac{3}{13}$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' id='FORM-75CDCC16-17B1-4305-B233-5DF5C29AE401' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-75CDCC16-17B1-4305-B233-5DF5C29AE401'>Initial</p>
+</div>
 </div>
 </li>
 <li>

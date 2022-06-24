@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-oldpr"
 title: "TopicPaper - Money - 4 - OLDPR"
-date: 2022-06-23 20:14:01
+date: 2022-06-24 05:10:49
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>55A10623-F378-4E8A-9E0E-162217DDCF11</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-23 20:14:01
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -57,11 +57,9 @@ How much does this cost her altogether?
 
 $
 \begin{aligned}
-\text{Total Cost} &=  \text{Cost (3 Bracelets)} + \text{Cost (1 Card)} \\\\
-&= 3\times \pounds 1.29 + 1.85 \\\\
-&=   3 \times{1.29} + 1.85 \\\\
-&=  3.87 + 1.85\\\\
-&=  \pounds 4.72
+\text {Total cost}  &= 3 \times \pounds 1.29 + \pounds 1.85 \\\\
+                    &= 3.87 + 1.85 \\\\
+                    &= \pounds 5.72 
 \end{aligned}
 $
 
@@ -70,7 +68,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 4.72$
+$\pounds 5.72$
 
 </div>
 </div>
@@ -87,12 +85,10 @@ She only has $\pounds 3.20$. How much does she need to borrow to buy these thing
 <div class='workings'>
 <div class='working'>
 
-Money (to borrow) = Money(required) - Money (in hand) 
-
 $ 
 \begin{aligned}
-&=   4.72 - 3.20 \\\\ 
-&=   \pounds 1.52 
+\text {Money required}  &= 5.72 - 3.20 \\\\
+                        &= \pounds 2.52
 \end{aligned}
 $
 
@@ -101,7 +97,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds1.52$
+$\pounds2.52$
 
 </div>
 </div>
@@ -149,7 +145,7 @@ no brackets .. Cost of 3 Bracelets...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>6B84438A-B59E-4370-8EA5-017FA8C5AADA</p>
 </div>
@@ -160,7 +156,7 @@ no brackets .. Cost of 3 Bracelets...
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -181,10 +177,8 @@ How much money is collected?
 
 $
 \begin{aligned}
-\text{Total money collected}    &= \text{No. of people} \times \text{Payment per person} \\\\
-                                &= 85 \times \pounds 1.30 \\\\
-                                &= 85 \times 1.3 \\\\
-\text{Total money collected}    &= \pounds 110.50
+\text{Money collected}  &= 85 \times \pounds 1.30 \\\\
+                        &= \pounds 110.50
 \end{aligned}
 $
 

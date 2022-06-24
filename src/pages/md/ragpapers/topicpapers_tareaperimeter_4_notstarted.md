@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-notstarted"
 title: "TopicPaper - Areaperimeter - 4 - NOTSTARTED"
-date: 2022-06-23 20:14:01
+date: 2022-06-24 05:10:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -373,7 +373,7 @@ $
 48                &= 2 \times \dfrac {2 a + a} {2} \\\\
 48                &= \dfrac {2 \times (3 a)} {2} \\\\
 48                &= \dfrac {\cancel {2} \times (3 a)} {\cancel {2}} \\\\
-3 a               &= 48 \\\\
+3a                &= 48 \\\\
 a                 &= \dfrac {48} {3} \\\\
 a                 &= \dfrac {16 \times 3} {3} \\\\
 a                 &= \dfrac {16 \times \cancel {3}} {\cancel {3}} \\\\

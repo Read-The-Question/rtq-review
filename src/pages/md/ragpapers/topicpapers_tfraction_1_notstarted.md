@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-notstarted"
 title: "TopicPaper - Fraction - 1 - NOTSTARTED"
-date: 2022-06-23 20:14:01
+date: 2022-06-24 05:10:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -231,65 +231,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>DC86C66C-E58D-4ADC-8C65-42A99B583CEC</p>
-</div>
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:11</p>
-</div>
-<div class='rag'>
-<p>rag_ar_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This diagram shows a regular hexagon.
-
-![missing image](/papers/missing_image.svg)
-
-
-What fraction of the hexagon is shaded? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g0"
 title: "TopicPaper - Money - 4 - G0"
-date: 2022-06-23 20:14:01
+date: 2022-06-24 05:10:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -925,7 +925,7 @@ $\pounds 5.33$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>74AB88AF-4A3E-477E-8383-D48E6F740187</p>
 </div>
@@ -936,7 +936,7 @@ $\pounds 5.33$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -954,11 +954,14 @@ Maria telephoned Priya on her mobile. The rate for the first three minutes was $
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Total cost} &= 7 \times 3 + 5 \times 18 \\\\
-                  &= 21 + 90 \\\\
-                  &= 111 \text{p}
+\text{Total cost}   &= 3 \times 7 + 5 \times (21 -3) \\\\
+                    &= 21 + 5 \times 18 \\\\
+                    &= 21 + 90 \\\\
+                    &= 111 \text {p}
 \end{aligned}
 $
 
@@ -1007,7 +1010,7 @@ $111 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C535E8F6-43D7-44D2-B14D-8708D1AE1BC8</p>
 </div>
@@ -1018,7 +1021,7 @@ $111 \text{p}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1040,15 +1043,17 @@ How much more does Joanna now have compared to Amy?
 <div class='workings'>
 <div class='working'>
 
-$\pounds 1 = 100 \text{p}$
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-&= 5 \times \pounds 5 - (\pounds 3.50 \times 5 - 75 \text{p}) \\\\
-&= \pounds 25 - (\pounds 17.5 - \pounds \dfrac {75} {100}) \\\\
-&= 25 - (17.5 - 0.75) \\\\
-&= 25 - 16.75 \\\\
-&= \pounds 8.25
+\text {Difference}  &= 5 \times \pounds 5 - (5 \times \pounds 3.50 - 75 \text {p}) \\\\
+                    &= \pounds 25 - (\pounds 17.50 - \pounds 0.75) \\\\
+                    &= 25 - 16.75 \\\\
+                    &= \pounds 8.25
 \end{aligned}
 $
 
@@ -1306,15 +1311,18 @@ How much change should Claire receive?
 <div class='workings'>
 <div class='working'>
 
-$\pounds 1 = 100 \text{p}$
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text{Change received} &= \pounds 5 - (\pounds 1.55 + 67 \ \text{pence}) \\\\
-                       &= \pounds 5 - (\pounds 1.55 + \pounds \dfrac {67} {100}) \\\\
-                       &= 5 - (1.55 + 0.67) \\\\
-                       &= 5 - 2.22 \\\\
-                       &= \pounds 2.78
+\text {Money spent}     &= \pounds 1.55 + 67 \text {p} \\\\
+                        &= \pounds 1.55 + \pounds 0.67 \\\\
+                        &= \pounds 2.22 \\\\
+\text{Change received}  &= 5 - 2.22 \\\\
+                        &= \pounds 2.78
 \end{aligned}
 $
 
@@ -1398,7 +1406,7 @@ $278$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
 </div>
@@ -1409,7 +1417,7 @@ $278$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1426,16 +1434,17 @@ Work out $15\%$ of $\pounds 3$.
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+
+
 $
 \begin{aligned}
-&= 15\% \times \pounds 3 \\\\
-&= 15\% \times 300 \ \text{pence}\\\\
-&= \dfrac {15} {100} \times 300 \\\\
+&= 15 \% \times \pounds 3 \\\\
+&= \dfrac {15} {100} \times 300 \text {p} \\\\
 &= \dfrac {15 \times 300} {100} \\\\
-&= \dfrac {15 \times 3 \times 100} {100} \\\\
-&= \dfrac {15 \times 3 \times 1\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
-&= 15 \times 3  \\\\
-&= 45 \ \text{pence}
+&= \dfrac {15 \times 3 \cancel {00}} {1 \cancel {00}} \\\\
+&= 15 \times 3 \\\\
+&= 45 \text{p}
 \end{aligned}
 $
 
@@ -1444,7 +1453,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$45 \ \text{pence}$
+$45 \text{p}$
 
 </div>
 </div>
@@ -1484,7 +1493,7 @@ $45 \ \text{pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>913C4FD9-9AC9-45BA-BE94-814E838F0E2F</p>
 </div>
@@ -1495,7 +1504,7 @@ $45 \ \text{pence}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1514,7 +1523,7 @@ Work out $35 \%$ of $\pounds 4$.
 
 $
 \begin{aligned}
-&= 35 \% \text \ {of} \ \pounds 4 \\\\
+&= 35 \% \ \text {of} \ \pounds 4 \\\\
 &= \dfrac {35} {100} \times  4 \\\\
 &= 0.35 \times  4 \\\\
 &= \pounds 1.40
@@ -1566,7 +1575,7 @@ $\pounds 1.40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F6A52668-B3D8-49D6-BA15-A931902E7BB6</p>
 </div>
@@ -1577,7 +1586,7 @@ $\pounds 1.40$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1594,16 +1603,17 @@ Work out $15 \%$ of $\pounds 5$.
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
 $
 \begin{aligned}
 &= 15 \% \ \text {of} \ \pounds 5 \\\\
-&= 15 \% \ \text {of} \ 5 \times 100 \ \text{pence} \\\\
-&= 15 \% \times 5 \times 100 \ \text{pence} \\\\
-&= \dfrac {15} {100} \times 500 \\\\
+&= \dfrac {15} {100} \times 500 \text {p} \\\\
 &= \dfrac {15 \times 500} {100} \\\\
-&= \dfrac {15 \times 5\cancel{00}} {1\cancel{00}} \\\\
+&= \dfrac {15 \times 5 \cancel{00}} {1 \cancel{00}} \\\\
 &= 15 \times 5 \\\\
-&= 75 \ \text{pence}
+&= 75 \text{p}
 \end{aligned}
 $
 
@@ -1612,7 +1622,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$75 \ \text{pence}$
+$75 \text{p}$
 
 </div>
 </div>
@@ -1652,7 +1662,7 @@ $75 \ \text{pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>81E1B098-E3D4-4FFB-8782-94935FEFD938</p>
 </div>
@@ -1663,7 +1673,7 @@ $75 \ \text{pence}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1683,8 +1693,8 @@ Work out $30 \%$ of $\pounds 16.80$.
 $
 \begin{aligned}
 &= 30 \% \ \text {of} \ \pounds 16.80 \\\\
-&=\dfrac {30} {100} \times 16.8 \\\\
-&=\dfrac {30 \times 16.8} {100} \\\\
+&=\dfrac {30} {100} \times 16.80 \\\\
+&=\dfrac {30 \times 16.80} {100} \\\\
 &=\dfrac {504} {100} \\\\
 &= \pounds 5.04
 \end{aligned}
@@ -1766,23 +1776,16 @@ My garden centre sells Summer bedding plants at $85 \text{p}$ each. I have $\pou
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
-Let's convert the total amount into pence.
-
-As per the question,
+Let's convert all the expenses into pence.
 
 $
 \begin{aligned}
-\text{Number of plants}     &= \dfrac{\text {Total amount}} {\text {Amount per plant}} \\\\
-                            &= \dfrac {\pounds 30} {85} \\\\
-                            &= \dfrac {30 \times 100 \text {p}} {85} \\\\
-                            &= \dfrac {6 \times 5 \times 100} {17 \times 5} \\\\
-                            &= \dfrac {6 \times \cancel {5} \times 100} {17 \times \cancel {5}} \\\\
-                            &= \dfrac {600} {17} \\\\
-                            &= 35 \dfrac {5} {17}
+\text{Number of plants}     &= \dfrac {\pounds 30} {85 \text {p}} \\\\
+                            &= \dfrac {3000 \text {p}} {85 \text {p}} \\\\
+                            &= 35.29 \\\\
+                            &= 35
 \end{aligned}
 $
-
-Number of plants that can be brought = $35$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-06-24 05:10:49
+date: 2022-06-24 06:03:42
 ---
 <div class='paper'>
 <div class='meta'>
@@ -104,8 +104,6 @@ She spends $\pounds 1.90$ on magazines, $\pounds 2.45$ on a birthday card and $7
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin {aligned}
@@ -721,8 +719,6 @@ How much more does she need to reach $\pounds 5$?
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin {aligned}
 \text {Amount collected}    &= 35 \times 5 \text {p} \\\\
@@ -809,8 +805,6 @@ What change will I have from a $\pounds 5$ note?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin {aligned}
@@ -1575,8 +1569,6 @@ Neruka bought a pen costing $\pounds 4.93$, a pencil costing $24 \text{p}$ and a
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text{Money spent}  &= \pounds 4.93 + 24 \text{p} + 58 \text{p} \\\\
@@ -1611,7 +1603,7 @@ How much change did she get?
 
 $
 \begin{aligned}
-\text{Change received}  &= \pounds 20 - \pounds 5.75 \\\\
+\text{Change received}  &= 20 - 5.75 \\\\
                         &= \pounds 14.25
 \end{aligned}
 $
@@ -1974,8 +1966,6 @@ How much $\bold{\underline{change}}$ do I get from a $\pounds 20$ note?
 
 ABBR: It is really important to use the right units in calculations and convert where required.
 
-
-Let's convert the total amount into pounds.
 
 $
 \begin {aligned}
@@ -2340,8 +2330,8 @@ How much will he have to pay in total?
 $
 \begin {aligned}
 \text {Total cost}  &= 25 \times (95 + 85 + 40) \\\\
-                    &= 25 \times 220 \text{p} \\\\
-                    &= 25 \times \pounds 2.20 \\\\
+                    &= 25 \times 220  \\\\
+                    &= 5500 \text{p}  \\\\
                     &= \pounds 55
 \end {aligned}
 $
@@ -2612,7 +2602,7 @@ Calculate a quarter of $\pounds 62$.
 
 $
 \begin{aligned}
-&= \dfrac {1} {4} \ \text {of} \ 62 \\\\
+&= \dfrac {1} {4} \ \text {of} \ \pounds 62 \\\\
 &= \dfrac {1} {4} \times 62 \\\\
 &= \dfrac {62} {4} \\\\
 &= \pounds 15.50
@@ -2643,7 +2633,7 @@ Calculate $10\%$ of $\pounds 62$.
 
 $
 \begin{aligned}
-&= 10 \% \ \text {of} \ 62 \\\\
+&= 10 \% \ \text {of} \ \pounds 62 \\\\
 &= \dfrac {10} {100} \times 62 \\\\
 &= \dfrac {10 \times 62} {100} \\\\
 &= \dfrac {620} {100} \\\\
@@ -2675,7 +2665,7 @@ Calculate $11\%$ of $\pounds 62$.
 
 $
 \begin{aligned}
-&= 11 \% \ \text {of} \ 62 \\\\
+&= 11 \% \ \text {of} \ \pounds 62 \\\\
 &= \dfrac {11} {100} \times 62 \\\\
 &= \dfrac {11 \times 62} {100} \\\\
 &= \dfrac {682} {100} \\\\
@@ -2896,11 +2886,11 @@ As per the table and using the answers above,
 
 $
 \begin{aligned}
-\text {Money from mum}      &= 8 \times 50 \text {p}  \\\\
+\text {Money from mum}      &= 8 \times 50  \\\\
                             &= 400 \text{p}  \\\\
                             &= \pounds 4 \\\\
 \text {Money collected}     &= \text{Mum} + \text{Dad} + \text{Nan} + \text{Grandad} + \text{Uncle} \\\\
-                            &= \pounds 4 + \pounds 7 + \pounds 10 + \pounds 3.60 + \pounds 15 \\\\
+                            &= 4 + 7 + 10 + 3.60 + 15 \\\\
                             &= \pounds 39.60
 \end{aligned}
 $
@@ -2934,14 +2924,15 @@ $
 \text {Money from mum}      &= 10 \times 50  \\\\
                             &= 500 \text{p}  \\\\
                             &= \pounds 5 \\\\
-\text {Money from dad}      &= \pounds 5 + 10 \times \pounds 0.25 \\\\
-                            &= \pounds 5 + \pounds 2.50 \\\\
+\text {Money from dad}      &= \pounds 5 + 10 \times 25 \text {p} \\\\
+                            &= \pounds 5 + 10 \times \pounds 0.25 \\\\
+                            &= 5 + 2.50 \\\\
                             &= \pounds 7.50 \\\\
 \text {Money from grandad}  &= 360  + 90  + 100  \\\\
                             &= 550 \text{p} \\\\
                             &= \pounds 5.50 \\\\
 \text {Money collected}     &= \text{Mum} + \text{Dad} + \text{Nan} + \text{Grandad} + \text{Uncle} \\\\
-                            &= \pounds 5 + \pounds 7.50 + \pounds 10 + \pounds 5.50 + \pounds 15 \\\\
+                            &= 5 + 7.50 + 10 + 5.50 + 15 \\\\
                             &= \pounds 43 \\\\
 \text {Extra money}         &= 43 - 39.60 \\\\
                             &= \pounds 3.40
@@ -3233,7 +3224,7 @@ How much change would there be from a $\pounds 20$ note for Alice, Owen, Mum, Da
 
 $
 \begin{aligned}
-\text{Money spent}      &= 2 \times \pounds 1.60 + 3 \times \pounds 2.40 + \pounds 1.50 \\\\
+\text{Money spent}      &= 2 \times 1.60 + 3 \times 2.40 + 1.50 \\\\
                         &= 3.20 + 7.20 + 1.50 \\\\
                         &= \pounds 11.90 \\\\
 \text{Change received}  &= 20 - 11.90 \\\\
@@ -3506,12 +3497,10 @@ I buy $11$ chocolate bars costing $38 \text{p}$ each. How much change would I ge
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned} 
-\text {Money spent}         &= 11 \times 38 \text{p} \\\\
-                            &= 11 \times \pounds 0.38 \\\\
+\text {Money spent}         &= 11 \times 38 \\\\
+                            &= 418 \text{p} \\\\
                             &= \pounds 4.18 \\\\
 \text {Change recieved}     &= 10 - 4.18 \\\\
                             &= \pounds 5.82
@@ -3594,12 +3583,10 @@ I buy $11$ chocolate bars costing $27 \text{p}$ each. How much change would I ge
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned} 
-\text {Money spent}         &= 11 \times 27 \text{p} \\\\
-                            &= 11 \times \pounds 0.27 \\\\
+\text {Money spent}         &= 11 \times 27 \\\\
+                            &= 297 \text{p} \\\\
                             &= \pounds 2.97 \\\\
 \text {Change recieved}     &= 5 - 2.97 \\\\
                             &= \pounds 2.03
@@ -3906,12 +3893,10 @@ How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned} 
-\text {Money spent}             &= 7 \times 78 \text {p} \\\\
-                                &= 7 \times \pounds 0.78 \\\\
+\text {Money spent}             &= 7 \times 78 \\\\
+                                &= 546 \text {p} \\\\
                                 &= \pounds 5.46 \\\\
 \text {Change recieved}         &= 10 - 5.46 \\\\
                                 &= \pounds 4.54

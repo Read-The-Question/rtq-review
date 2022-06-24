@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g0-prcc"
 title: "TopicPaper - Money - 3 - G0 - PRCC"
-date: 2022-06-24 05:10:49
+date: 2022-06-24 06:03:42
 ---
 <ul class='question default-decimal'>
 <li>
@@ -622,8 +622,6 @@ Sam has $\pounds 3.85$ to spend. He buys a pencil for $38 \text{p}$ and a ruler 
 ABBR: It is really important to use the right units in calculations and convert where required
 
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text {Money spent} &= 38 \text {p} + 59 \text {p} \\\\
@@ -923,8 +921,6 @@ On holiday last year Phil bought $10$ post cards at $45 \text{p}$ each and $10\ 
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -1821,8 +1817,6 @@ If an adult ticket on the bus costs $\pounds 1.50$ and a child ticket costs $90 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text {Money spent}     &= 2 \times \pounds 1.50 + 3 \times 90 \text {p} \\\\
@@ -2074,8 +2068,6 @@ If I buy $6$ pens at $\pounds 1.15$ each and 10 refills at $56 \text{p}$ each, h
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text {Money spent}     &= 6 \times \pounds 1.15 + 10 \times 56 \text {p} \\\\
@@ -2168,8 +2160,6 @@ If Imogen pays with a £5 note how much change would Imogen get?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -2600,8 +2590,6 @@ $\pounds 1.28 - 57 \text{p}$
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{array}{cccccccccccccc}

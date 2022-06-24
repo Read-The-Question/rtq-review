@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g0-prcc"
 title: "TopicPaper - Money - 2 - G0 - PRCC"
-date: 2022-06-24 05:10:49
+date: 2022-06-24 06:03:42
 ---
 <ul class='question default-decimal'>
 <li>
@@ -44,8 +44,6 @@ How much did he have to pay?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -331,8 +329,6 @@ What is the price of a chicken wing?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin {aligned}
@@ -679,8 +675,6 @@ How much does Mary spend altogether?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin {aligned}

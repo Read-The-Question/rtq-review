@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-06-24 05:10:49
+date: 2022-06-24 06:03:42
 ---
 <div class='paper'>
 <div class='meta'>
@@ -913,8 +913,6 @@ Sam has $\pounds 3.85$ to spend. He buys a pencil for $38 \text{p}$ and a ruler 
 ABBR: It is really important to use the right units in calculations and convert where required
 
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text {Money spent} &= 38 \text {p} + 59 \text {p} \\\\
@@ -1214,8 +1212,6 @@ On holiday last year Phil bought $10$ post cards at $45 \text{p}$ each and $10\ 
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -2156,8 +2152,6 @@ If an adult ticket on the bus costs $\pounds 1.50$ and a child ticket costs $90 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text {Money spent}     &= 2 \times \pounds 1.50 + 3 \times 90 \text {p} \\\\
@@ -2629,8 +2623,6 @@ If I buy $6$ pens at $\pounds 1.15$ each and 10 refills at $56 \text{p}$ each, h
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text {Money spent}     &= 6 \times \pounds 1.15 + 10 \times 56 \text {p} \\\\
@@ -2739,8 +2731,6 @@ How much did she pay in total for her stationery?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -2859,8 +2849,6 @@ If you buy $8$ second class stamps costing $44 \text{p}$ each, how much change w
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text {Change received}     &= \pounds 5 - 8 \times 44 \text {p} \\\\
@@ -2953,8 +2941,6 @@ If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your ans
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -3049,8 +3035,6 @@ If Imogen pays with a £5 note how much change would Imogen get?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -4325,8 +4309,6 @@ $\pounds 1.28 - 57 \text{p}$
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{array}{cccccccccccccc}

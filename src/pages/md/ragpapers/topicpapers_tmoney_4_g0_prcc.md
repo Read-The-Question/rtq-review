@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g0-prcc"
 title: "TopicPaper - Money - 4 - G0 - PRCC"
-date: 2022-06-24 05:10:49
+date: 2022-06-24 06:03:42
 ---
 <ul class='question default-decimal'>
 <li>
@@ -209,8 +209,6 @@ If Fiona pays with a $\pounds 5$ note, how much change does she get?
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin {aligned}
 \text {Money spent}     &= 3 \times 85 \text {p} + 5 \times 30 \text {p} \\\\
@@ -322,8 +320,6 @@ How much does she spend?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -603,8 +599,6 @@ How much more does Joanna now have compared to Amy?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}

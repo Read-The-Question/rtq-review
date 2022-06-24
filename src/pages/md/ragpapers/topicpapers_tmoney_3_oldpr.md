@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-oldpr"
 title: "TopicPaper - Money - 3 - OLDPR"
-date: 2022-06-24 05:10:49
+date: 2022-06-24 06:03:42
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,8 +57,6 @@ How much did she pay in total for her stationery?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -177,8 +175,6 @@ If you buy $8$ second class stamps costing $44 \text{p}$ each, how much change w
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text {Change received}     &= \pounds 5 - 8 \times 44 \text {p} \\\\
@@ -271,8 +267,6 @@ If Ian pays with a $\pounds 2$ coin how much change would Ian get? Give your ans
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}

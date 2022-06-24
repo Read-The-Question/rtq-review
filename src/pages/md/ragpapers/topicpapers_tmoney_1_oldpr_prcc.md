@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-oldpr-prcc"
 title: "TopicPaper - Money - 1 - OLDPR - PRCC"
-date: 2022-06-24 05:10:49
+date: 2022-06-24 06:03:42
 ---
 <ul class='question default-decimal'>
 <li>
@@ -43,8 +43,6 @@ How much more does she need to reach $\pounds 5$?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin {aligned}
@@ -132,8 +130,6 @@ What change will I have from a $\pounds 5$ note?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin {aligned}

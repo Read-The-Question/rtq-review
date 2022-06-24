@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g2"
 title: "TopicPaper - Money - 2 - G2"
-date: 2022-06-24 05:10:49
+date: 2022-06-24 06:03:42
 ---
 <ul class='question default-decimal'>
 <li>
@@ -755,15 +755,14 @@ Work out how much change she should get.
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
-\text {Money spent}     &= 1 \dfrac {1} {2} \times 64 \text {p} + 4 \times 35 \text {p} + 6 \times 43 \text {p} \\\\
-                        &= \dfrac {3} {2} \times \pounds 0.64 + 4 \times \pounds 0.35 + 6 \times \pounds 0.43 \\\\
-                        &= \dfrac {3 \times 0.64} {2} + 1.40 + 2.58 \\\\
-                        &= 3 \times 0.32 + 3.98 \\\\
-                        &= 0.96 + 3.98 \\\\
+\text {Money spent}     &= 1 \dfrac {1} {2} \times 64 + 4 \times 35 + 6 \times 43 \\\\
+                        &= \dfrac {3} {2} \times 64 + 4 \times 35 + 6 \times 43 \\\\
+                        &= \dfrac {3 \times 64} {2} + 140 + 258 \\\\
+                        &= 3 \times 32 + 398 \\\\
+                        &= 96 + 398 \\\\
+                        &= 494 \text {p} \\\\
                         &= \pounds 4.94 \\\\
 \text {Change received} &= 10 - 4.94 \\\\
                         &= \pounds 5.06
@@ -989,8 +988,6 @@ How much change does she receive from a $10$ pounds note?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -1230,8 +1227,6 @@ Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -1504,8 +1499,6 @@ E: $\pounds4.81$
 ABBR: It is really important to use the right units in calculations and convert where required
 .
 
-Let's convert all the expenses into pounds.
-
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times 65 \ \text {pence} + 3 \times 83 \ \text {pence} \\\\
@@ -1605,8 +1598,6 @@ E: $\pounds{6.37}$
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
@@ -1930,8 +1921,6 @@ Calculate how much change she will receive if she pays with a $\pounds20$ note.
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}

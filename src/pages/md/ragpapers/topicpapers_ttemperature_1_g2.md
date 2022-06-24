@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g2"
 title: "TopicPaper - Temperature - 1 - G2"
-date: 2022-06-24 11:05:13
+date: 2022-06-24 13:11:40
 ---
 <ul class='question default-decimal'>
 <li>
@@ -237,7 +237,7 @@ $
 \begin{aligned}
 \text{Temperature in Paris}  &= \text{Temperature in London} - 8 \\\\
                              &= 5 - 8 \\\\
-                             &= -3  \degree
+                             &= -3  \degree \text{C}
 \end{aligned}
 $
 
@@ -246,7 +246,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-3  \degree$
+$-3  \degree \text{C}$
 
 </div>
 </div>
@@ -267,7 +267,7 @@ $
 \begin{aligned}
 \text{Difference in temperature} &= 7 - (-5) \\\\
                                  &= 7 + 5 \\\\
-                                 &= 12 \degree
+                                 &= 12 \degree \text{C}
 \end{aligned}
 $
 
@@ -276,7 +276,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$12 \degree$
+$12 \degree \text{C}$
 
 </div>
 </div>
@@ -1350,7 +1350,7 @@ $
 \begin{aligned}
 \text {Difference}  &= 4 - (-3) \\\\
                     &= 4 + 3 \\\\
-                    &= - 7 \degree \text {C}
+                    &= 7 \degree \text {C}
 \end{aligned}
 $
 
@@ -2036,8 +2036,6 @@ What was the temperature in Oslo?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text {Oslo Temperature }   &= \text {London Temperature - 5 } \\\\
@@ -2150,8 +2148,6 @@ Work out the temperature of Freddie’s surroundings.
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}

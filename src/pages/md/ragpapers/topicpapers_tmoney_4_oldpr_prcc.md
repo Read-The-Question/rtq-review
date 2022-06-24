@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-oldpr-prcc"
 title: "TopicPaper - Money - 4 - OLDPR - PRCC"
-date: 2022-06-24 11:05:13
+date: 2022-06-24 13:11:40
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,7 +57,7 @@ How much does this cost her altogether?
 
 $
 \begin{aligned}
-\text {Total cost}  &= 3 \times \pounds 1.29 + \pounds 1.85 \\\\
+\text {Total cost}  &= 3 \times 1.29 + 1.85 \\\\
                     &= 3.87 + 1.85 \\\\
                     &= \pounds 5.72 
 \end{aligned}
@@ -266,8 +266,8 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-\text {Cost of sugar}       &= \pounds 5.15 - \pounds 3.69 - 89 \text {p}) \\\\
-                            &= 515 \text {p} - 369 \text {p} - 89 \text {p}) \\\\
+\text {Cost of sugar}       &= \pounds 5.15 - \pounds 3.69 - 89 \text {p} \\\\
+                            &= 515 \text {p} - 369 \text {p} - 89 \text {p} \\\\
                             &= 146 - 89 \\\\
                             &= 57 \text {p}
 \end{aligned}
@@ -514,6 +514,109 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-B997CEC0-1CE9-4FA7-9498-ABBF735994C3'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>408AD078-3ADB-4663-A156-51E85E253962</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The local bakery sells muffins at $85 \text{p}$ each. I have $\pounds 15$ to spend. How many muffins can I buy? 
+
+- $17$
+- $16$
+- $15$
+- $14$
+- $20$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+$
+\begin{aligned}
+\text {Count of muffins}    &= \dfrac {\text {Total money}} {\text {Cost of one muffin}} \\\\
+                            &= \dfrac {\pounds 15} {85 \text {p}} \\\\
+                            &= \dfrac {1500 \text {p}} {85 \text {p}} \\\\
+                            &= \dfrac {5 \times 300} {5 \times 17} \\\\
+                            &= \dfrac {\cancel {5} \times 300} {\cancel {5} \times 17} \\\\
+                            &= \dfrac {300} {17} \\\\
+                            &= 17 \ \text {remainder} \ 11 \\\\
+                            &\approx 17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Add line 2: Let the number of muffins I can buy be $=a$                                                                                                step 1: Delete                                                                                                                                                               formulate a simple eqn see step 1 below,                                                                                                                                                   Add step 1: \text{Cost of each muffin} \times {Number of muffins I can buy}  &= {Total Money I have} \\                                                                                                Add step 2: 85 \times a &= \pounds 15   \\\                                                                                                                  from present step 2 ur calculation is correct                                                                                                                present step 2: 85 \times a &= 1500 \text{pence}                                                                                                         present step 4: change: a &= \dfrac{300 \times 5}{17 \times 5} \\                                                                               present step 5: change: a &= \dfrac{300 \times \cancel{5}}{17 \times \cancel{5}} \\                                                                                                                 present step 7: write in mixed fraction   17 \dfrac {11} {17}   \approx 17   \\                                                                                      end answer :    change:     &=  \approx 17                                                                                                                       align on &=             (see stack)  
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' id='FORM-408AD078-3ADB-4663-A156-51E85E253962' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-408AD078-3ADB-4663-A156-51E85E253962'>Initial</p>
 </div>
 </div>
 </li>

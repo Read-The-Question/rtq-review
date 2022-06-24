@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-oldpr"
 title: "TopicPaper - Money - 4 - OLDPR"
-date: 2022-06-24 11:05:13
+date: 2022-06-24 13:11:40
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,7 +57,7 @@ How much does this cost her altogether?
 
 $
 \begin{aligned}
-\text {Total cost}  &= 3 \times \pounds 1.29 + \pounds 1.85 \\\\
+\text {Total cost}  &= 3 \times 1.29 + 1.85 \\\\
                     &= 3.87 + 1.85 \\\\
                     &= \pounds 5.72 
 \end{aligned}
@@ -266,8 +266,8 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-\text {Cost of sugar}       &= \pounds 5.15 - \pounds 3.69 - 89 \text {p}) \\\\
-                            &= 515 \text {p} - 369 \text {p} - 89 \text {p}) \\\\
+\text {Cost of sugar}       &= \pounds 5.15 - \pounds 3.69 - 89 \text {p} \\\\
+                            &= 515 \text {p} - 369 \text {p} - 89 \text {p} \\\\
                             &= 146 - 89 \\\\
                             &= 57 \text {p}
 \end{aligned}
@@ -518,7 +518,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>408AD078-3ADB-4663-A156-51E85E253962</p>
 </div>
@@ -529,7 +529,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -557,11 +557,14 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-\text {Number of muffins}   &= \dfrac {\pounds 15} {85 \text {p}} \\\\
+\text {Count of muffins}    &= \dfrac {\text {Total money}} {\text {Cost of one muffin}} \\\\
+                            &= \dfrac {\pounds 15} {85 \text {p}} \\\\
                             &= \dfrac {1500 \text {p}} {85 \text {p}} \\\\
-                            &= \dfrac {1500} {85} \\\\
-                            &= 17.64 \\\\
-                            &= 17
+                            &= \dfrac {5 \times 300} {5 \times 17} \\\\
+                            &= \dfrac {\cancel {5} \times 300} {\cancel {5} \times 17} \\\\
+                            &= \dfrac {300} {17} \\\\
+                            &= 17 \ \text {remainder} \ 11 \\\\
+                            &\approx 17
 \end{aligned}
 $
 

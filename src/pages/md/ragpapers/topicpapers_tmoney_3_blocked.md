@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-blocked"
 title: "TopicPaper - Money - 3 - BLOCKED"
-date: 2022-06-24 11:05:13
+date: 2022-06-24 13:11:40
 ---
 <ul class='question default-decimal'>
 <li>
@@ -48,6 +48,206 @@ $56 p , So 10*5 and 5*5 and 1*1$
 </div>
 </div>
 
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>C3168C71-1453-467B-B9E0-F3062E77C342</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A sandwich costs $\pounds 2.46$. A drink costs $\pounds 1.29$.
+
+What is the combined cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total cost}    &= 2.46 + 1.29 \\\\
+                     &= \pounds 3.75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.75$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A box of chocolates contains $37$ individual chocolates.
+
+How many chocolates are there, in total, in $18$ of the same boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total chocolates} &= 18 \times 37\\\\
+                        &= 666
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$666$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+One litre of orange juice costs $\pounds 1.45$.
+
+What does $0.65 \ \text{litres}$ of orange juice cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \ \text {litre}       &= \pounds 1.45 \\\\
+0.65 \times 1           &= 0.65 \times 1.45 \\\\
+0.65 \ \text {litres}   &= \pounds 0.9425
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 0.9425$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+There are $1.09 \ \text{yards}$ in one metre. How many yards are there in $0.27 \ \text{metres}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \ \text {metre}       &= 1.09 \ \text {yards} \\\\
+0.27 \times 1           &= 0.27 \times 1.09 \\\\
+0.27 \ \text {metres}   &= 0.2943 \ \text {yards}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.2943 \ \text{yards}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The total mass of $7$ identical computers is $259 \ \text{kg}$. What is the mass of one computer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Mass of one computer} &= \dfrac {259} {7} \\\\
+                            &= \dfrac {7 \times 37} {7} \\\\
+                            &= \dfrac {\cancel {7} \times 37} {\cancel {7}} \\\\
+                            &= 37 \ \text {kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$37 \ \text{kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 
 </div>
 </li>

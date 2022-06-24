@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g0-prcc"
 title: "TopicPaper - Money - 4 - G0 - PRCC"
-date: 2022-06-24 11:05:13
+date: 2022-06-24 13:11:40
 ---
 <ul class='question default-decimal'>
 <li>
@@ -123,7 +123,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Call cost}    &= \pounds 8.17 - \pounds 7.65 \\\\
+\text{Call cost}    &= 8.17 - 7.65 \\\\
                     &= \pounds 0.52
 \end{aligned}
 $
@@ -211,9 +211,9 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin {aligned}
-\text {Money spent}     &= 3 \times 85 \text {p} + 5 \times 30 \text {p} \\\\
-                        &= 3 \times \pounds 0.85 + 5 \times \pounds 0.30 \\\\
-                        &= 2.55 + 1.50 \\\\
+\text {Money spent}     &= 3 \times 85 + 5 \times 30 \\\\
+                        &= 255 + 150 \\\\
+                        &= 405 \text {p} \\\\
                         &= \pounds 4.05 \\\\
 \text {Change received} &= 5 - 4.05 \\\\
                         &= \pounds 0.95
@@ -355,7 +355,7 @@ How much does he pay?
 
 $
 \begin{aligned}
-\text {Money spent} &= 4 \times \pounds 1.90 \\\\
+\text {Money spent} &= 4 \times 1.90 \\\\
                     &= \pounds 7.60
 \end{aligned}
 $
@@ -384,7 +384,7 @@ How much change does he receive?
 
 $
 \begin{aligned}
-\text {Change received} &= \pounds 10 - 7.60 \\\\
+\text {Change received} &= 10 - 7.60 \\\\
                         &= \pounds 2.40
 \end{aligned}
 $
@@ -412,9 +412,6 @@ What is the cost, in pence, of one ice lolly?
 </div>
 <div class='workings'>
 <div class='working'>
-
-ABBR: It is really important to use the right units in calculations and convert where required
-.
 
 $
 \begin{aligned}
@@ -771,7 +768,8 @@ $
 \begin{aligned}
 &= 35 \% \ \text {of} \ \pounds 4 \\\\
 &= \dfrac {35} {100} \times  4 \\\\
-&= 0.35 \times  4 \\\\
+&= \dfrac {35 \times 4} {100} \\\\
+&= \dfrac {140} {100} \\\\
 &= \pounds 1.40
 \end{aligned}
 $
@@ -987,6 +985,94 @@ $\pounds 5.04$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-81E1B098-E3D4-4FFB-8782-94935FEFD938'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>4B61C938-79C7-44C1-871D-5818101388C0</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My garden centre sells Summer bedding plants at $85 \text{p}$ each. I have $\pounds 30$ to spend. How many plants can I buy? Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+$
+\begin{aligned}
+\text{Number of plants}     &= \dfrac {\pounds 30} {85 \text {p}} \\\\
+                            &= \dfrac {3000 \text {p}} {85 \text {p}} \\\\
+                            &= \dfrac {5 \times 600} {5 \times 17} \\\\
+                            &= \dfrac {\cancel {5} \times 600} {\cancel {5} \times 17} \\\\
+                            &= \dfrac {600} {17} \\\\
+                            &= 35 \ \text {remainder} \ 5 \\\\
+                            &\approx 35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4B61C938-79C7-44C1-871D-5818101388C0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4B61C938-79C7-44C1-871D-5818101388C0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='4B61C938-79C7-44C1-871D-5818101388C0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4B61C938-79C7-44C1-871D-5818101388C0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='4B61C938-79C7-44C1-871D-5818101388C0' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='4B61C938-79C7-44C1-871D-5818101388C0' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='4B61C938-79C7-44C1-871D-5818101388C0' id='FORM-4B61C938-79C7-44C1-871D-5818101388C0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4B61C938-79C7-44C1-871D-5818101388C0'>Initial</p>
 </div>
 </div>
 </li>

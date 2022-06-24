@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-5"
 title: "TopicPaper - Money - 5"
-date: 2022-06-24 11:05:13
+date: 2022-06-24 13:11:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -702,8 +702,8 @@ $
 \begin {aligned}
 \text {Number of oranges}   &= \dfrac {\pounds 1} {15 \text {p}} \\\\
                             &= \dfrac {100 \text {p}} {15 \text {p}} \\\\
-                            &= 6.66 \\\\
-                            &= 6 \ \text {oranges}
+                            &= 6 \ \text {remainder} \ 10 \\\\
+                            &\approx 6
 \end {aligned}
 $
 

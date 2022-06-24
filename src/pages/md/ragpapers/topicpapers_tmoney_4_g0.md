@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g0"
 title: "TopicPaper - Money - 4 - G0"
-date: 2022-06-24 11:05:13
+date: 2022-06-24 13:11:40
 ---
 <ul class='question default-decimal'>
 <li>
@@ -454,7 +454,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Call cost}    &= \pounds 8.17 - \pounds 7.65 \\\\
+\text{Call cost}    &= 8.17 - 7.65 \\\\
                     &= \pounds 0.52
 \end{aligned}
 $
@@ -542,9 +542,9 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin {aligned}
-\text {Money spent}     &= 3 \times 85 \text {p} + 5 \times 30 \text {p} \\\\
-                        &= 3 \times \pounds 0.85 + 5 \times \pounds 0.30 \\\\
-                        &= 2.55 + 1.50 \\\\
+\text {Money spent}     &= 3 \times 85 + 5 \times 30 \\\\
+                        &= 255 + 150 \\\\
+                        &= 405 \text {p} \\\\
                         &= \pounds 4.05 \\\\
 \text {Change received} &= 5 - 4.05 \\\\
                         &= \pounds 0.95
@@ -686,7 +686,7 @@ How much does he pay?
 
 $
 \begin{aligned}
-\text {Money spent} &= 4 \times \pounds 1.90 \\\\
+\text {Money spent} &= 4 \times 1.90 \\\\
                     &= \pounds 7.60
 \end{aligned}
 $
@@ -715,7 +715,7 @@ How much change does he receive?
 
 $
 \begin{aligned}
-\text {Change received} &= \pounds 10 - 7.60 \\\\
+\text {Change received} &= 10 - 7.60 \\\\
                         &= \pounds 2.40
 \end{aligned}
 $
@@ -743,9 +743,6 @@ What is the cost, in pence, of one ice lolly?
 </div>
 <div class='workings'>
 <div class='working'>
-
-ABBR: It is really important to use the right units in calculations and convert where required
-.
 
 $
 \begin{aligned}
@@ -1515,7 +1512,8 @@ $
 \begin{aligned}
 &= 35 \% \ \text {of} \ \pounds 4 \\\\
 &= \dfrac {35} {100} \times  4 \\\\
-&= 0.35 \times  4 \\\\
+&= \dfrac {35 \times 4} {100} \\\\
+&= \dfrac {140} {100} \\\\
 &= \pounds 1.40
 \end{aligned}
 $
@@ -1735,7 +1733,7 @@ $\pounds 5.04$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4B61C938-79C7-44C1-871D-5818101388C0</p>
 </div>
@@ -1746,7 +1744,7 @@ $\pounds 5.04$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1763,15 +1761,18 @@ My garden centre sells Summer bedding plants at $85 \text{p}$ each. I have $\pou
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
 \text{Number of plants}     &= \dfrac {\pounds 30} {85 \text {p}} \\\\
                             &= \dfrac {3000 \text {p}} {85 \text {p}} \\\\
-                            &= 35.29 \\\\
-                            &= 35
+                            &= \dfrac {5 \times 600} {5 \times 17} \\\\
+                            &= \dfrac {\cancel {5} \times 600} {\cancel {5} \times 17} \\\\
+                            &= \dfrac {600} {17} \\\\
+                            &= 35 \ \text {remainder} \ 5 \\\\
+                            &\approx 35
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-6"
 title: "TopicPaper - Areaperimeter - 6"
-date: 2022-06-24 11:05:13
+date: 2022-06-24 13:11:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2576,7 +2576,7 @@ As per the question,
 
 $
 \begin{aligned}
-8 \times a                 &= 24 \\\\
+8 \times w                 &= 24 \\\\
 w                          &= \dfrac {24} {8} \\\\
 w                          &= \dfrac {3 \times 8} {8} \\\\
 w                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
@@ -2735,6 +2735,7 @@ If the total length of this fence is $30 \ \text{m}$, write down two possible va
 <div class='workings'>
 <div class='working'>
 
+*TODO: Add explanation, not sure how to go about this one.*
 
 $10 \ \text{and} 5,7 \ \text{and} 8$
 
@@ -3387,20 +3388,28 @@ What is the perimeter of the shape?
 ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
 Let the side of the square $= s$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Area}     &= 144 \\\\
-9 \times a ^ 2  &= 144 \\\\
-a ^ 2           &= \dfrac {144} {9} \\\
-a ^ 2           &= \dfrac {16 \times 9} {9} \\\\
-a ^ 2           &= \dfrac {16 \times \cancel {9}} {\cancel {9}} \\\\
-a ^ 2           &= 16 \\\\
-a               &= \sqrt 16 \\\\
-a               &= 4 \ \text{cm}
+9 \times s ^ 2  &= 144 \\\\
+s ^ 2           &= \dfrac {144} {9} \\\\
+s ^ 2           &= \dfrac {16 \times 9} {9} \\\\
+s ^ 2           &= \dfrac {16 \times \cancel {9}} {\cancel {9}} \\\\
+s ^ 2           &= 16 \\\\
+s               &= \sqrt {16} \\\\
+s               &= 4 \ \text{cm}
 \end{aligned}
 $
+
+*TODO: Add a description on counting all the sides of the shape which makes the perimeter*.
+
+Let's find the perimeter of the shape.
 
 $
 \begin{aligned}
@@ -3784,19 +3793,34 @@ What is the area of the rectangle?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the side of the square $= s$
+
+As per the question,
+
 $
 \begin{aligned}
-\text {Side of the square} &= \dfrac {8} {4} \\\\
-                           &= \dfrac {4 \times 2} {4} \\\\
-                           &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
-                           &= 2 \ \text{cm}
+4 \times s                 &= 8 \\\\
+s                          &= \dfrac {8} {4} \\\\
+s                          &= \dfrac {4 \times 2} {4} \\\\
+s                          &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
+s                          &= 2 \ \text{cm}
 \end{aligned}
 $
 
 $
 \begin{aligned}
+\text {Area of one square} &= 2 \times 2 \\\\
+                           &= 4 \ \text {cm}^2 \\\\
 \text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
-                           &= 5 \times 2 \times 2 \\\\
                            &= 5 \times 4 \\\\
                            &= 20 \ \text{cm} ^ 2
 \end{aligned}
@@ -4604,26 +4628,31 @@ Find the perimeter of the shape.
 <div class='workings'>
 <div class='working'>
 
-Let the side of square tile $= a$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+Let the side of square tile $= s$
 
 As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of the shape} &= 63 \\\\
-7 \times a ^ 2           &= 63 \\\\
-a ^ 2                    &= \dfrac {63} {7} \\\\
-a ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
-a ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
-a ^ 2                    &= 9 \\\\
-a                        &= \sqrt 9 \\\\
-a                        &= 3 \ \text{cm}
+7 \times (s \times s)    &= 63 \\\\
+7 \times s^2             &= 63 \\\\
+s ^ 2                    &= \dfrac {63} {7} \\\\
+s ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
+s ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
+s ^ 2                    &= 9 \\\\
+s                        &= \sqrt 9 \\\\
+s                        &= 3 \ \text{cm}
 \end{aligned}
 $
 
+*TODO: add a description to count all the sides which add upto perimeter*
+
 $
 \begin{aligned}
-\text{Perimeter of the shape} &= 16 \times a \\\\
+\text{Perimeter of the shape} &= 16 \times s \\\\
                               &= 16 \times 3 \\\\
                               &= 48 \ \text{cm}
 \end{aligned}

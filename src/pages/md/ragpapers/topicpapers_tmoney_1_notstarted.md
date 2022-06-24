@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-notstarted"
 title: "TopicPaper - Money - 1 - NOTSTARTED"
-date: 2022-06-24 11:05:13
+date: 2022-06-24 13:11:40
 ---
 <ul class='question default-decimal'>
 <li>
@@ -31,65 +31,6 @@ tcoin
 <div class='question question'>
 
 Find the smallest number of coins I can be given in change when paying a bill for $\pounds 2.34$ with a $\pounds 5$ note.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>9B1CDCC2-E765-4806-9811-7D7C57CD2CBF</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:5</p>
-</div>
-<div class='rag'>
-<p>rag_ak_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Decrease $\pounds 44$ by $10\%$.
-
--  $\pounds 39.60$
--  $\pounds 4.40$
--  $\pounds 48.40$
--  $\pounds 34$
 
 </div>
 <div class='workings'>
@@ -240,67 +181,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>3C332963-BE65-428D-ADC1-67AF0F572E10</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:10</p>
-</div>
-<div class='rag'>
-<p>rag_ak_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I buy $6$ packets of crisps from the $\pounds 1.99$ store where everything costs $\pounds 1.99$. How much change do I get 
-from $\pounds 20$?
-
--  $6 \text{p}$ 
--  $\pounds 6.99$ 
--  $\pounds 11.94$ 
--  $\pounds 4.06$ 
--  $\pounds 8.06$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 
 </div>
 </li>

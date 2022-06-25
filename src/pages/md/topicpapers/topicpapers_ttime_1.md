@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "TopicPaper - Time - 1"
-date: 2022-06-25 11:46:13
+date: 2022-06-25 21:04:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-06-25 11:46:13
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -110,7 +110,7 @@ $1953$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

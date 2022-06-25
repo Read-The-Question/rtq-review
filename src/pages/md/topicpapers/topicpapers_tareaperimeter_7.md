@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-7"
 title: "TopicPaper - Areaperimeter - 7"
-date: 2022-06-25 11:46:13
+date: 2022-06-25 21:04:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1654,7 +1654,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C59005D5-EA4A-432B-99E9-DF224B680D47</p>
 </div>
@@ -1665,7 +1665,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1692,6 +1692,12 @@ Work out the length of the side marked $d$.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+ABBR: $\text{Perimeter of triangle} = \text{Sum of all sides}$
+
+
 $
 \begin {aligned}
 \text {Perimeter of the square}     &= 4 \times \text {Sides} \\\\
@@ -1700,12 +1706,12 @@ $
 \end {aligned}
 $
 
-We know that two sides of the isosceles triangle are equal. Using that we get,
+As per the question,
 
 $
 \begin {aligned}
-\text {Perimeter of the triangle}   &= d + d + 20 \\\\
-36                                  &= 2d + 20 \\\\
+\text {Perimeter of the triangle}   &= 36 \\\\
+d + d + 20                          &= 36 \\\\
 2d + 20                             &= 36 \\\\
 2d                                  &= 36 - 20 \\\\
 2d                                  &= 16 \\\\
@@ -2353,7 +2359,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>3E516FDA-B3CC-4682-8A7D-BA9751F541AB</p>
 </div>
@@ -2361,10 +2367,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2407,37 +2413,6 @@ $\dfrac {1} {9}$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3E516FDA-B3CC-4682-8A7D-BA9751F541AB' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3E516FDA-B3CC-4682-8A7D-BA9751F541AB' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='3E516FDA-B3CC-4682-8A7D-BA9751F541AB' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3E516FDA-B3CC-4682-8A7D-BA9751F541AB' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='3E516FDA-B3CC-4682-8A7D-BA9751F541AB' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='3E516FDA-B3CC-4682-8A7D-BA9751F541AB' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='3E516FDA-B3CC-4682-8A7D-BA9751F541AB' id='FORM-3E516FDA-B3CC-4682-8A7D-BA9751F541AB' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3E516FDA-B3CC-4682-8A7D-BA9751F541AB'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -2957,13 +2932,12 @@ Two rectangles have the same area. One rectangle is $28 \ \text{cm}$ long and $1
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
 Let the length of the second rectangle $= l$
 
-As per the question, the area of both the rectangles are the same.
-
-$\text{Area} = \text{length} \times \text{width}$
-
-Putting this into an equation, we get,
+As per the question,
 
 $
 \begin{aligned}
@@ -2975,6 +2949,8 @@ l           &= 4 \times 12 \\\\
 l           &= 48 \ \text{cm}
 \end{aligned}  
 $
+
+Length of the second rectangle $= 48 \ \text{cm}$
 
 </div>
 </div>
@@ -3077,13 +3053,18 @@ Find the perimeter of this letter $F$.
 <div class='workings'>
 <div class='working'>
 
-Perimeter is total measurements of all the edges of a shape. So, 
+*ABBR: TODO:: Add drawing starts.*
 
-Let's first find the missing edges.
+![missing image](/papers/missing_image.svg)
 
-(Top edge $6$) - (Below edge $2$) = (Inner missing edge $4$)
 
-Middle missing edge is $2$ as the parallel edge is $2$
+*TODO:: Show the given diagram with missing sides calculated.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
 
 $
 \begin{aligned}

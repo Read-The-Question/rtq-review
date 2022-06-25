@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-1"
 title: "TopicPaper - Areaperimeter - 1"
-date: 2022-06-25 11:46:13
+date: 2022-06-25 21:04:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-25 11:46:13
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>71BAE604-5A28-4AE4-95ED-49D812FF6AF2</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-25 11:46:13
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -112,7 +112,7 @@ $8 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>818A3399-A21C-4308-BB9A-424A3CC74F98</p>
 </div>
@@ -120,10 +120,10 @@ $8 \ \text{mm}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -201,37 +201,6 @@ Length $= 9 \ \text{cm}$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' id='FORM-818A3399-A21C-4308-BB9A-424A3CC74F98' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-818A3399-A21C-4308-BB9A-424A3CC74F98'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -502,7 +471,7 @@ $150$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
 </div>
@@ -513,7 +482,7 @@ $150$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -718,7 +687,7 @@ $56 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FA9861FD-232E-4ED5-9793-77E5EFC8EB56</p>
 </div>
@@ -729,7 +698,7 @@ $56 \ \text {cm}$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -946,7 +915,7 @@ $25 \ \text{cm}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
 </div>
@@ -957,7 +926,7 @@ $25 \ \text{cm}^{2}$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4405,7 +4374,7 @@ $36 \ \text {m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>61C1A420-8257-47F8-8AF9-90E715F64BCC</p>
 </div>
@@ -4416,7 +4385,7 @@ $36 \ \text {m}^2$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

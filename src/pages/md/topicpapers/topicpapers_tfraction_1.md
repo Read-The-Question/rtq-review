@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-06-25 11:46:13
+date: 2022-06-25 21:04:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2040,7 +2040,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8</p>
 </div>
@@ -2048,7 +2048,7 @@ $\dfrac {1} {2}$
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2076,18 +2076,8 @@ What fraction of the outer square is represented by
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -2105,24 +2095,18 @@ $A$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {1} {4}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {1} {4}$
 
 </div>
 </div>
@@ -2139,24 +2123,27 @@ $A + B$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+B     &= \dfrac {1} {2} - \dfrac {1} {8} \\\\
+      &= \dfrac {4} {2 \times 4} - \dfrac {1} {8} \\\
+      &= \dfrac {4} {8} - \dfrac {1} {8} \\\\
+      &= \dfrac {4 - 1} {8} \\\\
+      &= \dfrac {3} {8} \\\\
+A + B &= \dfrac {1} {4} + \dfrac {3} {8} \\\\
+      &= \dfrac {2} {4 \times 2} + \dfrac {3} {8} \\\\
+      &= \dfrac {2} {8} + \dfrac {3} {8} \\\\
+      &= \dfrac {2 + 3} {8} \\\\
+      &= \dfrac {5} {8} 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {5} {8}$
 
 </div>
 </div>
@@ -2173,24 +2160,14 @@ $C$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\dfrac {1} {8}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {1} {8}$
 
 </div>
 </div>
@@ -2207,24 +2184,29 @@ $D$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {1} {8} \div 2
+\end{aligned}
+$
 
-</div>
-<div class='working'>
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
 
-TODOWORKING
+
+$
+\begin{aligned}
+&= \dfrac {1} {8} \times \dfrac {1} {2} \\\\
+&= \dfrac {1} {8 \times 2} \\\\
+&= \dfrac {1} {16}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {1} {16}$
 
 </div>
 </div>
@@ -2241,24 +2223,25 @@ $B + F + E + D$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {3} {8} + \dfrac {1} {8} + \dfrac {1} {16} + \dfrac {1} {16} \\\\
+&= \dfrac {3 \times 2} {8 \times 2} + \dfrac {2} {8 \times 2} + \dfrac {1} {16} + \dfrac {1} {16} \\\\
+&= \dfrac {6} {16} + \dfrac {2} {16} + \dfrac {1} {16} + \dfrac {1} {16} \\\\
+&= \dfrac {6 + 2 + 1 + 1} {16} \\\\
+&= \dfrac {10} {16} \\\\
+&= \dfrac {2 \times 5} {2 \times 8} \\\\
+&= \dfrac {\cancel{2} \times 5} {\cancel{2} \times 8} \\\\
+&= \dfrac {5} {8}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {5} {8}$
 
 </div>
 </div>
@@ -2267,6 +2250,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' id='FORM-3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8'>Initial</p>
+</div>
 </div>
 </li>
 <li>

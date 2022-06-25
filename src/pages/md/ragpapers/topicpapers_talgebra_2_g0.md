@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-g0"
 title: "TopicPaper - Algebra - 2 - G0"
-date: 2022-06-25 11:46:13
+date: 2022-06-25 21:04:48
 ---
 <ul class='question default-decimal'>
 <li>

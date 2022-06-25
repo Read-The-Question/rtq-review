@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-blocked"
 title: "TopicPaper - Areaperimeter - 7 - BLOCKED"
-date: 2022-06-25 11:46:13
+date: 2022-06-25 21:04:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -130,6 +130,63 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>3E516FDA-B3CC-4682-8A7D-BA9751F541AB</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:14</p>
+</div>
+<div class='rag'>
+<p>rag_na_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of the area of the triangle has been shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+![missing image](/papers/missing_image.svg)
+
+
+** IMAGE_PLACEHOLDER_STARTS Add an image with answer triangles drawn in IMAGE_PLACEHOLDER_ENDS **
+
+If we look at the diagram, we can see that $3$ triangles fit 
+in the middle row and $5$ triangles fit in the bottom row. 
+
+So, there are $9$ triangles in total and $1$ has been shaded in.
+
+Hence, the fraction that has been shaded = $\dfrac {1} {9}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {9}$
+
+</div>
+</div>
+
 
 </div>
 </li>

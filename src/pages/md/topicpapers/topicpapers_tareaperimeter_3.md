@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-3"
 title: "TopicPaper - Areaperimeter - 3"
-date: 2022-06-25 11:46:13
+date: 2022-06-25 21:04:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -476,12 +476,14 @@ When $x = 1.5$ what is the value of the **perimeter** of the triangular area?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
 As per the diagram,
 
 $
 \begin{aligned}
-\text{Perimeter}                               &= \text{Sum of all sides} \\\\
-                                               &= 3(x +1) + 2(x - 2) + 4x \\\\
+\text{Perimeter}                               &= 3(x +1) + 2(x - 2) + 4x \\\\
                                                &= 3(1.5 +1) + 2(1.5 - 2) + 4 \times 1.5 \\\\
                                                &= 3 \times 2.5 + 2 \times (-0.5) + 6 \\\\
                                                &= 7.5 - 1 + 6 \\\\
@@ -1672,13 +1674,12 @@ ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
 Let the width of the rectangle $= a$
 
-As per the question, 
+Length $= 2a$
 
-Length of the rectangle $= 2a$
+As per the question, 
 
 $
 \begin {aligned}
-\text {Area of the rectangle}   &= 128 \\\\
 2a \times a                     &= 128 \\\\
 2a ^ 2                          &= 128 \\\\
 a ^ 2                           &= \dfrac {128} {2} \\\\
@@ -1692,7 +1693,12 @@ $
 
 Width of the rectangle $= 8 \ \text {cm}$
 
-Length of the rectangle $= 2 \times 8 = 16 \ \text {cm}$
+$
+\begin{aligned}
+\text{Length of the rectangle}  &= 2 \times 8 \\\\
+                                &= 16 \ \text {cm}
+\end{aligned}
+$
 
 $
 \begin {aligned}
@@ -2198,6 +2204,9 @@ Calculate the perimeter of this shape stating your units very carefully.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
@@ -2205,8 +2214,7 @@ Let's convert all the lenghts into meters.
 
 $
 \begin {aligned}
-\text {Perimeter of the shape}  &= \text {Sum of all sides} \\\\
-                                &= 80 \ \text {cm} + 1.6 \text {m} + (1.8 \text {m} - 80 \ \text {cm}) + 30 \ \text {cm} + 1.8 \text {m} + (1.6 \text {m} + 30 \ \text {cm}) \\\\
+\text {Perimeter of the shape}  &= 80 \ \text {cm} + 1.6 \text {m} + (1.8 \text {m} - 80 \ \text {cm}) + 30 \ \text {cm} + 1.8 \text {m} + (1.6 \text {m} + 30 \ \text {cm}) \\\\
                                 &= \dfrac {80} {100} \text {m} + 1.6 \text {m} + (1.8 \text {m} - \dfrac {80} {100} \text {m}) + \dfrac {30} {100} \text {m} + 1.8 \text {m} + (1.6 \text {m} + \dfrac {30} {100} \text {m}) \\\\
                                 &= 0.80 + 1.6 + (1.8 - 0.80) + 0.30 + 1.8 + (1.6 + 0.30) \\\\
                                 &= 2.40 + 1 + 2.1 + 1.90 \\\\
@@ -3567,12 +3575,14 @@ Sid the spider goes for a walk around the whole perimeter of the shape below, st
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
 As per the diagram,
 
 $
 \begin{aligned}
-\text{Perimeter} &= \text {Sum of all sides} \\\\
-                 &= 4 + 9 + 5 + 9 + (12 - (5 + 4)) + 14 + 12 + 14 \\\\
+\text{Perimeter} &= 4 + 9 + 5 + 9 + (12 - (5 + 4)) + 14 + 12 + 14 \\\\
                  &= 70 \ \text{cm}
 \end{aligned}
 $

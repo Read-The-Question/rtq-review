@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-oldpr"
 title: "TopicPaper - Areaperimeter - 1 - OLDPR"
-date: 2022-06-25 11:46:13
+date: 2022-06-25 21:04:48
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>71BAE604-5A28-4AE4-95ED-49D812FF6AF2</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-25 11:46:13
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -102,130 +102,7 @@ $8 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>818A3399-A21C-4308-BB9A-424A3CC74F98</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:21</p>
-</div>
-<div class='rag'>
-<p>rag_na_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A rectangle has an area of $36 \ \text{cm}^2$ and a perimeter of $26 \ \text{cm}$. Find the length and width of the rectangle.
-You may use the grid to help you.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the width of the rectangle (in $\text{cm}$) $= w$
-
-Let the length of the rectangle (in $\text{cm}$) $= l$
-
-Using the formula for area and perimeter for a rectangle, we get
-
-$
-\begin{aligned}
-l \times w          &= 36 \\\\
-2 \times (l + w)    & = 26 \\\\
-l + w               &= \dfrac {26}{2} \\\\
-l + w               &= 13
-\end{aligned}
-$
-
-We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
-
-- Both the numbers should be smaller than $13$
-- The product of the $2$ numbers is $36$ 
-- The sum of the $2$ numbers is $13$.
-
-Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-| Factors   |  Sum  | Numbers $< 13$    |
-|:-------:  |:----: |:---------------:  |
-| $2, 18$   | $20$  |        No         |
-| $3, 12$   | $15$  |       Yes         |
-| $4, 9$    | $13$  |       Yes         |
-
-A quick check shows that $4$ and $9$ meets all the criteria above.
-
-*Note: The two equations form a quadratic equation. ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
-*
-
-Width of the rectangle $= 4 \ \text{cm}$ 
-
-Length of the rectangle $= 9 \ \text{cm}$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Width $= 4 \ \text{cm}$
-
-</div>
-<div class='answer'>
-
-Length $= 9 \ \text{cm}$
-
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='818A3399-A21C-4308-BB9A-424A3CC74F98' id='FORM-818A3399-A21C-4308-BB9A-424A3CC74F98' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-818A3399-A21C-4308-BB9A-424A3CC74F98'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
 </div>
@@ -236,7 +113,7 @@ Length $= 9 \ \text{cm}$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -345,7 +222,7 @@ step 1: side x side                                                             
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FA9861FD-232E-4ED5-9793-77E5EFC8EB56</p>
 </div>
@@ -356,7 +233,7 @@ step 1: side x side                                                             
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -467,7 +344,7 @@ dfrac is broken
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
 </div>
@@ -478,7 +355,7 @@ dfrac is broken
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -563,7 +440,7 @@ $3 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>61C1A420-8257-47F8-8AF9-90E715F64BCC</p>
 </div>
@@ -574,7 +451,7 @@ $3 \ \text{cm}$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

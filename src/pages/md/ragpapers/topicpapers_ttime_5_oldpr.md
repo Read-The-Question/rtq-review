@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-oldpr"
 title: "TopicPaper - Time - 5 - OLDPR"
-date: 2022-06-24 18:32:48
+date: 2022-06-25 11:46:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-24 18:32:48
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_bs_oldpr</p>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -156,7 +156,7 @@ $17 {:} 10$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_bs_oldpr</p>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -242,7 +242,7 @@ $5 {:} 33 \ \text {p.m.}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_bs_oldpr</p>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

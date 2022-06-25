@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g0"
 title: "TopicPaper - Time - 1 - G0"
-date: 2022-06-24 18:32:48
+date: 2022-06-25 11:46:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -190,7 +190,7 @@ $105  \ \text{minutes}$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -270,7 +270,7 @@ $1$ January
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -362,7 +362,7 @@ $27 \ \text {minutes}$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -445,7 +445,7 @@ $223 \ \text {minutes}$
 <p>csse--11-plus--maths--2015--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -624,7 +624,7 @@ $1982$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -704,7 +704,7 @@ $7{:}35 \ \text{a.m}$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -798,7 +798,7 @@ $18 \text{hours}$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -883,7 +883,7 @@ $86400  \ \text {seconds}$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -966,7 +966,7 @@ $742  \ \text{minutes}$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1051,7 +1051,7 @@ $43200 \ \text {seconds}$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1137,7 +1137,7 @@ $941  \ \text{minutes}$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1212,7 +1212,7 @@ $16.30$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:32</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1298,7 +1298,7 @@ $385  \ \text{minutes}$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:28</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1383,7 +1383,7 @@ $86400 \ \text {seconds}$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:30</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1466,7 +1466,7 @@ $933  \ \text{minutes}$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g0</p>
+<p>rag_ar_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

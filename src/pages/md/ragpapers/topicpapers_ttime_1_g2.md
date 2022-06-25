@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g2"
 title: "TopicPaper - Time - 1 - G2"
-date: 2022-06-24 18:32:48
+date: 2022-06-25 11:46:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-24 18:32:48
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g2</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -149,7 +149,7 @@ $\pounds 14.40$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g2</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -235,7 +235,7 @@ $140  \ \text{minutes}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:10</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g2</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -386,7 +386,7 @@ $68 \ \text {miles/hour}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g2</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -473,7 +473,7 @@ $155 \ \text{minutes}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g2</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -554,7 +554,7 @@ $7 {:} 58$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g2</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -642,7 +642,7 @@ $210 \text{ minutes}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g2</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -728,7 +728,7 @@ $ 4 \ \text{hours} \ 47 \ \text {minutes}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g2</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -825,7 +825,7 @@ $240 \ \text {seconds}$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_bs_g2</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-4"
 title: "TopicPaper - Sequence - 4"
-date: 2022-06-24 18:32:48
+date: 2022-06-25 11:46:13
 ---
 <div class='paper'>
 <div class='meta'>

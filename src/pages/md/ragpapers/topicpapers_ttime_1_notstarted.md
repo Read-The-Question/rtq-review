@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-notstarted"
 title: "TopicPaper - Time - 1 - NOTSTARTED"
-date: 2022-06-24 18:32:48
+date: 2022-06-25 11:46:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-24 18:32:48
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -73,7 +73,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -200,7 +200,7 @@ TODOWORKING
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -259,7 +259,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -329,7 +329,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -528,7 +528,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -696,7 +696,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -752,7 +752,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:34</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -877,7 +877,7 @@ TODOANSWER
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1068,7 +1068,7 @@ TODOANSWER
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1345,7 +1345,7 @@ TODOANSWER
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1406,7 +1406,7 @@ TODOANSWER
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1466,7 +1466,7 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:30</p>
 </div>
 <div class='rag'>
-<p>rag_bs_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

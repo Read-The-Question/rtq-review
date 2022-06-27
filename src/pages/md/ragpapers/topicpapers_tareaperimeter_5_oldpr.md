@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-25 21:04:48
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -61,10 +61,14 @@ Find the total perimeter of the garden.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
+As per the diagram,
+
 $
 \begin {aligned}
-\text {Perimeter of the Garden}  &= \text {Sum of all sides} \\\\
-                                 &= 5 \ \text {m} + (12 - 7) \ \text {m} + (9 - 5) \ \text {m} + 12 \ \text {m} + 9 \ \text {m} + 7 \ \text {m} \\\\
+\text {Perimeter of the Garden}  &= 5 + (12 - 7) + (9 - 5) + 12 + 9 + 7 \\\\
                                  &= 5 + 5 + 4 + 12 + 9 + 7 \\\\
                                  &= 42 \ \text {m}
 \end {aligned}
@@ -92,19 +96,33 @@ Find the total area of the garden.
 <div class='workings'>
 <div class='working'>
 
-On decomposing the shape of the garden, we find  2 regular rectangles.
+*ABBR: TODO:: Add drawing starts.*
 
-Area of a rectangle $= $ length $\times$ width.
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the one missing side 7.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram, we can divide the shape into two rectangle
 
 $
 \begin {aligned}
-\text {Area of the garden}  &= \text {Area of the first rectangle} + \text {Area of the second rectangle} \\\\
-                            &= (7 \ \text {m} \times 5 \ \text {m}) + (12 \ \text {m} \times (9 - 5) \ \text {m}) \\\\
+\text {Total area}          &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                            &= (7 \times 5) + (12 \times (9 - 5)) \\\\
                             &= (7 \times 5) + (12 \times 4) \\\\
                             &= 35 + 48 \\\\
                             &= 83 \ \text {m} ^ 2
 \end {aligned}
 $
+
+Area of the garden is $83 \ \text{m}^2$.
 
 </div>
 </div>
@@ -201,7 +219,7 @@ Change blue answer accordingly.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>408B312B-6431-4F80-A288-66DBFDD7A7F3</p>
 </div>
@@ -212,7 +230,7 @@ Change blue answer accordingly.
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -232,10 +250,14 @@ Calculate the perimeter of this rectangle.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+As per the diagram,
+
 $
 \begin {aligned}
-\text {Perimeter of a rectangle}  &= 2 \times (\text {length} + \text {width}) \\\\
-                                  &= 2 \times (3.6 \ \text {cm} + 6.1 \ \text {cm}) \\\\
+\text {Perimeter}                 &= 2 \times (3.6 + 6.1) \\\\
                                   &= 2 \times 9.7 \\\\
                                   &= 19.4 \ \text {cm}
 \end {aligned}
@@ -305,7 +327,7 @@ Pertimeter of a rectangle =  2 x length x width = sum of all sides
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>BF1E2A8F-F5C7-4634-912A-F66697436636</p>
 </div>
@@ -316,7 +338,7 @@ Pertimeter of a rectangle =  2 x length x width = sum of all sides
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -336,10 +358,14 @@ Calculate the area of this right-angled triangle.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+
+As per the diagram,
+
 $
 \begin{aligned}
-\text {Area of a triangle}  &= \dfrac {\text {base} \times \text {height}} {2} \\\\
-                            &= \dfrac {8 \ \text {cm} \times 4.5 \ \text {cm}} {2} \\\\
+\text {Area}                &= \dfrac {8 \times 4.5} {2} \\\\
                             &= \dfrac {2 \times 4 \times 4.5} {2} \\\\
                             &= \dfrac {\cancel {2} \times 4 \times 4.5} {\cancel {2}} \\\\
                             &= 4 \times 4.5 \\\\
@@ -417,7 +443,7 @@ Blue answer change $18 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC</p>
 </div>
@@ -428,7 +454,7 @@ Blue answer change $18 \ \text{cm}^2$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -448,25 +474,37 @@ A piece of wire $42 \ \text{cm}$ long is bent into the shape of a rectangle. If 
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
 As per the question,
 
-The length of the rectangle is twice its width.
+Let the width of the rectangle $= w$
 
-Let the width of the rectangle $= w$.
+Length of the rectangle $= 2w$
+
+As per the question,
 
 $
 \begin {aligned}
-\text {Perimeter}                          &= \text {Total length of the wire} \\\\
-2 \times (\text {length} + \text {width})  &= 42 \ \text {cm} \\\\
 2 \times (2w + w)                          &= 42 \\\\
 2 \times 3w                                &= 42 \\\\
 6w                                         &= 42 \\\\
 w                                          &= \dfrac {42} {6} \\\\
 w                                          &= \dfrac {7 \times 6} {6} \\\\
 w                                          &= \dfrac {7 \times \cancel {6}} {\cancel {6}} \\\\
-w                                          &= 7 \ \text {cm} \\\\
-\text {Area of a rectangle}                &= \text {length} \times \text {width} \\\\
-                                           &= (2 \times 7) \times 7 \\\\
+w                                          &= 7 \ \text {cm}
+\end {aligned}
+$
+
+Let's find the area of the rectangle.
+
+$
+\begin {aligned}
+\text {Area}                               &= (2 \times 7) \times 7 \\\\
                                            &= 14 \times 7 \\\\
                                            &= 98 \ \text {cm} ^ 2
 \end {aligned}
@@ -562,7 +600,7 @@ Area of a rectangle = length x width
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>527152F8-094F-4AFE-A50B-4595C903532F</p>
 </div>
@@ -573,7 +611,7 @@ Area of a rectangle = length x width
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -619,15 +657,16 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter of a rectangle} = 2 \times (\text{length} + \text{width})$
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
-As per the question,
+
+As per the diagram,
 
 $
 \begin{aligned}
 \text{Perimeter}    &= 2 \times (14 + 9) \\\\
-&= 2 \times 23 \\\\
-&= 46 \ \text{cm}
+                    &= 2 \times 23 \\\\
+                    &= 46 \ \text{cm}
 \end{aligned}
 $
 
@@ -656,14 +695,15 @@ Find the area of the rectangle below.
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of a rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-As per the question,
+
+As per the diagram,
 
 $
 \begin{aligned}
 \text{Area}     &= 12 \times 8 \\\\
-&= 96 \ \text{cm}^2
+                &= 96 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -692,26 +732,32 @@ A square has a perimeter of $36 \ \text{cm}$. Find its area.
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter of a square} = 4 \times \text{Side}$
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+Let the side of the square $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-4 \times \text{Side}  &= 36 \ \text{cm} \\\\
-Side           &= \dfrac{36}{4} \ \text{cm} \\\\
-Side           &= \dfrac{4 \times 9}{4} \\\\
-Side           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
-Side           &= 9 \ \text{cm}
+4 \times a            &= 36\\\\
+a                     &= \dfrac {36} {4} \\\\
+a                     &= \dfrac {4 \times 9} {4} \\\\
+a                     &= \dfrac {\cancel{4} \times 9} {\cancel{4}} \\\\
+a                     &= 9 \ \text{cm}
 \end{aligned}
 $
 
+Let's find the area of the square.
 
 $
 \begin{aligned}
-\text{Area of a square} &= \text{Side}^2 \\\\
-&= 9^2 \\\\
-&= 81 \ \text{cm}^2
+\text{Area}             &= 9 \times 9 \\\\
+                        &= 81 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -792,7 +838,7 @@ Area of a square &= Side^2
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8E4B5715-53BB-42A4-9945-FBB59D2C6806</p>
 </div>
@@ -803,7 +849,7 @@ Area of a square &= Side^2
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -848,15 +894,16 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
-As per the question,
+
+As per the diagram,
 
 $
 \begin{aligned}
-&= 2 \times (22 + 9) \\\\
-&= 2 \times 31 \\\\
-&= 62 \ \text{cm}
+\text {Perimeter}              &= 2 \times (22 + 9) \\\\
+                               &= 2 \times 31 \\\\
+                               &= 62 \ \text{cm}
 \end{aligned}
 $
 
@@ -885,30 +932,34 @@ The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
 <div class='workings'>
 <div class='working'>
 
-Let the length of the rectangle $= t \text{cm}$
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the length of the rectangle $= l$
+
+As per the diagram,
 
 $
 \begin{aligned}
-120                                         &= 2 \times (25 + t) \\\\
-2 \times (25 + t)                           &= 120 \\\\
-25 + t                                      &= \dfrac{120}{2} \\\\
-25 + t                                      &= \dfrac{60 \times 2}{2} \\\\
-25 + t                                      &= \dfrac{60 \times \cancel{2}}{\cancel{2}} \\\\
-25 + t                                      &= 60 \\\\
-t                                           &= 60 - 25 \\\\
-t                                           &= 35 \ \text{cm}
-\text{width}                                &= 35 \ \text{cm}
+2 \times (25 + l)                           &= 120 \\\\
+25 + l                                      &= \dfrac {120} {2} \\\\
+25 + l                                      &= \dfrac {60 \times 2} {2} \\\\
+25 + l                                      &= \dfrac {60 \times \cancel {2}} {\cancel {2}} \\\\
+25 + l                                      &= 60 \\\\
+l                                           &= 60 - 25 \\\\
+l                                           &= 35 \ \text{cm}
 \end{aligned}
 $
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+Let's find the area of the rectangle.
 
 $
 \begin{aligned}
-&= 25 \times 35 \\\\
-&= 875 \text{cm}^2
+\text {Area}            &= 25 \times 35 \\\\
+                        &= 875 \text{cm}^2
 \end{aligned}
 $
 
@@ -937,17 +988,27 @@ Find the *area* of the shape below:
 <div class='workings'>
 <div class='working'>
 
-The area of irregular shapes can be determined by dividing the given shape into smaller regular shapes.
+*ABBR: TODO:: Add drawing starts.*
 
-As per the question,
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the two missing side as 3 and 11.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the question, the shape can be divided into two rectangles
 
 $
 \begin{aligned}
-\text{Area of shape}            &= \text{Area of rectangle L} + \text{Area of rectangle R} \\\\
-                                &= \text{length1} \times \text{width1} + \text{length2} \times \text{width2} \\\\
-                                &= (17 - 6) \times 8 + 6 \times 11 \\\\
-                                &= 11 \times 8 + 6 \times 11 \\\\
-                                &= 88 + 66 \\\\
+\text{Total area}               &= \text{Rectangle 1} + \text{Rectangle 2} \\\\
+                                &= 8 \times 17 + 3 \times 6 \\\\
+                                &= 136 + 18 \\\\
                                 &= 154 \ \text{cm}^2
 \end{aligned}
 $
@@ -977,15 +1038,21 @@ The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
 <div class='workings'>
 <div class='working'>
 
-Let the side of square = $a \ \text{cm}$
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+Let the side of square (in cm) $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{side} \times \text{side}         &= \text{Area} \\\\
 a \times a          &= 169 \\\\
-a \times a          &= 13 \times 13 \\\\
+a^2                 &= 169 \\\\
+a                   &= \sqrt {169} \\\\
 a                   &= 13 \ \text{cm}
 \end{aligned}
 $
@@ -994,8 +1061,7 @@ Let's find the perimeter of the square.
 
 $
 \begin{aligned}
-\text{Perimeter}        &= 4 \times \text{side} \\\\
-                        &= 4 \times a \\\\
+\text{Perimeter}        &= 4 \times a \\\\
                         &= 4 \times 13 \\\\
                         &= 52 \ \text{cm}
 \end{aligned}
@@ -1106,7 +1172,7 @@ solve like you did...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>196B7FB7-BE4D-4577-B993-353DAB477794</p>
 </div>
@@ -1117,7 +1183,7 @@ solve like you did...
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1147,8 +1213,10 @@ The Floor measurement is given in metres while the tile measurement is given in 
 
 Let's convert the wall measurements into $\text{cm}$.
 
-ABBR: $\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
+
+As per the question,
 
 $
 \begin{aligned}
@@ -1156,8 +1224,9 @@ $
                         &= \dfrac {5 \ \text{m} \times 6 \ \text{m} } { 20 \ \text{cm} \times 30 \ \text{cm} } \\\\
                         &= \dfrac {5 \times 100  \ \text{cm} \times 6 \times 100 \ \text{cm} } { 20 \ \text{cm} \times 30 \ \text{cm} } \\\\
                         &= \dfrac {5 \times 100 \times 6 \times 100 } { 20  \times 30 } \\\\
-                        &= \dfrac {5 \times 100 \times 2 \times 3 \times 10 \times 10 } { 2 \times 10  \times 3 \times 10 } \\\\
-                        &= \dfrac {500 \times \cancel{2} \times cancel{3} \times {100}} {\cancel{2} \cancel{10} \times \cancel{3} \times \cancel{10}} \\\\
+                        &= \dfrac {3000} {60} \\\\
+                        &= \dfrac {60 \times 500} {60} \\\\
+                        &= \dfrac {\cancel {60} \times 500} {\cancel {60}} \\\\
                         &= 500
 \end{aligned}
 $
@@ -1218,7 +1287,7 @@ step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>BAA3C1DC-AC85-4E56-81D2-E788C4B255D2</p>
 </div>
@@ -1229,7 +1298,7 @@ step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1246,13 +1315,15 @@ A rectangle measures $4.0 \ \text{cm}$ by $7.1 \ \text{cm}$. What is its area?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
+
+As per the question,
 
 $
 \begin{aligned}
-&= 4 \times 7.1 \\\\
-&= 28.4 \ \text{cm}^2
+\text {Area}                &= 4 \times 7.1 \\\\
+                            &= 28.4 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -1308,7 +1379,7 @@ Area &= 4 x 7.1
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>93360AA4-2B9F-4C55-BC75-2CD78B9FD6F2</p>
 </div>
@@ -1319,7 +1390,7 @@ Area &= 4 x 7.1
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1364,11 +1435,15 @@ What is the area of the base?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+As per the question,
+
 $
 \begin{aligned}
-\text{Area of base} &= \text{length}  \times  \text{width} \\\\
-&=  60 \ \text{cm} \times 20 \ \text{cm} \\\\
-&=  1200 \ \text{cm}^2
+\text{Area of base}     &= 60 \times 20 \\\\
+                        &= 1200 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -1394,13 +1469,15 @@ If the height of the fish tank is $30\,cm$ what is the maximum volume of water i
 <div class='workings'>
 <div class='working'>
 
-height of tank = $30$ cm,
+ABBR: $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Max volume of tank} &= \text{length} \times  \text{width} \times \text{height} \\\\
-&=  60 \ \text{cm}  \times 20 \ \text{cm} \times 30\ \text{cm}  \\\\
-&=   36000 \ \text{cm}^2
+\text{Max volume of tank}   &= 60 \times 20 \times 30 \\\\
+                            &= 36000 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -1426,25 +1503,40 @@ Sarah only has $24\,litres$ of water. How deep can she fill the tank? (Each litr
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+The height measurement of filled tank will be in $\text{cm}$ while the volume measurement is given in $\text{litre}$.
+
+Let's convert the volume measurements into $\text{cm}$.
+
+Let the height to which water can be filled (in cm) $= h$
+
+As per the question,
+
 $
 \begin{aligned}
-\text{volume of}  \ 24 \ \text{litres}  &= 24 \times 1000 \ \text{cm}^3 \\\\
-\text{volume} &= \text{l} \times \text{h} \times \text{w} \\\\
-24000 \ \text{cm}^3 &= 60 \times \text{h} \times 30 \\\\
-\text{h} &=  \dfrac{24000}{ 60 \times 30} \\\\
-\text{h} &=  \dfrac{ 800 \times 30}{ 60 \times 30} \\\\
-\text{h} &=  \dfrac{ 800 \times  \cancel{30}}{ 60 \times \cancel{30} } \\\\
-\text{h} &=  \dfrac{ 800}{ 60} \\\\
-\text{h} &=  13.33 \ \text{cm} 
+60 \ \text {cm} \times 20 \ \text {cm} \times h \ \text {cm}    &= 24 \ \text{litres} \\\\
+60 \ \text {cm} \times 20 \ \text {cm} \times h \ \text {cm}    &= 24 \times 1000 \ \text {cm}^3 \\\\
+60 \times 20 \times h                                           &= 24 \times 1000 \\\\
+1200 \times h                                                   &= 24000 \\\\
+h                                                               &= \dfrac {24000} {1200} \\\\
+h                                                               &= \dfrac {1200 \times 20} {1200} \\\\
+h                                                               &= \dfrac {\cancel {1200} \times 20} {\cancel {1200}} \\\\
+h                                                               &= 20 \ \text{cm} 
 \end{aligned}
 $
+
+Sarah can fill the tank upto $20 \ \text{cm}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$31.33 \ \text{cm}$
+$20 \ \text{cm}$
 
 </div>
 </div>
@@ -1514,7 +1606,7 @@ change blue ansawer accrodingly.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>17EB6AE3-FD45-41A0-9FF9-AF38640101B5</p>
 </div>
@@ -1525,7 +1617,7 @@ change blue ansawer accrodingly.
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1570,12 +1662,18 @@ What is the area of one flower-bed?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+
+As per the diagram,
+
 $
 \begin{aligned}
-\text{Area of flower-bed} &= \dfrac{1}{2} \times 3 \times 2\times 3  \\\\
-&=  \dfrac{1}{ \cancel 2} \times 3 \times  \cancel 2\times 3 \\\\
-&=  3 \times 3 \\\\
-&=  9 \ \text{m}^2
+\text{Area of flower-bed}   &= \dfrac {1} {2} \times 6 \times 3 \\\\
+                            &= \dfrac {18} {2} \\\\
+                            &= \dfrac {2 \times 9} {2} \\\\
+                            &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
+                            &=  9 \ \text{m}^2
 \end{aligned}
 $
 
@@ -1584,7 +1682,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9\text{m}^2$
+$9 \ \text{m}^2$
 
 </div>
 </div>
@@ -1601,10 +1699,15 @@ What is the area of the whole garden?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram,
+
 $
 \begin{aligned}
 \text{Area of whole garden} &=  20 \times 12 \\\\
-&=  240 \ \text{m}^2
+                            &=  240 \ \text{m}^2
 \end{aligned}
 $
 
@@ -1632,9 +1735,10 @@ What is the area of the grass?
 
 $
 \begin{aligned}
-\text{Area (Grass)} &= \text{Total Area} - \text{Area (Flower bed)} \times 4 \\\\
-&=  240  - 9 \times 4 \\\\
-&= 204 \ \text{m}^2
+\text{Area of the grass}        &= \text {Total Area} - 4 \times \text {Area of one flower bed} \\\\
+                                &= 240  - 4 \times 9 \\\\
+                                &= 240  - 36 \\\\
+                                &= 204 \ \text{m}^2
 \end{aligned} 
 $
 
@@ -1717,7 +1821,7 @@ solve.. use correct units and spacing before units.. if needed
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>6BC8FC6A-56E2-4B38-905F-06368D1DB22F</p>
 </div>
@@ -1728,7 +1832,7 @@ solve.. use correct units and spacing before units.. if needed
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1765,7 +1869,7 @@ $
                                     &= \dfrac {9 \times 13 \times 4} {4} \\\\
                                     &= \dfrac {9 \times 13 \times \cancel{4}} {\cancel{4}} \\\\
                                     &= 9 \times 13 \\\\
-\text{Area of larger triangle}      &= 117 \ \text{cm}^2
+                                    &= 117 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -1821,7 +1925,7 @@ change step 1 : Jump the sides.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7ED92958-A20C-4CB1-B94C-7667D1274879</p>
 </div>
@@ -1832,7 +1936,7 @@ change step 1 : Jump the sides.
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1863,21 +1967,31 @@ Area = $49 \ \text{cm}^{2}$
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-Area of the square $= 49 \ \text{cm}^2$
-Perimeter of the square  = ?
-Let's Side of square = a
-Area of the square $= \text{a}^2$
-$49 = \text{a}^2$
-$\text{a}^2&= 49$
-$\text{a} = \sqrt{49}$
-$\text{a} = 7$
-The side of square $= 7 \ \text{cm}$
-hence ,
-Perimeter of the square $= 4 \times \text{a}$
-Perimeter of the square $= 4 \times 7$
-Perimeter of the square $= 28$
 
+Let the side of the square (in cm) $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times a              &= 49 \\\\
+a^2                     &= 49 \\\\
+a                       &= \sqrt {49} \\\\
+a                       &= 7 \ \text{cm}
+\end{aligned}
+$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text {Perimeter}       &= 4 \times a \\\\
+                        &= 4 \times 7 \\\\
+                        &= 28 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1887,7 +2001,7 @@ Perimeter of the square $= 28$
 </div>
 <div class='answer'>
 
-$28$
+$28 \ \text{cm}$
 
 </div>
 </div>
@@ -1932,7 +2046,7 @@ WRONG WORKING check tarea in site EDIT : Nothing changed??
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>9A5410BD-3EE5-409F-8688-DA50768205F0</p>
 </div>
@@ -1943,7 +2057,7 @@ WRONG WORKING check tarea in site EDIT : Nothing changed??
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1967,21 +2081,19 @@ wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Area of the wall} &= \text{length} \times \text{breadth} \\\\
-&=  8 \times 3 \\\\
-&=  24 \ \text{m}^2 \\\\
-\text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
-&=10 \times 0.6 \\\\
-&=  6 \ \text{m}^2 \\\\
-\text{Number of sheets required} \\\\
-&=  \dfrac{24}{6} \\\\
-&=  \dfrac{4 \times 6}{6} \\\\
-&=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
-&= 4 \ \text{sheets}
+\text{Number of rolls}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a wallpaper roll}} \\\\
+                        &= \dfrac {8 \times 3} {10 \times 0.6} \\\\
+                        &= \dfrac {24} {6} \\\\
+                        &= \dfrac {6 \times 4} {6} \\\\
+                        &= \dfrac {\cancel {6} \times 4} {\cancel {6}} \\\\
+                        &= 4
 \end{aligned}
 $
 
@@ -2033,7 +2145,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A2279230-AADE-4793-B27A-4810B6805DE7</p>
 </div>
@@ -2044,7 +2156,7 @@ $4$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2073,37 +2185,45 @@ What is the  perimeter of the other rectangle?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+Let the side of the square $= a$
+
+Let the width of the first rectangle $= b$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter of the square} &=  28 \ \text{cm} \\\\
-4\text{s}                      &= 28 \ \text{cm} \\\\
-\text{s}                       &= \dfrac {28}{4} \\\\ 
-\text{s}                       &= \dfrac {4 \times 7}{4} \\\\ 
-\text{s}                       &= \dfrac {\cancel 4 \times 7}{\cancel 4} \\\\
-\text{s}                       &= 7  \ \text{cm}
+4 \times a              &= 28 \\\\
+a                       &= \dfrac {28} {4} \\\\ 
+a                       &= \dfrac {4 \times 7} {4} \\\\ 
+a                       &= \dfrac {\cancel 4 \times 7} {\cancel 4} \\\\
+a                       &= 7  \ \text{cm}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Perimeter of first rectangle} &=  16 \ \text{cm} \\\\
-2 \times (\text{l} +   \text{b} )   &= 16 \ \text{cm} \\\\
-2 \times (\text{7} +   \text{b} )   &= 16 \\\\
-\text{7} +  \text{b}                &= \dfrac {16}{2} \\\\ 
-\text{7} +  \text{b}                &= \dfrac {2 \times 8}{2} \\\\ 
-\text{7} +  \text{b}                &= \dfrac {\cancel 2 \times 8}{\cancel 2} \\\\
-\text{7} +  \text{b}                &= 8 \\\\
-\text{b}                            &= 8 - 7 \\\\
-\text{b}                            &= 1 \ \text{cm}
+\text{Perimeter of first rectangle} &= 16 \\\\
+2 \times (7 + b)                    &= 16 \\\\
+7 + b                               &= \dfrac {16} {2} \\\\ 
+7 + b                               &= \dfrac {2 \times 8} {2} \\\\ 
+7 + b                               &= \dfrac {\cancel 2 \times 8} {\cancel 2} \\\\
+7 + b                               &= 8 \\\\
+b                                   &= 8 - 7 \\\\
+b                                   &= 1 \ \text{cm}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Perimeter of second rectangle} &=  2 \times (\text{l} +   \text{b} ) \\\\
-                                     &=  2 \times (7+6) \\\\
+\text{Perimeter of second rectangle} &=  2 \times (7 + (7-1)) \\\\
+                                     &=  2 \times (7 + 6) \\\\
                                      &=  2 \times 13 \\\\
                                      &=  26 \ \text{cm}
 \end{aligned}
@@ -2162,7 +2282,7 @@ Follow coding guilines.. no need to put l and b in text.. Write the statement(us
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A7776F84-C1E8-4F7A-B95D-0642729A4BD1</p>
 </div>
@@ -2173,7 +2293,7 @@ Follow coding guilines.. no need to put l and b in text.. Write the statement(us
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2199,15 +2319,15 @@ Calculate the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
+As per the question,
+
 $
 \begin{aligned}
-&= 12 \times 8 \\\\
-&= 96 \ \text{cm}^2
+\text {Area}        &= 12 \times 8 \\\\
+                    &= 96 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -2264,7 +2384,7 @@ line 1: As per the question,  (A) (,)                                           
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE</p>
 </div>
@@ -2275,7 +2395,7 @@ line 1: As per the question,  (A) (,)                                           
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2304,18 +2424,24 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 <div class='workings'>
 <div class='working'>
 
-Area of parallelogram = Base $\times$ Height.
+ABBR: $\text{Area of parallelogram} = \text{base} \times \text{height}$
+
+
+Let the base of the parallelogram $= b$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Base} \times \text{Height}        &= \text{Area of parallelogram} \\\\
-\text{Base} \times 4                    &= 38 \\\\
-\text{Base}                             &= \dfrac{38}{4} \\\\
-\text{Base}                             &= \dfrac{4 \times 9.5}{4} \\\\
-\text{Base}                             &= \dfrac{\cancel 4 \times 9.5}{\cancel4} \\\\
-\text{Base}                             &= 9.5 \ \text{cm}
+4 \times b                    &= 38 \\\\
+b                             &= \dfrac {38} {4} \\\\
+b                             &= \dfrac {4 \times 9.5} {4} \\\\
+b                             &= \dfrac {\cancel {4} \times 9.5} {\cancel {4}} \\\\
+b                             &= 9.5 \ \text{cm}
 \end{aligned}
 $
+
+Length of the base of the parallelogram $= 9.5 \ \text{cm}$.
 
 </div>
 </div>

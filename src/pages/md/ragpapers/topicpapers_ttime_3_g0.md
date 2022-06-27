@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g0"
 title: "TopicPaper - Time - 3 - G0"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0B2DDF0F-855E-489C-A9C7-EF1107955CE1</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-25 21:04:48
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -58,8 +58,10 @@ $10.10 \ \text{a.m.}$
 
 $
 \begin{aligned}
-\text{Real time} &= 10{:}24 \ \text{a.m} + 14 \\\\
-                 &= 10{:}38 \ \text{a.m}
+\text {time passed} &= 10{.}24 \ \text{a.m}- 10{.}10 \ \text{a.m} \\\\
+                    &= 14 \ \text {minutes} \\\\
+\text {Real time}   &= 10{.}24 \ \text{a.m} + 14 \\\\
+                    &= 10{.}38 \ \text{a.m}
 \end{aligned}
 $
 
@@ -68,7 +70,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$10{:}38 \ \text{a.m}$
+$10{.}38 \ \text{a.m}$
 
 </div>
 </div>
@@ -79,7 +81,7 @@ $10{:}38 \ \text{a.m}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$9.43 \ \text{a.m.}$
+$9.43 \ \text{a.m}$
 
 </div>
 <div class='workings'>
@@ -87,8 +89,10 @@ $9.43 \ \text{a.m.}$
 
 $
 \begin{aligned}
-\text{Real time} &= 10{:}24 \ \text{a.m} + 41 \\\\
-                 &= 11{:}05 \ \text{a.m}
+\text {time passed} &= 10{.}24 \ \text{a.m} - 9{.}43 \ \text{a.m} \\\\
+                    &= 41 \ \text {minutes} \\\\
+\text{Real time}    &= 10{.}24 \ \text{a.m} + 41 \\\\
+                    &= 11{.}05 \ \text{a.m}
 \end{aligned}
 $
 
@@ -97,7 +101,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$11{:}05 \ \text{a.m}$
+$11{.}05 \ \text{a.m}$
 
 </div>
 </div>
@@ -140,7 +144,7 @@ $11{:}05 \ \text{a.m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EDEC9010-CA4E-4456-BF0A-E30E81B8226D</p>
 </div>
@@ -151,7 +155,7 @@ $11{:}05 \ \text{a.m}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -226,7 +230,7 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DBC1958C-C043-4319-9AE7-09CEA696EBC9</p>
 </div>
@@ -237,7 +241,7 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -256,8 +260,10 @@ What is $463 \ \text{minutes}$ in hours and minutes ?
 
 $
 \begin{aligned}
-463 &= 60 \times 7 + 43 \\\\
-    &= 7 \ \text{hours} \ 43 \ \text{minutes}
+&= 463 \\\\
+&= 420 + 43 \\\\
+&= 60 \times 7 + 43 \\\\
+&= 7 \ \text{hours} \ 43 \ \text{minutes}
 \end{aligned}
 $
 
@@ -306,7 +312,7 @@ $7 \ \text{hours} \ 43 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FFA405AA-B004-43FE-A6D8-72C925702C2D</p>
 </div>
@@ -317,7 +323,7 @@ $7 \ \text{hours} \ 43 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -338,7 +344,10 @@ Melanie’s father took $1 \ \text{hr} \ 25 \ \text{mins}$ to drive from Peterbo
 <div class='working'>
 
 $
-1:10
+\begin{aligned}
+\text {time he arrived Oxford} &= 11.45  \ \text {am} + 1 \ \text{hr} \ 25 \ \text {mins} \\\\
+                               &= 1.10 \ \text {pm} \\\\
+\end{aligned}
 $
 
 </div>
@@ -386,7 +395,7 @@ $1:10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>154BD462-2E71-4EBE-AD0B-A1A972F20268</p>
 </div>
@@ -397,7 +406,7 @@ $1:10$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -416,7 +425,6 @@ Change $4.6 \ \text{minutes}$ into seconds.
 
 $
 \begin{aligned}
-1 \text {minute}                    &= 60 \text{seconds} \\\\
 4.6 \text {minutes}                 &= 4.6 \times 60 \text{seconds} \\\\
                                     &= 276 \text{seconds}
 \end{aligned}
@@ -467,85 +475,7 @@ $276 \text{seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>4EB55D89-BF4F-47CA-A07F-BC5A04143A7B</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:1:23</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$2008$ is a leap year, and this year the $29 \text{th}$ of February falls on a Friday. On what day of the week will the $29 \text{th}$ of February fall in the next leap year  $(2012)$ ? (Remember there are $366$ days in a leap year).
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Wednesday}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Wednesday}$
-
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4EB55D89-BF4F-47CA-A07F-BC5A04143A7B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4EB55D89-BF4F-47CA-A07F-BC5A04143A7B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='4EB55D89-BF4F-47CA-A07F-BC5A04143A7B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4EB55D89-BF4F-47CA-A07F-BC5A04143A7B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='4EB55D89-BF4F-47CA-A07F-BC5A04143A7B' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='4EB55D89-BF4F-47CA-A07F-BC5A04143A7B' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='4EB55D89-BF4F-47CA-A07F-BC5A04143A7B' id='FORM-4EB55D89-BF4F-47CA-A07F-BC5A04143A7B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4EB55D89-BF4F-47CA-A07F-BC5A04143A7B'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BA7A2E5A-F0B6-4120-988C-2F8865BF4B44</p>
 </div>
@@ -556,7 +486,7 @@ $\text {Wednesday}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -598,6 +528,7 @@ What is $387 \ \text{minutes}$ in hours and minutes?
 $
 \begin{aligned}
 &= 387 \\\\
+&= 360 + 27 \\\\
 &= 60 \times 6 + 27 \\\\
 &= 6 \ \text{hours} \ 27 \ \text{minutes}
 \end{aligned}
@@ -624,8 +555,6 @@ Change $9.6 \ \text{hours}$ into minutes.
 </div>
 <div class='workings'>
 <div class='working'>
-
-$1 \ \text{hour} = 60 \ \text{minutes}$
 
 $
 \begin{aligned}
@@ -682,7 +611,7 @@ $576 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3568C8D0-C035-4738-8BE0-B0BC876E29B4</p>
 </div>
@@ -693,7 +622,7 @@ $576 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -709,8 +638,6 @@ A boy has to be in school by $8.35 \ \text{am}$. It takes him $25 \ \text{minute
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -766,7 +693,7 @@ $8{:}37 \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>27309122-5511-4842-BA1A-FDCDE985F81B</p>
 </div>
@@ -777,7 +704,7 @@ $8{:}37 \text{am}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -846,7 +773,7 @@ $27 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F642196-79F1-4CFA-BF49-1BD4515A47BD</p>
 </div>
@@ -857,7 +784,7 @@ $27 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -956,8 +883,6 @@ Antony is making some cupcakes. It takes him $20 \ \text{minutes}$ to prepare th
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
@@ -1012,7 +937,7 @@ $3{:}18 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B72AF037-E752-4BED-91CE-38848837F037</p>
 </div>
@@ -1023,7 +948,7 @@ $3{:}18 \ \text{pm}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1039,8 +964,6 @@ Subtract the number of $\text{hours}$ in a day from the number of $\text{seconds
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -1095,7 +1018,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>434CD114-4752-47E2-A24B-B5229509F3BD</p>
 </div>
@@ -1106,7 +1029,7 @@ $36$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1179,7 +1102,7 @@ $2{:}32 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>535DDC7C-F46C-4FFD-AF90-E1FC89C96B9F</p>
 </div>
@@ -1190,7 +1113,7 @@ $2{:}32 \ \text{pm}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1268,7 +1191,7 @@ $1440 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9004924A-FAFE-4C44-A7D2-20DAF504FB5B</p>
 </div>
@@ -1279,7 +1202,7 @@ $1440 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1357,7 +1280,7 @@ $1440 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>71A87121-8B24-43F3-8CA2-5883E0DFF79B</p>
 </div>
@@ -1368,7 +1291,7 @@ $1440 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1385,11 +1308,9 @@ Ann went to the cinema. The film started at $11{:}55 \ \text{AM}$ and lasted $11
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{Film ended}   &= 11{:}55 \ \text{A.M} + 117 minutes \\\\
+\text{Film ended}   &= 11{:}55 \ \text{A.M} + 117 \ \text {minutes} \\\\
                     &= 11{:}55 + 1 \ \text {hours} \ 57 \ \text {minutes} \\\\
                     &= 12{:}55 + 57 \ \text{minutes} \\\\
                     &= 01{:}52 \ \text {P.M}

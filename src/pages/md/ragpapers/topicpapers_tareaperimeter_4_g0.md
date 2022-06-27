@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0"
 title: "TopicPaper - Areaperimeter - 4 - G0"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1390,7 +1390,15 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 <div class='workings'>
 <div class='working'>
 
-We know,
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add the diagram with inner rectangle's length $8 \ \text {m}$ and width $11 \ \text {m}$ shown.*
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
@@ -1399,15 +1407,10 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of pool}                                &= (\text{Length of garden - 2} \times \text{Width of path}) \times (\text{Width of garden - 2} \times \text{Width of path}) \\\\
-                                                   &= (15 \text{m} - 2 \text{m} \times 2 \text{m}) \times (8 \text{m} - 2 \text{m} \times 2 \text{m}) \\\\
-                                                   &= (15 - 4) \times (8 - 4) \\\\
-                                                   &= 11 \times 4 \\\\
-                                                   &= 44 \text{m}^{2} \\\\
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \text{m} \times 8 \text{m}  - 44 \text{m}^{2} \\\\
+                                                   &= (8 \times 15)  - (4 \times 11) \\\\
                                                    &= 120 - 44 \\\\
-                                                   &= 76 \text{m}^{2}
+                                                   &= 76 \ \text{m}^{2}
 \end{aligned}
 $
 
@@ -1456,7 +1459,7 @@ $76 \text{m}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4AFBC40F-1638-4EA4-8624-F4D2729AD1A4</p>
 </div>
@@ -1467,7 +1470,7 @@ $76 \text{m}^{2}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

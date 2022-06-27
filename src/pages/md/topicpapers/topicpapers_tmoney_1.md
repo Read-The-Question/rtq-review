@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -325,7 +325,7 @@ Decrease $\pounds 44$ by $10\%$.
 $
 \begin {aligned}
 &= \pounds 44 - 10 \% \ \text {of} \ \pounds 44 \\\\
-&= 44 - \dfrac {10} {100} times 44 \\\\
+&= 44 - \dfrac {10} {100} \times 44 \\\\
 &= 44 - \dfrac {10 \times 44} {100} \\\\
 &= 44 - \dfrac {440} {100} \\\\
 &= 44 - 4.40 \\\\

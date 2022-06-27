@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g0"
 title: "TopicPaper - Temperature - 1 - G0"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-25 21:04:48
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -126,7 +126,7 @@ Remove summary line Rome is warmer than ...
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -211,7 +211,7 @@ $-7 \degree \text{C}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -321,7 +321,7 @@ Difference = 23 - 12
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -467,7 +467,7 @@ $-7 \degree \text{C}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -550,7 +550,7 @@ $5 \degree \text {C}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -732,7 +732,7 @@ Do not write \ \text{C}. Write \text{C}
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -833,7 +833,7 @@ Write \text{C} instead of \ \text{C} in workings and answers
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -914,7 +914,7 @@ $-8 \degree \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1056,7 +1056,7 @@ $-7 \degree \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1218,7 +1218,7 @@ Change \ \text{C}
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

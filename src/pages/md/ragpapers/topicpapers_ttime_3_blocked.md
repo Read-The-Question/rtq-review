@@ -1,9 +1,56 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-blocked"
 title: "TopicPaper - Time - 3 - BLOCKED"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>4EB55D89-BF4F-47CA-A07F-BC5A04143A7B</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:1:23</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$2008$ is a leap year, and this year the $29 \text{th}$ of February falls on a Friday. On what day of the week will the $29 \text{th}$ of February fall in the next leap year  $(2012)$ ? (Remember there are $366$ days in a leap year).
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Wednesday}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Wednesday}$
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

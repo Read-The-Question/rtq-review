@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g0"
 title: "TopicPaper - Time - 4 - G0"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-25 21:04:48
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -40,8 +40,6 @@ At what time is registration?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -96,7 +94,7 @@ $8{:}45 \ \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E8BEF82D-E970-4508-A623-9BC202200751</p>
 </div>
@@ -107,7 +105,7 @@ $8{:}45 \ \text{am}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -178,7 +176,7 @@ $4 {:} 50 \ \text {pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D5012DF2-F430-4487-8A7E-139B87DBBF34</p>
 </div>
@@ -189,7 +187,7 @@ $4 {:} 50 \ \text {pm}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -260,7 +258,7 @@ $336$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
@@ -271,7 +269,7 @@ $336$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -318,7 +316,7 @@ $
 \end{aligned}
 $
 
-Matilda receives the call in Australian at $= 10{:}00$ and on $31 \text{st}$ January.
+Matilda receives the call in Australian at $10{:}00$ and on $31 \text{st}$ January.
 
 
 </div>
@@ -358,7 +356,7 @@ $
 \end{aligned}
 $
 
-Penny arrives in Sydney at $= 13{:}00$ and on $1 \text {st February}$.
+Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 
 </div>
 </div>
@@ -501,7 +499,7 @@ $\text {Thursday}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A6FC38CB-D02D-48DD-BC05-EFFF3A076124</p>
 </div>
@@ -512,7 +510,7 @@ $\text {Thursday}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -529,14 +527,11 @@ A train leaves Stevenage at $0942$ and arrives in York at $1134$. How many **min
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Time taken}           &= 11 {:} 34 - 09 {:} 42 \\\\
                             &= 1 \ \text {hour} \ 52 \ \text {minutes} \\\\
-                            &= 1 \times 60 \ \text {minutes} \ 52 \ \text {minutes} \\\\
-                            &= 60 + 52 \\\\
+                            &= 60 \ \text {minutes} + \ 52 \ \text {minutes} \\\\
                             &= 112  \ \text {minutes}
 \end{aligned}
 $
@@ -588,7 +583,7 @@ $112 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
 </div>
@@ -599,7 +594,7 @@ $112 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -622,14 +617,9 @@ As per the question,
 $
 \begin{aligned}
 \text{Opening hours from Monday to Saturday} &= 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} \\\\
-                                             &= 14 \ \text{hours}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Opening hours on Sunday} &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
-                               &= 6 \ \text{hours}
+                                             &= 14 \ \text{hours} \\\\
+\text{Opening hours on Sunday}               &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
+                                             &= 6 \ \text{hours}
 \end{aligned}
 $
 
@@ -690,7 +680,7 @@ $90 \ \text {hours}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>79E27990-373F-47F4-8BF5-B595A17F83E7</p>
 </div>
@@ -701,7 +691,7 @@ $90 \ \text {hours}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -831,7 +821,7 @@ $4 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5C8F5D72-0C11-4187-B036-6028A9F59B70</p>
 </div>
@@ -842,7 +832,7 @@ $4 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -860,8 +850,6 @@ How many minutes does it last?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -918,7 +906,7 @@ $96 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>011051B7-79BC-4F3A-B3E5-9FEA0D775E51</p>
 </div>
@@ -929,7 +917,7 @@ $96 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -999,7 +987,7 @@ Dita watches the television for $2 \text{ hours } 45 \text{ minutes}$ each weeke
 
 $
 \begin{aligned}
-\text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} + 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
+\text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} \times 3 \\\\
                                       &= 8 \ \text{hours} \ 15 \ \text{minutes}
 \end{aligned}
 $

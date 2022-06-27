@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "TopicPaper - Time - 1"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-25 21:04:48
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6A4D3A4B-ED56-4425-A042-95E7B753ADB3</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-25 21:04:48
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -46,8 +46,6 @@ In which year was his dad born?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -102,7 +100,7 @@ $1953$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B42D6744-B5FF-4E7F-A4E1-0E475C841546</p>
 </div>
@@ -113,7 +111,7 @@ $1953$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -134,8 +132,6 @@ He needs to be at cricket training at $10 \ \text{am}$ - how many minutes does h
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -2485,7 +2481,7 @@ $9 \text { hours } 40 \text { minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD</p>
 </div>
@@ -2496,7 +2492,7 @@ $9 \text { hours } 40 \text { minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2686,7 +2682,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>78560253-2BD8-42B2-8E55-911BFF244038</p>
 </div>
@@ -2697,7 +2693,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2778,7 +2774,7 @@ $27 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A7936BDD-9D0B-4DE1-9D29-9396E4564A70</p>
 </div>
@@ -2789,7 +2785,7 @@ $27 \ \text {minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2808,7 +2804,7 @@ How many $\text{minutes}$ are there between $9.23\ \text{am}$ and $1.06\ \text{p
 
 $
 \begin{aligned}
-&= 9{:}23 \ \text {am}  - 1{:}06 \ \text {pm} \\\\
+&= 1{.}06 \ \text {pm} - 9{.}23 \ \text {am} \\\\
 &= 3 \ \text {hours} \ \ 43 \ \text {minutes} \\\\
 &= 3 \times 60 + 43 \\\\
 &= 180 + 43 \\\\
@@ -2861,7 +2857,7 @@ $223 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C2F4373E-8537-4143-B094-CFF465AFF504</p>
 </div>
@@ -2872,7 +2868,7 @@ $223 \ \text {minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2914,8 +2910,6 @@ How long does the 'Power Hour' show last?
 <div class='workings'>
 <div class='working'>
 
-As per the table,
-
 $
 \begin{aligned}
 \text{Power house lasted for}   &= 1852 - 1803 \\\\
@@ -2945,8 +2939,6 @@ He starts listenig at $1952$, what time does he finish?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the table,
 
 $
 \begin{aligned}
@@ -2980,8 +2972,6 @@ What time should Petrov start to listen to the 'Crunch Time' download, if he wan
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the table,
 
 $
 \begin{aligned}
@@ -3040,7 +3030,7 @@ $1982$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6A8BB9E0-C32A-4D55-898F-18D887FEB7F8</p>
 </div>
@@ -3051,7 +3041,7 @@ $1982$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3070,8 +3060,8 @@ My journey to school generally takes $40 \ \text{minutes}$. What time shall I le
 
 $
 \begin{aligned}
-\text{Time I should leave home}   &= 8{:}15 \ \text{a.m} - 40 \ \text{minutes} \\\\
-                                  &= 7{:}35 \ \text{a.m}
+\text{Time I shall leave home}   &= 8{.}15 \ \text{a.m} - 40 \ \text{minutes} \\\\
+                                 &= 7{.}35 \ \text{a.m}
 \end{aligned}
 $
 
@@ -3080,7 +3070,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7{:}35 \ \text{a.m}$
+$7{.}35 \ \text{a.m}$
 
 </div>
 </div>
@@ -3120,7 +3110,7 @@ $7{:}35 \ \text{a.m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FF15893E-F772-4830-8CA9-E540E52C0887</p>
 </div>
@@ -3131,7 +3121,7 @@ $7{:}35 \ \text{a.m}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3214,7 +3204,7 @@ $18 \text{hours}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E16C4E97-F68B-47AE-9AB5-9D9CE481082D</p>
 </div>
@@ -3225,7 +3215,7 @@ $18 \text{hours}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3247,9 +3237,9 @@ How many seconds in $24$ hours?
 
 $
 \begin{aligned}
-\text {Seconds in an hour}       &= 60 \times 60 \ \text {seconds} \\\\
-                                 &= 3600 \ \text {seconds} \\\\
-\text {Seconds in 24 hours}      &= 3600 \times 24 \\\\
+\text {Seconds in 1 hour}        &= 60 \times 60 \\\\
+                                 &= 3600 \\\\     
+\text {Seconds in 24 hours}      &= 24 \times 3600 \\\\
                                  &= 86400 \ \text {seconds}
 \end{aligned}
 $
@@ -3299,7 +3289,7 @@ $86400  \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2E9E403F-844C-41B1-8119-E989E5B6E531</p>
 </div>
@@ -3310,7 +3300,7 @@ $86400  \ \text {seconds}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3382,7 +3372,7 @@ $742  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6758134C-A670-44FB-BDD8-5A6BEBD3402C</p>
 </div>
@@ -3393,7 +3383,7 @@ $742  \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3467,7 +3457,7 @@ $43200 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AA0A40BF-651B-45E6-A04A-E3ECF12E2B2D</p>
 </div>
@@ -3478,7 +3468,7 @@ $43200 \ \text {seconds}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3553,7 +3543,7 @@ $941  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A1EDAEB9-76B5-4123-86DE-D30F402EFDCB</p>
 </div>
@@ -3564,7 +3554,7 @@ $941  \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3685,7 +3675,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>58963C70-4BF5-4BBC-9722-C4DB92F81077</p>
 </div>
@@ -3696,7 +3686,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3771,7 +3761,7 @@ $385  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9DD640A7-205F-4E19-A2C2-DA3900B8FC8D</p>
 </div>
@@ -3782,7 +3772,7 @@ $385  \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3856,7 +3846,7 @@ $86400 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8B3960FC-2E89-4E92-95E6-DB73E2995DE1</p>
 </div>
@@ -3867,7 +3857,7 @@ $86400 \ \text {seconds}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3939,7 +3929,7 @@ $933  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1</p>
 </div>
@@ -3950,7 +3940,7 @@ $933  \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

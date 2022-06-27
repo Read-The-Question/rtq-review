@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-g0"
 title: "TopicPaper - Time - 2 - G0"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>31A2A40E-5814-48CC-8C71-91011C0B3F1C</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-25 21:04:48
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -88,7 +88,7 @@ $81  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
 </div>
@@ -99,7 +99,7 @@ $81  \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -173,7 +173,7 @@ $40 \ \text {miles per hour}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>46D8EC39-6DB3-4670-BF10-214CD634C665</p>
 </div>
@@ -184,7 +184,7 @@ $40 \ \text {miles per hour}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -260,7 +260,7 @@ $86400 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>87100C80-7419-46D8-A123-F5A2D5ECF629</p>
 </div>
@@ -271,7 +271,7 @@ $86400 \ \text {seconds}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -310,8 +310,6 @@ Work out how long the journey takes in hours and minutes.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Time taken}           &= 6{:}30 - 22{:}45 \\\\
@@ -344,8 +342,6 @@ Work out what the local time is in Hong Kong when the flight lands. Give your an
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -404,7 +400,7 @@ $17:20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E5936295-077E-4EE6-87AB-C6DED7D9335C</p>
 </div>
@@ -415,7 +411,7 @@ $17:20$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -454,8 +450,6 @@ Rosa takes $37 \ \text{minutes}$ to travel to work each morning. She leaves home
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text {Arrival time} &= 8.15 \ \text {a.m.} + 37 \ \text {min} \\\\
@@ -487,8 +481,6 @@ The journey home in the evening takes the same time. She arrives home at $6.23 \
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text {The time she leaves work} &= 6.23 \ \text {p.m.} - 37 \ \text {min} \\\\
@@ -496,14 +488,12 @@ $
 \end{aligned}
 $
 
-The time she leaves work $=5.44 \ \text {p.m.}$
-
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5.44 \ \text {p.m.}$
+$5.46 \ \text {p.m.}$
 
 </div>
 </div>
@@ -546,7 +536,7 @@ $5.44 \ \text {p.m.}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>03952778-72AD-4E86-8E4A-7B00AAE69AF0</p>
 </div>
@@ -557,7 +547,7 @@ $5.44 \ \text {p.m.}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -579,8 +569,6 @@ in between. How much is the travel time from station $A$ to $B$ if it doesn't st
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -644,7 +632,7 @@ DONE Travel time A to B without stop =
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2AD0DE35-98B6-4AE3-A7ED-E6A0CF80546F</p>
 </div>
@@ -655,7 +643,7 @@ DONE Travel time A to B without stop =
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -728,7 +716,7 @@ $2.10 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3B9E3192-6FF2-484F-BED6-93245E471DBE</p>
 </div>
@@ -739,7 +727,7 @@ $2.10 \ \text{pm}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -812,7 +800,7 @@ $111 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>395B7BEF-3DD7-44D2-946A-7CA43359808F</p>
 </div>
@@ -823,7 +811,7 @@ $111 \ \text {minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -841,11 +829,9 @@ How many minutes did she spend on it?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{She spend}              &= 8{:}24 - 6{:}52 \\\\
+\text{minutes spend}          &= 8{:}24 - 6{:}52 \\\\
                               &= 1 \ \text{hour} \ 32 \ \text{minutes}   \\\\
                               &= 1 \times 60 + 32  \ \text{minutes} \\\\
                               &= 60 + 32 \\\\
@@ -898,7 +884,7 @@ $92 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>19E5F575-DF01-4149-AD44-58F295B08731</p>
 </div>
@@ -909,7 +895,7 @@ $92 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -978,14 +964,19 @@ The journey takes $2.25 \ \text{hours}$, if Daniela leaves London at $10.18 \ \t
 <div class='workings'>
 <div class='working'>
 
-$12{:}43$
+$
+\begin{aligned}
+\text {time she arrives} &= 10.18 \ \text{am} + 2.25 \ \text{hours} \\\\
+                         &= 12{.}43 \ \text{pm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12{:}43$
+$12{.}43 \ \text{pm}$
 
 </div>
 </div>
@@ -1028,7 +1019,7 @@ $12{:}43$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>251849A4-EE0C-47E3-BB34-4CEBC3CC1509</p>
 </div>
@@ -1039,7 +1030,7 @@ $12{:}43$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1058,8 +1049,7 @@ Angela caught a train at $7.30$ in the morning and arrived at Newcastle at $1.42
 
 $
 \begin {aligned}
-\text {Journey duration}  &= \text {Arrival time} - \text {Boarding time} \\\\
-                          &= 1 {:} 42 \ \text {pm} - 7 {:} 30 \ \text {am} \\\\
+\text {Journey duration}  &= 1 {:} 42 \ \text {pm} - 7 {:} 30 \ \text {am} \\\\
                           &= 6 \ \text {hours} \ 12 \ \text {minutes}
 \end {aligned}
 $
@@ -1109,7 +1099,7 @@ $6 \ \text {hours} \ 12 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>95AA3A28-967A-4FCB-91EC-525305242C25</p>
 </div>
@@ -1120,7 +1110,7 @@ $6 \ \text {hours} \ 12 \ \text {minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1143,7 +1133,7 @@ How long did the journey take?
 $
 \begin{aligned}
 \text{Time taken} &= 6.48 \ \text{pm} - 3.37 \ \text{pm} \\\\
-                  &= 3 \ \text {hours} 11 \ \text {minutes}
+                  &= 3 \ \text {hours} \ 11 \ \text {minutes}
 \end{aligned}
 $
 
@@ -1152,7 +1142,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3 \ \text {hours} 11 \ \text {minutes}$
+$3 \ \text {hours} \ 11 \ \text {minutes}$
 
 </div>
 </div>
@@ -1192,7 +1182,7 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2703C7F6-30C9-4C88-BEED-BD1AB762A00C</p>
 </div>
@@ -1203,7 +1193,7 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1246,8 +1236,6 @@ Use the rule to work out how many hours’ sleep he needs.
 <div class='workings'>
 <div class='working'>
 
-As per the rule,
-
 $
 \begin{aligned}
 \text {Number of hours}   &= \dfrac {30 - 8} {2} \\\\
@@ -1284,8 +1272,6 @@ Use the rule to work out what time she needs to go to sleep.
 <div class='workings'>
 <div class='working'>
 
-As per the rule,
-
 $
 \begin{aligned}
 \text {Number of hours}    &= \dfrac {30 - 6} {2} \\\\
@@ -1296,7 +1282,12 @@ $
 \end{aligned}
 $
 
-$\text {So she needs to go to sleep} = 7 \ \text {pm}$
+$
+\begin{aligned}
+\text {sleep time} &= 7 \ \text{am} - 12 \ \text {hours} \\\\
+                   &= 7 \ \text {pm}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1346,7 +1337,7 @@ $7 \ \text {pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F432AD9A-242A-4CE5-A114-1BB951BB20B5</p>
 </div>
@@ -1357,7 +1348,7 @@ $7 \ \text {pm}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1430,7 +1421,7 @@ $03 {:} 35 \ \text {p.m.}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DBB8C89C-F97B-4199-91D5-98FAE00EFC21</p>
 </div>
@@ -1441,7 +1432,7 @@ $03 {:} 35 \ \text {p.m.}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1508,7 +1499,7 @@ $15 {:} 35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2AF9BF1A-6E92-4492-9B1C-3C71893FDA24</p>
 </div>
@@ -1519,7 +1510,7 @@ $15 {:} 35$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1535,8 +1526,6 @@ Eadie’s favourite television programme started $1 \ \text{hour}$ and $15 \ \te
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin {aligned}
@@ -1591,7 +1580,7 @@ $02 {:} 20 \ \text {p.m.}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>74EEEB13-FE38-4F2F-92DC-B391E32A54D9</p>
 </div>
@@ -1602,7 +1591,7 @@ $02 {:} 20 \ \text {p.m.}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1621,9 +1610,9 @@ Eadie has to catch a train at $1710$. How long does she have before the train le
 
 $
 \begin {aligned}
-\text {Time she have before train leaves}  &= \text {Time to catch the train} - \text {Time on clock} \\\\
-                                           &= 17 {:} 10 - 15 {:} 35 \\\\
-                                           &= 1 \ \text {hour} \ 35 \ \text {minutes}
+\text {Time she has}  &= \text {train's time} - \text {current time} \\\\
+                      &= 17 {:} 10 - 15 {:} 35 \\\\
+                      &= 1 \ \text {hour} \ 35 \ \text {minutes}
 \end {aligned}
 $
 
@@ -1672,7 +1661,7 @@ $1 \ \text {hour} \ 35 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713</p>
 </div>
@@ -1683,7 +1672,7 @@ $1 \ \text {hour} \ 35 \ \text {minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1704,6 +1693,8 @@ $
 \begin {aligned}
 &= 15 \dfrac {1} {2} \ \text {hours} \\\\
 &= \dfrac {31} {2} \ \text {hours} \\\\
+&= \dfrac {31} {2} \times 60 \ \text {minutes} \\\\
+&= \dfrac {31} {2} \times 60 \times 60 \ \text {seconds} \\\\
 &= \dfrac {31} {2} \times 3600 \ \text {seconds} \\\\
 &= \dfrac {31 \times 3600} {2} \\\\
 &= \dfrac {31 \times 1800 \times 2} {2} \\\\
@@ -1758,7 +1749,7 @@ $55800 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3015408A-F8DE-420C-933E-A2482DB10D38</p>
 </div>
@@ -1769,7 +1760,7 @@ $55800 \ \text {seconds}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1806,6 +1797,9 @@ $
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
 <div class='answer'>
 
 $2{:}11 \ \text {pm}$
@@ -1848,7 +1842,7 @@ $2{:}11 \ \text {pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3206AC5E-10AC-4792-AC6F-6BBD072B959C</p>
 </div>
@@ -1859,7 +1853,7 @@ $2{:}11 \ \text {pm}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1888,7 +1882,7 @@ E: $1:28 \ \text{pm}$
 
 $
 \begin{aligned}
-\text {Start time}   &= 3{:}21 \text{pm} - 2 \ \text{hours} 53 \ \text{minutes} \\\\
+\text {Start time}   &= 3{:}21 \text{pm} - 2 \ \text{hours} \ 53 \ \text{minutes} \\\\
                      &= 12{:}28 \ \text {pm}
 \end{aligned}
 $
@@ -1896,6 +1890,9 @@ $
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
 <div class='answer'>
 
 $12{:}28 \ \text {pm}$
@@ -1938,7 +1935,7 @@ $12{:}28 \ \text {pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A46C6B3B-4687-4639-A219-3C51136C0FB1</p>
 </div>
@@ -1949,7 +1946,7 @@ $12{:}28 \ \text {pm}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2027,8 +2024,8 @@ Carla wants to record *Live* and *Kicking*. She thinks that the $180\ \text{minu
 
 $
 \begin{aligned}
-\text{Duration for L & K}  &= 12{:}10 - 9{:}15 \\\\
-                           &= 175 \ \text{minutes}
+\text{time for Live and Kicking}    &= 12{:}10 - 9{:}15 \\\\
+                                    &= 175 \ \text{minutes}
 \end{aligned}
 $
 
@@ -2087,7 +2084,7 @@ $5 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7A398F6B-C825-4D14-888B-7DE1673A5240</p>
 </div>
@@ -2098,7 +2095,7 @@ $5 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2179,7 +2176,7 @@ $5{:}55 \ \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A665B0B4-EBC8-4304-BDFA-28CF12D417AD</p>
 </div>
@@ -2190,7 +2187,7 @@ $5{:}55 \ \text{am}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2256,7 +2253,9 @@ How many minutes should it take the train to travel from Wolverhampton to Milton
 $
 \begin{aligned}
 \text{Time taken} &= 10{:}10 - 8{:}40 \\\\
-                  &= 1 \ \text {hour} \ 30 \ \text {minutes}
+                  &= 1 \ \text {hour} \ 30 \ \text {minutes} \\\\
+                  &= 60 \ \text {minutes} + 30 \ \text {minutes} \\\\
+                  &= 90 \ \text {minutes}
 \end{aligned}
 $
 
@@ -2265,7 +2264,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text {hour} \ 30 \ \text {minutes}$
+$90 \ \text {minutes}$
 
 </div>
 </div>

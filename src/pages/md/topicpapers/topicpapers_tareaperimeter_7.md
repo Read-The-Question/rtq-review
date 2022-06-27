@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-7"
 title: "TopicPaper - Areaperimeter - 7"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1007,7 +1007,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>66489EBB-AF77-436C-8265-5C9A279D0B94</p>
 </div>
@@ -1018,7 +1018,7 @@ TODOANSWER
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1065,14 +1065,23 @@ How many times around the track does Roger run each morning?
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+The track measurement is given in $\text{meters}$ while the distance is given in $\text{kilometers}$.
+
+Let's convert the distance into $\text{meters}$.
+
+As per the question,
+
 $
 \begin{aligned}
 \text {Total rounds}  &= \dfrac {\text {Distance}} {\text {Perimeter}} \\\\
                       &= \dfrac {6 \ \text {kilometres}} {400 \ \text {metres}} \\\\
                       &= \dfrac {6 \times 1000 \ \text {metres}} {400 \ \text {metres}} \\\\
-                      &= \dfrac {2 \times 3 \times 100 \times 2 \times 5} {2 \times 2 \times 100} \\\\
-                      &= \dfrac {\cancel {2} \times 3 \times \cancel {100} \times \cancel {2} \times 5} {\cancel {2} \times \cancel {2} \times \cancel {100}} \\\\
-                      &= 3 \times 5 \\\\
+                      &= \dfrac {6 \times 1000} {400} \\\\
+                      &= \dfrac {6000} {400} \\\\
+                      &= \dfrac {400 \times 15} {400} \\\\
+                      &= \dfrac {\cancel {400} \times 15} {\cancel {400}} \\\\
                       &= 15
 \end{aligned}
 $
@@ -1107,7 +1116,13 @@ Work out the length of a lap through the town.
 <div class='workings'>
 <div class='working'>
 
-Let the length of a lap through town $= a$.
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+The track length is given in $\text{meters}$ while the marathon length is given in $\text{kilometers}$.
+
+Let's convert the track length into $\text{kilometers}$.
+
+Let the length of a lap through town $= a$
 
 As per the question,
 
@@ -1482,7 +1497,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>DC8558C2-EE37-46DD-A01E-FF5282A31014</p>
 </div>
@@ -1493,7 +1508,7 @@ TODOANSWER
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1518,29 +1533,41 @@ Given that the area of the square is $36 \ \text{cm}^2$, work out the length of 
 <div class='workings'>
 <div class='working'>
 
-Let the length of a side of a square $= a$.
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-and let the length of a side of the equilateral triangle $= b$.
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+ABBR: $\text{Perimeter of triangle} = \text{Sum of all sides}$
+
+
+Let the length of a side of a square $= a$
+
+Let the length of a side of the equilateral triangle $= b$
 
 As per the question,
 
 $
 \begin {aligned}
-\text {Area of the square}                   &= 36 \ \text {cm} ^ 2 \\\\
+a \times a                                   &= 36 \\\\
 a ^ 2                                        &= 36 \\\\
 a                                            &= \sqrt {36} \\\\
 a                                            &= 6 \ \text {cm} \\\\
-\text {Perimeter of a Square}                &= 4 \times a \\\\
+\text {Perimeter of the square}              &= 4 \times a \\\\
                                              &= 4 \times 6 \\\\
                                              &= 24 \ \text {cm} \\\\
 \text {Perimeter of equilateral triangle}    &= \text {Perimeter of square} \\\\
-3b                                           &= 24 \ \text {cm} \\\\
+b + b + b                                    &= 24 \\\\
+3b                                           &= 24 \\\\
 b                                            &= \dfrac {24} {3} \\\\
 b                                            &= \dfrac {8 \times 3} {3} \\\\
 b                                            &= \dfrac {8 \times \cancel 3} {\cancel {3}} \\\\
 b                                            &= 8 \ \text {cm}
 \end {aligned}
 $
+
+Length of one side of the equilateral triangle $= 8 \ \text{cm}$
 
 </div>
 </div>
@@ -1833,7 +1860,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A60ACF29-F74F-4CDB-846D-DE660531F19A</p>
 </div>
@@ -1844,7 +1871,7 @@ TODOANSWER
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1866,18 +1893,24 @@ Work out the area of the square.
 <div class='workings'>
 <div class='working'>
 
-Let the length of a side of square $= a$.
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let the length of a side of square $= a$
+
+As per the question,
 
 $
 \begin {aligned}
-\text {Perimeter of square} &= 20 \ \text {cm} \\\\
 4 \times a                  &= 20 \\\\
 a                           &= \dfrac {20} {4} \\\\
 a                           &= \dfrac {5 \times 4} {4} \\\\
 a                           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
 a                           &= 5 \ \text {cm} \\\\
-\text {Area of a square}    &= a ^ 2 \\\\
-                            &= 5 ^ 2 \\\\
+\text {Area the square}     &= a \times a \\\\
                             &= 5 \times 5 \\\\
                             &= 25 \ \text {cm} ^ 2
 \end {aligned}
@@ -1935,7 +1968,7 @@ not directly related. thou.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>51A3EFEE-AEFC-4035-956A-355C5FB4F3EB</p>
 </div>
@@ -1946,7 +1979,7 @@ not directly related. thou.
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1994,12 +2027,14 @@ What is the perimeter of the card?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
 As per the question,
 
 $
 \begin{aligned}
-\text {Perimeter of the card}  &= 2 \times (\text {length} + \text {width}) \\\\
-                               &= 2 \times (18 \ \text {cm} + 6 \ \text {cm}) \\\\
+\text {Perimeter of the card}  &= 2 \times (18 + 6) \\\\
                                &= 2 \times 24 \\\\
                                &= 48 \ \text {cm}
 \end{aligned}
@@ -2027,10 +2062,14 @@ What is the area of the card?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the question,
+
 $
 \begin {aligned}
-\text {Area of the card}  &= \text {length} \times \text {width} \\\\
-                          &= 18 \ \text {cm} \times 6 \ \text {cm} \\\\
+\text {Area of the card}  &= 18 \times 6 \\\\
                           &= 108 \ \text {cm} ^ 2
 \end {aligned} 
 $
@@ -2061,12 +2100,15 @@ What is the maximum number of stickers she can fit on the front of the card?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
 As per the question,
 
 $
 \begin {aligned}
 \text {Maximum number of stickers that can fit on the card}  &= \dfrac {\text {Area of the card}} {\text {Area of a sticker}} \\\\
-                                                             &= \dfrac {108 \ \text {cm} ^ 2} {3 \ \text {cm} \times 2 \ \text {cm}} \\\\
+                                                             &= \dfrac {108} {3 \times 2} \\\\
                                                              &= \dfrac {108} {6} \\\\
                                                              &= \dfrac {18 \times 6} {6} \\\\
                                                              &= \dfrac {18 \times \cancel {6}} {\cancel {6}} \\\\
@@ -3654,7 +3696,7 @@ $60 \ \text{cm}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
 </div>
@@ -3665,7 +3707,7 @@ $60 \ \text{cm}^{2}$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3685,26 +3727,28 @@ Nigel folds a **__square__** piece of paper in half to give a rectangle which ha
 <div class='workings'>
 <div class='working'>
 
-Let the side of the square (in $\text{cm}$) $= a$
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
-As the square is folded to form a rectangle, 
+
+Let the side of the square (in $\text{cm}$) $= a$ 
 
 Length of the rectangle $= a$
 
 Width of the rectangle $= \dfrac {a} { 2 }$
 
-ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
-
-
-Let's equate the perimeter to the length and width we get,
+As per the question,
 
 $
 \begin{aligned}
-2 \times ( a + \dfrac {a} { 2 })    &= 36 \\\\
-2a + a                              &= 36 \\\\
-3a                                  &= 36 \\\\
-a                                   &= \dfrac {36} { 3 } \\\\
-a                                   &= 12 \ \text{cm}
+2 \times ( a + \dfrac {a} {2})                       &= 36 \\\\
+2 \times (\dfrac {2a + a} {2})                       &= 36 \\\\
+\cancel{2} \times \dfrac {2a + a} {\cancel {2}}      &= 36 \\\\
+2a + a                                               &= 36 \\\\
+3a                                                   &= 36 \\\\
+a                                                    &= \dfrac {36} { 3 } \\\\
+a                                                    &= \dfrac {12 \times 3} {3} \\\\
+a                                                    &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
+a                                                    &= 12 \ \text{cm}
 \end{aligned}
 $
 
@@ -3712,8 +3756,7 @@ Let's find the area of the square.
 
 $
 \begin{aligned}
-\text{Area}     &= \text{side} \times \text{side} \\\\
-                &= 12 \times 12 \\\\
+\text{Area}     &= 12 \times 12 \\\\
                 &= 144 \ \text{cm}^{2}
 \end{aligned}
 $
@@ -4900,7 +4943,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
 </div>
@@ -4911,7 +4954,7 @@ TODOANSWER
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4942,14 +4985,16 @@ What is the perimeter of Bob’s shape?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
+As per the diagram,
 
 $
 \begin{aligned}
-\text {Perimeter of shape}      &= \text {Sum of all sides} \\\\
-                                &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
+\text {Perimeter of shape}      &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
                                 &= 9 + 6 + 9 + 6 \\\\
-\text{Perimeter of shape}       &= 30 \ \text{cm}
+                                &= 30 \ \text{cm}
 \end{aligned}
 $
 

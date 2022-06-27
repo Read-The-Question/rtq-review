@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-oldpr"
 title: "TopicPaper - Areaperimeter - 6 - OLDPR"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>AA6E0084-63AD-4E84-B181-6CAB6581076E</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-25 21:04:48
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -42,12 +42,22 @@ The area of the shaded inner square.
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the side of square is 8 cm.*
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Area of the shaded inner square} &= \text{side} \times \text{side} \\\\
-                                       &= 8 \times 8 \\\\
+\text{Area of the shaded inner square} &= 8 \times 8 \\\\
                                        &= 64 \ \text{cm}^2
 \end{aligned}
 $
@@ -105,7 +115,7 @@ align on    &=        (see slack)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>C3229D2F-CF27-4E5A-A8CC-334AD15D2A96</p>
 </div>
@@ -116,7 +126,7 @@ align on    &=        (see slack)
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -138,55 +148,63 @@ Find the perimeter of a square with an area of $121 \ \text{cm}^2$.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let the side of the square $= a$
+
 As per the question,
 
-First part of the question,
-
-Let's calculate the length of each side of square.
-
 $
 \begin{aligned}
-4 \times \text {Side}  &= \text {Perimeter} \\\\
-4 \times \text {Side}  &= 36 \text {cm} \\\\
-\text {Side}           &= \dfrac {36} {4} \\\\
-\text {Side}           &= \dfrac {9 \times 4} {4} \\\\
-\text {Side}           &= \dfrac {9 \times \cancel{4}} {\cancel{4}} \\\\
-\text {Side}           &= 9 \text { cm}
+4 \times a           &= 36\\\\
+a                    &= \dfrac {36} {4} \\\\
+a                    &= \dfrac {9 \times 4} {4} \\\\
+a                    &= \dfrac {9 \times \cancel{4}} {\cancel{4}} \\\\
+a                    &= 9 \ \text {cm}
 \end{aligned}
 $
 
-Now, Let's calculate Area of square of side $9$ cm.
+Let's calculate the area of square.
 
 $
 \begin{aligned}
-\text {Area} &= \text {Side} \times \text { Side} \\\\
-             &= 9 \text { cm} \times 9 \text { cm} \\\\
-\text {Area} &= 81 \text { cm}^2
+\text {Area}    &= 9 \times 9 \\\\
+                &= 81 \ \text {cm}^2
 \end{aligned}
 $
 
-Second part of the question,
+</div>
+<div class='working'>
 
-Let's calculate the length of each side of square.
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let the side of the square $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\text {Side} \times \text { Side} &= \text {Area} \\\\
-\text {Side} \times \text { Side} &= 121 \text {cm}^2 \\\\
-\text {Side}^2                    &= 121 \text {cm}^2 \\\\
-\text {Side}                      &= \sqrt{121 \text {cm}^2} \\\\
-\text {Side}                      &= \sqrt{11 \text { cm} \times 11 \text { cm}} \\\\
-\text {Side}                      &= 11 \text { cm}
+a \times a             &= 121 \\\\
+a^2                    &= 121 \\\\
+a                      &= \sqrt {121} \\\\
+a                      &= 11 \ \text {cm}
 \end{aligned}
 $
 
-Now, Let's calculate Perimeter of square of side $11$ cm.
+Let's calculate the perimeter of square.
 
 $
 \begin{aligned}
-\text {Perimeter}      &= \text {Side} \times 4 \\\\
-                       &= 11 \text { cm} \times 4 \\\\
-\text {Perimeter}      &= 44 \text { cm}
+\text {Perimeter}      &= 4 \times 11 \\\\
+                       &= 44 \ \text {cm}
 \end{aligned}
 $
 
@@ -195,12 +213,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$81 \text { cm}^2 $
+$81 \ \text {cm}^2 $
 
 </div>
 <div class='answer'>
 
-$44 \text { cm}$
+$44 \ \text {cm}$
 
 </div>
 </div>

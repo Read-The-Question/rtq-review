@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-blocked"
 title: "TopicPaper - Temperature - 1 - BLOCKED"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-25 21:04:48
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>rag_ga_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-4"
 title: "TopicPaper - Areaperimeter - 4"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2661,7 +2661,15 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 <div class='workings'>
 <div class='working'>
 
-We know,
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add the diagram with inner rectangle's length $8 \ \text {m}$ and width $11 \ \text {m}$ shown.*
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
@@ -2670,15 +2678,10 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of pool}                                &= (\text{Length of garden - 2} \times \text{Width of path}) \times (\text{Width of garden - 2} \times \text{Width of path}) \\\\
-                                                   &= (15 \text{m} - 2 \text{m} \times 2 \text{m}) \times (8 \text{m} - 2 \text{m} \times 2 \text{m}) \\\\
-                                                   &= (15 - 4) \times (8 - 4) \\\\
-                                                   &= 11 \times 4 \\\\
-                                                   &= 44 \text{m}^{2} \\\\
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \text{m} \times 8 \text{m}  - 44 \text{m}^{2} \\\\
+                                                   &= (8 \times 15)  - (4 \times 11) \\\\
                                                    &= 120 - 44 \\\\
-                                                   &= 76 \text{m}^{2}
+                                                   &= 76 \ \text{m}^{2}
 \end{aligned}
 $
 
@@ -2727,7 +2730,7 @@ $76 \text{m}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4AFBC40F-1638-4EA4-8624-F4D2729AD1A4</p>
 </div>
@@ -2738,7 +2741,7 @@ $76 \text{m}^{2}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2833,7 +2836,7 @@ $24 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940</p>
 </div>
@@ -2844,7 +2847,7 @@ $24 \ \text{cm}$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2925,13 +2928,14 @@ A regular pentagon has the same side length as the square. What is its perimeter
 <div class='workings'>
 <div class='working'>
 
-Perimeter of regular pentagon $= 5 \times \text{Length of side}$
+ABBR: $\text{Perimeter of regular polygon} = \text{n} \times \text{side}$
+
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Perimeter of the pentagon}       &= 5 \times 21 \ \text{cm} \\\\
+\text{Perimeter}                       &= 5 \times 21 \\\\
                                        &= 105 \ \text{cm}
 \end{aligned}
 $
@@ -2989,7 +2993,7 @@ part b formula ..katex error.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2ED1078E-E436-4DB2-A728-C73E012861C2</p>
 </div>
@@ -3000,7 +3004,7 @@ part b formula ..katex error.
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3023,7 +3027,15 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 <div class='workings'>
 <div class='working'>
 
-We know,
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add the diagram with inner rectangle's length $8 \ \text {m}$ and width $11 \ \text {m}$ shown.*
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
@@ -3032,14 +3044,9 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of pool}                                &= \text{Length of garden - 2} \times \text{Width of path} \times \text{Width of garden - 2} \times \text{Width of path}\\\\
-                                                   &= 15 \ \text{m} - 2 \ \text{m} \times 2 \ \text{m} \times 12 \text{m} - 2 \ \text{m} \times 2 \ \text{m} \\\\
-                                                   &= 15 \ \text{m} - 4 \ \text{m} \times 12 \ \text{m} - 4 \ \text{m} \\\\
-                                                   &= 11 \ \text{m} \times 8 \ \text{m} \\\\
-                                                   &= 88 \ \text{m}^{2} \\\\
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
-                                                   &= 15 \ \text{m} \times 12 \ \text{m}  - 88 \ \text{m}^{2} \\\\
-                                                   &= 180 \ \text{m}^{2} - 88 \ \text{m}^{2} \\\\
+                                                   &= (12 \times 15)  - (8 \times 11) \\\\
+                                                   &= 180 - 88 \\\\
                                                    &= 92 \ \text{m}^{2}
 \end{aligned}
 $
@@ -3864,7 +3871,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>F3912EFD-E492-46A0-BB5B-F44F4FD52BAA</p>
 </div>
@@ -3875,7 +3882,7 @@ TODOANSWER
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3900,25 +3907,28 @@ A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectan
 
 As per the question,
 
-ABBR: $\text{Area} = \text{length} \times \text{width}$
-    \\\\
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 ABBR: It is really important to use the right units in calculations and convert where required.
-    \\\\
+
+
+Let's convert the wall measurements into $\text{cm}$.
+
+As per the question,
 
 $
 \begin{aligned}
 \text{Number of tiles}             &= \dfrac {\text{Area of floor}} {\text{Area of a tile}} \\\\
-                                   &= \dfrac {5 \text{m} \times 4 \text{m}} {80 \ \text{cm} \times 50 \ \text{cm}} \\\\
-                                   &= \dfrac {20 \text{m}^2} {4000 \ \text{cm}^2} \\\\\
-                                   &= \dfrac {200000 \ \text{cm}^2} {4000 \ \text{cm}^2} \\\\
+                                   &= \dfrac {5 \ \text{m} \times 4 \ \text{m}} {80 \ \text{cm} \times 50 \ \text{cm}} \\\\
+                                   &= \dfrac {5 \times 100 \ \text{cm} \times 4 \times 100 \ \text{cm}} {80 \ \text{cm} \times 50 \ \text{cm}} \\\\
+                                   &= \dfrac {5 \times 100 \times 4 \times 100} {80 \times 50} \\\\
+                                   &= \dfrac {200000} {4000} \\\\
                                    &= \dfrac {50 \times 4000} {4000} \\\\
                                    &= \dfrac {50 \times \cancel {4000}} {\cancel {4000}} \\\\
-                                   &= 50 \text{ tiles}
+                                   &= 50
 \end{aligned}
 $
-
-Number of tiles needed is $50$
 
 </div>
 </div>
@@ -3970,7 +3980,7 @@ Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D12205F1-6F25-4231-A122-B2A390DC96CE</p>
 </div>
@@ -3981,7 +3991,7 @@ Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4024,15 +4034,16 @@ Find a formula for the perimeter, $P$, of the shape above.
 <div class='workings'>
 <div class='working'>
 
-As we know, perimeter of a shape is sum of all sides of the shape. So,
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
 
-So,
+
+As per the question,
 
 $
 \begin{aligned}
 P       &= a + a + b + b \\\\
-        &= 2a + 2b \\\\
-        &= 2 (a + b)
+P       &= 2a + 2b \\\\
+P       &= 2 (a + b)
 \end{aligned}
 $
 
@@ -4061,8 +4072,8 @@ Use the formula to find the value of $P$ when $a = 5 \ \text{cm}, b = 10 \ \text
 $
 \begin{aligned}
 P                 &= 2 (a + b) \\\\
-                  &= 2 (5 + 10) \\\\
-                  &= 2 \times 15 \\\\
+P                 &= 2 (5 + 10) \\\\
+P                 &= 2 \times 15 \\\\
 P                 &= 30 \ \text{cm}
 \end{aligned}
 $
@@ -4122,7 +4133,7 @@ Line 1.  So, and again down So, (delete 1 So,)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FAB79FDF-D313-405E-A038-7DEFEDC824BF</p>
 </div>
@@ -4133,7 +4144,7 @@ Line 1.  So, and again down So, (delete 1 So,)
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4153,27 +4164,33 @@ A square has a perimeter of $5.6 \ \text{m}$. Calculate the area of the square.
 <div class='workings'>
 <div class='working'>
 
-To find the area of the square, let's find the length of the sides.
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let the side of the square $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-4 \times \text{Side}              &= \ \text{Perimeter of Square} \\\\
-4 \times \text{Side}              &= 5.6 \text{m} \\\\
-\text{Side}                       &= \dfrac {5.6} {4} \\\\
-\text{Side}                       &= \dfrac {1.4 \times 4} {4} \\\\
-\text{Side}                       &= \dfrac {1.4 \times \cancel{4}} {\cancel{4}} \\\\
-\text{Side}                       &= 1.4 \text{m}
+4 \times a                        &= 5.6 \\\\
+a                                 &= \dfrac {5.6} {4} \\\\
+a                                 &= \dfrac {1.4 \times 4} {4} \\\\
+a                                 &= \dfrac {1.4 \times \cancel{4}} {\cancel{4}} \\\\
+a                                 &= 1.4 \ \text{m}
 \end{aligned}
 $
 
 
-Now let's calculate the Area of Square.
+Let's calculate the area of square.
 
 $
 \begin{aligned}
-\text {Area of a square}            &= \text {Side} \times \text { Side} \\\\
-                                    &= 1.4 \text{m} \times 1.4 \text{m} \\\\
-                                    &= 1.96 \text{m}^2
+\text {Area}                        &= 1.4 \times 1.4 \\\\
+                                    &= 1.96 \ \text{m}^2
 \end{aligned}
 $
 
@@ -4182,7 +4199,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1.96 \text{m}^2$
+$1.96 \ \text{m}^2$
 
 </div>
 </div>

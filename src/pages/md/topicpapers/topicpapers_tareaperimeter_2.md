@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1594,7 +1594,7 @@ Add comment to add a diagram with missing side calculated.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A378EBC6-7DBB-440C-8EF8-40C2D3B7F5D7</p>
 </div>
@@ -1605,7 +1605,7 @@ Add comment to add a diagram with missing side calculated.
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1647,23 +1647,33 @@ A square has a perimeter of $32 \ \text{cm}$. What is the area of the square?
 <div class='workings'>
 <div class='working'>
 
-Let the length of the side of the square $= a$.
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+Let the length of the side of the square $= a$
 
 As per the question,
 
 $
 \begin {aligned}
-\text {Perimeter of the square}  &= 32 \ \text {cm} \\\\
 4 \times a                       &= 32 \\\\
 a                                &= \dfrac {32} {4} \\\\
 a                                &= \dfrac {8 \times 4} {4} \\\\
 a                                &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
-a                                &= 8 \ \text {cm} \\\\
-\text {Area of the square}       &= \text {Side} \times \text {Side} \\\\
-                                 &= a \times a \\\\
-                                 &= 8 \times 8 \\\\
-                                 &= 64 \ \text {cm} ^ 2
+a                                &= 8 \ \text {cm}
 \end {aligned}
+$
+
+Let's find the area of the square.
+
+$
+\begin{aligned}
+\text {Area}                     &= 8 \times 8 \\\\
+                                 &= 64 \ \text {cm} ^ 2
+\end{aligned}
 $
 
 </div>
@@ -1688,27 +1698,46 @@ A rectangle has perimeter $32 \ \text{cm}$. The rectangle is three times as long
 <div class='workings'>
 <div class='working'>
 
-Let the width of the rectangle $= w$.
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the width of the rectangle $= w$
+
+Length of the rectangle $= 3w$
 
 As per the question,
 
-Length of the rectangle $= 3 \times w$.
-
 $
 \begin {aligned}
-2 \times (\text {length} + \text {width})   &= \text {Perimeter of a rectangle} \\\\
-2 \times (3w + w)                           &= 32 \ \text {cm} \\\\
+2 \times (3w + w)                           &= 32 \\\\
 2 \times 4w                                 &= 32 \\\\
 8w                                          &= 32 \\\\
 w                                           &= \dfrac {32} {8} \\\\
 w                                           &= \dfrac {4 \times 8} {8} \\\\
 w                                           &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
-w                                           &= 4 \ \text {cm} \\\\
-\text {Area of the rectangle}               &= \text {length} \times \text {width} \\\\
-                                            &= (3 \times 4) \times 4 \\\\
-                                            &= 12 \times 4 \\\\
-                                            &= 48 \ \text {cm} ^ 2
+w                                           &= 4 \ \text {cm}
 \end {aligned}
+$
+
+$
+\begin{aligned}
+\text {Width}       &= 4 \ \text {cm} \\\\
+\text {Length}      &= 3 \times w \\\\
+                    &= 3 \times 4 \\\\
+                    &= 12 \ \text{cm}
+\end{aligned}
+$
+
+Let's find the area of the square.
+
+$
+\begin{aligned}
+\text {Area}                                &= 12 \times 4 \\\\
+                                            &= 48 \ \text {cm} ^ 2
+\end{aligned}
 $
 
 </div>
@@ -1784,7 +1813,7 @@ Line 3 = 3 x w
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>79724FE5-0A3C-4E20-865A-B61A7EA91907</p>
 </div>
@@ -1795,7 +1824,7 @@ Line 3 = 3 x w
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1820,7 +1849,8 @@ How many tiles do I need to buy?
 <div class='workings'>
 <div class='working'>
 
-Area of a rectangle $=$ length $\times$ width
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 ABBR: It is really important to use the right units in calculations and convert where required.
 
@@ -1835,14 +1865,14 @@ $
 \begin {aligned}
 \text {Number of tiles needed}  &= \dfrac {\text {Area of the floor}} {\text {Area of a tile}} \\\\
                                 &= \dfrac {4 \ \text {m} \times 3 \ \text {m}} {50 \ \text {cm} \times \ 25 \ \text {cm}} \\\\
-                                &= \dfrac {12 \ \text {m} ^ 2} {\dfrac {50} {100} \ \text {m} \times \dfrac {25} {100} \ \text {m}} \\\\
+                                &= \dfrac {4 \ \text {m} \times 3 \ \text {m}} {\dfrac {50} {100} \ \text {m} \times \dfrac {25} {100} \ \text {m}} \\\\
                                 &= \dfrac {12} {0.50 \times 0.25} \\\\
-                                &= \dfrac {12 \ \text {m} ^ 2} {0.125 \ \text {m} ^ 2} \\\\
+                                &= \dfrac {12} {0.125} \\\\
                                 &= \dfrac {12 \times 1000} {0.125 \times 1000} \\\\
                                 &= \dfrac {12 \times 1000} {125} \\\\
-                                &= \dfrac {12 \times 5 \times 2 \times 5 \times 2 \times 5 \times 2} {5 \times 5 \times 5} \\\\
-                                &= \dfrac {12 \times \cancel {5} \times 2 \times \cancel {5} \times 2 \times \cancel {5} \times 2} {\cancel {5} \times \cancel {5} \times \cancel {5}} \\\\
-                                &= 12 \times 2 \times 2 \times 2 \\\\
+                                &= \dfrac {12 \times 125 \times 8} {125} \\\\
+                                &= \dfrac {12 \times \cancel {125} \times 8} {\cancel {125}} \\\\
+                                &= 12 \times 8 \\\\
                                 &= 96
 \end {aligned}
 $

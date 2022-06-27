@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-1"
 title: "TopicPaper - Areaperimeter - 1"
-date: 2022-06-25 21:04:48
+date: 2022-06-27 19:37:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -53,17 +53,18 @@ Find the value of $t$.
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
-_expanded
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+As per the question,
 
 $
 \begin{aligned}
-36                                         &= 2 \times (10 + t) \\\\
 2 \times (10 + t)                          &= 36 \\\\
 10 + t                                     &= \dfrac{36}{2} \\\\
 10 + t                                     &= 18 \\\\
 t                                          &= 18 - 10 \\\\
-t                                          &= 8 \ \text{mm} \\\\
+t                                          &= 8 \ \text{mm}
 \end{aligned}
 $
 
@@ -512,20 +513,19 @@ How many posts will he need?
 <div class='workings'>
 <div class='working'>
 
-Let's the side of the square garden (in $\text{m}$) $= s$
-
 ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
+
+Let the side of the square garden (in $\text{m}$) $= s$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{side} \times \text{side}      &= 81 \\\\
+s \times s                          &= 81 \\\\
 s^2                                 &= 81 \\\\
 s                                   &= \sqrt{81} \\\\
-s                                   &= \sqrt{9 \times 9} \\\\
-s                                   &= 9 \text{m}
+s                                   &= 9 \ \text{m}
 \end{aligned}
 $
 
@@ -712,7 +712,7 @@ tsimpleword
 </div>
 <div class='question question'>
 
-A tin of paint can cover $45 \ \ text{m}^2$ of wall. The school hall has $652 \ \ text{m}^2$ of wall to paint.
+A tin of paint can cover $45 \ \text{m}^2$ of wall. The school hall has $652 \ \text{m}^2$ of wall to paint.
 
 How many tins of paint are needed?
 
@@ -948,23 +948,23 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
-Let the height of the second triangle $= a$.
+Let the height of the second triangle $= a$
 
 As per the question,
 
 $
 \begin {aligned}
-\text{Area of first triangle}                                   &= \text{Area of second triangle} \\\\
-\dfrac {1} {2} \times 6 \ \text {cm} \times 4 \ \text {cm}      &= \dfrac {1} {2} \times 8 \ \text {cm} \times a \\\\
-\dfrac {1} {2} \times 24                                        &= \dfrac {8} {2} \times a \\\\
-\dfrac {24} {2} \times \dfrac {2} {8}                           &= a \\\\
-a                                                               &= \dfrac {24} {2} \times \dfrac {2} {8} \\\\
-a                                                               &= \dfrac {24 \times 2} {2 \times 8} \\\\
-a                                                               &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
-a                                                               &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
-a                                                               &= 3 \ \text {cm}
+\dfrac {1} {2} \times 8 \ \times a        &= \dfrac {1} {2} \times 6 \ \times 4 \\\\
+\dfrac {8} {2} \times a                   &= \dfrac {1} {2} \times 24 \\\\
+a                                         &= \dfrac {24} {2} \times \dfrac {2} {8} \\\\
+a                                         &= \dfrac {24 \times 2} {2 \times 8} \\\\
+a                                         &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
+a                                         &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
+a                                         &= 3 \ \text {cm}
 \end {aligned}
 $
+
+Triangle is $3 \ \text{cm}$ tall.
 
 </div>
 </div>
@@ -4408,34 +4408,38 @@ If the area of each square is $9 \ \text{cm}^2$, what is the outer perimeter of 
 <div class='workings'>
 <div class='working'>
 
-Let the length of a side of the square (in $\text{cm}$) $= a$.
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+Let the length of a side of the square (in $\text{cm}$) $= a$
+
+As per the question,
 
 $
 \begin {aligned}
-a  &= \sqrt {\text {Area of the square}} \\\\
-a  &= \sqrt {9} \\\\
-a  &= 3 \ \text {cm}
+a \times a          &= 9 \\\\
+a^2                 &= 9 \\\\
+a                   &= \sqrt {9} \\\\
+a                   &= 3 \ \text{cm}
 \end {aligned}
 $
 
-Let the length of the rectangle (in $\text{cm}$) $= l$.
-
-Let the width of the rectangle (in $\text{cm}$) $= w$.
-
-Since the width of the rectangle and the length of a side of the square are same, 
-
-So, $w = 3$.
+As per the diagram,
 
 $
-\begin {aligned}
-l                                   &= a + a + a \\\\
-l                                   &= 3 + 3 + 3 \\\\
-l                                   &= 12 \ \text {cm} \\\\
-\text {Perimeter of the rectangle}  &= 2 \times (l + w) \\\\
-                                    &= 2 \times (12 + 3) \\\\
-                                    &= 2 \times 15 \\\\
-                                    &= 30 \ \text {cm}
-\end {aligned}
+\begin{aligned}
+\text {Length of the rectangle (in cm)}  &= 3 \times a \\\\
+                                         &= 3 \times 3 \\\\
+                                         &= 9 \ \text {cm} \\\\
+\text {Width of the rectangle (in cm)}   &= a \\\\
+                                         &= 3 \ \text {cm} \\\\
+\text{Total Perimeter}                   &= 2 \times (9 + 3) \\\\
+                                         &= 2 \times 12 \\\\
+                                         &= 24 \ \text{cm}
+\end{aligned}
 $
 
 </div>
@@ -4443,7 +4447,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$30 \ \text {cm}$
+$24 \ \text {cm}$
 
 </div>
 </div>

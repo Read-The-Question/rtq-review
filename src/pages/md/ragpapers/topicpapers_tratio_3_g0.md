@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-g0"
 title: "TopicPaper - Ratio - 3 - G0"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>

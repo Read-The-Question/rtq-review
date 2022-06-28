@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -175,7 +175,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
@@ -186,7 +186,7 @@ TODOANSWER
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -226,8 +226,6 @@ Using the $24 \ \text{hour}$ clock, write the time when the ferry left Dover.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Time left}    &= 07:45 + 17 \ \text{minutes}\\
@@ -257,8 +255,6 @@ take?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned} 
@@ -291,8 +287,6 @@ How many minutes late did the ferry arrive in Calais?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -351,7 +345,7 @@ $11 \ \text{ mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
@@ -362,7 +356,7 @@ $11 \ \text{ mins}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -401,8 +395,6 @@ She starts the swimming stage at $12:45$ pm. If she takes $79\,minutes$ to compl
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per question'
 
 $
 \begin{aligned}
@@ -1323,7 +1315,7 @@ $54 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>19C4B959-6C02-4D22-B36F-6E0A58FE85F7</p>
 </div>
@@ -1334,7 +1326,7 @@ $54 \ \text{mins}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1357,8 +1349,6 @@ What time do I get to school?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -2024,7 +2014,7 @@ $0719$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9584D5F5-A2A6-4220-9550-009F833ABA09</p>
 </div>
@@ -2035,7 +2025,7 @@ $0719$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3695,7 +3685,7 @@ $8 \ \text{hours} \ 15 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F62A204D-13DB-4426-A702-451397983AD5</p>
 </div>
@@ -3706,7 +3696,7 @@ $8 \ \text{hours} \ 15 \ \text{minutes}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3727,6 +3717,10 @@ $
 \begin{aligned}
 \text{After one minute and twenty seconds} &= 2 + 1 \ \text{minute} \ 20 \ \text{seconds} \\\\
                                            &= 2 + 20 \ \text{seconds} \\\\
+                                           &= 2 + \dfrac {20} {5} \\\\
+                                           &= 2 + \dfrac {5 \times 4} {5} \\\\
+                                           &= 2 + \dfrac {\cancel{5} \times 4} {\cancel{5}} \\\\
+                                           &= 2 + 4 \\\\
                                            &= 6
 \end{aligned}
 $
@@ -3776,7 +3770,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5298C101-6575-44AF-907F-35B7EAF2FC14</p>
 </div>
@@ -3787,7 +3781,7 @@ $6$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3852,14 +3846,21 @@ What time is it in Australia when it is $4 \ \text{am}$ in the USA?
 <div class='workings'>
 <div class='working'>
 
-$6{:}00 \ \text{pm}$
+$
+\begin{aligned}
+\text {time in UK}         &= 4 \ \text{am} + 5 \ \text{hours} \\\\
+                           &= 9 \ \text{am} \\\\
+\text {time in Australia}  &= 9 \ \text{am} + 9 \ \text{hours} \\\\
+                           &= 6 \ \text{pm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6{:}00 \ \text{pm}$
+$6 \ \text{pm}$
 
 </div>
 </div>
@@ -3902,7 +3903,7 @@ $6{:}00 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E59625D9-2685-424C-B233-E9123F55D6DF</p>
 </div>
@@ -3913,7 +3914,7 @@ $6{:}00 \ \text{pm}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4095,7 +4096,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>72B6948E-CEFE-403E-AB86-3937A9FDB31F</p>
 </div>
@@ -4106,7 +4107,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

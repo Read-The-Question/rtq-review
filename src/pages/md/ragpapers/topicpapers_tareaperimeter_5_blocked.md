@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-blocked"
 title: "TopicPaper - Areaperimeter - 5 - BLOCKED"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -176,35 +176,7 @@ What is the area of the shaded shape?
 <div class='workings'>
 <div class='working'>
 
-*ABBR: TODO:: Add drawing starts.*
-
-![missing image](/papers/missing_image.svg)
-
-
-*TODO:: Draw a diagram with two triangle and 1 rectangle which consist of only the shaded part of the question. Also show the calculated measurements. *
-
-*ABBR: TODO:: Add drawing ends.*
-
-
-ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
-
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text{Area of the shaded shape}     &= \text{Area of rectangle} + 2 \times \text{Area of triangle} \\\\
-                                    &= 2 \times 6 + 2 \times (\dfrac {1} {2} \times 1 \times 6) \\\\
-                                    &= 2 \times 6 + 2 \times \dfrac {6} {2} \\\\
-                                    &= 2 \times 6 + \dfrac {2 \times 6} {2} \\\\
-                                    &= 2 \times 6 + \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
-                                    &= 12 + 6 \\\\
-                                    &= 18 \ \text{cm}^2
-\end{aligned}
-$
+*TODO:: Format missing, check the diagram.*
 
 </div>
 </div>
@@ -249,8 +221,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of the shaded shape}     &= \text{Perimeter of rectangle} + 2 \times \text{Perimeter of triangle} \\\\
-                                    &= 
+\text{Area of the shaded shape}     &= \text{Perimeter of rectangle} + 2 \times \text{Perimeter of triangle} \\\\ 
                                     &= 2 \times 6 + 2 \times \dfrac {6} {2} \\\\
                                     &= 2 \times 6 + \dfrac {2 \times 6} {2} \\\\
                                     &= 2 \times 6 + \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\

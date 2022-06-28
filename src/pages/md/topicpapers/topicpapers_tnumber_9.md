@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-9"
 title: "TopicPaper - Number - 9"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-06-27 19:37:37
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -105,7 +105,7 @@ DONE Last sentence : the smallest number that 2, 3 and 4 all divide into exactly
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -253,7 +253,7 @@ $0.875$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -328,7 +328,7 @@ $33033$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -414,7 +414,7 @@ DONE delete step 1 (otherwise too long)
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -583,7 +583,7 @@ $0.0075$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -667,7 +667,7 @@ $30.03$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -877,7 +877,7 @@ $\pounds 105$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1012,7 +1012,7 @@ $\dfrac {13} {20}$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1125,7 +1125,7 @@ convert 65% also from Step 2 and change whole answer accordingly.
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:28</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1288,7 +1288,7 @@ $\dfrac {707} {1000}$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:29</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1457,7 +1457,7 @@ $0.06$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:37</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1532,7 +1532,7 @@ $2.34$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:39</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1620,7 +1620,7 @@ $567890$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:40</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1715,7 +1715,7 @@ $119$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:43</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1803,7 +1803,7 @@ $0.73$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1899,7 +1899,7 @@ $50.75$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2064,7 +2064,7 @@ $75$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2206,7 +2206,7 @@ $\dfrac {17} {20}$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2296,7 +2296,7 @@ $1.354$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:29</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2465,7 +2465,7 @@ $0.175$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:33</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2659,7 +2659,7 @@ $\text{Closest number to} \ 60 = 58 \\\\
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2734,7 +2734,7 @@ $36043$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2873,7 +2873,7 @@ $0.125$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3020,7 +3020,7 @@ $53.71$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:33</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3084,7 +3084,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3159,7 +3159,7 @@ $45702$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3298,7 +3298,7 @@ $0.6$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3442,7 +3442,7 @@ $7504$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:33</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3506,7 +3506,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3591,7 +3591,7 @@ $-4$
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3872,7 +3872,7 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4063,7 +4063,7 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4186,7 +4186,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4267,7 +4267,7 @@ $298$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4347,7 +4347,7 @@ $219$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4437,7 +4437,7 @@ $-,\div, +, \times$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4577,7 +4577,7 @@ $1.6$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4781,7 +4781,7 @@ $402$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5058,7 +5058,7 @@ $\text {four hundred twenty five}$
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

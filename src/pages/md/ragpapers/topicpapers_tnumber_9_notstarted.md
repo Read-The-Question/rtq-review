@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-notstarted"
 title: "TopicPaper - Number - 9 - NOTSTARTED"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-27 19:37:37
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -178,7 +178,7 @@ $75$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:33</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -242,7 +242,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:33</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -306,7 +306,7 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -587,7 +587,7 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -778,7 +778,7 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -901,7 +901,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

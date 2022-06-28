@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-06-27 19:37:37
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -98,7 +98,7 @@ $300407$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -309,7 +309,7 @@ $17954$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -391,7 +391,7 @@ $0.35$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -474,7 +474,7 @@ $51$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -552,7 +552,7 @@ $308520$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -660,7 +660,7 @@ $(8 + 4) \times 6 - 5$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -752,7 +752,7 @@ $231 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -954,7 +954,7 @@ $3$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1135,7 +1135,7 @@ $504$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1230,7 +1230,7 @@ $7050$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1307,7 +1307,7 @@ $8$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:20</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1447,7 +1447,7 @@ $8$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1642,7 +1642,7 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1724,7 +1724,7 @@ $0.72$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1805,7 +1805,7 @@ $83$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1960,7 +1960,7 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2037,7 +2037,7 @@ $7$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2121,7 +2121,7 @@ $\dfrac {18} {25}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2267,7 +2267,7 @@ $\dfrac {22} {5} \ \text{or} \ 4 \dfrac {2} {5}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2359,7 +2359,7 @@ $\dfrac {31} {120}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2488,7 +2488,7 @@ The whole numbers which leave a remainder of 7 when dividied into 46 = 13 and 39
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2692,7 +2692,7 @@ $82$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2767,7 +2767,7 @@ $63,401$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2851,7 +2851,7 @@ $70, 5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2938,7 +2938,7 @@ $8$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3107,7 +3107,7 @@ $584$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3206,7 +3206,7 @@ $D$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3272,7 +3272,7 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3419,7 +3419,7 @@ $5.78$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:25</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3506,7 +3506,7 @@ $161$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3687,7 +3687,7 @@ $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3925,7 +3925,7 @@ $0.101$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4029,7 +4029,7 @@ $45$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:20</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4093,7 +4093,7 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4182,7 +4182,7 @@ $0.872$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:26</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4324,7 +4324,7 @@ $2.716$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4410,7 +4410,7 @@ $401$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4612,7 +4612,7 @@ $16$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

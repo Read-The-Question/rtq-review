@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-10-oldpr"
 title: "TopicPaper - Number - 10 - OLDPR"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-27 19:37:37
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -260,7 +260,7 @@ Delete Therefore.....
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

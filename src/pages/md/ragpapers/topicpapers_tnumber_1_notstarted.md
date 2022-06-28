@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-notstarted"
 title: "TopicPaper - Number - 1 - NOTSTARTED"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-27 19:37:37
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -178,7 +178,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -231,7 +231,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -286,7 +286,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -451,7 +451,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -630,7 +630,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -821,7 +821,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -946,7 +946,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1125,7 +1125,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1248,7 +1248,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1477,7 +1477,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

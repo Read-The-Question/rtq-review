@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-4"
 title: "TopicPaper - Money - 4"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -465,7 +465,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AB0A70FD-B271-49A4-B1FE-9377BD989ACF</p>
 </div>
@@ -473,7 +473,7 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -494,19 +494,71 @@ You MUST show your working.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Cost of a mug}   &= \dfrac {3.50} {5} \\\\
+                        &= \dfrac {5 \times 0.70} {5} \\\\
+                        &= \dfrac {\cancel {5} \times 0.70} {\cancel {5}} \\\\
+                        &= \pounds 0.70 \\\\
+\text {Cost of a pen}   &= \dfrac {6.80} {8} \\\\
+                        &= \dfrac {8 \times 0.85} {8} \\\\
+                        &= \dfrac {\cancel {8} \times 0.85} {\cancel {8}} \\\\
+                        &= \pounds 0.85
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Money spent}     &= 7 \times 0.70 + 5 \times 0.85 \\\\
+                        &= 4.90 + 4.25 \\\\
+                        &= \pounds 9.15 \\\\
+\text {Change received} &= 10 - 9.15 \\\\
+                        &= \pounds 0.85
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds 0.85$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AB0A70FD-B271-49A4-B1FE-9377BD989ACF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AB0A70FD-B271-49A4-B1FE-9377BD989ACF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AB0A70FD-B271-49A4-B1FE-9377BD989ACF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AB0A70FD-B271-49A4-B1FE-9377BD989ACF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='AB0A70FD-B271-49A4-B1FE-9377BD989ACF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='AB0A70FD-B271-49A4-B1FE-9377BD989ACF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='AB0A70FD-B271-49A4-B1FE-9377BD989ACF' id='FORM-AB0A70FD-B271-49A4-B1FE-9377BD989ACF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AB0A70FD-B271-49A4-B1FE-9377BD989ACF'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -1183,7 +1235,7 @@ $\pounds 0.52$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>12F567E6-42DC-4EE3-A2CE-D09D970305D7</p>
 </div>
@@ -1191,7 +1243,7 @@ $\pounds 0.52$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1212,28 +1264,19 @@ $\pounds 550$. Work out the cost of the TV after the VAT is added on.
 <div class='workings'>
 <div class='working'>
 
+As per the question,
 
 $
-\begin{aligned}
-    \text{VAT} & = 20 \% \ \text{of} \ \pounds 550                                                \\\\
-               & = \dfrac {20} {100} \times 550                                                   \\\\
-               & = \dfrac {2 \cancel 0} {1 \cancel 0 \cancel 0} \times  \dfrac {55 \cancel 0} {1} \\\\
-               & = 2 \times 55                                                                    \\\\
-               & = \pounds  110                                                                   
-\end{aligned}
+\begin {aligned}
+\text {Total cost}  &= 550 + 20 \% \ \text {of} \ 550 \\\\
+                    &= 550 + \dfrac {20} {100} \times 550 \\\\
+                    &= 550 + \dfrac {20 \times 550} {100} \\\\
+                    &= 550 + \dfrac {2 \cancel {0} \times 55 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                    &= 550 + 2 \times 55 \\\\
+                    &= 550 + 110 \\\\
+                    &= \pounds 660
+\end {aligned}
 $
-
-Total cost of TV = Price of TV + VAT
-
-$
-\begin{aligned}
-      & = \pounds 550 + \pounds 110 \\\\
-      & = \pounds 660               
-\end{aligned}
-$
-
-The cost of the TV after the VAT is added on $=\pounds 660$
-
 
 </div>
 </div>
@@ -1255,24 +1298,26 @@ The price of a diamond ring, including VAT is $\pounds 1200$. Work out the cost 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Cost of the ring excluding VAT}  &= 1200 - 20 \% \ \text {of} \ 1200 \\\\
+                                        &= 1200 - \dfrac {20} {100} \times 1200 \\\\
+                                        &= 1200 - \dfrac {20 \times 1200} {100} \\\\
+                                        &= 1200 - \dfrac {20 \times 12 \cancel {00}} {1 \cancel {00}} \\\\
+                                        &= 1200 - 20 \times 12 \\\\
+                                        &= 1200 - 240 \\\\
+                                        &= \pounds 960
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 960$
 
 </div>
 </div>
@@ -1281,6 +1326,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='12F567E6-42DC-4EE3-A2CE-D09D970305D7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='12F567E6-42DC-4EE3-A2CE-D09D970305D7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='12F567E6-42DC-4EE3-A2CE-D09D970305D7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='12F567E6-42DC-4EE3-A2CE-D09D970305D7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='12F567E6-42DC-4EE3-A2CE-D09D970305D7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='12F567E6-42DC-4EE3-A2CE-D09D970305D7' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='12F567E6-42DC-4EE3-A2CE-D09D970305D7' id='FORM-12F567E6-42DC-4EE3-A2CE-D09D970305D7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-12F567E6-42DC-4EE3-A2CE-D09D970305D7'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -1993,7 +2069,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>66C063E5-0BFF-4B6D-A90A-98C7CE494DC1</p>
 </div>
@@ -2001,7 +2077,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2022,19 +2098,70 @@ How much change did she receive from a $\pounds 5$ note?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Cost of} \ 500 \ \text {g sugar}     &= 500 \times \dfrac {1.10} {1000} \\\\
+                                            &= \dfrac {500 \times 1.10} {1000} \\\\
+                                            &= \dfrac {550} {1000} \\\\
+                                            &= \pounds 0.55 \\\\
+\text {Cost of} \ 750 \ \text {g flour}     &= 750 \times \dfrac {1.12} {1000} \\\\
+                                            &= \dfrac {750 \times 1.12} {1000} \\\\
+                                            &= \dfrac {840} {1000} \\\\
+                                            &= \pounds 0.84
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Total cost}      &= 0.55 + 0.84 \\\\
+                        &= \pounds 1.39 \\\\
+\text {Change received} &= 5 - 1.39 \\\\
+                        &= \pounds 3.61
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds 3.61$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='66C063E5-0BFF-4B6D-A90A-98C7CE494DC1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='66C063E5-0BFF-4B6D-A90A-98C7CE494DC1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='66C063E5-0BFF-4B6D-A90A-98C7CE494DC1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='66C063E5-0BFF-4B6D-A90A-98C7CE494DC1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='66C063E5-0BFF-4B6D-A90A-98C7CE494DC1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='66C063E5-0BFF-4B6D-A90A-98C7CE494DC1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='66C063E5-0BFF-4B6D-A90A-98C7CE494DC1' id='FORM-66C063E5-0BFF-4B6D-A90A-98C7CE494DC1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-66C063E5-0BFF-4B6D-A90A-98C7CE494DC1'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2328,7 +2455,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3B49E997-8A30-4C39-B5A0-263307F6E8C8</p>
 </div>
@@ -2336,7 +2463,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2370,19 +2497,59 @@ How much will the tickets cost in total for the school party?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin {aligned}
+\text {Total cost}  &= 32 \times 14 + (4 - 3) \times 15 \\\\
+                    &= 32 \times 14 + 1 \times 15 \\\\
+                    &= 448 + 15 \\\\
+                    &= \pounds 463
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds 463$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3B49E997-8A30-4C39-B5A0-263307F6E8C8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3B49E997-8A30-4C39-B5A0-263307F6E8C8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3B49E997-8A30-4C39-B5A0-263307F6E8C8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3B49E997-8A30-4C39-B5A0-263307F6E8C8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3B49E997-8A30-4C39-B5A0-263307F6E8C8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3B49E997-8A30-4C39-B5A0-263307F6E8C8' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='3B49E997-8A30-4C39-B5A0-263307F6E8C8' id='FORM-3B49E997-8A30-4C39-B5A0-263307F6E8C8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3B49E997-8A30-4C39-B5A0-263307F6E8C8'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2490,7 +2657,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3582E0A7-36A2-493D-BAD4-D3350F372276</p>
 </div>
@@ -2498,7 +2665,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2534,14 +2701,14 @@ Mr Jenkins pays for the popcorn and the tickets with a $\pounds 50$ note.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2556,14 +2723,24 @@ How much change does he receive?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin {aligned}
+\text {Total cost}      &= 2 \times 6.50 + 2 \times 3 + 2.20 + 2 \times 1.50 \\\\
+                        &= 13 + 6 + 2.20 + 3 \\\\
+                        &= \pounds 24.20 \\\\
+\text {Change received} &= 50 - 24.20 \\\\
+                        &= \pounds 25.80
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds 25.80$
 
 </div>
 </div>
@@ -2583,14 +2760,20 @@ How much time does he have left on his parking ticket?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Time left}   &= 3 \ \text {hours} - (16 {:} 25 - 14 {:} 30) \\\\
+                    &= 3 \ \text {hours} - 1 \ \text {hours} \ 55 \ \text {minutes} \\\\
+                    &= 1 \ \text {hours} \ 5 \ \text {minutes}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$1 \ \text {hours} \ 5 \ \text {minutes}$
 
 </div>
 </div>
@@ -2599,10 +2782,41 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3582E0A7-36A2-493D-BAD4-D3350F372276' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3582E0A7-36A2-493D-BAD4-D3350F372276' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3582E0A7-36A2-493D-BAD4-D3350F372276' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3582E0A7-36A2-493D-BAD4-D3350F372276' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3582E0A7-36A2-493D-BAD4-D3350F372276' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3582E0A7-36A2-493D-BAD4-D3350F372276' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='3582E0A7-36A2-493D-BAD4-D3350F372276' id='FORM-3582E0A7-36A2-493D-BAD4-D3350F372276' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3582E0A7-36A2-493D-BAD4-D3350F372276'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FE76F540-0F3D-494E-BE73-88142A214EE0</p>
 </div>
@@ -2610,7 +2824,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:19</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2642,14 +2856,14 @@ She bought $6$ bananas, $2$ grapefruit and half a kilogram of cherries.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2664,14 +2878,26 @@ How much did her shopping cost?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total cost}  &= 2 \times \pounds 2 + 2 \times 90 \text {p} + \dfrac {1} {2} \times \pounds 4.50 \\\\
+                    &= \pounds 4 + 2 \times \pounds 0.90 + \pounds \dfrac {4.50} {2} \\\\
+                    &= 4 + 1.80 + 2.25 \\\\
+                    &= \pounds 8.05
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds 8.05$
 
 </div>
 </div>
@@ -2688,14 +2914,19 @@ How much change did she receive if she paid $\pounds 20$ note?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Change received}     &= 20 - 8.05 \\\\
+                            &= \pounds 11.95 
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds 11.95$
 
 </div>
 </div>
@@ -2704,6 +2935,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FE76F540-0F3D-494E-BE73-88142A214EE0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FE76F540-0F3D-494E-BE73-88142A214EE0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FE76F540-0F3D-494E-BE73-88142A214EE0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FE76F540-0F3D-494E-BE73-88142A214EE0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FE76F540-0F3D-494E-BE73-88142A214EE0' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FE76F540-0F3D-494E-BE73-88142A214EE0' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='FE76F540-0F3D-494E-BE73-88142A214EE0' id='FORM-FE76F540-0F3D-494E-BE73-88142A214EE0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FE76F540-0F3D-494E-BE73-88142A214EE0'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3346,7 +3608,7 @@ $45 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CFB32739-86C9-4BC9-BD3E-426B8D993135</p>
 </div>
@@ -3354,7 +3616,7 @@ $45 \text{p}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3374,24 +3636,14 @@ When a gas meter was read in October 2010, the meter reading showed $3165$ units
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -3406,24 +3658,19 @@ Work out how many units of gas were used in the $3$ months from October to Janua
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Units used}  &= 3945 - 3165 \\\\
+                    &= 780 \ \text {units}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$780 \ \text {units}$
 
 </div>
 </div>
@@ -3440,24 +3687,24 @@ The cost of the gas is $7 \text{p}$ for each unit. Also there is a fixed charge 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Total cost}      &= 780 \times 7 \text {p} + \pounds 12.50 \\\\
+                        &= 780 \times \pounds 0.07 + \pounds 12.50 \\\\
+                        &= 54.60 + 12.50 \\\\
+                        &= \pounds 67.10
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 67.10$
 
 </div>
 </div>
@@ -3474,24 +3721,23 @@ Finally, $10 \%$ of this total is then added on for tax purposes.  Work out the 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Final cost}  &= 67.10 + 10 \% \ \text {of} \ 67.10 \\\\
+                    &= 67.10 + \dfrac {10} {100} \times 67.10 \\\\
+                    &= 67.10 + \dfrac {10 \times 67.10} {100} \\\\
+                    &= 67.10 + \dfrac {671} {100} \\\\
+                    &= 67.10 + 6.71 \\\\
+                    &= \pounds 73.81
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 73.81$
 
 </div>
 </div>
@@ -3500,6 +3746,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CFB32739-86C9-4BC9-BD3E-426B8D993135' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CFB32739-86C9-4BC9-BD3E-426B8D993135' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='CFB32739-86C9-4BC9-BD3E-426B8D993135' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='CFB32739-86C9-4BC9-BD3E-426B8D993135' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='CFB32739-86C9-4BC9-BD3E-426B8D993135' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='CFB32739-86C9-4BC9-BD3E-426B8D993135' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='CFB32739-86C9-4BC9-BD3E-426B8D993135' id='FORM-CFB32739-86C9-4BC9-BD3E-426B8D993135' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CFB32739-86C9-4BC9-BD3E-426B8D993135'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3586,7 +3863,7 @@ $\pounds 1.40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B283FEE5-8695-4B69-9E3B-FAC317A0C93E</p>
 </div>
@@ -3594,7 +3871,7 @@ $\pounds 1.40$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3620,25 +3897,14 @@ At present, the company calculates that the cost of the jam is $20 \text{p}$ for
 <div class='workings'>
 <div class='working'>
 
-
-
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -3653,56 +3919,22 @@ For a small jar, containing $200 \ \text{g}$ of jam, the lid costs $10 \text{p}$
 <div class='workings'>
 <div class='working'>
 
-Let's take 
-
-Cost of the jam is $20 \text{p}$ for every $100 \text{g}$
-
-Cost of $1 \text{g} = \dfrac {20}{100}$
-
-Cost of jam 
+As per the question,
 
 $
-\begin{aligned}
-&= \text{cost of} \ 1  \ \text{g} \times \text{weight} \\\\
-&= \dfrac {20 \text{p}}{100} \times \text{weight}  \\\\
-&= \dfrac {1}{5} \times \text{weight} \\\\
-\end{aligned}
-$
-
-
-So,  $200 \text{g}$ of jam costs
-
-$
-\begin{aligned}
-&= \dfrac {1}{5} \times 200 \\\\
-&= \dfrac {1} {{\cancel{5}\raisebox{-0.9em}{1}}} \times {{\cancel{200}\raisebox{0.9em}{40}}} \\\\
-&= 40 \ \text{p} \\\\
-\end{aligned}
+\begin {aligned}
+1 \ \text {g of jam cost}   &= \dfrac {20} {100} \\\\
+                            &= 0.20 \text {p}
+\end {aligned}
 $
 
 $
-\begin{aligned}
-\text {Cost of the jar} &= j = 50 \text{p} \\\\
-\text {Cost of the lid} &= l = 10 \text{p} \\\\
-\text {Cost of \ } 200 \text{g} \ \text {jam} &= m = 40 \text{p} \\\\ 
-\end{aligned}
+\begin {aligned}
+\text {Total cost}  &= 200 \times 0.20 + 10 + 50 \\\\
+                    &= 40 + 60 \\\\
+                    &= 100 \text {p}
+\end {aligned}
 $
-
-Let's take total cost of a jar of jam as $t$
-
-$j + l + m = T$
-
-So, 
-
-$
-\begin{aligned}
-40 \text{p} + 10 \text{p} + 50 \text{p} &= T \\\\
-                           100 \text{p} &= T
-\end{aligned}
-$
-
-A jar containing $200 \text{g}$ of jam costs $100 \text{p}$
-
 
 </div>
 </div>
@@ -3726,44 +3958,20 @@ A medium jar contains $350 \ \text{g}$ of jam and the medium jar costs $60 \text
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
-
-Cost of the jam is $20 \text{p}$ for every $100 \ \text{g}$
-
-So,  $350 \ \text{g}$ of jam costs
-
+As per the question,
 
 $
-\begin{aligned}
-&= \dfrac {1}{5} \times \text{weight} \\\\
-&= \dfrac {1}{5} \times \times 350 \\\\
-&= \dfrac {1} {{\cancel{5}\raisebox{-0.9em}{1}}} \times {{\cancel{350}\raisebox{0.9em}{70}}} \\\\
-&= 70 \ \text{p} \\\\
-\end{aligned}
+\begin {aligned}
+\text {Cost of lid}     &= \pounds 1.55 - 350 \times 0.20 \text {p} - 60 \text {p} \\\\
+                        &= 155 \text {p} - 70 \text {p} - 60 \text {p} \\\\
+                        &= 155 - 70 - 60 \\\\
+                        &= 155 - 130 \\\\
+                        &= 25 \text {p}
+\end {aligned}
 $
-
-$j \ \text{(jar)} + l \ \text{(lid)} + m \ \text{(jam)} = T \ \text{(Total)}$
-
-$
-\begin{aligned}
-           j &= 60 \text{p} \\\\
-           m &= 70 \ \text{p} \\\\
-           T &= \pounds 1.55  \\\\
-           T &= 155 \ \text{p} \\\\
-\end{aligned}
-$
-
-Let's substitute
-
-$
-\begin{aligned}
-60 + l + 70 &= 155 \\\\
-    130 + l &= 155 \\\\
-          l &= 155 - 130 \\\\
-            &= 25 \text{p} \\\\
-\end{aligned}
-$
-
 
 </div>
 </div>
@@ -3787,68 +3995,39 @@ A large jar of jam contains $500 \ \text{g}$ of jam and the total cost is $\poun
 <div class='workings'>
 <div class='working'>
 
-$500 \ \text{g}$ of jam costs
+Let the cost of lid (in $\text {pence}$) $= a$
+
+Cost of jar (in $\text {pence}$) $= 4a$
+
+As per the question,
 
 $
-\begin{aligned}
-&= \dfrac {1}{5} \times \text{weight} \\\\
-&= \dfrac {1}{5} \times \times 500 \\\\
-&= \dfrac {1} {{\cancel{5}\raisebox{-0.9em}{1}}} \times {{\cancel{500}\raisebox{0.9em}{100}}} \\\\
-&= 100 \ \text{p} \\\\
-\end{aligned}
+\begin {aligned}
+500 \times 0.20 \text {p} + a + 4a      &= \pounds 3 \\\\
+100 \text {p} + 5a                      &= 300 \text {p} \\\\
+5a                                      &= 300 - 100 \\\\
+5a                                      &= 200 \\\\
+a                                       &= \dfrac {200} {5} \\\\
+a                                       &= \dfrac {5 \times 40} {5} \\\\
+a                                       &= \dfrac {\cancel {5} \times 40} {\cancel {5}} \\\\
+a                                       &= 40 \text {p}
+\end {aligned}
 $
 
-So, $m$  the Cost of jam is $100 \text{p}$
-
 $
-
-$j \ \text{(jar)} + l \ \text{(lid)} + m \ \text{(jam)} = T \ \text{(Total)}$
-
+\begin {aligned}
+\text {Cost of lid}     &= 40 \text {p} \\\\
+\text {Cost of jar}     &= 4 \times 40 \\\\
+                        &= 160 \text {p}
+\enmd {aligned}
 $
-\begin{aligned}
-           m &= 100 \ \text{p}
-           T &= \pounds 3.00  \\\\
-\text{or,} T &= 300 \ \text{p} \\\\
-           j &= (4 \times l) \text{p} \\\\
-\end{aligned}
-$
-
-Let's take Cost of lid as $l$. Let's substitute in
-
-$j \ \text{(jar)} + l \ \text{(lid)} + m \ \text{(jam)} = T \ \text{(Total)}$
-
-$
-\begin{aligned}
-      j      + l + m   &= T \\\\
-(4 \times l) + l + 100 &= 300 \\\\
-          4l + l + 100 &= 300 \\\\
-              5l + 100 &= 300 \\\\
-                    5l &= 300 - 100 \\\\
-                     l &= \dfrac {200}{5} \\\\
-                     l &= \dfrac {{\cancel{200}\raisebox{0.9em}{40}}}{{\cancel{5}\raisebox{-0.9em}{1}}} \\\\
-                     l &= 40 \ \text{p} \\\\
-\end{aligned}
-$
-
-Let's find out how much the jar cost.
-
-$
-\begin{aligned}
-           j &= 4 \times l \\\\
-           j &= 4 \times 40 \text{p} \\\\
-           j &= 160 \ \text{p} \\\\
-\end{aligned}
-$
-
-The jar costs is $160 \text{p}$
-
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$160 \ \text{p}$
+$160 \text{p}$
 
 </div>
 </div>
@@ -3865,31 +4044,33 @@ A catering jar with a lid costing $65  \text{p}$ and a jar costing $\pounds 2$ h
 <div class='workings'>
 <div class='working'>
 
-$j \ \text{(jar)} + l \ \text{(lid)} + Jam = T \ \text{(Total)}$
+Let the cost of jam (in $\text {pence}$) $= a$
+
+As per the question,
 
 $
-\begin{aligned}
-           j &= \pounds 2.00  \\\\
-           j &= 200 \text{p} \\\\
-           l &= 65 \ \text{p} \\\\
-           T &= \pounds 4.65  \\\\
-\text{or,} T &= 465 \ \text{p} \\\\
-         Jam &= \dfrac {1}{5} \times \text{weight} \\\\
-\end{aligned}
+\begin {aligned}
+65 \text {p} + \pounds 2 + a        &= \pounds 4.65 \\\\
+65 \text {p} + 200 \text {p} + a    &= 465 \text {p} \\\\
+265 + a                             &= 465 \\\\
+a                                   &= 465 - 265 \\\\
+a                                   &= 200 \text {p}
+\end {aligned}
 $
 
-Let's take weight as $m$ and substitute
+Cost of jam $= 200 \text {p}$
 
 $
-\begin{aligned}
-200 + 65 + \dfrac {1}{5} \times m &= 465 \\\\
-     265 + \dfrac {1}{5} \times m &= 465 \\\\
-           \dfrac {1}{5} \times m &= 465-265 \\\\
-           \dfrac {1}{5} \times m &= 200 \times 5 \\\\
-                                m &= 1000 \text{g} \\
-\end{aligned}
+\begin {aligned}
+\text {Weight of jam} \times 0.20 \text {p}     &= 200 \text {p} \\\\
+\text {Weight of jam}                           &= \dfrac {200} {0.20} \\\\
+                                                &= \dfrac {200 \times 100} {0.20 \times 100} \\\\
+                                                &= \dfrac {20000} {20} \\\\
+                                                &= \dfrac {2 \times 10 \times 1000} {2 \times 10} \\\\
+                                                &= \dfrac {\cancel {2} \times \cancel {10} \times 1000} {\cancel {2} \times \cancel {10}} \\\\
+                                                &= 1000 \ \text {g} 
+\end {aligned}
 $
-
 
 </div>
 </div>
@@ -3905,6 +4086,37 @@ $1000 \ \text{g}$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' id='FORM-B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B283FEE5-8695-4B69-9E3B-FAC317A0C93E'>Initial</p>
+</div>
 </div>
 </li>
 <li>

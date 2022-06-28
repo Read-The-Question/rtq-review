@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g0"
 title: "TopicPaper - Time - 5 - G0"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1059,7 +1059,7 @@ $14{:}35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C91E6035-9D47-42CB-834A-DB0B8A45E8A6</p>
 </div>
@@ -1070,7 +1070,7 @@ $14{:}35$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

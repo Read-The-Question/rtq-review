@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-oldpr"
 title: "TopicPaper - Time - 3 - OLDPR"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-27 19:37:37
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -32,8 +32,6 @@ Josh has to be at work at $8:15 \ \text{am}$. It takes him $15 \ \text{minutes}$
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -89,7 +87,7 @@ $9{:}02 \ \text{am}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>CB718008-6C5B-486B-83F4-A32A6530AAA0</p>
 </div>
@@ -100,7 +98,7 @@ $9{:}02 \ \text{am}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -116,8 +114,6 @@ My train was scheduled to leave at $17{:}40$ and to arrive at $18{:}20$. However
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question, 
 
 $
 \begin{aligned}
@@ -175,7 +171,7 @@ $18{:}27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B436492B-ADE1-4E62-B5CC-10E5C7D215FC</p>
 </div>
@@ -186,7 +182,7 @@ $18{:}27$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -203,18 +199,16 @@ How many seconds are there in $\dfrac {1} {4} \ \text{of} \ \dfrac {1} {6} \ \te
 <div class='workings'>
 <div class='working'>
 
-We know, $1$ day has $24$ hours, $1$ hour has $60$ minutes and $60$ minutes have $60$ seconds. 
+We know, $1$ day has $24$ hours, $1$ hour has $60$ minutes and $1$ minute has $60$ seconds. 
 
-$1$ day = $(24 x 60 x 60)$ seconds.
-
-As per the question,
+$1$ day = $(24 \times 60 \times 60)$ seconds.
 
 $
 \begin{aligned}
 &= \dfrac {1} {4} \ \text {of} \ \dfrac {1} {6} \ \text {of} \ \dfrac {1} {8} \ \text {of} \ 1 \ \text {day} \\\\ 
 &= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \times 60 \times 60 \\\\\
 &= \dfrac {24 \times 60 \times 60} {4 \times 6 \times 8} \\\\
-&= \dfrac {6 \times 4 \times 4 \times 15 \times 6 \times 10} {4 \times 6 \times 8} \\\\
+&= \dfrac {8 \times 3 \times 4 \times 15 \times 6 \times 10} {4 \times 6 \times 8} \\\\
 &= \dfrac {\cancel {8} \times 3 \times \cancel {4} \times 15 \times \cancel {6} \times 10} {\cancel {4} \times \cancel {6} \times \cancel {8}} \\\\
 &= 3 \times 15 \times 10 \\\\
 &= 45 \times 10 \\\\
@@ -267,7 +261,7 @@ $450 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>F541C565-A23A-42AB-A949-6DABF9981E5A</p>
 </div>
@@ -278,7 +272,7 @@ $450 \ \text {seconds}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -294,8 +288,6 @@ I start watching a film at $7:45\,pm$ and turn the television off at $9:35\,pm$.
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -351,7 +343,7 @@ $115  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
 </div>
@@ -362,7 +354,7 @@ $115  \ \text{minutes}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -404,8 +396,6 @@ For how many hours and minutes was he working?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Total Working Hours} &= \text{End time - Start time - Break} \\\\
@@ -438,8 +428,6 @@ If he is paid $\pounds 6.00$ for each hour worked, how much will he be paid for 
 </div>
 <div class='workings'>
 <div class='working'>
-
-According to the question,
 
 $
 \begin{aligned}
@@ -503,7 +491,7 @@ $\pounds 25.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
@@ -514,7 +502,7 @@ $\pounds 25.5$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -548,8 +536,6 @@ $
                          &= 33600 \ \text {times}
 \end{aligned}
 $
-
-The child's heart beat 33600 times between $8.30 \ \text {am}$ and $3.30 \ \text {pm}$.
 
 </div>
 </div>

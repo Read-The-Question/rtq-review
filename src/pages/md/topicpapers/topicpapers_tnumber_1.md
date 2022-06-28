@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-1"
 title: "TopicPaper - Number - 1"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-27 19:37:37
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>9D649605-D139-478F-BB54-746029DB4066</p>
 </div>
@@ -23,10 +23,10 @@ date: 2022-06-27 19:37:37
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -186,39 +186,30 @@ $7$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Not following the coding guidelines for simple algebra.
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' id='FORM-9D649605-D139-478F-BB54-746029DB4066' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='9D649605-D139-478F-BB54-746029DB4066' id='FORM-9D649605-D139-478F-BB54-746029DB4066' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -230,7 +221,7 @@ Not following the coding guidelines for simple algebra.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4624AA36-41A6-4B3C-B4F2-11671F5E0925</p>
 </div>
@@ -238,10 +229,10 @@ Not following the coding guidelines for simple algebra.
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -371,26 +362,26 @@ $\dfrac {4} {5}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' id='FORM-4624AA36-41A6-4B3C-B4F2-11671F5E0925' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' id='FORM-4624AA36-41A6-4B3C-B4F2-11671F5E0925' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -402,7 +393,7 @@ $\dfrac {4} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5795CBC5-BF94-4D7F-BB5B-55C2F37EC9F2</p>
 </div>
@@ -410,10 +401,10 @@ $\dfrac {4} {5}$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -575,7 +566,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>269CAEB1-ECC7-4634-9068-42EF39354F2F</p>
 </div>
@@ -583,10 +574,10 @@ $27$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -774,7 +765,7 @@ $7995$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_vg_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -950,7 +941,7 @@ $11$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_vg_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1126,7 +1117,7 @@ $0.4$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_vg_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1220,7 +1211,7 @@ CODING GUIDELINES..
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CB985892-807A-481A-863E-243A882E5ED9</p>
 </div>
@@ -1228,10 +1219,10 @@ CODING GUIDELINES..
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1371,7 +1362,7 @@ $492$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1413,8 +1404,15 @@ $94 - \ldots = 65$
 <div class='workings'>
 <div class='working'>
 
-$94 - \underline{\green
-{29}} = 65$
+Let the missing  number $= a$
+ 
+$
+\begin{aligned}
+94 - a &= 65 \\\\
+a   &= 94 - 65 \\\\
+a   &= 29 
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1560,7 +1558,7 @@ $9$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1642,7 +1640,7 @@ $91, 350$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1720,7 +1718,7 @@ $14036$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1896,7 +1894,7 @@ $8$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2048,7 +2046,7 @@ $0.2$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2226,7 +2224,7 @@ $9, 49$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2316,7 +2314,7 @@ $80$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2407,7 +2405,7 @@ $333$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2496,7 +2494,7 @@ $13$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2589,7 +2587,7 @@ $-16$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2664,7 +2662,7 @@ $8521$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2744,7 +2742,7 @@ $-43$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2909,7 +2907,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2991,7 +2989,7 @@ $13$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3044,7 +3042,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3130,7 +3128,7 @@ $11$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3185,7 +3183,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3366,7 +3364,7 @@ $50$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3531,7 +3529,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3710,7 +3708,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_vg_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3865,7 +3863,7 @@ $0.575$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3958,7 +3956,7 @@ $7$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4045,7 +4043,7 @@ $nine tenths$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4236,7 +4234,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4361,7 +4359,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4453,7 +4451,7 @@ $24$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_vg_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4547,7 +4545,7 @@ delete   add full stop. in answer key t in tenths small
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4726,7 +4724,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4806,7 +4804,7 @@ $59757$
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4929,7 +4927,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5158,7 +5156,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_vg_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

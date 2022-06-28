@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-5"
 title: "TopicPaper - Areaperimeter - 5"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1454,7 +1454,7 @@ Let's find the area of the rectangle.
 $
 \begin{aligned}
 \text {Area}            &= 25 \times 35 \\\\
-                        &= 875 \text{cm}^2
+                        &= 875 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -1463,7 +1463,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$35 \ \text{cm}$
+$875 \ \text{cm}$
 
 </div>
 </div>
@@ -3651,35 +3651,7 @@ What is the area of the shaded shape?
 <div class='workings'>
 <div class='working'>
 
-*ABBR: TODO:: Add drawing starts.*
-
-![missing image](/papers/missing_image.svg)
-
-
-*TODO:: Draw a diagram with two triangle and 1 rectangle which consist of only the shaded part of the question. Also show the calculated measurements. *
-
-*ABBR: TODO:: Add drawing ends.*
-
-
-ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
-
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text{Area of the shaded shape}     &= \text{Area of rectangle} + 2 \times \text{Area of triangle} \\\\
-                                    &= 2 \times 6 + 2 \times (\dfrac {1} {2} \times 1 \times 6) \\\\
-                                    &= 2 \times 6 + 2 \times \dfrac {6} {2} \\\\
-                                    &= 2 \times 6 + \dfrac {2 \times 6} {2} \\\\
-                                    &= 2 \times 6 + \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
-                                    &= 12 + 6 \\\\
-                                    &= 18 \ \text{cm}^2
-\end{aligned}
-$
+*TODO:: Format missing, check the diagram.*
 
 </div>
 </div>
@@ -3724,8 +3696,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of the shaded shape}     &= \text{Perimeter of rectangle} + 2 \times \text{Perimeter of triangle} \\\\
-                                    &= 
+\text{Area of the shaded shape}     &= \text{Perimeter of rectangle} + 2 \times \text{Perimeter of triangle} \\\\ 
                                     &= 2 \times 6 + 2 \times \dfrac {6} {2} \\\\
                                     &= 2 \times 6 + \dfrac {2 \times 6} {2} \\\\
                                     &= 2 \times 6 + \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
@@ -3911,7 +3882,7 @@ Calculate the area of the trapezium.
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Area of trapezium} &= \dfrac {\text{length} + \text{width}} {2} \times \text {height}$
+ABBR: $\text{Area of trapezium} = \dfrac {\text{length} + \text{width}} {2} \times \text {height}$
 
 
 As per the diagram,
@@ -4567,7 +4538,7 @@ line 1, 2, 3: Delete                                                            
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>73F88708-385D-49B6-B52A-C7C9AF1BAE57</p>
 </div>
@@ -4578,7 +4549,7 @@ line 1, 2, 3: Delete                                                            
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4629,14 +4600,27 @@ Find the area of the house.
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add the diagram with house divided into two rectangle with measurements shown for all the sides.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram, the house can be divided into two rectangles
 
 $
 \begin{aligned} 
-\text{The house can be divided into} \  2  \ \text{rectangles} &= 20 \times 7  + (20 - 8) \times (18 - 7) \\\\
-                                                               &= 20 \times 7  + 12 \times 11 \\\\
-                                                               &= 140 + 132 \\\\
-                                                               &= 272 \text{m}^2
+\text{Area of the house}    &= {Rectangle 1} + {Rectangle 2} \\\\
+                            &= 7 \times 8 + 12 \times 18 \\\\
+                            &= 56 + 216 \\\\
+                            &= 272 \ \text{m}^2
 \end{aligned}
 $
 
@@ -4648,7 +4632,7 @@ $
 </div>
 <div class='answer'>
 
-$272 \text{m}^2$
+$272 \ \text{m}^2$
 
 </div>
 </div>
@@ -4671,22 +4655,14 @@ Find the area of the garden.
 <div class='workings'>
 <div class='working'>
 
-Let's  calculate Total area of Garden and house,
+As per the diagram,
 
 $
 \begin{aligned} 
-\text{Area of Garden and house} &= 20 \times 40 \\\\
-                                &= 800 \text{m}^2
-\end{aligned}
-$
-
-Let's  calculate area of Garden,
-
-$
-\begin{aligned} 
-\text{Area(garden)} &= \text{Total area of Garden and house} - \text{Area(house)}  \\\\
-                    &= 800 - 272 \\\\
-                    &= 528 \text{m}^2
+\text{Area of the garden}           &= \text{Total Area} - \text{Area of the house} \\\\
+                                    &= 20 \times 40 - 272 \\\\
+                                    &= 800 - 272 \\\\
+                                    &= 528 \ \text{m}^2
 \end{aligned}
 $
 
@@ -4698,7 +4674,7 @@ $
 </div>
 <div class='answer'>
 
-$528 \text{m}^2$
+$528 \ \text{m}^2$
 
 </div>
 </div>
@@ -4746,7 +4722,7 @@ part A                                                                          
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8F274E8D-5AD2-4460-B3B3-A57416506B6E</p>
 </div>
@@ -4757,7 +4733,7 @@ part A                                                                          
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4791,16 +4767,26 @@ The perimeter of this outer square shape
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the side of square is 14 + 6.*
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
 As per the question,
-
-ABBR: $\text{Perimeter} = 4 \times \text{side})$
-
 
 $
 \begin{aligned}
-\text{perimeter of square} &= 4 \times (14 + 6) \\\\
-                           &= 4 \times 20 \\\\
-                           &= 80 \ \text{cm}
+\text {Side of the square}  &= 14 + 6 \\\\
+                            &= 20 \ \text{cm} \\\\
+\text {Perimeter}           &= 4 \times 20 \\\\
+                            &= 80 \ \text{cm}
+\end{aligned}
 $
 
 </div>

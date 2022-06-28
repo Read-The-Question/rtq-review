@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR - PRCC"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -789,6 +789,135 @@ rtq_abbr_katex_formula_perimeter_rectangle
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-D62B63A1-CA82-4AA9-B4FE-290BB7B57B95'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>rag_na_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two rectangles ABCD and PQRS are shown below:
+
+![missing image](/papers/missing_image.svg)
+
+
+$AD = $3 \ \text{cm}$$ 
+
+$AB = $5 \ \text{cm}$$
+
+$PQ = $2 \ \text{cm}$$
+
+$PS = $2 \ \text{cm}$$
+
+$BR = $1 \ \text{cm}$$
+
+Calculate the shaded area.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
+                                    &= AB \times AD - QB \times QP \\\\
+                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
+                                    &= 5 \times 3 - (2 - 1) \times 2 \\\\
+                                    &= 5 \times 3 - 1 \times 2 \\\\
+                                    &= 15 - 2 \\\\
+                                    &= 13 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Area = formula...
+
+
+
+As per the question, 
+
+
+
+Shaded Area = Area of ABCD - Area of rectangle inside ABCD (there is no T as you wrote)
+
+= AB x AD - QB x QP
+
+= AB x AD - (PS - BR) x QP
+
+= substitute. and solve till end.
+
+
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' id='FORM-0ED1A149-A02B-476B-8274-BEAC2764D44B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0ED1A149-A02B-476B-8274-BEAC2764D44B'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-oldpr"
 title: "TopicPaper - Number - 11 - OLDPR"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-27 19:37:37
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -182,7 +182,7 @@ $15, -7$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -351,7 +351,7 @@ Refer to the corrections done in similar question in previous paper.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -432,7 +432,7 @@ out of katex and in wokings km2...and in blue answer...
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -512,7 +512,7 @@ text only not in katex
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -724,7 +724,7 @@ PArt c: Delete the leftmost & from the whole array. that is why the alignment is
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -813,7 +813,7 @@ no array.. refer coding rules
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -901,7 +901,7 @@ direct answer
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -993,7 +993,7 @@ katex error
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

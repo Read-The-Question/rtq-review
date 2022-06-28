@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-oldpr"
 title: "TopicPaper - Time - 5 - OLDPR"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2ECD1434-C766-49F8-BD0F-76B2F1255AD9</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-27 19:37:37
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -148,7 +148,7 @@ $17 {:} 10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>0EFEAB67-5E19-4D70-9808-049CC51102F6</p>
 </div>
@@ -159,7 +159,7 @@ $17 {:} 10$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -181,9 +181,8 @@ At what time does the concert end?
 <div class='working'>
 
 $
-\begin {aligned}
-\text {End time of concert}  &= \text {Start time of concert} + (\text {Duration of concert} + \text {Interval}) \\\\
-                             &= 2 {:} 45 \ \text {p.m.} + (2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes}) \\\\
+\begin {aligned} 
+\text {End time of concert}  &= 2 {:} 45 \ \text {p.m.} + (2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes}) \\\\
                              &= 2 {:} 45 \ \text {p.m.} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
                              &= 5 {:} 33 \ \text {p.m.}
 \end {aligned}
@@ -234,7 +233,7 @@ $5 {:} 33 \ \text {p.m.}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>43446268-ADB0-4C0A-8C8B-BD6F377D2D08</p>
 </div>
@@ -245,7 +244,7 @@ $5 {:} 33 \ \text {p.m.}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -265,9 +264,8 @@ At what time did Georgie reach school?
 <div class='working'>
 
 $
-\begin {aligned}
-\text {Time Georgie reach school}  &= \text {Time she left home} + \text {Time taken to reach school} \\\\
-                                   &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
+\begin {aligned}  
+\text {Time Georgie reach school}  &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
                                    &= 7 {:} 55 + 5 + 40 \\\\
                                    &= 8 {:} 00 + 40 \\\\
                                    &= 8 {:} 40 \ \text {a.m.}

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-g0"
 title: "TopicPaper - Number - 4 - G0"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-27 19:37:37
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -97,7 +97,7 @@ $7.25$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -175,7 +175,7 @@ $500$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -256,7 +256,7 @@ $29$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -342,7 +342,7 @@ $\dfrac {1} {5}$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -420,7 +420,7 @@ $9987$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -498,7 +498,7 @@ $60$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -579,7 +579,7 @@ $41.36$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -657,7 +657,7 @@ $9870$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -737,7 +737,7 @@ $323.27$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -815,7 +815,7 @@ $1237$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:25</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -896,7 +896,7 @@ $355.36$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:27</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -979,7 +979,7 @@ $\dfrac {1} {10}$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:34</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1057,7 +1057,7 @@ $17$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1135,7 +1135,7 @@ $0.2$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:22</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1216,7 +1216,7 @@ $31.02$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1298,7 +1298,7 @@ $\dfrac {1} {15}$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1376,7 +1376,7 @@ $9760$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1451,7 +1451,7 @@ $2569$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1533,7 +1533,7 @@ $80$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1611,7 +1611,7 @@ $0.7$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1694,7 +1694,7 @@ $3$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:25</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1780,7 +1780,7 @@ $\text {d}$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:31</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1861,7 +1861,7 @@ $\text {C}$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:32</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1939,7 +1939,7 @@ $76.60$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:33</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2024,7 +2024,7 @@ $30.282$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2111,7 +2111,7 @@ $1.5$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2242,7 +2242,7 @@ $1610.344$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2383,7 +2383,7 @@ $12.5 \%$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2507,7 +2507,7 @@ $8890$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2589,7 +2589,7 @@ $70$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2684,7 +2684,7 @@ $3 - (7 - 4)$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2824,7 +2824,7 @@ $0.7$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2908,7 +2908,7 @@ $48$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3050,7 +3050,7 @@ $0.16$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3140,7 +3140,7 @@ $\dfrac {15} {26}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_vg_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

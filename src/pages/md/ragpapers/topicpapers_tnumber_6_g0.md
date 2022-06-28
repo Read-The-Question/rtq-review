@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-g0"
 title: "TopicPaper - Number - 6 - G0"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B53F6E2C-44BB-4B92-BA28-196E7675F060</p>
 </div>
@@ -13,10 +13,10 @@ date: 2022-06-27 19:37:37
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -39,8 +39,6 @@ $
 &= 9886543
 \end{aligned}
 $
-
-The number that is ten thousand more than $9876543$ is $= 9886543$.
 
 </div>
 </div>
@@ -87,7 +85,7 @@ $9886543$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD</p>
 </div>
@@ -95,10 +93,10 @@ $9886543$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -166,7 +164,7 @@ $\text {ten}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A581D7B4-0D25-4FD6-8005-FCECDBB5610D</p>
 </div>
@@ -174,10 +172,10 @@ $\text {ten}$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -220,9 +218,9 @@ $
 \begin{aligned}
 &= 0.32 \\\\
 &= \dfrac {32} {100} \\\\
-&= \dfrac {16 \times 2} {25 \times 2} \\\\
-&= \dfrac {16 \times \cancel {2}} {25 \times \cancel {2}} \\\\
-&= \dfrac {16} {25}
+&= \dfrac {16 \times 2} {50 \times 2} \\\\
+&= \dfrac {16 \times \cancel {2}} {50 \times \cancel {2}} \\\\
+&= \dfrac {16} {50}
 \end{aligned}
 $
 
@@ -231,7 +229,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {16} {25}$
+$\dfrac {16} {50}$
 
 </div>
 </div>
@@ -303,7 +301,7 @@ $0.45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>329E7FE5-9B8D-4D16-8082-F798504B6844</p>
 </div>
@@ -311,10 +309,10 @@ $0.45$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -386,7 +384,7 @@ $0.06$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E5D37E54-20E2-4DB6-83F2-B10511CE4323</p>
 </div>
@@ -394,10 +392,10 @@ $0.06$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:36</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -426,7 +424,7 @@ First find the difference of the squares of both numbers.
 
 $
 \begin{aligned}
-&= 6 ^ 2 - 2 ^ 2 \\\\
+&= 6 ^ {2} - 2 ^ {2} \\\\
 &= 36 - 4 \\\\
 &= 32
 \end{aligned}
@@ -447,7 +445,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$32$
 
 </div>
 </div>
@@ -467,7 +465,7 @@ As we know,
 
 $
 \begin{aligned}
-&= 83 ^ 2 - 17 ^ 2 \\\\
+&= 83 ^ {2} - 17 ^ {2} \\\\
 &= (83 + 17) \times (83 - 17) \\\\
 &= 100 \times 56 \\\\
 &= 5600
@@ -522,7 +520,7 @@ $5600$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8200185D-4BE4-42B3-AAAD-686D2A3D5E16</p>
 </div>
@@ -530,10 +528,10 @@ $5600$
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -600,7 +598,7 @@ $2020020$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7CD755EA-ADD6-4379-9D5F-1416133D1E65</p>
 </div>
@@ -608,10 +606,10 @@ $2020020$
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -678,7 +676,7 @@ $2, 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>99B747C3-A340-4D5D-B8DF-E82C580210CB</p>
 </div>
@@ -686,10 +684,10 @@ $2, 3$
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:37</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -764,7 +762,7 @@ $0.005$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA</p>
 </div>
@@ -772,10 +770,10 @@ $0.005$
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -846,7 +844,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D342C8C4-AD2E-46B5-B114-061F539211E6</p>
 </div>
@@ -854,10 +852,10 @@ $2$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -898,12 +896,10 @@ $12 \times 8$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-            &   1   &   2 \\
-\times      &       &   8 \\
-\hline
-            &   9   &   6
-\end{array}
+\begin{aligned}
+&= 12 \times 8 \\\\
+&= 96
+\end{aligned}
 $
 
 </div>
@@ -1042,7 +1038,7 @@ $87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>97CC5F1C-EF48-48B4-ABDF-CCA73694AD3A</p>
 </div>
@@ -1050,10 +1046,10 @@ $87$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1092,6 +1088,8 @@ $2 \times 3 - 4$
 <div class='workings'>
 <div class='working'>
 
+Using BIDMAS,
+
 $
 \begin{aligned}
 &= 2 \times 3 - 4 \\\\
@@ -1122,12 +1120,15 @@ $12 + 8 \div 4$
 <div class='workings'>
 <div class='working'>
 
+Using BIDMAS,
+
 $
 \begin{aligned}
 &= 12 + 8 \div 4 \\\\
 &= 12 + \dfrac {8} {4} \\\\
 &= 12 + \dfrac {4 \times 2} {4} \\\\
 &= 12 + \dfrac {\cancel{4} \times 2} {\cancel{4}} \\\\
+&= 12 + 2 \\\\
 &= 14
 \end{aligned}
 $
@@ -1153,6 +1154,8 @@ $2^2 \times 3 - 4$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Using BIDMAS,
 
 $
 \begin{aligned}
@@ -1184,6 +1187,8 @@ $14 - 6 \times 2$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Using BIDMAS,
 
 $
 \begin{aligned}
@@ -1241,7 +1246,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E139F769-4D91-44F2-B824-EAE49083E0C7</p>
 </div>
@@ -1249,10 +1254,10 @@ $2$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1348,12 +1353,10 @@ the product of $2$ and $11$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-            &   1   &   1 \\
-\times      &       &   2 \\
-\hline
-            &   2   &   2
-\end{array}
+\begin{aligned}
+&= 2 \times 11 \\\\
+&= 22
+\end{aligned}
 $
 
 </div>
@@ -1534,7 +1537,7 @@ $-2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F9E845A-08BB-4FC9-9F77-A071F6D82B70</p>
 </div>
@@ -1542,10 +1545,10 @@ $-2$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1616,7 +1619,7 @@ $23, 5, 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1F427D81-DE25-41F6-9D5D-46C89FD1A0C2</p>
 </div>
@@ -1624,10 +1627,10 @@ $23, 5, 2$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1693,14 +1696,14 @@ Write down the number eleven and nine thousandths as a decimal.
 <div class='workings'>
 <div class='working'>
 
-$11.0009$
+$11.009$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11.0009$
+$11.009$
 
 </div>
 </div>
@@ -1743,7 +1746,7 @@ $11.0009$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B6898FBA-C7F0-45EC-8310-05AC36882A69</p>
 </div>
@@ -1751,10 +1754,10 @@ $11.0009$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1965,7 +1968,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1EA0EDB9-277D-4979-AC2C-B24FE106F900</p>
 </div>
@@ -1973,10 +1976,10 @@ $6$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2170,7 +2173,7 @@ $2.79$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>341C6D6E-426F-4223-92E2-ADD21BD4663A</p>
 </div>
@@ -2178,10 +2181,10 @@ $2.79$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2220,14 +2223,7 @@ $289 + 134$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{array}{cccccccccccccc}
-          &   2   &   8   &   9 \\
-{}+       &   1   &   3   &   4 \\
-\hline
-          &   4   &   2   &   3
-\end{array}
-$
+$423$
 
 </div>
 </div>
@@ -2251,14 +2247,7 @@ $4716 - 1825$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{array}{cccccccccccccc}
-    &   4   &   7   &   1   &   6 \\
-{}- &   1   &   8   &   2   &   5 \\
-\hline
-    &   2   &   8   &   9   &   1
-\end{array}
-$
+$2891$
 
 </div>
 </div>
@@ -2282,17 +2271,7 @@ $35 \times 29$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{array}{cccccccccccccc}
-        &        &   3   &     5 \\
-        & \times &   2   &     9 \\
-\hline
-        &   3    &   1   &     5 \\
-        &   7    &   0   &     0 \\
-\hline
-   1    &   0    &   1   &     5
-\end{array}
-$
+$1015$
 
 </div>
 </div>
@@ -2316,13 +2295,7 @@ $52.7 + 8.54 - 5.3$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-&= 52.7 + 8.54 - 5.3 \\\\
-&= 61.24 - 5.3 \\\
-&= 55.94
-\end {aligned}
-$
+$55.94$
 
 </div>
 </div>
@@ -2372,7 +2345,7 @@ $55.94$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>38EB0DA0-ADB1-4740-9398-0E85F4873BB0</p>
 </div>
@@ -2380,10 +2353,10 @@ $55.94$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2422,12 +2395,7 @@ $571 \times 100$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-&= 571 \times 100 \\\\
-&= 57100
-\end {aligned}
-$
+$57100$
 
 </div>
 </div>
@@ -2451,12 +2419,7 @@ $3.61 \times 10$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-&= 3.61 \times 10 \\\\
-&= 36.10
-\end {aligned}
-$
+$36.10$
 
 </div>
 </div>
@@ -2480,12 +2443,7 @@ $27 \div 1000$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-&= \dfrac {27} {1000} \\\\
-&= 0.027
-\end {aligned}
-$
+$0.027$
 
 </div>
 </div>
@@ -2535,7 +2493,7 @@ $0.027$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6300C588-583C-4C84-9C83-3044A953D99A</p>
 </div>
@@ -2543,10 +2501,10 @@ $0.027$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2675,7 +2633,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DD2AC910-EC27-492D-8DBC-85AD496685A6</p>
 </div>
@@ -2683,10 +2641,10 @@ $3$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2902,7 +2860,7 @@ $30$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2988,7 +2946,7 @@ $17.01$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3075,7 +3033,7 @@ $1349$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3181,7 +3139,7 @@ $24 \div 3 + 7$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3438,7 +3396,7 @@ $7$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3518,7 +3476,7 @@ $5003$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3598,7 +3556,7 @@ $\text {Ten thousand two hundred and three}$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3680,7 +3638,7 @@ $1.03$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3768,7 +3726,7 @@ $120$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4002,7 +3960,7 @@ $\pounds 3.0825$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4261,7 +4219,7 @@ $342$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4343,7 +4301,7 @@ $1102$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

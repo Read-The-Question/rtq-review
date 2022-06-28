@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -793,7 +793,7 @@ rtq_abbr_katex_formula_perimeter_rectangle
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
 </div>
@@ -804,7 +804,7 @@ rtq_abbr_katex_formula_perimeter_rectangle
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -839,19 +839,20 @@ Calculate the shaded area.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+As per the diagram,
 
 $
 \begin{aligned}
 \text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
                                     &= AB \times AD - QB \times QP \\\\
                                     &= AB \times AD - ((PS - BR) \times QP) \\\\
-                                    &= 5 \times 3 - 2 \times (2 - 1) \\\\
-                                    &= 15 - 2 \times 1 \\\\
+                                    &= 5 \times 3 - (2 - 1) \times 2 \\\\
+                                    &= 5 \times 3 - 1 \times 2 \\\\
                                     &= 15 - 2 \\\\
-                                    &= 13 \ \text{cm}^2 
+                                    &= 13 \ \text{cm}^2
 \end{aligned}
 $
 

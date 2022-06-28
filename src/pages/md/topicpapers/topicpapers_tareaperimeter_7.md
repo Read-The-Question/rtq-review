@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-7"
 title: "TopicPaper - Areaperimeter - 7"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -305,7 +305,7 @@ $\text{C and F}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FA03A69D-81AC-4742-B650-EB2CE7E8AD6E</p>
 </div>
@@ -316,7 +316,7 @@ $\text{C and F}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -343,19 +343,24 @@ What area of red card is showing?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Area of the red card} &= \text{Area of left and right border} + \text{Area of top and bottom border} \\\\
-                            &= 2 \times \text{Area of left border} + 2 \times \text{Area of top border} \\\\
-                            &= 2 \times (15 - 3 - 3) \times 3 + 2 \times 12 \times 3 \\\\
-                            &= 6 \times (15 - 6) + 24 \times 3 \\\\
-                            &= 6 \times 9 + 72 \\\\
-                            &= 54 + 72 \\\\
-                            &= 126 \ \text{cm} ^ 2
-\end{aligned} 
+\text {Length of the card}      &= 15 + 2 \times 3 \\\\
+                                &= 15 + 6 \\\\
+                                &= 21 \ \text {cm} \\\\
+\text {Width of the card}       &= 12 + 2 \times 3 \\\\
+                                &= 12 + 6 \\\\
+                                &= 18 \ \text {cm} \\\\
+\text{Area of the red card}     &= \text{Total area} - \text{Area of photograph} \\\\
+                                &= 21 \times 18 - 15 \times 12 \\\\
+                                &= 378 - 180 \\\\
+                                &= 198 \ \text{cm} ^ 2
+\end{aligned}
 $
 
 </div>
@@ -363,7 +368,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$126 \ \text{cm} ^ 2$
+$198 \ \text{cm} ^ 2$
 
 </div>
 </div>
@@ -2458,7 +2463,7 @@ $\dfrac {1} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
 </div>
@@ -2469,7 +2474,7 @@ $\dfrac {1} {9}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2499,6 +2504,11 @@ The wall measurement is given in feet while the tile measurement is given in inc
 
 Let's convert the wall measurements into inches.
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the question,
+
 $
 \begin{aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
@@ -2511,8 +2521,6 @@ $
                         &= 135
 \end{aligned}
 $
-
-Number of tiles $= 135$
 
 </div>
 </div>
@@ -2559,7 +2567,7 @@ $135$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ED934AB6-A9F9-4C96-9B8A-9A4E1CBE92CC</p>
 </div>
@@ -2570,7 +2578,7 @@ $135$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2595,21 +2603,22 @@ paints. What area is covered with paint?
 <div class='workings'>
 <div class='working'>
 
-As per the question, 
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-Let's count all the faces of the cube on the exterior. 
 
-The count of exterior faces is $34$. Check carefully and see that you arrive at the same count.
+As per the diagram, 
+
+*TODO: add the explanation to count the number of faces in the diagram.*
 
 $
 \begin{aligned}
-1 \text{ face}      &=  1 \times 1 \ \text{cm}^2  \\\\
-34 \text{ faces}    &=  34 \times 1 \ \text{cm}^2  \\\\
-                    &=  34 \ \text{cm}^2
+\text {Area of 1 face}      &=  1 \times 1 \ \text{cm}^2  \\\\
+\text {Area of 34 faces}    &=  34 \times 1 \\\\
+                            &=  34 \ \text{cm}^2
 \end{aligned}
 $
 
-Area covered $= 34 \ \text{cm}^2$
+Area covered with paint $= 34 \ \text{cm}^2$
 
 </div>
 </div>
@@ -2720,7 +2729,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>392BD257-E69F-4C32-9522-BF8501F826C5</p>
 </div>
@@ -2728,10 +2737,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2793,41 +2802,10 @@ $30 \ \text{cm}^2$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='392BD257-E69F-4C32-9522-BF8501F826C5' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='392BD257-E69F-4C32-9522-BF8501F826C5' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='392BD257-E69F-4C32-9522-BF8501F826C5' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='392BD257-E69F-4C32-9522-BF8501F826C5' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='392BD257-E69F-4C32-9522-BF8501F826C5' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='392BD257-E69F-4C32-9522-BF8501F826C5' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='392BD257-E69F-4C32-9522-BF8501F826C5' id='FORM-392BD257-E69F-4C32-9522-BF8501F826C5' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-392BD257-E69F-4C32-9522-BF8501F826C5'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E</p>
 </div>
@@ -2838,7 +2816,7 @@ $30 \ \text{cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2860,19 +2838,19 @@ Work out the length of the perimeter of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-As per the question, 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
 
 Let the width of the rectangle in ($\text{cm}$) $= a$
 
-Then, as per the question, the length of the rectangle in ($\text{cm}$) $= a +1$
+Length of the rectangle in ($\text{cm}$) $= a +1$
 
-$\text{Area} = \text{length} \times \text{width}$
-
-Equating dimensions to the area, we get
+As per the question, 
 
 $a \times (a + 1) = 72$
-
-This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
 
 *Note: ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
@@ -2881,8 +2859,12 @@ $
 \begin{aligned}
 a \times (a + 1)    &= 72 \\\\
 8 \times (8 + 1)    &= 72 \\\\
-8 \times 9          &= 72  \\\\
-a                   &= 8  \ \text{cm}
+8 \times 9          &= 72 \\\\
+a                   &= 8 \ \text{cm} \\\\
+\text {Width}       &= 8 \ \text{cm} \\\\
+\text {Length}      &= a + 1 \\\\
+                    &= 9 + 1 \\\\
+                    &= 10 \ \text{cm}
 \end{aligned}
 $
 
@@ -2890,9 +2872,7 @@ Let's find the perimeter of the rectangle.
 
 $
 \begin{aligned}
-\text{Perimeter}    &= 2 \times (\text{length} + \text{width}) \\\\
-                    &= 2 \times (a + a + 1) \\\\
-                    &= 2 \times (8 + 8 + 1) \\\\
+\text{Perimeter}    &= 2 \times (8 + 9) \\\\
                     &= 2 \times 17 \\\\
                     &= 34 \ \text{cm}
 \end{aligned}
@@ -2943,7 +2923,7 @@ $34 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B3120C19-2C89-411F-90CE-9EA04D6E4598</p>
 </div>
@@ -2954,7 +2934,7 @@ $34 \ \text{cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3039,7 +3019,7 @@ $48 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
 </div>
@@ -3050,7 +3030,7 @@ $48 \ \text{cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3139,16 +3119,27 @@ Find the area of this letter $F$.
 <div class='workings'>
 <div class='working'>
 
-"F" is an irregular shape. However, it can be broken up into 3 regular rectangles.
+*ABBR: TODO:: Add drawing starts.*
 
-Area of a rectangle $= \text {length} \times \text {width}$
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the given diagram divided into 3 rectangles with missing sides calculated.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the question, the shape can be divided into three rectangles
 
 $
 \begin{aligned}
-\text {Area} &= \text {area of left rectangle} + \text {area of middle rectangle} + \text {area of top rectangle} \\\\
-             &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
-             &= 26 + 4 + 8 \\\\
-             &= 38 \ \text {cm} ^ 2
+\text {Total Area}      &= \text {Rectangle 1} + \text {Rectangle 2} + \text {Rectangle 3} \\\\
+                        &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
+                        &= 26 + 4 + 8 \\\\
+                        &= 38 \ \text {cm} ^ 2
 \end{aligned}
 $
 
@@ -3578,7 +3569,7 @@ Ratio of Rurns and Diameters is smaller
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
 </div>
@@ -3589,7 +3580,7 @@ Ratio of Rurns and Diameters is smaller
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3611,43 +3602,35 @@ is $32 \ \text{cm}$.  What is the area of the rectangle?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
 Let the width of the rectangle (in $\text{cm}$) $= a$
 
-Then as per the question,
+Length of the rectangle $= a + 4$
 
-Length $= a + 4$
-
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
-
-Equating the perimeter to the length and width we get,
+As per the question,
 
 $
 \begin{aligned}
-2 \times (a + 4 + a)      &= 32 \\\\
+2 \times (a + (a + 4))    &= 32 \\\\
 2 \times (2a + 4)         &= 32 \\\\
 4a + 8                    &= 32 \\\\
-4a                        &= 32 - 8\\\\
-4a                        &= 24\\\\
+4a                        &= 32 - 8 \\\\
+4a                        &= 24 \\\\
 a                         &= \dfrac {24} {4} \\\\
-a                         &= 6  \ \text{cm}
-\end{aligned}
-$
-
-$\text{Width} = 6 \ \text{cm}$
-
-$
-\begin{aligned}
-\text{Length}       &= a + 4 \\\\
-                    &= 6 + 4 \\\\
-                    &= 10 \ \text{cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Area}         &= \text{length} \times \text{width} \\\\
-                    &= 10 \times 6 \\\\
-                    &= 60 \ \text{cm}^{2}
+a                         &= \dfrac {4 \times 6} {4} \\\\
+a                         &= \dfrac {\cancel {4} \times 6} {\cancel {4}} \\\\
+a                         &= 6 \ \text{cm} \\\\
+\text{Width}              &= 6 \ \text{cm} \\\\
+\text{Length}             &= a + 4 \\\\
+                          &= 6 + 4 \\\\
+                          &= 10 \ \text{cm} \\\\
+\text{Area}               &= 10 \times 6 \\\\
+                          &= 60 \ \text{cm}^{2}
 \end{aligned}
 $
 
@@ -3976,7 +3959,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>99D0FFC6-A645-4175-8EA6-1E27EC96521C</p>
 </div>
@@ -3987,7 +3970,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4010,13 +3993,14 @@ In the following diagram the two shaded rectangles have equal areas. What is the
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
 Let the length of the shaded left bottom rectangle (in $\text{cm}$) $= a$
 
-Then, as per the diagram, the length of the shaded right top rectangle (in $\text{cm}$) $= 14 - a$
+Length of the shaded right top rectangle (in $\text{cm}$) $= 14 - a$
 
-As per the question, the area of both the rectangles are same.
-
-Putting this into an equation, we get
+As per the question,
 
 $
 \begin{aligned}
@@ -4025,13 +4009,15 @@ $
 3a + 4a     &= 56 \\\\
 7a          &= 56 \\\\
 a           &= \dfrac {56} {7} \\\\
+a           &= \dfrac {7 \times 8} {7} \\\\
+a           &= \dfrac {\cancel {7} \times 8} {\cancel{7}} \\\\
 a           &= 8 \ \text{cm}
 \end {aligned}
 $
 
 $
 \begin{aligned}
-\text{Total shaded area}    &= 2 (3 \times 8) \\\\
+\text{Total shaded area}    &= 2 \times (3 \times 8) \\\\
                             &= 2 \times 24 \\\\
                             &= 48 \ \text{cm}^2
 \end {aligned}
@@ -4082,7 +4068,7 @@ $48 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
 </div>
@@ -4093,7 +4079,7 @@ $48 \ \text{cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4117,30 +4103,23 @@ What is the height, in metres, of the hall?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area} = \text{length} \times \text{width}$
+
+
 Let the length of the school hall (in m) $= l$
 
 Let the width of the school hall (in m) $= w$
 
 Let the height of the school hall (in m) $= h$
 
-$\text {Area} = \text {length} \times \text {width}$
-
 As per the question,
 
 $
 \begin{aligned}
-l \times w   &= 200 \\\\
-l \times h   &= 150 \\\\
-l            &= \dfrac {150} {h} \\\\
-w \times h   &= 48 \\\\
-w            &= \dfrac{48}{h}
-\end{aligned}
-$
-
-Substituting $l$ and $w$ in the first equation in terms of $h$, we get
-
-$
-\begin{aligned}
+l \times h                              &= 150 \\\\
+l                                       &= \dfrac {150} {h} \\\\
+w \times h                              &= 48 \\\\
+w                                       &= \dfrac{48}{h} \\\\
 l \times w                              &= 200 \\\\
 \dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
 \dfrac {150 \times 48} {h^2}            &= 200 \\\\
@@ -4520,13 +4499,16 @@ In the picture below is the net of a cube. What would be the total surface area 
 <div class='workings'>
 <div class='working'>
 
-Let the side of the cube (in $\text{cm}$) $= a$.
+ABBR: $\text{Surface area of cube} = 6 \times \text{side} \times \text{side}$
+
+
+Let the side of the cube (in $\text{cm}$) $= a$
 
 As per the diagram,
 
 $
 \begin{aligned}
-3a      &= 15 \ \text{cm} \\\\
+3a      &= 15 \\\\
 a       &= \dfrac {15} {3} \\\\
 a       &= 5 \ \text{cm}
 \end{aligned}
@@ -4534,7 +4516,7 @@ $
 
 $
 \begin{aligned}
-\text{Surface area}  &= 6a^{2} \\\\
+\text{Surface area}  &= 6 \times a \times a \\\\
                      &= 6 \times 5 \times 5 \\\\
                      &= 150 \ \text{cm}^{2}
 \end{aligned}
@@ -4585,7 +4567,7 @@ $150 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
 </div>
@@ -4596,7 +4578,7 @@ $150 \ \text {cm}^2$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4631,19 +4613,20 @@ Calculate the shaded area.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+As per the diagram,
 
 $
 \begin{aligned}
 \text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
                                     &= AB \times AD - QB \times QP \\\\
                                     &= AB \times AD - ((PS - BR) \times QP) \\\\
-                                    &= 5 \times 3 - 2 \times (2 - 1) \\\\
-                                    &= 15 - 2 \times 1 \\\\
+                                    &= 5 \times 3 - (2 - 1) \times 2 \\\\
+                                    &= 5 \times 3 - 1 \times 2 \\\\
                                     &= 15 - 2 \\\\
-                                    &= 13 \ \text{cm}^2 
+                                    &= 13 \ \text{cm}^2
 \end{aligned}
 $
 

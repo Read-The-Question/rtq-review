@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-oldpr"
 title: "TopicPaper - Time - 4 - OLDPR"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-27 19:37:37
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -56,8 +56,6 @@ Using the $24 \ \text{hour}$ clock, write the time when the ferry left Dover.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Time left}    &= 07:45 + 17 \ \text{minutes}\\
@@ -87,8 +85,6 @@ take?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned} 
@@ -121,8 +117,6 @@ How many minutes late did the ferry arrive in Calais?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -181,7 +175,7 @@ $11 \ \text{ mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
@@ -192,7 +186,7 @@ $11 \ \text{ mins}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -231,8 +225,6 @@ She starts the swimming stage at $12:45$ pm. If she takes $79\,minutes$ to compl
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per question'
 
 $
 \begin{aligned}
@@ -353,7 +345,7 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>19C4B959-6C02-4D22-B36F-6E0A58FE85F7</p>
 </div>
@@ -364,7 +356,7 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -387,8 +379,6 @@ What time do I get to school?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}

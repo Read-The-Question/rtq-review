@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR - PRCC"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -959,7 +959,7 @@ Let's find the area of the rectangle.
 $
 \begin{aligned}
 \text {Area}            &= 25 \times 35 \\\\
-                        &= 875 \text{cm}^2
+                        &= 875 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -968,7 +968,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$35 \ \text{cm}$
+$875 \ \text{cm}$
 
 </div>
 </div>
@@ -2492,6 +2492,310 @@ line 1, 2, 3: Delete                                                            
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>73F88708-385D-49B6-B52A-C7C9AF1BAE57</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:23</p>
+</div>
+<div class='rag'>
+<p>rag_na_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This is a plan of a house and its garden:
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the area of the house.
+
+- $416 \ \text{m}^2$
+- $196 \ \text{m}^2$
+- $272 \ \text{m}^2$
+- $360 \ \text{m}^2$
+- $320 \ \text{m}^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add the diagram with house divided into two rectangle with measurements shown for all the sides.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram, the house can be divided into two rectangles
+
+$
+\begin{aligned} 
+\text{Area of the house}    &= {Rectangle 1} + {Rectangle 2} \\\\
+                            &= 7 \times 8 + 12 \times 18 \\\\
+                            &= 56 + 216 \\\\
+                            &= 272 \ \text{m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$272 \ \text{m}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the area of the garden.
+
+- $384  \ \text{m}^2$
+- $528  \ \text{m}^2$
+- $480  \ \text{m}^2$
+- $604  \ \text{m}^2$
+- $440  \ \text{m}^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin{aligned} 
+\text{Area of the garden}           &= \text{Total Area} - \text{Area of the house} \\\\
+                                    &= 20 \times 40 - 272 \\\\
+                                    &= 800 - 272 \\\\
+                                    &= 528 \ \text{m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$528 \ \text{m}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+part A                                                                                                                                                                                                                                line 1: change: As per the diagram,                                                                                                                                                                                                                                add step 1:  \text{The house can be divided into} \  2  \ \text{rectangles} &= 20 \times 7  + (20 - 8) \times (18 - 7) \\                                                      your present step 1 will be step 2 now.                                                                                                                                                                             remove space in End answer & Final answer                   272 \ \text{m}^2                                                                                                                      align on &=       (see slack)                                                                                                                                                                                                      .                                                                                                                                                                                                                                  Part B                                                                                                                                                                                                                           use katex 2: Area of garden                                                                                                                                                                                            Add step 1:                                                                                                                                                                                                        {Area(garden)} = {Total area(house & garden)} - {Area(house)}                                                                                                                                     solve accordingly                                                                                                                                                                      
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='73F88708-385D-49B6-B52A-C7C9AF1BAE57' id='FORM-73F88708-385D-49B6-B52A-C7C9AF1BAE57' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-73F88708-385D-49B6-B52A-C7C9AF1BAE57'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>8F274E8D-5AD2-4460-B3B3-A57416506B6E</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:13</p>
+</div>
+<div class='rag'>
+<p>rag_na_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four rectangles each of length $14 \ \text{cm}$ and width $6 \ \text{cm}$ are arranged 
+to form the square shape shown below (the diagram is not drawn to scale).
+
+![missing image](/papers/missing_image.svg)
+
+
+Find:
+
+The perimeter of this outer square shape
+
+- $90 \ \text{cm}$
+- $27 \ \text{cm}$
+- $80 \ \text{cm}$
+- $20 \ \text{cm}$
+- $40 \ \text{cm}$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the side of square is 14 + 6.*
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Side of the square}  &= 14 + 6 \\\\
+                            &= 20 \ \text{cm} \\\\
+\text {Perimeter}           &= 4 \times 20 \\\\
+                            &= 80 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$80 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+align on    &=        (see slack)                                                                                                                                                                                                                                   End answer:  change:  80 \ \text{cm}^2
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8F274E8D-5AD2-4460-B3B3-A57416506B6E' id='FORM-8F274E8D-5AD2-4460-B3B3-A57416506B6E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8F274E8D-5AD2-4460-B3B3-A57416506B6E'>Initial</p>
 </div>
 </div>
 </li>

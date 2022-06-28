@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g0-prcc"
 title: "TopicPaper - Time - 3 - G0 - PRCC"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -851,6 +851,88 @@ $36 \ \text{minutes}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-0F642196-79F1-4CFA-BF49-1BD4515A47BD'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>219060A7-EC1A-4ED0-B135-50542C15C7B7</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:21</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Antony is making some cupcakes. It takes him $20 \ \text{minutes}$ to prepare the ingredients, the cakes take $22 \ \text{minutes}$ to bake and he needs to leave them for $10 \ \text{minutes}$ to cool down. If he wants to eat them at 4:10pm, what time should he start preparing the ingredients?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
+                                                                       &= 4{:}10 \ \text{pm} - (20 + 22 + 10) \ \text{minutes} \\\\
+                                                                       &= 4{:}10 \ \text{pm} - 52 \ \text{minutes} \\\\
+                                                                       &= 3{:}18 \ \text{pm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3{:}18 \ \text{pm}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='219060A7-EC1A-4ED0-B135-50542C15C7B7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='219060A7-EC1A-4ED0-B135-50542C15C7B7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='219060A7-EC1A-4ED0-B135-50542C15C7B7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='219060A7-EC1A-4ED0-B135-50542C15C7B7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='219060A7-EC1A-4ED0-B135-50542C15C7B7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='219060A7-EC1A-4ED0-B135-50542C15C7B7' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='219060A7-EC1A-4ED0-B135-50542C15C7B7' id='FORM-219060A7-EC1A-4ED0-B135-50542C15C7B7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-219060A7-EC1A-4ED0-B135-50542C15C7B7'>Initial</p>
 </div>
 </div>
 </li>

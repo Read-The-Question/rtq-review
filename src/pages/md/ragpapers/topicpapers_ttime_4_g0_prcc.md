@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g0-prcc"
 title: "TopicPaper - Time - 4 - G0 - PRCC"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -407,6 +407,94 @@ $1 \text{st February}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-6247B84C-67BA-4837-942E-898B6625652A'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>9584D5F5-A2A6-4220-9550-009F833ABA09</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:8</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If March $23 \text{rd}$ is a Monday, on what day of the week is April $2 \text{nd}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The month March has $31$ days.
+
+A week has $7$ days.
+
+$
+\begin{aligned}
+&= \text {March} \ 23 \ \text {Monday} + 7 \ \text {days} + 1 \ \text {day} + 2 \ \text{days} \\\\
+&= \text {March} \ 30 \ \text {Monday} + 1 \ \text {day} + 2 \ \text {days} \\\\
+&= \text {March} \ 31 \ \text {Tuesday} + 2 \ \text {days} \\\\
+&= \text {April} \ 2 \ \text {Thursday}
+\end{aligned}
+$
+
+April $2$ falls on a Thursday.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Thursday}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9584D5F5-A2A6-4220-9550-009F833ABA09' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9584D5F5-A2A6-4220-9550-009F833ABA09' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='9584D5F5-A2A6-4220-9550-009F833ABA09' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9584D5F5-A2A6-4220-9550-009F833ABA09' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='9584D5F5-A2A6-4220-9550-009F833ABA09' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='9584D5F5-A2A6-4220-9550-009F833ABA09' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='9584D5F5-A2A6-4220-9550-009F833ABA09' id='FORM-9584D5F5-A2A6-4220-9550-009F833ABA09' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9584D5F5-A2A6-4220-9550-009F833ABA09'>Initial</p>
 </div>
 </div>
 </li>
@@ -948,6 +1036,400 @@ $8 \ \text{hours} \ 15 \ \text{minutes}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-011051B7-79BC-4F3A-B3E5-9FEA0D775E51'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>F62A204D-13DB-4426-A702-451397983AD5</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:17</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The second hand of a clock points to the number $2$. After one minute and twenty seconds what number will it be pointing to?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{After one minute and twenty seconds} &= 2 + 1 \ \text{minute} \ 20 \ \text{seconds} \\\\
+                                           &= 2 + 20 \ \text{seconds} \\\\
+                                           &= 2 + \dfrac {20} {5} \\\\
+                                           &= 2 + \dfrac {5 \times 4} {5} \\\\
+                                           &= 2 + \dfrac {\cancel{5} \times 4} {\cancel{5}} \\\\
+                                           &= 2 + 4 \\\\
+                                           &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' id='FORM-F62A204D-13DB-4426-A702-451397983AD5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F62A204D-13DB-4426-A702-451397983AD5'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>5298C101-6575-44AF-907F-35B7EAF2FC14</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:25</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The time in Australia is $9 \ \text{hours}$ ahead of our time in the UK.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+I wish to ring a friend in Australia so that for them the time is between $6.30  \ \text{pm}$ and $8.30  \ \text{pm}$. Between what times in the UK should I ring them?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Between} \ 9{:}30 \ \text{am} \ \text{and} \ 11{:}30 \ \text{am}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Between} \ 9{:}30 \ \text{am} \ \text{and} \ 11{:}30 \ \text{am}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The time in the USA is $5 \ \text{hours}$ behind UK time.
+
+What time is it in Australia when it is $4 \ \text{am}$ in the USA?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {time in UK}         &= 4 \ \text{am} + 5 \ \text{hours} \\\\
+                           &= 9 \ \text{am} \\\\
+\text {time in Australia}  &= 9 \ \text{am} + 9 \ \text{hours} \\\\
+                           &= 6 \ \text{pm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text{pm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5298C101-6575-44AF-907F-35B7EAF2FC14' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5298C101-6575-44AF-907F-35B7EAF2FC14' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='5298C101-6575-44AF-907F-35B7EAF2FC14' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5298C101-6575-44AF-907F-35B7EAF2FC14' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='5298C101-6575-44AF-907F-35B7EAF2FC14' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='5298C101-6575-44AF-907F-35B7EAF2FC14' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='5298C101-6575-44AF-907F-35B7EAF2FC14' id='FORM-5298C101-6575-44AF-907F-35B7EAF2FC14' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5298C101-6575-44AF-907F-35B7EAF2FC14'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>E59625D9-2685-424C-B233-E9123F55D6DF</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:27</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Zac had a $24 \ \text{hour}$ digital clock.
+
+$2\ \text{am}$ is shown as $02{:}00$ and $8.35 \ \text{pm}$ is shown as $20{:}35$.
+
+The numbers glow in the dark.
+
+The numbers are displayed as shown.
+
+![missing image](/papers/missing_image.svg)
+
+
+What is the time when the glow from the clock is least?    
+
+What is the time when the glow from the clock is greatest?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Least glow $= 11{:}11$
+
+Greatest glow $= 08{:}08$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11{:}11, \ 08{:}08$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E59625D9-2685-424C-B233-E9123F55D6DF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E59625D9-2685-424C-B233-E9123F55D6DF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E59625D9-2685-424C-B233-E9123F55D6DF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E59625D9-2685-424C-B233-E9123F55D6DF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E59625D9-2685-424C-B233-E9123F55D6DF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E59625D9-2685-424C-B233-E9123F55D6DF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='E59625D9-2685-424C-B233-E9123F55D6DF' id='FORM-E59625D9-2685-424C-B233-E9123F55D6DF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E59625D9-2685-424C-B233-E9123F55D6DF'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>72B6948E-CEFE-403E-AB86-3937A9FDB31F</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:11</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I arrived at the station at $7.47 \ \text{a.m}$. My train was due at five past eight but was $13 \ \text{minutes}$ late.
+
+How long did I have to wait for my train?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Waiting time} &= (8{:}05 \ \text{am} + 13 \ \text{minutes}) - 7{:}47 \ \text{am} \\\\
+                    &= 8{:}18 \ \text{am} - 7{:}47 \ \text{am} \\\\
+                    &= 31 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$31 \ \text{minutes}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='72B6948E-CEFE-403E-AB86-3937A9FDB31F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='72B6948E-CEFE-403E-AB86-3937A9FDB31F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='72B6948E-CEFE-403E-AB86-3937A9FDB31F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='72B6948E-CEFE-403E-AB86-3937A9FDB31F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='72B6948E-CEFE-403E-AB86-3937A9FDB31F' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='72B6948E-CEFE-403E-AB86-3937A9FDB31F' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='72B6948E-CEFE-403E-AB86-3937A9FDB31F' id='FORM-72B6948E-CEFE-403E-AB86-3937A9FDB31F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-72B6948E-CEFE-403E-AB86-3937A9FDB31F'>Initial</p>
 </div>
 </div>
 </li>

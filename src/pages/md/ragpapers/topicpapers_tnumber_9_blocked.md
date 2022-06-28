@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-blocked"
 title: "TopicPaper - Number - 9 - BLOCKED"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-27 19:37:37
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

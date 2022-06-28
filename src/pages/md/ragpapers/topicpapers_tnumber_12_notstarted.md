@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-notstarted"
 title: "TopicPaper - Number - 12 - NOTSTARTED"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-27 19:37:37
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -66,7 +66,7 @@ $\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -112,7 +112,7 @@ $14$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -156,7 +156,7 @@ $84$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -293,7 +293,7 @@ $6666666667$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -423,7 +423,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -480,7 +480,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

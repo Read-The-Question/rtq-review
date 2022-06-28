@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g0-prcc"
 title: "TopicPaper - Time - 5 - G0 - PRCC"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1055,6 +1055,95 @@ $14{:}35$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-CD5A1E82-56E8-47B2-B92C-58E1FED3F03B'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>C91E6035-9D47-42CB-834A-DB0B8A45E8A6</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:23</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which bus takes the shortest time from Elgin to Inverness and by how many minutes?
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Time taken by Bus P}          &= 1.06 - 11.47 \\\\
+                                    &= 1 \ \text{hour} \ 19 \ \text{minutes} \\\\
+\text{Time taken by Bus Q}          &= 1.50 - 12.33 \\\\
+                                    &= 1 \ \text{hour} \ 17 \ \text{minutes} \\\\
+\text{Difference in time}           &= 1 \ \text{hour} \ 19 \ \text{minutes} - 1 \ \text{hour} \ 17 \ \text{minutes} \\\\
+                                    &= 2 \ \text{minutes}
+\end{aligned}
+$
+
+Bus Q takes $2 \ \text{minutes}$ less.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text{minutes}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C91E6035-9D47-42CB-834A-DB0B8A45E8A6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C91E6035-9D47-42CB-834A-DB0B8A45E8A6' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='C91E6035-9D47-42CB-834A-DB0B8A45E8A6' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C91E6035-9D47-42CB-834A-DB0B8A45E8A6' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='C91E6035-9D47-42CB-834A-DB0B8A45E8A6' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='C91E6035-9D47-42CB-834A-DB0B8A45E8A6' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='C91E6035-9D47-42CB-834A-DB0B8A45E8A6' id='FORM-C91E6035-9D47-42CB-834A-DB0B8A45E8A6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C91E6035-9D47-42CB-834A-DB0B8A45E8A6'>Initial</p>
 </div>
 </div>
 </li>

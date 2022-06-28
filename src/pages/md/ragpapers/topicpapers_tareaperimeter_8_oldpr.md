@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-oldpr"
 title: "TopicPaper - Areaperimeter - 8 - OLDPR"
-date: 2022-06-27 19:37:37
+date: 2022-06-28 21:29:19
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>52D2DD9F-0C37-4A1E-B05E-34549F9806B3</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-27 19:37:37
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -33,10 +33,14 @@ A rectangle measures $4.0\,cm$ by $7.1\,cm$. What is its area?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the question,
+
 $
 \begin{aligned}
-\text{Area}             &= \text{length} \times \text{width} \\\\
-                        &= 4.0 \times 7.1 \\\\
+\text{Area}             &= 4.0 \times 7.1 \\\\
                         &= 28.4 \ \text{cm}^2
 \end{aligned}
 $

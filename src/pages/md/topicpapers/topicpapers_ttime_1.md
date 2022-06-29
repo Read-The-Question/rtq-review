@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "TopicPaper - Time - 1"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1000,7 +1000,7 @@ $240 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E</p>
 </div>
@@ -1008,7 +1008,7 @@ $240 \ \text {seconds}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1034,33 +1034,59 @@ How long is it, in hours and minutes, between $10{:}28$ and $16{:}06$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 16{:}06 - 10{:}28 \\\\
+&= 5 \ \text{hrs} \ 38 \ \text{mins}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5 \ \text{hrs} \ 38 \ \text{mins}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E' id='FORM-FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>42717D42-3942-4015-AD45-A734CADB14A9</p>
 </div>
@@ -1068,7 +1094,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1115,14 +1141,19 @@ At what time will it finish?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= 6{:}45 \ \text{pm} + 2 \ \text{hours } 35 \ \text{minutes} \\\\
+&= 9{:}20 \ \text{pm} \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$9{:}20 \ \text{pm}$
 
 </div>
 </div>
@@ -1141,14 +1172,23 @@ How long should the journey have taken if the coach had left and arrived on time
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text {time had he not been late} &= 13{:}45 - 5 \ \text{minutes} \\\\
+                                  &= 13{:}40 \ \text{minutes} \\\\
+\text {time if arrived on time}   &= 17{:}05 + 14 \ \text{minutes} \\\\
+                                  &= 17{:}19 \\\\
+\text {duration of journey}       &= 17{:}19 - 13{:}40 \\\\
+                                  &= 3 \ \text {hours} \ 39 \ \text{minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$3 \ \text {hours} \ 39 \ \text{minutes}$
 
 </div>
 </div>
@@ -1169,21 +1209,67 @@ When Chris has run $18$ laps, how many laps has Dave run?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text {ratio of Dave's and Chris speed} &= \dfrac {9} {6} \\\\
+                                        &= \dfrac {3 \times 3} {3 \times 2} \\\\
+                                        &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 2} \\\\
+                                        &= \dfrac {3} {2} \\\\
+\text {laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} 18 \\\\
+                                        &= \dfrac {3} {2} \times 18 \\\\
+                                        &= \dfrac {3 \times 18} {2} \\\\
+                                        &= \dfrac {3 \times 9 \times 2} {2} \\\\
+                                        &= \dfrac {3 \times 9 \times \cancel{2}} {\cancel{2}} \\\\
+                                        &= 3 \times 9 \\\\
+                                        &= 27
+\end{aligned}
+$
 
 </div>
-<div class='working'>
+</div>
+<div class='answers'>
+<div class='answer'>
 
-TODOWORKING
+$27$
 
 </div>
 </div>
-
 
 </div>
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' id='FORM-42717D42-3942-4015-AD45-A734CADB14A9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-42717D42-3942-4015-AD45-A734CADB14A9'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -1220,24 +1306,32 @@ How long (in hours and minutes) did he send on his Xbox on Saturday?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+let the time spend playing each weekday be $=x$.
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+5 \times x + 2 \times 2 \times x &= 12 \ \text{hours} \\\\
+5 \times x + 4 \times x          &= 12 \\\\
+9 \times x                       &= 12 \\\\
+x                                &= \dfrac {12} {9} \\\\
+                                 &= \dfrac {3 \times 4} {3 \times 3} \\\\
+                                 &= \dfrac {\cancel{3} \times 4} {\cancel{3} \times 3} \\\\
+                                 &= \dfrac {4} {3} \\\\
+                                 &= 1 \dfrac {1} {3} \ \text {hours} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {60} {3} \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {3 \times 20} {3} \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {\cancel{3} \times 20} {\cancel{3}} \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \ 20 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1 \ \text {hour} \ \ 20 \ \text {minutes}$
 
 </div>
 </div>

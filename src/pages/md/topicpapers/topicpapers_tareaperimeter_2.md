@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2025,24 +2025,40 @@ What is the total area of the floor of the office?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Show the diagram divided in two rectangles with the calculations for the parts of the path which do not have measurements shown.
+Show the length of the first rectangle 5 (7-2) and width of the second rectangle 5 (8-3).*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram, the shape can be divided into two rectangle
+
+$
+\begin {aligned}
+\text {Total area}          &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                            &= ((7-2) \times 8) + (2 \times (8-3)) \\\\
+                            &= (5 \times 8) + (2 \times 5) \\\\
+                            &= 40 + 10 \\\\
+                            &= 50 \ \text {m} ^ 2
+\end {aligned}
+$
+
+Area of the floor of the office is $50 \ \text{m}^2$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$50 \ \text{m}^2$
 
 </div>
 </div>
@@ -2059,24 +2075,35 @@ How many carpet tiles, each $50 \ \text{cm} \times 50 \ \text{cm}$, would Kirin 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+The floor measurement is given in $\text{meters}$ while the tile measurement is given in $\text{cm}$.
+
+Let's convert the floor measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Number of tiles}  &= \dfrac {\text{Area of the floor}} {\text{Area of a tile}} \\\\
+                         &= \dfrac {50 \ \text{m}^2} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
+                         &= \dfrac {50 \times 10000 \ \text {cm}^2} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
+                         &= \dfrac {50 \times 10000} {50 \times 50} \\\\
+                         &= \dfrac {50 \times 50 \times 200} {50 \times 50} \\\\
+                         &= \dfrac {\cancel {50} \times \cancel {50} \times 200} {\cancel {50} \times \cancel {50}} \\\\
+                         &= 200
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$200$
 
 </div>
 </div>
@@ -3082,24 +3109,38 @@ What is the area of this shape?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Show the diagram divided in two rectangles, with the calculations for the parts of the path which do not have measurements shown. 
+Show the length of the smaller rectangle is $2 \ \text {cm}$ and width is $6 \ \text {cm}$.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram, the shape can be divided into two rectangle
+
+$
+\begin {aligned}
+\text {Area of the shape}   &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                            &= ((4 - 2) \times (11 - 5)) + (2 \times 11) \\\\
+                            &= (2 \times 6) + 22 \\\\
+                            &= 12 + 22 \\\\
+                            &= 34 \ \text {m} ^ 2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$34 \ \text {m} ^ 2$
 
 </div>
 </div>
@@ -3142,24 +3183,43 @@ A square has the same area as the rectangle below. What is the length of its sid
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+Let the side of square $= s$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of rectangle}      &= 6 \times 24 \\\\
+                               &= 144 \ \text {cm}^2
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of square} &= \text{Area of rectangle} \\\\
+s \times s            &= 144 \\\\
+s ^ 2                 &= 144 \\\\
+s                     &= \sqrt {144} \\\\
+s                     &= 12 \ \text{cm}
+\end{aligned}
+$
+
+Length of the side of the square is $12 \ \text {cm}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$12 \ \text {cm}$
 
 </div>
 </div>
@@ -3202,24 +3262,38 @@ What is the area of this shape?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Show the diagram divided in two rectangles, with the calculations for the parts of the path which do not have measurements shown. 
+Show the length of the smaller rectangle is $2 \ \text {cm}$ and width is $4 \ \text {cm}$.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram, the shape can be divided into two rectangle
+
+$
+\begin {aligned}
+\text {Area of the shape}   &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                            &= ((4 - 2) \times (9 - 5)) + (2 \times 9) \\\\
+                            &= (2 \times 4) + 18 \\\\
+                            &= 8 + 18 \\\\
+                            &= 26 \ \text {m} ^ 2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$26 \ \text {m} ^ 2$
 
 </div>
 </div>
@@ -3262,24 +3336,26 @@ What is shaded area?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Shaded Area}         &= \text {Area of outer rectangle} - \text {Area of inner rectangle} \\\\
+                            &= 7 \times 5 - 2 \times 3 \\\\
+                            &= 35 - 6 \\\\
+                            &= 29 \ \text{cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$29 \ \text {cm}^2$
 
 </div>
 </div>

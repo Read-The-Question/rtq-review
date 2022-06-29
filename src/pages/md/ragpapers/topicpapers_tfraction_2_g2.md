@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-g2"
 title: "TopicPaper - Fraction - 2 - G2"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <ul class='question default-decimal'>
 <li>

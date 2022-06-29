@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-29 06:57:05
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42FA7203-A19E-4735-B96B-0DE10464E8A4</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-29 06:57:05
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -90,7 +90,7 @@ $300407$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CD6BCBD5-16AA-4496-BA89-31C177B22E60</p>
 </div>
@@ -101,7 +101,7 @@ $300407$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -142,13 +142,15 @@ $17954 \div 382 =$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
-47 \times 382           &= 17954 \\\\
-\dfrac {17954} {382}    &= 47 \\\\
-17954 \div 382          &= 47
+&=17954 \div 382 \\\\
+&=\dfrac {17954} {382} \\\\
+&=\dfrac{47 \times 382} {382} \\\\
+&=\dfrac{47 \times\cancel {382}} {\cancel{382}} \\\\
+&=47
 \end{aligned}
 $
 
@@ -174,14 +176,15 @@ $4.7 \times 3.82 =$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
-47 \times 382                               &= 17954 \\\\
-\dfrac {47 \times 382} {1000}               &= \dfrac {17954} {1000} \\\\
-\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {1000} \\\\
-4.7 \times 3.82                             &= 17.954
+&=4.7 \times 3.82 \\\\
+&=\dfrac{47}{10}\times\dfrac{382}{100}\\\\
+&=\dfrac{{47}\times{382}}{10\times100}\\\\
+&=\dfrac{17954}{1000}\\\\
+&=17.954
 \end{aligned}
 $
 
@@ -207,16 +210,17 @@ $179.54 \div 38.2 =$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
-47 \times 382                               &= 17954 \\\\
-\dfrac {47 \times 382} {100}                &= \dfrac {17954} {100} \\\\
-\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {100} \\\\
-4.7 \times 38.2                             &= 179.54 \\\\
-\dfrac {179.54} {38.2}                      &= 4.7 \\\\
-179.54 \div 38.2                            &= 4.7
+&=179.54 \div 38.2\\\\
+&=\dfrac{179.54}{38.2}\\\\
+&=\dfrac{17954\times10}{382\times100}\\\\
+&=\dfrac{47\times382\times10}{382 \times 10 \times 10}\\\\
+&=\dfrac{47\times\cancel{382}\times\cancel{10}}{\cancel{382} \times\cancel{10} \times 10}\\\\
+&=\dfrac{47}{10}\\\\
+&= 4.7
 \end{aligned}
 $
 
@@ -246,10 +250,13 @@ As per the question,
 
 $
 \begin{aligned}
-47 \times 382                        &= 17954 \\\\
-47 \times 382 \time \dfrac {2} {2}   &= 17954 \times \dfrac {2} {2} \\\\
-47 \times 2 \times \dfrac {382} {2}  &= 17954 \\\\
-94 \times 191                        &= 17954
+&=94\times191\\\\
+&=47\times2\times191 \\\\
+&=\dfrac{17954}{382}\times2\times191\\\\
+&=\dfrac{17954\times 2\times 191}{382} \\\\
+&=\dfrac{17954\times 2\times 191}{2\times 191} \\\\
+&=\dfrac{17954\times \cancel{2}\times\cancel{191}}{\cancel2\times\cancel{191}} \\\\
+ &= 17954
 \end{aligned}
 $
 
@@ -301,7 +308,7 @@ $17954$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>051EA915-77B1-4C90-B44F-067124622F8F</p>
 </div>
@@ -312,7 +319,7 @@ $17954$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -332,6 +339,7 @@ Write $\dfrac{7}{20}$ as a decimal number.
 $
 \begin{aligned}
 &= \dfrac {7} {20} \\\\
+&=\dfrac{7}{20}\times\dfrac{5}{5}\\\\
 &= \dfrac {7 \times 5} {20 \times 5} \\\\
 &= \dfrac {35} {100} \\\\
 &= 0.35
@@ -383,7 +391,7 @@ $0.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
 </div>
@@ -394,7 +402,7 @@ $0.35$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -466,7 +474,7 @@ $51$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>39E20826-B8B1-4C4D-AF60-A2D391BC499E</p>
 </div>
@@ -477,7 +485,7 @@ $51$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -544,7 +552,7 @@ $308520$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5D4FC6CE-AFCE-4118-A16D-21C14C304F1B</p>
 </div>
@@ -555,7 +563,7 @@ $308520$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -580,27 +588,30 @@ Using **BIDMAS**,
 
 $
 \begin{aligned}
-\text{Option A}     &= 8 + 4 \times 6 - 5 \\\\
-                    &= 8 + 24 - 5 \\\\
-                    &= 32 - 5 \\\\
-                    &= 27 \neq 67
+\text{Option a}
+&= 8 + 4 \times 6 - 5 \\\\
+&= 8 + 24 - 5 \\\\
+&= 32 - 5 \\\\
+&= 27 \neq 67
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Option B}     &= (8 + 4) \times (6 - 5) \\\\
-                    &= 12 \times 1 \\\\
-                    &= 12 \neq 67
+\text{Option b}     
+&= (8 + 4) \times (6 - 5) \\\\
+&= 12 \times 1 \\\\
+&= 12 \neq 67
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Option C}     &= (8 + 4) \times 6 - 5 \\\\
-                    &= 12 \times 6  - 5 \\\\
-                    &= 72 - 5 \\\\
-                    &= 67
+\text{Option c}     
+&= (8 + 4) \times 6 - 5 \\\\
+&= 12 \times 6  - 5 \\\\
+&= 72 - 5 \\\\
+&= 67
 \end{aligned}
 $
 
@@ -652,7 +663,7 @@ $(8 + 4) \times 6 - 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
 </div>
@@ -663,7 +674,7 @@ $(8 + 4) \times 6 - 5$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -788,9 +799,13 @@ $17 \times 18 \times 38 =$
 
 $
 \begin{aligned}
-17 \times 18 \times 19          &= 5814 \\\\
-17 \times 18 \times 19 \times 2 &= 5814 \times 2 \\\\
-17 \times 18 \times 38          &= 11628
+&=17 \times 18 \times 38 \\\\
+&=\dfrac{5814}{19} \times 38 \\\\
+&=\dfrac{5814\times38}{19}\\\\
+&=\dfrac{5814\times19\times2}{19}\\\\
+&=\dfrac{5814\times\cancel{19}\times2}{\cancel{19}}\\\\
+&=5814\times2 \\\\
+&= 11628
 \end{aligned}
 $
 
@@ -818,11 +833,13 @@ $9 \times 19 \times 34 =$
 
 $
 \begin{aligned}
-17 \times 18 \times 19         &= 5814 \\\\
-17 \times 9 \times 2 \times 19 &= 5814 \\\\
-17 \times 2 \times 9 \times 19 &= 5814 \\\\
-34 \times 9 \times 19          &= 5814 \\\\
-9 \times 19 \times 34          &= 5814
+&=9 \times 19 \times 34 \\\\
+&=9 \times 19 \times 17\times 2 \\\\
+&=9\times\dfrac{5814}{18}\times2 \\\\
+&=\dfrac{9\times5814\times2}{18}\\\\
+&=\dfrac{9\times5814\times2}{9\times2}\\\\
+&=\dfrac{\cancel9\times5814\times\cancel2}{\cancel9\times\cancel2}\\\\
+&= 5814
 \end{aligned}
 $
 
@@ -851,9 +868,11 @@ $170 \times 180 \times 190 =$
 
 $
 \begin{aligned}
-17 \times 18 \times 19                               &= 5814 \\\\
-17 \times 10 \times 18 \times 10 \times 19 \times 10 &= 5814 \times 1000 \\\\
-170 \times 180 \times 190                            &= 5814000
+&=170 \times 180 \times 190 \\\\
+&=17 \times 10 \times 18 \times 10 \times 19 \times 10 \\\\
+&=17 \times 18 \times 19 \times 10 \times 10 \times 10 \\\\
+&=5814 \times 1000 \\\\
+&= 5814000
 \end{aligned}
 $
 
@@ -881,20 +900,12 @@ $5814 \div 51 \div 38 =$
 
 $
 \begin{aligned}
-17 \times 18 \times 19                       &= 5814 \\\\
-18 \times 19                                 &= 5814 \div 17 \\\\
-18                                           &= 5814 \div 17 \div 19 \\\\
-18 \div 3                                    &= 5814 \div (17 \times 3) \div 19 \\\\
-\dfrac {18} {3}                              &= 5814 \div 51 \div 19 \\\\
-\dfrac {6 \times 3} {3}                      &= 5814 \div 51 \div 19 \\\\
-\dfrac {6 \times \cancel {3}} {\cancel {3}}  &= 5814 \div 51 \div 19 \\\\
-6                                            &= 5814 \div 51 \div 19 \\\\
-6 \div 2                                     &= 5814 \div 51 \div (19 \times 2) \\\\
-\dfrac {6} {2}                               &= 5814 \div 51 \div 38 \\\\
-5814 \div 51 \div 38                         &= \dfrac {6} {2} \\\\
-5814 \div 51 \div 38                         &= \dfrac {3 \times 2} {2} \\\\
-5814 \div 51 \div 38                         &= \dfrac {3 \times \cancel {2}} {\cancel {2}} \\\\
-5814 \div 51 \div 38                         &= 3
+&=5814 \div 51 \div 38\\\\
+&=\dfrac{5814}{51\times38}\\\\
+&=\dfrac{17\times18\times19}{3\times17\times2\times19} \\\\
+&=\dfrac{17\times3\times3\times2\times19}{3\times17\times2\times19} \\\\
+&=\dfrac{\cancel{17}\times\cancel{3}\times3\times\cancel{2}\times\cancel{19}}{\cancel{3}\times\cancel{17}\times\cancel{2}\times\cancel{19}} \\\\
+&=3
 \end{aligned}
 $
 

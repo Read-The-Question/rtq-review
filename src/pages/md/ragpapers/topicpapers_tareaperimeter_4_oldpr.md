@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-oldpr"
 title: "TopicPaper - Areaperimeter - 4 - OLDPR"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -304,15 +304,15 @@ A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectan
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
-Let's convert the wall measurements into $\text{cm}$.
+The floor measurement is given in meters and tile measurement is in centimetres.
+
+Let's convert the floor measurements into $\text{cm}$.
 
 As per the question,
 

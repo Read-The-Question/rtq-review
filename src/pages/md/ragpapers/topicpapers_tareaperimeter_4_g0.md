@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0"
 title: "TopicPaper - Areaperimeter - 4 - G0"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -93,6 +93,8 @@ s                     &= \sqrt {16} \\\\
 s                     &= 4 \ \text{cm}
 \end{aligned}
 $
+
+Length of the side of the square is $4 \ \text{cm}$.
 
 </div>
 </div>

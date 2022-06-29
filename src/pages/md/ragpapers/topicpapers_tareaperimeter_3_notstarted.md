@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-3-notstarted"
 title: "TopicPaper - Areaperimeter - 3 - NOTSTARTED"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -259,24 +259,28 @@ What is the most $4 \ \text{cm}$ by $4 \ \text{cm}$ flapjacks he could make?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of flapjacks}         &= \dfrac {\text{Area of slab}} {\text{Area of one flapjack}} \\\\
+                                   &= \dfrac {20 \times 40} {4 \times 4} \\\\
+                                   &= \dfrac {800} {16} \\\\
+                                   &= \dfrac {16 \times 50} {16} \\\\
+                                   &= \dfrac {\cancel {16} \times 50} {\cancel {16}} \\\\
+                                   &= 50
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$50$
 
 </div>
 </div>
@@ -293,24 +297,27 @@ What is the most $5 \ \text{cm}$ by $8 \ \text{cm}$ flapjacks he could make?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of flapjacks}         &= \dfrac {\text{Area of slab}} {\text{Area of one flapjack}} \\\\
+                                   &= \dfrac {20 \times 40} {5 \times 8} \\\\
+                                   &= \dfrac {20 \times 40} {40} \\\\
+                                   &= \dfrac {20 \times \cancel {40}} {\cancel {40}} \\\\
+                                   &= 20
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$20$
 
 </div>
 </div>
@@ -327,24 +334,28 @@ What is the most $6 \ \text{cm}$ by $7 \ \text{cm}$ flapjacks he could make?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of flapjacks}         &= \dfrac {\text{Area of slab}} {\text{Area of one flapjack}} \\\\
+                                   &= \dfrac {20 \times 40} {6 \times 7} \\\\
+                                   &= \dfrac {800} {42} \\\\
+                                   &= \dfrac {20 \times \cancel {40}} {\cancel {40}} \\\\
+                                   &= 19 \dfrac {2} {42} \\\\
+                                   &= 19
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$19$
 
 </div>
 </div>
@@ -392,24 +403,44 @@ How much it will cost him?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Show the diagram divided in two rectangles with the calculations for the parts which do not have measurements shown.
+Show the length of the first rectangle $6 (10 - 4) \ \text{m}$ and width of the second rectangle $6 (20 - 10) \ \text{m}$.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of garden}                   &= \text{Rectangle 1} + \text{Rectangle 2} \\\\
+                                        &= 6 \times 20 + 4 \times 10 \\\\
+                                        &= 120 + 40 \\\\
+                                        &= 160 \ \text{m}^2 \\\\
+\text {Number of bags required}         &= \dfrac {\text {Area of the garden}} {\text {Area covered by one bag}} \\\\
+                                        &= \dfrac {160} {3} \\\\
+                                        &= \dfrac {160} {3} \\\\
+                                        &= 54 \\\\
+\text{Total cost}                       &= \text {Cost per bag} \times \text {Number of bags} \\\\
+                                        &= \pounds 10 \times 54 \\\\
+                                        &= \pounds 540
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 540$
 
 </div>
 </div>
@@ -514,24 +545,30 @@ How many sacks of peat does Gill need for the whole garden?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of garden}                   &= 48 \times 10 \\\\
+                                        &= 480 \ \text{m}^2 \\\\
+\text {Number of sacks required}        &= \dfrac {\text {Area of the garden}} {\text {Area covered by 60 kg sack}} \\\\
+                                        &= \dfrac {\text {Area of the garden}} {6 \times \text {Area covered by 10 kg peat}} \\\\
+                                        &= \dfrac {480} {6 \times 2} \\\\
+                                        &= \dfrac {12 \times 40} {12} \\\\
+                                        &= \dfrac {\cancel {12} \times 40} {\cancel {12}} \\\\
+                                        &= 40
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$40$
 
 </div>
 </div>

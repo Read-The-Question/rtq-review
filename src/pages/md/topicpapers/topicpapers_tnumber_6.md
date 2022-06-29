@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-6"
 title: "TopicPaper - Number - 6"
-date: 2022-06-29 08:59:39
+date: 2022-06-29 14:12:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -95,7 +95,7 @@ $9886543$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD</p>
 </div>
@@ -103,10 +103,10 @@ $9886543$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>rag_mr_g0</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -139,51 +139,11 @@ $\text {ten}$
 </div>
 </div>
 
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-
-
-
-
-Is the answer not nine? Please make a point to review all the answers again.
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' id='FORM-CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A581D7B4-0D25-4FD6-8005-FCECDBB5610D</p>
 </div>
@@ -194,7 +154,7 @@ Is the answer not nine? Please make a point to review all the answers again.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -237,9 +197,9 @@ $
 \begin{aligned}
 &= 0.32 \\\\
 &= \dfrac {32} {100} \\\\
-&= \dfrac {16 \times 2} {50 \times 2} \\\\
-&= \dfrac {16 \times \cancel {2}} {50 \times \cancel {2}} \\\\
-&= \dfrac {16} {50}
+&= \dfrac {8 \times 4} {25 \times 4} \\\\
+&= \dfrac {8 \times \cancel {4}} {25 \times \cancel {4}} \\\\
+&= \dfrac {8} {25}
 \end{aligned}
 $
 
@@ -248,7 +208,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {16} {50}$
+$\dfrac {8} {25}$
 
 </div>
 </div>
@@ -268,6 +228,10 @@ What is eighteen fortieths as a decimal?
 $
 \begin{aligned}
 &= \dfrac {18} {40} \\\\
+&= \dfrac {9 \times 2} {20 \times 2} \\\\
+&= \dfrac {9 \times 2 \times 5} {20 \times 2 \times 5} \\\\
+&= \dfrac {9 \times \cancel 2 \times 5} {20 \times \cancel 2 \times 5} \\\\
+&= \dfrac {45} {100} \\\\
 &= 0.45
 \end{aligned}
 $
@@ -345,7 +309,7 @@ b. Workings are not shown. It should be something like :
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>329E7FE5-9B8D-4D16-8082-F798504B6844</p>
 </div>
@@ -356,7 +320,7 @@ b. Workings are not shown. It should be something like :
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -376,12 +340,16 @@ What is $0.2 \times 0.3$?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 0.2 \times 0.3 \\\\
-&= 0.06
-\end{aligned}
-$
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
+
+$2 \times 3 = 6$
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now. 
+
+$= 0.06$
 
 </div>
 </div>
@@ -791,7 +759,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>99B747C3-A340-4D5D-B8DF-E82C580210CB</p>
 </div>
@@ -802,7 +770,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -824,9 +792,9 @@ $
 &= \dfrac {1} {4} \ \text {of} \ 0.02 \\\\
 &= \dfrac {1} {4} \times 0.02 \\\\
 &= \dfrac {1} {4} \times \dfrac {20} {1000} \\\\
-&= \dfrac {1 \times 20} {4 \times 1000} \\\\
-&= \dfrac {1 \times 5 \times 4} {1000 \times 4} \\\\
-&= \dfrac {1 \times 5 \times \cancel {4}} {1000 \times \cancel {4}} \\\\
+&= \dfrac {20} {4 \times 1000} \\\\
+&= \dfrac {5 \times 4} {1000 \times 4} \\\\
+&= \dfrac {5 \times \cancel {4}} {1000 \times \cancel {4}} \\\\
 &= \dfrac {5} {1000} \\\\
 &= 0.005
 \end{aligned}
@@ -937,7 +905,7 @@ $k + 30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA</p>
 </div>
@@ -948,7 +916,7 @@ $k + 30$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -970,9 +938,9 @@ How many prime numbers are there between $20$ and $30$?
 <div class='workings'>
 <div class='working'>
 
-$
-23 , 29
-$
+Prime numbers $= 23, 29$
+
+Count $= 2$
 
 </div>
 </div>
@@ -1234,7 +1202,7 @@ $87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>97CC5F1C-EF48-48B4-ABDF-CCA73694AD3A</p>
 </div>
@@ -1245,7 +1213,7 @@ $87$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1323,9 +1291,6 @@ ABBR: Using BIDMAS
 $
 \begin{aligned}
 &= 12 + 8 \div 4 \\\\
-&= 12 + \dfrac {8} {4} \\\\
-&= 12 + \dfrac {4 \times 2} {4} \\\\
-&= 12 + \dfrac {\cancel{4} \times 2} {\cancel{4}} \\\\
 &= 12 + 2 \\\\
 &= 14
 \end{aligned}
@@ -1912,7 +1877,7 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>E139F769-4D91-44F2-B824-EAE49083E0C7</p>
 </div>
@@ -1920,10 +1885,10 @@ $45$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_mr_g0</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2093,7 +2058,7 @@ Write down the next two numbers in the pattern.
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $-3$. Hence, the sequence would be:
+The next term is calculated by subtracting $3$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -2163,51 +2128,7 @@ $-2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-
-
-
-
-b: The template for sequence has changed. Please refer 497B0D73-E53D-490C-9D71-8CF4C974875D and update the answer for b accordingly.
-
-
-
-c. We should explain part c more. We should write the next few terms of the sequence and then show -2 is the first number below zero. Lets discuss and do this part c together.
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E139F769-4D91-44F2-B824-EAE49083E0C7' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E139F769-4D91-44F2-B824-EAE49083E0C7' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E139F769-4D91-44F2-B824-EAE49083E0C7' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E139F769-4D91-44F2-B824-EAE49083E0C7' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E139F769-4D91-44F2-B824-EAE49083E0C7' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E139F769-4D91-44F2-B824-EAE49083E0C7' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='E139F769-4D91-44F2-B824-EAE49083E0C7' id='FORM-E139F769-4D91-44F2-B824-EAE49083E0C7' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E139F769-4D91-44F2-B824-EAE49083E0C7'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -2389,7 +2310,7 @@ $11.009$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B6898FBA-C7F0-45EC-8310-05AC36882A69</p>
 </div>
@@ -2400,7 +2321,7 @@ $11.009$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2518,8 +2439,8 @@ As per the question,
 
 $
 \begin{aligned}
-50 \times 9                 &= 9 \times a \\\\
-\dfrac {50 \times 9} {9}    &= a \\\\
+9 \times a                  &= 50 \times 9 \\\\
+a                           &= \dfrac {50 \times 9} {9} \\\\
 a                           &= \dfrac {50 \times 9} {9} \\\\
 a                           &= \dfrac {50 \times \cancel {9}} {\cancel {9}} \\\\
 a                           &= 50
@@ -2620,7 +2541,7 @@ c: Change S2 from existing to 9 * a = 50 * 9 and rest of the steps are fine.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>1EA0EDB9-277D-4979-AC2C-B24FE106F900</p>
 </div>
@@ -2628,10 +2549,10 @@ c: Change S2 from existing to 9 * a = 50 * 9 and rest of the steps are fine.
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>rag_mr_g0</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2790,59 +2711,7 @@ $2.79$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-
-
-
-
-All of the answers are violating coding guidelines
-
-
-
-we do not write LHS and RHS for = unless a variable / equation is involved. In such cases, it should begin aligned starting with =.
-
-
-
-Start with the original question and simplify to previously given answer and then substitute.
-
-
-
-Lets discuss and work on it together.
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1EA0EDB9-277D-4979-AC2C-B24FE106F900' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1EA0EDB9-277D-4979-AC2C-B24FE106F900' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='1EA0EDB9-277D-4979-AC2C-B24FE106F900' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1EA0EDB9-277D-4979-AC2C-B24FE106F900' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='1EA0EDB9-277D-4979-AC2C-B24FE106F900' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='1EA0EDB9-277D-4979-AC2C-B24FE106F900' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='1EA0EDB9-277D-4979-AC2C-B24FE106F900' id='FORM-1EA0EDB9-277D-4979-AC2C-B24FE106F900' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1EA0EDB9-277D-4979-AC2C-B24FE106F900'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -3027,7 +2896,7 @@ Write all using array, please refer detailed addition, subtraction and multiplic
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>38EB0DA0-ADB1-4740-9398-0E85F4873BB0</p>
 </div>
@@ -3038,7 +2907,7 @@ Write all using array, please refer detailed addition, subtraction and multiplic
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3077,7 +2946,12 @@ $571 \times 100$
 <div class='workings'>
 <div class='working'>
 
-$57100$
+$
+\begin{aligned}
+&= 571 \times 100 \\\\
+&= 57100
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3101,14 +2975,19 @@ $3.61 \times 10$
 <div class='workings'>
 <div class='working'>
 
-$36.10$
+$
+\begin{aligned}
+&= 3.61 \times 10 \\\\
+&= 36.1
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$36.10$
+$36.1$
 
 </div>
 </div>
@@ -3125,7 +3004,12 @@ $27 \div 1000$
 <div class='workings'>
 <div class='working'>
 
-$0.027$
+$
+\begin{aligned}
+&= \dfrac {27} {1000} \\\\
+&= 0.027
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3816,7 +3700,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DD2AC910-EC27-492D-8DBC-85AD496685A6</p>
 </div>
@@ -3827,7 +3711,7 @@ $3$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3980,7 +3864,6 @@ $
 \begin{aligned}
 \dfrac {2} {5} \ \text {of} \ a  &= 12 \\\\
 \dfrac {2} {5} \times a          &= 12 \\\\
-2 \times a                       &= 12 \times 5 \\\\
 a                                &= \dfrac {12 \times 5} {2} \\\\
 a                                &= \dfrac {\cancel {2} \times 6 \times 5} {\cancel {2}} \\\\
 a                                &= 30

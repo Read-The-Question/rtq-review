@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-5"
 title: "TopicPaper - Areaperimeter - 5"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -313,7 +313,7 @@ Show the one missing side 7.*
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-As per the diagram, we can divide the shape into two rectangle
+As per the diagram, the shape can be divided into two rectangle
 
 $
 \begin {aligned}

@@ -1,196 +1,9 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-notstarted"
 title: "TopicPaper - Time - 1 - NOTSTARTED"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:8</p>
-</div>
-<div class='rag'>
-<p>rag_ar_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How long is it, in hours and minutes, between $10{:}28$ and $16{:}06$?
-
--  $5 \ \text{hrs} \ 38 \ \text{mins}$ 
--  $8 \ \text{hrs} \ 34 \ \text{mins}$ 
--  $5 \ \text{hrs} \ 36 \ \text{mins}$ 
--  $26 \ \text{hrs} \ 34 \ \text{mins}$ 
--  $4 \ \text{hrs} \ 33 \ \text{mins}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>42717D42-3942-4015-AD45-A734CADB14A9</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:12</p>
-</div>
-<div class='rag'>
-<p>rag_ar_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-A film starts at $6{:}45 \ \text{pm}$ and lasts for $2 \ \text{hours } 35 \ \text{minutes}$.
-
-At what time will it finish?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-A coach left London Victoria $5 \ \text{minutes}$ late, at $13{:}45$, 
-and arrived in Banbury $14 \ \text{minutes}$ early, at $17{:}05$. 
-How long should the journey have taken if the coach had left and arrived on time?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Chris runs round a track at a speed of $6 \ \text{km/hour}$.
-
-Dave runs round the same track at a speed of $9 \ \text{km/hour}$.
-
-When Chris has run $18$ laps, how many laps has Dave run?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -225,24 +38,32 @@ How long (in hours and minutes) did he send on his Xbox on Saturday?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+let the time spend playing each weekday be $=x$.
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+5 \times x + 2 \times 2 \times x &= 12 \ \text{hours} \\\\
+5 \times x + 4 \times x          &= 12 \\\\
+9 \times x                       &= 12 \\\\
+x                                &= \dfrac {12} {9} \\\\
+                                 &= \dfrac {3 \times 4} {3 \times 3} \\\\
+                                 &= \dfrac {\cancel{3} \times 4} {\cancel{3} \times 3} \\\\
+                                 &= \dfrac {4} {3} \\\\
+                                 &= 1 \dfrac {1} {3} \ \text {hours} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {60} {3} \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {3 \times 20} {3} \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {\cancel{3} \times 20} {\cancel{3}} \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \ 20 \ \text {minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1 \ \text {hour} \ \ 20 \ \text {minutes}$
 
 </div>
 </div>

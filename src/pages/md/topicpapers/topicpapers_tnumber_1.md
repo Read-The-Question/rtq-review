@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-1"
 title: "TopicPaper - Number - 1"
-date: 2022-06-29 06:57:05
+date: 2022-06-29 14:12:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -443,8 +443,7 @@ $13 + 4 \div 2$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}
@@ -476,8 +475,7 @@ $4 \times 5 - 8 \times 3$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}
@@ -509,8 +507,7 @@ $(-4 + 7)^3$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}
@@ -1407,13 +1404,18 @@ $94 - \ldots = 65$
 <div class='workings'>
 <div class='working'>
 
+$94 - \underline{\green
+{29}} = 65$
+
+</div>
+<div class='working'>
+
 Let the missing  number $= a$
  
 $
 \begin{aligned}
 94 - a &= 65 \\\\
-a   &= 94 - 65 \\\\
-a   &= 29 
+a           &= 29
 \end{aligned}
 $
 
@@ -1441,6 +1443,21 @@ $\ldots \times 40 = 360$
 
 $\underline{\green
 {9}} \times 40 = 360$
+
+</div>
+<div class='working'>
+
+Let the missing  number $= a$
+
+$
+\begin{aligned}
+a \times 40 &= 360 \\\\
+a           &= \dfrac{360}{40} \\\\
+a           &= \dfrac{9 \times 40}{40} \\\\
+a           &= \dfrac{9 \times \cancel{40}}{\cancel{40}} \\\\
+a           &= 9 
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1504,6 +1521,19 @@ $-35 + \ldots = -26$
 
 $-35 + \underline{\green
 {9}} = -26$
+
+</div>
+<div class='working'>
+
+Let the missing  number $= a$
+ 
+$
+\begin{aligned}
+-35 + a &= -26 \\\\
+a       &= -26 + 35\\\\
+a       &= 9
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1667,6 +1697,11 @@ Write the number fourteen thousand and thirty six in figures.
 <div class='working'>
 
 $14036$
+$
+\begin{aligned}
+ & 14036
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1767,6 +1802,19 @@ $\underline{\green
 {28}} + 15 = 43$
 
 </div>
+<div class='working'>
+
+Let the missing  number $= a$
+ 
+$
+\begin{aligned}
+a + 15  &= 43 \\\\
+a           &= 43 - 15  \\\\
+a           &= 28
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1790,6 +1838,21 @@ $6 \times \ldots = 54$
 
 $6 \times \underline{\green
 {9}} = 54$
+
+</div>
+<div class='working'>
+
+Let the missing  number $= a$
+
+$
+\begin{aligned}
+6 \times a &= 54 \\\\
+a           &= \dfrac{54}{6} \\\\
+a           &= \dfrac{9 \times 6}{6} \\\\
+a           &= \dfrac{9 \times \cancel{6}}{\cancel{6}} \\\\
+a           &= 9 
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1817,6 +1880,19 @@ $\underline{\green
 {80}} - 23 = 57$
 
 </div>
+<div class='working'>
+
+Let the missing  number $= a$
+ 
+$
+\begin{aligned}
+a - 23  &= 57 \\\\
+a           &= 57 + 23  \\\\
+a           &= 80
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1840,6 +1916,21 @@ $64 \div \ldots = 8$
 
 $64 \div \underline{\green
 {8}} = 8$
+
+</div>
+<div class='working'>
+
+Let the missing  number $= a$
+ 
+$
+\begin{aligned}
+64 \div a  &= 8 \\\\
+a           &= \dfrac{64}{8} \\\\
+a           &= \dfrac{8 \times 8}{8} \\\\
+a           &= \dfrac{8 \times \cancel{8}}{\cancel{8}} \\\\
+a           &= 8
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1943,6 +2034,18 @@ $14 \times 100 = \underline{\green
 {1400}}$
 
 </div>
+<div class='working'>
+
+Let the answer is $= a$
+
+$
+\begin{aligned}
+ 14 \times 100 &=a \\\\
+ a  &=1400
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1966,6 +2069,19 @@ $864 \div 100 = \ldots$
 
 $864 \div 100 = \underline{\green
 {8.64}}$
+
+</div>
+<div class='working'>
+
+Let the answer is $= a$
+
+$
+\begin{aligned}
+864 \div 100 &= a \\\\
+a           &= \dfrac{864}{100} \\\\
+a           &= 8.64
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1992,6 +2108,22 @@ $\ldots \times 300 = 60$
 $\underline{\green
 {0.2}} \times 300 = 60$
 
+
+</div>
+<div class='working'>
+
+Let the missing  number $= a$
+ 
+$
+\begin{aligned}
+a \times 300  &= 60 \\\\
+a           &= \dfrac{60}{100} \\\\
+a           &= \dfrac{3 \times 2 \times 10}{3 \times 10 \times 10} \\\\
+a           &= \dfrac{\cancel{3} \times 2 \times \cancel{10}}{\cancel{3} \times \cancel{10} \times 10} \\\\
+a           &= \dfrac{2}{10} \\\\
+a           &=0.2
+\end{aligned}
+$
 
 </div>
 </div>

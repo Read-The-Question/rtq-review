@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-13"
 title: "TopicPaper - Algebra - 13"
-date: 2022-06-29 17:32:38
+date: 2022-06-29 18:28:43
 ---
 <div class='paper'>
 <div class='meta'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-notstarted"
 title: "TopicPaper - Areaperimeter - 1 - NOTSTARTED"
-date: 2022-06-28 21:29:19
+date: 2022-06-29 05:02:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -91,24 +91,89 @@ Complete the table below to show the area and perimeter of each shape.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of the square A}            &= 8 \times 8 \\\\
+                                        &= 64 \ \text {cm}^2 \\\\
+\text {Perimeter of the square A}       &= 4 \times 8 \\\\
+                                        &= 32 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Width of the rectangle B}        &= 8 \ \text {cm} \\\\
+\text {Length of the rectangle B}       &= \dfrac {8} {2} \\\\
+                                        &= \dfrac {2 \times 4} {2} \\\\
+                                        &= \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
+                                        &= 4 \ \text{cm} \\\\
+\text {Area of the rectangle B}         &= 4 \times 8 \\\\
+                                        &= 32 \ \text {cm}^2 \\\\
+\text {Perimeter of the rectangle B}    &= 2 \times (4 + 8) \\\\
+                                        &= 2 \times 12 \\\\
+                                        &= 24 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Side of the square}              &= \dfrac {8} {2} \\\\
+                                        &= \dfrac {2 \times 4} {2} \\\\
+                                        &= \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
+                                        &= 4 \ \text{cm} \\\\
+\text {Area of the square A}            &= 4 \times 4 \\\\
+                                        &= 16 \ \text {cm}^2 \\\\
+\text {Perimeter of the square A}       &= 4 \times 4 \\\\
+                                        &= 16 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$64 \ \text {cm}^2, 32 \ \text{cm}$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$32 \ \text {cm}^2, 24 \ \text{cm}$
+
+</div>
+<div class='answer'>
+
+$16 \ \text {cm}^2, 16 \ \text{cm}$
 
 </div>
 </div>
@@ -163,24 +228,27 @@ You **must** give the correct unit with your answer.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of the square}      &= 12 \times 12 \\\\
+                                &= 144 \ \text{cm}^2 \\\\
+\text {Area of the rectangle}   &= 6 \times \text {Area of a sqaure} \\\\
+                                &= 6 \times 144 \\\\
+                                &= 864 \ \text {cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$864 \ \text {cm}^2$
 
 </div>
 </div>
@@ -257,24 +325,33 @@ Write an expression for the length of **one** of its sides.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of regular polygon} = \text{n} \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+Let the side of the hexagon $= s$
+
+As per the question,
+
+$
+\begin{aligned}
+6 \times s  &= 42a + 18 \\\\
+6s          &= 42a + 18 \\\\
+s           &= \dfrac {42a + 18} {6} \\\\
+s           &= \dfrac {6 \times 7a + 6 \times 3} {6} \\\\
+s           &= \dfrac {6 \times (7a + 3)} {6} \\\\
+s           &= \dfrac {\cancel {6} \times (7a + 3)} {\cancel {6}} \\\\
+s           &= 7a + 3
+\end{aligned}
+$
+
+Length of the one side of hexagon $= 7a + 3$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$= 7a + 3$
 
 </div>
 </div>
@@ -295,24 +372,32 @@ How many sides does this regular polygon have?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of regular polygon} = \text{n} \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+Let the number of sides in polygon $= n$
+
+As per the question,
+
+$
+\begin{aligned}
+n \times (15b - 4)  &= 75b - 20 \\\\
+n                   &= \dfrac {75b - 20} {15b - 4} \\\\
+n                   &= \dfrac {5 \times 15b - 5 \times 4} {15b - 4} \\\\
+n                   &= \dfrac {5 \times (15b - 4)} {15b - 4} \\\\
+n                   &= \dfrac {5 \times (\cancel {15b - 4})} {\cancel {15b - 4}} \\\\
+n                   &= 5
+\end{aligned}
+$
+
+The regular polygon has 5 sides.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+5
 
 </div>
 </div>
@@ -325,30 +410,50 @@ TODOANSWER
 
 The **perimeter** of a square is $4(c - 9)$
 
-Find the perimeter of the square when $c = 15$
+Find the area of the square when $c = 15$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let the side of the sqaure $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times a         &= 4(c - 9) \\\\
+4a                 &= 4 \times (c - 9) \\\\
+a                  &= \dfrac {4 \times (c - 9)} {4} \\\\
+a                  &= \dfrac {\cancel {4} \times (c - 9)} {\cancel {4}} \\\\
+a                  &= c - 9 \\\\
+a                  &= 15 - 9 \\\\
+a                  &= 6 \ \text {cm}
+\end{aligned}
+$
+
+Let's find the area of the square.
+
+$
+\begin{aligned}
+\text {Area}            &= a \times a \\\\
+                        &= 6 \times 6 \\\\
+                        &= 36 \ \text{cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$36 \ \text{cm}^2$
 
 </div>
 </div>
@@ -427,24 +532,35 @@ $156 \ \text{cm}$ long. What length of cane snapped off?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+The original length is given in $\text{meters}$ while the new length measurement is given in $\text{cm}$.
+
+Let's convert the original measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Original length of cane}         &= 2.05 \ \text {m} \\\\
+                                        &= 2.05 \times 100 \ \text {cm} \\\\
+                                        &= 2.05 \times 100 \\\\
+                                        &= 205 \ \text {cm} \\\\
+\text {Legth of the cane snapped off}   &= \text {Original Length} - \text {New Length} \\\\
+                                        &= 205 - 156 \\\\
+                                        &= 49 \ \text {cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$49 \ \text {cm}$
 
 </div>
 </div>
@@ -462,24 +578,27 @@ $12 \ \text{m}^2$. How many packets does Ying-Ge need to buy?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin {aligned}
+\text {Number of packets}   &= \dfrac {\text {Area of the garden}} {\text {Area per packet of seeds}} \\\\
+                            &= \dfrac {158} {12} \\\\
+                            &= \dfrac {12 \times 14} {12} \\\\
+                            &= \dfrac {\cancel {12} \times 14} {\cancel {12}} \\\\
+                            &= 14
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+14
 
 </div>
 </div>
@@ -523,24 +642,28 @@ and the stickers are each $5 \ \text{cm}$ by $10 \ \text{cm}$. What is the maxim
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of stickers}  &= \dfrac {\text{Area of the wall}} {\text{Area of a sticker}} \\\\
+                           &= \dfrac {80 \times 45} {10 \times 5} \\\\
+                           &= \dfrac {8 \times 10 \times 5 \times 9} {10 \times 5} \\\\
+                           &= \dfrac {8 \times \cancel {10} \times \cancel {5} \times 9} {\cancel {10} \times \cancel {5}} \\\\
+                           &= 8 \times 9 \\\\
+                           &= 72
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+72
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-1"
 title: "TopicPaper - Number - 1"
-date: 2022-06-29 14:12:05
+date: 2022-06-29 16:24:20
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1697,11 +1697,7 @@ Write the number fourteen thousand and thirty six in figures.
 <div class='working'>
 
 $14036$
-$
-\begin{aligned}
- & 14036
-\end{aligned}
-$
+
 
 </div>
 </div>
@@ -2232,6 +2228,11 @@ Which two numbers are multiples of $6$?
 $12, 30$
 
 </div>
+<div class='working'>
+
+Both are multiple 0f $6$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -2253,7 +2254,7 @@ Which two numbers are prime?
 <div class='workings'>
 <div class='working'>
 
-$17, 29$
+ 17,29
 
 </div>
 </div>
@@ -2277,7 +2278,7 @@ Which two numbers are factors of $70$?
 <div class='workings'>
 <div class='working'>
 
-$10, 14$
+$10, 14$ 
 
 </div>
 </div>
@@ -2565,8 +2566,7 @@ $2 + (3 \times 6 + 4) \div 2 = ?$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}
@@ -2897,30 +2897,8 @@ Fill in the missing numbers.
 In each part, you can use the first line to help you.
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2934,24 +2912,29 @@ $16 \times \boxed{\phantom{15}} = 480$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$30$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+Let the missing  number $= a$
+
+$
+\begin{aligned}
+16 \times a &= 480 \\\\
+a           &= \dfrac{480}{16} \\\\
+a           &= \dfrac{30 \times 16}{16} \\\\
+a           &= \dfrac{30 \times \cancel{16}}{\cancel{16}} \\\\
+a           &= 30 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$30$
 
 </div>
 </div>
@@ -2975,7 +2958,7 @@ TODOWORKING
 </div>
 <div class='working'>
 
-TODOWORKING
+$1012$
 
 </div>
 </div>
@@ -2987,7 +2970,7 @@ TODOANSWER
 </div>
 <div class='answer'>
 
-TODOANSWER
+$1012$
 
 </div>
 </div>
@@ -3000,7 +2983,7 @@ TODOANSWER
 
 $600 \div 24 = 25$
 
-$600 \div \boxed{\phantom{15}} = 50$
+$600 \div \boxed{\phantom{12}} = 50$
 
 </div>
 <div class='workings'>
@@ -3011,7 +2994,18 @@ TODOWORKING
 </div>
 <div class='working'>
 
-TODOWORKING
+Let the missing  number $= a$
+
+$
+\begin{aligned}
+600 \div a &= 50 \\\\
+a           &= \dfrac{600}{50} \\\\
+a           &= \dfrac{60\cancel{0}}{5\cancel{0}} \\\\
+a           &= \dfrac{12 \times 5}{5} \\\\
+a           &= \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
+a           &= 12 
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3023,7 +3017,7 @@ TODOANSWER
 </div>
 <div class='answer'>
 
-TODOANSWER
+$12$
 
 </div>
 </div>
@@ -3063,8 +3057,7 @@ Work out $5 + 4 \times 2$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}
@@ -3286,7 +3279,7 @@ The digits add up to $10$. What is the number?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$91$
 
 </div>
 <div class='working'>
@@ -3298,7 +3291,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$91$
 
 </div>
 <div class='answer'>
@@ -3562,7 +3555,17 @@ TODOWORKING
 </div>
 <div class='working'>
 
-TODOWORKING
+Let the missing  number $= a$
+
+$
+\begin{aligned}
+16 \times a &= 480 \\\\
+a           &= \dfrac{480}{16} \\\\
+a           &= \dfrac{30 \times 16}{16} \\\\
+a           &= \dfrac{30 \times \cancel{16}}{\cancel{16}} \\\\
+a           &= 30 
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3574,7 +3577,7 @@ TODOANSWER
 </div>
 <div class='answer'>
 
-TODOANSWER
+$30$
 
 </div>
 </div>
@@ -3598,7 +3601,7 @@ TODOWORKING
 </div>
 <div class='working'>
 
-TODOWORKING
+$1012$
 
 </div>
 </div>
@@ -3610,7 +3613,7 @@ TODOANSWER
 </div>
 <div class='answer'>
 
-TODOANSWER
+$1012$
 
 </div>
 </div>
@@ -3634,7 +3637,18 @@ TODOWORKING
 </div>
 <div class='working'>
 
-TODOWORKING
+Let the missing  number $= a$
+
+$
+\begin{aligned}
+600 \div a &= 50 \\\\
+a           &= \dfrac{600}{50} \\\\
+a           &= \dfrac{60\cancel{0}}{5\cancel{0}} \\\\
+a           &= \dfrac{12 \times 5}{5} \\\\
+a           &= \dfrac{12 \times \cancel{5}}{\cancel{5}} \\\\
+a           &= 12 
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3646,7 +3660,7 @@ TODOANSWER
 </div>
 <div class='answer'>
 
-TODOANSWER
+$12$
 
 </div>
 </div>
@@ -3733,7 +3747,13 @@ TODOWORKING
 </div>
 <div class='working'>
 
-TODOWORKING
+$
+\dfrac{1}{10}  \quad
+\dfrac{4}{9}   \quad
+\dfrac{1}{2}   \quad
+]checkmark \dfrac{1}{100} \quad
+\dfrac{1}{8}
+$
 
 </div>
 </div>
@@ -3745,7 +3765,7 @@ TODOANSWER
 </div>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{1}{100}$
 
 </div>
 </div>
@@ -3777,7 +3797,13 @@ TODOWORKING
 </div>
 <div class='working'>
 
-TODOWORKING
+$
+0.9 \%    \quad
+9 \%    \quad
+10 \%    \quad
+\checkmark 11 \%    \quad
+19 \%
+$
 
 </div>
 </div>
@@ -3813,7 +3839,7 @@ TODOWORKING
 </div>
 <div class='working'>
 
-TODOWORKING
+$\dfrac{2}{9}$
 
 </div>
 </div>
@@ -3825,7 +3851,7 @@ TODOANSWER
 </div>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{2}{9}$
 
 </div>
 </div>
@@ -4026,8 +4052,7 @@ $12 - 2 \times 4 + 3 =$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}
@@ -4523,8 +4548,7 @@ $16 \times 2 - 2 \times 4 =$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}

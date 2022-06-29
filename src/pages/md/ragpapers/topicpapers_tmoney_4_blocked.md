@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-blocked"
 title: "TopicPaper - Money - 4 - BLOCKED"
-date: 2022-06-29 14:12:05
+date: 2022-06-29 16:24:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -65,6 +65,140 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 </div>
 </div>
 
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>3A71DDDC-2D6B-4A59-967F-56DE1212FA0F</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:25</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Once upon a time, in the Ancient Wizarding World of Haberdasher's
+
+One pound $= 20 \ \text{shillings}$ 
+
+One shilling $= 12 \ \text{pence}$
+
+A large Margarine-beer costs $1 \ \text{pound} \ 4 \ \text{shillings}$ and $9 \ \text{pence}$. 
+
+A small Margarine-beer costs $14 \ \text{shillings}$ and $5 \ \text{pence}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out the difference in price between a small and large beer. Give your answer in shillings and pence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out the total cost of one large and two small beers. Give your answer in pounds, shillings and pence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-6"
 title: "TopicPaper - Number - 6"
-date: 2022-06-29 14:12:05
+date: 2022-06-29 16:24:20
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2765,7 +2765,14 @@ $289 + 134$
 <div class='workings'>
 <div class='working'>
 
-$423$
+$
+\begin{array}{cccccccccccccc}
+    &   2   &   8   &   9 \\
+{}+ &   1   &   3   &   4 \\
+\hline
+    &   4   &   2   &   3
+\end{array}
+$
 
 </div>
 </div>
@@ -2789,7 +2796,14 @@ $4716 - 1825$
 <div class='workings'>
 <div class='working'>
 
-$2891$
+$
+\begin{array}{cccccccccccccc}
+     &   4   &   7   &   1   &   6 \\
+ {}- &   1   &   8   &   2   &   5 \\
+\hline
+     &   2   &   8   &   9   &   1 \\
+\end{array}
+$
 
 </div>
 </div>
@@ -2813,7 +2827,17 @@ $35 \times 29$
 <div class='workings'>
 <div class='working'>
 
-$1015$
+$
+\begin{array}{cccccccccccccc}
+    &                &   3   &   5 \\
+    &    {}\times    &   2   &   9 \\
+\hline
+    &        3       &   1   &   5 \\
+    &        7       &   0   &   0 \\
+\hline
+1   &        0       &   1   &   5
+\end{array}
+$
 
 </div>
 </div>

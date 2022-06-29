@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-blocked"
 title: "TopicPaper - Number - 11 - BLOCKED"
-date: 2022-06-29 14:12:05
+date: 2022-06-29 16:24:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -138,6 +138,50 @@ $\text {Fifty-two thousand and seventy}$
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>FE1B2DF4-1F07-4D2B-8602-80AF787DCBA7</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:2</p>
+</div>
+<div class='rag'>
+<p>rag_as_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down all the numbers  **smaller**  than 90 which are multiples of both 6 **and** 9. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$18, 36, 54, 72$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18, 36, 54, 72$
+
+</div>
+</div>
+
 
 </div>
 </li>

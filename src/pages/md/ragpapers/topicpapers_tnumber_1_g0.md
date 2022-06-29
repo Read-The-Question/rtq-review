@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g0"
 title: "TopicPaper - Number - 1 - G0"
-date: 2022-06-29 14:12:05
+date: 2022-06-29 16:24:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -855,11 +855,7 @@ Write the number fourteen thousand and thirty six in figures.
 <div class='working'>
 
 $14036$
-$
-\begin{aligned}
- & 14036
-\end{aligned}
-$
+
 
 </div>
 </div>
@@ -1390,6 +1386,11 @@ Which two numbers are multiples of $6$?
 $12, 30$
 
 </div>
+<div class='working'>
+
+Both are multiple 0f $6$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1411,7 +1412,7 @@ Which two numbers are prime?
 <div class='workings'>
 <div class='working'>
 
-$17, 29$
+ 17,29
 
 </div>
 </div>
@@ -1435,7 +1436,7 @@ Which two numbers are factors of $70$?
 <div class='workings'>
 <div class='working'>
 
-$10, 14$
+$10, 14$ 
 
 </div>
 </div>
@@ -1723,8 +1724,7 @@ $2 + (3 \times 6 + 4) \div 2 = ?$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}
@@ -2056,8 +2056,7 @@ Work out $5 + 4 \times 2$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}
@@ -2412,8 +2411,7 @@ $12 - 2 \times 4 + 3 =$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}
@@ -2593,8 +2591,7 @@ $16 \times 2 - 2 \times 4 =$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+rtq_abbr_md_bodmas,
 
 $
 \begin{aligned}

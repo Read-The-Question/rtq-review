@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-oldpr"
 title: "TopicPaper - Algebra - 14 - OLDPR"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -302,7 +302,8 @@ $13 = \boxed{\phantom{11}} + (5 - 2^2)$
 
 Let the missing number $= b$.
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin {aligned}
@@ -339,7 +340,8 @@ $72 \div \boxed{\phantom{11}} = 17 - 5 + 6$
 
 Let the missing number $= c$.
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin {aligned}

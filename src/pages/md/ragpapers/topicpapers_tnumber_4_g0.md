@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-g0"
 title: "TopicPaper - Number - 4 - G0"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2844,7 +2844,8 @@ Subtract $4 + (2 \times 13)$ from $(4 + 2) \times 13$.
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -3160,7 +3161,8 @@ Subtract $20 + (1 \times 7)$ from $(20 + 1) \times 7$.
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

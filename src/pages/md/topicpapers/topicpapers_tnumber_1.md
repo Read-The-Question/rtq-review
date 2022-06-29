@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-1"
 title: "TopicPaper - Number - 1"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -443,7 +443,8 @@ $13 + 4 \div 2$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -475,7 +476,8 @@ $4 \times 5 - 8 \times 3$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -507,7 +509,8 @@ $(-4 + 7)^3$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2430,7 +2433,8 @@ $2 + (3 \times 6 + 4) \div 2 = ?$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2927,7 +2931,8 @@ Work out $5 + 4 \times 2$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -3889,7 +3894,8 @@ $12 - 2 \times 4 + 3 =$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -4385,7 +4391,8 @@ $16 \times 2 - 2 \times 4 =$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

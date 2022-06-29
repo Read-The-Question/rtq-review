@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-5"
 title: "TopicPaper - Number - 5"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1513,7 +1513,8 @@ Work out $6 - 2 + 3 \times 4$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2530,7 +2531,8 @@ What is the value of $19 + 99 + 19 \times 99$?
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

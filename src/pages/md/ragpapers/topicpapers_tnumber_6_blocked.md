@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-blocked"
 title: "TopicPaper - Number - 6 - BLOCKED"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 08:59:39
 ---
 <ul class='question default-decimal'>
 <li>
@@ -46,6 +46,57 @@ $k + 30$
 <div class='answer'>
 
 $k + 30$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>6F9E845A-08BB-4FC9-9F77-A071F6D82B70</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>rag_mr_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find three prime numbers that add up to $30$.  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question
+
+$
+\begin{aligned}
+&= 23 + 5 + 2 \\\\
+&= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23, 5, 2$
 
 </div>
 </div>

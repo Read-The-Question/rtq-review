@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-g0"
 title: "TopicPaper - Number - 17 - G0"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -200,7 +200,8 @@ Find $2000 - 12 + 20 - 12$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -1286,7 +1287,8 @@ $4 + 5 \times 3 - 2$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

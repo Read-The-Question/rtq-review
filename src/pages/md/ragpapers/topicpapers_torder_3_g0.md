@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g0"
 title: "TopicPaper - Order - 3 - G0"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <ul class='question default-decimal'>
 <li>

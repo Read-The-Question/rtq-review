@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-notstarted"
 title: "TopicPaper - Number - 17 - NOTSTARTED"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -738,7 +738,8 @@ $18-17+16-15+14-13$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

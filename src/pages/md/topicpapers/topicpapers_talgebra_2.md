@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-2"
 title: "TopicPaper - Algebra - 2"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2146,7 +2146,8 @@ $u - v$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2179,7 +2180,8 @@ $u - (v + w)$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2213,7 +2215,8 @@ $v - w$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2246,7 +2249,8 @@ $u - (w - v)$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

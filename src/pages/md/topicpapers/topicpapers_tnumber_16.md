@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3137,7 +3137,8 @@ Which **one** of the following statements is false?
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 A. $2 + 5 \times 4 = 22$
 $2 + 20 = 22$

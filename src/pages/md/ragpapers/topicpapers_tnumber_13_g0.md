@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g0"
 title: "TopicPaper - Number - 13 - G0"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -418,7 +418,8 @@ Work out the following: $21 - 5 \times 2 + 6$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

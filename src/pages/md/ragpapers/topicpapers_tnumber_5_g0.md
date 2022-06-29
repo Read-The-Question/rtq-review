@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-5-g0"
 title: "TopicPaper - Number - 5 - G0"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -665,7 +665,8 @@ Work out $6 - 2 + 3 \times 4$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -1619,7 +1620,8 @@ What is the value of $19 + 99 + 19 \times 99$?
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -483,7 +483,8 @@ $8 \times 3 - 10 + 6$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS
+ABBR: Using BIDMAS
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -515,7 +516,8 @@ $72 \div 9 \times 7$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS
+ABBR: Using BIDMAS
+
 
 $
 \begin{array}{cccccccccccccc}

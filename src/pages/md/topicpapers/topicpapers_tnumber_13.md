@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -758,7 +758,8 @@ Work out the following: $21 - 5 \times 2 + 6$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

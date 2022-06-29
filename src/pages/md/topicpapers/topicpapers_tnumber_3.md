@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-3"
 title: "TopicPaper - Number - 3"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2050,7 +2050,8 @@ $3 \times 7 + 4$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2082,7 +2083,8 @@ $12 \div 6 \div 2$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2114,7 +2116,8 @@ $15 - 4 \times 2$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -4871,7 +4874,8 @@ $(5 + 3) \times (7 + 2) =$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -4905,7 +4909,8 @@ $5 + (3 \times 7) + 2 =$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -4939,7 +4944,8 @@ $(5 + 3) \times 7 + 2 =$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -4978,7 +4984,8 @@ Write (a), (b) or (c) in the answer box.
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

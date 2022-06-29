@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g0"
 title: "TopicPaper - Number - 11 - G0"
-date: 2022-06-29 05:02:57
+date: 2022-06-29 06:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2439,7 +2439,8 @@ Calculate $2.4 \times (3.7 +  1.3) \div 2$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2788,7 +2789,8 @@ Calculate $1.1 \times (4.5 + 2.5) - 2$
 <div class='workings'>
 <div class='working'>
 
-Using BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}

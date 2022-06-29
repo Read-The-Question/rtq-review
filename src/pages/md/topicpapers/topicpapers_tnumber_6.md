@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-6"
 title: "TopicPaper - Number - 6"
-date: 2022-06-29 16:24:20
+date: 2022-06-29 17:32:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3951,7 +3951,7 @@ Move all numbers to RHS in one go, so drop S3
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E4608B85-A3A5-4391-A7D7-4F71FAC737DB</p>
 </div>
@@ -3962,7 +3962,7 @@ Move all numbers to RHS in one go, so drop S3
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3975,8 +3975,11 @@ tnumber
 
 What number is $0.02$ more than $16.99$?
 
- A        B     C      D      E
-$17.09$  $18.01$  $16.97$  $17.01$  $17.019$
+- $17.09$
+- $18.01$
+- $16.97$
+- $17.01$
+- $17.019$
 
 </div>
 <div class='workings'>
@@ -4037,7 +4040,7 @@ $17.01$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7A3EB116-901D-4C60-9906-5C7ECB21025B</p>
 </div>
@@ -4048,7 +4051,7 @@ $17.01$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4067,8 +4070,11 @@ that you can make using the
 digits $4, 3, 9$ and $1$?
 Use each digit only once.
 
-A        B       C       D       E
-$9413$  $1349$  $4319$  $1439$  $1934$
+- $9413$
+- $1349$
+- $4319$
+- $1439$
+- $1934$
 
 </div>
 <div class='workings'>
@@ -4124,7 +4130,7 @@ $1349$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CC62F717-09D2-42A3-9042-C2C7C102D1E6</p>
 </div>
@@ -4135,7 +4141,7 @@ $1349$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4162,8 +4168,11 @@ and two operations on five cards.
 
 Which of these gives the answer $15$?
 
-     A            B       C        D         E
-$24 \div 7 + 3$   $3 + 7 \div 24$  $7 + 3  \div 24$  $3 \div 7 + 24$  $24 \div 3 + 7$
+- $24 \div 7 + 3$
+- $3 + 7 \div 24$
+- $7 + 3 \div 24$
+- $3 \div 7 + 24$
+- $24 \div 3 + 7$
 
 </div>
 <div class='workings'>
@@ -4179,8 +4188,6 @@ $
 &= 15
 \end {aligned}
 $
-
-$24 \div 3 + 7$ gives the answer $15$.
 
 </div>
 </div>

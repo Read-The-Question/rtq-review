@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-g0"
 title: "TopicPaper - Number - 7 - G0"
-date: 2022-06-29 18:28:43
+date: 2022-06-29 22:07:47
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>83337D0D-9540-4245-B775-A8E101DB982C</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-29 18:28:43
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -90,7 +90,7 @@ $84$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>20E85746-0B74-4085-B598-68F104A85A9D</p>
 </div>
@@ -101,7 +101,7 @@ $84$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -122,12 +122,11 @@ $
 \begin {aligned}
 &= (0.3 + \dfrac {2} {5}) \div 2 \\\\
 &= (\dfrac {3} {10} + \dfrac {2} {5}) \div 2 \\\\
-&= (\dfrac {3} {10} + \dfrac {2 \times 2} {5 \times 2}) \div 2 \\\\
-&= (\dfrac {3} {10} + \dfrac {4} {10}) \div 2 \\\\
-&= (\dfrac {3 + 4} {10}) \div 2 \\\\
-&= \dfrac {7} {10} \times \dfrac {1} {2} \\\\
-&= \dfrac {7} {10 \times 2} \\\\
-&= \dfrac {7} {20} \\\\
+&= (\dfrac {3 \times 5} {10 \times 5} + \dfrac {2 \times 10} {5 \times 10}) \div 2 \\\\
+&= (\dfrac {15} {50} + \dfrac {20} {50}) \div 2 \\\\
+&= (\dfrac {35} {50}) \div 2 \\\\
+&= \dfrac {35} {50} \times \dfrac {1} {2} \\\\
+&= \dfrac {35} {100} \\\\
 &= 0.35
 \end {aligned}
 $
@@ -177,7 +176,7 @@ $0.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5E782C60-2380-4CB3-A14F-DE83C631BF11</p>
 </div>
@@ -188,7 +187,7 @@ $0.35$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -255,7 +254,7 @@ $10236$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>212E224E-5582-4831-B6B2-47F9B128497C</p>
 </div>
@@ -266,7 +265,7 @@ $10236$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -287,11 +286,11 @@ Which digit should replace the * below?
 
 A: $1$ 
 
-B: $2$ 
+B: $2$
 
-C: $4$ 
+C: $4$
 
-D: $6$ 
+D: $6$
 
 E: $7$
 
@@ -356,7 +355,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FB115BA3-7098-49AF-867D-F1D690B2872B</p>
 </div>
@@ -367,7 +366,7 @@ $7$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -452,7 +451,7 @@ $27 \times 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3DE5385D-C398-446E-9FFB-0EE8FB9E5AE5</p>
 </div>
@@ -463,7 +462,7 @@ $27 \times 9$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -545,7 +544,7 @@ $69977$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>17EF20AA-D366-45EE-BEAA-69CF13C7B2AD</p>
 </div>
@@ -556,7 +555,7 @@ $69977$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -646,7 +645,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7EF9A988-17EA-42BA-91F8-90543EBC8A99</p>
 </div>
@@ -657,7 +656,7 @@ $8$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -734,7 +733,7 @@ $1400 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E333CCD4-4A4B-4AE8-8804-73CF98BB3014</p>
 </div>
@@ -745,7 +744,7 @@ $1400 \ \text{cm}$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -827,10 +826,10 @@ Subtract $-23$ from $-81$
 
 $
 \begin{array}{cccccccccccccc}
-         &   {}-   &   2   &   3 \\
-         &   {}-   &   8   &   1 \\
+    {}    &   2   &   3 \\
+    {}-   &   8   &   1 \\
 \hline
-{}-      &   1     &   0   &   4
+    {}-   &   5   &   8
 \end{array}
 $
 
@@ -839,7 +838,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-104$
+$-58$
 
 </div>
 </div>
@@ -914,7 +913,7 @@ $73$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5DC95291-33D3-474E-ACDD-E60270873E53</p>
 </div>
@@ -925,7 +924,7 @@ $73$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1099,7 +1098,7 @@ $999$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6C394690-97C2-41D3-BCDE-D8847D0B113C</p>
 </div>
@@ -1110,7 +1109,7 @@ $999$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1309,7 +1308,7 @@ $700$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>02AE8DFB-4F87-46DA-95B0-D6783C21CA17</p>
 </div>
@@ -1320,7 +1319,7 @@ $700$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1364,8 +1363,8 @@ Find the cost of $3$ adult return tickets.
 
 $
 \begin{aligned}
-\text {Cost of 3 adult tickets} &= 29.40 \times 3 \\\\
-                                &= \pounds 88.2
+\text{The cost of 3 adult tickets} &= 29.40 \times 3 \\\\
+                                   &= \pounds 88.2
 \end{aligned}
 $
 
@@ -1393,8 +1392,8 @@ The price of a childrens ticket is half that of an adult ticket. What is the cos
 
 $
 \begin{aligned}
-\text {Cost of a child ticket}  &= \dfrac {29.40} {2} \\\\
-                                &= \pounds 14.7
+\text{The cost of childrens ticket} &= \dfrac {29.40} {2} \\\\
+&= \pounds 14.7
 \end{aligned}
 $
 
@@ -1446,7 +1445,7 @@ $\pounds 14.7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EA4D8FA1-CDB2-4F52-894E-2C891BA634A8</p>
 </div>
@@ -1457,7 +1456,7 @@ $\pounds 14.7$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1548,14 +1547,14 @@ three prime numbers
 <div class='workings'>
 <div class='working'>
 
-$11 \ 13 \ 17$
+$11, 13, 17$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11 \ 13 \ 17$
+$11, 13, 17$
 
 </div>
 </div>
@@ -1572,14 +1571,14 @@ two factors of $60$
 <div class='workings'>
 <div class='working'>
 
-$12 \ 15$
+$12, 15$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12 \ 15$
+$12, 15$
 
 </div>
 </div>
@@ -1684,7 +1683,7 @@ $306$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D1915A62-7372-477D-A35A-78B2C0261ECE</p>
 </div>
@@ -1695,7 +1694,7 @@ $306$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1862,7 +1861,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F3144B09-1621-4BF8-A18D-56C923A48403</p>
 </div>
@@ -1873,7 +1872,7 @@ $12$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2047,7 +2046,7 @@ $76 \times 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E</p>
 </div>
@@ -2058,7 +2057,7 @@ $76 \times 8$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2125,7 +2124,7 @@ $400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>87FAE991-A5BF-4CBE-B67D-C2936D4737F8</p>
 </div>
@@ -2136,7 +2135,7 @@ $400$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2306,8 +2305,8 @@ $
 &= 20 \% \ \text {of} \ \pounds 840 \\\\
 &= \dfrac {20} {100} \times 840 \\\\
 &= \dfrac {20 \times 840} {100} \\\\
-&= \dfrac {2 \cancel {0} \times 84 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 2 \times 84 \\\\
+&= \dfrac {168 \times 100} {100} \\\\
+&= \dfrac {168 \times \cancel {100}} {\cancel {100}} \\\\
 &= \pounds 168
 \end{aligned}
 $

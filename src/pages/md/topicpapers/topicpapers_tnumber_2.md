@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-2"
 title: "TopicPaper - Number - 2"
-date: 2022-06-29 22:07:47
+date: 2022-06-30 04:44:20
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1866,12 +1866,9 @@ Let the missing number $= a$
 
 $
 \begin{aligned}
-25 - a + 17   &= 38 \\\\
-42 - a        &= 38 \\\\
-- a           &= 38 - 42 \\\\
-- a           &= - 4 \\\\
-\cancel {-} a &= \cancel {-} 4 \\\\
-a             &= 4
+25 - a + 17 &= 38 \\\\
+a      &= 42 - 38 \\\\
+a      &= 4
 \end{aligned}
 $
 
@@ -1936,10 +1933,10 @@ Let the missing number $= a$
 $
 \begin{aligned}
 72 \div 9 &= a \div 3 \\\\
-8         &= a \div 3 \\\\
-a \div 3  &= 8 \\\\
-a         &= 8 \times 3 \\\\
-a         &= 24
+\dfrac {72} {9}  &= \dfrac {a} {3} \\\\
+a                &= \dfrac {72 \times 3} {9} \\\\
+a                &= \dfrac {8 \times \cancel{9} \times 3} {\cancel{9}} \\\\
+a                &= 24
 \end{aligned}
 $
 
@@ -5635,7 +5632,7 @@ $0.7112$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>142280BA-7FA3-4D0B-B002-0B6A5B2CCEAE</p>
 </div>
@@ -5646,7 +5643,7 @@ $0.7112$
 <p>rag_vg_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5725,7 +5722,7 @@ $4.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CD8EF491-8FD3-41BA-82B3-641CE269368D</p>
 </div>
@@ -5736,7 +5733,7 @@ $4.20$
 <p>rag_vg_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

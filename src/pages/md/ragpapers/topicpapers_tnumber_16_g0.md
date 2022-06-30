@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0"
 title: "TopicPaper - Number - 16 - G0"
-date: 2022-06-29 22:07:47
+date: 2022-06-30 04:44:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -947,7 +947,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>091E6F1C-295F-45D6-A212-41256EE84A75</p>
 </div>
@@ -958,7 +958,7 @@ $3$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -975,8 +975,7 @@ Work out $2.35 \times 3000$.
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's first multiply the numbers ignoring the decimal points.
-and zeroes.
+Let's first multiply the numbers ignoring the decimal points and zeroes
 
 $
 \begin{array}{cccccccccccccc}
@@ -987,13 +986,13 @@ $
 \end{array}
 $
 
-Let's account for the three zeroes now.
+Let's account for the three zeroes now
 
 $= 705000$
 
-The total number of digits after the decimal point is two.
+The total number of digits after the decimal point is two
 
-Let's account for the decimal point now.
+Let's account for the decimal point now
 
 $= 7050$
 
@@ -1042,7 +1041,7 @@ $7050$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EC2A9B83-84D4-486D-8D93-A7BB3D422618</p>
 </div>
@@ -1053,7 +1052,7 @@ $7050$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1071,6 +1070,7 @@ What is the **__least__** number which can be added to $278$ to make a number wh
 <div class='working'>
 
 If we divide $278$ by $13$, the quotient is $21$ and the remainder is $5$.
+
 
 So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
 
@@ -1119,7 +1119,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3143F4B2-41D5-4792-B6A8-FD619A39DC38</p>
 </div>
@@ -1130,7 +1130,7 @@ $8$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1208,7 +1208,7 @@ $
 \end{aligned}
 $
 
-Let's put them in descending order.
+Let's put them in descending order
 
 $42, \quad 22, \quad 8, \quad 4, \quad 0$
 
@@ -1259,7 +1259,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3B8A6B5F-F638-4105-ABFA-5CB86719183E</p>
 </div>
@@ -1270,7 +1270,7 @@ $8$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1341,7 +1341,7 @@ $0.72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>64EB2E3C-86B2-4FD9-AB8A-774E97F14284</p>
 </div>
@@ -1352,7 +1352,7 @@ $0.72$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1422,7 +1422,7 @@ $83$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C2E22412-E021-4E4D-A39D-EB496D9E54C0</p>
 </div>
@@ -1433,7 +1433,7 @@ $83$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1452,7 +1452,18 @@ $56 \div \Box = 8$
 <div class='workings'>
 <div class='working'>
 
-$56 \div \boxed 7 = 8$
+Let the missing number = a
+
+$
+\begin{aligned}
+&56 \div a = 8 \\\\
+&\dfrac{56}{a} = 8 \\\\
+&a = \dfrac{56}{8} \\\\
+&a=\dfrac{7\times 8}{8} \\\\
+&a=\dfrac{7\times\cancel8}{\cancel8} \\\\
+&a=7
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1499,7 +1510,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>24E3A4B1-7F73-4DED-AEF1-853BF97CB318</p>
 </div>
@@ -1510,7 +1521,7 @@ $7$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1531,7 +1542,6 @@ $
 \begin{aligned}
 &= 0.72 \\\\
 &= \dfrac {72} {100} \\\\
-&= \dfrac {2 \times 36} {2 \times 50} \\\\
 &= \dfrac {2 \times 2 \times 18} {2 \times 2 \times 25} \\\\
 &= \dfrac {\cancel {2} \times \cancel {2} \times 18} {\cancel {2} \times \cancel {2} \times 25} \\\\
 &= \dfrac {18} {25}
@@ -1583,7 +1593,7 @@ $\dfrac {18} {25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5037A26A-1C67-49DB-B389-230F0AD80021</p>
 </div>
@@ -1594,7 +1604,7 @@ $\dfrac {18} {25}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1640,8 +1650,7 @@ $
 \begin{aligned}
 &= 3 - 2 \dfrac {5} {9} \\\\
 &= \dfrac {3} {1} - \dfrac {23} {9} \\\\
-&= \dfrac {3 \times 9} {1 \times 9}- \dfrac {23} {9} \\\\
-&= \dfrac {27} {9} - \dfrac {23} {9} \\\\
+&=\dfrac{3 \times 9 - 23 \times 1}{1 \times 9}\\\\
 &= \dfrac {27 - 23} {9} \\\\
 &= \dfrac {4} {9}
 \end{aligned}
@@ -1673,8 +1682,8 @@ $
 \begin{aligned}
 &= 2 + 4 \times \dfrac {3} {5} \\\\
 &= \dfrac {2} {1} + \dfrac {4 \times 3} {5} \\\\
-&= \dfrac {2 \times 5} {1 \times 5} + \dfrac {12} {5} \\\\
-&= \dfrac {10} {5} + \dfrac {12} {5} \\\\
+&= \dfrac {2} {1} + \dfrac {12} {5} \\\\
+&= \dfrac{2\times5 + 12\times 1}{1\times 5} \\\\
 &= \dfrac {10 + 12} {5} \\\\
 &= \dfrac {22} {5} \\\\
 &= 4 \dfrac {2} {5}
@@ -1729,7 +1738,7 @@ $\dfrac {22} {5} \ \text{or} \ 4 \dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>14E7D9BB-896F-4DD7-B682-0A66533FE48A</p>
 </div>
@@ -1740,7 +1749,7 @@ $\dfrac {22} {5} \ \text{or} \ 4 \dfrac {2} {5}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1878,6 +1887,7 @@ $656 \div 8$
 
 $
 \begin{aligned}
+&=656 \div 8 \\\\
 &= \dfrac {656} {8} \\\\
 &= \dfrac {8 \times 82} {8} \\\\
 &= \dfrac {\cancel {8} \times 82} {\cancel 8} \\\\
@@ -1933,7 +1943,7 @@ $82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9611F315-A458-4F06-A86C-5DB7C2FB593D</p>
 </div>
@@ -1944,7 +1954,7 @@ $82$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2008,7 +2018,7 @@ $63,401$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5F6EBC17-59BB-4241-954E-B94AC553427C</p>
 </div>
@@ -2019,7 +2029,7 @@ $63,401$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2045,7 +2055,7 @@ We know, if the last digit of a number is $0$ or $5$ , then the number is divisi
 
 As per the question, 
 
-Number divisible by $5 = 70$ and $5$
+Numbers divisible by $5 = 70$ and $5$
 
 </div>
 </div>
@@ -2092,7 +2102,7 @@ $70, 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4E723282-26DB-4607-BC4A-8ABD84639C1F</p>
 </div>
@@ -2103,7 +2113,7 @@ $70, 5$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2179,7 +2189,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D1F2C306-6F2F-4BEC-8034-EAA69C85106F</p>
 </div>
@@ -2190,7 +2200,7 @@ $8$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

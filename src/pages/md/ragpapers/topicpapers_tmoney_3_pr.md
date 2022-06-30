@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-pr"
 title: "TopicPaper - Money - 3 - PR"
-date: 2022-06-29 22:07:47
+date: 2022-06-30 04:44:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -610,7 +610,7 @@ $
                                 &= \dfrac {3} {6.30} \\\\
                                 &= \dfrac {3 \times 100} {6.30 \times 100} \\\\
                                 &= \dfrac {3 \times 100} {630} \\\\
-                                &= \dfrac {3 \times 10 \times 10}} {3 \times 10 \times 21} \\\\
+                                &= \dfrac {3 \times 10 \times 10} {3 \times 10 \times 21} \\\\
                                 &= \dfrac {\cancel {3} \times \cancel {10} \times 10} {\cancel {3} \times \cancel {10} \times 21} \\\\
                                 &= \dfrac {10} {21} \\\\
                                 &= 0 \ \text {remainder} \ 10 \\\\

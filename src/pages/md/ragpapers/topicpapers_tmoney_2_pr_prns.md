@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-pr-prns"
 title: "TopicPaper - Money - 2 - PR - PRNS"
-date: 2022-06-29 22:07:47
+date: 2022-06-30 04:44:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -175,7 +175,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-\pounds 2.14
+$\pounds 2.14$
 
 </div>
 </div>
@@ -297,9 +297,9 @@ a           &= \pounds 0.03
 \end {aligned}
 $
 
+A cucumber cost $= \pounds 0.03$
 $
 \begin {aligned}
-\text {A cucumber cost}                         &= \pounds 0.03 \\\\
 \text {Cost of} \ 8 \ \text {giant mushrooms}   &= 8 \times \dfrac {3a} {5} \\\\
                                                 &= 8 \times \dfrac {3 \times 0.03} {5} \\\\
                                                 &= \dfrac {8 \times 3 \times 0.03} {5} \\\\
@@ -640,7 +640,7 @@ Find the greatest number of $28 \text{p}$ stamps which can be bought for $\pound
 $
 \begin {aligned}
 \text {Number of stamps}    &= \dfrac {\pounds 5} {28 \text {p}} \\\\
-                            &= \dfrac {500 \text} {28 \text {p}} \\\\
+                            &= \dfrac {500 \text {p}} {28 \text {p}} \\\\
                             &= \dfrac {4 \times 125} {4 \times 7} \\\\
                             &= \dfrac {\cancel {4} \times 125} {\cancel {4} \times 7} \\\\
                             &= \dfrac {125} {7} \\\\

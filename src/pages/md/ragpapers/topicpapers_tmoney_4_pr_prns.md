@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-pr-prns"
 title: "TopicPaper - Money - 4 - PR - PRNS"
-date: 2022-06-29 22:07:47
+date: 2022-06-30 04:44:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1053,7 +1053,7 @@ $
 \text {Cost of lid}     &= 40 \text {p} \\\\
 \text {Cost of jar}     &= 4 \times 40 \\\\
                         &= 160 \text {p}
-\enmd {aligned}
+\end {aligned}
 $
 
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-06-30 04:44:20
+date: 2022-06-30 06:02:41
 ---
 <div class='paper'>
 <div class='meta'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-06-30 04:44:20
+date: 2022-06-30 06:02:41
 ---
 <div class='paper'>
 <div class='meta'>
@@ -895,7 +895,7 @@ $\pounds 3.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>45A5CEB0-1028-4A34-93EC-2A2FEB52C178</p>
 </div>
@@ -903,7 +903,7 @@ $\pounds 3.20$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -923,24 +923,14 @@ The pupils in a class had a sponsored swim. They collected $\pounds 429.24$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -955,24 +945,19 @@ How much is $\pounds 429.24$ to the nearest hundred pounds?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+&= \pounds 429.24 \\\\
+&\approx \pounds 400
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 400$
 
 </div>
 </div>
@@ -989,24 +974,19 @@ How much is $\pounds 429.24$ to the nearest ten pounds?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+&= \pounds 429.24 \\\\
+&\approx \pounds 430
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 430$
 
 </div>
 </div>
@@ -1015,6 +995,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='45A5CEB0-1028-4A34-93EC-2A2FEB52C178' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='45A5CEB0-1028-4A34-93EC-2A2FEB52C178' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='45A5CEB0-1028-4A34-93EC-2A2FEB52C178' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='45A5CEB0-1028-4A34-93EC-2A2FEB52C178' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='45A5CEB0-1028-4A34-93EC-2A2FEB52C178' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='45A5CEB0-1028-4A34-93EC-2A2FEB52C178' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='45A5CEB0-1028-4A34-93EC-2A2FEB52C178' id='FORM-45A5CEB0-1028-4A34-93EC-2A2FEB52C178' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-45A5CEB0-1028-4A34-93EC-2A2FEB52C178'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -1112,7 +1123,7 @@ $\pounds 8.06$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>08D5A505-1DF8-4590-802C-E8295C988258</p>
 </div>
@@ -1120,7 +1131,7 @@ $\pounds 8.06$
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1140,24 +1151,14 @@ tmoney
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -1176,24 +1177,33 @@ What is the maximum number of lollipops I can buy?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required
 
-</div>
-<div class='working'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Number of packets}           &= \dfrac {\pounds 2} {30 \text {p}} \\\\
+                                    &= \dfrac {200 \text {p}} {30 \text {p}} \\\\
+                                    &= \dfrac {20 \cancel {0}} {3 \cancel {0}} \\\\
+                                    &= \dfrac {20} {3} \\\\
+                                    &= 6 \ \text {remainder} 2 \\\\
+                                    &\approx 6 \\\\
+\text {Number of Lollipops}         &= \dfrac {200 - 6 \times 30} {12} \\\\
+                                    &= \dfrac {200 - 180} {12} \\\\
+                                    &= \dfrac {20} {12} \\\\
+                                    &= 1 \ \text {remainder} \ 8 \\\\
+                                    &\approx 1 \\\\
+\text {Total number of lollipops}   &= 6 + 1 \\\\
+                                    &= 7
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$7$
 
 </div>
 </div>
@@ -1214,24 +1224,29 @@ How much fibre is there in one slice?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin {aligned}
+100 \ \text {g of bread}    &= 6 \ \text {g of fibre} \\\\
+100 \times 4                &= 6 \times 4 \\\\
+400 \ \text {g of bread}    &= 24 \ \text {g of fibre}
+\end {aligned}
+$
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Fibre in one slice of bread} &= \dfrac {24} {10} \\\\\
+                                    &= 2.4 \ \text {g}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$2.4 \ \text {g}$
 
 </div>
 </div>
@@ -1240,6 +1255,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='08D5A505-1DF8-4590-802C-E8295C988258' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='08D5A505-1DF8-4590-802C-E8295C988258' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='08D5A505-1DF8-4590-802C-E8295C988258' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='08D5A505-1DF8-4590-802C-E8295C988258' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='08D5A505-1DF8-4590-802C-E8295C988258' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='08D5A505-1DF8-4590-802C-E8295C988258' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='08D5A505-1DF8-4590-802C-E8295C988258' id='FORM-08D5A505-1DF8-4590-802C-E8295C988258' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-08D5A505-1DF8-4590-802C-E8295C988258'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3905,7 +3951,7 @@ $\pounds 3.36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ACA74429-A1D1-4928-9950-F662A5CAE274</p>
 </div>
@@ -3913,7 +3959,7 @@ $\pounds 3.36$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:23</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3933,29 +3979,58 @@ I buy $13$ chocolate bars costing $23 \text{p}$ each. How much change would I ge
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Total cost}      &= 13 \times 23 \\\\
+                        &= 299 \text {p} \\\\
+                        &= \pounds 2.99 \\\\
+\text {Change received} &= 5 - 2.99 \\\\
+                        &= \pounds 3.01
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 3.01$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='ACA74429-A1D1-4928-9950-F662A5CAE274' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='ACA74429-A1D1-4928-9950-F662A5CAE274' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='ACA74429-A1D1-4928-9950-F662A5CAE274' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='ACA74429-A1D1-4928-9950-F662A5CAE274' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='ACA74429-A1D1-4928-9950-F662A5CAE274' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='ACA74429-A1D1-4928-9950-F662A5CAE274' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='ACA74429-A1D1-4928-9950-F662A5CAE274' id='FORM-ACA74429-A1D1-4928-9950-F662A5CAE274' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-ACA74429-A1D1-4928-9950-F662A5CAE274'>Initial</p>
+</div>
 </div>
 </li>
 <li>

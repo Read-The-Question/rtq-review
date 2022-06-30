@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-g2"
 title: "TopicPaper - Detailedmultiplication - 3 - G2"
-date: 2022-06-30 04:44:20
+date: 2022-06-30 06:02:41
 ---
 <ul class='question default-decimal'>
 <li>

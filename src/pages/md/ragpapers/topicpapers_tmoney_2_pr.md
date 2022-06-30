@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-pr"
 title: "TopicPaper - Money - 2 - PR"
-date: 2022-06-30 04:44:20
+date: 2022-06-30 06:02:41
 ---
 <ul class='question default-decimal'>
 <li>
@@ -101,6 +101,173 @@ $4 \ \text {litre can}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-7B691812-7935-4E93-8B2D-A027448F73FA'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>A259801B-9E28-4789-81B1-80A7780B7CF4</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:16</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A lottery “jackpot” pay-out of $€1275363$ was shared amongst three people. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much did each receive?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Each person received}    &= \dfrac {€1275363} {3} \\\\
+                                &= \dfrac {3 \times 425121} {3} \\\\
+                                &= \dfrac {\cancel {3} \times 425121} {\cancel {3}} \\\\
+                                &= €425121
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$€425121$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much did each receive, to the nearest thousand Euros?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= €425121 \\\\
+&\approx €425000
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$425000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Round your answer to part a to $2$ significant figures.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= €425121 \\\\
+&\approx €420000
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$€420000$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A259801B-9E28-4789-81B1-80A7780B7CF4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A259801B-9E28-4789-81B1-80A7780B7CF4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A259801B-9E28-4789-81B1-80A7780B7CF4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A259801B-9E28-4789-81B1-80A7780B7CF4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A259801B-9E28-4789-81B1-80A7780B7CF4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A259801B-9E28-4789-81B1-80A7780B7CF4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A259801B-9E28-4789-81B1-80A7780B7CF4' id='FORM-A259801B-9E28-4789-81B1-80A7780B7CF4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A259801B-9E28-4789-81B1-80A7780B7CF4'>Initial</p>
 </div>
 </div>
 </li>

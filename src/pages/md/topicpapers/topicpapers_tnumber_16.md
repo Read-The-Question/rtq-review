@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-06-30 14:32:41
+date: 2022-06-30 15:54:52
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3367,7 +3367,7 @@ $584$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2F004FED-C180-43D6-92EB-C8E129B37242</p>
 </div>
@@ -3378,7 +3378,7 @@ $584$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3417,7 +3417,8 @@ $18 - 18 = 0$
 C. $15-2 \times 7 = 1$
 $15-14 = 1$
 
-D. $7 + 1 \times 3 = 21$
+D. $7 + 1 \times 3 = \red
+{21}$
 
 E. $8 \times 5 - 7 = 33$
 $40 - 7 = 33$
@@ -3533,7 +3534,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DF63EFF7-9F60-4E2D-B7A7-BBDDF536AFB7</p>
 </div>
@@ -3544,7 +3545,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3626,11 +3627,9 @@ $
 578 \times 1 = 578
 $
 
-Between the two numbers, the total number of digits after the decimal point is two.
+Between the two numbers, the total number of digits after the decimal point is two. Let's account for the decimal point now.
 
-Let's account for the decimal point now.
-
-$5.78$
+$=5.78$
 
 </div>
 </div>
@@ -3680,7 +3679,7 @@ $5.78$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
 </div>
@@ -3691,7 +3690,7 @@ $5.78$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3708,19 +3707,16 @@ What is the smallest whole number, above $120$, which when divided by $53$, leav
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
-The number leaves a remainder $2$ when divided by $53$ and is less than $120$
-
-$53 \times 2 = 106$
+$53 \times 2 = 106$ ,
 $106 < 120$
 
-$53 \times 3 = 159$
-$159 > 120$ So,
+$53 \times 3 = 159$ ,
+$159 > 120$ 
 
 $159 + 2 = 161$
 
-The smallest whole number, above $120$ , which when divided by $53$ , leaves a remainder of two $= 161$
+The smallest whole number above $120$ which when divided by $53$ leaves a remainder of two $= 161$
 
 </div>
 </div>
@@ -3767,7 +3763,7 @@ $161$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B8D6BAFA-557D-451D-BA17-5723EF73E965</p>
 </div>
@@ -3778,7 +3774,7 @@ $161$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3877,24 +3873,27 @@ Sum of $-1$ and $-2$
 
 $
 \begin{aligned}
+&= -1 +(- 2) \\\\
 &= -1 - 2 \\\\
-&= -3 \\\\
+&= -3
 \end{aligned}
 $
 
 Sum of $-3$ and $0$ 
+
 $
 \begin{aligned}
 &= -3 + 0 \\\\
-&= -3 \\\\
+&= -3
 \end{aligned}
 $
 
 Sum of $-4$ and $1$ 
+
 $
 \begin{aligned}
 &= -4 + 1 \\\\
-&= -3 \\\\\
+&= -3 
 \end{aligned}
 $
 
@@ -3948,7 +3947,7 @@ $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B09594F6-C583-4EFB-8072-0453A8DD522A</p>
 </div>
@@ -3959,7 +3958,7 @@ $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4073,9 +4072,7 @@ $
 \end{array}
 $
 
-Between the two numbers, the total number of digits after the decimal point is one.
-
-Let's account for the decimal point now.
+Between the two numbers, the total number of digits after the decimal point is one. Let's account for the decimal point now.
 
 $= 32.4$
 
@@ -4186,7 +4183,7 @@ $0.101$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8A24363A-173B-47A3-9255-922EF8A300A3</p>
 </div>
@@ -4197,7 +4194,7 @@ $0.101$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4237,9 +4234,9 @@ $a$ is a multiple of $5$
 
 $a <60$
 
-Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
+Numbers between $40$ and $60$ which are multiple of $5 = {45, 50, 55}$
 
-Numbers between $40$ and $60$ which are dvisible by $3 = {45, 48, 51, 54, 57}$
+Numbers between $40$ and $60$ which are multiple of $3 = {45, 48, 51, 54, 57}$
 
 Since $45$ is common in both, 
 
@@ -4390,9 +4387,7 @@ $
 872 \times 1 = 872 \\
 $
 
-Between the two numbers, the total number of digits after the decimal point is three.
-
-Let's account for the decimal point now.
+Between the two numbers, the total number of digits after the decimal point is three. Let's account for the decimal point now.
 
 $
 = 0.872
@@ -4443,7 +4438,7 @@ $0.872$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CF222902-2477-42D2-AE75-3A8396F1AAC7</p>
 </div>
@@ -4454,7 +4449,7 @@ $0.872$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4495,13 +4490,14 @@ $28 \times 970$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
-28 \times 97            &= 2716 \\\\
-28 \times 97 \times 10  &= 2716 \times 10 \\\\
-28 \times 970           &= 27160
+&=28 \times 970\\\\
+&=28 \times 97 \times 10 \\\\
+&=2716 \times 10 \\\\
+&= 27160
 \end{aligned}
 $
 
@@ -4527,14 +4523,17 @@ $2.8 \times 0.97$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
-\begin{aligned}
-28 \times 97                                &= 2716 \\\\
-\dfrac{28} {10} \times \dfrac {97} {100}    &= \dfrac {2716} {1000} \\\\
-2.8 \times 0.97                               &= 2.716
-\end{aligned}
+28 \times 97 = 2716 \\
+$
+
+Between the two numbers, the total number of digits after the decimal point is three. Let's account for the decimal point now.
+
+$
+= 2.716
 $
 
 </div>
@@ -4585,7 +4584,7 @@ $2.716$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F86CD19-6141-43F1-9E8F-2A2A31A0E9AA</p>
 </div>
@@ -4596,7 +4595,7 @@ $2.716$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4623,6 +4622,7 @@ a       &= \dfrac {2005} {5} \\\\
 a       &= \dfrac {5 \times 401} {5} \\\\
 a       &= \dfrac {\cancel {5} \times 401} {\cancel {5}} \\\\
 a       &= 401
+2005 = \boxed{5} \times \boxed{4}\boxed{0}\boxed{1}
 \end{aligned}
 $
 
@@ -4671,7 +4671,7 @@ $401$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3A7398BE-72C1-4161-B815-737C8394CF51</p>
 </div>
@@ -4682,7 +4682,7 @@ $401$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4873,7 +4873,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0EA3BEDE-E412-4145-A773-4FA982A65BAB</p>
 </div>
@@ -4884,7 +4884,7 @@ $16$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-notstarted"
 title: "TopicPaper - Time - 2 - NOTSTARTED"
-date: 2022-06-30 14:32:41
+date: 2022-06-30 15:54:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -559,70 +559,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>853DE9ED-C8E9-4497-A4CE-70A8E172C5B2</p>
-</div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:11</p>
-</div>
-<div class='rag'>
-<p>rag_ar_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What time is $1 \ \text{hour}$ $32 \ \text{minutes}$ before $7:19 \ \text{pm}$?
-
-A: $4:42 \ \text{pm}$
-
-B: $4:52 \ \text{pm}$
-
-C: $5:47 \ \text{pm}$
-
-D: $3:42 \ \text{pm}$
-
-E: $2:56 \ \text{am}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 
 </div>
 </li>

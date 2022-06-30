@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-oldpr"
 title: "TopicPaper - Number - 11 - OLDPR"
-date: 2022-06-30 14:32:41
+date: 2022-06-30 15:54:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -371,15 +371,14 @@ The area of the United Kingdom is about $243,600\,km^2$ .Write this area in word
 <div class='workings'>
 <div class='working'>
 
-Two hundred forty-three thousand six hundred $\,km^2$
+Two hundred forty-three thousand six hundred square kilometres
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Two hundred forty-three thousand six hundred $\,km^2$
-
+Two hundred forty-three thousand six hundred square kilometres
 
 </div>
 </div>
@@ -452,14 +451,14 @@ The area of Australia is $7 692 024\,km^2$ .Write this area in words.
 <div class='workings'>
 <div class='working'>
 
-Seven million six hundred ninety two thousand twenty four $\,km^2$
+Seven million six hundred ninety two thousand twenty four square kilometres
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Seven million six hundred ninety two thousand twenty four $\,km^2$
+Seven million six hundred ninety two thousand twenty four square kilometres
 
 </div>
 </div>
@@ -504,7 +503,7 @@ text only not in katex
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>9918B00D-75CB-41DB-93FD-465940FFC114</p>
 </div>
@@ -515,7 +514,7 @@ text only not in katex
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -680,6 +679,10 @@ $687$
 PArt c: Delete the leftmost & from the whole array. that is why the alignment is incorrect.
 
 
+
+
+
+c: * should be next to 7 as per coding guidelines, look at other detailed multiplications.
 </div>
 
 <div class='review'>
@@ -716,7 +719,7 @@ PArt c: Delete the leftmost & from the whole array. that is why the alignment is
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>5AD1D649-ADC0-4830-A4DB-A96DBBC66358</p>
 </div>
@@ -727,7 +730,7 @@ PArt c: Delete the leftmost & from the whole array. that is why the alignment is
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -769,6 +772,10 @@ Twenty one thousand one hundred seventy one
 
 <h4>Review Comments</h4>
 no array.. refer coding rules
+
+
+
+use begin aligned instead of array and then in the end write in words.
 </div>
 
 <div class='review'>
@@ -805,187 +812,7 @@ no array.. refer coding rules
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>05AA06CF-C57A-4771-B89F-03FFAD47E78D</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:8</p>
-</div>
-<div class='rag'>
-<p>rag_as_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tcircleanswer
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle the number closest in value to $0.1$
-
-$0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-0.13
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.13$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-direct answer
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='05AA06CF-C57A-4771-B89F-03FFAD47E78D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='05AA06CF-C57A-4771-B89F-03FFAD47E78D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='05AA06CF-C57A-4771-B89F-03FFAD47E78D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='05AA06CF-C57A-4771-B89F-03FFAD47E78D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='05AA06CF-C57A-4771-B89F-03FFAD47E78D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='05AA06CF-C57A-4771-B89F-03FFAD47E78D' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='05AA06CF-C57A-4771-B89F-03FFAD47E78D' id='FORM-05AA06CF-C57A-4771-B89F-03FFAD47E78D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-05AA06CF-C57A-4771-B89F-03FFAD47E78D'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:10</p>
-</div>
-<div class='rag'>
-<p>rag_as_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the three prime numbers which multiply to make $231$:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
-
-As the unit digit has $1$, we can rule out $2$ and $5$ .
-
-Let's try $3$, $7$ and $11$.
-
-$
-\begin{aligned}
-&= 3 \times 7 \times 11 \\\\
-&= 21 \times 11 \\\\
-&= 231
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, 7, 11$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-katex error
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FAB770D5-5506-4C76-B3C8-1CBAE36619B4' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FAB770D5-5506-4C76-B3C8-1CBAE36619B4' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FAB770D5-5506-4C76-B3C8-1CBAE36619B4' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FAB770D5-5506-4C76-B3C8-1CBAE36619B4' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FAB770D5-5506-4C76-B3C8-1CBAE36619B4' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FAB770D5-5506-4C76-B3C8-1CBAE36619B4' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='FAB770D5-5506-4C76-B3C8-1CBAE36619B4' id='FORM-FAB770D5-5506-4C76-B3C8-1CBAE36619B4' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-FAB770D5-5506-4C76-B3C8-1CBAE36619B4'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>F5C3AB3C-C84A-4D5B-AB13-C1400D84FD8E</p>
 </div>
@@ -996,7 +823,7 @@ katex error
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1097,6 +924,31 @@ $90$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: no need to factor to 2
+
+
+
+a = 6 * 8 / 4
+
+a = 6 * 4 * 2 / 4 
+
+cancel now
+
+
+
+b: add new s2 with
+
+
+
+a = 12 * 75 / 10 before we factor
+</div>
 
 <div class='review'>
 <ul class='review'>

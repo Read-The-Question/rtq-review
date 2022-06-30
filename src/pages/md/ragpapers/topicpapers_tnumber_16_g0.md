@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0"
 title: "TopicPaper - Number - 16 - G0"
-date: 2022-06-30 14:32:41
+date: 2022-06-30 15:54:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1917,7 +1917,7 @@ Change this to use writing algebra way, by defining variable and following guide
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DF63EFF7-9F60-4E2D-B7A7-BBDDF536AFB7</p>
 </div>
@@ -1928,7 +1928,7 @@ Change this to use writing algebra way, by defining variable and following guide
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2010,11 +2010,9 @@ $
 578 \times 1 = 578
 $
 
-Between the two numbers, the total number of digits after the decimal point is two.
+Between the two numbers, the total number of digits after the decimal point is two. Let's account for the decimal point now.
 
-Let's account for the decimal point now.
-
-$5.78$
+$=5.78$
 
 </div>
 </div>
@@ -2064,7 +2062,7 @@ $5.78$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B09594F6-C583-4EFB-8072-0453A8DD522A</p>
 </div>
@@ -2075,7 +2073,7 @@ $5.78$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2189,9 +2187,7 @@ $
 \end{array}
 $
 
-Between the two numbers, the total number of digits after the decimal point is one.
-
-Let's account for the decimal point now.
+Between the two numbers, the total number of digits after the decimal point is one. Let's account for the decimal point now.
 
 $= 32.4$
 
@@ -2243,7 +2239,7 @@ $32.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8A24363A-173B-47A3-9255-922EF8A300A3</p>
 </div>
@@ -2254,7 +2250,7 @@ $32.4$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2294,9 +2290,9 @@ $a$ is a multiple of $5$
 
 $a <60$
 
-Numbers between $40$ and $60$ which are dvisible by $5 = {45, 50, 55}$
+Numbers between $40$ and $60$ which are multiple of $5 = {45, 50, 55}$
 
-Numbers between $40$ and $60$ which are dvisible by $3 = {45, 48, 51, 54, 57}$
+Numbers between $40$ and $60$ which are multiple of $3 = {45, 48, 51, 54, 57}$
 
 Since $45$ is common in both, 
 
@@ -2383,9 +2379,7 @@ $
 872 \times 1 = 872 \\
 $
 
-Between the two numbers, the total number of digits after the decimal point is three.
-
-Let's account for the decimal point now.
+Between the two numbers, the total number of digits after the decimal point is three. Let's account for the decimal point now.
 
 $
 = 0.872
@@ -2436,7 +2430,7 @@ $0.872$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CF222902-2477-42D2-AE75-3A8396F1AAC7</p>
 </div>
@@ -2447,7 +2441,7 @@ $0.872$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2488,13 +2482,14 @@ $28 \times 970$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
-28 \times 97            &= 2716 \\\\
-28 \times 97 \times 10  &= 2716 \times 10 \\\\
-28 \times 970           &= 27160
+&=28 \times 970\\\\
+&=28 \times 97 \times 10 \\\\
+&=2716 \times 10 \\\\
+&= 27160
 \end{aligned}
 $
 
@@ -2520,14 +2515,17 @@ $2.8 \times 0.97$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
-\begin{aligned}
-28 \times 97                                &= 2716 \\\\
-\dfrac{28} {10} \times \dfrac {97} {100}    &= \dfrac {2716} {1000} \\\\
-2.8 \times 0.97                               &= 2.716
-\end{aligned}
+28 \times 97 = 2716 \\
+$
+
+Between the two numbers, the total number of digits after the decimal point is three. Let's account for the decimal point now.
+
+$
+= 2.716
 $
 
 </div>
@@ -2578,7 +2576,7 @@ $2.716$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F86CD19-6141-43F1-9E8F-2A2A31A0E9AA</p>
 </div>
@@ -2589,7 +2587,7 @@ $2.716$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2616,6 +2614,7 @@ a       &= \dfrac {2005} {5} \\\\
 a       &= \dfrac {5 \times 401} {5} \\\\
 a       &= \dfrac {\cancel {5} \times 401} {\cancel {5}} \\\\
 a       &= 401
+2005 = \boxed{5} \times \boxed{4}\boxed{0}\boxed{1}
 \end{aligned}
 $
 
@@ -2664,7 +2663,7 @@ $401$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3A7398BE-72C1-4161-B815-737C8394CF51</p>
 </div>
@@ -2675,7 +2674,7 @@ $401$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2866,7 +2865,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0EA3BEDE-E412-4145-A773-4FA982A65BAB</p>
 </div>
@@ -2877,7 +2876,7 @@ $16$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

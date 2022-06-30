@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-oldpr"
 title: "TopicPaper - Number - 16 - OLDPR"
-date: 2022-06-30 14:32:41
+date: 2022-06-30 15:54:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -224,7 +224,7 @@ The whole numbers which leave a remainder of 7 when dividied into 46 = 13 and 39
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2F004FED-C180-43D6-92EB-C8E129B37242</p>
 </div>
@@ -235,7 +235,7 @@ The whole numbers which leave a remainder of 7 when dividied into 46 = 13 and 39
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -274,7 +274,8 @@ $18 - 18 = 0$
 C. $15-2 \times 7 = 1$
 $15-14 = 1$
 
-D. $7 + 1 \times 3 = 21$
+D. $7 + 1 \times 3 = \red
+{21}$
 
 E. $8 \times 5 - 7 = 33$
 $40 - 7 = 33$
@@ -324,7 +325,7 @@ $D$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
 </div>
@@ -335,7 +336,7 @@ $D$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -352,19 +353,16 @@ What is the smallest whole number, above $120$, which when divided by $53$, leav
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
-The number leaves a remainder $2$ when divided by $53$ and is less than $120$
-
-$53 \times 2 = 106$
+$53 \times 2 = 106$ ,
 $106 < 120$
 
-$53 \times 3 = 159$
-$159 > 120$ So,
+$53 \times 3 = 159$ ,
+$159 > 120$ 
 
 $159 + 2 = 161$
 
-The smallest whole number, above $120$ , which when divided by $53$ , leaves a remainder of two $= 161$
+The smallest whole number above $120$ which when divided by $53$ leaves a remainder of two $= 161$
 
 </div>
 </div>
@@ -411,7 +409,7 @@ $161$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B8D6BAFA-557D-451D-BA17-5723EF73E965</p>
 </div>
@@ -422,7 +420,7 @@ $161$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -521,24 +519,27 @@ Sum of $-1$ and $-2$
 
 $
 \begin{aligned}
+&= -1 +(- 2) \\\\
 &= -1 - 2 \\\\
-&= -3 \\\\
+&= -3
 \end{aligned}
 $
 
 Sum of $-3$ and $0$ 
+
 $
 \begin{aligned}
 &= -3 + 0 \\\\
-&= -3 \\\\
+&= -3
 \end{aligned}
 $
 
 Sum of $-4$ and $1$ 
+
 $
 \begin{aligned}
 &= -4 + 1 \\\\
-&= -3 \\\\\
+&= -3 
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-notstarted"
 title: "TopicPaper - Time - 5 - NOTSTARTED"
-date: 2022-06-30 14:32:41
+date: 2022-06-30 15:54:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -468,58 +468,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>0D5CF5E2-BF8D-4E7E-BAA3-D1EF882CC453</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:19</p>
-</div>
-<div class='rag'>
-<p>rag_ar_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The instructions below are used to work out the cooking time for a turkey.
-
-$50 \ \text{minutes per kilogram}$ plus $20 \ \text{minutes}$
-
-Claire wants to cook a turkey with a mass of $2.5 \ \text{kilograms}$.
-
-For how long should Claire cook the turkey?
-
-*Give your answer in hours and minutes.*
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 
 </div>
 </li>

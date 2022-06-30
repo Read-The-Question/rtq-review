@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-oldpr"
 title: "TopicPaper - Number - 11 - OLDPR"
-date: 2022-06-30 06:02:41
+date: 2022-06-30 08:50:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -343,7 +343,7 @@ Refer to the corrections done in similar question in previous paper.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>70786BCF-B76F-413D-8757-8FDB44C7E665</p>
 </div>
@@ -354,7 +354,7 @@ Refer to the corrections done in similar question in previous paper.
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -371,14 +371,14 @@ The area of the United Kingdom is about $243,600\,km^2$ .Write this area in word
 <div class='workings'>
 <div class='working'>
 
-$\text {Two hundred forty-three thousand six hundred \ km}^2$
+Two hundred forty-three thousand six hundred km<sup>2</sup>
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Two hundred forty-three thousand six hundred \ km}^2$
+Two hundred forty-three thousand six hundred km<sup>2</sup>
 
 
 </div>
@@ -424,7 +424,7 @@ out of katex and in wokings km2...and in blue answer...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>AE2425E2-0767-4210-BB91-89195849257C</p>
 </div>
@@ -435,7 +435,7 @@ out of katex and in wokings km2...and in blue answer...
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -452,14 +452,14 @@ The area of Australia is $7 692 024\,km^2$ .Write this area in words.
 <div class='workings'>
 <div class='working'>
 
-$\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
+Seven million six hundred ninety two thousand twenty four km<sup>2</sup>
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
+Seven million six hundred ninety two thousand twenty four km<sup>2</sup>
 
 </div>
 </div>

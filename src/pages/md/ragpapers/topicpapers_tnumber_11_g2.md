@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g2"
 title: "TopicPaper - Number - 11 - G2"
-date: 2022-06-30 06:02:41
+date: 2022-06-30 08:50:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -36,14 +36,14 @@ Write in figures  the   number   “two  hundred  and   three thousand,   one   
 <div class='workings'>
 <div class='working'>
 
-$203170$
+203170
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$203170$
+203170
 
 </div>
 </div>

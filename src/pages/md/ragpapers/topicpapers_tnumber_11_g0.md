@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g0"
 title: "TopicPaper - Number - 11 - G0"
-date: 2022-06-30 06:02:41
+date: 2022-06-30 08:50:04
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AD7DC95D-4C48-4334-802C-9077E25D2E24</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-30 06:02:41
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -59,10 +59,12 @@ Let the missing number $= a$
 
 $
 \begin{aligned}
-21 \times 6 + 9 \times 6   &= a \times 6 \\\\
-(21 + 9) \times 6          &= a \times 6 \\\\
-a                          &= \dfrac {(21 + 9) \times 6} {6} \\\\  
-a                          &= \dfrac {30 \times \cancel {6}} {\cancel {6}} \\\\
+21 \times 6 + 9 \times 6   &= a \times 6       \\\\
+126 + 54                   &= a \times 6       \\\\
+180                        &= 6a               \\\\
+a                          &= \dfrac {180} {6} \\\\
+a                          &= \dfrac {30 \times 2 \times 3} {2 \times 3} \\\\
+a                          &= \dfrac {30 \times \cancel {2} \times \cancel {3}} {\cancel {2} \times \cancel {3}} \\\\
 a                          &= 30
 \end{aligned}
 $
@@ -93,12 +95,12 @@ Let the missing number $= a$
 
 $
 \begin{aligned}
-17 \times 14 + 16 \times 7                &=  a \times 7 + a \times 7 \\\\
-238 + 102                                 &=  7a + 7a \\\\
-14a                                       &=  350 \\\\
-a                                         &= \dfrac {350} {14} \\\\
-a                                         &= \dfrac {14 \times 25} {14} \\\\
-a                                         &= \dfrac {\cancel {14} \times 25} {\cancel {14}} \\\\
+17 \times 14 + 16 \times 7                &=  a \times 7 + a \times 7                       \\\\
+238 + 112                                 &=  7a + 7a                                       \\\\
+350                                       &=  14a                                           \\\\
+a                                         &= \dfrac {350} {14}                              \\\\
+a                                         &= \dfrac {7 \times 2 \times 25} {7 \times 2}                     \\\\
+a                                         &= \dfrac {\cancel {7} \times \cancel {2} \times 25 } {\cancel {7} \times \cancel {2}  } \\\\
 a                                         &= 25
 \end{aligned}
 $
@@ -164,7 +166,7 @@ b. make factors 7 * 2 * 25 / 7 * 2 and then cancel
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D0CB8245-E400-4E04-85CB-E016410BF0BD</p>
 </div>
@@ -175,7 +177,7 @@ b. make factors 7 * 2 * 25 / 7 * 2 and then cancel
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -195,14 +197,14 @@ The planet Jupiter has $69$ moons. The closest moon is called Io and is $421,800
 <div class='workings'>
 <div class='working'>
 
-$\text {Four hundred twenty-one thousand eight hundred}$
+Four hundred twenty-one thousand eight hundred
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Four hundred twenty-one thousand eight hundred}$
+Four hundred twenty-one thousand eight hundred
 
 </div>
 </div>
@@ -265,7 +267,7 @@ Four hundred twenty-one thousand eight hundred
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>26FFB556-39BB-41AA-B00B-2CFED4038F32</p>
 </div>
@@ -276,7 +278,7 @@ Four hundred twenty-one thousand eight hundred
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -296,14 +298,14 @@ Callisto is another moon of Jupiter and its maximum distance from Jupiter as it 
 <div class='workings'>
 <div class='working'>
 
-$\text {One million eight hundred eighty-two thousand seven hundred}$
+One million eight hundred eighty-two thousand seven hundred
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {One million eight hundred eighty-two thousand seven hundred}}$
+One million eight hundred eighty-two thousand seven hundred
 
 </div>
 </div>
@@ -356,7 +358,7 @@ Answer katex is broken too!!!
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E4E827B3-D0E0-4C37-A152-5F341EC0D264</p>
 </div>
@@ -367,7 +369,7 @@ Answer katex is broken too!!!
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -478,16 +480,17 @@ Use values in the table to work out  $4.55 \, \div \, 6.5$
 <div class='workings'>
 <div class='working'>
 
-As per the table,
+
+Using table,
 
 $
 \begin{aligned}
-455                 &= 65 \times 7 \\\\
-\dfrac {455} {100}  &= \dfrac {65 \times 7} {100} \\\\
-\dfrac {455} {100}  &= \dfrac {65} {10} \times \dfrac {7} {10} \\\\
-4.55                &= 6.5 \times 0.7 \\\\
-\dfrac {4.55} {6.5} &= 0.7 \\\\
-4.55 \div 6.5       &= 0.7
+&= \dfrac {4.55}{6.5} \\\\
+&= \dfrac {455 \times 10}{65 \times 10 \times 10} \\\\
+&= \dfrac {65 \times 7 \times 10}{65 \times 10 \times 10} \\\\
+&= \dfrac {\cancel {65} \times 7 \times \cancel {10}}{\cancel {65} \times \cancel {10} \times 10} \\\\
+&= \dfrac {7}{10}   \\\\    
+&= 0.7
 \end{aligned}
 $
 
@@ -572,7 +575,7 @@ All of them should be fixed on the line of the sample solution given below for p
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DAA6B0CE-CF05-45FF-83D8-D30065047D76</p>
 </div>
@@ -583,7 +586,7 @@ All of them should be fixed on the line of the sample solution given below for p
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -622,14 +625,19 @@ $76.49\,cm$   (nearest cm)
 <div class='workings'>
 <div class='working'>
 
-$76.49 \ \text {cm}$
+$
+\begin {aligned}
+&= 76.49 \ \text {cm} \\\\
+&\approx 76 \ \text {cm}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$76.49 \ \text {cm}$
+$76 \ \text{cm}$
 
 </div>
 </div>
@@ -646,7 +654,12 @@ $127569\,km$   (nearest one thousand km)
 <div class='workings'>
 <div class='working'>
 
-$128000 \ \text{km}$
+$
+\begin {aligned}
+&= 127569 \ \text {km} \\\\
+&\approx 128000 \ \text {km}
+\end {aligned}
+$
 
 </div>
 </div>
@@ -672,19 +685,19 @@ $1.073\,cm$   (nearest mm)
 
 $
 \begin {aligned}
-&= 1.073 \ \text {cm} \\\\
-&= 1.073 \times 10 \ \text {mm} \\\\
-&= 10.73 \ \text {mm} \\\\
-&= 11 \ \text {mm}
+&= 1.073 \ \text{cm} \\\\
+&= 1.073 \times 10 \ \text{mm} \\\\
+&= 10.73 \ \text{mm} \\\\
+&\approx 11 \ \text{mm} \\\\
 \end {aligned}
-$ 
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11 \ \text {mm}$ 
+$11 \\text{mm}$ 
 
 </div>
 </div>
@@ -788,7 +801,7 @@ part c
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F9D25FF0-D7B8-410C-8287-2F9958F379F9</p>
 </div>
@@ -799,7 +812,7 @@ part c
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -816,14 +829,14 @@ The speed of light is $186,000$ miles per second. Write the speed of light in wo
 <div class='workings'>
 <div class='working'>
 
-$\text {One hundred eighty six thousand miles per second}$
+One hundred eighty six thousand miles per second
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {One hundred eighty six thousand miles per second}$
+One hundred eighty six thousand miles per second
 
 
 </div>
@@ -873,7 +886,7 @@ drop katex write in plain md both working and answers
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6D141501-2A64-4588-AEC5-440D97E09546</p>
 </div>
@@ -884,7 +897,7 @@ drop katex write in plain md both working and answers
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -923,7 +936,12 @@ $29.8536$ (nearest whole number)
 <div class='workings'>
 <div class='working'>
 
-$30$
+$
+\begin {aligned}
+&= 29.8536 \\\\
+&\approx 30 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -947,7 +965,12 @@ $170490$ (nearest thousand)
 <div class='workings'>
 <div class='working'>
 
-$170000$
+$
+\begin {aligned}
+&= 170490 \\\\
+&\approx 170000 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -971,7 +994,12 @@ $45.1925487$ (nearest tenth)
 <div class='workings'>
 <div class='working'>
 
-$45.2$
+$
+\begin {aligned}
+&= 45.1925487 \\\\
+&\approx 45.2 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1021,7 +1049,7 @@ $45.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DF144071-E27A-45E8-8AC4-FB2D59699905</p>
 </div>
@@ -1032,7 +1060,7 @@ $45.2$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1074,7 +1102,12 @@ Round each of the following numbers to the accuracy given in brackets.
 <div class='workings'>
 <div class='working'>
 
-$20$
+$
+\begin {aligned}
+&= 19.82 \\\\
+&\approx 20 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1098,7 +1131,12 @@ $20$
 <div class='workings'>
 <div class='working'>
 
-$120000$
+$
+\begin {aligned}
+&= 120400 \\\\
+&\approx 120000 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1122,7 +1160,12 @@ $120000$
 <div class='workings'>
 <div class='working'>
 
-$33.5$
+$
+\begin {aligned}
+&= 33.45789 \\\\
+&\approx 33.5 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1172,7 +1215,7 @@ $33.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>05BC7A40-020B-420A-83C8-4F58121795F4</p>
 </div>
@@ -1183,7 +1226,7 @@ $33.5$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1225,14 +1268,19 @@ $132.7521245$ (nearest whole number)
 <div class='workings'>
 <div class='working'>
 
-$\text{133}$
+$
+\begin {aligned}
+&= 132.7521245 \\\\
+&\approx 133 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{133}$
+$133$
 
 </div>
 </div>
@@ -1249,14 +1297,19 @@ $12236$ (nearest thousand)
 <div class='workings'>
 <div class='working'>
 
-$\text{12000}$
+$
+\begin {aligned}
+&= 12236 \\\\
+&\approx 12000 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{12000}$
+$12000$
 
 </div>
 </div>
@@ -1273,7 +1326,12 @@ $124.0754896$ (nearest hundredth)
 <div class='workings'>
 <div class='working'>
 
-$124.08$
+$
+\begin {aligned}
+&= 124.0754896 \\\\
+&\approx 124.08 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1425,14 +1483,14 @@ Which of the numbers have exactly two factors?
 <div class='workings'>
 <div class='working'>
 
-$5, 9, 25$
+$1, 5, 17, 23$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5, 9, 25$
+$1, 5, 17, 23$
 
 </div>
 </div>
@@ -1449,14 +1507,14 @@ Numbers with only two factors have a special name. What is it?
 <div class='workings'>
 <div class='working'>
 
-$\text{Prime Number}$
+Prime Number
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Prime Number}$
+Prime Number
 
 </div>
 </div>
@@ -1713,7 +1771,8 @@ $14 + 8 \div 2 =$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -1745,7 +1804,8 @@ $17 + 3 \times (5 - 1) =$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -1843,7 +1903,7 @@ $18 - 17 + 16 - 15 + 14 - 13$
 
 $
 \begin{aligned}
-&=  18 - 17 + 16 - 15 + 14 - 13 \\\\
+&=  (18 - 17) + (16 - 15) + (14 - 13) \\\\
 &= 1 + 1 + 1 \\\\
 &= 3
 \end{aligned}
@@ -1940,9 +2000,9 @@ ABBR: It is really important to use the right units in calculations and convert 
 $
 \begin{array}{cccccccccccccc}
 &= \pounds1.28 - 57  \text{p} \\\\
-&= 128 \text{p}  + 57  \text{p} \\\\
-&= 185 \text{p} \\\\
-&= \pounds 1.85
+&= 128 \text{p}  - 57  \text{p} \\\\
+&= 72 \text{p} \\\\
+&= \pounds 0.72
 \end{array}
 $
 
@@ -1951,7 +2011,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1.85$
+$\pounds 0.72$
 
 </div>
 </div>
@@ -2317,6 +2377,9 @@ Calculate $1.1 \times (1.2 + 1.3) \times 2$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= 1.1 \times (1.2 + 1.3) \times 2 \\\\
@@ -2505,10 +2568,12 @@ Calculate $(2.3 + 3.7) \div 9$. Leave your answer as a simplified fraction.
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= (2.3 + 3.7) \div 9 \\\\
-&= \dfrac{(2.3 + 3.7)}{9} \\\\
 &= \dfrac{6}{9} \\\\
 &= \dfrac{2 \times 3}{3 \times 3} \\\\
 &= \dfrac{2 \times \cancel{3}}{3 \times \cancel{3}} \\\\

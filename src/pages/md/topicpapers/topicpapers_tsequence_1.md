@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-1"
 title: "TopicPaper - Sequence - 1"
-date: 2022-06-30 06:02:41
+date: 2022-06-30 08:50:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -908,7 +908,7 @@ $8, 13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EA85D0A0-5E18-41C9-B6EB-C943BAE67410</p>
 </div>
@@ -916,7 +916,7 @@ $8, 13$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -936,24 +936,14 @@ tsequence
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -998,24 +988,43 @@ $
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question, the sequence would be:
 
-</div>
-<div class='working'>
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+8)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\div 4)}}
+&&  \footnotesize{\maroonC
+{(+ 11)}}  \\
+4,  &&    12,  &&  \ldots,  &&   \ldots  && \ldots
+\end{matrix}
+$
 
-TODOWORKING
+$
+\begin{aligned}
+\text{First missing number}   &= 12 \times 3 \\\\
+                              &= 36 \\\\
+\text {Second missing number} &= 36 \div 4 + 11 \\\\
+                              &= 9 + 11 \\\\
+                              &= 20
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$36$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$20$
 
 </div>
 </div>
@@ -1038,21 +1047,11 @@ Explain your answer.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -1064,6 +1063,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' id='FORM-EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EA85D0A0-5E18-41C9-B6EB-C943BAE67410'>Initial</p>
+</div>
 </div>
 </li>
 <li>

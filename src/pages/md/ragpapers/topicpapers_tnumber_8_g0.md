@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-g0"
 title: "TopicPaper - Number - 8 - G0"
-date: 2022-06-30 10:28:22
+date: 2022-06-30 12:59:33
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D03375C8-7EA3-489F-8485-E7B331CCAD8E</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-30 10:28:22
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -202,9 +202,9 @@ In this case, there are more fractions than percentages and decimals, so let's c
 $
 \begin{aligned}
 &= \dfrac {9} {25}, \quad 0.371,  \quad \dfrac {2} {5},  \quad 38 \% \\\\
-&= \dfrac {9} {25}, \quad \dfrac {371} {100},  \quad \dfrac {2} {5},  \quad \dfrac {38} {100} \\\\
-&= \dfrac {9 \times 4} {25 \times 4}, \quad \dfrac {371} {100},  \quad \dfrac {2 \times 20} {5 \times 20},  \quad \dfrac {38} {100} \\\\
-&= \dfrac {36} {100}, \quad \dfrac {371} {100},  \quad \dfrac {40} {100},  \quad \dfrac {38} {100}
+&= \dfrac {9} {25}, \quad \dfrac {371} {1000},  \quad \dfrac {2} {5},  \quad \dfrac {38} {100} \\\\
+&= \dfrac {9 \times 40} {25 \times 40}, \quad \dfrac {371} {1000},  \quad \dfrac {2 \times 200} {5 \times 200},  \quad \dfrac {38 \times 10} {100 \times 10} \\\\
+&= \dfrac {360} {1000}, \quad \dfrac {371} {1000},  \quad \dfrac {400} {1000},  \quad \dfrac {380} {1000}
 \end{aligned}
 $
 
@@ -212,8 +212,8 @@ Let's put them in ascending order now.
 
 $
 \begin{aligned}
-&= \dfrac {36} {100}, \quad \dfrac {38} {100},  \quad \dfrac {40} {100},  \quad \dfrac {371} {100} \\\\
-&= \dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371
+&= \dfrac {360} {1000}, \quad \dfrac {371} {1000},  \quad \dfrac {380} {1000},  \quad \dfrac {400} {1000} \\\\
+&= \dfrac {9} {25}, \quad 0.371, \quad 38 \%,  \quad \dfrac {2} {5}  
 \end{aligned}
 $
 
@@ -222,7 +222,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
+$\dfrac {9} {25}, \quad 0.371, \quad 38 \%,  \quad \dfrac {2} {5}$
 
 </div>
 </div>
@@ -265,7 +265,7 @@ $\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>37E5676D-E573-45B4-96D0-3C4773510892</p>
 </div>
@@ -276,7 +276,7 @@ $\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -343,7 +343,7 @@ $32027$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1AF67106-B1CB-4DCA-ADDF-ECF4E8951D97</p>
 </div>
@@ -354,7 +354,7 @@ $32027$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -423,7 +423,7 @@ $1979$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>01B71FE1-4A60-4BF3-8381-0E7963EDDE0A</p>
 </div>
@@ -434,7 +434,7 @@ $1979$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -506,7 +506,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>038E02CB-3A7A-4452-A7B9-B26C234E7231</p>
 </div>
@@ -517,7 +517,7 @@ $20$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -584,239 +584,7 @@ $90009$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>AC3AC204-80D4-4019-BF9B-79C535481A56</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:1:17</p>
-</div>
-<div class='rag'>
-<p>rag_mr_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-You are told that $22 \times 46 = 1012$. Use this fact to write down the answers to: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$220 \times 46$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-22 \times 46           &= 1012 \\\\
-22 \times 10 \times 46 &= 1012 \times 10 \\\\
-220 \times 46          &= 10120
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10120$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$2.2  \times 0.46$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-22 \times 46                              &= 1012 \\\\
-\dfrac {22} {10} \times \dfrac {46} {100} &= \dfrac {1012} {1000} \\\\
-2.2 \times 4.6                            &= 1.012
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.012$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$22{,}000{,}000  \times  0.046$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-22 \times 46                         &= 1012 \\\\
-22 \times 1000000 \times {46} {1000} &= 1012 \times 1000 \\\\
-22000000 \times 0.046                &= 1012000
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1012000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$101{,}200  \div  4.6$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-22 \times 46               &= 1012 \\\\
-22 \times \dfrac {46} {10} &= \dfrac {1012} {10} \\\\
-22 \times 4.6              &= 101.2 \\\\
-22 \times 1000 \times 4.6  &= 101.2 \times 1000 \\\\
-101.2 \times 1000          &= 22 \times 1000 \times 4.6 \\\\
-\dfrac {101200} {4.6}      &= 22000 \\\\
-101200 \div 4.6            &= 22000
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$22000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$44  \times 23$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-22 \times 46                                           &= 1012 \\\\
-22 \times 2 \times \dfrac {46} {2}                     &= 1012 \\\\
-44 \times \dfrac {23 \times 2} {2}                     &= 1012 \\\\
-44 \times \dfrac {23 \times \cancel {2}} {\cancel {2}} &= 1012 \\\\
-44 \times 23                                           &= 1012
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1012$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='AC3AC204-80D4-4019-BF9B-79C535481A56' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='AC3AC204-80D4-4019-BF9B-79C535481A56' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='AC3AC204-80D4-4019-BF9B-79C535481A56' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='AC3AC204-80D4-4019-BF9B-79C535481A56' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='AC3AC204-80D4-4019-BF9B-79C535481A56' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='AC3AC204-80D4-4019-BF9B-79C535481A56' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='AC3AC204-80D4-4019-BF9B-79C535481A56' id='FORM-AC3AC204-80D4-4019-BF9B-79C535481A56' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-AC3AC204-80D4-4019-BF9B-79C535481A56'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D1E18EF0-0246-4AD6-A7F6-785C3D615D76</p>
 </div>
@@ -827,7 +595,7 @@ $1012$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -894,7 +662,7 @@ $34587$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1C64297F-2A6F-4A45-9E44-89D073D817E5</p>
 </div>
@@ -905,7 +673,7 @@ $34587$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -944,6 +712,9 @@ $5 + 7 - 9 + 3 - 14$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= 5 + 7 - 9 + 3 - 14 \\\\
@@ -973,6 +744,9 @@ $9 \times (-5)^2 \times 2 \times (-1)$
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -1030,7 +804,7 @@ $-450$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E588B3E3-4F4F-478B-BFDF-D75E8651A7A3</p>
 </div>
@@ -1041,7 +815,7 @@ $-450$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1164,7 +938,7 @@ $(8 \times 5) - (6 \times 1 + 4) = 10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BF472CAE-DC1A-41E9-A9A9-1B021F8C341C</p>
 </div>
@@ -1175,7 +949,7 @@ $(8 \times 5) - (6 \times 1 + 4) = 10$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1360,7 +1134,7 @@ $- 91$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C568D9CE-2255-4775-8B6E-7406773C0CCD</p>
 </div>
@@ -1371,7 +1145,7 @@ $- 91$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1391,7 +1165,7 @@ Calculate $45412 \times 834 + 45412 \times 162 + 45412 \times 2$.
 $
 \begin{aligned}
 &= 45412 \times 834 + 45412 \times 162 + 45412 \times 2 \\\\
-&= 45412 (834 + 162 + 2) \\\\
+&= 45412 \times \left( 834 + 162 + 2 \right) \\\\
 &= 45412 \times 998 \\\\
 &= 45321176
 \end{aligned}
@@ -1442,7 +1216,7 @@ $45321176$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>34002753-62F3-4728-B81A-259E3A726491</p>
 </div>
@@ -1453,7 +1227,7 @@ $45321176$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1495,7 +1269,7 @@ Calculate $231 \times 43 - 31 \times 43$ using an efficient method. Show working
 $
 \begin{aligned}
 &= 231 \times 43 - 31 \times 43 \\\\
-&= 43 (231 - 31) \\\\
+&= 43 \times \left( 231 - 31 \right) \\\\
 &= 43 \times 200 \\\\
 &= 8600
 \end{aligned}
@@ -1526,7 +1300,7 @@ Calculate $26 \times 345 - 101 \times 345 + 75 \times 345$ using an efficient me
 $
 \begin{aligned}
 &= 26 \times 345 - 101 \times 345 + 75 \times 345 \\\\
-&= 345 (26 - 101 + 75) \\\\
+&= 345 \times \left( 26 - 101 + 75 \right) \\\\
 &= 345 \times 0  \\\\
 &= 0
 \end{aligned}
@@ -1580,7 +1354,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB</p>
 </div>
@@ -1591,7 +1365,7 @@ $0$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1659,14 +1433,14 @@ How many odd numbers greater than $300000$ exist with this same property?
 <div class='workings'>
 <div class='working'>
 
-$7$
+$240$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7$
+$240$
 
 </div>
 </div>
@@ -1733,7 +1507,7 @@ $6!$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>32FCFC67-9350-4004-9BAA-29A005B94D2D</p>
 </div>
@@ -1744,7 +1518,7 @@ $6!$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1783,6 +1557,9 @@ Work out $6 + 7 - 9 + 3 - 12 - 2$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= 6 + 7 - 9 + 3 - 12 - 2 \\\\
@@ -1816,7 +1593,8 @@ Work out $9 + 11 \times 3 - 12 \div 4$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -1875,7 +1653,7 @@ $39$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7D0B690C-BD90-4E67-8AEA-2C900707DE0A</p>
 </div>
@@ -1886,7 +1664,7 @@ $39$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1999,7 +1777,7 @@ $((3 \times  7) - (6 \times (4 - 3)))$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DB9F3059-466B-4807-810B-AD24BF29C384</p>
 </div>
@@ -2010,7 +1788,7 @@ $((3 \times  7) - (6 \times (4 - 3)))$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2082,9 +1860,9 @@ What is the lowest number that can be obtained by adding two of the above number
 
 $
 \begin{aligned}
-&= 4 + (-3.5) \\\\
-&= 4 - 3.5 \\\\
-&= 0.5
+&= -7  + (-3.5) \\\\
+&= -7 - 3.5 \\\\
+&= -10.5
 \end{aligned}
 $
 
@@ -2093,7 +1871,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.5$
+$-10.5$
 
 </div>
 </div>
@@ -2112,8 +1890,8 @@ What is the highest number that can be obtained by subtracting two of the above 
 
 $
 \begin{aligned}
-&= 8 - 4 \\\\
-&= 4
+&= 8 - (-7) \\\\
+&= 15
 \end{aligned}
 $
 
@@ -2122,7 +1900,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4$
+$15$
 
 </div>
 </div>
@@ -2141,8 +1919,8 @@ What is the lowest number that can be obtained by multiplying two of the above n
 
 $
 \begin{aligned}
-&= -3.5 \times 8 \\\\
-&= -28
+&= -7 \times 8 \\\\
+&= -56
 \end{aligned}
 $
 
@@ -2151,7 +1929,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-28$
+$-56$
 
 </div>
 </div>
@@ -2194,7 +1972,7 @@ $-28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>57144FF8-8978-4D56-A29B-C1FA657A1F8C</p>
 </div>
@@ -2205,7 +1983,7 @@ $-28$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2244,7 +2022,8 @@ $1 - 2 - 3 - 4$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2276,7 +2055,8 @@ $5 + 3 \div 2 - 1$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2308,13 +2088,14 @@ $4 - (3 - (2 - 1))$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
 &= 4 - (3 - (2 - 1)) \\\\
 &= 4 - (3 - 1) \\\\
-&= 4 - 2 \\
+&= 4 - 2 \\\\
 &= 2
 \end{aligned}
 $
@@ -2367,7 +2148,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>49A4C1C8-A26A-4008-B8AD-ED8A462A2B09</p>
 </div>
@@ -2378,7 +2159,7 @@ $2$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2401,14 +2182,15 @@ Let the first number be x, so consecutive odd numbers will be x + 2 and x + 4
 
 $
 \begin{aligned}
-x \times x + 2 \times x + 4                                 &= 9177 \\\\
+x \times ( x + 2 ) \times ( x + 4 )                         &= 9177 \\\\
 x                                                           &= \sqrt[3]{9177} \\\\
-x                                                           &= 21 \text{approx.} \\\\
-\text{So the numbers are}                                   &= 19 , 21 , 23 \\\\
-\text{Sum of these numbers are}                             &= 19 + 21 + 23 \\\\
-                                                            &= 63
+x                                                           &= 21 \, \text{approx.} \\\\
 \end{aligned}
 $
+
+So the numbers are $= 19 , 21 , 23$
+
+Sum of these numbers are $= 19 + 21 + 23 = 63$
 
 </div>
 </div>
@@ -2455,7 +2237,7 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3C79F838-BEBE-4053-8F46-6B4FCDC896A9</p>
 </div>
@@ -2466,7 +2248,7 @@ $63$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2505,6 +2287,9 @@ $-1 + 0$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= -1 + 0 \\\\
@@ -2533,6 +2318,9 @@ $0 \times 2$
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2563,7 +2351,8 @@ $3 - 3 \times 0$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2595,7 +2384,8 @@ $2 + 0 \div 2$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2627,7 +2417,8 @@ $-1 \times 3 + 3 \times 2$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2659,7 +2450,8 @@ $5 - 5 \div 5 + 5$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2691,7 +2483,8 @@ $3 - (3 - 3 \times 3)$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2725,7 +2518,8 @@ $12 \div 4 \div 3 \times 2$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2758,14 +2552,15 @@ $1 \div 2 - 4 \div 6$
 <div class='workings'>
 <div class='working'>
 
-According to BIDMAS,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
 &= 1 \div 2 - 4 \div 6 \\\\
 &= \dfrac{1}{2} - \dfrac{4}{6} \\\\
 &= \dfrac{1 \times 3 - 4}{6} \\\\
-&= dfrac{-1}{6}
+&= \dfrac{-1}{6}
 \end{aligned}
 $
 
@@ -2774,7 +2569,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$dfrac{-1}{6}$
+$\dfrac{-1} {6}$
 
 </div>
 </div>
@@ -2817,7 +2612,7 @@ $dfrac{-1}{6}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D0BF2888-B08F-44A4-8B38-D6AF9C208CBC</p>
 </div>
@@ -2828,7 +2623,7 @@ $dfrac{-1}{6}$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2951,7 +2746,7 @@ $(3 \times (7 - 6) \times 4) + 3 = 15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>51E341FC-964F-4125-B936-5ED3612B8641</p>
 </div>
@@ -2962,7 +2757,7 @@ $(3 \times (7 - 6) \times 4) + 3 = 15$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3036,7 +2831,7 @@ $
 \begin{aligned}
 &= -13 + (-2) \\\\
 &= -13 - 2 \\\\
-&= -16
+&= -15
 \end{aligned}
 $
 
@@ -3045,7 +2840,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-16$
+$-15$
 
 </div>
 </div>
@@ -3066,7 +2861,7 @@ $
 \begin{aligned}
 &= 7 - (-13) \\\\
 &= 7 + 13 \\\\
-&= 21
+&= 20
 \end{aligned}
 $
 
@@ -3075,7 +2870,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$21$
+$20$
 
 </div>
 </div>
@@ -3147,7 +2942,7 @@ $-91$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E02682F6-FD7D-4BA3-9AAE-FD929B307A17</p>
 </div>
@@ -3158,7 +2953,7 @@ $-91$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3197,6 +2992,9 @@ $1 + 2 - 3 - 4$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= 1 + 2 - 3 - 4 \\\\
@@ -3227,6 +3025,9 @@ $2 + 1 \div 2 - 3$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= 2 + 1 \div 2 - 3 \\\\
@@ -3256,6 +3057,9 @@ $4 - (2 - (1 - 2))$
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -3315,7 +3119,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2FE10520-6A9E-4722-B9C3-7530630A3738</p>
 </div>
@@ -3326,7 +3130,7 @@ $1$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3411,7 +3215,7 @@ $24.12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2AF551EB-ACA0-4BF6-B435-AE0B4D255622</p>
 </div>
@@ -3422,7 +3226,7 @@ $24.12$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3555,7 +3359,7 @@ $1700$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6B808AC4-4CFF-40C1-8C23-9EF0AB4FCA3D</p>
 </div>
@@ -3566,7 +3370,7 @@ $1700$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3692,7 +3496,7 @@ $13.579$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F8F71719-B8FE-49B3-959A-E92F9F76A185</p>
 </div>
@@ -3703,7 +3507,7 @@ $13.579$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3861,7 +3665,7 @@ $0.014$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>491C970A-4AAD-4C83-9430-AD0E5E6DF833</p>
 </div>
@@ -3872,7 +3676,7 @@ $0.014$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-06-30 10:28:22
+date: 2022-06-30 12:59:33
 ---
 <div class='paper'>
 <div class='meta'>
@@ -785,7 +785,8 @@ Using the table,
 
 $
 \begin{aligned}
-12 \times 65 &= (10 + 2) \times 65 \\\\
+             &= 12 \times 65  \\\\
+             &= (10 + 2) \times 65 \\\\
              &= (10 \times 65) + (2 \times 65) \\\\
              &= 650 + 130 \\\\
              &= 780
@@ -818,7 +819,8 @@ Using the table,
 
 $
 \begin{aligned}
-20 \times 65 &= (10 + 10) \times 65 \\\\
+             &= 20 \times 65 \\\\
+             &= (10 + 10) \times 65 \\\\
              &= (10 \times 65) + (10 \times 65) \\\\
              &= 650 + 650 \\\\
              &= 1300
@@ -1059,7 +1061,7 @@ $
 &= 1.073 \ \text{cm} \\\\
 &= 1.073 \times 10 \ \text{mm} \\\\
 &= 10.73 \ \text{mm} \\\\
-&\approx 11 \ \text{mm} \\\\
+&\approx 11 \ \text{mm} 
 \end {aligned}
 $
 
@@ -2158,14 +2160,14 @@ The area of the United Kingdom is about $243,600\,km^2$ .Write this area in word
 <div class='workings'>
 <div class='working'>
 
-Two hundred forty-three thousand six hundred km<sup>2</sup>
+Two hundred forty-three thousand six hundred $\,km^2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Two hundred forty-three thousand six hundred km<sup>2</sup>
+Two hundred forty-three thousand six hundred $\,km^2$
 
 
 </div>
@@ -2239,14 +2241,14 @@ The area of Australia is $7 692 024\,km^2$ .Write this area in words.
 <div class='workings'>
 <div class='working'>
 
-Seven million six hundred ninety two thousand twenty four km<sup>2</sup>
+Seven million six hundred ninety two thousand twenty four $\,km^2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Seven million six hundred ninety two thousand twenty four km<sup>2</sup>
+Seven million six hundred ninety two thousand twenty four $\,km^2$
 
 </div>
 </div>
@@ -2470,7 +2472,7 @@ extra \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B500989A-95BC-48E9-99DE-F777B5042D16</p>
 </div>
@@ -2481,7 +2483,7 @@ extra \\
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2572,14 +2574,14 @@ Which of the numbers have exactly two factors?
 <div class='workings'>
 <div class='working'>
 
-$1, 5, 17, 23$
+$5, 17, 23$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1, 5, 17, 23$
+$5, 17, 23$
 
 </div>
 </div>
@@ -2659,7 +2661,7 @@ Is part c answer right?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4E448E47-3FCD-4DF3-9CE7-C0E8ED3022C0</p>
 </div>
@@ -2670,7 +2672,7 @@ Is part c answer right?
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2712,14 +2714,19 @@ $10$
 <div class='workings'>
 <div class='working'>
 
-$7290$
+$
+\begin {aligned}
+&= 7285 \\\\
+&\approx 7290 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7290$
+7290
 
 </div>
 </div>
@@ -2736,7 +2743,12 @@ $100$
 <div class='workings'>
 <div class='working'>
 
-$7300$
+$
+\begin {aligned}
+&= 7285 \\\\
+&\approx 7300 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -2760,7 +2772,12 @@ $1000$
 <div class='workings'>
 <div class='working'>
 
-$7000$
+$
+\begin {aligned}
+&= 7285 \\\\
+&\approx 7000 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -2810,7 +2827,7 @@ $7000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CF464A70-46C7-4C4A-9B8D-D5F376B7E207</p>
 </div>
@@ -2821,7 +2838,7 @@ $7000$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2898,7 +2915,7 @@ ABBR: Using BIDMAS
 
 $
 \begin{aligned}
-&= 17 + 3 \times (5 – 1) \\\\
+&= 17 + 3 \times (5 - 1) \\\\
 &= 17 + 3 \times 4 \\\\
 &= 17 +12 \\\\
 &= 29
@@ -2962,7 +2979,7 @@ Use abbreviation instead of direct text for \"According to BIDMAS\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E00F44C5-0502-46F6-927E-4C50E44DA4BF</p>
 </div>
@@ -2973,7 +2990,7 @@ Use abbreviation instead of direct text for \"According to BIDMAS\"
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2992,6 +3009,7 @@ $18 - 17 + 16 - 15 + 14 - 13$
 
 $
 \begin{aligned}
+&= 18 - 17 + 16 - 15 + 14 - 13 \\\\
 &=  (18 - 17) + (16 - 15) + (14 - 13) \\\\
 &= 1 + 1 + 1 \\\\
 &= 3
@@ -3052,7 +3070,7 @@ add S2 with brackets around (18-17) and 16,15 and 14,13
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2FB7FD94-DCE7-416B-94DB-D40514D8544D</p>
 </div>
@@ -3063,7 +3081,7 @@ add S2 with brackets around (18-17) and 16,15 and 14,13
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3087,12 +3105,12 @@ ABBR: It is really important to use the right units in calculations and convert 
 .
 
 $
-\begin{array}{cccccccccccccc}
-&= \pounds1.28 - 57  \text{p} \\\\
-&= 128 \text{p}  - 57  \text{p} \\\\
-&= 72 \text{p} \\\\
-&= \pounds 0.72
-\end{array}
+\begin{aligned}
+&= \pounds1.28 - 57 \text{p} \\\\
+&= 128 \text{p} + 57 \text{p} \\\\
+&= 185 \text{p} \\\\
+&= \pounds 1.85
+\end{aligned}
 $
 
 </div>
@@ -3253,7 +3271,7 @@ $42008$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>9918B00D-75CB-41DB-93FD-465940FFC114</p>
 </div>
@@ -3264,7 +3282,7 @@ $42008$
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3368,13 +3386,13 @@ $67
 
 $
 \begin{array}{cccccccccccccc}
-&       &     &       6       & 7  \\
-{}\times    &       &     &       7       & 3  \\
+       &     &       6       & 7  \\
+{}\times       &     &       7       & 3  \\
 \hline
-&      &       2       & 0     & 1  \\
-&  4   &       6       & 9     & 0  \\
+      &       2       & 0     & 1  \\
+  4   &       6       & 9     & 0  \\
 \hline
-&   4   &       8       & 9     & 1
+   4   &       8       & 9     & 1
 \end{array}
 $
 
@@ -3465,7 +3483,7 @@ PArt c: Delete the leftmost & from the whole array. that is why the alignment is
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>5AD1D649-ADC0-4830-A4DB-A96DBBC66358</p>
 </div>
@@ -3476,7 +3494,7 @@ PArt c: Delete the leftmost & from the whole array. that is why the alignment is
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3494,12 +3512,12 @@ Add $\text{twelve thousand and sixty seven and nine thousandone hundred and four
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-&  1  &  2  &  0   &  6  &  7 \\
-{}+    &  &   9  &  1  &  0  &  4 \\
+\begin{aligned}
+& & 1  &  2  &  0   &  6  &  7 \\
+& {}+ & &   9  &  1  &  0  &  4 \\
 \hline
-&  2   & 1  &    1 & 7  & 1  \\\\
-\end{array}
+& & 2   & 1  &    1 & 7  & 1  \\
+\end{aligned}
 $
 
 Twenty one thousand one hundred seventy one
@@ -3509,7 +3527,7 @@ Twenty one thousand one hundred seventy one
 <div class='answers'>
 <div class='answer'>
 
-$\text{Twenty one thousand one hundred seventy one}$
+Twenty one thousand one hundred seventy one
 
 </div>
 </div>
@@ -3554,7 +3572,7 @@ no array.. refer coding rules
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>242AC8B9-7333-4772-A4E2-A8579262210F</p>
 </div>
@@ -3565,7 +3583,7 @@ no array.. refer coding rules
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3628,7 +3646,12 @@ A squared number between $30$ and $40$
 <div class='workings'>
 <div class='working'>
 
-$36 = 6^2$
+
+$
+\begin{aligned}
+36 &= \,6^2
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3652,7 +3675,12 @@ A multiple of 17 between $50$ and $60$
 <div class='workings'>
 <div class='working'>
 
-$17 \times 3 = 51$
+
+$
+\begin{aligned}
+17 \times 3 &= 51
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3721,7 +3749,7 @@ same for c
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>88D05932-EA04-4EA0-8EB7-90462AA68E6E</p>
 </div>
@@ -3732,7 +3760,7 @@ same for c
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3756,8 +3784,8 @@ $
 \begin{aligned}
 &= 2.4 \times (3.7 +  1.3) \div 2 \\\\
 &= 2.4 \times 5 \div 2 \\\\
-&= 2 \times 1.2 \times \dfrac{5}{2} \\\\
-&= \cancel{2} \times 1.2 \times \dfrac{5}{\cancel{2}} \\\\
+&= \dfrac{2 \times 1.2 \times 5}{2} \\\\
+&= \dfrac{\cancel {2} \times 1.2 \times 5}{\cancel {2}} \\\\  
 &= 1.2 \times 5 \\\\
 &= 6
 \end{aligned}
@@ -3817,7 +3845,7 @@ Rule FRAC.1 violated, make single num / den in S4  and then then add S5 to cance
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>05AA06CF-C57A-4771-B89F-03FFAD47E78D</p>
 </div>
@@ -3828,7 +3856,7 @@ Rule FRAC.1 violated, make single num / den in S4  and then then add S5 to cance
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3853,7 +3881,7 @@ $0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 <div class='workings'>
 <div class='working'>
 
-The number closest to $0.1 = 0.13$
+0.13
 
 </div>
 </div>
@@ -3905,7 +3933,7 @@ direct answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
 </div>
@@ -3916,7 +3944,7 @@ direct answer
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3937,7 +3965,7 @@ Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
 
 As the unit digit has $1$, we can rule out $2$ and $5$ .
 
-Let's try &3& , &7& and &11& .
+Let's try $3$, $7$ and $11$.
 
 $
 \begin{aligned}
@@ -4053,7 +4081,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7B4003E7-EBF5-425C-9D44-B0E047531A36</p>
 </div>
@@ -4064,7 +4092,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4244,7 +4272,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>F5C3AB3C-C84A-4D5B-AB13-C1400D84FD8E</p>
 </div>
@@ -4255,7 +4283,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4294,11 +4322,16 @@ $6 \times 8 = 4 \times \ldots$
 <div class='workings'>
 <div class='working'>
 
+Let the missing value $ = a $
+
+As per the question,
+
 $
-\begin{aligned}
-&= 6 \times 8 \\\\
-&= 6 \times 2 \times 4 \\\\
-&= 12 \times 4
+\begin{aligned} 
+6 \times 8 &= 4 \times a\\\\
+a &= \dfrac {6 \times 2 \times 2 \times 2}{2 \times 2} \\\\
+a &= \dfrac {6 \times 2 \times \cancel {2} \times \cancel {2}}{\cancel {2} \times \cancel {2}} \\\\
+a &= 12
 \end{aligned}
 $
 
@@ -4324,12 +4357,17 @@ $12 \times 75 = 10 \times \ldots$
 <div class='workings'>
 <div class='working'>
 
+Let the missing value $ = a $
+
+As per the question,
+
 $
 \begin{aligned}
-&= 12 \times 75 \\\\
-&= 6 \times 2 \times 5 \times 15 \\\\
-&= 6 \times 10 \times 15 \\\\
-&= 90 \times 10
+12 \times 75 &= 10 \times a \\\\
+a &= \dfrac{6 \times 2 \times 5 \times 15}{2 \times 5} \\\\
+a &= \dfrac{6 \times \cancel {2} \times \cancel {5} \times 15}{\cancel {2} \times \cancel {5}} \\\\
+a &= 6 \times 15 \\\\
+a &= 90
 \end{aligned}
 $
 
@@ -4381,7 +4419,7 @@ $90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E16D6325-36FF-464C-8198-472884A6720D</p>
 </div>
@@ -4392,7 +4430,7 @@ $90$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

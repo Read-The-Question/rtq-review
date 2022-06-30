@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-notstarted"
 title: "TopicPaper - Time - 2 - NOTSTARTED"
-date: 2022-06-30 10:28:22
+date: 2022-06-30 12:59:33
 ---
 <ul class='question default-decimal'>
 <li>
@@ -305,73 +305,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>FD674F46-633C-4D78-BC2C-5BC52EDE5036</p>
-</div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3:1:19</p>
-</div>
-<div class='rag'>
-<p>rag_ar_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Prasha is swimming lengths at her local swimming pool.
-
-She takes $24 \ \text{seconds}$ to swim a length doing front crawl.
-
-She takes $60 \ \text{seconds}$ to swim a length doing breaststroke.
-
-She swims $3$ lengths of each (so a total of $6$ lengths).
-
-The last length takes an extra $6 \ \text{seconds}$ as she gets tired.
-
-How long did she take to swim all $6$ lengths? Give your answer in minutes and seconds. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 
 </div>
 </li>

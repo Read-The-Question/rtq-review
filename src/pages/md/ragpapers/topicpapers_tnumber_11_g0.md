@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g0"
 title: "TopicPaper - Number - 11 - G0"
-date: 2022-06-30 10:28:22
+date: 2022-06-30 12:59:33
 ---
 <ul class='question default-decimal'>
 <li>
@@ -265,7 +265,8 @@ Using the table,
 
 $
 \begin{aligned}
-12 \times 65 &= (10 + 2) \times 65 \\\\
+             &= 12 \times 65  \\\\
+             &= (10 + 2) \times 65 \\\\
              &= (10 \times 65) + (2 \times 65) \\\\
              &= 650 + 130 \\\\
              &= 780
@@ -298,7 +299,8 @@ Using the table,
 
 $
 \begin{aligned}
-20 \times 65 &= (10 + 10) \times 65 \\\\
+             &= 20 \times 65 \\\\
+             &= (10 + 10) \times 65 \\\\
              &= (10 \times 65) + (10 \times 65) \\\\
              &= 650 + 650 \\\\
              &= 1300
@@ -539,7 +541,7 @@ $
 &= 1.073 \ \text{cm} \\\\
 &= 1.073 \times 10 \ \text{mm} \\\\
 &= 10.73 \ \text{mm} \\\\
-&\approx 11 \ \text{mm} \\\\
+&\approx 11 \ \text{mm} 
 \end {aligned}
 $
 
@@ -1194,7 +1196,7 @@ extra \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B500989A-95BC-48E9-99DE-F777B5042D16</p>
 </div>
@@ -1205,7 +1207,7 @@ extra \\
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1296,14 +1298,14 @@ Which of the numbers have exactly two factors?
 <div class='workings'>
 <div class='working'>
 
-$1, 5, 17, 23$
+$5, 17, 23$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1, 5, 17, 23$
+$5, 17, 23$
 
 </div>
 </div>
@@ -1383,7 +1385,7 @@ Is part c answer right?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4E448E47-3FCD-4DF3-9CE7-C0E8ED3022C0</p>
 </div>
@@ -1394,7 +1396,7 @@ Is part c answer right?
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1436,14 +1438,19 @@ $10$
 <div class='workings'>
 <div class='working'>
 
-$7290$
+$
+\begin {aligned}
+&= 7285 \\\\
+&\approx 7290 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7290$
+7290
 
 </div>
 </div>
@@ -1460,7 +1467,12 @@ $100$
 <div class='workings'>
 <div class='working'>
 
-$7300$
+$
+\begin {aligned}
+&= 7285 \\\\
+&\approx 7300 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1484,7 +1496,12 @@ $1000$
 <div class='workings'>
 <div class='working'>
 
-$7000$
+$
+\begin {aligned}
+&= 7285 \\\\
+&\approx 7000 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1534,7 +1551,7 @@ $7000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CF464A70-46C7-4C4A-9B8D-D5F376B7E207</p>
 </div>
@@ -1545,7 +1562,7 @@ $7000$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1622,7 +1639,7 @@ ABBR: Using BIDMAS
 
 $
 \begin{aligned}
-&= 17 + 3 \times (5 – 1) \\\\
+&= 17 + 3 \times (5 - 1) \\\\
 &= 17 + 3 \times 4 \\\\
 &= 17 +12 \\\\
 &= 29
@@ -1686,7 +1703,7 @@ Use abbreviation instead of direct text for \"According to BIDMAS\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E00F44C5-0502-46F6-927E-4C50E44DA4BF</p>
 </div>
@@ -1697,7 +1714,7 @@ Use abbreviation instead of direct text for \"According to BIDMAS\"
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1716,6 +1733,7 @@ $18 - 17 + 16 - 15 + 14 - 13$
 
 $
 \begin{aligned}
+&= 18 - 17 + 16 - 15 + 14 - 13 \\\\
 &=  (18 - 17) + (16 - 15) + (14 - 13) \\\\
 &= 1 + 1 + 1 \\\\
 &= 3
@@ -1776,7 +1794,7 @@ add S2 with brackets around (18-17) and 16,15 and 14,13
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2FB7FD94-DCE7-416B-94DB-D40514D8544D</p>
 </div>
@@ -1787,7 +1805,7 @@ add S2 with brackets around (18-17) and 16,15 and 14,13
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1811,12 +1829,12 @@ ABBR: It is really important to use the right units in calculations and convert 
 .
 
 $
-\begin{array}{cccccccccccccc}
-&= \pounds1.28 - 57  \text{p} \\\\
-&= 128 \text{p}  - 57  \text{p} \\\\
-&= 72 \text{p} \\\\
-&= \pounds 0.72
-\end{array}
+\begin{aligned}
+&= \pounds1.28 - 57 \text{p} \\\\
+&= 128 \text{p} + 57 \text{p} \\\\
+&= 185 \text{p} \\\\
+&= \pounds 1.85
+\end{aligned}
 $
 
 </div>
@@ -1899,7 +1917,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>242AC8B9-7333-4772-A4E2-A8579262210F</p>
 </div>
@@ -1910,7 +1928,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1973,7 +1991,12 @@ A squared number between $30$ and $40$
 <div class='workings'>
 <div class='working'>
 
-$36 = 6^2$
+
+$
+\begin{aligned}
+36 &= \,6^2
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1997,7 +2020,12 @@ A multiple of 17 between $50$ and $60$
 <div class='workings'>
 <div class='working'>
 
-$17 \times 3 = 51$
+
+$
+\begin{aligned}
+17 \times 3 &= 51
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2066,7 +2094,7 @@ same for c
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>88D05932-EA04-4EA0-8EB7-90462AA68E6E</p>
 </div>
@@ -2077,7 +2105,7 @@ same for c
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2101,8 +2129,8 @@ $
 \begin{aligned}
 &= 2.4 \times (3.7 +  1.3) \div 2 \\\\
 &= 2.4 \times 5 \div 2 \\\\
-&= 2 \times 1.2 \times \dfrac{5}{2} \\\\
-&= \cancel{2} \times 1.2 \times \dfrac{5}{\cancel{2}} \\\\
+&= \dfrac{2 \times 1.2 \times 5}{2} \\\\
+&= \dfrac{\cancel {2} \times 1.2 \times 5}{\cancel {2}} \\\\  
 &= 1.2 \times 5 \\\\
 &= 6
 \end{aligned}
@@ -2162,7 +2190,7 @@ Rule FRAC.1 violated, make single num / den in S4  and then then add S5 to cance
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7B4003E7-EBF5-425C-9D44-B0E047531A36</p>
 </div>
@@ -2173,7 +2201,7 @@ Rule FRAC.1 violated, make single num / den in S4  and then then add S5 to cance
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2353,7 +2381,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E16D6325-36FF-464C-8198-472884A6720D</p>
 </div>
@@ -2364,7 +2392,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

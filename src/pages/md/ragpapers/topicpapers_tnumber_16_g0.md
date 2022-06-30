@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0"
 title: "TopicPaper - Number - 16 - G0"
-date: 2022-06-30 10:28:22
+date: 2022-06-30 12:59:33
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CD6BCBD5-16AA-4496-BA89-31C177B22E60</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-30 10:28:22
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -161,17 +161,14 @@ $94 \times 191 =$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
 &=94\times191\\\\
 &=47\times2\times191 \\\\
-&=\dfrac{17954}{382}\times2\times191\\\\
-&=\dfrac{17954\times 2\times 191}{382} \\\\
-&=\dfrac{17954\times 2\times 191}{2\times 191} \\\\
-&=\dfrac{17954\times \cancel{2}\times\cancel{191}}{\cancel2\times\cancel{191}} \\\\
- &= 17954
+&=47 \times 382 \\\\
+&= 17954
 \end{aligned}
 $
 
@@ -246,7 +243,7 @@ d: can be solved in a easier by
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>051EA915-77B1-4C90-B44F-067124622F8F</p>
 </div>
@@ -257,7 +254,7 @@ d: can be solved in a easier by
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -277,7 +274,6 @@ Write $\dfrac{7}{20}$ as a decimal number.
 $
 \begin{aligned}
 &= \dfrac {7} {20} \\\\
-&=\dfrac{7}{20}\times\dfrac{5}{5}\\\\
 &= \dfrac {7 \times 5} {20 \times 5} \\\\
 &= \dfrac {35} {100} \\\\
 &= 0.35
@@ -338,7 +334,7 @@ Remove S2
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
 </div>
@@ -349,7 +345,7 @@ Remove S2
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -366,7 +362,7 @@ Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
@@ -434,7 +430,7 @@ Remove \"As per the questions\" for any simple questions, we using that for simp
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5D4FC6CE-AFCE-4118-A16D-21C14C304F1B</p>
 </div>
@@ -445,7 +441,7 @@ Remove \"As per the questions\" for any simple questions, we using that for simp
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -466,36 +462,42 @@ Which sum has been set out correctly to give the answer $67$?
 <div class='workings'>
 <div class='working'>
 
-Using **BIDMAS**,
+ABBR: Using BIDMAS
+
 
 $
 \begin{aligned}
-\text{Option a}
+\text{Option A}
 &= 8 + 4 \times 6 - 5 \\\\
 &= 8 + 24 - 5 \\\\
 &= 32 - 5 \\\\
-&= 27 \neq 67
+&= \red
+{27} 
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Option b}     
+\text{Option B}     
 &= (8 + 4) \times (6 - 5) \\\\
 &= 12 \times 1 \\\\
-&= 12 \neq 67
+&= \red
+{12}
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Option c}     
+\text{Option C}     
 &= (8 + 4) \times 6 - 5 \\\\
 &= 12 \times 6  - 5 \\\\
 &= 72 - 5 \\\\
 &= 67
 \end{aligned}
 $
+
+$Answer  \text{  Option C}$
+
 
 </div>
 </div>
@@ -582,7 +584,7 @@ Answer $= \text{Option C}\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
 </div>
@@ -593,7 +595,7 @@ Answer $= \text{Option C}\"
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -614,17 +616,13 @@ Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required
-. The three lengths are given in multiple units.
 
-Let's convert all the measurements into the same unit $\text{cm}$.
-
-As per the question,
 
 $
 \begin{aligned}
 &= 1.4 \ \text{m} + 33 \ \text{cm} + 580 \ \text{mm} \\\\
 &= 1.4 \times 100 \ \text {cm} + 33 \ \text{cm} + \dfrac {580} {10} \ \text{cm} \\\\
-&= 140 \ \text{cm} + 33 \ \text{cm} + 58 \ \text{cm} \\\\
+&= 140 + 33  + 58 \\\\
 &= 231 \ \text{cm}
 \end {aligned}
 $
@@ -921,7 +919,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>091E6F1C-295F-45D6-A212-41256EE84A75</p>
 </div>
@@ -932,7 +930,7 @@ $3$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -949,24 +947,20 @@ Work out $2.35 \times 3000$.
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points and zeroes
+Let's first multiply the numbers ignoring the decimal points and zeroes.
 
 $
-\begin{array}{cccccccccccccc}
-            &       2       & 3     & 5 \\
-{}\times    &               &       & 3 \\
-\hline 
-            &       7       & 0     & 5
-\end{array}
+\begin{aligned}
+&=235\times 3\\\\
+&=705
+\end{aligned}
 $
 
-Let's account for the three zeroes now
+Let's account for the three zeroes now.
 
 $= 705000$
 
-The total number of digits after the decimal point is two
-
-Let's account for the decimal point now
+The total number of digits after the decimal point is two,Let's account for the decimal point now.
 
 $= 7050$
 

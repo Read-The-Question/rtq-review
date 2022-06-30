@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-notstarted"
 title: "TopicPaper - Sequence - 1 - NOTSTARTED"
-date: 2022-06-30 10:28:22
+date: 2022-06-30 12:59:33
 ---
 <ul class='question default-decimal'>
 <li>
@@ -45,24 +45,14 @@ $
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$55$
 
 </div>
 </div>
@@ -80,17 +70,10 @@ Work out the $10 \text{th}$ triangular number.
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p></p>
 </div>
 <div class='answer'>
 
@@ -111,21 +94,21 @@ Now work out the $110 \text{th}$ triangular number.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+10 \ \text {th triangular number}   &= \dfrac {10} {2} \times (10 + 1) \\\\
+                                    &= \dfrac {2 \times 5} {2} \times 11 \\\\
+                                    &= \dfrac {cancel {2} \times 5} {\cancel {2}} \times 11 \\\\
+                                    &= 5 \times 11 \\\\
+                                    &= 55
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER

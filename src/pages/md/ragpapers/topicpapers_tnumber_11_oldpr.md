@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-oldpr"
 title: "TopicPaper - Number - 11 - OLDPR"
-date: 2022-06-30 10:28:22
+date: 2022-06-30 12:59:33
 ---
 <ul class='question default-decimal'>
 <li>
@@ -371,14 +371,14 @@ The area of the United Kingdom is about $243,600\,km^2$ .Write this area in word
 <div class='workings'>
 <div class='working'>
 
-Two hundred forty-three thousand six hundred km<sup>2</sup>
+Two hundred forty-three thousand six hundred $\,km^2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Two hundred forty-three thousand six hundred km<sup>2</sup>
+Two hundred forty-three thousand six hundred $\,km^2$
 
 
 </div>
@@ -452,14 +452,14 @@ The area of Australia is $7 692 024\,km^2$ .Write this area in words.
 <div class='workings'>
 <div class='working'>
 
-Seven million six hundred ninety two thousand twenty four km<sup>2</sup>
+Seven million six hundred ninety two thousand twenty four $\,km^2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Seven million six hundred ninety two thousand twenty four km<sup>2</sup>
+Seven million six hundred ninety two thousand twenty four $\,km^2$
 
 </div>
 </div>
@@ -504,7 +504,7 @@ text only not in katex
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>9918B00D-75CB-41DB-93FD-465940FFC114</p>
 </div>
@@ -515,7 +515,7 @@ text only not in katex
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -619,13 +619,13 @@ $67
 
 $
 \begin{array}{cccccccccccccc}
-&       &     &       6       & 7  \\
-{}\times    &       &     &       7       & 3  \\
+       &     &       6       & 7  \\
+{}\times       &     &       7       & 3  \\
 \hline
-&      &       2       & 0     & 1  \\
-&  4   &       6       & 9     & 0  \\
+      &       2       & 0     & 1  \\
+  4   &       6       & 9     & 0  \\
 \hline
-&   4   &       8       & 9     & 1
+   4   &       8       & 9     & 1
 \end{array}
 $
 
@@ -716,7 +716,7 @@ PArt c: Delete the leftmost & from the whole array. that is why the alignment is
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>5AD1D649-ADC0-4830-A4DB-A96DBBC66358</p>
 </div>
@@ -727,7 +727,7 @@ PArt c: Delete the leftmost & from the whole array. that is why the alignment is
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -745,12 +745,12 @@ Add $\text{twelve thousand and sixty seven and nine thousandone hundred and four
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-&  1  &  2  &  0   &  6  &  7 \\
-{}+    &  &   9  &  1  &  0  &  4 \\
+\begin{aligned}
+& & 1  &  2  &  0   &  6  &  7 \\
+& {}+ & &   9  &  1  &  0  &  4 \\
 \hline
-&  2   & 1  &    1 & 7  & 1  \\\\
-\end{array}
+& & 2   & 1  &    1 & 7  & 1  \\
+\end{aligned}
 $
 
 Twenty one thousand one hundred seventy one
@@ -760,7 +760,7 @@ Twenty one thousand one hundred seventy one
 <div class='answers'>
 <div class='answer'>
 
-$\text{Twenty one thousand one hundred seventy one}$
+Twenty one thousand one hundred seventy one
 
 </div>
 </div>
@@ -805,7 +805,7 @@ no array.. refer coding rules
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>05AA06CF-C57A-4771-B89F-03FFAD47E78D</p>
 </div>
@@ -816,7 +816,7 @@ no array.. refer coding rules
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -841,7 +841,7 @@ $0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 <div class='workings'>
 <div class='working'>
 
-The number closest to $0.1 = 0.13$
+0.13
 
 </div>
 </div>
@@ -893,7 +893,7 @@ direct answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
 </div>
@@ -904,7 +904,7 @@ direct answer
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -925,7 +925,7 @@ Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
 
 As the unit digit has $1$, we can rule out $2$ and $5$ .
 
-Let's try &3& , &7& and &11& .
+Let's try $3$, $7$ and $11$.
 
 $
 \begin{aligned}
@@ -985,7 +985,7 @@ katex error
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>F5C3AB3C-C84A-4D5B-AB13-C1400D84FD8E</p>
 </div>
@@ -996,7 +996,7 @@ katex error
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1035,11 +1035,16 @@ $6 \times 8 = 4 \times \ldots$
 <div class='workings'>
 <div class='working'>
 
+Let the missing value $ = a $
+
+As per the question,
+
 $
-\begin{aligned}
-&= 6 \times 8 \\\\
-&= 6 \times 2 \times 4 \\\\
-&= 12 \times 4
+\begin{aligned} 
+6 \times 8 &= 4 \times a\\\\
+a &= \dfrac {6 \times 2 \times 2 \times 2}{2 \times 2} \\\\
+a &= \dfrac {6 \times 2 \times \cancel {2} \times \cancel {2}}{\cancel {2} \times \cancel {2}} \\\\
+a &= 12
 \end{aligned}
 $
 
@@ -1065,12 +1070,17 @@ $12 \times 75 = 10 \times \ldots$
 <div class='workings'>
 <div class='working'>
 
+Let the missing value $ = a $
+
+As per the question,
+
 $
 \begin{aligned}
-&= 12 \times 75 \\\\
-&= 6 \times 2 \times 5 \times 15 \\\\
-&= 6 \times 10 \times 15 \\\\
-&= 90 \times 10
+12 \times 75 &= 10 \times a \\\\
+a &= \dfrac{6 \times 2 \times 5 \times 15}{2 \times 5} \\\\
+a &= \dfrac{6 \times \cancel {2} \times \cancel {5} \times 15}{\cancel {2} \times \cancel {5}} \\\\
+a &= 6 \times 15 \\\\
+a &= 90
 \end{aligned}
 $
 

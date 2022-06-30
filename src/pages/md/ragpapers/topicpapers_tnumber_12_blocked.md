@@ -1,9 +1,117 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-blocked"
 title: "TopicPaper - Number - 12 - BLOCKED"
-date: 2022-06-30 12:59:33
+date: 2022-06-30 14:32:41
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>DA555D7B-4C28-473F-BFDF-B353CBC6895D</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>rag_as_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the highest common factor of $14$ and $42$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {factors of} \ 14  &= 1, 2, 7, \bold {14} \\\\
+\text {factors of} \ 42   &=  1, 2, 3, 6, 7, \bold {14}, 21, 42 \\\\
+\text {The Highest Common Factor of} \ 14 \ \text {and} \ 42 &= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the lowest common multiple of $8$ and $16$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {multiples of} \ 8                                      &= 1, \bold {16} , 24 ,32 \\\\
+\text {multiples of} \ 16                                      &= \bold {16}, 32, 48 \\\\
+\text {The lowest common multiple of } \ 8 \ \text {and} \ 16 &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

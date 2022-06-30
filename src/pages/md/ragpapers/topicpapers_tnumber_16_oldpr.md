@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-oldpr"
 title: "TopicPaper - Number - 16 - OLDPR"
-date: 2022-06-30 12:59:33
+date: 2022-06-30 14:32:41
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>0764EC27-58BF-4C34-A78B-8EB71ECB65E3</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-30 12:59:33
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -36,7 +36,7 @@ $\frac {11} {40}\:\:\:,\frac {16} {60}\:\:\: ,\frac {21} {80}\:\:\: ,\frac {26} 
 <div class='workings'>
 <div class='working'>
 
-To determine which fraction is closest to $\dfrac {1}{4}, we can subtract 1/4 from each fraction. The difference that is closest to zero will indicate the fraction that is closest to \dfrac {1}{4}.
+To determine which fraction is closest to $\dfrac {1}{4}$, we can subtract $\dfrac {1}{4}$ from each fraction. The difference that is closest to zero will indicate the fraction that is closest to $\dfrac {1}{4}$.
 
 $
 \begin{aligned}
@@ -125,10 +125,8 @@ Make a list of all the whole numbers which leave a remainder of $7$ when divided
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-The whole number leaves a remainder $7$ when divided into $46$.
 
-As such, the number will be a factor of $= 46 - 7 = 39$
+The number will be a factor of $= 46 - 7 = 39$
 
 Factors of $39 = {1 , 3 , 13 , 39}$
 

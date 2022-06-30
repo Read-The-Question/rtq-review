@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0"
 title: "TopicPaper - Number - 16 - G0"
-date: 2022-06-30 12:59:33
+date: 2022-06-30 14:32:41
 ---
 <ul class='question default-decimal'>
 <li>
@@ -960,7 +960,7 @@ Let's account for the three zeroes now.
 
 $= 705000$
 
-The total number of digits after the decimal point is two,Let's account for the decimal point now.
+The total number of digits after the decimal point is two.Let's account for the decimal point now.
 
 $= 7050$
 
@@ -1258,7 +1258,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C2E22412-E021-4E4D-A39D-EB496D9E54C0</p>
 </div>
@@ -1269,7 +1269,7 @@ $8$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1288,16 +1288,10 @@ $56 \div \Box = 8$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number = a
 
 $
 \begin{aligned}
-&56 \div a = 8 \\\\
-&\dfrac{56}{a} = 8 \\\\
-&a = \dfrac{56}{8} \\\\
-&a=\dfrac{7\times 8}{8} \\\\
-&a=\dfrac{7\times\cancel8}{\cancel8} \\\\
-&a=7
+&56 \div \boxed{7} = 8
 \end{aligned}
 $
 
@@ -1363,7 +1357,7 @@ In this case, just write the answer in a \box. Search \box in maths-papers on us
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>24E3A4B1-7F73-4DED-AEF1-853BF97CB318</p>
 </div>
@@ -1374,7 +1368,7 @@ In this case, just write the answer in a \box. Search \box in maths-papers on us
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1395,8 +1389,8 @@ $
 \begin{aligned}
 &= 0.72 \\\\
 &= \dfrac {72} {100} \\\\
-&= \dfrac {2 \times 2 \times 18} {2 \times 2 \times 25} \\\\
-&= \dfrac {\cancel {2} \times \cancel {2} \times 18} {\cancel {2} \times \cancel {2} \times 25} \\\\
+&= \dfrac {4\times 18} {4 \times 25} \\\\
+&= \dfrac {\cancel {4}  \times 18} {\cancel {4} \times 25} \\\\
 &= \dfrac {18} {25}
 \end{aligned}
 $
@@ -1455,7 +1449,7 @@ Change 2 * 2 to just 4 and cancel 4
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5037A26A-1C67-49DB-B389-230F0AD80021</p>
 </div>
@@ -1466,7 +1460,7 @@ Change 2 * 2 to just 4 and cancel 4
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1511,8 +1505,9 @@ $3 - 2\dfrac {5} {9}$
 $
 \begin{aligned}
 &= 3 - 2 \dfrac {5} {9} \\\\
-&= \dfrac {3} {1} - \dfrac {23} {9} \\\\
-&=\dfrac{3 \times 9 - 23 \times 1}{1 \times 9}\\\\
+&= 3 - \dfrac {23} {9} \\\\
+&= \dfrac {3\times 9} {9} - \dfrac {23} {9} \\\\
+&= \dfrac {27} {9} - \dfrac {23} {9} \\\\
 &= \dfrac {27 - 23} {9} \\\\
 &= \dfrac {4} {9}
 \end{aligned}
@@ -1543,9 +1538,10 @@ $2+ 4 \times \dfrac {3} {5}$
 $
 \begin{aligned}
 &= 2 + 4 \times \dfrac {3} {5} \\\\
-&= \dfrac {2} {1} + \dfrac {4 \times 3} {5} \\\\
-&= \dfrac {2} {1} + \dfrac {12} {5} \\\\
-&= \dfrac{2\times5 + 12\times 1}{1\times 5} \\\\
+&= 2  + \dfrac {4 \times 3} {5} \\\\
+&= 2 + \dfrac {12} {5} \\\\
+&= \dfrac{2 \times 5}{5}+ \dfrac{12}{5} \\\\
+&=\dfrac{10}{5}+\dfrac{12}{5} \\\\
 &= \dfrac {10 + 12} {5} \\\\
 &= \dfrac {22} {5} \\\\
 &= 4 \dfrac {2} {5}
@@ -1657,7 +1653,7 @@ b: First make denominator same and then add numerator and shows those steps. The
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9611F315-A458-4F06-A86C-5DB7C2FB593D</p>
 </div>
@@ -1668,7 +1664,7 @@ b: First make denominator same and then add numerator and shows those steps. The
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1685,14 +1681,14 @@ Write in figures, the number : Sixty three thousand,four hundred and one.
 <div class='workings'>
 <div class='working'>
 
-$63,401$
+$63401$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$63,401$
+$63401$
 
 </div>
 </div>

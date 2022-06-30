@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g2"
 title: "TopicPaper - Number - 11 - G2"
-date: 2022-06-30 08:50:04
+date: 2022-06-30 10:28:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -306,6 +306,230 @@ $-1$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-744CC2DF-DAE1-4383-90BC-F461E38BCEE1'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>AD7DC95D-4C48-4334-802C-9077E25D2E24</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:14</p>
+</div>
+<div class='rag'>
+<p>rag_as_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Complete these calculations  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+**21 $\times$ 6 + 9 $\times$ 6 =         $\times$ 6 **
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+21 \times 6 + 9 \times 6   &= a \times 6       \\\\
+126 + 54                   &= a \times 6       \\\\
+180                        &= 6a               \\\\
+a                          &= \dfrac {180} {6} \\\\
+a                          &= \dfrac {30 \times 2 \times 3} {2 \times 3} \\\\
+a                          &= \dfrac {30 \times \cancel {2} \times \cancel {3}} {\cancel {2} \times \cancel {3}} \\\\
+a                          &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+**17 $\times$ 14 + 16 $\times$ 7 =       $\times$ 7 +      $\times$ 7**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$ 
+
+$
+\begin{aligned}
+17 \times 14 + 16 \times 7                &=  a \times 7 + a \times 7                       \\\\
+238 + 112                                 &=  7a + 7a                                       \\\\
+350                                       &=  14a                                           \\\\
+a                                         &= \dfrac {350} {14}                              \\\\
+a                                         &= \dfrac {7 \times 2 \times 25} {7 \times 2}                     \\\\
+a                                         &= \dfrac {\cancel {7} \times \cancel {2} \times 25 } {\cancel {7} \times \cancel {2}  } \\\\
+a                                         &= 25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='AD7DC95D-4C48-4334-802C-9077E25D2E24' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='AD7DC95D-4C48-4334-802C-9077E25D2E24' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='AD7DC95D-4C48-4334-802C-9077E25D2E24' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='AD7DC95D-4C48-4334-802C-9077E25D2E24' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='AD7DC95D-4C48-4334-802C-9077E25D2E24' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='AD7DC95D-4C48-4334-802C-9077E25D2E24' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='AD7DC95D-4C48-4334-802C-9077E25D2E24' id='FORM-AD7DC95D-4C48-4334-802C-9077E25D2E24' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AD7DC95D-4C48-4334-802C-9077E25D2E24'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>F9D25FF0-D7B8-410C-8287-2F9958F379F9</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_as_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The speed of light is $186,000$ miles per second. Write the speed of light in words. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+One hundred eighty six thousand miles per second
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+One hundred eighty six thousand miles per second
+
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='F9D25FF0-D7B8-410C-8287-2F9958F379F9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='F9D25FF0-D7B8-410C-8287-2F9958F379F9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='F9D25FF0-D7B8-410C-8287-2F9958F379F9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='F9D25FF0-D7B8-410C-8287-2F9958F379F9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='F9D25FF0-D7B8-410C-8287-2F9958F379F9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='F9D25FF0-D7B8-410C-8287-2F9958F379F9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='F9D25FF0-D7B8-410C-8287-2F9958F379F9' id='FORM-F9D25FF0-D7B8-410C-8287-2F9958F379F9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F9D25FF0-D7B8-410C-8287-2F9958F379F9'>Initial</p>
 </div>
 </div>
 </li>

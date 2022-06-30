@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-blocked"
 title: "TopicPaper - Temperature - 1 - BLOCKED"
-date: 2022-06-30 08:50:04
+date: 2022-06-30 10:28:22
 ---
 <ul class='question default-decimal'>
 <li>

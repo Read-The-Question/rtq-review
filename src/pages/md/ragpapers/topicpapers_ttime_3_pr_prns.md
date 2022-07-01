@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-pr-prns"
 title: "TopicPaper - Time - 3 - PR - PRNS"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -47,6 +47,30 @@ $
 
 $1260 \ \text {seconds}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 21 \times 60 \ \text {seconds} \\\\
+&= 1260 \ \text {seconds}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1260 \ \text {seconds}$
+</code></pre>
 </div>
 </div>
 
@@ -130,6 +154,31 @@ $
 
 $8:46 \ \text{am}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {latest time she can go to sleep} &= 3.15 \ \text{am} - 7\dfrac {1} {2} \ \text {hours} \\\\
+                                        &= 3:15 \ \text{am} - 7 \ \text {hours} \ 30 \ \text{minutes} \\\\
+                                        &= 8:46 \ \text{am}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8:46 \ \text{am}$
+</code></pre>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g2"
 title: "TopicPaper - Time - 1 - G2"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -46,6 +46,25 @@ Car Parking Charges: $\pounds 1.80$ per hour
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -71,6 +90,30 @@ $
 
 $8 \ \text{hours}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of hours}    &=  5.00 \ \text{pm} - 9.00 \ \text{am} \\\\
+                          &=  8 \ \text{hours} 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8 \ \text{hours}$
+</code></pre>
 </div>
 </div>
 
@@ -100,6 +143,30 @@ $
 
 $\pounds 14.40$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Parking charges}  &=  8 \times 1.80 \\\\
+                        &=  \pounds 14.40 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 14.40$
+</code></pre>
 </div>
 </div>
 
@@ -191,6 +258,33 @@ $140  \ \text{minutes}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Waiting Time}           &= 13{:}05 - 10{:}45 \\\\
+                              &= 2 \ \text{hour} \ 20 \ \text{minutes}   \\\\
+                              &= 2 \times 60 \ \text{minutes} + 20  \ \text{minutes} \\\\
+                              &= 120 + 20  \\\\
+                              &= 140  \ \text{minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$140  \ \text{minutes}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -269,6 +363,25 @@ My train left Hocksworth at $8.20$ and arrived in Abbleshem at $10.50$ later tha
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -297,6 +410,33 @@ $
 
 $150 \ \text{minutes}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Time taken}            &= 10.50 - 8.20 \\\\
+                              &= 2 \ \text {hour} \ 30 \ \text {minutes} \\\\
+                              &= 2 \times 60  \ \text {minutes} + 30 \ \text {minutes} \\\\
+                              &= 120 + 30 \\\\
+                              &= 150 \ \text {minutes}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$150 \ \text{minutes}$
+</code></pre>
 </div>
 </div>
 
@@ -337,6 +477,39 @@ $
 
 $68 \ \text {miles/hour}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_formula_speed
+
+rtq_abbr_md_unit_no_dot_note. The time is calculated in minutes, but the final speed has to be in miles per hour.
+
+$
+\begin {aligned}
+\text {Speed}    &= \dfrac {170 \ \text {miles}} {150 \ \text {minutes}} \\\\
+                 &= \dfrac {170 \ \text {miles}} {\dfrac {150}{60} \ \text {hour}} \\\\
+                 &= \dfrac {170 \times 60} {150} \ \text {miles/hour} \\\\
+                 &= \dfrac {17 \times 10 \times 15 \times 4} {15 \times 10} \\\\
+                 &= \dfrac {17 \times \cancel{10} \times \cancel{15} \times 4} {\cancel{15} \times \cancel{10}} \\\\
+                 &= 17 \times 4 \\\\
+                 &= 68 \ \text {miles/hour}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$68 \ \text {miles/hour}$
+</code></pre>
 </div>
 </div>
 
@@ -429,6 +602,33 @@ $155 \ \text{minutes}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Wait at the airport}     &= 08{:}10 - 05{:}35 \\\\
+                                &= 2 \ \text{hour} \ 35 \ \text {minutes} \\\\
+                                &= 2 \times 60 \ \text {minutes} + 35 \ \text {minutes} \\\\
+                                &= 120 + 35 \\\\
+                                &= 155 \ \text{minutes}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$155 \ \text{minutes}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -508,6 +708,30 @@ $
 
 $7 {:} 58$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Arrival Time}  &= 8 {:} 05 - 12 \ \text{minutes} \\\\
+                     &= 7 {:} 58
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7 {:} 58$
+</code></pre>
 </div>
 </div>
 
@@ -598,6 +822,32 @@ $210 \text{ minutes}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 3 \text{ hours} + 30 \text{ minutes} \\\\
+&= 3 \times 60 \text{ minutes} + 30 \text{ minutes}\\\\
+&= 180 + 30 \\\\
+&= 210 \text{ minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$210 \text{ minutes}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -682,6 +932,30 @@ $
 
 $ 4 \ \text{hours} \ 47 \ \text {minutes}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Difference}   &= 13{:}21 - 9{:}34 \\\\
+                     &= 4 \ \text {hours} \ 47 \ \text {minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$ 4 \ \text{hours} \ 47 \ \text {minutes}$
+</code></pre>
 </div>
 </div>
 
@@ -781,6 +1055,31 @@ $240 \ \text {seconds}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 4 \ \text{minutes} \\\\
+&= 4 \times 60 \ \text {seconds} \\\\
+&= 240 \ \text {seconds}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$240 \ \text {seconds}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -864,6 +1163,31 @@ $
 
 $4 \ \text{hours} \ 05 \ \text{minutes}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Time}  &= 15{:}50 - 11{:}30 - 5 \times 3 \ \text{minutes} \\\\
+             &= 4 \ \text{hours} \ 20 \ \text{minutes} - 15 \ \text{minutes} \\\\
+             &= 4 \ \text{hours} \ 05 \ \text{minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4 \ \text{hours} \ 05 \ \text{minutes}$
+</code></pre>
 </div>
 </div>
 

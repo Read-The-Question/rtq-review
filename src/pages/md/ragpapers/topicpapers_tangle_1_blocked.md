@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-blocked"
 title: "TopicPaper - Angle - 1 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -56,6 +56,25 @@ Calculate the missing angles $p, q$ and $r$.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -88,6 +107,36 @@ $
 
 $55 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
+
+As per the diagram,
+
+$
+\begin {aligned}
+35 + 90 + p   &= 180 \\\\
+125 + p       &= 180 \\\\
+p             &= 180 - 125 \\\\
+p             &= 55 \degree
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$55 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -124,6 +173,36 @@ $
 
 $47 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+As per the diagram,
+
+$
+\begin {aligned}
+81 + 52 + q     &= 180 \\\\
+133 + q         &= 180 \\\\
+q               &= 180 - 133 \\\\
+q               &= 47 \degree
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$47 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -174,6 +253,44 @@ $
 
 $16 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add an image with alternate angle marked *
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_angles_of_triangle
+
+As per the diagram, the shape is a parallelogram.
+
+Angle $r$ and $r$ are equal as they are alternate angles.
+
+Using that, we get
+
+$
+\begin {aligned}
+140 + 24 + r    &= 180 \\\\
+r + 164         &= 180 \\\\
+r               &= 180 - 164 \\\\
+r               &= 16 \degree
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -319,6 +436,111 @@ $
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing angle $= a$
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 62 \degree  &= 180 \degree  \\\\
+a               &= 180 \degree - 62 \degree \\\\
+a               &= 118 \degree
+\end{aligned}
+$
+
+Let the missing angle $= b$
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+b + 43 \degree  &= 180 \degree  \\\\
+b               &= 180 \degree - 43 \degree \\\\
+b               &= 137 \degree
+\end{aligned}
+$
+
+Let the missing angle $= c$
+
+From the diagram, it is observed that angle $c$ lies in Isosceles Triangle.
+
+As we know, Isosceles Triangle Base Angle Theorem where The two angles opposite to the equal sides are congruent to each other.
+
+$
+\begin{aligned}
+c               &= 71 \degree
+\end{aligned}
+$
+
+Let the missing angle $= d$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+d + c + 71 \degree            &= 180 \degree  \\\\
+d + 71 \degree + 71 \degree   &= 180 \degree  \\\\
+d + 142 \degree               &= 180 \degree  \\\\
+d                             &= 180 \degree - 142 \degree  \\\\
+d                             &= 38 \degree 
+\end{aligned}
+$
+
+Let the missing angle $= e$
+
+As we know, Vertically opposite angles are equal.
+
+As per the diagram,
+
+$
+\begin{aligned}
+e               &= c   \\\\
+e               &= 71 \degree
+\end{aligned}
+$
+
+Let the missing angle $= f$
+
+As we know, Corresponding angles are equal.
+
+As per the diagram,
+
+$
+\begin{aligned}
+f               &= 71 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+a               &= 118 \degree  \\
+b               &= 137 \degree  \\
+c               &= 71 \degree   \\
+d               &= 38 \degree   \\
+e               &= 71 \degree   \\
+f               &= 71 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -377,6 +599,35 @@ $
 
 $60 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As we know, the sum of angles on a straight line is $180 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 120     &= 180  \\\\
+x           &= 180 - 120  \\\\
+x           &= 60 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$60 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -472,6 +723,62 @@ $
 
 $a = 68 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 112         &= 180  \\\\
+a               &= 180 - 112  \\\\
+a               &= 68 \degree
+\end{aligned}
+$
+
+$
+\begin{aligned}
+b + 36 + 90         &= 180  \\\\
+b                   &= 180 - 126  \\\\
+b                   &= 54 \degree
+\end{aligned}
+$
+
+$
+\begin{aligned}
+c + 40 + 90         &= 180  \\\\
+c                   &= 180 - 130  \\\\
+c                   &= 50 \degree
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2d + 70             &= 180  \\\\
+2d                  &= 180 - 70  \\\\
+d                   &= \dfrac{110} {2} \\\\
+d                   &=55 \degree
+\end{aligned}
+$
+
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$a = 68 \degree$
+</code></pre>
 </div>
 </div>
 

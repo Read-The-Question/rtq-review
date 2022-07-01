@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-pr-prns"
 title: "TopicPaper - Time - 1 - PR - PRNS"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -53,6 +53,30 @@ $
 
 $5 \ \text{hrs} \ 38 \ \text{mins}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 16{:}06 - 10{:}28 \\\\
+&= 5 \ \text{hrs} \ 38 \ \text{mins}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5 \ \text{hrs} \ 38 \ \text{mins}$
+</code></pre>
 </div>
 </div>
 
@@ -133,6 +157,25 @@ TODOWORKING
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -160,6 +203,30 @@ $
 
 $9{:}20 \ \text{pm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 6{:}45 \ \text{pm} + 2 \ \text{hours } 35 \ \text{minutes} \\\\
+&= 9{:}20 \ \text{pm} \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9{:}20 \ \text{pm}$
+</code></pre>
 </div>
 </div>
 
@@ -195,6 +262,34 @@ $
 
 $3 \ \text {hours} \ 39 \ \text{minutes}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {time had he not been late} &= 13{:}45 - 5 \ \text{minutes} \\\\
+                                  &= 13{:}40 \ \text{minutes} \\\\
+\text {time if arrived on time}   &= 17{:}05 + 14 \ \text{minutes} \\\\
+                                  &= 17{:}19 \\\\
+\text {duration of journey}       &= 17{:}19 - 13{:}40 \\\\
+                                  &= 3 \ \text {hours} \ 39 \ \text{minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text {hours} \ 39 \ \text{minutes}$
+</code></pre>
 </div>
 </div>
 
@@ -237,6 +332,39 @@ $
 
 $27$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {ratio of Dave's and Chris speed} &= \dfrac {9} {6} \\\\
+                                        &= \dfrac {3 \times 3} {3 \times 2} \\\\
+                                        &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 2} \\\\
+                                        &= \dfrac {3} {2} \\\\
+\text {laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} 18 \\\\
+                                        &= \dfrac {3} {2} \times 18 \\\\
+                                        &= \dfrac {3 \times 18} {2} \\\\
+                                        &= \dfrac {3 \times 9 \times 2} {2} \\\\
+                                        &= \dfrac {3 \times 9 \times \cancel{2}} {\cancel{2}} \\\\
+                                        &= 3 \times 9 \\\\
+                                        &= 27
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27$
+</code></pre>
 </div>
 </div>
 
@@ -340,6 +468,43 @@ $1 \ \text {hour} \ \ 20 \ \text {minutes}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>let the time spend playing each weekday be $=x$.
+
+$
+\begin{aligned}
+5 \times x + 2 \times 2 \times x &= 12 \ \text{hours} \\\\
+5 \times x + 4 \times x          &= 12 \\\\
+9 \times x                       &= 12 \\\\
+x                                &= \dfrac {12} {9} \\\\
+                                 &= \dfrac {3 \times 4} {3 \times 3} \\\\
+                                 &= \dfrac {\cancel{3} \times 4} {\cancel{3} \times 3} \\\\
+                                 &= \dfrac {4} {3} \\\\
+                                 &= 1 \dfrac {1} {3} \ \text {hours} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {60} {3} \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {3 \times 20} {3} \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \dfrac {\cancel{3} \times 20} {\cancel{3}} \ \text {minutes} \\\\
+                                 &= 1 \ \text {hour} \ \ 20 \ \text {minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1 \ \text {hour} \ \ 20 \ \text {minutes}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -438,6 +603,32 @@ $21{:}15$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 24{:}00 - 165 \ \text {minutes} \\\\
+&= 24{:}00 - 120 \ \text {minutes} - 45 \ \text {minutes} \\\\
+&= 24{:}00 - 2 \ \text {hours} \ 45 \ \text {minutes} \\\\
+&= 21{:}15
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$21{:}15$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -526,6 +717,32 @@ $1 \ \text {seconds}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Jack's time rounded off}   &= 15 \ \text {seconds} \\\\
+\text {Emily's time rounded off}  &= 14 \ \text {seconds} \\\\
+\text {difference}                &= 15 - 14 \\\\
+                                  &= 1 \ \text {seconds}                        
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1 \ \text {seconds}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -607,6 +824,30 @@ $
 
 $3600$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Second in an hour} &= 60 \times 60 \\\\
+                          &= 3600
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3600$
+</code></pre>
 </div>
 </div>
 

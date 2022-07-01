@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-7-g2"
 title: "TopicPaper - Fraction - 7 - G2"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -42,6 +42,25 @@ $3 \dfrac{1}{2}$
 
 $3 \dfrac{1}{2}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$3 \dfrac{1}{2}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \dfrac{1}{2}$
+</code></pre>
 </div>
 </div>
 

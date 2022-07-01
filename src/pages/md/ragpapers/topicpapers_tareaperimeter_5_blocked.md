@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-blocked"
 title: "TopicPaper - Areaperimeter - 5 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -47,6 +47,25 @@ tsimpleword
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -80,6 +99,33 @@ $13 \text {cm}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the diagram
+
+$
+\begin{aligned}
+\text{Area}    &= 2 \times (1 \times 6)  + 1 \times 1 \\\\
+               &= 12 + 1 \\\\
+               &= 13 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13 \text {cm}^2$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -110,6 +156,33 @@ $
 
 $32 \text {cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+&= 2 \times (2 \times 7)  + 4 \times 1 \\\\
+&= 28 + 4 \\\\
+&= 32 \text {cm}
+\end{aligned}
+$
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$32 \text {cm}$
+</code></pre>
 </div>
 </div>
 
@@ -165,6 +238,25 @@ The following grid is made of $1 \ \text{cm}$ squares.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -185,6 +277,25 @@ What is the area of the shaded shape?
 
 $18 \ \text{cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>*TODO:: Format missing, check the diagram.*
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18 \ \text{cm}^2$
+</code></pre>
 </div>
 </div>
 
@@ -236,6 +347,43 @@ $
 
 $18 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Draw a diagram with two triangle and 1 rectangle which consist of only the shaded part of the question. Also show the calculated measurements. *
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_expanded_perimeter_triangle
+
+rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of the shaded shape}     &= \text{Perimeter of rectangle} + 2 \times \text{Perimeter of triangle} \\\\ 
+                                    &= 2 \times 6 + 2 \times \dfrac {6} {2} \\\\
+                                    &= 2 \times 6 + \dfrac {2 \times 6} {2} \\\\
+                                    &= 2 \times 6 + \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
+                                    &= 12 + 6 \\\\
+                                    &= 18 \ \text{cm}^2
+\end{aligned}
+$</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 
@@ -314,6 +462,41 @@ $
 
 $36$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>APTQ,
+
+$
+\begin{aligned}
+\text{Perimeter is the total distance around the outside of a shape} \\\\
+\text{The missing vertical side plus } \  4 \  \text{cm} \ \ \text{must equal} \  10 \  \text{cm} \ \ \text{The missing vertical side is} \  6 \  \text{cm}   \\\\
+\text{The missing  horizontal side plus } \  3 \  \text{cm} \ \ \text{must equal} \  8 \  \text{cm} \ \ \text{The missing  horizontall side is} \  5 \  \text{cm}   \\\\
+\text{We find the perimeter by adding the outside edges of our shape} \\\\
+8  \ \text{cm} + 10 \ \text{cm} &= 18 \ \text{cm} \\\\
+3  \ \text{cm} + 4 \ \text{cm} &= 7 \ \text{cm} \\\\
+\text{We can add these four sides to make} \  25 \  \text{cm} \\\\
+\text{We add the remaining two sides to} \  25 \  \text{cm} \\\\
+25  \ \text{cm} + 6 \ \text{cm} &= 31 \ \text{cm} \\\\
+31  \ \text{cm} + 5 \ \text{cm} &= 36 \ \text{cm} \\\\
+\text{The perimeter of this compound shape is }  \ 36 \  \text{cm} \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$36$
+</code></pre>
 </div>
 </div>
 

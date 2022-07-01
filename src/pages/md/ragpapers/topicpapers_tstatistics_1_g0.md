@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-g0"
 title: "TopicPaper - Statistics - 1 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -62,6 +62,39 @@ Number of students absent on Friday $= 2$
 
 $2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of students absent on Friday $= a$
+
+$
+\begin{aligned}
+\text{Mean number of absent students}   &= \dfrac {\text{Total absent students}} {\text{Total days}} \\\\
+4                                       &= \dfrac {4 + 6 + 5 + 3 + a} {5} \\\\
+4 \times 5                              &= 18 + a \\\\
+20                                      &= 18 + a \\\\
+18 + a                                  &= 20 \\\\
+a                                       &= 20 - 18 \\\\
+a                                       &= 2
+\end{aligned}
+$
+
+Number of students absent on Friday $= 2$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2$
+</code></pre>
 </div>
 </div>
 
@@ -163,6 +196,32 @@ $10  \ \text{kg}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Mean weight}  &= \dfrac {\text{Total weight of sharks}} {\text{Number of sharks}} \\\\
+                      &= \dfrac {3 + 6 + 9 + 22 +28 + 1 + 6 + 5} {8} \\\\
+                    &= \dfrac {80} {8} \\\\
+                    &= 10  \ \text{kg}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10  \ \text{kg}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -244,6 +303,31 @@ $
 
 $11.66$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Average monthly saving}  &= \dfrac {12 + 18 + 5} {3} \\\\
+                               &= \dfrac {35} {3} \\\\
+                               &= 11.66
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11.66$
+</code></pre>
 </div>
 </div>
 

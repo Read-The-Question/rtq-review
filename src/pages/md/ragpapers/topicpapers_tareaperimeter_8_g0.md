@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-g0"
 title: "TopicPaper - Areaperimeter - 8 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -56,6 +56,25 @@ A pattern is made using $4$ of these tiles.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -99,6 +118,41 @@ $
 
 $40 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add the diagram of pattern with outer side $10 \ \text {cm}$ and inner sides $4 \ \text {cm}$.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Side of the outer square}        &= \text {length of the rectangle + width of the rectangle} \\\\
+                                        &= 7 + 3 \\\\
+                                        &= 10 \ \text{cm} \\\\
+\text {Perimeter of the outer square}   &= 4 \times 10 \\\\
+                                        &= 40 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$40 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 
@@ -146,6 +200,41 @@ $
 
 $16 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add the diagram of pattern with outer side $10 \ \text {cm}$ and inner sides $4 \ \text {cm}$.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Side of square in the middle}            &= \text {length of rectangle} - \text {width of rectangle} \\\\
+                                                &= 7 - 3  \\\\
+                                                &= 4 \ \text{cm} \\\\
+\text {Perimeter of the square in the middle}   &= 4 \times 4 \\\\
+                                                &= 16 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 
@@ -258,6 +347,38 @@ $
 
 $36 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add the diagram of new shape with measurement of all sides shown with the help of given two shapes.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_expanded_perimeter_polygon
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter of shape}       &= 6 + 6 + 11 + 6 + 3 + 4 \\\\
+                                &= 36 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$36 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 
@@ -377,6 +498,50 @@ $40 \ \text{cm}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add the diagram with inner rectangle's length $5 \ \text {m}$ and width $8 \ \text {m}$ shown.
+Also show the measurement of border.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Length of the pond}  &= 11 - 2 \times 1.5 \\\\
+                            &= 11 - 3 \\\\
+                            &= 8 \ \text{m} \\\\
+\text {Width of the pond}   &= 8 - 2 \times 1.5 \\\\
+                            &= 8 - 3 \\\\
+                            &= 5 \ \text{m}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area of the pond}     &= 8 \times 5 \\\\
+                            &= 40 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$40 \ \text{cm}^2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -473,6 +638,41 @@ $
 
 $24.9 \ \text{cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of shaded regions}       &= \text{Area of left triangle} + \text{Area of right triangle} \\\\
+                                    &= \dfrac {1} {2} \times 8.3 \times 3.784 + \dfrac {1} {2} \times 8.3 \times 2.216 \\\\
+                                    &= \dfrac{8.3 \times 3.784} {2} + \dfrac {8.3 \times 2.216} {2} \\\\
+                                    &= \dfrac{31.4072} {2} + \dfrac {18.3928} {2} \\\\
+                                    &= \dfrac{31.4072 + 18.3928} {2} \\\\
+                                    &= \dfrac{49.8} {2} \\\\
+                                    &= \dfrac{2 \times 24.9} {2} \\\\
+                                    &= \dfrac{\cancel {2} \times 24.9} {\cancel {2}} \\\\
+                                    &= 24.9 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$24.9 \ \text{cm}^2$
+</code></pre>
 </div>
 </div>
 
@@ -583,6 +783,48 @@ $
 
 $56$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+The rectangle measurement is given in metres while the triangle measurement is given in cm.
+
+Let's convert the rectangle measurements into $\text{cm}$.
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_katex_formula_area_triangle_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of tiles}  &= \dfrac {\text{Area of the rectangle}} {\text{Area of a triangle}} \\\\
+                        &= \dfrac {0.32 \ \text{m} \times 0.42 \ \text{m} } { \dfrac{1} {2} \times 8 \ \text{cm} \times 6 \ \text{cm} } \\\\
+                        &= \dfrac {0.32 \times 100  \ \text{cm} \times 0.42 \times 100 \ \text{cm} } { \dfrac{1} {2} \times 8 \ \text{cm} \times 6 \ \text{cm} } \\\\
+                        &= \dfrac {32 \times 42 \times 2} {8 \times 6} \\\\
+                        &= \dfrac {4 \times 8 \times 6 \times 7 \times 2 } {8 \times 6}  \\\\
+                        &= \dfrac {4 \times \cancel{8} \times \cancel{6} \times 7 \times 2 } {\cancel{8} \times \cancel{6}}  \\\\
+                        &= 4 \times 7 \times 2  \\\\
+                        &= 56
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$56$
+</code></pre>
 </div>
 </div>
 
@@ -709,6 +951,64 @@ $28 \ \text{m}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+Let the width of rectangle $= w \ \text{m}$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times (7 + w)        &= 32 \\\\
+14 + 2w                 &= 32 \\\\
+2w                      &= 32 - 14 \\\\
+2w                      &= 18 \\\\
+w                       &= \dfrac{18} {2} \\\\
+w                       &= \dfrac{2 \times 9} {2} \\\\
+w                       &= \dfrac{\cancel{2} \times 9} {\cancel{2}} \\\\
+w                       &= 9 \ \text{m}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Base of the triangle}    &= 17 - 9 \\\\
+                                &= 8 \ \text{m}
+\end{aligned}
+$
+
+Let's find the area of the triangle.
+
+$
+\begin{aligned}
+\text{Area}             &= \dfrac{1} {2} \times 8 \times 7 \\\\
+                        &= \dfrac{8 \times 7} {2} \\\\
+                        &= \dfrac{2 \times 4 \times 7} {2} \\\\
+                        &= \dfrac{\cancel {2} \times 4 \times 7} {\cancel {2}} \\\\
+                        &= 4 \times 7 \\\\
+                        &= 28 \ \text{m}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$28 \ \text{m}^2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -812,6 +1112,43 @@ $
 
 $\pounds 74.1$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add the diagram with inner rectangle's length $5 \ \text {m}$ and width $7 \ \text {m}$ shown.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of gravel path}  &= \text{Total Area} - \text{Area of grass lawn} \\\\
+                            &= 8 \times 6 -  5 \times 7 \\\\
+                            &= 48 - 35 \\\\
+                            &= 13 \ \text{m}^2 \\\\
+\text{Cost of gravel}       &= \text{Cost per } m^2 \times \text{Area of gravel path} \\\\
+                            &= \pounds 5.70 \times 13 \\\\
+                            &= \pounds 74.1
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 74.1$
+</code></pre>
 </div>
 </div>
 

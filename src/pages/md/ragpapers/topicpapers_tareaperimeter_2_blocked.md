@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-blocked"
 title: "TopicPaper - Areaperimeter - 2 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -90,6 +90,62 @@ $400 \text{ cm}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the side of square $= a$
+
+First lets find the side of sqaure 
+
+As per the question
+
+$
+\begin{aligned}
+4a   &= 70 + 30 + 70 + 30 \\\\
+4a   &= 200 \\\\
+a    &= \dfrac {200} {4} \\\\
+a    &= \dfrac {4 \times 50} {4} \\\\
+a    &= \dfrac {\cancel {4} \times 50} { \cancel {4} } \\\\
+a    &= 50 \text{ cm}
+\end{aligned}
+$
+
+Now lets find the area of two 
+
+$
+\begin{aligned}
+\text{Area of rectangle}  &= 70 \times 30 \\\\
+                          &= 2100 \text{ cm} \\\\
+
+\text{Area of square}     &= a \times a \\\\
+                          &= 50 \times 50 \\\\
+                          &= 2500 \text{ cm}^2. 
+\end{aligned}
+$
+
+The difference between areas
+
+$
+\begin{aligned}
+&= 2500 - 2100 \\\\
+&= 400 \text{ cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$400 \text{ cm}^2$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -145,6 +201,25 @@ He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ alon
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -172,6 +247,32 @@ $
 
 $90$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text {Tiles needed}    &= 15 \times 6 \\\\
+                        &= 90
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$90$
+</code></pre>
 </div>
 </div>
 
@@ -209,6 +310,36 @@ $3 \ \text {m}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text {Length of the worktop}    &= 15 \times 20 \ \text {cm} \\\\
+                                 &= 15 \times \dfrac {20} {100} \ \text {m} \\\\
+                                 &= \dfrac {15 \times 20} {100} \\\\
+                                 &= \dfrac {5 \times 3 \times 20} {5 \times 20} \\\\
+                                 &= \dfrac {\cancel {5} \times 3 \times \cancel {20}} {\cancel {5} \times \cancel {20}} \\\\
+                                 &= 3 \ \text {m}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text {m}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -244,6 +375,36 @@ $8.4 \ \text {m}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Perimeter of the worktop}    &= 2 (\text {length} + \text {width}) \\\\
+                                    &= 2 (15 \times 20 \ \text {cm} + 6 \times 20 \ \text {cm}) \\\\
+                                    &= 2 (15 \times \dfrac {20} {100} \ \text {m} + 6 \times \dfrac {20} {100} \ \text {m}) \\\\
+                                    &= 2 (\dfrac {15 \times 20} {100} + \dfrac {6 \times 20} {100}) \\\\
+                                    &= 2 (\dfrac {300} {100} + \dfrac {120} {100}) \\\\
+                                    &= 2 (3 + 1.2) \\\\
+                                    &= 2 \times 4.2 \\\\
+                                    &= 8.4 \ \text {m}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8.4 \ \text {m}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -276,6 +437,35 @@ $
 
 $3.6 \ \text {m} ^ 2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Area of the worktop}    &= \text {length} \times \text {width} \\\\
+                               &= 15 \times 20 \ \text {cm} \times 6 \times 20 \ \text {cm} \\\\
+                               &= 15 \times \dfrac {20} {100} \ \text {m} \times 6 \times \dfrac {20} {100} \ \text {m} \\\\
+                               &= \dfrac {15 \times 20 \times 6 \times 20} {100 \times 100} \\\\
+                               &= \dfrac {300 \times 120} {10000} \\\\
+                               &= \dfrac {36000} {10000} \\\\
+                               &= 3.6 \ \text {m} ^ 2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3.6 \ \text {m} ^ 2$
+</code></pre>
 </div>
 </div>
 
@@ -331,6 +521,25 @@ The perimeter of the rectangle below is $18 \ \text{cm}$.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -369,6 +578,41 @@ $6 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+height $= 3 \text{cm}$
+
+perimeter of rectangle $= 2 \times \text{(width + height)}$
+
+then,
+
+width $= \dfrac {\text {perimeter}} {2} - \text {height}
+
+$
+\begin{aligned}
+&= \dfrac {18} {2} - 3 \\\\
+&= 9 - 3 \\\\
+&= 6 \ \text {cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -399,6 +643,32 @@ $
 
 $18 \ \text {cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>*Note: rtq_abbr_md_quadratic_note*
+
+$
+\begin{aligned}
+&= 6 \times 3 \\\\
+&= 18 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18 \ \text {cm}^2$
+</code></pre>
 </div>
 </div>
 
@@ -437,6 +707,33 @@ $
 
 $2 (h + w)$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>perimeter is sum of all sides of the figure
+
+$
+\begin{aligned}
+\text {perimeter} &= h + w + h + w \\\\
+                  &= 2h + 2w \\\\
+                  &= 2 (h + w)
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2 (h + w)$
+</code></pre>
 </div>
 </div>
 

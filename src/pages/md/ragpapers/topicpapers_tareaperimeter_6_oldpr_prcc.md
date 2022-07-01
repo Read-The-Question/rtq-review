@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 6 - OLDPR - PRCC"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -72,6 +72,38 @@ $
 
 $64 \ \text{cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the side of square is 8 cm.*
+
+rtq_abbr_katex_formula_area_square_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of the shaded inner square} &= 8 \times 8 \\\\
+                                       &= 64 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>G</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$64 \ \text{cm}^2$
+</code></pre>
 </div>
 </div>
 
@@ -220,6 +252,89 @@ $81 \ \text {cm}^2 $
 
 $44 \ \text {cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+Let the side of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times a           &= 36\\\\
+a                    &= \dfrac {36} {4} \\\\
+a                    &= \dfrac {9 \times 4} {4} \\\\
+a                    &= \dfrac {9 \times \cancel{4}} {\cancel{4}} \\\\
+a                    &= 9 \ \text {cm}
+\end{aligned}
+$
+
+Let's calculate the area of square.
+
+$
+\begin{aligned}
+\text {Area}    &= 9 \times 9 \\\\
+                &= 81 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+Let the side of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times a             &= 121 \\\\
+a^2                    &= 121 \\\\
+a                      &= \sqrt {121} \\\\
+a                      &= 11 \ \text {cm}
+\end{aligned}
+$
+
+Let's calculate the perimeter of square.
+
+$
+\begin{aligned}
+\text {Perimeter}      &= 4 \times 11 \\\\
+                       &= 44 \ \text {cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$81 \ \text {cm}^2 $
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$44 \ \text {cm}$
+</code></pre>
 </div>
 </div>
 

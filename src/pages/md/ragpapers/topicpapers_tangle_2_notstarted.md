@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-notstarted"
 title: "TopicPaper - Angle - 2 - NOTSTARTED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -110,6 +110,75 @@ $
 
 $120 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+
+*TODO:: Add an image with points marked as E F at which the line is intersecting the parallelogram. and also mark the angles of CEFB.*
+
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_angles_of_quadrilateral
+
+rtq_abbr_katex_formula_angles_on_a_straight_line
+
+ABBR: $\text {Alternate interior angles are equal when two parallel lines are cut by a transversal}$.
+
+ABBR: $\text{Opposite angles of a parallelogram are equal}$.
+
+Let the other two angles of quadrilateral CEFB $= a, \ b$
+
+As per the daiagram,
+
+$h = 80 \degree$
+
+Let's use the value of $h$ to find $a$.
+
+$
+\begin{aligned}
+h + a              &= 180 \\\\
+80 + a             &= 180 \\\\
+a                  &= 180 - 80 \\\\
+a                  &= 100 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $b$.
+
+$
+\begin{aligned}
+a + 80 + 60 + b           &= 360 \\\\
+100 + 80 + 60 + b         &= 360 \\\\
+b + 240                   &= 360 \\\\
+b                         &= 360 - 240 \\\\
+b                         &= 120 \degree
+\end{aligned}
+$
+
+$j$ and $b$ are opposite angles of a parallelogram.
+
+$
+\begin{aligned}
+\text {Therefore,} \ j &= b \\\\
+                    j &= 120 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$120 \degree$
+</code></pre>
 </div>
 </div>
 

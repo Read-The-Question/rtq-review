@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-pr"
 title: "TopicPaper - Areaperimeter - 2 - PR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,6 +57,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -94,6 +128,36 @@ $82 \ \text {cm}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cuboid
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Surface area}    &= 2 \times (2 \times 3 + 3 \times 7 + 7 \times 2) \\\\
+                        &= 2 \times (6 + 21 + 14) \\\\ 
+                        &= 2 \times 41 \\\\ 
+                        &= 82 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$82 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -126,6 +190,34 @@ $
 
 $42 \ \text{cm}^3$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_volume_cuboid
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Volume}          &= 2 \times 3 \times 7) \\\\
+                        &= 42 \ \text{cm}^3
+\end{aligned}
+$ 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$42 \ \text{cm}^3$
+</code></pre>
 </div>
 </div>
 
@@ -222,6 +314,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -270,6 +396,44 @@ $50 \ \text{m}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram divided in two rectangles with the calculations for the parts of the path which do not have measurements shown.
+Show the length of the first rectangle 5 (7-2) and width of the second rectangle 5 (8-3).*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram, the shape can be divided into two rectangle
+
+$
+\begin {aligned}
+\text {Total area}          &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                            &= ((7-2) \times 8) + (2 \times (8-3)) \\\\
+                            &= (5 \times 8) + (2 \times 5) \\\\
+                            &= 40 + 10 \\\\
+                            &= 50 \ \text {m} ^ 2
+\end {aligned}
+$
+
+Area of the floor of the office is $50 \ \text{m}^2$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$50 \ \text{m}^2$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -313,6 +477,44 @@ $
 
 $200$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_md_unit_no_dot_note.
+The floor measurement is given in $\text{meters}$ while the tile measurement is given in $\text{cm}$.
+
+Let's convert the floor measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Number of tiles}  &= \dfrac {\text{Area of the floor}} {\text{Area of a tile}} \\\\
+                         &= \dfrac {50 \ \text{m}^2} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
+                         &= \dfrac {50 \times 10000 \ \text {cm}^2} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
+                         &= \dfrac {50 \times 10000} {50 \times 50} \\\\
+                         &= \dfrac {50 \times 50 \times 200} {50 \times 50} \\\\
+                         &= \dfrac {\cancel {50} \times \cancel {50} \times 200} {\cancel {50} \times \cancel {50}} \\\\
+                         &= 200
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$200$
+</code></pre>
 </div>
 </div>
 
@@ -421,6 +623,42 @@ $
 
 $34 \ \text {m} ^ 2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram divided in two rectangles, with the calculations for the parts of the path which do not have measurements shown. 
+Show the length of the smaller rectangle is $2 \ \text {cm}$ and width is $6 \ \text {cm}$.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram, the shape can be divided into two rectangle
+
+$
+\begin {aligned}
+\text {Area of the shape}   &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                            &= ((4 - 2) \times (11 - 5)) + (2 \times 11) \\\\
+                            &= (2 \times 6) + 22 \\\\
+                            &= 12 + 22 \\\\
+                            &= 34 \ \text {m} ^ 2
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$34 \ \text {m} ^ 2$
+</code></pre>
 </div>
 </div>
 
@@ -533,6 +771,52 @@ $12 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_katex_formula_area_square_expanded
+
+Let the side of square $= s$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of rectangle}      &= 6 \times 24 \\\\
+                               &= 144 \ \text {cm}^2
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of square} &= \text{Area of rectangle} \\\\
+s \times s            &= 144 \\\\
+s ^ 2                 &= 144 \\\\
+s                     &= \sqrt {144} \\\\
+s                     &= 12 \ \text{cm}
+\end{aligned}
+$
+
+Length of the side of the square is $12 \ \text {cm}$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -638,6 +922,42 @@ $26 \ \text {m} ^ 2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram divided in two rectangles, with the calculations for the parts of the path which do not have measurements shown. 
+Show the length of the smaller rectangle is $2 \ \text {cm}$ and width is $4 \ \text {cm}$.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram, the shape can be divided into two rectangle
+
+$
+\begin {aligned}
+\text {Area of the shape}   &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                            &= ((4 - 2) \times (9 - 5)) + (2 \times 9) \\\\
+                            &= (2 \times 4) + 18 \\\\
+                            &= 8 + 18 \\\\
+                            &= 26 \ \text {m} ^ 2
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$26 \ \text {m} ^ 2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -731,6 +1051,36 @@ $29 \ \text {cm}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Shaded Area}         &= \text {Area of outer rectangle} - \text {Area of inner rectangle} \\\\
+                            &= 7 \times 5 - 2 \times 3 \\\\
+                            &= 35 - 6 \\\\
+                            &= 29 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$29 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -812,6 +1162,25 @@ tsimpleword
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -841,6 +1210,31 @@ $
 
 $1200 \ \text{mm} ^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Area} &= \text {height} \times {width} \\\\
+             &= 20 \times 60 \\\\
+             &= 1200 \ \text {mm} ^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1200 \ \text{mm} ^2$
+</code></pre>
 </div>
 </div>
 
@@ -901,6 +1295,53 @@ $40$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of triangle}        &= \dfrac {1} {2} \times 12 \times 5 \\\\
+                                &= \dfrac {1} {2} \times 60 \\\\
+                                &= \dfrac {60} {2} \\\\
+                                &= \dfrac {30 \times 2} {2} \\\\
+                                &= \dfrac {30 \times \cancel {2}} {\cancel {2}} \\\\
+                                &= 30 \ \text {mm} ^2
+\end{aligned}
+$
+
+Let's calculate the no. of triangles that he cuts from the rectangle.
+
+
+$
+\begin{aligned}
+\text {Total no. of triangles}                  &= \dfrac {\text {Area of rectangle}} {\text {Area of triangle}} \\\\
+                                                &= \dfrac {1200} {30} \\\\
+                                                &= \dfrac {40 \times 30} {30} \\\\
+                                                &= \dfrac {40 \times \cancel {30}} {\cancel {30}} \\\\
+                                                &= 40
+\end{aligned}
+$
+
+No. of triangles George cuts $= 40$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$40$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -942,6 +1383,41 @@ $1200 \ \text {mm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_triangle
+
+$
+\begin{aligned}
+\text {Perimeter}               &= 12 + 13 + 5 \\\\
+                                &= 40 \ \text {mm}
+\end{aligned}
+$
+
+
+$
+\begin{aligned}
+\text {Combined perimeter of triangles}         &= \text{No. of triangles} \times \text{Perimeter of a triangle} \\\\
+                                                &= 40 \times 30 \\\\
+                                                &= 1200 \ \text {mm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1200 \ \text {mm}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -974,6 +1450,35 @@ $
 
 $1.2 \text {m}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+1 \text {m}                                &= 1000 \ \text {mm} \\\\
+\dfrac {1} {1000} \text {m}                &= 1 \ \text {mm} \\\\
+\dfrac {1} {1000} \times 1200              &= 1 \times 1200 \\\\
+\dfrac {1200}{1000}                        &= 1200 \\\\
+\dfrac {12 \cancel {00}} {10 \cancel {00}} &= 1200 \\\\
+\dfrac {12} {10}                           &= 1200 \\\\
+1.2 \text {m}                              &= 1200 \ \text {mm} \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1.2 \text {m}$
+</code></pre>
 </div>
 </div>
 

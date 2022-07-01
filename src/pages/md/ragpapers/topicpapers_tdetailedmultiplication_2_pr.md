@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-pr"
 title: "TopicPaper - Detailedmultiplication - 2 - PR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -60,6 +60,43 @@ $
 
 $10150$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using our previous answer
+
+$2030 \times 20 = 40600$
+
+$2030 \times 5 \times 4 = 40600$
+
+$2030 \times 5 = \dfrac {40600} {4}$
+
+$
+\begin{aligned}
+&= 2030 \times 5 \\\\
+&= \dfrac {2030 \times 5 \times 4} {4} \\\\
+&= \dfrac {2030 \times 20} {4} \\\\
+&= \dfrac {40600} {4} \\\\
+&= \dfrac {10150 \times 4} {4} \\\\
+&= \dfrac {10150 \times \cancel{4}} {\cancel{4}} \\\\
+&= 10150
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10150$
+</code></pre>
 </div>
 </div>
 
@@ -150,6 +187,40 @@ $
 
 $50750$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using our previous answers 
+
+$2030 \times 5 = 10150$
+
+$2030 \times 5 \times 5 = 10150 \times 5$
+
+$2030 \times 25 = 10150 \times 5$
+
+$
+\begin{array}{cccccccccccccc}
+       &   1   &   0   &   1   &   5   &   0 \\
+\times &       &       &       &       &   5 \\
+\hline
+       &   5   &   0   &   7   &   5   &   0
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$50750$
+</code></pre>
 </div>
 </div>
 

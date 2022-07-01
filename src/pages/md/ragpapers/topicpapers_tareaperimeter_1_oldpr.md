@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-oldpr"
 title: "TopicPaper - Areaperimeter - 1 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -65,6 +65,37 @@ $
 
 $8 \ \text{mm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times (10 + t)                          &= 36 \\\\
+10 + t                                     &= \dfrac{36}{2} \\\\
+10 + t                                     &= 18 \\\\
+t                                          &= 18 - 10 \\\\
+t                                          &= 8 \ \text{mm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8 \ \text{mm}$
+</code></pre>
 </div>
 </div>
 
@@ -181,6 +212,50 @@ $32$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+Let the side of the square garden (in $\text{m}$) $= s$
+
+As per the question,
+
+$
+\begin{aligned}
+s \times s                          &= 81 \\\\
+s^2                                 &= 81 \\\\
+s                                   &= \sqrt{81} \\\\
+s                                   &= 9 \ \text{m}
+\end{aligned}
+$
+
+** INFER_DESCRIPTION_STARTS The $4$ corners will be counted twice, so ensure we account for that in the final calculation INFER_DESCRIPTION_ENDS **
+
+*Note: The $4$ corners will be counted twice, so ensure we account for that in the final calculation.*
+
+$
+\begin{aligned}
+\text{Tree height after second year}    &= 4 \times 9 - 4 \\\\
+                                        &= 36 - 4 \\\\
+                                        &= 32
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$32$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -271,6 +346,32 @@ $
 
 $15$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Number of tins needed}  &= \dfrac {\text{Total area of the hall}} {\text{Area covered by a tin}} \\\\
+                               &= \dfrac {652} {45} \\\\
+                               &= 14.48 \\\\
+                               &= 15
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15$
+</code></pre>
 </div>
 </div>
 
@@ -404,6 +505,43 @@ $3 \ \text{cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
+
+Let the height of the second triangle $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {1} {2} \times 8 \ \times a        &= \dfrac {1} {2} \times 6 \ \times 4 \\\\
+\dfrac {8} {2} \times a                   &= \dfrac {1} {2} \times 24 \\\\
+a                                         &= \dfrac {24} {2} \times \dfrac {2} {8} \\\\
+a                                         &= \dfrac {24 \times 2} {2 \times 8} \\\\
+a                                         &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
+a                                         &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
+a                                         &= 3 \ \text {cm}
+\end {aligned}
+$
+
+Triangle is $3 \ \text{cm}$ tall.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text{cm}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -515,6 +653,55 @@ $
 
 $24 \ \text {cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+Let the length of a side of the square (in $\text{cm}$) $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+a \times a          &= 9 \\\\
+a^2                 &= 9 \\\\
+a                   &= \sqrt {9} \\\\
+a                   &= 3 \ \text{cm}
+\end {aligned}
+$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Length of the rectangle (in cm)}  &= 3 \times a \\\\
+                                         &= 3 \times 3 \\\\
+                                         &= 9 \ \text {cm} \\\\
+\text {Width of the rectangle (in cm)}   &= a \\\\
+                                         &= 3 \ \text {cm} \\\\
+\text{Total Perimeter}                   &= 2 \times (9 + 3) \\\\
+                                         &= 2 \times 12 \\\\
+                                         &= 24 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$24 \ \text {cm}$
+</code></pre>
 </div>
 </div>
 

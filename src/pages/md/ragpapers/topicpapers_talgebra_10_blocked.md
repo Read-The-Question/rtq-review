@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-blocked"
 title: "TopicPaper - Algebra - 10 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -97,6 +97,69 @@ $\pounds 50$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+Let money Martha has be m and Sally has be s,
+
+$
+\begin{aligned}
+m - 10 = 3 \times (s - 20) \\\\
+m - 10 = 3s - 60 \\\\
+3s - m = 50 \\\\ 
+m =  3s -50
+\end{aligned}
+$
+
+$
+\begin{aligned}
+m - 15 = 2 \times (s - 20) \\\\
+m - 15 = 2s - 40 \\\\
+2s - m = 25 
+\end{aligned}
+$
+
+Replacing m in second question
+
+$
+\begin{aligned}
+2s - 3s + 50 = 25 \\\\ 
+s = 25 
+\end{aligned}
+$
+
+Value of m will be,
+$
+\begin{aligned}
+m = 3s - 50 \\\\
+m = 75 - 50 \\\\
+m = 25 
+\end{aligned}
+$
+
+Total money both has,
+$
+\begin{aligned}
+&= 25 + 25 \\\\ 
+&= \pounds 50
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 50$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -157,6 +220,36 @@ $25, 5$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+Let two numbers be $x$ and $y$,
+
+$
+\begin{aligned}
+x + y = 30   &&&&&    x - y = 20 \\\\
+x = 30 - y   &&&&&    30 - y - y = 20 \\\\
+x = 30 - y   &&&&&    10 = 2y \\\\
+x = 30 - y   &&&&&    y = 5 \\\\
+x = 25       &&&&&    y = 5 \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25, 5$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -201,6 +294,25 @@ An approximate method   of deciding how   much  sleep a  young person   needs is
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -228,6 +340,32 @@ $
 
 $11 \ \text {hours}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+&= \dfrac {33 - 11} {2} \\\\
+&= \dfrac {22} {2} \\\\
+&= 11 \ \text {hours}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11 \ \text {hours}$
+</code></pre>
 </div>
 </div>
 
@@ -265,6 +403,36 @@ $23 \text {year}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+Let the age of that person be $=x$
+
+$
+\begin{aligned}
+\dfrac {33 - x} {2} = 5 \\\\
+            33 - x  = 5 \times 2 \\\\
+            33 - x  = 10 \\\\
+                 x  = 23 \text {year}
+\end{aligned}
+$
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$23 \text {year}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -289,6 +457,25 @@ $33$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$33$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$33$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -311,6 +498,25 @@ $\text {No, it does not make sense to use the formula for older people because a
 
 $\text {No, it does not make sense to use the formula for older people because above 33 we will get negitive value}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\text {No, it does not make sense to use the formula for older people because above 33 we will get negitive value}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {No, it does not make sense to use the formula for older people because above 33 we will get negitive value}$
+</code></pre>
 </div>
 </div>
 
@@ -372,6 +578,39 @@ $
 
 $1800 \text {metres}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+According to question ,
+
+Distance between first and third bus $600 \text {metres}$
+
+Distance between first and second bus will be $300 \text {metres}$
+
+So, distance between first and last bus will be ,
+
+$
+\begin{aligned}
+&= 300 \times 9 \\\\
+&= 1800 \text {metres}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1800 \text {metres}$
+</code></pre>
 </div>
 </div>
 
@@ -446,6 +685,53 @@ $10 \text{chickens}, 20 \text{cows}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of chickens $=x$ and number of cows $=y$
+
+A farmer has some chickens and some cows .He counted $30$ heads 
+
+$ 
+\begin{aligned}
+x + y = 30 \\\\
+x = 30 - y
+\end{aligned}
+$
+
+Each chicken  has 2 legs and cow has 4 legs 
+
+$
+\begin{aligned}
+2x + 4y = 100 \\\\
+x  + 2y = 50 \\\\
+30 - y + 2y = 50 \\\\
+y = 20 \text {cows}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+x = 30 - y \\\\
+x = 30 - 20 \\\\
+x = 10 \text {chickens}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10 \text{chickens}, 20 \text{cows}$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -501,6 +787,34 @@ $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed
 
 $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed{0}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccc}
+    &       &   7   &   4 \\
+{}+ &   1   &   8   &   6 \\
+\hline
+    &   2   &   5   &   0
+\end{array}
+$
+
+$\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed{0}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed{0}$
+</code></pre>
 </div>
 </div>
 

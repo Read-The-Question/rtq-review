@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-oldpr"
 title: "TopicPaper - Simpleword - 5 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,6 +59,39 @@ $
 
 $220$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>According to the question,
+
+$
+\begin{aligned}
+\text{Not Coffee Crèmes,} &= Total Coffee Crèmes - Coffee Crèmes \\\\
+                          &= 250 - 12 \% \text{of} 250 \\\\
+                          &= 250 - \dfrac {12 \times 250} {100} \\\\
+                          &= 250 - \dfrac {12 \times 25 \cancel{0} } {10\cancel {0} } \\\\
+                          &= 250 - \dfrac {12 \times 5 \times \cancel {5} } {\cancel {5} \times 2} \\\\
+                          &= 250 - \dfrac {6 \times \cancel {2} \time 5} {\cancel {2} } \\\\
+                          &= 250 - 6 \times 5 \\\\
+                          &= 250 - 30 \\\\
+                          &= 220
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$220$
+</code></pre>
 </div>
 </div>
 
@@ -150,6 +183,33 @@ $8.85 \ \text{cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{String (Remains)} &= \text{Sting (Total)} - \text{String (Cut)} \\\\
+&=  12.6 - 3.75 \\\\
+&=   8.85 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8.85 \ \text{cm}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -234,6 +294,25 @@ A jumbo jet can take 324 passengers.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -278,6 +357,47 @@ $9072$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+$324 \times 28$
+
+$
+\begin{aligned}
+1 \ \text{jet} &= 324 \ \text{passengers} \\\\
+1 \times 28 &= 324 \times 28
+\end{aligned}
+$
+
+$
+\begin{array}{cccccccccccccc}
+&   &   3   &   2   & 4 \\
+{}\times    &   &   & 2     & 8 \\
+\hline
+&  2    &   5   & 9     & 2     \\
+&  2    &   1   & 3     & 0     \\
+\hline
+ &      9&       0       & 7     & 2
+\end{array}
+$
+
+No of passengers that could be transported by a fleetof $28$ jombo jet $9072$ passengers.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9072$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -300,6 +420,25 @@ $100 = 9100$
 
 $100 = 9100$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$100 = 9100$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$100 = 9100$
+</code></pre>
 </div>
 </div>
 
@@ -418,6 +557,39 @@ $60 \ \text{cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+As the answer is to be given in cm, let's convert all measurements into cms.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total Width}& = \text{First (Section)} + \text{Second (Section)} + \text{Third (Section)} \\\\
+&= 30 \ \text{cm} + 1.5 \ \text{m} + 150 \ \text{mm} \\\\
+&= 30 \ \text{cm} + 1.5 \times 10 \ \text{cm} + \dfrac{150}{10}\ \text{cm} \\\\
+&= 30 + 15 + \dfrac{150}{10} \\\\
+&= 60 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$60 \ \text{cm}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -520,6 +692,25 @@ Helen spends half her money on a dress. She then spends one-third of what is lef
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -560,6 +751,43 @@ $\pounds 40$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{cost of shoes} &= \dfrac {1}{3} \times \text{cost of the dress} \\\\
+&=  \dfrac {1}{3} \times   dfrac {1}{2} \times 120 \\\\
+&=  \dfrac {1}{6} \times 120 
+\end{aligned} 
+$
+
+$
+\begin{aligned}
+\text{Money (Left)} &= \text{Money (at Start) }- \text{Spend (for Dress + for Shoes)} \\\\
+&= 120 - (60 + 20) \\\\
+&= 120 - 80 \\\\
+&= \pounds 40
+\end{aligned}
+$
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 40$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -590,6 +818,33 @@ $
 
 $\dfrac{1}{3}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Fraction of Amount (Left)} &=  \dfrac {\text {Money (Left)}}{\text {Money (Total)}} \\\\
+&= \dfrac {40}{120} \\\\
+&= \dfrac {40}{40 \times3 } \\\\
+&= \dfrac { \cancel{40}} { \cancel{40} \times3 } \\\\
+&=  \dfrac{1}{3}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{3}$
+</code></pre>
 </div>
 </div>
 
@@ -723,6 +978,38 @@ $0.15 \ \text{grams}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text {Weight of one match}      &= \dfrac {\text {Weight of match box} - \text {Weight of empty box}} {\text{Number of matches}} \\\\
+                                 &= \dfrac {45 - 12} {220} \\\\
+                                 &= \dfrac {33} {220} \\\\
+                                 &= \dfrac {3 \times 11} {2 \times 10 \times 11} \\\\
+                                 &= \dfrac {3 \times \cancel{11}} {2 \times 10 \times \cancel{11}} \\\\
+                                 &= \dfrac {3} {2} \times \dfrac{1} {10} \\\\
+                                 &= \dfrac {1.5} {10} \\\\
+\text {Weight of one match}      &= 0.15 \ \text {grams}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0.15 \ \text{grams}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -829,6 +1116,33 @@ Multiple of $8$ that is also divisible by $3$ , and ends in $2 = 72$
 
 $72$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Since $3$ and $8$ have no factors in common,
+
+Let's find multiples of $8$ that are also divisible by $3$
+
+$= 24, 48, 72, ....$
+
+Multiple of $8$ that is also divisible by $3$ , and ends in $2 = 72$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$72$
+</code></pre>
 </div>
 </div>
 
@@ -943,6 +1257,41 @@ Packs of pen that needs to be bought is $26$ whole packets and $1$ more packet f
 
 $27$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Packs to be bought
+
+$
+\begin{aligned}
+&= \dfrac {\text {Total pens}} {\text {Pens per pack}} \\\\
+&= \dfrac {3 \times 70} {8} \\\\
+&= \dfrac {3 \times 35 \times 2} {4 \times 2} \\\\
+&= \dfrac {3 \times 35 \times \cancel{2}} {4 \times \cancel{2}} \\\\
+&= \dfrac {3 \times 35} {4} \\\\
+&= \dfrac {105} {4} \\\\
+&= 26 \dfrac {1} {4} \\\\
+\end{aligned}
+$
+
+Packs of pen that needs to be bought is $26$ whole packets and $1$ more packet for the remainder $1$ pen $= 27$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27$
+</code></pre>
 </div>
 </div>
 
@@ -1060,6 +1409,40 @@ $\pounds 7.04$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$\text {Total cost} = \text {Cost per person per km} \times \text {No. of kilometers.}
+
+$
+\begin{aligned}
+\text {Cost per person}      &= \dfrac {Total cost} {Total persons} \\\\
+                             &= \dfrac {2.42 \times 32} {11} \\\\
+                             &= \dfrac {2.42 \times 100 \times 32} {11 \times 100} \\\\
+                             &= \dfrac {242 \times 32} {11 \times 100} \\\\
+                             &= \dfrac {11 \times 11 \times 2 \times 32} {11 \times 100} \\\\
+                             &= \dfrac {11 \times 2 \times 32} {100} \\\\
+                             &= \dfrac {704} {100} \\\\
+\text {Cost per person}      &= \pounds 7.04
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 7.04$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -1165,6 +1548,36 @@ $27$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Sweets per person}       &= \dfrac {\text{Total sweets}} {\text{Total people}} \\\\
+                                &= \dfrac {486} {18} \\\\
+                                &= \dfrac {27 \times 18} {18} \\\\
+                                &= \dfrac {27 \times \cancel{18}} {\cancel{18}} \\\\
+                                &= 27
+
+\end{aligned}
+$
+
+Each person gets $27$ Sweets each.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -1267,6 +1680,37 @@ $\dfrac{13}{20}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{The fraction eaten together} &= \text{cake eaten by Sam} +\text{cake eaten by Alice} \\\\
+&=  \dfrac{1}{4} + \dfrac{2}{5} \\\\
+&=  \dfrac{1 \times 5}{4  \times 5} + \dfrac{2 \times 4}{5 \times 4} \\\\
+&=  \dfrac{5}{20} + \dfrac{8}{20} \\\\
+&=  \dfrac{5 + 8} {20} \\\\
+&=  \dfrac{5 + 8} {20} \\\\
+&=  \dfrac{13}{20}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{13}{20}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -1356,6 +1800,34 @@ $
 
 $33.6 \ \text{m}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+&=  \dfrac{235 \ \text{m}}{7} \\\\
+&=  \dfrac{235}{7} \\\\
+&=  33.57 \approx 33.6 \\\\
+&=  33.6 \ \text{m}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$33.6 \ \text{m}$
+</code></pre>
 </div>
 </div>
 
@@ -1466,6 +1938,51 @@ $70 \ \text{hours}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+    \text{Make-over programmes}                     & = \dfrac {2} {7} \ \text {of \ } 98 \ \text{hours} \\\\
+    \text{Total Broadcast time}                     & = 98 \ \text{hours a week} \\\\
+    \text{Total Broadcast time} \ 98 \ \text{hours} & = \dfrac {7} {7} \\\\ 
+    \text{So, Celebrity gossip}                         & = \dfrac {7} {7} - \dfrac {2}{7}\ \text {of \ } 98 \ \ \text{hours} \\\\
+                                                    & = \dfrac {7-2} {7} \\\\
+                                                    & = \dfrac {5} {7}                                                    
+\end{aligned}
+$
+
+Let's find the total hours of celebrity gossip's broadcasted by the channel each week.
+
+$
+\begin{aligned}
+      & = \dfrac {5} {7} \ \text{\ of \ } 98 \ \text{hours}  \\\\
+      & = \dfrac {5} {7} \times 98  \\\\
+      & = \dfrac {5} {7} \times \dfrac {98} {1}   \\\\
+      & = \dfrac {5} {7} \times \dfrac {14 \times 7} {1} \\\\
+      & = \dfrac {5 \times 14 \times 7 } {7}  \\\\
+      & = \dfrac {5 \times 14 \times \cancel 7 } {\cancel 7} \\\\
+      & = 5 \times 14  \\\\
+      & = 70 \ \text{hours}                                
+\end{aligned}
+$
+
+Total hours of celebrity gossip programmes braodcasted by the channel each week $=70 \ \text{hours}
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$70 \ \text{hours}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -1550,6 +2067,25 @@ Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1579,6 +2115,34 @@ $
 
 $20 \ \text {mins}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {1} {3} \ \text {of} \ 60 \ \text{min} \\\\
+&= \dfrac {1} {3} \ \times 60 \\\\\
+&= \dfrac {60} {3} \\\\\
+&= \dfrac {20 \times 3} {3} \\\\\
+&= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\\
+&= 20 \  \text {mins}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20 \ \text {mins}$
+</code></pre>
 </div>
 </div>
 
@@ -1617,6 +2181,35 @@ $30 \ \text {min}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 75 \% \ \text {of} \ 40 \ \text {min} \\\\
+&= \dfrac {75} {100} \times 40 \\\\
+&= \dfrac {75} {10 \cancel 0} \times 4\cancel 0 \\\\
+&= \dfrac {15 \times 5 \times 4} {5 \times 2} \\\\
+&= \dfrac {15 \times 5 \times 2 \times 2} {5 \times 2} \\\\
+&= \dfrac {15 \times \cancel 5 \times 2 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
+&= 30 \ \text {min}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$30 \ \text {min}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1644,6 +2237,30 @@ $
 
 $50 \%$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {30} {60} \times 100 \\\\
+&= 50 \%
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$50 \%$
+</code></pre>
 </div>
 </div>
 

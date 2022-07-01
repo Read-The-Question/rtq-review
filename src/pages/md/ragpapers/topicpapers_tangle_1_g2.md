@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g2"
 title: "TopicPaper - Angle - 1 - G2"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -70,6 +70,46 @@ Missing angle $= 42  \degree$
 
 $42 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+Let the missing angle $= a$
+
+As the triangle is an isosceles triangle, the third angle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a  + a + 96                             &= 180   \\\\
+2a + 96                                 &= 180  \\\\
+2a                                      &= 180 - 96  \\\\
+2a                                      &= 84  \\\\
+a                                       &= \dfrac {84} {2}  \\\\
+a                                       &= \dfrac {42 \times 2} {2}  \\\\
+a                                       &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
+a                                       &= 42  \degree
+\end{aligned}
+$
+
+Missing angle $= 42  \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$42 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -168,6 +208,39 @@ $67 \degree$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
+
+Let the missing angle $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 90  + 23             &= 180  \\\\
+a                        &= 180 - 90 - 23 \\\\
+a                        &= 67 \degree
+\end{aligned}
+$
+
+Missing angle $= 67 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$67 \degree$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -260,6 +333,37 @@ $
 
 $300 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
+
+The acute angle is approximately $60 \degree$.
+
+Using that we get,
+
+$
+\begin{aligned}
+r + 60      &= 360 \\\\
+r           &= 360 - 60 \\\\
+            &= 300 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$300 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -390,6 +494,65 @@ $27 \degree$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+
+*TODO:: Add an image with vertices marked ABCD. The smaller trialge is ABD and the bigger one is ABC.*
+
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_angles_of_triangle
+
+As per the diagram, the triangle $ABD$ is an isosceles triangle.
+
+Let the missing angle $= a$
+
+Let the angle in the isosceles triangle $ABD = b$
+
+As per the diagram,
+
+$
+\begin {aligned}
+b + b + 62      &= 180 \\\\
+2b + 62         &= 180 \\\\
+2b              &= 180 - 62 \\\\
+2b              &= 118 \\\\
+b               &= \dfrac {118} {2} \\\\
+b               &= 59 \degree
+\end {aligned}
+$
+
+Let's use the value of $b$ in the triangle $ABC$.
+
+$
+\begin {aligned}
+b + 32 + 62 + a     &= 180 \\\\
+59 + 32 + 62 + a    &= 180 \\\\
+153 + a             &= 180 \\\\
+a                   &= 180 - 153 \\\\
+a                   &= 27 \degree
+\end {aligned}
+$
+
+
+Missing angle $= 27 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27 \degree$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -469,6 +632,25 @@ talgebra
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -489,6 +671,25 @@ angle $A = 45 \degree$
 
 $45 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>angle $A = 45 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$45 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -524,6 +725,35 @@ $
 
 $135 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
+
+As per the diagram,
+
+$
+\begin {aligned}
+B + 45        &= 180  \\\\
+B             &= 180 - 45 \\\\
+B             &= 135 \degree
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$135 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -621,6 +851,40 @@ Third angle $= 79 \degree$
 
 $79 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+Let the third angle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+49 + 52 + a    &= 180 \\\\
+101 + a        &= 180 \\\\
+a              &= 180 - 101 \\\\
+a              &= 79 \degree
+\end{aligned}
+$
+
+Third angle $= 79 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$79 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -724,6 +988,40 @@ Third angle $= 48 \degree$
 
 $48 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+Let the third angle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+25 + 107 + a &= 180 \\\\
+132 + a      &= 180 \\\\
+a            &= 180 - 132 \\\\
+a            &= 48 \degree
+\end{aligned}
+$
+
+Third angle $= 48 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>B</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -841,6 +1139,62 @@ $y$ $=$ $52 \degree$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+rtq_abbr_katex_formula_angles_on_a_straight_line
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 104     &= 180   \\\\
+x           &= 180  - 104  \\\\
+x           &= 76 \degree
+\end{aligned}
+$
+
+Let's use the value of $x$ to find $y$.
+
+$
+\begin{aligned}
+x  + y + y              &= 180 \\\\
+76  + 2y                &= 180 \\\\
+2y                      &= 180  - 76 \\\\
+2y                      &= 104  \\\\
+y                       &= \dfrac {104 } {2}   \\\\
+y                       &= \dfrac {52 \times 2} {2}   \\\\
+y                       &= \dfrac {52 \times \cancel {2}} {\cancel {2}} \\\\
+y                       &= 52 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$x$</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$76 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$y$</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$52 \degree$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -928,6 +1282,32 @@ $
 
 $60 \ \text {degrees}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the diagram,
+
+$
+\begin {aligned}
+\text {Angle}   &= 110 \degree - 50 \degree \\\\
+                &= 60 \degree
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$60 \ \text {degrees}$
+</code></pre>
 </div>
 </div>
 
@@ -1045,6 +1425,49 @@ $a = 48 \degree, b = 63 \degree$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+rtq_abbr_katex_formula_angles_on_a_straight_line
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 132 &= 180 \\\\
+a       &= 180 - 132 \\\\
+a       &= 48 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $b$.
+
+$
+\begin{aligned}
+a + b + 69                                              &= 180 \\\\
+48 + b + 69                                             &= 180 \\\\
+b + 117                                                 &= 180 \\\\
+b                                                       &= 180 - 117 \\\\
+b                                                       &= 63 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>B</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$a = 48 \degree, b = 63 \degree$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1140,6 +1563,40 @@ Missing angle $= 62 \degree$
 
 $62 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+Let the missing angle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 85 + 33 &= 180 \\\\
+a + 118     &= 180 \\\\
+a           &= 180 - 118 \\\\
+a           &= 62 \degree
+\end{aligned}
+$
+
+Missing angle $= 62 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$62 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -1251,6 +1708,43 @@ $35 \degree$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add an image with angles inside of the triangle shown *
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_angles_of_triangle
+
+rtq_abbr_katex_formula_angles_on_a_straight_line
+
+As per the diagram,
+
+$
+\begin {aligned}
+k + (180 - 130) + (180 - 85)    &= 180 \\\\
+k + 50 + 95                     &= 180 \\\\
+k + 145                         &= 180 \\\\
+k                               &= 180 - 145 \\\\
+k                               &= 35 \degree
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$35 \degree$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1344,6 +1838,39 @@ $43 \degree$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+Let the size of the third angle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 137      &= 180  \\\\
+a            &= 180 - 137  \\\\
+a            &= 43 \degree
+\end{aligned}
+$
+
+Third angle $= 43 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$43 \degree$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1435,6 +1962,39 @@ Third angle $= 131 \degree$
 
 $131 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+Let the size of the third angle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 49       &= 180  \\\\
+a            &= 180 - 49  \\\\
+a            &= 131 \degree
+\end{aligned}
+$
+
+Third angle $= 131 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$131 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -1531,6 +2091,40 @@ $122 \degree$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+Let the size of the third angle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 36 + 22     &= 180  \\\\
+a + 58          &= 180  \\\\
+a               &= 180 - 58  \\\\
+a               &= 122 \degree
+\end{aligned}
+$
+
+Third angle $= 122 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$122 \degree$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1624,6 +2218,39 @@ $91 \degree$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+Let the size of the third angle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 89       &= 180  \\\\
+a            &= 180 - 89  \\\\
+a            &= 91 \degree
+\end{aligned}
+$
+
+Third angle $= 91 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$91 \degree$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1705,6 +2332,25 @@ The diagram shows a triangle and a line. The two angles marked $y \degree$ are e
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1727,6 +2373,27 @@ $x = 180 \degree$
 
 $180 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As shown in the figure,
+
+$x = 180 \degree$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$180 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -1780,6 +2447,52 @@ $
 
 $35 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+rtq_abbr_katex_formula_angles_on_a_straight_line
+
+Let the third angle of the triangle $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 70 &= 180 \\\\
+a      &= 180 - 70 \\\\
+a      &= 110 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $y$.
+
+$
+\begin{aligned}
+y + y + a   &= 180 \\\\
+2y + 110    &= 180 \\\\
+2y          &= 180 - 110 \\\\
+2y          &= 70 \\\\
+y           &= \dfrac {70} {2} \\\\
+y           &= 35 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$35 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -1866,6 +2579,25 @@ The diagram shows a triangle and a line. The two angles marked $y\degree$ are eq
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1897,6 +2629,35 @@ $
 
 $72 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 108 &= 180 \\\\
+x       &= 180 - 108 \\\\
+x       &= 72 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$72 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -1937,6 +2698,40 @@ $
 
 $36 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+As per the diagram,
+
+$
+\begin{aligned}
+y + y + 108 &= 180 \\\\
+2y + 108    &= 180 \\\\
+2y          &= 180 - 108 \\\\
+2y          &= 72 \\\\
+y           &= \dfrac {72} {2} \\\\
+y           &= \dfrac {2 \times 36} {2} \\\\
+y           &= \dfrac {\cancel {2} \times 36} {\cancel {2}} \\\\
+y           &= 36 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$36 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -2058,6 +2853,44 @@ $64$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add an image with the angles inside the triangle shown as per the value below *
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_angles_of_triangle
+
+rtq_abbr_katex_formula_angles_on_a_straight_line
+
+rtq_abbr_katex_formula_angles_around_a_point
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + (180 - 100) + (360 - 324)              &= 180 \\\\
+x + 80 + 36                                &= 180 \\\\
+x                                          &= 180 - 80 - 36 \\\\
+x                                          &= 64 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>B</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$64$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2136,6 +2969,25 @@ Calculate the missing angles.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2169,6 +3021,36 @@ $
 
 $91 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 52 + 37     &= 180  \\\\
+a + 89          &= 180  \\\\
+a               &= 180 - 89 \\\\
+a               &= 91 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$91 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -2206,6 +3088,36 @@ $
 
 $111 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
+
+As per the diagram,
+
+$
+\begin{aligned}
+b + 115 + 134   &= 360  \\\\
+b + 249         &= 360  \\\\
+b               &= 360 - 249 \\\\
+b               &= 111 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$111 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -2318,6 +3230,51 @@ $
 
 $51 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+rtq_abbr_katex_formula_angles_on_a_straight_line
+
+Let the third angle of the triangle $=a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+83 + a + 58  &= 180 \\\\
+141 + a      &= 180 \\\\
+a            &= 180 - 141 \\\\
+a            &= 39 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $x$.
+
+$
+\begin{aligned}
+x + 39 + 90  &= 180 \\\\
+x + 129      &= 180 \\\\
+x            &= 180 - 129 \\\\
+x            &= 51 \degree 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$51 \degree$
+</code></pre>
 </div>
 </div>
 

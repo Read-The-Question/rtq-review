@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-1-blocked"
 title: "TopicPaper - Permutation - 1 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -63,6 +63,46 @@ The number of units required to get next time all different digits = $098162 - 0
 
 $5$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Units of electricity used by Smith = $098157$
+
+The next time all the digits are different, is by adding units to $098157$
+
+$098157 + 1 = 098158$ 
+The digits $8$ is repeated.
+
+$098157 + 2 = 098159$
+The digits $9$ is repeated.
+
+$098157 + 3 = 098160$
+The digits $0$ is repeated.
+
+$098157 + 4 = 098161$
+The digits $1$ is repeated.
+
+$098157 + 5 = 098162$
+No digit is repeated. All digits are different.
+
+The number of units required to get next time all different digits = $098162 - 098157 = 5$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
+</code></pre>
 </div>
 </div>
 

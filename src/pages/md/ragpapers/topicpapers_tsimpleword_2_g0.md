@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-2-g0"
 title: "TopicPaper - Simpleword - 2 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -51,6 +51,30 @@ $
 
 $38$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Not chocolate}   &= 54 - 16  \\\\
+           &= 38
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$38$
+</code></pre>
 </div>
 </div>
 
@@ -142,6 +166,32 @@ $13$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {The number of people that can have four biscuit}     &= \dfrac {54} {4} \\\\
+                                                            &= 13.5
+\end{aligned}
+$
+
+$13$ people can have four biscuits each.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -220,6 +270,30 @@ $
 
 $821$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Total number of pupils}  &= 336 + 485 \\\\
+                                &= 821
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$821$
+</code></pre>
 </div>
 </div>
 
@@ -309,6 +383,35 @@ $22$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of children present}    &= 55 \% \ \text{of} \ 40 \\\\
+                                     &= \dfrac {55} {100} \times 40 \\\\
+                                     &= \dfrac {55 \times 40} {100} \\\\
+                                     &= \dfrac {5 \times 11 \times 2 \times 20} {5 \times 20} \\\\
+                                     &= \dfrac {\cancel {5} \times 11 \times 2 \times \cancel {20} } {\cancel{5} \times \cancel {20}} \\\\
+                                     &= 11 \times 2 \\\\
+                                     &= 22
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$22$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -396,6 +499,34 @@ $60 \%$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Percentage of children present}   &= \dfrac {24} {40} \times 100 \\\\
+                                        &= \dfrac {24 \times 100} {40} \\\\
+                                        &= \dfrac {8 \times 3 \times 20 \times 5} {8 \times 5} \\\\
+                                        &= \dfrac {\cancel {8} \times 3 \times 20 \times \cancel {5} } {\cancel {8} \times \cancel {5} } \\\\
+                                        &= 3 \times 20 \\\\
+                                        &= 60 \%
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$60 \%$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -477,6 +608,33 @@ $143$ can be subtracted five times from $855$ before we get to zero.
 
 $5$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of times}  &= \dfrac {855} {143} \\\\
+                        &= 5.97 \\\\
+                        &= 5
+\end{aligned}
+$
+
+$143$ can be subtracted five times from $855$ before we get to zero.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
+</code></pre>
 </div>
 </div>
 
@@ -561,6 +719,34 @@ $
 
 $60$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Blue counters}    &= \dfrac {5} {7} \times 84 \\\\
+                         &= \dfrac {5 \times 84} {7} \\\\
+                         &= \dfrac {5 \times 12 \times 7} {7} \\\\
+                         &= \dfrac {5 \times 12 \times \cancel {7}} {\cancel {7}} \\\\
+                         &= 5 \times 12 \\\\
+                         &= 60
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$60$
+</code></pre>
 </div>
 </div>
 
@@ -656,6 +842,35 @@ $92$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Children that wear glasses}   &= 8 \% \ \text{of} \ 1150 \\\\
+                                    &= \dfrac {8} {100} \times 1150 \\\\
+                                    &= \dfrac {8 \times 1150} {100} \\\\
+                                    &= \dfrac {4 \times 2 \times 2 \times 23 \times 25} {4 \times 25} \\\\
+                                    &= \dfrac {\cancel {4} \times 2 \times 2 \times 23 \times \cancel {25} } {\cancel{4} \times \cancel {25}} \\\\
+                                    &= 4 \times 23 \\\\
+                                    &= 92
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$92$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -747,6 +962,40 @@ $122 \ \text {g}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
+
+The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
+
+Let's convert the sweets weight into $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total weight of sweets}     &= 90 \times 450 \ \text {mg} \\\\
+                                   &= 90 \times \dfrac {450}{1000} \text {g} \\\\
+                                   &= 90 \times 0.45 \\\\
+                                   &= 40.5 \ \text {g} \\\\
+\text {Weight of empty jar }       &= 162.5 - 40.5 \\\\
+                                   &= 122 \ \text {g}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$122 \ \text {g}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -828,6 +1077,33 @@ $137$ can be subtracted seven times from $1024$ before we get to zero.
 
 $7$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of times}  &= \dfrac {1024} {137} \\\\
+                        &= 7.47 \\\\
+                        &= 7
+\end{aligned}
+$
+
+$137$ can be subtracted seven times from $1024$ before we get to zero.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7$
+</code></pre>
 </div>
 </div>
 
@@ -912,6 +1188,34 @@ $
 
 $27$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Blue counters}    &= \dfrac {3} {7} \times 63 \\\\
+                         &= \dfrac {3 \times 63} {7} \\\\
+                         &= \dfrac {3 \times 9 \times 7} {7} \\\\
+                         &= \dfrac {3 \times 9 \times \cancel {7}} {\cancel {7}} \\\\
+                         &= 3 \times 9 \\\\
+                         &= 27
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27$
+</code></pre>
 </div>
 </div>
 
@@ -1007,6 +1311,35 @@ $87$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Children that wear glasses}   &= 6 \% \ \text{of} \ 1450 \\\\
+                                    &= \dfrac {6} {100} \times 1450 \\\\
+                                    &= \dfrac {6 \times 1450} {100} \\\\
+                                    &= \dfrac {2 \times 3 \times 2 \times 29 \times 25} {2 \times 2 \times 25} \\\\
+                                    &= \dfrac {\cancel {2} \times 3 \times \cancel {2} \times 29 \times \cancel {25} } {\cancel{2} \times \cancel{2} \times \cancel {25}} \\\\
+                                    &= 3 \times 29 \\\\
+                                    &= 87
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$87$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1099,6 +1432,40 @@ $126.5 \ \text {g}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
+
+The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
+
+Let's convert the sweets weight into $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total weight of sweets}     &= 120 \times 450 \ \text{mg} \\\\
+                                   &= 120 \times \dfrac {450}{1000} \text {g} \\\\
+                                   &= 120 \times 0.45 \\\\
+                                   &= 54 \ \text {g} \\\\
+\text {Weight of empty jar }       &= 180.5 - 54 \\\\
+                                   &= 126.5 \ \text {g}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$126.5 \ \text {g}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1177,6 +1544,30 @@ $
 
 $495$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Total number of girls}   &= 1120 - 625 \\\\
+                                &= 495
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$495$
+</code></pre>
 </div>
 </div>
 
@@ -1263,6 +1654,34 @@ $40 \ \%$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Percentage of pupils with glasses}    &= \dfrac {2} {5} \times 100 \\\\
+                                            &= \dfrac {2 \times 100} {5} \\\\
+                                            &= \dfrac {2 \times 20 \times 5} {5} \\\\
+                                            &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel{5}} \\\\
+                                            &= 2 \times 20 \\\\
+                                            &= 40 \ \%
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$40 \ \%$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1343,6 +1762,31 @@ $
 
 $57{,}702{,}000$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Population outside London}    &= 66{,}482{,}000 - 8.78 \ \text{million} \\\\
+                                    &= 66482000 - 8780000 \\\\
+                                    &= 57{,}702{,}000
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$57{,}702{,}000$
+</code></pre>
 </div>
 </div>
 
@@ -1426,6 +1870,33 @@ $147$ can be subtracted eight times from $1270$ before we get to zero.
 
 $8$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of times}  &= \dfrac {1270} {147} \\\\
+                        &= 8.63 \\\\
+                        &= 8
+\end{aligned}
+$
+
+$147$ can be subtracted eight times from $1270$ before we get to zero. 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
 </div>
 </div>
 
@@ -1519,6 +1990,40 @@ $137.5 \ \text {g}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
+
+The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.
+
+Let's convert the pills weight to $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total weight of pills}      &= 90 \times 250 \ \text{mg} \\\\
+                                   &= 90 \times \dfrac {250}{1000} \ \text {g} \\\\
+                                   &= 90 \times 0.25 \\\\
+                                   &= 22.5 \ \text {g} \\\\
+\text {Weight of empty bottle}     &= 160 - 22.5 \\\\
+                                   &= 137.5 \ \text {g}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$137.5 \ \text {g}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1603,6 +2108,34 @@ $264$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Children that have blond hair}   &= 24 \% \ \text{of} \ 1100 \\\\
+                                       &= \dfrac {24} {100} \times 1100 \\\\
+                                       &= \dfrac {24 \times 1100} {100} \\\\
+                                       &= \dfrac {24 \times 11 \cancel {00} } {1 \cancel {00} } \\\\
+                                       &= 24 \times 11 \\\\
+                                       &= 264
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$264$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1685,6 +2218,34 @@ $
 
 $35$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Blue counters}    &= \dfrac {5} {9} \times 63 \\\\
+                         &= \dfrac {5 \times 63} {9} \\\\
+                         &= \dfrac {5 \times 7 \times 9} {9} \\\\
+                         &= \dfrac {5 \times 7 \times \cancel {9}} {\cancel {9}} \\\\
+                         &= 5 \times 7 \\\\
+                         &= 35
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$35$
+</code></pre>
 </div>
 </div>
 
@@ -1780,6 +2341,35 @@ $87$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Children that wear glasses}   &= 6 \% \ \text{of} \ 1450 \\\\
+                                    &= \dfrac {6} {100} \times 1450 \\\\
+                                    &= \dfrac {6 \times 1450} {100} \\\\
+                                    &= \dfrac {2 \times 3 \times 2 \times 29 \times 25} {2 \times 2 \times 25} \\\\
+                                    &= \dfrac {\cancel {2} \times 3 \times \cancel {2} \times 29 \times \cancel {25} } {\cancel{2} \times \cancel{2} \times \cancel {25}} \\\\
+                                    &= 3 \times 29 \\\\
+                                    &= 87
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$87$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1870,6 +2460,40 @@ $
 
 $126.5 \ \text {g}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
+
+The weight of sweets is given in $\text{mg}$ while the weight of the jar is given in $\text{g}$.
+
+Let's convert the sweets weight to $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total weight of sweets}     &= 120 \times 450 \ \text{mg} \\\\
+                                   &= 120 \times \dfrac {450}{1000} \ \text {g} \\\\
+                                   &= 120 \times 0.45 \\\\
+                                   &= 54 \ \text {g} \\\\
+\text {Weight of empty jar }       &= 180.5 - 54 \\\\
+                                   &= 126.5 \ \text {g}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$126.5 \ \text {g}$
+</code></pre>
 </div>
 </div>
 
@@ -1965,6 +2589,36 @@ $6$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
+
+$
+\begin{aligned}
+\text {Number of strips}    &=  \dfrac {1 \ \text {m}} {15 \ \text {cm}} \\\\
+                            &=  \dfrac {1 \times 100 \ \text {cm}} {15 \ \text {cm}} \\\\
+                            &=  \dfrac {100} {15} \\\\
+                            &=  6 \text{ remainder } 10
+\end{aligned}
+$
+
+Max $6$ strips can be cut from a ribbon $1\ \text{m}$ long.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2052,6 +2706,37 @@ $
 
 $12$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>If $\dfrac {3} {4}$ pencils are taken out, then the pencil left in the box will be $1 - \dfrac {3} {4} = \dfrac {1} {4}$. 
+
+Using that, we get
+
+$
+\begin{aligned}
+\text{Pencils left}     &= \dfrac {1}{4} \times 48 \\\\
+                        &= \dfrac {48} {4} \\\\
+                        &= \dfrac {12 \times 4} {4} \\\\
+                        &= \dfrac {12 \times \cancel{4}} {\cancel{4}} \\\\
+                        &= 12
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12$
+</code></pre>
 </div>
 </div>
 
@@ -2149,6 +2834,44 @@ $\dfrac {11} {35}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>The total space of the cupboard $=1$
+
+Used space of the cupboard $= \dfrac {2} {5} + \dfrac {2} {7}$
+
+Empty space = total space - used space
+
+$
+\begin{aligned}
+&= 1 - \bigg(\dfrac {2} {5} + \dfrac {2} {7}\bigg) \\\\
+&= \dfrac {1} {1} - \bigg(\dfrac {2 \times 7} {5 \times 7} + \dfrac {2 \times 5} {7 \times 5}\bigg) \\\\
+&= \dfrac {1} {1} - \bigg(\dfrac {14} {35} + \dfrac {10} {35}\bigg) \\\\
+&= \dfrac {1} {1} - \bigg(\dfrac {14 + 10} {35}\bigg) \\\\
+&= \dfrac {1} {1} - \dfrac {24} {35} \\\\
+&= \dfrac {1 \times 35} {1 \times 35} - \dfrac {24} {35} \\\\
+&= \dfrac {35 - 24} {35} \\\\
+&= \dfrac {11} {35}
+\end{aligned}
+$
+
+Fraction of the cupboard that is empty $= \dfrac {11} {35}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {11} {35}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2224,6 +2947,25 @@ tsimpleword
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2262,6 +3004,41 @@ $\dfrac {1} {15}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+As per the question,
+
+$
+\begin{aligned}
+\text {Cake left}   &= 1 - (\dfrac {3} {5} + \dfrac {1} {3}) \\\\
+                    &= 1 - (\dfrac {3 \times 3} {5 \times 3} + \dfrac {1 times 5} {3 times 5}) \\\\
+                    &= 1 - (\dfrac {9} {15} + \dfrac {5} {15}) \\\\
+                    &= 1 - (\dfrac {9 + 5} {15}) \\\\
+                    &= 1 - \dfrac {14} {15} \\\\
+                    &= \dfrac {1 \times 15} {1 \times 15} - \dfrac {14} {15} \\\\
+                    &= \dfrac {15} {15} - \dfrac {14} {15} \\\\
+                    &= \dfrac {15 - 14} {15} \\\\
+                    &= \dfrac {1} {15} 
+$
+
+The fraction of cake which is left $= \dfrac {1} {15}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {15}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -2297,6 +3074,38 @@ Whole cake's weight $= 250 \text {g}$
 
 $250 \text {g}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text {Weight of cake}      &= \dfrac {5} {3} \times 150 \\\\
+                            &= \dfrac {5 \times 150} {3} \\\\
+                            &= \dfrac {5 \times 3 \times 50} {3} \\\\
+                            &= \dfrac {5 \times \cancel {3} \times 50} {\cancel {3}} \\\\
+                            &= 5 \times 50 \\\\
+                            &= 250 \text {g}
+\end{aligned}
+$
+
+Whole cake's weight $= 250 \text {g}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$250 \text {g}$
+</code></pre>
 </div>
 </div>
 
@@ -2397,6 +3206,40 @@ $9$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>The smallest possible difference can be achieved by interchanging the ones and tens places.
+
+Let the first number $= 789456132$
+
+The second number $= 789456123$
+
+Difference of the two number
+
+$
+\begin{aligned}
+&= 789456132 - 789456123 \\\\
+&= 9
+\end{aligned}
+$
+
+So, the smallest possible difference between two nine digit number $= 9$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -2484,6 +3327,31 @@ $
 
 $3750$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{No. of men between 180 and 190}            &= \text{Men taller than 180} - \text{Men taller than 190} \\\\
+                                                 &= 4500 - 750 \\\\
+                                                 &= 3750
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3750$
+</code></pre>
 </div>
 </div>
 
@@ -2604,6 +3472,59 @@ Matilda ate $\dfrac {1} {6}$ part of the pizza.
 
 $\dfrac {1} {6}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>While solving problems on fractions, we take whole quantity $1$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Anna ate}    &= \dfrac {1} {3} \ \text {of} \ (1 - \dfrac {1} {4}) \\\\
+                    &= \dfrac {1} {3} \times (\dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4}) \\\\
+                    &= \dfrac {1} {3} \times (\dfrac {4} {4} - \dfrac {1} {4}) \\\\
+                    &= \dfrac {1} {3} \times (\dfrac {4 - 1} {4}) \\\\
+                    &= \dfrac {1} {3} \times \dfrac {3} {4} \\\\
+                    &= \dfrac {1 \times 3} {3 \times 4} \\\\
+                    &= \dfrac {1 \times \cancel {3}} {\cancel {3} \times 4} \\\\
+                    &= \dfrac {1} {4} \\\\
+\text {Pizza left}  &= 1 - \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                    &= \dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                    &= \dfrac {4} {4} -  \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                    &= \dfrac {4 - 1 - 1} {4} \\\\
+                    &= \dfrac {2} {4}
+\end{aligned}
+$
+
+Rohit, Guhesh and Matilda gets equally shares of the pizza.
+
+$
+\begin{aligned}
+\text {Matilda gets} &= \dfrac {1} {3} \times \dfrac {2} {4} \\\\
+                        &= \dfrac {2} {3 \times 4} \\\\
+                        &= \dfrac {2} {3 \times 2 \times 2} \\\\
+                        &= \dfrac {1} {3 \times 2} \\\\
+                        &= \dfrac {1} {6}
+\end{aligned}
+$
+
+Matilda ate $\dfrac {1} {6}$ part of the pizza.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {6}$
+</code></pre>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-oldpr"
 title: "TopicPaper - Algebra - 12 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -79,6 +79,62 @@ $
 
 $6$ and $8$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the first number be $a$ and second be $b$.
+
+As per question,
+
+$
+\begin{aligned}
+a + b      &= 14 \\
+a \times b &= 48
+\end{aligned}
+$
+
+Let's find $a$ and $b$.
+
+$
+\begin{aligned}
+&= x^2 + 14x + 48 \\\\
+&= x^2 + (6 + 8)x + (6 \times 8) \\\\
+&= (x + 6) (x+ 8)
+\end{aligned}
+$
+
+$x = 6$ and $x = 8$
+
+the two numbers are $6$ and $8$
+
+checking: 
+
+$
+\begin{aligned}
+&- a + b   \\   
+&= 6 + 8 \\
+&= 14 \\\\
+&= a \times b \\
+&= 6 \times 8
+&= 48 
+\end{aligned}
+$
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6$ and $8$
+</code></pre>
 </div>
 </div>
 
@@ -221,6 +277,47 @@ A quick check shows that $3$ and $12$ meets all the criteria above.
 
 $3, 12$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b          &= 36 \\\\
+a + b               &= 15
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error.
+
+
+Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+| Numbers   |  Multiplication  |  Sum  |
+|:-------:  |:---------------: |:----: |
+| $1, 36$   | $36$             | $37$  |
+| $2, 18$   | $36$             | $20$  |
+| $3, 12$   | $36$             | $15$  |
+
+A quick check shows that $3$ and $12$ meets all the criteria above.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3, 12$
+</code></pre>
 </div>
 </div>
 

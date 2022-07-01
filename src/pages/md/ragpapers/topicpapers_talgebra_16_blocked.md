@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-blocked"
 title: "TopicPaper - Algebra - 16 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -71,6 +71,52 @@ Questions Anna answered correctly $= 43$
 
 $43$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's state the facts first for reference.
+
+- Anna skipped $3$ questions. So attempted questions $= 50 - 3 = 47$.
+- Marks scored for correct answer $= 4$
+- Marks deducted for wrong answer $= 1$
+
+Let the number of questions Anna answered correctly $= a$
+
+So, the number of incorrect questions $= 47 - a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Marks scored} - \text{Marks deducted} &= 168 \\\\
+a \times 4 - (47 - a) \times 1              &= 168 \\\\
+4a - (47 - a)                               &= 168 \\\\
+4a - 47 + a                                 &= 168 \\\\
+5a                                          &= 168 + 47 \\\\
+5a                                          &= 215 \\\\
+a                                           &= \dfrac {215} {5} \\\\
+a                                           &= \dfrac {43 \times 5} {5} \\\\
+a                                           &= \dfrac {43 \times \cancel {5}} {\cancel {5}} \\\\
+a                                           &= 43
+\end{aligned}
+$
+
+Questions Anna answered correctly $= 43$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$43$
+</code></pre>
 </div>
 </div>
 

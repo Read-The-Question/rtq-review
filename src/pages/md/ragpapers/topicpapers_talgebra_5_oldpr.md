@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-oldpr"
 title: "TopicPaper - Algebra - 5 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -44,6 +44,25 @@ Form an equation for each of the following problems and then solve the equation 
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -79,6 +98,39 @@ The number I was thinking of $= 4$
 
 $4$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number I am thinking of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 9                         &= 36 \\\\
+a                                  &= \dfrac {36} {9} \\\\
+a                                  &= \dfrac {4 \times 9} {9} \\\\
+a                                  &= \dfrac {4 \times \cancel{9}} {\cancel{9}} \\\\
+a                                  &= 4
+\end{aligned}
+$
+
+The number I was thinking of $= 4$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
 </div>
 </div>
 
@@ -119,6 +171,39 @@ $
 
 $7$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 6 - 5 &= 37 \\\\
+a \times 6     &= 37 + 5 \\\\
+a \times 6     &= 42 \\\\
+a              &= \dfrac {42} {6} \\\\
+a              &= \dfrac {7 \times 6} {6} \\\\
+a              &= \dfrac {7 \times \cancel{6}} {\cancel{6}} \\\\
+a              &= 7
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7$
+</code></pre>
 </div>
 </div>
 
@@ -233,6 +318,49 @@ $36 \text{ coins}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the count of coins of each denomination $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times c + 5 \times c &= \pounds 1.26 \\\\
+2 \times c + 5 \times c &= 126 \text{p} \\\\
+2c + 5c                 &= 126 \\\\
+7c                      &= 126 \\\\
+c                       &= \dfrac {126} {7} \\\\
+c                       &= \dfrac {18 \times 7} { 7} \\\\
+c                       &= \dfrac {18 \times \cancel{7}} { \cancel{7} } \\\\
+c                       &= 18
+\end{aligned}
+$
+
+There are $18$ coins of each type and $2$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}   &=  18 \times 2  \\\\
+                     &= 36 \text{ coins}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$36 \text{ coins}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -313,6 +441,25 @@ talgebra
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -349,6 +496,39 @@ $8$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number Robin thinks of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 3 - 13               &= 11 \\\\
+a \times 3                    &= 11 + 13 \\\\
+3a                            &= 24 \\\\
+a                             &= \dfrac {24} {3} \\\\
+a                             &= \dfrac {8 \times 3} {3} \\\\
+a                             &= \dfrac {8 \times \cancel {3}} {\cancel {3}} \\\\
+a                             &= 8
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -383,6 +563,37 @@ $
 
 $98$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number Ros thinks of $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+91 - b + 19                            &= 12 \\\\
+110 - b                                &= 12 \\\\
+b - 110                                &= -12 \\\\
+b                                      &= -12 + 110 \\\\
+b                                      &= 98 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$98$
+</code></pre>
 </div>
 </div>
 
@@ -422,6 +633,40 @@ $
 
 $14$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number Neetha thinks of $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+84 - (c \times 5) &= c \\\\
+84 - (5c)         &= c \\\\
+84                &= c + 5c \\\\
+84                &= 6c \\\\
+c                 &= \dfrac {84} {6} \\\\
+c                 &= \dfrac {14 \times 6} {6} \\\\
+c                 &= \dfrac {14 \times \cancel{6} } { \cancel{6} } \\\\
+c                 &= 14 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$14$
+</code></pre>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-pr-prns"
 title: "TopicPaper - Areaperimeter - 4 - PR - PRNS"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -78,6 +78,54 @@ $
 
 $296 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+Let width of the rectangle $= w$
+
+Let side of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+50 \times w             &= 70 \times 70 \\\\
+50 \times w             &= 4900 \\\\
+w                       &= \dfrac {4900} {50} \\\\
+w                       &= \dfrac {50 \times 98} {50} \\\\
+w                       &= \dfrac {\cancel {50} \times 98} {\cancel {50}} \\\\
+w                       &= 98 \ \text {cm}
+\end{aligned}
+$
+
+Let's find the perimeter of the rectangle.
+
+$
+\begin{aligned}
+\text {Perimeter}           &= 2 \times (50 + 98) \\\\
+                            &= 2 \times 148 \\\\
+                            &= 296 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$296 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 

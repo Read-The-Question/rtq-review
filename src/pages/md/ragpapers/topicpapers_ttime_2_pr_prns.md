@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-pr-prns"
 title: "TopicPaper - Time - 2 - PR - PRNS"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -63,6 +63,33 @@ $
 
 $3 \ \text {minutes} \ 18 \ \text {seconds}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {total time} &= 3 \times \text {front crawl} + 3 \times \text {breaststroke} + 6 \ \text {seconds} \\\\
+                   &= 3 \times 24 + 3 \times 60 + 6 \\\\
+                   &= 72 + 120 + 6 \\\\
+                   &= 198 \ \text {seconds} \\\\
+                   &= 3 \ \text {minutes} \ 18 \ \text {seconds}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text {minutes} \ 18 \ \text {seconds}$
+</code></pre>
 </div>
 </div>
 
@@ -152,6 +179,34 @@ $336 \text { hours}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+1 \ \text {week}  &= 7 \text { days} \\\\
+2 \ \text {weeks} &= 2 \times 7 \text { days} \\\\
+                  &= 14 \text { days} \\\\
+1 \text {day}     &= 24 \text { hours} \\\\
+14 \text {days}   &= 14 \times 24 \text { hours} \\\\
+                  &= 336 \text { hours}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$336 \text { hours}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -232,6 +287,30 @@ $
 
 $10{:}18 \ \text {pm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {finish time} &= 8{:}50 \ \text {pm} + 2\dfrac{1}{4} \ \text {hour} + 13 \ \text {minutes} \\\\
+                    &= 10{:}18 \ \text {pm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10{:}18 \ \text {pm}$
+</code></pre>
 </div>
 </div>
 
@@ -319,6 +398,31 @@ $
 
 D $=$ $09.36 \ \text{am}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {time at which both buses leave together again} &= 09.00 \ \text{am} + \text {lowest common multiple of the time intervals} \\\\
+                                                      &= 09.00 \ \text{am} + 36 \ \text{minutes} \\\\
+                                                      &= 09.36 \ \text{am}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$09.36 \ \text{am}$
+</code></pre>
 </div>
 </div>
 
@@ -409,6 +513,30 @@ $
 
 C $=$ $5:47 \ \text {pm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 7:19 \ \text{pm} - 1 \ \text{hour} 32 \ \text{minutes} \\\\
+&= 5:47 \ \text {pm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5:47 \ \text {pm}$
+</code></pre>
 </div>
 </div>
 

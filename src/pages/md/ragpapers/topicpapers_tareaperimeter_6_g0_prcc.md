@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-g0-prcc"
 title: "TopicPaper - Areaperimeter - 6 - G0 - PRCC"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -54,6 +54,25 @@ Its length is $8 \ \text{m}$.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -93,6 +112,41 @@ $3 \ \text{m}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the width of the field $= w$
+
+As per the question,
+
+$
+\begin{aligned}
+8 \times w                 &= 24 \\\\
+w                          &= \dfrac {24} {8} \\\\
+w                          &= \dfrac {3 \times 8} {8} \\\\
+w                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
+w                          &= 3 \ \text{m}
+\end{aligned}
+$
+
+Width of the rectangle field $= 3 \ \text{m}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text{m}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -126,6 +180,35 @@ $
 
 $22 \ \text {m}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Perimeter}                &= 2 \times (8 + 3) \\\\
+                                 &= 2 \times 11 \\\\
+                                 &= 22 \ \text {m}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$22 \ \text {m}$
+</code></pre>
 </div>
 </div>
 
@@ -177,6 +260,42 @@ $6 \ \text {m}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+Let the length $= l$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times (4 + l)                 &= 20 \\\\
+8 + 2l                           &= 20 \\\\
+2l                               &= 20 - 8 \\\\
+2l                               &= 12 \\\\
+l                                &= \dfrac {12} {2} \\\\
+l                                &= \dfrac {2 \times 6} {2} \\\\
+l                                &= \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
+l                                &= 6 \ \text {m}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6 \ \text {m}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -209,6 +328,34 @@ $
 
 $24 \ \text {m}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area} &= 4 \times 6 \\\\
+             &= 24 \ \text {m}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$24 \ \text {m}^2$
+</code></pre>
 </div>
 </div>
 
@@ -244,6 +391,27 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 
 $10 \ \text{and} 5,7 \ \text{and} 8$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>*TODO: Add explanation, not sure how to go about this one.*
+
+$10 \ \text{and} 5,7 \ \text{and} 8$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10 \ \text{and} 5,7 \ \text{and} 8$
+</code></pre>
 </div>
 </div>
 
@@ -365,6 +533,54 @@ $80 \ \text{cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+Let the side of the square $= s$
+
+As per the question,
+
+$
+\begin{aligned}
+9 \times s ^ 2  &= 144 \\\\
+s ^ 2           &= \dfrac {144} {9} \\\\
+s ^ 2           &= \dfrac {16 \times 9} {9} \\\\
+s ^ 2           &= \dfrac {16 \times \cancel {9}} {\cancel {9}} \\\\
+s ^ 2           &= 16 \\\\
+s               &= \sqrt {16} \\\\
+s               &= 4 \ \text{cm}
+\end{aligned}
+$
+
+*TODO: Add a description on counting all the sides of the shape which makes the perimeter*.
+
+Let's find the perimeter of the shape.
+
+$
+\begin{aligned}
+\text{Perimeter} &= 20 \times 4 \\\\
+                 &= 80 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$80 \ \text{cm}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -479,6 +695,53 @@ $20 \ \text{cm} ^ 2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
+
+rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the side of the square $= s$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times s                 &= 8 \\\\
+s                          &= \dfrac {8} {4} \\\\
+s                          &= \dfrac {4 \times 2} {4} \\\\
+s                          &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
+s                          &= 2 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Area of one square} &= 2 \times 2 \\\\
+                           &= 4 \ \text {cm}^2 \\\\
+\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
+                           &= 5 \times 4 \\\\
+                           &= 20 \ \text{cm} ^ 2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20 \ \text{cm} ^ 2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -590,6 +853,52 @@ $
 
 $48 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+Let the side of square tile $= s$
+
+As per the diagram,
+
+$
+\begin{aligned}
+7 \times (s \times s)    &= 63 \\\\
+7 \times s^2             &= 63 \\\\
+s ^ 2                    &= \dfrac {63} {7} \\\\
+s ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
+s ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
+s ^ 2                    &= 9 \\\\
+s                        &= \sqrt 9 \\\\
+s                        &= 3 \ \text{cm}
+\end{aligned}
+$
+
+*TODO: add a description to count all the sides which add upto perimeter*
+
+$
+\begin{aligned}
+\text{Perimeter of the shape} &= 16 \times s \\\\
+                              &= 16 \times 3 \\\\
+                              &= 48 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 

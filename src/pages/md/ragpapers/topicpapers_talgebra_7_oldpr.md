@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-oldpr"
 title: "TopicPaper - Algebra - 7 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -44,6 +44,25 @@ Write down the missing number in each part.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -74,6 +93,35 @@ $
 
 $200$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+37 \times {?} &= 7400 \\\\
+\text{Let the missing number be 'a'} \\\\
+37 \times a &= 7400 \\\\
+a   &= \dfrac{7400}{37} \\\\
+a   &= \dfrac{200 \times 37}{37} \\\\
+a   &= \dfrac{200 \times \cancel{37}}{\cancel{37}} \\\\
+a   &= 200
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$200$
+</code></pre>
 </div>
 </div>
 
@@ -110,6 +158,35 @@ $2000$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+3.7 \times {?} &= 7400 \\\\
+\text{Let the missing number be 'a'} \\\\
+3.7 \times a &= 7400 \\\\
+a   &= \dfrac{7400}{3.7} \\\\
+a   &= \dfrac{2000 \times 3.7}{3.7} \\\\
+a   &= \dfrac{2000 \times \cancel{3.7}}{\cancel{3.7}} \\\\
+a   &= 2000
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2000$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -144,6 +221,37 @@ $
 
 $0.2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+7400 \div {?} = 37000 \\\\
+\text{Let the missing number be 'a'} \\\\
+7400 \div a &= 37000 \\\\
+\dfrac{7400}{a}  &= 37000 \\\\
+7400  &= 37000 \times a \\\\
+a   &= \dfrac{7400}{37000} \\\\
+a   &= \dfrac{0.2 \times37000}{37000} \\\\
+a   &= \dfrac{0.2 \times\cancel {37000}}{\cancel{37000}} \\\\
+a   &= 0.2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0.2$
+</code></pre>
 </div>
 </div>
 

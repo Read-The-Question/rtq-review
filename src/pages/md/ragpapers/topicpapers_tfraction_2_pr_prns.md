@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-pr-prns"
 title: "TopicPaper - Fraction - 2 - PR - PRNS"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -45,6 +45,25 @@ tfraction
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -69,6 +88,29 @@ $
 
 $\dfrac {5} {12}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {5} {12}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {5} {12}$
+</code></pre>
 </div>
 </div>
 
@@ -109,6 +151,41 @@ $
 
 $4$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {three quarters of the rectangle} &= \dfrac {3} {4} \times 12 \\\\
+                                        &= \dfrac {3 \times 12} {4} \\\\
+                                        &= \dfrac {3 \times 3 \times 4} {4} \\\\
+                                        &= \dfrac {3 \times 3 \times \cancel{4}} {\cancel{4}} \\\\
+                                        &= 3 \times 3 \\\\
+                                        &= 9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {extra squares need to be shaded} &= 9 - 5 \\\\
+                                        &= 4
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
 </div>
 </div>
 
@@ -211,6 +288,25 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -248,6 +344,40 @@ $\dfrac {4} {23}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {number of boys}          &= \text {Total pupils} - \text {number of girls} \\\\
+                                &= 23 - 11 \\\\
+                                &= 12 \\\\
+\text {number of boys who walk} &= \text {number of boys} - \text {boys who don't walk} \\\\
+                                &= 12 - 8 \\\\
+                                &= 4 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {fraction of boys who walk to school} &= \dfrac {4} {23}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {4} {23}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -275,6 +405,30 @@ $
 
 $\dfrac {5} {23}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {fraction of the who girls don’t walk to school} &= \dfrac {11 - 6} {23} \\\\
+                                                       &= \dfrac {5} {23}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {5} {23}$
+</code></pre>
 </div>
 </div>
 
@@ -367,6 +521,36 @@ $
 
 $\dfrac {13} {27}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Area of rectangle that is coloured} &= \text {Area of outer rectangle} - \text {Area of inner rectangle} \\\\
+                                           &= (6 \times 9) - (4 \times 7) \\\\
+                                           &= 54 - 28 \\\\
+                                           &= 26 \\\\
+\text {Fraction}                           &= \dfrac {26} {54} \\\\
+                                           &= \dfrac {2 \times 13} {2 \times 27} \\\\
+                                           &= \dfrac {\cancel{2} \times 13} {\cancel{2} \times 27} \\\\
+                                           &= \dfrac {13} {27}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {13} {27}$
+</code></pre>
 </div>
 </div>
 
@@ -469,6 +653,48 @@ $\dfrac {2} {7}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let area of one traingle be $=1$ unit.
+
+$
+\begin{aligned}
+\text {area of whole figure}            &= 1 + 1 - \dfrac {4} {9} \\\\
+                                        &= 2 - \dfrac {4} {9} \\\\
+                                        &= \dfrac {2 \times 9} {9} - \dfrac {4} {9} \\\\
+                                        &= \dfrac {18} {9} - \dfrac {4} {9} \\\\
+                                        &= \dfrac {18 - 4} {9} \\\\
+                                        &= \dfrac {14} {9}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {fraction} &= \text {shaded region} \div \text {area of whole figure} \\\\
+                 &= \dfrac {4} {9} \div \dfrac {14} {9} \\\\
+                 &= \dfrac {4} {9} \times \dfrac {9} {14} \\\\
+                 &= \dfrac {4 \times 9} {9 \times 14} \\\\
+                 &= \dfrac {2 \times 2 \times 9} {9 \times 2 \times 7} \\\\
+                 &= \dfrac {\cancel{2} \times 2 \times \cancel{9}} {\cancel{9} \times \cancel{2} \times 7} \\\\
+                 &= \dfrac {2} {7}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {7}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -547,6 +773,25 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -570,6 +815,25 @@ Look at this diagram
 
 %empty%
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 <ul class='subsubquestion lower-roman'>
@@ -596,6 +860,29 @@ $
 
 $\dfrac {3} {8}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {3} {8}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {3} {8}$
+</code></pre>
 </div>
 </div>
 
@@ -629,6 +916,32 @@ $\dfrac {5} {8}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 1 - \dfrac {3} {8} \\\\
+&= \dfrac {8} {8} = \dfrac {3} {8} \\\\
+&= \dfrac {8 - 3} {8} \\\\
+&= \dfrac {5} {8}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {5} {8}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -657,6 +970,25 @@ TODOWORKING
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -696,6 +1028,38 @@ $6$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {fraction of boys} &= 1 - \dfrac {3} {4} \\\\
+                         &= \dfrac {4} {4} - \dfrac {3} {4} \\\\
+                         &= \dfrac {4 - 3} {4} \\\\
+                         &= \dfrac {1} {4} \\\\
+\text {number of boys}   &= \dfrac {1} {4} \ \text {of} \ 24 \\\\
+                         &= \dfrac {1} {4} \times 24 \\\\
+                         &= \dfrac {24} {4} \\\\
+                         &= \dfrac {6 \times 4} {4} \\\\
+                         &= \dfrac {6 \times \cancel{4}} {\cancel{4}} \\\\
+                         &= 6
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -727,6 +1091,34 @@ $
 
 $225$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {number of fir trees} &= 50\% \text{of} \ 450 \\\\
+                            &= \dfrac {50} {100} \times 450 \\\\
+                            &= \dfrac {50 \times 450} {100} \\\\
+                            &= \dfrac {5\cancel{0} \times 45\cancel{0}} {1\cancel{00}} \\\\
+                            &= 5 \times 45 \\\\
+                            &= 225 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$225$
+</code></pre>
 </div>
 </div>
 
@@ -810,6 +1202,25 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -848,6 +1259,39 @@ fractions less than $\dfrac {1} {9}$ are $\dfrac {1} {10}$ and $\dfrac {1} {100}
 
 $\dfrac {1} {10}$ and $\dfrac {1} {100}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {9}$ in decimal is $0.11$.
+
+Let's convert all the given number to decimals.
+
+$
+\begin{aligned}
+\dfrac {1} {10}  &= 0.1 \\\\
+\dfrac {4} {9}   &= 0.4 \\\\
+\dfrac {1} {2}   &= 0.5 \\\\
+\dfrac {1} {100} &= 0.01 \\\\
+\dfrac {1} {8}   &= 0.12 \\\\
+\end{aligned}
+$
+
+fractions less than $\dfrac {1} {9}$ are $\dfrac {1} {10}$ and $\dfrac {1} {100}$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {10}$ and $\dfrac {1} {100}$
+</code></pre>
 </div>
 </div>
 
@@ -892,6 +1336,31 @@ $11\%$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {1} {9} \text {of} 100 \\\\
+&= \dfrac {100} {9} \\\\
+&= 11\%
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11\%$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -926,6 +1395,35 @@ $
 
 $\dfrac {2} {9}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number be $=x$.
+
+$
+\begin{aligned}
+\text {half of x}           &= \dfrac {1} {9} \\\\
+\dfrac {1} {2} \text {of} x &= \dfrac {1} {9} \\\\
+\dfrac {1} {2} \times x     &= \dfrac {1} {9} \\\\
+x                           &= \dfrac {1} {9} \times 2 \\\\
+                            &= \dfrac {2} {9}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {9}$
+</code></pre>
 </div>
 </div>
 
@@ -1025,6 +1523,43 @@ $
 
 $\dfrac {1} {2} \ \ \dfrac {3} {4}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 50\% \\\\
+&= \dfrac {50} {100} \\\\
+&= \dfrac {50} {50 \times 2} \\\\
+&= \dfrac {\cancel{50}} {\cancel{50} \times 2} \\\\
+&= \dfrac {1} {2} \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 0.75 \\\\
+&= \dfrac {75} {100} \\\\
+&= \dfrac {5 \times 5 \times 3} {5 \times 5 \times 4} \\\\
+&= \dfrac {\cancel{5} \times \cancel{5} \times 3} {\cancel{5} \times \cancel{5} \times 4} \\\\
+&= \dfrac {3} {4} \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {2} \ \ \dfrac {3} {4}$
+</code></pre>
 </div>
 </div>
 

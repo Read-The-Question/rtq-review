@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-notstarted"
 title: "TopicPaper - Algebra - 16 - NOTSTARTED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -52,6 +52,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -127,6 +161,76 @@ $\pounds 720$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's take a portion of :
+
+chips costing $\pounds 1.50$ as $x$
+fish costing $\pounds 3.50$as $y$
+pie costing $\pounds 2.00$as $z$
+
+Lets find the total income that evening when they sold.
+
+Cost of 80 lots of fish and chips 
+
+$
+\begin{aligned}
+&= 80 \times (x + y) \\
+&= 80 \times (\pounds 1.50 + \pounds 3.50) \\
+&= 80 \times 5 \\
+&= \pounds 400 \\
+\end{aligned}
+$
+
+Cost of 70 lots of pie and chips 
+
+$
+\begin{aligned}
+&= 70 \times (z + y) \\
+&= 70 \times (\pounds 2.00 + \pounds 1.50) \\
+&= 70 \times 3.50 \\
+&= 7 \times 10 \times 3.50 \\
+&= 7 \times 35\\
+&= \pounds 245 \\
+\end{aligned}
+$
+
+Cost of 50 lots of chips 
+
+$
+\begin{aligned}
+&= 50 \times x \\
+&= 50 \times \pounds 1.50 \\
+&= 5 \times 10 \times 1.50\\
+&= 5 \times 15\\
+&= \pounds 75 \\
+\end{aligned}
+$
+
+Let's calculate the total income by adding all the earnings of the day.
+
+$
+\begin{aligned}
+&= \pounds 400 + \pounds 245 + \pounds 75 \\
+&= \pounds 720 \\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 720$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -169,6 +273,41 @@ $
 
 $\pounds 324$ 
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+To find the Cost price of the owner, add all the cost price of foods purchased. 
+
+i.e., cost of potatoes + fish + pies.
+
+
+$
+\begin{aligned}
+&=  (2 \times \pounds 40) + (80 \times \pounds 2) + (70 \times \pounds 1.20) \\
+&= 80 + 160 +  (7 \times 10 \times 1.20)  \\
+&= 80 + 160 +  (7 \times 12)  \\
+&= 80 + 160 +  84 \\
+&= \pounds 324 \\
+\end{aligned}
+$
+
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 324$ 
+</code></pre>
 </div>
 </div>
 
@@ -218,6 +357,46 @@ $\pounds 446$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+$4 \ \text{pm}$ to $11 \ \text{pm}$ = $7 \ \text{hours}$
+
+Cost of $2$ Staff at $\pounds 8$ per hour
+
+$= 7 \times 2 \times \pounds 8$  
+
+$= \pounds 112$
+
+
+Total Expenses for the evening
+
+= Cost of food purchased + Cost of staff + other materials 
+
+Let's substitute the values
+
+$
+\begin{aligned}
+&= \pounds 324 + \pounds 112 + \pounds 10 \\
+&= \pounds 446 \\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 446$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -250,6 +429,35 @@ $
 $\pounds 274$
 
  
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Profit 
+
+$
+\begin{aligned}
+&=  \pounds 720 - \pounds 446 \\
+&= \pounds 274 \\
+\end{aligned}
+$
+
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 274$
+
+ </code></pre>
 </div>
 </div>
 
@@ -322,6 +530,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -380,6 +622,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -410,6 +686,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -446,6 +756,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -480,6 +824,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -512,6 +890,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -577,6 +989,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -607,6 +1053,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -643,6 +1123,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -675,6 +1189,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -716,6 +1264,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -783,6 +1365,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -813,6 +1429,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -853,6 +1503,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -888,6 +1572,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -1004,6 +1722,93 @@ So his selling price for $1$ apples is $50$ pence.
 
 $50p$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Total apples = $60$
+
+Bad apples = $\dfrac {1}{10}$ of total apples. 
+
+Let's find how many bad apples are there.
+
+No. of bad apples is:  
+
+$
+\begin{aligned}
+&= 60 \times \dfrac {1}{10}  \\\\
+&= \dfrac {60}{10} \\\\
+&= \dfrac {6{\cancel{0}}} {1{\cancel{0}}}\\\\
+&= {6} \text{ apples}\\
+\end{aligned}
+$
+
+There are $6$ bad apples.
+
+
+Let's find number of good apples
+
+$
+\begin{aligned}
+&= 60 - 6 \\
+&= 54  \text{ apples}\\
+\end{aligned}
+$
+
+There are $54$ good apples.
+
+Now let's figure out the selling price.
+
+As per the question,
+
+Cost price $= \pounds 12$
+Profit     $= \pounds 15$
+
+Selling price - Cost Price = Profit
+
+$\quad \text {or,}$
+
+Selling price = Profit + Cost price
+
+$
+\begin{aligned} 
+&= 15 + 12 \\
+&= \pounds 27\\  
+\end{aligned}
+$
+
+He sold $54$ good apples, earned $\pounds 27$ and spend $\pounds 12$ to buy it.
+
+Let's calculate the selling price of each apple.
+
+$\text{Selling price of good apples} = \dfrac {\text{money earned}} {\text{no. of apples sold}}$
+
+$
+\begin{aligned}
+&= \dfrac {27}{54}\\\\
+&= \dfrac{\cancel{27}\raisebox{0.9em}{1}}{\cancel{54}\raisebox{-0.9em}{2}}\\\\
+&= \dfrac {\pounds 1}{2\ \text  {apples}}\\\\
+\end{aligned}
+$
+
+For $\pounds 1$ he sells $2$ apples.
+
+So his selling price for $1$ apples is $50$ pence. 
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$50p$
+</code></pre>
 </div>
 </div>
 
@@ -1149,6 +1954,122 @@ $72$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+original no. = a number between $11$ and $99$ ($2$ digits)
+
+original no.  $>$ new number
+
+the original no., the new number and $\dfrac {1}{3}$
+are all multiples of $3$
+
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Trial and error method
+
+$12$ is the smallest $2$ digit number which is a multiple of $3$
+
+certain combinations can be ruled out as the reverse is not near to $\dfrac {1}{3}$ of the original number
+
+possible combinations:
+
+$
+\begin{aligned}
+\quad \cancel{12-21}, \ 15-51, \ \cancel{18-81},\\\\ 
+\cancel{24-42},\ 27-72, \ \cancel{36-63},\\\\
+\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}\\\\
+\end{aligned}
+$
+
+Let's try combination $1$ : $15$ and $51$ 
+
+original number = $51$
+
+$
+\begin{aligned}
+\dfrac {51}{3}  &= 17\\
+17 + 3          &= 20 \text{ (wrong)}\\
+\end{aligned}
+$
+
+Let's try combination $2$ : $27$ and $72$ 
+
+original number = $72$
+So reverse no. is,
+
+$
+\begin{aligned}
+&=\dfrac {72}{3}+3\\
+&= 27\\
+\end{aligned}
+$
+
+$27$ and 472$ is the right combination. So $72$ is the original number.
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the two digit number be $xy$
+
+$x$ in the tenth place and $y$ in the unit place.
+
+The original no. $= 10x + y$
+
+The swapped no.  $= 10y + x$
+
+As per the question, the new number is $3$ more than $\dfrac {1}{3}$ of the original number. 
+
+The swapped no. $= 3 + \dfrac {(10y + x)}{3}$
+
+i.e.  $= 10y + x = 3 + \dfrac {(10y + x)}{3}$
+
+Let's solve
+
+$
+\begin{aligned}
+3 + \dfrac{(10x + y)}{3} &= 10y + x \\\\
+\dfrac{9 + (10x + y)}{3} &= 10y + x \\\\
+           9 + (10x + y) &= (10y + x) \times 3 \\
+             9 + 10x + y &= 30y + 3x \\
+    9 + 10x + y -30y -3x &= 0 \\
+            9 + 7x - 29y &= 0 \\
+                 7x -29y &= -9 \\
+\end{aligned}
+$
+
+
+The values $x$ and $y$ are between $0$ to $9$
+
+On substituting the only possibility that matches
+
+$
+\begin{aligned}
+ x &= 7 \\
+ y &= 2 \\
+-9 &= (7 \times 7) - (29 \times 2)  \\
+-9 &= 49 - 58 \\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$72$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -1194,6 +2115,25 @@ It then grows by one quarter and one fifth of the height reached in the same way
 
 %empty%
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1260,6 +2200,67 @@ $3 \text {m}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+To find out the height of the plant after five months, we should know the height of plant at the end of first, second, third and fourth month.
+
+$
+\begin {aligned}
+\text {Height of the plant at the end of the first month}       &= 1 \ \text {m} \\\\
+\text {Height of the plant at the end of the second month}      &= 1 + \dfrac {1} {2} \ \text {of} \ 1 \ \text {m} \\\\
+                                                                &= 1 + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {1 \times 2} {1 \times 2} + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {2} {2} + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {2 + 1} {2} \\\\
+                                                                &= \dfrac {3} {2} \\\\
+                                                                &= 1.5 \ \text {m} \\\\
+\text {Height of the plant at the end of the third month}       &= 1.5 + \dfrac {1} {3} \ \text {of} \ 1.5 \ \text {m} \\\\
+                                                                &= 1.5 + \dfrac {1} {3} \times 1.5 \\\\
+                                                                &= \dfrac {3} {2} + \dfrac {1} {3} \times \dfrac {3} {2} \\\\
+                                                                &= \dfrac {3} {2} + \dfrac {3} {6} \\\\
+                                                                &= \dfrac {3} {2} + \dfrac {1} {2} \\\\
+                                                                &= \dfrac {3 + 1} {2} \\\\
+                                                                &= \dfrac {4} {2} \\\\
+                                                                &= 2 \ \text {m} \\\\
+\text {Height of the plant at the end of the fourth month}      &= 2 + \dfrac {1} {4} \ \text {of} \ 2 \ \text {m} \\\\
+                                                                &= 2 + \dfrac {1} {4} \times 2 \\\\
+                                                                &= 2 + \dfrac {2} {4} \\\\
+                                                                &= \dfrac {2 \times 4} {1 \times 4} + \dfrac {2} {4} \\\\
+                                                                &= \dfrac {8} {4} + \dfrac {2} {4} \\\\
+                                                                &= \dfrac {8 + 2} {4} \\\\
+                                                                &= \dfrac {10} {4} \\\\
+                                                                &= 2.5 \ \text {m} \\\\
+\text {Height of the plant at the end of the fifth month}       &= 2.5 + \dfrac {1} {5} \ \text {of} \ 2.5 \ \text {m} \\\\
+                                                                &= \dfrac {5} {2} + \dfrac {1} {5} \times \dfrac {5} {2} \\\\
+                                                                &= \dfrac {5} {2} + \dfrac {5} {10} \\\\
+                                                                &= \dfrac {5 \times 5} {2 \times 5} + \dfrac {5} {10} \\\\
+                                                                &= \dfrac {25} {10} + \dfrac {5} {10} \\\\
+                                                                &= \dfrac {25 + 5} {10} \\\\
+                                                                &= \dfrac {30} {10} \\\\
+                                                                &= \dfrac {3 \cancel {0}} {1 \cancel {0}} \\\\
+                                                                &= 3 \ \text {m}
+\end {aligned}
+$
+
+The plant will be $3 \ \text {m}$ tall after five months.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \text {m}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1282,6 +2283,25 @@ If a plant **grows** $90 \ \text{cm}$ in the third month, how tall was it after 
 
 $180$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$180$
+</code></pre>
 </div>
 </div>
 
@@ -1333,6 +2353,52 @@ $
 
 $4 \ \text {m}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+1 \ \text{month} &= 2 \ \text {m} \\\\
+2 \ \text{month} &= 2 + 2 \times \dfrac {1}{2}\\\\
+        &= 2 + 1\\
+        &= 3 \ \text {m} \\
+3 \ \text{month} &= 3 + 3 \times \dfrac {1}{3}\\\\
+        &= 3 + 1\\
+        &= 4 \ \text {m} \\
+4 \ \text{month} &= 4 + 4 \times \dfrac {1}{4}\\\\
+        &= 4 + 1\\
+        &= 5 \ \text {m} \\
+5 \ \text{month} &= 5 + 5 \times \dfrac {1}{5}\\\\
+        &= 5 + 1\\
+        &= 6 \text {m} \\
+        &= 6 \ \text {metres}
+\end{aligned}
+$
+
+Total growth from end of first months to end of fifth month
+
+$
+\begin{aligned}
+&= 6 \ \text {m} - 2 \text {m} \\
+&= 4 \ \text {m}
+\end{aligned}
+$
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4 \ \text {m}$
+</code></pre>
 </div>
 </div>
 
@@ -1402,6 +2468,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1432,6 +2532,35 @@ $
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+W &= 3 \times 0.5 \times 0.5 \times 2 \\
+  &= (3 \times 0.5) \times (0.5 \times 2) \\
+  &= 1.5 \times 1 \\
+  &= 1.5 \text {g}\\
+\end {aligned}
+$
+
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -1467,6 +2596,36 @@ Density of the forearm is $5$
 
 $5$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+              480 &= 30 \times 2 \times 2 \times D \\
+                  &= 120 \times D \\\\
+\dfrac{480}{120} &= D \\\\
+                4 &= D
+\end {aligned}
+$
+
+Density of the forearm is $5$
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
+</code></pre>
 </div>
 </div>
 
@@ -1506,6 +2665,40 @@ Radius of a thigh bone is $3 \text {cm}$
 
 $3 \text {cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+              3600 &= 50 \times R \times R \times 8 \\
+                   &= 50 \times R^2 \times 8 \\
+                   &= 400 \times R^2 \\\\
+\dfrac{3600}{400} &= R^2 \\\\
+                 9 &= R^2 \\
+               3^2 &= R^2 \\
+                 3 &= R
+\end {aligned}
+$
+
+Radius of a thigh bone is $3 \text {cm}$
+
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \text {cm}$
+</code></pre>
 </div>
 </div>
 
@@ -1575,6 +2768,44 @@ The set of digits $a ,b$ can be = $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 
 $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing digits = $a , b$
+
+As per the question,
+
+$a34 + b97 = 631$
+
+$
+\begin{array}
+    &   a       &   3   &   4 \\
+{}+ &   b       &   9   &   1 \\
+   \hline
+    & (a+b+1)   &   3   &   1
+\end{array}
+$
+
+Comparing the digits, $a + b + 1 = 6$
+$a + b = 6 - 1$
+$a + b = 5$
+
+The set of digits $a ,b$ can be = $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
+</code></pre>
 </div>
 </div>
 
@@ -1686,6 +2917,87 @@ $\text{The missing numbers are :} 39, 187, 112, 10, 112$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+17 + a                  &= 56 \\\\
+a                       &= 56 - 17 \\\\
+a                       &= 39
+\end{aligned}
+$
+
+Let the missing number $=b$
+
+$
+\begin{aligned}
+131 - b                 &= 56 \\\\
+b                       &= 131 - 56 \\\\
+b                       &= 75
+\end{aligned}
+$
+
+Let the missing number $=c$
+
+As per the question,
+
+$
+\begin{aligned}
+50 \% \ \text{of} \ c                                   &= 56 \\\\
+\dfrac {50} {100} \times c                              &= 56 \\\\
+\dfrac {50} {50 \times 2} \times c                      &= 56 \\\\
+\dfrac {\cancel {50}} {\cancel {50} \times 2} \times c  &= 56 \\\\
+\dfrac {1} {2} \times c                                 &= 56 \\\\
+c                                                       &= 56 \times 2 \\\\
+c                                                       &= 112
+\end{aligned}
+$
+
+Let the missing number $=d$
+
+As per the question,
+
+$
+\begin{aligned}
+560 \div d              &= 56 \\\\
+d                       &= \dfrac {560} {56}  \\\\
+d                       &= \dfrac {56 \times 10} {56}  \\\\
+d                       &= \dfrac {\cancel {56} \times 10} {\cancel {56}}  \\\\
+d                       &= 10
+\end{aligned}
+$
+
+Let the missing number $=e$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {2} \times e                                 &= 56 \\\\
+e                                                       &= 56 \times 2 \\\\
+e                                                       &= 112
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text{The missing numbers are :} 39, 187, 112, 10, 112$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -1731,6 +3043,25 @@ An ant is travelling along the straight line AC as shown below. The distance fro
 
 %empty%
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -1786,6 +3117,56 @@ $64 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the distance from B to C $= d \ \text{cm}$
+
+As per the question,
+
+Distance from A to B $= 4d \ \text{cm}$
+
+Total distance, A to C $= 80 \ \text{cm}$
+
+AB + BC = AC
+
+$
+\begin{aligned}
+4d + d                                  &= 80 \ \text{cm} \\\\
+5d                                      &= 80 \\\\
+d                                       &= \dfrac {80} {5} \\\\
+d                                       &= \dfrac {5 \times 16} {5} \\\\
+d                                       &= \dfrac {\cancel {5} \times 16} {\cancel {5}} \\\\
+d                                       &= 16 \ \text{cm}
+\end{aligned}
+$
+
+Distance B to C $= 16 \ \text{cm}$
+
+Distance from A to B $= 4d$
+$
+\begin{aligned}
+&= 4 \times 16 \\\\
+&= 64 \ \text {cm}
+\end{aligned}
+$
+
+Distance from A to B $= 64 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$64 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1814,6 +3195,31 @@ $
 
 $640 \text { mm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Distance from A to B}             &= 64 \text { cm} \\\\
+                                        &= 64 \times 10 \ \text {mm} \\\\
+                                        &= 640 \text { mm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$640 \text { mm}$
+</code></pre>
 </div>
 </div>
 
@@ -1874,6 +3280,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 

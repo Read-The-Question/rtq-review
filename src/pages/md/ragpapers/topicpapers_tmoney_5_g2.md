@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-5-g2"
 title: "TopicPaper - Money - 5 - G2"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -61,6 +61,36 @@ $
 
 $\pounds 1.89$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin{aligned}
+\text {Money spent}     &= 2 \times 53 \text {p} + 3 \times 27 \text {p} + \pounds 1.24 \\\\
+                        &= 2 \times \pounds 0.53 + 3 \times \pounds 0.27 + \pounds 1.24 \\\\
+                        &= 1.06 + 0.81 + 1.24 \\\\
+                        &= \pounds 3.11 \\\\
+\text {Change received} &= 5 - 3.11 \\\\
+                        &= \pounds 1.89
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1.89$
+</code></pre>
 </div>
 </div>
 
@@ -141,6 +171,25 @@ talgebra
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -180,6 +229,34 @@ $
 
 $20 \text {p}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Cost of an apple}    &= \dfrac {2 - 1.20} {4} \\\\
+                            &= \dfrac {0.80} {4} \\\\
+                            &= \dfrac {0.20 \times 4} {4} \\\\
+                            &= \dfrac {0.20 \times \cancel {4}} {\cancel {4}} \\\\
+                            &= \pounds 0.20 \\\\
+                            &= 20 \text {p}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20 \text {p}$
+</code></pre>
 </div>
 </div>
 
@@ -224,6 +301,36 @@ $
 
 $6 \ \text {oranges}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+
+$
+\begin {aligned}
+\text {Count}   &= \dfrac {\text{Total money}} {\text {Cost of an orange}} \\\\
+                &= \dfrac {\pounds 1} {15 \text {p}} \\\\
+                &= \dfrac {100 \text {p}} {15 \text {p}} \\\\
+                &= 6 \ \text {remainder} \ 10 \\\\
+                &\approx 6
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6 \ \text {oranges}$
+</code></pre>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-3-g0-prcc"
 title: "TopicPaper - Areaperimeter - 3 - G0 - PRCC"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -79,6 +79,56 @@ $
 
 $50 \ \text{cm} ^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the width of the rectangle $= a$
+
+Length of the rectangle $= 2a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times (2a + a)                         &= 30 \\\\
+2 \times 3a                               &= 30 \\\\
+6a                                        &= 30 \\\\
+a                                         &= \dfrac {30} {6} \\\\
+a                                         &= \dfrac {5 \times 6} {6} \\\\
+a                                         &= \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\
+a                                         &= 5 \ \text {cm}
+\end{aligned}
+$
+
+Width of the rectangle $= 5 \ \text {cm}$
+
+Length of the rectangle $= 10 \ \text {cm}$
+
+$
+\begin{aligned}
+\text{Area of the rectangle}        &= 5 \times 10 \\\\
+                                    &= 50 \ \text {cm} ^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$50 \ \text{cm} ^2$
+</code></pre>
 </div>
 </div>
 
@@ -206,6 +256,61 @@ $4 \ \text{m}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question, 
+
+Length $= 8 \ \text{m}$
+
+Width  $= 20 \ \text{m}$
+
+
+To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
+
+Let's find the highest common factor of $8$ and $20$.
+
+Factors of $8 = 1, 2, \bold 4, 8$
+
+Factors of $20 = 1, 2, \bold 4, 5, 20$
+
+The highest common factor of $8$ and $20=4$.
+
+So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Alternative solution
+
+As per the question,
+
+LCM of 8 and 20 $= 40$
+
+$
+\begin{aligned}
+\text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
+                                                      &= 8 \ \text{m} \times 20 \ \text{m}\\\\
+                                                      &= 160 \ \text{m}^2 \\\\
+\text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
+                                                      &= 4 \ \text{m}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4 \ \text{m}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -321,6 +426,42 @@ $54 \ \text{m}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the given diagram divided into three rectangles with measurements shown.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+As per the diagram, the shape can be divided into three rectangles
+
+$
+\begin{aligned}
+\text{Perimeter of the shape}                  &= \text{Perimeter of 3 rectangles} - \text{4 Overlapping width} \\\\
+                                               &= 3 \times (2 \times (8 + 3)) - 4 \times 3 \\\\
+                                               &= 3 \times (2 \times 11) - 12 \\\\
+                                               &= 3 \times 22 - 12 \\\\
+                                               &= 66 - 12 \\\\
+                                               &= 54 \ \text{m}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$54 \ \text{m}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -432,6 +573,38 @@ $12.5$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Perimeter}                               &= 3(x +1) + 2(x - 2) + 4x \\\\
+                                               &= 3(1.5 +1) + 2(1.5 - 2) + 4 \times 1.5 \\\\
+                                               &= 3 \times 2.5 + 2 \times (-0.5) + 6 \\\\
+                                               &= 7.5 - 1 + 6 \\\\
+                                               &= 6.5 + 6 \\\\
+                                               &= 12.5
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>B</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12.5$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -511,6 +684,25 @@ tsimpleword
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -541,6 +733,34 @@ $
 
 $10 \text{cm}^{2}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area}                        &= 5 \times 2 \\\\
+                                   &= 10 \ \text{cm}^{2}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10 \text{cm}^{2}$
+</code></pre>
 </div>
 </div>
 
@@ -580,6 +800,37 @@ $
 
 $20$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Number of triangles}                          &= \dfrac {\text {Area of rectangle}} {\text {Area of triangle}}  \\\\
+                                                    &= \dfrac {10} {\dfrac {1} {2} \times 1 \times 1} \\\\
+                                                    &= \dfrac {10} {\dfrac {1} {2}} \\\\
+                                                    &= 10 \times 2 \\\\
+                                                    &= 20 \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20$
+</code></pre>
 </div>
 </div>
 
@@ -695,6 +946,52 @@ $40 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+Let the original length $= l$.
+
+Let the original width $= w$.
+
+$
+\begin{aligned}
+\text {Perimeter of original rectangle}              &= 2 \times (l + w)
+\end{aligned}
+$
+
+As per the question,
+
+Increased length $= l + 10$
+
+Increased width $= w + 10$
+
+$
+\begin{aligned}
+\text {Perimeter of increased rectangle}    &= 2 \times (l + 10 + w + 10) \\\\
+                                            &= 2 \times (l + w + 20) \\\\
+                                            &= 2 \times (l + w) + 40 \\\\
+                                            &= \text {Perimeter of original rectangle} + 40
+\end{aligned}
+$
+
+The perimeter is increased by $40$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$40 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -803,6 +1100,53 @@ $80 \ \text {cm} ^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the length of the rectangle $= l$
+
+Let the width of the rectangle $= w$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of rectanlge}   &= 20 \\\\
+l \times w                  &= 20 \ \text {cm}^2
+\end{aligned}
+$
+
+After sides are doubled,
+
+New length $= 2 \times l$
+
+New width $= 2 \times w$
+
+$
+\begin{aligned}
+\text {New area}    &= (2 \times l) \times (2 \times w) \\\\
+                    &= 4 \times (l \times w) \\\\
+                    &= 4 \times 20 \ \text {cm} ^2 \\\\
+                    &= 80 \ \text {cm} ^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$80 \ \text {cm} ^2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -898,6 +1242,41 @@ $
 
 $86 \text{cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_area_circle_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of square}                   &= 20 \times 20 \\\\
+                                        &= 400 \ \text{cm}^2 \\\\
+\text{Area of circle}                   &= 3.14 \times 10 \times 10 \\\\
+                                        &= 314 \ \text{cm}^2 \\\\
+\text{Area of shaded region}            &= \text{area of square - area of circle} \\\\
+                                        &= 400 - 314 \\\\
+                                        &= 86 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$86 \text{cm}^2$
+</code></pre>
 </div>
 </div>
 
@@ -1021,6 +1400,63 @@ $48 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+Let the width of the rectangle $= a$
+
+Length $= 2a$
+
+As per the question, 
+
+$
+\begin {aligned}
+2a \times a                     &= 128 \\\\
+2a ^ 2                          &= 128 \\\\
+a ^ 2                           &= \dfrac {128} {2} \\\\
+a ^ 2                           &= \dfrac {64 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {64 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= 64 \\\\
+a                               &= \sqrt {64} \\\\
+a                               &= 8 \ \text{cm}
+\end {aligned}
+$
+
+Width of the rectangle $= 8 \ \text {cm}$
+
+$
+\begin{aligned}
+\text{Length of the rectangle}  &= 2 \times 8 \\\\
+                                &= 16 \ \text {cm}
+\end{aligned}
+$
+
+$
+\begin {aligned}
+\text {Perimeter}               &= 2 \times (16 + 8) \\\\
+                                &= 2 \times 24 \\\\
+                                &= 48 \ \text {cm}
+\end {aligned}
+$ 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1113,6 +1549,39 @@ $
 
 $7.4 \text{m}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
+
+rtq_abbr_md_unit_note
+
+Let's convert all the lenghts into meters.
+
+$
+\begin {aligned}
+\text {Perimeter of the shape}  &= 80 \ \text {cm} + 1.6 \text {m} + (1.8 \text {m} - 80 \ \text {cm}) + 30 \ \text {cm} + 1.8 \text {m} + (1.6 \text {m} + 30 \ \text {cm}) \\\\
+                                &= \dfrac {80} {100} \text {m} + 1.6 \text {m} + (1.8 \text {m} - \dfrac {80} {100} \text {m}) + \dfrac {30} {100} \text {m} + 1.8 \text {m} + (1.6 \text {m} + \dfrac {30} {100} \text {m}) \\\\
+                                &= 0.80 + 1.6 + (1.8 - 0.80) + 0.30 + 1.8 + (1.6 + 0.30) \\\\
+                                &= 2.40 + 1 + 2.1 + 1.90 \\\\
+                                &= 7.4 \ \text {m}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7.4 \text{m}$
+</code></pre>
 </div>
 </div>
 
@@ -1215,6 +1684,40 @@ $292 \ \text {cm}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add a diagram the given shape divided into two rectangles.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram, the shape can be divided into two rectangle
+
+$
+\begin{aligned}
+\text {Total Area}        &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                          &= 24 \times 11 + 7 \times 4 \\\\
+                          &= 264 + 28 \\\\
+                          &= 292 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$292 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1311,6 +1814,36 @@ $24 \ \text{cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Perimeter of cross shape tile} &= \text {Perimeter of the big square} - 8 \times \text {Corner squares} \\\\
+                                     &= 4 \times 10 - 8 \times 2 \\\\
+                                     &= 40 - 16 \\\\
+                                     &= 24 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$24 \ \text{cm}$
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1346,6 +1879,35 @@ $48 \ \text{cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the diagram,
+
+$
+\begin{aligned}
+\text{Perimeter} &= 3 \times \text{Perimeter of tile} - 4 \times \text{Common side between tiles} \\\\
+                 &= 3 \times 24 - 4 \times (10 - 4) \\\\
+                 &= 72 - 4 \times 6 \\\\
+                 &= 72 - 24 \\\\
+                 &= 48 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48 \ \text{cm}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1378,6 +1940,35 @@ $
 
 $132 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter of 10 tiles} &= 10 \times \text{Perimeter of tile} - 18 \times \text{Common side between tiles} \\\\
+                             &= 10 \times 24 - 18 \times (10 - 4) \\\\
+                             &= 240 - 18 \times 6 \\\\
+                             &= 240 - 108 \\\\
+                             &= 132 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$132 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 
@@ -1470,6 +2061,35 @@ $
 
 $12.90 \text {m}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Perimeter}                 &= 2 \times (4.65 + 1.8) \\\\
+                                  &= 2 \times 6.45 \\\\
+                                  &= 12.90 \ \text {m}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12.90 \text {m}$
+</code></pre>
 </div>
 </div>
 
@@ -1567,6 +2187,36 @@ $
 
 $144 \ \text {cm} ^ 2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+As per the question,
+
+As the radius of circle is $6 \ \text {cm}$, the length of a side of the square must be at least $12 \ \text {cm}$.
+
+$
+\begin {aligned}
+\text {Area of a square}  &= 12 \times 12 \\\\
+                          &= 144 \ \text {cm} ^ 2
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>A</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$144 \ \text {cm} ^ 2$
+</code></pre>
 </div>
 </div>
 
@@ -1674,6 +2324,36 @@ $132 \ \text{cm} ^ 2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of the diamond} &= \dfrac {\text{First diagonal} \times \text{Second diagonal}} {2} \\\\
+                           &= \dfrac {12 \times 22} {2} \\\\
+                           &= \dfrac {2 \times 6 \times 22} {2} \\\\
+                           &= \dfrac {\cancel {2} \times 6 \times 22} {\cancel {2}} \\\\
+                           &= 6 \times 22 \\\\
+                           &= 132 \ \text{cm} ^ 2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$132 \ \text{cm} ^ 2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1775,6 +2455,40 @@ $
 
 $85 \ \text{cm} ^ 2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add a diagram with three rectangles.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram, the shape can be divided into three rectangles
+
+$
+\begin{aligned}
+\text{Total Area}        &= \text{Rectangle 1 + Rectangle 2 + Rectangle 3} \\\\
+                         &= 3 \times 8 + 9 \times 5 + 2 \times 8 \\\\
+                         &= 24 + 45 + 16 \\\\
+                         &= 85 \ \text{cm} ^ 2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$85 \ \text{cm} ^ 2$
+</code></pre>
 </div>
 </div>
 
@@ -1888,6 +2602,40 @@ $
 
 $41 \ \text {cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add a diagram with two rectangles.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram, the shape can be divided into two rectangles
+
+$
+\begin{aligned}
+\text {Total Area}                &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                                  &= 5 \times 3 + 13 \times 2 \\\\
+                                  &= 15 + 26 \\\\
+                                  &= 41 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$41 \ \text {cm}^2$
+</code></pre>
 </div>
 </div>
 
@@ -2008,6 +2756,42 @@ $14 \ \text {cm}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Add a diagram with two triangle.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_triangle_expanded
+
+As per the diagram, the shape can be divided into two triangles
+
+$
+\begin{aligned}
+\text {Total Area}                  &= \text {Triangle 1} + \text {Triangle 2} \\\\
+                                    &= \dfrac {1} {2} \times 3.5 \times 2 + \dfrac {1} {2} \times 3.5 \times 6 \\\\
+                                    &= \dfrac {3.5 \times 2} {2} + \dfrac {3.5 \times 2 \times 3} {2} \\\\
+                                    &= \dfrac {3.5 \times \cancel {2}} {\cancel {2}} + \dfrac {3.5 \times \cancel {2} \times 3} {\cancel {2}} \\\\
+                                    &= 3.5 + 10.5 \\\\
+                                    &= 14 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>B</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$14 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2099,6 +2883,34 @@ $70 \ \text{cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Perimeter} &= 4 + 9 + 5 + 9 + (12 - (5 + 4)) + 14 + 12 + 14 \\\\
+                 &= 70 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$70 \ \text{cm}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2177,6 +2989,25 @@ A square has a perimeter of $20\ \text{cm}$.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2214,6 +3045,39 @@ $5 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
+
+Let the side of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times a          &= 20 \\\\
+4a                  &= 20 \\\\
+a                   &= \dfrac {20} {4} \\\\
+a                   &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+a                   &= 5 \ \text {cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -2246,6 +3110,34 @@ $
 
 $25 \ \text {cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area}  &= 5 \times 5 \\\\
+             &= 25 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25 \ \text {cm}^2$
+</code></pre>
 </div>
 </div>
 

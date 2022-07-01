@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-oldpr"
 title: "TopicPaper - Algebra - 14 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -44,6 +44,25 @@ Fill in the gaps in the calculations below.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -73,6 +92,34 @@ $
 
 $15 + \boxed{11} = 13 \times 2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number in the gap $= a$.
+
+$
+\begin{aligned}
+15 + a                                       &= 13 \times 2 \\\\
+15 + a                                       &= 26 \\\\
+a                                            &= 26 - 15 \\\\
+a                                            &= 11
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15 + \boxed{11} = 13 \times 2$
+</code></pre>
 </div>
 </div>
 
@@ -109,6 +156,35 @@ $2 + (4 \times 5) = 27 - \boxed{5}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number in the gap $= b$.
+
+$
+\begin{aligned}
+2 + (4 \times 5)                             &= 27 - b \\\\
+2 + 20                                       &= 27 - b \\\\
+22                                           &= 27 - b \\\\
+b                                            &= 27 - 22 \\\\
+b                                            &= 5
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2 + (4 \times 5) = 27 - \boxed{5}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -142,6 +218,36 @@ $
 
 $\boxed{\dfrac {1} {2}} \times 12 =  18 \div 3$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number in the gap $= c$.
+
+$
+\begin{aligned}
+c \times 12  &= 18 \div 3 \\\\
+c \times 12  &= \dfrac {18} {3} \\\\
+c            &= \dfrac {18} {3 \times 12} \\\\
+c            &= \dfrac {2 \times 3 \times 3} {3 \times 2 \times 2 \times 3} \\\\
+c            &= \dfrac {\cancel {2} \times \cancel {3} \times  \cancel {3}} {\cancel {3} \times \cancel {2} \times \cancel {3} \times 2} \\\\
+c            &= \dfrac {1} {2}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\boxed{\dfrac {1} {2}} \times 12 =  18 \div 3$
+</code></pre>
 </div>
 </div>
 
@@ -255,6 +361,25 @@ Write a number in each box in order to make the calculations correct.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -285,6 +410,35 @@ $
 
 $23 \times \boxed{2} = 50 - 4$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
+
+$
+\begin {aligned}
+23 \times a  &= 50 - 4 \\\\
+a            &= \dfrac {46} {23} \\\\
+a            &= \dfrac {23 \times 2} {23} \\\\
+a            &= \dfrac {\cancel {23} \times 2} {\cancel {23}} \\\\
+a            &= 2
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$23 \times \boxed{2} = 50 - 4$
+</code></pre>
 </div>
 </div>
 
@@ -325,6 +479,38 @@ $13 = \boxed{12} + (5 - 2^2)$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= b$.
+
+rtq_abbr_md_bidmas,
+
+$
+\begin {aligned}
+13  &= b + (5 - 2 ^ 2) \\\\
+13  &= b + (5 - 2 \times 2) \\\\
+13  &= b + (5 - 4) \\\\
+13  &= b + 1 \\\\
+b   &= 13 - 1 \\\\
+b   &= 12
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13 = \boxed{12} + (5 - 2^2)$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -363,6 +549,40 @@ $
 
 $72 \div \boxed{4} = 17 - 5 + 6$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= c$.
+
+rtq_abbr_md_bidmas,
+
+$
+\begin {aligned}
+72 \div c        &= 17 - 5 + 6 \\\\
+\dfrac {72} {c}  &= 23 - 5 \\\\
+\dfrac {72} {c}  &= 18 \\\\
+72               &= 18 \times c \\\\
+c                &= \dfrac {72} {18} \\\\
+c                &= \dfrac {4 \times 18} {18} \\\\
+c                &= \dfrac {4 \times \cancel {18}} {\cancel {18}} \\\\
+c                &= 4
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$72 \div \boxed{4} = 17 - 5 + 6$
+</code></pre>
 </div>
 </div>
 
@@ -471,6 +691,25 @@ tmoney
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -521,6 +760,49 @@ An apple cost $18 \ \text {pence}$ more than an orange.
 
 $18 \ \text {pence}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of an apple $= a$.
+
+Let the cost of an orange $= b$.
+
+Let the cost of a pear $= c$.
+
+As per the question,
+
+$b + c = 64 \ \text {pence}$.
+
+Using this, we get
+
+$
+\begin {aligned}
+\text {Total cost}          &= \pounds 2.10 \\\\
+a + 2b + 3c                 &= 2.10 \times 100 \ \text {pence} \\\\
+a + 2b + 3 \times (64 - b)  &= 210 \ \text {pence} \\\\
+a + 2b + 3 \times 64 - 3b   &= 210 \\\\
+a - b + 192                 &= 210 \\\\
+a - b                       &= 210 - 192 \\\\
+a - b                       &= 18 \ \text {pence}
+\end {aligned}
+$
+
+An apple cost $18 \ \text {pence}$ more than an orange.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18 \ \text {pence}$
+</code></pre>
 </div>
 </div>
 
@@ -578,6 +860,52 @@ Mike have to service $12$ cars.
 
 $12$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of cars $= c$.
+
+Let the number of bikes $= b$.
+
+As per the question,
+
+$c + b = 27$.
+
+Using this, we get 
+
+$
+\begin {aligned}
+\text {Total number of wheels} - \text {Total number of vehicles}  &= 78 - 27 \\\\
+(4c + 2b) - (c + b)                                                &= 51 \\\\
+4c + 2b - c - b                                                    &= 51 \\\\
+3c + b                                                             &= 51 \\\\
+3c + (27 - c)                                                      &= 51 \\\\
+3c - c + 27                                                        &= 51 \\\\
+2c                                                                 &= 51 - 27 \\\\
+2c                                                                 &= 24 \\\\
+c                                                                  &= \dfrac {24} {2} \\\\
+c                                                                  &= \dfrac {12 \times 2} {2} \\\\
+c                                                                  &= \dfrac {12 \times \cancel {2}} {2} \\\\
+c                                                                  &= 12
+\end {aligned}
+$
+
+Mike have to service $12$ cars.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12$
+</code></pre>
 </div>
 </div>
 
@@ -667,6 +995,25 @@ Write the missing numbers in the boxes to make the calculations correct.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -696,6 +1043,34 @@ $
 
 $7 \times 9 - \boxed{38} = 25$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
+
+$
+\begin {aligned}
+7 \times 9 - a  &= 25 \\\\
+63 - a          &= 25 \\\\
+a               &= 63 - 25 \\\\
+a               &= 38
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7 \times 9 - \boxed{38} = 25$
+</code></pre>
 </div>
 </div>
 
@@ -734,6 +1109,37 @@ $64 \div 4 = \boxed{9} + 7$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= b$.
+
+$
+\begin {aligned}
+64 \div 4                                     &= b + 7 \\\\
+\dfrac {64} {4}                               &= b + 7 \\\\
+\dfrac {16 \times 4} {4}                      &= b + 7 \\\\
+\dfrac {16 \times \cancel {4}} {\cancel {4}}  &= b + 7 \\\\
+16                                            &= b + 7 \\\\
+b                                             &= 16 - 7 \\\\
+b                                             &= 9
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$64 \div 4 = \boxed{9} + 7$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -770,6 +1176,39 @@ $
 
 $6^2 = 4^2 + (2 \times \boxed{10})$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= c$.
+
+$
+\begin {aligned}
+6 ^ 2       &= 4 ^ 2 + (2 \times c) \\\\
+6 \times 6  &= 4 \times 4 + 2c \\\\
+36          &= 16 + 2c \\\\
+36 - 16     &= 2c \\\\
+20          &= 2c \\\\
+c           &= \dfrac {20} {2} \\\\
+c           &= \dfrac {10 \times 2} {2} \\\\
+c           &= \dfrac {10 \times \cancel {2}} {\cancel {2}} \\\\
+c           &= 10
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6^2 = 4^2 + (2 \times \boxed{10})$
+</code></pre>
 </div>
 </div>
 
@@ -871,6 +1310,25 @@ Write a number in each box to complete the statements.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -898,6 +1356,32 @@ $
 
 $20.4 \times 100 = \boxed{2040}$ 
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
+
+$
+\begin{aligned}
+20.4 \times 100  &= a \\\\
+a                &= 2040
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20.4 \times 100 = \boxed{2040}$ 
+</code></pre>
 </div>
 </div>
 
@@ -930,6 +1414,33 @@ $
 
 $\boxed{1050} \div 1000 = 1.05$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= b$.
+
+$
+\begin {aligned}
+b \div 1000  &= 1.05 \\\\
+b            &= 1.05 \times 1000 \\\\
+b            &= 1050
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\boxed{1050} \div 1000 = 1.05$
+</code></pre>
 </div>
 </div>
 
@@ -1036,6 +1547,39 @@ $
 
 $3$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$.
+
+As per the question,
+
+$
+\begin {aligned}
+(a + 4) \times 8  &= 56 \\\\
+a + 4             &= \dfrac {56} {8} \\\\
+a + 4             &= \dfrac {8 \times 7} {8} \\\\
+a + 4             &= \dfrac {\cancel {8} \times 7} {\cancel {8}} \\\\
+a + 4             &= 7 \\\\
+a                 &= 7 - 4 \\\\
+a                 &= 3
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3$
+</code></pre>
 </div>
 </div>
 

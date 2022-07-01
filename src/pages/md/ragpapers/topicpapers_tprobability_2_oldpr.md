@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-oldpr"
 title: "TopicPaper - Probability - 2 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -52,6 +52,35 @@ $
 
 $\dfrac {2} {5}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Probability $= \dfrac{\text {Number of favorable outcomes}} {\text{Total number of outcomes}}$
+
+$
+\begin{aligned}
+\text{Probability of choosing red counter}      &= \dfrac {4} {6 + 4} \\\\
+                                                &= \dfrac {4} {10} \\\\
+                                                &= \dfrac {2 \times 2} {2 \times 5} \\\\
+                                                &= \dfrac {\cancel{2} \times 2} {\cancel{2} \times 5} \\\\
+                                                &= \dfrac {2} {5}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {5}$
+</code></pre>
 </div>
 </div>
 

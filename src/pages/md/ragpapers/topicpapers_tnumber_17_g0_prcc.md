@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-g0-prcc"
 title: "TopicPaper - Number - 17 - G0 - PRCC"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -56,6 +56,29 @@ Odd one : $2743$
 
 **B** $2743$ 
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$1917 + 3954 = 5871$
+
+$3008 + 2863 = 5871$
+
+Odd one : $2743$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>**B** $2743$ 
+</code></pre>
 </div>
 </div>
 
@@ -134,6 +157,25 @@ Two prime numbers between $45$ and $60 = 47, 53$
 
 $47, 53$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Two prime numbers between $45$ and $60 = 47, 53$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$47, 53$
+</code></pre>
 </div>
 </div>
 
@@ -219,6 +261,34 @@ $
 
 $1996$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
+\begin{aligned}
+&= 2000 - 12 + 20 - 12 \\\\
+&= 2000 - 12 + 8 \\\\
+&= 2000 - 4 \\\\
+&= 1996
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1996$
+</code></pre>
 </div>
 </div>
 
@@ -349,6 +419,65 @@ D
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>**A**
+
+$
+\begin{aligned}
+&= 43^2+ 56^2 \\\\
+&= 1849 + 3136 \\\\
+&= \rtq_katex_color_wrong_answer{4985} \ \cancel {=} \ 4981
+\end{aligned}
+$
+
+**B**
+
+$
+\begin{aligned}
+&= 55^2 + 66^2 \\\\
+&= 3025 + 4356 \\\\
+&= \rtq_katex_color_wrong_answer{7381}  \ \cancel {=} \ 7387
+\end{aligned}
+$
+
+**C**
+
+$
+\begin{aligned}
+&= 77^2+ 22^2 \\\\
+&= 5929 + 484 \\\\
+&= \rtq_katex_color_wrong_answer{6413}  \ \cancel {=} \ 6415
+\end{aligned}
+$
+
+**D**
+
+$
+\begin{aligned}
+&= 44^2+ 63^2 \\\\
+&= 1936 + 3969 \\\\
+&= 5905
+\end{aligned}
+$
+
+Statement D is correct.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>D
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -424,6 +553,25 @@ Calculate the answers to the following. Remember to show your working.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -451,6 +599,32 @@ $
 
 $853$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+    &   4   &   6   &   2 \\
+{}+ &   3   &   9   &   1 \\
+ \hline
+    &   8   &   5   &   3
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$853$
+</code></pre>
 </div>
 </div>
 
@@ -484,6 +658,32 @@ $352$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+    &   7   &   0   &   0 \\
+{}- &   3   &   4   &   8 \\
+\hline
+    &   3   &   5   &   2
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$352$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -513,6 +713,32 @@ $
 
 $222$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+        &   3   &   7 \\
+\times  &       &   6 \\
+\hline
+2       &   2   &   2
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$222$
+</code></pre>
 </div>
 </div>
 
@@ -545,6 +771,33 @@ $
 
 $234$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 1638 \div 7 \\\\
+&= \dfrac {1638} {7} \\\\
+&= \dfrac {234 \times 7} {7} \\\\
+&= \dfrac {234 \times \cancel {7}} {\cancel {7}} \\\\
+&= 234
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$234$
+</code></pre>
 </div>
 </div>
 
@@ -626,6 +879,25 @@ Calculate the answers to the following. Remember to show your working.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -655,6 +927,34 @@ $
 
 $14.43$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
+
+$
+\begin{array}{cccccccccccccc}
+    &   9 \ .   &   8   &   3 \\
+{}+ &   4 \ .   &   6   &   0 \\
+\hline
+1   &   4 \ .   &   4   &   3
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$14.43$
+</code></pre>
 </div>
 </div>
 
@@ -688,6 +988,34 @@ $
 
 $13.19$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
+
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   5 \ .   &   4   &   0 \\
+{}- &       &   2 \ .   &   2   &   1 \\
+\hline
+    &   1   &   3 \ .   &   1   &   9
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13.19$
+</code></pre>
 </div>
 </div>
 
@@ -732,6 +1060,42 @@ $29.2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+rtq_abbr_md_multiply_when_decimal_points_note
+
+$
+\begin{array}{cccccccccccccc}
+        &       &   7   &   3 \\
+{}      &\times &       &   4 \\
+\hline
+        &   2   &   9   &   2
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is one.
+
+Let's account for the decimal point now.
+
+= 29.2 
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$29.2$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -770,6 +1134,41 @@ $= 0.78$
 
 $0.78$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's first divide the numbers ignoring the decimal points.
+
+$
+\begin{aligned}
+&= 4.68 \div 6 \\\\
+&= \dfrac {468} {6} \\\\
+&= \dfrac {6 \times 78} {6} \\\\
+&= \dfrac {\cancel {6} \times 78} {\cancel{6}} \\\\
+&= 78
+\end{aligned}
+$
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now.
+
+$= 0.78$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0.78$
+</code></pre>
 </div>
 </div>
 
@@ -850,6 +1249,25 @@ Calculate the answers to the following: Remember to show your working.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -882,6 +1300,35 @@ $1632$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+&           &   6   &   8 \\
+&   \times  &   2   &   4 \\
+\hline
+    &   2   &   7   &   2 \\
+1   &   3   &   6   &   0 \\
+ \hline
+1   &   6   &   3   &   2
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1632$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -912,6 +1359,33 @@ $
 
 $47$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 987 \div 21 \\\\
+&= \dfrac {987} {21} \\\\
+&= \dfrac {21 \times 47} {21} \\\\
+&= \dfrac {\cancel {21} \times 47} {\cancel {21}} \\\\
+&= 47
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$47$
+</code></pre>
 </div>
 </div>
 
@@ -1000,6 +1474,35 @@ $
 
 $18.87$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
+
+$
+\begin{array}{cccccccccccccc}
+    &       &   1 \ .   &   7   &   0 \\
+    &   1   &   7 \ .   &   0   &   0 \\
+{}+ &       &   0 \ .   &   1   &   7 \\
+\hline
+    &   1   &   8 \ .   &   8   &   7
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18.87$
+</code></pre>
 </div>
 </div>
 
@@ -1098,6 +1601,43 @@ The fraction closest to $1$ is $= \dfrac {8} {9}$
 
 $\dfrac {8} {9}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's convert all the numbers into decimals..
+
+$
+\begin{aligned}
+&= \dfrac {5} {7}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {7} {8}, \quad \dfrac {8} {9}, \quad \dfrac {7} {10} \\\\
+&= 0.714, \quad 0.666, \quad 0.6, \quad 0.875, \quad 0.888, \quad 0.7
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 0.6, \quad 0.666, \quad 0.7, \quad 0.714, \quad 0.875, \quad 0.888 \\\\
+&= \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}, \quad \dfrac {5} {7}, \quad \dfrac {7} {8}, \quad \boxed {\dfrac {8} {9}}
+\end{aligned}
+$
+
+The fraction closest to $1$ is $= \dfrac {8} {9}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {8} {9}$
+</code></pre>
 </div>
 </div>
 
@@ -1202,6 +1742,54 @@ $
 
 $8.4$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 1 \dfrac {1} {2} \times 5.6 \\\\
+&= \dfrac {3} {2} \times 5.6 \\\\
+&= \dfrac {3 \times 5.6} {2} \\\\
+&= \dfrac {3 \times 2 \times 2.8} {2} \\\\
+&= \dfrac {3 \times \cancel {2}  \times 2.8} {\cancel {2}} \\\\
+&= 3 \times 2.8 \\\\
+&= 8.4
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Alternative solution,
+
+$
+\begin{aligned}
+&= 1 \dfrac {1} {2} \times 5.6 \\\\
+&= \dfrac {3} {2} \times \dfrac{56}{10} \\\\
+&= \dfrac {3 \times 56} {2 \times 10} \\\\
+&= \dfrac {3 \times 2 \times 28} {2 \times 10} \\\\
+&= \dfrac {3 \times 2 \times 28} {2 \times 10} \\\\
+&= \dfrac {3 \times \cancel {2}  \times 28} {\cancel {2}  \times 10} \\\\
+&= \dfrac {3 \times 28} {10} \\\\
+&= \dfrac {84} {10} \\\\
+&= 8.4
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8.4$
+</code></pre>
 </div>
 </div>
 

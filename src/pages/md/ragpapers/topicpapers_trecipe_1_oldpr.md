@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-trecipe-1-oldpr"
 title: "TopicPaper - Recipe - 1 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -45,6 +45,25 @@ Here is a recipe to make $6$ pancakes.
 
 %empty%
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -93,6 +112,51 @@ $
 
 $360 \ \text{gm} \ \text{Plain Flour} ,  9 \ \text{Eggs} , 630 \ \text{ml}  \ \text{milk}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Ingredient is needed to make $18$ pancakes = Each ingredient is needed to make $6$ pancakes $\times 3$
+
+$
+\begin{aligned}
+\text{The plain flour needed to make 18 pancakes} &= \text{The plain flour used to make 6 Pancakes} \times 3 \\\\
+&= 120 \ \text{gm} \times 3 \\\\
+&=  360 \ \text{gm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{The Eggs needed to make 18 pancakes} &= \text{The Eggs used to make 6 Pancakes} \times 3 \\\\
+&= 3 \times 3 \\\\
+&= 9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{The milk needed to make 18 pancakes} &= \text{The  milk used to make 6 Pancakes} \times 3 \\\\
+&= 210 \ \text{ml} \times 3 \\\\
+&= 630 \ \text{ml}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$360 \ \text{gm} \ \text{Plain Flour} ,  9 \ \text{Eggs} , 630 \ \text{ml}  \ \text{milk}$
+</code></pre>
 </div>
 </div>
 
@@ -147,6 +211,55 @@ $
 
 $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \text{milk}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{ingredients required to make 8 pancakes} &= \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
+\text{As per the requirement} \\\\
+\text{ingredients required to make 2 pancakes} &= \dfrac{\text{ingredients required to make 6 pancakes}}{3} \\\\
+\text{The quantity of plain flour used to make} \ 2 \text{Pancakes} &= \dfrac{120}{3} \\\\
+&=  \dfrac{3 \times 40 }{3} \\\\
+&=  \dfrac{\cancel3 \times 40 }{\cancel 3} \\\\
+&=  40 \ \text{g} \\\\\\\\
+\text{The number of Eggs needed used to make} \ 2 \text{Pancakes} &= \dfrac{3}{3} \\\\
+&=  \dfrac{3}{3} \\\\
+&= 1 \\\\\\\\
+\text{The amount of milk needed used to make}  \ 2 \text{Pancakes} &= \dfrac{210}{3} \\\\
+&=  \dfrac{3 \times 70 }{3} \\\\
+&=  \dfrac{\cancel 3 \times 70 }{\cancel 3} \\\\
+&= 70 \ \text{ml}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{ingredients required to make 8 pancakes} &= \text{required to make 6 pancakes} + \text{required to make 2 pancakes}  \\\\
+&= \text{The quantity of plain flour needed to make} \ 8 \text{Pancakes} \\\\
+&= 120 \ \text{g} + 40 \ \text{g} \\\\
+&= 160 \ \text{g} \\\\\\\\
+\text{The number of Eggs needed to make} 8 \text{Pancakes} &= 3 + 1 \\\\
+&=  4 \ \text{Eggs} \\\\\\\\
+text{The amount of milk needed  to make} 8 \text{Pancakes} &= 210 \ \text{ml} + 70 \ \text{ml} \\\\
+&= 280 \ \text{ml}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \text{milk}$
+</code></pre>
 </div>
 </div>
 
@@ -243,6 +356,25 @@ Flour $180 \ \text{g}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -314,6 +446,74 @@ $Sugar 160 \ \text{g}, Eggs 4, Butter 213.33 \ \text{g}, Flour 240 \ \text{g}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>A recipe for making $16$ cupcakes includes the following ingredients:
+
+Sugar
+$
+\begin{aligned}
+&= \dfrac {120} {12} \times 16 \\\\
+&= \dfrac {10 \times 12} {12} \times 16 \\\
+&= \dfrac {10 \times \cancel {12} } {\cancel {12} } \times 16 \\\
+&= 10 \times 16 \\\\
+&= 160 \ \text{g}
+\end{aligned}
+$ 
+
+Eggs
+$
+\begin{aligned}
+&= \dfrac {3} {12} \times 16 \\\\
+&= \dfrac {3} {3 \times 4} \times 16 \\\\
+&= \dfrac {\cancel {3} } {\cancel {3} \times 4} \times 16 \\\\
+&= \dfrac {4 \times 4} {4} \\\\
+&= \dfrac {4 \times \cancel {4} } {\cancel {4} } \\\\
+&= 4 
+\end{aligned}
+$ 
+
+Butter
+$
+\begin{aligned}
+&= \dfrac {160} {12} \times 16 \\\\
+&= \dfrac {4 \times 40} {3 \times 4} \times 16 \\\\
+&= \dfrac {\cancel {4} \times 40} {3 \times \cancel {4} } \times 16 \\\\
+&= \dfrac {40 \times 16} {3} \\\\
+&= \dfrac {640} {3} \\\\
+&= 213.33 \ \text{g}
+\end{aligned}
+$
+
+
+Flour
+$
+\begin{aligned}
+&= \dfrac {180} {12} \times 16 \\\\
+&= \dfrac {30 \times 6} {6 \times 2} \times 16 \\\\
+&= \dfrac {30 \times \cancel{6} } {\cancel{6} \times 2} \times 16 \\\\
+&= \dfrac {30 \times 16} {2} \\\\
+&= \dfrac {15 \times 2 \times 16} {2} \\\\
+&= \dfrac {15 \times \cancel {2}  \times 16} {\cancel {2} } \\\\
+&= 240 \ \text{g}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$Sugar 160 \ \text{g}, Eggs 4, Butter 213.33 \ \text{g}, Flour 240 \ \text{g}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -336,6 +536,25 @@ $28$
 
 $28$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$28$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$28$
+</code></pre>
 </div>
 </div>
 

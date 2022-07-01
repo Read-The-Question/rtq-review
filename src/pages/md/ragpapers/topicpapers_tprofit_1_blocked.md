@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-blocked"
 title: "TopicPaper - Profit - 1 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -67,6 +67,47 @@ $
 
 $\pounds 0.95$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 25 \% \ \text {of} \pounds 3.80 \\\\
+&= \dfrac {25} {100} \times 3.80 \\\\
+&= 0.25 \times 3.80 \\\\
+&= \pounds 0.95
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Sales Price} &= \text{Original Cost - Discount} \\\\
+                   &= 3.80 - (25 \% \ \text {of} \ \pounds 3.80 )\\\\
+                   &= \dfrac {25} {100} \times 3.80 \\\\
+                   &= \dfrac {25 \times 3.80} {100} \\\\
+                   &= \dfrac {25 \times 2 \times 2 \times 0.95} {2 \times 2 \times 25} \\\\
+                   &= \dfrac {\cancel{25} \times \cancel{2} \times \cancel{2} \times 0.95} {\cancel{2} \times \cancel{2} \times \cancel{25}} \\\\
+                   &= \pounds 0.95 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 0.95$
+</code></pre>
 </div>
 </div>
 

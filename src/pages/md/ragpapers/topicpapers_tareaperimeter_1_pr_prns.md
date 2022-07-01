@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-pr-prns"
 title: "TopicPaper - Areaperimeter - 1 - PR - PRNS"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,6 +58,40 @@ TODOANSWER
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 <ul class='subquestion lower-alpha'>
@@ -177,6 +211,104 @@ $16 \ \text {cm}^2, 16 \ \text{cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of the square A}            &= 8 \times 8 \\\\
+                                        &= 64 \ \text {cm}^2 \\\\
+\text {Perimeter of the square A}       &= 4 \times 8 \\\\
+                                        &= 32 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Width of the rectangle B}        &= 8 \ \text {cm} \\\\
+\text {Length of the rectangle B}       &= \dfrac {8} {2} \\\\
+                                        &= \dfrac {2 \times 4} {2} \\\\
+                                        &= \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
+                                        &= 4 \ \text{cm} \\\\
+\text {Area of the rectangle B}         &= 4 \times 8 \\\\
+                                        &= 32 \ \text {cm}^2 \\\\
+\text {Perimeter of the rectangle B}    &= 2 \times (4 + 8) \\\\
+                                        &= 2 \times 12 \\\\
+                                        &= 24 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Side of the square}              &= \dfrac {8} {2} \\\\
+                                        &= \dfrac {2 \times 4} {2} \\\\
+                                        &= \dfrac {\cancel {2} \times 4} {\cancel {2}} \\\\
+                                        &= 4 \ \text{cm} \\\\
+\text {Area of the square A}            &= 4 \times 4 \\\\
+                                        &= 16 \ \text {cm}^2 \\\\
+\text {Perimeter of the square A}       &= 4 \times 4 \\\\
+                                        &= 16 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$64 \ \text {cm}^2, 32 \ \text{cm}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$32 \ \text {cm}^2, 24 \ \text{cm}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16 \ \text {cm}^2, 16 \ \text{cm}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -283,6 +415,37 @@ $864 \ \text {cm}^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of the square}      &= 12 \times 12 \\\\
+                                &= 144 \ \text{cm}^2 \\\\
+\text {Area of the rectangle}   &= 6 \times \text {Area of a sqaure} \\\\
+                                &= 6 \times 144 \\\\
+                                &= 864 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$864 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -371,6 +534,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -417,6 +614,43 @@ $= 7a + 3$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_regular_polygon
+
+Let the side of the hexagon $= s$
+
+As per the question,
+
+$
+\begin{aligned}
+6 \times s  &= 42a + 18 \\\\
+6s          &= 42a + 18 \\\\
+s           &= \dfrac {42a + 18} {6} \\\\
+s           &= \dfrac {6 \times 7a + 6 \times 3} {6} \\\\
+s           &= \dfrac {6 \times (7a + 3)} {6} \\\\
+s           &= \dfrac {\cancel {6} \times (7a + 3)} {\cancel {6}} \\\\
+s           &= 7a + 3
+\end{aligned}
+$
+
+Length of the one side of hexagon $= 7a + 3$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$= 7a + 3$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -461,6 +695,42 @@ The regular polygon has 5 sides.
 
 5
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_regular_polygon
+
+Let the number of sides in polygon $= n$
+
+As per the question,
+
+$
+\begin{aligned}
+n \times (15b - 4)  &= 75b - 20 \\\\
+n                   &= \dfrac {75b - 20} {15b - 4} \\\\
+n                   &= \dfrac {5 \times 15b - 5 \times 4} {15b - 4} \\\\
+n                   &= \dfrac {5 \times (15b - 4)} {15b - 4} \\\\
+n                   &= \dfrac {5 \times (\cancel {15b - 4})} {\cancel {15b - 4}} \\\\
+n                   &= 5
+\end{aligned}
+$
+
+The regular polygon has 5 sides.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>5
+</code></pre>
 </div>
 </div>
 
@@ -517,6 +787,53 @@ $
 
 $36 \ \text{cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+Let the side of the sqaure $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times a         &= 4(c - 9) \\\\
+4a                 &= 4 \times (c - 9) \\\\
+a                  &= \dfrac {4 \times (c - 9)} {4} \\\\
+a                  &= \dfrac {\cancel {4} \times (c - 9)} {\cancel {4}} \\\\
+a                  &= c - 9 \\\\
+a                  &= 15 - 9 \\\\
+a                  &= 6 \ \text {cm}
+\end{aligned}
+$
+
+Let's find the area of the square.
+
+$
+\begin{aligned}
+\text {Area}            &= a \times a \\\\
+                        &= 6 \times 6 \\\\
+                        &= 36 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$36 \ \text{cm}^2$
+</code></pre>
 </div>
 </div>
 
@@ -613,6 +930,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -657,6 +1008,44 @@ $49 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_md_unit_no_dot_note.
+The original length is given in $\text{meters}$ while the new length measurement is given in $\text{cm}$.
+
+Let's convert the original measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Original length of cane}         &= 2.05 \ \text {m} \\\\
+                                        &= 2.05 \times 100 \ \text {cm} \\\\
+                                        &= 2.05 \times 100 \\\\
+                                        &= 205 \ \text {cm} \\\\
+\text {Legth of the cane snapped off}   &= \text {Original Length} - \text {New Length} \\\\
+                                        &= 205 - 156 \\\\
+                                        &= 49 \ \text {cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$49 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -693,6 +1082,37 @@ $
 
 14
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Number of packets}   &= \dfrac {\text {Area of the garden}} {\text {Area per packet of seeds}} \\\\
+                            &= \dfrac {158} {12} \\\\
+                            &= \dfrac {12 \times 14} {12} \\\\
+                            &= \dfrac {\cancel {12} \times 14} {\cancel {12}} \\\\
+                            &= 14
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>14
+</code></pre>
 </div>
 </div>
 
@@ -791,6 +1211,38 @@ $
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of stickers}  &= \dfrac {\text{Area of the wall}} {\text{Area of a sticker}} \\\\
+                           &= \dfrac {80 \times 45} {10 \times 5} \\\\
+                           &= \dfrac {8 \times 10 \times 5 \times 9} {10 \times 5} \\\\
+                           &= \dfrac {8 \times \cancel {10} \times \cancel {5} \times 9} {\cancel {10} \times \cancel {5}} \\\\
+                           &= 8 \times 9 \\\\
+                           &= 72
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>72
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -879,6 +1331,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -932,6 +1418,54 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
+
+rtq_abbr_katex_formula_face_area_cube
+
+Let the edge of the cube $= a$ 
+
+As per the question,
+
+$
+\begin{aligned}
+6 \times a \times a                       &= 96 \\\\
+6 \times a^2                              &= 96 \\\\
+a^2                                       &= \dfrac {96} {6} \\\\
+a^2                                       &= \dfrac {6 \times 16} {6} \\\\
+a^2                                       &= \dfrac {\cancel {6} \times 16} {\cancel {6}} \\\\
+a^2                                       &= 16 \\\\
+a                                         &= \sqrt {16} \\\\
+a                                         &= 4 \ \text{cm}
+\end{aligned}
+$
+
+Let's find the area of one face of the cube.
+
+$
+\begin{aligned}
+\text {Area of once face}       &= a \times a \\\\
+                                &= 4 \times 4 \\\\
+                                &= 16 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -977,6 +1511,46 @@ Length of one edge of cube $= 4 \ \text{cm}$
 
 $4 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
+
+rtq_abbr_katex_formula_face_area_cube
+
+Let the edge of the cube $= a$ 
+
+As per the question,
+
+$
+\begin{aligned}
+6 \times a \times a                       &= 96 \\\\
+6 \times a^2                              &= 96 \\\\
+a^2                                       &= \dfrac {96} {6} \\\\
+a^2                                       &= \dfrac {6 \times 16} {6} \\\\
+a^2                                       &= \dfrac {\cancel {6} \times 16} {\cancel {6}} \\\\
+a^2                                       &= 16 \\\\
+a                                         &= \sqrt {16} \\\\
+a                                         &= 4 \ \text{cm}
+\end{aligned}
+$
+
+Length of one edge of cube $= 4 \ \text{cm}$ 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 

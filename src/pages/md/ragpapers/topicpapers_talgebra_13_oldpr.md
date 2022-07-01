@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-13-oldpr"
 title: "TopicPaper - Algebra - 13 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -66,6 +66,49 @@ A quick check shows that $9$ and $4$ meets the criteria above.
 
 $4, 9$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b          &= 36 \\\\
+a - b                 &= 5
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error.
+
+
+Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+| Numbers   |  Multiplication  |  Difference  |
+|:-------:  |:----------------:|:------------:|
+| $36, 1$   | $36$             | $35$         |
+| $18, 2$   | $36$             | $16$         |
+| $12, 3$   | $36$             | $9$          |
+| $9, 4$    | $36$             | $5$          |
+
+
+A quick check shows that $9$ and $4$ meets the criteria above.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4, 9$
+</code></pre>
 </div>
 </div>
 
@@ -162,6 +205,32 @@ $
 
 $0, 0, 1, 1$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+246 + \boxed{\phantom{5} 0 \phantom{5} }         &= 246 \\\\
+246 - \boxed{\phantom{5} 0 \phantom{5} }         &= 246 \\\\
+246 \times \boxed{\phantom{5} 1 \phantom{5} }    &= 246 \\\\
+246 \div \boxed{\phantom{5} 1 \phantom{5} }      &= 246
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0, 0, 1, 1$
+</code></pre>
 </div>
 </div>
 
@@ -282,6 +351,65 @@ Second number $= 15$
 
 $25, 15$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the first number $= a$
+
+Let the second number $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a + b      &= 40   \\\\
+a - b      &= 10         
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a + b - (a - b)     &= 40 - 10 \\\\
+a + b -a + b        &= 30 \\\\
+2b                  &= 30 \\\\
+b                   &= \dfrac {30} {2} \\\\
+b                   &= 15
+\end{aligned}
+$
+
+Let's substitute the value of $b$ in one of the initial equations.
+
+$
+\begin{aligned} 
+a + b                          &= 40  \\\\
+a + 15                         &= 40 \\\\
+a                              &= 40 - 15 \\\\
+a                              &= 25
+\end{aligned}
+$
+
+First number $= 25$
+
+Second number $= 15$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25, 15$
+</code></pre>
 </div>
 </div>
 

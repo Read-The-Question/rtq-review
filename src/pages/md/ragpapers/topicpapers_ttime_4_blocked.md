@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-blocked"
 title: "TopicPaper - Time - 4 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -54,6 +54,33 @@ $377$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Aa per the question,
+
+$
+\begin{aligned}
+\text{The difference} &= \text{ present year} - \text{battle year}  \\\\
+&= 2022 - 1645 \\\\
+&= 377
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$377$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -98,6 +125,25 @@ A clock shows $14{:}27$.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -140,6 +186,45 @@ $3 \ \text{hrs} \ \ 55  \ \text{mins}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>APTQ,
+
+$
+\begin{aligned}
+\text{Time gap between} \ ( 10:32 ) \ \text{and}  \ ( 14:27 )\\\\
+\text{Let}  \ (10:32)  \ \text{be initial time}  , \text{and} \  (14:27) \  \text{final time} \\\\
+\text{Time takes by the clock to become} \ (11:00) \ \text{From initial time} &= (11:00 - 10:32) \\\\
+&= 28 \text{mins} \\\\\\\\
+\text{Time takes by the clock to become} \  (12:00 ) \  \text{From} \ (11:00) &= (12:00 - 11:00) \\\\
+&= 1 \text{hrs} \\\\\\\\
+\text{Time takes by the clock to become}  \ (13:00)\  \text{From}  \ (12:00) &= (13:00 - 12:00) \\\\
+&=  1 \text{hrs} \\\\\\\\
+\text{Time takes by the clock to become} \  (14:00 ) \ \text{From} \  (13:00) &= (14:00 - 13:00) \\\\
+&=  1 \text{hrs} \\\\\\\\
+\text{Time takes by the clock to become} \  (14:27 ) \ \text{From} \  (14:00) &= (14:00 - 14:27) \\\\
+&= 00:27 \text{hrs} \\\\\
+\text{Then add all the time difference between the time gaps} \\\\
+&=  28 \text{mins} + 1 \text{hrs}  + 1 \text{hrs} + 1 \text{hrs} + 00:27 \text{hrs} \\\\
+&=  3 \ \text{hrs} \ \ 55  \ \text{mins}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text{hrs} \ \ 55  \ \text{mins}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -168,6 +253,31 @@ $
 
 $9 \ \text{hrs} \ \  33 \ \text{mins}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{As we know the midnight will be at} &=  24:00 \\\\
+&=  24:00 - 14:27 \\\\
+&=  9 \ \text{hrs} \ \  33 \ \text{mins}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9 \ \text{hrs} \ \  33 \ \text{mins}$
+</code></pre>
 </div>
 </div>
 
@@ -234,6 +344,32 @@ $86{,}400$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{One minute has} &= 60 \ \text{seconds} \\\\
+\text{One hour has} &= 60 \ \text{minutes} \\\\
+\text{one day has } &= 24 \ \text{hours} \\\\
+\text{Thus,} \ \ 80  \ \text{x}  \ \ 60  \ \text{x} \ \ 24 &= 86{,}400  \ \text{seconds in a day.}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>E</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$86{,}400$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -296,6 +432,33 @@ $54 \ \text{mins}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{ I left home for school at}   &= 7.22 \ \text{am} \\\\
+\text{ I arrived at}   &= 8.16 \ \text{am} \\\\
+\text{So, the time gap between left home for school and arrived at school } \\\\
+&= 8.16 \ \text{am} - 7.22 \ \text{am} \\\\
+&= 54 \ \text{mins}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>E</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$54 \ \text{mins}$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -343,6 +506,25 @@ The timetable below shows the morning train times between St Albans and City Tha
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -363,6 +545,25 @@ The $0731$ train from Elstree get to Farringdon at $0800 \ \text{hours}$.
 
 $0800 \ \text{hours}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>The $0731$ train from Elstree get to Farringdon at $0800 \ \text{hours}$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0800 \ \text{hours}$
+</code></pre>
 </div>
 </div>
 
@@ -394,6 +595,32 @@ Time taken by train to travel from Radlett to City is $= 36 \ \text {minutes}$
 
 $= 36 \ \text {minutes}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Time taken}  &= 0803 - 0727 \\\\
+                    &= 36 \ \text {minutes}
+\end{aligned}
+$
+
+Time taken by train to travel from Radlett to City is $= 36 \ \text {minutes}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$= 36 \ \text {minutes}$
+</code></pre>
 </div>
 </div>
 
@@ -429,6 +656,33 @@ $11 \ \text{minutes longer}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Time taken by 0722}  &= 0745 - 0722 \\\\
+                            &= 23 \ \text {minutes} \\\\
+\text {Time taken by 0722}  &= 0710 - 0658 \\\\
+                            &= 12 \ \text {minutes}
+\end{aligned}
+$
+To reach from St Albans to West Hampstead the $0722$ train takes $= 23 - 12 = 11 \ \text{minutes}$ more as compared to $0658$ train.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11 \ \text{minutes longer}$ 
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -456,6 +710,29 @@ To reach the City no later than eight o'clock, someone should catch from St Alba
 
 $0728$ 
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>The train which reaches the City before $0800$ is the train reaching at $0755$.
+
+The $0755$ train start at St Albans at $0728$
+
+To reach the City no later than eight o'clock, someone should catch from St Albans the train at $0728$ 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0728$ 
+</code></pre>
 </div>
 </div>
 
@@ -507,6 +784,47 @@ The latest time that Roweena need to leave her house is $= 0719$.
 
 $0719$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per question,
+
+$
+\begin{aligned} 
+\text{Check in time}               & = 0855 - 30 \ \text{min} \\\\
+                                   & = 0825 \\\\
+\text{Time to change platforms}    & = 0825 - 10 \ \text{min} \\\\
+                                   & = 0815
+\end{aligned}
+$
+
+Roweena should reach St Pancras with a train reaching before $0815$.
+
+The train reaching St Pancras  before $0815$ is the $0812$ train, starting at St Albans at $0744$ 
+
+$
+\begin{aligned} 
+\text{Time taken walking from house to St. Albans} & = 0744 - 25 \ \text{min} \\\\
+                                                   & = 0719
+\end{aligned}
+$
+
+The latest time that Roweena need to leave her house is $= 0719$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0719$
+</code></pre>
 </div>
 </div>
 

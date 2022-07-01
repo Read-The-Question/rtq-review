@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-g0"
 title: "TopicPaper - Probability - 2 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -62,6 +62,44 @@ There are $105$ white counters in the bag.
 
 $105$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the white counters $= a$
+
+As per the question,
+
+Total counters $= 24 + 15 + a$
+
+rtq_abbr_katex_formula_aligned_probability
+
+$
+\begin{aligned}
+\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
+\dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
+24 + 15 + a                                      &= 24 \times 6 \\\\
+a + 39                                           &= 144 \\\\
+a                                                &= 144 - 39 \\\\
+a                                                &= 105
+\end{aligned}
+$
+
+There are $105$ white counters in the bag.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$105$
+</code></pre>
 </div>
 </div>
 
@@ -159,6 +197,44 @@ $82$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the blue counters $= a$
+
+As per the question,
+
+Total counters $= 32 + 14 + a$
+
+rtq_abbr_katex_formula_aligned_probability
+
+$
+\begin{aligned}
+\text {Probability of choosing a white counter is} &= \dfrac {\text {White counters}} {\text {Total counters}} \\\\
+\dfrac {1} {4}                                     &= \dfrac {32} {32 + 14 + a} \\\\
+32 + 14 + a                                        &= 32 \times 4 \\\\
+a + 46                                             &= 128 \\\\
+a                                                  &= 128 - 46 \\\\
+a                                                  &= 82
+\end{aligned}
+$
+
+There are 82 blue counters in the bag.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$82$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -234,6 +310,25 @@ A box contains $7$ red smarties, $4$ blue smarties, $5$ orange smarties and $2$ 
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -261,6 +356,31 @@ $
 
 $\dfrac {7} {18}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+rtq_abbr_katex_formula_aligned_probability \\\\
+                    &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {7} {18}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {7} {18}$
+</code></pre>
 </div>
 </div>
 
@@ -297,6 +417,34 @@ $\dfrac {1} {3}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+rtq_abbr_katex_formula_aligned_probability \\\\
+                    &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {6} {18} \\\\
+                    &= \dfrac {6} {6 \times 3} \\\\
+                    &= \dfrac {\cancel {6}} {\cancel {6} \times {3}} \\\\
+                    &= \dfrac {1} {3}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {3}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -326,6 +474,31 @@ $
 
 $\dfrac {13} {18}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+rtq_abbr_katex_formula_aligned_probability \\\\
+                    &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
+                    &= \dfrac {13} {18}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {13} {18}$
+</code></pre>
 </div>
 </div>
 
@@ -496,6 +669,91 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+If we read the question carefully, similar set of events are repeated and **we have to derive if the phrases are correct for the 
+inter-related statements for all the events**.
+
+Let's check the probability of outcomes of Events A, B C and D step by step and draw out interpretation at end.
+
+
+$
+\begin{aligned} 
+rtq_abbr_katex_formula_aligned_probability \\\\
+\end{aligned}
+$
+
+We will compare the possibilties to derive which statement fits which two given events. 
+
+|   | Event                 | Favorable Outcome | Total Outcome   |  Probability    |
+|---|-----------------------|-------------------|:---------------:|:---------------:|
+| A | either a $5$ or a $6$ | $5$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
+| B | an even number        | $2, 3$ and $6 = 3$|       $6$       | $\dfrac {3}{6}$ |
+| C | a prime number        | $2, 3$ and $5 = 3$|       $6$       | $\dfrac {3}{6}$ |
+| D | a multiple of $3$     | $3$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
+
+
+Now lets **inspect** the statements.
+
+Statement 1 : A $\text{\textunderscore \textunderscore \textunderscore}$ B.
+
+$
+\begin{aligned} 
+    \text{A}             & : \text{B}             \\\\
+    \dfrac {2}{6}        & : \dfrac {3}{6}        \\\\
+    \text{Probability A} & < \text{Probability B} 
+\end{aligned}
+$
+
+A $\underline {\text {is less likely to happen than}}$ B.
+
+
+
+Statement 2 : B $\text{\textunderscore \textunderscore \textunderscore}$ C.
+
+$
+\begin{aligned} 
+    \text{B}             & : \text{C}             \\\\
+    \dfrac {3}{6}        & : \dfrac {3}{6}        \\\\
+    \text{Probability B} & < \text{Probability C} 
+\end{aligned}
+$
+
+B $\underline {\text {has the same chance of happening as}}$ C.
+
+Statement 3 : C $\text{\textunderscore \textunderscore \textunderscore}$ D.
+
+$
+\begin{aligned} 
+    \text{C}             & : \text{D}             \\\\
+    \dfrac {3}{6}        & : \dfrac {2}{6}        \\\\
+    \text{Probability C} & < \text{Probability D} 
+\end{aligned}
+$
+
+C $\underline {\text {is more likely to happen than}}$ D.
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>A $\underline {\text {is less likely to happen than}}$ B.
+
+B $\underline {\text  {has the same chance of happening as}}$ C.
+
+C $\underline {\text  {is more likely to happen than}}$ D.
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -595,6 +853,47 @@ $\text {Getting a head with a fair coin}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
+
+$
+\begin{aligned} 
+rtq_abbr_katex_formula_aligned_probability \\\\
+                    &= \dfrac {1} {6}
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned} 
+rtq_abbr_katex_formula_aligned_probability \\\\
+                    &= \dfrac {1} {2} \\\\
+                    &= \dfrac {1 \times 3} {2 \times 3} \\\\
+                    &= \dfrac {3} {6}
+\end{aligned}
+$
+
+Using the calculation above $\dfrac {3} {6} > \dfrac {1} {6}$.
+
+So it is more likely to get a head with a fair coin than rolling a $3$ with an unbiased die with six faces.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {Getting a head with a fair coin}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -681,6 +980,33 @@ $
 
 $\dfrac { 11 } {  20 }$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>**NOT** selecting a red counter is same as selecting a blue or yellow counter instead.
+
+$
+\begin{aligned} 
+rtq_abbr_katex_formula_aligned_probability \\\\
+                    &= \dfrac { 6 +  5 } {  6 + 5 + 9 } \\\\
+                    &= \dfrac { 11 } {  20 }
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac { 11 } {  20 }$
+</code></pre>
 </div>
 </div>
 
@@ -773,6 +1099,38 @@ $\dfrac { 6 } { 25 }$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned} 
+\text{Count of multiples of } 4 \text{ in green}    &= 4, 8, 12, 16, 20 \\\\
+                                                    &= 5 \\\\
+\text{Count of multiples of } 4 \text{ in blue}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
+                                                    &= 7 \\\\
+rtq_abbr_katex_formula_aligned_probability \\\\
+                                                    &= \dfrac { 5 + 7 } {  50 } \\\\
+                                                    &= \dfrac { 12 } {  50 } \\\\
+                                                    &= \dfrac { 2 \times 6 } {  2 \times 25 } \\\\
+                                                    &= \dfrac { \cancel{2} \times 6 } {  \cancel{2} \times 25 } \\\\
+                                                    &= \dfrac { 6 } { 25 }
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac { 6 } { 25 }$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -856,6 +1214,33 @@ $
 
 $\dfrac {11} {20}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>**NOT** selecting a red disc is same as selecting a blue or yellow disc instead.
+
+$
+\begin{aligned} 
+rtq_abbr_katex_formula_aligned_probability \\\\
+&= \dfrac {6 + 5} {6 + 5 + 9} \\\\
+&= \dfrac {11} {20}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {11} {20}$
+</code></pre>
 </div>
 </div>
 

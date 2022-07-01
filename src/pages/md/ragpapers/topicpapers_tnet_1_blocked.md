@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnet-1-blocked"
 title: "TopicPaper - Net - 1 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,6 +57,27 @@ After assuming a cube , and pointing side we get that the opposite side of $M$ i
 
 $U$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+After assuming a cube , and pointing side we get that the opposite side of $M$ is $U$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$U$
+</code></pre>
 </div>
 </div>
 

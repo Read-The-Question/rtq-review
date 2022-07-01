@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-pr-prns"
 title: "TopicPaper - Fraction - 3 - PR - PRNS"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -55,6 +55,33 @@ $
 
 $\dfrac {9} {70}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {total Footwear} &= \text {boots} + \text {shoes} \\\\
+                       &= 9 + 63 \\\\
+                       &= 70
+\text {fraction}       &= \dfrac {\text {boots}} {\text {Total Footwear}} \\\\
+                       &= \dfrac {9} {70}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {9} {70}$
+</code></pre>
 </div>
 </div>
 
@@ -146,6 +173,38 @@ therefore $\dfrac {5} {12}$ is the smallest fraction.
 
 $\dfrac {5} {12}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's write all the fractions in decimals.
+
+$
+\begin{aligned}
+\dfrac {3} {4}  &= 0.75 \\\\
+\dfrac {2} {3}  &= 0.66 \\\\
+\dfrac {5} {12} &= 0.41 \\\\
+\dfrac {9} {4}  &= 2.25 \\\\
+\end{aligned}
+$
+
+$0.41$ is the smallest amongst all.
+
+therefore $\dfrac {5} {12}$ is the smallest fraction.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {5} {12}$
+</code></pre>
 </div>
 </div>
 
@@ -247,6 +306,47 @@ $\dfrac{3+4}{2+3}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\dfrac {1+2} {2+3} &= \dfrac {3} {5} \\\\
+                   &= \dfrac {3 \times 4} {5 \times 4} \\\\
+                   &= \dfrac {12} {20} \\\\
+\dfrac{2+4}{2+3}   &= \dfrac {6} {5} \\\\
+                   &= \dfrac {6 \times 4} {5 \times 4} \\\\
+                   &= \dfrac {24} {20} \\\\
+\dfrac{1+2}{4+6}   &= \dfrac {3} {10} \\\\
+                   &= \dfrac {3 \times 2} {10 \times 2} \\\\
+                   &= \dfrac {6} {20} \\\\
+\dfrac{3+4}{2+3}   &= \dfrac {7} {5} \\\\
+                   &= \dfrac {7 \times 4} {5 \times 4} \\\\
+                   &= \dfrac {28} {20} \\\\
+\dfrac{1+4}{1+3}   &= \dfrac {5} {4} \\\\
+                   &= \dfrac {5 \times 5} {4 \times 5} \\\\
+                   &= \dfrac {25} {20}
+\end{aligned}
+$
+
+$\dfrac {28} {20}$ is the biggest amongst all.
+
+Therefore, $\dfrac{3+4}{2+3}$ is the biggest.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3+4}{2+3}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -328,6 +428,25 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -356,6 +475,33 @@ $
 
 $8$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {1} {4} \times 32 \\\\
+&= \dfrac {32} {4} \\\\
+&= \dfrac {8 \times 4} {4} \\\\
+&= \dfrac {8 \times \cancel{4}} {\cancel{4}} \\\\
+&= 8
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
 </div>
 </div>
 
@@ -395,6 +541,40 @@ $
 
 $20$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {students whos favourite colour is NOT Blue} &= \text {students with favourite colour Red} + \text {students with favourite colour Green} + \text {students with favourite colour Pink} \\\\
+                                                   &= \dfrac {1} {4} \times 32 + \dfrac {1} {4} \times 32 + \dfrac {1} {8} \times 32 \\\\
+                                                   &= 32 \bigg ( \dfrac {1} {4} + \dfrac {1} {4} + \dfrac {1} {8} \bigg ) \\\\
+                                                   &= 32 \bigg ( \dfrac {2} {4 \times 2} + \dfrac {2} {4 \times} + \dfrac {1} {8} \bigg ) \\\\
+                                                   &= 32 \bigg ( \dfrac {2} {8} + \dfrac {2} {8} + \dfrac {1} {8} \bigg ) \\\\
+                                                   &= 32 \bigg ( \dfrac {2 + 2 + 1} {8} \bigg ) \\\\
+                                                   &= 32 \bigg ( \dfrac {5} {8} \bigg ) \\\\
+                                                   &= \dfrac {5 \times 32} {8} \\\\
+                                                   &= \dfrac {5 \times 4 \times 8} {8} \\\\
+                                                   &= \dfrac {5 \times 4 \times \cancel{8}} {\cancel{8}} \\\\
+                                                   &= 5 \times 4 \\\\
+                                                   &= 20
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20$
+</code></pre>
 </div>
 </div>
 
@@ -488,6 +668,37 @@ $
 
 $\dfrac {1} {6}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the fraction be $=x$.
+
+$
+\begin{aligned}
+\text {x of 2.4 litres}                    &= 400 \ \text{ml} \\\\
+x \ \text {of} 2.4 \times 1000 \ \text{ml} &= 400 \ \text{ml} \\\\
+x \times 2400                              &= 400 \\\\
+x                                          &= \dfrac {400} {2400} \\\\
+                                           &= \dfrac {400} {400 \times 6} \\\\
+                                           &= \dfrac {\cancel{400}} {\cancel{400} \times 6} \\\\
+                                           &= \dfrac {1} {6}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {6}$
+</code></pre>
 </div>
 </div>
 

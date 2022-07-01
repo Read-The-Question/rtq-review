@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-oldpr"
 title: "TopicPaper - Algebra - 15 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -72,6 +72,51 @@ Autumn's number $= 2 \times 6 = 12$.
 
 $12$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Celia’s number $= a$.
+
+and let Autumn's number $= b$.
+
+As per the question, 
+
+$a - b = a$ 
+
+which gives, $b = 2a$.
+
+Using this, we get 
+
+$
+\begin {aligned}
+a \times b   &= 72 \\\\
+a \times 2a  &= 72 \\\\
+2a ^ 2       &= 72 \\\\
+a ^ 2        &= \dfrac {72} {2} \\\\
+a ^ 2        &= \dfrac {36 \times 2} {2} \\\\
+a ^ 2        &= \dfrac {36 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2        &= 36 \\\\
+a            &= \sqrt {36} \\\\
+a            &= 6
+\end {aligned}
+$
+
+Autumn's number $= 2 \times 6 = 12$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12$
+</code></pre>
 </div>
 </div>
 

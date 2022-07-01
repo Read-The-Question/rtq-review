@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-5-notstarted"
 title: "TopicPaper - Money - 5 - NOTSTARTED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -55,6 +55,31 @@ Two $10 \text{p}$ coins.
 One $5 \text{p}$ coin.
 One $2 \text{p}$ coin.
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>One $50 \text{p}$ coin.
+Two $10 \text{p}$ coins.
+One $5 \text{p}$ coin.
+One $2 \text{p}$ coin.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>One $50 \text{p}$ coin.
+Two $10 \text{p}$ coins.
+One $5 \text{p}$ coin.
+One $2 \text{p}$ coin.
+</code></pre>
 </div>
 </div>
 

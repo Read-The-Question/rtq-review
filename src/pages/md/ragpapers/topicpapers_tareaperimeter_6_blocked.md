@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-blocked"
 title: "TopicPaper - Areaperimeter - 6 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -74,6 +74,42 @@ $35 cm^2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>According to question,
+ 
+area of non-overlapping squares $=90 cm^2$
+
+area of non-overlapping of one squares $=90 cm^2 \div 3$
+
+$ 90 \div{3} = 30cm^2$
+
+area of overlapping parts $=2cm^2,3cm^2,4cm^2$
+
+area of one square $= area of non-overlapping of one square + area of 2 overlapping parts$
+
+$
+\begin{aligned}
+&= 30cm^2 + 2cm^2 +3cm^2 \\\\
+&=   35 cm^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$35 cm^2$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -135,6 +171,36 @@ $
 
 $80 \ \text {cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Since the rectangles are overlapping at four places, we need to subtract those area from the total.
+
+$
+\begin{aligned}
+\text {Area of the table covered} &= \text {Total area of rectangles} - \text {overlapping area} \\\\
+                                  &= (12 \times 2 \times 4) - (2 \times 2 \times 4) \\\\
+                                  &= 96 - 16 \\\\
+                                  &= 80 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$80 \ \text {cm}^2$
+</code></pre>
 </div>
 </div>
 
@@ -200,6 +266,39 @@ $
 
 $4 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the side of the square hole $= a$
+
+$
+\begin{aligned}
+\text{Area of two square holes} &= \text{Area of the rectangular sheet} - \text{Left area} \\\\
+2 \times a ^ 2                  &= 10 \times 9 - 58 \\\\
+2 \times a ^ 2                  &= 90 - 58 \\\\
+2 \times a ^ 2                  &= 32 \\\\
+a ^ 2                           &= \dfrac {32} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
+a                               &= \sqrt 16 \\\\
+a                               &= 4 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 

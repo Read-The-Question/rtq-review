@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-trecipe-1-g0"
 title: "TopicPaper - Recipe - 1 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -55,6 +55,25 @@ $2$ eggs
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -83,6 +102,33 @@ $
 
 $540 \ \text{g}$ flour
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
+
+$
+\begin{aligned}
+12  \text{ cupcakes}                 &: 180 \ \text{g flour} \\\\
+12  \times 3 \text{ cupcakes}         &: 180 \times 3 \ \text{g flour} \\\\
+36 \text{ cupcakes}                 &: 540 \ \text{g flour}                       
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$540 \ \text{g}$ flour
+</code></pre>
 </div>
 </div>
 
@@ -119,6 +165,34 @@ $
 
 $60$ cupcakes
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin{aligned}
+12  \text{ cupcakes}                 &: 200 \ \text{g caster sugar} \\\\
+12 \times 5 \text{ cupcakes}         &: 200 \times 5\ \text{g caster sugar} \\\\
+60 \text{ cupcakes}                 &: 1000 \text{g caster sugar} \\\\
+60 \text{ cupcakes}                 &: 1 \text{kg caster sugar}                      
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$60$ cupcakes
+</code></pre>
 </div>
 </div>
 
@@ -216,6 +290,25 @@ $4$ eggs
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -243,6 +336,32 @@ $
 
 $115 \ \text{grams}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Flour required to make 12 fairy cakes} &= \dfrac {230} {2} \\\\
+                                             &= \dfrac {115 \times 2} {2} \\\\
+                                             &= \dfrac {115 \times \cancel {2}} {\cancel {2}} \\\\
+                                             &= 115 \ \text{grams}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$115 \ \text{grams}$
+</code></pre>
 </div>
 </div>
 
@@ -308,6 +427,51 @@ $345 \ \text{grams}, \ 345 \ \text{grams} , \ 345 \ \text{grams}, \ 6$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Flour required} &= 230 \times \dfrac {3} {2} \\\\
+                      &= \dfrac {230 \times 3} {2} \\\\
+                      &= \dfrac {115 \times 2 \times 3} {2} \\\\
+                      &= \dfrac {115\times \cancel{2} \times 3} {\cancel{2}} \\\\
+                      &= 115 \times 3 \\\\
+                      &= 345 \ \text{grams}
+\end{aligned}
+$
+
+Similarly
+
+Butter required $= 345 \ \text{grams}$
+
+Sugar required $= 345 \ \text{grams}$
+
+$
+\begin{aligned}
+\text{Eggs required}  &= 4 \times \dfrac {3} {2} \\\\
+                      &= \dfrac {4 \times 3} {2} \\\\
+                      &= \dfrac {2 \times 2 \times 3} {2} \\\\
+                      &= \dfrac {2 \times \cancel {2} \times 3} {\cancel {2}} \\\\
+                      &= 2 \times 3 \\\\
+                      &= 6
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$345 \ \text{grams}, \ 345 \ \text{grams} , \ 345 \ \text{grams}, \ 6$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -342,6 +506,34 @@ $
 
 $45 \ \text{grams}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Cocoa powder used} &= 60 \times \dfrac {3} {4} \\\\
+                         &= \dfrac {60 \times 3} {4} \\\\
+                         &= \dfrac {15 \times 4 \times 3} {4} \\\\
+                         &= \dfrac {15 \times \cancel {4} \times 3} {\cancel {4}} \\\\
+                         &= 15 \times 3 \\\\
+                         &= 45 \ \text{grams}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$45 \ \text{grams}$
+</code></pre>
 </div>
 </div>
 
@@ -436,6 +628,25 @@ $80 \ \text{millilitres}$ olive oil
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -465,6 +676,32 @@ $
 
 $70 \ \text{grams}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Mass of oatmeal required} &= \dfrac {140} {2} \\\\
+                                &= \dfrac {70 \times 2} {2} \\\\
+                                &= \dfrac {70 \times \cancel {2}} {\cancel {2}} \\\\
+                                &= 70 \ \text{grams}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$70 \ \text{grams}$
+</code></pre>
 </div>
 </div>
 
@@ -502,6 +739,34 @@ $
 
 $90$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Largest number of oatcakes that can be made} &= \dfrac {400} {80} \times 18 \\\\
+                                                   &= \dfrac {400 \times 18} {80} \\\\
+                                                   &= \dfrac {80 \times 5 \times 18} {80} \\\\
+                                                   &= \dfrac {\cancel {80} \times 5 \times 18} {\cancel {80}} \\\\
+                                                   &= 5 \times 18 \\\\
+                                                   &= 90
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$90$
+</code></pre>
 </div>
 </div>
 
@@ -567,6 +832,58 @@ $
 
 $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{millilitres}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Oatmeal required} &= \dfrac {9} {6} \times 140 \\\\
+                        &= \dfrac {9 \times 140} {6} \\\\
+                        &= \dfrac {3 \times 3 \times 2 \times 70} {2 \times 3} \\\\
+                        &= \dfrac {3 \times \cancel {3} \times \cancel {2} \times 70} {\cancel {2} \times \cancel {3}} \\\\
+                        &= 3 \times 70 \\\\
+                        &= 210 \ \text{grams}
+\end{aligned}
+$
+
+Similarly Porridge oats required $= 210 \ \text{grams}$
+
+$
+\begin{aligned}
+\text{Black pepper required} &= \dfrac {9} {6} \times 10 \\\\
+                             &= \dfrac {9 \times 10} {6} \\\\
+                             &= \dfrac {3 \times 3 \times 2 \times 5} {2 \times 3} \\\\
+                             &= \dfrac {3 \times \cancel {3} \times \cancel {2} \times 5} {\cancel {2} \times \cancel {3}} \\\\
+                             &= 3 \times 5 \\\\
+                             &= 15 \ \text{twists}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Olive oil required} &= \dfrac {9} {6} \times 80 \\\\
+                          &= \dfrac {9 \times 80} {6} \\\\
+                          &= \dfrac {3 \times 3 \times 2 \times 40} {2 \times 3} \\\\
+                          &= \dfrac {3 \times \cancel {3} \times \cancel {2} \times 40} {\cancel {2} \times \cancel {3}} \\\\
+                          &= 3 \times 40 \\\\
+                          &= 120 \ \text{millilitres}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{millilitres}$
+</code></pre>
 </div>
 </div>
 

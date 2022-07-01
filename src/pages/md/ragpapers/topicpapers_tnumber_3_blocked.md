@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-blocked"
 title: "TopicPaper - Number - 3 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -116,6 +116,81 @@ $
 
 $27400, 169, 7, 5, 64, 0.8, 1634$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 2.74 \times 10000 \\\\
+&= 27400
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 13^2 \\\\
+&= 13 \times 13 \\\\
+&= 169
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 49 \\\\
+&= \sqrt {49} \\\\
+&= \sqrt {7^2} \\\\
+&= 7
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 125 \\\\
+&= \sqrt [3] {125} \\\\
+&= \sqrt [3] {5^3} \\\\
+&= 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 4^3 \\\\
+&= 64
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= \dfrac {240} {300} \\\\
+&= \dfrac {24 \cancel {0} } {30\cancel {0} } \\\\
+&= \dfrac {24} {3 \times 10} \\\\
+&= \dfrac {8 \times \cancel {3} } {\cancel {3} \times 10} \\\\
+&= \dfrac {8} {10} \\\\
+&= 0.8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 43 \times 38 \\\\
+&= 1634
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27400, 169, 7, 5, 64, 0.8, 1634$
+</code></pre>
 </div>
 </div>
 

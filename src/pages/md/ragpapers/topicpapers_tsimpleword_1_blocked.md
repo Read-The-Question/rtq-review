@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-blocked"
 title: "TopicPaper - Simpleword - 1 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -80,6 +80,59 @@ $80 \%$ of $20 \%$ of $200$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Calculation for $90 \%$ of $10 \%$ of $300$ ,
+
+$
+\begin{aligned} 
+&= 90 \% \text { of } 10 \% \text { of } 300                    \\\\
+&= 90 \% \times 10 \% \times 300                                \\\\
+&= \dfrac {90} {100} \times \dfrac {10} {100} \times 300        \\\\
+&= \dfrac {90 \times 10 \times 300} {100 \times 100}            \\\\
+&= \dfrac {900 \times 300} {100 \times 100}                     \\\\
+&= \dfrac {9 \times 100 \times 3 \times 100} {100 \times 100}   \\\\
+&= \dfrac {9 \times \cancel {100} \times 3 \times \cancel {100}} {\cancel {100} \times \cancel {100}}   \\\\
+&= 9 \times 3                                                   \\\\
+&= 27
+\end{aligned}
+$
+
+Calculation for $80 \%$ of $20 \%$ of $200$ ,
+
+$
+\begin{aligned} 
+&= 80 \% \text { of } 20 \% \text { of } 200                    \\\\
+&= 80 \% \times 20 \% \times 200                                \\\\
+&= \dfrac {80} {100} \times \dfrac {20} {100} \times 200        \\\\
+&= \dfrac {80 \times 20 \times 200} {100 \times 100}            \\\\
+&= \dfrac {1600 \times 200} {100 \times 100}                     \\\\
+&= \dfrac {16 \times 100 \times 2 \times 100} {100 \times 100}   \\\\
+&= \dfrac {16 \times \cancel {100} \times 2 \times \cancel {100}} {\cancel {100} \times \cancel {100}}   \\\\
+&= 16 \times 2                                                   \\\\
+&= 32
+\end{aligned}
+$
+
+From the above Calculations, its Observed that 32 > 27,
+
+Therefore, $80 \%$ of $20 \%$ of $200$ is greater then $90 \%$ of $10 \%$ of $300$ .
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$80 \%$ of $20 \%$ of $200$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -128,6 +181,30 @@ $
 
 $146$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= 170 - 24 \\\\
+&= 146
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$146$
+</code></pre>
 </div>
 </div>
 

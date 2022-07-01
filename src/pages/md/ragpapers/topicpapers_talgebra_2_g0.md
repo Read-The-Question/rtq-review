@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-g0"
 title: "TopicPaper - Algebra - 2 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -44,6 +44,25 @@ talgebra
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -75,6 +94,34 @@ $
 
 $23 \ \text{tables}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{Tables needed}                          &= \dfrac {\text{Total pupils}} {\text{Pupil per table}} \\\\
+                                              &= \dfrac {180} {8} \\\\
+                                              &= 22 \dfrac {4} {8} \\\\
+                                              &= 23
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$23 \ \text{tables}$
+</code></pre>
 </div>
 </div>
 
@@ -116,6 +163,39 @@ The number of monthly payments $= 9$
 
 $9$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of monthly payments $= m$
+
+$
+\begin{aligned}
+50 + 25m                                      &= 275 \\\\
+25m                                           &= 275 - 50 \\\\
+25m                                           &= 225 \\\\
+m                                             &= \dfrac {225} {25} \\\\
+m                                             &= \dfrac {9 \times 25} {25} \\\\
+m                                             &= \dfrac {9 \times \cancel{25}} {\cancel{25}} \\\\
+m                                             &= 9
+\end{aligned}
+$
+
+The number of monthly payments $= 9$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9$
+</code></pre>
 </div>
 </div>
 
@@ -163,6 +243,44 @@ Number of girls at Lily's school $= 265$
 
 $265 \ \text{girls}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of girls $= g$
+
+Number of boys $= g - 30$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of girls} + \text{Number of boys}       &= \text{Total pupils} \\\\
+g + (g - 30)                                         &= 500 \\\\
+2g                                                   &= 500 + 30 \\\\
+2g                                                   &= 530 \\\\
+g                                                    &= \dfrac {530} {2} \\\\
+g                                                    &= \dfrac {2 \times 265} {2} \\\\
+g                                                    &= \dfrac {\cancel{2} \times 265} {\cancel{2}} \\\\
+g                                                    &= 265
+\end{aligned}
+$
+
+Number of girls at Lily's school $= 265$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$265 \ \text{girls}$
+</code></pre>
 </div>
 </div>
 
@@ -257,6 +375,35 @@ $\pounds 10.08$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Money left to spent} &= 20 - (4.88 + \dfrac {1} {3} \times (20 - 4.88)) \\\\
+                           &= 20 - (4.88 + \dfrac {1} {3} \times 15.12) \\\\
+                           &= 20 - (4.88 + \dfrac {15.12} {3}) \\\\
+                           &= 20 - (4.88 + 5.04) \\\\
+                           &= 20 - (4.88 + 5.04) \\\\
+                           &= 20 - 9.92 \\\\
+                           &= \pounds 10.08
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 10.08$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -332,6 +479,25 @@ If $u = 2$, $v = -5$ and $w = -3$, find the value of:
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -362,6 +528,34 @@ $
 
 $7$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
+\begin{aligned}
+&= u - v \\\\
+&= 2 - (-5) \\\\
+&= 2 + 5 \\\\
+&= 7
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7$
+</code></pre>
 </div>
 </div>
 
@@ -399,6 +593,35 @@ $10$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
+\begin{aligned}
+&= u - (v + w) \\\\
+&= 2 - (-5 + (-3)) \\\\
+&= 2 - (-8) \\\\
+&= 2 + 8 \\\\
+&= 10
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -431,6 +654,34 @@ $
 
 $-2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
+\begin{aligned}
+&= v - w \\\\
+&= -5 - (-3) \\\\
+&= -5 + 3 \\\\
+&= -2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$-2$
+</code></pre>
 </div>
 </div>
 
@@ -466,6 +717,35 @@ $
 
 $0$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
+\begin{aligned}
+&= u - (w - v) \\\\
+&= 2 - (-3 - (-5)) \\\\
+&= 2 - (-3 + 5) \\\\
+&= 2 - 2 \\\\
+&= 0
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0$
+</code></pre>
 </div>
 </div>
 
@@ -598,6 +878,70 @@ $1,6,21,20$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing numerator $= a,b,c$
+
+Let the missing denominator $= d$
+
+$
+\begin{aligned}
+\dfrac {a} {3} &= \dfrac {2} {6} \\\\
+a              &= \dfrac {2 \times 3} {6} \\\\
+a              &= \dfrac {6} {6} \\\\
+a              &= \dfrac {\cancel {6}} {\cancel {6}} \\\\
+a              &= 1
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {b} {18} &= \dfrac {2} {6} \\\\
+b               &= \dfrac {2 \times 18} {6} \\\\
+b               &= \dfrac {2 \times 3 \times 6} {2 \times 3} \\\\
+b               &= \dfrac {\cancel {2} \times \cancel {3} \times 6} {\cancel {2} \times \cancel {3}} \\\\
+b               &= 6
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {7} {d}          &= \dfrac {2} {6} \\\\
+\dfrac {7 \times 6} {2} &= d \\\\
+d                       &= \dfrac {7 \times 6} {2} \\\\
+d                       &= \dfrac {7 \times 2 \times 3} {2} \\\\
+d                       &= \dfrac {7 \times \cancel {2} \times 3} {\cancel {2}} \\\\
+d                       &= 7 \times 3 \\\\
+d                       &= 21
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {c} {60}  &= \dfrac {2} {6} \\\\
+c                &= \dfrac {2 \times 60} {6} \\\\
+c                &= \dfrac {2 \times 6 \times 10} {6} \\\\
+c                &= \dfrac {2 \times \cancel {6} \times 10} {\cancel {6}} \\\\
+c                &= 2 \times 10 \\\\
+c                &= 20
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1,6,21,20$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -672,6 +1016,25 @@ $\text {Money left} = \pounds (330 - X)$
 
 $\text {Money left} = \pounds (330 - X)$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\text {Money left} = \pounds (330 - X)$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {Money left} = \pounds (330 - X)$
+</code></pre>
 </div>
 </div>
 
@@ -763,6 +1126,33 @@ $\pounds 1158$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+\text {School pays} &= \text {No. of students receiving badge} \times \text {Cost of one badge} \\\\
+                    &= 193 \times 6 \\\\
+                    &= \pounds 1158
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1158$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -852,6 +1242,41 @@ The number is $= 7$.
 
 $7$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$.
+
+As per the question,
+
+$
+\begin {aligned}
+6 \times a - 4  &= 4 \times a + 10 \\\\
+6a - 4a         &= 10 + 4 \\\\
+2a              &= 14 \\\\
+a               &= \dfrac {14} {2} \\\\
+a               &= \dfrac {7 \times 2} {2} \\\\
+a               &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+a               &= 7
+\end {aligned}
+$
+
+The number is $= 7$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7$
+</code></pre>
 </div>
 </div>
 

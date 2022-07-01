@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-blocked"
 title: "TopicPaper - Algebra - 14 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -75,6 +75,54 @@ $1$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+Let the first number $= a$.
+
+Let the second number $= b$.
+
+As per the question,
+
+$a + b = 15$.
+
+$ab = 56$.
+
+As we know, $(a - b) ^ 2 = a ^ 2 + b ^ 2 - 2ab$.
+
+and $(a + b) ^ 2 = a ^ 2 + b ^ 2 + 2ab$.
+
+Using this we get,
+
+$
+\begin {aligned}
+(a - b) ^ 2  &= a ^ 2 + b ^ 2 - 2ab \\\\
+(a - b) ^ 2  &= a ^ 2 + b ^ 2 - (4ab - 2ab) \\\\
+(a - b) ^ 2  &= (a ^ 2 + b ^ 2 + 2ab) - 4ab \\\\
+(a - b) ^ 2  &= (a + b) ^ 2 - 4ab \\\\
+(a - b) ^ 2  &= (15) ^ 2 - 4 \times 56 \\\\
+(a - b) ^ 2  &= 225 - 224 \\\\
+(a - b) ^ 2  &= 1 \\\\
+a - b        &= \sqrt {1} \\\\
+a - b        &= 1
+\end {aligned}
+$  
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -131,6 +179,25 @@ $36$
 
 $36$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$36$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$36$
+</code></pre>
 </div>
 </div>
 

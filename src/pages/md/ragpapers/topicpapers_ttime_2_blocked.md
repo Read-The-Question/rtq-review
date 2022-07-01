@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-blocked"
 title: "TopicPaper - Time - 2 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -55,6 +55,25 @@ John takes the train to school from Brixton to West Dulwich every day. Here is p
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -91,6 +110,39 @@ John will reach at his form room at $0821 + 6 = 0827$
 
 $0827$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+John takes time to reach station $= 8 \ \text{minutes}$
+
+John leaves home at $0805$.
+
+John will reach station at $0805 + 8 = 0813$
+
+John will get his next train at $0816$
+
+The train reaches West Dulwich station at $0821$
+
+John takes to reach at his form room $= 6 \ \text {minutes}$
+
+John will reach at his form room at $0821 + 6 = 0827$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0827$
+</code></pre>
 </div>
 </div>
 
@@ -132,6 +184,41 @@ He will be $0843 - 0835 = 8 \ \text {minutes}$ for registration.
 
 $8 \ \text{minutes}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+The $0809$ train is cancelled.
+
+The next train is at $0832$
+
+As shown in the table,
+
+The train will reach West Dulwich at $0837$
+
+As we know John takes $6 \ \ text{minutes}$ to reach his form room.
+
+therefore,
+
+He will reach at $0837 + 6 = 0843$
+
+He will be $0843 - 0835 = 8 \ \text {minutes}$ for registration.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8 \ \text{minutes}$
+</code></pre>
 </div>
 </div>
 
@@ -185,6 +272,31 @@ $
 
 $48000 \ \text {times per minute}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Hours between 05:30 and 15:30} &= 10 \\\\
+\text {Number of times heart beats}   &= 80 \times 10 \times 60 \ \text {minutes} \\\\
+                                      &= 48000 \ \text {times per minute}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48000 \ \text {times per minute}$
+</code></pre>
 </div>
 </div>
 

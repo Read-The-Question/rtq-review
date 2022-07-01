@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-blocked"
 title: "TopicPaper - Algebra - 12 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -83,6 +83,62 @@ $18$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>A large crate = 12 cartons of milk
+
+A small crate = 4 cartons of milk
+
+Available crates = 5 large + 20 small
+
+Total milk cartons = 110
+
+To have smallest crate count, we need to use maximum available large crates i.e., $5$ crates first and 
+then calculate the number of smaller crates needed for the rest of the milk cartons. 
+
+Let's take the count of small crates as = $s$
+
+$(5 \ \text {crates} \times 12 \ \text {cartons}) + ( s \times 4) = 110 \ \text {cartons}$ 
+
+$
+\begin{aligned}
+60  + s \times 4 & = 110 \\\\
+4s               & = 110 - 60 \\\\
+4s               & = 50 \\\\
+s                & = \dfrac {48 + 2} {4} \\\\
+s                & = \dfrac {48} {4} + \dfrac {2} {4} \\\\
+s                & = \dfrac {12 \times 4} {4} + \dfrac {2} {2 \times 2} \\\\
+s                & = \dfrac {12 \times \cancel 4} {\cancel {4}} + \dfrac {\cancel {2}} {2 \times \cancel {2}} \\\\
+s                & = 12 + \dfrac {1}{2} \\\\
+s                & = 12 + \dfrac {1} {2} \ \text {crates}
+\end{aligned}
+$
+
+We have to use a full crate so $\dfrac {1} {2}$ crate $=  1$ extra crate.
+
+$12 + 1 \ \text {crates} = 13 \$ crates
+
+Let's find the smallest number of crates in total to store $110$ cartons of milk.
+
+$5$ large crates $+ 13$ small crates $= 18$ crates
+
+The smallest number of crates needed in total to store $110$ cartons of milk $= 18$ crates.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -131,6 +187,25 @@ E  Four oranges
 
 $\text{One orange and five apples}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'> One orange and five apples
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text{One orange and five apples}$
+</code></pre>
 </div>
 </div>
 

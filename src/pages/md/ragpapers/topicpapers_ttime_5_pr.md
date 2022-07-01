@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-pr"
 title: "TopicPaper - Time - 5 - PR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,6 +58,33 @@ $
 
 $2 \ \text {hours} \ 25 \ \text {minutes}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {time she should cook} &= 2.5 \times 50 + 20 \ \text {minutes} \\\\
+                             &= 125 + 20 \\\\
+                             &= 145 \ \text {minutes} \\\\
+                             &= 120 \ \text {minutes} + 25 \ \text {minutes} \\\\
+                             &= 2 \ \text {hours} \ 25 \ \text {minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2 \ \text {hours} \ 25 \ \text {minutes}$
+</code></pre>
 </div>
 </div>
 
@@ -137,6 +164,25 @@ For example, when it is $3 \ \text{p.m.}$ in London, it is $7.30 \ \text{p.m.}$ 
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -164,6 +210,32 @@ $
 
 $8.45 \ \text {a.m}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Time in London}        &= 1.15 - 4 \dfrac {1} {2} \ \text {hours} \\\\
+                             &= 1.15 - \dfrac {9} {2} \ \text {hours} \\\\
+                             &= 1.15 - 4 \ \text {hour} \ 30 \ \text {minutes} \\\\
+                             &= 8.45 \ \text {a.m}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8.45 \ \text {a.m}$
+</code></pre>
 </div>
 </div>
 
@@ -201,6 +273,32 @@ $
 
 $11{:}10 \ Friday$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {time in london}     &= 19{:}40 + 30 \ \text{hours} + 5 \ \text{hours} \\\\
+                           &= 6{:}40 \ Friday \\\\
+\text {time in Sri Lanka}  &= 6{:}40 + 4 \ \text{hours} \ 30 \ \text{minutes} \\\\
+                           &= 11{:}10 \ Friday
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11{:}10 \ Friday$
+</code></pre>
 </div>
 </div>
 
@@ -328,6 +426,72 @@ $4\ \text{hrs} \ 2 \ \text{min}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$21{:}10$
+
+Following digits are needed $0, 1, 1$ and $2$
+
+With $2100$ hours no other combination is impossible
+
+With $2200$ hours no combination is possible
+
+With $2300$ hours no combination is possible
+
+With $0000$ hours no combination is possible
+
+With $0100$ hours it's possible as it already has $0$ and $1$
+
+Next time all the four digits $(0, 1, 1, 1)$ shows together is when it is 
+
+$01{:}12$ hours
+
+Let's find how long it will take from $21{:}10$ to $01{:}12$
+
+$01{:}12 - 21{:}10 =4\ \text{hrs} \ 2 \ \text{min}$
+
+
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$21{:}10$
+
+Following digits are needed $0, 1, 1$ and $2$
+
+With $2100$ hours no other combination is impossible
+
+With $2200$ hours no combination is possible
+
+With $2300$ hours no combination is possible
+
+With $0000$ hours no combination is possible
+
+With $0100$ hours it's possible as it already has $0$ and $1$
+
+Next time all the four digits $(0, 1, 1, 1)$ shows together is when it is 
+
+$01{:}12$ hours
+
+Let's find how long it will take from $21{:}10$ to $01{:}12$
+
+$01{:}12 - 21{:}10 =4\ \text{hrs} \ 2 \ \text{min}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4\ \text{hrs} \ 2 \ \text{min}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -408,6 +572,30 @@ $1 \ \text {hour} \ 29 \ \text {minutes}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {duration} &= 9.21 - 7.52 \\\\
+                 &= 1 \ \text {hour} \ 29 \ \text {minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1 \ \text {hour} \ 29 \ \text {minutes}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -486,6 +674,30 @@ $
 
 $3 \ \text {hours} 43 \ \text{minutes}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 1.06 \ \text{pm} - 9.23 \ \text{am} \\\\
+&= 3 \ \text {hours} 43 \ \text{minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text {hours} 43 \ \text{minutes}$
+</code></pre>
 </div>
 </div>
 
@@ -571,6 +783,31 @@ $10{:}44$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Departure time} &= 13{:}37 - 173 \ \text {minutes} \\\\
+                       &= 13{:}37 - 2 \ \text {hours} 53 \ \text {minutes} \\\\
+                       &= 10{:}44
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10{:}44$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -650,6 +887,31 @@ $
 
 $22{:}15$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Arrival time} &= 16{:}30 + 5 \dfrac {3} {4} \ \text {hours} \\\\
+                     &= 16{:}30 + 5 \ \text {hours} 45 \ \text {minutes} \\\\
+                     &= 22{:}15
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$22{:}15$
+</code></pre>
 </div>
 </div>
 

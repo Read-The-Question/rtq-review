@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-blocked"
 title: "TopicPaper - Time - 1 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -62,6 +62,32 @@ $
 
 $9 \text { hours } 40 \text { minutes}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 143 \text { minutes} + 158 \text { minutes} + 144 \text { minutes} + 135 \text { minutes} \\\\
+&= 580 \text { minutes} \\\\
+&= 9 \times 60 \text { minutes} + 40 \text { minutes} \\\\
+&= 9 \text { hours } 40 \text { minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9 \text { hours } 40 \text { minutes}$
+</code></pre>
 </div>
 </div>
 

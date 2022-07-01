@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-blocked"
 title: "TopicPaper - Algebra - 7 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -51,6 +51,34 @@ $
 
 $36 days$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Half of his summer holidays were spent in reading and relaxing} \\\\
+\text{So the remaining half of his holidays were spent in staying at his friend's house and attending the summer camp which is }                &= 4 + 2 \times 7 \\\\
+                                                                                                                                                &= 4 + 14 \\\\
+                                                                                                                                                &= 18 \\\\
+\text{Therefore his holidays were}                                                                                                              &= 18 \times 2 \\\\
+                                                                                                                                                &= 36 days
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$36 days$
+</code></pre>
 </div>
 </div>
 
@@ -110,6 +138,36 @@ $
 
 $9,12$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+x                                       &= y+3 \\\\
+3 \times (y + 3) + 4y                   &= 72 \\\\
+3y + 9 + 4y                             &= 72 \\\\
+7y                                      &= 72-9 \\\\
+7y                                      &= 63 \\\\
+y                                       &= 63 /div 7 \\\\
+y                                       &= 9
+x                                       &= 12
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9,12$
+</code></pre>
 </div>
 </div>
 
@@ -183,6 +241,44 @@ $147$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+A + B                               &= 102 \\\\
+B                                   &= 102 - A \\\\
+B + C                               &= 97 \\\\
+102 - A + C                         &= 97 \\\\
+-A + C                              &= -5 \\\\
+C                                   &= -5+A \\\\
+A + C                               &= 93 \\\\
+A - 5 + A                           &= 93 \\\\
+2A                                  &= 93 + 5 \\\\
+A                                   & = 98 \div 2 \\\\
+A                                   &= 49 \\\\
+B                                   &= 53 \\\\
+C                                   &= 45 \\\\
+Total Weight                        &= A + B + C \\\\
+                                    &= 49 + 53 + 45 \\\\
+                                    &= 147
+\end{aligned}
+$  
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$147$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -241,6 +337,37 @@ $65$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+a                       &= 5b \\\\
+a - 26                  &= b + 26 \\\\
+5b - 26                 &= b + 26 \\\\
+4b                      &= 52 \\\\
+b                       &= 13
+a                       &= 13 \times 4 \\\\
+a                       &= 52 \\\\
+a + b                   &= 52 + 13 \\\\
+a + b                   &= 65
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$65$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -295,6 +422,37 @@ $
 
 $40$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{let the number of strawberies picked on firstday = x}
+x + x + 5 + x + 10 + x + 15 + ....                                      &= 175 \\\\
+(x + x + x + x + x + x + x) + (5 + 10 + 15 + 20 + 25 + 30)              &= 175 \\\\
+7x + 105                                                                &= 175 \\\\
+7x                                                                      &= 175 - 105 \\\\
+7x                                                                      &= 70 \\\\
+x                                                                       &= 10 \\\\
+x + 30                                                                  &= 10 + 30 \\\\
+                                                                        &= 40
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$40$
+</code></pre>
 </div>
 </div>
 

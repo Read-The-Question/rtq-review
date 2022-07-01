@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-oldpr"
 title: "TopicPaper - Profit - 1 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -104,6 +104,69 @@ $\text{Shop C} = \pounds 820$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's calculate the cheapest price of $2$ chairs from each shop.
+
+**Shop A**
+
+If the price is reduced by $30 \%$, then the sale price will be $100 - 30 = 70 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop A}     &= 600 + 70\% \times 600 \\\\
+                                                &= 600 + \dfrac{70}{100} \times 600 \\\\
+                                                &= 600 + \dfrac{70 \times 600}{100} \\\\
+                                                &= 600 + \dfrac{70 \times 6\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}} \\\\
+                                                &= 600 + 70 \times 6 \\\\
+                                                &= 600 + 420 \\\\
+                                                &= \pounds 1020
+\end{aligned}
+$
+
+**Shop B**
+
+If the price is reduced by $\dfrac{1}{5}$, then the sale price will be $1 - \dfrac{1}{5} = \dfrac{4}{5}$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop B}     &= 550 + \dfrac{4}{5} \times 550 \\\\
+                                                &= 550 + \dfrac{4 \times 550}{5} \\\\
+                                                &= 550 + \dfrac{4 \times 5 \times 110}{5} \\\\
+                                                &= 550 + \dfrac{4 \times \cancel{5} \times 110}{\cancel{5}} \\\\
+                                                &= 550 + 4 \times 110 \\\\
+                                                &= 550 + 440 \\\\
+                                                &= \pounds 990
+\end{aligned}
+$
+
+**Shop C**
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop C}     &= \pounds 820
+\end{aligned}
+$
+
+Using the calculation above,
+
+Shop where the price is the cheapest $= \text{Shop C} = \pounds 820$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text{Shop C} = \pounds 820$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -196,6 +259,44 @@ In January $2011$ A seesaw cost is $\pounds 290$
 
 $\pounds 290$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Cost of Seesaws in Jan $2010 = \pounds 200$
+
+Percentage of increase in price in $2011 = 45 \%$ 
+
+Let's Calculate how much a seesaw cost in January $2011$
+
+$
+\begin{aligned}
+\text {Price of seesaw in} \ 2011         &= \ \text{Price of seesaw in} \ 2010 + \ \text{Price increased} \\\\
+                                          &= \pounds 200 + \pounds 200 \times \dfrac {45}{100} \\\\
+                                          &= \pounds 200 + 2 \cancel {0} \cancel {0} \times \dfrac {45}{1 \cancel {0} \cancel {0}} \\\\
+                                          &= \pounds 200 + 2 \times 45 \\\\
+                                          &= \pounds 200 + \pounds 90 \\\\
+                                          &= \pounds 290
+\end{aligned}
+$
+
+In January $2011$ A seesaw cost is $\pounds 290$ 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 290$
+</code></pre>
 </div>
 </div>
 
@@ -314,6 +415,50 @@ $
 
 $\pounds 120.00$ 
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Let's calculate discount price
+
+$
+\begin{aligned} 
+\text{Discount price}   &=  \text{Cost of new mobile} \times \text{Discount Percentage} \\\\
+                        &=  150 \times 20\% \\\\
+                        &=  150  \times  \dfrac{20}{100} \\\\
+                        &=  \dfrac{150 \times 20}{100} \\\\
+                        &=  \dfrac{15 \cancel{0} \times 2 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+                        &=  15 \times 2 \\\\
+                        &=  \pounds 30
+\end{aligned}
+$
+
+Let's calculate amount Alex have to pay
+
+$
+\begin{aligned} 
+\text{Amount Alex have to pay}     &= \text{Cost of new mobile} - \text{Discount price} \\\\
+                                   &= \pounds 150 - \pounds 30  \\\\
+                                   &= \pounds 120.00
+\end{aligned}
+$
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>E</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 120.00$ 
+</code></pre>
 </div>
 </div>
 

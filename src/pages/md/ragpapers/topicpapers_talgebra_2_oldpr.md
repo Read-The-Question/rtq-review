@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-oldpr"
 title: "TopicPaper - Algebra - 2 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -68,6 +68,50 @@ Number of rabbits that weigh the same as six guinea pigs $= 4$ rabbits.
 
 $4$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the weight of a rabbit $= r$.
+
+Let the weight of a cat $= c$.
+
+Let the weight of a guinea pig $= p$.
+
+As per the question,
+
+$3 c = 4 r$
+
+$2 c = 4 p$
+
+Or,
+
+$1 c = 2 p$  So, 
+
+$
+\begin {aligned}
+4 r      &= 3 c \\\\
+         &= 2 c + 1 c \\\\
+         &= 4 p + 2 p \\\\
+         &= 6 p
+\end {aligned}
+$
+
+Number of rabbits that weigh the same as six guinea pigs $= 4$ rabbits.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
 </div>
 </div>
 

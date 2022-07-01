@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-oldpr"
 title: "TopicPaper - Algebra - 9 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -77,6 +77,59 @@ Cost of the 2nd item is $\pounds 2.65$
 
 $\pounds 2.65$ and $\pounds 2.25$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of First item as $= a$
+
+the cost of 2nd item is $a + 40 \text{p}$ or $a + \pounds 0.40$
+
+As per the question, 
+
+rtq_abbr_md_unit_note
+
+$
+\begin{aligned}
+\text{Cost of item} \ 1 + \ \text{Cost of item} \ 2 &= \ \text{Total cost spend} \\\\ 
+a + (a + \pounds 0.40)                            &= \pounds 4.90  \\\\ 
+a + a + 0.40                                      &= 4.90  \\\\
+2a + 0.40                                         &= 4.90 \\\\
+2a                                                &= 4.90 - 0.40 \\\\
+2a                                                &= 4.50 \\\\
+a                                                 &= \dfrac {4.50} {2} \\\\
+a                                                 &= \pounds 2.25
+\end{aligned}
+$
+
+Cost of the Item $1$ is $\pounds 2.25$
+
+Let's find cost of the Item $2$.
+
+$
+\begin{aligned}
+&= a + \pounds 0.40 \\\\
+&= 2.25 + 0.40 \\\\
+&= 2.65 \\\\
+&= \pounds 2.65
+\end{aligned}
+$
+
+Cost of the 2nd item is $\pounds 2.65$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.65$ and $\pounds 2.25$
+</code></pre>
 </div>
 </div>
 
@@ -178,6 +231,38 @@ $20 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{Length}(x)         &= \text{Length}(\text{Lower figure}) + \dfrac{1}{3} \times \text{Length}(\text{Upper figure}) \\\\
+x                        &= 15 + \dfrac{1}{3} \times 15  \\\\
+x                        &= 15 + \dfrac {5 \times 3} {3}  \\\\
+x                        &= 15 + \dfrac {5 \times \cancel{3}} {\cancel{3}}  \\\\
+x                        &= 15 + 5  \\\\
+x                        &= 20 \ \text {cm}
+\end{aligned}
+$
+
+The total length of marked $x$ is $20 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -258,6 +343,25 @@ $39$ members of Alwick Youth Club went on an outing to a leisure centre. They we
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -293,6 +397,38 @@ $3$ minibuses
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Let's find how many buses are needed to accomadate $39$ members.
+
+$
+\begin{aligned}
+&= \dfrac{39} {15} \\\\
+&= 2 \dfrac{9} {15} \\\\
+\end{aligned}
+$
+
+2 full buses and for rest $9$ one more bus
+
+So, total of $3$ minibuses are needed for $39$ members.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3$ minibuses
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -322,6 +458,32 @@ There were $6$ spares seats.
 
 $6$ seats
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+As per the answer above there were $9$ members in the $3$rd bus.
+
+A bus could seat up to $15$ members
+
+So, $15 - 9 = 6$
+
+There were $6$ spares seats.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6$ seats
+</code></pre>
 </div>
 </div>
 
@@ -368,6 +530,45 @@ $
 
 $\pounds 13.5$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{Total Expenses}        &= \ \text{Transport cost} + \text{Leisure centre costs} \\\\
+                             &= \pounds 90 + \pounds 150 \\\\
+                             &= \pounds 240
+\end{aligned}
+$
+
+Let's calculate the money Leftover,
+
+$
+\begin{aligned}
+\text{Money left}        &= \ \text{Total money collected} - \text{Total Expenses} \\\\
+                         &= (\text{number of members} \ \times \ \text{collection per member}) - \pounds 240 \\\\
+                         &= (39 \times \pounds 6.50) - \pounds 240 \\\\
+                         &= \pounds 253.5 - \pounds 240 \\\\
+                         &= \pounds 13.5
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 13.5$
+</code></pre>
 </div>
 </div>
 
@@ -469,6 +670,40 @@ $
 
 $15$ coins of $10$p and $15$ coins of $50$p
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's take the number of coins as $= a$ 
+
+As per question,
+
+rtq_abbr_md_unit_note
+
+$
+\begin{aligned}
+10a + 50a         &= 900 \text{p} \\\\
+60a               &= 900 \\\\
+a                 &= \dfrac {900} {60} \\\\
+a                 &= \dfrac {15 \times 60 }{60} \\\\
+a                 &= \dfrac {15 \times \cancel {60} } {\cancel {60}} \\\\
+a                 &= 15 \text {coins each}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15$ coins of $10$p and $15$ coins of $50$p
+</code></pre>
 </div>
 </div>
 
@@ -601,6 +836,55 @@ $54$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number Archie thinks of $= a$
+
+Let's first find the number.
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {5} {6} \times a  &= 60 \\\\
+a                        &= 60 \times \dfrac {6} {5} \\\\
+a                        &= \dfrac {60 \times 6} {5} \\\\
+a                        &= \dfrac {5 \times 12 \times 6} {5} \\\\
+a                        &= \dfrac {\cancel {5} \times 12 \times 6} {\cancel {5}} \\\\
+a                        &= 12 \times 6 \\\\
+a                        &= 72
+\end {aligned}
+$
+
+Now, let's find $\dfrac {3} {4}$ of the number.
+
+$
+\begin {aligned} 
+&= \dfrac {3} {4} \ \text {of} \ 72 \\\\
+&= \dfrac{3} {4} \times 72 \\\\
+&= \dfrac{3 \times 72} {4} \\\\
+&= \dfrac{3 \times 18 \times 4} {4} \\\\
+&= \dfrac{3 \times 18 \times \cancel{4}} {\cancel{4}} \\\\
+&= 3 \times 18 \\\\
+&= 54
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$54$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -705,6 +989,25 @@ Every month John, Peter and Helen received a sum of money which was divided so t
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -733,6 +1036,33 @@ $
 
 $\pounds 40$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{Money received by Peter}  &= 2 \times \ \text{Helen} \\\\
+                                &= 2 \times \pounds 20 \\\\
+                                &= \pounds 40
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 40$
+</code></pre>
 </div>
 </div>
 
@@ -781,6 +1111,47 @@ $\pounds 96$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{Money recieved by Helen}      &= \dfrac {\text{Peter}} {2} \\\\
+                                    &= \dfrac {60} {2} \\\\
+                                    &= \dfrac {30 \times 2} {2} \\\\
+                                    &= \dfrac {30 \times \cancel {2}} {\cancel {2}} \\\\
+                                    &= \pounds 30
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total money}  &= \text{John}  + \text{Peter} +  \text{Helen} \\\\
+                    &= \dfrac {\text{Helen}}{5} + \pounds 60 + \pounds 30 \\\\
+                    &= \dfrac {30}{5} + 90 \\\\
+                    &= \dfrac {5 \times 6} {5} + 90 \\\\
+                    &= \dfrac {\cancel {5} \times 6} {\cancel {5}} + 90 \\\\
+                    &= 6 + 90 \\\\
+                    &= \pounds 96
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 96$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -820,6 +1191,42 @@ Money John received $= \pounds 10$
 
 $\pounds 10$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the money John received $= a$
+
+As per the question,
+
+
+$
+\begin{aligned}
+ \text{John}  + \text{Helen} + \text{Peter} &= \text{Total money} \\\\
+a + 5a + 10a                                &= \pounds 160 \\\\
+16a                                         &= 160 \\\\
+a                                           &= \dfrac {160} {16} \\\\
+a                                           &= \dfrac {16 \times 10} {16} \\\\
+a                                           &= \dfrac {\cancel{16} \times 10} {\cancel{16}} \\\\
+a                                           &= \pounds 10
+\end{aligned}
+$
+
+Money John received $= \pounds 10$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 10$
+</code></pre>
 </div>
 </div>
 
@@ -917,6 +1324,25 @@ $
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -946,6 +1372,34 @@ $
 
 $10$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+&= 3 * 1 \\\\
+&= (3 \times 3) + (1 \times 1) \\\\
+&= 9 + 1 \\\\
+&= 10
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10$
+</code></pre>
 </div>
 </div>
 
@@ -979,6 +1433,34 @@ $
 
 $14$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+&= 3 * 2 + 1 * 0 \\\\
+&= (3 \times 3) + (2 \times 2) + (1 \times 1) + (0 \times 0) \\\\
+&= 9 + 4 + 1 + 0 \\\\
+&= 14
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$14$
+</code></pre>
 </div>
 </div>
 
@@ -1018,6 +1500,38 @@ $12$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+a * 8                           &= 208 \\\\
+(a \times a) + (8 \times 8)     &= 208 \\\\
+a^2 + 64                        &= 208 \\\\
+a^2                             &= 208 - 64 \\\\
+a^2                             &= 144 \\\\
+a^2                             &= 12 \times 12 \\\\
+a^2                             &= 12^2 \\\\
+a                               &= 12
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1052,6 +1566,37 @@ $
 
 $2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+b * 2                           &= 4b \\\\
+(b \times b) + (2 \times 2)     &= 4b \\\\
+b^2 + 4                         &= 4b \\\\
+b^2 - 4b + 4                    &= 0 \\\\
+(b-2)^2                         &= 0 \\\\
+b - 2                           &= 0 \\\\
+b                               &= 2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2$
+</code></pre>
 </div>
 </div>
 

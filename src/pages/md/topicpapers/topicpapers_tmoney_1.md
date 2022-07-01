@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -67,6 +67,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -122,6 +156,35 @@ $
 
 $\pounds 4.90$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin {aligned}
+\text {Money spent}     &= \pounds 1.90 +  \pounds 2.45 + 75 \text {p} \\\\
+                        &= \pounds 1.90 +  \pounds 2.45 + \pounds 0.75 \\\\
+                        &= \pounds 5.10 \\\\
+\text {Money left}      &= 10 - 5.10 \\\\
+                        &= \pounds 4.90
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 4.90$
+</code></pre>
 </div>
 </div>
 
@@ -284,6 +347,89 @@ $\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top 
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's calculate the best price of $3$ tickets from each vendor.
+
+**Super Tickets**
+
+$
+\begin  {aligned}
+\text{Cost of } 3 \text{ tickets}     &= 480 \times 2 \\\\
+                                      &= \pounds 960
+\end {aligned}
+$
+
+**Tickets R US**
+
+If the total price is reduced by $25 \%$, then the sale price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
+
+$
+\begin {aligned}
+\text {Cost of} \ 3 \text \ {tickets}      &= 75\% \times 480 \times 3 \\\\
+                                           &= \dfrac{75}{100} \times 480 \times 3 \\\\
+                                           &= \dfrac{75 \times 480 \times 3}{100} \\\\
+                                           &= \dfrac{25 \times 3 \times 4 \times 120 \times 3}{25 \times 4} \\\\
+                                           &= \dfrac{\cancel{25} \times 3 \times \cancel{4} \times 120 \times 3}{\cancel{25} \times \cancel{4}} \\\\
+                                           &= 3 \times 120 \times 3 \\\\
+                                           &= \pounds 1080
+\end {aligned}
+$
+
+**Ticket Galore**
+
+If the price is reduced by $40 \%$, then the sale price will be $100 - 40 = 60 \%$ of the original price. Using that, we get
+
+$
+\begin {aligned}
+\text {Cost of} \ 3 \ \text{tickets}      &= 480 + 60\% \times 480 \times 2 \\\\
+                                          &= 480 + \dfrac{60}{100} \times 480 \times 2 \\\\
+                                          &= 480 + \dfrac{60 \times 480 \times 2}{100} \\\\
+                                          &= 480 + \dfrac{6\cancel{0} \times 48\cancel{0} \times 2}{1\cancel{0}\cancel{0}} \\\\
+                                          &= 480 + 6 \times 48 \times 2 \\\\
+                                          &= 480 + 576 \\\\
+                                          &= \pounds 1056
+\end {aligned}
+$
+
+
+**Top Ticket**
+
+If the price is reduced by $\dfrac{1}{2}$, then the sale price will be $1 - \dfrac{1}{2} = \dfrac{1}{2}$ of the original price. Using that, we get
+
+$
+\begin {aligned}
+\text{Cost of} \ 3 \ \text{tickets}      &= 480 \times 2 + \dfrac{1}{2} \times 480 \\\\
+                                         &= 960 + \dfrac{480}{2} \\\\
+                                         &= 960 + 240 \\\\
+                                         &= \pounds 1200
+\end {aligned}
+$
+
+Using the calculation above, the vendors in order (cheapest first):
+
+|  Vendor       | Price          |
+|:-------------:|:--------------:|
+| Super Tickets | $\pounds 960$  |
+| Ticket Galore | $\pounds 1056$ |
+| Tickets R US  | $\pounds 1080$ |
+| Top Ticket    | $\pounds 1200$ |
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top Ticket}$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -343,6 +489,34 @@ $
 
 $\pounds 39.60$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= \pounds 44 - 10 \% \ \text {of} \ \pounds 44 \\\\
+&= 44 - \dfrac {10} {100} \times 44 \\\\
+&= 44 - \dfrac {10 \times 44} {100} \\\\
+&= 44 - \dfrac {440} {100} \\\\
+&= 44 - 4.40 \\\\
+&= \pounds 39.60 
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>a</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 39.60$
+</code></pre>
 </div>
 </div>
 
@@ -429,6 +603,34 @@ $\pounds 248$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 40\% \text{ of } \pounds 620 \\\\
+&= \dfrac{40}{100} \times 620 \\\\
+&= \dfrac{40 \times 620}{100} \\\\
+&= \dfrac{4\cancel{0} \times 62\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 4 \times 62  \\\\
+&= \pounds 248
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 248$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -513,6 +715,34 @@ $\pounds 16$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 20\% \text{ of } \pounds 80 \\\\
+&= \dfrac{20}{100} \times 80 \\\\
+&= \dfrac{20 \times 80}{100}  \\\\
+&= \dfrac{2\cancel{0} \times 8\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+&= 2\times 8\\\\
+&= \pounds 16
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 16$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -591,6 +821,30 @@ $
 
 $\pounds 2.76$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \pounds 6 - \pounds 3.24 \\\\
+&= \pounds 2.76
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.76$
+</code></pre>
 </div>
 </div>
 
@@ -675,6 +929,34 @@ $
 
 $\pounds 16$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {2}{5} \text{ of } \pounds 40 \\\\
+&= \dfrac{2 \times 40}{5} \\\\
+&= \dfrac{2 \times 5 \times 8}{5} \\\\
+&= \dfrac{2 \times \cancel{5} \times 8}{\cancel{5}} \\\\
+&= 2 \times 8 \\\\
+&= \pounds 16
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 16$
+</code></pre>
 </div>
 </div>
 
@@ -771,6 +1053,35 @@ $\pounds 3.25$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin {aligned}
+\text {Amount collected}    &= 35 \times 5 \\\\
+                            &= 175 \text {p}  \\\\
+                            &= \pounds 1.75 \\\\
+\text {Amount needed}       &= 5 - 1.75 \\\\
+                            &= \pounds 3.25
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 3.25$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -859,6 +1170,36 @@ $\pounds 3.20$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin {aligned}
+\text {Money spent}     &= 2 \times 45 + 90 \\\\
+                        &= 90 + 90 \\\\
+                        &= 180 \text{p} \\\\
+                        &= \pounds 1.80 \\\\
+\text {Change received} &= 5 - 1.80 \\\\
+                        &= \pounds 3.20
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 3.20$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -934,6 +1275,25 @@ The pupils in a class had a sponsored swim. They collected $\pounds 429.24$.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -959,6 +1319,30 @@ $
 
 $\pounds 400$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= \pounds 429.24 \\\\
+&\approx \pounds 400
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 400$
+</code></pre>
 </div>
 </div>
 
@@ -988,6 +1372,30 @@ $
 
 $\pounds 430$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= \pounds 429.24 \\\\
+&\approx \pounds 430
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 430$
+</code></pre>
 </div>
 </div>
 
@@ -1087,6 +1495,34 @@ $\pounds 8.06$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+\text {Money spent}     &= 6 \times 1.99 \\\\
+                        &= \pounds 11.94 \\\\
+\text {Change received} &= 20 - 11.94 \\\\
+                        &= \pounds 8.06
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>c</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 8.06$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1162,6 +1598,25 @@ tmoney
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1207,6 +1662,43 @@ $7$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
+
+$
+\begin {aligned}
+\text {Number of packets}           &= \dfrac {\pounds 2} {30 \text {p}} \\\\
+                                    &= \dfrac {200 \text {p}} {30 \text {p}} \\\\
+                                    &= \dfrac {20 \cancel {0}} {3 \cancel {0}} \\\\
+                                    &= \dfrac {20} {3} \\\\
+                                    &= 6 \ \text {remainder} 2 \\\\
+                                    &\approx 6 \\\\
+\text {Number of Lollipops}         &= \dfrac {200 - 6 \times 30} {12} \\\\
+                                    &= \dfrac {200 - 180} {12} \\\\
+                                    &= \dfrac {20} {12} \\\\
+                                    &= 1 \ \text {remainder} \ 8 \\\\
+                                    &\approx 1 \\\\
+\text {Total number of lollipops}   &= 6 + 1 \\\\
+                                    &= 7
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1248,6 +1740,40 @@ $
 
 $2.4 \ \text {g}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+100 \ \text {g of bread}    &= 6 \ \text {g of fibre} \\\\
+100 \times 4                &= 6 \times 4 \\\\
+400 \ \text {g of bread}    &= 24 \ \text {g of fibre}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Fibre in one slice of bread} &= \dfrac {24} {10} \\\\\
+                                    &= 2.4 \ \text {g}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2.4 \ \text {g}$
+</code></pre>
 </div>
 </div>
 
@@ -1328,6 +1854,25 @@ tmoney
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1358,6 +1903,32 @@ $
 
 $\pounds 1.50$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Cost of pen}     &= 10 - 4.95 - 1.30 - 2.25 \\\\
+                        &= 5.05 - 1.30 - 2.25 \\\\
+                        &= 3.75 - 2.25 \\\\
+                        &= \pounds 1.50
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1.50$
+</code></pre>
 </div>
 </div>
 
@@ -1397,6 +1968,33 @@ $\pounds 9.56$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin {aligned}
+\text {Total money}     &= 3 \times \pounds 3.18 + 2 \text {p} \\\\
+                        &= \pounds 9.54 + \pounds 0.02 \\\\
+                        &= \pounds 9.56
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 9.56$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1431,6 +2029,33 @@ $
 
 $371$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Total coins}     &= \dfrac {\pounds 18.55} {5 \text {p}} \\\\
+                        &= \dfrac {1855 \text {p}} {5 \text {p}} \\\\
+                        &= \dfrac {5 \times 371} {5} \\\\
+                        &= \dfrac {\cancel {5} \times 371} {\cancel {5}} \\\\
+                        &= 371
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$371$
+</code></pre>
 </div>
 </div>
 
@@ -1511,6 +2136,25 @@ tmoney
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1553,6 +2197,42 @@ $\pounds 12$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of an adult ticket (in $\pounds$) $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+30 \times a + 16 \times 3   &= 408 \\\\
+30a + 48                    &= 408 \\\\
+30a                         &= 408 - 48 \\\\
+30a                         &= 360 \\\\
+a                           &= \dfrac {360} {30} \\\\
+a                           &= \dfrac {12 \times 30} {30} \\\\
+a                           &= \dfrac {12 \times \cancel {30}} {\cancel {30}} \\\\
+a                           &= \pounds 12
+\end {aligned}
+$
+
+Cost of an adult ticket $= \pounds 12$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 12$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1588,6 +2268,36 @@ $
 
 $\pounds 25.50$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+\text {Sales Price}     &= 30 - 15 \% \ \text {of} \ 30 \\\\
+                        &= 30 - \dfrac {15} {100} \times 30 \\\\
+                        &= 30 - \dfrac {15 \times 30} {100} \\\\
+                        &= 30 - \dfrac {450} {100} \\\\
+                        &= 30 - 4.50 \\\\
+                        &= \pounds 25.50
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 25.50$
+</code></pre>
 </div>
 </div>
 
@@ -1639,6 +2349,48 @@ Guy has $= 16$ stickers
 
 $16$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let stickers Guy has $= a$
+
+Asif has $= \dfrac {a} {2}$
+
+Kyal has $= a - 5$
+
+As per the question,
+
+$
+\begin {aligned}
+a + \dfrac {a} {2} + a - 5                                                                  &= 35 \\\\
+\dfrac {a \times 2} {1 \times 2} + \dfrac {a} {2} + \dfrac {(a - 5) \times 2} {1 \times 2}  &= 35 \\\\
+\dfrac {2a} {2} + \dfrac {a} {2} + \dfrac {a \times 2 - 5 \times 2} {2}                     &= 35 \\\\
+\dfrac {2a + a + 2a - 10} {2}                                                               &= 35 \\\\
+5a - 10                                                                                     &= 35 \times 2 \\\\
+5a                                                                                          &= 70 + 10 \\\\
+a                                                                                           &= \dfrac {80} {5} \\\\
+a                                                                                           &= \dfrac {5 \times 16} {5} \\\\
+a                                                                                           &= \dfrac {\cancel {5} \times 16} {\cancel {5}} \\\\
+a                                                                                           &= 16
+\end {aligned}
+$
+
+Guy has $= 16$ stickers
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16$
+</code></pre>
 </div>
 </div>
 
@@ -1719,6 +2471,25 @@ tmoney
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1750,6 +2521,33 @@ $\pounds 5.75$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin{aligned}
+\text{Money spent}  &= \pounds 4.93 + 24 \text{p} + 58 \text{p} \\\\
+                    &= \pounds 4.93 + \pounds 0.24 + \pounds 0.58 \\\\
+                    &= \pounds 5.75
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 5.75$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1779,6 +2577,30 @@ $
 
 $\pounds 14.25$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Change received}  &= 20 - 5.75 \\\\
+                        &= \pounds 14.25
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 14.25$
+</code></pre>
 </div>
 </div>
 
@@ -1899,6 +2721,25 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -1958,6 +2799,40 @@ $18 \ \text {pence}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>The British coins are $1, \ 2, \ 5, \ 10, \ 20, \ 50, \ 100, \ 200 \ \text {pence}$.
+
+With one coin, the smallest amount that can’t be made $= 3$.
+
+With two coins, the smallest amount that can’t be made $= 3 +$ the value of the coin where there is a gap of at least three to the next coin.
+
+So, With two coins, the smallest amount that can’t be made $= 3 + 5 = 8 \ \text {pence}$.
+
+So, With three coins, the smallest amount that can’t be made $= 8 +$ the value of the coin where the gap is bigger than eight to the next coin.
+
+$
+\begin {aligned}
+\text {The smallest amount of money that cannot be paid using three or fewer British coins}     &= 8 + 10 \\\\
+                                                                                                &= 18 \ \text {pence}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18 \ \text {pence}$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -2014,6 +2889,25 @@ TODOWORKING
 
 TODOANSWER
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
 </div>
 </div>
 
@@ -2083,6 +2977,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -2139,6 +3067,36 @@ $
 
 $\pounds 18.07$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+$
+\begin {aligned}
+\text {Money spent}         &= 7 \times 72 \text{p} +  9 \times \pounds 1.21 \\\\
+                            &= 7 \times \pounds 0.72 + 9 \times \pounds 1.21 \\\\
+                            &= 5.04 + 10.89 \\\\
+                            &= \pounds 15.93 \\\\
+\text {Change received}     &= 20 - 15.93 \\\\
+                            &= \pounds 4.07
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 18.07$
+</code></pre>
 </div>
 </div>
 
@@ -2226,6 +3184,33 @@ $\pounds 20.90$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Money spent}         &= 3 \times 25.50 + 2 \times 1.30 \\\\
+                            &= 76.50 + 2.60 \\\\
+                            &= \pounds 79.10 \\\\
+\text {Change received}     &= 100 - 79.10 \\\\
+                            &= \pounds 20.90
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 20.90$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2305,6 +3290,25 @@ In this formula $a$ stands for the number of adults and $k$ stands for the numbe
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2333,6 +3337,33 @@ $
 
 $\pounds 27$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+\text {Total Cost}  &= 8 \times 3 \ \text {adults} + 3 \times 1 \ \text {child} \\\\
+                    &= 24 + 3 \\\\
+                    &= \pounds 27
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 27$
+</code></pre>
 </div>
 </div>
 
@@ -2424,6 +3455,90 @@ $
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+The maximum count of adult tickets possible with $\pounds 25 = 2$ adults.
+
+$
+\begin {aligned}
+8 \times 2 + 3k     &= 25 \\\\
+16 + 3k             &= 25 \\\\
+3k                  &= 25 - 16 \\\\
+3k                  &= 9 \\\\
+k                   &= \dfrac {9} {3} \\\\
+k                   &= \dfrac {3 \times 3} {3} \\\\
+k                   &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
+k                   &= 3
+\end {aligned}
+$
+
+Bryant family has,
+
+Adults $= 2$
+
+Children $= 3$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>This can be inferred by using trial and error.
+
+Let's find the maximum number of adult tickets that can be bought with $\pounds 25$.
+
+$
+\begin {aligned}
+\dfrac {\text {Total money}} {\text {Cost per adult}}   &= \text {No. of adult tickets} \\\\
+\pounds \dfrac {25} {8}                                 &= \text {No. of adult tickets} \\\\
+\dfrac {8 \times 3 + 1} {8}                             &= 3 \ \text {adult tickets}  + \text {Rest} \ \pounds 1
+\end {aligned}
+$
+
+For $\pounds 1$ we cannot buy any child ticket. Let's reduce $1$ adult ticket and buy child tickets.
+
+$
+\begin {aligned}
+8 \times 2 \ \text {adults}     &= \pounds 16 \\\\
+\pounds 25 - \pounds 16         &= \pounds 9
+\end {aligned}
+$
+
+Let's find the maximum number of child tickets that can be bought with $\pounds 9$
+
+$
+\begin {aligned}
+\dfrac {\text {Total money}} {\text {Cost per child}}   &= \text {No. of child tickets} \\\\
+\pounds \dfrac {9} {3}                                  &= 3 \ \text {tickets}
+\end {aligned}
+$
+
+$8 \times 2 + 3 \times 3 = \pounds 25$
+
+Bryant family has,
+
+Adults $= 2$
+
+Children $= 3$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$
+\text {Adult}    = 2 \\
+\text {Children} = 3
+$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -2490,6 +3605,32 @@ $
 
 $\pounds 55$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Total cost}  &= 25 \times (95 + 85 + 40) \\\\
+                    &= 25 \times 220  \\\\
+                    &= 5500 \text{p}  \\\\
+                    &= \pounds 55
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 55$
+</code></pre>
 </div>
 </div>
 
@@ -2568,6 +3709,25 @@ $\pounds 4.05$. He plans to sell the bars for $35 \text{p}$ each.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2598,6 +3758,34 @@ $
 
 $\pounds 1.20$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin{aligned}
+\text {Profit}  &= 15 \times 35 \ \text {p} - \pounds 4.05 \\\\
+                &= 15 \times \pounds 0.35 - \pounds 4.05 \\\\
+                &= 5.25 - 4.05 \\\\
+                &= \pounds 1.20
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1.20$
+</code></pre>
 </div>
 </div>
 
@@ -2632,6 +3820,35 @@ $
 
 $\pounds 0.27$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Cost of a bar}   &= \dfrac {4.05} {15} \\\\
+                        &= \dfrac {4.05 \times 100} {15 \times 100} \\\\
+                        &= \dfrac {405} {15 \times 100} \\\\
+                        &= \dfrac {15 \times 27} {15 \times 100} \\\\
+                        &= \dfrac {\cancel {15} \times 27} {\cancel {15} \times 100} \\\\
+                        &= \dfrac {27} {100} \\\\
+                        &= \pounds 0.27
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 0.27$
+</code></pre>
 </div>
 </div>
 
@@ -2710,6 +3927,73 @@ $81 \text {p}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+Let the cost of a nut bar (in pence) $= a$
+
+Cost of a raisin bar (in pence) $= a + 12$
+
+As per the question,
+
+$
+\begin {aligned}
+9 \times (a + 12) + 12 \times a     &= \pounds 5.28 \\\\
+9 \times a + 9 \times 12 + 12a      &= 528 \text {p} \\\\
+9a + 108 + 12a                      &= 528 \\\\
+21a                                 &= 528 - 108 \\\\
+21a                                 &= 420 \\\\
+a                                   &= \dfrac {420} {21} \\\\
+a                                   &= \dfrac {20 \times 21} {21} \\\\
+a                                   &= \dfrac {20 \times \cancel {21}} {\cancel {21}} \\\\
+a                                   &= 21 \text {p}
+\end {aligned}
+$
+
+Cost of a nut bar $= 21 \text {p}$
+
+$
+\begin {aligned}
+\text {Cost of a nut bar}       &= 21 \text {p} \\\\
+\text {Cost of a raisin bar}    &= 21 + 9 \\\\
+                                &= 30 \text {p}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Cost of} \ 9 \ \text {nut bars}      &= 9 \times 21 \\\\
+                                            &= 189 \text {p} \\\\
+\text {Cost of} \ 9 \ \text {raisin bars}   &= 9 \times 30 \\\\
+                                            &= 270 \text {p}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Difference}  &= 270 - 189 \\\\
+                    &= 81 \text {p}
+\end {aligned}
+$
+
+Nine raisin bars cost $81 \text {p}$ more than nine nut bars.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$81 \text {p}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -2739,6 +4023,32 @@ $
 
 $30 \text {p}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Cost of a raisin bar}    &= \dfrac {270} {9} \\\\
+                                &= \dfrac {9 \times 30} {9} \\\\
+                                &= \dfrac {\cancel {9} \times 30} {\cancel {9}} \\\\
+                                &= 30 \text {p}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$30 \text {p}$
+</code></pre>
 </div>
 </div>
 
@@ -2819,6 +4129,25 @@ tmoney
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2846,6 +4175,32 @@ $
 
 $15.50$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text {of} \ \pounds 62 \\\\
+&= \dfrac {1} {4} \times 62 \\\\
+&= \dfrac {62} {4} \\\\
+&= \pounds 15.50
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15.50$
+</code></pre>
 </div>
 </div>
 
@@ -2880,6 +4235,33 @@ $\pounds 6.20$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 10 \% \ \text {of} \ \pounds 62 \\\\
+&= \dfrac {10} {100} \times 62 \\\\
+&= \dfrac {10 \times 62} {100} \\\\
+&= \dfrac {620} {100} \\\\
+&= \pounds 6.20
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 6.20$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -2910,6 +4292,33 @@ $
 
 $6.82$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 11 \% \ \text {of} \ \pounds 62 \\\\
+&= \dfrac {11} {100} \times 62 \\\\
+&= \dfrac {11 \times 62} {100} \\\\
+&= \dfrac {682} {100} \\\\
+&= \pounds 6.82
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6.82$
+</code></pre>
 </div>
 </div>
 
@@ -2948,6 +4357,37 @@ $
 
 $20 \%$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text {\% Discount}     &= \dfrac {\text {Discount}} {\text {Original price}} \times 100 \\\\
+                                &= \dfrac {12.40} {62} \times 100 \\\\
+                                &= \dfrac {12.40 \times 100} {62} \\\\
+                                &= \dfrac {1240} {62} \\\\
+                                &= \dfrac {62 \times 20} {62} \\\\
+                                &= \dfrac {\cancel{62} \times 20} {\cancel{62}} \\\\
+                                &= 20 \%
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20 \%$
+</code></pre>
 </div>
 </div>
 
@@ -3035,6 +4475,25 @@ He hopes to complete *either* $8$ or $10 \ \text{miles}$.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -3069,6 +4528,36 @@ $\pounds 7$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+As per the table,
+
+$
+\begin{aligned}
+\text {Money collected from Dad}    &= \pounds 5 + 8 \times 25 \text {p} \\\\
+                                    &= \pounds 5 + 8 \times \pounds 0.25 \\\\
+                                    &= 5 + 2 \\\\
+                                    &= \pounds 7
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 7$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -3097,6 +4586,31 @@ $
 
 $\pounds 3.60$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Money collected from grandad}    &= 10 + 20 + 30 + 40 + 50 + 60 + 70 + 80 \\\\
+                                        &= 360 \text{p} \\\\
+                                        &= \pounds 3.60
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 3.60$
+</code></pre>
 </div>
 </div>
 
@@ -3132,6 +4646,36 @@ $
 
 $\pounds 39.60$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the table and using the answers above,
+
+$
+\begin{aligned}
+\text {Money from mum}      &= 8 \times 50  \\\\
+                            &= 400 \text{p}  \\\\
+                            &= \pounds 4 \\\\
+\text {Money collected}     &= \text{Mum} + \text{Dad} + \text{Nan} + \text{Grandad} + \text{Uncle} \\\\
+                            &= 4 + 7 + 10 + 3.60 + 15 \\\\
+                            &= \pounds 39.60
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 39.60$
+</code></pre>
 </div>
 </div>
 
@@ -3176,6 +4720,45 @@ $
 
 $\pounds 3.40$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the table,
+
+$
+\begin{aligned}
+\text {Money from mum}      &= 10 \times 50  \\\\
+                            &= 500 \text{p}  \\\\
+                            &= \pounds 5 \\\\
+\text {Money from dad}      &= \pounds 5 + 10 \times 25 \text {p} \\\\
+                            &= \pounds 5 + 10 \times \pounds 0.25 \\\\
+                            &= 5 + 2.50 \\\\
+                            &= \pounds 7.50 \\\\
+\text {Money from grandad}  &= 360  + 90  + 100  \\\\
+                            &= 550 \text{p} \\\\
+                            &= \pounds 5.50 \\\\
+\text {Money collected}     &= \text{Mum} + \text{Dad} + \text{Nan} + \text{Grandad} + \text{Uncle} \\\\
+                            &= 5 + 7.50 + 10 + 5.50 + 15 \\\\
+                            &= \pounds 43 \\\\
+\text {Extra money}         &= 43 - 39.60 \\\\
+                            &= \pounds 3.40
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 3.40$
+</code></pre>
 </div>
 </div>
 
@@ -3259,6 +4842,25 @@ Sasha is selling greetings cards and gifts for Mothers' Day.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -3286,6 +4888,32 @@ $
 
 $\pounds 9.57$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the table,
+
+$
+\begin{aligned}
+\text {Total cost}    &= \pounds 2.59 + \pounds 5.49 + \pounds 1.49 \\\\
+                      &= \pounds 9.57
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 9.57$
+</code></pre>
 </div>
 </div>
 
@@ -3316,6 +4944,31 @@ $
 
 $\pounds 4.56$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Change needed}    &= \pounds 10 - (\pounds 1.79 + \pounds 3.65) \\\\
+                         &= 10 - 5.44 \\\\
+                         &= \pounds 4.56
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 4.56$
+</code></pre>
 </div>
 </div>
 
@@ -3360,6 +5013,52 @@ $\pounds 1.49$
 
 $\pounds 3.65$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \pounds 2.59 + \pounds 1.49 + \pounds 3.65 \\\\
+&= \pounds 7.73
+\end{aligned}
+$
+
+$\pounds 2.59, \pounds 1.49, \pounds 3.65$ totals to $\pounds 7.73$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.59$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1.49$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 3.65$
+</code></pre>
 </div>
 </div>
 
@@ -3419,6 +5118,32 @@ $\pounds 182$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As we know, there are $52$ weeks in a year.
+
+$
+\begin{aligned}
+\text {Savings in a year}      &= 52 \times \pounds 3.50  \\\\
+                               &= \pounds 182
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 182$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -3469,6 +5194,33 @@ $
 
 $\pounds 8.10$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Money spent}      &= 2 \times 1.60 + 3 \times 2.40 + 1.50 \\\\
+                        &= 3.20 + 7.20 + 1.50 \\\\
+                        &= \pounds 11.90 \\\\
+\text{Change received}  &= 20 - 11.90 \\\\
+                        &= \pounds 8.10
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 8.10$
+</code></pre>
 </div>
 </div>
 
@@ -3552,6 +5304,31 @@ $\pounds 1.720$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \pounds 17.20 \div 10 \\\\
+&= \dfrac {17.20} {10} \\\\
+&= \pounds 1.720
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1.720$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -3633,6 +5410,31 @@ $\pounds 2.15$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \pounds 17.20 \div 8 \\\\
+&= \dfrac {17.20} {8} \\\\
+&= \pounds 2.15
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.15$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -3691,6 +5493,40 @@ TODOANSWER
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -3744,6 +5580,35 @@ $
 
 $\pounds 5.82$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin{aligned} 
+\text {Money spent}         &= 11 \times 38 \\\\
+                            &= 418 \text{p} \\\\
+                            &= \pounds 4.18 \\\\
+\text {Change recieved}     &= 10 - 4.18 \\\\
+                            &= \pounds 5.82
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 5.82$
+</code></pre>
 </div>
 </div>
 
@@ -3832,6 +5697,35 @@ $\pounds 2.03$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin{aligned} 
+\text {Money spent}         &= 11 \times 27 \\\\
+                            &= 297 \text{p} \\\\
+                            &= \pounds 2.97 \\\\
+\text {Change recieved}     &= 5 - 2.97 \\\\
+                            &= \pounds 2.03
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.03$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -3915,6 +5809,33 @@ $\pounds 3.36$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {3} {4} \ \text {of} \ \pounds 4.48 \\\\
+&= \dfrac {3} {4} \times 4.48 \\\\
+&= \dfrac {3 \times 4.48} {4} \\\\
+&= \dfrac {13.44} {4} \\\\
+&= \pounds 3.36
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 3.36$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -3996,6 +5917,33 @@ $
 
 $\pounds 3.01$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Total cost}      &= 13 \times 23 \\\\
+                        &= 299 \text {p} \\\\
+                        &= \pounds 2.99 \\\\
+\text {Change received} &= 5 - 2.99 \\\\
+                        &= \pounds 3.01
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 3.01$
+</code></pre>
 </div>
 </div>
 
@@ -4085,6 +6033,34 @@ $20 \%$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Percentage}               &= \dfrac {1} {5} \times 100 \\\\
+                                &= \dfrac {100} {5} \\\\
+                                &= \dfrac {5 \times 20} {5} \\\\
+                                &= \dfrac {\cancel{5} \times 20} {\cancel{5}} \\\\
+                                &= \dfrac {\cancel{5} \times 20} {\cancel{5}} \\\\
+                                &= 20 \%
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20 \%$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -4171,6 +6147,35 @@ $\pounds 4.54$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin{aligned} 
+\text {Money spent}             &= 7 \times 78 \\\\
+                                &= 546 \text {p} \\\\
+                                &= \pounds 5.46 \\\\
+\text {Change recieved}         &= 10 - 5.46 \\\\
+                                &= \pounds 4.54
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 4.54$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -4254,6 +6259,35 @@ $
 
 $\pounds 18$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 15 \% \ \text {of} \ \pounds 120 \\\\
+&= \dfrac {15} {100} \times 120 \\\\
+&= \dfrac {15 \times 120} {100} \\\\
+&= \dfrac {3 \times 5 \times 6 \times 20} {5 \times 20} \\\\
+&= \dfrac {3 \times \cancel {5} \times 6 \times \cancel {20}} {\cancel {5} \times \cancel {20}} \\\\
+&= 3 \times 6 \\\\
+&= \pounds 18
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 18$
+</code></pre>
 </div>
 </div>
 

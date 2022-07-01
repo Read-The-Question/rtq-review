@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-blocked"
 title: "TopicPaper - Money - 2 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -63,6 +63,33 @@ $(4.65 \div 15) \times 19$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{Cost of 15 pens}                                 &= \pounds 4.65 \\\\
+\text{Cost of 1 pen}                                   &= 4.65 \div 15 \\\\
+\text{Cost of 19 pens}                                 &= (4.65 \div 15) \times 19
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>c</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$(4.65 \div 15) \times 19$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -122,6 +149,32 @@ $
 
 $\pounds 64$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text {Total cost}  &= 4 \times \pounds 16 \\\\
+                    &= \pounds 64
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 64$
+</code></pre>
 </div>
 </div>
 
@@ -198,6 +251,56 @@ $
 
 $988$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+Let's convert the total amount into pence.
+
+$
+\begin{aligned}
+\text{Total amount}  &= \pounds 10 \\\\
+                     &= 10 \times 100 \text{p} \\\\
+                     &= 1000\text{p}
+\end{aligned}
+$
+
+Cost of each stamp $= 26\text{p}$
+
+Total stamps can be brought
+
+$
+\begin{aligned}
+&= \dfrac {1000} {26} \\\\
+&=  38.4 \\\\
+&=  38
+\end{aligned}
+$
+
+Total amount spent
+
+$
+\begin{aligned}
+&= 38 \times 26 \\\\
+&= 988 \text{p}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$988$
+</code></pre>
 </div>
 </div>
 

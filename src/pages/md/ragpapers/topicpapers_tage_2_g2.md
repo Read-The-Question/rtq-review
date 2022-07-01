@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-2-g2"
 title: "TopicPaper - Age - 2 - G2"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -74,6 +74,50 @@ Father's age $= 48 \ \text {years}$
 
 $48 \ \text {years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let father’s age $= a$
+
+Daughter's age $= \dfrac {a} {2}$
+
+Brother's age $= \dfrac {a} {4}$
+
+As per the question,
+
+$
+\begin{aligned}
+a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac {a} {4}                                                     &= 96 \\\\
+\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a} {4} + \dfrac{a} {4}               &= 96 \\\\
+\dfrac {4a} {4} + \dfrac {2a} {4} + \dfrac {a} {4} + \dfrac {a} {4}                             		 &= 96 \\\\ 
+\dfrac {4a + 2a + a + a} {4}                                                                    		 &= 96 \\\\
+\dfrac {8a} {4}                                                                                 		 &= 96 \\\\
+8a                                                                                              		 &= 96 \times 4 \\\\
+a                                                                                               		 &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               		 &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               		 &= \dfrac {8 \times 12 \times 4} {8} \\\\
+a                                                                                               		 &= \dfrac {\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               		 &= 12 \times 4 \\\\
+a                                                                                               		 &= 48 \ \text {years}
+\end{aligned}
+$
+
+Father's age $= 48 \ \text {years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48 \ \text {years}$
+</code></pre>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-1-g0"
 title: "TopicPaper - Graph - 1 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -60,6 +60,38 @@ $
 
 $50$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Students who preferred root beer} &= \dfrac {1}{4} \ \text{of} \ 600 \ \text{students} \\\\
+\text{Students who preferred lemonade}     &= \dfrac {1}{6} \ \text{of} \ 600 \ \text{students} \\\\
+\text{Difference}                         &= (\dfrac {1}{4} - \dfrac {1}{6}) \ \text{of} \ 600 \ \text{students} \\\\
+                                        &= (\dfrac {1 \times 6}{4 \times 6} - \dfrac {1 \times 4}{6 \times 4} ) \times 600 \\\\
+                                         &= (\dfrac {6}{24} - \dfrac {4}{24} ) \times 600 \\\\
+                                         &= \dfrac {2}{24}  \times 600 \\\\
+                                         &= \dfrac {2 \times 600}{24} \\\\
+                                         &= \dfrac {2 \times 12 \times 50}{2 \times 12} \\\\
+                                         &= \dfrac {\cancel{2} \times \cancel{12} \times 50}{\cancel{2} \times \cancel{12}} \\\\
+                                         &= 50
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$50$
+</code></pre>
 </div>
 </div>
 
@@ -169,6 +201,52 @@ $
 
 $54$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the total number of students in 6C $= a$
+
+As per the pie chart,
+
+$
+\begin{aligned}
+\dfrac{60}{360} \text{ of } a   &= 36 \\\\
+\dfrac{60}{360} \times a        &= 36 \\\\
+a                               &= \dfrac{36 \times 360}{60} \\\\
+a                               &= \dfrac{36 \times 60 \times 6}{60} \\\\
+a                               &= \dfrac{36 \times \cancel{60} \times 6}{\cancel{60}} \\\\
+a                               &= 36 \times 6 \\\\
+a                               &= 216
+\end{aligned}
+$
+
+Total students $= 216$
+
+$
+\begin{aligned}
+\text{Students who chose swimming}  &= \dfrac{90}{360} \times 216 \\\\
+                                    &= \dfrac{1}{4} \times 216 \\\\
+                                    &= \dfrac{216}{4} \\\\
+                                    &= \dfrac{54 \times 4}{4} \\\\
+                                    &= \dfrac{54 \times \cancel{4}}{\cancel{4}} \\\\
+                                    &= 54
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$54$
+</code></pre>
 </div>
 </div>
 

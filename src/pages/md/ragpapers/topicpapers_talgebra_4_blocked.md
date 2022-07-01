@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-4-blocked"
 title: "TopicPaper - Algebra - 4 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -70,6 +70,43 @@ $12$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of sweets in the jar $= a$.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total number of children} \times (\dfrac {1} {16} \ \text {of} \ a)        &= a - (\dfrac {1} {4} \ \text {of} \ a) \\\\
+\text {Total number of children}                                                  &= (16 \times \dfrac {1}{a}) \times (a - (\dfrac {1} {4} \times a)) \\\\
+                                                                                  &= \dfrac {16} {a} \times (a - \dfrac {a} {4}) \\\\
+                                                                                  &= \dfrac {16} {a} \times (\dfrac {4 \times a} {4 \times 1} - \dfrac {a} {4}) \\\\
+                                                                                  &= \dfrac {16} {a} \times (\dfrac {4a} {4} -\dfrac {a} {4}) \\\\
+                                                                                  &= \dfrac {16} {a} \times (\dfrac {4a - a} {4}) \\\\
+                                                                                  &= \dfrac {16} {a} \times \dfrac {3a} {4} \\\\
+                                                                                  &= \dfrac {16 \times 3a} {a \times 4} \\\\
+                                                                                  &= \dfrac {4 \times 4 \times 3a} {a \times 4} \\\\
+                                                                                  &= \dfrac {\cancel {4} \times 4 \times 3 \times \cancel {a}} {\cancel {a} \times \cancel {4}} \\\\
+                                                                                  &= 12
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -130,6 +167,40 @@ $6$ bottles will last for $9$ days.
 
 $2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\dfrac {2} {3} \ \text {of} \ 1 \ \text {bottle}    &= 1 \ \text {day} \\\\
+1 \ \text {bottle}                                  &= \dfrac {3} {2} \ \text {days} \\\\
+6 \ \text {bottles}                                 &= 6 \times \dfrac {3} {2} \ \text {days} \\\\
+                                                    &= \dfrac {6 \times 3} {2} \\\\
+                                                    &= \dfrac {2 \times 3 \times 3} {2} \\\\
+                                                    &= \dfrac {\cancel {2} \times 3 \times 3} {\cancel {2}} \\\\
+                                                    &= 3 \times 3 \\\\
+                                                    &= 9 \ \text {days}
+\end{aligned}
+$
+
+$6$ bottles will last for $9$ days.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2$
+</code></pre>
 </div>
 </div>
 

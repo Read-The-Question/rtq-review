@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-g0"
 title: "TopicPaper - Algebra - 15 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -44,6 +44,25 @@ Write a number in each box to complete the statements.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -69,6 +88,30 @@ $
 
 $16700$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 16.7 \times 1000 \\\\
+&= 16700
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16700$
+</code></pre>
 </div>
 </div>
 
@@ -104,6 +147,36 @@ $
 
 $370$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+a \div 100          &= 3.7 \\\\
+\dfrac {a} {100}    &= 3.7 \\\\
+a                   &= 3.7 \times 100 \\\\
+a                   &= 370
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$370$
+</code></pre>
 </div>
 </div>
 
@@ -190,6 +263,25 @@ There are twelve ginger biscuits.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -224,6 +316,39 @@ There are $4$ custard creams.
 
 $4$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Custard biscuit are a third of other biscuits then chocolate biscuits so they are a third of ginger biscuits. Using that,
+
+$
+\begin{aligned}
+\text {Total custard creams}    &= \dfrac {1} {3} \times 12 \\\\
+                                &= \dfrac {12} {3} \\\\
+                                &= \dfrac {4 \times 3} {3} \\\\
+                                &= \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
+                                &= 4
+\end{aligned}
+$
+
+There are $4$ custard creams.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
 </div>
 </div>
 
@@ -261,6 +386,38 @@ There are $24$ biscuits in the box.
 
 $24$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text {Total biscuits in the box}    &= 8 + 12 + \dfrac {1} {3} \times 12 \\\\
+                                     &= 20 + \dfrac {12} {3} \\\\
+                                     &= 20 + \dfrac {4 \times 3} {3} \\\\
+                                     &= 20 + \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
+                                     &= 20+ 4 \\\\
+                                     &= 24
+\end{aligned}
+$
+
+There are $24$ biscuits in the box.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$24$
+</code></pre>
 </div>
 </div>
 
@@ -361,6 +518,40 @@ $150$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+Number of circles $= \dfrac {45} {3}$.
+
+Number of triangles $= 45 \times 2$.
+
+$
+\begin{aligned}
+\text {Total shapes}    &= 45 + \dfrac {45} {3} + 45 \times 2 \\\\
+                        &= 45 + \dfrac {15 \times 3} {3} +90 \\\\
+                        &= 45 + \dfrac {15 \times \cancel {3}} {\cancel {3}} +90 \\\\
+                        &= 45 + 15 + 90 \\\\
+                        &= 60 + 90 \\\\
+                        &= 150
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$150$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -446,6 +637,37 @@ $
 
 $65$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Marks for a correct answer}           &= 4 \\\\
+\text{Total correct answers}                &= 17 \\\\
+\text{Marks}                                &= 17 \times 4 \\\\
+\text{Marks deducted for a wrong answer}    &= 1 \\\\
+\text{Total wrong answers}                  &= 3 \\\\
+\text{Marks deducted}                       &= 3 \times 1 \\\\
+\text{Final Marks}                          &= (17 \times 4) - (3 \times 1) \\\\
+                                            &= 68 - 3 \\\\
+                                            &= 65
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$65$
+</code></pre>
 </div>
 </div>
 
@@ -553,6 +775,48 @@ $
 
 $20 \ \text{coins}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the count of coins of each denomination $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
+\end{aligned}
+$
+
+There are $5$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20 \ \text{coins}$
+</code></pre>
 </div>
 </div>
 
@@ -722,6 +986,117 @@ $\pounds 400$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of a bull (in $\text{\pounds}$) $= b$
+
+Let the cost of a cow (in $\text{\pounds}$) $= c$
+
+As per the question,
+
+$
+\begin{aligned} 
+b + 3c      &= 1300 \\\\
+4b + 8c     &= 4000         
+\end{aligned}
+$
+
+There are two variables, $b$ and $c$. Let's eliminate to reduce it to just one variable. Multiply the first equation by $4$ to eliminate $b$.
+
+$
+\begin{aligned} 
+b + 3c                      &= 1300 \\\\
+4 \times b + 4 \times 3c    &= 4 \times 1300 \\\\
+4b + 12c                    &= 5200
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+4b + 12c                    &= 5200 \\\\
+4b + 8c                     &= 4000 \\\\
+4b + 12c - (4b + 8c)        &= 5200 - 4000 \\\\
+4b + 12c - 4b - 8c          &= 5200 - 4000 \\\\
+4c                          &= 1200 \\\\
+c                           &= \dfrac{1200}{4} \\\\
+c                           &= \pounds 300
+\end{aligned}
+$
+
+Cost of a cow $= \pounds 300$. 
+
+Let's substitute the value of $c$ in one of the initial equations to find the cost of a bull.
+
+$
+\begin{aligned} 
+b + 3c                      &= 1300  \\\\
+b + 3 \times 300            &= 1300 \\\\
+b + 900                     &= 1300 \\\\
+b                           &= 1300 - 900 \\\\
+b                           &= \pounds 400
+\end{aligned}
+$
+
+Cost of a bull $= \pounds 400$.
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Can we do better than the previous solution? If we look at the question, we only have to find the cost of a bull. 
+In the previous solution, we first found the cost of a cow and then we used that to find the cost of a bull.
+We can eliminate $c$ instead to directly find the cost of a bull.
+
+Let the cost of a bull in pounds $= b$
+
+Let the cost of a cow in pounds $= c$
+
+Let's eliminate again to reduce it to just one variable $b$. The LCM of $8$ and $3$ is $24$. 
+Multiply the first equation by $8$ and the second equation by $3$ to make the coeifficent of $c$ the same.
+
+$
+\begin{aligned} 
+b + 3c                      &= 1300 \\\\
+4b + 8c                     &= 4000 \\\\
+8 \times b + 8 \times 3c    &= 8 \times 1300 \\\\
+3 \times 4b + 3 \times 8c   &= 3 \times 4000 \\\\
+8b + 24c                    &= 10400 \\\\
+12b + 24c                   &= 12000
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned}
+8b + 24c                    &= 10400 \\\\
+12b + 24c                   &= 12000 \\\\
+12b + 24c - (8b + 24c)      &= 12000 - 10400 \\\\
+12b + 24c - 8b - 24c        &= 12000 - 10400 \\\\
+4b                          &= 1600 \\\\
+b                           &= \dfrac{1600}{4} \\\\
+b                           &= \pounds 400
+\end{aligned}
+$
+
+Cost of a bull $= \pounds 400$. 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 400$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -814,6 +1189,42 @@ Length of the baby crocodile last week $= 25 \ \text{cm}$
 
 $25 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the length of the baby crocodile last week $= a$.
+
+As per the question, it grows by $\dfrac{1}{5}$ of its length every week. So,
+
+$
+\begin{aligned}
+a + \dfrac {a} {5}                      &= 30 \\\\
+\dfrac {5a} {5}  + \dfrac {a} {5}       &= 30 \\\\
+\dfrac {6a} {5}                         &= 30 \\\\
+a                                       &= \dfrac {30 \times 5} {6} \\\\
+a                                       &= \dfrac {5 \times 6 \times 5} {6} \\\\
+a                                       &= \dfrac {5 \times \cancel{6} \times 5} {\cancel{6}} \\\\
+a                                       &= 5 \times  5 \\\\
+a                                       &= 25 \ \text{cm}
+\end{aligned}
+$
+
+Length of the baby crocodile last week $= 25 \ \text{cm}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 
@@ -942,6 +1353,62 @@ $56$ coins
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of $20 \text{p}$ coins $= a$. Then, as per the question, 
+
+$10 \text{p}$ coins $= 2a$
+
+$5 \text{p}$ coins $= 4a$
+
+rtq_abbr_md_unit_no_dot_note. Let's convert the total amount into pence.
+
+$
+\begin{aligned}
+\text{Total amount} &= \pounds 4.80\\\\
+                    &= 4.80 \times 100 \text{p} \\\\
+                    &= 480 \text{p}
+\end{aligned}
+$
+
+Using that we get,
+
+$
+\begin{aligned}
+20 \times a + 10 \times 2a + 5 \times 4a    &= 480\\\\
+20a + 20a + 20a                             &= 480 \\\\
+60a                                         &= 480 \\\\
+a                                           &= \dfrac {480} {60} \\\\
+a                                           &= \dfrac {60 \times 8} {60} \\\\
+a                                           &= \dfrac {\cancel{60} \times 8} {\cancel{60}} \\\\
+a                                           &= 8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total coins}  &= a + 2a + 4a \\\\
+                    &= 7a \\\\
+                    &= 7 \times 8 \\\\
+                    &= 56 \ \text{coins} \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$56$ coins
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1041,6 +1508,49 @@ Irfan is $16 \text{th}$ in the queue.
 
 $16$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of people behind Irfan $= a$
+
+Then, as per the question, the number of people ahead of Irfan $= a + 7$
+
+So, *People ahead* $+$ *Irfan* $+$ *People behind* $= 24$
+
+Putting this into an equation, we get
+
+$
+\begin{aligned}
+(a + 7) + 1 + a     &= 24 \\\\
+a + 7 + 1 + a       &= 24 \\\\
+2a + 8              &= 24 \\\\
+2a                  &= 24 - 8 \\\\
+2a                  &= 16 \\\\
+a                   &= \dfrac {16} {2} \\\\
+a                   &= 8
+\end{aligned}
+$
+
+Number of people behind Irfan $= 8$. So,
+
+Irfan's position $= 24 - 8 = 16$
+
+Irfan is $16 \text{th}$ in the queue.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16$
+</code></pre>
 </div>
 </div>
 
@@ -1215,6 +1725,122 @@ $\pounds 7$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of a CD in pounds $= c$
+
+Let the cost of a DVD in pounds $= d$
+
+As per the question,
+
+$
+\begin{aligned} 
+3c + 2d &= 43 \\\\
+2c + 3d &= 47
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+But which one should we eliminate? If we look at the question again, we only need the 
+cost for a CD, so let's eliminate $d$ so we can directly calculate the value for $c$.
+
+The LCM of $2$ and $3$ is $6$. Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $d$ the same.
+
+$
+\begin{aligned} 
+3 \times 3c + 3 \times 2d   &= 3 \times 43  \\\\
+2 \times 2c + 2 \times 3d   &= 2 \times 47  \\\\
+9c + 6d                     &= 129 \\\\
+4c + 6d                     &= 94
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned} 
+9c + 6d - (4c + 6d) &= 129 - 94 \\\\
+9c + 6d - 4c - 6d   &= 35 \\\\
+5c                  &= 35 \\\\
+c                   &= \dfrac {35} {5} \\\\
+c                   &= \dfrac {7 \times 5} {5} \\\\
+c                   &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
+c                   &= 7
+\end{aligned}
+$
+
+Cost of a CD $= \pounds 7$.
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>What if we eliminate $c$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+The LCM of $2$ and $3$ is $6$. Multiply the first equation by $2$ and the second equation by $3$ to make the coeifficent of $c$ the same.
+
+$
+\begin{aligned} 
+2 \times 3c + 2 \times 2d   &= 2 \times 43 \\\\
+3 \times 2c + 3 \times 3d   &= 3 \times 47 \\\\
+6c + 4d                     &= 86 \\\\
+6c + 9d                     &= 141
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned} 
+6c + 9d - (6c + 4d)     &= 141 - 86 \\\\
+6c + 9d - 6c - 4d       &= 55 \\\\
+5d                      &= 55 \\\\
+d                       &= \dfrac {55} {5} \\\\
+d                       &= \dfrac {11 \times 5} {5} \\\\
+d                       &= \dfrac {11 \times \cancel{5}} {\cancel{5}} \\\\
+d                       &= 11
+\end{aligned}
+$
+
+Cost of a DVD $= \pounds 11$. 
+
+Let's substitute the value of $d$ in one of the initial equations to find the cost of a CD.
+
+$
+\begin{aligned} 
+3c + 2d             &= 43 \\\\
+3c + 2 \times 11    &= 43 \\\\
+3c + 22             &= 43 \\\\
+3c                  &= 43 -22 \\\\
+3c                  &= 21 \\\\
+c                   &= \dfrac {21} {3} \\\\
+c                   &= \dfrac {7 \times 3} {3} \\\\
+c                   &= \dfrac {7 \times \cancel{3}} {\cancel{3}} \\\\
+c                   &= 7
+\end{aligned}
+$
+
+Cost of a CD $= \pounds 7$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 7$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1327,6 +1953,55 @@ $4$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the count of $10 \text {p}$ coins $= c$
+
+As per the question,
+
+Count of $20 \text {p}$ coins $= 2c$
+
+rtq_abbr_md_unit_note
+
+Let's convert the total amount into pence.
+
+$
+\begin{aligned} 
+\text{Total Amount}     &=  \pounds 2 \\\\
+                        &=  2 \times 100 \text{p} \\\\
+                        &=  200 \text{p}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned} 
+10 \times c + 20 \times 2c      &= 200 \\\\
+10c + 40c                       &= 200 \\\\
+50c                             &= 200 \\\\
+c                               &= \dfrac{200} {50} \\\\
+c                               &= \dfrac{50 \times 4} {50} \\\\
+c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}} \\\\
+c                               &= 4
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1416,6 +2091,41 @@ $
 
 $22$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the count of rulers $= r$
+
+As per the question,
+
+$
+\begin{aligned} 
+\text {Number of Pencil + Number of Ruler} &= 52 \\\\
+r + (r + 8)                                &= 52 \\\\
+2r + 8                                     &= 52 \\\\
+2r                                         &= 52 - 8 \\\\
+2r                                         &= 44 \\\\
+r                                          &= \dfrac {44}{2} \\\\
+r                                          &= \dfrac {2 \times 22}{2} \\\\
+r                                          &= \dfrac {\cancel {2} \times 22}{\cancel {2}} \\\\
+r                                          &= 22
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$22$
+</code></pre>
 </div>
 </div>
 
@@ -1516,6 +2226,46 @@ $4$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the tens digit for the number $= a$
+
+Let the unit digit for the number $= b$
+
+Value of the original number $= 10a + b$
+
+When the digits are reversed, the value of the reversed number $= 10b + a$
+
+As per the question,
+
+$
+\begin{aligned}
+(10a + b)- (10b + a)    &= 36 \\\\
+10a + b- 10b - a        &= 36 \\\\
+9a -9b                  &= 36 \\\\
+9 (a - b)               &= 36 \\\\
+a - b                   &= \dfrac {36}{9} \\\\
+a - b                   &= 4
+\end{aligned}
+$
+
+The difference between the two digits in her original number is $= 4$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1603,6 +2353,39 @@ The number that Neil thought of $= 42$.
 
 $42$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number that Neil thought of $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {a} {2} - 9      &= 12 \\\\
+\dfrac {a} {2}          &= 12 + 9 \\\\
+\dfrac {a} {2}          &= 21 \\\\
+a                       &= 21 \times 2 \\\\
+a                       &= 42
+\end {aligned}
+$
+
+The number that Neil thought of $= 42$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$42$
+</code></pre>
 </div>
 </div>
 
@@ -1705,6 +2488,46 @@ $100 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the left over wire (in $\text {cm}$) $= w$.
+
+rtq_abbr_md_unit_no_dot_note. The wire measurement are given in multiple units.
+
+Let's convert all the measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin {aligned}
+85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w                                               &= 5 \ \text {metre} \\\\
+85 \ \text {cm} +  2.5 \times 100 \ \text {cm} + \dfrac {650} {10} \ \text {cm} + w                         &= 5 \times 100 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + \dfrac {65 \cancel {0}} {1 \cancel {0}} \ \text {cm} + w              &= 500 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w                                                   &= 500 \ \text {cm} \\\\
+85  + 250  + 65 + w                                                                                         &= 500  \\\\
+400 + w                                                                                                     &= 500 \\\\
+w                                                                                                           &= 500 - 400 \\\\
+w                                                                                                           &= 100 \ \text {cm}
+\end {aligned}
+$
+
+The left over wire length is = $100\ \text {cm}$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$100 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1802,6 +2625,42 @@ Length of the second cuboid $= 24 \ \text{cm}$
 
 $24 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the length of the second cuboid (in $\text{cm}$) $= l$
+
+rtq_abbr_katex_formula_volume_cuboid
+
+As per the question, the two weights have the same volume. Using that we get,
+
+$
+\begin{aligned}
+10 \times 12 \times l   &=20 \times 16 \times 9 \\\\
+l                       &= \dfrac {20 \times 16 \times 9} {10 \times 12} \\\\
+l                       &= \dfrac {2 \times 10 \times 4 \times 4 \times 3 \times 3} {10 \times 4 \times 3} \\\\
+l                       &= \dfrac {2 \times 1\cancel{0} \times \cancel{4} \times 4 \times \cancel{3} \times 3} {1\cancel{0} \times \cancel{4} \times \cancel{3}} \\\\
+l                       &= 2 \times 4 \times 3 \\\\
+l                       &= 24 \ \text{cm}
+\end{aligned}
+$
+
+Length of the second cuboid $= 24 \ \text{cm}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$24 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 
@@ -1917,6 +2776,50 @@ $16$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the count of coins of each denomination $= c$.
+
+rtq_abbr_md_unit_no_dot_note. Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+10 \times c + 20 \times c + 50 \times c + 100 \times c   &= \pounds 7.20 \\\\
+10c + 20c + 50c + 100c                                   &= 720 \\\\
+180c                                                     &= 720 \\\\
+c                                                        &= \dfrac {720} { 180} \\\\
+c                                                        &= \dfrac {180 \times 4} { 180} \\\\
+c                                                        &= \dfrac {\cancel{180} \times 4} { \cancel{180}} \\\\
+c                                                        &= 4
+\end{aligned}
+$ 
+
+There are $4$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}   &=  4 \times 4 \\\\
+                     &= 16 \ \text{coins}
+\end{aligned}
+$   
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2012,6 +2915,44 @@ Number of pigs $= 20$
 
 $20$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number of pigs $= a$
+
+As per the question,
+
+Let's equate food consumed to the count of animals, we get
+
+$
+\begin{aligned} 
+30 \times 8 + a \times 6    &= 360 \\\\
+240 + 6a                    &= 360 \\\\
+6a                          &= 360 - 240 \\\\
+6a                          &= 120 \\\\
+a                           &= \dfrac {120} {6} \\\\
+a                           &= \dfrac {20 \times 6} {6} \\\\
+a                           &= \dfrac {20 \times \cancel{6}} {\cancel{6}} \\\\
+a                           &= 20
+\end{aligned}
+$
+
+Number of pigs $= 20$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20$
+</code></pre>
 </div>
 </div>
 
@@ -2138,6 +3079,69 @@ $
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the shortest piece (in $\text{cm}$) $= a$
+
+Then as per the question,
+
+Middle piece (in $\text{cm}$) $= a + 70$
+
+Largest piece (in $\text{cm}$) $= a + 70 + 40$
+
+rtq_abbr_md_unit_note
+The pole measurement is given in metres while the measurement of the pieces are given in cms.
+Let's convert the total length into $\text{cm}$.
+
+$
+\begin{aligned} 
+\text{Total length}     &=  6  \ \text{metre} \\\\
+                        &=  6 \times 100 \ \text{cm} \\\\
+                        &=  600 \ \text{cm}
+\end{aligned}
+$
+
+Equating the pole to pieces we get,
+
+$
+\begin{aligned} 
+a + (a + 70) + (a + 70 + 40)    &= 600 \\\\
+a + a + 70 + a + 70 + 40        &= 600 \\\\
+3a + 180                        &= 600 \\\\
+3a                              &= 600 - 180\\\\
+3a                              &= 420 \\\\
+3a                              &= \dfrac {420} {3} \\\\
+a                               &= 140 \ \text{cm}
+\end{aligned}
+$
+
+The shortest piece $= 120$ cm.
+
+let's calculate the largest piece.
+
+$
+\begin{aligned} 
+\text{Largest piece}   &= a + 70 + 40 \\\\
+                       &= 140 + 70 + 40 \\\\
+                       &= 250  \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>\text{Largest piece}</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$250  \ \text{cm}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2236,6 +3240,46 @@ $24 \text{p}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of a chocolate biscuit (in pence) $= a$
+
+Cost of a bag of crisps (in pence) $= a + 4$
+
+As per the question,
+
+$
+\begin{aligned} 
+2 \times (a + 4) + 5 \times a   &= \pounds 1.76  \\\\
+2 \times (a + 4) + 5 \times a   &= 176 \text{pence}  \\\\
+2a + 8 + 5a                     &= 176  \\\\
+7a + 8                          &= 176  \\\\
+7a                              &= 176 - 8  \\\\
+7a                              &= 168  \\\\
+a                               &= \dfrac {168}{7}  \\\\
+a                               &= \dfrac {24 \times 7}{7}  \\\\
+a                               &= \dfrac {24 \times \cancel{7}}{\cancel{7}}  \\\\
+a                               &= 24 \text{p}
+\end{aligned}
+$
+
+Cost of a chocolate biscuit $= 24 \text{p}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$24 \text{p}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2329,6 +3373,42 @@ Original price $= \pounds 50$
 
 $\pounds 50$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the original cost of the coat (in $\pounds$) $= c$
+
+If the price is reduced by $20 \%$, then the sale price would be $100 - 20 = 80 \%$ of the original price.
+
+Let's use this to calculate the original price.
+
+$
+\begin{aligned}
+80 \% \text{ of } c               &= 40 \\\\
+\dfrac {80 } { 100 } \times c     &= 40 \\\\
+c                                 &= \dfrac {40 \times 100} { 80 } \\\\
+c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
+c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
+c                                 &= \pounds 50 
+\end{aligned}
+$
+
+Original price $= \pounds 50$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 50$
+</code></pre>
 </div>
 </div>
 
@@ -2433,6 +3513,47 @@ $130 \ \text {grams}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the weight for the largest apple (in $\text{grams}$) $= a$
+
+$\text{Average weight} = \dfrac {\text{Total Weight}} {\text{Total Apples}}$
+
+$
+\begin{aligned}
+\text{Mean weight of } 2 \text{ apples}     &= 70 \\\\
+\text{Total weight of } 2 \text{ apples}    &= 70 \times 2 \\\\
+                                            &= 140  \ \text {grams}
+\end{aligned}
+$
+
+Using the average weight for $3$ apples, we get
+
+$
+\begin{aligned}
+\dfrac {a + 140} {3}    &= 90  \\\\
+a + 140                 &= 90  \times 3 \\\\
+a + 140                 &= 270 \\\\
+a                       &= 270 - 140\\\\
+a                       &= 130 \ \text {grams} 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$130 \ \text {grams}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2524,6 +3645,38 @@ $
 
 $129$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number immediately before $= a$
+
+As per the question,
+
+
+$
+\begin{aligned} 
+2a - 1      &= 257 \\\\
+2a          &= 257 + 1 \\\\
+2a          &= 258 \\\\
+a           &= \dfrac {258}{2} \\\\
+a           &= 129
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$129$
+</code></pre>
 </div>
 </div>
 

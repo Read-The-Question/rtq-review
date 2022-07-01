@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g0"
 title: "TopicPaper - Money - 4 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -53,6 +53,31 @@ $
 
 $13 \text{p},23 \text{p},53 \text{p}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+13 \text {p}     &= 10 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+23 \text {p}     &= 20 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+53 \text {p}     &= 50 \text {p} + 2 \text {p} + 1 \text {p}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13 \text{p},23 \text{p},53 \text{p}$
+</code></pre>
 </div>
 </div>
 
@@ -134,6 +159,25 @@ Duncan decide to stop by for a meal on their way home from work one day.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -161,6 +205,32 @@ $
 
 $\pounds 2.84$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the table,
+
+$
+\begin {aligned}
+\text {Total cost}  &= \pounds 0.99 + \pounds 1.20 + \pounds 0.65 \\\\
+                    &= \pounds 2.84
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.84$
+</code></pre>
 </div>
 </div>
 
@@ -198,6 +268,36 @@ $\pounds 2, 10 \text {p}, 5 \text {p} \ \text {and} \ 1 \text {p}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Change received}     &= 5 - 2.84 \\\\
+                            &= \pounds 2.16
+\end{aligned}
+$
+
+$\pounds 2.16 = \pounds 2 + \pounds 0.10 + \pounds 0.05 + \pounds 0.01$
+
+$\pounds 2.16 = \pounds 2 + 10 \text {p} + 5 \text {p} + 1 \text {p}$
+
+The coins were $\pounds 2, 10 \text {p}, 5 \text {p} \ \text {and} \ 1 \text {p}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2, 10 \text {p}, 5 \text {p} \ \text {and} \ 1 \text {p}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -228,6 +328,33 @@ For three sausages, a meat pie and a can of fizzy drink Jon paid $= \pounds 3.90
 
 $\pounds 3.90$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= (3 \times 0.45) + 2.20 + 0.35 \\\\
+&= 1.35 + 2.20 + 0.35 \\\\
+&= \pounds 3.90
+\end{aligned}
+$
+
+For three sausages, a meat pie and a can of fizzy drink Jon paid $= \pounds 3.90$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 3.90$
+</code></pre>
 </div>
 </div>
 
@@ -295,6 +422,67 @@ So, Simon ordered $= 2$ Meat Pie, $1$ Cup of Tea and $1$ Cups of Coffee
 
 $2 \ \text {Meat Pie}, 1 \ \text {Cup of Tea}, 1 \ \text {Cups of Coffee}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's first find how much did he spend in total.
+
+$
+\begin{aligned}
+&= 50 - 44.40 \\\\
+&= \pounds 5.60
+\end{aligned}
+$
+
+As per the question, Simon bought four items. He spend in total $\pounds 5.60$
+
+As he ordered generously, let's start with the most expensive item from list. 
+
+$
+\begin{aligned}
+\text {Meat Pie}  &= 2 \times 2.20 \\\\
+                  &= \pounds 4.40
+\end{aligned}
+$
+
+Money left, 
+
+$
+\begin{aligned}
+&= \pounds 5.60 - \pounds 4.40 \\\\
+&= \pounds 1.20
+\end{aligned}
+$
+
+Simon has $\pounds 1.20$ left and he buys two more items. We have to find which two or same items together add up to $\pounds 1.20$.
+
+Chips, Burger, Pie, Pasty, Sausage and Frizzy drink are either too costly or two of same items do not add up to $\pounds 1.20$
+
+Let's try Tea and Coffe
+
+$
+\begin{aligned}
+&= 0.55 + 0.65 \\\\
+&= \pounds 1.20
+\end{aligned}
+$
+
+So, Simon ordered $= 2$ Meat Pie, $1$ Cup of Tea and $1$ Cups of Coffee
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2 \ \text {Meat Pie}, 1 \ \text {Cup of Tea}, 1 \ \text {Cups of Coffee}$
+</code></pre>
 </div>
 </div>
 
@@ -411,6 +599,61 @@ $\pounds 5.33$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$1$ kg $=$ $1000$ g
+
+$\pounds 1$  $=$ $100 \text{p}$
+
+$
+\begin{aligned}
+\text{Cheese} &= \dfrac {500} {1000} \ \text{kg} \times 5.30 \\\\
+              &= 0.5 \times 5.30 \\\\
+              &= \pounds 2.65
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Bananas} &= 6 \times \pounds \dfrac {15} {100} \\\\
+               &= 6 \times 0.15 \\\\
+               &= \pounds 0.9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Chocolate bars} &= 2 \times \pounds \dfrac {56} {100} \\\\
+                      &= 2 \times 0.56 \\\\
+                      &= \pounds 1.12
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Change received} &= 10 - (\dfrac {500} {1000} \ \text{kg} \times 5.30 + 6 \times \pounds \dfrac {15} {100} + 2 \times \pounds \dfrac {56} {100}) \\\\
+                        &= 10 - (0.5 \times 5.30 + 6 \times 0.15 + 2 \times 0.56) \\\\
+                        &= 10 - (2.65 + 0.9 + 1.12) \\\\
+                        &= 10 - 4.67 \\\\
+                        &= \pounds 5.33
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 5.33$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -491,6 +734,25 @@ is not possible to make exactly $19 \text{p}$ with these coins.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -511,6 +773,25 @@ $4 \text{p}$
 
 $4 \text{p}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$4 \text{p}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4 \text{p}$
+</code></pre>
 </div>
 </div>
 
@@ -537,6 +818,25 @@ $9 \text{p}, \ 14 \text{p}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$9 \text{p}, \ 14 \text{p}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9 \text{p}, \ 14 \text{p}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -561,6 +861,25 @@ $34 \text{p}$
 
 $34 \text{p}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$34 \text{p}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$34 \text{p}$
+</code></pre>
 </div>
 </div>
 
@@ -645,6 +964,25 @@ costing $67$ pence. She paid with a $\pounds 5$ note.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -678,6 +1016,35 @@ $\pounds 2.78$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin{aligned}
+\text {Money spent}     &= \pounds 1.55 + 67 \text {p} \\\\
+                        &= \pounds 1.55 + \pounds 0.67 \\\\
+                        &= \pounds 2.22 \\\\
+\text{Change received}  &= 5 - 2.22 \\\\
+                        &= \pounds 2.78
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.78$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -708,6 +1075,32 @@ $
 
 $278$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Smallest possible coin can be $1 \ \text{pence}$
+
+$
+\begin{aligned}
+\text{Total number of coins given} &= 100 + 100 + 78 \\\\
+                                   &= 278
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$278$
+</code></pre>
 </div>
 </div>
 

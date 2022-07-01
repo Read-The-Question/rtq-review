@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-1-g0"
 title: "TopicPaper - Infer - 1 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -53,6 +53,25 @@ For example: the product value of ‘$HEAD$’ $= 8 \times 5 \times 1 \times 4 =
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -79,6 +98,31 @@ $
 
 $2375$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {YES} &= 25 \times 5 \times 19 \\\\
+            &= 125 \times 19 \\\\
+            &= 2375
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2375$
+</code></pre>
 </div>
 </div>
 
@@ -129,6 +173,47 @@ $\text {DOG}, \quad \text {CATS}, \quad \text {BIRD}, \quad \text {FISH}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>To compare, let's find the product first. 
+
+$
+\begin{aligned}
+\text {DOG}     &= 4 \times 15 \times 7 \\\\
+                &= 420 \\\\
+\text {CATS}    &= 3 \times 1 \times 20 \times 19 \\\\
+                &= 1140 \\\\
+\text {FISH}    &= 6 \times 9 \times 19 \times 8 \\\\
+                &= 8208 \\\\
+\text {BIRD}    &= 2 \times 9 \times 18 \times 4 \\\\
+                &= 1296
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 420, \quad 1140, \quad 1296, \quad 8208 \\\\
+&= \text {DOG}, \quad \text {CATS}, \quad \text {BIRD}, \quad \text {FISH}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {DOG}, \quad \text {CATS}, \quad \text {BIRD}, \quad \text {FISH}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -170,6 +255,41 @@ The three letters are $\text {B}$, $\text {E}$, $\text {G}$.
 
 $\text {B}, \text {E}, \text {G}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the letter $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {BAG} + a &= \text {GALA} \\\\
+a               &= \text {GALA} - \text {BAG} \\\\
+                &= 7 \times 1 \times 12 \times 1 - 2 \times 1 \times 7 \\\\
+                &= 84 - 14 \\\\
+                &= 70 \\\\
+                &= 2 \times 5 \times 7 \\\\
+                &= \text {BEG}
+\end{aligned}
+$
+
+The three letters are $\text {B}$, $\text {E}$, $\text {G}$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {B}, \text {E}, \text {G}$
+</code></pre>
 </div>
 </div>
 
@@ -273,6 +393,34 @@ The answer that could not be possible $= 25 \times 4$
 
 $25 \times 4$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
+
+| Number    |         Sum                                           | Divisible $3$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $25$     | $2 + 5 = \green{7}$                                   |  No
+|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
+|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
+|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
+
+The answer that could not be possible $= 25 \times 4$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>A</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25 \times 4$
+</code></pre>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -52,6 +52,25 @@ Roger trains every morning by running around the running track until he has run 
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -91,6 +110,43 @@ $
 
 $15$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+The track measurement is given in $\text{meters}$ while the distance is given in $\text{kilometers}$.
+
+Let's convert the distance into $\text{meters}$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Total rounds}  &= \dfrac {\text {Distance}} {\text {Perimeter}} \\\\
+                      &= \dfrac {6 \ \text {kilometres}} {400 \ \text {metres}} \\\\
+                      &= \dfrac {6 \times 1000 \ \text {metres}} {400 \ \text {metres}} \\\\
+                      &= \dfrac {6 \times 1000} {400} \\\\
+                      &= \dfrac {6000} {400} \\\\
+                      &= \dfrac {400 \times 15} {400} \\\\
+                      &= \dfrac {\cancel {400} \times 15} {\cancel {400}} \\\\
+                      &= 15
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15$
+</code></pre>
 </div>
 </div>
 
@@ -145,6 +201,46 @@ $
 
 $28.4 \ \text {kilometres}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+The track length is given in $\text{meters}$ while the marathon length is given in $\text{kilometers}$.
+
+Let's convert the track length into $\text{kilometers}$.
+
+Let the length of a lap through town $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+2 \times \text {Length of a lap through town}  &= \text {Total length for the marathon} - (\text {Length of the the country roads} + 3 \times \text {Length of the running track}) \\\\
+2a                                            &= 42.2 \ \text {kilometres} - (13.4 \ \text {kilometres} + 3 \times 400 \ \text {metres}) \\\\
+2a                                            &= 42.2 \ \text {kilometres} - (13.4 \ \text {kilometres} + 3 \times \dfrac {400} {1000} \ \text {kilometres}) \\\\
+2a                                            &= 42.2 - (13.4 + 3 \times 0.4) \\\\
+2a                                            &= 42.2 - (13.4 + 1.2) \\\\
+2a                                            &= 42.2 - 14.6 \\\\
+2a                                            &= 56.8 \\\\
+a                                             &= \dfrac {56.8} {2} \\\\
+a                                             &= 28.4 \ \text {kilometres}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$28.4 \ \text {kilometres}$
+</code></pre>
 </div>
 </div>
 
@@ -290,6 +386,56 @@ $8 \ \text {cm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+rtq_abbr_katex_formula_expanded_perimeter_triangle
+
+Let the length of a side of a square $= a$
+
+Let the length of a side of the equilateral triangle $= b$
+
+As per the question,
+
+$
+\begin {aligned}
+a \times a                                   &= 36 \\\\
+a ^ 2                                        &= 36 \\\\
+a                                            &= \sqrt {36} \\\\
+a                                            &= 6 \ \text {cm} \\\\
+\text {Perimeter of the square}              &= 4 \times a \\\\
+                                             &= 4 \times 6 \\\\
+                                             &= 24 \ \text {cm} \\\\
+\text {Perimeter of equilateral triangle}    &= \text {Perimeter of square} \\\\
+b + b + b                                    &= 24 \\\\
+3b                                           &= 24 \\\\
+b                                            &= \dfrac {24} {3} \\\\
+b                                            &= \dfrac {8 \times 3} {3} \\\\
+b                                            &= \dfrac {8 \times \cancel 3} {\cancel {3}} \\\\
+b                                            &= 8 \ \text {cm}
+\end {aligned}
+$
+
+Length of one side of the equilateral triangle $= 8 \ \text{cm}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8 \ \text {cm}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -398,6 +544,44 @@ $25 \ \text {cm} ^ 2$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+Let the length of a side of square $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+4 \times a                  &= 20 \\\\
+a                           &= \dfrac {20} {4} \\\\
+a                           &= \dfrac {5 \times 4} {4} \\\\
+a                           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+a                           &= 5 \ \text {cm} \\\\
+\text {Area the square}     &= a \times a \\\\
+                            &= 5 \times 5 \\\\
+                            &= 25 \ \text {cm} ^ 2
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25 \ \text {cm} ^ 2$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -489,6 +673,25 @@ Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -520,6 +723,35 @@ $
 
 $48 \ \text {cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Perimeter of the card}  &= 2 \times (18 + 6) \\\\
+                               &= 2 \times 24 \\\\
+                               &= 48 \ \text {cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48 \ \text {cm}$
+</code></pre>
 </div>
 </div>
 
@@ -554,6 +786,34 @@ $
 
 $108 \ \text {cm} ^ 2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Area of the card}  &= 18 \times 6 \\\\
+                          &= 108 \ \text {cm} ^ 2
+\end {aligned} 
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$108 \ \text {cm} ^ 2$
+</code></pre>
 </div>
 </div>
 
@@ -596,6 +856,38 @@ $
 
 $18 \ \text {stickers}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Maximum number of stickers that can fit on the card}  &= \dfrac {\text {Area of the card}} {\text {Area of a sticker}} \\\\
+                                                             &= \dfrac {108} {3 \times 2} \\\\
+                                                             &= \dfrac {108} {6} \\\\
+                                                             &= \dfrac {18 \times 6} {6} \\\\
+                                                             &= \dfrac {18 \times \cancel {6}} {\cancel {6}} \\\\
+                                                             &= 18 \ \text {stickers}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18 \ \text {stickers}$
+</code></pre>
 </div>
 </div>
 
@@ -752,6 +1044,56 @@ $144 \ \text{cm}^{2}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+Let the side of the square (in $\text{cm}$) $= a$ 
+
+Length of the rectangle $= a$
+
+Width of the rectangle $= \dfrac {a} { 2 }$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times ( a + \dfrac {a} {2})                       &= 36 \\\\
+2 \times (\dfrac {2a + a} {2})                       &= 36 \\\\
+\cancel{2} \times \dfrac {2a + a} {\cancel {2}}      &= 36 \\\\
+2a + a                                               &= 36 \\\\
+3a                                                   &= 36 \\\\
+a                                                    &= \dfrac {36} { 3 } \\\\
+a                                                    &= \dfrac {12 \times 3} {3} \\\\
+a                                                    &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
+a                                                    &= 12 \ \text{cm}
+\end{aligned}
+$
+
+Let's find the area of the square.
+
+$
+\begin{aligned}
+\text{Area}     &= 12 \times 12 \\\\
+                &= 144 \ \text{cm}^{2}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$144 \ \text{cm}^{2}$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -863,6 +1205,39 @@ $
 
 $13 \ \text{cm}^2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
+                                    &= AB \times AD - QB \times QP \\\\
+                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
+                                    &= 5 \times 3 - (2 - 1) \times 2 \\\\
+                                    &= 5 \times 3 - 1 \times 2 \\\\
+                                    &= 15 - 2 \\\\
+                                    &= 13 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13 \ \text{cm}^2$
+</code></pre>
 </div>
 </div>
 
@@ -984,6 +1359,35 @@ $
 
 $30 \ \text{cm}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Perimeter of shape}      &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
+                                &= 9 + 6 + 9 + 6 \\\\
+                                &= 30 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$30 \ \text{cm}$
+</code></pre>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-3-g0"
 title: "TopicPaper - Statistics - 3 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -47,6 +47,25 @@ tmoney
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -84,6 +103,33 @@ $39$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {40 + 42 + 38 + 36} {4} \\\\
+&= \dfrac {156} {4} \\\\
+&= \dfrac {39 \times 4} {4} \\\\
+&= \dfrac {39 \times \cancel{4}} {\cancel{4}} \\\\
+&= 39
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$39$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -113,6 +159,30 @@ $
 
 $\pounds 7.14$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 0.57 \times 13 \\\\
+&= \pounds 7.14
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 7.14$
+</code></pre>
 </div>
 </div>
 
@@ -203,6 +273,33 @@ $11$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Mean} &= \dfrac {9 + 14 + 7 + 17 + 8} {5} \\\\
+             &= \dfrac {55} {5} \\\\
+             &= \dfrac {11 \times 5} {5} \\\\
+             &= \dfrac {11 \times \cancel{5}} {\cancel{5}} \\\\
+             &= 11
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -289,6 +386,34 @@ Janet’s average marks are $= 17$.
 
 $17$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Average marks}            &= \dfrac {15 + 19 + 13 + 18 + 20} {5} \\\\
+                                &= \dfrac {85} {5} \\\\
+                                &= \dfrac {17 \times 5} {5} \\\\
+                                &= 17
+\end{aligned}
+$
+
+Janet’s average marks are $= 17$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$17$
+</code></pre>
 </div>
 </div>
 
@@ -387,6 +512,44 @@ $44 \ \text{kg}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total mass of boys}   &= 4 \times 50  \ \text{kg} \\\\
+\text{Total mass of girls}  &= 6 \times 40  \ \text{kg}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Average mass}     &= \dfrac {\text{Total mass}} {\text{Total children}} \\\\
+                        &= \dfrac {\text{Mass of boys} + \text{Mass of girls}} {\text{Total children}} \\\\
+                        &= \dfrac {4 \times 50 + 6 \times 40} {4 + 6} \\\\
+                        &= \dfrac {200 + 240} {10} \\\\
+                        &= \dfrac {440} {10} \\\\
+                        &= \dfrac {44 \cancel{0}} {1 \cancel{0}} \\\\
+                        &= 44  \ \text{kg}
+\end{aligned}
+$
+
+Average mass of the children $= 44 \ \text{kg}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$44 \ \text{kg}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -468,6 +631,33 @@ $
 
 $3$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Average number of apps}       &= \dfrac {\text{Total apps}} {\text{Total months}} \\\\
+                                    &= \dfrac { (12 \times 4) + (7 \times 1) + (1 \times 5) } { 12 + 7 + 1 } \\\\
+                                    &= \dfrac { 48 + 7 + 5 } { 20 } \\\\
+                                    &= \dfrac {60} {20} \\\\
+                                    &= 3
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3$
+</code></pre>
 </div>
 </div>
 
@@ -579,6 +769,53 @@ $11\ \text {mm}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'></code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the rainfall for Tuesday, Wednesday and Thursday (in mm) $= r$
+
+$
+\begin{aligned}
+\text{Average rainfall for } 5 \text{ days}  &= \dfrac {\text{Total Rainfall}} {\text{Total days}} \\\\
+12                                           &= \dfrac {22 + r + 5} {5} \\\\
+12 \times 5                                  &= 22 + r + 5 \\\\
+60                                           &= 27 + r \\\\
+27 + r                                       &= 60 \\\\
+r                                            &= 60 - 27\\\\
+r                                            &= 33  \ \text{mm}
+\end{aligned}
+$
+
+Total rainfall for Tuesday, Wednesday and Thursday $= 33  \ \text{mm}$
+
+Let's find the average rainfall for the other $3$ days now.
+
+$
+\begin{aligned}
+\text{Average rainfall for } 3 \text{ days}     &= \dfrac {\text{Total Rainfall }} {\text{Total days}} \\\\
+                                                &= \dfrac {33} {3} \\\\
+                                                &= 11  \ \text{mm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11\ \text {mm}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -665,6 +902,36 @@ Mean Length $= 5.4 \ \text{m}$
 
 $5.4 \ \text{m}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Mean Length}     &= \dfrac {\text{Length of creatures}} {\text{Total creatures}} \\\\
+                        &= \dfrac {\text{Length of crocodiles} + \text{Length of alligators}} {\text{Total creatures}} \\\\
+                        &= \dfrac {4 \times 7.5 + 6 \times 4} {4 + 6} \\\\
+                        &= \dfrac {30 + 24} {10} \\\\
+                        &= \dfrac {54} {10} \\\\
+                        &= 5.4  \ \text{m}
+\end{aligned}
+$
+
+Mean Length $= 5.4 \ \text{m}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5.4 \ \text{m}$
+</code></pre>
 </div>
 </div>
 

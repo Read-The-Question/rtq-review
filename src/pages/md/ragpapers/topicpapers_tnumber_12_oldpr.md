@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-oldpr"
 title: "TopicPaper - Number - 12 - OLDPR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -44,6 +44,25 @@ Work out the answers to:
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -73,6 +92,33 @@ $
 
 $20$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
+\begin{array}{cccccccccccccc}
+&= 8 \times 3 - 10 + 6 \\\\
+&=  24 - 4 \\\\
+&= 20
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20$
+</code></pre>
 </div>
 </div>
 
@@ -108,6 +154,35 @@ $
 
 $56$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
+\begin{array}{cccccccccccccc}
+&= 72 \dfrac{7}{9} \\\\
+&=  9 \times 8 \times \dfrac{7}{9} \\\\
+&=  \cancel{9} \times 8 \times \dfrac{7}{\cancel9} \\\\
+&=  8 \times 7 \\\\
+&= 56
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$56$
+</code></pre>
 </div>
 </div>
 
@@ -217,6 +292,25 @@ eg $5 * 4$ means $5^{2}+ (3 \times 4) = 25 + 12 = 37$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -251,6 +345,37 @@ $31$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>APTQ,
+
+$x * y$ means **“square $x$ and add three lots of $y$”**
+
+$
+\begin{aligned}
+&=  4 * 5 \\\\
+&=  4^2 + 3 \times {5} \\\\
+&=  16 + 3 \times {5} \\\\
+&=  16 + 15 \\\\
+&=  31 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$31$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -283,6 +408,35 @@ $
 
 $217$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$x * y$ means **“square $x$ and add three lots of $y$”**
+
+$
+\begin{aligned}
+&=  13 * 16 \\\\
+&=  13^2 + 3 \times {16} \\\\
+&=  169 + 3 \times {16} \\\\
+&=  169 + 48 \\\\
+&=  217
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$217$
+</code></pre>
 </div>
 </div>
 
@@ -321,6 +475,37 @@ $6$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$x * y$ means **“square $x$ and add three lots of $y$”**
+
+$
+\begin{aligned}
+p * 4 &= 48  \\\\
+p^2 + 3 \times {4} &= 48 \\\\
+p^2 + 12 &=  48 \\\\
+p^2 &= 48 - 12 \\\\
+p^2 &= 36 \\\\
+p &= \sqrt{36} \\\\
+p &= 6
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -356,6 +541,38 @@ $
 
 $7$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$x * y$ means **“square $x$ and add three lots of $y$”**
+
+$
+\begin{aligned}
+2 * q &= 25  \\\\
+2^2 + q \times {4} &= 25 \\\\
+4 + q \times {4} &=  25 \\\\
+q \times {4} &= 25 - 4 \\\\
+q &= \dfrac{21}{4} \\\\
+q &= \dfrac{7 \times{4}}{4} \\\\
+q &= \dfrac{7 \times \cancel{4}}{\cancel4} \\\\
+q &= 7
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7$
+</code></pre>
 </div>
 </div>
 
@@ -408,6 +625,52 @@ There are only two possible outcomes $1, 2$
 
 $1, 2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>APTQ,
+
+$x * y$ means **“square $x$ and add three lots of $y$”**
+
+Let the possible positive whole numbers for  s and t be $1$ and $3$
+
+$
+\begin{aligned}
+1 * 3 &= 10  \\\\
+1^2 + 3 \times {3} &= 10 \\\\
+1 + 9 &=  10 \\\\
+10 &= 10
+\end{aligned}
+$
+
+Let the possible positive whole numbers for  s and t be $2$ and $2$
+
+
+$
+\begin{aligned}
+2 * 2 &= 10  \\\\
+2^2 + 2 \times {3} &= 10 \\\\
+4 + 6 &=  10 \\\\
+10 &= 10
+\end{aligned}
+$
+
+There are only two possible outcomes $1, 2$ 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1, 2$
+</code></pre>
 </div>
 </div>
 
@@ -493,6 +756,25 @@ $5, \quad 8, \quad 9, \quad 11, \quad 12, \quad 13, \quad 17, \quad 18, \quad 20
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -533,6 +815,34 @@ $5, 8, 20$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{The of  given numbers are}  &=  5, 8, 9, 11, 12, 13, 17, 18, 20. \\\\
+\text{the factors of 40 are}  &=  1, 2, 4, 5, 8, 10, 20, 40. \\\\
+\text{So the common between given numbers and factors of} \ \ 40  \\\\
+&=  5, 8, 20
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>E</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5, 8, 20$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -571,6 +881,33 @@ $
 
 $3$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{The of  given numbers are}  &=  5, 8, 9, 11, 12, 13, 17, 18, 20. \\\\
+\text{the multiples of} \ 3  &=  3, 6, 9, 12, 15. 18, 21  \\\\
+\text{So the common between given numbers and  multiples of} \ \  3 \\\\
+&= 9, 12, 18 \\\\
+\therefore \text{there are total}\ \  \textbf3 \ \ \text{numbers in the list are multiples of }3
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3$
+</code></pre>
 </div>
 </div>
 
@@ -675,6 +1012,40 @@ $\dfrac{11}{10}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+0.35 \text{is the decimal equivalent of} \\\\
+&= \dfrac{35}{100} \\\\
+&= \dfrac{5 \times 7}{5 \times 20} \\\\
+&= \dfrac{\cancel 5 \times 7}{\cancel 5 \times 20} \\\\
+&= \dfrac{7}{20} \\\\
+\text{then,} \\\\
+&= \dfrac{3}{4} + 0.35 \\\\
+&= \dfrac{3}{4} + \dfrac{7}{20} \\\\
+&= \dfrac{88}{80} \\\\
+&= \dfrac{8 \times 11}{8\times 10} \\\\
+&= \dfrac{\cancel 8 \times 11}{ \cancel 8\times 10} \\\\
+&= \dfrac{11}{10}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>B</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{11}{10}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -769,6 +1140,35 @@ $9899$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+The largest $4$-digit number $= 9999$
+
+the smallest $3$-digit number $= 100$
+
+the difference between the smallest $3$-digit number and the largest  $4$-digit number
+
+$ 9999 - 100$
+
+$9899$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>E</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9899$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -858,6 +1258,27 @@ Number of prime numbers between $20$ and $30 = 2$"
 
 $2$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>The prime numbers between 20 and 30 $=23 \  \text {and} 29$
+
+Number of prime numbers between $20$ and $30 = 2$"
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2$
+</code></pre>
 </div>
 </div>
 
@@ -963,6 +1384,43 @@ $8.32$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
+
+$
+\begin{array}{cccccccccccccc}
+                      & 3     & 2     \\
+{}\times              & 2     & 6     \\
+\hline 
+                1     & 9     & 2     \\
+                6     & 4     & 0     \\
+\hline 
+                8     & 3     & 2     \\
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now. 
+
+$ = 8.32$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>A</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8.32$
+</code></pre>
+</div>
+</div>
 
 <div class='review-comments'>
 
@@ -1058,6 +1516,33 @@ $
 
 $\dfrac{9}{10}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&=  \dfrac{2}{5} + \dfrac{3}{5} - \dfrac{1}{10} \\\\
+&=  \dfrac{2 \times 2}{5 \times 2 } + \dfrac{3 \times 2}{5 \times 2 } - \dfrac{1}{10} \\\\
+&=  \dfrac{4}{10} + \dfrac{6}{10} - \dfrac{1}{10} \\\\
+&=  \dfrac{4 + 6 - 1} {10} \\\\
+&=   \dfrac{9}{10}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>B</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac{9}{10}$
+</code></pre>
 </div>
 </div>
 
@@ -1159,6 +1644,40 @@ $25, 4$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question and options given ,
+
+$
+\begin{aligned}
+33 \times 67 &= 2,211 \\
+             &= \text{so option L is wrong} \\\\
+29 \times 17 &= 493 \\
+             &= \text{so option M is wrong} \\\\
+25 \times 4  &= 100 \\
+             &= \text{so option N is correct} \\\\
+50 \times 2  &= 100 \\
+             &= \text{so option P is wrong} \\\\
+11 \times 9  &= 99 \\
+             &= \text{so option Q is wrong}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>N</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25, 4$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1257,6 +1776,40 @@ $
 
 $125, 8$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question and options given ,
+
+$
+\begin{aligned}
+100 \times 10 &= 1000 \\
+              &= \text{so option R is wrong} \\\\
+47 \times 53  &= 2491 \\
+              &= \text{so option S is wrong} \\\\
+125 \times 8  &= 1000 \\
+              &= \text{so option T is correct} \\\\
+99 \times 111 &= 999 \\
+              &= \text{so option U is wrong} \\\\
+25 \times 14  &= 350\\
+              &= \text{so option V is wrong} 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>T</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$125, 8$
+</code></pre>
 </div>
 </div>
 

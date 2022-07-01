@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-blocked"
 title: "TopicPaper - Fraction - 4 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -67,6 +67,42 @@ $\dfrac {4} {9}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the figure,
+
+If we look at the large square, we can see that $8$ portions have been shaded and there are $18$ portions in total.
+
+The fraction that has been shaded $= \dfrac {8} {18}$
+
+Let's find out what fraction of the large square is shaded.
+
+$
+\begin{aligned}
+&= \dfrac {8} {18} \\\\
+&= \dfrac {4 \times 2} {9 \times 2} \\\\
+&= \dfrac {4 \times \cancel{2}} {9 \times \cancel{2}} \\\\
+&= \dfrac {4} {9}
+\end{aligned}
+$
+
+Fraction of large square that has been shaded in simple fraction $= \dfrac {4} {9}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {4} {9}$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -118,6 +154,32 @@ $634$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {2536} {4} \\\\
+&= \dfrac {4 \times 634} {4} \\\\
+&= \dfrac {\cancel 4 \times 634} {\cancel 4} \\\\
+&= 634
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$634$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -167,6 +229,32 @@ $
 
 $398$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {3184} {8} \\\\
+&= \dfrac {2 \times 2 \times 2 \times 398} {2 \times 2 \times 2} \\\\
+&= \dfrac {\cancel {2} \times \cancel {2} \times \cancel {2} \times 398} { \cancel {2} \times \cancel {2} \times \cancel {2} } \\\\
+&= 398
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$398$
+</code></pre>
 </div>
 </div>
 
@@ -246,6 +334,57 @@ $5, \ 8, \ 25$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing numbers be a, b, c respectively.
+
+$
+\begin{aligned}
+\dfrac {4} {a}    &= \dfrac {12} {15} \\\\
+a                 &= \dfrac {15 \times 4} {12} \\\\
+a                 &= \dfrac {5 \times 3 \times 4} {4 \times 3} \\\\
+a                 &= \dfrac {5 \times \cancel {3} \times \cancel {4}} {\cancel {4} \times \cancel {3}} \\\\
+a                 &= 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {b} {10}    &= \dfrac {12} {15} \\\\
+b                  &= \dfrac {12 \times 10} {15} \\\\
+b                  &= \dfrac {4 \times 3 \times 5 \times 2} {5 \times 3} \\\\
+b                  &= \dfrac {4 \times \cancel {3} \times \cancel {5} \times 2} {\cancel {5} \times \cancel {3}} \\\\
+b                  &= 4 \times 2 \\\\
+b                  &= 8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {20} {c}  &= \dfrac {12} {15} \\\\
+c                &= \dfrac {15 \times 20} {12} \\\\
+c                &= \dfrac {5 \times 3 \times 4 \times 5} {4 \times 3} \\\\
+c                &= \dfrac {5 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {4} \times \cancel {3}} \\\\
+c                &= 5 \times 5 \\\\
+c                &= 25
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5, \ 8, \ 25$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -319,6 +458,52 @@ $6, 28$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the mising numerator $= a$
+
+Let the mising denominator $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{a} {8}    &= \dfrac {9} {12} \\\\
+a                &= \dfrac {9} {12} \times 8 \\\\
+a                &= \dfrac {9 \times 8} {12} \\\\
+a                &= \dfrac {3 \times 3 \times 4 \times 2} {4 \times 3} \\\\
+a                &= \dfrac {3 \times \cancel{3} \times \cancel{4} \times 2} {\cancel{4} \times \cancel{3}} \\\\
+a                &= 3 \times 2 \\\\
+a                &= 6
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac{9} {12}   &= \dfrac {21} {b} \\\\
+b                &= \dfrac {21 \times 12} {9} \\\\\
+b                &= \dfrac {3 \times 7 \times 4 \times 3} {3 \times 3} \\\\
+b                &= \dfrac {\cancel{3} \times 7 \times 4 \times \cancel{3}}{\cancel{3} \times \cancel{3}} \\\\
+b                &= 7 \times 4 \\\\
+b                &= 28
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6, 28$
+</code></pre>
+</div>
+</div>
 
 
 </div>
@@ -374,6 +559,31 @@ $
 
 $\dfrac {7} {19}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {\text {Shaded portion} } {\text {Total portion} } \\\\
+&= \dfrac {7} {12 + 7} \\\\
+&= \dfrac {7} {19}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {7} {19}$
+</code></pre>
 </div>
 </div>
 

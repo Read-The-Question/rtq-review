@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-blocked"
 title: "TopicPaper - Algebra - 5 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -68,6 +68,41 @@ $
 
 $20$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let one number $= a$
+
+Other number $= 3 a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times 3 a + a &= 140 \\\\
+6 a + a          &= 140 \\\\
+7 a              &= 140 \\\\
+a                &= \dfrac {140} {7} \\\\
+a                &= \dfrac {7 \times 20} {7} \\\\
+a                &= \dfrac {\cancel {7} \times 20} {\cancel {7}} \\\\
+a                &= 20
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20$
+</code></pre>
 </div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-8-blocked"
 title: "TopicPaper - Algebra - 8 - BLOCKED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,6 +59,42 @@ $
 
 $\dfrac {a} {3}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the total number of pens be a,
+
+As per the question,
+
+Fraction of black pens are $\dfrac{a}{2}$
+
+Fraction of red pens are $\dfrac{a}{6}$
+
+$
+\begin{aligned}
+\text{Fraction of blue pens are} &= \text{Total Pens} - \text{Black Pens} - \text{Red Pens} \\\\ 
+                                 &= a - \dfrac {a} {2} - \dfrac {a} {6}    \\\\
+                                 &= \dfrac {6a - 3a - a} {6}             \\\\
+                                 &= \dfrac {2a} {6}             \\\\
+                                 &= \dfrac {\cancel{2}a} {3 \times \cancel {2}} \\\\
+                                 &= \dfrac {a} {3}     
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {a} {3}$
+</code></pre>
 </div>
 </div>
 

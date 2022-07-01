@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-pr"
 title: "TopicPaper - Angle - 3 - PR"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 15:57:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -77,6 +77,51 @@ $
 
 $80 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+rtq_abbr_md_formula_vertically_opposite_angles
+
+Let the third angle of triangle $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a  + 40 + 60                            &= 180 \\\\
+a + 100                                 &= 180 \\\\
+a                                       &= 180 - 100 \\\\
+a                                       &= 80 \degree
+\end{aligned}
+$
+
+$x$ is vertically opposite to $a$.
+
+Using this we get,
+
+$
+\begin{aligned}
+x &= a \\\\
+x &= 80 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$80 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -178,6 +223,40 @@ $
 
 $210 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_equilateral_triangle
+
+$\text{Each angle of a square} = 90 \degree$
+
+rtq_abbr_katex_formula_angles_around_a_point
+
+As per the diagram,
+
+$
+\begin{aligned}
+p + 60 + 90  &= 360 \\\\
+p + 150      &= 360 \\\\
+p            &= 360 - 150 \\\\
+p            &= 210 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$210 \degree$
+</code></pre>
 </div>
 </div>
 
@@ -311,6 +390,67 @@ $130 \degree$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+
+*TODO:: Add an image with other two angles of triangle marked as a (beside $110 \degree$) and b (beside $χ \degree$).*
+
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_angles_of_triangle
+
+rtq_abbr_katex_formula_angles_on_a_straight_line
+
+Let the second angle in the triangle $= a$
+
+Let the third angle in the triangle $= b$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 110         &= 180 \\\\
+a               &= 180 - 110 \\\\
+a               &= 70 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $b$.
+
+$
+\begin{aligned}
+a + b + 60              &= 180 \\\\
+70 + b + 60             &= 180 - 130 \\\\
+b                       &= 50 \degree
+\end{aligned}
+$
+
+Let's use the value of $b$ to find $χ$.
+
+$
+\begin{aligned}
+χ + 50              &= 180 \\\\
+χ                   &= 180 - 50 \\\\
+χ                   &= 130 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$130 \degree$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -419,6 +559,52 @@ c   &= 22 \degree
 \end{aligned}
 $
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>ABBR: $\text{Interior opposite angles are equal when two parallel lines crossed by a transversal}$.
+
+ABBR: $\text{Coressponding angles are equal when two parallel lines crossed by a transversal}$.
+
+As per the diagram,
+
+$a = 28 \degree$
+
+$b = 28 \degree$
+
+Let's use the value of $b$ to find $c$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+b + c   &= 50 \\\\
+28 + c  &= 50 \\\\
+c       &= 50 - 28 \\\\
+c       &= 22 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+a   &= 28 \degree \\\\
+b   &= 28 \degree \\\\
+c   &= 22 \degree 
+\end{aligned}
+$
+</code></pre>
 </div>
 </div>
 
@@ -538,6 +724,54 @@ $
 
 $67 \degree$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+rtq_abbr_katex_formula_angles_on_a_straight_line
+
+Let the third angle in triangle $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 134             &= 180 \\\\
+a                   &= 180 - 134 \\\\
+a                   &= 46 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $b$.
+
+$
+\begin{aligned}
+x + x + a               &= 180 \\\\
+2x + 46                 &= 180 \\\\
+2x                      &= 180 - 46 \\\\
+2x                      &= 134 \\\\
+x                       &= \dfrac{134} {2} \\\\
+x                       &= \dfrac{2 \times 67} {2} \\\\
+x                       &= \dfrac{\cancel {2} \times 67} {\cancel {2}} \\\\
+x                       &= 67 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$67 \degree$
+</code></pre>
 </div>
 </div>
 

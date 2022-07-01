@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-red"
 title: "TopicPaper - Age - 1 - RED"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 14:19:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -47,6 +47,25 @@ tsimpleword
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -78,6 +97,35 @@ $
 
 $45 \ \text{years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{aligned}
+\text{May's age}    &= 14 \ \text{years} \\\\
+\text{Father's age} &= 14 + 39 \\\\
+                    &= 53 \ \text{years} \\\\
+\text{Mother's age} &= 53 - 8 \\\\
+                    &= 45 \ \text{years}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$45 \ \text{years}$
+</code></pre>
 </div>
 </div>
 
@@ -123,6 +171,46 @@ $
 
 $16$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+\text {Cost of one marble}  &= \dfrac {7.50} {5} \\\\
+                            &= \dfrac {1.50 \times 5} {5} \\\\
+                            &= \dfrac {1.50 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= \pounds 1.50
+\end {aligned}
+$
+
+$
+\begin{aligned}
+\text {Number of marbles}   &= \dfrac {\text {Total amount}} {\text {Cost of one marble}} \\\\
+                            &= \dfrac {24} {1.50} \\\\
+                            &= \dfrac {24 \times 10} {1.5 \times 10} \\\\
+                            &= \dfrac {3 \times 8 \times 2 \times 5} {3 \times 5} \\\\
+                            &= \dfrac {\cancel {3} \times 8 \times 2 \times \cancel {5}} {\cancel {3} \times \cancel {5}} \\\\
+                            &= 8 \times 2 \\\\
+                            &= 16
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16$
+</code></pre>
 </div>
 </div>
 

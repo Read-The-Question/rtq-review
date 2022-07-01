@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g0"
 title: "TopicPaper - Age - 1 - G0"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 14:19:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -63,6 +63,32 @@ $
 
 $151 \ \text {years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Tree's age in 2011}   &= \text {Lord's age at death} + (2011 - \text {Year Lord died}) \\\\
+                             &= 80 + (2011 - 1940) \\\\
+                             &= 80 + 71 \\\\
+                             &= 151 \ \text {years}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>B</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$151 \ \text {years}$
+</code></pre>
 </div>
 </div>
 

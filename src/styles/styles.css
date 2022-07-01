@@ -209,6 +209,25 @@ img {
     /* display: none; */
 }
 
+.workingcodeblock {
+    border-width: 1px;
+    border-color:royalblue;
+    border-style: solid;
+
+    background-color: rgb(207, 224, 234);
+    font-size: 15px;
+
+}
+
+.answercodeblock {
+    border-width: 1px;
+    border-color:royalblue;
+    border-style: solid;
+    background-color: rgb(207, 224, 234);
+
+    font-size: 15px;
+}
+
 .review-comments {
     border-width: 1px;
     border-color: olivedrab;

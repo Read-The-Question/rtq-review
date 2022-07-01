@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g2"
 title: "TopicPaper - Age - 1 - G2"
-date: 2022-07-01 11:50:31
+date: 2022-07-01 14:19:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -62,6 +62,42 @@ Tom's age $= 24 \ \text{years}$
 
 $24 \ \text{years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Tom's age $= a$
+
+Tom's mum’s age $=2a$
+
+As per the question,
+
+$
+\begin {aligned}
+a + 2a                     &= 72 \\\\
+3a                         &= 72 \\\\
+a                          &= \dfrac {72} {3} \\\\
+a                          &= \dfrac {24 \times 3} {3} \\\\
+a                          &= \dfrac {24 \times \cancel{3}} {\cancel{3}} \\\\
+a                          &= 24 \ \text{years}
+\end {aligned}
+$
+
+Tom's age $= 24 \ \text{years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$24 \ \text{years}$
+</code></pre>
 </div>
 </div>
 
@@ -189,6 +225,82 @@ Guy $=$ $27 \ \text {years}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Gill's age $= a$
+
+Gerald's age $= 3a$
+
+Guy's age $= \dfrac {3a} {2}$
+
+As per the question,
+
+$
+\begin {aligned}
+3a + \dfrac {3a} {2} + a                                        &= 99 \\\\
+4a + \dfrac {3a} {2}                                            &= 99 \\\\
+\dfrac {4a \times 2} {2} + \dfrac {3a} {2}                      &= 99 \\\\
+\dfrac {8a} {2} + \dfrac {3a} {2}                               &= 99 \\\\
+\dfrac {11a} {2}                                                &= 99 \\\\
+a                                                               &= \dfrac {99 \times 2} {11} \\\\
+a                                                               &= \dfrac {11 \times 9 \times 2} {11} \\\\
+a                                                               &= \dfrac {\cancel {11} \times 9 \times 2} {\cancel {11}} \\\\
+a                                                               &= 18 \ \text {years}
+\end {aligned}
+$
+
+Gill's age $= 18 \ \text {years}$
+
+Let's find Gerald's and Guy's age.
+
+$
+\begin {aligned}
+\text {Gerald's age}    &= 3a \\\\
+                        &= 3 \times 18 \\\\
+                        &= 54 \ \text {years} \\\\
+\text {Guy's age}       &= \dfrac {3a} {2} \\\\
+                        &= \dfrac {3 \times 18} {2} \\\\
+                        &= \dfrac {3 \times 2 \times 9} {2} \\\\
+                        &= \dfrac {3 \times \cancel {2} \times 9} {\cancel {2}} \\\\
+                        &= 27 \ \text {years}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Gill</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18 \ \text {years}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Gerald</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$54 \ \text {years}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Guy</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27 \ \text {years}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -267,6 +379,25 @@ talgebra
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -301,6 +432,37 @@ $
 
 $4 \ \text {years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Brian's age $= a$
+
+Anna's age $= a - 3$
+
+Callum's age $= a - 7$
+
+$
+\begin {aligned}
+\text{Difference between Anna and Callum} &= (a - 3) - (a - 7) \\\\
+                                          &= a - 3 -a + 7 \\\\
+                                          &= 4 \ \text{years}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4 \ \text {years}$
+</code></pre>
 </div>
 </div>
 
@@ -341,6 +503,38 @@ Derek's dad is $5$ times older than Dave.
 
 $5$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Derek's age $= 15 \ \text{years}$
+
+$
+\begin{aligned}
+\text{Dad versus Dave}  &= \dfrac {\text {Derek's dad's age}} {\text {Dave's age}} \\\\
+                        &= \dfrac {15 \times 3} {15 - 6} \\\\
+                        &= \dfrac {15 \times 3} {9} \\\\
+                        &= \dfrac {5 \times 3 \times 3} {3 \times 3} \\\\
+                        &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
+                        &= 5
+\end{aligned}
+$
+
+Derek's dad is $5$ times older than Dave.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
+</code></pre>
 </div>
 </div>
 
@@ -387,6 +581,42 @@ $12 \ \text{years}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Emily's age $= a$
+
+Ingrid's age $= 4a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 4a &= 60 \\\\
+5a     &= 60 \\\\
+a      &= \dfrac {60} {5} \\\\
+a      &= \dfrac {12 \times 5} {5} \\\\
+a      &= \dfrac {12 \times \cancel {5}} {\cancel {5}} \\\\
+a      &= 12 \ \text{years}
+\end{aligned}
+$
+
+Emily's age $= 12 \ \text{years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12 \ \text{years}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -430,6 +660,44 @@ Sara's age $= 19 \ \text{years}$
 
 $19 \ \text{years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Sara's age $= a$
+
+Sanjay's age $= a - 2$
+
+Sasha's age $= a - 5$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 2 + a  -5     &= 31 \\\\
+2a - 7            &= 31 \\\\
+2a                &= 31 + 7 \\\\
+2a                &= 38 \\\\
+a                 &= \dfrac {38} {2} \\\\
+a                 &= 19 \ \text{years}
+\end{aligned}
+$
+
+Sara's age $= 19 \ \text{years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$19 \ \text{years}$
+</code></pre>
 </div>
 </div>
 
@@ -524,6 +792,38 @@ Sam's current age $=12 \ \text{years}$
 
 $12 \ \text{years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Sam's current age $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 4     &= 2(a - 4) \\\\
+a + 4     &= 2a - 8 \\\\
+2a - a    &= 8 + 4 \\\\
+a         &= 12 \ \text{years}
+\end{aligned}
+$
+
+Sam's current age $=12 \ \text{years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12 \ \text{years}$
+</code></pre>
 </div>
 </div>
 
@@ -629,6 +929,48 @@ $14 \ \text{years}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Ryan's current age $= a$
+
+Abigail's current age $= 3a$
+
+As per the question,
+
+$
+\begin{aligned}
+3a + 6                      &= 42 \\\\
+3a                          &= 42 - 6 \\\\
+3a                          &= 36 \\\\
+a                           &= \dfrac {36} {3} \\\\
+a                           &= \dfrac {12 \times 3} {3} \\\\
+a                           &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
+a                           &= 12 \ \text{years} 
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Ryan's age after } 2 \text{ years }    &= 12 + 2 \\\\
+                                            &= 14 \ \text{years}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$14 \ \text{years}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -712,6 +1054,31 @@ $
 
 $53 \ \text{years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Father's age on 30th birthday}   &= 31 + (30 - 8) \\\\
+                                        &= 31 + 24 \\\\
+                                        &= 53 \ \text{years}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$53 \ \text{years}$
+</code></pre>
 </div>
 </div>
 
@@ -818,6 +1185,50 @@ $46 \ \text{years}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let David's age $= a$
+
+Mark's age $= a + 3$
+
+As per the question,
+
+$
+\begin{aligned}
+a + a + 3                &= 89 \\\\
+2 a + 3                  &= 89 \\\\
+2 a                      &= 89 - 3 \\\\
+2 a                      &= 86 \\\\
+a                        &= \dfrac {86} {2} \\\\
+a                        &= \dfrac {43 \times 2} {2} \\\\
+a                        &= \dfrac {43 \times \cancel {2}} {\cancel {2}} \\\\
+a                        &= 43 \ \text{years}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Mark's age} &= a + 3 \\\\
+                  &= 43 + 3 \\\\
+                  &= 46 \ \text{years}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$46 \ \text{years}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -904,6 +1315,34 @@ $
 
 $28 \ \text {years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Grandmother's age in 2006}   &= 80 \\\\
+\text {Daughter's age in 2006}      &= 40 + (2006 - 1994) \\\\
+                                    &= 40 + 12 \\\\
+                                    &= 52 \ \text {years} \\\\
+\text{Difference}                   &= 80 - 52 \\\\
+                                    &= 28 \ \text {years}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$28 \ \text {years}$
+</code></pre>
 </div>
 </div>
 
@@ -1002,6 +1441,43 @@ $47 \ \text {years}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Mrs Jones age $=a$
+
+Her daughter's age $= a - 24$
+
+As per the question,
+
+$
+\begin{aligned}
+a + a - 24 &= 70 \\\\
+2 a        &= 70 + 24 \\\\
+2 a        &= 94 \\\\
+a          &= \dfrac {94} {2} \\\\
+a          &= \dfrac {47 \times 2} {2} \\\\
+a          &= \dfrac {47 \times \cancel {2}} {\cancel {2}} \\\\
+a          &= 47 \ \text {years}
+\end{aligned}
+$
+
+Mrs Jones age $= 47 \ \text {years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$47 \ \text {years}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1096,6 +1572,37 @@ $
 
 $52 \ \text {years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Richard's age}    &= 12 \ \text {years} \\\\
+\text {Adam's age}       &= 2 \times \text {Richard's age} \\\\
+                         &= 2 \times 12 \\\\
+                         &= 24 \ \text {years} \\\\
+\text {Will's age}       &= \dfrac {2} {3} \times \text {Adam's age} \\\\
+                         &= \dfrac {2} {3} \times 24 \\\\
+                         &= 16 \ \text {years} \\\\
+\text {Total age}        &= 12 + 24 + 16 \\\\
+                         &= 52 \ \text {years}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$52 \ \text {years}$
+</code></pre>
 </div>
 </div>
 
@@ -1195,6 +1702,40 @@ $
 
 $33 \ \text {years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Richard's age}    &= 18 \ \text {years} \\\\
+\text{Adam's age}       &= \dfrac {1} {2} \text{ of Richard's age} \\\\
+                        &= \dfrac {18} {2} \\\\
+                        &= 9 \ \text {years} \\\\
+\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age} \\\\
+                        &= \dfrac {2} {3} \times 9 \\\\
+                        &= \dfrac {2 \times 9} {3} \\\\
+                        &= \dfrac {2 \times 3 \times 3} {3} \\\\
+                        &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
+                        &= 6 \ \text {years} \\\\
+\text{Total age}        &= 18 + 9 + 6 \\\\
+                        &= 33 \ \text {years}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$33 \ \text {years}$
+</code></pre>
 </div>
 </div>
 
@@ -1301,6 +1842,48 @@ $48 \ \text {years}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let father’s age $= a$
+
+Daughter’s age $= \dfrac {a} {2}$
+
+Brother's age $= \dfrac{a} {4}$
+
+As per the question,
+
+$
+\begin{aligned}
+a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac {a} {4}                                            &= 96 \\\\
+\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a}{4} + \dfrac{a}{4}        &= 96 \\\\
+\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\
+\dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
+\dfrac {8a} {4}                                                                                 &= 96 \\\\
+a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{12 \times 4 \times 8} {8} \\\\
+a                                                                                               &= \dfrac{12 \times 4 \times \cancel {8}} {\cancel {8}} \\\\
+a                                                                                               &= 12 \times 4 \\\\
+a                                                                                               &= 48 \ \text {years}
+\end{aligned}
+$
+
+Father's age $= 48 \ \text {years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48 \ \text {years}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1381,6 +1964,25 @@ The combined age of Alan and Carl is fifty five and the combined age of Ben and 
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1433,6 +2035,55 @@ $77 \ \text{years}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Alan's age $= a$
+
+Let Ben's age $= b$
+
+Let Carl's age $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b       &= 43 \\\\
+a + c       &= 45 \\\\
+b + c       &= 66
+\end{aligned}
+$
+
+Let’s add all the equations to find the combined age of Alan, Ben and Carl.
+
+$
+\begin{aligned}
+(a + b) + (b + c) + (a + c) &= 43 + 66 + 45 \\\\
+2a + 2b + 2c                &= 154 \\\\
+2 \times (a + b + c)        &= 154 \\\\
+a + b + c                   &= \dfrac {154} {2} \\\\
+a + b + c                   &= \dfrac {2 \times 77} {2} \\\\
+a + b + c                   &= \dfrac {\cancel {2} \times 77} {\cancel {2}} \\\\
+a + b + c                   &= 77 \ \text{years}
+\end{aligned}
+$
+
+Combined age of Alan, Ben and Carl $= 77 \ \text{years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$77 \ \text{years}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -1475,6 +2126,45 @@ Alan's age $= 11 \ \text {years}$
 
 $11 \ \text {years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the equations we got above,
+
+$
+\begin{aligned}
+a + b + c   &= 77 \\\\
+b + c       &= 66
+\end{aligned}
+$
+
+Let's substitute $b$ and $c$ from the second equation to reduce it to just one variable. 
+
+$
+\begin{aligned}
+a + (b + c)   &= 77 \\\\
+a + 66        &= 77 \\\\
+a             &= 77 - 66 \\\\
+a             &= 11 \ \text {years}
+\end{aligned}
+$
+
+Alan's age $= 11 \ \text {years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11 \ \text {years}$
+</code></pre>
 </div>
 </div>
 
@@ -1578,6 +2268,51 @@ Bethany $=$ $12 \ \text {years}$
 
 Catherine $=$ $7 \ \text {years}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As Catherine’s age is a prime number,
+Catherine is $ 7 \ \text{years}$ old.
+
+Bethany is older than Alison,
+so Bethany is $12 \ \text {years}$ old.
+
+Hence, Alison is $6 \ \text {years}$ old.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Alison</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6 \ \text {years}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Bethany</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12 \ \text {years}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Catherine</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7 \ \text {years}$
+</code></pre>
 </div>
 </div>
 
@@ -1755,6 +2490,127 @@ Mylo $=$ $11 \ \text {years}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let Sam's age $= s$
+
+Let Ben's age $= b$
+
+Let Frederick's age $= f$
+
+Let Mylo's age $= m$
+
+As per the question,
+
+$
+\begin {aligned}
+s + b           &= 12 \\\\
+s + b + f       &= 28 \\\\
+s + m           &= 20 \\\\
+s + b + f + m   &= 39
+\end {aligned}
+$
+
+Let's find Mylo's age. Using equation 4 and 2 we get,
+
+$
+\begin{aligned}
+s + b + f + m   &= 39 \\\\
+(s + b + f) + m &= 39 \\\\
+28 + m          &= 39 \\\\
+m               &= 39 - 28 \\\\
+m               &= 11 \ \text {years}
+\end{aligned}
+$
+
+Mylo's age $= 11 \ \text {years}$
+
+Let's find Frederick's age. Using equation 4 and 1 we get,
+
+$
+\begin{aligned}
+s + b + f + m    &= 39 \\\\
+(s + b) + f + m  &= 39 \\\\
+12 + f + 11      &= 39 \\\\
+f + 23           &= 39 \\\\
+f                &= 39 - 23 \\\\
+f                &= 16 \ \text {years}
+\end{aligned}
+$
+
+Frederick's age $= 16 \ \text {years}$
+
+Let's find Sam's age. Using equation 3 we get,
+
+$
+\begin{aligned}
+s + m   &= 20 \\\\
+s + 11  &= 20 \\\\
+s       &= 20 - 11 \\\\
+s       &= 9 \ \text {years}
+\end{aligned}
+$
+
+Sam's age $= 9 \ \text {years}$
+
+Lets's find Ben's age. Using equation 1 we get,
+
+$
+\begin{aligned}
+s + b   &= 12 \\\\
+9 + b   &= 12 \\\\
+b       &= 12 - 9 \\\\
+b       &= 3 \ \text {years}
+\end{aligned}
+$
+
+Ben's age $= 3 \ \text {years}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Sam</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9 \ \text {years}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Ben</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text {years}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Frederick</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16 \ \text {years}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Mylo</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11 \ \text {years}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1852,6 +2708,40 @@ $8 \ \text {years } 10 \ \text {months}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Becky's age}      &= 10 \dfrac {1} {2} \ \text {years} \\\\
+\text{Brother's age}    &= 10 \dfrac {1} {2} \ \text {years} - 1 \ \text {years} \ 8 \ \text {months} \\\\
+                        &= 10 \dfrac {1} {2} \ \text {years} - 1 \dfrac {8} {12} \ \text {years} \\\\
+                        &= 10 \dfrac {1} {2} - 1 \dfrac {2} {3} \\\\
+                        &= \dfrac {21} {2} - \dfrac {5} {3} \\\\
+                        &= \dfrac {21 \times 3} {2 \times 3} - \dfrac {5 \times 2} {3 \times 2} \\\\
+                        &= \dfrac {63} {6} - \dfrac {10} {6} \\\\
+                        &= \dfrac {63 - 10} {6} \\\\
+                        &= \dfrac {53} {6} \\\\
+                        &= 8 \dfrac {5} {6} \ \text {years} \\\\
+                        &= 8 \ \text {years} \ \dfrac {5} {6} \times 12 \ \text {months} \\\\
+                        &= 8 \ \text {years } 10 \ \text {months} \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8 \ \text {years } 10 \ \text {months}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -1932,6 +2822,25 @@ Helen was born on $1 \text{st}$ March $2003$.
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1958,6 +2867,31 @@ $
 
 $5 \ \text {years} \ 10 \ \text {months}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Difference}      &= \text {Helen's date of birth} - \text {Katharine's date of birth} \\\\
+                        &= 1 \text{st} \ \text {March} \ 2003 - 1 \text{st} \ \text {May} \ 1997 \\\\
+                        &= 5 \ \text {years} \ 10 \ \text {months}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5 \ \text {years} \ 10 \ \text {months}$
+</code></pre>
 </div>
 </div>
 
@@ -1990,6 +2924,31 @@ $
 
 $1 \text {st} \ \text {November} \ 1996$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Sam’s date of birth}  &= \text {Katharine's date of birth} - 18 \ \text {months} \\\\
+                             &= 1 \text {st} \ \text {May} \ 1997 - 1 \ \text {year} \ 6 \ \text {months} \\\\
+                             &= 1 \text {st} \ \text {November} \ 1996
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1 \text {st} \ \text {November} \ 1996$
+</code></pre>
 </div>
 </div>
 
@@ -2083,6 +3042,31 @@ $9 \ \text {years} \ 8 \ \text {months}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Sophie's age}  &= \text {George's age} - 2 \ \text {years} \ 9 \ \text {months} \\\\
+                      &= 12 \ \text {years} \ 5 \ \text {months} - 2 \ \text {years} \ 9 \ \text {months} \\\\
+                      &= 9 \ \text {years} \ 8 \ \text {months}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9 \ \text {years} \ 8 \ \text {months}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2171,6 +3155,31 @@ $20 \ \text {years} \ 11 \ \text {months}$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Years Telemann lived more than Bach}     &= \text {Years Telemann lived} - \text {Years Bach lived} \\\\
+                                                &= 86 \ \text {years} \ 3 \ \text {months} - 65 \ \text {years} \ 4 \ \text {months} \\\\
+                                                &= 20 \ \text {years} \ 11 \ \text {months}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20 \ \text {years} \ 11 \ \text {months}$
+</code></pre>
+</div>
+</div>
 
 
 <div class='review'>
@@ -2249,6 +3258,25 @@ Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -2276,6 +3304,30 @@ $27 \ \text {December} \ 2002$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Amelia's date of birth}  &= 5 \ \text {January} \ 2003 - 9 \ \text {days} \\\\
+                                &= 27 \ \text {December} \ 2002
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27 \ \text {December} \ 2002$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
@@ -2300,6 +3352,25 @@ $\text {Saturday}$
 
 $\text {Saturday}$
 
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\text {Saturday}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {Saturday}$
+</code></pre>
 </div>
 </div>
 

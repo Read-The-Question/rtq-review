@@ -133,6 +133,7 @@ const IndexPage = ({data}) => {
   const prccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
+      console.log(slug);
       return slug.startsWith("ragpapers") && 
       (
         slug.includes("-prcc") || 

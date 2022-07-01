@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-1"
 title: "TopicPaper - Number - 1"
-date: 2022-07-01 16:52:31
+date: 2022-07-01 20:44:42
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-07-01 16:52:31
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -358,7 +358,7 @@ $
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -630,7 +630,7 @@ $
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -904,7 +904,7 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1201,7 +1201,7 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_vg_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1472,7 +1472,7 @@ $11$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_vg_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1743,7 +1743,7 @@ $0.4$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_vg_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1879,7 +1879,7 @@ CODING GUIDELINES..
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2098,7 +2098,7 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2494,7 +2494,7 @@ Reach out if any confusion.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>02D4678C-2407-4D76-9D31-57EE67F35A29</p>
 </div>
@@ -2502,10 +2502,10 @@ Reach out if any confusion.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2603,7 +2603,7 @@ $91, 350$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2702,7 +2702,7 @@ $14036$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3098,7 +3098,7 @@ reach out if any confusion.
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3446,7 +3446,7 @@ s2 is wrong, should be 60 /300
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3768,7 +3768,7 @@ d: extra working
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3894,7 +3894,7 @@ Add as per the question, look at other algebra questions for sample
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4012,7 +4012,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4138,7 +4138,7 @@ abbr name is wrong, it is not expanding search in macros.toml for the right one
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4257,7 +4257,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4351,7 +4351,7 @@ $8521$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4455,7 +4455,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4729,7 +4729,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4837,7 +4837,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4923,7 +4923,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5048,7 +5048,7 @@ add s2 5 *a = 82 -27
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5137,7 +5137,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:4</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5427,7 +5427,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:6</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5770,7 +5770,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:18</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6109,7 +6109,7 @@ $\dfrac{2}{9}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:11</p>
 </div>
 <div class='rag'>
-<p>rag_vg_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6343,7 +6343,7 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6473,7 +6473,7 @@ abbr wrong, check the right one in macros.toml
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6588,7 +6588,7 @@ this is written in katex, change to plain md, remove $$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6949,7 +6949,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7176,7 +7176,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7304,7 +7304,7 @@ abbr wrong
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_vg_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7422,7 +7422,7 @@ delete   add full stop. in answer key t in tenths small
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7744,7 +7744,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7848,7 +7848,7 @@ $
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8073,7 +8073,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8506,7 +8506,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

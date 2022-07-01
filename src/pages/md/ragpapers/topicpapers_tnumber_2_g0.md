@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-g0"
 title: "TopicPaper - Number - 2 - G0"
-date: 2022-07-01 16:52:31
+date: 2022-07-01 20:44:42
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-07-01 16:52:31
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -502,7 +502,7 @@ f: s2: do not solve (20+10) to 30, still show (20+10) to represent that multiply
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -794,7 +794,7 @@ b: change 2 * a to 2a after S1, leave as 2 *a only in S1
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -980,7 +980,7 @@ $8.3$
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1258,7 +1258,7 @@ s4 = pound 2.13 (final answer)
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1364,7 +1364,7 @@ This does not seem to be correct?
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1635,7 +1635,7 @@ c: WRite abbrev for bidmas
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1906,7 +1906,7 @@ a: change 2 * x to 2x as thats the original question
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2040,7 +2040,7 @@ Too simple to show array detailed version, change to begin aligned
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2163,7 +2163,7 @@ Use approx template, refer DAA6B0CE-CF05-45FF-83D8-D30065047D76
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

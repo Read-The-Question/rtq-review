@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g2"
 title: "TopicPaper - Number - 1 - G2"
-date: 2022-07-01 16:52:31
+date: 2022-07-01 20:44:42
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-07-01 16:52:31
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -348,7 +348,7 @@ $
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -620,7 +620,7 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -839,7 +839,7 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -938,7 +938,7 @@ $14036$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1056,7 +1056,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1175,7 +1175,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1269,7 +1269,7 @@ $8521$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1373,7 +1373,7 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:4</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1663,7 +1663,7 @@ $
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_vg_g2</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

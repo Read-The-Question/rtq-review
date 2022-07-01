@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g0"
 title: "TopicPaper - Number - 13 - G0"
-date: 2022-07-01 16:52:31
+date: 2022-07-01 20:44:42
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4468,7 +4468,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>72451A15-7547-4D75-9C09-DCFB7DF42FD8</p>
 </div>
@@ -4479,7 +4479,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4638,10 +4638,10 @@ $11.36 + 3.40$
 
 $
 \begin{array}{cccccccccccccc}
-      &  1 &  1 \ . &  3 &  6 \\
-{}+   &    &  3 \ . &  4 &  0 \\
+      &  1 &  1 \ & . &  3 &  6 \\
+{}+   &    &  3 \ & . &  4 &  0 \\
 \hline
-      &  1 &  4 \ . &  7 & 6
+      &  1 &  4 \ & . &  7 & 6
 \end{array}
 $
 
@@ -4659,10 +4659,10 @@ $14.76$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{cccccccccccccc}
-      &  1 &  1 \ . &  3 &  6 \\
-{}+   &    &  3 \ . &  4 &  0 \\
+      &  1 &  1 \ & . &  3 &  6 \\
+{}+   &    &  3 \ & . &  4 &  0 \\
 \hline
-      &  1 &  4 \ . &  7 & 6
+      &  1 &  4 \ & . &  7 & 6
 \end{array}
 $
 </code></pre>
@@ -4695,10 +4695,10 @@ $3.54 - 2.34$
 
 $
 \begin{array}{cccccccccccccc}
-       &  3 \ . &  5 &  4 \\
-{}-    &  2 \ . &  3 &  4 \\
+       &  3 \ & . &  5 &  4 \\
+{}-    &  2 \ & . &  3 &  4 \\
 \hline
-       &  1 \ . &  2 &  0
+       &  1 \ & . &  2 &  0
 \end{array}
 $
 
@@ -4716,10 +4716,10 @@ $1.20$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{cccccccccccccc}
-       &  3 \ . &  5 &  4 \\
-{}-    &  2 \ . &  3 &  4 \\
+       &  3 \ & . &  5 &  4 \\
+{}-    &  2 \ & . &  3 &  4 \\
 \hline
-       &  1 \ . &  2 &  0
+       &  1 \ & . &  2 &  0
 \end{array}
 $
 </code></pre>
@@ -4921,7 +4921,7 @@ $= 211.00$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D3586240-8AF8-4DFE-9B41-8E2CAD789B2F</p>
 </div>
@@ -4932,7 +4932,7 @@ $= 211.00$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

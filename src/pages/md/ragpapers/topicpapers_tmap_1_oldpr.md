@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmap-1-oldpr"
 title: "TopicPaper - Map - 1 - OLDPR"
-date: 2022-07-01 16:52:31
+date: 2022-07-01 20:44:42
 ---
 <ul class='question default-decimal'>
 <li>

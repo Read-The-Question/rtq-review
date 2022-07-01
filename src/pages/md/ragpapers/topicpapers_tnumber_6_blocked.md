@@ -1,9 +1,76 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-blocked"
 title: "TopicPaper - Number - 6 - BLOCKED"
-date: 2022-07-01 15:57:05
+date: 2022-07-01 16:52:31
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>rag_mr_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The letter "e" appears $\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore}$ times in this sentence.
+
+Which of the following goes in the gap above?
+
+Seven, eight, nine, ten, eleven, twelve or thirteen
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The letter "e" appears $\underline {\text{ten}}$ times in this sentence.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+ten
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>The letter "e" appears $\underline {\text{ten}}$ times in this sentence.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>ten
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

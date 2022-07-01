@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-oldpr"
 title: "TopicPaper - Number - 17 - OLDPR"
-date: 2022-06-30 18:05:13
+date: 2022-07-01 08:54:30
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3DEA1C5D-5098-4644-85E8-342D00E123E8</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-30 18:05:13
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -55,7 +55,12 @@ $41 + 7$
 <div class='workings'>
 <div class='working'>
 
-$41 + 7 = 48$
+$
+\begin{aligned}
+&= 41 + 7 \\\\
+&= 48
+\end{aligned}
+$
 
 </div>
 </div>
@@ -79,7 +84,12 @@ $59 - 23$
 <div class='workings'>
 <div class='working'>
 
-$59 - 23 = 36$
+$
+\begin{aligned}
+&= 59 - 23 \\\\
+&= 36
+\end{aligned}
+$
 
 </div>
 </div>
@@ -103,7 +113,14 @@ $5  \times 7$
 <div class='workings'>
 <div class='working'>
 
-$5 \times 7 = 35$
+
+$
+\begin{aligned}
+&= 5 \times 7 \\\\
+&= 35
+\end{aligned}
+$
+
 
 </div>
 </div>
@@ -127,7 +144,13 @@ $24 \div 8$
 <div class='workings'>
 <div class='working'>
 
-$24 \div 8 = 3$
+$
+\begin{aligned}
+&= 24 \div 8  \\\\
+&= 3
+\end{aligned}
+$
+
 
 </div>
 </div>
@@ -145,7 +168,7 @@ $3$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\dfrac {1} {2} \text {of} 7$
+$\dfrac {1} {2} \text { of } 7$
 
 </div>
 <div class='workings'>
@@ -213,7 +236,7 @@ Part e give space in subquestion after \"of\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D61C4BCD-16FD-4C38-A89B-A1E29838248E</p>
 </div>
@@ -224,7 +247,7 @@ Part e give space in subquestion after \"of\"
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -378,7 +401,7 @@ $7420$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
 </div>
@@ -389,7 +412,7 @@ $7420$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -487,14 +510,14 @@ $5:39 \ \text{pm}$ using the $24\, hour$ clock
 <div class='workings'>
 <div class='working'>
 
-$5:39 \ \text{pm} + 12 \ \text{hours} = 17:39 \ \text{pm}$
+$5:39 \ \text{pm} + 12 \ \text{hours} = 17:39 \ \text{hours}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$17:39 \ \text{pm}$
+$17:39 \ \text{hours}$
 
 </div>
 </div>
@@ -541,14 +564,14 @@ $867$ to the nearest $10$
 <div class='workings'>
 <div class='working'>
 
-$860$
+$870$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$860$
+$870$
 
 </div>
 </div>
@@ -565,7 +588,7 @@ the number of sides on a pentagon
 <div class='workings'>
 <div class='working'>
 
-The number of sides on a pentagon $= 5$
+$= 5$
 
 </div>
 </div>
@@ -593,7 +616,6 @@ $
 \begin{aligned}
 &= 10 \% \\\\
 &= \dfrac {10} {100} \\\\
-&= \dfrac {1 \cancel 0} {10 \cancel 0} \\\\
 &= \dfrac {1} {10}
 \end{aligned}
 $
@@ -620,7 +642,7 @@ the next prime number after $17$
 <div class='workings'>
 <div class='working'>
 
-The next prime number after $17 = 19$
+$= 19$
 
 </div>
 </div>
@@ -716,7 +738,7 @@ Part H: direct answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4</p>
 </div>
@@ -727,7 +749,7 @@ Part H: direct answer
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

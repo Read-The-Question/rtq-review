@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-oldpr"
 title: "TopicPaper - Number - 15 - OLDPR"
-date: 2022-06-30 18:05:13
+date: 2022-07-01 08:54:30
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>913E3410-230E-40AF-A424-653751985E82</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-30 18:05:13
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -55,16 +55,19 @@ Which number is $1000$ times bigger than $34.2$?
 <div class='workings'>
 <div class='working'>
 
+
+
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
+
 $
-\begin {aligned}
-&= 1000 \times 34.2 \\\\
-&= 1000 \times \dfrac {342} {10} \\\\
-&= \dfrac {342 \times 1000} {10} \\\\
-&= \dfrac {342 \times 100 \times 10} {10} \\\\
-&= \dfrac {342 \times 100 \times \cancel {10}} {\cancel {10}} \\\\
-&= 342 \times 100 \\\\
-&= 34200
-\end {aligned}
+1000 \times 342 = 342000 \\
+$
+
+Between the two numbers, the total number of digits after the decimal point is one. Let's account for the decimal point now.
+
+$
+= 34200
 $
 
 $34200$ is $1000$ times bigger than $34.2$.
@@ -98,7 +101,7 @@ $
 \end {aligned}
 $
 
-*nineteen hundred and forty* is *one hundred* less than *two thousand and forty*.
+*Nineteen hundred and forty* is *one hundred* less than *two thousand and forty*.
 
 </div>
 </div>
@@ -148,7 +151,7 @@ $1940$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>CE3CCF3A-8056-438D-8058-4C8A604405AE</p>
 </div>
@@ -159,7 +162,7 @@ $1940$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -207,7 +210,6 @@ $
 &= 17 \times 540 \\\\
 &= 17 \times (538 + 2) \\\\
 &= 17 \times 538 + 17 \times 2 \\\\
-&= 9146 + 17 \times 2 \\\\
 &= 9146 + 34 \\\\
 &= 9180
 \end{aligned}
@@ -271,6 +273,7 @@ $
 \begin {aligned}
 &= 9146 \div 34 \\\\
 &= \dfrac {9146} {34} \\\\
+&= \dfrac {17 \times 538} {34} \\\\
 &= \dfrac {17 \times 2 \times 269} {17 \times 2} \\\\
 &= \dfrac {\cancel {17} \times \cancel {2} \times 269} {\cancel {17} \times \cancel {2}} \\\\
 &= 269
@@ -325,7 +328,7 @@ $269$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>49AC9C82-DFE8-430B-A040-246A3ED7DE20</p>
 </div>
@@ -336,7 +339,7 @@ $269$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -409,7 +412,6 @@ Which number is $10$ more than one thousand nine hundred and ninety seven?
 
 $
 \begin {aligned}
-&= 10 + \text {one thousand nine hundred and ninety seven} \\\\
 &= 10 + 1997 \\\\
 &= 2007
 \end {aligned}
@@ -465,7 +467,7 @@ $2007$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>303AB058-2EC9-4DEB-9A11-AE3828D6B5BC</p>
 </div>
@@ -476,7 +478,7 @@ $2007$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -499,7 +501,7 @@ $
 \begin{aligned}
 16 \times 7  &= 112 \\\\
 17 \times 6  &= 102 \\\\
-16 \times 7  &> 17 \times 6
+16 \times 7  &\boxed{>} 17 \times 6
 \end{aligned}
 $
 

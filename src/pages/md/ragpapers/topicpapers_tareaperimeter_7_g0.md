@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-g0"
 title: "TopicPaper - Areaperimeter - 7 - G0"
-date: 2022-06-30 18:05:13
+date: 2022-07-01 08:54:30
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1172,7 +1172,7 @@ In the picture below is the net of a cube. What would be the total surface area 
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Surface area of cube} = 6 \times \text{side} \times \text{side}$
+ABBR: $\text{Surface area of cube} = 6 \times \text{edge} \times \text{edge}$
 
 
 Let the side of the cube (in $\text{cm}$) $= a$

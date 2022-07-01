@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-15"
 title: "TopicPaper - Number - 15"
-date: 2022-06-30 18:05:13
+date: 2022-07-01 08:54:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -87,7 +87,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>913E3410-230E-40AF-A424-653751985E82</p>
 </div>
@@ -98,7 +98,7 @@ TODOANSWER
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -137,16 +137,19 @@ Which number is $1000$ times bigger than $34.2$?
 <div class='workings'>
 <div class='working'>
 
+
+
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
+
 $
-\begin {aligned}
-&= 1000 \times 34.2 \\\\
-&= 1000 \times \dfrac {342} {10} \\\\
-&= \dfrac {342 \times 1000} {10} \\\\
-&= \dfrac {342 \times 100 \times 10} {10} \\\\
-&= \dfrac {342 \times 100 \times \cancel {10}} {\cancel {10}} \\\\
-&= 342 \times 100 \\\\
-&= 34200
-\end {aligned}
+1000 \times 342 = 342000 \\
+$
+
+Between the two numbers, the total number of digits after the decimal point is one. Let's account for the decimal point now.
+
+$
+= 34200
 $
 
 $34200$ is $1000$ times bigger than $34.2$.
@@ -180,7 +183,7 @@ $
 \end {aligned}
 $
 
-*nineteen hundred and forty* is *one hundred* less than *two thousand and forty*.
+*Nineteen hundred and forty* is *one hundred* less than *two thousand and forty*.
 
 </div>
 </div>
@@ -392,7 +395,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>CE3CCF3A-8056-438D-8058-4C8A604405AE</p>
 </div>
@@ -403,7 +406,7 @@ TODOANSWER
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -451,7 +454,6 @@ $
 &= 17 \times 540 \\\\
 &= 17 \times (538 + 2) \\\\
 &= 17 \times 538 + 17 \times 2 \\\\
-&= 9146 + 17 \times 2 \\\\
 &= 9146 + 34 \\\\
 &= 9180
 \end{aligned}
@@ -515,6 +517,7 @@ $
 \begin {aligned}
 &= 9146 \div 34 \\\\
 &= \dfrac {9146} {34} \\\\
+&= \dfrac {17 \times 538} {34} \\\\
 &= \dfrac {17 \times 2 \times 269} {17 \times 2} \\\\
 &= \dfrac {\cancel {17} \times \cancel {2} \times 269} {\cancel {17} \times \cancel {2}} \\\\
 &= 269
@@ -569,7 +572,7 @@ $269$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8CA178E1-3E53-4A12-A620-3A797155DEEC</p>
 </div>
@@ -580,7 +583,7 @@ $269$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -597,13 +600,14 @@ Given that $7.84 \times 6 = 46.8$, work out the value of $7.84 \times 18$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
-7.84 \times 6             &= 46.8 \\\\
-7.84 \times 6 \times 3    &= 46.8 \times 3 \\\\
-7.84 \times 18            &= 140.4
+&=7.84 \times 18 \\\\
+&=7.84 \times 6 \times 3 \\\\
+&=46.8 \times 3\\\\
+&=140.4     
 \end{aligned}
 $
 
@@ -790,7 +794,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>49AC9C82-DFE8-430B-A040-246A3ED7DE20</p>
 </div>
@@ -801,7 +805,7 @@ TODOANSWER
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -874,7 +878,6 @@ Which number is $10$ more than one thousand nine hundred and ninety seven?
 
 $
 \begin {aligned}
-&= 10 + \text {one thousand nine hundred and ninety seven} \\\\
 &= 10 + 1997 \\\\
 &= 2007
 \end {aligned}
@@ -1369,7 +1372,7 @@ $464+273$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A059DFAC-EFF9-490C-BCDE-84BFC6682204</p>
 </div>
@@ -1380,7 +1383,7 @@ $464+273$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1450,7 +1453,7 @@ Which number is $1000$ times smaller than $700$?
 
 $
 \begin{aligned}
-&= 700 \div 1000 \\\\
+&= 700 \times \dfrac{1}{1000} \\\\
 &= \dfrac {700} {1000} \\\\
 &= 0.700
 \end{aligned}
@@ -1504,7 +1507,7 @@ $0.700$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D86093D3-93E9-42B0-AC4D-0FA47EA9C02D</p>
 </div>
@@ -1515,7 +1518,7 @@ $0.700$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1556,14 +1559,14 @@ $17 + \boxed{\phantom{11}} = 23 \times 2$
 
 Let the number $= a$
 
-As per the question,
 
 $
 \begin{aligned}
-17 + a  &= 23 \times 2 \\\\
-17 + a  &= 46 \\\\
-a       &= 46 - 17 \\\\
-a       &= 29
+17 + \boxed{a}  &= 23 \times 2 \\\\
+17 + \boxed{a}  &= 46 \\\\
+\boxed{a}       &= 46 - 17 \\\\
+\boxed{a}       &= 29 \\\\
+17 + \boxed{29}  &= 23 \times 2 
 \end{aligned}
 $
 
@@ -1591,15 +1594,15 @@ $9 + (5 \times 7) = 47 - \boxed{\phantom{11}}$
 
 Let the number $= a$
 
-As per the question,
 
 $
 \begin{aligned}
-9 + (5 \times 7)  &= 47 - a \\\\
-9 + 35            &= 47 - a \\\\
-44                &= 47 - a \\\\
-a                 &= 47 - 44 \\\\
-a                 &= 3
+9 + (5 \times 7)  &= 47 - \boxed{a} \\\\
+9 + 35            &= 47 - \boxed{a} \\\\
+44                &= 47 - \boxed{a}\\\\
+\boxed{a}                &= 47 - 44 \\\\
+\boxed{a}                 &= 3 \\\\
+9 + (5 \times 7)  &= 47 - \boxed{3} 
 \end{aligned}
 $
 
@@ -1627,16 +1630,16 @@ $\boxed{\phantom{11}}  \ \times 16 = 36 \div 9$
 
 Let the number $= a$
 
-As per the question,
 
 $
 \begin{aligned}
-a \times 16  &= 36 \div 9 \\\\
-a \times 16  &= \dfrac {36} {9} \\\\
-a            &= \dfrac {36} {9 \times 16} \\\\
-a            &= \dfrac {9 \times 3 \times 2} {9 \times 8 \times 2} \\\\
-a            &= \dfrac {\cancel {9} \times 3 \times \cancel {2}} {\cancel {9} \times 8 \times \cancel {2}} \\\\
-a            &= \dfrac {3} {8}
+\boxed{a} \times 16  &= 36 \div 9 \\\\
+\boxed{a} \times 16  &= \dfrac {36} {9} \\\\
+\boxed{a}            &= \dfrac {36} {9 \times 16} \\\\
+\boxed{a}            &= \dfrac {9 \times 3 \times 2} {9 \times 8 \times 2} \\\\
+\boxed{a}            &= \dfrac {\cancel {9} \times 3 \times \cancel {2}} {\cancel {9} \times 8 \times \cancel {2}} \\\\
+\boxed{a}            &= \dfrac {3} {8} \\\\
+\boxed{\dfrac{3}{8}} \times 16  &= 36 \div 9 
 \end{aligned}
 $
 
@@ -1688,7 +1691,7 @@ $\dfrac {3} {8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>561C1929-9A99-4876-A2E2-A4306B5D15FF</p>
 </div>
@@ -1699,7 +1702,7 @@ $\dfrac {3} {8}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1766,7 +1769,7 @@ How many supporters can both arenas seat altogether?
 
 $
 \begin{aligned}
-\text {Total supporters that can seat altogether}   &= 7490 + 630 + 7490 \\\\
+\text {Total supporters that both arenas can seat altogether}   &= 7490 + 630 + 7490 \\\\
                                                     &= 15610
 \end{aligned}
 $
@@ -1819,7 +1822,7 @@ $15610$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7BF6A139-A97B-4D72-BD97-EAFA887F9905</p>
 </div>
@@ -1830,7 +1833,7 @@ $15610$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1869,16 +1872,16 @@ $90 \div 12$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin {aligned}
-900 \div 12                                 &= 75 \\\\
-\dfrac {900} {12}                           &= 75 \\\\
-\dfrac {900} {12} \times \dfrac {1} {10}    &= 75 \times \dfrac {1} {10} \\\\
-\dfrac {900} {12 \times 10}                 &= \dfrac {75} {10} \\\\
-\dfrac {90} {12}                            &= 7.5 \\\\
-90 \div 12                                  &= 7.5
+&=90\div 12 \\\\
+&=\dfrac{90}{12} \\\\
+&=\dfrac{90\times10}{12\times10} \\\\
+&=\dfrac{900}{12}\times \dfrac{1}{10}\\\\
+&=75\times \dfrac{1}{10}\\\\
+&= 7.5
 \end {aligned}
 $
 
@@ -1904,16 +1907,17 @@ $900 \div 24$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin {aligned}
-900 \div 12                                  &= 75 \\\\
-\dfrac {900} {12}                            &= 75 \\\\
-\dfrac {900} {12} \times \dfrac {1} {2}      &= 75 \times \dfrac {1} {2} \\\\
-\dfrac {900} {12 \times 2}                   &= \dfrac {75} {2} \\\\
-\dfrac {900} {24}                            &= 37.5 \\\\
-900 \div 24                                  &= 37.5
+&=900 \div 24 \\\\
+&=\dfrac{900}{24}\\\\
+&=\dfrac{900}{12\times2} \\\\
+&=\dfrac{900}{12}\times \dfrac{1}{2} \\\\
+&=75\times\dfrac{1}{2} \\\\   
+&=\dfrac{75}{2} \\\\                              
+&= 37.5
 \end {aligned}
 $
 
@@ -1939,16 +1943,15 @@ $12 \times 74$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin {aligned}
-900 \div 12                                  &= 75 \\\\
-\dfrac {900} {12}                            &= 75 \\\\
-12 \times 75                                 &= 900 \\\\
-12 \times 75 - 12 \times 1                   &= 900 - 12 \times 1 \\\\
-12 (75 - 1)                                  &= 900 - 12 \\\\
-12 \times 74                                 &= 888
+&=12\times74 \\\\
+&=12\times74 +12-12 \\\\
+&=12\times(74+1) -12 \\\\
+&=12\times 75 -12\\\\
+&=900-12\\\\
+&= 888
 \end {aligned}
 $
 
@@ -1974,15 +1977,13 @@ $75 \times 36$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin {aligned}
-900 \div 12                                  &= 75 \\\\
-\dfrac {900} {12}                            &= 75 \\\\
-12 \times 75                                 &= 900 \\\\
-12 \times 3 \times 75                        &= 900 \times 3 \\\\
-36 \times 75                                 &= 2700
+&=75\times36 \\\\
+&=75\times12\times3 \\\\
+&=900\times3 \\\\
+&= 2700
 \end {aligned}
 $
 
@@ -2034,7 +2035,7 @@ $2700$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9E47730D-57C7-402D-82CD-0D7FC8E0A99F</p>
 </div>
@@ -2045,7 +2046,7 @@ $2700$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2117,7 +2118,7 @@ $13750$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>303AB058-2EC9-4DEB-9A11-AE3828D6B5BC</p>
 </div>
@@ -2128,7 +2129,7 @@ $13750$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2151,7 +2152,7 @@ $
 \begin{aligned}
 16 \times 7  &= 112 \\\\
 17 \times 6  &= 102 \\\\
-16 \times 7  &> 17 \times 6
+16 \times 7  &\boxed{>} 17 \times 6
 \end{aligned}
 $
 
@@ -2576,7 +2577,7 @@ $89$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EABCDB4F-B953-4587-89E7-A962568179B7</p>
 </div>
@@ -2587,7 +2588,7 @@ $89$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2856,7 +2857,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>91E92D06-A849-497B-A843-4A8E1C0A3EB7</p>
 </div>
@@ -2867,7 +2868,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2938,7 +2939,7 @@ $\text {Two thousand nine hundred and sixteen}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2CD8DF37-1EC5-419D-94FD-BB6B498FD8C3</p>
 </div>
@@ -2949,7 +2950,7 @@ $\text {Two thousand nine hundred and sixteen}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2986,6 +2987,8 @@ a                   &= \dfrac {11 \times \cancel {2}} {\cancel {2}} \\\\
 a                   &= 11
 \end{aligned}
 $
+
+Lisa’s favourite number $= 11$
 
 </div>
 </div>
@@ -3032,7 +3035,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>97113A2F-A515-4241-95D3-B163DACFDAA2</p>
 </div>
@@ -3043,7 +3046,7 @@ $11$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3100,7 +3103,7 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}}$
 <div class='workings'>
 <div class='working'>
 
-$132$
+$\boxed{1}\boxed{3}\boxed{2}$
 
 </div>
 </div>
@@ -3126,7 +3129,7 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}}$
 <div class='workings'>
 <div class='working'>
 
-$53$
+$\boxed{5}\boxed{3}$
 
 </div>
 </div>
@@ -3152,7 +3155,7 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phant
 <div class='workings'>
 <div class='working'>
 
-$4325$
+$\boxed{4}\boxed{3}\boxed{2}\boxed{5}$
 
 </div>
 </div>
@@ -3202,7 +3205,7 @@ $4325$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>506DE463-6915-4AC5-B7BF-327E32F4475E</p>
 </div>
@@ -3213,7 +3216,7 @@ $4325$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3254,16 +3257,16 @@ $4.25 \times 1.34$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
-\begin{aligned}
-425 \times 134                                &= 56950 \\\\
-425 \div 100 \times 134 \div 100              &= 56950 \div 10000 \\\\
-\dfrac {425} {100} \times \dfrac {134} {100}  &= \dfrac {56950} {10000} \\\\
-4.25 \times 1.34                              &= 5.6950
-\end{aligned}
+425 \times 134 = 56950 \\
 $
+
+Between the two numbers, the total number of digits after the decimal point are four. Let's account for the decimal point now.
+$= 5.6950$
+
 
 </div>
 </div>
@@ -3287,15 +3290,13 @@ $56950 \div 4.25$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-425 \times 134                                &= 56950 \\\\
-134                                           &= \dfrac {56950} {425} \\\\
-134 \times 100                                &= \dfrac {56950} {425} \times 100 \\\\
-134 \times 100                                &= \dfrac {56950} {4.25} \\\\
-56950 \div 4.25                               &= 13400
+&=56950 \div 4.25 \\\\
+&= \dfrac {56950 \times 100} {425} \\\\
+&= 134 \times 100 \\\\
+&= 13400
 \end{aligned}
 $
 
@@ -3321,14 +3322,15 @@ $42.5 \times 67$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-425 \times 134                               &= 56950 \\\\
-425 \div 10 \times 134 \div 2                &= 56950 \div 20 \\\\
-\dfrac {425} {10} \times \dfrac {134} {2}    &= \dfrac {56950} {20} \\\\
-42.5 \times 67                               &= 2847.5
+&=42.5 \times 67 \\\\
+&= \dfrac {425 \times 67}{10} \\\\
+&=\dfrac {425 \times 67 \times 2}{10 \times 2} \\\\
+&= \dfrac{56950}{10 \times 2} \\\\
+&= \dfrac{5695}{2} \\\\
+&= 2847.5
 \end{aligned}
 $
 
@@ -3461,7 +3463,7 @@ $12.15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6ABD9083-9950-424C-A91E-55291150A4DE</p>
 </div>
@@ -3472,7 +3474,7 @@ $12.15$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3596,7 +3598,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C13D92E3-895B-4965-8831-8AD95CB87317</p>
 </div>
@@ -3607,7 +3609,7 @@ $14$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3680,7 +3682,7 @@ $51$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>09B08DAF-540F-4115-B9CB-3DA13E21C2F3</p>
 </div>
@@ -3691,7 +3693,7 @@ $51$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3729,8 +3731,6 @@ $
 \begin{aligned}
 \text{Amount paid} &= 30\% \text{ of } 400 \\\\
 &= \dfrac {30} {100} \times 400 \\\\
-&= \dfrac {30 \times 400} {100} \\\\
-&= \dfrac {30 \times 4 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
 &= 30 \times 4 \\\\
 &= 120  \text{p} 
 \end{aligned}
@@ -3742,6 +3742,7 @@ $
 \begin{aligned}
 \text{Amount owed} &= 400 - 120 \\\\
 &= 280 \text{p} \\\\
+&= \pounds \dfrac{280}{100} \\\\
 &= \pounds 2.80
 \end{aligned}
 $
@@ -3758,11 +3759,9 @@ $
 \begin{aligned}
 \text{Amount owed} &= 70\% \text{ of } 400 \\\\
 &= \dfrac {70} {100} \times 400 \\\\
-&= \dfrac {70 \times 400} {100} \\\\
-&= \dfrac {70 \times 4 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
 &= 70 \times 4 \\\\
-&= 280 \\\\
 &= 280 \text{p} \\\\
+&= \pounds \dfrac{280}{100} \\\\
 &= \pounds 2.80
 \end{aligned}
 $
@@ -4039,7 +4038,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>23BA576A-774F-4E22-884E-3C38C9F35B7C</p>
 </div>
@@ -4050,7 +4049,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4114,7 +4113,7 @@ $1010001$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>30031157-8687-4B93-8985-5B4931D1E9A0</p>
 </div>
@@ -4125,7 +4124,7 @@ $1010001$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4422,7 +4421,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8E5A4E8E-7B83-4EB7-8E59-71D7210AF21C</p>
 </div>
@@ -4433,7 +4432,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4472,14 +4471,13 @@ $5.2 \times 316$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-52 \times 316                   &= 16432 \\\\
-\dfrac {52 \times 316} {10}     &= \dfrac {16432} {10} \\\\
-\dfrac {52} {10} \times 316     &= 1643.2 \\\\
-5.2 \times 316                  &= 1643.2
+&= 5.2 \times 316 \\\\
+&= \dfrac {52 \times 316} {10} \\\\
+&= \dfrac {16432} {10} \\\\
+&= 1643.2
 \end{aligned}
 $
 
@@ -4505,13 +4503,12 @@ $16432 \div 52$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-52 \times 316           &= 16432 \\\\
-\dfrac {16432} {52}     &= 316 \\\\
-16432 \div 52           &= 316
+&= 16432 \div 52 \\\\
+&= \dfrac {16432} {52} \\\\
+&= 316
 \end{aligned}
 $
 
@@ -4537,23 +4534,32 @@ $5200 \times 0.316$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 \begin{aligned}
-52 \times 316                               &= 16432 \\\\
-\dfrac {100} {1000} \times 52 \times 316    &= \dfrac {100} {1000} \times 16432 \\\\
-52 \times 100 \times \dfrac {316} {1000}    &= \dfrac {16432} {10} \\\\
-5200 \times 0.316                           &= 1643.2
+&= 5200 \times 316 \\\\
+&= 52 \times 100 \times 316 \\\\
+&= 16432 \times 100 \\\\
+&=1643200 
 \end{aligned}
 $
+
+Between the two numbers, the total number of digits after the decimal point are three. Let's account for the decimal point now.
+
+$
+= 1643.200
+$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1643.2$
+$1643.200$
 
 </div>
 </div>
@@ -4570,16 +4576,14 @@ $16432 \div 3160$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-52 \times 316                          &= 16432 \\\\
-52 \times 316 \times \dfrac {10} {10}  &= 16432 \times \dfrac {10} {10} \\\\
-\dfrac {52} {10} \times 316 \times 10  &= 16432 \\\\
-5.2 \times 3160                        &= 16432 \\\\
-\dfrac {16432} {3160}                  &= 5.2 \\\\
-16432 \div 3160                        &= 5.2
+&= 16432 \div 3160 \\\\
+&=\dfrac {16432} {3160} \\\\
+&=\dfrac {16432} {316 \times 10} \\\\
+&=\dfrac {52} {10} \\\\
+&= 5.2
 \end{aligned}
 $
 
@@ -4605,14 +4609,14 @@ $26 \times 158$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-52 \times 316                           &= 16432 \\\\
-52 \times 316 \times \dfrac {1} {4}     &= 16432 \times \dfrac {1} {4} \\\\
-\dfrac {52} {2} \times \dfrac {316} {2} &= \dfrac {16432} {4} \\\\
-26 \times 158                           &= 4108
+&= 26 \times 158 \\\\
+&= \dfrac{26 \times 158 \times 2 \times 2}{ 2 \times 2} \\\\
+&= \dfrac{52 \times 316}{2 \times 2} \\\\
+&= \dfrac{16432}{4} \\\\
+&= 4108
 \end{aligned}
 $
 
@@ -4664,7 +4668,7 @@ $4108$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BFDC3120-2057-4038-8AA8-793B043A6823</p>
 </div>
@@ -4675,7 +4679,7 @@ $4108$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4739,7 +4743,7 @@ $1040004$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24</p>
 </div>
@@ -4750,7 +4754,7 @@ $1040004$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4817,7 +4821,7 @@ If $\text{FAB } x = 720$, what is the value of $x$?
 
 From the above answer its known that
 
-FAB $5 = 120$
+$\text{FAB }5 = 120$
 
 $
 \begin{aligned}
@@ -4940,7 +4944,7 @@ $362880$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0C0A430F-C37E-414F-92E1-7B932AD3DBDA</p>
 </div>
@@ -4951,7 +4955,7 @@ $362880$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5018,7 +5022,7 @@ $212057$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A4EADF93-B120-460C-B5F1-D9351665FB41</p>
 </div>
@@ -5029,7 +5033,7 @@ $212057$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

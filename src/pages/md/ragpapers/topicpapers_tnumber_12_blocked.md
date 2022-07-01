@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-blocked"
 title: "TopicPaper - Number - 12 - BLOCKED"
-date: 2022-06-30 18:05:13
+date: 2022-07-01 08:54:30
 ---
 <ul class='question default-decimal'>
 <li>
@@ -60,9 +60,9 @@ What is the highest common factor of $14$ and $42$?
 
 $
 \begin{aligned}
-\text {factors of} \ 14  &= 1, 2, 7, \bold {14} \\\\
-\text {factors of} \ 42   &=  1, 2, 3, 6, 7, \bold {14}, 21, 42 \\\\
-\text {The Highest Common Factor of} \ 14 \ \text {and} \ 42 &= 14
+\text{factors of} \ 14  &= 1, 2, 7, \bold {14} \\\\
+\text{factors of} \ 42   &=  1, 2, 3, 6, 7, \bold {14}, 21, 42 \\\\
+\text{The Highest Common Factor of} \ 14 \ \text {and} \ 42 &= 14
 \end{aligned}
 $
 

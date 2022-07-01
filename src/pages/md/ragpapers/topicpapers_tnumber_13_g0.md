@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g0"
 title: "TopicPaper - Number - 13 - G0"
-date: 2022-06-30 18:05:13
+date: 2022-07-01 08:54:30
 ---
 <ul class='question default-decimal'>
 <li>
@@ -80,7 +80,7 @@ $600$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E</p>
 </div>
@@ -91,7 +91,7 @@ $600$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -118,10 +118,11 @@ As per the question,
 $
 \begin{aligned}
 a \times 0.2    &= 6 \\\\
-a               &= \dfrac {6} {0.2} \\\\
-a               &= \dfrac {6 \times 10} {0.2 \times 10} \\\\
-a               &= \dfrac {2 \times 3 \times 10} {2} \\\\
-a               &= \dfrac {\cancel {2} \times 3 \times 10} {\cancel {2}} \\\\
+a \times \dfrac{2}{10}    &= 6 \\\\
+a               &= \dfrac {6 \times 10} {2} \\\\
+a               &= \dfrac {6 \times 2 \times 5} {2} \\\\
+a               &= \dfrac {6 \times \cancel {2} \times 5} {\cancel {2}} \\\\
+a               &= 6 \times 5 \\\\
 a               &= 30
 \end{aligned}
 $

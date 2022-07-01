@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-notstarted"
 title: "TopicPaper - Areaperimeter - 4 - NOTSTARTED"
-date: 2022-06-30 18:05:13
+date: 2022-07-01 08:54:30
 ---
 <ul class='question default-decimal'>
 <li>
@@ -357,40 +357,42 @@ whose perimeter is $48 \ \text{cm}$ and whose width is one half of its length?
 <div class='workings'>
 <div class='working'>
 
-Let the length of rectangle $=a$
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
-As per the question,
+
+Let the length of rectangle $= a$
 
 Width $= \dfrac {1} {2} \times a$
 
+As per the question,
+
 $
 \begin{aligned}
-\text {Perimeter} &= 2 \times (\text {length} + \text {width}) \\\\
-48                &= 2 \times (a + \dfrac {1} {2} \times a) \\\\
-48                &= 2 \times (a + \dfrac {a} {2}) \\\\
-48                &= 2 \times (\dfrac {a \times 2} {1 \times 2} + \dfrac {a} {2}) \\\\
-48                &= 2 \times (\dfrac {2 a} {2} + \dfrac {a} {2}) \\\\
-48                &= 2 \times \dfrac {2 a + a} {2} \\\\
-48                &= \dfrac {2 \times (3 a)} {2} \\\\
-48                &= \dfrac {\cancel {2} \times (3 a)} {\cancel {2}} \\\\
-3a                &= 48 \\\\
-a                 &= \dfrac {48} {3} \\\\
-a                 &= \dfrac {16 \times 3} {3} \\\\
-a                 &= \dfrac {16 \times \cancel {3}} {\cancel {3}} \\\\
-a                 &= 16 \text { cm}
+2 \times (a + \dfrac {1} {2} \times a)                                  &= 48 \\\\
+2 \times (a + \dfrac {a} {2})                                           &= 48 \\\\
+2 \times (\dfrac {a \times 2} {1 \times 2} + \dfrac {a} {2})            &= 48 \\\\
+2 \times (\dfrac {2a} {2} + \dfrac {a} {2})                             &= 48 \\\\
+2 \times \dfrac {2a + a} {2}                                            &= 48 \\\\
+\dfrac {2 \times (3 a)} {2}                                             &= 48 \\\\
+\dfrac {\cancel {2} \times (3 a)} {\cancel {2}}                         &= 48 \\\\
+3a                                                                      &= 48 \\\\
+a                                                                       &= \dfrac {48} {3} \\\\
+a                                                                       &= \dfrac {16 \times 3} {3} \\\\
+a                                                                       &= \dfrac {16 \times \cancel {3}} {\cancel {3}} \\\\
+a                                                                       &= 16 \ \text {cm}
 \end{aligned}
-
-Length $=16 \text{ cm}$
-
-Width $=8 \text{ cm}$
 $
+
+Length $= 16 \ \text{cm}$
+
+Width $= 8 \ \text{cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$16 \text{ cm}, \ 8 \text{ cm}$
+$16 \ \text{cm}, 8 \ \text{cm}$
 
 </div>
 </div>
@@ -710,55 +712,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>89E47B93-00E0-4CFB-BD8B-1C27D2333057</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:34</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A rectangle has a length of $50 \ \text{mm}$ and has the same area as a square with side $70 \ \text{mm}$.
-
-Calculate the perimeter of the rectangle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 
 </div>
 </li>

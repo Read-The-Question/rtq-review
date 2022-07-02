@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-pr-prns"
 title: "TopicPaper - Fraction - 6 - PR - PRNS"
-date: 2022-07-02 06:05:18
+date: 2022-07-02 07:00:07
 ---
 <ul class='question default-decimal'>
 <li>

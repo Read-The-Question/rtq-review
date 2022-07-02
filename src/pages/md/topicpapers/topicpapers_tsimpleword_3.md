@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-3"
 title: "TopicPaper - Simpleword - 3"
-date: 2022-07-02 06:05:18
+date: 2022-07-02 07:00:07
 ---
 <div class='paper'>
 <div class='meta'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-oldpr-prcc"
 title: "TopicPaper - Money - 1 - OLDPR - PRCC"
-date: 2022-07-02 06:05:18
+date: 2022-07-02 07:00:07
 ---
 <ul class='question default-decimal'>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-13-oldpr"
 title: "TopicPaper - Algebra - 13 - OLDPR"
-date: 2022-07-01 22:02:50
+date: 2022-07-02 06:05:18
 ---
 <ul class='question default-decimal'>
 <li>

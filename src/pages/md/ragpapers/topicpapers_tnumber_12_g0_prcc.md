@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-g0-prcc"
 title: "TopicPaper - Number - 12 - G0 - PRCC"
-date: 2022-07-01 22:02:50
+date: 2022-07-02 06:05:18
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2007,6 +2007,182 @@ $\text {fifteen}$
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
+<p>B0ADB99B-D433-410E-B575-35DB1355EBAE</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:10</p>
+</div>
+<div class='rag'>
+<p>rag_as_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If the number $4567$ is multiplied by $5$ and then multiplied by $2$, what is the final answer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+& = 4567 \times 5 \times 2 \\\\
+& = 4567 \times 10 \\\\
+& = 45670
+\end{aligned}
+$
+
+The final answer $= 45670$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45670$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+& = 4567 \times 5 \times 2 \\\\
+& = 4567 \times 10 \\\\
+& = 45670
+\end{aligned}
+$
+
+The final answer $= 45670$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$45670$
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+If the number $40505$ is divided by $25$ and then multiplied by $5$, what is the final answer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {40505} {25} \times 5 \\\\
+&= \dfrac {40505 \times 5} {25} \\\\
+&= \dfrac {40505 \times 5} {5 \times 5} \\\\
+&= \dfrac {8101 \times 5 \times 5} {5 \times 5} \\\\
+&= \dfrac {8101 \times \cancel {5} \times \cancel {5}} {\cancel {5} \times \cancel {5}} \\\\
+&= 8101
+\end{aligned}
+$
+
+The final answer $= 8101$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8101$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {40505} {25} \times 5 \\\\
+&= \dfrac {40505 \times 5} {25} \\\\
+&= \dfrac {40505 \times 5} {5 \times 5} \\\\
+&= \dfrac {8101 \times 5 \times 5} {5 \times 5} \\\\
+&= \dfrac {8101 \times \cancel {5} \times \cancel {5}} {\cancel {5} \times \cancel {5}} \\\\
+&= 8101
+\end{aligned}
+$
+
+The final answer $= 8101$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8101$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B0ADB99B-D433-410E-B575-35DB1355EBAE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B0ADB99B-D433-410E-B575-35DB1355EBAE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='B0ADB99B-D433-410E-B575-35DB1355EBAE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B0ADB99B-D433-410E-B575-35DB1355EBAE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='B0ADB99B-D433-410E-B575-35DB1355EBAE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='B0ADB99B-D433-410E-B575-35DB1355EBAE' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='B0ADB99B-D433-410E-B575-35DB1355EBAE' id='FORM-B0ADB99B-D433-410E-B575-35DB1355EBAE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B0ADB99B-D433-410E-B575-35DB1355EBAE'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
 <p>AF6C30D3-937C-4AE9-9C40-40B451DBE47C</p>
 </div>
 <div class='papername'>
@@ -2459,6 +2635,117 @@ The arrow is pointing at $275$.
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-1A2368AC-E81B-4F3A-B9E5-B22495D8510B'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:14</p>
+</div>
+<div class='rag'>
+<p>rag_as_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add together the following numbers giving your answer in figures:
+
+3 million 
+seventy thousand  
+thirty-two thousand 
+nineteen
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3 \ \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
+&= 3000000 + 70000 + 32000 + 19 \\\\
+&= 3102019
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3102019$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 3 \ \text {million} + \text {Seventy thousand} + \text {Thirty two thousand} + \text {nineteen} \\\\ 
+&= 3000000 + 70000 + 32000 + 19 \\\\
+&= 3102019
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3102019$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC' id='FORM-E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC'>Initial</p>
 </div>
 </div>
 </li>

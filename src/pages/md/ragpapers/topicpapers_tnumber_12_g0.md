@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-g0"
 title: "TopicPaper - Number - 12 - G0"
-date: 2022-07-01 22:02:50
+date: 2022-07-02 06:05:18
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2140,7 +2140,7 @@ $\text {fifteen}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B0ADB99B-D433-410E-B575-35DB1355EBAE</p>
 </div>
@@ -2151,7 +2151,7 @@ $\text {fifteen}$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2774,7 +2774,7 @@ The arrow is pointing at $275$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E040106D-2FF4-4CE9-BDC9-98E51DFF2BFC</p>
 </div>
@@ -2785,7 +2785,7 @@ The arrow is pointing at $275$.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

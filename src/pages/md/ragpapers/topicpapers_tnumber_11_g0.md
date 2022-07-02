@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g0"
 title: "TopicPaper - Number - 11 - G0"
-date: 2022-07-01 22:02:50
+date: 2022-07-02 06:05:18
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D0CB8245-E400-4E04-85CB-E016410BF0BD</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-07-01 22:02:50
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -36,21 +36,21 @@ The planet Jupiter has $69$ moons. The closest moon is called Io and is $421,800
 <div class='workings'>
 <div class='working'>
 
-Four hundred twenty-one thousand eight hundred
+Four hundred twenty one thousand eight hundred
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Four hundred twenty-one thousand eight hundred
+Four hundred twenty one thousand eight hundred
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Four hundred twenty-one thousand eight hundred
+<pre class='language-latex'><code class='language-latex'>Four hundred twenty one thousand eight hundred
 </code></pre>
 </div>
 </div>
@@ -62,7 +62,7 @@ Four hundred twenty-one thousand eight hundred
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Four hundred twenty-one thousand eight hundred
+<pre class='language-latex'><code class='language-latex'>Four hundred twenty one thousand eight hundred
 </code></pre>
 </div>
 </div>
@@ -129,7 +129,7 @@ sorry, one more comment, no need for - between twenty and one
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>26FFB556-39BB-41AA-B00B-2CFED4038F32</p>
 </div>
@@ -140,7 +140,7 @@ sorry, one more comment, no need for - between twenty and one
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -160,21 +160,21 @@ Callisto is another moon of Jupiter and its maximum distance from Jupiter as it 
 <div class='workings'>
 <div class='working'>
 
-One million eight hundred eighty-two thousand seven hundred
+One million eight hundred eighty two thousand seven hundred
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-One million eight hundred eighty-two thousand seven hundred
+One million eight hundred eighty two thousand seven hundred
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>One million eight hundred eighty-two thousand seven hundred
+<pre class='language-latex'><code class='language-latex'>One million eight hundred eighty two thousand seven hundred
 </code></pre>
 </div>
 </div>
@@ -186,7 +186,7 @@ One million eight hundred eighty-two thousand seven hundred
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>One million eight hundred eighty-two thousand seven hundred
+<pre class='language-latex'><code class='language-latex'>One million eight hundred eighty two thousand seven hundred
 </code></pre>
 </div>
 </div>
@@ -243,7 +243,7 @@ no need for hypen in 82
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E4E827B3-D0E0-4C37-A152-5F341EC0D264</p>
 </div>
@@ -254,7 +254,7 @@ no need for hypen in 82
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -574,7 +574,7 @@ All comments not done.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DAA6B0CE-CF05-45FF-83D8-D30065047D76</p>
 </div>
@@ -585,7 +585,7 @@ All comments not done.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -763,7 +763,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$11 \\text{mm}$ 
+$11 \ \text{mm}$ 
 
 </div>
 </div>
@@ -789,7 +789,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$11 \\text{mm}$ 
+<pre class='language-latex'><code class='language-latex'>$11 \ \text{mm}$ 
 </code></pre>
 </div>
 </div>
@@ -901,7 +901,7 @@ c: extra \\ in the last line???
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6D141501-2A64-4588-AEC5-440D97E09546</p>
 </div>
@@ -912,7 +912,7 @@ c: extra \\ in the last line???
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -973,7 +973,7 @@ $29.8536$ (nearest whole number)
 $
 \begin {aligned}
 &= 29.8536 \\\\
-&\approx 30 \\\\
+&\approx 30 
 \end {aligned}
 $
 
@@ -992,7 +992,7 @@ $30$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 29.8536 \\\\
-&\approx 30 \\\\
+&\approx 30 
 \end {aligned}
 $
 </code></pre>
@@ -1026,7 +1026,7 @@ $170490$ (nearest thousand)
 $
 \begin {aligned}
 &= 170490 \\\\
-&\approx 170000 \\\\
+&\approx 170000 
 \end {aligned}
 $
 
@@ -1045,7 +1045,7 @@ $170000$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 170490 \\\\
-&\approx 170000 \\\\
+&\approx 170000 
 \end {aligned}
 $
 </code></pre>
@@ -1079,7 +1079,7 @@ $45.1925487$ (nearest tenth)
 $
 \begin {aligned}
 &= 45.1925487 \\\\
-&\approx 45.2 \\\\
+&\approx 45.2 
 \end {aligned}
 $
 
@@ -1098,7 +1098,7 @@ $45.2$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 45.1925487 \\\\
-&\approx 45.2 \\\\
+&\approx 45.2 
 \end {aligned}
 $
 </code></pre>
@@ -1164,7 +1164,7 @@ extra \\ in  a b c
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DF144071-E27A-45E8-8AC4-FB2D59699905</p>
 </div>
@@ -1175,7 +1175,7 @@ extra \\ in  a b c
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1239,7 +1239,7 @@ Round each of the following numbers to the accuracy given in brackets.
 $
 \begin {aligned}
 &= 19.82 \\\\
-&\approx 20 \\\\
+&\approx 20 
 \end {aligned}
 $
 
@@ -1258,7 +1258,7 @@ $20$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 19.82 \\\\
-&\approx 20 \\\\
+&\approx 20 
 \end {aligned}
 $
 </code></pre>
@@ -1292,7 +1292,7 @@ $
 $
 \begin {aligned}
 &= 120400 \\\\
-&\approx 120000 \\\\
+&\approx 120000 
 \end {aligned}
 $
 
@@ -1311,7 +1311,7 @@ $120000$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 120400 \\\\
-&\approx 120000 \\\\
+&\approx 120000 
 \end {aligned}
 $
 </code></pre>
@@ -1345,7 +1345,7 @@ $
 $
 \begin {aligned}
 &= 33.45789 \\\\
-&\approx 33.5 \\\\
+&\approx 33.5 
 \end {aligned}
 $
 
@@ -1364,7 +1364,7 @@ $33.5$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 33.45789 \\\\
-&\approx 33.5 \\\\
+&\approx 33.5 
 \end {aligned}
 $
 </code></pre>
@@ -1438,7 +1438,7 @@ is c right?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>05BC7A40-020B-420A-83C8-4F58121795F4</p>
 </div>
@@ -1449,7 +1449,7 @@ is c right?
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1513,7 +1513,7 @@ $132.7521245$ (nearest whole number)
 $
 \begin {aligned}
 &= 132.7521245 \\\\
-&\approx 133 \\\\
+&\approx 133 
 \end {aligned}
 $
 
@@ -1532,7 +1532,7 @@ $133$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 132.7521245 \\\\
-&\approx 133 \\\\
+&\approx 133 
 \end {aligned}
 $
 </code></pre>
@@ -1566,7 +1566,7 @@ $12236$ (nearest thousand)
 $
 \begin {aligned}
 &= 12236 \\\\
-&\approx 12000 \\\\
+&\approx 12000 
 \end {aligned}
 $
 
@@ -1585,7 +1585,7 @@ $12000$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 12236 \\\\
-&\approx 12000 \\\\
+&\approx 12000 
 \end {aligned}
 $
 </code></pre>
@@ -1619,7 +1619,7 @@ $124.0754896$ (nearest hundredth)
 $
 \begin {aligned}
 &= 124.0754896 \\\\
-&\approx 124.08 \\\\
+&\approx 124.08 
 \end {aligned}
 $
 
@@ -1638,7 +1638,7 @@ $124.08$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 124.0754896 \\\\
-&\approx 124.08 \\\\
+&\approx 124.08 
 \end {aligned}
 $
 </code></pre>
@@ -1708,7 +1708,7 @@ extra \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2FB7FD94-DCE7-416B-94DB-D40514D8544D</p>
 </div>
@@ -1719,7 +1719,7 @@ extra \\
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1743,12 +1743,12 @@ ABBR: It is really important to use the right units in calculations and convert 
 .
 
 $
-\begin{aligned}
-&= \pounds1.28 - 57 \text{p} \\\\
-&= 128 \text{p} + 57 \text{p} \\\\
-&= 185 \text{p} \\\\
+\begin{array}{cccccccccccccc}
+&= \pounds1.28 - 57 \text{p} \\\
+&= 128 \text{p} + 57 \text{p} \\\
+&= 185 \text{p} \\\
 &= \pounds 1.85
-\end{aligned}
+\end{array}
 $
 
 </div>
@@ -1766,12 +1766,12 @@ $\pounds 0.72$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
 
 $
-\begin{aligned}
-&= \pounds1.28 - 57 \text{p} \\\\
-&= 128 \text{p} + 57 \text{p} \\\\
-&= 185 \text{p} \\\\
+\begin{array}{cccccccccccccc}
+&= \pounds1.28 - 57 \text{p} \\\
+&= 128 \text{p} + 57 \text{p} \\\
+&= 185 \text{p} \\\
 &= \pounds 1.85
-\end{aligned}
+\end{array}
 $
 </code></pre>
 </div>
@@ -1978,7 +1978,8 @@ A squared number between $30$ and $40$
 
 $
 \begin{aligned}
-36 &= \,6^2
+&= 36 \\\\
+&= \,6^2
 \end{aligned}
 $
 
@@ -1997,7 +1998,8 @@ $36$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-36 &= \,6^2
+&= 36 \\\\
+&= \,6^2
 \end{aligned}
 $
 </code></pre>
@@ -2031,7 +2033,8 @@ A multiple of 17 between $50$ and $60$
 
 $
 \begin{aligned}
-17 \times 3 &= 51
+&= 17 \times 3 \\\\
+&= 51
 \end{aligned}
 $
 
@@ -2050,7 +2053,8 @@ $51$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-17 \times 3 &= 51
+&= 17 \times 3 \\\\
+&= 51
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-07-01 22:02:50
+date: 2022-07-02 06:05:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2650,7 +2650,7 @@ $\text {square}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F79E876B-8F58-473B-8C5B-5673C2A043B1</p>
 </div>
@@ -2661,7 +2661,7 @@ $\text {square}$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3640,7 +3640,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ADEAD8D0-2747-44BF-901C-F26BADA4C02C</p>
 </div>
@@ -3651,7 +3651,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3807,14 +3807,13 @@ As per the scale,
 
 $
 \begin{aligned}
-\text {mass represented by an interval}         &= 10 \text {g} \\\\
+\text {mass represented by an interval}         &= 10 \ \text {g} \\\\
 \text {number of divisions in an interval}      &= 4 \\\\
 \text {mass represented by a division}          &= \dfrac {10} {4} \\\\
-                                                &= 2.5 \text {g} \\\\
+                                                &= 2.5 \ \text {g} \\\\
 \text {division at which the arrow is pointing} &= 2 \\\\
-\text {mass represented by the arrow}           &= \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
-                                                &= {2 \times 2.5 } \\\\
-                                                &= 5 \text {g}
+\text {mass represented by the arrow}           &= {2 \times 2.5 } \\\\ 
+                                                &= 5 \ \text {g}
 \end{aligned}
 $
 
@@ -3834,14 +3833,13 @@ $5 \ \text {g}$
 
 $
 \begin{aligned}
-\text {mass represented by an interval}         &= 10 \text {g} \\\\
+\text {mass represented by an interval}         &= 10 \ \text {g} \\\\
 \text {number of divisions in an interval}      &= 4 \\\\
 \text {mass represented by a division}          &= \dfrac {10} {4} \\\\
-                                                &= 2.5 \text {g} \\\\
+                                                &= 2.5 \ \text {g} \\\\
 \text {division at which the arrow is pointing} &= 2 \\\\
-\text {mass represented by the arrow}           &= \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
-                                                &= {2 \times 2.5 } \\\\
-                                                &= 5 \text {g}
+\text {mass represented by the arrow}           &= {2 \times 2.5 } \\\\ 
+                                                &= 5 \ \text {g}
 \end{aligned}
 $
 </code></pre>
@@ -3877,14 +3875,13 @@ As per the scale,
 
 $
 \begin{aligned}
-\text {mass represented by an interval}         &= 25 \text {g} \\\\
+\text {mass represented by an interval}         &= 25 \ \text {g} \\\\
 \text {number of divisions in an interval}      &= 5 \\\\
 \text {mass represented by a division}          &= \dfrac {25} {5} \\\\
-                                                &= 5 \text {g} \\\\
+                                                &= 5 \ \text {g} \\\\
 \text {division at which the arrow is pointing} &= \text {first division after 225} \\\\
-\text {mass represented by the arrow}           &= 225 + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
-                                                &= 225 + {1 \times 5 } \\\\
-                                                &= 230 \text {g}
+\text {mass represented by the arrow}           &= 225 + {1 \times 5 } \\\\
+                                                &= 230 \ \text {g}
 \end{aligned}
 $
 
@@ -3904,14 +3901,13 @@ $230 \ \text{g}$
 
 $
 \begin{aligned}
-\text {mass represented by an interval}         &= 25 \text {g} \\\\
+\text {mass represented by an interval}         &= 25 \ \text {g} \\\\
 \text {number of divisions in an interval}      &= 5 \\\\
 \text {mass represented by a division}          &= \dfrac {25} {5} \\\\
-                                                &= 5 \text {g} \\\\
+                                                &= 5 \ \text {g} \\\\
 \text {division at which the arrow is pointing} &= \text {first division after 225} \\\\
-\text {mass represented by the arrow}           &= 225 + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
-                                                &= 225 + {1 \times 5 } \\\\
-                                                &= 230 \text {g}
+\text {mass represented by the arrow}           &= 225 + {1 \times 5 } \\\\
+                                                &= 230 \ \text {g}
 \end{aligned}
 $
 </code></pre>
@@ -3947,13 +3943,12 @@ As per the scale,
 
 $
 \begin{aligned}
-\text {mass represented by an interval}         &= 1 \text {kg} \\\\
+\text {mass represented by an interval}         &= 1 \ \text {kg} \\\\
 \text {number of divisions in an interval}      &= 5 \\\\
 \text {mass represented by a division}          &= \dfrac {1} {5} \\\\
                                                 &= 0.2 \text {kg} \\\\
 \text {division at which the arrow is pointing} &= 2 \\\\
-\text {mass represented by the arrow}           &= 2 \text {kg} + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
-                                                &= 2 + {2 \times 0.2 } \\\\
+\text {mass represented by the arrow}           &= 2 \ \text {kg} + {2 \times 0.2 } \ \text {kg} \\\\
                                                 &= 2.4 \ \text {kg}
 \end{aligned}
 $
@@ -3974,13 +3969,12 @@ $2.4 \ \text {kg}$
 
 $
 \begin{aligned}
-\text {mass represented by an interval}         &= 1 \text {kg} \\\\
+\text {mass represented by an interval}         &= 1 \ \text {kg} \\\\
 \text {number of divisions in an interval}      &= 5 \\\\
 \text {mass represented by a division}          &= \dfrac {1} {5} \\\\
                                                 &= 0.2 \text {kg} \\\\
 \text {division at which the arrow is pointing} &= 2 \\\\
-\text {mass represented by the arrow}           &= 2 \text {kg} + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
-                                                &= 2 + {2 \times 0.2 } \\\\
+\text {mass represented by the arrow}           &= 2 \ \text {kg} + {2 \times 0.2 } \ \text {kg} \\\\
                                                 &= 2.4 \ \text {kg}
 \end{aligned}
 $
@@ -4612,7 +4606,7 @@ $60 \pounds$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>768047AF-2D34-4B56-88E6-802A32B95806</p>
 </div>
@@ -4623,7 +4617,7 @@ $60 \pounds$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4693,8 +4687,7 @@ How many football cards did he buy in total?
 
 $
 \begin{aligned}
-\text {Total football cards bought} &= \text {Football cards bought last week} + \text {Football cards bought this week} \\\\
-                                    &= 56 + 72 \\\\
+\text {Total football cards bought} &= 56 + 72 \\\\
                                     &= 128
 \end{aligned}
 $
@@ -4713,8 +4706,7 @@ $128$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Total football cards bought} &= \text {Football cards bought last week} + \text {Football cards bought this week} \\\\
-                                    &= 56 + 72 \\\\
+\text {Total football cards bought} &= 56 + 72 \\\\
                                     &= 128
 \end{aligned}
 $
@@ -4855,9 +4847,9 @@ What is the cost of $9$ packs of football cards?
 $
 \begin{aligned}
 \text {Cost of 9 packs}    &= 35 \ \text {pence} \times 9 \\\\
-                           &= \pounds \dfrac {35} {100} \times 9 \\\\
-                           &= 0.35 \times 9 \\\\
-                           &= \pounds 3.15
+                           &= 315 \ \text{pence} \\\\
+                           &= \pounds \ \dfrac{315}{100} \\\\
+                           &= \pounds \ 3.15
 \end{aligned}
 $
 
@@ -4876,9 +4868,9 @@ $\pounds 3.15$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Cost of 9 packs}    &= 35 \ \text {pence} \times 9 \\\\
-                           &= \pounds \dfrac {35} {100} \times 9 \\\\
-                           &= 0.35 \times 9 \\\\
-                           &= \pounds 3.15
+                           &= 315 \ \text{pence} \\\\
+                           &= \pounds \ \dfrac{315}{100} \\\\
+                           &= \pounds \ 3.15
 \end{aligned}
 $
 </code></pre>
@@ -5247,7 +5239,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CA0467B7-80F4-4714-91E9-93A58BF64E09</p>
 </div>
@@ -5258,7 +5250,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6212,7 +6204,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E59F5A28-78EF-4A56-BF19-EA19C6B7DCFA</p>
 </div>
@@ -6223,7 +6215,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6337,21 +6329,21 @@ Ten calculators have a total mass of $1500 \ \text{g}$.
 <div class='workings'>
 <div class='working'>
 
-$\text {Thousand}$
+Thousand
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Thousand}$
+Thousand
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Thousand}$
+<pre class='language-latex'><code class='language-latex'>Thousand
 </code></pre>
 </div>
 </div>
@@ -6363,7 +6355,7 @@ $\text {Thousand}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Thousand}$
+<pre class='language-latex'><code class='language-latex'>Thousand
 </code></pre>
 </div>
 </div>
@@ -6951,7 +6943,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7DC85310-FDF2-4E15-825D-CABF7CD09494</p>
 </div>
@@ -6962,7 +6954,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7690,7 +7682,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2A80FA34-F0A9-442B-8D9F-C536D268522D</p>
 </div>
@@ -7701,7 +7693,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8823,7 +8815,7 @@ $0.5, 0.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>717F1DE8-1840-4689-93C1-2F3E5477097E</p>
 </div>
@@ -8834,7 +8826,7 @@ $0.5, 0.6$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9610,7 +9602,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6532C137-9071-4123-8B77-BEABFCDB3BC7</p>
 </div>
@@ -9621,7 +9613,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9643,9 +9635,9 @@ ABBR: It is really important to use the right units in calculations and convert 
 
 $
 \begin{aligned}
-&= 3.2 \text{m} - 30 \ \text{cm} \\\\
+&= 3.2 \ \text{m} - 30 \ \text{cm} \\\\
 &= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
-&= 320  - 30  \\\\
+&= 320 \ \text{cm}  - 30 \ \text{cm}  \\\\
 &= 290  \ \text{cm}
 \end{aligned}
 $
@@ -9666,9 +9658,9 @@ $290  \ \text{cm}$
 
 $
 \begin{aligned}
-&= 3.2 \text{m} - 30 \ \text{cm} \\\\
+&= 3.2 \ \text{m} - 30 \ \text{cm} \\\\
 &= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
-&= 320  - 30  \\\\
+&= 320 \ \text{cm}  - 30 \ \text{cm}  \\\\
 &= 290  \ \text{cm}
 \end{aligned}
 $

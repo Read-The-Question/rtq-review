@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition-3"
 title: "TopicPaper - Detailedaddition - 3"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:7</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -143,6 +146,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -249,6 +255,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -359,6 +368,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -465,6 +477,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -587,6 +602,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -695,6 +713,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -801,6 +822,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:7</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -923,6 +947,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -1029,6 +1056,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1139,6 +1169,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -1245,6 +1278,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1355,6 +1391,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -1461,6 +1500,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:2</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1571,6 +1613,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -1679,6 +1724,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -1785,6 +1833,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:8</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -1905,6 +1956,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -2011,6 +2065,9 @@ $
 </div>
 <div class='papername'>
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -2123,6 +2180,9 @@ $
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -2233,6 +2293,9 @@ $
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -2340,6 +2403,9 @@ $
 </div>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:1</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g0"
 title: "TopicPaper - Number - 13 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:6</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -113,6 +116,9 @@ $
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:6</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -300,6 +306,9 @@ $2468$
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -635,6 +644,9 @@ $13$
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -1066,6 +1078,9 @@ $1256$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -1393,6 +1408,9 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -1625,6 +1643,9 @@ $
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -2022,6 +2043,9 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -2405,6 +2429,9 @@ She got $\pounds 1.85$ as change.
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -2653,6 +2680,9 @@ $
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:5</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -2971,6 +3001,9 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -3045,6 +3078,9 @@ b: question looks wrong, something missing, please check pdf.
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:12</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -3374,6 +3410,9 @@ $
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -3471,6 +3510,9 @@ $0.5, 0.6$
 </div>
 <div class='papername'>
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:3</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -3827,6 +3869,9 @@ $= 211.00$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -3937,6 +3982,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>

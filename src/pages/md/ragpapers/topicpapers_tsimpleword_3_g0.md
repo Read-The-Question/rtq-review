@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-g0"
 title: "TopicPaper - Simpleword - 3 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -139,6 +142,9 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -251,6 +257,9 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -359,6 +368,9 @@ Three prime numbers that multiply together to get $110$ are $2, 5, 11$.
 </div>
 <div class='papername'>
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -477,6 +489,9 @@ $
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -589,6 +604,9 @@ $
 </div>
 <div class='papername'>
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -704,6 +722,9 @@ $
 </div>
 <div class='papername'>
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -859,6 +880,9 @@ $
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:35</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -989,6 +1013,9 @@ $
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1106,6 +1133,9 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1216,6 +1246,9 @@ $
 </div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1502,6 +1535,9 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1723,6 +1759,9 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:10</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1841,6 +1880,9 @@ Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:17</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2062,6 +2104,9 @@ $
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2291,6 +2336,9 @@ Hence $n = 10$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:8</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2404,6 +2452,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:10</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2506,6 +2557,9 @@ $
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:35</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2647,6 +2701,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:24</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2773,6 +2830,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:32</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2894,6 +2954,9 @@ $
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3001,6 +3064,9 @@ $
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:15</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3113,6 +3179,9 @@ $
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:1:1</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

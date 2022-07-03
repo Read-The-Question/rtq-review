@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0"
 title: "TopicPaper - Areaperimeter - 4 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:11</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -313,6 +316,9 @@ $
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -462,6 +468,9 @@ $
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -698,6 +707,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:13</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -829,6 +841,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:17</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -956,6 +971,9 @@ $
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:11</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1095,6 +1113,9 @@ Other three sides of rectangle are 3cm, 3cm, 8cm.
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:7</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1228,6 +1249,9 @@ $
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:1:7</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1385,6 +1409,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:34</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1679,6 +1706,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:7</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1828,6 +1858,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:7</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1981,6 +2014,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:29</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -2116,6 +2152,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:2</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>

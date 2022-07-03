@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-g2"
 title: "TopicPaper - Sequence - 2 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:18</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -156,6 +159,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:18</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -299,6 +305,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:12</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -436,6 +445,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:6</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -749,6 +761,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:6</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1058,6 +1073,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:5</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -1371,6 +1389,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:6</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1680,6 +1701,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:2</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -2096,6 +2120,9 @@ $
 </div>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -2647,6 +2674,9 @@ $
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -2787,6 +2817,9 @@ $
 </div>
 <div class='papername'>
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:10</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-g2"
 title: "TopicPaper - Sequence - 4 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:24</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -234,6 +237,9 @@ $
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:8</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -779,6 +785,9 @@ $
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1096,6 +1105,9 @@ $
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1409,6 +1421,9 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1562,6 +1577,9 @@ $
 </div>
 <div class='papername'>
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>

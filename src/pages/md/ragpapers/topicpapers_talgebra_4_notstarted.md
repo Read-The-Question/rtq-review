@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-4-notstarted"
 title: "TopicPaper - Algebra - 4 - NOTSTARTED"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:28</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -77,6 +80,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:20</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -171,6 +177,9 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:37</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -261,6 +270,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:11</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -355,6 +367,9 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -446,6 +461,9 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -533,6 +551,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-a:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -929,6 +950,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-b:1:1</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1373,6 +1397,9 @@ TODOANSWER
 <p>highgate-school--11-plus--maths--9999--sample-paper-b:1:2</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -1750,6 +1777,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-b:1:3</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2196,6 +2226,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-c:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2647,6 +2680,9 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2737,6 +2773,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2872,6 +2911,9 @@ the length of the comb $= 1.99 \text {cm}$
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2962,6 +3004,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

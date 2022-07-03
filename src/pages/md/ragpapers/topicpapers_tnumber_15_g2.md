@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-g2"
 title: "TopicPaper - Number - 15 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -105,6 +108,9 @@ $1040004$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -202,6 +208,9 @@ $212057$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>

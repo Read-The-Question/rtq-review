@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0-prcc"
 title: "TopicPaper - Number - 16 - G0 - PRCC"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:10</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>
@@ -111,6 +114,9 @@ So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:20</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>
@@ -331,6 +337,9 @@ Answer in the middle $= 8$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:2</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
@@ -436,6 +445,9 @@ Numbers divisible by $5 = 70$ and $5$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:19</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>

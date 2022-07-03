@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "TopicPaper - Algebra - 4"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -167,6 +170,9 @@ DONE As per the pattern,
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -309,6 +315,9 @@ The original number Kieran thought of $= 5$
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -485,6 +494,9 @@ Second number $= 13$
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -828,6 +840,9 @@ $
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -956,6 +971,9 @@ The number Sophie thought of $= 9$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -1020,6 +1038,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:31</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1357,6 +1378,9 @@ $
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1487,6 +1511,9 @@ Mayank's number $= 18$.
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:15</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1606,6 +1633,9 @@ $
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:20</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -1696,6 +1726,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:24</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1832,6 +1865,9 @@ There are total $3$ wobbles.
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1962,6 +1998,9 @@ Theo was thinking of $32$.
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:28</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2138,6 +2177,9 @@ Amrit gets $9 \times 1 = 9$ sweets.
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:37</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2228,6 +2270,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:6</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2357,6 +2402,9 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2447,6 +2495,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2570,6 +2621,9 @@ The medicine will last for $6$ days.
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2686,6 +2740,9 @@ The number is $7$
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2777,6 +2834,9 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2864,6 +2924,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:26</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2999,6 +3062,9 @@ Suril got $6 \times 15 = 90$ marks.
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:29</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3131,6 +3197,9 @@ They won $6$ matches.
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3254,6 +3323,9 @@ $
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -3359,6 +3431,9 @@ $
 </div>
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3778,6 +3853,9 @@ $
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3880,6 +3958,9 @@ $
 </div>
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4091,6 +4172,9 @@ $
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -4185,6 +4269,9 @@ $6$ bottles will last for $9$ days.
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--2013--sample-paper-d:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4337,6 +4424,9 @@ $
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-a:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -4733,6 +4823,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-b:1:1</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -5177,6 +5270,9 @@ TODOANSWER
 <p>highgate-school--11-plus--maths--9999--sample-paper-b:1:2</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -5554,6 +5650,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-b:1:3</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -6000,6 +6099,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-c:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -6451,6 +6553,9 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -6541,6 +6646,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -6676,6 +6784,9 @@ the length of the comb $= 1.99 \text {cm}$
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -6766,6 +6877,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -6930,6 +7044,9 @@ $
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -7017,6 +7134,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

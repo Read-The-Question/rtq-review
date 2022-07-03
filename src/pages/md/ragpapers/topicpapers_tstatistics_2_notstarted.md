@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-notstarted"
 title: "TopicPaper - Statistics - 2 - NOTSTARTED"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:17</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -101,6 +104,9 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:16</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -188,6 +194,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:10</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -551,6 +560,9 @@ TODOANSWER
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -776,6 +788,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -1212,6 +1227,9 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -1579,6 +1597,9 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -1875,6 +1896,9 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2070,6 +2094,9 @@ $9$
 </div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:9</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2438,6 +2465,9 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:13</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2682,6 +2712,9 @@ TODOANSWER
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2776,6 +2809,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:31</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3078,6 +3114,9 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:25</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -3170,6 +3209,9 @@ TODOANSWER
 <p>oundle-school--11-plus--maths--2016--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -3258,6 +3300,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:10</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3350,6 +3395,9 @@ TODOANSWER
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:1:10</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -3438,6 +3486,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -3738,6 +3789,9 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:19</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -3828,6 +3882,9 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:13</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -3916,6 +3973,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:35</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -4014,6 +4074,9 @@ TODOANSWER
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:17</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -4081,6 +4144,9 @@ $5, 10, 9$
 </div>
 <div class='papername'>
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:36</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -4204,6 +4270,9 @@ $
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:24</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -4290,6 +4359,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -4379,6 +4451,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:19</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -4618,6 +4693,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:21</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -4868,6 +4946,9 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -5106,6 +5187,9 @@ TODOANSWER
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -5183,6 +5267,9 @@ $
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:26</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -5688,6 +5775,9 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:23</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -5913,6 +6003,9 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:16</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -6073,6 +6166,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -6365,6 +6461,9 @@ $
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -6833,6 +6932,9 @@ $2, 2, 5, 5, 11$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:10</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -7190,6 +7292,9 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:12</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -7406,6 +7511,9 @@ $
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

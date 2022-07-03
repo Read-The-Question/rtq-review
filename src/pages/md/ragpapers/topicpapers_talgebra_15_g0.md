@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-g0"
 title: "TopicPaper - Algebra - 15 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -224,6 +227,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:21</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -467,6 +473,9 @@ There are $24$ biscuits in the box.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:22</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -596,6 +605,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:7</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -712,6 +724,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -861,6 +876,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1141,6 +1159,9 @@ Cost of a bull $= \pounds 400$.
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:7</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1269,6 +1290,9 @@ Length of the baby crocodile last week $= 25 \ \text{cm}$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1453,6 +1477,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:15</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1595,6 +1622,9 @@ Irfan is $16 \text{th}$ in the queue.
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:17</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1885,6 +1915,9 @@ Cost of a CD $= \pounds 7$.
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:6</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2046,6 +2079,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:8</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2170,6 +2206,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2310,6 +2349,9 @@ The difference between the two digits in her original number is $= 4$
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:7</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2430,6 +2472,9 @@ The number that Neil thought of $= 42$.
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2572,6 +2617,9 @@ The left over wire length is = $100\ \text {cm}$.
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:14</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2705,6 +2753,9 @@ Length of the second cuboid $= 24 \ \text{cm}$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2864,6 +2915,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:15</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2997,6 +3051,9 @@ Number of pigs $= 20$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:17</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3186,6 +3243,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:18</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3324,6 +3384,9 @@ Cost of a chocolate biscuit $= 24 \text{p}$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:10</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3453,6 +3516,9 @@ Original price $= \pounds 50$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3596,6 +3662,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

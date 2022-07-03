@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-notstarted"
 title: "TopicPaper - Sequence - 2 - NOTSTARTED"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:19</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -456,6 +459,9 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:21</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
@@ -773,6 +779,9 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:15</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
@@ -1001,6 +1010,9 @@ TODOANSWER
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
@@ -1123,6 +1135,9 @@ $
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-c:1:2</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -1645,6 +1660,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>

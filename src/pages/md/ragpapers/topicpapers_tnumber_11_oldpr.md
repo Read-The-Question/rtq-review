@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-oldpr"
 title: "TopicPaper - Number - 11 - OLDPR"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>
@@ -280,6 +283,9 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
@@ -542,6 +548,9 @@ Refer to the corrections done in similar question in previous paper.
 </div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>
@@ -887,6 +896,9 @@ c: * should be next to 7 as per coding guidelines, look at other detailed multip
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
@@ -1006,6 +1018,9 @@ use begin aligned instead of array and then in the end write in words.
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>

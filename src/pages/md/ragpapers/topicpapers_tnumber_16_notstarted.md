@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-notstarted"
 title: "TopicPaper - Number - 16 - NOTSTARTED"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:4</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_notstarted</p>
@@ -323,6 +326,9 @@ So, LOAF = $504$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:2</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_notstarted</p>
@@ -690,6 +696,9 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:8</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
@@ -960,6 +969,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:19</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
@@ -1058,6 +1070,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:20</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_notstarted</p>

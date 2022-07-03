@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-g2"
 title: "TopicPaper - Sequence - 5 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:10</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -174,6 +177,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:8</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -607,6 +613,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:7</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -872,6 +881,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:20</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -1307,6 +1319,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:8</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1441,6 +1456,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:8</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -1582,6 +1600,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:6</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1721,6 +1742,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1858,6 +1882,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:5</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>

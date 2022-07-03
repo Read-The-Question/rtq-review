@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g0"
 title: "TopicPaper - Money - 4 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:12</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -122,6 +125,9 @@ $
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:24</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -532,6 +538,9 @@ So, Simon ordered $= 2$ Meat Pie, $1$ Cup of Tea and $1$ Cups of Coffee
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:18</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
@@ -696,6 +705,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:28</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -927,6 +939,9 @@ $34 \text{p}$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>

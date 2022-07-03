@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-pr"
 title: "TopicPaper - Fraction - 6 - PR"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:34</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -326,6 +329,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:4</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
@@ -462,6 +468,9 @@ tdivision
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:8</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
@@ -571,6 +580,9 @@ $
 </div>
 <div class='papername'>
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>

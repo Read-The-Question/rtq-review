@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-g2"
 title: "TopicPaper - Angle - 2 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -220,6 +223,9 @@ $90 \degree$
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:26</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -551,6 +557,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:30</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -691,6 +700,9 @@ Other two angles $= 42 \degree$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:27</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -810,6 +822,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:27</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -933,6 +948,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:15</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -1052,6 +1070,9 @@ $
 </div>
 <div class='papername'>
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1186,6 +1207,9 @@ Angle $= 60 \degree$
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1380,6 +1404,9 @@ $
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:12</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1628,6 +1655,9 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -1794,6 +1824,9 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -1923,6 +1956,9 @@ $
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:21</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -2219,6 +2255,9 @@ $
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -2361,6 +2400,9 @@ $\text{angle Q}$
 </div>
 <div class='papername'>
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:23</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -2687,6 +2729,9 @@ $
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -2806,6 +2851,9 @@ $
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:17</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -2962,6 +3010,9 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -3092,6 +3143,9 @@ $
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>

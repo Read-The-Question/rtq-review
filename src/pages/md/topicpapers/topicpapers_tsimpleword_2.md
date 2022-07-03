@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-2"
 title: "TopicPaper - Simpleword - 2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -138,6 +141,9 @@ Can we not just write Not choclate = 54 -16 inside aligned and solve
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -246,6 +252,9 @@ $13$ people can have four biscuits each.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -323,6 +332,9 @@ $
 </div>
 <div class='papername'>
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -429,6 +441,9 @@ $
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -504,6 +519,9 @@ $
 </div>
 <div class='papername'>
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:48</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -622,6 +640,9 @@ $
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:49</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -737,6 +758,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -816,6 +840,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -926,6 +953,9 @@ $143$ can be subtracted five times from $855$ before we get to zero.
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:29</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1045,6 +1075,9 @@ Write LHS Blue Counters = in the first line inside katex
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:40</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1160,6 +1193,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:41</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1287,6 +1323,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1395,6 +1434,9 @@ $137$ can be subtracted seven times from $1024$ before we get to zero.
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:29</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1514,6 +1556,9 @@ Write LHS Blue Counters = in the first line inside katex
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:40</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1629,6 +1674,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:41</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1757,6 +1805,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -1861,6 +1912,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -1936,6 +1990,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2050,6 +2107,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:11</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2155,6 +2215,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2267,6 +2330,9 @@ $147$ can be subtracted eight times from $1270$ before we get to zero.
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:20</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -2350,6 +2416,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:39</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2477,6 +2546,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:42</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -2589,6 +2661,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:3</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2682,6 +2757,9 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2772,6 +2850,9 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -2858,6 +2939,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:29</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2977,6 +3061,9 @@ Write LHS Blue Counters = in the first line inside katex
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:40</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3092,6 +3179,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:41</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3220,6 +3310,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:10</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3343,6 +3436,9 @@ Max $6$ strips can be cut from a ribbon $1\ \text{m}$ long.
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:24</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3461,6 +3557,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:10</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3594,6 +3693,9 @@ Fraction of the cupboard that is empty $= \dfrac {11} {35}$
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3835,6 +3937,9 @@ Whole cake's weight $= 250 \text {g}$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -3923,6 +4028,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:2:2</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4059,6 +4167,9 @@ DONE Last line = 9 (not is 9)
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -4154,6 +4265,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:20</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -4256,6 +4370,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4372,6 +4489,9 @@ No cms in answer (its count of men)
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

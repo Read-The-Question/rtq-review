@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-g0"
 title: "TopicPaper - Number - 7 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -140,6 +143,9 @@ $
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -265,6 +271,9 @@ $
 </div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -564,6 +573,9 @@ b: remove katex around text, just use md
 </div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -914,6 +926,9 @@ b: remove katex around text, just use md
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -1203,6 +1218,9 @@ c: Use algebra to solve it
 </div>
 <div class='papername'>
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -1502,6 +1520,9 @@ show a table for  76 * 8, 87*6 and then choose the biggest answer
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -1721,6 +1742,9 @@ $
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -1996,6 +2020,9 @@ $8, 28$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -2266,6 +2293,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:2</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -2448,6 +2478,9 @@ $16$
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:14</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -2655,6 +2688,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:4</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -2752,6 +2788,9 @@ $4765$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:21</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -2847,6 +2886,9 @@ $5 \ \text {and} \ 11$
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:2</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -3043,6 +3085,9 @@ $
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:3</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>

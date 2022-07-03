@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-g0"
 title: "TopicPaper - Number - 2 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -502,6 +505,9 @@ f: s2: do not solve (20+10) to 30, still show (20+10) to represent that multiply
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:8</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -794,6 +800,9 @@ b: change 2 * a to 2a after S1, leave as 2 *a only in S1
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:17</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -978,6 +987,9 @@ $8.3$
 </div>
 <div class='papername'>
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -1258,6 +1270,9 @@ s4 = pound 2.13 (final answer)
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -1362,6 +1377,9 @@ This does not seem to be correct?
 </div>
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -1635,6 +1653,9 @@ c: WRite abbrev for bidmas
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -1906,6 +1927,9 @@ a: change 2 * x to 2x as thats the original question
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -2040,6 +2064,9 @@ Too simple to show array detailed version, change to begin aligned
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -2161,6 +2188,9 @@ Use approx template, refer DAA6B0CE-CF05-45FF-83D8-D30065047D76
 </div>
 <div class='papername'>
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>

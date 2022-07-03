@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-pr-prns"
 title: "TopicPaper - Fraction - 3 - PR - PRNS"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:14</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -126,6 +129,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:36</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -249,6 +255,9 @@ therefore $\dfrac {5} {12}$ is the smallest fraction.
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:40</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -389,6 +398,9 @@ Therefore, $\dfrac{3+4}{2+3}$ is the biggest.
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:26</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -622,6 +634,9 @@ $
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:6</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>

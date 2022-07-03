@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 1 - OLDPR - PRCC"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -140,6 +143,9 @@ $
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:24</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -305,6 +311,9 @@ step 1: side x side                                                             
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:14</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -453,6 +462,9 @@ dfrac is broken
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -584,6 +596,9 @@ Triangle is $3 \ \text{cm}$ tall.
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>

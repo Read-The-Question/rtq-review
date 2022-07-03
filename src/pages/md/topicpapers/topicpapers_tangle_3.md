@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-3"
 title: "TopicPaper - Angle - 3"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_prbd</p>
@@ -122,6 +125,9 @@ $
 </div>
 <div class='papername'>
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:17</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -279,6 +285,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:29</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -412,6 +421,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -572,6 +584,9 @@ Largest angle $= 100 \degree$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:4</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -932,6 +947,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:6</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1091,6 +1109,9 @@ Uday: look again after changes.
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:2</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1469,6 +1490,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1629,6 +1653,9 @@ Largest angle $= 105 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:12</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1781,6 +1808,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:3</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1920,6 +1950,9 @@ $
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:16</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -2086,6 +2119,9 @@ $
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:19</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -2280,6 +2316,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:5</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -2411,6 +2450,9 @@ Missing angle $= 27 \degree$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_prbd</p>
 </div>
 <div class='rag'>
@@ -2500,6 +2542,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:13</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -2661,6 +2706,9 @@ Angle but explanatory
 </div>
 <div class='papername'>
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_prbd</p>
@@ -3028,6 +3076,9 @@ TODOANSWER
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -3157,6 +3208,9 @@ $
 </div>
 <div class='papername'>
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

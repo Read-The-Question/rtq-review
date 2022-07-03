@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-blocked"
 title: "TopicPaper - Sequence - 2 - BLOCKED"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:13</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -111,6 +114,9 @@ Step between successive terms $= 24$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:12</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -204,6 +210,9 @@ Step between successive terms $= 17$
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:5</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -705,6 +714,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:5</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -1209,6 +1221,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:9</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -1421,6 +1436,9 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -1520,6 +1538,9 @@ She need $22$ matchsticks for making a row of 7 squares.
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -1598,6 +1619,9 @@ terms are required to reach the first negative term.
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:27</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -1708,6 +1732,9 @@ $
 </div>
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -1954,6 +1981,9 @@ $
 </div>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -2374,6 +2404,9 @@ $
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -2639,6 +2672,9 @@ $
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:36</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -2766,6 +2802,9 @@ $
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:37</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -2848,6 +2887,9 @@ $
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -2921,6 +2963,9 @@ $
 </div>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:8</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>

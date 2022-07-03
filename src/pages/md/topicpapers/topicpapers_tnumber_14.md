@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-14"
 title: "TopicPaper - Number - 14"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -121,6 +124,9 @@ $20$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:11</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -189,6 +195,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:12</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -385,6 +394,9 @@ $13587$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:5</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -487,6 +499,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:19</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -597,6 +612,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:23</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -877,6 +895,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:26</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -1115,6 +1136,9 @@ $34598$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:4</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
@@ -1240,6 +1264,9 @@ wrong
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:10</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -1347,6 +1374,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:13</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -1511,6 +1541,9 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:5</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -1606,6 +1639,9 @@ $30297$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:10</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -1712,6 +1748,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:16</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -1965,6 +2004,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:23</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -2071,6 +2113,9 @@ $3124, \ 3142, \ 3214, \ 3412$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -2191,6 +2236,9 @@ Number closest in value $= 1.009$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:10</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -2564,6 +2612,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:11</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -2635,6 +2686,9 @@ $\dfrac{4} {5}, 80\%, 0.8$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:27</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -2837,6 +2891,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:33</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -3120,6 +3177,9 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:9</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -3214,6 +3274,9 @@ $20306$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:42</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -3275,6 +3338,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:6</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -3372,6 +3438,9 @@ $24796$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:7</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -3480,6 +3549,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:8</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -3620,6 +3692,9 @@ $8 \dfrac {1} {20}$ and $8.05$ are same.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:25</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -3723,6 +3798,9 @@ $3, \ 5$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -3926,6 +4004,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:7</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
@@ -4046,6 +4127,9 @@ Number closest in value $= 1.006$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:5</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -4138,6 +4222,9 @@ $300030$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -4240,6 +4327,9 @@ $0.06, \ 0.09$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:13</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -4541,6 +4631,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:15</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -4920,6 +5013,9 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:21</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -5261,6 +5357,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:22</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -5495,6 +5594,9 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:23</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -5685,6 +5787,9 @@ $\text{litres}$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>
@@ -5898,6 +6003,9 @@ $3.49$ is $100$ times smaller than $349$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:5</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -6098,6 +6206,9 @@ $29.07$ is multiplied by $100$ to give $2907$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:9</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -6214,6 +6325,9 @@ $8$, $14$, $21$ are three numbers that have a sum of $43$.
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:12</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -6520,6 +6634,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:18</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -6796,6 +6913,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:19</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>

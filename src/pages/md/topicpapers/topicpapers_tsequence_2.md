@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-2"
 title: "TopicPaper - Sequence - 2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:18</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -166,6 +169,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:43</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_pr</p>
 </div>
 <div class='rag'>
@@ -307,6 +313,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:13</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -403,6 +412,9 @@ Step between successive terms $= 24$
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:18</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -523,6 +535,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:45</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -666,6 +681,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:12</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -759,6 +777,9 @@ Step between successive terms $= 17$
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:18</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -904,6 +925,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:43</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_pr</p>
 </div>
 <div class='rag'>
@@ -1045,6 +1069,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:12</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1182,6 +1209,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:41</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -1324,6 +1354,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:6</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -1637,6 +1670,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:6</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -1946,6 +1982,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:19</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -2391,6 +2430,9 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:5</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -2702,6 +2744,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:6</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -3011,6 +3056,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:5</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -3514,6 +3562,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:21</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
@@ -3829,6 +3880,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:5</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -4333,6 +4387,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:2</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -4749,6 +4806,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:9</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -4959,6 +5019,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:15</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -5189,6 +5252,9 @@ TODOANSWER
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
@@ -5311,6 +5377,9 @@ $
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:15</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -5859,6 +5928,9 @@ $
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_pr</p>
 </div>
 <div class='rag'>
@@ -6131,6 +6203,9 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -6230,6 +6305,9 @@ She need $22$ matchsticks for making a row of 7 squares.
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -6308,6 +6386,9 @@ terms are required to reach the first negative term.
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:27</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -6418,6 +6499,9 @@ $
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:33</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -6658,6 +6742,9 @@ $
 </div>
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -6904,6 +6991,9 @@ $
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-c:1:2</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>
@@ -7428,6 +7518,9 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -7844,6 +7937,9 @@ $
 </div>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -8395,6 +8491,9 @@ $
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g2</p>
 </div>
 <div class='rag'>
@@ -8535,6 +8634,9 @@ $
 </div>
 <div class='papername'>
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:10</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g2</p>
@@ -8826,6 +8928,9 @@ $
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -9091,6 +9196,9 @@ $
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:36</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -9218,6 +9326,9 @@ $
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:37</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -9300,6 +9411,9 @@ $
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:38</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -9373,6 +9487,9 @@ $
 </div>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:8</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -9932,6 +10049,9 @@ $
 </div>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_notstarted</p>

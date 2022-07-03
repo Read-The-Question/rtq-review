@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-4"
 title: "TopicPaper - Detailedmultiplication - 4"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:3</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -143,6 +146,9 @@ $= 1641000$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -257,6 +263,9 @@ $
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -361,6 +370,9 @@ $
 </div>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -479,6 +491,9 @@ $
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -581,6 +596,9 @@ $
 </div>
 <div class='papername'>
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
@@ -687,6 +705,9 @@ $
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -791,6 +812,9 @@ $
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g2</p>
 </div>
 <div class='rag'>
@@ -893,6 +917,9 @@ $
 </div>
 <div class='papername'>
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>

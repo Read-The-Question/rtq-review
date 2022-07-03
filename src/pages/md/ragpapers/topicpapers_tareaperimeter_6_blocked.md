@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-blocked"
 title: "TopicPaper - Areaperimeter - 6 - BLOCKED"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -123,6 +126,9 @@ $
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_blocked</p>
 </div>
 <div class='rag'>
@@ -214,6 +220,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:29</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_blocked</p>

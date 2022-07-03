@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g0"
 title: "TopicPaper - Time - 3 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:29</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
@@ -223,6 +226,9 @@ $
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
@@ -333,6 +339,9 @@ $
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
@@ -439,6 +448,9 @@ $
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
@@ -548,6 +560,9 @@ $
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
@@ -650,6 +665,9 @@ $
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2016--sample-paper-3:1:7</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
@@ -857,6 +875,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
@@ -965,6 +986,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
@@ -1067,6 +1091,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:26</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
@@ -1177,6 +1204,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:21</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
@@ -1285,6 +1315,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:22</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
@@ -1389,6 +1422,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:21</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
@@ -1501,6 +1537,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:22</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
@@ -1625,6 +1664,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:4</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
@@ -1745,6 +1787,9 @@ $
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:4</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>

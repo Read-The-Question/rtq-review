@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g2"
 title: "TopicPaper - Number - 16 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:1</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -105,6 +108,9 @@ $300407$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:1</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -458,6 +464,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:3</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -564,6 +573,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:8</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -676,6 +688,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:1</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -771,6 +786,9 @@ $308520$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:8</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -940,6 +958,9 @@ Answer $= \text{Option C}$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -1054,6 +1075,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:5</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -1180,6 +1204,9 @@ $= 7050$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:2</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -1288,6 +1315,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:5</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -1394,6 +1424,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -1498,6 +1531,9 @@ $
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -1608,6 +1644,9 @@ $
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -1832,6 +1871,9 @@ $
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:17</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -2165,6 +2207,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -2257,6 +2302,9 @@ $63401$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -2525,6 +2573,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:24</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -2744,6 +2795,9 @@ $=5.78$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:11</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -3027,6 +3081,9 @@ $= 32.4$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:26</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -3240,6 +3297,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:1</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -3353,6 +3413,9 @@ $
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:9</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>

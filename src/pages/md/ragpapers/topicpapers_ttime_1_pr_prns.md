@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-pr-prns"
 title: "TopicPaper - Time - 1 - PR - PRNS"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:8</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -121,6 +124,9 @@ $
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -414,6 +420,9 @@ $
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
@@ -549,6 +558,9 @@ $
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
@@ -673,6 +685,9 @@ $
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
@@ -785,6 +800,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:30</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>

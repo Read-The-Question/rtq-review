@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-2-oldpr"
 title: "TopicPaper - Ratio - 2 - OLDPR"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:2</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -274,6 +277,9 @@ Blue Answer : add \pounds
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -481,6 +487,9 @@ Part B:
 </div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -732,6 +741,9 @@ Part A : in slack
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -981,6 +993,9 @@ PArt B Star 1.2 Euro = 1 pound solve step by step ..til mixed fraction pound 6 1
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -1114,6 +1129,9 @@ then answer. write 8.30 not 8.3
 </div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1282,6 +1300,9 @@ and not money pounds !!! in weight so remains \"pounds\" change in blue answer t
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -1401,6 +1422,9 @@ blue answer : 63 girls
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1530,6 +1554,9 @@ check COst (make o small) check spacing \\
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:6</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1662,6 +1689,9 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -1791,6 +1821,9 @@ line 2: give comma after APTQ                                                   
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:5</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

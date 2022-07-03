@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g0-prcc"
 title: "TopicPaper - Money - 2 - G0 - PRCC"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:6</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -149,6 +152,9 @@ $
 <p>highgate-school--11-plus--maths--2013--sample-paper-d:1:1</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
@@ -279,6 +285,9 @@ $
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-a:1:1</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
@@ -812,6 +821,9 @@ $
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
@@ -943,6 +955,9 @@ Cost of a bag $= 40 \text {p}$
 </div>
 <div class='papername'>
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>

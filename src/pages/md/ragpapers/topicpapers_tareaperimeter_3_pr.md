@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-3-pr"
 title: "TopicPaper - Areaperimeter - 3 - PR"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -348,6 +351,9 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -503,6 +509,9 @@ $
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -640,6 +649,9 @@ $
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -774,6 +786,9 @@ $
 </div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:12</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

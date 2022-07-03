@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-notstarted"
 title: "TopicPaper - Areaperimeter - 5 - NOTSTARTED"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:15</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -109,6 +112,9 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:16</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -203,6 +209,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:25</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -308,6 +317,9 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:11</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -402,6 +414,9 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:14</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -491,6 +506,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:15</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -700,6 +718,9 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:7</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -790,6 +811,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:8</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -905,6 +929,9 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -1009,6 +1036,9 @@ Length of the rectangle $= 2a = 2 \times 6 = 12 \ \text{m}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -1107,6 +1137,9 @@ $
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:4</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -1221,6 +1254,9 @@ $
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:22</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -1448,6 +1484,9 @@ Reflect the triangle in the x-axis and label your shape $B$.
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:14</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>

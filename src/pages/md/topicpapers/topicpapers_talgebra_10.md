@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-10"
 title: "TopicPaper - Algebra - 10"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:28</p>
+</div>
+<div class='rag'>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -183,6 +186,9 @@ $
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -271,6 +277,9 @@ $
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:31</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -365,6 +374,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:12</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -485,6 +497,9 @@ $
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:24</p>
+</div>
+<div class='rag'>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -759,6 +774,9 @@ $\text {No, it does not make sense to use the formula for older people because a
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -848,6 +866,9 @@ $
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:26</p>
+</div>
+<div class='rag'>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -967,6 +988,9 @@ $
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1198,6 +1222,9 @@ $
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1472,6 +1499,9 @@ x x 22 = ..... then x will fall and remain on the left side.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -1734,6 +1764,9 @@ $2, 14, 42$
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2000,6 +2033,9 @@ answer is 4 . please change blue answer also
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:23</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2364,6 +2400,9 @@ TODOANSWER
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:7</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -2612,6 +2651,9 @@ n = 6
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:22</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -2869,6 +2911,9 @@ $2, 24, 72$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3043,6 +3088,9 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3151,6 +3199,9 @@ $
 </div>
 <div class='papername'>
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:31</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -3288,6 +3339,9 @@ Area of full shape = 2 x (Area of 1/2 Triangle) (fit your calculations according
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:35</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -3418,6 +3472,9 @@ $
 </div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -3594,6 +3651,9 @@ Check slack. Change the blue answer its $19, 13$
 </div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -3910,6 +3970,9 @@ For $7$ boxes of eggs, I will pay $=....$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
@@ -3997,6 +4060,9 @@ $
 </div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:15</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -4121,6 +4187,9 @@ no commas in figures. change in blue answer also.
 </div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:20</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -4260,6 +4329,9 @@ The number Verity thought of $=..$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -4385,6 +4457,9 @@ height = ..... use space before cm and that in \text{cm}
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -4526,6 +4601,9 @@ Missing number = 0.627 - (0.6+0.02)
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -4740,6 +4818,9 @@ Present the sequence and underline under the missing number... show also (+4)
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -4913,6 +4994,9 @@ No. of biscuits Alysha has =2 + a (Solve)
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -5048,6 +5132,9 @@ Jemmas number = 4
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -5193,6 +5280,9 @@ in blue answer : 8 oranges
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -5330,6 +5420,9 @@ After step 3 calculated wrong . you changed the x to + . So solve again. answer 
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:5</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -5521,6 +5614,9 @@ after finding a .. then substitute it in one of the equation and get b..
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:8</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
@@ -5664,6 +5760,9 @@ Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:3:3</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>
@@ -5901,6 +6000,9 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -6082,6 +6184,9 @@ No need to put the repeatation of question in boxed form in answer.workings.
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -6165,6 +6270,9 @@ $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:10</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -6306,6 +6414,9 @@ so make changes also in blue answer
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -6443,6 +6554,9 @@ delete your answer.
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:17</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -6654,6 +6768,9 @@ The money Al... had =  £1. 80
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
@@ -6789,6 +6906,9 @@ last sentence :  My original number = 5
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:2</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_notstarted</p>

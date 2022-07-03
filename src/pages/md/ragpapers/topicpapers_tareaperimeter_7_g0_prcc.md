@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-g0-prcc"
 title: "TopicPaper - Areaperimeter - 7 - G0 - PRCC"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:39</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -150,6 +153,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:32</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -310,6 +316,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:15</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -453,6 +462,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:19</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -582,6 +594,9 @@ Area covered with paint $= 34 \ \text{cm}^2$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -756,6 +771,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:10</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -886,6 +904,9 @@ Length of the second rectangle $= 48 \ \text{cm}$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1145,6 +1166,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:12</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1302,6 +1326,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:15</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1455,6 +1482,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:17</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>

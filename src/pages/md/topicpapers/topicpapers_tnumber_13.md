@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:6</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -123,6 +126,9 @@ $
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:7</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g2</p>
@@ -250,6 +256,9 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -339,6 +348,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:6</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>
@@ -482,6 +494,9 @@ Alternative solution, (line 1 in second option)
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:10</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -570,6 +585,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:12</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g2</p>
@@ -682,6 +700,9 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:13</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -774,6 +795,9 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:14</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -864,6 +888,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:6</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -1053,6 +1080,9 @@ $2468$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:7</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g2</p>
 </div>
 <div class='rag'>
@@ -1164,6 +1194,9 @@ $
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:8</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -1391,6 +1424,9 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:11</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -1614,6 +1650,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:2</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g2</p>
@@ -1980,6 +2019,9 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -2313,6 +2355,9 @@ $13$
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -2660,6 +2705,9 @@ $\text {square}$
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -3091,6 +3139,9 @@ $1256$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -3418,6 +3469,9 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -3650,6 +3704,9 @@ $
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -4047,6 +4104,9 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -4312,6 +4372,9 @@ $
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:2</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -4616,6 +4679,9 @@ $60 \pounds$
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:3</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -5001,6 +5067,9 @@ She got $\pounds 1.85$ as change.
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -5249,6 +5318,9 @@ $
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:5</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -5565,6 +5637,9 @@ $
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:6</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -5902,6 +5977,9 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -6216,6 +6294,9 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -6290,6 +6371,9 @@ b: question looks wrong, something missing, please check pdf.
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:1</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -6837,6 +6921,9 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:7</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g2</p>
 </div>
 <div class='rag'>
@@ -7103,6 +7190,9 @@ $2017$
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:8</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -7576,6 +7666,9 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:12</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -7903,6 +7996,9 @@ $
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -8221,6 +8317,9 @@ TODOANSWER
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -8380,6 +8479,9 @@ $
 </div>
 <div class='papername'>
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_notstarted</p>
@@ -8610,6 +8712,9 @@ TODOANSWER
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
@@ -8707,6 +8812,9 @@ $0.5, 0.6$
 </div>
 <div class='papername'>
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:3</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -9063,6 +9171,9 @@ $= 211.00$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -9291,6 +9402,9 @@ TODOANSWER
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
@@ -9382,6 +9496,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -9494,6 +9611,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>

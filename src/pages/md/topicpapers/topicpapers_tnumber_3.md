@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-3"
 title: "TopicPaper - Number - 3"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>
@@ -130,6 +133,9 @@ $
 </div>
 <div class='papername'>
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:3</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -252,6 +258,9 @@ Use approx way of writing
 </div>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -640,6 +649,9 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:10</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
@@ -941,6 +953,9 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:15</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -1039,6 +1054,9 @@ $6$
 </div>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:18</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -1176,6 +1194,9 @@ Sum    &= 53 + 59 \\
 </div>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:25</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -1612,6 +1633,9 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:26</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
@@ -1909,6 +1933,9 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -2102,6 +2129,9 @@ $
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
@@ -2198,6 +2228,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:17</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -2779,6 +2812,9 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -2906,6 +2942,9 @@ remove s3, s4
 </div>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -3134,6 +3173,9 @@ Refer CD6BCBD5-16AA-4496-BA89-31C177B22E60, its not G2 yet, so please follow acc
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -3232,6 +3274,9 @@ $1.3 \text{ litres}$
 </div>
 <div class='papername'>
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -3349,6 +3394,9 @@ remove aptq
 </div>
 <div class='papername'>
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>
@@ -3626,6 +3674,9 @@ $
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
@@ -3851,6 +3902,9 @@ TODOANSWER
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g2</p>
 </div>
 <div class='rag'>
@@ -3954,6 +4008,9 @@ $20000 \ \text{mm}$
 </div>
 <div class='papername'>
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:25</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -4321,6 +4378,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -4727,6 +4787,9 @@ TODOANSWER
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:27</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -5065,6 +5128,9 @@ d \\ missing
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -5510,6 +5576,9 @@ $5$
 <p>csse--11-plus--maths--2015--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -5779,6 +5848,9 @@ $6$ needs to be replaced with $7$.
 <p>csse--11-plus--maths--2015--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -5987,6 +6059,9 @@ $
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -6253,6 +6328,9 @@ c: Add Using trial and error,
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -6729,6 +6807,9 @@ f: LHS Sum = 13 + 37 + 41
 <p>csse--11-plus--maths--2015--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -6992,6 +7073,9 @@ Add LHS Difference for c
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -7263,6 +7347,9 @@ use md list to write, then in the end write count
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2016--sample-paper-3:1:2</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -7591,6 +7678,9 @@ TODOANSWER
 <p>csse--11-plus--maths--2016--sample-paper-3:1:4</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -7864,6 +7954,9 @@ c: refer C6358DE6-D734-48A4-BC67-FD56196E1814 write that way
 <p>csse--11-plus--maths--2017--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -8133,6 +8226,9 @@ Extra empty working in question
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2017--sample-paper-4:1:3</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>
@@ -8488,6 +8584,9 @@ The answer is same as part (b)
 <p>csse--11-plus--maths--2017--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -8758,6 +8857,9 @@ basically = 1/2 * (numbers) instead of starting with dfrac
 <p>csse--11-plus--maths--2017--sample-paper-4:1:6</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g2</p>
 </div>
 <div class='rag'>
@@ -8965,6 +9067,9 @@ $
 <p>csse--11-plus--maths--2017--sample-paper-4:1:12</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -9070,6 +9175,9 @@ $7 ^2 , 4 ^ 2$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g2</p>
 </div>
 <div class='rag'>
@@ -9164,6 +9272,9 @@ $49999$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
@@ -9227,6 +9338,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>
@@ -9347,6 +9461,9 @@ $
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g2</p>
 </div>
 <div class='rag'>
@@ -9446,6 +9563,9 @@ $15$
 </div>
 <div class='papername'>
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:27</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>

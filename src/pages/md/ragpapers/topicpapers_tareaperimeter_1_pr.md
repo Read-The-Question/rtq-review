@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-pr"
 title: "TopicPaper - Areaperimeter - 1 - PR"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:11</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -356,6 +359,9 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:1</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -488,6 +494,9 @@ $
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:6</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -883,6 +892,9 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -1162,6 +1174,9 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -1287,6 +1302,9 @@ $
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -1391,6 +1409,9 @@ Tile $E$ could be removed without changing the perimeter of the shape.
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -1704,6 +1725,9 @@ Vikram has the smallest square.
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -2015,6 +2039,9 @@ Length of one edge of cube $= 4 \ \text{cm}$
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:21</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -2373,6 +2400,9 @@ $
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:23</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -2786,6 +2816,9 @@ $
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:5</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -3307,6 +3340,9 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -3441,6 +3477,9 @@ $
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

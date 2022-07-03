@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-1"
 title: "TopicPaper - Areaperimeter - 1"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -150,6 +153,9 @@ $
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:21</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_blocked</p>
@@ -308,6 +314,9 @@ Length of the rectangle $= 9 \ \text{cm}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -444,6 +453,9 @@ Height of the triangle $= 32 \ \text {cm}$.
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:13</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -701,6 +713,9 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:24</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -864,6 +879,9 @@ step 1: side x side                                                             
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -989,6 +1007,9 @@ $
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:14</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -1137,6 +1158,9 @@ dfrac is broken
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:23</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1290,6 +1314,9 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -1421,6 +1448,9 @@ Triangle is $3 \ \text{cm}$ tall.
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:11</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -1766,6 +1796,9 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:15</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -1846,6 +1879,9 @@ $
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:1</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -1980,6 +2016,9 @@ $
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:6</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -2375,6 +2414,9 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -2654,6 +2696,9 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -2778,6 +2823,9 @@ $
 </div>
 <div class='papername'>
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:7</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -2934,6 +2982,9 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -3059,6 +3110,9 @@ $
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -3163,6 +3217,9 @@ Tile $E$ could be removed without changing the perimeter of the shape.
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -3476,6 +3533,9 @@ Vikram has the smallest square.
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -3703,6 +3763,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -4016,6 +4079,9 @@ Length of one edge of cube $= 4 \ \text{cm}$
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:21</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -4376,6 +4442,9 @@ $
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:29</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -4473,6 +4542,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:2:6</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -4707,6 +4779,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:19</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -5010,6 +5085,9 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_prbd</p>
 </div>
 <div class='rag'>
@@ -5101,6 +5179,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:23</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -5516,6 +5597,9 @@ $
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:29</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -5615,6 +5699,9 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -5705,6 +5792,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:5</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
@@ -6226,6 +6316,9 @@ $
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:29</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -6354,6 +6447,9 @@ $
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:30</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -6594,6 +6690,9 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
@@ -6828,6 +6927,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_prbd</p>
@@ -7130,6 +7232,9 @@ TODOANSWER
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_pr</p>
 </div>
 <div class='rag'>
@@ -7264,6 +7369,9 @@ $
 </div>
 <div class='papername'>
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:10</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_notstarted</p>
@@ -7495,6 +7603,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_prbd</p>
@@ -7734,6 +7845,9 @@ TODOANSWER
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -7959,6 +8073,9 @@ $
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -8119,6 +8236,9 @@ $
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>

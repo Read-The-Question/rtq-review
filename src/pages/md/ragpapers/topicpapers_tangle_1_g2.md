@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g2"
 title: "TopicPaper - Angle - 1 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -156,6 +159,9 @@ Missing angle $= 42  \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -285,6 +291,9 @@ Missing angle $= 67 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -408,6 +417,9 @@ $
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:19</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -595,6 +607,9 @@ Missing angle $= 27 \degree$
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:14</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -803,6 +818,9 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -929,6 +947,9 @@ Third angle $= 79 \degree$
 </div>
 <div class='papername'>
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:6</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1066,6 +1087,9 @@ Third angle $= 48 \degree$
 </div>
 <div class='papername'>
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:3</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1239,6 +1263,9 @@ $
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -1352,6 +1379,9 @@ $
 </div>
 <div class='papername'>
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:3:3</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1512,6 +1542,9 @@ $
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -1641,6 +1674,9 @@ Missing angle $= 62 \degree$
 </div>
 <div class='papername'>
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:24</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -1789,6 +1825,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -1915,6 +1954,9 @@ Third angle $= 43 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -2039,6 +2081,9 @@ Third angle $= 131 \degree$
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:24</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -2169,6 +2214,9 @@ Third angle $= 122 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -2293,6 +2341,9 @@ Third angle $= 91 \degree$
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:19</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -2542,6 +2593,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:11</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -2781,6 +2835,9 @@ $
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g2</p>
 </div>
 <div class='rag'>
@@ -2933,6 +2990,9 @@ $
 </div>
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>
@@ -3165,6 +3225,9 @@ $
 </div>
 <div class='papername'>
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:21</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g2</p>

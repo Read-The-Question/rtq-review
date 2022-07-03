@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-blocked"
 title: "TopicPaper - Sequence - 1 - BLOCKED"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:8</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -420,6 +423,9 @@ $
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -510,6 +516,9 @@ $
 </div>
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>
@@ -909,6 +918,9 @@ $
 <p>csse--11-plus--maths--2015--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -1225,6 +1237,9 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
@@ -1321,6 +1336,9 @@ Step between successive terms $= 27$
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:12</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_blocked</p>

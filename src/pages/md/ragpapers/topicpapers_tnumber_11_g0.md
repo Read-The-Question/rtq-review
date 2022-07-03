@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g0"
 title: "TopicPaper - Number - 11 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -178,6 +181,9 @@ should be \begin{aligned} instead of \begin{array}
 </div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:8</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>
@@ -445,6 +451,9 @@ same for c
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_g0</p>

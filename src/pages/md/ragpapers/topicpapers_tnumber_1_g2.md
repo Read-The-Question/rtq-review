@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g2"
 title: "TopicPaper - Number - 1 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>
@@ -348,6 +351,9 @@ $
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g2</p>
 </div>
 <div class='rag'>
@@ -620,6 +626,9 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g2</p>
 </div>
 <div class='rag'>
@@ -839,6 +848,9 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g2</p>
 </div>
 <div class='rag'>
@@ -936,6 +948,9 @@ $14036$
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>
@@ -1054,6 +1069,9 @@ $
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:25</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>
@@ -1175,6 +1193,9 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g2</p>
 </div>
 <div class='rag'>
@@ -1267,6 +1288,9 @@ $8521$
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:3</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>
@@ -1371,6 +1395,9 @@ $
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:4</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>
@@ -1661,6 +1688,9 @@ $
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g2</p>

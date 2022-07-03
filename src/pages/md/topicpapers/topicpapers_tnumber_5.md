@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-5"
 title: "TopicPaper - Number - 5"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:8</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -325,6 +328,9 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:9</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -536,6 +542,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:11</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -761,6 +770,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:15</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -1031,6 +1043,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -1337,6 +1352,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:3</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -1607,6 +1625,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:6</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -1903,6 +1924,9 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:7</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -2120,6 +2144,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:16</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
@@ -2209,6 +2236,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:23</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -2506,6 +2536,9 @@ TODOANSWER
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -2623,6 +2656,9 @@ $
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -2749,6 +2785,9 @@ $
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -2870,6 +2909,9 @@ DONE a b c d small.
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:15</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -3017,6 +3059,9 @@ The worth of triangle $= 1$ point
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -3147,6 +3192,9 @@ $
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
@@ -3242,6 +3290,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -3381,6 +3432,9 @@ DONE alingn largest and small number at &=
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -3486,6 +3540,9 @@ done Answer ? 1023 not 1021
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:3</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -3608,6 +3665,9 @@ $
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -3725,6 +3785,9 @@ Number of times digit 8 occured $= 9$
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -3840,6 +3903,9 @@ $7$
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:7</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -3961,6 +4027,9 @@ $
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
@@ -4055,6 +4124,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:13</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -4184,6 +4256,9 @@ DONE katex error in bleu answer
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -4399,6 +4474,9 @@ $
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -4509,6 +4587,9 @@ $
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -4721,6 +4802,9 @@ $
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:22</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -5014,6 +5098,9 @@ $
 </div>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:25</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -5377,6 +5464,9 @@ TODOANSWER
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -5642,6 +5732,9 @@ $
 </div>
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
@@ -5923,6 +6016,9 @@ $
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -6191,6 +6287,9 @@ $
 </div>
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -6479,6 +6578,9 @@ $17$
 </div>
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:1:10</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_notstarted</p>
@@ -6842,6 +6944,9 @@ TODOANSWER
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -7069,6 +7174,9 @@ $
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -7164,6 +7272,9 @@ $\text {Four million forty thousand four hundred forty}$
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:10</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -7275,6 +7386,9 @@ $
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:13</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -7406,6 +7520,9 @@ Other number $= 0.142$.
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:22</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
@@ -7504,6 +7621,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>

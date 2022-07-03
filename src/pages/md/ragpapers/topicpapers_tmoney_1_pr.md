@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-pr"
 title: "TopicPaper - Money - 1 - PR"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -131,6 +134,9 @@ $
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:8</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -334,6 +340,9 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_pr</p>
 </div>
 <div class='rag'>
@@ -454,6 +463,9 @@ $
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -710,6 +722,9 @@ $
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:12</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -992,6 +1007,9 @@ $
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:21</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -1327,6 +1345,9 @@ Guy has $= 16$ stickers
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-2:1:11</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -1748,6 +1769,9 @@ $
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:23</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>

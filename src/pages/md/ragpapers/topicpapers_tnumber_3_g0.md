@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-g0"
 title: "TopicPaper - Number - 3 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:3</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -135,6 +138,9 @@ Use approx way of writing
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:15</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -233,6 +239,9 @@ $6$
 </div>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:18</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -372,6 +381,9 @@ Sum    &= 53 + 59 \\
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -499,6 +511,9 @@ remove s3, s4
 </div>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -727,6 +742,9 @@ Refer CD6BCBD5-16AA-4496-BA89-31C177B22E60, its not G2 yet, so please follow acc
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -825,6 +843,9 @@ $1.3 \text{ litres}$
 </div>
 <div class='papername'>
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -942,6 +963,9 @@ remove aptq
 </div>
 <div class='papername'>
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:27</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -1282,6 +1306,9 @@ d \\ missing
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -1727,6 +1754,9 @@ $5$
 <p>csse--11-plus--maths--2015--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -1996,6 +2026,9 @@ $6$ needs to be replaced with $7$.
 <p>csse--11-plus--maths--2015--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -2204,6 +2237,9 @@ $
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -2470,6 +2506,9 @@ c: Add Using trial and error,
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -2946,6 +2985,9 @@ f: LHS Sum = 13 + 37 + 41
 <p>csse--11-plus--maths--2015--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -3209,6 +3251,9 @@ Add LHS Difference for c
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -3480,6 +3525,9 @@ use md list to write, then in the end write count
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2016--sample-paper-3:1:4</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>
@@ -3755,6 +3803,9 @@ c: refer C6358DE6-D734-48A4-BC67-FD56196E1814 write that way
 <p>csse--11-plus--maths--2017--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -4026,6 +4077,9 @@ Extra empty working in question
 <p>csse--11-plus--maths--2017--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
@@ -4294,6 +4348,9 @@ basically = 1/2 * (numbers) instead of starting with dfrac
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2017--sample-paper-4:1:12</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
 <p>rag_da_g0</p>

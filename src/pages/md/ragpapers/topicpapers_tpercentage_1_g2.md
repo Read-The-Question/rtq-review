@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g2"
 title: "TopicPaper - Percentage - 1 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:18</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -123,6 +126,9 @@ $
 </div>
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -342,6 +348,9 @@ $
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:3:2</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -531,6 +540,9 @@ $
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:12</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -649,6 +661,9 @@ $
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -759,6 +774,9 @@ $
 </div>
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -1035,6 +1053,9 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:7</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -1147,6 +1168,9 @@ $
 </div>
 <div class='papername'>
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:25</p>
+</div>
+<div class='rag'>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
 <p>rag_up_g2</p>
@@ -1449,6 +1473,9 @@ Number $= 400$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -1561,6 +1588,9 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -1671,6 +1701,9 @@ $
 </div>
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -1833,6 +1866,9 @@ Biggest value $= 30 \% \text{ of } 30$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -1952,6 +1988,9 @@ $
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:15</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -2062,6 +2101,9 @@ $
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:15</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -2186,6 +2228,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:14</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -2298,6 +2343,9 @@ $
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -2408,6 +2456,9 @@ $
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:1:6</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -2526,6 +2577,9 @@ $
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:6</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -2638,6 +2692,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -2859,6 +2916,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -3078,6 +3138,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:16</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -3198,6 +3261,9 @@ $
 </div>
 <div class='papername'>
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -3451,6 +3517,9 @@ $
 </div>
 <div class='papername'>
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:11</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -3731,6 +3800,9 @@ $
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -3843,6 +3915,9 @@ $
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>
@@ -4100,6 +4175,9 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -4353,6 +4431,9 @@ $
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
@@ -4579,6 +4660,9 @@ $
 </div>
 <div class='papername'>
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g2</p>

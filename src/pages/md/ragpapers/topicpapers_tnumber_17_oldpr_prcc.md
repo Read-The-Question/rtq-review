@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-oldpr-prcc"
 title: "TopicPaper - Number - 17 - OLDPR - PRCC"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_oldpr</p>
@@ -388,6 +391,9 @@ Part e give space in subquestion after \"of\"
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
@@ -644,6 +650,9 @@ Let's account for the one zero now $= 7420$
 </div>
 <div class='papername'>
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_oldpr</p>
@@ -1199,6 +1208,9 @@ Part H: direct answer
 </div>
 <div class='papername'>
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_oldpr</p>

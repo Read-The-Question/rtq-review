@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR - PRCC"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:29</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -313,6 +316,9 @@ PArt B = Not solved.solve please
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:30</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -487,6 +493,9 @@ not directly related. thou.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:25</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -631,6 +640,9 @@ not directly related. thou.
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:37</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
@@ -978,6 +990,9 @@ Blue answer = 18 Stickers
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:11</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -1143,6 +1158,9 @@ rtq_abbr_katex_formula_perimeter_rectangle
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:20</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
@@ -1303,6 +1321,9 @@ Shaded Area = Area of ABCD - Area of rectangle inside ABCD (there is no T as you
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:8</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>

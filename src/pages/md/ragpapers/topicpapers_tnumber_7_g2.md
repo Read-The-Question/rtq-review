@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-g2"
 title: "TopicPaper - Number - 7 - G2"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:11</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g2</p>
@@ -127,6 +130,9 @@ $
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:13</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g2</p>
 </div>
 <div class='rag'>
@@ -235,6 +241,9 @@ $
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g2</p>
@@ -360,6 +369,9 @@ Largest answer $= 27 \times 9$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g2</p>
 </div>
 <div class='rag'>
@@ -477,6 +489,9 @@ $
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g2</p>
 </div>
 <div class='rag'>
@@ -582,6 +597,9 @@ $1400 \ \text{cm}$
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:21</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g2</p>
@@ -850,6 +868,9 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g2</p>
 </div>
 <div class='rag'>
@@ -1052,6 +1073,9 @@ $
 </div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:7</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g2</p>
@@ -1438,6 +1462,9 @@ $
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g2</p>
 </div>
 <div class='rag'>
@@ -1533,6 +1560,9 @@ $400$
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:2</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g2</p>

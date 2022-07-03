@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-oldpr"
 title: "TopicPaper - Number - 12 - OLDPR"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>
@@ -257,6 +260,9 @@ Same as part a
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:33</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>
@@ -720,6 +726,9 @@ There are only two possible outcomes $1, 2$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
@@ -957,6 +966,9 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
@@ -1090,6 +1102,9 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:4</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
@@ -1218,6 +1233,9 @@ write in katex align...... Largest 4 digit number=...Smallest 3 digit number =..
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
@@ -1323,6 +1341,9 @@ Number of prime numbers between $20$ and $30 = 2$"
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:26</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>
@@ -1470,6 +1491,9 @@ change: 460 to 640                                                              
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
@@ -1587,6 +1611,9 @@ $
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:7</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>
@@ -1720,6 +1747,9 @@ $
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:2:8</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
 <p>rag_as_oldpr</p>

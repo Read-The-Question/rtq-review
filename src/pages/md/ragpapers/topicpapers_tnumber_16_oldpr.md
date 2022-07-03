@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-oldpr"
 title: "TopicPaper - Number - 16 - OLDPR"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:10</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_oldpr</p>
@@ -136,6 +139,9 @@ The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_oldpr</p>
@@ -297,6 +303,9 @@ The whole numbers which leave a remainder of 7 when dividied into 46 = 13 and 39
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:7</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
@@ -431,6 +440,9 @@ $40 - 7 = 33$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:25</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
@@ -541,6 +553,9 @@ The smallest whole number above $120$ which when divided by $53$ leaves a remain
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:9</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_oldpr</p>

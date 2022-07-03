@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g1"
 title: "TopicPaper - Age - 1 - G1"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:27</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -153,6 +156,9 @@ Claire's age $= 28 \ \text {years}$
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:2:4</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -340,6 +346,9 @@ $
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g1</p>
 </div>
 <div class='rag'>
@@ -480,6 +489,9 @@ $
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g1</p>
 </div>
 <div class='rag'>
@@ -591,6 +603,9 @@ $
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:7</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -738,6 +753,9 @@ $
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:15</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -894,6 +912,9 @@ $
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:15</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g1</p>
 </div>
 <div class='rag'>
@@ -1025,6 +1046,9 @@ $
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:22</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>
@@ -1208,6 +1232,9 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:15</p>
 </div>
 <div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
 <p>rag_ak_g1</p>
 </div>
 <div class='rag'>
@@ -1317,6 +1344,9 @@ $
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:15</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
 <p>rag_ak_g1</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-10-g0"
 title: "TopicPaper - Number - 10 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:5</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -128,6 +131,9 @@ Any number between 0.71 and 0.8 can be answer 0.72, 0.73, 0.74, ...so on
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:18</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -238,6 +244,9 @@ $
 </div>
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:6</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -551,6 +560,9 @@ The biggest fraction $ =\dfrac{8} {9}$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -668,6 +680,9 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -760,6 +775,9 @@ $13083$
 </div>
 <div class='papername'>
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -874,6 +892,9 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -968,6 +989,9 @@ $18046$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -1060,6 +1084,9 @@ $\text{Three million, sixty thousand, one hundred and twenty}$
 </div>
 <div class='papername'>
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:32</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -1277,6 +1304,9 @@ $
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -1393,6 +1423,9 @@ $
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -1497,6 +1530,9 @@ $
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -1723,6 +1759,9 @@ $\text {Y}$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -1832,6 +1871,9 @@ $
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -1946,6 +1988,9 @@ $
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -2052,6 +2097,9 @@ $
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:13</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -2240,6 +2288,9 @@ $2398$
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:3</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -2512,6 +2563,9 @@ $
 </div>
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:4</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>

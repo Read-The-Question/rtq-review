@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g0-prcc"
 title: "TopicPaper - Areaperimeter - 2 - G0 - PRCC"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:21</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -374,6 +377,9 @@ Part a: 2 answers, use 2 answer tomls
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:6</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -539,6 +545,9 @@ use key = Perimeter and Area in answer toml
 </div>
 <div class='papername'>
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:3:1</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -711,6 +720,9 @@ Area = 4 * 7
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:6</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -874,6 +886,9 @@ abbrev is broken!!
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:3:1</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1016,6 +1031,9 @@ Same as previous question, refer comments in 87087F13-14DD-46B1-A8A3-E1A8693515A
 </div>
 <div class='papername'>
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:15</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -1255,6 +1273,9 @@ a. Use abbr and then solve, move formula out of aligned.
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1463,6 +1484,9 @@ Lets find the area of the rectangle.
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:15</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1619,6 +1643,9 @@ Add comment to add a diagram with missing side calculated.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1745,6 +1772,9 @@ Write abbr for perimeter for triangle
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -1867,6 +1897,9 @@ Write abbr for perimeter for a regular polygon, n * side
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:38</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -2002,6 +2035,9 @@ Use expanded abbrev for rectangle.
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:43</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -2128,6 +2164,9 @@ Write abbr for a polygon
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:15</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -2486,6 +2525,9 @@ Perimeter of one tile (in metres) $= 1.6$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:17</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -2642,6 +2684,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:21</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
@@ -2874,6 +2919,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:15</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -3032,6 +3080,9 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:14</p>
 </div>
 <div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
@@ -3151,6 +3202,9 @@ $
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>

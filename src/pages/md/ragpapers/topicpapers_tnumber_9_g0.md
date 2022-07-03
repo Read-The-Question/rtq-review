@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-g0"
 title: "TopicPaper - Number - 9 - G0"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,6 +11,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:17</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -114,6 +117,9 @@ DONE Last sentence : the smallest number that 2, 3 and 4 all divide into exactly
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:6</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -226,6 +232,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:24</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -383,6 +392,9 @@ convert 65% also from Step 2 and change whole answer accordingly.
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:39</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -501,6 +513,9 @@ The number which is not a multiple of $3 = 567890$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:43</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -617,6 +632,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:6</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -750,6 +768,9 @@ $= 50.75$
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:24</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -888,6 +909,9 @@ $
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:33</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -1183,6 +1207,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:2</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -1275,6 +1302,9 @@ $36043$
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:17</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -1502,6 +1532,9 @@ $
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:2</p>
 </div>
 <div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
@@ -1594,6 +1627,9 @@ $45702$
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:17</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>
@@ -1813,6 +1849,9 @@ $
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
 <p>rag_mr_g0</p>

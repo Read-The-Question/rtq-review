@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-07-03 06:34:08
+date: 2022-07-03 08:01:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,6 +21,9 @@ date: 2022-07-03 06:34:08
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:1</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -115,6 +118,9 @@ $300407$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:1</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -468,6 +474,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:3</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -574,6 +583,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:8</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -686,6 +698,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:1</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -781,6 +796,9 @@ $308520$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:8</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -950,6 +968,9 @@ Answer $= \text{Option C}$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -1064,6 +1085,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:1</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>
@@ -1384,6 +1408,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
@@ -1696,6 +1723,9 @@ So, LOAF = $504$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:5</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -1820,6 +1850,9 @@ $= 7050$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:10</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
@@ -1918,6 +1951,9 @@ So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:20</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>
@@ -2136,6 +2172,9 @@ Answer in the middle $= 8$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:2</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_notstarted</p>
@@ -2503,6 +2542,9 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:2</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -2611,6 +2653,9 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:5</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -2715,6 +2760,9 @@ $
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:8</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_notstarted</p>
@@ -2987,6 +3035,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:1</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -3091,6 +3142,9 @@ $
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -3201,6 +3255,9 @@ $
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -3427,6 +3484,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:10</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
@@ -3550,6 +3610,9 @@ The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_oldpr</p>
@@ -3709,6 +3772,9 @@ The whole numbers which leave a remainder of 7 when dividied into 46 = 13 and 39
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:17</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -4042,6 +4108,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:1</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -4134,6 +4203,9 @@ $63401$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:2</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>
@@ -4241,6 +4313,9 @@ Numbers divisible by $5 = 70$ and $5$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:3</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>
@@ -4366,6 +4441,9 @@ Change this to use writing algebra way, by defining variable and following guide
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -4634,6 +4712,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:7</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
@@ -4768,6 +4849,9 @@ $40 - 7 = 33$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:19</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
@@ -4866,6 +4950,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:24</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -5089,6 +5176,9 @@ $=5.78$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:25</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
@@ -5199,6 +5289,9 @@ The smallest whole number above $120$ which when divided by $53$ leaves a remain
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:9</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_oldpr</p>
@@ -5500,6 +5593,9 @@ The numbers whose sum is $-3$ are $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:11</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -5781,6 +5877,9 @@ $= 32.4$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:13</p>
 </div>
 <div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
@@ -5870,6 +5969,9 @@ The number nearest to $0.1$ = $0.101$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:19</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>
@@ -6013,6 +6115,9 @@ $a = 45$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:20</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
@@ -6109,6 +6214,9 @@ TODOANSWER
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:23</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>
@@ -6218,6 +6326,9 @@ $= 0.872$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:26</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>
@@ -6433,6 +6544,9 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:1</p>
 </div>
 <div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
 <p>rag_ss_g2</p>
 </div>
 <div class='rag'>
@@ -6546,6 +6660,9 @@ $
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:7</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g0</p>
@@ -6884,6 +7001,9 @@ add rtq_abbr_md_bidmas for all
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:9</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
 </div>
 <div class='rag'>
 <p>rag_ss_g2</p>

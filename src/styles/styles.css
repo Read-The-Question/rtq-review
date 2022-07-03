@@ -158,7 +158,11 @@ img {
 .question_envelope.question.rag_prpcr {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
-    background-color: tomato;
+    /* background-color: tomato;
+    background-color: rgba(204,204,0, 1); */
+    background-color: rgba(255,215,0, 1);
+    /* background-color: yellow; */
+
 }
 
 .question_envelope.question.rag_prcc {
@@ -340,7 +344,8 @@ button.rag_prpcr {
     padding: 20px 20px;
     background-color: gold;
     /* background-color: orangered; */
-    background-color: tomato;
+    /* background-color: tomato; */
+    background-color: rgba(255,215,0, 1);
 }
 
 
@@ -348,7 +353,6 @@ button.rag_pra {
     padding: 20px 20px;
     background-color: orange;
 }
-
 
 button.rag_prr {
     padding: 20px 20px;

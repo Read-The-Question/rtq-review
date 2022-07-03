@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tclock-1"
 title: "TopicPaper - Clock - 1"
-date: 2022-07-03 12:46:12
+date: 2022-07-03 15:30:49
 ---
 <div class='paper'>
 <div class='meta'>

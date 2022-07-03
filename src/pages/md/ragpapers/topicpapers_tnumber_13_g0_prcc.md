@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g0-prcc"
 title: "TopicPaper - Number - 13 - G0 - PRCC"
-date: 2022-07-03 12:46:12
+date: 2022-07-03 16:31:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1162,8 +1162,8 @@ How many photographs does he take altogether?
 
 $
 \begin{aligned}
-&= 86 + 58 \\\\
-&= 144
+\text{Total photographs}    &= 86 + 58 \\\\
+                            &= 144
 \end{aligned}
 $
 
@@ -1181,8 +1181,8 @@ $144$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 86 + 58 \\\\
-&= 144
+\text{Total photographs}    &= 86 + 58 \\\\
+                            &= 144
 \end{aligned}
 $
 </code></pre>
@@ -1220,10 +1220,10 @@ How many pages does he use?
 
 $
 \begin{aligned}
-&= \dfrac {144} {6} \\\\
-&= \dfrac {24 \times 2 \times 3} {2 \times 3} \\\\
-&= \dfrac {24 \times \cancel {2} \times \cancel {3}} {\cancel {2} \times \cancel {3}} \\\\
-&= 24
+\text{Total pages}          &= \dfrac {144} {6} \\\\
+                            &= \dfrac {24 \times 2 \times 3} {2 \times 3} \\\\
+                            &= \dfrac {24 \times \cancel {2} \times \cancel {3}} {\cancel {2} \times \cancel {3}} \\\\
+                            &= 24
 \end{aligned}
 $
 
@@ -1241,10 +1241,10 @@ $24$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {144} {6} \\\\
-&= \dfrac {24 \times 2 \times 3} {2 \times 3} \\\\
-&= \dfrac {24 \times \cancel {2} \times \cancel {3}} {\cancel {2} \times \cancel {3}} \\\\
-&= 24
+\text{Total pages}          &= \dfrac {144} {6} \\\\
+                            &= \dfrac {24 \times 2 \times 3} {2 \times 3} \\\\
+                            &= \dfrac {24 \times \cancel {2} \times \cancel {3}} {\cancel {2} \times \cancel {3}} \\\\
+                            &= 24
 \end{aligned}
 $
 </code></pre>
@@ -1277,8 +1277,8 @@ How much do his enlargements cost in total?
 
 $
 \begin{aligned}
-&= \pounds 2.65 \times 7 \\\\
-&= \pounds 18.55
+\text{Total cost}           &= \pounds 2.65 \times 7 \\\\
+                            &= \pounds 18.55
 \end{aligned}
 $
 
@@ -1296,8 +1296,8 @@ $\pounds 18.55$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \pounds 2.65 \times 7 \\\\
-&= \pounds 18.55
+\text{Total cost}           &= \pounds 2.65 \times 7 \\\\
+                            &= \pounds 18.55
 \end{aligned}
 $
 </code></pre>
@@ -1332,8 +1332,8 @@ How much change does he get?
 
 $
 \begin{aligned}
-&= 20 - 18.55 \\\\
-&= \pounds 1.45
+\text{Change}        &= 20 - 18.55 \\\\
+                     &= \pounds 1.45
 \end{aligned}
 $
 
@@ -1351,8 +1351,8 @@ $\pounds 1.45$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 20 - 18.55 \\\\
-&= \pounds 1.45
+\text{Change}        &= 20 - 18.55 \\\\
+                     &= \pounds 1.45
 \end{aligned}
 $
 </code></pre>
@@ -1575,8 +1575,8 @@ Calculate the difference between the largest and the smallest numbers in the lis
 
 $
 \begin{aligned}
-&= 20.3 - 18.67 \\\\
-&= 1.63
+\text{Difference}    &= 20.3 - 18.67 \\\\
+                     &= 1.63
 \end{aligned}
 $
 
@@ -1594,8 +1594,8 @@ $1.63$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 20.3 - 18.67 \\\\
-&= 1.63
+\text{Difference}    &= 20.3 - 18.67 \\\\
+                     &= 1.63
 \end{aligned}
 $
 </code></pre>
@@ -1736,21 +1736,39 @@ A house could be $7.5 \ldots$ tall.
 <div class='workings'>
 <div class='working'>
 
-$\text {mm},\text {ml}, \text {m}$ 
+Mandy's thumb is approximately $\underline {50 \ \text {mm}}$ long.
+
+A glass could contain $\underline {250 \ \text {ml}}$ of orange juice.
+
+A house could be $\underline {7.5 \ \text {m}}$ tall.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {mm},\text {ml}, \text {m}$ 
+$\text {mm}$ 
+
+</div>
+<div class='answer'>
+
+$\text {ml}$ 
+
+</div>
+<div class='answer'>
+
+$\text {m}$ 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {mm},\text {ml}, \text {m}$ 
+<pre class='language-latex'><code class='language-latex'>Mandy's thumb is approximately $\underline {50 \ \text {mm}}$ long.
+
+A glass could contain $\underline {250 \ \text {ml}}$ of orange juice.
+
+A house could be $\underline {7.5 \ \text {m}}$ tall.
 </code></pre>
 </div>
 </div>
@@ -1762,7 +1780,27 @@ $\text {mm},\text {ml}, \text {m}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {mm},\text {ml}, \text {m}$ 
+<pre class='language-latex'><code class='language-latex'>$\text {mm}$ 
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {ml}$ 
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {m}$ 
 </code></pre>
 </div>
 </div>
@@ -2140,8 +2178,8 @@ How many football cards did he buy in total?
 
 $
 \begin{aligned}
-\text {Total football cards bought} &= 56 + 72 \\\\
-                                    &= 128
+\text {Total cards}  &= 56 + 72 \\\\
+                     &= 128
 \end{aligned}
 $
 
@@ -2159,8 +2197,8 @@ $128$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Total football cards bought} &= 56 + 72 \\\\
-                                    &= 128
+\text {Total cards}  &= 56 + 72 \\\\
+                     &= 128
 \end{aligned}
 $
 </code></pre>
@@ -2197,7 +2235,7 @@ How many packs of football cards did Ryan buy altogether?
 
 $
 \begin{aligned}
-\text {Packs of cards Ryan bought} &= \dfrac {\text {Total cards bought}} {\text {Capacity of each pack}} \\\\
+\text {Count of packs}             &= \dfrac {\text {Total cards}} {\text {Cards in a pack}} \\\\
                                    &= \dfrac {128} {8} \\\\
                                    &= \dfrac {16 \times 8} {8} \\\\
                                    &= \dfrac {16 \times \cancel{8}} {\cancel{8}} \\\\
@@ -2219,7 +2257,7 @@ $16$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Packs of cards Ryan bought} &= \dfrac {\text {Total cards bought}} {\text {Capacity of each pack}} \\\\
+\text {Count of packs}             &= \dfrac {\text {Total cards}} {\text {Cards in a pack}} \\\\
                                    &= \dfrac {128} {8} \\\\
                                    &= \dfrac {16 \times 8} {8} \\\\
                                    &= \dfrac {16 \times \cancel{8}} {\cancel{8}} \\\\
@@ -2299,9 +2337,8 @@ What is the cost of $9$ packs of football cards?
 
 $
 \begin{aligned}
-\text {Cost of 9 packs}    &= 35 \ \text {pence} \times 9 \\\\
+\text {Cost of 9 packs}    &= 9 \times 35 \ \text {pence}  \\\\
                            &= 315 \ \text{pence} \\\\
-                           &= \pounds \ \dfrac{315}{100} \\\\
                            &= \pounds \ 3.15
 \end{aligned}
 $
@@ -2320,9 +2357,8 @@ $\pounds 3.15$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Cost of 9 packs}    &= 35 \ \text {pence} \times 9 \\\\
+\text {Cost of 9 packs}    &= 9 \times 35 \ \text {pence}  \\\\
                            &= 315 \ \text{pence} \\\\
-                           &= \pounds \ \dfrac{315}{100} \\\\
                            &= \pounds \ 3.15
 \end{aligned}
 $
@@ -2358,12 +2394,10 @@ How much change did she get?
 
 $
 \begin{aligned}
-&= 5 - 3.15 \\\\
-&= \pounds 1.85
+\text {Change}       &= 5 - 3.15 \\\\
+                     &= \pounds 1.85
 \end{aligned}
 $
-
-She got $\pounds 1.85$ as change.
 
 </div>
 </div>
@@ -2379,12 +2413,10 @@ $\pounds 1.85$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 5 - 3.15 \\\\
-&= \pounds 1.85
+\text {Change}       &= 5 - 3.15 \\\\
+                     &= \pounds 1.85
 \end{aligned}
 $
-
-She got $\pounds 1.85$ as change.
 </code></pre>
 </div>
 </div>
@@ -4052,15 +4084,12 @@ What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-. 
-
 $
 \begin{aligned}
-&= 3.2 \ \text{m} - 30 \ \text{cm} \\\\
-&= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
-&= 320 \ \text{cm}  - 30 \ \text{cm}  \\\\
-&= 290  \ \text{cm}
+\text{Difference}    &= 3.2 \ \text{m} - 30 \ \text{cm} \\\\
+                     &= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
+                     &= 320 - 30   \\\\
+                     &= 290  \ \text{cm}
 \end{aligned}
 $
 
@@ -4076,14 +4105,12 @@ $290  \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 3.2 \ \text{m} - 30 \ \text{cm} \\\\
-&= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
-&= 320 \ \text{cm}  - 30 \ \text{cm}  \\\\
-&= 290  \ \text{cm}
+\text{Difference}    &= 3.2 \ \text{m} - 30 \ \text{cm} \\\\
+                     &= 3.2 \times 100 \ \text{cm} - 30 \ \text{cm} \\\\
+                     &= 320 - 30   \\\\
+                     &= 290  \ \text{cm}
 \end{aligned}
 $
 </code></pre>

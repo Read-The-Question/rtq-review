@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-4"
 title: "TopicPaper - Areaperimeter - 4"
-date: 2022-07-03 12:46:12
+date: 2022-07-03 15:30:49
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1261,7 +1261,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D5857443-F743-4F2E-9478-B90894BA3122</p>
 </div>
@@ -1272,7 +1272,7 @@ $
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1434,7 +1434,32 @@ whose area is $48 \ \text{cm}^2$, perimeter is $32 \ \text{cm}$ and length is gr
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the length of the rectangle $= l$
+Let the width of the rectangle $= w$
+
+As per the question,
+
+$
+\begin{aligned}
+l \times w                                                      &= 48 \\\\
+w                                                               &= \dfrac {48} {l} \\\\
+2 \times (l + w)                                                &= 32 \\\\
+2 \times (l + \dfrac {48} {l})                                  &= 32 \\\\
+2 \times (\dfrac {l \times l} {1 \times l} + \dfrac {48} {l})   &= 32 \\\\
+2 \times (\dfrac {l^2 + 48} {l})                                &= 32 \\\\
+\dfrac {l^2 + 48} {l}                                           &= \dfrac {32} {2} \\\\
+\dfrac {l^2 + 48} {l}                                           &= \dfrac {2 \times 16} {2} \\\\
+\dfrac {l^2 + 48} {l}                                           &= \dfrac {\cancel {2} \times 16} {\cancel {2}} \\\\
+\dfrac {l^2 + 48} {l}                                           &= 16 \\\\
+\end{aligned}
+$
+
 
 </div>
 </div>
@@ -1448,7 +1473,30 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the length of the rectangle $= l$
+Let the width of the rectangle $= w$
+
+As per the question,
+
+$
+\begin{aligned}
+l \times w                                                      &= 48 \\\\
+w                                                               &= \dfrac {48} {l} \\\\
+2 \times (l + w)                                                &= 32 \\\\
+2 \times (l + \dfrac {48} {l})                                  &= 32 \\\\
+2 \times (\dfrac {l \times l} {1 \times l} + \dfrac {48} {l})   &= 32 \\\\
+2 \times (\dfrac {l^2 + 48} {l})                                &= 32 \\\\
+\dfrac {l^2 + 48} {l}                                           &= \dfrac {32} {2} \\\\
+\dfrac {l^2 + 48} {l}                                           &= \dfrac {2 \times 16} {2} \\\\
+\dfrac {l^2 + 48} {l}                                           &= \dfrac {\cancel {2} \times 16} {\cancel {2}} \\\\
+\dfrac {l^2 + 48} {l}                                           &= 16 \\\\
+\end{aligned}
+$
+
 </code></pre>
 </div>
 </div>
@@ -1485,27 +1533,27 @@ Width $= 2 \times a$
 
 $
 \begin{aligned}
-\text {Area} &= \text {length} \times \text {width} \\\\
-72           &= a \times 2 a \\\\
+a \times 2a  &= 72 \\\\
 2 a^2        &= 72 \\\\
 a^2          &= \dfrac {72} {2} \\\\
 a^2          &= \dfrac {36 \times 2} {2} \\\\
 a^2          &= \dfrac {36 \times \cancel {2}} {\cancel {2}} \\\\
 a^2          &= 36 \\\\
-a            &= \sqrt 36 \\\\
-a            &= 6 \text { cm}
+a            &= \sqrt {36} \\\\
+a            &= 6 \ \text {cm}
 \end{aligned}
+$
 
-Length $=6 \text{ cm}$
+Length $=6 \ \text{ cm}$
 
-Width $=12 \text{ cm}$
+Width $=12 \ \text{ cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6 \text{ cm}, \ 12 \text{ cm}$
+$6 \ \text{cm}, \ 12 \ \text{cm}$
 
 </div>
 </div>
@@ -1520,20 +1568,20 @@ Width $= 2 \times a$
 
 $
 \begin{aligned}
-\text {Area} &= \text {length} \times \text {width} \\\\
-72           &= a \times 2 a \\\\
+a \times 2a  &= 72 \\\\
 2 a^2        &= 72 \\\\
 a^2          &= \dfrac {72} {2} \\\\
 a^2          &= \dfrac {36 \times 2} {2} \\\\
 a^2          &= \dfrac {36 \times \cancel {2}} {\cancel {2}} \\\\
 a^2          &= 36 \\\\
-a            &= \sqrt 36 \\\\
-a            &= 6 \text { cm}
+a            &= \sqrt {36} \\\\
+a            &= 6 \ \text {cm}
 \end{aligned}
+$
 
-Length $=6 \text{ cm}$
+Length $=6 \ \text{ cm}$
 
-Width $=12 \text{ cm}$
+Width $=12 \ \text{ cm}$
 </code></pre>
 </div>
 </div>
@@ -1545,7 +1593,7 @@ Width $=12 \text{ cm}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6 \text{ cm}, \ 12 \text{ cm}$
+<pre class='language-latex'><code class='language-latex'>$6 \ \text{cm}, \ 12 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -1554,6 +1602,40 @@ Width $=12 \text{ cm}$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D5857443-F743-4F2E-9478-B90894BA3122' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D5857443-F743-4F2E-9478-B90894BA3122' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D5857443-F743-4F2E-9478-B90894BA3122' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D5857443-F743-4F2E-9478-B90894BA3122' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D5857443-F743-4F2E-9478-B90894BA3122' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D5857443-F743-4F2E-9478-B90894BA3122' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D5857443-F743-4F2E-9478-B90894BA3122' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D5857443-F743-4F2E-9478-B90894BA3122' id='FORM-D5857443-F743-4F2E-9478-B90894BA3122' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D5857443-F743-4F2E-9478-B90894BA3122'>Initial</p>
+</div>
 </div>
 </li>
 <li>

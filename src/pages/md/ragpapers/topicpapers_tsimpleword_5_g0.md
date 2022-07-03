@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-g0"
 title: "TopicPaper - Simpleword - 5 - G0"
-date: 2022-07-03 12:46:12
+date: 2022-07-03 15:30:49
 ---
 <ul class='question default-decimal'>
 <li>

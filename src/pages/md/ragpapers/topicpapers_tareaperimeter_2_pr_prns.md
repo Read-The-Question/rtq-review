@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-pr-prns"
 title: "TopicPaper - Areaperimeter - 2 - PR - PRNS"
-date: 2022-07-02 07:00:07
+date: 2022-07-03 06:34:08
 ---
 <ul class='question default-decimal'>
 <li>
@@ -255,6 +255,492 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-E0F74877-22A8-4F68-A09E-6C2FBED20974'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>7F3FEB8B-AA67-48D1-8E2A-568843B4D06A</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows two overlapping rectangles.
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate the area of the $\bold{\underline{larger\:\: rectangle}}$ only.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the length of the overlapped area is $4 \ \text{cm}$ and $5 \ \text{cm}$.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin{aligned}
+\text {Area of larger triangle}             &= 20 \times (13 + 5) \\\\
+                                            &= 20 \times 18 \\\\ 
+                                            &= 360 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$360 \ \text {cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the length of the overlapped area is $4 \ \text{cm}$ and $5 \ \text{cm}$.*
+rtq_abbr_md_add_drawing_ends
+
+$
+\begin{aligned}
+\text {Area of larger triangle}             &= 20 \times (13 + 5) \\\\
+                                            &= 20 \times 18 \\\\ 
+                                            &= 360 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$360 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate the $\bold{\underline{total}}$ shaded area that the rectangles cover.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Shaded Area}             &= \text {Area  of larger triangle} + \text {Area of smaller triangle} - \text {Overlapped} \\\\
+                                &= 20 \times 18 + 9 \times 12 - 4 \times  5 \\\\
+                                &= 360 + 108 - 20 \\\\
+                                &= 448 \ \text {cm}^2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$448 \ \text {cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Shaded Area}             &= \text {Area  of larger triangle} + \text {Area of smaller triangle} - \text {Overlapped} \\\\
+                                &= 20 \times 18 + 9 \times 12 - 4 \times  5 \\\\
+                                &= 360 + 108 - 20 \\\\
+                                &= 448 \ \text {cm}^2
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$448 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7F3FEB8B-AA67-48D1-8E2A-568843B4D06A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7F3FEB8B-AA67-48D1-8E2A-568843B4D06A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7F3FEB8B-AA67-48D1-8E2A-568843B4D06A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7F3FEB8B-AA67-48D1-8E2A-568843B4D06A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7F3FEB8B-AA67-48D1-8E2A-568843B4D06A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7F3FEB8B-AA67-48D1-8E2A-568843B4D06A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='7F3FEB8B-AA67-48D1-8E2A-568843B4D06A' id='FORM-7F3FEB8B-AA67-48D1-8E2A-568843B4D06A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7F3FEB8B-AA67-48D1-8E2A-568843B4D06A'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>19EE7E0C-B8FF-4814-AAEB-A716512C556A</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the areas of the following shapes:
+
+![missing image](/papers/missing_image.svg)
+
+
+$1$ square = $1 cm^2$
+
+![missing image](/papers/missing_image.svg)
+
+
+Not drawn to scale
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the shaded diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the given shape is divided into a rectangle and a triangle.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+As per the question, the shape can be divided into a square and triangle  
+
+$
+\begin{aligned}
+\text {Shaded Area}             &= \text {Area of square} + \text {Area of triangle} \\\\
+                                &= 3 \times 3 + \dfrac {1} {2} \times 3 \times 3 \\\\
+                                &= 3 \times 3 + \dfrac {3 \times 3} {2} \\\\
+                                &= 9 + \dfrac {9} {2} \\\\
+                                &= 9 + 4.5 \\\\
+                                &= 13.5 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the shaded diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the given shape is divided into two rectangles.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+As per the question, the shape can be divided into two rectangles
+
+$
+\begin{aligned}
+\text {Shaded Area}             &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                                &= 5 \times 4 + 3 \times 12 \\\\
+                                &= 20 + 36 \\\\
+                                &= 56 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13.5 \ \text{cm}^2$
+
+</div>
+<div class='answer'>
+
+$56 \ \text {cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_area_triangle_expanded
+
+rtq_abbr_md_add_drawing_starts
+*TODO:: Show the shaded diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the given shape is divided into a rectangle and a triangle.*
+rtq_abbr_md_add_drawing_ends
+
+As per the question, the shape can be divided into a square and triangle  
+
+$
+\begin{aligned}
+\text {Shaded Area}             &= \text {Area of square} + \text {Area of triangle} \\\\
+                                &= 3 \times 3 + \dfrac {1} {2} \times 3 \times 3 \\\\
+                                &= 3 \times 3 + \dfrac {3 \times 3} {2} \\\\
+                                &= 9 + \dfrac {9} {2} \\\\
+                                &= 9 + 4.5 \\\\
+                                &= 13.5 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_area_triangle_expanded
+
+rtq_abbr_md_add_drawing_starts
+*TODO:: Show the shaded diagram with the calculations for the parts of the path which do not have measurements shown. 
+Show the given shape is divided into two rectangles.*
+rtq_abbr_md_add_drawing_ends
+
+As per the question, the shape can be divided into two rectangles
+
+$
+\begin{aligned}
+\text {Shaded Area}             &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
+                                &= 5 \times 4 + 3 \times 12 \\\\
+                                &= 20 + 36 \\\\
+                                &= 56 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13.5 \ \text{cm}^2$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$56 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='19EE7E0C-B8FF-4814-AAEB-A716512C556A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='19EE7E0C-B8FF-4814-AAEB-A716512C556A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='19EE7E0C-B8FF-4814-AAEB-A716512C556A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='19EE7E0C-B8FF-4814-AAEB-A716512C556A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='19EE7E0C-B8FF-4814-AAEB-A716512C556A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='19EE7E0C-B8FF-4814-AAEB-A716512C556A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='19EE7E0C-B8FF-4814-AAEB-A716512C556A' id='FORM-19EE7E0C-B8FF-4814-AAEB-A716512C556A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-19EE7E0C-B8FF-4814-AAEB-A716512C556A'>Initial</p>
 </div>
 </div>
 </li>
@@ -552,6 +1038,317 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-854AB127-D8BC-47B5-B2F2-57A4B41711C0'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>1F772585-A2E3-4F46-8D78-FAF28F2C0EFC</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4:1:14</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tfraction
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Errol has a wooden cube $20 \ \text{cm} \times 20 \ \text{cm}  \times 20 \ \text{cm}$.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many faces does a cube have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+A cube has $6$ faces.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>A cube has $6$ faces.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+%format% Errol paints the cube all over. What area in $\text{cm}^2$ does he paint?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Surface area of cube} = 6 \times \text{edge} \times \text{edge}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area}            &= 6 \times 20 \times 20 \\\\
+                        &= 2400 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2400 \ \text {cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area}            &= 6 \times 20 \times 20 \\\\
+                        &= 2400 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2400 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Errol now uses a saw to cut the cube in two along the dotted line shown.
+
+What fraction of the area of the two new blocks is **not** painted?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Surface area of cuboid} = 2 \times (\text{length} \times \text{width} + \text{width} \times \text {height} + \text {height} \times \text{length})$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Fraction of the area not painted}    &= \dfrac {\text {Area of cube}} {\text {Area of block}} \\\\
+                                            &= \dfrac {2400} {2 \times (20 \times 20 + 20 \times 10 + 10 \times 20)} \\\\
+                                            &= \dfrac {2400} {2 \times (400 + 200 + 200)} \\\\
+                                            &= \dfrac {2400} {2 \times 800} \\\\
+                                            &= \dfrac {3 \times 800} {2 \times 800} \\\\
+                                            &= \dfrac {3 \times \text \cancel {800}} {2 \times \text \cancel {800}} \\\\
+                                            &= \dfrac {3} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {2}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cuboid
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Fraction of the area not painted}    &= \dfrac {\text {Area of cube}} {\text {Area of block}} \\\\
+                                            &= \dfrac {2400} {2 \times (20 \times 20 + 20 \times 10 + 10 \times 20)} \\\\
+                                            &= \dfrac {2400} {2 \times (400 + 200 + 200)} \\\\
+                                            &= \dfrac {2400} {2 \times 800} \\\\
+                                            &= \dfrac {3 \times 800} {2 \times 800} \\\\
+                                            &= \dfrac {3 \times \text \cancel {800}} {2 \times \text \cancel {800}} \\\\
+                                            &= \dfrac {3} {2}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {3} {2}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1F772585-A2E3-4F46-8D78-FAF28F2C0EFC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1F772585-A2E3-4F46-8D78-FAF28F2C0EFC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1F772585-A2E3-4F46-8D78-FAF28F2C0EFC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1F772585-A2E3-4F46-8D78-FAF28F2C0EFC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='1F772585-A2E3-4F46-8D78-FAF28F2C0EFC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1F772585-A2E3-4F46-8D78-FAF28F2C0EFC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='1F772585-A2E3-4F46-8D78-FAF28F2C0EFC' id='FORM-1F772585-A2E3-4F46-8D78-FAF28F2C0EFC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1F772585-A2E3-4F46-8D78-FAF28F2C0EFC'>Initial</p>
 </div>
 </div>
 </li>

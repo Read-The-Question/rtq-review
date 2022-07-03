@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-1"
 title: "TopicPaper - Areaperimeter - 1"
-date: 2022-07-02 07:00:07
+date: 2022-07-03 06:34:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3051,7 +3051,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3D993C0F-FDE8-4BCE-8076-8B7738C8C533</p>
 </div>
@@ -3059,7 +3059,7 @@ $
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3087,36 +3087,25 @@ Which labelled tile ($A, B, C, D$ or $E$) could be removed without changing the 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the diagram,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+Tile $E$ could be removed without changing the perimeter of the shape.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Tile $E$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the diagram,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Tile $E$ could be removed without changing the perimeter of the shape.
 </code></pre>
 </div>
 </div>
@@ -3128,26 +3117,47 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Tile $E$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3D993C0F-FDE8-4BCE-8076-8B7738C8C533' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3D993C0F-FDE8-4BCE-8076-8B7738C8C533' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3D993C0F-FDE8-4BCE-8076-8B7738C8C533' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3D993C0F-FDE8-4BCE-8076-8B7738C8C533' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3D993C0F-FDE8-4BCE-8076-8B7738C8C533' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3D993C0F-FDE8-4BCE-8076-8B7738C8C533' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='3D993C0F-FDE8-4BCE-8076-8B7738C8C533' id='FORM-3D993C0F-FDE8-4BCE-8076-8B7738C8C533' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3D993C0F-FDE8-4BCE-8076-8B7738C8C533'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A531AD7A-13E5-4A2C-A00F-6524D0467FF2</p>
 </div>
@@ -3155,7 +3165,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3250,36 +3260,69 @@ Who has the largest square?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of Vikram's square}             &= 64 \ \text{cm}^2 \\\\
+\text {Area of Kim's square}                &= 64 \times 64 \\\\
+                                            &= 4096 \ \text{cm}^2 \\\\
+\text {Let the side of the Ali's square}    &= a \\\\
+4 \times a                                  &= 64 \\\\
+a                                           &= \dfrac {64} {4} \\\\
+a                                           &= \dfrac {4 \times 16} {4} \\\\
+a                                           &= \dfrac {\cancel {4} \times 16} {\cancel {4}} \\\\
+a                                           &= 16 \ \text {cm} \\\\
+\text {Area of Ali's square}                &= a \times a \\\\
+                                            &= 16 \times 16 \\\\
+                                            &= 256 \ \text {cm}^2
+\end{aligned}
+$
+
+Ali has the largest square.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Ali
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of Vikram's square}             &= 64 \ \text{cm}^2 \\\\
+\text {Area of Kim's square}                &= 64 \times 64 \\\\
+                                            &= 4096 \ \text{cm}^2 \\\\
+\text {Let the side of the Ali's square}    &= a \\\\
+4 \times a                                  &= 64 \\\\
+a                                           &= \dfrac {64} {4} \\\\
+a                                           &= \dfrac {4 \times 16} {4} \\\\
+a                                           &= \dfrac {\cancel {4} \times 16} {\cancel {4}} \\\\
+a                                           &= 16 \ \text {cm} \\\\
+\text {Area of Ali's square}                &= a \times a \\\\
+                                            &= 16 \times 16 \\\\
+                                            &= 256 \ \text {cm}^2
+\end{aligned}
+$
+
+Ali has the largest square.
 </code></pre>
 </div>
 </div>
@@ -3291,17 +3334,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Ali
 </code></pre>
 </div>
 </div>
@@ -3318,36 +3351,69 @@ Who has the smallest square?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of Vikram's square}             &= 64 \ \text{cm}^2 \\\\
+\text {Area of Kim's square}                &= 64 \times 64 \\\\
+                                            &= 4096 \ \text{cm}^2 \\\\
+\text {Let the side of the Ali's square}    &= a \\\\
+4 \times a                                  &= 64 \\\\
+a                                           &= \dfrac {64} {4} \\\\
+a                                           &= \dfrac {4 \times 16} {4} \\\\
+a                                           &= \dfrac {\cancel {4} \times 16} {\cancel {4}} \\\\
+a                                           &= 16 \ \text {cm} \\\\
+\text {Area of Ali's square}                &= a \times a \\\\
+                                            &= 16 \times 16 \\\\
+                                            &= 256 \ \text {cm}^2
+\end{aligned}
+$
+
+Vikram has the smallest square.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Vikram
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_expanded_perimeter_square
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of Vikram's square}             &= 64 \ \text{cm}^2 \\\\
+\text {Area of Kim's square}                &= 64 \times 64 \\\\
+                                            &= 4096 \ \text{cm}^2 \\\\
+\text {Let the side of the Ali's square}    &= a \\\\
+4 \times a                                  &= 64 \\\\
+a                                           &= \dfrac {64} {4} \\\\
+a                                           &= \dfrac {4 \times 16} {4} \\\\
+a                                           &= \dfrac {\cancel {4} \times 16} {\cancel {4}} \\\\
+a                                           &= 16 \ \text {cm} \\\\
+\text {Area of Ali's square}                &= a \times a \\\\
+                                            &= 16 \times 16 \\\\
+                                            &= 256 \ \text {cm}^2
+\end{aligned}
+$
+
+Vikram has the smallest square.
 </code></pre>
 </div>
 </div>
@@ -3359,17 +3425,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Vikram
 </code></pre>
 </div>
 </div>
@@ -3378,6 +3434,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A531AD7A-13E5-4A2C-A00F-6524D0467FF2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A531AD7A-13E5-4A2C-A00F-6524D0467FF2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A531AD7A-13E5-4A2C-A00F-6524D0467FF2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A531AD7A-13E5-4A2C-A00F-6524D0467FF2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A531AD7A-13E5-4A2C-A00F-6524D0467FF2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A531AD7A-13E5-4A2C-A00F-6524D0467FF2' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A531AD7A-13E5-4A2C-A00F-6524D0467FF2' id='FORM-A531AD7A-13E5-4A2C-A00F-6524D0467FF2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A531AD7A-13E5-4A2C-A00F-6524D0467FF2'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3923,7 +4010,7 @@ Length of one edge of cube $= 4 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F97DEC41-DBB1-48C5-B63C-C00665B2D281</p>
 </div>
@@ -3931,7 +4018,7 @@ Length of one edge of cube $= 4 \ \text{cm}$
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4024,36 +4111,93 @@ What is the hexagon's perimeter?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of triangle} = 3 \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add two diagram a small equilateral triangle and a hexagon which is made by adding 6 small ones.
+Show each side of hexagon is equal to triangle.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+Let the side of equilateral triangle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a          &= 12 \\\\
+a                   &= \dfrac {12} {3} \\\\
+a                   &= \dfrac {3 \times 4} {3} \\\\
+a                   &= \dfrac {\cancel {3} \times 4} {\cancel {3}} \\\\
+a                   &= 4 \ \text {cm}
+\end {aligned}
+$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Side of hexagon}                 &= a \\\\
+                                        &= 4 \ \text {cm}\\\\
+\text {Perimeter of hexagon}            &= 6 \times a \\\\
+                                        &= 24 \ \text {cm}                                        
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$24 \ \text {cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_equilateral_triangle
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_expanded_perimeter_polygon
+
+rtq_abbr_md_add_drawing_starts
+*TODO:: Add two diagram a small equilateral triangle and a hexagon which is made by adding 6 small ones.
+Show each side of hexagon is equal to triangle.*
+rtq_abbr_md_add_drawing_ends
+
+Let the side of equilateral triangle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a          &= 12 \\\\
+a                   &= \dfrac {12} {3} \\\\
+a                   &= \dfrac {3 \times 4} {3} \\\\
+a                   &= \dfrac {\cancel {3} \times 4} {\cancel {3}} \\\\
+a                   &= 4 \ \text {cm}
+\end {aligned}
+$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Side of hexagon}                 &= a \\\\
+                                        &= 4 \ \text {cm}\\\\
+\text {Perimeter of hexagon}            &= 6 \times a \\\\
+                                        &= 24 \ \text {cm}                                        
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4065,17 +4209,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$24 \ \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -4096,36 +4230,90 @@ What is the perimeter of the larger equilateral triangle?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of triangle} = 3 \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add two diagram a small equilateral triangle and a larger equilateral triangle which is made by adding 4 small ones.
+Show each side of larger triangle is $2 \times \ \text {side of smaller triangle}$.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+Let the side of smaller equilateral triangle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a          &= 12 \\\\
+a                   &= \dfrac {12} {3} \\\\
+a                   &= \dfrac {3 \times 4} {3} \\\\
+a                   &= \dfrac {\cancel {3} \times 4} {\cancel {3}} \\\\
+a                   &= 4 \ \text {cm}
+\end {aligned}
+$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Side of larger triangle}         &= 2 \times a \\\\
+                                        &= 2 \times 4 \\\\
+                                        &= 8 \ \text {cm}\\\\
+\text {Perimeter of larger triangle}    &= 3 \times 8 \\\\
+                                        &= 24 \ \text {cm}                                        
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$24 \ \text {cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_equilateral_triangle
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_md_add_drawing_starts
+*TODO:: Add two diagram a small equilateral triangle and a larger equilateral triangle which is made by adding 4 small ones.
+Show each side of larger triangle is $2 \times \ \text {side of smaller triangle}$.*
+rtq_abbr_md_add_drawing_ends
+
+Let the side of smaller equilateral triangle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a          &= 12 \\\\
+a                   &= \dfrac {12} {3} \\\\
+a                   &= \dfrac {3 \times 4} {3} \\\\
+a                   &= \dfrac {\cancel {3} \times 4} {\cancel {3}} \\\\
+a                   &= 4 \ \text {cm}
+\end {aligned}
+$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Side of larger triangle}         &= 2 \times a \\\\
+                                        &= 2 \times 4 \\\\
+                                        &= 8 \ \text {cm}\\\\
+\text {Perimeter of larger triangle}    &= 3 \times 8 \\\\
+                                        &= 24 \ \text {cm}                                        
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4137,17 +4325,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$24 \ \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -4156,6 +4334,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F97DEC41-DBB1-48C5-B63C-C00665B2D281' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F97DEC41-DBB1-48C5-B63C-C00665B2D281' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F97DEC41-DBB1-48C5-B63C-C00665B2D281' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F97DEC41-DBB1-48C5-B63C-C00665B2D281' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F97DEC41-DBB1-48C5-B63C-C00665B2D281' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F97DEC41-DBB1-48C5-B63C-C00665B2D281' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='F97DEC41-DBB1-48C5-B63C-C00665B2D281' id='FORM-F97DEC41-DBB1-48C5-B63C-C00665B2D281' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F97DEC41-DBB1-48C5-B63C-C00665B2D281'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4793,7 +5002,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>0EECF7A5-9141-40B4-9FF1-7DC9F43A7624</p>
 </div>
@@ -4801,7 +5010,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4886,7 +5095,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>21315389-F252-49A5-83B3-6296A9B669CC</p>
 </div>
@@ -4894,7 +5103,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:23</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4983,36 +5192,45 @@ Buildings take up $\dfrac{3}{5}$ of the area. How much area is this?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {Area of Building}            &= \dfrac {3} {5} \times \text {Area of site} \\\\
+                                    &= \dfrac {3} {5} \times 8000 \\\\
+                                    &= \dfrac {3 \times 8000} {5} \\\\
+                                    &= \dfrac {3 \times 5 \times 1600} {5} \\\\
+                                    &= \dfrac {3 \times \cancel {5} \times 1600} {\cancel {5}} \\\\
+                                    &= 3 \times 1600 \\\\
+                                    &= 4800 \ \text {cm}^2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$4800 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\text {Area of Building}            &= \dfrac {3} {5} \times \text {Area of site} \\\\
+                                    &= \dfrac {3} {5} \times 8000 \\\\
+                                    &= \dfrac {3 \times 8000} {5} \\\\
+                                    &= \dfrac {3 \times 5 \times 1600} {5} \\\\
+                                    &= \dfrac {3 \times \cancel {5} \times 1600} {\cancel {5}} \\\\
+                                    &= 3 \times 1600 \\\\
+                                    &= 4800 \ \text {cm}^2
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5024,17 +5242,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$4800 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
@@ -5051,36 +5259,45 @@ The playground takes up $\dfrac{1}{4}$ of what is left. How much area is this?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {Area of playground}          &= \dfrac {1} {4} \times \text {Area of site} \\\\
+                                    &= \dfrac {1} {4} \times 8000 \\\\
+                                    &= \dfrac {1 \times 8000} {4} \\\\
+                                    &= \dfrac {1 \times 4 \times 2000} {4} \\\\
+                                    &= \dfrac {1 \times \cancel {4} \times 2000} {\cancel {4}} \\\\
+                                    &= 1 \times 2000 \\\\
+                                    &= 2000 \ \text {cm}^2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$2000 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\text {Area of playground}          &= \dfrac {1} {4} \times \text {Area of site} \\\\
+                                    &= \dfrac {1} {4} \times 8000 \\\\
+                                    &= \dfrac {1 \times 8000} {4} \\\\
+                                    &= \dfrac {1 \times 4 \times 2000} {4} \\\\
+                                    &= \dfrac {1 \times \cancel {4} \times 2000} {\cancel {4}} \\\\
+                                    &= 1 \times 2000 \\\\
+                                    &= 2000 \ \text {cm}^2
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5092,17 +5309,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$2000 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
@@ -5119,36 +5326,37 @@ The rest of the site is footpaths and grass. How much area is this?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {Area of footpath and grass}  &= \text {Area of site} - \text {Area of Building} - \text {Area of playground} \\\\
+                                    &= 8000 - 4800 - 2000 \\\\
+                                    &= 1200 \ \text {cm}^2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1200 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\text {Area of footpath and grass}  &= \text {Area of site} - \text {Area of Building} - \text {Area of playground} \\\\
+                                    &= 8000 - 4800 - 2000 \\\\
+                                    &= 1200 \ \text {cm}^2
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5160,17 +5368,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1200 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
@@ -5189,36 +5387,73 @@ What area is covered in grass?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the area of the footpath $= a$
 
-</div>
-<div class='working'>
+Area of the grass $= 7a$
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of grass} + \text {Area of footpath}    &= 1200 \\\\
+7a + a                                              &= 1200 \\\\
+8a                                                  &= 1200 \\\\
+a                                                   &= \dfrac {1200} {8} \\\\
+a                                                   &= \dfrac {8 \times 150} {8} \\\\
+a                                                   &= \dfrac {\cancel {8} \times 150} {\cancel {8}} \\\\
+a                                                   &= 150 \ \text {cm}^2
+\end {aligned}
+$
+
+Let's find the area of the grass.
+
+$
+\begin{aligned}
+\text {Area of the grass}   &= 7 \times a \\\\
+                            &= 7 \times 150 \\\\
+                            &= 1050 \ \text {cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$1050 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let the area of the footpath $= a$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Area of the grass $= 7a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of grass} + \text {Area of footpath}    &= 1200 \\\\
+7a + a                                              &= 1200 \\\\
+8a                                                  &= 1200 \\\\
+a                                                   &= \dfrac {1200} {8} \\\\
+a                                                   &= \dfrac {8 \times 150} {8} \\\\
+a                                                   &= \dfrac {\cancel {8} \times 150} {\cancel {8}} \\\\
+a                                                   &= 150 \ \text {cm}^2
+\end {aligned}
+$
+
+Let's find the area of the grass.
+
+$
+\begin{aligned}
+\text {Area of the grass}   &= 7 \times a \\\\
+                            &= 7 \times 150 \\\\
+                            &= 1050 \ \text {cm}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5230,17 +5465,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1050 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
@@ -5249,6 +5474,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='21315389-F252-49A5-83B3-6296A9B669CC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='21315389-F252-49A5-83B3-6296A9B669CC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='21315389-F252-49A5-83B3-6296A9B669CC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='21315389-F252-49A5-83B3-6296A9B669CC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='21315389-F252-49A5-83B3-6296A9B669CC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='21315389-F252-49A5-83B3-6296A9B669CC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='21315389-F252-49A5-83B3-6296A9B669CC' id='FORM-21315389-F252-49A5-83B3-6296A9B669CC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-21315389-F252-49A5-83B3-6296A9B669CC'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5443,7 +5699,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>448F8753-26E0-4337-98B2-743761686DBC</p>
 </div>
@@ -5451,7 +5707,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5542,36 +5798,77 @@ What is the square's area?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
 
 
-</div>
-<div class='working'>
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-TODOWORKING
+
+Let the side of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times a          &= 20 \\\\
+4a                  &= 20 \\\\
+a                   &= \dfrac {20} {4} \\\\
+a                   &= \dfrac {4 \times 5} {4} \\\\
+a                   &= \dfrac {\cancel {4} \times 5} {\cancel {4}} \\\\
+a                   &= 5 \ \text {cm}
+\end{aligned}
+$
+
+Let's find the area of the square.
+
+$
+\begin{aligned}
+\text {Area}            &= a \times a \\\\
+                        &= 5 \times 5 \\\\
+                        &= 25 \ \text{cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$25 \ \text{cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_area_square_expanded
+
+Let the side of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times a          &= 20 \\\\
+4a                  &= 20 \\\\
+a                   &= \dfrac {20} {4} \\\\
+a                   &= \dfrac {4 \times 5} {4} \\\\
+a                   &= \dfrac {\cancel {4} \times 5} {\cancel {4}} \\\\
+a                   &= 5 \ \text {cm}
+\end{aligned}
+$
+
+Let's find the area of the square.
+
+$
+\begin{aligned}
+\text {Area}            &= a \times a \\\\
+                        &= 5 \times 5 \\\\
+                        &= 25 \ \text{cm}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5583,17 +5880,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$25 \ \text{cm}^2$
 </code></pre>
 </div>
 </div>
@@ -5614,36 +5901,75 @@ What is the rectangle's area?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the width of the rectangle $= w$
+
+Length of the rectangle $= w + 2$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times (w + (w + 2))          &= 20 \\\\
+2 \times (2w + 2)               &= 20 \\\\
+4w + 4                          &= 20 \\\\
+4w                              &= 20 - 4 \\\\
+4w                              &= 16 \\\\
+w                               &= \dfrac {16} {4} \\\\
+w                               &= \dfrac {4 \times 4} {4} \\\\
+w                               &= \dfrac {\cancel {4} \times 4} {\cancel {4}} \\\\
+w                               &= 4 \ \text{cm} \\\\
+\text {Length}                  &= 4 + 2 \\\\
+                                &= 6 \ \text {cm} \\\\
+\text {Area}                    &= 4 \times 6 \\\\
+                                &= 24 \ \text {cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$24 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the width of the rectangle $= w$
+
+Length of the rectangle $= w + 2$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times (w + (w + 2))          &= 20 \\\\
+2 \times (2w + 2)               &= 20 \\\\
+4w + 4                          &= 20 \\\\
+4w                              &= 20 - 4 \\\\
+4w                              &= 16 \\\\
+w                               &= \dfrac {16} {4} \\\\
+w                               &= \dfrac {4 \times 4} {4} \\\\
+w                               &= \dfrac {\cancel {4} \times 4} {\cancel {4}} \\\\
+w                               &= 4 \ \text{cm} \\\\
+\text {Length}                  &= 4 + 2 \\\\
+                                &= 6 \ \text {cm} \\\\
+\text {Area}                    &= 4 \times 6 \\\\
+                                &= 24 \ \text {cm}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5655,17 +5981,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$24 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
@@ -5686,36 +6002,71 @@ What is the rectangle's area?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the width of the rectangle $= w$
+
+Length of the rectangle $= 4w$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times (w + 4w)               &= 20 \\\\
+2 \times (5w)                   &= 20 \\\\
+10w                             &= 20 \\\\
+w                               &= \dfrac {20} {10} \\\\
+w                               &= \dfrac {10 \times 2} {10} \\\\
+w                               &= \dfrac {\cancel {10} \times 2} {\cancel {10}} \\\\
+w                               &= 2 \ \text{cm} \\\\
+\text {Length}                  &= 4 \times 2 \\\\
+                                &= 8 \ \text {cm} \\\\
+\text {Area}                    &= 2 \times 8 \\\\
+                                &= 16 \ \text {cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$16 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the width of the rectangle $= w$
+
+Length of the rectangle $= 4w$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times (w + 4w)               &= 20 \\\\
+2 \times (5w)                   &= 20 \\\\
+10w                             &= 20 \\\\
+w                               &= \dfrac {20} {10} \\\\
+w                               &= \dfrac {10 \times 2} {10} \\\\
+w                               &= \dfrac {\cancel {10} \times 2} {\cancel {10}} \\\\
+w                               &= 2 \ \text{cm} \\\\
+\text {Length}                  &= 4 \times 2 \\\\
+                                &= 8 \ \text {cm} \\\\
+\text {Area}                    &= 2 \times 8 \\\\
+                                &= 16 \ \text {cm}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5727,17 +6078,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$16 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
@@ -5756,36 +6097,73 @@ What is the square's perimeter?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+Let the side of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times a          &= 81 \\\\
+a^2                 &= 81 \\\\
+a                   &= \sqrt {81} \\\\
+a                   &= 9 \ \text{cm} \\\\
+\end{aligned}
+$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text {Perimeter}       &= 4 \times a \\\\
+                        &= 4 \times 9 \\\\
+                        &= 36 \ \text{cm}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$36 \ \text{cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_area_square_expanded
+
+Let the side of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times a          &= 81 \\\\
+a^2                 &= 81 \\\\
+a                   &= \sqrt {81} \\\\
+a                   &= 9 \ \text{cm} \\\\
+\end{aligned}
+$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text {Perimeter}       &= 4 \times a \\\\
+                        &= 4 \times 9 \\\\
+                        &= 36 \ \text{cm}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5797,17 +6175,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$36 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -5816,6 +6184,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='448F8753-26E0-4337-98B2-743761686DBC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='448F8753-26E0-4337-98B2-743761686DBC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='448F8753-26E0-4337-98B2-743761686DBC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='448F8753-26E0-4337-98B2-743761686DBC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='448F8753-26E0-4337-98B2-743761686DBC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='448F8753-26E0-4337-98B2-743761686DBC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='448F8753-26E0-4337-98B2-743761686DBC' id='FORM-448F8753-26E0-4337-98B2-743761686DBC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-448F8753-26E0-4337-98B2-743761686DBC'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6423,7 +6822,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>AFE5DE8A-41A6-495C-A5F6-FAD016E34EBE</p>
 </div>
@@ -6431,7 +6830,7 @@ TODOANSWER
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6723,7 +7122,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D10B5BCC-4BF2-491C-B08F-0024C61C3BD1</p>
 </div>
@@ -6731,7 +7130,7 @@ TODOANSWER
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6759,36 +7158,55 @@ Calculate the total area **of the paths**.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown.
+Show the length of rectangle $43 \ \text {cm}$ and width $112 \ \text {cm}$.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Total area of the path}          &= \text {Total Area} - 6 \times \text {Area of tennis court}  \\\\
+                                        &= 43 \times 112 - 6 \times (20 \times 36) \\\\
+                                        &= 4816 - 4320 \\\\
+                                        &= 496 \ \text {cm}^2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$496 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown.
+Show the length of rectangle $43 \ \text {cm}$ and width $112 \ \text {cm}$.*
+rtq_abbr_md_add_drawing_ends
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Total area of the path}          &= \text {Total Area} - 6 \times \text {Area of tennis court}  \\\\
+                                        &= 43 \times 112 - 6 \times (20 \times 36) \\\\
+                                        &= 4816 - 4320 \\\\
+                                        &= 496 \ \text {cm}^2
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6800,22 +7218,43 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$496 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D10B5BCC-4BF2-491C-B08F-0024C61C3BD1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D10B5BCC-4BF2-491C-B08F-0024C61C3BD1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D10B5BCC-4BF2-491C-B08F-0024C61C3BD1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D10B5BCC-4BF2-491C-B08F-0024C61C3BD1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D10B5BCC-4BF2-491C-B08F-0024C61C3BD1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D10B5BCC-4BF2-491C-B08F-0024C61C3BD1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D10B5BCC-4BF2-491C-B08F-0024C61C3BD1' id='FORM-D10B5BCC-4BF2-491C-B08F-0024C61C3BD1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D10B5BCC-4BF2-491C-B08F-0024C61C3BD1'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -7050,7 +7489,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>70639704-5F13-4EE9-A96D-D870849ED492</p>
 </div>
@@ -7058,7 +7497,7 @@ TODOANSWER
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7674,7 +8113,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>73C0C725-8B54-46A2-9717-8E573ACE7321</p>
 </div>
@@ -7682,7 +8121,7 @@ $
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7708,36 +8147,85 @@ What is the area of the shaded part of the rectangle below?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Show the diagram with two triangle marked as triangle 1 and triangle 2.
+Also show base of first triangle a and second triangle b*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+
+Let the base of the first triangle $= a$
+
+Let the base of the first triangle $= b$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of the shaded part}         &= \text {Rectangle} - (\text {Triangle 1} + \text {Triangle 2}) \\\\
+                                        &= 6 \times 16 - (\dfrac {1} {2} \times a \times 6 + \dfrac {1} {2} \times b \times 6) \\\\ 
+                                        &= 6 \times 16 - \dfrac {1} {2} \times 6 \times (a + b) \\\\ 
+                                        &= 6 \times 16 - \dfrac {1} {2} \times 6 \times 16 \\\\ 
+                                        &= 6 \times 16 - \dfrac {6 \times 16} {2} \\\\ 
+                                        &= 6 \times 16 - \dfrac {2 \times 3 \times 16} {2} \\\\ 
+                                        &= 6 \times 16 - \dfrac {\cancel {2} \times 3 \times 16} {\cancel {2}} \\\\ 
+                                        &= 6 \times 16 - 3 \times 16 \\\\ 
+                                        &= 96 - 48 \\\\ 
+                                        &= 48 \ \text {cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$48 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram with two triangle marked as triangle 1 and triangle 2.
+Also show base of first triangle a and second triangle b*
+rtq_abbr_md_add_drawing_ends
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_katex_formula_area_triangle_expanded
+
+Let the base of the first triangle $= a$
+
+Let the base of the first triangle $= b$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of the shaded part}         &= \text {Rectangle} - (\text {Triangle 1} + \text {Triangle 2}) \\\\
+                                        &= 6 \times 16 - (\dfrac {1} {2} \times a \times 6 + \dfrac {1} {2} \times b \times 6) \\\\ 
+                                        &= 6 \times 16 - \dfrac {1} {2} \times 6 \times (a + b) \\\\ 
+                                        &= 6 \times 16 - \dfrac {1} {2} \times 6 \times 16 \\\\ 
+                                        &= 6 \times 16 - \dfrac {6 \times 16} {2} \\\\ 
+                                        &= 6 \times 16 - \dfrac {2 \times 3 \times 16} {2} \\\\ 
+                                        &= 6 \times 16 - \dfrac {\cancel {2} \times 3 \times 16} {\cancel {2}} \\\\ 
+                                        &= 6 \times 16 - 3 \times 16 \\\\ 
+                                        &= 96 - 48 \\\\ 
+                                        &= 48 \ \text {cm}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7749,22 +8237,43 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$48 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' id='FORM-73C0C725-8B54-46A2-9717-8E573ACE7321' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-73C0C725-8B54-46A2-9717-8E573ACE7321'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

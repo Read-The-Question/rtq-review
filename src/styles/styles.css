@@ -155,6 +155,12 @@ img {
     background-color: yellow;
 }
 
+.question_envelope.question.rag_prpcr {
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    /* background-color: lightgreen; */
+    background-color: tomato;
+}
+
 .question_envelope.question.rag_prcc {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
@@ -328,6 +334,13 @@ button.rag_prg {
 button.rag_prcr {
     padding: 20px 20px;
     background-color: yellow;
+}
+
+button.rag_prpcr {
+    padding: 20px 20px;
+    background-color: gold;
+    /* background-color: orangered; */
+    background-color: tomato;
 }
 
 

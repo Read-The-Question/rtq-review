@@ -1,373 +1,9 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-notstarted"
 title: "TopicPaper - Sequence - 4 - NOTSTARTED"
-date: 2022-07-03 16:39:49
+date: 2022-07-03 18:49:21
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>FC1FAB4D-6BD6-4D42-930F-0137334EBB1F</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:7</p>
-</div>
-<div class='rag'>
-<p>Abhay Kandpal</p>
-</div>
-<div class='rag'>
-<p>rag_ak_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next two terms in each of the following sequences: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$5$, $11$, $17$, $23, \ldots, \ldots$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$52$, $45$, $38$, $31, \ldots, \ldots$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$1$, $2$, $4$, $8, \ldots, \ldots$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$3$, $8$, $15$, $24, \ldots, \ldots$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -400,36 +36,21 @@ For each of the sequences write down the next three terms
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -441,17 +62,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -466,36 +77,91 @@ $3  \quad 7 \quad  11 \quad 15 \quad  19 \quad  \ldots \quad   \ldots \quad   \l
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}  \\
+3,  &&    7,  &&  11,  &&   15,  &&   19,  && \ldots,  && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 19 + 4 \\\\
+                                &= 23 \\\\
+\text {Second missing number}   &= 23 + 4 \\\\
+                                &= 27 \\\\
+\text {Third missing number}    &= 27 + 4 \\\\
+                                &= 31
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$23$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$27$
+
+</div>
+<div class='answer'>
+
+$31$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info{(+4)}}
+&&  \footnotesize{\rtq_katex_color_info{(+4)}}
+&&  \footnotesize{\rtq_katex_color_info{(+4)}}
+&&  \footnotesize{\rtq_katex_color_info{(+4)}}
+&&  \footnotesize{\rtq_katex_color_info{(+4)}}
+&&  \footnotesize{\rtq_katex_color_info{(+4)}}
+&&  \footnotesize{\rtq_katex_color_info{(+4)}}  \\
+3,  &&    7,  &&  11,  &&   15,  &&   19,  && \ldots,  && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 19 + 4 \\\\
+                                &= 23 \\\\
+\text {Second missing number}   &= 23 + 4 \\\\
+                                &= 27 \\\\
+\text {Third missing number}    &= 27 + 4 \\\\
+                                &= 31
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -507,7 +173,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$23$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -517,7 +183,17 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$27$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$31$
 </code></pre>
 </div>
 </div>
@@ -534,36 +210,87 @@ $8 \quad  17 \quad  35 \quad  71 \quad  143 \quad  \ldots \quad   \ldots \quad  
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+18)}}
+&&  \footnotesize{\maroonC
+{(+36)}}
+&&  \footnotesize{\maroonC
+{(+72)}}
+&&  \footnotesize{\maroonC
+{(+144)}}
+&&  \footnotesize{\maroonC
+{(+288)}}
+&&  \footnotesize{\maroonC
+{(+576)}}  \\
+8,  &&    17,  &&  35,  &&   71,  &&   143,  && \ldots,  && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 143 + 144 \\\\
+                                &= 287 \\\\
+\text {Second missing number}   &= 287 + 288 \\\\
+                                &= 575 \\\\
+\text {Third missing number}    &= 575 + 576 \\\\
+                                &= 1151
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$287$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$575$
+
+</div>
+<div class='answer'>
+
+$1151$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info{(+9)}}
+&&  \footnotesize{\rtq_katex_color_info{(+18)}}
+&&  \footnotesize{\rtq_katex_color_info{(+36)}}
+&&  \footnotesize{\rtq_katex_color_info{(+72)}}
+&&  \footnotesize{\rtq_katex_color_info{(+144)}}
+&&  \footnotesize{\rtq_katex_color_info{(+288)}}
+&&  \footnotesize{\rtq_katex_color_info{(+576)}}  \\
+8,  &&    17,  &&  35,  &&   71,  &&   143,  && \ldots,  && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 143 + 144 \\\\
+                                &= 287 \\\\
+\text {Second missing number}   &= 287 + 288 \\\\
+                                &= 575 \\\\
+\text {Third missing number}    &= 575 + 576 \\\\
+                                &= 1151
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -575,7 +302,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$287$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -585,7 +312,17 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$575$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1151$
 </code></pre>
 </div>
 </div>
@@ -605,18 +342,8 @@ $\dfrac {2} {3} \quad   \dfrac {3} {5} \quad   \dfrac {5} {7} \quad  \dfrac {7} 
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -629,23 +356,8 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -665,302 +377,6 @@ TODOANSWER
 <div class='question subquestion'>
 
 $11  \quad 24 \quad  46 \quad  86 \quad  162 \quad  \ldots \quad   \ldots \quad  \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>97F518A1-3F2A-44F1-9B06-0F4ACCD85DE9</p>
-</div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:26</p>
-</div>
-<div class='rag'>
-<p>Abhay Kandpal</p>
-</div>
-<div class='rag'>
-<p>rag_ak_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the next number in each of the lists below 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-3  7   11  15  19   ……… 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-4  9  16  25  36   ………
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-23   19   13  5   -5  ……… 
 
 </div>
 <div class='workings'>

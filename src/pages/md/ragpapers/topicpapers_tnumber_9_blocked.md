@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-blocked"
 title: "TopicPaper - Number - 9 - BLOCKED"
-date: 2022-07-03 15:30:49
+date: 2022-07-03 16:39:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -36,7 +36,8 @@ What is the smallest number that $2, 3$ and $4$ all divide into exactly?
 <div class='workings'>
 <div class='working'>
 
-rtq_abbr_md_lcm_note
+The smallest number that  all divide into exactly is the LCM of the numbers.
+
 
 LCM of $2$, $3$ and $4 = 12$.
 

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-17"
 title: "TopicPaper - Number - 17"
-date: 2022-07-03 21:01:32
+date: 2022-07-03 23:17:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-03 21:01:32
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C89BE88B-D6EA-4F33-A8C3-496597C6989A</p>
 </div>
@@ -26,10 +26,10 @@ date: 2022-07-03 21:01:32
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g0</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -56,41 +56,62 @@ Four of these numbers can make two pairs so that each pair adds up to $5871$. Wh
 <div class='workings'>
 <div class='working'>
 
-$1917 + 3954 = 5871$
+Two pairs are $=1917, 3954$ and $3008, 2863$
 
-$3008 + 2863 = 5871$
+Let's verify.
 
-Odd one : $2743$
+$
+\begin{aligned}
+&= 1917 + 3954 \\\\
+&= 5871 \\\\
+&= 3008 + 2863 \\\\
+&= 5871
+\end{aligned}
+$
+
+Odd one $= 2743$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
-**B** $2743$ 
+$2743$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1917 + 3954 = 5871$
+<pre class='language-latex'><code class='language-latex'>Two pairs are $=1917, 3954$ and $3008, 2863$
 
-$3008 + 2863 = 5871$
+Let's verify.
 
-Odd one : $2743$
+$
+\begin{aligned}
+&= 1917 + 3954 \\\\
+&= 5871 \\\\
+&= 3008 + 2863 \\\\
+&= 5871
+\end{aligned}
+$
+
+Odd one $= 2743$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>B</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>**B** $2743$ 
+<pre class='language-latex'><code class='language-latex'>$2743$
 </code></pre>
 </div>
 </div>
@@ -99,29 +120,29 @@ Odd one : $2743$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' id='FORM-C89BE88B-D6EA-4F33-A8C3-496597C6989A' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' id='FORM-C89BE88B-D6EA-4F33-A8C3-496597C6989A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -996,7 +1017,7 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
 </div>
@@ -1007,10 +1028,10 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g0</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1037,50 +1058,28 @@ Exactly one of these statements is correct. Which one?
 <div class='workings'>
 <div class='working'>
 
-**A**
-
 $
 \begin{aligned}
-&= 43^2+ 56^2 \\\\
-&= 1849 + 3136 \\\\
-&= \red
-{4985} \ \cancel {=} \ 4981
+\text{A}    &= 43^2+ 56^2 \\\\
+            &= 1849 + 3136 \\\\
+            &= \red
+{4985} \neq 4981 \\\\
+\text{B}    &= 55^2 + 66^2 \\\\
+            &= 3025 + 4356 \\\\
+            &= \red
+{7381} \neq 7387 \\\\
+\text{C}    &= 77^2+ 22^2 \\\\
+            &= 5929 + 484 \\\\
+            &= \red
+{6413}  \neq 6415 \\\\
+\text{D}    &= 44^2+ 63^2 \\\\
+            &= 1936 + 3969 \\\\
+            &= \green
+{5905}
 \end{aligned}
 $
 
-**B**
-
-$
-\begin{aligned}
-&= 55^2 + 66^2 \\\\
-&= 3025 + 4356 \\\\
-&= \red
-{7381}  \ \cancel {=} \ 7387
-\end{aligned}
-$
-
-**C**
-
-$
-\begin{aligned}
-&= 77^2+ 22^2 \\\\
-&= 5929 + 484 \\\\
-&= \red
-{6413}  \ \cancel {=} \ 6415
-\end{aligned}
-$
-
-**D**
-
-$
-\begin{aligned}
-&= 44^2+ 63^2 \\\\
-&= 1936 + 3969 \\\\
-&= 5905
-\end{aligned}
-$
-
-Statement D is correct.
+Correct statement $= \text{D}$
 
 </div>
 </div>
@@ -1094,47 +1093,24 @@ D
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>**A**
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 43^2+ 56^2 \\\\
-&= 1849 + 3136 \\\\
-&= \rtq_katex_color_wrong_answer{4985} \ \cancel {=} \ 4981
+\text{A}    &= 43^2+ 56^2 \\\\
+            &= 1849 + 3136 \\\\
+            &= \rtq_katex_color_wrong_answer{4985} \neq 4981 \\\\
+\text{B}    &= 55^2 + 66^2 \\\\
+            &= 3025 + 4356 \\\\
+            &= \rtq_katex_color_wrong_answer{7381} \neq 7387 \\\\
+\text{C}    &= 77^2+ 22^2 \\\\
+            &= 5929 + 484 \\\\
+            &= \rtq_katex_color_wrong_answer{6413}  \neq 6415 \\\\
+\text{D}    &= 44^2+ 63^2 \\\\
+            &= 1936 + 3969 \\\\
+            &= \rtq_katex_color_answer{5905}
 \end{aligned}
 $
 
-**B**
-
-$
-\begin{aligned}
-&= 55^2 + 66^2 \\\\
-&= 3025 + 4356 \\\\
-&= \rtq_katex_color_wrong_answer{7381}  \ \cancel {=} \ 7387
-\end{aligned}
-$
-
-**C**
-
-$
-\begin{aligned}
-&= 77^2+ 22^2 \\\\
-&= 5929 + 484 \\\\
-&= \rtq_katex_color_wrong_answer{6413}  \ \cancel {=} \ 6415
-\end{aligned}
-$
-
-**D**
-
-$
-\begin{aligned}
-&= 44^2+ 63^2 \\\\
-&= 1936 + 3969 \\\\
-&= 5905
-\end{aligned}
-$
-
-Statement D is correct.
+Correct statement $= \text{D}$
 </code></pre>
 </div>
 </div>
@@ -1155,29 +1131,29 @@ Statement D is correct.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' id='FORM-57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='57C9979B-2ACE-4BAF-8E7F-AC51C6373882' id='FORM-57C9979B-2ACE-4BAF-8E7F-AC51C6373882' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3717,7 +3693,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4</p>
 </div>
@@ -3731,7 +3707,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3793,6 +3769,19 @@ $2, \qquad 5 \ 000, \qquad  \boxed {50 \ 000}, \qquad 2 \ 000, \qquad 200, \qqua
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Do it similar to E588B3E3-4F4F-478B-BFDF-D75E8651A7A3.
+
+
+
+First write number and then show working says lets verify 
+</div>
 
 <div class='review'>
 <ul class='review'>

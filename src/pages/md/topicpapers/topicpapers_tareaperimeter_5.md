@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-5"
 title: "TopicPaper - Areaperimeter - 5"
-date: 2022-07-03 18:49:21
+date: 2022-07-03 21:01:32
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-03 18:49:21
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6E58F8FA-31E6-4646-BF9D-0281F0604D60</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-07-03 18:49:21
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -54,36 +54,71 @@ Diagram not drawn to scale
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: add a diagram with shaded triangles marked as 1 and 2 along with the measurements.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Unshaded Area}        &= \text {Rectangle} - \text {Triangle 1} - \text {Triangle 2} \\\\
+                             &= 6 \times 15 - \dfrac {1} {2} \times 5 \times 6 - \dfrac {1} {2} \times 10 \times 6 \\\\
+                             &= 6 \times 15 - \dfrac {5 \times 6 } {2} - \dfrac {10 \times 6} {2} \\\\
+                             &= 6 \times 15 - \dfrac {5 \times 2 \times 3 } {2} - \dfrac {2 \times 5 \times 6} {2} \\\\
+                             &= 6 \times 15 - \dfrac {5 \times \cancel {2} \times 3 } {\cancel {2}} - \dfrac {\cancel {2} \times 5 \times 6} {\cancel {2}} \\\\
+                             &= 6 \times 15 - 5 \times 3 - 5 \times 6 \\\\
+                             &= 90 - 15 - 30 \\\\
+                             &= 45 \ \text {cm} ^ 2
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$45 \ \text {cm} ^ 2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: add a diagram with shaded triangles marked as 1 and 2 along with the measurements.*
+rtq_abbr_md_add_drawing_ends
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_katex_formula_area_triangle_expanded
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Unshaded Area}        &= \text {Rectangle} - \text {Triangle 1} - \text {Triangle 2} \\\\
+                             &= 6 \times 15 - \dfrac {1} {2} \times 5 \times 6 - \dfrac {1} {2} \times 10 \times 6 \\\\
+                             &= 6 \times 15 - \dfrac {5 \times 6 } {2} - \dfrac {10 \times 6} {2} \\\\
+                             &= 6 \times 15 - \dfrac {5 \times 2 \times 3 } {2} - \dfrac {2 \times 5 \times 6} {2} \\\\
+                             &= 6 \times 15 - \dfrac {5 \times \cancel {2} \times 3 } {\cancel {2}} - \dfrac {\cancel {2} \times 5 \times 6} {\cancel {2}} \\\\
+                             &= 6 \times 15 - 5 \times 3 - 5 \times 6 \\\\
+                             &= 90 - 15 - 30 \\\\
+                             &= 45 \ \text {cm} ^ 2
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -95,22 +130,46 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$45 \ \text {cm} ^ 2$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' id='FORM-6E58F8FA-31E6-4646-BF9D-0281F0604D60' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6E58F8FA-31E6-4646-BF9D-0281F0604D60'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2646,7 +2705,7 @@ step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>031D794E-5978-4206-9059-995FC698CDE6</p>
 </div>
@@ -2657,7 +2716,7 @@ step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2732,19 +2791,30 @@ Find the width of one cube, in cm.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Volume} = \text{side} ^ { 3 }$
 
-Total volume of the solid $= 56 \text {cm}^3$ 
 
-volume of one cube $=8 \text{cm}^3 $ 
+Let the width of one cube $= w$
 
-So,width of one cube is,
+As per the question,
+
+Number of cubes $= 7$
+
 $
 \begin{aligned}
-&= \sqrt{8} \\\\
-&= 2 \\\\
-&= 2 \text {cm}
+\text {Total Volume}            &= 56 \\\\
+7 \times w^3                    &= 56 \\\\
+7w^3                            &= 56 \\\\
+w^3                             &= \dfrac {56} {7} \\\\
+w^3                             &= \dfrac {7 \times 8} {7} \\\\
+w^3                             &= \dfrac {\cancel {7} \times 8} {\cancel {7}} \\\\
+w^3                             &= 8 \\\\
+w                               &= \sqrt[3] {8} \\\\
+w                               &= 2 \ \text {cm}
 \end{aligned}
 $
+
+Width of one cube is $2 \ \text {cm}$.
 
 </div>
 </div>
@@ -2758,19 +2828,29 @@ $2 \text {cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-Total volume of the solid $= 56 \text {cm}^3$ 
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_volume_cube
 
-volume of one cube $=8 \text{cm}^3 $ 
+Let the width of one cube $= w$
 
-So,width of one cube is,
+As per the question,
+
+Number of cubes $= 7$
+
 $
 \begin{aligned}
-&= \sqrt{8} \\\\
-&= 2 \\\\
-&= 2 \text {cm}
+\text {Total Volume}            &= 56 \\\\
+7 \times w^3                    &= 56 \\\\
+7w^3                            &= 56 \\\\
+w^3                             &= \dfrac {56} {7} \\\\
+w^3                             &= \dfrac {7 \times 8} {7} \\\\
+w^3                             &= \dfrac {\cancel {7} \times 8} {\cancel {7}} \\\\
+w^3                             &= 8 \\\\
+w                               &= \sqrt[3] {8} \\\\
+w                               &= 2 \ \text {cm}
 \end{aligned}
 $
+
+Width of one cube is $2 \ \text {cm}$.
 </code></pre>
 </div>
 </div>
@@ -2802,13 +2882,18 @@ Find the total surface of the solid, in $cm^2$.
 <div class='workings'>
 <div class='working'>
 
-Total surface area of one cube $=24 \text {cm}^2}
+ABBR: $\text{Surface area of cube} = 6 \times \text{edge} \times \text{edge}$
 
-So, Total surface of the solid is,
+
+As per the diagram,
+
 $
 \begin{aligned}
-&= 24 \times 6 \\\\
-&= 144 \text {cm}^2
+\text {Surface area of one cube}    &= 6 \times 2 \times 2 \\\\
+                                    &= 6 \times 4 \\\\
+                                    &= 24 \ \text {cm}^2 \\\\
+\text {Total Surface Area}          &= 6 \times 24 \\\\
+                                    &= 144 \text {cm}^2
 \end{aligned}
 $
 
@@ -2824,13 +2909,17 @@ $144 \text {cm}^2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Total surface area of one cube $=24 \text {cm}^2}
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
 
-So, Total surface of the solid is,
+As per the diagram,
+
 $
 \begin{aligned}
-&= 24 \times 6 \\\\
-&= 144 \text {cm}^2
+\text {Surface area of one cube}    &= 6 \times 2 \times 2 \\\\
+                                    &= 6 \times 4 \\\\
+                                    &= 24 \ \text {cm}^2 \\\\
+\text {Total Surface Area}          &= 6 \times 24 \\\\
+                                    &= 144 \text {cm}^2
 \end{aligned}
 $
 </code></pre>
@@ -2852,7 +2941,46 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+we are not supposed to solve tvolume change rag to amber or red
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' id='FORM-031D794E-5978-4206-9059-995FC698CDE6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-031D794E-5978-4206-9059-995FC698CDE6'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4583,9 +4711,12 @@ Work out the missing length.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-$\text{Area} = \text{length} \times \text{width}$
+
+Let the length of 
+
+As per the question,
 
 $
 \begin{aligned}
@@ -4619,9 +4750,11 @@ $10 \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
 
-$\text{Area} = \text{length} \times \text{width}$
+Let the length of 
+
+As per the question,
 
 $
 \begin{aligned}
@@ -4662,7 +4795,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C9FC1C48-8736-4864-B73E-9615A9F76F7E</p>
 </div>
@@ -4673,7 +4806,7 @@ $
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4696,26 +4829,31 @@ A rectangular room is twice as long as it is wide. The perimeter of the room is 
 <div class='workings'>
 <div class='working'>
 
-Let the width of rectangle $= a$
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+Let the width of room $= a$
+
+Length of the room $= 2a$
 
 As per the question,
 
-Length of the rectangle $= 2a$
-
 $
 \begin{aligned}
-\text{Perimeter of rectangle}       &= 2 \times (\text{Length} + \text{Width}) \\\\
-36 \text{m}                         &= 2 \times (2a + a) \\\\
-36                                  &= 2 \times 3a \\\\
-36                                  &= 6a \\\\
-\dfrac{36}{6}                       &= a \\\\
-\dfrac{6 \times 6}{6}               &= a \\\\
-\dfrac{6 \times \cancel{6}}{\cancel{6}} &= a \\\\
-a                                   &= 6 \ \text{m}
+2 \times (2a + a)                   &= 36 \\\\
+2 \times 3a                         &= 36 \\\\
+6a                                  &= 36 \\\\
+a                                   &= \dfrac {36} {6} \\\\
+a                                   &= \dfrac {6 \times 6} {6} \\\\
+a                                   &= \dfrac {\cancel {6} \times 6} {\cancel {6}} \\\\
+a                                   &= 6 \ \text {m} \\\\
+\text {Length of the rectangle}     &= 2a \\\\
+                                    &= 2 \times 6 \\\\ 
+                                    &= 12 \ \text{m}
 \end{aligned}
 $
 
-Length of the rectangle $= 2a = 2 \times 6 = 12 \ \text{m}$
+
 
 </div>
 </div>
@@ -4729,26 +4867,30 @@ $12 \ \text{m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the width of rectangle $= a$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+Let the width of room $= a$
+
+Length of the room $= 2a$
 
 As per the question,
 
-Length of the rectangle $= 2a$
-
 $
 \begin{aligned}
-\text{Perimeter of rectangle}       &= 2 \times (\text{Length} + \text{Width}) \\\\
-36 \text{m}                         &= 2 \times (2a + a) \\\\
-36                                  &= 2 \times 3a \\\\
-36                                  &= 6a \\\\
-\dfrac{36}{6}                       &= a \\\\
-\dfrac{6 \times 6}{6}               &= a \\\\
-\dfrac{6 \times \cancel{6}}{\cancel{6}} &= a \\\\
-a                                   &= 6 \ \text{m}
+2 \times (2a + a)                   &= 36 \\\\
+2 \times 3a                         &= 36 \\\\
+6a                                  &= 36 \\\\
+a                                   &= \dfrac {36} {6} \\\\
+a                                   &= \dfrac {6 \times 6} {6} \\\\
+a                                   &= \dfrac {\cancel {6} \times 6} {\cancel {6}} \\\\
+a                                   &= 6 \ \text {m} \\\\
+\text {Length of the rectangle}     &= 2a \\\\
+                                    &= 2 \times 6 \\\\ 
+                                    &= 12 \ \text{m}
 \end{aligned}
 $
 
-Length of the rectangle $= 2a = 2 \times 6 = 12 \ \text{m}$
+
 </code></pre>
 </div>
 </div>
@@ -4766,10 +4908,44 @@ Length of the rectangle $= 2a = 2 \times 6 = 12 \ \text{m}$
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' id='FORM-C9FC1C48-8736-4864-B73E-9615A9F76F7E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C9FC1C48-8736-4864-B73E-9615A9F76F7E'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C0550FA4-3C39-429E-84BB-90239E5C8FE3</p>
 </div>
@@ -4780,7 +4956,7 @@ Length of the rectangle $= 2a = 2 \times 6 = 12 \ \text{m}$
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4805,21 +4981,20 @@ If the field measures $100 \ \text{m}$ by $60 \ \text{m}$, how many posts are ne
 <div class='workings'>
 <div class='working'>
 
-Perimeter of the rectangular field  $= 2 \times (length + width)$
-                                    $= 2 \times (100 + 60)$
-                                    $= 2 \times 160$
-                                    $= 320 \ \text{m}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-Distance between post $= 5 \ \text{m}$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Number of posts}      &= \dfrac{\text{Perimeter of the field}}{\text{Distance between post}} \\\\
-                            &= \dfrac{320}{5} \\\\
-                            &= \dfrac{64 \times 5}{5} \\\\
-                            &= \dfrac{64 \times \cancel{5}}{\cancel{5}} \\\\
-                            &= 64 \\\\
-\text{Number of posts}      &= 64
+\text{Number of posts}      &= \dfrac {\text {Perimeter of the field}} {\text{Distance between post}} \\\\
+                            &= \dfrac {2 \times (100 + 60)} {5} \\\\
+                            &= \dfrac {2 \times 160} {5} \\\\
+                            &= \dfrac {320} {5} \\\\
+                            &= \dfrac {64 \times 5} {5} \\\\
+                            &= \dfrac{64 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 64
 \end{aligned}
 $
 
@@ -4835,21 +5010,19 @@ $64$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Perimeter of the rectangular field  $= 2 \times (length + width)$
-                                    $= 2 \times (100 + 60)$
-                                    $= 2 \times 160$
-                                    $= 320 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
 
-Distance between post $= 5 \ \text{m}$
+As per the question,
 
 $
 \begin{aligned}
-\text{Number of posts}      &= \dfrac{\text{Perimeter of the field}}{\text{Distance between post}} \\\\
-                            &= \dfrac{320}{5} \\\\
-                            &= \dfrac{64 \times 5}{5} \\\\
-                            &= \dfrac{64 \times \cancel{5}}{\cancel{5}} \\\\
-                            &= 64 \\\\
-\text{Number of posts}      &= 64
+\text{Number of posts}      &= \dfrac {\text {Perimeter of the field}} {\text{Distance between post}} \\\\
+                            &= \dfrac {2 \times (100 + 60)} {5} \\\\
+                            &= \dfrac {2 \times 160} {5} \\\\
+                            &= \dfrac {320} {5} \\\\
+                            &= \dfrac {64 \times 5} {5} \\\\
+                            &= \dfrac{64 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 64
 \end{aligned}
 $
 </code></pre>
@@ -4869,6 +5042,40 @@ $
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' id='FORM-C0550FA4-3C39-429E-84BB-90239E5C8FE3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C0550FA4-3C39-429E-84BB-90239E5C8FE3'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4908,8 +5115,8 @@ What is the width of the room if the length is $5 \ \text{m}$?
 <div class='workings'>
 <div class='working'>
 
-Area of the carpet  $= \text{length of carpet} \times \text{width of carpet}$
-                    $= 4 \times 3 = 12 \ \text{m}^2$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 Let the width of the room $= w \ \text{m}$
 
@@ -4918,16 +5125,16 @@ As per the question,
 $
 \begin{aligned}
 \text{Area of carpet}       &= 60\% \ \text{of Area of the room} \\\\
-12                          &= \dfrac{60}{100} \times (\text{length of room} \times \text{width of the room}) \\\\
-12                          &= \dfrac{60}{100} \times (5 \times w) \\\\
-12                          &= \dfrac{60 \times 5 \times w}{100} \\\\\
-12                          &= \dfrac{20 \times 3 \times 5 \times w}{20 \times 5} \\\\\
-12                          &= \dfrac{\cancel{20} \times 3 \times \cancel{5} \times w}{\cancel{20} \times \cancel{5}} \\\\\
+4 \times 3                  &= \dfrac {60} {100} \times (5 \times w) \\\\
+12                          &= \dfrac {60 \times 5 \times w} {100} \\\\\
+12                          &= \dfrac {20 \times 3 \times 5 \times w} {20 \times 5} \\\\\
+12                          &= \dfrac {\cancel{20} \times 3 \times \cancel{5} \times w} {\cancel{20} \times \cancel{5}} \\\\\
 12                          &= 3 \times w \\\\
-3 \times w                  &= 12 \\\\
-w                           &= \dfrac{12}{3} \\\\
-w                           &= \dfrac{4 \times 3}{3} \\\\
-w                           &= \dfrac{4 \times \cancel{3}}{\cancel{3}} \\\\
+12                          &= 3w \\\\
+3w                          &= 12 \\\\
+w                           &= \dfrac {12} {3} \\\\
+w                           &= \dfrac {4 \times 3} {3} \\\\
+w                           &= \dfrac {4 \times \cancel{3}} {\cancel{3}} \\\\
 w                           &= 4 \ \text{m} \\\\
 \text{Width of carpet}      &= 4 \ \text{m}
 \end{aligned}
@@ -4945,8 +5152,7 @@ $4 \ \text{m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Area of the carpet  $= \text{length of carpet} \times \text{width of carpet}$
-                    $= 4 \times 3 = 12 \ \text{m}^2$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
 
 Let the width of the room $= w \ \text{m}$
 
@@ -4955,16 +5161,16 @@ As per the question,
 $
 \begin{aligned}
 \text{Area of carpet}       &= 60\% \ \text{of Area of the room} \\\\
-12                          &= \dfrac{60}{100} \times (\text{length of room} \times \text{width of the room}) \\\\
-12                          &= \dfrac{60}{100} \times (5 \times w) \\\\
-12                          &= \dfrac{60 \times 5 \times w}{100} \\\\\
-12                          &= \dfrac{20 \times 3 \times 5 \times w}{20 \times 5} \\\\\
-12                          &= \dfrac{\cancel{20} \times 3 \times \cancel{5} \times w}{\cancel{20} \times \cancel{5}} \\\\\
+4 \times 3                  &= \dfrac {60} {100} \times (5 \times w) \\\\
+12                          &= \dfrac {60 \times 5 \times w} {100} \\\\\
+12                          &= \dfrac {20 \times 3 \times 5 \times w} {20 \times 5} \\\\\
+12                          &= \dfrac {\cancel{20} \times 3 \times \cancel{5} \times w} {\cancel{20} \times \cancel{5}} \\\\\
 12                          &= 3 \times w \\\\
-3 \times w                  &= 12 \\\\
-w                           &= \dfrac{12}{3} \\\\
-w                           &= \dfrac{4 \times 3}{3} \\\\
-w                           &= \dfrac{4 \times \cancel{3}}{\cancel{3}} \\\\
+12                          &= 3w \\\\
+3w                          &= 12 \\\\
+w                           &= \dfrac {12} {3} \\\\
+w                           &= \dfrac {4 \times 3} {3} \\\\
+w                           &= \dfrac {4 \times \cancel{3}} {\cancel{3}} \\\\
 w                           &= 4 \ \text{m} \\\\
 \text{Width of carpet}      &= 4 \ \text{m}
 \end{aligned}
@@ -5220,7 +5426,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5115612D-9C06-4F91-9D07-E0E41EA82030</p>
 </div>
@@ -5231,7 +5437,7 @@ $
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5353,11 +5559,14 @@ Find the area of the triangle
 ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
+As per the question,
+
 $
 \begin{aligned}
-\text{area} &=  \dfrac{1}{2} \times 2 \times 3 \\\\ 
-&=  \dfrac{1}{ \cancel 2} \times \cancel 2 \times 3 \\\\ 
-&=  3 \ \text{units}^2
+\text{Area}     &= \dfrac {1} {2} \times 2 \times 3 \\\\ 
+                &= \dfrac {2 \times 3} {2} \\\\ 
+                &= \dfrac {\cancel {2}} \times 3} {\cancel {2}} \\\\ 
+                &= 3 \ \text{units}^2
 \end{aligned}
 $
 
@@ -5366,7 +5575,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-3 \ \text{units}^2
+$3 \ \text{units}^2$
 
 </div>
 </div>
@@ -5375,11 +5584,14 @@ $
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
 
+As per the question,
+
 $
 \begin{aligned}
-\text{area} &=  \dfrac{1}{2} \times 2 \times 3 \\\\ 
-&=  \dfrac{1}{ \cancel 2} \times \cancel 2 \times 3 \\\\ 
-&=  3 \ \text{units}^2
+\text{Area}     &= \dfrac {1} {2} \times 2 \times 3 \\\\ 
+                &= \dfrac {2 \times 3} {2} \\\\ 
+                &= \dfrac {\cancel {2}} \times 3} {\cancel {2}} \\\\ 
+                &= 3 \ \text{units}^2
 \end{aligned}
 $
 </code></pre>
@@ -5393,7 +5605,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>3 \ \text{units}^2
+<pre class='language-latex'><code class='language-latex'>$3 \ \text{units}^2$
 </code></pre>
 </div>
 </div>
@@ -5446,7 +5658,46 @@ Reflect the triangle in the x-axis and label your shape $B$.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+tgraph
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' id='FORM-5115612D-9C06-4F91-9D07-E0E41EA82030' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5115612D-9C06-4F91-9D07-E0E41EA82030'>Initial</p>
+</div>
 </div>
 </li>
 <li>

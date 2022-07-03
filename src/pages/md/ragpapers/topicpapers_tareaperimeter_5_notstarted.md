@@ -1,108 +1,9 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-notstarted"
 title: "TopicPaper - Areaperimeter - 5 - NOTSTARTED"
-date: 2022-07-03 18:49:21
+date: 2022-07-03 21:01:32
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>6E58F8FA-31E6-4646-BF9D-0281F0604D60</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:15</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the area of the unshaded region in the diagram below.
-
-![missing image](/papers/missing_image.svg)
-
-
-Diagram not drawn to scale
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -502,216 +403,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
-<p>031D794E-5978-4206-9059-995FC698CDE6</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:15</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tvolume
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-One cube has each of its faces covered by one face of an identical cube, making a solid as shown.
-
-![missing image](/papers/missing_image.svg)
-
-
-The total volume of the solid is $56\,cm^3$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find the width of one cube, in cm.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Total volume of the solid $= 56 \text {cm}^3$ 
-
-volume of one cube $=8 \text{cm}^3 $ 
-
-So,width of one cube is,
-$
-\begin{aligned}
-&= \sqrt{8} \\\\
-&= 2 \\\\
-&= 2 \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \text {cm}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-Total volume of the solid $= 56 \text {cm}^3$ 
-
-volume of one cube $=8 \text{cm}^3 $ 
-
-So,width of one cube is,
-$
-\begin{aligned}
-&= \sqrt{8} \\\\
-&= 2 \\\\
-&= 2 \text {cm}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2 \text {cm}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find the total surface of the solid, in $cm^2$.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total surface area of one cube $=24 \text {cm}^2}
-
-So, Total surface of the solid is,
-$
-\begin{aligned}
-&= 24 \times 6 \\\\
-&= 144 \text {cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$144 \text {cm}^2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Total surface area of one cube $=24 \text {cm}^2}
-
-So, Total surface of the solid is,
-$
-\begin{aligned}
-&= 24 \times 6 \\\\
-&= 144 \text {cm}^2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$144 \text {cm}^2$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
 <p>64CC096E-602F-4563-9D0B-C17332B52F8D</p>
 </div>
 <div class='papername'>
@@ -842,9 +533,12 @@ Work out the missing length.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-$\text{Area} = \text{length} \times \text{width}$
+
+Let the length of 
+
+As per the question,
 
 $
 \begin{aligned}
@@ -878,9 +572,11 @@ $10 \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
 
-$\text{Area} = \text{length} \times \text{width}$
+Let the length of 
+
+As per the question,
 
 $
 \begin{aligned}
@@ -913,216 +609,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$10 \ \text{cm}$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>C9FC1C48-8736-4864-B73E-9615A9F76F7E</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:17</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A rectangular room is twice as long as it is wide. The perimeter of the room is $36 \ \text{m}$. What is the length of the room?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the width of rectangle $= a$
-
-As per the question,
-
-Length of the rectangle $= 2a$
-
-$
-\begin{aligned}
-\text{Perimeter of rectangle}       &= 2 \times (\text{Length} + \text{Width}) \\\\
-36 \text{m}                         &= 2 \times (2a + a) \\\\
-36                                  &= 2 \times 3a \\\\
-36                                  &= 6a \\\\
-\dfrac{36}{6}                       &= a \\\\
-\dfrac{6 \times 6}{6}               &= a \\\\
-\dfrac{6 \times \cancel{6}}{\cancel{6}} &= a \\\\
-a                                   &= 6 \ \text{m}
-\end{aligned}
-$
-
-Length of the rectangle $= 2a = 2 \times 6 = 12 \ \text{m}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12 \ \text{m}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the width of rectangle $= a$
-
-As per the question,
-
-Length of the rectangle $= 2a$
-
-$
-\begin{aligned}
-\text{Perimeter of rectangle}       &= 2 \times (\text{Length} + \text{Width}) \\\\
-36 \text{m}                         &= 2 \times (2a + a) \\\\
-36                                  &= 2 \times 3a \\\\
-36                                  &= 6a \\\\
-\dfrac{36}{6}                       &= a \\\\
-\dfrac{6 \times 6}{6}               &= a \\\\
-\dfrac{6 \times \cancel{6}}{\cancel{6}} &= a \\\\
-a                                   &= 6 \ \text{m}
-\end{aligned}
-$
-
-Length of the rectangle $= 2a = 2 \times 6 = 12 \ \text{m}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$12 \ \text{m}$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>C0550FA4-3C39-429E-84BB-90239E5C8FE3</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:2</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fence posts are erected $5 \ \text{m}$ apart (with a post at each corner) to support fencing round a rectangular field. 
-
-If the field measures $100 \ \text{m}$ by $60 \ \text{m}$, how many posts are needed?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Perimeter of the rectangular field  $= 2 \times (length + width)$
-                                    $= 2 \times (100 + 60)$
-                                    $= 2 \times 160$
-                                    $= 320 \ \text{m}$
-
-Distance between post $= 5 \ \text{m}$
-
-$
-\begin{aligned}
-\text{Number of posts}      &= \dfrac{\text{Perimeter of the field}}{\text{Distance between post}} \\\\
-                            &= \dfrac{320}{5} \\\\
-                            &= \dfrac{64 \times 5}{5} \\\\
-                            &= \dfrac{64 \times \cancel{5}}{\cancel{5}} \\\\
-                            &= 64 \\\\
-\text{Number of posts}      &= 64
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$64$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Perimeter of the rectangular field  $= 2 \times (length + width)$
-                                    $= 2 \times (100 + 60)$
-                                    $= 2 \times 160$
-                                    $= 320 \ \text{m}$
-
-Distance between post $= 5 \ \text{m}$
-
-$
-\begin{aligned}
-\text{Number of posts}      &= \dfrac{\text{Perimeter of the field}}{\text{Distance between post}} \\\\
-                            &= \dfrac{320}{5} \\\\
-                            &= \dfrac{64 \times 5}{5} \\\\
-                            &= \dfrac{64 \times \cancel{5}}{\cancel{5}} \\\\
-                            &= 64 \\\\
-\text{Number of posts}      &= 64
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$64$
 </code></pre>
 </div>
 </div>
@@ -1167,8 +653,8 @@ What is the width of the room if the length is $5 \ \text{m}$?
 <div class='workings'>
 <div class='working'>
 
-Area of the carpet  $= \text{length of carpet} \times \text{width of carpet}$
-                    $= 4 \times 3 = 12 \ \text{m}^2$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 Let the width of the room $= w \ \text{m}$
 
@@ -1177,16 +663,16 @@ As per the question,
 $
 \begin{aligned}
 \text{Area of carpet}       &= 60\% \ \text{of Area of the room} \\\\
-12                          &= \dfrac{60}{100} \times (\text{length of room} \times \text{width of the room}) \\\\
-12                          &= \dfrac{60}{100} \times (5 \times w) \\\\
-12                          &= \dfrac{60 \times 5 \times w}{100} \\\\\
-12                          &= \dfrac{20 \times 3 \times 5 \times w}{20 \times 5} \\\\\
-12                          &= \dfrac{\cancel{20} \times 3 \times \cancel{5} \times w}{\cancel{20} \times \cancel{5}} \\\\\
+4 \times 3                  &= \dfrac {60} {100} \times (5 \times w) \\\\
+12                          &= \dfrac {60 \times 5 \times w} {100} \\\\\
+12                          &= \dfrac {20 \times 3 \times 5 \times w} {20 \times 5} \\\\\
+12                          &= \dfrac {\cancel{20} \times 3 \times \cancel{5} \times w} {\cancel{20} \times \cancel{5}} \\\\\
 12                          &= 3 \times w \\\\
-3 \times w                  &= 12 \\\\
-w                           &= \dfrac{12}{3} \\\\
-w                           &= \dfrac{4 \times 3}{3} \\\\
-w                           &= \dfrac{4 \times \cancel{3}}{\cancel{3}} \\\\
+12                          &= 3w \\\\
+3w                          &= 12 \\\\
+w                           &= \dfrac {12} {3} \\\\
+w                           &= \dfrac {4 \times 3} {3} \\\\
+w                           &= \dfrac {4 \times \cancel{3}} {\cancel{3}} \\\\
 w                           &= 4 \ \text{m} \\\\
 \text{Width of carpet}      &= 4 \ \text{m}
 \end{aligned}
@@ -1204,8 +690,7 @@ $4 \ \text{m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Area of the carpet  $= \text{length of carpet} \times \text{width of carpet}$
-                    $= 4 \times 3 = 12 \ \text{m}^2$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
 
 Let the width of the room $= w \ \text{m}$
 
@@ -1214,16 +699,16 @@ As per the question,
 $
 \begin{aligned}
 \text{Area of carpet}       &= 60\% \ \text{of Area of the room} \\\\
-12                          &= \dfrac{60}{100} \times (\text{length of room} \times \text{width of the room}) \\\\
-12                          &= \dfrac{60}{100} \times (5 \times w) \\\\
-12                          &= \dfrac{60 \times 5 \times w}{100} \\\\\
-12                          &= \dfrac{20 \times 3 \times 5 \times w}{20 \times 5} \\\\\
-12                          &= \dfrac{\cancel{20} \times 3 \times \cancel{5} \times w}{\cancel{20} \times \cancel{5}} \\\\\
+4 \times 3                  &= \dfrac {60} {100} \times (5 \times w) \\\\
+12                          &= \dfrac {60 \times 5 \times w} {100} \\\\\
+12                          &= \dfrac {20 \times 3 \times 5 \times w} {20 \times 5} \\\\\
+12                          &= \dfrac {\cancel{20} \times 3 \times \cancel{5} \times w} {\cancel{20} \times \cancel{5}} \\\\\
 12                          &= 3 \times w \\\\
-3 \times w                  &= 12 \\\\
-w                           &= \dfrac{12}{3} \\\\
-w                           &= \dfrac{4 \times 3}{3} \\\\
-w                           &= \dfrac{4 \times \cancel{3}}{\cancel{3}} \\\\
+12                          &= 3w \\\\
+3w                          &= 12 \\\\
+w                           &= \dfrac {12} {3} \\\\
+w                           &= \dfrac {4 \times 3} {3} \\\\
+w                           &= \dfrac {4 \times \cancel{3}} {\cancel{3}} \\\\
 w                           &= 4 \ \text{m} \\\\
 \text{Width of carpet}      &= 4 \ \text{m}
 \end{aligned}
@@ -1244,236 +729,6 @@ $
 </div>
 </div>
 
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>5115612D-9C06-4F91-9D07-E0E41EA82030</p>
-</div>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:22</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-State the coordinates of each vertex of the triangle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-APTQ,
-
-$
-\begin{aligned}
-\text{The coordinates of each vertex of the triangle} \\\\
-&= (-1,2) \ , (-1,4) \ , (-4,4) 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$(-1,2) \ , (-1,4) \ , (-4,4)$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>APTQ,
-
-$
-\begin{aligned}
-\text{The coordinates of each vertex of the triangle} \\\\
-&= (-1,2) \ , (-1,4) \ , (-4,4) 
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$(-1,2) \ , (-1,4) \ , (-4,4)$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find the area of the triangle
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
-
-
-$
-\begin{aligned}
-\text{area} &=  \dfrac{1}{2} \times 2 \times 3 \\\\ 
-&=  \dfrac{1}{ \cancel 2} \times \cancel 2 \times 3 \\\\ 
-&=  3 \ \text{units}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-3 \ \text{units}^2
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
-$
-\begin{aligned}
-\text{area} &=  \dfrac{1}{2} \times 2 \times 3 \\\\ 
-&=  \dfrac{1}{ \cancel 2} \times \cancel 2 \times 3 \\\\ 
-&=  3 \ \text{units}^2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>3 \ \text{units}^2
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Reflect the triangle in the x-axis and label your shape $B$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%image%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%image%
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 
 </div>
 </li>

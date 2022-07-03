@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-5"
 title: "TopicPaper - Sequence - 5"
-date: 2022-07-03 18:49:21
+date: 2022-07-03 21:01:32
 ---
 <div class='paper'>
 <div class='meta'>
@@ -533,7 +533,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78</p>
 </div>
@@ -544,7 +544,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -608,23 +608,23 @@ $2 \quad 8 \quad 14 \quad 20     \quad 32$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $+6$. Hence, the sequence would be:
+The next term is calculated by adding $6$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+6)} } 
+ {(+6)} }
 &&  \footnotesize {\maroonC
- {(+6)} }  
+ {(+6)} }
 &&  \footnotesize {\maroonC
- {(+6)} }   
+ {(+6)} }
 &&  \footnotesize {\maroonC
- {(+6)} }   
+ {(+6)} }
 &&  \footnotesize {\maroonC
  {(+6)} }
 &&  \footnotesize {\maroonC
  {(+6)} }  \\
-2,  &&  8,  &&  14,  &&  20  &&  \ldots,  &&  32  &&  \ldots
+2,  &&  8,  &&  14,  &&  20,  &&  \ldots,  &&  32,  &&  \ldots
 \end{matrix}
 $
 
@@ -642,7 +642,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$26, \ 38$
+$26$
+
+</div>
+<div class='answer'>
+
+$38$
 
 </div>
 </div>
@@ -651,17 +656,17 @@ $26, \ 38$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
 
-The difference between the terms is $+6$. Hence, the sequence would be:
+The next term is calculated by adding $6$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\rtq_katex_color_info {(+6)} } 
-&&  \footnotesize {\rtq_katex_color_info {(+6)} }  
-&&  \footnotesize {\rtq_katex_color_info {(+6)} }   
-&&  \footnotesize {\rtq_katex_color_info {(+6)} }   
+&   \footnotesize {\rtq_katex_color_info {(+6)} }
+&&  \footnotesize {\rtq_katex_color_info {(+6)} }
+&&  \footnotesize {\rtq_katex_color_info {(+6)} }
+&&  \footnotesize {\rtq_katex_color_info {(+6)} }
 &&  \footnotesize {\rtq_katex_color_info {(+6)} }
 &&  \footnotesize {\rtq_katex_color_info {(+6)} }  \\
-2,  &&  8,  &&  14,  &&  20  &&  \ldots,  &&  32  &&  \ldots
+2,  &&  8,  &&  14,  &&  20,  &&  \ldots,  &&  32,  &&  \ldots
 \end{matrix}
 $
 
@@ -684,7 +689,17 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$26, \ 38$
+<pre class='language-latex'><code class='language-latex'>$26$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$38$
 </code></pre>
 </div>
 </div>
@@ -725,7 +740,7 @@ $
  {(\times 3)} }   
 &&  \footnotesize {\maroonC
  {(\times 3)} } \\
-\ldots,  &&  3,  &&  9,  &&  27  &&  \ldots,  &&  243
+\ldots,  &&  3,  &&  9,  &&  27,  &&  \ldots,  &&  243
 \end{matrix}
 $
 
@@ -743,7 +758,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1, \ 81$
+$1$
+
+</div>
+<div class='answer'>
+
+$81$
 
 </div>
 </div>
@@ -761,7 +781,7 @@ $
 &&  \footnotesize {\rtq_katex_color_info {(\times 3)} }   
 &&  \footnotesize {\rtq_katex_color_info {(\times 3)} }   
 &&  \footnotesize {\rtq_katex_color_info {(\times 3)} } \\
-\ldots,  &&  3,  &&  9,  &&  27  &&  \ldots,  &&  243
+\ldots,  &&  3,  &&  9,  &&  27,  &&  \ldots,  &&  243
 \end{matrix}
 $
 
@@ -784,7 +804,17 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1, \ 81$
+<pre class='language-latex'><code class='language-latex'>$1$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$81$
 </code></pre>
 </div>
 </div>
@@ -811,33 +841,36 @@ $
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
+The next term is calculated by subtracting $\dfrac {3} {2}$ from the previous term. Hence, the sequence would be:
+
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(- 2 \dfrac {1} {2})} } 
+ {(- \dfrac {3} {2})} } 
 &&  \footnotesize {\maroonC
- {(- \dfrac {1} {2})} }  
+ {(- \dfrac {3} {2})} }  
 &&  \footnotesize {\maroonC
- {(- 2 \dfrac {1} {2})} }   
+ {(- \dfrac {3} {2})} }   
 &&  \footnotesize {\maroonC
- {(- \dfrac {1} {2})} }   
+ {(- \dfrac {3} {2})} }   
 &&  \footnotesize {\maroonC
- {(- 2 \dfrac {1} {2})} } \\
-8,  &&  6 \dfrac {1} {2},  &&  5,  &&  \ldots  &&  2,  &&  \ldots
+ {(- \dfrac {3} {2})} }  \\
+8,  &&  6 \dfrac {1} {2},  &&  5,  &&  \ldots,  &&  2,  &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}       &= 5 - 2 \dfrac {1} {2} \\\\
-                                  &= 5 - \dfrac {5} {2} \\\\
-                                  &= \dfrac {5 \times 2} {1 \times 2} - \dfrac {5} {2} \\\\
-                                  &= \dfrac {10} {2} - \dfrac {5} {2} \\\\
-                                  &= \dfrac {10 - 5} {2} \\\\
-                                  &= \dfrac {}
-                                  &=  \\\\
-\text{Second missing number}      &= 27 \times 3 \\\\
-                                  &= 81
+\text{First missing number}         &= 5 - \dfrac {3} {2} \\\\
+                                    &= \dfrac {5 \times 2} {1 \times 2} - \dfrac {3} {2} \\\\
+                                    &= \dfrac {10} {2} - \dfrac {3} {2} \\\\
+                                    &= \dfrac {10 - 3} {2} \\\\
+                                    &= \dfrac {7} {2} \\\\
+\text{Second missing number}        &= 2 - \dfrac {3} {2} \\\\
+                                    &= \dfrac {2 \times 2} {1 \times 2} - \dfrac {3} {2} \\\\
+                                    &= \dfrac {4} {2} - \dfrac {3} {2} \\\\
+                                    &= \dfrac {4 - 3} {2} \\\\
+                                    &= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -846,7 +879,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
+$\dfrac {7} {2}$ 
 
+</div>
+<div class='answer'>
+
+$\dfrac {1} {2}$ 
 
 </div>
 </div>
@@ -855,28 +893,31 @@ $
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
 
+The next term is calculated by subtracting $\dfrac {3} {2}$ from the previous term. Hence, the sequence would be:
+
 $
 \begin{matrix}
-&   \footnotesize {\rtq_katex_color_info {(- 2 \dfrac {1} {2})} } 
-&&  \footnotesize {\rtq_katex_color_info {(- \dfrac {1} {2})} }  
-&&  \footnotesize {\rtq_katex_color_info {(- 2 \dfrac {1} {2})} }   
-&&  \footnotesize {\rtq_katex_color_info {(- \dfrac {1} {2})} }   
-&&  \footnotesize {\rtq_katex_color_info {(- 2 \dfrac {1} {2})} } \\
-8,  &&  6 \dfrac {1} {2},  &&  5,  &&  \ldots  &&  2,  &&  \ldots
+&   \footnotesize {\rtq_katex_color_info {(- \dfrac {3} {2})} } 
+&&  \footnotesize {\rtq_katex_color_info {(- \dfrac {3} {2})} }  
+&&  \footnotesize {\rtq_katex_color_info {(- \dfrac {3} {2})} }   
+&&  \footnotesize {\rtq_katex_color_info {(- \dfrac {3} {2})} }   
+&&  \footnotesize {\rtq_katex_color_info {(- \dfrac {3} {2})} }  \\
+8,  &&  6 \dfrac {1} {2},  &&  5,  &&  \ldots,  &&  2,  &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}       &= 5 - 2 \dfrac {1} {2} \\\\
-                                  &= 5 - \dfrac {5} {2} \\\\
-                                  &= \dfrac {5 \times 2} {1 \times 2} - \dfrac {5} {2} \\\\
-                                  &= \dfrac {10} {2} - \dfrac {5} {2} \\\\
-                                  &= \dfrac {10 - 5} {2} \\\\
-                                  &= \dfrac {}
-                                  &=  \\\\
-\text{Second missing number}      &= 27 \times 3 \\\\
-                                  &= 81
+\text{First missing number}         &= 5 - \dfrac {3} {2} \\\\
+                                    &= \dfrac {5 \times 2} {1 \times 2} - \dfrac {3} {2} \\\\
+                                    &= \dfrac {10} {2} - \dfrac {3} {2} \\\\
+                                    &= \dfrac {10 - 3} {2} \\\\
+                                    &= \dfrac {7} {2} \\\\
+\text{Second missing number}        &= 2 - \dfrac {3} {2} \\\\
+                                    &= \dfrac {2 \times 2} {1 \times 2} - \dfrac {3} {2} \\\\
+                                    &= \dfrac {4} {2} - \dfrac {3} {2} \\\\
+                                    &= \dfrac {4 - 3} {2} \\\\
+                                    &= \dfrac {1} {2}
 \end{aligned}
 $
 </code></pre>
@@ -890,7 +931,17 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {7} {2}$ 
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {2}$ 
 </code></pre>
 </div>
 </div>
@@ -899,6 +950,40 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78' id='FORM-4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4E4BE1F3-ABEF-4A41-A36E-CCA567E2BC78'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -1982,7 +2067,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F7B3DA40-6D49-464E-93D0-FE5CBE603836</p>
 </div>
@@ -1993,7 +2078,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2009,9 +2094,218 @@ tsequence
 
 In the following sequences, puts the missing numbers in the boxes shown
 
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
 $4, \quad 7, \quad \boxed{\phantom{55}}, \quad 13, \quad 16, \quad 19$
 
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+4,  &&    7,  &&  \ldots,  &&   13,  &&   16, && 19
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}  &= 7 + 3 \\\\
+                        &= 10
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(+3)}}
+&&  \footnotesize{\rtq_katex_color_info{(+3)}}
+&&  \footnotesize{\rtq_katex_color_info{(+3)}}
+&&  \footnotesize{\rtq_katex_color_info{(+3)}}
+&&  \footnotesize{\rtq_katex_color_info{(+3)}}  \\
+4,  &&    7,  &&  \ldots,  &&   13,  &&   16, && 19
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}  &= 7 + 3 \\\\
+                        &= 10
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
 $50, \quad 40, \quad \boxed{\phantom{55}}, \quad 23, \quad 16, \quad 10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-8)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
+50,  &&    40,  &&  \ldots,  &&   23,  &&   16, && 10
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}  &= 40 - 9 \\\\
+                        &= 31
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$31$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(-10)}}
+&&  \footnotesize{\rtq_katex_color_info{(-9)}}
+&&  \footnotesize{\rtq_katex_color_info{(-8)}}
+&&  \footnotesize{\rtq_katex_color_info{(-7)}}
+&&  \footnotesize{\rtq_katex_color_info{(-6)}}  \\
+50,  &&    40,  &&  \ldots,  &&   23,  &&   16, && 10
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}  &= 40 - 9 \\\\
+                        &= 31
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$31$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
 $2, \quad 6, \quad \boxed{\phantom{55}}, \quad 54, \quad 162, \quad 486$
 
@@ -2019,21 +2313,67 @@ $2, \quad 6, \quad \boxed{\phantom{55}}, \quad 54, \quad 162, \quad 486$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}  \\
+2,  &&    6,  &&  \ldots,  &&   54,  &&   162, && 486
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 6 \times 3 \\\\
+                            &= 18
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$18$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(\times 3)}}
+&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}
+&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}
+&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}
+&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}  \\
+2,  &&    6,  &&  \ldots,  &&   54,  &&   162, && 486
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 6 \times 3 \\\\
+                            &= 18
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2045,12 +2385,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$18$
 </code></pre>
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F7B3DA40-6D49-464E-93D0-FE5CBE603836' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F7B3DA40-6D49-464E-93D0-FE5CBE603836' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F7B3DA40-6D49-464E-93D0-FE5CBE603836' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F7B3DA40-6D49-464E-93D0-FE5CBE603836' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F7B3DA40-6D49-464E-93D0-FE5CBE603836' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F7B3DA40-6D49-464E-93D0-FE5CBE603836' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F7B3DA40-6D49-464E-93D0-FE5CBE603836' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='F7B3DA40-6D49-464E-93D0-FE5CBE603836' id='FORM-F7B3DA40-6D49-464E-93D0-FE5CBE603836' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F7B3DA40-6D49-464E-93D0-FE5CBE603836'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3591,7 +3968,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2</p>
 </div>
@@ -3602,7 +3979,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3624,21 +4001,61 @@ $112 \quad 56 \quad \boxed{\phantom{11}} \quad 14$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+112,  &&    56,  &&  \ldots,  &&   14
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}  &= 56 \div 2 \\\\
+                        &= 28
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$28$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(\div 2)}}
+&&  \footnotesize{\rtq_katex_color_info{(\div 2)}}
+&&  \footnotesize{\rtq_katex_color_info{(\div 2)}}  \\
+112,  &&    56,  &&  \ldots,  &&   14
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}  &= 56 \div 2 \\\\
+                        &= 28
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3650,12 +4067,46 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$28$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2' id='FORM-B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B18DB3C1-F51D-4F8F-B77F-12FDC8E8BEC2'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4036,7 +4487,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6093B328-9BBD-4432-A8D7-A4F2FC011015</p>
 </div>
@@ -4047,7 +4498,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4069,21 +4520,72 @@ $100 \quad 93 \quad \boxed{\phantom{11}} \quad 82 \quad 78 \quad \boxed{\phantom
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-6)}}
+&&  \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
+100,  &&    93,  &&  \ldots,  &&   82,  &&   78, && \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}       &= 93 - 5 \\\\
+                                   &= 88 \\\\
+\text {Second missing number}      &= 78 - 3 \\\\
+                                   &= 75
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$88$
+
+</div>
+<div class='answer'>
+
+$75$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(-7)}}
+&&  \footnotesize{\rtq_katex_color_info{(-6)}}
+&&  \footnotesize{\rtq_katex_color_info{(-5)}}
+&&  \footnotesize{\rtq_katex_color_info{(-4)}}
+&&  \footnotesize{\rtq_katex_color_info{(-3)}}  \\
+100,  &&    93,  &&  \ldots,  &&   82,  &&   78, && \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}       &= 93 - 5 \\\\
+                                   &= 88 \\\\
+\text {Second missing number}      &= 78 - 3 \\\\
+                                   &= 75
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4095,12 +4597,56 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$88$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$75$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6093B328-9BBD-4432-A8D7-A4F2FC011015' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6093B328-9BBD-4432-A8D7-A4F2FC011015' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6093B328-9BBD-4432-A8D7-A4F2FC011015' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6093B328-9BBD-4432-A8D7-A4F2FC011015' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6093B328-9BBD-4432-A8D7-A4F2FC011015' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6093B328-9BBD-4432-A8D7-A4F2FC011015' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6093B328-9BBD-4432-A8D7-A4F2FC011015' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='6093B328-9BBD-4432-A8D7-A4F2FC011015' id='FORM-6093B328-9BBD-4432-A8D7-A4F2FC011015' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6093B328-9BBD-4432-A8D7-A4F2FC011015'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4979,7 +5525,7 @@ Smallest common number $= 27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D1C82BDE-24F7-49F9-97B0-4D18586D46AE</p>
 </div>
@@ -4990,7 +5536,7 @@ Smallest common number $= 27$
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5010,36 +5556,21 @@ Write down the next number in each sequence.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -5051,17 +5582,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -5076,36 +5597,64 @@ $5, \quad 19, \quad 33, \quad 47, \quad \text{\textunderscore \textunderscore \t
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+The next term is calculated by adding $14$ to the previous term. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+14)}}
+&&  \footnotesize{\maroonC
+{(+14)}}
+&&  \footnotesize{\maroonC
+{(+14)}}
+&&  \footnotesize{\maroonC
+{(+14)}}  \\
+5,  &&    19,  &&  33,  &&   47,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 47 + 14 \\\\
+                            &= 61
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$61$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+The next term is calculated by adding $14$ to the previous term. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(+14)}}
+&&  \footnotesize{\rtq_katex_color_info{(+14)}}
+&&  \footnotesize{\rtq_katex_color_info{(+14)}}
+&&  \footnotesize{\rtq_katex_color_info{(+14)}}  \\
+5,  &&    19,  &&  33,  &&   47,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 47 + 14 \\\\
+                            &= 61
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5117,17 +5666,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$61$
 </code></pre>
 </div>
 </div>
@@ -5144,36 +5683,60 @@ $1, \quad 4, \quad 9, \quad 16, \quad \text{\textunderscore \textunderscore \tex
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+7)}}
+&&  \footnotesize{\maroonC
+{(+9)}}  \\
+1,  &&    4,  &&  9,  &&   16,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 16 + 9 \\\\
+                            &= 25
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$25$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(+3)}}
+&&  \footnotesize{\rtq_katex_color_info{(+5)}}
+&&  \footnotesize{\rtq_katex_color_info{(+7)}}
+&&  \footnotesize{\rtq_katex_color_info{(+9)}}  \\
+1,  &&    4,  &&  9,  &&   16,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 16 + 9 \\\\
+                            &= 25
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5185,17 +5748,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$25$
 </code></pre>
 </div>
 </div>
@@ -5212,36 +5765,64 @@ $2, \quad 6, \quad 18, \quad 54, \quad \text{\textunderscore \textunderscore \te
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}  \\
+2,  &&    6,  &&  18,  &&   54,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 54 \times 3 \\\\
+                            &= 162
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$162$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(\times 3)}}
+&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}
+&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}
+&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}  \\
+2,  &&    6,  &&  18,  &&   54,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 54 \times 3 \\\\
+                            &= 162
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5253,17 +5834,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$162$
 </code></pre>
 </div>
 </div>
@@ -5280,36 +5851,64 @@ $88, \quad 44, \quad 22, \quad 11, \quad \text{\textunderscore \textunderscore \
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+88,  &&    44,  &&  22,  &&   11,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 11 \div 2 \\\\
+                            &= 5.5
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5.5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(\div 2)}}
+&&  \footnotesize{\rtq_katex_color_info{(\div 2)}}
+&&  \footnotesize{\rtq_katex_color_info{(\div 2)}}
+&&  \footnotesize{\rtq_katex_color_info{(\div 2)}}  \\
+88,  &&    44,  &&  22,  &&   11,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 11 \div 2 \\\\
+                            &= 5.5
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5321,17 +5920,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5.5$
 </code></pre>
 </div>
 </div>
@@ -5348,36 +5937,63 @@ $300, \quad 298, \quad 294, \quad 286, \quad 270, \quad \text{\textunderscore \t
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-2)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-8)}}
+&&  \footnotesize{\maroonC
+{(-16)}}
+&&  \footnotesize{\maroonC
+{(-32)}}  \\
+300,  &&    298,  &&  294,  &&   286,  &&  270,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 270 - 32 \\\\
+                            &= 238
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$238$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin {matrix}
+&   \footnotesize{\rtq_katex_color_info{(-2)}}
+&&  \footnotesize{\rtq_katex_color_info{(-4)}}
+&&  \footnotesize{\rtq_katex_color_info{(-8)}}
+&&  \footnotesize{\rtq_katex_color_info{(-16)}}
+&&  \footnotesize{\rtq_katex_color_info{(-32)}}  \\
+300,  &&    298,  &&  294,  &&   286,  &&  270,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {Missing number}      &= 270 - 32 \\\\
+                            &= 238
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5389,17 +6005,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$238$
 </code></pre>
 </div>
 </div>
@@ -5408,6 +6014,40 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D1C82BDE-24F7-49F9-97B0-4D18586D46AE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D1C82BDE-24F7-49F9-97B0-4D18586D46AE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D1C82BDE-24F7-49F9-97B0-4D18586D46AE' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D1C82BDE-24F7-49F9-97B0-4D18586D46AE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D1C82BDE-24F7-49F9-97B0-4D18586D46AE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D1C82BDE-24F7-49F9-97B0-4D18586D46AE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D1C82BDE-24F7-49F9-97B0-4D18586D46AE' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D1C82BDE-24F7-49F9-97B0-4D18586D46AE' id='FORM-D1C82BDE-24F7-49F9-97B0-4D18586D46AE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D1C82BDE-24F7-49F9-97B0-4D18586D46AE'>Initial</p>
+</div>
 </div>
 </li>
 <li>

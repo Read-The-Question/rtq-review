@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-oldpr"
 title: "TopicPaper - Number - 16 - OLDPR"
-date: 2022-07-03 18:49:21
+date: 2022-07-03 21:01:32
 ---
 <ul class='question default-decimal'>
 <li>
@@ -559,7 +559,7 @@ The smallest whole number above $120$ which when divided by $53$ leaves a remain
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>B8D6BAFA-557D-451D-BA17-5723EF73E965</p>
 </div>
@@ -573,7 +573,7 @@ The smallest whole number above $120$ which when divided by $53$ leaves a remain
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -826,6 +826,23 @@ The numbers whose sum is $-3$ are $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write these answer same as E588B3E3-4F4F-478B-BFDF-D75E8651A7A3.
+
+
+
+First just write the answer options and then show the working that they match the condition. Please reach out if any confusion.
+
+
+
+No summary line at the end. Just follow the template for UUID given above.
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1432,10 +1432,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2207,10 +2207,10 @@ Answer in the middle $= 8$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2801,10 +2801,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:8</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4896,10 +4896,10 @@ Write this similar to 57C9979B-2ACE-4BAF-8E7F-AC51C6373882
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6160,10 +6160,10 @@ $a = 45$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:20</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6780,6 +6780,9 @@ $18 - (9 - 7)$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+
+
 $
 \begin{aligned}
 &= 18 - (9 - 7) \\\\
@@ -6800,7 +6803,9 @@ $16$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= 18 - (9 - 7) \\\\
 &= 18 - 2 \\\\
@@ -6835,6 +6840,9 @@ $(18 - 9) - 7$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+
+
 $
 \begin{aligned}
 &= (18 - 9) - 7 \\\\
@@ -6855,7 +6863,9 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= (18 - 9) - 7 \\\\
 &= 9 - 7 \\\\
@@ -6890,6 +6900,9 @@ $(80 \div 20) \div 4$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+
+
 $
 \begin{aligned}
 &= (80 \div 20) \div 4 \\\\
@@ -6913,7 +6926,9 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= (80 \div 20) \div 4 \\\\
 &= \dfrac {80} {20} \times \dfrac {1} {4} \\\\
@@ -6951,6 +6966,9 @@ $80 \div (20 \div 4)$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+
+
 $
 \begin{aligned}
 &= 80 \div (20 \div 4) \\\\
@@ -6975,7 +6993,9 @@ $16$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= 80 \div (20 \div 4) \\\\
 &= \dfrac {80} {20} \times 4 \\\\

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-g0"
 title: "TopicPaper - Number - 7 - G0"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5DC95291-33D3-474E-ACDD-E60270873E53</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-03 23:17:19
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -123,21 +123,21 @@ Write in words the number $8014$.
 <div class='workings'>
 <div class='working'>
 
-$\text {Eight thousand and fourteen}$
+Eight thousand and fourteen
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Eight thousand and fourteen}$
+Eight thousand and fourteen
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Eight thousand and fourteen}$
+<pre class='language-latex'><code class='language-latex'>Eight thousand and fourteen
 </code></pre>
 </div>
 </div>
@@ -149,7 +149,7 @@ $\text {Eight thousand and fourteen}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Eight thousand and fourteen}$
+<pre class='language-latex'><code class='language-latex'>Eight thousand and fourteen
 </code></pre>
 </div>
 </div>
@@ -310,7 +310,7 @@ b: remove katex around text, just use md
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6C394690-97C2-41D3-BCDE-D8847D0B113C</p>
 </div>
@@ -324,7 +324,7 @@ b: remove katex around text, just use md
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -428,21 +428,21 @@ Write in words the number $57210$
 <div class='workings'>
 <div class='working'>
 
-$\text {Fifty seven thousand two hundred and ten}$
+Fifty seven thousand two hundred and ten
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Fifty seven thousand two hundred and ten}$
+Fifty seven thousand two hundred and ten
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Fifty seven thousand two hundred and ten}$
+<pre class='language-latex'><code class='language-latex'>Fifty seven thousand two hundred and ten
 </code></pre>
 </div>
 </div>
@@ -454,7 +454,7 @@ $\text {Fifty seven thousand two hundred and ten}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Fifty seven thousand two hundred and ten}$
+<pre class='language-latex'><code class='language-latex'>Fifty seven thousand two hundred and ten
 </code></pre>
 </div>
 </div>
@@ -664,7 +664,7 @@ b: remove katex around text, just use md
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D1915A62-7372-477D-A35A-78B2C0261ECE</p>
 </div>
@@ -678,7 +678,7 @@ b: remove katex around text, just use md
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -856,15 +856,19 @@ $600 \div ............. = 50$
 <div class='workings'>
 <div class='working'>
 
+Let the missing value $=a$
+
+As per the question,
+
 $
 \begin{aligned}
-600 \div 24                                             &= 25 \\\\
-\dfrac {600} {24}                                       &= 25 \\\\
-\dfrac {600 \times 2} {24}                              &= 25 \times 2 \\\\
-\dfrac {600 \times 2} {12 \times 2}                     &= 50 \\\\
-\dfrac {600 \times \cancel {2}} {12 \times \cancel {2}} &= 50 \\\\
-\dfrac {600} {12}                                       &= 50 \\\\
-600 \div 12                                             &= 50
+600 \div a                                              &= 50 \\\\
+\dfrac {600} {a}                                        &= 50 \\\\
+\dfrac {600} {50}                                       &= a \\\\
+\dfrac {600} {25 \times 2}                              &= a \\\\
+\dfrac {24} {2}                                         &= a \\\\
+12                                                      &= a \\\\
+a                                                       &= 12
 \end{aligned}
 $
 
@@ -880,15 +884,19 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
+
+As per the question,
+
+$
 \begin{aligned}
-600 \div 24                                             &= 25 \\\\
-\dfrac {600} {24}                                       &= 25 \\\\
-\dfrac {600 \times 2} {24}                              &= 25 \times 2 \\\\
-\dfrac {600 \times 2} {12 \times 2}                     &= 50 \\\\
-\dfrac {600 \times \cancel {2}} {12 \times \cancel {2}} &= 50 \\\\
-\dfrac {600} {12}                                       &= 50 \\\\
-600 \div 12                                             &= 50
+600 \div a                                              &= 50 \\\\
+\dfrac {600} {a}                                        &= 50 \\\\
+\dfrac {600} {50}                                       &= a \\\\
+\dfrac {600} {25 \times 2}                              &= a \\\\
+\dfrac {24} {2}                                         &= a \\\\
+12                                                      &= a \\\\
+a                                                       &= 12
 \end{aligned}
 $
 </code></pre>
@@ -961,7 +969,7 @@ c: Use algebra to solve it
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F3144B09-1621-4BF8-A18D-56C923A48403</p>
 </div>
@@ -975,7 +983,7 @@ c: Use algebra to solve it
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1130,21 +1138,21 @@ Using only two of the cards, what is the largest possible **prime** number?
 <div class='workings'>
 <div class='working'>
 
-$87$
+$67$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$87$
+$67$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$87$
+<pre class='language-latex'><code class='language-latex'>$67$
 </code></pre>
 </div>
 </div>
@@ -1156,7 +1164,7 @@ $87$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$87$
+<pre class='language-latex'><code class='language-latex'>$67$
 </code></pre>
 </div>
 </div>
@@ -1175,7 +1183,14 @@ $\boxed{\phantom{1}}  \boxed{\phantom{1}} \times \boxed{\phantom{1}}$
 <div class='workings'>
 <div class='working'>
 
-$76 \times 8 = 608$
+| Possible numbers | Result  |
+|------------------|---------|
+|  $78 \times  6$  |  $468$  |
+|  $76 \times  8$  |  $608$  |
+|  $87 \times  6$  |  $522$  |
+|  $86 \times  7$  |  $602$  |
+
+Largest answer $= 76 \times 8 = 608$
 
 </div>
 </div>
@@ -1189,7 +1204,14 @@ $76 \times 8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$76 \times 8 = 608$
+<pre class='language-latex'><code class='language-latex'>| Possible numbers | Result  |
+|------------------|---------|
+|  $78 \times  6$  |  $468$  |
+|  $76 \times  8$  |  $608$  |
+|  $87 \times  6$  |  $522$  |
+|  $86 \times  7$  |  $602$  |
+
+Largest answer $= 76 \times 8 = 608$
 </code></pre>
 </div>
 </div>

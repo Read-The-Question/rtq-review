@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-03 23:17:19
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7C19DA98-914F-4E7A-AFD9-38F202A08A32</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-03 23:17:19
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -46,9 +46,11 @@ Round $567$ to the nearest $100$.
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{aligned}
-&= 600
+&= 567 \\\\
+&\approx 600
 \end{aligned}
 $
 
@@ -64,9 +66,11 @@ $600$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+$
 \begin{aligned}
-&= 600
+&= 567 \\\\
+&\approx 600
 \end{aligned}
 $
 </code></pre>
@@ -271,10 +275,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -512,10 +516,10 @@ Alternative solution, (line 1 in second option)
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:10</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -721,10 +725,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:13</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -816,10 +820,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:14</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1223,10 +1227,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:8</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1451,10 +1455,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:11</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2041,7 +2045,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>9A7731E6-A10D-4E1C-BE92-A499746AB9E7</p>
 </div>
@@ -2052,10 +2056,10 @@ $
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_g0</p>
+<p>rag_as_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2129,8 +2133,7 @@ a multiple of $4$
 
 $
 \begin{aligned}
-&= 4 \times 2 \\\\
-&= 8    \\\\
+&= 8  
 \end{aligned}
 $
 
@@ -2149,8 +2152,7 @@ $8$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= 4 \times 2 \\\\
-&= 8    \\\\
+&= 8  
 \end{aligned}
 $
 </code></pre>
@@ -2224,7 +2226,13 @@ two numbers with a difference of $18$
 <div class='workings'>
 <div class='working'>
 
-$3, \ 21$
+$
+\begin{aligned}
+21, \ 3 \\\\
+&= 21 - 3 \\\\
+&= 18
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2238,7 +2246,13 @@ $3, \ 21$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$3, \ 21$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+21, \ 3 \\\\
+&= 21 - 3 \\\\
+&= 18
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2344,54 +2358,7 @@ $13$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-
-
-
-
-a: Just write 8, why 4 * 2?
-
-c: Write c similar to E588B3E3-4F4F-478B-BFDF-D75E8651A7A3, first write 2 numbers and then show how it comes to that number, 
-
-d: we have not decided how to write media, so fix a c and then we will block this ticket
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9A7731E6-A10D-4E1C-BE92-A499746AB9E7' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9A7731E6-A10D-4E1C-BE92-A499746AB9E7' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='9A7731E6-A10D-4E1C-BE92-A499746AB9E7' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='9A7731E6-A10D-4E1C-BE92-A499746AB9E7' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9A7731E6-A10D-4E1C-BE92-A499746AB9E7' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='9A7731E6-A10D-4E1C-BE92-A499746AB9E7' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='9A7731E6-A10D-4E1C-BE92-A499746AB9E7' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='9A7731E6-A10D-4E1C-BE92-A499746AB9E7' id='FORM-9A7731E6-A10D-4E1C-BE92-A499746AB9E7' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9A7731E6-A10D-4E1C-BE92-A499746AB9E7'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -2403,10 +2370,10 @@ d: we have not decided how to write media, so fix a c and then we will block thi
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4200,10 +4167,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4470,10 +4437,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5152,7 +5119,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>50218989-87F6-450D-87C8-BF8DFB4F2B75</p>
 </div>
@@ -5166,7 +5133,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5225,9 +5192,7 @@ Write down the largest number from the list above.
 <div class='working'>
 
 $ 
-\begin{aligned}
 50.79
-\end{aligned}
 $
 
 </div>
@@ -5243,9 +5208,7 @@ $50.79$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ 
-\begin{aligned}
 50.79
-\end{aligned}
 $
 </code></pre>
 </div>
@@ -5276,9 +5239,7 @@ Write down the smallest number from the list above.
 <div class='working'>
 
 $
-\begin{aligned}
 49.29
-\end{aligned}
 $
 
 </div>
@@ -5294,9 +5255,7 @@ $49.29$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
 49.29
-\end{aligned}
 $
 </code></pre>
 </div>
@@ -5329,7 +5288,7 @@ Work out the sum of the largest and smallest numbers in the list.
 $
 \begin{aligned}
 &= 50.79 + 49.29 \\\\
-&= 100.08
+\text{sum} &= 100.08
 \end{aligned}
 $
 
@@ -5348,7 +5307,7 @@ $100.08$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 50.79 + 49.29 \\\\
-&= 100.08
+\text{sum} &= 100.08
 \end{aligned}
 $
 </code></pre>
@@ -5429,7 +5388,7 @@ Sum = 50.79 + 49.29
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CA0467B7-80F4-4714-91E9-93A58BF64E09</p>
 </div>
@@ -5443,7 +5402,7 @@ Sum = 50.79 + 49.29
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5506,9 +5465,7 @@ $35$ and $38$
 
 
 $
-\begin{aligned}
 37
-\end{aligned}
 $
 
 
@@ -5526,9 +5483,7 @@ $37$
 
 <pre class='language-latex'><code class='language-latex'>
 $
-\begin{aligned}
 37
-\end{aligned}
 $
 
 </code></pre>
@@ -5561,9 +5516,7 @@ $-1$ and $0$
 
 
 $
-\begin{aligned}
 -0.5
-\end{aligned}
 $
 
 </div>
@@ -5580,9 +5533,7 @@ $-0.5$
 
 <pre class='language-latex'><code class='language-latex'>
 $
-\begin{aligned}
 -0.5
-\end{aligned}
 $
 </code></pre>
 </div>
@@ -5613,9 +5564,7 @@ $0.2$ and $0.3$
 <div class='working'>
 
 $
-\begin{aligned}
 0.25
-\end{aligned}
 $
 
 </div>
@@ -5631,9 +5580,7 @@ $0.25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
 0.25
-\end{aligned}
 $
 </code></pre>
 </div>
@@ -5665,11 +5612,10 @@ $\dfrac {1} {3}$ and $\dfrac {1} {2}$
 
 $
 \begin{aligned}
-\dfrac {1} {3}                     &= 0.3 \\\\
-\dfrac {1} {2}                     &= 0.5 \\\\
-\text {number between 0.3 and 0.5} &= 0.4 \\\\
-0.4                                &= \dfrac {4} {10} \\\\
-                                   &= \dfrac {2} {5}
+&= \dfrac {1}{2} \times (\dfrac {1}{3} + \dfrac {1}{2}) \\\\
+&= \dfrac {1}{2} \times (\dfrac {2 + 3}{6}) \\\\
+&= \dfrac {1}{2} \times (\dfrac {5}{6}) \\\\
+&= \dfrac {5}{12}
 \end{aligned}
 $
 
@@ -5678,7 +5624,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {5}$
+$\dfrac {5}{12}$
 
 </div>
 </div>
@@ -5687,11 +5633,10 @@ $\dfrac {2} {5}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\dfrac {1} {3}                     &= 0.3 \\\\
-\dfrac {1} {2}                     &= 0.5 \\\\
-\text {number between 0.3 and 0.5} &= 0.4 \\\\
-0.4                                &= \dfrac {4} {10} \\\\
-                                   &= \dfrac {2} {5}
+&= \dfrac {1}{2} \times (\dfrac {1}{3} + \dfrac {1}{2}) \\\\
+&= \dfrac {1}{2} \times (\dfrac {2 + 3}{6}) \\\\
+&= \dfrac {1}{2} \times (\dfrac {5}{6}) \\\\
+&= \dfrac {5}{12}
 \end{aligned}
 $
 </code></pre>
@@ -5705,7 +5650,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {5}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {5}{12}$
 </code></pre>
 </div>
 </div>
@@ -5776,10 +5721,10 @@ d: not written in right style, drop all text and explanation
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6114,10 +6059,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6423,7 +6368,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E59F5A28-78EF-4A56-BF19-EA19C6B7DCFA</p>
 </div>
@@ -6437,7 +6382,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6455,7 +6400,108 @@ The population of Sumford is $9080$.
 
 
 
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
+Write $9080$ correct to the nearest $100$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 9080 \\\\
+&\approx 9100
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9100$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 9080 \\\\
+&\approx 9100
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9100$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the value of $9$ in $9080$? Write your answer in words.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+9000
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9000$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+9000
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9000$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
@@ -6513,10 +6559,10 @@ b: question looks wrong, something missing, please check pdf.
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7335,10 +7381,10 @@ $2017$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7801,7 +7847,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2A80FA34-F0A9-442B-8D9F-C536D268522D</p>
 </div>
@@ -7815,7 +7861,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8059,7 +8105,7 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ + \ \boxed{\phantom{1}} \ \boxed{\p
 <div class='working'>
 
 $
-\boxed{3} \ \boxed{7} \ + \ \boxed{5} \ \boxed{9}
+\boxed{3} \ \boxed{6} \ + \ \boxed{5} \ \boxed{7}
 $
 
 </div>
@@ -8067,7 +8113,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$96$
+$93$
 
 </div>
 </div>
@@ -8075,7 +8121,7 @@ $96$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\boxed{3} \ \boxed{7} \ + \ \boxed{5} \ \boxed{9}
+\boxed{3} \ \boxed{6} \ + \ \boxed{5} \ \boxed{7}
 $
 </code></pre>
 </div>
@@ -8088,7 +8134,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$96$
+<pre class='language-latex'><code class='language-latex'>$93$
 </code></pre>
 </div>
 </div>
@@ -8151,10 +8197,10 @@ Is c right? why not use 6?
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8636,10 +8682,10 @@ $
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8964,7 +9010,7 @@ $0.5, 0.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>717F1DE8-1840-4689-93C1-2F3E5477097E</p>
 </div>
@@ -8978,7 +9024,7 @@ $0.5, 0.6$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9038,10 +9084,10 @@ $11.36 + 3.40$
 
 $
 \begin{array}{cccccccccccccc}
-      &  1 &  1 \ & . &  3 &  6 \\
-{}+   &    &  3 \ & . &  4 &  0 \\
+      &  1 &  1 \ . &  3 &  6 \\
+{}+   &    &  3 \ . &  4 &  0 \\
 \hline
-      &  1 &  4 \ & . &  7 & 6
+      &  1 &  4 \ . &  7 & 6
 \end{array}
 $
 
@@ -9059,10 +9105,10 @@ $14.76$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{cccccccccccccc}
-      &  1 &  1 \ & . &  3 &  6 \\
-{}+   &    &  3 \ & . &  4 &  0 \\
+      &  1 &  1 \ . &  3 &  6 \\
+{}+   &    &  3 \ . &  4 &  0 \\
 \hline
-      &  1 &  4 \ & . &  7 & 6
+      &  1 &  4 \ . &  7 & 6
 \end{array}
 $
 </code></pre>
@@ -9095,10 +9141,10 @@ $3.54 - 2.34$
 
 $
 \begin{array}{cccccccccccccc}
-       &  3 \ & . &  5 &  4 \\
-{}-    &  2 \ & . &  3 &  4 \\
+       &  3 \ . &  5 &  4 \\
+{}-    &  2 \ . &  3 &  4 \\
 \hline
-       &  1 \ & . &  2 &  0
+       &  1 \ . &  2 &  0
 \end{array}
 $
 
@@ -9116,10 +9162,10 @@ $1.20$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{cccccccccccccc}
-       &  3 \ & . &  5 &  4 \\
-{}-    &  2 \ & . &  3 &  4 \\
+       &  3 \ . &  5 &  4 \\
+{}-    &  2 \ . &  3 &  4 \\
 \hline
-       &  1 \ & . &  2 &  0
+       &  1 \ . &  2 &  0
 \end{array}
 $
 </code></pre>
@@ -9234,7 +9280,7 @@ Between the two numbers, the total number of digits after the decimal point is t
 
 Let's account for the decimal point now. 
 
-$= 211.00$
+$= 211$
 
 </div>
 </div>
@@ -9266,7 +9312,7 @@ Between the two numbers, the total number of digits after the decimal point is t
 
 Let's account for the decimal point now. 
 
-$= 211.00$
+$= 211$
 </code></pre>
 </div>
 </div>
@@ -9345,10 +9391,10 @@ d: in the last write 211 instead of 211.00.
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9576,10 +9622,10 @@ TODOANSWER
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9664,7 +9710,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D3586240-8AF8-4DFE-9B41-8E2CAD789B2F</p>
 </div>
@@ -9678,7 +9724,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9700,12 +9746,12 @@ Three thousand nine hundred and sixty eight
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{aligned}
     &    1    &    0    &    0    &    3    &    4 \\
 {}+        &    &    3    &    9    &    6    &    8 \\
 \hline
     &    1    &    4    &    0    &    0    &    2
-\end{array}
+\end{aligned}
 $
 
 </div>
@@ -9721,12 +9767,12 @@ $14002$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
+\begin{aligned}
     &    1    &    0    &    0    &    3    &    4 \\
 {}+        &    &    3    &    9    &    6    &    8 \\
 \hline
     &    1    &    4    &    0    &    0    &    2
-\end{array}
+\end{aligned}
 $
 </code></pre>
 </div>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-10-g0"
 title: "TopicPaper - Number - 10 - G0"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0EA47D0F-679F-42A3-9831-5C25EB7FCE66</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-03 23:17:19
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -39,6 +39,10 @@ $0 = 4 \div 4 \times 4 - 4$
 </div>
 <div class='workings'>
 <div class='working'>
+
+$((4 \times 4) + 4) \div 4 = 5$
+
+Let's verify
 
 $
 \begin{aligned}
@@ -61,7 +65,11 @@ $((4 \times 4) + 4) \div 4 = 5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$((4 \times 4) + 4) \div 4 = 5$
+
+Let's verify
+
+$
 \begin{aligned}
 &= ((4 \times 4) + 4) \div 4 \\\\
 &= (16 + 4) \div 4 \\\\
@@ -577,7 +585,7 @@ $18046$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>12F83AD1-E7FF-442E-89CC-590C4E8E912A</p>
 </div>
@@ -591,7 +599,7 @@ $18046$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -608,21 +616,21 @@ Write in words 3,060,120
 <div class='workings'>
 <div class='working'>
 
-$\text{Three million, sixty thousand, one hundred and twenty}$
+Three million, sixty thousand, one hundred and twenty
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Three million, sixty thousand, one hundred and twenty}$
+Three million, sixty thousand, one hundred and twenty
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text{Three million, sixty thousand, one hundred and twenty}$
+<pre class='language-latex'><code class='language-latex'>Three million, sixty thousand, one hundred and twenty
 </code></pre>
 </div>
 </div>
@@ -634,7 +642,7 @@ $\text{Three million, sixty thousand, one hundred and twenty}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{Three million, sixty thousand, one hundred and twenty}$
+<pre class='language-latex'><code class='language-latex'>Three million, sixty thousand, one hundred and twenty
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0"
 title: "TopicPaper - Number - 16 - G0"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1237,6 +1237,9 @@ $18 - (9 - 7)$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+
+
 $
 \begin{aligned}
 &= 18 - (9 - 7) \\\\
@@ -1257,7 +1260,9 @@ $16$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= 18 - (9 - 7) \\\\
 &= 18 - 2 \\\\
@@ -1292,6 +1297,9 @@ $(18 - 9) - 7$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+
+
 $
 \begin{aligned}
 &= (18 - 9) - 7 \\\\
@@ -1312,7 +1320,9 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= (18 - 9) - 7 \\\\
 &= 9 - 7 \\\\
@@ -1347,6 +1357,9 @@ $(80 \div 20) \div 4$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+
+
 $
 \begin{aligned}
 &= (80 \div 20) \div 4 \\\\
@@ -1370,7 +1383,9 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= (80 \div 20) \div 4 \\\\
 &= \dfrac {80} {20} \times \dfrac {1} {4} \\\\
@@ -1408,6 +1423,9 @@ $80 \div (20 \div 4)$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+
+
 $
 \begin{aligned}
 &= 80 \div (20 \div 4) \\\\
@@ -1432,7 +1450,9 @@ $16$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= 80 \div (20 \div 4) \\\\
 &= \dfrac {80} {20} \times 4 \\\\

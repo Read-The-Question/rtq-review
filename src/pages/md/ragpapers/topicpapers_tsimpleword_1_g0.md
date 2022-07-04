@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-g0"
 title: "TopicPaper - Simpleword - 1 - G0"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B41505AF-AC7A-4238-AB31-AC2803A3A26B</p>
 </div>
@@ -13,13 +13,13 @@ date: 2022-07-03 23:17:19
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -86,7 +86,7 @@ What is the total cost for all four of the family to go to the concert?
 
 $
 \begin{aligned}
-\text{Total cost} &= \text{cost of} \  2  \ \text{Adults} + \text{Cost of} \  2 \ \text{children } \\\\
+\text{Total cost} &= \text{Cost of} \  2  \ \text{Adults} + \text{Cost of} \  2 \ \text{children } \\\\
                   &= 2 \times 45 + 2 \times 30.5 \\\\
                   &= 90 + 61 \\\\
                   &= \pounds 151 
@@ -107,7 +107,7 @@ $\pounds 151$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total cost} &= \text{cost of} \  2  \ \text{Adults} + \text{Cost of} \  2 \ \text{children } \\\\
+\text{Total cost} &= \text{Cost of} \  2  \ \text{Adults} + \text{Cost of} \  2 \ \text{children } \\\\
                   &= 2 \times 45 + 2 \times 30.5 \\\\
                   &= 90 + 61 \\\\
                   &= \pounds 151 
@@ -290,7 +290,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>46202F60-6AFF-44CC-9683-1646AF85C31F</p>
 </div>
@@ -298,13 +298,13 @@ $
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -327,8 +327,6 @@ Find the total cost of all $24$ frames.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Total cost}            &= \text{Count of pupils} \times \text{Cost per frame} \\\\\
@@ -349,9 +347,7 @@ $\pounds  90$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Total cost}            &= \text{Count of pupils} \times \text{Cost per frame} \\\\\
                              &= 24 \times 3.75 \\\\
@@ -412,7 +408,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>762E34D3-32F5-4DE3-9383-016936160A92</p>
 </div>
@@ -420,13 +416,13 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -526,7 +522,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9B276CCD-9D5D-4B51-8C56-9AA23F5E72F6</p>
 </div>
@@ -534,13 +530,13 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -638,7 +634,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F8087584-D353-47A6-BABF-AC75B20AD96C</p>
 </div>
@@ -646,13 +642,13 @@ $
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -681,8 +677,6 @@ $
 \end{aligned}
 $
 
-Number of glasses $= 5$
-
 </div>
 </div>
 <div class='answers'>
@@ -704,8 +698,6 @@ $5$
                         &= 5
 \end{aligned}
 $
-
-Number of glasses $= 5$
 </code></pre>
 </div>
 </div>
@@ -760,7 +752,7 @@ Number of glasses $= 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>21061717-7F10-4202-99C6-956CC29AFFC1</p>
 </div>
@@ -768,13 +760,13 @@ Number of glasses $= 5$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -893,7 +885,7 @@ From the calculation above, Hannah did better than Freya.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C0365365-4904-4D8E-B97D-7E9DF2D136D9</p>
 </div>
@@ -901,13 +893,13 @@ From the calculation above, Hannah did better than Freya.
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -924,8 +916,6 @@ cut from a piece of string $50 \ \text{cm}$ long?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin {aligned}
@@ -948,9 +938,7 @@ $8 \ \text {pieces}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {No. of pieces}   &= \dfrac {\text {Total length of the string}} {\text {Length of a piece}} \\\\
                         &= \dfrac {50 \ \text {cm}} {6 \ \text {cm}} \\\\
@@ -1012,7 +1000,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6D3071DE-0CCA-4999-A569-D3A93983E3C0</p>
 </div>
@@ -1020,13 +1008,13 @@ $
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1051,17 +1039,15 @@ What *percentage* of the teachers travel by car?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{% of teacher travel by car}                &= \dfrac {\text{Teacher who travel by car}} {\text{Total teachers}} \times 100 \\\\
-                                                 &= \dfrac {16} {16 + 6 + 3} \times 100 \\\\
-                                                 &= \dfrac {16 \times 100} {25} \\\\
-                                                 &= \dfrac {16 \times 4 \times 25} {25} \\\\
-                                                 &= \dfrac {16 \times 4 \times \cancel{25}} {\cancel{25}} \\\\
-                                                 &= 16 \times 4 \\\\
-                                                 &= 64 \%
+\text{\% of teacher travel by car}  &= \dfrac {\text{Teacher who travel by car}} {\text{Total teachers}} \times 100 \\\\
+                                    &= \dfrac {16} {16 + 6 + 3} \times 100 \\\\
+                                    &= \dfrac {16 \times 100} {25} \\\\
+                                    &= \dfrac {16 \times 4 \times 25} {25} \\\\
+                                    &= \dfrac {16 \times 4 \times \cancel{25}} {\cancel{25}} \\\\
+                                    &= 16 \times 4 \\\\
+                                    &= 64 \%
 \end{aligned}
 $
 
@@ -1077,17 +1063,15 @@ $64 \%$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{% of teacher travel by car}                &= \dfrac {\text{Teacher who travel by car}} {\text{Total teachers}} \times 100 \\\\
-                                                 &= \dfrac {16} {16 + 6 + 3} \times 100 \\\\
-                                                 &= \dfrac {16 \times 100} {25} \\\\
-                                                 &= \dfrac {16 \times 4 \times 25} {25} \\\\
-                                                 &= \dfrac {16 \times 4 \times \cancel{25}} {\cancel{25}} \\\\
-                                                 &= 16 \times 4 \\\\
-                                                 &= 64 \%
+\text{\% of teacher travel by car}  &= \dfrac {\text{Teacher who travel by car}} {\text{Total teachers}} \times 100 \\\\
+                                    &= \dfrac {16} {16 + 6 + 3} \times 100 \\\\
+                                    &= \dfrac {16 \times 100} {25} \\\\
+                                    &= \dfrac {16 \times 4 \times 25} {25} \\\\
+                                    &= \dfrac {16 \times 4 \times \cancel{25}} {\cancel{25}} \\\\
+                                    &= 16 \times 4 \\\\
+                                    &= 64 \%
 \end{aligned}
 $
 </code></pre>
@@ -1144,7 +1128,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1F535340-0428-42BD-88F5-40CC8436C8ED</p>
 </div>
@@ -1152,13 +1136,13 @@ $
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1219,8 +1203,6 @@ A crate holds $8$ cartons of milk. How many crates are needed to hold $349$ cart
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Crates needed}                          &= \dfrac {\text{Total cartons}} {\text{Cartons per crate}} \\\\
@@ -1229,8 +1211,6 @@ $
                                               &= 44
 \end{aligned}
 $
-
-Total crates needed to hold $349$ cartons $= 44$
 
 </div>
 </div>
@@ -1244,9 +1224,7 @@ $44 \ \text{crates}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Crates needed}                          &= \dfrac {\text{Total cartons}} {\text{Cartons per crate}} \\\\
                                               &= \dfrac {349} {8} \\\\
@@ -1254,8 +1232,6 @@ $
                                               &= 44
 \end{aligned}
 $
-
-Total crates needed to hold $349$ cartons $= 44$
 </code></pre>
 </div>
 </div>
@@ -1284,8 +1260,6 @@ Seven adult cinema tickets cost $\pounds 24.50$. How much will four adult ticket
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Cost of four adult tickets}             &= 4 \times \pounds 24.50 \\\\
@@ -1305,9 +1279,7 @@ $\pounds 98$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Cost of four adult tickets}             &= 4 \times \pounds 24.50 \\\\
                                               &= \pounds 98
@@ -1341,8 +1313,6 @@ Flora is exactly eleven and a half years old. How many months old is she?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Flora's age (in months)}                &= 11 \dfrac {1} {2} \times 12 \\\\
@@ -1366,9 +1336,7 @@ $138 \ \text{months}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Flora's age (in months)}                &= 11 \dfrac {1} {2} \times 12 \\\\
                                               &= \dfrac {23 \times 12} {2} \\\\
@@ -1435,7 +1403,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>798006C1-EFFC-4CDE-A766-6D959CB23317</p>
 </div>
@@ -1443,13 +1411,13 @@ $
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1470,23 +1438,19 @@ Explain how I can use my measuring jug to obtain $1 \ \text{litre}$ of water.
 <div class='workings'>
 <div class='working'>
 
-First, two full jugs of water will be taken
-
 $
 \begin{aligned}
-&= 400 + 400 \\\\
-&= 800 \ \text{ml}
+\text{Two full jugs} &= 400 + 400 \\\\
+                     &= 800 \ \text{ml}
 \end{aligned}
 $
 
-After this a half jug will be taken to complete 1 litre
-
 $
 \begin{aligned}
-&= \dfrac {400} {2} \\\\
-&= \dfrac {2 \times 200} {2} \\\\
-&= \dfrac {\cancel {2} \times 200} {\cancel {2}} \\\\
-&= 200 \ \text{ml}
+\text{One half jug} &= \dfrac {400} {2} \\\\
+                    &= \dfrac {2 \times 200} {2} \\\\
+                    &= \dfrac {\cancel {2} \times 200} {\cancel {2}} \\\\
+                    &= 200 \ \text{ml}
 \end{aligned}
 $
 
@@ -1495,7 +1459,7 @@ $
 \text{Total} &= 800 + 200 \\\\
              &= 1000 \ \text{ml} \\\\
              &= \dfrac {1000} {1000} \ \text{litre} \\\\
-             &= \dfrac {\cancel {1000}} {\cancel {1000}} \ \text{litre} \\\\
+             &= \dfrac {\cancel {1000}} {\cancel {1000}} \\\\
              &= 1 \ \text{litre}
 \end{aligned}
 $
@@ -1512,23 +1476,19 @@ $2 \dfrac {1} {2} \ \text{jugs of water required}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>First, two full jugs of water will be taken
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 400 + 400 \\\\
-&= 800 \ \text{ml}
+\text{Two full jugs} &= 400 + 400 \\\\
+                     &= 800 \ \text{ml}
 \end{aligned}
 $
 
-After this a half jug will be taken to complete 1 litre
-
 $
 \begin{aligned}
-&= \dfrac {400} {2} \\\\
-&= \dfrac {2 \times 200} {2} \\\\
-&= \dfrac {\cancel {2} \times 200} {\cancel {2}} \\\\
-&= 200 \ \text{ml}
+\text{One half jug} &= \dfrac {400} {2} \\\\
+                    &= \dfrac {2 \times 200} {2} \\\\
+                    &= \dfrac {\cancel {2} \times 200} {\cancel {2}} \\\\
+                    &= 200 \ \text{ml}
 \end{aligned}
 $
 
@@ -1537,7 +1497,7 @@ $
 \text{Total} &= 800 + 200 \\\\
              &= 1000 \ \text{ml} \\\\
              &= \dfrac {1000} {1000} \ \text{litre} \\\\
-             &= \dfrac {\cancel {1000}} {\cancel {1000}} \ \text{litre} \\\\
+             &= \dfrac {\cancel {1000}} {\cancel {1000}} \\\\
              &= 1 \ \text{litre}
 \end{aligned}
 $
@@ -1595,7 +1555,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3D14202B-0983-4EEB-953C-6370EBAE4255</p>
 </div>
@@ -1603,13 +1563,13 @@ $
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1783,21 +1743,21 @@ Explain why your last answer must be less then $27 \text{p}$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Because 500 is not a multiple of 27}$
+$\text{Because it is the remainder when 500 is divided by 27}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Because 500 is not a multiple of 27}$
+$\text{Because it is the remainder when 500 is divided by 27}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text{Because 500 is not a multiple of 27}$
+<pre class='language-latex'><code class='language-latex'>$\text{Because it is the remainder when 500 is divided by 27}$
 </code></pre>
 </div>
 </div>
@@ -1809,7 +1769,7 @@ $\text{Because 500 is not a multiple of 27}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{Because 500 is not a multiple of 27}$
+<pre class='language-latex'><code class='language-latex'>$\text{Because it is the remainder when 500 is divided by 27}$
 </code></pre>
 </div>
 </div>
@@ -1855,7 +1815,7 @@ $\text{Because 500 is not a multiple of 27}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ED309A66-2530-46D2-8CA4-5B7E8924A943</p>
 </div>
@@ -1863,13 +1823,13 @@ $\text{Because 500 is not a multiple of 27}$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1886,8 +1846,6 @@ Three-eighths of them are Android phones. How many Android phones does it have i
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin {aligned}
@@ -1913,9 +1871,7 @@ $36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Number of Android Phones}  &= \dfrac {3} {8} \ \text {of} \ 96 \\\\
                                   &= \dfrac {3} {8} \times 96 \\\\
@@ -1980,7 +1936,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>48FE059B-F621-4BF0-9F67-8B0D6C51C476</p>
 </div>
@@ -1988,13 +1944,13 @@ $
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2013,8 +1969,6 @@ How many spectators were supporting England?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin {aligned}
@@ -2036,9 +1990,7 @@ $67737$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Spectators supporting England}  &= \text {Total spectators} - \text {Spectators supporting Australia} \\\\
                                        &= 76432 - 8695 \\\\
@@ -2099,7 +2051,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ADF03135-2BED-4722-A77F-AEF96CA568D8</p>
 </div>
@@ -2107,13 +2059,13 @@ $
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2212,7 +2164,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5A9496E7-B32E-4AE6-87D8-FC2CF250E29B</p>
 </div>
@@ -2220,13 +2172,13 @@ $
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2346,7 +2298,7 @@ The best answer is $= 12 \%$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>59547E58-AC55-448A-91F5-598477A6799E</p>
 </div>
@@ -2354,13 +2306,13 @@ The best answer is $= 12 \%$.
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2556,13 +2508,11 @@ $
 \end {aligned}
 $
 
-Let's find who has the most money.
-
 $
 \begin {aligned}
-&= \text {Bruno} - \text {Marie} \\\\
-&= € 720 - € 700 \\\\
-&= € 20
+\text {Difference}  &= \text {Bruno} - \text {Marie} \\\\
+                    &= € 720 - € 700 \\\\
+                    &= € 20
 \end {aligned}
 $
 
@@ -2595,13 +2545,11 @@ $
 \end {aligned}
 $
 
-Let's find who has the most money.
-
 $
 \begin {aligned}
-&= \text {Bruno} - \text {Marie} \\\\
-&= € 720 - € 700 \\\\
-&= € 20
+\text {Difference}  &= \text {Bruno} - \text {Marie} \\\\
+                    &= € 720 - € 700 \\\\
+                    &= € 20
 \end {aligned}
 $
 
@@ -2665,7 +2613,7 @@ Bruno has $€ 20$ more than Marie.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B4E2076D-5109-4020-882E-290B7C537FB7</p>
 </div>
@@ -2673,13 +2621,13 @@ Bruno has $€ 20$ more than Marie.
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2886,7 +2834,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1379DE70-C5AB-45C5-84C7-55AE20A0CA8E</p>
 </div>
@@ -2894,13 +2842,13 @@ $
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3005,7 +2953,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
 </div>
@@ -3013,13 +2961,13 @@ $
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3036,13 +2984,11 @@ What percentage of the integers $1 - 100$ inclusive are not a multiple of $10$?
 <div class='workings'>
 <div class='working'>
 
-Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
-
 Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
 
-There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
+Total number of multiples of $10 = 10$.
 
-So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
+So numbers that are not multiples of $10 = 100 - 10 = 90$.
 
 $
 \begin{aligned}
@@ -3065,13 +3011,11 @@ $90 \%$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
+<pre class='language-latex'><code class='language-latex'>Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
 
-Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
+Total number of multiples of $10 = 10$.
 
-There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
-
-So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
+So numbers that are not multiples of $10 = 100 - 10 = 90$.
 
 $
 \begin{aligned}
@@ -3135,7 +3079,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
 </div>
@@ -3143,13 +3087,13 @@ $
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3166,21 +3110,16 @@ Martin is given $\pounds 240$. He gives $\dfrac{1}{8}$ to his sister and $\dfrac
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin {aligned}
 \text {Amount spent} &= \text {Amount he gave to his sister} + \text {Amount he gave to his brother} \\\\
-                     &= \dfrac {1} {8} \ \text {of} \ \pounds 240 + \dfrac {1} {5} \ \text {of} \ (\pounds 240 - \dfrac {1} {8} \ \text {of} \ 240)) \\\\
-                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times (240 - \dfrac {1} {8} \times 240)) \\\\
-                     &= \dfrac {240} {8} + \dfrac {1} {5} \times (240 - \dfrac {240} {8}) \\\\
-                     &= \dfrac {30 \times 8} {8} + \dfrac {1} {5} \times (240 - \dfrac {30 \times 8} {8}) \\\\
-                     &= \dfrac {30 \times \cancel {8}} {\cancel {8}} + \dfrac {1} {5} \times (240 - \dfrac {30 \times \cancel {8}} {\cancel {8}}) \\\\
-                     &= 30 + \dfrac {1} {5} \times (240 - 30) \\\\
-                     &= 30 + \dfrac {1} {5} \times 210 \\\\
-                     &= 30 + \dfrac {210} {5} \\\\
-                     &= 30 + \dfrac {42 \times 5} {5} \\\\
-                     &= 30 + \dfrac {42 \times \cancel {5}} {\cancel {5}} \\\\
+                     &= \dfrac {1} {8} \ \text {of} \ \pounds 240 + \dfrac {1} {5} \ \text {of} \ (\pounds 240 - \dfrac {1} {8} \ \text {of} \ 240) \\\\
+                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times (240 - \dfrac {1} {8} \times 240) \\\\
+                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times 240 - \dfrac {1} {5} \times \dfrac {1} {8} \times 240 \\\\
+                     &= \dfrac {240} {8} + \dfrac {240} {5} - \dfrac {240} {5 \times 8} \\\\
+                     &= \dfrac {8 \times 30} {8} + \dfrac {5 \times 48} {5} - \dfrac {5 \times 8 \times 6} {5 \times 8} \\\\
+                     &= \dfrac {\cancel 8 \times 30} {\cancel 8} + \dfrac {\cancel 5 \times 48} {\cancel 5} - \dfrac {\cancel 5 \times \cancel 8 \times 6} {\cancel 5 \times \cancel 8} \\\\
+                     &= 30 + 48 - 6 \\\\
                      &= 30 + 42 \\\\
                      &= \pounds 72 \\\\
 \text {Amount left}  &= \text {Total amount he had} - \text {Total amount spent} \\\\
@@ -3201,21 +3140,16 @@ $\pounds 168$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Amount spent} &= \text {Amount he gave to his sister} + \text {Amount he gave to his brother} \\\\
-                     &= \dfrac {1} {8} \ \text {of} \ \pounds 240 + \dfrac {1} {5} \ \text {of} \ (\pounds 240 - \dfrac {1} {8} \ \text {of} \ 240)) \\\\
-                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times (240 - \dfrac {1} {8} \times 240)) \\\\
-                     &= \dfrac {240} {8} + \dfrac {1} {5} \times (240 - \dfrac {240} {8}) \\\\
-                     &= \dfrac {30 \times 8} {8} + \dfrac {1} {5} \times (240 - \dfrac {30 \times 8} {8}) \\\\
-                     &= \dfrac {30 \times \cancel {8}} {\cancel {8}} + \dfrac {1} {5} \times (240 - \dfrac {30 \times \cancel {8}} {\cancel {8}}) \\\\
-                     &= 30 + \dfrac {1} {5} \times (240 - 30) \\\\
-                     &= 30 + \dfrac {1} {5} \times 210 \\\\
-                     &= 30 + \dfrac {210} {5} \\\\
-                     &= 30 + \dfrac {42 \times 5} {5} \\\\
-                     &= 30 + \dfrac {42 \times \cancel {5}} {\cancel {5}} \\\\
+                     &= \dfrac {1} {8} \ \text {of} \ \pounds 240 + \dfrac {1} {5} \ \text {of} \ (\pounds 240 - \dfrac {1} {8} \ \text {of} \ 240) \\\\
+                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times (240 - \dfrac {1} {8} \times 240) \\\\
+                     &= \dfrac {1} {8} \times 240 + \dfrac {1} {5} \times 240 - \dfrac {1} {5} \times \dfrac {1} {8} \times 240 \\\\
+                     &= \dfrac {240} {8} + \dfrac {240} {5} - \dfrac {240} {5 \times 8} \\\\
+                     &= \dfrac {8 \times 30} {8} + \dfrac {5 \times 48} {5} - \dfrac {5 \times 8 \times 6} {5 \times 8} \\\\
+                     &= \dfrac {\cancel 8 \times 30} {\cancel 8} + \dfrac {\cancel 5 \times 48} {\cancel 5} - \dfrac {\cancel 5 \times \cancel 8 \times 6} {\cancel 5 \times \cancel 8} \\\\
+                     &= 30 + 48 - 6 \\\\
                      &= 30 + 42 \\\\
                      &= \pounds 72 \\\\
 \text {Amount left}  &= \text {Total amount he had} - \text {Total amount spent} \\\\
@@ -3277,7 +3211,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D8C30162-96E0-42EB-B7B0-1420BAD3B2C7</p>
 </div>
@@ -3285,13 +3219,13 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3309,11 +3243,9 @@ Each row contains $22$ cabbage seeds and there are $39$ rows. How many cabbage s
 <div class='workings'>
 <div class='working'>
 
-As per the question, total seeds in a row $= 22$. So,
-
 $
 \begin{aligned}
-\text {Total seeds in 39 rows}    &= 39 \times 22 \\\\
+\text {Total seeds}    &= 39 \times 22 \\\\
                                   &= 858
 \end{aligned}
 $
@@ -3330,11 +3262,9 @@ $858$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, total seeds in a row $= 22$. So,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Total seeds in 39 rows}    &= 39 \times 22 \\\\
+\text {Total seeds}    &= 39 \times 22 \\\\
                                   &= 858
 \end{aligned}
 $
@@ -3392,7 +3322,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>019418D0-2051-4766-9C4C-2B49BE77FB1B</p>
 </div>
@@ -3400,13 +3330,13 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3502,7 +3432,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0AC56C7D-FC28-4B99-925E-27D79107E4CE</p>
 </div>
@@ -3510,13 +3440,13 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3535,8 +3465,6 @@ Catherine gets $22$ sweets. How many sweets are there in the bag?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin {aligned}
@@ -3573,9 +3501,7 @@ $39$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Catherine get}   &= 22 \ \text {sweets} \\\\
                         &= 2 \times \text {Alison} \\\\
@@ -3651,7 +3577,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09</p>
 </div>
@@ -3659,13 +3585,13 @@ $
 <p>csse--11-plus--maths--2015--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3862,14 +3788,16 @@ ${?} + {?} = 74$
 <div class='workings'>
 <div class='working'>
 
+Two square numbers $= 49, 25$
+
+Let's verify.
+
 $
 \begin{aligned}
 &= 49 + 25 \\\\
 &= 74
 \end{aligned}
 $
-
-Two square numbers that add up to $74$ are $49$ and $25$.
 
 </div>
 </div>
@@ -3883,14 +3811,16 @@ $49, 25$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Two square numbers $= 49, 25$
+
+Let's verify.
+
+$
 \begin{aligned}
 &= 49 + 25 \\\\
 &= 74
 \end{aligned}
 $
-
-Two square numbers that add up to $74$ are $49$ and $25$.
 </code></pre>
 </div>
 </div>
@@ -3921,14 +3851,16 @@ ${?} + {?} = 13$
 <div class='workings'>
 <div class='working'>
 
+Two prime numbers $= 11, 2$
+
+Let's begin.
+
 $
 \begin{aligned}
 &= 11 + 2 \\\\
 &= 13
 \end{aligned}
 $
-
-The two prime numbers that up to $13$ are $11$ and $2$.
 
 </div>
 </div>
@@ -3942,14 +3874,16 @@ $11, 2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Two prime numbers $= 11, 2$
+
+Let's begin.
+
+$
 \begin{aligned}
 &= 11 + 2 \\\\
 &= 13
 \end{aligned}
 $
-
-The two prime numbers that up to $13$ are $11$ and $2$.
 </code></pre>
 </div>
 </div>

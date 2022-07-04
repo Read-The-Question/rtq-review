@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-4"
 title: "TopicPaper - Sequence - 4"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <div class='paper'>
 <div class='meta'>
@@ -12735,7 +12735,6 @@ $
 
 $
 \begin{aligned}
-
 \text {Missing number}      &= 5 + 8 \\\\
                             &= 13
 \end{aligned}
@@ -12771,7 +12770,6 @@ $
 
 $
 \begin{aligned}
-
 \text {Missing number}      &= 5 + 8 \\\\
                             &= 13
 \end{aligned}

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-g0"
 title: "TopicPaper - Number - 17 - G0"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -78,7 +78,8 @@ $9.83 + 4.6$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points
+ABBR: Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -101,7 +102,7 @@ $14.43$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
 
 $
 \begin{array}{cccccccccccccc}
@@ -139,7 +140,8 @@ $15.4 - 2.21$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points
+ABBR: Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -162,7 +164,7 @@ $13.19$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
 
 $
 \begin{array}{cccccccccccccc}

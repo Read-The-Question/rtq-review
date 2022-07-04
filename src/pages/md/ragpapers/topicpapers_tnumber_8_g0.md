@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-g0"
 title: "TopicPaper - Number - 8 - G0"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -437,7 +437,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7D0B690C-BD90-4E67-8AEA-2C900707DE0A</p>
 </div>
@@ -451,7 +451,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -511,6 +511,16 @@ $9 \times 5 \div 2 + 1 = 15$
 
 $((9 \times 5) \div (2 + 1)) = 15$
 
+Let's verify.
+
+$
+\begin{aligned}
+&= (9 \times 5) \div (2 + 1) \\\\
+&= 45 \div 3 \\\\
+&= 15
+\end{aligned}
+$
+
 </div>
 </div>
 <div class='answers'>
@@ -524,6 +534,16 @@ $((9 \times 5) \div (2 + 1))$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$((9 \times 5) \div (2 + 1)) = 15$
+
+Let's verify.
+
+$
+\begin{aligned}
+&= (9 \times 5) \div (2 + 1) \\\\
+&= 45 \div 3 \\\\
+&= 15
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -554,6 +574,16 @@ $3\times  7 - 6 \times 4 - 3 = 15$
 
 $((3 \times  7) - (6 \times (4 - 3))) = 15$
 
+Let's verify.
+
+$
+\begin{aligned}
+&= (3 \times 7 ) - (6 \times  (4 - 3)) \\\\
+&= 21 - 6 \\\\
+&= 15
+\end{aligned}
+$
+
 </div>
 </div>
 <div class='answers'>
@@ -567,6 +597,16 @@ $((3 \times  7) - (6 \times (4 - 3)))$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$((3 \times  7) - (6 \times (4 - 3))) = 15$
+
+Let's verify.
+
+$
+\begin{aligned}
+&= (3 \times 7 ) - (6 \times  (4 - 3)) \\\\
+&= 21 - 6 \\\\
+&= 15
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -633,7 +673,7 @@ Please refer E588B3E3-4F4F-478B-BFDF-D75E8651A7A3 on how to write such answers.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>49A4C1C8-A26A-4008-B8AD-ED8A462A2B09</p>
 </div>
@@ -647,7 +687,7 @@ Please refer E588B3E3-4F4F-478B-BFDF-D75E8651A7A3 on how to write such answers.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -666,15 +706,21 @@ What is the sum of the numbers?
 <div class='workings'>
 <div class='working'>
 
-Let the first number be x, so consecutive odd numbers will be x + 2 and x + 4
+Let the first number be a, so consecutive odd numbers will be a + 2 and a + 4
 
 $
 \begin{aligned}
-x \times ( x + 2 ) \times ( x + 4 )                         &= 9177 \\\\
-x                                                           &= \sqrt[3]{9177} \\\\
-x                                                           &= 21 \, \text{approx.} \\\\
+a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
+a                                                           &= \sqrt[3]{9177} \\\\
+a                                                           &= 21 \, \text{approx.} \\\\
 \end{aligned}
 $
+
+|    Numbers     |  Product  |
+|----------------|-----------|
+| $17, 19, 21$   |  $6783$   |
+| $19, 21, 23$   |  $9177$   |
+| $21, 23, 25$   |  $12075$  |
 
 So the numbers are $= 19 , 21 , 23$
 
@@ -692,15 +738,21 @@ $63$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first number be x, so consecutive odd numbers will be x + 2 and x + 4
+<pre class='language-latex'><code class='language-latex'>Let the first number be a, so consecutive odd numbers will be a + 2 and a + 4
 
 $
 \begin{aligned}
-x \times ( x + 2 ) \times ( x + 4 )                         &= 9177 \\\\
-x                                                           &= \sqrt[3]{9177} \\\\
-x                                                           &= 21 \, \text{approx.} \\\\
+a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
+a                                                           &= \sqrt[3]{9177} \\\\
+a                                                           &= 21 \, \text{approx.} \\\\
 \end{aligned}
 $
+
+|    Numbers     |  Product  |
+|----------------|-----------|
+| $17, 19, 21$   |  $6783$   |
+| $19, 21, 23$   |  $9177$   |
+| $21, 23, 25$   |  $12075$  |
 
 So the numbers are $= 19 , 21 , 23$
 
@@ -780,7 +832,7 @@ Refer 818A3399-A21C-4308-BB9A-424A3CC74F98 on how to write that.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3C79F838-BEBE-4053-8F46-6B4FCDC896A9</p>
 </div>
@@ -794,7 +846,7 @@ Refer 818A3399-A21C-4308-BB9A-424A3CC74F98 on how to write that.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1343,8 +1395,10 @@ $
 \begin{aligned}
 &= 1 \div 2 - 4 \div 6 \\\\
 &= \dfrac{1}{2} - \dfrac{4}{6} \\\\
-&= \dfrac{1 \times 3 - 4}{6} \\\\
-&= \dfrac{-1}{6}
+&= \dfrac{1 \times 3} {2 \times 3} - \dfrac{4} {6} \\\\
+&= \dfrac{3} {6} - \dfrac{4} {6} \\\\
+&= \dfrac{3 - 4}{6} \\\\
+&= -\dfrac{1}{6}
 \end{aligned}
 $
 
@@ -1353,7 +1407,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{-1} {6}$
+$-\dfrac{1} {6}$
 
 </div>
 </div>
@@ -1366,8 +1420,10 @@ $
 \begin{aligned}
 &= 1 \div 2 - 4 \div 6 \\\\
 &= \dfrac{1}{2} - \dfrac{4}{6} \\\\
-&= \dfrac{1 \times 3 - 4}{6} \\\\
-&= \dfrac{-1}{6}
+&= \dfrac{1 \times 3} {2 \times 3} - \dfrac{4} {6} \\\\
+&= \dfrac{3} {6} - \dfrac{4} {6} \\\\
+&= \dfrac{3 - 4}{6} \\\\
+&= -\dfrac{1}{6}
 \end{aligned}
 $
 </code></pre>
@@ -1381,7 +1437,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{-1} {6}$
+<pre class='language-latex'><code class='language-latex'>$-\dfrac{1} {6}$
 </code></pre>
 </div>
 </div>
@@ -1440,7 +1496,7 @@ write as - \dfrac{1}{6}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D0BF2888-B08F-44A4-8B38-D6AF9C208CBC</p>
 </div>
@@ -1454,7 +1510,7 @@ write as - \dfrac{1}{6}
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1512,10 +1568,15 @@ $9 \times 5 \div 2 + 1 = 15$
 <div class='workings'>
 <div class='working'>
 
+$((9 \times 5) \div (2 + 1)) = 15$
+
+Let's verify.
+
 $
 \begin{aligned}
-&= 9 \times 5 \div 2 + 1 = 15\\\\
-&= (9 \times 5) \div (2 + 1) = 15
+&= (9 \times 5) \div (2 + 1) \\\\
+&= 45 \div 3 \\\\
+&= 15
 \end{aligned}
 $
 
@@ -1531,10 +1592,15 @@ $(9 \times 5) \div (2 + 1)$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$((9 \times 5) \div (2 + 1)) = 15$
+
+Let's verify.
+
+$
 \begin{aligned}
-&= 9 \times 5 \div 2 + 1 = 15\\\\
-&= (9 \times 5) \div (2 + 1) = 15
+&= (9 \times 5) \div (2 + 1) \\\\
+&= 45 \div 3 \\\\
+&= 15
 \end{aligned}
 $
 </code></pre>
@@ -1565,10 +1631,15 @@ $3 \times 7 - 6 \times 4 - 3 = 15$
 <div class='workings'>
 <div class='working'>
 
+$((3 \times  7) - (6 \times (4 - 3))) = 15$
+
+Let's verify.
+
 $
 \begin{aligned}
-&= 3 \times 7 - 6 \times 4 + 3 = 15\\\\
-&= (3 \times (7 - 6) \times 4) + 3 = 15
+&= (3 \times 7 ) - (6 \times  (4 - 3)) \\\\
+&= 21 - 6 \\\\
+&= 15
 \end{aligned}
 $
 
@@ -1584,10 +1655,15 @@ $(3 \times (7 - 6) \times 4) + 3 = 15$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$((3 \times  7) - (6 \times (4 - 3))) = 15$
+
+Let's verify.
+
+$
 \begin{aligned}
-&= 3 \times 7 - 6 \times 4 + 3 = 15\\\\
-&= (3 \times (7 - 6) \times 4) + 3 = 15
+&= (3 \times 7 ) - (6 \times  (4 - 3)) \\\\
+&= 21 - 6 \\\\
+&= 15
 \end{aligned}
 $
 </code></pre>
@@ -1660,7 +1736,7 @@ Please refer E588B3E3-4F4F-478B-BFDF-D75E8651A7A3 on how to write such answers.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2FE10520-6A9E-4722-B9C3-7530630A3738</p>
 </div>
@@ -1674,7 +1750,7 @@ Please refer E588B3E3-4F4F-478B-BFDF-D75E8651A7A3 on how to write such answers.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1693,26 +1769,15 @@ $20.1 \times 1.2 =$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's first multiply the numbers ignoring the decimal points.
-
-
 $
-\begin{array}{cccccccccccccc}
-         & 2     & 0     & 1     \\
-{}\times &       & 1     & 2     \\
-\hline 
-         & 4     & 0     & 2     \\
-2        & 0     & 1     & 0     \\
-\hline 
-2        & 4     & 1     & 2     \\
-\end{array}
+\begin{aligned}
+&= 20.1 \times 1.2 \\\\
+&= \dfrac{2010} {100} \times \dfrac{12} {10} \\\\
+&= \dfrac{2010 \times 12} {100 \times 10} \\\\
+&= \dfrac{24120} {1000} \\\\
+&= 24.12
+\end{aligned}
 $
-
-Between the two numbers, the total number of digits after the decimal point is two.
-
-Let's account for the decimal point now. 
-
-$= 24.12$
 
 </div>
 </div>
@@ -1726,25 +1791,15 @@ $24.12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 20.1 \times 1.2 \\\\
+&= \dfrac{2010} {100} \times \dfrac{12} {10} \\\\
+&= \dfrac{2010 \times 12} {100 \times 10} \\\\
+&= \dfrac{24120} {1000} \\\\
+&= 24.12
+\end{aligned}
 $
-\begin{array}{cccccccccccccc}
-         & 2     & 0     & 1     \\
-{}\times &       & 1     & 2     \\
-\hline 
-         & 4     & 0     & 2     \\
-2        & 0     & 1     & 0     \\
-\hline 
-2        & 4     & 1     & 2     \\
-\end{array}
-$
-
-Between the two numbers, the total number of digits after the decimal point is two.
-
-Let's account for the decimal point now. 
-
-$= 24.12$
 </code></pre>
 </div>
 </div>
@@ -1808,7 +1863,7 @@ this does not seem right, you need to use previous answer, look at pdf and do ag
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2AF551EB-ACA0-4BF6-B435-AE0B4D255622</p>
 </div>
@@ -1822,7 +1877,7 @@ this does not seem right, you need to use previous answer, look at pdf and do ag
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1888,8 +1943,13 @@ and
 
 $
 \begin{aligned}
-799 \div 17                                       &= 47 \\\\
-799 \div 47                                       &= 17
+&= 799 \div 47 \\\\
+&= \dfrac{799} {47} \\\\
+&= \dfrac{799 \times 17} {47 \times 17} \\\\
+&= \dfrac{799} {17} \times \dfrac{17} {47} \\\\
+&= 47 \times \dfrac{17} {47} \\\\
+&= \cancel {47} \times \dfrac{17} {\cancel {47}} \\\\
+&= 17
 \end{aligned}
 $
 
@@ -1907,8 +1967,13 @@ $17$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-799 \div 17                                       &= 47 \\\\
-799 \div 47                                       &= 17
+&= 799 \div 47 \\\\
+&= \dfrac{799} {47} \\\\
+&= \dfrac{799 \times 17} {47 \times 17} \\\\
+&= \dfrac{799} {17} \times \dfrac{17} {47} \\\\
+&= 47 \times \dfrac{17} {47} \\\\
+&= \cancel {47} \times \dfrac{17} {\cancel {47}} \\\\
+&= 17
 \end{aligned}
 $
 </code></pre>
@@ -1939,8 +2004,6 @@ $79900 \div 47 =$
 <div class='workings'>
 <div class='working'>
 
-Using the above answer
-
 $
 \begin{aligned}
 &= 79900 \div 47 \\\\
@@ -1962,9 +2025,7 @@ $1700$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Using the above answer
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 79900 \div 47 \\\\
 &= \dfrac {799} {47} \times 100 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-pr"
 title: "TopicPaper - Sequence - 3 - PR"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -192,7 +192,7 @@ The next term is calculated by subtracting $2.1$ from the previous term. Hence, 
 
 $
 \begin{matrix}
-&&  \footnotesize{\maroonC
+&   \footnotesize{\maroonC
  { (-2.1)} }  
 &&  \footnotesize{\maroonC
  { (-2.1)} }
@@ -238,7 +238,7 @@ The next term is calculated by subtracting $2.1$ from the previous term. Hence, 
 
 $
 \begin{matrix}
-&&  \footnotesize{\rtq_katex_color_info { (-2.1)} }  
+&   \footnotesize{\rtq_katex_color_info { (-2.1)} }  
 &&  \footnotesize{\rtq_katex_color_info { (-2.1)} }
 &&  \footnotesize{\rtq_katex_color_info { (-2.1)} }
 &&  \footnotesize{\rtq_katex_color_info { (-2.1)} }   
@@ -300,7 +300,7 @@ The next term is calculated by adding $12$ to the previous term. Hence, the sequ
 
 $
 \begin{matrix}
-&&  \footnotesize{\maroonC
+&   \footnotesize{\maroonC
  { (+12)} }   
 &&  \footnotesize{\maroonC
  { (+12)} }
@@ -348,7 +348,7 @@ The next term is calculated by adding $12$ to the previous term. Hence, the sequ
 
 $
 \begin{matrix}
-&&  \footnotesize{\rtq_katex_color_info { (+12)} }   
+&   \footnotesize{\rtq_katex_color_info { (+12)} }   
 &&  \footnotesize{\rtq_katex_color_info { (+12)} }
 &&  \footnotesize{\rtq_katex_color_info { (+12)} }
 &&  \footnotesize{\rtq_katex_color_info { (+12)} } 

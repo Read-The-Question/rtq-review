@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-7"
 title: "TopicPaper - Number - 7"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <div class='paper'>
 <div class='meta'>
@@ -328,10 +328,10 @@ $10236$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -445,10 +445,10 @@ $
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -556,10 +556,10 @@ $
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -657,10 +657,10 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1001,10 +1001,10 @@ $
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2145,10 +2145,10 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2537,7 +2537,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5DC95291-33D3-474E-ACDD-E60270873E53</p>
 </div>
@@ -2551,7 +2551,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2655,21 +2655,21 @@ Write in words the number $8014$.
 <div class='workings'>
 <div class='working'>
 
-$\text {Eight thousand and fourteen}$
+Eight thousand and fourteen
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Eight thousand and fourteen}$
+Eight thousand and fourteen
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Eight thousand and fourteen}$
+<pre class='language-latex'><code class='language-latex'>Eight thousand and fourteen
 </code></pre>
 </div>
 </div>
@@ -2681,7 +2681,7 @@ $\text {Eight thousand and fourteen}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Eight thousand and fourteen}$
+<pre class='language-latex'><code class='language-latex'>Eight thousand and fourteen
 </code></pre>
 </div>
 </div>
@@ -3146,7 +3146,7 @@ use array for part a
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6C394690-97C2-41D3-BCDE-D8847D0B113C</p>
 </div>
@@ -3160,7 +3160,7 @@ use array for part a
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3264,21 +3264,21 @@ Write in words the number $57210$
 <div class='workings'>
 <div class='working'>
 
-$\text {Fifty seven thousand two hundred and ten}$
+Fifty seven thousand two hundred and ten
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Fifty seven thousand two hundred and ten}$
+Fifty seven thousand two hundred and ten
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Fifty seven thousand two hundred and ten}$
+<pre class='language-latex'><code class='language-latex'>Fifty seven thousand two hundred and ten
 </code></pre>
 </div>
 </div>
@@ -3290,7 +3290,7 @@ $\text {Fifty seven thousand two hundred and ten}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Fifty seven thousand two hundred and ten}$
+<pre class='language-latex'><code class='language-latex'>Fifty seven thousand two hundred and ten
 </code></pre>
 </div>
 </div>
@@ -4108,10 +4108,10 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4286,10 +4286,10 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4506,7 +4506,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D1915A62-7372-477D-A35A-78B2C0261ECE</p>
 </div>
@@ -4520,7 +4520,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4698,15 +4698,19 @@ $600 \div ............. = 50$
 <div class='workings'>
 <div class='working'>
 
+Let the missing value $=a$
+
+As per the question,
+
 $
 \begin{aligned}
-600 \div 24                                             &= 25 \\\\
-\dfrac {600} {24}                                       &= 25 \\\\
-\dfrac {600 \times 2} {24}                              &= 25 \times 2 \\\\
-\dfrac {600 \times 2} {12 \times 2}                     &= 50 \\\\
-\dfrac {600 \times \cancel {2}} {12 \times \cancel {2}} &= 50 \\\\
-\dfrac {600} {12}                                       &= 50 \\\\
-600 \div 12                                             &= 50
+600 \div a                                              &= 50 \\\\
+\dfrac {600} {a}                                        &= 50 \\\\
+\dfrac {600} {50}                                       &= a \\\\
+\dfrac {600} {25 \times 2}                              &= a \\\\
+\dfrac {24} {2}                                         &= a \\\\
+12                                                      &= a \\\\
+a                                                       &= 12
 \end{aligned}
 $
 
@@ -4722,15 +4726,19 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
+
+As per the question,
+
+$
 \begin{aligned}
-600 \div 24                                             &= 25 \\\\
-\dfrac {600} {24}                                       &= 25 \\\\
-\dfrac {600 \times 2} {24}                              &= 25 \times 2 \\\\
-\dfrac {600 \times 2} {12 \times 2}                     &= 50 \\\\
-\dfrac {600 \times \cancel {2}} {12 \times \cancel {2}} &= 50 \\\\
-\dfrac {600} {12}                                       &= 50 \\\\
-600 \div 12                                             &= 50
+600 \div a                                              &= 50 \\\\
+\dfrac {600} {a}                                        &= 50 \\\\
+\dfrac {600} {50}                                       &= a \\\\
+\dfrac {600} {25 \times 2}                              &= a \\\\
+\dfrac {24} {2}                                         &= a \\\\
+12                                                      &= a \\\\
+a                                                       &= 12
 \end{aligned}
 $
 </code></pre>
@@ -4811,10 +4819,10 @@ c: Use algebra to solve it
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5589,7 +5597,7 @@ katex error part G
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F3144B09-1621-4BF8-A18D-56C923A48403</p>
 </div>
@@ -5603,7 +5611,7 @@ katex error part G
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5758,21 +5766,21 @@ Using only two of the cards, what is the largest possible **prime** number?
 <div class='workings'>
 <div class='working'>
 
-$87$
+$67$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$87$
+$67$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$87$
+<pre class='language-latex'><code class='language-latex'>$67$
 </code></pre>
 </div>
 </div>
@@ -5784,7 +5792,7 @@ $87$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$87$
+<pre class='language-latex'><code class='language-latex'>$67$
 </code></pre>
 </div>
 </div>
@@ -5803,7 +5811,14 @@ $\boxed{\phantom{1}}  \boxed{\phantom{1}} \times \boxed{\phantom{1}}$
 <div class='workings'>
 <div class='working'>
 
-$76 \times 8 = 608$
+| Possible numbers | Result  |
+|------------------|---------|
+|  $78 \times  6$  |  $468$  |
+|  $76 \times  8$  |  $608$  |
+|  $87 \times  6$  |  $522$  |
+|  $86 \times  7$  |  $602$  |
+
+Largest answer $= 76 \times 8 = 608$
 
 </div>
 </div>
@@ -5817,7 +5832,14 @@ $76 \times 8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$76 \times 8 = 608$
+<pre class='language-latex'><code class='language-latex'>| Possible numbers | Result  |
+|------------------|---------|
+|  $78 \times  6$  |  $468$  |
+|  $76 \times  8$  |  $608$  |
+|  $87 \times  6$  |  $522$  |
+|  $86 \times  7$  |  $602$  |
+
+Largest answer $= 76 \times 8 = 608$
 </code></pre>
 </div>
 </div>
@@ -7164,10 +7186,10 @@ $16$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7569,10 +7591,10 @@ $4765$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:10</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8179,10 +8201,10 @@ $5 \ \text {and} \ 11$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:23</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

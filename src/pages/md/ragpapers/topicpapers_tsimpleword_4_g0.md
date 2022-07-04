@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-g0"
 title: "TopicPaper - Simpleword - 4 - G0"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-03 23:17:19
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -448,7 +448,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D3368E54-0CBA-4F01-A1ED-0216CE3E57EE</p>
 </div>
@@ -456,13 +456,13 @@ $
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -491,10 +491,10 @@ $
                                    &= \dfrac {3} {3} - \dfrac {1} {3} \\\\
                                    &= \dfrac {3 - 1} {3} \\\\
                                    &= \dfrac {2} {3} \\\\
-                                   &= \dfrac {2} {3} \times \dfrac{2} {3} \\\\
+\text{fraction eaten by barbara}   &= \dfrac {2} {3} \times \dfrac{2} {3} \\\\
                                    &= \dfrac {2 \times 2} {3 \times 3} \\\\
                                    &= \dfrac {4} {9} \\\\
-                                   &= \dfrac {1} - \dfrac {4} {9} \\\\
+                                   &= 1 - \dfrac {4}{9} \\\\
                                    &= \dfrac {1 \times 9} {1 \times 9} - \dfrac {4}{9} \\\\
                                    &= \dfrac {9-4} {9} \\\\
                                    &= \dfrac {5} {9}
@@ -521,10 +521,10 @@ $\dfrac {5} {9}$
                                    &= \dfrac {3} {3} - \dfrac {1} {3} \\\\
                                    &= \dfrac {3 - 1} {3} \\\\
                                    &= \dfrac {2} {3} \\\\
-                                   &= \dfrac {2} {3} \times \dfrac{2} {3} \\\\
+\text{fraction eaten by barbara}   &= \dfrac {2} {3} \times \dfrac{2} {3} \\\\
                                    &= \dfrac {2 \times 2} {3 \times 3} \\\\
                                    &= \dfrac {4} {9} \\\\
-                                   &= \dfrac {1} - \dfrac {4} {9} \\\\
+                                   &= 1 - \dfrac {4}{9} \\\\
                                    &= \dfrac {1 \times 9} {1 \times 9} - \dfrac {4}{9} \\\\
                                    &= \dfrac {9-4} {9} \\\\
                                    &= \dfrac {5} {9}
@@ -584,7 +584,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F4ED2C3C-A52E-4DFA-B9E5-EDA177B567AC</p>
 </div>
@@ -592,13 +592,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -625,15 +625,13 @@ As per the question, tickets sold
 
 $
 \begin{aligned}
-\text{Total ticket sold }                                         &= \text{First week} + \text{Second week} + \text{Third week} \\\\
-                                                                  &= 2140 + (2140 - 320) + (2140 - 320 - 210) \\\\                                                                 
-                                                                  &= 2140 + 1820 + 1610 \\\\
-                                                                  &= 3960 + 1610 \\\\
-                                                                  &= 5570
+\text{Total ticket sold }    &= 2140 + (2140 - 320) + (2140 - 320 - 210) \\\\                                                                 
+                             &= 2140 + 1820 + 1610 \\\\
+                             &= 3960 + 1610 \\\\
+                             &= 5570
 \end{aligned}
 $
 
-Total tickets sold over three weeks $= 5570$
 
 </div>
 </div>
@@ -651,15 +649,13 @@ $5570$
 
 $
 \begin{aligned}
-\text{Total ticket sold }                                         &= \text{First week} + \text{Second week} + \text{Third week} \\\\
-                                                                  &= 2140 + (2140 - 320) + (2140 - 320 - 210) \\\\                                                                 
-                                                                  &= 2140 + 1820 + 1610 \\\\
-                                                                  &= 3960 + 1610 \\\\
-                                                                  &= 5570
+\text{Total ticket sold }    &= 2140 + (2140 - 320) + (2140 - 320 - 210) \\\\                                                                 
+                             &= 2140 + 1820 + 1610 \\\\
+                             &= 3960 + 1610 \\\\
+                             &= 5570
 \end{aligned}
 $
 
-Total tickets sold over three weeks $= 5570$
 </code></pre>
 </div>
 </div>
@@ -723,7 +719,7 @@ Last sentence : Total tickets sold over three weeks $= 5570$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1A84B2C9-4A73-42D5-8C02-943A1F327DCC</p>
 </div>
@@ -731,13 +727,13 @@ Last sentence : Total tickets sold over three weeks $= 5570$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -763,7 +759,7 @@ $
                                             &= \dfrac {5} {6 \times 5} \\\\
                                             &= \dfrac {\cancel{5}} {6 \times \cancel{5}} \\\\
                                             &= \dfrac {1} {6} \\\\
-\text{Rectangles required}                  &= \dfrac {2} {3} \ \text{of} \ 30 - 5 \\\\
+\text{Rectangles required}                  &= (\dfrac {2} {3} \times 30) - 5 \\\\
                                             &= \dfrac {2 \times 30} {3} - 5 \\\\
                                             &= \dfrac {60} {3} - 5 \\\\
                                             &= \dfrac {20 \times 3} {3} - 5 \\\\
@@ -778,9 +774,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text{Fraction of flag shaded} = \dfrac {1} {6}$
-
-$\text{Required rectangle to be shaded} = 15$
+$\dfrac {1} {6}, 15$
 
 </div>
 </div>
@@ -793,7 +787,7 @@ $\text{Required rectangle to be shaded} = 15$
                                             &= \dfrac {5} {6 \times 5} \\\\
                                             &= \dfrac {\cancel{5}} {6 \times \cancel{5}} \\\\
                                             &= \dfrac {1} {6} \\\\
-\text{Rectangles required}                  &= \dfrac {2} {3} \ \text{of} \ 30 - 5 \\\\
+\text{Rectangles required}                  &= (\dfrac {2} {3} \times 30) - 5 \\\\
                                             &= \dfrac {2 \times 30} {3} - 5 \\\\
                                             &= \dfrac {60} {3} - 5 \\\\
                                             &= \dfrac {20 \times 3} {3} - 5 \\\\
@@ -813,9 +807,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{Fraction of flag shaded} = \dfrac {1} {6}$
-
-$\text{Required rectangle to be shaded} = 15$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {6}, 15$
 </code></pre>
 </div>
 </div>
@@ -865,7 +857,7 @@ More changes required
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B97B18CD-B34D-453F-BF68-4ECBC5621406</p>
 </div>
@@ -873,13 +865,13 @@ More changes required
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:42</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -903,9 +895,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{First number}                             &= 1 \\\\
-\text{Last number}                              &= 40 \\\\
-\text{Difference between consecutive numbers}   &= 1 \\\\
+\text{First number}                             &= 0 \\\\
+\text{Last number}                              &= 39 \\\\
 \text{Total numbers}                            &= 40 \\\\
 \end{aligned}
 $
@@ -915,11 +906,11 @@ Let's find the sum of  first 40 whole numbers.
 $
 \begin{aligned}
 &= \dfrac {\text{Total numbers}} {2} \times (\text{First term + Last term}) \\\\
-&= \dfrac {40} {2} \times (1 + 40) \\\\
-&= \dfrac {2 \times 20} {2} \times 41 \\\\
-&= \dfrac {\cancel{2} \times 20} {\cancel{2}} \times 41 \\\\
-&= 20 \times 41 \\\\
-&= 820
+&= \dfrac {40} {2} \times (0 + 39) \\\\
+&= \dfrac {2 \times 20} {2} \times 39 \\\\
+&= \dfrac {\cancel{2} \times 20} {\cancel{2}} \times 39 \\\\
+&= 20 \times 39 \\\\
+&= 780
 \end{aligned}
 $
 
@@ -928,7 +919,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$820$
+$780$
 
 </div>
 </div>
@@ -939,9 +930,8 @@ $820$
 
 $
 \begin{aligned}
-\text{First number}                             &= 1 \\\\
-\text{Last number}                              &= 40 \\\\
-\text{Difference between consecutive numbers}   &= 1 \\\\
+\text{First number}                             &= 0 \\\\
+\text{Last number}                              &= 39 \\\\
 \text{Total numbers}                            &= 40 \\\\
 \end{aligned}
 $
@@ -951,11 +941,11 @@ Let's find the sum of  first 40 whole numbers.
 $
 \begin{aligned}
 &= \dfrac {\text{Total numbers}} {2} \times (\text{First term + Last term}) \\\\
-&= \dfrac {40} {2} \times (1 + 40) \\\\
-&= \dfrac {2 \times 20} {2} \times 41 \\\\
-&= \dfrac {\cancel{2} \times 20} {\cancel{2}} \times 41 \\\\
-&= 20 \times 41 \\\\
-&= 820
+&= \dfrac {40} {2} \times (0 + 39) \\\\
+&= \dfrac {2 \times 20} {2} \times 39 \\\\
+&= \dfrac {\cancel{2} \times 20} {\cancel{2}} \times 39 \\\\
+&= 20 \times 39 \\\\
+&= 780
 \end{aligned}
 $
 </code></pre>
@@ -969,7 +959,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$820$
+<pre class='language-latex'><code class='language-latex'>$780$
 </code></pre>
 </div>
 </div>
@@ -1012,7 +1002,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4252BA5D-0BF6-433E-9D77-6F405A9A2820</p>
 </div>
@@ -1020,13 +1010,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1045,9 +1035,8 @@ In a school there are $465$ boys, $531$ girls, and $89$ staff. How many people a
 
 $
 \begin{aligned}
-\text{Total people}                             &= \text{Total boys + Total girls + Total staff} \\\\
-                                                &= 465 + 531 + 89 \\\\
-                                                &= 1085
+\text{Total people} &= 465 + 531 + 89 \\\\
+&= 1085
 \end{aligned}
 $
 
@@ -1065,9 +1054,8 @@ $1085$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total people}                             &= \text{Total boys + Total girls + Total staff} \\\\
-                                                &= 465 + 531 + 89 \\\\
-                                                &= 1085
+\text{Total people} &= 465 + 531 + 89 \\\\
+&= 1085
 \end{aligned}
 $
 </code></pre>
@@ -1124,7 +1112,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D30B2018-F522-4962-8607-0CC146C6A765</p>
 </div>
@@ -1132,13 +1120,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1157,9 +1145,8 @@ A train carriage has $62$ seats, if the train has $12$ carriages what is the lar
 
 $
 \begin{aligned}
-\text{Largest no. of passengers}                   &= \text{Total seats per carriage} + \text{No. of carriages} \\\\
-                                                   &= 62 \times 12 \\\\
-                                                   &= 744
+\text{Largest no. of passengers} &= 62 \times 12 \\\\
+&= 744
 \end{aligned}
 $
 
@@ -1177,9 +1164,8 @@ $744$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Largest no. of passengers}                   &= \text{Total seats per carriage} + \text{No. of carriages} \\\\
-                                                   &= 62 \times 12 \\\\
-                                                   &= 744
+\text{Largest no. of passengers} &= 62 \times 12 \\\\
+&= 744
 \end{aligned}
 $
 </code></pre>
@@ -1236,7 +1222,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5E19CBBE-54A1-4C50-9739-F3060E708FD9</p>
 </div>
@@ -1244,13 +1230,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1271,8 +1257,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total spots}                                 &= 1 + 2 + 3 + 4 + 5 + 6 \\\\
-                                                   &= 21
+\text{Total spots} &= 1 + 2 + 3 + 4 + 5 + 6 \\\\
+ &= 21
 \end{aligned}
 $
 
@@ -1305,8 +1291,8 @@ $21$
 
 $
 \begin{aligned}
-\text{Total spots}                                 &= 1 + 2 + 3 + 4 + 5 + 6 \\\\
-                                                   &= 21
+\text{Total spots} &= 1 + 2 + 3 + 4 + 5 + 6 \\\\
+ &= 21
 \end{aligned}
 $
 </code></pre>
@@ -1376,7 +1362,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>03309616-DD87-4C53-89CA-064E7763B9C2</p>
 </div>
@@ -1384,13 +1370,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1409,9 +1395,8 @@ The bus from Redhill to London can hold $58$ passengers. If the bus travels to L
 
 $
 \begin{aligned}
-\text{Maximum passengers}                          &= \text{Total bus trips per day} \times \text{Total passengers per bus} \\\\
-                                                   &= 18 \times 58 \\\\
-                                                   &= 1044
+\text{Maximum passengers} &= 18 \times 58 \\\\
+&= 1044
 \end{aligned}
 $
 
@@ -1429,9 +1414,8 @@ $1044$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Maximum passengers}                          &= \text{Total bus trips per day} \times \text{Total passengers per bus} \\\\
-                                                   &= 18 \times 58 \\\\
-                                                   &= 1044
+\text{Maximum passengers} &= 18 \times 58 \\\\
+&= 1044
 \end{aligned}
 $
 </code></pre>
@@ -1488,7 +1472,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9696AFF2-8BB6-47BB-AB96-3D55F6294E9D</p>
 </div>
@@ -1496,13 +1480,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1521,9 +1505,8 @@ In a school there are $386$ boys, $435$ girls, and $76$ staff. How many people a
 
 $
 \begin{aligned}
-\text{Total people}                             &= \text{Total boys + Total girls + Total staff} \\\\
-                                                &= 386 + 435 + 76 \\\\
-                                                &= 897
+\text{Total people} &= 386 + 435 + 76 \\\\
+&= 897
 \end{aligned}
 $
 
@@ -1541,9 +1524,8 @@ $897$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total people}                             &= \text{Total boys + Total girls + Total staff} \\\\
-                                                &= 386 + 435 + 76 \\\\
-                                                &= 897
+\text{Total people} &= 386 + 435 + 76 \\\\
+&= 897
 \end{aligned}
 $
 </code></pre>
@@ -1600,7 +1582,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6AD5A951-0BD7-4634-81E4-6B0A6EF29F28</p>
 </div>
@@ -1608,13 +1590,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1633,9 +1615,8 @@ A bookshelf holds $28$ books. A local library has $87$ bookshelves. How many boo
 
 $
 \begin{aligned}
-\text{Total books}                              &= \text{Total bookshelves} \times \text{Books per bookshelf} \\\\
-                                                &= 87 \times 28 \\\\
-                                                &= 2436
+\text{Total books}&= 87 \times 28 \\\\
+&= 2436
 \end{aligned}
 $
 
@@ -1653,9 +1634,8 @@ $2436$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total books}                              &= \text{Total bookshelves} \times \text{Books per bookshelf} \\\\
-                                                &= 87 \times 28 \\\\
-                                                &= 2436
+\text{Total books}&= 87 \times 28 \\\\
+&= 2436
 \end{aligned}
 $
 </code></pre>
@@ -1712,7 +1692,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>32DC6924-3D42-4FC1-9F0E-EEE526815D65</p>
 </div>
@@ -1720,13 +1700,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1745,9 +1725,8 @@ The train from Brighton to London has $12$ carriages and each carriage can hold 
 
 $
 \begin{aligned}
-\text{Largest no. of passengers}                                    &= \text{Total seats per carriage} + \text{No. of carriages} \\\\
-                                                                    &= 48 \times 12 \\\\
-                                                                    &= 576
+\text{Largest no. of passengers} &= 48 \times 12 \\\\
+&= 576
 \end{aligned}
 $
 
@@ -1765,9 +1744,8 @@ $576$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Largest no. of passengers}                                    &= \text{Total seats per carriage} + \text{No. of carriages} \\\\
-                                                                    &= 48 \times 12 \\\\
-                                                                    &= 576
+\text{Largest no. of passengers} &= 48 \times 12 \\\\
+&= 576
 \end{aligned}
 $
 </code></pre>
@@ -1824,7 +1802,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>40F554A0-24C8-450E-8BE8-E1659D2E8274</p>
 </div>
@@ -1832,13 +1810,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1898,9 +1876,8 @@ How many bricks will there be in the wall?
 
 $
 \begin{aligned}
-\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
-                                                    &= 19 \times 14 \\\\
-                                                    &= 266
+\text{Total bricks} &= 19 \times 14 \\\\
+&= 266
 \end{aligned}
 $
 
@@ -1918,9 +1895,8 @@ $266$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
-                                                    &= 19 \times 14 \\\\
-                                                    &= 266
+\text{Total bricks} &= 19 \times 14 \\\\
+&= 266
 \end{aligned}
 $
 </code></pre>
@@ -1953,14 +1929,16 @@ He can lay 7 bricks every $5 \ \text{minutes}$. How long will it take him to bui
 
 $
 \begin{aligned}
-\text{Time to build the wall}                       &= \dfrac {\text{Total bricks}} {7} \times 5 \ \text{minutes} \\\\
-                                                    &= \dfrac {266} {7} \times 5 \\\\
-                                                    &= \dfrac {7 \times 38 \times 5} {7} \\\\
-                                                    &= \dfrac {\cancel{7} \times 38 \times 5} {\cancel{7}} \\\\
-                                                    &= 38 \times 5 \\\\
-                                                    &= 190 \ \text{minutes} \\\\
-                                                    &= 60 + 60 + 60 + 10 \\\\
-                                                    &= 3 \ \text{hours} \ 10 \ \text{minutes}
+\text{Time} &= \dfrac {\text{Total bricks}} {7} \times 5  \\\\
+&= \dfrac {266} {7} \times 5 \\\\
+&= \dfrac {7 \times 38 \times 5} {7} \\\\
+&= \dfrac {\cancel{7} \times 38 \times 5} {\cancel{7}} \\\\
+&= 38 \times 5 \\\\
+&= 190 \ \text{minutes} \\\\
+&= \dfrac{190}{60} \\\\
+&= \dfrac{19 \times 2 \times 5}{2 \times 5 \times 6} \\\\
+&= \dfrac{19 \times \cancel{2} \times \cancel{5}}{\cancel{2} \times \cancel{5} \times 6} \\\\
+&= 3 \ \text{hours} \ 10 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1978,14 +1956,16 @@ $3 \ \text{hours} \ 10 \ \text{minutes or } 190 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time to build the wall}                       &= \dfrac {\text{Total bricks}} {7} \times 5 \ \text{minutes} \\\\
-                                                    &= \dfrac {266} {7} \times 5 \\\\
-                                                    &= \dfrac {7 \times 38 \times 5} {7} \\\\
-                                                    &= \dfrac {\cancel{7} \times 38 \times 5} {\cancel{7}} \\\\
-                                                    &= 38 \times 5 \\\\
-                                                    &= 190 \ \text{minutes} \\\\
-                                                    &= 60 + 60 + 60 + 10 \\\\
-                                                    &= 3 \ \text{hours} \ 10 \ \text{minutes}
+\text{Time} &= \dfrac {\text{Total bricks}} {7} \times 5  \\\\
+&= \dfrac {266} {7} \times 5 \\\\
+&= \dfrac {7 \times 38 \times 5} {7} \\\\
+&= \dfrac {\cancel{7} \times 38 \times 5} {\cancel{7}} \\\\
+&= 38 \times 5 \\\\
+&= 190 \ \text{minutes} \\\\
+&= \dfrac{190}{60} \\\\
+&= \dfrac{19 \times 2 \times 5}{2 \times 5 \times 6} \\\\
+&= \dfrac{19 \times \cancel{2} \times \cancel{5}}{\cancel{2} \times \cancel{5} \times 6} \\\\
+&= 3 \ \text{hours} \ 10 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -2045,7 +2025,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>866159B1-4B81-4AB7-8216-C0F736137635</p>
 </div>
@@ -2053,13 +2033,13 @@ $
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2083,13 +2063,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Maximum passengers}                                           &= \text{Passengers per capsule} \times \text{No. of capsules} \\\\
-                                                                    &= 18 \times 32 \\\\
-                                                                    &= 576
+\text{Maximum passengers} &= 18 \times 32 \\\\
+&= 576
 \end{aligned}
 $
 
-The maximum number of passengers that can travel at any one time $= 576$
 
 </div>
 </div>
@@ -2107,13 +2085,11 @@ $576$
 
 $
 \begin{aligned}
-\text{Maximum passengers}                                           &= \text{Passengers per capsule} \times \text{No. of capsules} \\\\
-                                                                    &= 18 \times 32 \\\\
-                                                                    &= 576
+\text{Maximum passengers} &= 18 \times 32 \\\\
+&= 576
 \end{aligned}
 $
 
-The maximum number of passengers that can travel at any one time $= 576$
 </code></pre>
 </div>
 </div>
@@ -2168,7 +2144,7 @@ The maximum number of passengers that can travel at any one time $= 576$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6D64BD13-96F2-4FFB-B6AA-B83638EF2A64</p>
 </div>
@@ -2176,13 +2152,13 @@ The maximum number of passengers that can travel at any one time $= 576$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2206,7 +2182,7 @@ How tall will it be if its height increases by ten per cent?
 
 If the height is increased by $10\%$ then new height will be $100 + 10 = 110\%$ of the orginal price.
 
-Using this we get
+Using this to get
 
 $
 \begin{aligned}
@@ -2234,7 +2210,7 @@ $315 \ \text{cm}$
 
 <pre class='language-latex'><code class='language-latex'>If the height is increased by $10\%$ then new height will be $100 + 10 = 110\%$ of the orginal price.
 
-Using this we get
+Using this to get
 
 $
 \begin{aligned}
@@ -2309,10 +2285,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2450,10 +2426,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2565,7 +2541,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>81AD27ED-C5CF-411B-BCC2-A2463192D120</p>
 </div>
@@ -2573,13 +2549,13 @@ $
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2683,7 +2659,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9E6D5208-4E0F-419C-BB64-315F2E4817E5</p>
 </div>
@@ -2691,13 +2667,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2758,41 +2734,35 @@ What percentage does he give away?
 <div class='workings'>
 <div class='working'>
 
-Percentage of stickers given away = 100 - stickers pasted - stickers swapped
 
 $
 \begin{aligned}
-&= 100 - 70 - 25 \\\\
+\text{Give away} &= 100 - 70 - 25 \\\\
 &= 100 - 95 \\\\
 &= 5 \%
 \end{aligned}
 $
-
-Percentage of stickers Mark gives away $= 5 \%$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5 \%$
+$5\%$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Percentage of stickers given away = 100 - stickers pasted - stickers swapped
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= 100 - 70 - 25 \\\\
+\text{Give away} &= 100 - 70 - 25 \\\\
 &= 100 - 95 \\\\
 &= 5 \%
 \end{aligned}
 $
-
-Percentage of stickers Mark gives away $= 5 \%$
 </code></pre>
 </div>
 </div>
@@ -2804,7 +2774,7 @@ Percentage of stickers Mark gives away $= 5 \%$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5 \%$
+<pre class='language-latex'><code class='language-latex'>$5\%$
 </code></pre>
 </div>
 </div>
@@ -2830,13 +2800,12 @@ $
 &= 70 \% \ \text{of} \ 400 \\\\
 &= \dfrac {70} {100} \times 400 \\\\
 &= \dfrac {70 \times 400} {100} \\\\
-&= \dfrac {70 \times 4 \cancel{00}} {1 \cancel{00}} \\\\
-&= 70 \times 4 \\\\
+&= \dfrac {280 \times 2 \times 5 \times 2 \times 5} {\times 2 \times 5 \times 2 \times 5} \\\\
+&= \dfrac {280 \times \cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} {\times \cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} \\\\
 &= 280
 \end{aligned}
 $
 
-Number of stickers he sticks in his book $= 280$
 
 </div>
 </div>
@@ -2859,13 +2828,12 @@ $
 &= 70 \% \ \text{of} \ 400 \\\\
 &= \dfrac {70} {100} \times 400 \\\\
 &= \dfrac {70 \times 400} {100} \\\\
-&= \dfrac {70 \times 4 \cancel{00}} {1 \cancel{00}} \\\\
-&= 70 \times 4 \\\\
+&= \dfrac {280 \times 2 \times 5 \times 2 \times 5} {\times 2 \times 5 \times 2 \times 5} \\\\
+&= \dfrac {280 \times \cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} {\times \cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} \\\\
 &= 280
 \end{aligned}
 $
 
-Number of stickers he sticks in his book $= 280$
 </code></pre>
 </div>
 </div>
@@ -2903,13 +2871,12 @@ $
 &= 5 \% \ \text{of} \ 400 \\\\
 &= \dfrac {5}{100} \times 400 \\\\
 &= \dfrac {5 \times 400} {100} \\\\
-&= \dfrac {5 \times 4 \cancel{00}} {1 \cancel{00}} \\\\
-&= 5 \times 4 \\\\
+&= \dfrac {20 \times 2 \times 5 \times 2 \times 5} {\times 2 \times 5 \times 2 \times 5} \\\\
+&= \dfrac {20 \times \cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} {\times \cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} \\\\
 &= 20
 \end{aligned}
 $
 
-Number of stickers he gives away $= 20$
 
 </div>
 </div>
@@ -2932,13 +2899,12 @@ $
 &= 5 \% \ \text{of} \ 400 \\\\
 &= \dfrac {5}{100} \times 400 \\\\
 &= \dfrac {5 \times 400} {100} \\\\
-&= \dfrac {5 \times 4 \cancel{00}} {1 \cancel{00}} \\\\
-&= 5 \times 4 \\\\
+&= \dfrac {20 \times 2 \times 5 \times 2 \times 5} {\times 2 \times 5 \times 2 \times 5} \\\\
+&= \dfrac {20 \times \cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} {\times \cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} \\\\
 &= 20
 \end{aligned}
 $
 
-Number of stickers he gives away $= 20$
 </code></pre>
 </div>
 </div>
@@ -3004,10 +2970,10 @@ Number of stickers he gives away $= 20$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3132,10 +3098,10 @@ The fraction of players wearing glasses $= \dfrac {1} {3}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3421,10 +3387,10 @@ $4$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3557,10 +3523,10 @@ $\text{Smallest} = 2002$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:41</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

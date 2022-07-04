@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-3-pr"
 title: "TopicPaper - Areaperimeter - 3 - PR"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1802,6 +1802,9 @@ Calculate the area of the design. Give the units of your answer.
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+
 As per the diagram, the shape can be divided into a rectangle and a triangle
 
 $
@@ -1834,6 +1837,8 @@ $104 \ \text {cm} ^ 2$
 rtq_abbr_md_add_drawing_ends
 
 rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_katex_formula_area_triangle_expanded
 
 As per the diagram, the shape can be divided into a rectangle and a triangle
 

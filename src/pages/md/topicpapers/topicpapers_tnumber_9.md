@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-9"
 title: "TopicPaper - Number - 9"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2600,7 +2600,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42073645-B85D-44D2-B12C-2CD2DF1CD58F</p>
 </div>
@@ -2614,7 +2614,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2633,26 +2633,15 @@ $20.30 × 2.5$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's first multiply the numbers ignoring the decimal points.
-
-
 $
-\begin{array}{cccccccccccccc}
-         &    2    &    0    &    3    &    0 \\
-{}\times &         &         &    2    &    5 \\
-\hline
-1        &    0    &    1    &    5    &    0 \\
-4        &    0    &    6    &    0    &    0 \\
-\hline
-5        &    0    &    7    &    5    &    0
-\end{array}
+\begin{aligned}
+&= 20.3 \times 2.5 \\\\
+&= \dfrac{2030} {100} \times \dfrac{25} {10} \\\\
+&= \dfrac{2030 \times 25} {100 \times 10} \\\\
+&= \dfrac{50750} {1000} \\\\
+&= 50.75
+\end{aligned}
 $
-
-Between the two numbers, the total number of digits after the decimal point is three.
-
-Let's account for the decimal point now. 
-
-$= 50.75$
 
 </div>
 </div>
@@ -2666,25 +2655,15 @@ $50.75$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 20.3 \times 2.5 \\\\
+&= \dfrac{2030} {100} \times \dfrac{25} {10} \\\\
+&= \dfrac{2030 \times 25} {100 \times 10} \\\\
+&= \dfrac{50750} {1000} \\\\
+&= 50.75
+\end{aligned}
 $
-\begin{array}{cccccccccccccc}
-         &    2    &    0    &    3    &    0 \\
-{}\times &         &         &    2    &    5 \\
-\hline
-1        &    0    &    1    &    5    &    0 \\
-4        &    0    &    6    &    0    &    0 \\
-\hline
-5        &    0    &    7    &    5    &    0
-\end{array}
-$
-
-Between the two numbers, the total number of digits after the decimal point is three.
-
-Let's account for the decimal point now. 
-
-$= 50.75$
 </code></pre>
 </div>
 </div>
@@ -2764,10 +2743,10 @@ Ping me if any doubt.
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:11</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4348,7 +4327,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AE100B61-1477-42BE-973B-C710053D72C4</p>
 </div>
@@ -4362,7 +4341,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4424,14 +4403,14 @@ What is $5371 \div 131?$
 
 $
 \begin{aligned}
-41 \times 131                                      &= 5371 \\\\
-41                                                 &= \dfrac {5371} {131}
+&= 5371 \div 131 \\\\
+&= \dfrac{5371} {131} \\\\
+&= \dfrac{5371 \times 41} {131 \times 41} \\\\
+&= \dfrac{5371 \times 41} {5371} \\\\
+&= \dfrac{\cancel {5371} \times 41} {\cancel {5371}} \\\\
+&= 41
 \end{aligned}
 $
-
-As per the question,
-
-$5371 \div 131 = 41$
 
 </div>
 </div>
@@ -4447,14 +4426,14 @@ $41$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-41 \times 131                                      &= 5371 \\\\
-41                                                 &= \dfrac {5371} {131}
+&= 5371 \div 131 \\\\
+&= \dfrac{5371} {131} \\\\
+&= \dfrac{5371 \times 41} {131 \times 41} \\\\
+&= \dfrac{5371 \times 41} {5371} \\\\
+&= \dfrac{\cancel {5371} \times 41} {\cancel {5371}} \\\\
+&= 41
 \end{aligned}
 $
-
-As per the question,
-
-$5371 \div 131 = 41$
 </code></pre>
 </div>
 </div>
@@ -4483,15 +4462,13 @@ What is $4.1 \times 13.1$
 <div class='workings'>
 <div class='working'>
 
-As per the question, 
-
-$41 \times 131 = 5371$
-
-To find $4.1 \times 13.1$ we need to count the total number of digits after the decimal points and  account for the same in the answer given above.
-
 $
 \begin{aligned}
-4.1 \times 13.1                                    &= 53.71
+&= 4.1 \times 13.1 \\\\
+&= \dfrac{41} {10} \times \dfrac{131} {10} \\\\
+&= \dfrac{41 \times 131} {10 \times 10} \\\\
+&= \dfrac{5371} {100} \\\\
+&= 53.71
 \end{aligned}
 $
 
@@ -4507,15 +4484,13 @@ $53.71$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, 
-
-$41 \times 131 = 5371$
-
-To find $4.1 \times 13.1$ we need to count the total number of digits after the decimal points and  account for the same in the answer given above.
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-4.1 \times 13.1                                    &= 53.71
+&= 4.1 \times 13.1 \\\\
+&= \dfrac{41} {10} \times \dfrac{131} {10} \\\\
+&= \dfrac{41 \times 131} {10 \times 10} \\\\
+&= \dfrac{5371} {100} \\\\
+&= 53.71
 \end{aligned}
 $
 </code></pre>
@@ -4592,10 +4567,10 @@ This is not done as per the templates for using the previous answers. Please loo
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:33</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5002,7 +4977,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>090C6174-3961-4CC8-A0F4-F54FAA46018D</p>
 </div>
@@ -5016,7 +4991,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5076,18 +5051,16 @@ Using the information given above, what is $7504 \div 56$?
 <div class='workings'>
 <div class='working'>
 
-Using the information given above,
-
 $
 \begin{aligned}
-56 \times 134              &= 7504 \\\\
-134                        &= \dfrac {7504} {56}
+&= 7504 \div 56 \\\\
+&= \dfrac{7504} {56} \\\\
+&= \dfrac{7504 \times 134} {56 \times 134} \\\\
+&= \dfrac{7504 \times 134} {7504} \\\\
+&= \dfrac{\cancel {7504} \times 134} {\cancel {7504}} \\\\
+&= 134
 \end{aligned}
 $
-
-As per the question,
-
-$7504 \div 56 = 134$
 
 </div>
 </div>
@@ -5101,18 +5074,16 @@ $134$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Using the information given above,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-56 \times 134              &= 7504 \\\\
-134                        &= \dfrac {7504} {56}
+&= 7504 \div 56 \\\\
+&= \dfrac{7504} {56} \\\\
+&= \dfrac{7504 \times 134} {56 \times 134} \\\\
+&= \dfrac{7504 \times 134} {7504} \\\\
+&= \dfrac{\cancel {7504} \times 134} {\cancel {7504}} \\\\
+&= 134
 \end{aligned}
 $
-
-As per the question,
-
-$7504 \div 56 = 134$
 </code></pre>
 </div>
 </div>
@@ -5244,10 +5215,10 @@ This is not done as per the templates for using the previous answers. Please loo
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:33</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5468,10 +5439,10 @@ $
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6002,10 +5973,10 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6366,10 +6337,10 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7980,10 +7951,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

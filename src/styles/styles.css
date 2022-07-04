@@ -160,8 +160,9 @@ img {
     /* background-color: lightgreen; */
     /* background-color: tomato;
     background-color: rgba(204,204,0, 1); */
-    background-color: rgba(255,215,0, 1);
+    /* background-color: rgba(255,215,0, 1); */
     /* background-color: yellow; */
+    background-color: tomato;
 
 }
 
@@ -344,8 +345,8 @@ button.rag_prpcr {
     padding: 20px 20px;
     background-color: gold;
     /* background-color: orangered; */
-    /* background-color: tomato; */
-    background-color: rgba(255,215,0, 1);
+    background-color: tomato;
+    /* background-color: rgba(255,215,0, 1); */
 }
 
 

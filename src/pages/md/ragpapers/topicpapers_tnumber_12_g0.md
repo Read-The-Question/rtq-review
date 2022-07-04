@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-g0"
 title: "TopicPaper - Number - 12 - G0"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E909E88A-3D58-42B1-A05B-AA2C4278F1EB</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-03 23:17:19
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -139,7 +139,7 @@ $
     &   5   &   0   &   2   &   1 \\
 {}- &   3   &   8   &   7   &   9 \\
 \hline
-    &   8   &   9   &   0   &   0
+    &   1   &   1   &   4   &   2
 \end{array}
 $
 
@@ -160,7 +160,7 @@ $1142$
     &   5   &   0   &   2   &   1 \\
 {}- &   3   &   8   &   7   &   9 \\
 \hline
-    &   8   &   9   &   0   &   0
+    &   1   &   1   &   4   &   2
 \end{array}
 $
 </code></pre>
@@ -229,7 +229,7 @@ part b answer is incorrect, probably added instead of subtraction.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A8254932-C5B4-4454-AA48-5D0F9228C890</p>
 </div>
@@ -243,7 +243,7 @@ part b answer is incorrect, probably added instead of subtraction.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -308,7 +308,7 @@ $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
 &= 12 \times 100 \ \text{cm} + 37 \ \text{cm} \\\\
-&= 1200 \ \text{cm} + 37 \ \text{cm} \\\\
+&= 1200 + 37  \\\\
 &= 1237 \ \text{cm}
 \end{aligned}
 $
@@ -331,7 +331,7 @@ $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
 &= 12 \times 100 \ \text{cm} + 37 \ \text{cm} \\\\
-&= 1200 \ \text{cm} + 37 \ \text{cm} \\\\
+&= 1200 + 37  \\\\
 &= 1237 \ \text{cm}
 \end{aligned}
 $
@@ -370,8 +370,10 @@ $
 \begin{aligned}
 &= 6.3 \ \text{km} - 140 \ \text{m} \\\\
 &= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
-&= 6300 \ \text{m} - 140 \ \text{m} \\\\
-&= 6160 \ \text{m}
+&= 6300 - 140 \\\\
+&= 6160 \ \text{m} \\\\
+&= 6160 \times 100 \ \text{cm} \\\\
+&= 616000 
 \end{aligned}
 $
 
@@ -393,8 +395,10 @@ $
 \begin{aligned}
 &= 6.3 \ \text{km} - 140 \ \text{m} \\\\
 &= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
-&= 6300 \ \text{m} - 140 \ \text{m} \\\\
-&= 6160 \ \text{m}
+&= 6300 - 140 \\\\
+&= 6160 \ \text{m} \\\\
+&= 6160 \times 100 \ \text{cm} \\\\
+&= 616000 
 \end{aligned}
 $
 </code></pre>
@@ -481,7 +485,7 @@ b. should the answer not be converted into cm finally?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C5226DA6-11EF-48BE-8568-05BE0F93C04B</p>
 </div>
@@ -495,7 +499,7 @@ b. should the answer not be converted into cm finally?
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -532,8 +536,7 @@ $
 <div class='working'>
 
 $
-14 \  
-\boxed{\times} \  2 \  \boxed{+} \ 3 = 31
+14 \  \boxed{\times} \  2 \  \boxed{+} \ 3 = 31
 $
 
 </div>
@@ -549,8 +552,7 @@ $\times, +$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-14 \  
-\boxed{\times} \  2 \  \boxed{+} \ 3 = 31
+14 \  \boxed{\times} \  2 \  \boxed{+} \ 3 = 31
 $
 </code></pre>
 </div>
@@ -585,8 +587,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-$120 \  
-\boxed{\div} \ 4 \  \boxed{+} \ 8 = 38
+$120 \  \boxed{\div} \ 4 \  \boxed{+} \ 8 = 38
 $
 
 </div>
@@ -603,8 +604,7 @@ $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$120 \  
-\boxed{\div} \ 4 \  \boxed{+} \ 8 = 38
+<pre class='language-latex'><code class='language-latex'>$120 \  \boxed{\div} \ 4 \  \boxed{+} \ 8 = 38
 $
 </code></pre>
 </div>
@@ -641,8 +641,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-$25 \  
-\boxed{+} \ 7 \  \boxed{-} \ 3 = 29
+$25 \  \boxed{+} \ 7 \  \boxed{-} \ 3 = 29
 $ 
 
 </div>
@@ -659,8 +658,7 @@ $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$25 \  
-\boxed{+} \ 7 \  \boxed{-} \ 3 = 29
+<pre class='language-latex'><code class='language-latex'>$25 \  \boxed{+} \ 7 \  \boxed{-} \ 3 = 29
 $ 
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-g0"
 title: "TopicPaper - Number - 14 - G0"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -186,7 +186,14 @@ $5 \ \boxed{ \phantom{+} } \ 3 =  12 \ \boxed{ \phantom{+} } \   4$
 
 $
 \begin{aligned}
-5 \ \boxed{+} \ 3 &=  12 \ \boxed{-} \ 4
+a \quad \boxed {\green
+{ - }}         \quad a     &= 0 \\\\
+a \quad \boxed {\green
+{ \div }}      \quad a     &= 1 \\\\
+a \quad \boxed {\green
+{ + }}         \quad a     &= 2a \\\\
+a \quad \boxed {\green
+{ \times }}    \quad a     &= a^2
 \end{aligned}
 $
 
@@ -204,7 +211,10 @@ $+,-$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-5 \ \boxed{+} \ 3 &=  12 \ \boxed{-} \ 4
+a \quad \boxed {\rtq_katex_color_answer{ - }}         \quad a     &= 0 \\\\
+a \quad \boxed {\rtq_katex_color_answer{ \div }}      \quad a     &= 1 \\\\
+a \quad \boxed {\rtq_katex_color_answer{ + }}         \quad a     &= 2a \\\\
+a \quad \boxed {\rtq_katex_color_answer{ \times }}    \quad a     &= a^2
 \end{aligned}
 $
 </code></pre>

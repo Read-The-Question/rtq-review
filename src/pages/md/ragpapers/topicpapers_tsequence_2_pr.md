@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-pr"
 title: "TopicPaper - Sequence - 2 - PR"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -804,9 +804,9 @@ $
 \begin{matrix}
 &   \footnotesize {\maroonC
  {(+7)} }
-&   \footnotesize {\maroonC
+&&  \footnotesize {\maroonC
  {(+7)} }
-&   \footnotesize {\maroonC
+&&  \footnotesize {\maroonC
  {(+7)} }
 &&  \footnotesize {\maroonC
  {(+7)} }
@@ -851,8 +851,8 @@ The next term is calculated by adding $7$ to the previous term. Hence, the seque
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+7)} }
-&   \footnotesize {\rtq_katex_color_info {(+7)} }
-&   \footnotesize {\rtq_katex_color_info {(+7)} }
+&&  \footnotesize {\rtq_katex_color_info {(+7)} }
+&&  \footnotesize {\rtq_katex_color_info {(+7)} }
 &&  \footnotesize {\rtq_katex_color_info {(+7)} }
 &&  \footnotesize {\rtq_katex_color_info {(+7)} }
 &&  \footnotesize {\rtq_katex_color_info {(+7)} }  \\
@@ -916,9 +916,9 @@ $
 \begin{matrix}
 &   \footnotesize {\maroonC
  {(+2)} }
-&   \footnotesize {\maroonC
+&&  \footnotesize {\maroonC
  {(+3)} }
-&   \footnotesize {\maroonC
+&&  \footnotesize {\maroonC
  {(+4)} }
 &&  \footnotesize {\maroonC
  {(+5)} }
@@ -961,8 +961,8 @@ $31$
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+2)} }
-&   \footnotesize {\rtq_katex_color_info {(+3)} }
-&   \footnotesize {\rtq_katex_color_info {(+4)} }
+&&  \footnotesize {\rtq_katex_color_info {(+3)} }
+&&  \footnotesize {\rtq_katex_color_info {(+4)} }
 &&  \footnotesize {\rtq_katex_color_info {(+5)} }
 &&  \footnotesize {\rtq_katex_color_info {(+6)} }
 &&  \footnotesize {\rtq_katex_color_info {(+7)} }  \\
@@ -1028,9 +1028,9 @@ $
 \begin{matrix}
 &   \footnotesize {\maroonC
  {(\div 2)} }
-&   \footnotesize {\maroonC
+&&  \footnotesize {\maroonC
  {(\div 2)} }
-&   \footnotesize {\maroonC
+&&  \footnotesize {\maroonC
  {(\div 2)} }
 &&  \footnotesize {\maroonC
  {(\div 2)} }
@@ -1047,7 +1047,7 @@ $
 \text {First missing number}    &= 6 \div 2 \\\\
                                 &= 3 \\\\
 \text {Second missing number}   &= 3 \div 2 \\\\
-                                &= \dfrac {3} {2}
+                                &= 1.5
 \end {aligned}
 $
 
@@ -1061,7 +1061,7 @@ $3$
 </div>
 <div class='answer'>
 
-$\dfrac {3} {2}$
+$1.5$
 
 </div>
 </div>
@@ -1075,8 +1075,8 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(\div 2)} }
-&   \footnotesize {\rtq_katex_color_info {(\div 2)} }
-&   \footnotesize {\rtq_katex_color_info {(\div 2)} }
+&&  \footnotesize {\rtq_katex_color_info {(\div 2)} }
+&&  \footnotesize {\rtq_katex_color_info {(\div 2)} }
 &&  \footnotesize {\rtq_katex_color_info {(\div 2)} }
 &&  \footnotesize {\rtq_katex_color_info {(\div 2)} }
 &&  \footnotesize {\rtq_katex_color_info {(\div 2)} }  \\
@@ -1089,7 +1089,7 @@ $
 \text {First missing number}    &= 6 \div 2 \\\\
                                 &= 3 \\\\
 \text {Second missing number}   &= 3 \div 2 \\\\
-                                &= \dfrac {3} {2}
+                                &= 1.5
 \end {aligned}
 $
 </code></pre>
@@ -1113,7 +1113,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {3} {2}$
+<pre class='language-latex'><code class='language-latex'>$1.5$
 </code></pre>
 </div>
 </div>
@@ -1140,9 +1140,9 @@ $
 \begin{matrix}
 &   \footnotesize {\maroonC
  {(+1)} }
-&   \footnotesize {\maroonC
+&&  \footnotesize {\maroonC
  {(+3)} }
-&   \footnotesize {\maroonC
+&&  \footnotesize {\maroonC
  {(+4)} }
 &&  \footnotesize {\maroonC
  {(+7)} }
@@ -1187,8 +1187,8 @@ $76$
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+1)} }
-&   \footnotesize {\rtq_katex_color_info {(+3)} }
-&   \footnotesize {\rtq_katex_color_info {(+4)} }
+&&  \footnotesize {\rtq_katex_color_info {(+3)} }
+&&  \footnotesize {\rtq_katex_color_info {(+4)} }
 &&  \footnotesize {\rtq_katex_color_info {(+7)} }
 &&  \footnotesize {\rtq_katex_color_info {(+11)} }
 &&  \footnotesize {\rtq_katex_color_info {(+18)} }

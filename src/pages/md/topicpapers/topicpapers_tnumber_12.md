@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,10 +23,10 @@ date: 2022-07-03 23:17:19
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -102,10 +102,10 @@ $\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -172,10 +172,10 @@ $14 \times 14 = 196$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -238,10 +238,10 @@ $84$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:9</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -456,7 +456,7 @@ Hence the square root would be $= 6666666667$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E909E88A-3D58-42B1-A05B-AA2C4278F1EB</p>
 </div>
@@ -470,7 +470,7 @@ Hence the square root would be $= 6666666667$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -590,7 +590,7 @@ $
     &   5   &   0   &   2   &   1 \\
 {}- &   3   &   8   &   7   &   9 \\
 \hline
-    &   8   &   9   &   0   &   0
+    &   1   &   1   &   4   &   2
 \end{array}
 $
 
@@ -611,7 +611,7 @@ $1142$
     &   5   &   0   &   2   &   1 \\
 {}- &   3   &   8   &   7   &   9 \\
 \hline
-    &   8   &   9   &   0   &   0
+    &   1   &   1   &   4   &   2
 \end{array}
 $
 </code></pre>
@@ -932,7 +932,7 @@ Same as part a
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A8254932-C5B4-4454-AA48-5D0F9228C890</p>
 </div>
@@ -946,7 +946,7 @@ Same as part a
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1011,7 +1011,7 @@ $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
 &= 12 \times 100 \ \text{cm} + 37 \ \text{cm} \\\\
-&= 1200 \ \text{cm} + 37 \ \text{cm} \\\\
+&= 1200 + 37  \\\\
 &= 1237 \ \text{cm}
 \end{aligned}
 $
@@ -1034,7 +1034,7 @@ $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
 &= 12 \times 100 \ \text{cm} + 37 \ \text{cm} \\\\
-&= 1200 \ \text{cm} + 37 \ \text{cm} \\\\
+&= 1200 + 37  \\\\
 &= 1237 \ \text{cm}
 \end{aligned}
 $
@@ -1073,8 +1073,10 @@ $
 \begin{aligned}
 &= 6.3 \ \text{km} - 140 \ \text{m} \\\\
 &= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
-&= 6300 \ \text{m} - 140 \ \text{m} \\\\
-&= 6160 \ \text{m}
+&= 6300 - 140 \\\\
+&= 6160 \ \text{m} \\\\
+&= 6160 \times 100 \ \text{cm} \\\\
+&= 616000 
 \end{aligned}
 $
 
@@ -1096,8 +1098,10 @@ $
 \begin{aligned}
 &= 6.3 \ \text{km} - 140 \ \text{m} \\\\
 &= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
-&= 6300 \ \text{m} - 140 \ \text{m} \\\\
-&= 6160 \ \text{m}
+&= 6300 - 140 \\\\
+&= 6160 \ \text{m} \\\\
+&= 6160 \times 100 \ \text{cm} \\\\
+&= 616000 
 \end{aligned}
 $
 </code></pre>
@@ -1435,7 +1439,7 @@ $None (or) 0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C5226DA6-11EF-48BE-8568-05BE0F93C04B</p>
 </div>
@@ -1449,7 +1453,7 @@ $None (or) 0$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1486,8 +1490,7 @@ $
 <div class='working'>
 
 $
-14 \  
-\boxed{\times} \  2 \  \boxed{+} \ 3 = 31
+14 \  \boxed{\times} \  2 \  \boxed{+} \ 3 = 31
 $
 
 </div>
@@ -1503,8 +1506,7 @@ $\times, +$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-14 \  
-\boxed{\times} \  2 \  \boxed{+} \ 3 = 31
+14 \  \boxed{\times} \  2 \  \boxed{+} \ 3 = 31
 $
 </code></pre>
 </div>
@@ -1539,8 +1541,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-$120 \  
-\boxed{\div} \ 4 \  \boxed{+} \ 8 = 38
+$120 \  \boxed{\div} \ 4 \  \boxed{+} \ 8 = 38
 $
 
 </div>
@@ -1557,8 +1558,7 @@ $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$120 \  
-\boxed{\div} \ 4 \  \boxed{+} \ 8 = 38
+<pre class='language-latex'><code class='language-latex'>$120 \  \boxed{\div} \ 4 \  \boxed{+} \ 8 = 38
 $
 </code></pre>
 </div>
@@ -1595,8 +1595,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-$25 \  
-\boxed{+} \ 7 \  \boxed{-} \ 3 = 29
+$25 \  \boxed{+} \ 7 \  \boxed{-} \ 3 = 29
 $ 
 
 </div>
@@ -1613,8 +1612,7 @@ $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$25 \  
-\boxed{+} \ 7 \  \boxed{-} \ 3 = 29
+<pre class='language-latex'><code class='language-latex'>$25 \  \boxed{+} \ 7 \  \boxed{-} \ 3 = 29
 $ 
 </code></pre>
 </div>
@@ -4093,10 +4091,10 @@ $
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6202,10 +6200,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6296,10 +6294,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_as_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

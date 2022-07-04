@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-pr-prns"
 title: "TopicPaper - Sequence - 4 - PR - PRNS"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1650,7 +1650,6 @@ $
 
 $
 \begin{aligned}
-
 \text {Missing number}      &= 5 + 8 \\\\
                             &= 13
 \end{aligned}
@@ -1686,7 +1685,6 @@ $
 
 $
 \begin{aligned}
-
 \text {Missing number}      &= 5 + 8 \\\\
                             &= 13
 \end{aligned}

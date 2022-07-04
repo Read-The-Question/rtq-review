@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-1"
 title: "TopicPaper - Sequence - 1"
-date: 2022-07-03 23:17:19
+date: 2022-07-04 22:03:52
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1506,7 +1506,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>EA85D0A0-5E18-41C9-B6EB-C943BAE67410</p>
 </div>
@@ -1517,7 +1517,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1620,7 +1620,7 @@ $
 {(\div 4)}}
 &&  \footnotesize{\maroonC
 {(+ 11)}}  \\
-4,  &&    12,  &&  \ldots,  &&   \ldots  && \ldots
+4,  &&    12,  &&  \ldots,  &&   \ldots,  && \ldots
 \end{matrix}
 $
 
@@ -1659,7 +1659,7 @@ $
 &&  \footnotesize{\rtq_katex_color_info{(\times 3)}}
 &&  \footnotesize{\rtq_katex_color_info{(\div 4)}}
 &&  \footnotesize{\rtq_katex_color_info{(+ 11)}}  \\
-4,  &&    12,  &&  \ldots,  &&   \ldots  && \ldots
+4,  &&    12,  &&  \ldots,  &&   \ldots,  && \ldots
 \end{matrix}
 $
 
@@ -1751,40 +1751,6 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='EA85D0A0-5E18-41C9-B6EB-C943BAE67410' id='FORM-EA85D0A0-5E18-41C9-B6EB-C943BAE67410' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-EA85D0A0-5E18-41C9-B6EB-C943BAE67410'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -2550,10 +2516,10 @@ $
 
 $
 \begin{aligned}
-\text{First missing number}       &= 32 \times 2 \\\\
-                                  &= 64 \\\\
-\text{Second missing number}      &= 64 \times 2 \\\\
-                                  &= 128
+\text{First missing number}       &= 32 \times 4 \\\\
+                                  &= 128 \\\\
+\text{Second missing number}      &= 128 \times 4 \\\\
+                                  &= 512
 \end{aligned}
 $
 
@@ -2562,12 +2528,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$64$
+$128$
 
 </div>
 <div class='answer'>
 
-$128$
+$512$
 
 </div>
 </div>
@@ -2591,10 +2557,10 @@ $
 
 $
 \begin{aligned}
-\text{First missing number}       &= 32 \times 2 \\\\
-                                  &= 64 \\\\
-\text{Second missing number}      &= 64 \times 2 \\\\
-                                  &= 128
+\text{First missing number}       &= 32 \times 4 \\\\
+                                  &= 128 \\\\
+\text{Second missing number}      &= 128 \times 4 \\\\
+                                  &= 512
 \end{aligned}
 $
 </code></pre>
@@ -2608,7 +2574,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$64$
+<pre class='language-latex'><code class='language-latex'>$128$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2618,7 +2584,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$128$
+<pre class='language-latex'><code class='language-latex'>$512$
 </code></pre>
 </div>
 </div>
@@ -5196,7 +5162,7 @@ $
 $
 \begin {aligned}
 &= 26 + 3 \times 8 \\\\
-&= 26 + 24
+&= 26 + 24 \\\\
 &= 50
 \end {aligned}
 $
@@ -5231,7 +5197,7 @@ $
 $
 \begin {aligned}
 &= 26 + 3 \times 8 \\\\
-&= 26 + 24
+&= 26 + 24 \\\\
 &= 50
 \end {aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "TopicPaper - Time - 1"
-date: 2022-07-05 15:33:09
+date: 2022-07-05 17:37:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2880,7 +2880,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>654FC6F2-DF8B-40E0-8729-7984D08B8A1D</p>
 </div>
@@ -2891,7 +2891,7 @@ TODOANSWER
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2982,36 +2982,33 @@ How many buses are needed to transport $175$ students to the athletics stadium?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {Buses needed } &= 175 \div 12 \\\\
+                      &= 14.58 \\\\
+                      &= 15
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$15$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Buses needed } &= 175 \div 12 \\\\
+                      &= 14.58 \\\\
+                      &= 15
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3023,17 +3020,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$15$
 </code></pre>
 </div>
 </div>
@@ -3053,36 +3040,37 @@ During the $12$ weeks of term, how many days did he arrive late?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Number of days that have 's' in their name = 3
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+\text {Number of days he arrive late } &= 12 \times 3 \\\\
+                                       &=36
+\end{aligned}
+$
 
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$36$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Number of days that have 's' in their name = 3
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\text {Number of days he arrive late } &= 12 \times 3 \\\\
+                                       &=36
+\end{aligned}
+$
+
 </code></pre>
 </div>
 </div>
@@ -3094,17 +3082,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$36$
 </code></pre>
 </div>
 </div>
@@ -3124,36 +3102,82 @@ How much money does he have left?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+The time is given in hours, but the final answer has to be in minutes.
+
+$
+\begin {aligned}
+\text {Money spent on game}  &= 25 \% \ \text {of } \pounds 120  \\\\
+                    &= \dfrac {25} {100} \times 120 \\\\
+                    &= \dfrac {25 \times 120} {100} \\\\
+                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} \\\\
+                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} \\\\
+                    &= \pounds 30
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Money spent on DVD}  &= 10 \% \ \text {of } \pounds (120 - 30)  \\\\
+                            &= 10 \% \ \text {of } \pounds 80  \\\\
+                            &= \dfrac {10} {100} \times 80 \\\\
+                            &= \pounds 8
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Money left}  &= 120 - 30 -8 \\\\
+                    &= \pounds 72
+\end {aligned}
+$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 72$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+The time is given in hours, but the final answer has to be in minutes.
+
+$
+\begin {aligned}
+\text {Money spent on game}  &= 25 \% \ \text {of } \pounds 120  \\\\
+                    &= \dfrac {25} {100} \times 120 \\\\
+                    &= \dfrac {25 \times 120} {100} \\\\
+                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} \\\\
+                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} \\\\
+                    &= \pounds 30
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Money spent on DVD}  &= 10 \% \ \text {of } \pounds (120 - 30)  \\\\
+                            &= 10 \% \ \text {of } \pounds 80  \\\\
+                            &= \dfrac {10} {100} \times 80 \\\\
+                            &= \pounds 8
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Money left}  &= 120 - 30 -8 \\\\
+                    &= \pounds 72
+\end {aligned}
+$
+
 </code></pre>
 </div>
 </div>
@@ -3165,17 +3189,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds 72$
 </code></pre>
 </div>
 </div>
@@ -3184,6 +3198,40 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' id='FORM-654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-654FC6F2-DF8B-40E0-8729-7984D08B8A1D'>Initial</p>
+</div>
 </div>
 </li>
 <li>

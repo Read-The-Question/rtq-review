@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tspeed-1"
 title: "TopicPaper - Speed - 1"
-date: 2022-07-05 15:33:09
+date: 2022-07-05 17:37:46
 ---
 <div class='paper'>
 <div class='meta'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-07-05 15:33:09
+date: 2022-07-05 17:37:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -7079,7 +7079,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>50218989-87F6-450D-87C8-BF8DFB4F2B75</p>
 </div>
@@ -7090,10 +7090,10 @@ $
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_g0</p>
+<p>rag_as_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7239,7 +7239,7 @@ Work out the sum of the largest and smallest numbers in the list.
 
 $
 \begin{aligned}
-\text{sum} &= 50.79 + 49.29 \\\\
+\text{Sum} &= 50.79 + 49.29 \\\\
 &= 100.08
 \end{aligned}
 $
@@ -7258,7 +7258,7 @@ $100.08$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{sum} &= 50.79 + 49.29 \\\\
+\text{Sum} &= 50.79 + 49.29 \\\\
 &= 100.08
 \end{aligned}
 $
@@ -7281,58 +7281,33 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Do not use begin aligned when only one number is required, just write $50.79$
-
-
-
-Change a, b 
-
-c: Add LHS
-
-
-
-Sum = 50.79 + 49.29
-
-    = 100.08
-
-
-
-c: Not done correctly, do it as simple word
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' id='FORM-50218989-87F6-450D-87C8-BF8DFB4F2B75' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' id='FORM-50218989-87F6-450D-87C8-BF8DFB4F2B75' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -7344,7 +7319,7 @@ c: Not done correctly, do it as simple word
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CA0467B7-80F4-4714-91E9-93A58BF64E09</p>
 </div>
@@ -7355,10 +7330,10 @@ c: Not done correctly, do it as simple word
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_g0</p>
+<p>rag_as_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7598,54 +7573,33 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-write a b c without begin aligned just like $45.56$
-
-
-
-d: not written in right style, drop all text and explanation
-
-
-
-= 1/2 (1/3 + 1/2) and solve from there using lcm etc
-
-
-
-d: not written all steps, write using lcm to add 2 fractions, look at other sample fractions in fraction - g2 to see how to to write.
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' id='FORM-CA0467B7-80F4-4714-91E9-93A58BF64E09' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' id='FORM-CA0467B7-80F4-4714-91E9-93A58BF64E09' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

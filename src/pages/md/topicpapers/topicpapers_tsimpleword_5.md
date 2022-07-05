@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-5"
 title: "TopicPaper - Simpleword - 5"
-date: 2022-07-05 15:33:09
+date: 2022-07-05 17:37:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -301,7 +301,7 @@ Refer to the corrections done in similar question in previous paper.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B8DCCFD7-123E-4363-91EB-FDD6690FA383</p>
 </div>
@@ -315,7 +315,7 @@ Refer to the corrections done in similar question in previous paper.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -337,11 +337,10 @@ In a giant tube of Fruit Pastilles, 20% are orange. If the tube has a total of 8
 
 $
 \begin{aligned}
-\text {Not orange}  &= 85- 20\% \times 85 \\\\
+\text {Not orange}  &= 85 - 20\% \times 85 \\\\
                     &= 85 - \dfrac {20} {100} \times 85 \\\\
-                    &= 85 - \dfrac {2 \cancel 0} {10 \cancel 0} \times 85 \\\\
-                    &= 85 - \dfrac {2 \times 17 \times 5} {2 \times 5} \\\\
-                    &= 85 - \dfrac {\cancel 2 \times 17 \times \cancel 5} {\cancel 2 \times \cancel 5} \\\\
+                    &= 85 - \dfrac{2 \times 2 \times 5 \times 17 \times 5} {2 \times 5 \times 2 \times 5} \\\\
+                    &= 85 - \dfrac{\cancel 2 \times \cancel 2 \times \cancel 5 \times 17 \times \cancel 5} {\cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} \\\\ 
                     &= 85 - 17 \\\\
                     &= 68
 \end{aligned}
@@ -361,11 +360,10 @@ $68$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Not orange}  &= 85- 20\% \times 85 \\\\
+\text {Not orange}  &= 85 - 20\% \times 85 \\\\
                     &= 85 - \dfrac {20} {100} \times 85 \\\\
-                    &= 85 - \dfrac {2 \cancel 0} {10 \cancel 0} \times 85 \\\\
-                    &= 85 - \dfrac {2 \times 17 \times 5} {2 \times 5} \\\\
-                    &= 85 - \dfrac {\cancel 2 \times 17 \times \cancel 5} {\cancel 2 \times \cancel 5} \\\\
+                    &= 85 - \dfrac{2 \times 2 \times 5 \times 17 \times 5} {2 \times 5 \times 2 \times 5} \\\\
+                    &= 85 - \dfrac{\cancel 2 \times \cancel 2 \times \cancel 5 \times 17 \times \cancel 5} {\cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} \\\\ 
                     &= 85 - 17 \\\\
                     &= 68
 \end{aligned}
@@ -424,7 +422,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8BD8C6A9-6A7F-4A9C-95F8-A5F6238FE933</p>
 </div>
@@ -438,7 +436,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -498,13 +496,13 @@ How many chocolates will each student receive?
 
 $
 \begin{aligned}
-\text {Each student will recieve}  &= \dfrac {36 \times 4} {27} \\\\
+\text {Student recieve}  &= \dfrac {36 \times 4} {27} \\\\
                                    &= \dfrac {144} {27} \\\\
-                                   &= 5 \dfrac {9} {27}
+                                   &= 5 \dfrac {9} {27} \\\\
+                                   &\approx 5
 \end{aligned}
 $
 
-Each student will recieve $5$ chocolates.
 
 </div>
 </div>
@@ -520,13 +518,13 @@ $5$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Each student will recieve}  &= \dfrac {36 \times 4} {27} \\\\
+\text {Student recieve}  &= \dfrac {36 \times 4} {27} \\\\
                                    &= \dfrac {144} {27} \\\\
-                                   &= 5 \dfrac {9} {27}
+                                   &= 5 \dfrac {9} {27} \\\\
+                                   &\approx 5
 \end{aligned}
 $
 
-Each student will recieve $5$ chocolates.
 </code></pre>
 </div>
 </div>
@@ -627,7 +625,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EB3F1B83-16B7-4CB0-98B2-F96141CC8059</p>
 </div>
@@ -641,7 +639,7 @@ $9$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -706,8 +704,8 @@ $
 \begin{aligned}
 &= 10 \% \text { of } \pounds 83 \\\\
 &= \dfrac {10} {100} \times 83 \\\\
-&= \dfrac {10 \times 83} {100} \\\\
-&= \dfrac {1 \cancel {0} \times 83} {10 \cancel {0}} \\\\
+&= \dfrac {2 \times 5 \times 83} {10 \times 2 \times 5} \\\\
+&= \dfrac {\cancel 2 \times \cancel 5 \times 83} {10 \times \cancel 2 \times \cancel 5} \\\\
 &= \dfrac {83} {10} \\\\
 &= \pounds 8.3
 \end{aligned}
@@ -729,8 +727,8 @@ $\pounds{8.3}$
 \begin{aligned}
 &= 10 \% \text { of } \pounds 83 \\\\
 &= \dfrac {10} {100} \times 83 \\\\
-&= \dfrac {10 \times 83} {100} \\\\
-&= \dfrac {1 \cancel {0} \times 83} {10 \cancel {0}} \\\\
+&= \dfrac {2 \times 5 \times 83} {10 \times 2 \times 5} \\\\
+&= \dfrac {\cancel 2 \times \cancel 5 \times 83} {10 \times \cancel 2 \times \cancel 5} \\\\
 &= \dfrac {83} {10} \\\\
 &= \pounds 8.3
 \end{aligned}
@@ -831,8 +829,8 @@ $
 &= 120 \times (1 + \dfrac {30} {100}) \\\\
 &= 120 \times (\dfrac {100 + 30} {100}) \\\\
 &= 120 \times (\dfrac {130} {100}) \\\\
-&= \dfrac {120 \times 130} {100} \\\\
-&= \dfrac {12 \cancel {0} \times 13 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= \dfrac {12 \times 2 \times 5 \times 13 \times 2 \times 5} {2 \times 5 \times 2 \times 5} \\\\
+&= \dfrac {12 \times \cancel 2 \times \cancel 5 \times 13 \times \cancel 2 \times \cancel 5} {\cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} \\\\
 &= 12 \times 13 \\\\
 &= 156
 \end{aligned}
@@ -855,8 +853,8 @@ $156$
 &= 120 \times (1 + \dfrac {30} {100}) \\\\
 &= 120 \times (\dfrac {100 + 30} {100}) \\\\
 &= 120 \times (\dfrac {130} {100}) \\\\
-&= \dfrac {120 \times 130} {100} \\\\
-&= \dfrac {12 \cancel {0} \times 13 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= \dfrac {12 \times 2 \times 5 \times 13 \times 2 \times 5} {2 \times 5 \times 2 \times 5} \\\\
+&= \dfrac {12 \times \cancel 2 \times \cancel 5 \times 13 \times \cancel 2 \times \cancel 5} {\cancel 2 \times \cancel 5 \times \cancel 2 \times \cancel 5} \\\\
 &= 12 \times 13 \\\\
 &= 156
 \end{aligned}

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-8"
 title: "TopicPaper - Number - 8"
-date: 2022-07-05 15:33:09
+date: 2022-07-05 17:37:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -8424,10 +8424,10 @@ $
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:8</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_rb_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

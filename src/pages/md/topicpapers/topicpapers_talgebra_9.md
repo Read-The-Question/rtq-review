@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-9"
 title: "TopicPaper - Algebra - 9"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,946 @@ date: 2022-07-04 22:03:52
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>7E727E97-35F7-45AC-9A84-DFE534728056</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:3</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Consecutive numbers are one apart; for example $7, 8$ and $9$ are three consecutive numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find three consecutive numbers with a sum of $36$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the First number $= a$.
+
+As per the question,
+
+Second consecutive number $= a + 1$.
+
+Third consecutive number $= a + 2$.
+
+$
+\begin {aligned}
+a + (a+1) + (a+2)  &= 36 \\\\
+3a + 3             &= 36 \\\\
+3a                 &= 36 - 3 \\\\
+3a                 &= 33 \\\\
+a                  &= \dfrac {33} {3} \\\\
+a                  &= \dfrac {3 \times 11} {3} \\\\
+a                  &= \dfrac {\cancel{3} \times 11} {\cancel{3}} \\\\
+a                  &= 11
+\end {aligned}
+$
+
+Second consecutive number is $11 + 1 = 12$.
+
+Third consecutive number is $12 + 1 = 13$.
+
+The three consecutive numbers are $11, 12, 13$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11, 12, 13$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the First number $= a$.
+
+As per the question,
+
+Second consecutive number $= a + 1$.
+
+Third consecutive number $= a + 2$.
+
+$
+\begin {aligned}
+a + (a+1) + (a+2)  &= 36 \\\\
+3a + 3             &= 36 \\\\
+3a                 &= 36 - 3 \\\\
+3a                 &= 33 \\\\
+a                  &= \dfrac {33} {3} \\\\
+a                  &= \dfrac {3 \times 11} {3} \\\\
+a                  &= \dfrac {\cancel{3} \times 11} {\cancel{3}} \\\\
+a                  &= 11
+\end {aligned}
+$
+
+Second consecutive number is $11 + 1 = 12$.
+
+Third consecutive number is $12 + 1 = 13$.
+
+The three consecutive numbers are $11, 12, 13$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11, 12, 13$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find three consecutive numbers which give $336$ when multiplied together.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+We can easily infer the values by using trial and error. Let's find out $3$ numbers which give a product of 336.
+
+Factors of $336 = 1, 2, 3, 4, 6, 7, 8, 12, 14, 16, 21, 24, 28, 42, 48, 56, 84, 112, 168, 336$
+
+| Factors    | Product   | Consecutive  |
+|:----------:|:--------: |:-----------: |
+| $6, 7, 8$  |   $336$   |    Yes       |
+| $21, 2, 8$ |   $336$   |    No        |
+| $14, 3, 8$ |   $336$   |    No        |
+
+A quick check shows that $6$, $7$ and $8$  are the consecutive numbers which gives a product $= 336$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6, 7, 8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+We can easily infer the values by using trial and error. Let's find out $3$ numbers which give a product of 336.
+
+Factors of $336 = 1, 2, 3, 4, 6, 7, 8, 12, 14, 16, 21, 24, 28, 42, 48, 56, 84, 112, 168, 336$
+
+| Factors    | Product   | Consecutive  |
+|:----------:|:--------: |:-----------: |
+| $6, 7, 8$  |   $336$   |    Yes       |
+| $21, 2, 8$ |   $336$   |    No        |
+| $14, 3, 8$ |   $336$   |    No        |
+
+A quick check shows that $6$, $7$ and $8$  are the consecutive numbers which gives a product $= 336$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6, 7, 8$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Broken Katex!!
+
+
+
+Lets discuss
+
+
+
+F82A9A83-8990-460E-9DE9-6B7ACD86127F for b
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7E727E97-35F7-45AC-9A84-DFE534728056' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7E727E97-35F7-45AC-9A84-DFE534728056' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='7E727E97-35F7-45AC-9A84-DFE534728056' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7E727E97-35F7-45AC-9A84-DFE534728056' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7E727E97-35F7-45AC-9A84-DFE534728056' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7E727E97-35F7-45AC-9A84-DFE534728056' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7E727E97-35F7-45AC-9A84-DFE534728056' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='7E727E97-35F7-45AC-9A84-DFE534728056' id='FORM-7E727E97-35F7-45AC-9A84-DFE534728056' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7E727E97-35F7-45AC-9A84-DFE534728056'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>B5C73911-F262-422F-8F91-C2B9B4CF5D09</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $x$:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$(x \times 18) \div 9 = 16$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(x \times 18) \div 9                                &= 16 \\\\
+\dfrac {x \times 18} {9}                            &= 16 \\\\
+x                                                   &= \dfrac {16 \times 9} {18} \\\\
+x                                                   &= \dfrac {2 \times 8 \times 9} {2 \times 9} \\\\
+x                                                   &= \dfrac {\cancel {2} \times 8 \times \cancel {9}} {\cancel {2} \times \cancel {9}} \\\\
+x                                                   &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+(x \times 18) \div 9                                &= 16 \\\\
+\dfrac {x \times 18} {9}                            &= 16 \\\\
+x                                                   &= \dfrac {16 \times 9} {18} \\\\
+x                                                   &= \dfrac {2 \times 8 \times 9} {2 \times 9} \\\\
+x                                                   &= \dfrac {\cancel {2} \times 8 \times \cancel {9}} {\cancel {2} \times \cancel {9}} \\\\
+x                                                   &= 8
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$(x + 12) \times 4 + 2 = 62$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(x + 12) \times 4 + 2    &= 62 \\\\
+(x + 12) \times 4        &= 62 - 2\\\\
+(x + 12) \times 4        &= 60 \\\\
+x                        &= \dfrac {60} {4} - 12 \\\\
+x                        &= \dfrac {15 \times 4} {4} - 12 \\\\
+x                        &= \dfrac {15 \times \cancel {4} } {\cancel {4} } - 12 \\\\
+x                        &= 15 - 12 \\\\
+x                        &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+(x + 12) \times 4 + 2    &= 62 \\\\
+(x + 12) \times 4        &= 62 - 2\\\\
+(x + 12) \times 4        &= 60 \\\\
+x                        &= \dfrac {60} {4} - 12 \\\\
+x                        &= \dfrac {15 \times 4} {4} - 12 \\\\
+x                        &= \dfrac {15 \times \cancel {4} } {\cancel {4} } - 12 \\\\
+x                        &= 15 - 12 \\\\
+x                        &= 3
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$(5x - 3) - (4x - 5) = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(5x - 3) - (4x - 5) &= 12 \\\\
+(5x - 3) -4x + 5    &= 12 \\\\
+x + 2               &= 12 \\\\
+x                   &= 12 - 2 \\\\
+x                   &= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+(5x - 3) - (4x - 5) &= 12 \\\\
+(5x - 3) -4x + 5    &= 12 \\\\
+x + 2               &= 12 \\\\
+x                   &= 12 - 2 \\\\
+x                   &= 10
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$5(x - 3) + 4 (x- 2) = 13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5(x - 3) + 4(x - 2)                &= 13 \\\\
+5x - 5 \times 3 + 4x - 4 \times 2  &= 13 \\\\
+5x - 15 + 4x - 8                   &= 13 \\\\
+9x -23                             &= 13 \\\\
+9x                                 &= 13 + 23 \\\\
+x                                  &= \dfrac {36} {9} \\\\
+x                                  &= \dfrac {9 \times 4} {9} \\\\
+x                                  &= \dfrac { \cancel{9} \times 4} {\cancel {9} } \\\\
+x                                  &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+5(x - 3) + 4(x - 2)                &= 13 \\\\
+5x - 5 \times 3 + 4x - 4 \times 2  &= 13 \\\\
+5x - 15 + 4x - 8                   &= 13 \\\\
+9x -23                             &= 13 \\\\
+9x                                 &= 13 + 23 \\\\
+x                                  &= \dfrac {36} {9} \\\\
+x                                  &= \dfrac {9 \times 4} {9} \\\\
+x                                  &= \dfrac { \cancel{9} \times 4} {\cancel {9} } \\\\
+x                                  &= 4
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B5C73911-F262-422F-8F91-C2B9B4CF5D09' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B5C73911-F262-422F-8F91-C2B9B4CF5D09' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='B5C73911-F262-422F-8F91-C2B9B4CF5D09' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='B5C73911-F262-422F-8F91-C2B9B4CF5D09' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B5C73911-F262-422F-8F91-C2B9B4CF5D09' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='B5C73911-F262-422F-8F91-C2B9B4CF5D09' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='B5C73911-F262-422F-8F91-C2B9B4CF5D09' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='B5C73911-F262-422F-8F91-C2B9B4CF5D09' id='FORM-B5C73911-F262-422F-8F91-C2B9B4CF5D09' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B5C73911-F262-422F-8F91-C2B9B4CF5D09'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>25F12C31-F7A0-4048-8C74-33BF11BEC999</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the value of $x$ for each of the following equations:
+
+</div>
+
+
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$4x - 3 = 21$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4x - 3 &= 21 \\\\
+4x     &= 21 + 3 \\\\
+4x     &= 24 \\\\\
+x      &= \dfrac{24}{4}  \\\\
+x      &= \dfrac{6 \times \cancel {4} }{\cancel {4} } \\\\
+x      &= 6 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+4x - 3 &= 21 \\\\
+4x     &= 21 + 3 \\\\
+4x     &= 24 \\\\\
+x      &= \dfrac{24}{4}  \\\\
+x      &= \dfrac{6 \times \cancel {4} }{\cancel {4} } \\\\
+x      &= 6 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$3 ( x + 10) = 60$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3(x + 10)  &= 60 \\\\
+x + 10     &= \dfrac{60}{3} \\\\
+x + 10     &= \dfrac{3 \times 20}{3} \\\\
+x + 10     &= \dfrac{\cancel{3} \times 20}{ \cancel{3} } \\\\
+x + 10     &=  20 \\\\
+x          &= 20 - 10 \\\\
+x          &= 10
+\end{aligned}
+$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+3(x + 10)  &= 60 \\\\
+x + 10     &= \dfrac{60}{3} \\\\
+x + 10     &= \dfrac{3 \times 20}{3} \\\\
+x + 10     &= \dfrac{\cancel{3} \times 20}{ \cancel{3} } \\\\
+x + 10     &=  20 \\\\
+x          &= 20 - 10 \\\\
+x          &= 10
+\end{aligned}
+$ 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$5x + 1 = 2x + 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x + 1    &= 2x + 7 \\\\
+5x - 2x   &= 7 - 1 \\\\
+3x        &= 6 \\\\
+x         &= \dfrac {6} {3} \\\\
+x         &= \dfrac{2 \times \cancel {3} }{\cancel {3} } \\\\
+x         &= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+5x + 1    &= 2x + 7 \\\\
+5x - 2x   &= 7 - 1 \\\\
+3x        &= 6 \\\\
+x         &= \dfrac {6} {3} \\\\
+x         &= \dfrac{2 \times \cancel {3} }{\cancel {3} } \\\\
+x         &= 2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac {3x} {2} + 3 = 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {3x} {2} + 3     &= 15 \\\\
+\dfrac {3x} {2}         &= 15 - 3 \\\\
+3x                      &= 12 \times 2 \\\\
+x                       &= \dfrac {24} {3} \\\\
+x                       &= \dfrac  {8 \times 3} {3} \\\\
+x                       &= \dfrac {8 \times \cancel{3} } {\cancel {3} } \\\\
+x                       &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\dfrac {3x} {2} + 3     &= 15 \\\\
+\dfrac {3x} {2}         &= 15 - 3 \\\\
+3x                      &= 12 \times 2 \\\\
+x                       &= \dfrac {24} {3} \\\\
+x                       &= \dfrac  {8 \times 3} {3} \\\\
+x                       &= \dfrac {8 \times \cancel{3} } {\cancel {3} } \\\\
+x                       &= 8
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='25F12C31-F7A0-4048-8C74-33BF11BEC999' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='25F12C31-F7A0-4048-8C74-33BF11BEC999' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='25F12C31-F7A0-4048-8C74-33BF11BEC999' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='25F12C31-F7A0-4048-8C74-33BF11BEC999' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='25F12C31-F7A0-4048-8C74-33BF11BEC999' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='25F12C31-F7A0-4048-8C74-33BF11BEC999' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='25F12C31-F7A0-4048-8C74-33BF11BEC999' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='25F12C31-F7A0-4048-8C74-33BF11BEC999' id='FORM-25F12C31-F7A0-4048-8C74-33BF11BEC999' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-25F12C31-F7A0-4048-8C74-33BF11BEC999'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
@@ -7416,478 +8356,6 @@ The number I think of $= 5$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-3E12E5A1-1C9D-490A-A55D-17256F88FBF4'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>BAAC6E7A-0541-4A20-B7D2-0C364A8C1403</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:19</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Year 6 were playing a number game 
-
-Emily said,'If I multiply my number by 4 and then subtract 5, I get the same answer as multiplying my number by 2 and then adding 1'. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Faye called Emily's number x, showing your working clearly.
-
-**$4x - 5 = 2x + 1$**
-
-Gemma said,'Multiplying my number by 2 and then adding 5 gives the same answer as subtracting my number from 23'
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-4 x - 5     &= 2 x + 1 \\\\
-4 x - 2 x   &= 5 + 1 \\\\
-2 x         &= 6 \\\\
-x           &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-4 x - 5     &= 2 x + 1 \\\\
-4 x - 2 x   &= 5 + 1 \\\\
-2 x         &= 6 \\\\
-x           &= 3
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find Gemma's number, showing your working clearly.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let Gemma's number $= a$
-
-$
-\begin{aligned}
-2 \times a + 5    &= 23 - a \\\\
-2 a + a           &= 23 - 5 \\\\
-3a                &= 18 \\\\
-a                 &= \dfrac {18} {3} \\\\
-a                 &= \dfrac {6 \times 3} {3} \\\\
-a                 &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-a                 &= 6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-Let Gemma's number $= a$
-
-$
-\begin{aligned}
-2 \times a + 5    &= 23 - a \\\\
-2 a + a           &= 23 - 5 \\\\
-3a                &= 18 \\\\
-a                 &= \dfrac {18} {3} \\\\
-a                 &= \dfrac {6 \times 3} {3} \\\\
-a                 &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-a                 &= 6
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' id='FORM-BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-BAAC6E7A-0541-4A20-B7D2-0C364A8C1403'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>E94D101F-0E1E-4F40-BE84-649D7E772C37</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:21</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Farmer John has 14 horses and farmer Paul has 27.
-
-John buys some horses from Paul and then 3 more horses than paul.
-
-How many did John buy?
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the horses John buy $=a$,
-
-$
-\begin{aligned}
-14 + a  &= 27 + 3 \\\\
-14 + a  &= 30 \\\\
-a       &= 16
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the horses John buy $=a$,
-
-$
-\begin{aligned}
-14 + a  &= 27 + 3 \\\\
-14 + a  &= 30 \\\\
-a       &= 16
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' id='FORM-E94D101F-0E1E-4F40-BE84-649D7E772C37' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E94D101F-0E1E-4F40-BE84-649D7E772C37'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:27</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The front row of a theatre has 48 seats and each other row has four more seats than the row in front. There are 80 seats in the last row. How many seats are there **altogether** in the theatre?
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Total seats}    &= 48 + 52 + 56 + 60 + 64 + 68 + 72 + 76 + 80 \\\\
-                       &= 570
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$570$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text {Total seats}    &= 48 + 52 + 56 + 60 + 64 + 68 + 72 + 76 + 80 \\\\
-                       &= 570
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$570$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' id='FORM-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE'>Initial</p>
 </div>
 </div>
 </li>

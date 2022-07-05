@@ -1,9 +1,164 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-17-oldpr"
 title: "TopicPaper - Algebra - 17 - OLDPR"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>10D44C55-4639-4E1B-933F-702EB8DE1D6F</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:7</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bob’s bucket weighs $21\,kg$ when full of water. After he pours half the water from the bucket, it weighs $12\,kg$. What is the weight of the empty bucket?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weight of empty bucket $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Weight of empty bucket} + \dfrac {\text {Weight of water}} {2} &= 12 \\\\
+\dfrac{a + 21} {2}                                                    &= 12 \\\\
+a + 21                                                                &= 12 \times 2 \\\\
+a + 21                                                                &= 24 \\\\
+a                                                                     &= 24 - 21 \\\\
+a                                                                     &= 3 \ \text{kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{kg}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the weight of empty bucket $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Weight of empty bucket} + \dfrac {\text {Weight of water}} {2} &= 12 \\\\
+\dfrac{a + 21} {2}                                                    &= 12 \\\\
+a + 21                                                                &= 12 \times 2 \\\\
+a + 21                                                                &= 24 \\\\
+a                                                                     &= 24 - 21 \\\\
+a                                                                     &= 3 \ \text{kg}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text{kg}$
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Delete Line 2
+
+
+
+Step 1 : Weight of empty bucket + Weight of Water / 2 = 12 kg
+
+a + 21/2 kg = 12 kg
+
+then your last 4 steps. 
+
+a + 21 = 12 x 2
+
+a + 21 = 24
+
+a = 24 - 21
+
+a = 3 kg
+
+
+
+Weight of empty bucket = 3 kg
+
+
+
+in blue anser 3 kg
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' id='FORM-10D44C55-4639-4E1B-933F-702EB8DE1D6F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-10D44C55-4639-4E1B-933F-702EB8DE1D6F'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>

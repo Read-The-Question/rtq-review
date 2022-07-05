@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-12"
 title: "TopicPaper - Algebra - 12"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,518 @@ date: 2022-07-04 22:03:52
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>85EB3724-4385-40C7-99FC-BD96F06DD4F3</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Think of two integers that have a product of $18$ and a difference 
+that is the same as one of the two integers that you are thinking of. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+a - b                 &= b \\\\
+a                     &= 2 \times b \\\\
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable.
+
+Substuting the value of $a$ from second equation to first equation.
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+2 \times b \times b   &= 18 \\\\
+b ^ 2                 &= \dfrac {18} {2} \\\\
+b ^ 2                 &= \dfrac {2 \times 9} {2} \\\\
+b ^ 2                 &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
+b ^ 2                 &= 9 \\\\
+b                     &= 3
+\end{aligned}
+$
+
+Substuting the value of $b$ in second equation.
+
+$
+\begin{aligned}
+a - b &= b \\\\
+a - 3 &= 3 \\\\
+a     &= 6 \\\\
+\end{aligned}
+$
+
+The two integers are $3 \ \text{and} 6$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{and} 6$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+a - b                 &= b \\\\
+a                     &= 2 \times b \\\\
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable.
+
+Substuting the value of $a$ from second equation to first equation.
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+2 \times b \times b   &= 18 \\\\
+b ^ 2                 &= \dfrac {18} {2} \\\\
+b ^ 2                 &= \dfrac {2 \times 9} {2} \\\\
+b ^ 2                 &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
+b ^ 2                 &= 9 \\\\
+b                     &= 3
+\end{aligned}
+$
+
+Substuting the value of $b$ in second equation.
+
+$
+\begin{aligned}
+a - b &= b \\\\
+a - 3 &= 3 \\\\
+a     &= 6 \\\\
+\end{aligned}
+$
+
+The two integers are $3 \ \text{and} 6$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 \ \text{and} 6$
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' id='FORM-85EB3724-4385-40C7-99FC-BD96F06DD4F3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-85EB3724-4385-40C7-99FC-BD96F06DD4F3'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>A44515A9-1C0B-4A2E-99CA-D73054BD487E</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:13</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sam thinks of a number. 
+If you double the number and add $6$ you get the same answer as multiplying it by $3$ and subtracting $3$.
+
+Find the number that Sam was thinking of. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+$
+\begin{aligned}
+2a + 6  &=  3a - 3 \\\\
+3a - 2a &=  6 + 3 \\\\
+a       &=  9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$
+
+$
+\begin{aligned}
+2a + 6  &=  3a - 3 \\\\
+3a - 2a &=  6 + 3 \\\\
+a       &=  9
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9$
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Let the number Sam thinks of = a
+
+
+
+APTQ,
+
+start katex with
+
+3a - 3 & = 2a + 6 (that way no jumping sides is required) check for katex error
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' id='FORM-A44515A9-1C0B-4A2E-99CA-D73054BD487E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A44515A9-1C0B-4A2E-99CA-D73054BD487E'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:34</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three friends went to a burger restaurant.
+
+Tom had a burger and chips and he paid $\pounds 8.00$.
+
+Fred had two burgers and a drink. Fred paid $\pounds 15.00$.
+
+Jo had a burger and a drink. Jo paid $\pounds 8.50$.
+
+Work out the cost of the burger, the chips and the drink. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of burger $= a$, cost of the chips $= b$, cost of drink $= c$.
+
+As per the question,
+
+$
+\begin{aligned}
+a + b                              &= 8 \\\\
+b                                  &= 8 - a \\\\
+2a + c                             &= 15 \\\\
+a                                  &= \dfrac {15 - c} {2}
+\end{aligned}
+$
+
+Using the two equations above we get,
+
+$
+\begin{aligned} 
+a + c               &= 8 \\\\
+a                   &= 8 - c \\\\
+\dfrac {15 - c} {2} &= 8 - c \\\\
+15 - c              &= 16 - 2c \\\\
+2c - c              &= 16 - 15 \\\\
+c                   &= 1
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a + c                             &= 15 \\\\
+2a + 1                             &= 15 \\\\
+2a                                 &= 15 - 1 \\\\
+a                                  &= \dfrac {14} {2} \\\\
+a                                  &= 7
+\end{aligned}
+$
+
+$
+\begin{aligned} 
+a + b &= 8 \\\\
+a + 7 &= 8 \\\\
+b     &= 8 - 7 \\\\
+b     &= 1 
+\end{aligned}
+$
+
+The price of burger $= \pounds 7$, price of chips $= \pounds 1$, price of drink $= \pounds 1$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7,\pounds 1,\pounds 1$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of burger $= a$, cost of the chips $= b$, cost of drink $= c$.
+
+As per the question,
+
+$
+\begin{aligned}
+a + b                              &= 8 \\\\
+b                                  &= 8 - a \\\\
+2a + c                             &= 15 \\\\
+a                                  &= \dfrac {15 - c} {2}
+\end{aligned}
+$
+
+Using the two equations above we get,
+
+$
+\begin{aligned} 
+a + c               &= 8 \\\\
+a                   &= 8 - c \\\\
+\dfrac {15 - c} {2} &= 8 - c \\\\
+15 - c              &= 16 - 2c \\\\
+2c - c              &= 16 - 15 \\\\
+c                   &= 1
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a + c                             &= 15 \\\\
+2a + 1                             &= 15 \\\\
+2a                                 &= 15 - 1 \\\\
+a                                  &= \dfrac {14} {2} \\\\
+a                                  &= 7
+\end{aligned}
+$
+
+$
+\begin{aligned} 
+a + b &= 8 \\\\
+a + 7 &= 8 \\\\
+b     &= 8 - 7 \\\\
+b     &= 1 
+\end{aligned}
+$
+
+The price of burger $= \pounds 7$, price of chips $= \pounds 1$, price of drink $= \pounds 1$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 7,\pounds 1,\pounds 1$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='83315ED9-DB65-48DC-A17E-D2511B4529A7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='83315ED9-DB65-48DC-A17E-D2511B4529A7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='83315ED9-DB65-48DC-A17E-D2511B4529A7' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='83315ED9-DB65-48DC-A17E-D2511B4529A7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='83315ED9-DB65-48DC-A17E-D2511B4529A7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='83315ED9-DB65-48DC-A17E-D2511B4529A7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='83315ED9-DB65-48DC-A17E-D2511B4529A7' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='83315ED9-DB65-48DC-A17E-D2511B4529A7' id='FORM-83315ED9-DB65-48DC-A17E-D2511B4529A7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-83315ED9-DB65-48DC-A17E-D2511B4529A7'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
@@ -5919,552 +6431,6 @@ TODOANSWER
 </div>
 
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>A67D7588-E7DB-4FED-BE14-65225495941A</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:41</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $a$ and $b$ are whole numbers, then $a \ \clubsuit \ b$ means $(b \times  b) \div (a + 1)$
-
-So for example, $2 \ \clubsuit \ 6 = (6 \times 6) \div (2 + 1) = 36 \div 3 = 12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find $1 \ \clubsuit \ 10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find $(3 \ \clubsuit \ 4) \ \clubsuit \ 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-If $6  \ \clubsuit \  y = 7$, what is the value of $y$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>B6875D5D-AB14-439A-AAF6-BEBCADF70127</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:42</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Billy is given some toffees by his father. 
-He eats one and then shares the rest out equally between himself and Emily. 
-He then eats another and then shares the rest out equally between himself and Detti. 
-He eats one more and gives the last one to Sean.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many toffees did Detti get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many toffees did Emily get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many toffees did Billy have at the start?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>017292F5-B2A1-4C79-85DD-F6BA7E5EF275</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:34</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Three pet rabbits cost $\pounds 19.70$.
-
-The second rabbit cost $\pounds 2$ more than the first.
-
-The third rabbit cost $80 \text{p}$ less than the second. 
-
-What is the cost of the first rabbit?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of first rabbit $= r$
-
-Cost of second rabbit $= 2 + r$
-
-Cost of third rabbit $= (2 + r) - 0.8$
-
-As per the question,
-
-$
-\begin {aligned}
-r + 2 + r + (2 + r) - 0.8 &= 19.70 \\\\
-3 r + 4 - 0.8             &= 19.70 \\\\
-3 r + 3.2                 &= 19.70 \\\\
-3 r                       &= 19.70 - 3.2 \\\\
-3 r                       &= 16.50 \\\\
-r                         &= \dfrac {16.50} {3} \\\\
-r                         &= \dfrac {5.5 \times 3} {3} \\\\
-r                         &= \dfrac {5.5 \times \cancel {3}} {\cancel {3}} \\\\
-r                         &= \pounds 5.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 5.5$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the cost of first rabbit $= r$
-
-Cost of second rabbit $= 2 + r$
-
-Cost of third rabbit $= (2 + r) - 0.8$
-
-As per the question,
-
-$
-\begin {aligned}
-r + 2 + r + (2 + r) - 0.8 &= 19.70 \\\\
-3 r + 4 - 0.8             &= 19.70 \\\\
-3 r + 3.2                 &= 19.70 \\\\
-3 r                       &= 19.70 - 3.2 \\\\
-3 r                       &= 16.50 \\\\
-r                         &= \dfrac {16.50} {3} \\\\
-r                         &= \dfrac {5.5 \times 3} {3} \\\\
-r                         &= \dfrac {5.5 \times \cancel {3}} {\cancel {3}} \\\\
-r                         &= \pounds 5.5
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 5.5$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' id='FORM-017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-017292F5-B2A1-4C79-85DD-F6BA7E5EF275'>Initial</p>
-</div>
 </div>
 </li>
 </ul>

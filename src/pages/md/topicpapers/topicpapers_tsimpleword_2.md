@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-2"
 title: "TopicPaper - Simpleword - 2"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,370 @@ date: 2022-07-04 22:03:52
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
+<p>rag_mr_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in the following statements.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$25\%$ of $48 = {?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 25 \% \ \text {of} \ 48 \\\\
+&= \dfrac {25} {100} \times 48 \\\\
+&= \dfrac {25 \times 48} {100} \\\\
+&= \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
+&= \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
+&= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 25 \% \ \text {of} \ 48 \\\\
+&= \dfrac {25} {100} \times 48 \\\\
+&= \dfrac {25 \times 48} {100} \\\\
+&= \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
+&= \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
+&= 12
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$25\%$ of ${?} = 48$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+25 \% \ \text{of} \ a       &= 48 \\\\
+\dfrac {25} {100} \times a  &= 48 \\\\
+a                           &= 48 \times \dfrac {100} {25} \\\\
+a                           &= \dfrac {48 \times 100} {25} \\\\
+a                           &= \dfrac {48 \times 4 \times 25} {25} \\\\
+a                           &= \dfrac {48 \times 4 \times \cancel {25}} {\cancel {25}} \\\\
+a                           &= 48 \times 4 \\\\
+a                           &= 192
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$192$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+25 \% \ \text{of} \ a       &= 48 \\\\
+\dfrac {25} {100} \times a  &= 48 \\\\
+a                           &= 48 \times \dfrac {100} {25} \\\\
+a                           &= \dfrac {48 \times 100} {25} \\\\
+a                           &= \dfrac {48 \times 4 \times 25} {25} \\\\
+a                           &= \dfrac {48 \times 4 \times \cancel {25}} {\cancel {25}} \\\\
+a                           &= 48 \times 4 \\\\
+a                           &= 192
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$192$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Identify the two **square** numbers that add up to $74$.
+
+${?} + {?} = 74$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Two square numbers $= 49, 25$
+
+Let's verify.
+
+$
+\begin{aligned}
+&= 49 + 25 \\\\
+&= 74
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$49, 25$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Two square numbers $= 49, 25$
+
+Let's verify.
+
+$
+\begin{aligned}
+&= 49 + 25 \\\\
+&= 74
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$49, 25$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Identify the two **prime** numbers that add up to 13
+
+${?} + {?} = 13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Two prime numbers $= 11, 2$
+
+Let's begin.
+
+$
+\begin{aligned}
+&= 11 + 2 \\\\
+&= 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11, 2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Two prime numbers $= 11, 2$
+
+Let's begin.
+
+$
+\begin{aligned}
+&= 11 + 2 \\\\
+&= 13
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11, 2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09' id='FORM-2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
@@ -170,11 +534,10 @@ How many people can have four biscuits each?
 $
 \begin{aligned}
 \text {The number of people that can have four biscuit}     &= \dfrac {54} {4} \\\\
-                                                            &= 13.5
+                                                            &= 13.5 \\\\
+                                                            &= 13
 \end{aligned}
 $
-
-$13$ people can have four biscuits each.
 
 </div>
 </div>
@@ -191,11 +554,10 @@ $13$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {The number of people that can have four biscuit}     &= \dfrac {54} {4} \\\\
-                                                            &= 13.5
+                                                            &= 13.5 \\\\
+                                                            &= 13
 \end{aligned}
 $
-
-$13$ people can have four biscuits each.
 </code></pre>
 </div>
 </div>
@@ -888,8 +1250,6 @@ $
 \end{aligned}
 $
 
-$143$ can be subtracted five times from $855$ before we get to zero.
-
 </div>
 </div>
 <div class='answers'>
@@ -909,8 +1269,6 @@ $5$
                         &= 5
 \end{aligned}
 $
-
-$143$ can be subtracted five times from $855$ before we get to zero.
 </code></pre>
 </div>
 </div>
@@ -1242,18 +1600,13 @@ A full sweet jar weighs $165.5 \ \text{g}$. The jar contains $90$ sweets. Each s
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-. 
-
-The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
-
-Let's convert the sweets weight into $\text{g}$.
-
 $
 \begin{aligned}
 \text {Total weight of sweets}     &= 90 \times 450 \ \text {mg} \\\\
                                    &= 90 \times \dfrac {450}{1000} \text {g} \\\\
-                                   &= 90 \times 0.45 \\\\
+                                   &= \dfrac {90 \times 450} {1000} \\\\
+                                   &= \dfrac {9 \cancel 0 \times 45 \cancel 0} {10 \cancel 0 \cancel 0} \\\\
+                                   &= \dfrac {405} {10} \\\\ 
                                    &= 40.5 \ \text {g} \\\\
 \text {Weight of empty jar }       &= 162.5 - 40.5 \\\\
                                    &= 122 \ \text {g}
@@ -1272,17 +1625,13 @@ $122 \ \text {g}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
-
-The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
-
-Let's convert the sweets weight into $\text{g}$.
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Total weight of sweets}     &= 90 \times 450 \ \text {mg} \\\\
                                    &= 90 \times \dfrac {450}{1000} \text {g} \\\\
-                                   &= 90 \times 0.45 \\\\
+                                   &= \dfrac {90 \times 450} {1000} \\\\
+                                   &= \dfrac {9 \cancel 0 \times 45 \cancel 0} {10 \cancel 0 \cancel 0} \\\\
+                                   &= \dfrac {405} {10} \\\\ 
                                    &= 40.5 \ \text {g} \\\\
 \text {Weight of empty jar }       &= 162.5 - 40.5 \\\\
                                    &= 122 \ \text {g}
@@ -1381,8 +1730,6 @@ $
 \end{aligned}
 $
 
-$137$ can be subtracted seven times from $1024$ before we get to zero.
-
 </div>
 </div>
 <div class='answers'>
@@ -1402,8 +1749,6 @@ $7$
                         &= 7
 \end{aligned}
 $
-
-$137$ can be subtracted seven times from $1024$ before we get to zero.
 </code></pre>
 </div>
 </div>
@@ -4563,178 +4908,6 @@ No cms in answer (its count of men)
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-3744A7E4-7F4F-4698-AC77-A1CC7027FFF7'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>3F6998ED-9AC1-46D3-A19F-E85725A6237B</p>
-</div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3:1:7</p>
-</div>
-<div class='rag'>
-<p>Md Rameez</p>
-</div>
-<div class='rag'>
-<p>rag_mr_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jordan eats $\dfrac{1}{4}$ of a pizza and Anna eats $\dfrac{1}{3}$ of what is left.
-
-Rohit, Guhesh and Matilda share equally the remainder.
-
-What fraction of the pizza did Matilda eat? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-While solving problems on fractions, we take whole quantity $1$.
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Anna ate}    &= \dfrac {1} {3} \ \text {of} \ (1 - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4} {4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4 - 1} {4}) \\\\
-                    &= \dfrac {1} {3} \times \dfrac {3} {4} \\\\
-                    &= \dfrac {1 \times 3} {3 \times 4} \\\\
-                    &= \dfrac {1 \times \cancel {3}} {\cancel {3} \times 4} \\\\
-                    &= \dfrac {1} {4} \\\\
-\text {Pizza left}  &= 1 - \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                    &= \dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                    &= \dfrac {4} {4} -  \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                    &= \dfrac {4 - 1 - 1} {4} \\\\
-                    &= \dfrac {2} {4}
-\end{aligned}
-$
-
-Rohit, Guhesh and Matilda gets equally shares of the pizza.
-
-$
-\begin{aligned}
-\text {Matilda gets} &= \dfrac {1} {3} \times \dfrac {2} {4} \\\\
-                        &= \dfrac {2} {3 \times 4} \\\\
-                        &= \dfrac {2} {3 \times 2 \times 2} \\\\
-                        &= \dfrac {1} {3 \times 2} \\\\
-                        &= \dfrac {1} {6}
-\end{aligned}
-$
-
-Matilda ate $\dfrac {1} {6}$ part of the pizza.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {6}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>While solving problems on fractions, we take whole quantity $1$.
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Anna ate}    &= \dfrac {1} {3} \ \text {of} \ (1 - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4} {4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4 - 1} {4}) \\\\
-                    &= \dfrac {1} {3} \times \dfrac {3} {4} \\\\
-                    &= \dfrac {1 \times 3} {3 \times 4} \\\\
-                    &= \dfrac {1 \times \cancel {3}} {\cancel {3} \times 4} \\\\
-                    &= \dfrac {1} {4} \\\\
-\text {Pizza left}  &= 1 - \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                    &= \dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                    &= \dfrac {4} {4} -  \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                    &= \dfrac {4 - 1 - 1} {4} \\\\
-                    &= \dfrac {2} {4}
-\end{aligned}
-$
-
-Rohit, Guhesh and Matilda gets equally shares of the pizza.
-
-$
-\begin{aligned}
-\text {Matilda gets} &= \dfrac {1} {3} \times \dfrac {2} {4} \\\\
-                        &= \dfrac {2} {3 \times 4} \\\\
-                        &= \dfrac {2} {3 \times 2 \times 2} \\\\
-                        &= \dfrac {1} {3 \times 2} \\\\
-                        &= \dfrac {1} {6}
-\end{aligned}
-$
-
-Matilda ate $\dfrac {1} {6}$ part of the pizza.
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {6}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' id='FORM-3F6998ED-9AC1-46D3-A19F-E85725A6237B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3F6998ED-9AC1-46D3-A19F-E85725A6237B'>Initial</p>
 </div>
 </div>
 </li>

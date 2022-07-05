@@ -1,9 +1,180 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-blocked"
 title: "TopicPaper - Number - 16 - BLOCKED"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>09B08DAF-540F-4115-B9CB-3DA13E21C2F3</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
+<p>rag_ss_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. How much does he still owe Neil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+
+Let's convert pounds to pence.
+
+$
+\begin{aligned}
+\text{Total amount} &= \pounds 4 \\\\
+&= 4 \times 100 \text{p} \\\\
+&= 400 \text{p}
+\end{aligned}
+$
+
+Rodger pays back $30 \%$. So,
+
+$
+\begin{aligned}
+\text{Amount paid} &= 30\% \text{ of } 400 \\\\
+&= \dfrac {30} {100} \times 400 \\\\
+&= 30 \times 4 \\\\
+&= 120  \text{p} 
+\end{aligned}
+$
+
+Let's calculate the amount Rodger still owes Neil.
+
+$
+\begin{aligned}
+\text{Amount owed} &= 400 - 120 \\\\
+&= 280 \text{p} \\\\
+&= \pounds \dfrac{280}{100} \\\\
+&= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Can we do better than the previous solution? 
+
+If Rodger has paid back $30\%$ of the money, he still has $70\%$ to pay. 
+So we can directly calculate the amount owed and save on calculating the amount paid as well.
+
+$
+\begin{aligned}
+\text{Amount owed} &= 70\% \text{ of } 400 \\\\
+&= \dfrac {70} {100} \times 400 \\\\
+&= 70 \times 4 \\\\
+&= 280 \text{p} \\\\
+&= \pounds \dfrac{280}{100} \\\\
+&= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.80$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+
+Let's convert pounds to pence.
+
+$
+\begin{aligned}
+\text{Total amount} &= \pounds 4 \\\\
+&= 4 \times 100 \text{p} \\\\
+&= 400 \text{p}
+\end{aligned}
+$
+
+Rodger pays back $30 \%$. So,
+
+$
+\begin{aligned}
+\text{Amount paid} &= 30\% \text{ of } 400 \\\\
+&= \dfrac {30} {100} \times 400 \\\\
+&= 30 \times 4 \\\\
+&= 120  \text{p} 
+\end{aligned}
+$
+
+Let's calculate the amount Rodger still owes Neil.
+
+$
+\begin{aligned}
+\text{Amount owed} &= 400 - 120 \\\\
+&= 280 \text{p} \\\\
+&= \pounds \dfrac{280}{100} \\\\
+&= \pounds 2.80
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Can we do better than the previous solution? 
+
+If Rodger has paid back $30\%$ of the money, he still has $70\%$ to pay. 
+So we can directly calculate the amount owed and save on calculating the amount paid as well.
+
+$
+\begin{aligned}
+\text{Amount owed} &= 70\% \text{ of } 400 \\\\
+&= \dfrac {70} {100} \times 400 \\\\
+&= 70 \times 4 \\\\
+&= 280 \text{p} \\\\
+&= \pounds \dfrac{280}{100} \\\\
+&= \pounds 2.80
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.80$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
@@ -94,184 +265,6 @@ The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$\dfrac {31} {120}$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:25</p>
-</div>
-<div class='rag'>
-<p>Sonam</p>
-</div>
-<div class='rag'>
-<p>rag_ss_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prbd</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smallest whole number, above $120$, which when divided by $53$, leaves a remainder of two.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$53 \times 2 = 106$ ,
-$106 < 120$
-
-$53 \times 3 = 159$ ,
-$159 > 120$ 
-
-$159 + 2 = 161$
-
-The smallest whole number above $120$ which when divided by $53$ leaves a remainder of two $= 161$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$161$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-$53 \times 2 = 106$ ,
-$106 < 120$
-
-$53 \times 3 = 159$ ,
-$159 > 120$ 
-
-$159 + 2 = 161$
-
-The smallest whole number above $120$ which when divided by $53$ leaves a remainder of two $= 161$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$161$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prns question'>
-<div class='uuid'>
-<p>49BFC6D9-BB28-4B8F-8410-7C6507972FBB</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:13</p>
-</div>
-<div class='rag'>
-<p>Uday Pandey</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle the number nearest to $0.1$
-
-$0.2\:\:\: 0.101\:\:\: 0.11\:\:\: 0.99\:\:\: 0.0998\:\:\: 1.0$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.2, \quad 0.101, \quad 0.11, \quad 0.99, \quad 0.0998, \quad 1.0 \\\\
-&= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0 \\\\
-\end{aligned}
-$
-
-$0.1$ lies between $0.101$ and $0.11$
-
-The number nearest to $0.1$ = $0.101$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.101$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.2, \quad 0.101, \quad 0.11, \quad 0.99, \quad 0.0998, \quad 1.0 \\\\
-&= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0 \\\\
-\end{aligned}
-$
-
-$0.1$ lies between $0.101$ and $0.11$
-
-The number nearest to $0.1$ = $0.101$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0.101$
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,6 +15,138 @@ date: 2022-07-04 22:03:52
 # Section A
 <ul class='question decimal'>
 <li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
+</div>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Aryan Rawat</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A child’s heart beats $80$ times per minute. How many times will it beat between $8.30\ \text{am}$ and $3.30\ \text{pm}$ on the same day? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Time difference}  &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am} \\\\
+                         &= 15 {:} 30 - 8 {:} 30 \\\\
+                         &= 7 \ \text {hours} \\\\
+                         &= 7 \times 60 \ \text {minutes} \\\\
+                         &= 420 \ \text {minutes}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Total heartbeat}  &= \text {(Time difference)} \times 80 \ \text {bpm} \\\\
+                         &= 420 \times 80 \\\\
+                         &= 33600 \ \text {times}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33600$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Time difference}  &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am} \\\\
+                         &= 15 {:} 30 - 8 {:} 30 \\\\
+                         &= 7 \ \text {hours} \\\\
+                         &= 7 \times 60 \ \text {minutes} \\\\
+                         &= 420 \ \text {minutes}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Total heartbeat}  &= \text {(Time difference)} \times 80 \ \text {bpm} \\\\
+                         &= 420 \times 80 \\\\
+                         &= 33600 \ \text {times}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$33600$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' id='FORM-D2A168A8-050D-4654-AE7A-C46CC8C46289' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D2A168A8-050D-4654-AE7A-C46CC8C46289'>Initial</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>879DB97C-9455-4A27-9352-B2A48176B546</p>
@@ -23,10 +155,10 @@ date: 2022-07-04 22:03:52
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -867,10 +999,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1218,10 +1350,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:7</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1413,10 +1545,10 @@ Time difference between first and second clock = $160 - 144 \ \text{hours}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1489,10 +1621,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:7</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2430,10 +2562,10 @@ $
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3523,10 +3655,10 @@ The journey took $=112 \ \text {minutes}$.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4023,10 +4155,10 @@ The shortest time taken by me to prepare my breakfast is $=4 \ \text{minutes}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:13</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4095,10 +4227,10 @@ $10:30$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:24</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4443,10 +4575,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:14</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4534,10 +4666,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:29</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4784,10 +4916,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:15</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4879,10 +5011,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:24</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5115,10 +5247,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:10</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5214,10 +5346,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:26</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5731,10 +5863,10 @@ TODOANSWER
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6472,10 +6604,10 @@ Greatest glow $= 08{:}08$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6735,161 +6867,6 @@ $
 
 <p class='review_status initial' id='REVIEW-STATUS-72B6948E-CEFE-403E-AB86-3937A9FDB31F'>Initial</p>
 </div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>6B7D18F9-34AA-4D46-9CC1-DADAE07E2BCE</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:17</p>
-</div>
-<div class='rag'>
-<p>Aryan Rawat</p>
-</div>
-<div class='rag'>
-<p>rag_ar_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jessica was born on the $1 \text{st}$ May $1992$. 
-She started to learn to play the piano on the $1 \text{st}$ September $1998$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How old was she when she started to learn to play the piano? 
-Give your answer in years and months.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-She was given a new piano on her $15 \text{th}$ birthday. In which year was this?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
 </div>
 </li>
 </ul>

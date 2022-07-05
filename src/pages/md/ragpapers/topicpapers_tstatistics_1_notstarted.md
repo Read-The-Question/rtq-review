@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-notstarted"
 title: "TopicPaper - Statistics - 1 - NOTSTARTED"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4915,6 +4915,405 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
+<p>B7C4AE95-752D-4854-B5BC-345B25E83FA1</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In five of his mid-term tests, each out of $10$ marks, Darshan scores $9$ in Mathematics, $6$ in English, $8$ in Geography, 
+$4$ in History, and $8$ in Science.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the mode of Darshan's five scores.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out the range of marks that Darshan scores.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 9 - 4 \\\\
+&= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 9 - 4 \\\\
+&= 5
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate the mean average score that he achieved in these five tests.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{mean} &= \dfrac {9 + 6 + 8 + 4 + 8} {5} \\\\
+            &= \dfrac {35} {5} \\\\\
+            &= 7 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{mean} &= \dfrac {9 + 6 + 8 + 4 + 8} {5} \\\\
+            &= \dfrac {35} {5} \\\\\
+            &= 7 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+After his French mark are announced, Darshan's average score from all six tests falls to $6.5$ marks. 
+Calculate the mark he scored in his French test.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the marks in French $=a$,
+
+$
+\begin{aligned}
+\dfrac {35 + a} {6} &= 6.5 \\\\
+35 + a              &= 6.5 \times 6 \\\\
+35 + a              &= 39 \\\\
+a                   &= 39 - 35 \\\\
+a                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the marks in French $=a$,
+
+$
+\begin{aligned}
+\dfrac {35 + a} {6} &= 6.5 \\\\
+35 + a              &= 6.5 \times 6 \\\\
+35 + a              &= 39 \\\\
+a                   &= 39 - 35 \\\\
+a                   &= 4
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The pass mark for each test is $50\%$. Write down what fraction of Darshan's six tests (including his French) he managed to pass, leaving your answer in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4} {6} \\\\
+&= \dfrac {2 \times 2} {3 \times 2} \\\\
+&= \dfrac {2 \times \cancel {2} } {3 \times \cancel {2} } \\\\
+&= \dfrac {2} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {3}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {4} {6} \\\\
+&= \dfrac {2 \times 2} {3 \times 2} \\\\
+&= \dfrac {2 \times \cancel {2} } {3 \times \cancel {2} } \\\\
+&= \dfrac {2} {3}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {3}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In the end term tests, Darshan scores $15$ out of $20$ in his History.
+
+Work out what his percentage improvement is in this subject.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {15 - 8} {20} \times 100\\\\
+&= \dfrac {7 \times 100} {20} \\\\
+&= \dfrac 7 \times 5 \\\\
+&= 35\%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35\%$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {15 - 8} {20} \times 100\\\\
+&= \dfrac {7 \times 100} {20} \\\\
+&= \dfrac 7 \times 5 \\\\
+&= 35\%
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$35\%$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
 <p>C6F1CC0D-D31A-4B7A-8872-C20E463CC066</p>
 </div>
 <div class='papername'>
@@ -5245,109 +5644,6 @@ $\text{It shows that the mean is maintained}$
 </div>
 </li>
 </ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>E7E0C2A2-8B04-44D2-977B-6CCDF28C9D80</p>
-</div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:22</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The mean (average) of seven numbers is $12$. An eighth number is included and
-the mean decreases to $11$. Find the number which was included.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let take total of 7 numbers as $=a$ and new value as $=b$
-
-$
-\begin{aligned}
-\text{Old mean} &= 12 \\\\
-\dfrac {a} {7}  &= 12 \\\\
-a               &= 12 \times 7 \\\\
-a               &= 84 \\\\
-
-\text{New mean}     &= 11 \\\\
-\dfrac {84 + b} {8} &= 11 \\\\
-84 + b              &= 11 \times 8 \\\\
-84 + b              &= 88 \\\\
-b                   &= 88 - 84 \\\\
-b                   &= 4
-\end{aligned}
-
-Therefore, the eigth number $= 4$
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let take total of 7 numbers as $=a$ and new value as $=b$
-
-$
-\begin{aligned}
-\text{Old mean} &= 12 \\\\
-\dfrac {a} {7}  &= 12 \\\\
-a               &= 12 \times 7 \\\\
-a               &= 84 \\\\
-
-\text{New mean}     &= 11 \\\\
-\dfrac {84 + b} {8} &= 11 \\\\
-84 + b              &= 11 \times 8 \\\\
-84 + b              &= 88 \\\\
-b                   &= 88 - 84 \\\\
-b                   &= 4
-\end{aligned}
-
-Therefore, the eigth number $= 4$
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4$
-</code></pre>
-</div>
-</div>
-
 
 </div>
 </li>

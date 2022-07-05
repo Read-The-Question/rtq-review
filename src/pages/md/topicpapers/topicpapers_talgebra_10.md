@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-10"
 title: "TopicPaper - Algebra - 10"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,478 @@ date: 2022-07-04 22:03:52
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>BAAC6E7A-0541-4A20-B7D2-0C364A8C1403</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:19</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Year 6 were playing a number game 
+
+Emily said,'If I multiply my number by 4 and then subtract 5, I get the same answer as multiplying my number by 2 and then adding 1'. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Faye called Emily's number x, showing your working clearly.
+
+**$4x - 5 = 2x + 1$**
+
+Gemma said,'Multiplying my number by 2 and then adding 5 gives the same answer as subtracting my number from 23'
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4 x - 5     &= 2 x + 1 \\\\
+4 x - 2 x   &= 5 + 1 \\\\
+2 x         &= 6 \\\\
+x           &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+4 x - 5     &= 2 x + 1 \\\\
+4 x - 2 x   &= 5 + 1 \\\\
+2 x         &= 6 \\\\
+x           &= 3
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find Gemma's number, showing your working clearly.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let Gemma's number $= a$
+
+$
+\begin{aligned}
+2 \times a + 5    &= 23 - a \\\\
+2 a + a           &= 23 - 5 \\\\
+3a                &= 18 \\\\
+a                 &= \dfrac {18} {3} \\\\
+a                 &= \dfrac {6 \times 3} {3} \\\\
+a                 &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
+a                 &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+Let Gemma's number $= a$
+
+$
+\begin{aligned}
+2 \times a + 5    &= 23 - a \\\\
+2 a + a           &= 23 - 5 \\\\
+3a                &= 18 \\\\
+a                 &= \dfrac {18} {3} \\\\
+a                 &= \dfrac {6 \times 3} {3} \\\\
+a                 &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
+a                 &= 6
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' id='FORM-BAAC6E7A-0541-4A20-B7D2-0C364A8C1403' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BAAC6E7A-0541-4A20-B7D2-0C364A8C1403'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>E94D101F-0E1E-4F40-BE84-649D7E772C37</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:21</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Farmer John has 14 horses and farmer Paul has 27.
+
+John buys some horses from Paul and then 3 more horses than paul.
+
+How many did John buy?
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the horses John buy $=a$,
+
+$
+\begin{aligned}
+14 + a  &= 27 + 3 \\\\
+14 + a  &= 30 \\\\
+a       &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the horses John buy $=a$,
+
+$
+\begin{aligned}
+14 + a  &= 27 + 3 \\\\
+14 + a  &= 30 \\\\
+a       &= 16
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='E94D101F-0E1E-4F40-BE84-649D7E772C37' id='FORM-E94D101F-0E1E-4F40-BE84-649D7E772C37' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E94D101F-0E1E-4F40-BE84-649D7E772C37'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:27</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The front row of a theatre has 48 seats and each other row has four more seats than the row in front. There are 80 seats in the last row. How many seats are there **altogether** in the theatre?
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total seats}    &= 48 + 52 + 56 + 60 + 64 + 68 + 72 + 76 + 80 \\\\
+                       &= 570
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$570$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Total seats}    &= 48 + 52 + 56 + 60 + 64 + 68 + 72 + 76 + 80 \\\\
+                       &= 570
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$570$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' id='FORM-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
@@ -6620,482 +7092,6 @@ delete your answer.
 
 <p class='review_status initial' id='REVIEW-STATUS-ED0E72A9-DD21-4A7F-9701-21CDEA62D691'>Initial</p>
 </div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>4D8E25F8-9D3B-41E4-A587-01F4188FD3F2</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:17</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Alysha and Julia each have some money. 
-
-Altogether they have $\pounds 3.20$. 
-
-Alysha gives Julia $20 \text{p}$ so that they both have the same amount. 
-
-How much money did each have at the start?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the money with Alysha $= a \pounds$
-
-Let the money with Julia $= b \pounds$
-
-As per the question, at the end they have same amount. So at the end,
-
-$
-\begin{aligned}
-a + b       &= \pounds 3.20 \\\\
-2 \times a  &= 3.20 \\\\
-a           &= dfrac {3.20} {2} \\\\
-a           &= \pounds 1.60
-\end{aligned}
-$
-
-Alysha gave Julia 20 \text{p} 20 p. So at start,
-
-$
-\begin{aligned}
-a + b                             &= \pounds 3. 20 \\\\
-\pounds 1.60 + 0.20 \text {p} + b &= \pounds 3. 20 \\\\
-b                                 &= 3.20 - 1.80 \\\\
-b                                 &= \pounds 1.40
-\end{aligned}
-$
-
-At the start, 
-
-The money Alysha had $= \pounds 1.80$.
-
-The money Julia had $= \pounds 1.40$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1.8, \pounds 1.4$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the money with Alysha $= a \pounds$
-
-Let the money with Julia $= b \pounds$
-
-As per the question, at the end they have same amount. So at the end,
-
-$
-\begin{aligned}
-a + b       &= \pounds 3.20 \\\\
-2 \times a  &= 3.20 \\\\
-a           &= dfrac {3.20} {2} \\\\
-a           &= \pounds 1.60
-\end{aligned}
-$
-
-Alysha gave Julia 20 \text{p} 20 p. So at start,
-
-$
-\begin{aligned}
-a + b                             &= \pounds 3. 20 \\\\
-\pounds 1.60 + 0.20 \text {p} + b &= \pounds 3. 20 \\\\
-b                                 &= 3.20 - 1.80 \\\\
-b                                 &= \pounds 1.40
-\end{aligned}
-$
-
-At the start, 
-
-The money Alysha had $= \pounds 1.80$.
-
-The money Julia had $= \pounds 1.40$.
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 1.8, \pounds 1.4$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Solve other way around. 
-
-
-
-Let the money A has = a
-
-.....................J        = b
-
-
-
-As per the question, at the end they have same amount. So at the end, 
-
-
-
-a + b = £3. 20
-
-a + a = 3.20 
-
-2a =....
-
-a = .../ .....
-
-a = £1.60
-
-
-
-Alysha gave Julia 20 \text{p} 20 p. So at start,
-
-
-
-a + b = £3. 20
-
-£1.60 + 0.20 p + b =  £3. 20
-
-b = ....
-
-
-
-
-
-At the start, 
-
-The money Al... had =  £1. 80 
-
-....
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4D8E25F8-9D3B-41E4-A587-01F4188FD3F2' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4D8E25F8-9D3B-41E4-A587-01F4188FD3F2' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4D8E25F8-9D3B-41E4-A587-01F4188FD3F2' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4D8E25F8-9D3B-41E4-A587-01F4188FD3F2' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4D8E25F8-9D3B-41E4-A587-01F4188FD3F2' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4D8E25F8-9D3B-41E4-A587-01F4188FD3F2' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4D8E25F8-9D3B-41E4-A587-01F4188FD3F2' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='4D8E25F8-9D3B-41E4-A587-01F4188FD3F2' id='FORM-4D8E25F8-9D3B-41E4-A587-01F4188FD3F2' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4D8E25F8-9D3B-41E4-A587-01F4188FD3F2'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>B09AF32E-2996-4090-B6BE-24F80181CD57</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:1</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If I treble a number and add $6$, I get the same answer as when I add $16$ to that number. What is my original number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number I think $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 3 + 6      &= a + 16 \\\\
-3a + 6              &= a + 16 \\\\
-3a - a              &= 16 - 6 \\\\
-2a                  &= 10 \\\\
-a                   &= \dfrac {10} {2} \\\\
-a                   &= \dfrac {5 \times 2} {2} \\\\
-a                   &= \dfrac {5 \times \cancel{2}} {\cancel{2}} \\\\
-a                   &= 5
-\end{aligned}
-$
-
-My original number $= 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number I think $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 3 + 6      &= a + 16 \\\\
-3a + 6              &= a + 16 \\\\
-3a - a              &= 16 - 6 \\\\
-2a                  &= 10 \\\\
-a                   &= \dfrac {10} {2} \\\\
-a                   &= \dfrac {5 \times 2} {2} \\\\
-a                   &= \dfrac {5 \times \cancel{2}} {\cancel{2}} \\\\
-a                   &= 5
-\end{aligned}
-$
-
-My original number $= 5$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-I not i
-
-
-
-last sentence :  My original number = 5
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B09AF32E-2996-4090-B6BE-24F80181CD57' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B09AF32E-2996-4090-B6BE-24F80181CD57' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B09AF32E-2996-4090-B6BE-24F80181CD57' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B09AF32E-2996-4090-B6BE-24F80181CD57' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B09AF32E-2996-4090-B6BE-24F80181CD57' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B09AF32E-2996-4090-B6BE-24F80181CD57' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B09AF32E-2996-4090-B6BE-24F80181CD57' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='B09AF32E-2996-4090-B6BE-24F80181CD57' id='FORM-B09AF32E-2996-4090-B6BE-24F80181CD57' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B09AF32E-2996-4090-B6BE-24F80181CD57'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>E04A5D82-8409-45E4-B659-1A199BE3C232</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:2</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My money box contains an equal number of $5 \text{p}, 10 \text{p}$ and $20 \text{p}$ coins and no other coins. 
-How many coins are there altogether if there is $\pounds 4.90$ in the money box?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the count of coins of each denomination $= c$
-
-As per the question,
-
-$
-\begin{aligned}
-5 \times c + 10 \times c + 20 \times c  &= 490 \\\\
-5c + 10c + 20c                          &= 490 \\\\
-35c                                     &= 490 \\\\
-c                                       &= \dfrac {490} {35} \\\\
-c                                       &= \dfrac {2 \times 7 \times 7 \times 5} {7 \times 5} \\\\
-c                                       &= \dfrac {2 \times 7 \times \cancel{7} \times \cancel{5}} {\cancel{7} \times \cancel{5}} \\\\
-c                                       &= 2 \times 7
-c                                       &= 14
-\end{aligned}
-$
-
-There are $14$ coins of each type and $3$ different types of coins.
-
-$
-\begin{aligned}
-\text{Total coins} &=  14 \times 3  \\\\
-&= 42 \ \text{coins}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \ \text{coins}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the count of coins of each denomination $= c$
-
-As per the question,
-
-$
-\begin{aligned}
-5 \times c + 10 \times c + 20 \times c  &= 490 \\\\
-5c + 10c + 20c                          &= 490 \\\\
-35c                                     &= 490 \\\\
-c                                       &= \dfrac {490} {35} \\\\
-c                                       &= \dfrac {2 \times 7 \times 7 \times 5} {7 \times 5} \\\\
-c                                       &= \dfrac {2 \times 7 \times \cancel{7} \times \cancel{5}} {\cancel{7} \times \cancel{5}} \\\\
-c                                       &= 2 \times 7
-c                                       &= 14
-\end{aligned}
-$
-
-There are $14$ coins of each type and $3$ different types of coins.
-
-$
-\begin{aligned}
-\text{Total coins} &=  14 \times 3  \\\\
-&= 42 \ \text{coins}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$42 \ \text{coins}$
-</code></pre>
-</div>
-</div>
-
-
 </div>
 </li>
 </ul>

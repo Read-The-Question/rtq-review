@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,176 @@ date: 2022-07-04 22:03:52
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>73C0C725-8B54-46A2-9717-8E573ACE7321</p>
+</div>
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the area of the shaded part of the rectangle below?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the diagram with two triangle marked as triangle 1 and triangle 2.
+Also show base of first triangle a and second triangle b*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+
+Let the base of the first triangle $= a$
+
+Let the base of the first triangle $= b$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of the shaded part}         &= \text {Rectangle} - (\text {Triangle 1} + \text {Triangle 2}) \\\\
+                                        &= 6 \times 16 - (\dfrac {1} {2} \times a \times 6 + \dfrac {1} {2} \times b \times 6) \\\\ 
+                                        &= 6 \times 16 - \dfrac {1} {2} \times 6 \times (a + b) \\\\ 
+                                        &= 6 \times 16 - \dfrac {1} {2} \times 6 \times 16 \\\\ 
+                                        &= 6 \times 16 - \dfrac {6 \times 16} {2} \\\\ 
+                                        &= 6 \times 16 - \dfrac {2 \times 3 \times 16} {2} \\\\ 
+                                        &= 6 \times 16 - \dfrac {\cancel {2} \times 3 \times 16} {\cancel {2}} \\\\ 
+                                        &= 6 \times 16 - 3 \times 16 \\\\ 
+                                        &= 96 - 48 \\\\ 
+                                        &= 48 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text {cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram with two triangle marked as triangle 1 and triangle 2.
+Also show base of first triangle a and second triangle b*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_katex_formula_area_triangle_expanded
+
+Let the base of the first triangle $= a$
+
+Let the base of the first triangle $= b$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of the shaded part}         &= \text {Rectangle} - (\text {Triangle 1} + \text {Triangle 2}) \\\\
+                                        &= 6 \times 16 - (\dfrac {1} {2} \times a \times 6 + \dfrac {1} {2} \times b \times 6) \\\\ 
+                                        &= 6 \times 16 - \dfrac {1} {2} \times 6 \times (a + b) \\\\ 
+                                        &= 6 \times 16 - \dfrac {1} {2} \times 6 \times 16 \\\\ 
+                                        &= 6 \times 16 - \dfrac {6 \times 16} {2} \\\\ 
+                                        &= 6 \times 16 - \dfrac {2 \times 3 \times 16} {2} \\\\ 
+                                        &= 6 \times 16 - \dfrac {\cancel {2} \times 3 \times 16} {\cancel {2}} \\\\ 
+                                        &= 6 \times 16 - 3 \times 16 \\\\ 
+                                        &= 96 - 48 \\\\ 
+                                        &= 48 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='73C0C725-8B54-46A2-9717-8E573ACE7321' id='FORM-73C0C725-8B54-46A2-9717-8E573ACE7321' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-73C0C725-8B54-46A2-9717-8E573ACE7321'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
@@ -8832,263 +9002,6 @@ $
 </li>
 </ul>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>97A3E093-B7B6-443D-9FE2-CC20B3E4BA24</p>
-</div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:18</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Four rectangles each of length $27 \ \text{cm}$ and width $13 \ \text{cm}$ are arranged to form the square shape shown below (the diagram is not drawn to scale)
-
-![missing image](/papers/missing_image.svg)
-
-
-Find: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-the perimeter of this square shape.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
-
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Perimeter of square} &= 4 \times 40 \\\\
-                            &= 160 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$160 \ \text {cm}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Perimeter of square} &= 4 \times 40 \\\\
-                            &= 160 \ \text {cm}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$160 \ \text {cm}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-the area of the shaded inner square. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Area of square} = \text{side} \times \text{side}$
-
-
-Let the length of shaded inner square $= l$
-
-As per the question,
-
-$
-\begin{aligned}
-\text {l}       &= 40 - (2 \times 13) \\\\
-\text {l}       &= 40 - 26 \\\\
-\text {l}       &= 14
-\end{aligned}
-$
-
-Let's use the value of $l$ to find area of shaded inner square.
-
-$
-\begin{aligned}
-\text {Area}           &= 14 \times 14 \\\\
-                       &= 196 \ \text {cm} ^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$196 \ \text {cm} ^2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
-Let the length of shaded inner square $= l$
-
-As per the question,
-
-$
-\begin{aligned}
-\text {l}       &= 40 - (2 \times 13) \\\\
-\text {l}       &= 40 - 26 \\\\
-\text {l}       &= 14
-\end{aligned}
-$
-
-Let's use the value of $l$ to find area of shaded inner square.
-
-$
-\begin{aligned}
-\text {Area}           &= 14 \times 14 \\\\
-                       &= 196 \ \text {cm} ^2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$196 \ \text {cm} ^2$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='97A3E093-B7B6-443D-9FE2-CC20B3E4BA24' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='97A3E093-B7B6-443D-9FE2-CC20B3E4BA24' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='97A3E093-B7B6-443D-9FE2-CC20B3E4BA24' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='97A3E093-B7B6-443D-9FE2-CC20B3E4BA24' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='97A3E093-B7B6-443D-9FE2-CC20B3E4BA24' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='97A3E093-B7B6-443D-9FE2-CC20B3E4BA24' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='97A3E093-B7B6-443D-9FE2-CC20B3E4BA24' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='97A3E093-B7B6-443D-9FE2-CC20B3E4BA24' id='FORM-97A3E093-B7B6-443D-9FE2-CC20B3E4BA24' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-97A3E093-B7B6-443D-9FE2-CC20B3E4BA24'>Initial</p>
-</div>
 </div>
 </li>
 </ul>

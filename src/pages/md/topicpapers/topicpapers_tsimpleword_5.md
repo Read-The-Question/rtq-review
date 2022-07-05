@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-5"
 title: "TopicPaper - Simpleword - 5"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,156 @@ date: 2022-07-04 22:03:52
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>6014D0DC-121E-4166-AA88-61ECCE18CFBB</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:15</p>
+</div>
+<div class='rag'>
+<p>Arunim Singhal</p>
+</div>
+<div class='rag'>
+<p>rag_as_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a tin of Roses, $8\%$ are “Purple Ones” (hazelnut &caramel). If the tin has a total of 250 chocolates, how many are **not** Purple Ones?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to the question,
+
+$
+\begin{aligned}
+\text {Not Purple}  &=  \text {Total chocolates - Purple Ones} \\\\
+                    &=  250 - 8 \% \times 250 \\\\
+                    &=  250 - \dfrac {8} {100} \times 250 \\\\
+                    &=  250 - \dfrac {2 \times 4 \times 25 \times 10} {4 \times 25} \\\\
+                    &=  250 - \dfrac {2 \times \cancel{4} \times \cancel{25} \times 10} {\cancel{4} \times \cancel{25}} \\\\
+                    &=  250 - 2 \times 10 \\\\
+                    &=  250 - 20 \\\\
+                    &=  230
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$230$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>According to the question,
+
+$
+\begin{aligned}
+\text {Not Purple}  &=  \text {Total chocolates - Purple Ones} \\\\
+                    &=  250 - 8 \% \times 250 \\\\
+                    &=  250 - \dfrac {8} {100} \times 250 \\\\
+                    &=  250 - \dfrac {2 \times 4 \times 25 \times 10} {4 \times 25} \\\\
+                    &=  250 - \dfrac {2 \times \cancel{4} \times \cancel{25} \times 10} {\cancel{4} \times \cancel{25}} \\\\
+                    &=  250 - 2 \times 10 \\\\
+                    &=  250 - 20 \\\\
+                    &=  230
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$230$
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+APTQ,
+
+Not Purple &= Total chocolates - Purple Ones
+
+& = 250 - 8% x 250
+
+= 250 - 8/100 x 250
+
+= 250  - 2 x 4 x 25 x 10   / 4 x 25 
+
+= 250 - cancel ... 
+
+= 250 - 2 x 10
+
+= 250 - 20
+
+= 230
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' id='FORM-6014D0DC-121E-4166-AA88-61ECCE18CFBB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6014D0DC-121E-4166-AA88-61ECCE18CFBB'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
@@ -6180,73 +6330,6 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>D9F5E368-303E-4350-B374-E1004752976E</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:14</p>
-</div>
-<div class='rag'>
-<p>Arunim Singhal</p>
-</div>
-<div class='rag'>
-<p>rag_as_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Nikita pays $\pounds 9.50$ a month for her mobile phone and an extra $17 \text{p}$ for each call that she makes. 
-How much does she pay in a month when she makes $50$ calls?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>

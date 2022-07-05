@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-4"
 title: "TopicPaper - Simpleword - 4"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,501 @@ date: 2022-07-04 22:03:52
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4:1:1</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
+<p>rag_mr_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the following 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The lengths of two pencils are $9.76 \ \text{cm}$ and $14.57 \ \text{cm}$. If the pencils are laid end to end, what is the total length?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total length} &= 9.76 + 14.57 \\\\
+                    &= 24.33 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24.33 \ \text{cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total length} &= 9.76 + 14.57 \\\\
+                    &= 24.33 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$24.33 \ \text{cm}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In a shop there are $43$ bags of potatoes. Each bag contains $37$ potatoes. What is the total number of potatoes in the bags?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total number of potatoes} &= 43 \times 37 \\\\
+                                &= 1591
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1591$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total number of potatoes} &= 43 \times 37 \\\\
+                                &= 1591
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1591$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+There are $1.6 \ \text{kilometers}$ in a mile. How many kilometres are in $31240 \ \text{miles}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total kilometers} &= 31240 \times 1.6 \\\\
+                        &= 49984 \ \text{kilometers}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$49984 \ \text{kilometers}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total kilometers} &= 31240 \times 1.6 \\\\
+                        &= 49984 \ \text{kilometers}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$49984 \ \text{kilometers}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+There are $0.91\ \text{metres}$ in $1  \ \text{yard}$. How many metres are there in $0.075  \ \text{yards}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total yards} &= 0.075 \times 0.91 \\\\
+                   &= 0.06825 \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.06825 \ \text{metres}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total yards} &= 0.075 \times 0.91 \\\\
+                   &= 0.06825 \ \text{metres}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0.06825 \ \text{metres}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The total length of five cars is $16.35\ \text{metres}$. What is the average length of these cars?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Average length} &= \dfrac {16.35} {5} \\\\
+                      &= \dfrac {3.27 \times 5} {5} \\\\
+                      &= \dfrac {3.27 \times \cancel {5}} {\cancel {5}} \\\\
+                      &= 3.27 \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.27 \ \text{metres}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Average length} &= \dfrac {16.35} {5} \\\\
+                      &= \dfrac {3.27 \times 5} {5} \\\\
+                      &= \dfrac {3.27 \times \cancel {5}} {\cancel {5}} \\\\
+                      &= 3.27 \ \text{metres}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3.27 \ \text{metres}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out $13 + 54 \div 6 - 5 \times 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to BIDMAS
+
+$
+\begin{aligned}
+&= 13 + 54 \div 6 - 5 \times 7 \\\\
+&= 13 + 9 - 5 \times 7 \\\\
+&= 13 + 9 - 35 \\\\
+&= 22 - 35 \\\\
+&= - 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 13$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>According to BIDMAS
+
+$
+\begin{aligned}
+&= 13 + 54 \div 6 - 5 \times 7 \\\\
+&= 13 + 9 - 5 \times 7 \\\\
+&= 13 + 9 - 35 \\\\
+&= 22 - 35 \\\\
+&= - 13
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$- 13$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$16\%$ of gift cards that are bought are never redeemed. In Oundle Beans sells $730$ gift cards one year. How many of these should it expect to be redeemed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total cards redeemed} &= 84 \% \ \text{of} \ 730 \\\\
+                            &= \dfrac {84} {100} \times 730 \\\\
+                            &= \dfrac {84 \times 730} {100} \\\\
+                            &= \dfrac {61320} {100} \\\\
+                            &= 613.2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$613$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total cards redeemed} &= 84 \% \ \text{of} \ 730 \\\\
+                            &= \dfrac {84} {100} \times 730 \\\\
+                            &= \dfrac {84 \times 730} {100} \\\\
+                            &= \dfrac {61320} {100} \\\\
+                            &= 613.2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$613$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' id='FORM-3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -6528,14 +7023,12 @@ A factor of 28 bigger than 1 and a factor of 21 bigger than 1
 <div class='working'>
 
 
-$
-\begin{aligned}
-\text {Factors of} 28 \text {bigger than} 1 &= 2, \ 4, \ \bold{7}, \ 14, \ 28  \\\\
-\text {Factors of} 21 \text {bigger than} 1 &= 3, \ \bold{7}, \ 21
-\end{aligned}
-$
+Factors of $28 = 1, \ 2, \ 4, \ \bold{7}, \ 14, \ 28 $
 
-A factor of $28$ bigger than $1$ and a factor of $21$ bigger than $1= 7$
+Factors of $21 =  1, \ 3, \ \bold{7}, \ 21$
+
+Factor of 28 and 21 bigger than 1 $= 7$ 
+
 
 </div>
 </div>
@@ -6550,14 +7043,12 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-$
-\begin{aligned}
-\text {Factors of} 28 \text {bigger than} 1 &= 2, \ 4, \ \bold{7}, \ 14, \ 28  \\\\
-\text {Factors of} 21 \text {bigger than} 1 &= 3, \ \bold{7}, \ 21
-\end{aligned}
-$
+Factors of $28 = 1, \ 2, \ 4, \ \bold{7}, \ 14, \ 28 $
 
-A factor of $28$ bigger than $1$ and a factor of $21$ bigger than $1= 7$
+Factors of $21 =  1, \ 3, \ \bold{7}, \ 21$
+
+Factor of 28 and 21 bigger than 1 $= 7$ 
+
 </code></pre>
 </div>
 </div>
@@ -6586,7 +7077,8 @@ Smaller than 20 and has exactly three  different factors
 <div class='workings'>
 <div class='working'>
 
-$\text {Factors of} 4 &= 1, 2, \ \text {and} \ 4$
+
+Factors of 4 $= 1, 2, \ \text {and} \ 4$
 
 </div>
 </div>
@@ -6600,7 +7092,8 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Factors of} 4 &= 1, 2, \ \text {and} \ 4$
+<pre class='language-latex'><code class='language-latex'>
+Factors of 4 $= 1, 2, \ \text {and} \ 4$
 </code></pre>
 </div>
 </div>
@@ -6695,27 +7188,25 @@ As we know,
 
 The biggest single digit prime number $= 7$
 
-The smallest  single digit prime number $= 2$
+The smallest single digit prime number $= 2$
 
 The biggest single digit $= 9$
 
 The smallest single digit $= 0$
 
-$
-\begin{aligned}
-\text{Largest} 4 \text{digit number that Gita can form}    &= 7997 \\\\
-\text{Smallest} 4 \text{digit number that Gita can form}   &= 2002
-\end{aligned}
-$
+Largest 4 digit number $= 7997$
+
+Smallest 4 digit number $= 2002$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Largest} = 7997$
+Largest $= 7997$
 
-$\text{Smallest} = 2002$
+Smallest $= 2002$
 
 </div>
 </div>
@@ -6726,18 +7217,16 @@ $\text{Smallest} = 2002$
 
 The biggest single digit prime number $= 7$
 
-The smallest  single digit prime number $= 2$
+The smallest single digit prime number $= 2$
 
 The biggest single digit $= 9$
 
 The smallest single digit $= 0$
 
-$
-\begin{aligned}
-\text{Largest} 4 \text{digit number that Gita can form}    &= 7997 \\\\
-\text{Smallest} 4 \text{digit number that Gita can form}   &= 2002
-\end{aligned}
-$
+Largest 4 digit number $= 7997$
+
+Smallest 4 digit number $= 2002$
+
 </code></pre>
 </div>
 </div>
@@ -6749,9 +7238,9 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{Largest} = 7997$
+<pre class='language-latex'><code class='language-latex'>Largest $= 7997$
 
-$\text{Smallest} = 2002$
+Smallest $= 2002$
 </code></pre>
 </div>
 </div>
@@ -6832,14 +7321,15 @@ Find another number **bigger than 0** that is both a square and cube number.
 
 $
 \begin{aligned}
-    8 \times 8                 & = 64 \\\\
-    8^2                        & = 64 \\\\
-    4 \times 4 \times \times 4 & = 64 \\\\
-    4^3                        & = 64 
+&= 8 \times 8 \\\\   
+&= 8^2 \\\\
+& = 64 \\\\
+&= 4 \times 4 \times 4  \\\\
+&= 4^3 \\\\   
+& = 64 
 \end{aligned}
 $
 
-Another number **bigger than 0** that is both a square and cube number $= 64$
 
 
 </div>
@@ -6856,14 +7346,15 @@ $64$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-    8 \times 8                 & = 64 \\\\
-    8^2                        & = 64 \\\\
-    4 \times 4 \times \times 4 & = 64 \\\\
-    4^3                        & = 64 
+&= 8 \times 8 \\\\   
+&= 8^2 \\\\
+& = 64 \\\\
+&= 4 \times 4 \times 4  \\\\
+&= 4^3 \\\\   
+& = 64 
 \end{aligned}
 $
 
-Another number **bigger than 0** that is both a square and cube number $= 64$
 
 </code></pre>
 </div>
@@ -7043,156 +7534,6 @@ $
 </div>
 
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>6014D0DC-121E-4166-AA88-61ECCE18CFBB</p>
-</div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:15</p>
-</div>
-<div class='rag'>
-<p>Arunim Singhal</p>
-</div>
-<div class='rag'>
-<p>rag_as_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a tin of Roses, $8\%$ are “Purple Ones” (hazelnut &caramel). If the tin has a total of 250 chocolates, how many are **not** Purple Ones?  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-According to the question,
-
-$
-\begin{aligned}
-\text {Not Purple}  &=  \text {Total chocolates - Purple Ones} \\\\
-                    &=  250 - 8 \% \times 250 \\\\
-                    &=  250 - \dfrac {8} {100} \times 250 \\\\
-                    &=  250 - \dfrac {2 \times 4 \times 25 \times 10} {4 \times 25} \\\\
-                    &=  250 - \dfrac {2 \times \cancel{4} \times \cancel{25} \times 10} {\cancel{4} \times \cancel{25}} \\\\
-                    &=  250 - 2 \times 10 \\\\
-                    &=  250 - 20 \\\\
-                    &=  230
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$230$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>According to the question,
-
-$
-\begin{aligned}
-\text {Not Purple}  &=  \text {Total chocolates - Purple Ones} \\\\
-                    &=  250 - 8 \% \times 250 \\\\
-                    &=  250 - \dfrac {8} {100} \times 250 \\\\
-                    &=  250 - \dfrac {2 \times 4 \times 25 \times 10} {4 \times 25} \\\\
-                    &=  250 - \dfrac {2 \times \cancel{4} \times \cancel{25} \times 10} {\cancel{4} \times \cancel{25}} \\\\
-                    &=  250 - 2 \times 10 \\\\
-                    &=  250 - 20 \\\\
-                    &=  230
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$230$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-APTQ,
-
-Not Purple &= Total chocolates - Purple Ones
-
-& = 250 - 8% x 250
-
-= 250 - 8/100 x 250
-
-= 250  - 2 x 4 x 25 x 10   / 4 x 25 
-
-= 250 - cancel ... 
-
-= 250 - 2 x 10
-
-= 250 - 20
-
-= 230
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='6014D0DC-121E-4166-AA88-61ECCE18CFBB' id='FORM-6014D0DC-121E-4166-AA88-61ECCE18CFBB' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-6014D0DC-121E-4166-AA88-61ECCE18CFBB'>Initial</p>
-</div>
 </div>
 </li>
 </ul>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-2"
 title: "TopicPaper - Temperature - 2"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <div class='paper'>
 <div class='meta'>
@@ -130,7 +130,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>622F8B62-0BE0-42FC-B5A4-E1D1EF0B04E7</p>
 </div>
@@ -144,7 +144,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -165,9 +165,9 @@ How many degrees warmer is it inside than outside?
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 9 - (- 12)\\\\
-                                    &= 9 + 12 \\\\
-                                    &= 21 \degree \text {C}
+\text {Difference}  &= 9 - (- 12)\\\\
+                    &= 9 + 12 \\\\
+                    &= 21 \degree \text {C}
 \end{aligned}
 $
 
@@ -187,9 +187,9 @@ $21 \degree \text {C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Difference in  temperature}  &= 9 - (- 12)\\\\
-                                    &= 9 + 12 \\\\
-                                    &= 21 \degree \text {C}
+\text {Difference}  &= 9 - (- 12)\\\\
+                    &= 9 + 12 \\\\
+                    &= 21 \degree \text {C}
 \end{aligned}
 $
 
@@ -706,7 +706,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>54012999-742D-48BD-A138-DB7E6775B4C3</p>
 </div>
@@ -720,7 +720,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -737,13 +737,14 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{aligned}
 \text {Temperature on New Year’s day}    &= -5 - 3 \\\\
                                          &= -8 \degree \text {C}
-
 \end{aligned}
 $
+
 
 </div>
 </div>
@@ -757,13 +758,14 @@ $-8 \degree \text {C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+$
 \begin{aligned}
 \text {Temperature on New Year’s day}    &= -5 - 3 \\\\
                                          &= -8 \degree \text {C}
-
 \end{aligned}
 $
+
 </code></pre>
 </div>
 </div>

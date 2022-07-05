@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-blocked"
 title: "TopicPaper - Sequence - 1 - BLOCKED"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1322,104 +1322,6 @@ Step between successive terms $= 27$
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$27$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prns question'>
-<div class='uuid'>
-<p>09B86F98-1F68-48D8-BA49-A82C6C836FC3</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:12</p>
-</div>
-<div class='rag'>
-<p>Abhay Kandpal</p>
-</div>
-<div class='rag'>
-<p>rag_ak_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$-14 \quad -33 \quad -52 \quad -71$
-
-How large is the step between successive numbers in this sequence?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by subtracting $19$ from the previous term. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-19)} }
-&&  \footnotesize {\maroonC
- {(-19)} }
-&&  \footnotesize {\maroonC
- {(-19)} }  \\
-14,  &&    -33,  &&  -52,  &&   -71
-\end{matrix}
-$
-
-Step between successive terms $= 19$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
-The next term is calculated by subtracting $19$ from the previous term. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\rtq_katex_color_info {(-19)} }
-&&  \footnotesize {\rtq_katex_color_info {(-19)} }
-&&  \footnotesize {\rtq_katex_color_info {(-19)} }  \\
-14,  &&    -33,  &&  -52,  &&   -71
-\end{matrix}
-$
-
-Step between successive terms $= 19$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$19$
 </code></pre>
 </div>
 </div>

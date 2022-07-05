@@ -1,9 +1,155 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-13-g0"
 title: "TopicPaper - Algebra - 13 - G0"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>017292F5-B2A1-4C79-85DD-F6BA7E5EF275</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:34</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three pet rabbits cost $\pounds 19.70$.
+
+The second rabbit cost $\pounds 2$ more than the first.
+
+The third rabbit cost $80 \text{p}$ less than the second. 
+
+What is the cost of the first rabbit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of first rabbit $= r$
+
+Cost of second rabbit $= 2 + r$
+
+Cost of third rabbit $= (2 + r) - 0.8$
+
+As per the question,
+
+$
+\begin {aligned}
+r + 2 + r + (2 + r) - 0.8 &= 19.70 \\\\
+3 r + 4 - 0.8             &= 19.70 \\\\
+3 r + 3.2                 &= 19.70 \\\\
+3 r                       &= 19.70 - 3.2 \\\\
+3 r                       &= 16.50 \\\\
+r                         &= \dfrac {16.50} {3} \\\\
+r                         &= \dfrac {5.5 \times 3} {3} \\\\
+r                         &= \dfrac {5.5 \times \cancel {3}} {\cancel {3}} \\\\
+r                         &= \pounds 5.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 5.5$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the cost of first rabbit $= r$
+
+Cost of second rabbit $= 2 + r$
+
+Cost of third rabbit $= (2 + r) - 0.8$
+
+As per the question,
+
+$
+\begin {aligned}
+r + 2 + r + (2 + r) - 0.8 &= 19.70 \\\\
+3 r + 4 - 0.8             &= 19.70 \\\\
+3 r + 3.2                 &= 19.70 \\\\
+3 r                       &= 19.70 - 3.2 \\\\
+3 r                       &= 16.50 \\\\
+r                         &= \dfrac {16.50} {3} \\\\
+r                         &= \dfrac {5.5 \times 3} {3} \\\\
+r                         &= \dfrac {5.5 \times \cancel {3}} {\cancel {3}} \\\\
+r                         &= \pounds 5.5
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 5.5$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='017292F5-B2A1-4C79-85DD-F6BA7E5EF275' id='FORM-017292F5-B2A1-4C79-85DD-F6BA7E5EF275' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-017292F5-B2A1-4C79-85DD-F6BA7E5EF275'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
@@ -1598,128 +1744,6 @@ A quick check shows that $6$ and $11$ meets all the criteria above.
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-1543018F-C932-4ED3-845B-8C42976D5181'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>580C4232-E3E9-45F3-9E28-CF2700B10FA3</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:7</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A number is multiplied by $100$ to give $2030$.
-
-What is the number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 100 &= 2030 \\\\
-a            &= \dfrac {2030} {100} \\\\
-a            &= 20.3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20.3$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 100 &= 2030 \\\\
-a            &= \dfrac {2030} {100} \\\\
-a            &= 20.3
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$20.3$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='580C4232-E3E9-45F3-9E28-CF2700B10FA3' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='580C4232-E3E9-45F3-9E28-CF2700B10FA3' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='580C4232-E3E9-45F3-9E28-CF2700B10FA3' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='580C4232-E3E9-45F3-9E28-CF2700B10FA3' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='580C4232-E3E9-45F3-9E28-CF2700B10FA3' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='580C4232-E3E9-45F3-9E28-CF2700B10FA3' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='580C4232-E3E9-45F3-9E28-CF2700B10FA3' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='580C4232-E3E9-45F3-9E28-CF2700B10FA3' id='FORM-580C4232-E3E9-45F3-9E28-CF2700B10FA3' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-580C4232-E3E9-45F3-9E28-CF2700B10FA3'>Initial</p>
 </div>
 </div>
 </li>

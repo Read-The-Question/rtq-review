@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g0"
 title: "TopicPaper - Temperature - 1 - G0"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4520A825-7CCE-49E3-BF14-4A90C942392B</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-04 22:03:52
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -36,18 +36,17 @@ On January $1^\text{st}$, the temperature in Moscow was -$6 \degree \text{C}$ an
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-    \text{Temperature difference}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
-                                                                        &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
-                                                                        &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
+    \text{Degrees warmer}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
+                                                                        &= 13 - (- 6 ) \\\\
+                                                                        &= 13 + 6 \\\\
                                                                         &= 19 \degree \text{C}
 \end{aligned}
 $
 
-Rome is warmer than Moscow by $= 19 \degree \text{C}$
+
 
 </div>
 </div>
@@ -61,18 +60,17 @@ $19 \degree \text{C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-    \text{Temperature difference}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
-                                                                        &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
-                                                                        &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
+    \text{Degrees warmer}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
+                                                                        &= 13 - (- 6 ) \\\\
+                                                                        &= 13 + 6 \\\\
                                                                         &= 19 \degree \text{C}
 \end{aligned}
 $
 
-Rome is warmer than Moscow by $= 19 \degree \text{C}$
+
 </code></pre>
 </div>
 </div>
@@ -154,7 +152,7 @@ Remove summary line Rome is warmer than ...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B362E6E8-1659-4E09-A91F-F1247FF54602</p>
 </div>
@@ -168,7 +166,7 @@ Remove summary line Rome is warmer than ...
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -187,7 +185,6 @@ The temperature of the items in a freezer is $-18 \degree \text{C}$. A packet of
 
 Let the new temperature $= a$
 
-As per the question,
 
 $
 \begin{aligned}
@@ -211,7 +208,6 @@ $-7 \degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>Let the new temperature $= a$
 
-As per the question,
 
 $
 \begin{aligned}
@@ -274,7 +270,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8A17957B-1662-4775-ABE7-2482551AF10F</p>
 </div>
@@ -288,7 +284,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -299,7 +295,7 @@ ttemperature
 </div>
 <div class='question question'>
 
-The temperature recorded on one day in $5$ different cities in the world aremshown below.
+The temperature recorded on one day in $5$ different cities in the world are shown below.
 
 $-12\degree{c}\:\: 8\degree{c}\:\: 19\degree{c}\:\: -4\degree{c}\:\: 23\degree{c}\:\:$
 
@@ -313,9 +309,8 @@ cities?
 
 $
 \begin{aligned}
-\text {Difference between the hottest and the coldest cities}   &= \text{Hottest tempareture - Coldest tempareture} \\\\
-                                                                &= 23 - 12 \\\\
-                                                                &= 11 \degree \text{C}
+\text {Difference}   &= 23 - 12 \\\\
+                     &= 11 \degree \text{C}
 \end{aligned}
 $
 
@@ -333,9 +328,8 @@ $11\degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Difference between the hottest and the coldest cities}   &= \text{Hottest tempareture - Coldest tempareture} \\\\
-                                                                &= 23 - 12 \\\\
-                                                                &= 11 \degree \text{C}
+\text {Difference}   &= 23 - 12 \\\\
+                     &= 11 \degree \text{C}
 \end{aligned}
 $
 </code></pre>
@@ -415,7 +409,7 @@ Difference = 23 - 12
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>051F2794-DFF8-4792-8C27-24EC80D9363E</p>
 </div>
@@ -429,7 +423,7 @@ Difference = 23 - 12
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -490,11 +484,10 @@ On average, how much warmer is London than Moscow?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-\text{The average temperature  warmer is  London than Moscow } &= 7 - (-4) \\\\
+\text{Difference} &= 7 - (-4) \\\\
 &= 7 + 4 \\\\
 &= 11 \degree \text{C}
 \end{aligned}
@@ -512,11 +505,10 @@ $11 \degree \text{C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text{The average temperature  warmer is  London than Moscow } &= 7 - (-4) \\\\
+\text{Difference} &= 7 - (-4) \\\\
 &= 7 + 4 \\\\
 &= 11 \degree \text{C}
 \end{aligned}
@@ -552,11 +544,10 @@ What was the temperature that day?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-\text{ the temperature that day} &= 12 - 19 \\\\
+\text{ Temperature that day} &= 12 - 19 \\\\
 &= 12 - 19 \\\\
 &=  -7 \degree \text{C}
 \end{aligned}
@@ -574,11 +565,10 @@ $-7 \degree \text{C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text{ the temperature that day} &= 12 - 19 \\\\
+\text{ Temperature that day} &= 12 - 19 \\\\
 &= 12 - 19 \\\\
 &=  -7 \degree \text{C}
 \end{aligned}
@@ -640,7 +630,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
 </div>
@@ -654,7 +644,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -754,7 +744,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -768,7 +758,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -834,9 +824,9 @@ How many degrees warmer was it inside than outside the window?
 
 $
 \begin{aligned}
-&= 21 - (-3) \\\\
-&= 21 + 3 \\\\
-&= 24 \degree \text {C}
+\text {Difference} &= 21 - (-3) \\\\
+                   &= 21 + 3 \\\\
+                   &= 24 \degree \text {C}
 \end{aligned}
 $
 
@@ -856,9 +846,9 @@ $24 \degree \text {C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 21 - (-3) \\\\
-&= 21 + 3 \\\\
-&= 24 \degree \text {C}
+\text {Difference} &= 21 - (-3) \\\\
+                   &= 21 + 3 \\\\
+                   &= 24 \degree \text {C}
 \end{aligned}
 $
 
@@ -895,10 +885,10 @@ What was the temperature outside the window at $10 \ \text{p.m.}$?
 
 $
 \begin{aligned}
-&= -3 - (2) \\\\
-&= -3 - 2 \\\\
-&= -5 \\\\
-&= -5 \degree \text {C}
+\text {Temperature outside} &= -3 - (2) \\\\
+                            &= -3 - 2 \\\\
+                            &= -5 \\\\
+                            &= -5 \degree \text {C}
 \end{aligned}
 $
 
@@ -918,10 +908,10 @@ $-5 \degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= -3 - (2) \\\\
-&= -3 - 2 \\\\
-&= -5 \\\\
-&= -5 \degree \text {C}
+\text {Temperature outside} &= -3 - (2) \\\\
+                            &= -3 - 2 \\\\
+                            &= -5 \\\\
+                            &= -5 \degree \text {C}
 \end{aligned}
 $
 
@@ -1016,7 +1006,7 @@ Do not write \ \text{C}. Write \text{C}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3EA2D0FB-002E-4716-8D5D-0013DC93B64D</p>
 </div>
@@ -1030,7 +1020,7 @@ Do not write \ \text{C}. Write \text{C}
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1049,7 +1039,6 @@ The temperature has now **fallen** by $3.15$ degrees, what is the temperature?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
@@ -1070,8 +1059,7 @@ $4.05 \degree \text{C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
 \text{Current temparature}  &= 7.20  - 3.15  \\\\
@@ -1149,7 +1137,7 @@ Write \text{C} instead of \ \text{C} in workings and answers
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BA34FD19-371D-4651-BB0A-98354B0621F3</p>
 </div>
@@ -1163,7 +1151,7 @@ Write \text{C} instead of \ \text{C} in workings and answers
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1261,7 +1249,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3C6BCAEF-2EAE-44E1-B652-80E960F07578</p>
 </div>
@@ -1275,7 +1263,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1340,9 +1328,9 @@ How many degrees hotter was it in Tropical Town than in Cold City?
 
 $
 \begin{aligned}
-\text {Tropical town is hotter than Cold city by} &= 20 - (-12) \\\\
-                                                  &= 20 + 12 \\\\
-                                                  &= 32 \degree \text{C}
+\text {Difference} &= 20 - (-12) \\\\
+                   &= 20 + 12 \\\\
+                   &= 32 \degree \text{C}
 \end{aligned}
 $
 
@@ -1360,9 +1348,9 @@ $32 \degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Tropical town is hotter than Cold city by} &= 20 - (-12) \\\\
-                                                  &= 20 + 12 \\\\
-                                                  &= 32 \degree \text{C}
+\text {Difference} &= 20 - (-12) \\\\
+                   &= 20 + 12 \\\\
+                   &= 32 \degree \text{C}
 \end{aligned}
 $
 </code></pre>
@@ -1477,7 +1465,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E</p>
 </div>
@@ -1491,7 +1479,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1555,13 +1543,13 @@ How many degrees warmer is it inside than outside the window?
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 17 - (- 3) \\\\
-                                    &= 17 + 3 \\\\
-                                    &= 20 \degree \text {C}
+\text {Difference}  &= 17 - (- 3) \\\\
+                    &= 17 + 3 \\\\
+                    &= 20 \degree \text {C}
 \end{aligned}
 $
 
@@ -1579,13 +1567,13 @@ $20 \degree \text {C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the diagram,
+<pre class='language-latex'><code class='language-latex'>
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 17 - (- 3) \\\\
-                                    &= 17 + 3 \\\\
-                                    &= 20 \degree \text {C}
+\text {Difference}  &= 17 - (- 3) \\\\
+                    &= 17 + 3 \\\\
+                    &= 20 \degree \text {C}
 \end{aligned}
 $
 
@@ -1620,12 +1608,11 @@ What was the temprature outside the window at midnight?
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
 
 $
 \begin{aligned}
-\text {Temperature outside at midnight}  &= - 3 - 2 \\\\
-                                         &= - 5 \degree \text {C}
+\text {Temperature outside}  &= - 3 - 2 \\\\
+                             &= - 5 \degree \text {C}
 \end{aligned}
 $
 
@@ -1641,12 +1628,11 @@ $- 5 \degree \text {C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text {Temperature outside at midnight}  &= - 3 - 2 \\\\
-                                         &= - 5 \degree \text {C}
+\text {Temperature outside}  &= - 3 - 2 \\\\
+                             &= - 5 \degree \text {C}
 \end{aligned}
 $
 </code></pre>
@@ -1719,7 +1705,7 @@ Change \ \text{C}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F2BA21C-2151-444A-9222-DD2992551BD5</p>
 </div>
@@ -1733,7 +1719,7 @@ Change \ \text{C}
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1794,13 +1780,13 @@ How many degrees warmer is it in the fridge than in the freezer?
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 4 - (- 14) \\\\
-                                    &= 4 + 14 \\\\
-                                    &= 18 \degree \text {C}
+\text {Difference}  &= 4 - (- 14) \\\\
+                    &= 4 + 14 \\\\
+                    &= 18 \degree \text {C}
 \end{aligned}
 $
 
@@ -1818,13 +1804,13 @@ $18 \degree \text {C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the diagram,
+<pre class='language-latex'><code class='language-latex'>
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 4 - (- 14) \\\\
-                                    &= 4 + 14 \\\\
-                                    &= 18 \degree \text {C}
+\text {Difference}  &= 4 - (- 14) \\\\
+                    &= 4 + 14 \\\\
+                    &= 18 \degree \text {C}
 \end{aligned}
 $
 
@@ -1859,12 +1845,11 @@ What temperature should it be in the freezer?
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
 
 $
 \begin{aligned}
-\text {Temperature in the freezer should be}  &= - 14 - 3 \\\\
-                                              &= - 17 \degree \text {C}
+\text {Temperature in the freezer}  &= - 14 - 3 \\\\
+                                    &= - 17 \degree \text {C}
 \end{aligned}
 $
 
@@ -1880,12 +1865,11 @@ $- 17 \degree \text {C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text {Temperature in the freezer should be}  &= - 14 - 3 \\\\
-                                              &= - 17 \degree \text {C}
+\text {Temperature in the freezer}  &= - 14 - 3 \\\\
+                                    &= - 17 \degree \text {C}
 \end{aligned}
 $
 </code></pre>

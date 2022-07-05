@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-pr-prns"
 title: "TopicPaper - Areaperimeter - 5 - PR - PRNS"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
 <li>
@@ -159,6 +159,150 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-6E58F8FA-31E6-4646-BF9D-0281F0604D60'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>A9EDD897-7B82-4B95-B0E0-2756D47288FD</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:16</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the area of the shaded region in the diagram below. Give your answer in terms of $\pi$.
+
+![missing image](/papers/missing_image.svg)
+
+
+Diagram not drawn to scale
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of circle} = \pi \times \text{radius} \times \text{radius}$
+
+
+ABBR: $\text{Area of semi-circle} = \dfrac {1} {2} \times \pi \times \text{radius} \times \text{radius}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of the shaded region}       &= \text {Area of bigger semi-circle} - \text {Area of smaller circle} \\\\
+                                        &= \dfrac {1} {2} \times \pi \times 5 \times 5 - \pi \times \dfrac {5} {2} \times \dfrac {5} {2} \\\\ 
+                                        &= \dfrac {\pi \times 5 \times 5} {2} - \dfrac {\pi \times 5 \times 5} {2 \times 2} \\\\ 
+                                        &= \dfrac {\pi \times 5 \times 5} {2} - \dfrac {\pi \times 5 \times 5} {4} \\\\ 
+                                        &= \dfrac {\pi \times 5 \times 5 \times 2} {2 \times 2} - \dfrac {\pi \times 5 \times 5} {4} \\\\ 
+                                        &= \dfrac {50 \ \pi} {4} - \dfrac {25 \ \pi} {4} \\\\
+                                        &= \dfrac {50 \ \pi - 25 \ \pi} {4} \\\\
+                                        &= \dfrac {25} {4} \ \pi
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {25} {4} \ \pi$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_circle_pi_expanded
+
+rtq_abbr_katex_formula_area_semicircle_pi_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of the shaded region}       &= \text {Area of bigger semi-circle} - \text {Area of smaller circle} \\\\
+                                        &= \dfrac {1} {2} \times \pi \times 5 \times 5 - \pi \times \dfrac {5} {2} \times \dfrac {5} {2} \\\\ 
+                                        &= \dfrac {\pi \times 5 \times 5} {2} - \dfrac {\pi \times 5 \times 5} {2 \times 2} \\\\ 
+                                        &= \dfrac {\pi \times 5 \times 5} {2} - \dfrac {\pi \times 5 \times 5} {4} \\\\ 
+                                        &= \dfrac {\pi \times 5 \times 5 \times 2} {2 \times 2} - \dfrac {\pi \times 5 \times 5} {4} \\\\ 
+                                        &= \dfrac {50 \ \pi} {4} - \dfrac {25 \ \pi} {4} \\\\
+                                        &= \dfrac {50 \ \pi - 25 \ \pi} {4} \\\\
+                                        &= \dfrac {25} {4} \ \pi
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {25} {4} \ \pi$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' id='FORM-A9EDD897-7B82-4B95-B0E0-2756D47288FD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A9EDD897-7B82-4B95-B0E0-2756D47288FD'>Initial</p>
 </div>
 </div>
 </li>
@@ -1498,6 +1642,159 @@ tgraph
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-5115612D-9C06-4F91-9D07-E0E41EA82030'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>47EFAF0C-137C-44C4-BF63-3C7AD7B35914</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:14</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagram shown below, which square could be removed with the 
+perimeter of the shape remaining the same?
+
+![missing image](/papers/missing_image.svg)
+
+
+- $1$
+- $2$
+- $3$
+- $4$
+- $5$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
+
+
+*TODO: Add the explanation to count the sides in the shape.*
+
+As per the diagram,
+
+Total number of sides in the shape $= 18$
+
+Number of sides after removing tile $1 = 16$
+
+Number of sides after removing tile $2 = 16$
+
+Number of sides after removing tile $3 = 20$
+
+Number of sides after removing tile $4 = 16$
+
+Number of sides after removing tile $5 = 18$
+
+Perimeter of the shape remain same after removing tile $5$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
+
+*TODO: Add the explanation to count the sides in the shape.*
+
+As per the diagram,
+
+Total number of sides in the shape $= 18$
+
+Number of sides after removing tile $1 = 16$
+
+Number of sides after removing tile $2 = 16$
+
+Number of sides after removing tile $3 = 20$
+
+Number of sides after removing tile $4 = 16$
+
+Number of sides after removing tile $5 = 18$
+
+Perimeter of the shape remain same after removing tile $5$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>E</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' id='FORM-47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-47EFAF0C-137C-44C4-BF63-3C7AD7B35914'>Initial</p>
 </div>
 </div>
 </li>

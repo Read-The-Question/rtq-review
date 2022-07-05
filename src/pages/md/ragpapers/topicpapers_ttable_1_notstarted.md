@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttable-1-notstarted"
 title: "TopicPaper - Table - 1 - NOTSTARTED"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4445,6 +4445,385 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
+<p>AE46F128-2775-4636-BF19-455F903C2CC3</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:5</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table below shows four different makes of car each with four different engine sizes, in litres, and the Insurance Group for each. For example a Hissan $1.5$ car is in Insurance Group B.
+
+<!--
+                ,Car type   ,Skoyota    ,Hissan     ,Foxhall    ,Jagley
+Engine size     ,           ,           ,           ,
+$1.1$           ,           ,A          ,A          ,A          ,-
+$1.2$           ,           ,A          ,A          ,B          ,-
+$1.5$           ,           ,B          ,B          ,B          ,C
+$1.9$           ,           ,-          ,C          ,B          ,D
+-->
+
+|                 | Car type     | Skoyota     | Hissan     | Foxhall     | Jagley     |
+|:-----------:    |:--------:    |:-------:    |:------:    |:-------:    |:------:    |
+| Engine size     |              |             |            |             |            |
+|    $1.1$        |              |    A        |    A       |    A        |    -       |
+|    $1.2$        |              |    A        |    A       |    B        |    -       |
+|    $1.5$        |              |    B        |    B       |    B        |    C       |
+|    $1.9$        |              |    -        |    C       |    B        |    D       |
+
+The second table shows the monthly insurance payment paid by drivers of different age bands for each of the insurance groups, so a person aged $37$ would be in the age band $21 - 45$ and so would pay $\pounds 105$ each month for a car in Insurance group C.
+
+
+<!--
+                    ,Age band       ,Under 21       ,21 - 45        ,Over 45
+Insurance Group     ,               ,               ,               ,
+A                   ,               ,$\pounds 90$   ,$\pounds 80$   ,$\pounds 70$
+B                   ,               ,$\pounds 110$  ,$\pounds 95$   ,$\pounds 85$
+C                   ,               ,$\pounds 122$  ,$\pounds 105$  ,$\pounds 98$
+D                   ,               ,$\pounds 190$  ,$\pounds 160$  ,$\pounds 170$
+-->
+
+|                     | Age band     |    Under 21       |    21 - 45        |    Over 45        |
+|:---------------:    |:--------:    |:-------------:    |:-------------:    |:-------------:    |
+| Insurance Group     |              |                   |                   |                   |
+|        A            |              |  $\pounds 90$     |  $\pounds 80$     |  $\pounds 70$     |
+|        B            |              | $\pounds 110$     |  $\pounds 95$     |  $\pounds 85$     |
+|        C            |              | $\pounds 122$     | $\pounds 105$     |  $\pounds 98$     |
+|        D            |              | $\pounds 190$     | $\pounds 160$     | $\pounds 170$     |
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much will a $19$ year old pay for a Foxhall $1.5$ car each month?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Refer to Table $1$ Column: Foxhall Row: Engine $1.5$ size
+
+Foxhall $1.5$ belongs to Group $B$
+
+for Insurance amount Refer to Table $2$ Column: Under $21$ Row: $B$
+
+Under $21$, with Insurance Group $B$ pays $\pounds 110$ insurance per month. 
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 110$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Refer to Table $1$ Column: Foxhall Row: Engine $1.5$ size
+
+Foxhall $1.5$ belongs to Group $B$
+
+for Insurance amount Refer to Table $2$ Column: Under $21$ Row: $B$
+
+Under $21$, with Insurance Group $B$ pays $\pounds 110$ insurance per month. 
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 110$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A $30$ year old pays $\pounds 95$ for a Hissan car. What is the engine size of their car, in litres?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Refer to Table $2$ Column: Under $21 - 45$ and find which Insurance Group $\pounds 95$ belongs to.
+
+Under  $21 - 45$ $\pounds 95$ payment belongs to Insurance Group $B$
+
+to find the Engine size refer to Table $1$ Column: Hissan, find $B$ and then the respective Row for Engine size $1.5$
+
+Hissan with Insurance Group $B$ belongs to Engine size $1.5$ litres
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.5 \ \text {ltrs}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Refer to Table $2$ Column: Under $21 - 45$ and find which Insurance Group $\pounds 95$ belongs to.
+
+Under  $21 - 45$ $\pounds 95$ payment belongs to Insurance Group $B$
+
+to find the Engine size refer to Table $1$ Column: Hissan, find $B$ and then the respective Row for Engine size $1.5$
+
+Hissan with Insurance Group $B$ belongs to Engine size $1.5$ litres
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1.5 \ \text {ltrs}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much would a $50$ year old person **save** each month by using a $1.1$ Hissan car rather than a $1.9$ Hissan car?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1.1$ Hissan car belongs to Insurance Group $A$
+
+A $50$ year old pays $\pounds 70$ under Insurance Group $A$
+
+$1.9$ Hissan car belongs to Insurance Group $B$ 
+
+A $50$ year old pays $\pounds 98$ under Insurance Group $B$
+
+Savings per year by using a $1.1$  instead of $1.9$  Engine Hissan car:
+
+$\pounds 98 - \pounds 70 = \pounds 28$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 28$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$1.1$ Hissan car belongs to Insurance Group $A$
+
+A $50$ year old pays $\pounds 70$ under Insurance Group $A$
+
+$1.9$ Hissan car belongs to Insurance Group $B$ 
+
+A $50$ year old pays $\pounds 98$ under Insurance Group $B$
+
+Savings per year by using a $1.1$  instead of $1.9$  Engine Hissan car:
+
+$\pounds 98 - \pounds 70 = \pounds 28$
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 28$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+If a 32 year old pays $\pounds 95$ for a Skoyota car, what would a $20$ year old pay for a Jagley car with the same size engine?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Refer to : Column $\text {Under} \ 21 -45$, $\pounds 95$ to find the Insurance Group
+
+$\quad \pounds 95$ belongs to Insurance Group $B$
+
+Now refer to: column Skoyota, Insurance Group $B$ to find the Engine size.
+
+Group $B$ belongs to Engine size $1.5$
+
+Same size Jagley belongs to Insurance Group $C$
+
+Now refer again to Table $2$ column Under $20$ and then Row Insurance Group $C$ to find the amount.
+
+Under $21$, Insurance Group $C$ pays $\pounds 122$ per month
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 122$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Refer to : Column $\text {Under} \ 21 -45$, $\pounds 95$ to find the Insurance Group
+
+$\quad \pounds 95$ belongs to Insurance Group $B$
+
+Now refer to: column Skoyota, Insurance Group $B$ to find the Engine size.
+
+Group $B$ belongs to Engine size $1.5$
+
+Same size Jagley belongs to Insurance Group $C$
+
+Now refer again to Table $2$ column Under $20$ and then Row Insurance Group $C$ to find the amount.
+
+Under $21$, Insurance Group $C$ pays $\pounds 122$ per month
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 122$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
 <p>3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1</p>
 </div>
 <div class='papername'>
@@ -4950,6 +5329,373 @@ TODOANSWER
 <div class='question subquestion'>
 
 Ben and Anna were taken to Ashbridge by their Aunt Patricia. Their mother gave the children the money for the $2^{nd}$ class fare but Aunt Patricia paid the extra for them to travel $1^{st}$ class as well as paying for her own ticket. How much did Aunt Patricia pay?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>372D167F-1931-4A8C-8307-513472C10611</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2016--sample-paper-2:1:6</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the figure, the length y of the dog-leg path across the square of side-length $2$ from A to B is given by the formula $y=\sqrt{1+x^2}+\sqrt{5-4x+x^2}$ where x is the distance shown. (For some values of $𝑥$ the path will go outside the square.)
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Make a table of y values (correct to $2$ decimal places) corresponding to $x$ values of $0,\:\: 0.5,\:\: 1,\:\: 1.5,\:\: 2,\:\: 2.5,\:\: 3,\:\: 3.5,\:\: 4$. Why are the yvalues for $0.5$ and $1.5$ the same?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Using your values in (a) and choosing a sensible scale, plot a graph of $y$ against $x$ .
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Read-off from your graph the shortest distance from A to B .
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+For what value of $x$ is the $y$ - value twice the shortest distance from A to B ?
 
 </div>
 <div class='workings'>

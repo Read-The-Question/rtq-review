@@ -1,9 +1,571 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-blocked"
 title: "TopicPaper - Sequence - 3 - BLOCKED"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>3D3967D6-262B-4CC9-8544-EC70D5B72197</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:8</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the next number in each of these sequences:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1, \quad 4, \quad 8, \quad 13, \quad 19, \quad \text{\textunderscore \textunderscore \textunderscore }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing by $1$ more than the difference between the previous numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+7)}}  \\
+1,  &&    4,  &&  8,  &&   13,  &&   19,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 19 + 7 \\\\
+                           &= 26
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+The difference between the terms is increasing by $1$ more than the difference between the previous numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info{(+3)}}
+&&  \footnotesize{\rtq_katex_color_info{(+4)}}
+&&  \footnotesize{\rtq_katex_color_info{(+5)}}
+&&  \footnotesize{\rtq_katex_color_info{(+6)}}
+&&  \footnotesize{\rtq_katex_color_info{(+7)}}  \\
+1,  &&    4,  &&  8,  &&   13,  &&   19,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 19 + 7 \\\\
+                           &= 26
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$26$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1, \quad 2, \quad 4, \quad 8, \quad 16, \quad \text{\textunderscore \textunderscore \textunderscore }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+1,  &&    2,  &&  4,  &&   8,  &&   16,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 16 \times 2 \\\\
+                           &= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info{(\times 2)}} 
+&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}  
+&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}   
+&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}   
+&&  \footnotesize{\rtq_katex_color_info{(\times 2)}}  \\
+1,  &&    2,  &&  4,  &&   8,  &&   16,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 16 \times 2 \\\\
+                           &= 32
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$32$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$100, \quad 99, \quad 96, \quad 91, \quad 84, \quad \text{\textunderscore \textunderscore \textunderscore }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing in the sequence of natural odd numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-1)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-9)}}  \\
+100,  &&    99,  &&  96,  &&   91,  &&   84,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 84 - 9 \\\\
+                           &= 75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+The difference between the terms is decreasing in the sequence of natural odd numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info{(-1)}}
+&&  \footnotesize{\rtq_katex_color_info{(-3)}}
+&&  \footnotesize{\rtq_katex_color_info{(-5)}}
+&&  \footnotesize{\rtq_katex_color_info{(-7)}}
+&&  \footnotesize{\rtq_katex_color_info{(-9)}}  \\
+100,  &&    99,  &&  96,  &&   91,  &&   84,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 84 - 9 \\\\
+                           &= 75
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$75$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$89, \quad 55, \quad 34, \quad 21, \quad 13, \quad \text{\textunderscore \textunderscore \textunderscore }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The difference between the previous two terms is next number in the sequence. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-34)}}
+&&  \footnotesize{\maroonC
+{(-21)}}
+&&  \footnotesize{\maroonC
+{(-13)}}
+&&  \footnotesize{\maroonC
+{(-8)}}
+&&  \footnotesize{\maroonC
+{(-5)}}  \\
+89,  &&    55,  &&  34,  &&   21,  &&   13,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 13 - 5 \\\\
+                           &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+The difference between the previous two terms is next number in the sequence. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\rtq_katex_color_info{(-34)}}
+&&  \footnotesize{\rtq_katex_color_info{(-21)}}
+&&  \footnotesize{\rtq_katex_color_info{(-13)}}
+&&  \footnotesize{\rtq_katex_color_info{(-8)}}
+&&  \footnotesize{\rtq_katex_color_info{(-5)}}  \\
+89,  &&    55,  &&  34,  &&   21,  &&   13,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 13 - 5 \\\\
+                           &= 8
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the missing number in this sequence:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1, \quad 8, \quad 27,\quad \text{\textunderscore \textunderscore \textunderscore }, \quad 125, \quad 216$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+It is a sequence of cube numbers.
+
+$
+\begin{matrix}
+    \footnotesize{\maroonC
+{(1^3)}}
+&&  \footnotesize{\maroonC
+{(2^3)}}
+&&  \footnotesize{\maroonC
+{(3^3)}}
+&&  \footnotesize{\maroonC
+{(4^3)}}
+&&  \footnotesize{\maroonC
+{(5^3)}}
+&&  \footnotesize{\maroonC
+{(6^3)}}  \\
+1,  &&    8,  &&  27,  &&  \ldots ,  &&   125,   &&   216
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 4^3 \\\\
+                        &= 4 \times 4 \times 4 \\\\
+                        &= 16 \times 4 \\\\
+                        &= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+It is a sequence of cube numbers.
+
+$
+\begin{matrix}
+    \footnotesize{\rtq_katex_color_info{(1^3)}}
+&&  \footnotesize{\rtq_katex_color_info{(2^3)}}
+&&  \footnotesize{\rtq_katex_color_info{(3^3)}}
+&&  \footnotesize{\rtq_katex_color_info{(4^3)}}
+&&  \footnotesize{\rtq_katex_color_info{(5^3)}}
+&&  \footnotesize{\rtq_katex_color_info{(6^3)}}  \\
+1,  &&    8,  &&  27,  &&  \ldots ,  &&   125,   &&   216
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 4^3 \\\\
+                        &= 4 \times 4 \times 4 \\\\
+                        &= 16 \times 4 \\\\
+                        &= 64
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$64$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

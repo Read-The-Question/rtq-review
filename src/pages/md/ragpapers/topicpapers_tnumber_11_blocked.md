@@ -1,9 +1,208 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-blocked"
 title: "TopicPaper - Number - 11 - BLOCKED"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>DF9419EB-F3A8-4D2F-B496-2C8B22A3750C</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>Uday Pandey</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate
+
+</div>
+
+
+
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Use your answer to part (a) to write down the answer to 
+
+27 $\times$ 18 =
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+As we know,
+
+$
+\begin{aligned}
+27 \times 36 &= 972 \\\\
+\dfrac {27 \times 36} {2} &= 486 \\\\
+27 \times 18 &= 486
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$486$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+As we know,
+
+$
+\begin{aligned}
+27 \times 36 &= 972 \\\\
+\dfrac {27 \times 36} {2} &= 486 \\\\
+27 \times 18 &= 486
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$486$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Use your answer to part (a) to write down the answer to 
+
+**2.7 $\times$ 3.6 =**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begins{aligned}
+27 \times 36 &= 972 \\\\
+2.7 \times 3.6 &= 9.72 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9.72$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begins{aligned}
+27 \times 36 &= 972 \\\\
+2.7 \times 3.6 &= 9.72 \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9.72$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
@@ -282,96 +481,6 @@ $18, 36, 54, 72$
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$18, 36, 54, 72$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:10</p>
-</div>
-<div class='rag'>
-<p>Arunim Singhal</p>
-</div>
-<div class='rag'>
-<p>rag_as_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prbd</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the three prime numbers which multiply to make $231$:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
-
-As the unit digit has $1$, we can rule out $2$ and $5$ .
-
-Let's try $3$, $7$ and $11$.
-
-$
-\begin{aligned}
-&= 3 \times 7 \times 11 \\\\
-&= 21 \times 11 \\\\
-&= 231
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, 7, 11$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
-
-As the unit digit has $1$, we can rule out $2$ and $5$ .
-
-Let's try $3$, $7$ and $11$.
-
-$
-\begin{aligned}
-&= 3 \times 7 \times 11 \\\\
-&= 21 \times 11 \\\\
-&= 231
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3, 7, 11$
 </code></pre>
 </div>
 </div>

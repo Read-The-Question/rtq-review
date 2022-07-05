@@ -1,9 +1,482 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-blocked"
 title: "TopicPaper - Sequence - 5 - BLOCKED"
-date: 2022-07-04 22:03:52
+date: 2022-07-05 11:37:30
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>644EEE25-F82A-4DD4-A616-390BB876F410</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:1</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is the start of a number pattern:
+
+$3 \quad 7 \quad 11 \quad 15 \quad 19 \quad 23 \quad 27$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+From the numbers written above, write down
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+a mulliple of five
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$15$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$15$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+the difference between $11$ and $30$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 30 - 11 \\\\
+&= 19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 30 - 11 \\\\
+&= 19
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$19$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+a number which is **not** a prime number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$15$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$15$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+the square root of $9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$3$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the next two numbers in the pattern.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} } \\
+3,  &&    7,  &&  11,  &&   15,  &&   19,   &&   23,  &&  27,  && \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 27 + 4 \\\\
+                               &= 31 \\\
+\text {Second missing number}  &= 31 + 4 \\\\
+                               &= 35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$31$
+
+</div>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\rtq_katex_color_info {(+4)} }
+&&  \footnotesize {\rtq_katex_color_info {(+4)} }
+&&  \footnotesize {\rtq_katex_color_info {(+4)} }
+&&  \footnotesize {\rtq_katex_color_info {(+4)} }
+&&  \footnotesize {\rtq_katex_color_info {(+4)} }
+&&  \footnotesize {\rtq_katex_color_info {(+4)} }
+&&  \footnotesize {\rtq_katex_color_info {(+4)} }
+&&  \footnotesize {\rtq_katex_color_info {(+4)} } \\
+3,  &&    7,  &&  11,  &&   15,  &&   19,   &&   23,  &&  27,  && \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 27 + 4 \\\\
+                               &= 31 \\\
+\text {Second missing number}  &= 31 + 4 \\\\
+                               &= 35
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$31$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$35$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the first number in the pattern which is greater than $48$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using the above solution we get,
+
+$
+\begin{aligned}
+&= 35 + 4 + 4 + 4 + 4 \\\\
+&= 51
+\end{aligned}
+$
+
+$51$ is the first number in the pattern which is greater than $48$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using the above solution we get,
+
+$
+\begin{aligned}
+&= 35 + 4 + 4 + 4 + 4 \\\\
+&= 51
+\end{aligned}
+$
+
+$51$ is the first number in the pattern which is greater than $48$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$51$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
@@ -3078,443 +3551,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$16$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>3487109B-E395-4D4B-9784-14DBAA11998B</p>
-</div>
-<div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:11</p>
-</div>
-<div class='rag'>
-<p>Abhay Kandpal</p>
-</div>
-<div class='rag'>
-<p>rag_ak_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prbd</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next two terms of the following sequences;
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$2,\:\: 4,\:\: 7,\:\: 11,\:\: …\:\: …$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The difference between the terms is $1$ more than the difference between the previous sequence. Hence the sequence would be :
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
-2,  &&    4,  &&  7,  &&   11, && \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}     &= 11 + 5 \\\\
-                                &= 16 \\\\
-\text{Second missing number}    &= 16 + 6 \\\\
-                                &= 22
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-<div class='answer'>
-
-$22$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
-The difference between the terms is $1$ more than the difference between the previous sequence. Hence the sequence would be :
-
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(+2)}}
-&&  \footnotesize{\rtq_katex_color_info{(+3)}}
-&&  \footnotesize{\rtq_katex_color_info{(+4)}}
-&&  \footnotesize{\rtq_katex_color_info{(+5)}}
-&&  \footnotesize{\rtq_katex_color_info{(+6)}}  \\
-2,  &&    4,  &&  7,  &&   11, && \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}     &= 11 + 5 \\\\
-                                &= 16 \\\\
-\text{Second missing number}    &= 16 + 6 \\\\
-                                &= 22
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$22$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$\frac {2} {3},\:\: 2,\:\: 6,\:\: 18,\:\: …\:\: ….$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}}
-&&  \footnotesize{\maroonC
-{(\times 3)}} \\
-\dfrac {2} {3},  &&    2,  &&  6,  &&   18,  &&   \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}     &= 18 \times 3 \\\\
-                                &= 54 \\\\
-\text{Second missing number}    &= 54 \times 3 \\\\
-                                &= 162
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$54$
-
-</div>
-<div class='answer'>
-
-$162$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
-The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\rtq_katex_color_info{(\times 3)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 3)}}
-&&  \footnotesize{\rtq_katex_color_info{(\times 3)}} \\
-\dfrac {2} {3},  &&    2,  &&  6,  &&   18,  &&   \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}     &= 18 \times 3 \\\\
-                                &= 54 \\\\
-\text{Second missing number}    &= 54 \times 3 \\\\
-                                &= 162
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$54$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$162$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-A sequence follows the rule:
-Treble and add one
-Explain why if the first term is $\frac{-2} {9}$ the second term is $\frac{1} {3}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-First term $= -\dfrac {2} {9}$
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Second term}     &= -\dfrac {2} {9} \times 3 + 1 \\\\
-                        &= -\dfrac {2 \times 3} {9} + 1 \\\\
-                        &= -\dfrac {2 \times 3} {3 \times 3} + 1 \\\\
-                        &= -\dfrac {2 \times \cancel {3}} {\cancel {3} \times 3} + 1 \\\\
-                        &= -\dfrac {2} {3} + 1 \\\\
-                        &= -\dfrac {2} {3} + \dfrac {1 \times 3} {1 \times 3} \\\\
-                        &= -\dfrac {2} {3} + \dfrac {3} {3} \\\\
-                        &= \dfrac {-2 + 3} {3} \\\\
-                        &= \dfrac {1} {3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>First term $= -\dfrac {2} {9}$
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Second term}     &= -\dfrac {2} {9} \times 3 + 1 \\\\
-                        &= -\dfrac {2 \times 3} {9} + 1 \\\\
-                        &= -\dfrac {2 \times 3} {3 \times 3} + 1 \\\\
-                        &= -\dfrac {2 \times \cancel {3}} {\cancel {3} \times 3} + 1 \\\\
-                        &= -\dfrac {2} {3} + 1 \\\\
-                        &= -\dfrac {2} {3} + \dfrac {1 \times 3} {1 \times 3} \\\\
-                        &= -\dfrac {2} {3} + \dfrac {3} {3} \\\\
-                        &= \dfrac {-2 + 3} {3} \\\\
-                        &= \dfrac {1} {3}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find the fourth term
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-First term $= -\dfrac {2} {9}$
-
-Second term $= \dfrac {1} {3}$
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Third term}  &= \dfrac {1} {3} \times 3 + 1 \\\\
-                    &= \dfrac {1 \times 3} {3} + 1 \\\\
-                    &= \dfrac {1 \times \cancel{3}} {\cancel{3}} + 1 \\\\
-                    &= 1 + 1 \\\\
-                    &= 2 \\\\
-\text {Fourth term} &= 2 \times 3 + 1 \\\\\
-                    &= 6 + 1 \\\\
-                    &= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>First term $= -\dfrac {2} {9}$
-
-Second term $= \dfrac {1} {3}$
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Third term}  &= \dfrac {1} {3} \times 3 + 1 \\\\
-                    &= \dfrac {1 \times 3} {3} + 1 \\\\
-                    &= \dfrac {1 \times \cancel{3}} {\cancel{3}} + 1 \\\\
-                    &= 1 + 1 \\\\
-                    &= 2 \\\\
-\text {Fourth term} &= 2 \times 3 + 1 \\\\\
-                    &= 6 + 1 \\\\
-                    &= 7
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7$
 </code></pre>
 </div>
 </div>

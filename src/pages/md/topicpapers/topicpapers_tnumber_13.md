@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4013,10 +4013,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_as_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -485,10 +485,10 @@ Remove aptq
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_ss_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6309,10 +6309,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_ss_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>
@@ -7530,7 +7530,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2F004FED-C180-43D6-92EB-C8E129B37242</p>
 </div>
@@ -7544,7 +7544,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-blocked"
 title: "TopicPaper - Number - 14 - BLOCKED"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -177,10 +177,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_as_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

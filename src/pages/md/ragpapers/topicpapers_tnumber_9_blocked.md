@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-blocked"
 title: "TopicPaper - Number - 9 - BLOCKED"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-05 11:37:30
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -84,10 +84,10 @@ LCM of $2$, $3$ and $4 = 12$.
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

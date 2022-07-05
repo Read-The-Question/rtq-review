@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-3"
 title: "TopicPaper - Number - 3"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,10 +23,10 @@ date: 2022-07-05 11:37:30
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -126,10 +126,10 @@ $358903$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -341,10 +341,10 @@ $
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -572,10 +572,10 @@ TODOANSWER
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -932,10 +932,10 @@ $
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1209,10 +1209,10 @@ c: WRite abbrev for bidmas
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1314,10 +1314,10 @@ $29, 31, 37$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1591,10 +1591,10 @@ a: change 2 * x to 2x as thats the original question
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1690,10 +1690,10 @@ TODOANSWER
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1830,10 +1830,10 @@ Too simple to show array detailed version, change to begin aligned
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1948,10 +1948,10 @@ $
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2077,10 +2077,10 @@ Use approx template, refer DAA6B0CE-CF05-45FF-83D8-D30065047D76
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2224,10 +2224,10 @@ Too simple to show array detailed version, change to begin aligned
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2339,10 +2339,10 @@ $
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2467,10 +2467,10 @@ Use approx way of writing
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2856,10 +2856,10 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3160,10 +3160,10 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3266,10 +3266,10 @@ $6$
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3409,10 +3409,10 @@ Sum    &= 53 + 59 \\
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3846,10 +3846,10 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4342,10 +4342,10 @@ $
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4443,10 +4443,10 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5025,10 +5025,10 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5160,10 +5160,10 @@ remove s3, s4
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5392,10 +5392,10 @@ Refer CD6BCBD5-16AA-4496-BA89-31C177B22E60, its not G2 yet, so please follow acc
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5498,10 +5498,10 @@ $1.3 \text{ litres}$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5621,10 +5621,10 @@ remove aptq
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5902,10 +5902,10 @@ $
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6130,10 +6130,10 @@ TODOANSWER
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6241,10 +6241,10 @@ $20000 \ \text{mm}$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6611,10 +6611,10 @@ TODOANSWER
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7018,10 +7018,10 @@ TODOANSWER
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7364,10 +7364,10 @@ d \\ missing
 <p>csse--11-plus--maths--2015--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7813,10 +7813,10 @@ $5$
 <p>csse--11-plus--maths--2015--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -8088,10 +8088,10 @@ $6$ needs to be replaced with $7$.
 <p>csse--11-plus--maths--2015--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -8304,10 +8304,10 @@ $
 <p>csse--11-plus--maths--2015--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -8576,10 +8576,10 @@ c: Add Using trial and error,
 <p>csse--11-plus--maths--2015--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -9056,10 +9056,10 @@ f: LHS Sum = 13 + 37 + 41
 <p>csse--11-plus--maths--2015--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

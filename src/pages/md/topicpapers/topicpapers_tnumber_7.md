@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-7"
 title: "TopicPaper - Number - 7"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1540,10 +1540,10 @@ $
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2052,10 +2052,10 @@ $
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2569,10 +2569,10 @@ $
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2638,10 +2638,10 @@ $10236$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2755,10 +2755,10 @@ $
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2866,10 +2866,10 @@ $
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2967,10 +2967,10 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3311,10 +3311,10 @@ $
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4455,10 +4455,10 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5151,10 +5151,10 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_rb_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6396,10 +6396,10 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6574,10 +6574,10 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7096,10 +7096,10 @@ $
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7342,10 +7342,10 @@ TODOANSWER
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_rb_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

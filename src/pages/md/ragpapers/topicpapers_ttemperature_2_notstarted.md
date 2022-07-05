@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-2-notstarted"
 title: "TopicPaper - Temperature - 2 - NOTSTARTED"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -123,13 +123,12 @@ What is the difference between the highest and lowest temperatures in Boston?
 <div class='working'>
 
 
-Highest temperature $= 30 \degree$
-
-Lowest  temperature $=  8 \degree$
-
-$30 - 8 = 22 \degree$
-
-Difference between highest and lowest temperatures in Boston is $22 \degree$
+$
+\begin{aligned}
+\text{Difference} &= 30 - 8 \\\\
+                  &= 22 \degree\text{C}
+\end{aligned}
+$
 
 
 </div>
@@ -145,13 +144,12 @@ $22 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-Highest temperature $= 30 \degree$
-
-Lowest  temperature $=  8 \degree$
-
-$30 - 8 = 22 \degree$
-
-Difference between highest and lowest temperatures in Boston is $22 \degree$
+$
+\begin{aligned}
+\text{Difference} &= 30 - 8 \\\\
+                  &= 22 \degree\text{C}
+\end{aligned}
+$
 
 </code></pre>
 </div>
@@ -181,15 +179,11 @@ What is the difference between the highest and lowest temperatures in St Petersb
 <div class='workings'>
 <div class='working'>
 
-Highest temperature $= 9 \degree$
-
-Lowest  temperature $= -8 \degree$
-
-$9 - (-8) = 17 \degree$
-
-Product of $2$ negatives is a positive
-
-Difference between highest and lowest temperatures in St. Petersburg is $17 \degree$
+$
+\begin{aligned}
+\text{Difference} &= 9 - (-8) \\\\
+                  &= 17 \degree\text{C}
+\end{aligned}
 
 
 </div>
@@ -197,22 +191,18 @@ Difference between highest and lowest temperatures in St. Petersburg is $17 \deg
 <div class='answers'>
 <div class='answer'>
 
-$17 \degree$
+$17 \degree \text{C}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Highest temperature $= 9 \degree$
-
-Lowest  temperature $= -8 \degree$
-
-$9 - (-8) = 17 \degree$
-
-Product of $2$ negatives is a positive
-
-Difference between highest and lowest temperatures in St. Petersburg is $17 \degree$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Difference} &= 9 - (-8) \\\\
+                  &= 17 \degree\text{C}
+\end{aligned}
 
 </code></pre>
 </div>
@@ -225,7 +215,7 @@ Difference between highest and lowest temperatures in St. Petersburg is $17 \deg
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$17 \degree$
+<pre class='language-latex'><code class='language-latex'>$17 \degree \text{C}$
 </code></pre>
 </div>
 </div>
@@ -242,7 +232,7 @@ Which city has the lowest recorded temperature of all?
 <div class='workings'>
 <div class='working'>
 
-Budapest = $- 9 \degree$
+Budapest
 
 </div>
 </div>
@@ -256,7 +246,7 @@ Budapest
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Budapest = $- 9 \degree$
+<pre class='language-latex'><code class='language-latex'>Budapest
 </code></pre>
 </div>
 </div>

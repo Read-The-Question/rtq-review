@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-g0"
 title: "TopicPaper - Number - 2 - G0"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-05 11:37:30
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -508,10 +508,10 @@ f: s2: do not solve (20+10) to 30, still show (20+10) to represent that multiply
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -806,10 +806,10 @@ b: change 2 * a to 2a after S1, leave as 2 *a only in S1
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -998,10 +998,10 @@ $8.3$
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-blocked"
 title: "TopicPaper - Number - 7 - BLOCKED"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-05 11:37:30
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -487,10 +487,10 @@ the value of the $6$ in the decimal $0.264$ is Hundredths place
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

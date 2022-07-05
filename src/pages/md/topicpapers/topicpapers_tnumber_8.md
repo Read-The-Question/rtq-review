@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-8"
 title: "TopicPaper - Number - 8"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -212,10 +212,10 @@ $11$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -439,10 +439,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -718,10 +718,10 @@ $8, 28$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -994,10 +994,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1184,10 +1184,10 @@ $16$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1275,10 +1275,10 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1486,10 +1486,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1589,10 +1589,10 @@ $4765$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2096,10 +2096,10 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2199,10 +2199,10 @@ $5 \ \text {and} \ 11$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2292,10 +2292,10 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2494,10 +2494,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2729,10 +2729,10 @@ $45$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3161,10 +3161,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3542,10 +3542,10 @@ $17$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3876,10 +3876,10 @@ $32027$
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4296,10 +4296,10 @@ $90009$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5778,10 +5778,10 @@ $
 <p>oundle-school--11-plus--maths--2016--sample-paper-3:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_rb_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6699,10 +6699,10 @@ $
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7960,10 +7960,10 @@ $
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_rb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8424,10 +8424,10 @@ $
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:8</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Rochak Bhardwaj</p>
 </div>
 <div class='rag'>
-<p>rag_mr_g0</p>
+<p>rag_rb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

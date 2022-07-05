@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-3"
 title: "TopicPaper - Simpleword - 3"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-05 11:37:30
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3F6998ED-9AC1-46D3-A19F-E85725A6237B</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-05 11:37:30
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -50,16 +50,12 @@ What fraction of the pizza did Matilda eat?
 <div class='workings'>
 <div class='working'>
 
-While solving problems on fractions, we take whole quantity $1$.
-
-As per the question,
-
 $
 \begin{aligned}
-\text {Anna ate}    &= \dfrac {1} {3} \ \text {of} \ (1 - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4} {4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4 - 1} {4}) \\\\
+\text {Anna ate}    &= \dfrac {1} {3} \ \text {of} \ \left(1 - \dfrac {1} {4} \right) \\\\
+                    &= \dfrac {1} {3} \times \left( \dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4} \right) \\\\
+                    &= \dfrac {1} {3} \times \left( \dfrac {4} {4} - \dfrac {1} {4} \right) \\\\
+                    &= \dfrac {1} {3} \times \left( \dfrac {4 - 1} {4} \right) \\\\
                     &= \dfrac {1} {3} \times \dfrac {3} {4} \\\\
                     &= \dfrac {1 \times 3} {3 \times 4} \\\\
                     &= \dfrac {1 \times \cancel {3}} {\cancel {3} \times 4} \\\\
@@ -72,8 +68,6 @@ $
 \end{aligned}
 $
 
-Rohit, Guhesh and Matilda gets equally shares of the pizza.
-
 $
 \begin{aligned}
 \text {Matilda gets} &= \dfrac {1} {3} \times \dfrac {2} {4} \\\\
@@ -83,8 +77,6 @@ $
                         &= \dfrac {1} {6}
 \end{aligned}
 $
-
-Matilda ate $\dfrac {1} {6}$ part of the pizza.
 
 </div>
 </div>
@@ -98,16 +90,12 @@ $\dfrac {1} {6}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>While solving problems on fractions, we take whole quantity $1$.
-
-As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Anna ate}    &= \dfrac {1} {3} \ \text {of} \ (1 - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4} {4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4 - 1} {4}) \\\\
+\text {Anna ate}    &= \dfrac {1} {3} \ \text {of} \ \left(1 - \dfrac {1} {4} \right) \\\\
+                    &= \dfrac {1} {3} \times \left( \dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4} \right) \\\\
+                    &= \dfrac {1} {3} \times \left( \dfrac {4} {4} - \dfrac {1} {4} \right) \\\\
+                    &= \dfrac {1} {3} \times \left( \dfrac {4 - 1} {4} \right) \\\\
                     &= \dfrac {1} {3} \times \dfrac {3} {4} \\\\
                     &= \dfrac {1 \times 3} {3 \times 4} \\\\
                     &= \dfrac {1 \times \cancel {3}} {\cancel {3} \times 4} \\\\
@@ -120,8 +108,6 @@ $
 \end{aligned}
 $
 
-Rohit, Guhesh and Matilda gets equally shares of the pizza.
-
 $
 \begin{aligned}
 \text {Matilda gets} &= \dfrac {1} {3} \times \dfrac {2} {4} \\\\
@@ -131,8 +117,6 @@ $
                         &= \dfrac {1} {6}
 \end{aligned}
 $
-
-Matilda ate $\dfrac {1} {6}$ part of the pizza.
 </code></pre>
 </div>
 </div>
@@ -187,7 +171,7 @@ Matilda ate $\dfrac {1} {6}$ part of the pizza.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>32AD190F-BC19-4308-B41D-C508037F0B80</p>
 </div>
@@ -201,7 +185,7 @@ Matilda ate $\dfrac {1} {6}$ part of the pizza.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -224,13 +208,9 @@ How long is the row of daffodils when she has finished?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 No. of daffodils $= 8$
 
 No. of gaps between daffodils $= 7$
-
-Length of gap $= 1.1 \text{m}$
 
 $
 \begin{aligned}
@@ -251,13 +231,9 @@ $7.7 \ \text {m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-No. of daffodils $= 8$
+<pre class='language-latex'><code class='language-latex'>No. of daffodils $= 8$
 
 No. of gaps between daffodils $= 7$
-
-Length of gap $= 1.1 \text{m}$
 
 $
 \begin{aligned}
@@ -502,7 +478,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>023389AE-3402-4C39-A59D-560327B4A49B</p>
 </div>
@@ -516,7 +492,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -534,8 +510,6 @@ How many sheets are there in $2$ ream?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -557,9 +531,7 @@ $960$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Number of Sheets in two ream}    &= 2 \times 20 \times 24 \\\\
                                         &= 40 \times 24 \\\\
@@ -620,7 +592,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>437ABB0F-8D76-4639-A59E-6C56A371CF3F</p>
 </div>
@@ -634,7 +606,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -651,6 +623,10 @@ Three prime numbers multiply together to get $110$. What are they?
 <div class='workings'>
 <div class='working'>
 
+Three prime numbers $= 2, 5, 11$
+
+Let's verify.
+
 $
 \begin {aligned}
 &= 2 \times 5 \times 11 \\\\
@@ -658,8 +634,6 @@ $
 &= 110
 \end {aligned}
 $
-
-Three prime numbers that multiply together to get $110$ are $2, 5, 11$.
 
 </div>
 </div>
@@ -673,15 +647,17 @@ $2, 5, 11$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Three prime numbers $= 2, 5, 11$
+
+Let's verify.
+
+$
 \begin {aligned}
 &= 2 \times 5 \times 11 \\\\
 &= 10 \times 11 \\\\
 &= 110
 \end {aligned}
 $
-
-Three prime numbers that multiply together to get $110$ are $2, 5, 11$.
 </code></pre>
 </div>
 </div>
@@ -1233,7 +1209,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>904D7204-A565-4D68-AF4B-D9D8FBD9EA55</p>
 </div>
@@ -1247,7 +1223,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1267,13 +1243,11 @@ A length of rope is $5 \ \text{m}$ long. It is cut into four unequal lengths. Th
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-.
-
 $
 \begin{aligned}
 \text {Length of fourth piece} &= 5 \ \text {m} - (147 \ \text {cm} + 132.5 \ \text {cm} + 67 \ \text {cm}) \\\\
                                &= 5 \ \text {m} - 346.5 \ \text {cm} \\\\
+                               &= 5 \ \text {m} - \dfrac {346.5} {100} \ \text {m} \\\\
                                &= 5 \ \text {m} - 3.465 \ \text {m} \\\\
                                &= 1.535 \ \text {m}
 \end{aligned}
@@ -1291,12 +1265,11 @@ $1.535 \ \text {m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Length of fourth piece} &= 5 \ \text {m} - (147 \ \text {cm} + 132.5 \ \text {cm} + 67 \ \text {cm}) \\\\
                                &= 5 \ \text {m} - 346.5 \ \text {cm} \\\\
+                               &= 5 \ \text {m} - \dfrac {346.5} {100} \ \text {m} \\\\
                                &= 5 \ \text {m} - 3.465 \ \text {m} \\\\
                                &= 1.535 \ \text {m}
 \end{aligned}
@@ -1355,7 +1328,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4D997794-FBCD-4D84-92CD-789B4D89EDE0</p>
 </div>
@@ -1369,7 +1342,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1475,7 +1448,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
 </div>
@@ -1489,7 +1462,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1510,12 +1483,10 @@ What is their total mass, give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-. Let's convert all the masses into $\text{g}$.
-
 $
 \begin{aligned}
 \text {Total mass} &= 720 \ \text{g} + 3.46 \ \text{kg} + 2 \ \text{kg} \ 53 \ \text{g} \\\\
+                   &= 720 \ \text{g} + 3.46 \times 1000 \ \text{g} + 2 \times 1000 \ \text{g} + 53 \ \text{g} \\\\
                    &= 720 \ \text{g} + 3460 \ \text{g} + 2053 \ \text{g} \\\\
                    &= 6233 \ \text{g}
 \end{aligned}
@@ -1533,11 +1504,10 @@ $6233 \ \text{g}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. Let's convert all the masses into $\text{g}$.
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Total mass} &= 720 \ \text{g} + 3.46 \ \text{kg} + 2 \ \text{kg} \ 53 \ \text{g} \\\\
+                   &= 720 \ \text{g} + 3.46 \times 1000 \ \text{g} + 2 \times 1000 \ \text{g} + 53 \ \text{g} \\\\
                    &= 720 \ \text{g} + 3460 \ \text{g} + 2053 \ \text{g} \\\\
                    &= 6233 \ \text{g}
 \end{aligned}
@@ -1930,7 +1900,7 @@ Fraction per person = Total Bars / Total people
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>50CD6363-A877-46A1-B8C7-F8385276B624</p>
 </div>
@@ -1944,7 +1914,7 @@ Fraction per person = Total Bars / Total people
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1976,16 +1946,14 @@ $
 \end{aligned}
 $
 
-As per the question,
-
 $
 \begin{aligned}
-&= \dfrac {2} {5} \times 20 \\\\
-&= \dfrac {2 \times 20} {5} \\\\
-&= \dfrac {2 \times 5 \times 4} {5} \\\\
-&= \dfrac {2 \times \cancel {5} \times 4} {\cancel {5}} \\\\
-&= 2 \times 4 \\\\
-&= 8
+\text{Required Number}      &= \dfrac {2} {5} \times 20 \\\\
+                            &= \dfrac {2 \times 20} {5} \\\\
+                            &= \dfrac {2 \times 5 \times 4} {5} \\\\
+                            &= \dfrac {2 \times \cancel {5} \times 4} {\cancel {5}} \\\\
+                            &= 2 \times 4 \\\\
+                            &= 8
 \end{aligned}
 $
 
@@ -2016,16 +1984,14 @@ $- 1$
 \end{aligned}
 $
 
-As per the question,
-
 $
 \begin{aligned}
-&= \dfrac {2} {5} \times 20 \\\\
-&= \dfrac {2 \times 20} {5} \\\\
-&= \dfrac {2 \times 5 \times 4} {5} \\\\
-&= \dfrac {2 \times \cancel {5} \times 4} {\cancel {5}} \\\\
-&= 2 \times 4 \\\\
-&= 8
+\text{Required Number}      &= \dfrac {2} {5} \times 20 \\\\
+                            &= \dfrac {2 \times 20} {5} \\\\
+                            &= \dfrac {2 \times 5 \times 4} {5} \\\\
+                            &= \dfrac {2 \times \cancel {5} \times 4} {\cancel {5}} \\\\
+                            &= 2 \times 4 \\\\
+                            &= 8
 \end{aligned}
 $
 
@@ -2089,7 +2055,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3</p>
 </div>
@@ -2103,7 +2069,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2120,20 +2086,14 @@ Bill has a bag containing $60$ sweets. He eats a half of the sweets himself and 
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin {aligned}
 \text {Sweets left}  &= \text {Total number of sweets} - (\text {Sweets Bill ate} + \text {Sweets he gives away}) \\\\
                      &= 60 - \bigg(\dfrac {1} {2} \ \text {of} \ 60 + \dfrac {1} {3} \ \text {of} \ \bigg(\dfrac {1} {2} \ \text {of} \ 60 \bigg) \bigg) \\\\
                      &= 60 - \bigg(\dfrac {1} {2} \times 60 +\dfrac {1} {3} \times \bigg(\dfrac {1} {2} \times 60 \bigg) \bigg) \\\\
-                     &= 60 - \bigg(\dfrac {60} {2} + \dfrac {1} {3} \times \bigg(\dfrac {60} {2} \bigg) \bigg) \\\\
-                     &= 60 - \bigg(\dfrac {30 \times 2} {2} + \dfrac {1} {3} \times \bigg(\dfrac {30 \times 2} {2}\bigg) \bigg) \\\\
-                     &= 60 - \bigg(\dfrac {30 \times \cancel {2}} {\cancel {2}} + \dfrac {1} {3} \times \bigg(\dfrac {30 \times \cancel {2}} {\cancel {2}} \bigg) \bigg) \\\\
-                     &= 60 - \bigg(30 + \dfrac {1} {3} \times 30 \bigg) \\\\
-                     &= 60 - \bigg(30 + \dfrac {30} {3} \bigg) \\\\
-                     &= 60 - \bigg(30 + \dfrac {10 \times 3} {3} \bigg) \\\\
-                     &= 60 - \bigg(30 + \dfrac {10 \times \cancel {3}} {\cancel {3}} \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {60} {2} + \dfrac {1} {3} \times \dfrac {60} {2} \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {30 \times 2} {2} + \dfrac {10 \times 3 \times 2} {3 \times 2} \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {30 \times \cancel 2} {\cancel 2} + \dfrac {10 \times \cancel 3 \times \cancel 2} {\cancel 3 \times \cancel 2} \bigg) \\\\
                      &= 60 - (30 + 10) \\\\
                      &= 60 - 40 \\\\
                      &= 20
@@ -2152,20 +2112,14 @@ $20$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Sweets left}  &= \text {Total number of sweets} - (\text {Sweets Bill ate} + \text {Sweets he gives away}) \\\\
                      &= 60 - \bigg(\dfrac {1} {2} \ \text {of} \ 60 + \dfrac {1} {3} \ \text {of} \ \bigg(\dfrac {1} {2} \ \text {of} \ 60 \bigg) \bigg) \\\\
                      &= 60 - \bigg(\dfrac {1} {2} \times 60 +\dfrac {1} {3} \times \bigg(\dfrac {1} {2} \times 60 \bigg) \bigg) \\\\
-                     &= 60 - \bigg(\dfrac {60} {2} + \dfrac {1} {3} \times \bigg(\dfrac {60} {2} \bigg) \bigg) \\\\
-                     &= 60 - \bigg(\dfrac {30 \times 2} {2} + \dfrac {1} {3} \times \bigg(\dfrac {30 \times 2} {2}\bigg) \bigg) \\\\
-                     &= 60 - \bigg(\dfrac {30 \times \cancel {2}} {\cancel {2}} + \dfrac {1} {3} \times \bigg(\dfrac {30 \times \cancel {2}} {\cancel {2}} \bigg) \bigg) \\\\
-                     &= 60 - \bigg(30 + \dfrac {1} {3} \times 30 \bigg) \\\\
-                     &= 60 - \bigg(30 + \dfrac {30} {3} \bigg) \\\\
-                     &= 60 - \bigg(30 + \dfrac {10 \times 3} {3} \bigg) \\\\
-                     &= 60 - \bigg(30 + \dfrac {10 \times \cancel {3}} {\cancel {3}} \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {60} {2} + \dfrac {1} {3} \times \dfrac {60} {2} \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {30 \times 2} {2} + \dfrac {10 \times 3 \times 2} {3 \times 2} \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {30 \times \cancel 2} {\cancel 2} + \dfrac {10 \times \cancel 3 \times \cancel 2} {\cancel 3 \times \cancel 2} \bigg) \\\\
                      &= 60 - (30 + 10) \\\\
                      &= 60 - 40 \\\\
                      &= 20
@@ -2705,7 +2659,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7F144D39-FF9F-415B-BCF9-27AE13989004</p>
 </div>
@@ -2719,7 +2673,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2828,7 +2782,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FBA7D546-085C-4838-8C37-245F030BFC44</p>
 </div>
@@ -2842,7 +2796,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2859,11 +2813,9 @@ A box of $92$ Smarties contains only reef, green and purple Smarties. If there a
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text {Purple Smarties}  &= \text {Total Smarties - (Red Smarties + Green Smarties)} \\\\
+\text {Purple Smarties}  &= \text {Total Smarties} - (\text{Red Smarties} + \text{Green Smarties}) \\\\
                          &= 92 - (37 + 29) \\\\
                          &= 92 - 66 \\\\
                          &= 26
@@ -2882,11 +2834,9 @@ $26$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Purple Smarties}  &= \text {Total Smarties - (Red Smarties + Green Smarties)} \\\\
+\text {Purple Smarties}  &= \text {Total Smarties} - (\text{Red Smarties} + \text{Green Smarties}) \\\\
                          &= 92 - (37 + 29) \\\\
                          &= 92 - 66 \\\\
                          &= 26
@@ -3547,7 +3497,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8C2424AB-3B93-4D99-9DE3-E12FB4CE2FA1</p>
 </div>
@@ -3561,7 +3511,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

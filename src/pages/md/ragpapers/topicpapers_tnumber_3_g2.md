@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-g2"
 title: "TopicPaper - Number - 3 - G2"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-05 11:37:30
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -116,10 +116,10 @@ $358903$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -331,10 +331,10 @@ $
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -436,10 +436,10 @@ $29, 31, 37$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -554,10 +554,10 @@ $
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -669,10 +669,10 @@ $
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -950,10 +950,10 @@ $
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

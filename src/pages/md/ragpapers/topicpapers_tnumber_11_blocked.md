@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-blocked"
 title: "TopicPaper - Number - 11 - BLOCKED"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -431,10 +431,10 @@ $\text {Fifty-two thousand and seventy}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Arunim Singhal</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_as_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

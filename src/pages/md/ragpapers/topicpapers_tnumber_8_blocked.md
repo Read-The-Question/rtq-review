@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-blocked"
 title: "TopicPaper - Number - 8 - BLOCKED"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -166,10 +166,10 @@ $17$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -892,10 +892,10 @@ $
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Md Rameez</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_mr_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

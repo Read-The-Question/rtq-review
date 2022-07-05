@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-pr-prns"
 title: "TopicPaper - Time - 1 - PR - PRNS"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -685,6 +685,418 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-7DED225D-BE66-49EA-A9DA-91175FD26034'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>B88B1815-76F6-4987-A529-A31EC2A3A231</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:17</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
+<p>rag_ss_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Freya puts a casserole in the oven at $11.40 \ \text{am}$.
+
+It needs $1 \ \text{hour}$ and $45 \ \text{minutes}$ to cook.
+
+At what time will it be cooked?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 11{:}40 \ \text{am} + 1 \ \text{hours } 45 \ \text{minutes} \\\\
+&= 1{:}25 \ \text{pm} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1{:}25 \ \text{pm}$ 
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 11{:}40 \ \text{am} + 1 \ \text{hours } 45 \ \text{minutes} \\\\
+&= 1{:}25 \ \text{pm} 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1{:}25 \ \text{pm}$ 
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many minutes are there from $11.11$ util $23.23$ on the same day?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+The time is given in hours, but the final answer has to be in minutes.
+
+
+$
+\begin{aligned}
+&= 23{:}23 - 11{:}11 \\\\
+&= 12{:}12 \\\\
+&= 12 \text{ hours} 12 \text{ minutes} \\\\
+&= 12 \times 60 \text{ minutes} + 12\text{ minutes} \\\\
+&= 720 + 12 \\\
+&= 732 \text { minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$732 \text { minutes}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+The time is given in hours, but the final answer has to be in minutes.
+
+
+$
+\begin{aligned}
+&= 23{:}23 - 11{:}11 \\\\
+&= 12{:}12 \\\\
+&= 12 \text{ hours} 12 \text{ minutes} \\\\
+&= 12 \times 60 \text{ minutes} + 12\text{ minutes} \\\\
+&= 720 + 12 \\\
+&= 732 \text { minutes}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$732 \text { minutes}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Archie is $20$ years, $20$ months, $20$ weeks and $20$ days old.
+
+What age will he be on his next birthday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+$
+\begin{aligned}
+\text {Archie's current age} &= 20 \text{ years, } 20 \text{ months, } 20 \text{ days} \\\\
+                             &= (20 +1) \text{ years, } (8 + 5) \text{ months, } 20 \text{ days}  \\\\
+                             &= 21 \text{ years, } 13 \text{ months, } 20 \text{ days}  \\\\
+                             &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Archie's age on his next birthday} &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days} + 1 \text{ year} \\\\
+                                          &= 23 \text{ years}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23 \text{ years}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+$
+\begin{aligned}
+\text {Archie's current age} &= 20 \text{ years, } 20 \text{ months, } 20 \text{ days} \\\\
+                             &= (20 +1) \text{ years, } (8 + 5) \text{ months, } 20 \text{ days}  \\\\
+                             &= 21 \text{ years, } 13 \text{ months, } 20 \text{ days}  \\\\
+                             &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Archie's age on his next birthday} &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days} + 1 \text{ year} \\\\
+                                          &= 23 \text{ years}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$23 \text{ years}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Gemma had a baby born on $1 \text{st}$ February $2017$.
+
+On what date will the baby be $400$ days old?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+$
+\begin{aligned}
+&= 1 \text{st February } 2017 + 400 \text{ days} \\\\
+&= 8 \text{th March } 2018
+\end{aligned}
+$ 
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \text{th March } 2018$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+$
+\begin{aligned}
+&= 1 \text{st February } 2017 + 400 \text{ days} \\\\
+&= 8 \text{th March } 2018
+\end{aligned}
+$ 
+
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8 \text{th March } 2018$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' id='FORM-B88B1815-76F6-4987-A529-A31EC2A3A231' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B88B1815-76F6-4987-A529-A31EC2A3A231'>Initial</p>
 </div>
 </div>
 </li>

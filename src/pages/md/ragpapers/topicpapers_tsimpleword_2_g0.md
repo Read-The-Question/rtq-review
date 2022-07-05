@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-2-g0"
 title: "TopicPaper - Simpleword - 2 - G0"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -369,7 +369,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3E96D6FA-660C-4279-AE21-6C9E0B4E1FC1</p>
 </div>
@@ -383,7 +383,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -490,7 +490,7 @@ Can we not just write Not choclate = 54 -16 inside aligned and solve
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0A3E5DD3-7A11-483C-A187-0DA57B1DD81B</p>
 </div>
@@ -504,7 +504,7 @@ Can we not just write Not choclate = 54 -16 inside aligned and solve
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -524,7 +524,7 @@ How many people can have four biscuits each?
 $
 \begin{aligned}
 \text {The number of people that can have four biscuit}     &= \dfrac {54} {4} \\\\
-                                                            &= 13.5 \\\\
+                                                            &= 13 \dfrac {2} {4} \\\\
                                                             &= 13
 \end{aligned}
 $
@@ -544,7 +544,7 @@ $13$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {The number of people that can have four biscuit}     &= \dfrac {54} {4} \\\\
-                                                            &= 13.5 \\\\
+                                                            &= 13 \dfrac {2} {4} \\\\
                                                             &= 13
 \end{aligned}
 $
@@ -602,7 +602,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>499AEBD4-DCE6-4F71-A016-875B17753D13</p>
 </div>
@@ -616,7 +616,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -712,7 +712,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C9858780-383A-4690-AC16-06948BA34755</p>
 </div>
@@ -726,7 +726,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -834,7 +834,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8B94F863-C793-41C7-B877-AEAA83C69F16</p>
 </div>
@@ -848,7 +848,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -955,7 +955,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6B95C5CE-23F2-4D24-AD35-37780B943565</p>
 </div>
@@ -969,7 +969,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -989,7 +989,7 @@ How many times can $143$ be subtracted from $855$ before we get to zero?
 $
 \begin{aligned}
 \text{Number of times}  &= \dfrac {855} {143} \\\\
-                        &= 5.97 \\\\
+                        &= 5 \dfrac {140} {143} \\\\
                         &= 5
 \end{aligned}
 $
@@ -1009,7 +1009,7 @@ $5$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Number of times}  &= \dfrac {855} {143} \\\\
-                        &= 5.97 \\\\
+                        &= 5 \dfrac {140} {143} \\\\
                         &= 5
 \end{aligned}
 $
@@ -1067,7 +1067,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>63C986B2-7366-43DB-9578-126EFF77F687</p>
 </div>
@@ -1081,7 +1081,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1190,7 +1190,7 @@ Write LHS Blue Counters = in the first line inside katex
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C9499207-115B-4305-B2DE-454D607FFECD</p>
 </div>
@@ -1204,7 +1204,7 @@ Write LHS Blue Counters = in the first line inside katex
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1313,7 +1313,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1B18A3C6-92A4-4CA7-B86D-E416689C9FF1</p>
 </div>
@@ -1327,7 +1327,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1435,7 +1435,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>96E4D14B-256B-459C-BF7E-0AF75C382FD0</p>
 </div>
@@ -1449,7 +1449,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1469,7 +1469,7 @@ How many times can $137$ be subtracted from $1024$ before we get to zero?
 $
 \begin{aligned}
 \text{Number of times}  &= \dfrac {1024} {137} \\\\
-                        &= 7.47 \\\\
+                        &= 7 \dfrac {65} {137} \\\\
                         &= 7
 \end{aligned}
 $
@@ -1489,7 +1489,7 @@ $7$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Number of times}  &= \dfrac {1024} {137} \\\\
-                        &= 7.47 \\\\
+                        &= 7 \dfrac {65} {137} \\\\
                         &= 7
 \end{aligned}
 $
@@ -1547,7 +1547,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>61A02A7F-E5B3-44BF-9AF9-02A8E1910C57</p>
 </div>
@@ -1561,7 +1561,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1580,7 +1580,8 @@ In a bag there are $63$ counters. $\dfrac {3} {7}$ of the counters are blue.  Ho
 
 $
 \begin{aligned}
-\text {Blue counters}    &= \dfrac {3} {7} \times 63 \\\\
+\text {Blue counters}    &= \dfrac {3} {7} \ \text{of} \ 63 \\\\
+                         &= \dfrac {3} {7} \times 63 \\\\
                          &= \dfrac {3 \times 63} {7} \\\\
                          &= \dfrac {3 \times 9 \times 7} {7} \\\\
                          &= \dfrac {3 \times 9 \times \cancel {7}} {\cancel {7}} \\\\
@@ -1603,7 +1604,8 @@ $27$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Blue counters}    &= \dfrac {3} {7} \times 63 \\\\
+\text {Blue counters}    &= \dfrac {3} {7} \ \text{of} \ 63 \\\\
+                         &= \dfrac {3} {7} \times 63 \\\\
                          &= \dfrac {3 \times 63} {7} \\\\
                          &= \dfrac {3 \times 9 \times 7} {7} \\\\
                          &= \dfrac {3 \times 9 \times \cancel {7}} {\cancel {7}} \\\\
@@ -1670,7 +1672,7 @@ Write LHS Blue Counters = in the first line inside katex
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FE3D8B71-446E-46D9-BCFD-F08E70304636</p>
 </div>
@@ -1684,7 +1686,7 @@ Write LHS Blue Counters = in the first line inside katex
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1793,7 +1795,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4682EF96-21BF-4D04-8022-D5229E73F51C</p>
 </div>
@@ -1807,7 +1809,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1825,18 +1827,14 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-. 
-
-The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
-
-Let's convert the sweets weight into $\text{g}$.
-
 $
 \begin{aligned}
 \text {Total weight of sweets}     &= 120 \times 450 \ \text{mg} \\\\
                                    &= 120 \times \dfrac {450}{1000} \text {g} \\\\
-                                   &= 120 \times 0.45 \\\\
+                                   &= \dfrac {120 \times 450}{1000} \\\\
+                                   &= \dfrac {6 \times 20 \times 9 \times 50}{20 \times 50} \\\\
+                                   &= \dfrac {6 \times \cancel {20} \times 9 \times \cancel {50}}{\cancel {20} \times \cancel {50}} \\\\
+                                   &= 6 \times 9 \\\\
                                    &= 54 \ \text {g} \\\\
 \text {Weight of empty jar }       &= 180.5 - 54 \\\\
                                    &= 126.5 \ \text {g}
@@ -1855,17 +1853,14 @@ $126.5 \ \text {g}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
-
-The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
-
-Let's convert the sweets weight into $\text{g}$.
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Total weight of sweets}     &= 120 \times 450 \ \text{mg} \\\\
                                    &= 120 \times \dfrac {450}{1000} \text {g} \\\\
-                                   &= 120 \times 0.45 \\\\
+                                   &= \dfrac {120 \times 450}{1000} \\\\
+                                   &= \dfrac {6 \times 20 \times 9 \times 50}{20 \times 50} \\\\
+                                   &= \dfrac {6 \times \cancel {20} \times 9 \times \cancel {50}}{\cancel {20} \times \cancel {50}} \\\\
+                                   &= 6 \times 9 \\\\
                                    &= 54 \ \text {g} \\\\
 \text {Weight of empty jar }       &= 180.5 - 54 \\\\
                                    &= 126.5 \ \text {g}
@@ -1925,7 +1920,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>13D1D0B6-B1C7-4010-8684-F52A0FF010A0</p>
 </div>
@@ -1939,7 +1934,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2035,7 +2030,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5DA5AA77-9849-4E05-A7A5-DB8108529848</p>
 </div>
@@ -2049,7 +2044,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2153,7 +2148,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F735C697-C1D6-4F28-881B-25D75A4D04A1</p>
 </div>
@@ -2167,7 +2162,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2266,7 +2261,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C354CC85-6043-4133-9B50-EDA130A479B3</p>
 </div>
@@ -2280,7 +2275,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2300,12 +2295,10 @@ How many times can $147$ be subtracted from $1270$ before we get to zero?
 $
 \begin{aligned}
 \text{Number of times}  &= \dfrac {1270} {147} \\\\
-                        &= 8.63 \\\\
+                        &= 8 \dfrac {94} {147} \\\\
                         &= 8
 \end{aligned}
-$
-
-$147$ can be subtracted eight times from $1270$ before we get to zero. 
+$ 
 
 </div>
 </div>
@@ -2322,12 +2315,10 @@ $8$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Number of times}  &= \dfrac {1270} {147} \\\\
-                        &= 8.63 \\\\
+                        &= 8 \dfrac {94} {147} \\\\
                         &= 8
 \end{aligned}
-$
-
-$147$ can be subtracted eight times from $1270$ before we get to zero. 
+$ 
 </code></pre>
 </div>
 </div>
@@ -2382,7 +2373,7 @@ $147$ can be subtracted eight times from $1270$ before we get to zero.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B49A2D25-54CB-4ACB-A269-1B71CCD90AA4</p>
 </div>
@@ -2396,7 +2387,7 @@ $147$ can be subtracted eight times from $1270$ before we get to zero.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2413,18 +2404,14 @@ A medicine bottle contains $90$ pills. Each pill weighs $250 \  \text{mg}$, The 
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-. 
-
-The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.
-
-Let's convert the pills weight to $\text{g}$.
-
 $
 \begin{aligned}
 \text {Total weight of pills}      &= 90 \times 250 \ \text{mg} \\\\
                                    &= 90 \times \dfrac {250}{1000} \ \text {g} \\\\
-                                   &= 90 \times 0.25 \\\\
+                                   &= \dfrac {90 \times 250} {1000} \\\\
+                                   &= \dfrac {9 \cancel 0 \times 25 \cancel 0} {10 \cancel 0 \cancel 0} \\\\
+                                   &= \dfrac {9 \times 25} {10} \\\\
+                                   &= \dfrac {225} {10} \\\\
                                    &= 22.5 \ \text {g} \\\\
 \text {Weight of empty bottle}     &= 160 - 22.5 \\\\
                                    &= 137.5 \ \text {g}
@@ -2443,17 +2430,14 @@ $137.5 \ \text {g}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
-
-The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.
-
-Let's convert the pills weight to $\text{g}$.
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Total weight of pills}      &= 90 \times 250 \ \text{mg} \\\\
                                    &= 90 \times \dfrac {250}{1000} \ \text {g} \\\\
-                                   &= 90 \times 0.25 \\\\
+                                   &= \dfrac {90 \times 250} {1000} \\\\
+                                   &= \dfrac {9 \cancel 0 \times 25 \cancel 0} {10 \cancel 0 \cancel 0} \\\\
+                                   &= \dfrac {9 \times 25} {10} \\\\
+                                   &= \dfrac {225} {10} \\\\
                                    &= 22.5 \ \text {g} \\\\
 \text {Weight of empty bottle}     &= 160 - 22.5 \\\\
                                    &= 137.5 \ \text {g}
@@ -2513,7 +2497,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>576FEBF3-4204-4EE6-B775-864A333384B2</p>
 </div>
@@ -2527,7 +2511,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2631,7 +2615,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4E4B9BEE-6BB1-40F9-851E-3B5493022051</p>
 </div>
@@ -2645,7 +2629,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2664,7 +2648,8 @@ In a bag there are $63$ counters.$\dfrac {5} {9}$ of the counters are blue. How 
 
 $
 \begin{aligned}
-\text {Blue counters}    &= \dfrac {5} {9} \times 63 \\\\
+\text {Blue counters}    &= \dfrac {5} {9} \ \text {of} \ 63 \\\\
+                         &= \dfrac {5} {9} \times 63 \\\\
                          &= \dfrac {5 \times 63} {9} \\\\
                          &= \dfrac {5 \times 7 \times 9} {9} \\\\
                          &= \dfrac {5 \times 7 \times \cancel {9}} {\cancel {9}} \\\\
@@ -2687,7 +2672,8 @@ $35$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Blue counters}    &= \dfrac {5} {9} \times 63 \\\\
+\text {Blue counters}    &= \dfrac {5} {9} \ \text {of} \ 63 \\\\
+                         &= \dfrac {5} {9} \times 63 \\\\
                          &= \dfrac {5 \times 63} {9} \\\\
                          &= \dfrac {5 \times 7 \times 9} {9} \\\\
                          &= \dfrac {5 \times 7 \times \cancel {9}} {\cancel {9}} \\\\
@@ -2754,7 +2740,7 @@ Write LHS Blue Counters = in the first line inside katex
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>227E8AEF-0B10-412A-8725-7A4D3CA82AE9</p>
 </div>
@@ -2768,7 +2754,7 @@ Write LHS Blue Counters = in the first line inside katex
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2877,7 +2863,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F9E14616-3855-4C02-8422-69B65279E5DB</p>
 </div>
@@ -2891,7 +2877,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2909,18 +2895,14 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-. 
-
-The weight of sweets is given in $\text{mg}$ while the weight of the jar is given in $\text{g}$.
-
-Let's convert the sweets weight to $\text{g}$.
-
 $
 \begin{aligned}
 \text {Total weight of sweets}     &= 120 \times 450 \ \text{mg} \\\\
                                    &= 120 \times \dfrac {450}{1000} \ \text {g} \\\\
-                                   &= 120 \times 0.45 \\\\
+                                   &= \dfrac {120 \times 450} {1000} \\\\
+                                   &= \dfrac {6 \times 20 \times 9 \times 50} {20 \times 50} \\\\
+                                   &= \dfrac {6 \times \cancel {20} \times 9 \times \cancel {50}} {\cancel {20} \times \cancel {50}} \\\\
+                                   &= 6 \times 9 \\\\
                                    &= 54 \ \text {g} \\\\
 \text {Weight of empty jar }       &= 180.5 - 54 \\\\
                                    &= 126.5 \ \text {g}
@@ -2939,17 +2921,14 @@ $126.5 \ \text {g}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
-
-The weight of sweets is given in $\text{mg}$ while the weight of the jar is given in $\text{g}$.
-
-Let's convert the sweets weight to $\text{g}$.
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Total weight of sweets}     &= 120 \times 450 \ \text{mg} \\\\
                                    &= 120 \times \dfrac {450}{1000} \ \text {g} \\\\
-                                   &= 120 \times 0.45 \\\\
+                                   &= \dfrac {120 \times 450} {1000} \\\\
+                                   &= \dfrac {6 \times 20 \times 9 \times 50} {20 \times 50} \\\\
+                                   &= \dfrac {6 \times \cancel {20} \times 9 \times \cancel {50}} {\cancel {20} \times \cancel {50}} \\\\
+                                   &= 6 \times 9 \\\\
                                    &= 54 \ \text {g} \\\\
 \text {Weight of empty jar }       &= 180.5 - 54 \\\\
                                    &= 126.5 \ \text {g}
@@ -3009,7 +2988,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>553D9630-2488-43F6-B40B-249573F31F80</p>
 </div>
@@ -3023,7 +3002,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3046,19 +3025,17 @@ How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-. 
-
 $
 \begin{aligned}
 \text {Number of strips}    &=  \dfrac {1 \ \text {m}} {15 \ \text {cm}} \\\\
                             &=  \dfrac {1 \times 100 \ \text {cm}} {15 \ \text {cm}} \\\\
-                            &=  \dfrac {100} {15} \\\\
-                            &=  6 \text{ remainder } 10
+                            &=  \dfrac {5 \times 20} {5 \times 3} \\\\
+                            &=  \dfrac {\cancel 5 \times 20} {\cancel 5 \times 3} \\\\
+                            &=  \dfrac {20} {3} \\\\
+                            &=  6 \dfrac {2} {3} \\\\
+                            &= 6
 \end{aligned}
 $
-
-Max $6$ strips can be cut from a ribbon $1\ \text{m}$ long.
 
 </div>
 </div>
@@ -3072,18 +3049,17 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Number of strips}    &=  \dfrac {1 \ \text {m}} {15 \ \text {cm}} \\\\
                             &=  \dfrac {1 \times 100 \ \text {cm}} {15 \ \text {cm}} \\\\
-                            &=  \dfrac {100} {15} \\\\
-                            &=  6 \text{ remainder } 10
+                            &=  \dfrac {5 \times 20} {5 \times 3} \\\\
+                            &=  \dfrac {\cancel 5 \times 20} {\cancel 5 \times 3} \\\\
+                            &=  \dfrac {20} {3} \\\\
+                            &=  6 \dfrac {2} {3} \\\\
+                            &= 6
 \end{aligned}
 $
-
-Max $6$ strips can be cut from a ribbon $1\ \text{m}$ long.
 </code></pre>
 </div>
 </div>
@@ -3138,7 +3114,7 @@ Max $6$ strips can be cut from a ribbon $1\ \text{m}$ long.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CABD97FF-A137-4136-B3F8-465E5FFFF48B</p>
 </div>
@@ -3152,7 +3128,7 @@ Max $6$ strips can be cut from a ribbon $1\ \text{m}$ long.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3171,13 +3147,10 @@ If I take out $\dfrac {3} {4}$ of the pencils how many would be left?
 <div class='workings'>
 <div class='working'>
 
-If $\dfrac {3} {4}$ pencils are taken out, then the pencil left in the box will be $1 - \dfrac {3} {4} = \dfrac {1} {4}$. 
-
-Using that, we get
-
 $
 \begin{aligned}
-\text{Pencils left}     &= \dfrac {1}{4} \times 48 \\\\
+\text{Pencils left}     &= \left( 1 - \dfrac {3} {4} \right) \times 48 \\\\
+                        &= \dfrac {1} {4} \times 48 \\\\
                         &= \dfrac {48} {4} \\\\
                         &= \dfrac {12 \times 4} {4} \\\\
                         &= \dfrac {12 \times \cancel{4}} {\cancel{4}} \\\\
@@ -3197,13 +3170,10 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>If $\dfrac {3} {4}$ pencils are taken out, then the pencil left in the box will be $1 - \dfrac {3} {4} = \dfrac {1} {4}$. 
-
-Using that, we get
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Pencils left}     &= \dfrac {1}{4} \times 48 \\\\
+\text{Pencils left}     &= \left( 1 - \dfrac {3} {4} \right) \times 48 \\\\
+                        &= \dfrac {1} {4} \times 48 \\\\
                         &= \dfrac {48} {4} \\\\
                         &= \dfrac {12 \times 4} {4} \\\\
                         &= \dfrac {12 \times \cancel{4}} {\cancel{4}} \\\\
@@ -3264,7 +3234,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AF9BB69B-87C1-4385-B4A4-EC5CA1ED0C45</p>
 </div>
@@ -3278,7 +3248,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3296,26 +3266,19 @@ $\dfrac{2}{7}$ of the space, what fraction of the cupboard is empty?
 <div class='workings'>
 <div class='working'>
 
-The total space of the cupboard $=1$
-
-Used space of the cupboard $= \dfrac {2} {5} + \dfrac {2} {7}$
-
-Empty space = total space - used space
-
 $
 \begin{aligned}
-&= 1 - \bigg(\dfrac {2} {5} + \dfrac {2} {7}\bigg) \\\\
-&= \dfrac {1} {1} - \bigg(\dfrac {2 \times 7} {5 \times 7} + \dfrac {2 \times 5} {7 \times 5}\bigg) \\\\
-&= \dfrac {1} {1} - \bigg(\dfrac {14} {35} + \dfrac {10} {35}\bigg) \\\\
-&= \dfrac {1} {1} - \bigg(\dfrac {14 + 10} {35}\bigg) \\\\
-&= \dfrac {1} {1} - \dfrac {24} {35} \\\\
-&= \dfrac {1 \times 35} {1 \times 35} - \dfrac {24} {35} \\\\
-&= \dfrac {35 - 24} {35} \\\\
-&= \dfrac {11} {35}
+\text{Empty Space}      &= \text{Total space} - \text{Used space} \\\\
+                        &= 1 - \bigg(\dfrac {2} {5} + \dfrac {2} {7}\bigg) \\\\
+                        &= 1 - \bigg(\dfrac {2 \times 7} {5 \times 7} + \dfrac {2 \times 5} {7 \times 5}\bigg) \\\\
+                        &= 1 - \bigg(\dfrac {14} {35} + \dfrac {10} {35}\bigg) \\\\
+                        &= 1 - \bigg(\dfrac {14 + 10} {35}\bigg) \\\\
+                        &= \dfrac {1} {1} - \dfrac {24} {35} \\\\
+                        &= \dfrac {1 \times 35} {1 \times 35} - \dfrac {24} {35} \\\\
+                        &= \dfrac {35 - 24} {35} \\\\
+                        &= \dfrac {11} {35}
 \end{aligned}
 $
-
-Fraction of the cupboard that is empty $= \dfrac {11} {35}$
 
 </div>
 </div>
@@ -3329,26 +3292,19 @@ $\dfrac {11} {35}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The total space of the cupboard $=1$
-
-Used space of the cupboard $= \dfrac {2} {5} + \dfrac {2} {7}$
-
-Empty space = total space - used space
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 1 - \bigg(\dfrac {2} {5} + \dfrac {2} {7}\bigg) \\\\
-&= \dfrac {1} {1} - \bigg(\dfrac {2 \times 7} {5 \times 7} + \dfrac {2 \times 5} {7 \times 5}\bigg) \\\\
-&= \dfrac {1} {1} - \bigg(\dfrac {14} {35} + \dfrac {10} {35}\bigg) \\\\
-&= \dfrac {1} {1} - \bigg(\dfrac {14 + 10} {35}\bigg) \\\\
-&= \dfrac {1} {1} - \dfrac {24} {35} \\\\
-&= \dfrac {1 \times 35} {1 \times 35} - \dfrac {24} {35} \\\\
-&= \dfrac {35 - 24} {35} \\\\
-&= \dfrac {11} {35}
+\text{Empty Space}      &= \text{Total space} - \text{Used space} \\\\
+                        &= 1 - \bigg(\dfrac {2} {5} + \dfrac {2} {7}\bigg) \\\\
+                        &= 1 - \bigg(\dfrac {2 \times 7} {5 \times 7} + \dfrac {2 \times 5} {7 \times 5}\bigg) \\\\
+                        &= 1 - \bigg(\dfrac {14} {35} + \dfrac {10} {35}\bigg) \\\\
+                        &= 1 - \bigg(\dfrac {14 + 10} {35}\bigg) \\\\
+                        &= \dfrac {1} {1} - \dfrac {24} {35} \\\\
+                        &= \dfrac {1 \times 35} {1 \times 35} - \dfrac {24} {35} \\\\
+                        &= \dfrac {35 - 24} {35} \\\\
+                        &= \dfrac {11} {35}
 \end{aligned}
 $
-
-Fraction of the cupboard that is empty $= \dfrac {11} {35}$
 </code></pre>
 </div>
 </div>
@@ -3403,7 +3359,7 @@ Fraction of the cupboard that is empty $= \dfrac {11} {35}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EBCA26A7-DFBB-4250-9FD7-9D689407EC09</p>
 </div>
@@ -3417,7 +3373,7 @@ Fraction of the cupboard that is empty $= \dfrac {11} {35}$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3475,23 +3431,19 @@ Given that Tom eats $\dfrac{3}{5}$ of a cake and his friend, Jerry, eats $\dfrac
 <div class='workings'>
 <div class='working'>
 
-
-As per the question,
-
 $
 \begin{aligned}
 \text {Cake left}   &= 1 - (\dfrac {3} {5} + \dfrac {1} {3}) \\\\
-                    &= 1 - (\dfrac {3 \times 3} {5 \times 3} + \dfrac {1 times 5} {3 times 5}) \\\\
+                    &= 1 - (\dfrac {3 \times 3} {5 \times 3} + \dfrac {1 \times 5} {3 \times 5}) \\\\
                     &= 1 - (\dfrac {9} {15} + \dfrac {5} {15}) \\\\
                     &= 1 - (\dfrac {9 + 5} {15}) \\\\
                     &= 1 - \dfrac {14} {15} \\\\
                     &= \dfrac {1 \times 15} {1 \times 15} - \dfrac {14} {15} \\\\
                     &= \dfrac {15} {15} - \dfrac {14} {15} \\\\
                     &= \dfrac {15 - 14} {15} \\\\
-                    &= \dfrac {1} {15} 
+                    &= \dfrac {1} {15}
+\end{aligned} 
 $
-
-The fraction of cake which is left $= \dfrac {1} {15}$
 
 </div>
 </div>
@@ -3505,23 +3457,19 @@ $\dfrac {1} {15}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Cake left}   &= 1 - (\dfrac {3} {5} + \dfrac {1} {3}) \\\\
-                    &= 1 - (\dfrac {3 \times 3} {5 \times 3} + \dfrac {1 times 5} {3 times 5}) \\\\
+                    &= 1 - (\dfrac {3 \times 3} {5 \times 3} + \dfrac {1 \times 5} {3 \times 5}) \\\\
                     &= 1 - (\dfrac {9} {15} + \dfrac {5} {15}) \\\\
                     &= 1 - (\dfrac {9 + 5} {15}) \\\\
                     &= 1 - \dfrac {14} {15} \\\\
                     &= \dfrac {1 \times 15} {1 \times 15} - \dfrac {14} {15} \\\\
                     &= \dfrac {15} {15} - \dfrac {14} {15} \\\\
                     &= \dfrac {15 - 14} {15} \\\\
-                    &= \dfrac {1} {15} 
+                    &= \dfrac {1} {15}
+\end{aligned} 
 $
-
-The fraction of cake which is left $= \dfrac {1} {15}$
 </code></pre>
 </div>
 </div>
@@ -3550,8 +3498,6 @@ Given that Tom’s piece of cake weighed $150 \ \text{grams}$, what was the weig
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text {Weight of cake}      &= \dfrac {5} {3} \times 150 \\\\
@@ -3562,8 +3508,6 @@ $
                             &= 250 \text {g}
 \end{aligned}
 $
-
-Whole cake's weight $= 250 \text {g}$
 
 </div>
 </div>
@@ -3577,9 +3521,7 @@ $250 \text {g}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Weight of cake}      &= \dfrac {5} {3} \times 150 \\\\
                             &= \dfrac {5 \times 150} {3} \\\\
@@ -3589,8 +3531,6 @@ $
                             &= 250 \text {g}
 \end{aligned}
 $
-
-Whole cake's weight $= 250 \text {g}$
 </code></pre>
 </div>
 </div>
@@ -3648,7 +3588,7 @@ Whole cake's weight $= 250 \text {g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3</p>
 </div>
@@ -3662,7 +3602,7 @@ Whole cake's weight $= 250 \text {g}$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3684,22 +3624,16 @@ $123456789$ and $987654321$
 <div class='workings'>
 <div class='working'>
 
-The smallest possible difference can be achieved by interchanging the ones and tens places.
-
 Let the first number $= 789456132$
 
 The second number $= 789456123$
 
-Difference of the two number
-
 $
 \begin{aligned}
-&= 789456132 - 789456123 \\\\
-&= 9
+\text{Difference}   &= 789456132 - 789456123 \\\\
+                    &= 9
 \end{aligned}
 $
-
-So, the smallest possible difference between two nine digit number $= 9$
 
 </div>
 </div>
@@ -3713,22 +3647,16 @@ $9$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The smallest possible difference can be achieved by interchanging the ones and tens places.
-
-Let the first number $= 789456132$
+<pre class='language-latex'><code class='language-latex'>Let the first number $= 789456132$
 
 The second number $= 789456123$
 
-Difference of the two number
-
 $
 \begin{aligned}
-&= 789456132 - 789456123 \\\\
-&= 9
+\text{Difference}   &= 789456132 - 789456123 \\\\
+                    &= 9
 \end{aligned}
 $
-
-So, the smallest possible difference between two nine digit number $= 9$
 </code></pre>
 </div>
 </div>
@@ -3788,7 +3716,7 @@ DONE Last line = 9 (not is 9)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3744A7E4-7F4F-4698-AC77-A1CC7027FFF7</p>
 </div>
@@ -3802,7 +3730,7 @@ DONE Last line = 9 (not is 9)
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-g2"
 title: "TopicPaper - Number - 2 - G2"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-05 11:37:30
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -124,10 +124,10 @@ $
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:31</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -402,10 +402,10 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -649,10 +649,10 @@ $42, \ \ 45, \ \ 48$
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -752,10 +752,10 @@ $50706$
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1114,10 +1114,10 @@ $21$
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

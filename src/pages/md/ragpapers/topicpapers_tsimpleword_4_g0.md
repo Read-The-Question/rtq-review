@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-g0"
 title: "TopicPaper - Simpleword - 4 - G0"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2913,7 +2913,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>33898C6C-BC5D-41EC-8049-B334ED8C6544</p>
 </div>
@@ -2927,7 +2927,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2949,13 +2949,12 @@ In a class of $40$ pupils, $14$ failed the physical fitness test. What percentag
 
 $
 \begin{aligned}
-\text{Percentage of Pupil (Failed PI test)}      &= \dfrac {\text{No. of pupil (Failed PI test)}} {\text{Total pupil}} \times \text{Percentage} \\\\
-                                                 &= \dfrac{14}{40} \times 100 \% \\\\ 
-                                                 &= \dfrac{14 \times 100}{40} \\\\
-                                                 &= \dfrac{7 \times 2 \times 20 \times 5}{2 \times 20} \\\\
-                                                 &= \dfrac{7 \times \cancel {2} \times \cancel {20} \times 5}{ \cancel {2} \times \cancel {20} } \\\\
-                                                 &= 7 \times 5 \\\\
-                                                 &= 35 \%
+\text{Percentage (Failed)}      &= \dfrac{14}{40} \times 100 \% \\\\ 
+&= \dfrac{14 \times 100}{40} \\\\
+&= \dfrac{7 \times 2 \times 2 \times 5 \times 2 \times 5}{2 \times 2 \times 2 \times 5} \\\\
+&= \dfrac{7 \times \cancel 2 \times \cancel 2 \times \cancel 5 \times \cancel 2 \times 5}{\cancel 2 \times \cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+&= 7 \times 5 \\\\
+&= 35 \%
 \end{aligned}
 $
 
@@ -2973,13 +2972,12 @@ $35 \%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Percentage of Pupil (Failed PI test)}      &= \dfrac {\text{No. of pupil (Failed PI test)}} {\text{Total pupil}} \times \text{Percentage} \\\\
-                                                 &= \dfrac{14}{40} \times 100 \% \\\\ 
-                                                 &= \dfrac{14 \times 100}{40} \\\\
-                                                 &= \dfrac{7 \times 2 \times 20 \times 5}{2 \times 20} \\\\
-                                                 &= \dfrac{7 \times \cancel {2} \times \cancel {20} \times 5}{ \cancel {2} \times \cancel {20} } \\\\
-                                                 &= 7 \times 5 \\\\
-                                                 &= 35 \%
+\text{Percentage (Failed)}      &= \dfrac{14}{40} \times 100 \% \\\\ 
+&= \dfrac{14 \times 100}{40} \\\\
+&= \dfrac{7 \times 2 \times 2 \times 5 \times 2 \times 5}{2 \times 2 \times 2 \times 5} \\\\
+&= \dfrac{7 \times \cancel 2 \times \cancel 2 \times \cancel 5 \times \cancel 2 \times 5}{\cancel 2 \times \cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+&= 7 \times 5 \\\\
+&= 35 \%
 \end{aligned}
 $
 </code></pre>
@@ -3457,7 +3455,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>27EFB859-4E01-4629-9090-039B54CC9BF6</p>
 </div>
@@ -3471,7 +3469,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3494,8 +3492,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Fraction wearing glasses}          &= 3 \times  \text{Left-handed players} \\\\
-                                          &= 3 \times \dfrac {1}{9} \\\\
+\text {Fraction wearing glasses}          &= 3 \times \dfrac {1}{9} \\\\
                                           &= \dfrac {3 \times 1} {9} \\\\
                                           &= \dfrac {3 \times 1} {3 \times 3} \\\\
                                           &= \dfrac {\cancel{3} \times 1} {\cancel{3} \times 3} \\\\
@@ -3503,7 +3500,6 @@ $
 \end{aligned}
 $
 
-The fraction of players wearing glasses $= \dfrac {1} {3}$
 
 </div>
 </div>
@@ -3521,8 +3517,7 @@ $\dfrac {1} {3}$
 
 $
 \begin{aligned}
-\text {Fraction wearing glasses}          &= 3 \times  \text{Left-handed players} \\\\
-                                          &= 3 \times \dfrac {1}{9} \\\\
+\text {Fraction wearing glasses}          &= 3 \times \dfrac {1}{9} \\\\
                                           &= \dfrac {3 \times 1} {9} \\\\
                                           &= \dfrac {3 \times 1} {3 \times 3} \\\\
                                           &= \dfrac {\cancel{3} \times 1} {\cancel{3} \times 3} \\\\
@@ -3530,7 +3525,6 @@ $
 \end{aligned}
 $
 
-The fraction of players wearing glasses $= \dfrac {1} {3}$
 </code></pre>
 </div>
 </div>
@@ -3585,7 +3579,7 @@ The fraction of players wearing glasses $= \dfrac {1} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BF011AD7-448A-452F-AB01-4F18D04E9B41</p>
 </div>
@@ -3599,7 +3593,7 @@ The fraction of players wearing glasses $= \dfrac {1} {3}$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3872,7 +3866,7 @@ Factors of 4 $= 1, 2, \ \text {and} \ 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42298452-3901-4F31-B105-1CEC26501B64</p>
 </div>
@@ -3886,7 +3880,7 @@ Factors of 4 $= 1, 2, \ \text {and} \ 4$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4004,7 +3998,7 @@ Smallest $= 2002$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E45D50A1-C037-4479-BF15-60CA06B7E05D</p>
 </div>
@@ -4018,7 +4012,7 @@ Smallest $= 2002$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

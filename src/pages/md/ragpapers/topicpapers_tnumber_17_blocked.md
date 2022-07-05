@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-blocked"
 title: "TopicPaper - Number - 17 - BLOCKED"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-05 11:37:30
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_ss_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>

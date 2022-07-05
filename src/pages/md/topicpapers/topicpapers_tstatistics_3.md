@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-3"
 title: "TopicPaper - Statistics - 3"
-date: 2022-07-05 11:37:30
+date: 2022-07-05 15:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -523,7 +523,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>874626A3-7DB5-4CA5-A72C-A3117C27178A</p>
 </div>
@@ -534,7 +534,7 @@ TODOANSWER
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -595,21 +595,76 @@ $6 \quad 2 \quad 5 \quad 13 \quad 5 \quad 10$
 <div class='workings'>
 <div class='working'>
 
-$6, 5$
+Let's arrange the numbers in ascending order:
+
+$2 \quad 5 \quad 5 \quad 6 \quad 10 \quad 13$
+
+$
+\begin {aligned}
+\text {Median}      &= \dfrac {6} {2} \\\\
+                    &= \dfrac {2 \times 3} {2} \\\\
+                    &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
+                    &= 3 \ \text {rd term}
+\end {aligned}
+$
+
+Median $= 5$
+
+$
+\begin {aligned}
+\text {Number of occurrence of} \ 2     &= 1 \\\\
+\text {Number of occurrence of} \ 5     &= 2 \\\\
+\text {Number of occurrence of} \ 6     &= 1 \\\\
+\text {Number of occurrence of} \ 10    &= 1 \\\\
+\text {Number of occurrence of} \ 13    &= 1
+\end {aligned}
+$
+
+Mode $= 5$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6, 5$
+Median $=$ $5$
+
+</div>
+<div class='answer'>
+
+Mode $=$ $5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$6, 5$
+<pre class='language-latex'><code class='language-latex'>Let's arrange the numbers in ascending order:
+
+$2 \quad 5 \quad 5 \quad 6 \quad 10 \quad 13$
+
+$
+\begin {aligned}
+\text {Median}      &= \dfrac {6} {2} \\\\
+                    &= \dfrac {2 \times 3} {2} \\\\
+                    &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
+                    &= 3 \ \text {rd term}
+\end {aligned}
+$
+
+Median $= 5$
+
+$
+\begin {aligned}
+\text {Number of occurrence of} \ 2     &= 1 \\\\
+\text {Number of occurrence of} \ 5     &= 2 \\\\
+\text {Number of occurrence of} \ 6     &= 1 \\\\
+\text {Number of occurrence of} \ 10    &= 1 \\\\
+\text {Number of occurrence of} \ 13    &= 1
+\end {aligned}
+$
+
+Mode $= 5$
 </code></pre>
 </div>
 </div>
@@ -618,10 +673,20 @@ $6, 5$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Median</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
+</code></pre>
+</div>
+<div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6, 5$
+<pre class='language-latex'><code class='language-latex'>Mode</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
 </code></pre>
 </div>
 </div>
@@ -722,21 +787,21 @@ What is the range of their ages exactly $1$ year later?
 <div class='workings'>
 <div class='working'>
 
-$10$
+$5$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10$
+$5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$10$
+<pre class='language-latex'><code class='language-latex'>$5$
 </code></pre>
 </div>
 </div>
@@ -748,7 +813,7 @@ $10$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10$
+<pre class='language-latex'><code class='language-latex'>$5$
 </code></pre>
 </div>
 </div>
@@ -770,33 +835,41 @@ What are the two numbers?
 <div class='workings'>
 <div class='working'>
 
-Let the number $=a$ and $=b$
+Let the first number $= a$
+
+Let the second number $= b$
 
 $
-\begin{aligned}
-a + b &= 12 \times 2 \\\\
-a + b &= 24 \\\\
-a     &= 24 - b
-\end{aligned}
-$
-
-$
-\begin{aligned}
-a - b  &= 6 \\\\
-a      &= 6 + b \\\\
-24 - b &= 6 + b \\\\
-24 - 6 &= 2b \\\\
-18     &= 2b \\\\
-b      &= 9
-\end{aligned}
+\begin {aligned}
+\text {Range}   &= 6 \\\\
+b - a           &= 6 \\\\
+b               &= a + 6
+\end {aligned}
 $
 
 $
-\begin{aligned}
-a  &= 24 -b \\\\
-a  &= 24 - 9 \\\\
-a  &= 15
-\end{aligned}
+\begin {aligned}
+\text {Mean}            &= 12 \\\\
+\dfrac {a + b} {2}      &= 12 \\\\
+a + a + 6               &= 12 \times 2 \\\\
+2a + 6                  &= 24 \\\\
+2a                      &= 24 - 6 \\\\
+2a                      &= 18 \\\\
+a                       &= \dfrac {18} {2} \\\\
+a                       &= \dfrac {2 \times 9} {2} \\\\
+a                       &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
+a                       &= 9
+\end {aligned}
+$
+
+First number $= 9$
+
+$
+\begin {aligned}
+\text {Second number}   &= a + 6 \\\\
+                        &= 9 + 6 \\\\
+                        &= 15
+\end {aligned}
 $
 
 </div>
@@ -804,40 +877,53 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15,9$
+$9$
+
+</div>
+<div class='answer'>
+
+$15$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=a$ and $=b$
+<pre class='language-latex'><code class='language-latex'>Let the first number $= a$
+
+Let the second number $= b$
 
 $
-\begin{aligned}
-a + b &= 12 \times 2 \\\\
-a + b &= 24 \\\\
-a     &= 24 - b
-\end{aligned}
-$
-
-$
-\begin{aligned}
-a - b  &= 6 \\\\
-a      &= 6 + b \\\\
-24 - b &= 6 + b \\\\
-24 - 6 &= 2b \\\\
-18     &= 2b \\\\
-b      &= 9
-\end{aligned}
+\begin {aligned}
+\text {Range}   &= 6 \\\\
+b - a           &= 6 \\\\
+b               &= a + 6
+\end {aligned}
 $
 
 $
-\begin{aligned}
-a  &= 24 -b \\\\
-a  &= 24 - 9 \\\\
-a  &= 15
-\end{aligned}
+\begin {aligned}
+\text {Mean}            &= 12 \\\\
+\dfrac {a + b} {2}      &= 12 \\\\
+a + a + 6               &= 12 \times 2 \\\\
+2a + 6                  &= 24 \\\\
+2a                      &= 24 - 6 \\\\
+2a                      &= 18 \\\\
+a                       &= \dfrac {18} {2} \\\\
+a                       &= \dfrac {2 \times 9} {2} \\\\
+a                       &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
+a                       &= 9
+\end {aligned}
+$
+
+First number $= 9$
+
+$
+\begin {aligned}
+\text {Second number}   &= a + 6 \\\\
+                        &= 9 + 6 \\\\
+                        &= 15
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -850,7 +936,17 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$15,9$
+<pre class='language-latex'><code class='language-latex'>$9$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15$
 </code></pre>
 </div>
 </div>
@@ -908,21 +1004,41 @@ Write down a possible set of five numbers.
 <div class='workings'>
 <div class='working'>
 
-$5, 5, 6, 8, 9$
+$
+\begin {aligned}
+\text {Mean}    &= \dfrac {5 + 5 + 6 + 9 + 10} {5} \\\\
+                &= \dfrac {35} {5} \\\\
+                &= \dfrac {5 \times 7} {5} \\\\
+                &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
+                &= 7 \\\\
+\text {Median}  &= 6 \\\\
+\text {Mode}    &= 5 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5, 5, 6, 8, 9$
+$5, 5, 6, 9, 10$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$5, 5, 6, 8, 9$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Mean}    &= \dfrac {5 + 5 + 6 + 9 + 10} {5} \\\\
+                &= \dfrac {35} {5} \\\\
+                &= \dfrac {5 \times 7} {5} \\\\
+                &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
+                &= 7 \\\\
+\text {Median}  &= 6 \\\\
+\text {Mode}    &= 5 \\\\
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -934,7 +1050,7 @@ $5, 5, 6, 8, 9$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5, 5, 6, 8, 9$
+<pre class='language-latex'><code class='language-latex'>$5, 5, 6, 9, 10$
 </code></pre>
 </div>
 </div>
@@ -951,21 +1067,41 @@ Write down another possible set of five numbers.
 <div class='workings'>
 <div class='working'>
 
-$2, 2, 5, 5, 11$
+$
+\begin {aligned}
+\text {Mean}    &= \dfrac {5 + 5 + 6 + 5 + 14} {5} \\\\
+                &= \dfrac {35} {5} \\\\
+                &= \dfrac {5 \times 7} {5} \\\\
+                &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
+                &= 7 \\\\
+\text {Median}  &= 6 \\\\
+\text {Mode}    &= 5 \\\\
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2, 2, 5, 5, 11$
+$5, 5, 6, 5, 14$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$2, 2, 5, 5, 11$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Mean}    &= \dfrac {5 + 5 + 6 + 5 + 14} {5} \\\\
+                &= \dfrac {35} {5} \\\\
+                &= \dfrac {5 \times 7} {5} \\\\
+                &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
+                &= 7 \\\\
+\text {Median}  &= 6 \\\\
+\text {Mode}    &= 5 \\\\
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -977,7 +1113,7 @@ $2, 2, 5, 5, 11$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2, 2, 5, 5, 11$
+<pre class='language-latex'><code class='language-latex'>$5, 5, 6, 5, 14$
 </code></pre>
 </div>
 </div>
@@ -989,6 +1125,40 @@ $2, 2, 5, 5, 11$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' id='FORM-874626A3-7DB5-4CA5-A72C-A3117C27178A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-874626A3-7DB5-4CA5-A72C-A3117C27178A'>Initial</p>
+</div>
 </div>
 </li>
 <li>

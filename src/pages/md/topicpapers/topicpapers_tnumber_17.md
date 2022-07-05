@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-17"
 title: "TopicPaper - Number - 17"
-date: 2022-07-05 17:49:12
+date: 2022-07-05 18:42:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -429,7 +429,7 @@ The smallest whole number above $120$ which when divided by $53$ leaves a remain
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>B8D6BAFA-557D-451D-BA17-5723EF73E965</p>
 </div>
@@ -443,7 +443,7 @@ The smallest whole number above $120$ which when divided by $53$ leaves a remain
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -632,6 +632,26 @@ First just write the answer options and then show the working that they match th
 
 
 No summary line at the end. Just follow the template for UUID given above.
+
+
+
+Change to Lets verify it. (with full stop).
+
+
+
+Katex is not correct, use begin aligned like its been done in reference UUID given in the previous comments. WE do not write 2 + 3 = 5 lhs = rhs way.
+
+
+
+\begin{aligned}
+
+&= (3 \times 6 ) \div (2 + 1) \\
+
+&= 18 \div 3 \\
+
+&= 6
+
+\end{aligned}
 </div>
 
 <div class='review'>
@@ -5424,7 +5444,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
 </div>
@@ -5435,10 +5455,10 @@ TODOANSWER
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_oldpr</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5714,7 +5734,12 @@ $867$ to the nearest $10$
 <div class='workings'>
 <div class='working'>
 
-$870$
+$
+\begin {aligned}
+&= 867 \\\\
+&\approx 870
+\end {aligned}
+$
 
 </div>
 </div>
@@ -5728,7 +5753,12 @@ $870$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$870$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= 867 \\\\
+&\approx 870
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5942,92 +5972,33 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt c: {:} in answers too
-
-
-
-Part E : 867 will be 870 
-
-
-
-Part F : direct 5
-
-
-
-Part H: direct answer
-
-
-
-Ignore comments before this. they are old
-
-
-
-a b are correct
-
-c: change to begin aligned style
-
-
-
-= 5:39
-
-= 5:39 +12 
-
-= blah blah
-
-
-
-Write : as {:} too much space otherwise
-
-
-
-d: space before g, please refer unit guidelines
-
-
-
-f: Just write 5 instead of = 5
-
-
-
-f: Just write 5 instead of = 5
-
-
-
-h. just 19 instead of = 19
-
-
-
-i: remove \\ on last line, its adding an empty line
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' id='FORM-F7B20DEF-90DB-4F1C-858F-9F35E931F593' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='F7B20DEF-90DB-4F1C-858F-9F35E931F593' id='FORM-F7B20DEF-90DB-4F1C-858F-9F35E931F593' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -6159,7 +6130,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4</p>
 </div>
@@ -6173,7 +6144,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6255,6 +6226,10 @@ Do it similar to E588B3E3-4F4F-478B-BFDF-D75E8651A7A3.
 
 
 First write number and then show working says lets verify 
+
+
+
+Same comments as B8D6BAFA-557D-451D-BA17-5723EF73E965, katex not written how we write it. please fix.
 </div>
 
 <div class='review'>
@@ -7119,7 +7094,7 @@ $10.47$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>14E5F246-D749-41FC-B5F4-8237AC1F466F</p>
 </div>
@@ -7133,7 +7108,7 @@ $10.47$
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7330,6 +7305,19 @@ $146700$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+This is not done as other similar questions
+
+
+
+This is not done as other similar questions. 
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgeometry-1-oldpr"
 title: "TopicPaper - Geometry - 1 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -103,6 +103,9 @@ Write option
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B245DB80-06AB-4146-8632-C2E68446994E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B245DB80-06AB-4146-8632-C2E68446994E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B245DB80-06AB-4146-8632-C2E68446994E' onclick='submitReview(event)'>PRCR</button>
@@ -233,6 +236,9 @@ Write option
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D30F0974-2B38-4C59-B619-F9A967A19868' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D30F0974-2B38-4C59-B619-F9A967A19868' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D30F0974-2B38-4C59-B619-F9A967A19868' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -354,6 +360,9 @@ Write option, add tdraw, add TODO to say add the complete diagram
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1F0E1A23-FEB9-4030-8F80-C0D56311A323' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='1F0E1A23-FEB9-4030-8F80-C0D56311A323' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1F0E1A23-FEB9-4030-8F80-C0D56311A323' onclick='submitReview(event)'>PRCR</button>
@@ -482,6 +491,9 @@ Write option
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='04ACE684-9AE1-4A89-98F0-A8F72CA19665' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='04ACE684-9AE1-4A89-98F0-A8F72CA19665' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='04ACE684-9AE1-4A89-98F0-A8F72CA19665' onclick='submitReview(event)'>PRCR</button>

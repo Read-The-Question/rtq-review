@@ -178,6 +178,12 @@ img {
     background-color: greenyellow;
 }
 
+.question_envelope.question.rag_prg2 {
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    /* background-color: lightgreen; */
+    background-color: greenyellow;
+}
+
 .question_envelope.question.rag_prbd {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
@@ -332,6 +338,11 @@ button.review {
 }
 
 button.rag_prg {
+    padding: 20px 20px;
+    background-color: #04AA6D;
+}
+
+button.rag_prg2 {
     padding: 20px 20px;
     background-color: #04AA6D;
 }

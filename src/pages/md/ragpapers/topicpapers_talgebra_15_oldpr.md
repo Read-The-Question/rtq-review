@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-oldpr"
 title: "TopicPaper - Algebra - 15 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -198,6 +198,9 @@ refer 0A0A949A-4315-41A1-A28D-C39E8F6FC5E9 part b . but keep boxed.
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D6C77BFE-E594-4024-93C0-48A0970659C7' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -336,6 +339,9 @@ Wrong answer . refer 3ACC56E9-45C3-48B3-BD78-324451DE6879, change blue answer al
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661' onclick='submitReview(event)'>PRCR</button>
@@ -503,6 +509,9 @@ Not x or y variable . use a, b, c.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5160958B-A4E0-465D-AF30-2B59CDE40F74' onclick='submitReview(event)'>PRCR</button>

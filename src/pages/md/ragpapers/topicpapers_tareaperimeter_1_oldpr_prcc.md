@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 1 - OLDPR - PRCC"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -107,6 +107,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='71BAE604-5A28-4AE4-95ED-49D812FF6AF2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='71BAE604-5A28-4AE4-95ED-49D812FF6AF2' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='71BAE604-5A28-4AE4-95ED-49D812FF6AF2' onclick='submitReview(event)'>PRCR</button>
@@ -278,6 +281,9 @@ step 1: side x side                                                             
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5956440A-E503-4587-BFE7-D009144AE8EE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='5956440A-E503-4587-BFE7-D009144AE8EE' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5956440A-E503-4587-BFE7-D009144AE8EE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -432,6 +438,9 @@ dfrac is broken
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FA9861FD-232E-4ED5-9793-77E5EFC8EB56' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='FA9861FD-232E-4ED5-9793-77E5EFC8EB56' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FA9861FD-232E-4ED5-9793-77E5EFC8EB56' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -569,6 +578,9 @@ Triangle is $3 \ \text{cm}$ tall.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRCR</button>
@@ -737,6 +749,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='61C1A420-8257-47F8-8AF9-90E715F64BCC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='61C1A420-8257-47F8-8AF9-90E715F64BCC' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='61C1A420-8257-47F8-8AF9-90E715F64BCC' onclick='submitReview(event)'>PRCR</button>

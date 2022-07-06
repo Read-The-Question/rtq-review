@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-oldpr"
 title: "TopicPaper - Algebra - 2 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -138,6 +138,9 @@ Introduce a new answer answer.workings.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRCR</button>

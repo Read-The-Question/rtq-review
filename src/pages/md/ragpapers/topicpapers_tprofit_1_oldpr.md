@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-oldpr"
 title: "TopicPaper - Profit - 1 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -178,6 +178,9 @@ Shop where the price is the cheapest $= \text{Shop C} = \pounds 820$
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='450FEC63-5580-47DE-83CB-40719744776C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='450FEC63-5580-47DE-83CB-40719744776C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='450FEC63-5580-47DE-83CB-40719744776C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -319,6 +322,9 @@ No need to explain this much. Price of seesaw in 2011 = price of seesaw in 2010 
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A6B8B57F-EC4F-46B7-B764-FB72554BB7C3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A6B8B57F-EC4F-46B7-B764-FB72554BB7C3' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A6B8B57F-EC4F-46B7-B764-FB72554BB7C3' onclick='submitReview(event)'>PRCR</button>
@@ -487,6 +493,9 @@ step 1 & 2: Delete                                                              
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B8231480-932C-4FB3-9B63-7AD293068E36' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B8231480-932C-4FB3-9B63-7AD293068E36' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B8231480-932C-4FB3-9B63-7AD293068E36' onclick='submitReview(event)'>PRCR</button>

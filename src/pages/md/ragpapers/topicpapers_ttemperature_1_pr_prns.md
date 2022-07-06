@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-pr-prns"
 title: "TopicPaper - Temperature - 1 - PR - PRNS"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -331,6 +331,9 @@ $
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='190C260A-B709-4BC3-B1A5-EB1669D52A22' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='190C260A-B709-4BC3-B1A5-EB1669D52A22' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='190C260A-B709-4BC3-B1A5-EB1669D52A22' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -447,6 +450,9 @@ $
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6698C0E8-8C91-401E-A164-C22C25F5E9F7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='6698C0E8-8C91-401E-A164-C22C25F5E9F7' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6698C0E8-8C91-401E-A164-C22C25F5E9F7' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -557,6 +563,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='34B6ABD4-2634-46DE-BC0B-524DA2C850E0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='34B6ABD4-2634-46DE-BC0B-524DA2C850E0' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='34B6ABD4-2634-46DE-BC0B-524DA2C850E0' onclick='submitReview(event)'>PRCR</button>

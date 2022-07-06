@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-oldpr"
 title: "TopicPaper - Angle - 2 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -299,6 +299,9 @@ Line 3 : We know, the sum of a right angle is 90°.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8A00786C-8FA5-49F0-B059-E903FB36850E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8A00786C-8FA5-49F0-B059-E903FB36850E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8A00786C-8FA5-49F0-B059-E903FB36850E' onclick='submitReview(event)'>PRCR</button>
@@ -755,6 +758,9 @@ Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. 
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -896,6 +902,9 @@ Write the line sum of angle = 180 .. search the line from website....wording req
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2A28B44D-4B73-46C1-955A-1029E0F22147' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2A28B44D-4B73-46C1-955A-1029E0F22147' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2A28B44D-4B73-46C1-955A-1029E0F22147' onclick='submitReview(event)'>PRCR</button>
@@ -1229,6 +1238,9 @@ In blue answer
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='802A33FA-D4AC-4248-BE3E-09CA75FF7E82' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='802A33FA-D4AC-4248-BE3E-09CA75FF7E82' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='802A33FA-D4AC-4248-BE3E-09CA75FF7E82' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1416,6 +1428,9 @@ y =44°
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3E301085-F062-490D-99FF-D572D1FB6E58' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3E301085-F062-490D-99FF-D572D1FB6E58' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3E301085-F062-490D-99FF-D572D1FB6E58' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1568,6 +1583,9 @@ CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B6391AE6-AFDE-4F0B-865B-5BD6985A8B78' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B6391AE6-AFDE-4F0B-865B-5BD6985A8B78' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B6391AE6-AFDE-4F0B-865B-5BD6985A8B78' onclick='submitReview(event)'>PRCR</button>
@@ -1826,6 +1844,9 @@ show working for y = 30 ... y = 180/6......
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C7288C8F-5D25-4733-9478-7992288F6CD7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C7288C8F-5D25-4733-9478-7992288F6CD7' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C7288C8F-5D25-4733-9478-7992288F6CD7' onclick='submitReview(event)'>PRCR</button>

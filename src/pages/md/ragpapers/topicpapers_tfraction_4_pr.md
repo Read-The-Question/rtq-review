@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-pr"
 title: "TopicPaper - Fraction - 4 - PR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -280,6 +280,9 @@ $
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -531,6 +534,9 @@ Part B & C wrong.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRCR</button>
@@ -807,6 +813,9 @@ $18$ whole bangos are there in $274$ fangos and $8$ fangos are left over.
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1064,6 +1073,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCR</button>

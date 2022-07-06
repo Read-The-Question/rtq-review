@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-oldpr"
 title: "TopicPaper - Algebra - 14 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -295,6 +295,9 @@ Change in Blue answer as mentioned in Part A
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E14872CA-A458-40F9-8C07-62F2E9C9CC11' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E14872CA-A458-40F9-8C07-62F2E9C9CC11' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E14872CA-A458-40F9-8C07-62F2E9C9CC11' onclick='submitReview(event)'>PRCR</button>
@@ -630,6 +633,9 @@ Part C : Not solved, solve please
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3333F909-34F8-4849-86F8-FDA974248AC6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3333F909-34F8-4849-86F8-FDA974248AC6' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3333F909-34F8-4849-86F8-FDA974248AC6' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -941,6 +947,9 @@ Part B : not solved
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='139515A2-06C2-4784-A793-112DD4CB90CD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='139515A2-06C2-4784-A793-112DD4CB90CD' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='139515A2-06C2-4784-A793-112DD4CB90CD' onclick='submitReview(event)'>PRCR</button>
@@ -1262,6 +1271,9 @@ Not solved : solve please. same like before parts.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CA18EE51-E05D-43B3-9A52-6279C6630C9D' onclick='submitReview(event)'>PRCR</button>

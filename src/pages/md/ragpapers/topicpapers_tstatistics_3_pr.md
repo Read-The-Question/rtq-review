@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-3-pr"
 title: "TopicPaper - Statistics - 3 - PR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -611,6 +611,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='874626A3-7DB5-4CA5-A72C-A3117C27178A' onclick='submitReview(event)'>PRCR</button>

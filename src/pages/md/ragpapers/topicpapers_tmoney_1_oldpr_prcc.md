@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-oldpr-prcc"
 title: "TopicPaper - Money - 1 - OLDPR - PRCC"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -101,6 +101,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='08B091C3-398E-4C33-9232-9F1C961D0DD6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='08B091C3-398E-4C33-9232-9F1C961D0DD6' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='08B091C3-398E-4C33-9232-9F1C961D0DD6' onclick='submitReview(event)'>PRCR</button>

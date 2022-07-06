@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttable-1"
 title: "TopicPaper - Table - 1"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <div class='paper'>
 <div class='meta'>

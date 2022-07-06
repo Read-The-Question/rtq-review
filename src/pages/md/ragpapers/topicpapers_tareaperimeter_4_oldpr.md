@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-oldpr"
 title: "TopicPaper - Areaperimeter - 4 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -214,6 +214,9 @@ part b formula ..katex error.
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -360,6 +363,9 @@ Length of path change to  Width of path
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2ED1078E-E436-4DB2-A728-C73E012861C2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2ED1078E-E436-4DB2-A728-C73E012861C2' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2ED1078E-E436-4DB2-A728-C73E012861C2' onclick='submitReview(event)'>PRCR</button>
@@ -515,6 +521,9 @@ Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F3912EFD-E492-46A0-BB5B-F44F4FD52BAA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F3912EFD-E492-46A0-BB5B-F44F4FD52BAA' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F3912EFD-E492-46A0-BB5B-F44F4FD52BAA' onclick='submitReview(event)'>PRCR</button>
@@ -748,6 +757,9 @@ Line 1.  So, and again down So, (delete 1 So,)
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D12205F1-6F25-4231-A122-B2A390DC96CE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D12205F1-6F25-4231-A122-B2A390DC96CE' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D12205F1-6F25-4231-A122-B2A390DC96CE' onclick='submitReview(event)'>PRCR</button>

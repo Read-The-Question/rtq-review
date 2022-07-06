@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmap-1-oldpr"
 title: "TopicPaper - Map - 1 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -98,6 +98,9 @@ B to C
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3' onclick='submitReview(event)'>PRCR</button>
@@ -216,6 +219,9 @@ A to C
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CCC7B672-4F8B-43F1-AA68-9BD75C7362B1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='CCC7B672-4F8B-43F1-AA68-9BD75C7362B1' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CCC7B672-4F8B-43F1-AA68-9BD75C7362B1' onclick='submitReview(event)'>PRCR</button>

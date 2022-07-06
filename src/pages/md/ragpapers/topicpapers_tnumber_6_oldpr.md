@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-oldpr"
 title: "TopicPaper - Number - 6 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -456,6 +456,9 @@ array please
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D' onclick='submitReview(event)'>PRCR</button>

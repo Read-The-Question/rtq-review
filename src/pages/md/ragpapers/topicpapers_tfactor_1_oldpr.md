@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfactor-1-oldpr"
 title: "TopicPaper - Factor - 1 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -176,6 +176,9 @@ take 24 in line 2 also out of text..
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FCFEBCEB-D29D-4BCB-BA8F-8E658B694739' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='FCFEBCEB-D29D-4BCB-BA8F-8E658B694739' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FCFEBCEB-D29D-4BCB-BA8F-8E658B694739' onclick='submitReview(event)'>PRCR</button>
@@ -507,6 +510,9 @@ Part D :is correct
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7EDC8D07-F0B7-488E-966B-4C742A083200' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7EDC8D07-F0B7-488E-966B-4C742A083200' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7EDC8D07-F0B7-488E-966B-4C742A083200' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -791,6 +797,9 @@ Refer to the corrections done in similar question in previous paper.
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FEC89A56-1AF8-4052-8EDD-95EC29CBFA28' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='FEC89A56-1AF8-4052-8EDD-95EC29CBFA28' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FEC89A56-1AF8-4052-8EDD-95EC29CBFA28' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1026,6 +1035,9 @@ Direct answer in workings (no solving needed)
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F8D3AEA5-00FC-4260-A2B7-A0A6D9A6B650' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F8D3AEA5-00FC-4260-A2B7-A0A6D9A6B650' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F8D3AEA5-00FC-4260-A2B7-A0A6D9A6B650' onclick='submitReview(event)'>PRCR</button>

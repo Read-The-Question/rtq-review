@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-oldpr"
 title: "TopicPaper - Algebra - 5 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -225,6 +225,9 @@ Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1FC72FAC-44B2-4E36-9646-A48B84FD818F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='1FC72FAC-44B2-4E36-9646-A48B84FD818F' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1FC72FAC-44B2-4E36-9646-A48B84FD818F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -381,6 +384,9 @@ Please aligned(&) according to the format and change pound to p inside the katex
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828' onclick='submitReview(event)'>PRCR</button>
@@ -698,6 +704,9 @@ Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E8C861DF-9822-4FA8-BE0B-C4698C43089C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E8C861DF-9822-4FA8-BE0B-C4698C43089C' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E8C861DF-9822-4FA8-BE0B-C4698C43089C' onclick='submitReview(event)'>PRCR</button>

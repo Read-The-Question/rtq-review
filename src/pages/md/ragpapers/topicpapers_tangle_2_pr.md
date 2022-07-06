@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-pr"
 title: "TopicPaper - Angle - 2 - PR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -184,6 +184,9 @@ $75 \degree$
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onclick='submitReview(event)'>PRCR</button>
@@ -453,6 +456,9 @@ $
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -706,6 +712,9 @@ $
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -838,6 +847,9 @@ Third angle $= 110 \degree$
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8562F28B-A45E-4D92-8E28-7562EE200450' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8562F28B-A45E-4D92-8E28-7562EE200450' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8562F28B-A45E-4D92-8E28-7562EE200450' onclick='submitReview(event)'>PRCR</button>
@@ -1014,6 +1026,9 @@ tgeometry question
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6B2636D1-144E-416C-AFF5-4E6348F2D18B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='6B2636D1-144E-416C-AFF5-4E6348F2D18B' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6B2636D1-144E-416C-AFF5-4E6348F2D18B' onclick='submitReview(event)'>PRCR</button>
@@ -1232,6 +1247,9 @@ Third angle $= 80 \degree$
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='453DC04D-CA8F-48C4-88A2-8AC9261FA908' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='453DC04D-CA8F-48C4-88A2-8AC9261FA908' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='453DC04D-CA8F-48C4-88A2-8AC9261FA908' onclick='submitReview(event)'>PRCR</button>

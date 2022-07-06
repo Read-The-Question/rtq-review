@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-oldpr"
 title: "TopicPaper - Number - 11 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -245,6 +245,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRCR</button>
@@ -515,6 +518,9 @@ Refer to the corrections done in similar question in previous paper.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRCR</button>
@@ -864,6 +870,9 @@ c: * should be next to 7 as per coding guidelines, look at other detailed multip
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCR</button>

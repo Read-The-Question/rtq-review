@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-pr"
 title: "TopicPaper - Fraction - 3 - PR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -93,6 +93,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRCR</button>
@@ -222,6 +225,9 @@ therefore $\dfrac {5} {12}$ is the smallest fraction.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9F3349DA-53D7-4B90-AF97-44661D4FDBE4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9F3349DA-53D7-4B90-AF97-44661D4FDBE4' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9F3349DA-53D7-4B90-AF97-44661D4FDBE4' onclick='submitReview(event)'>PRCR</button>
@@ -368,6 +374,9 @@ Therefore, $\dfrac{3+4}{2+3}$ is the biggest.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='82754E73-D876-45A7-8AA1-76C9E05BCE77' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='82754E73-D876-45A7-8AA1-76C9E05BCE77' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='82754E73-D876-45A7-8AA1-76C9E05BCE77' onclick='submitReview(event)'>PRCR</button>
@@ -609,6 +618,9 @@ $
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C957490D-C2D2-48AD-80EA-F4EAAF92A7A1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C957490D-C2D2-48AD-80EA-F4EAAF92A7A1' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C957490D-C2D2-48AD-80EA-F4EAAF92A7A1' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -734,6 +746,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRCR</button>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-oldpr"
 title: "TopicPaper - Number - 14 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -103,6 +103,9 @@ wrong
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRCR</button>
@@ -229,6 +232,9 @@ Number closest in value $= 1.006$
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRCR</button>

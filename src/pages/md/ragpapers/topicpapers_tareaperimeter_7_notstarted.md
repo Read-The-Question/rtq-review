@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-notstarted"
 title: "TopicPaper - Areaperimeter - 7 - NOTSTARTED"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -98,169 +98,6 @@ TODOANSWER
 </div>
 </div>
 
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>35FADD8D-0E00-4135-B26F-D6754FF61BEB</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:29</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jiggy Score has made $4$ full size copies of this triangle:
-
-He puts his $4$ triangles together to make the shape shown below.
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What is the perimeter of the shape?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The total area of his shape is $120 \ \text{cm}$²
-
-What is the area of one triangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 
 </div>
 </li>
@@ -437,7 +274,7 @@ Which $2$ shapes will fit together to form a square?
 <div class='workings'>
 <div class='working'>
 
-$$
+TODOWORKING
 
 </div>
 </div>
@@ -451,7 +288,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$$
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -1293,109 +1130,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
-<p>E2628A71-F043-48AE-9019-A28D3EF75373</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:35</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the diagrams below, the square and rectangle have the same perimeter. 
-
-The square has an area of $64 \ \text{cm}^2$.
-
-The length of the rectangle is three times the width of the rectangle.
-
-Work out the length of the rectangle.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
 <p>DCBFED2B-425F-443D-B12E-0D873ADBA25C</p>
 </div>
 <div class='papername'>
@@ -1501,36 +1235,68 @@ Work out the area of the shape.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+Let the side of the square $= s$
+
+Number of sides in the shape $= 20$
+
+Number of squares $= 10$
+
+As per the question,
+
+$
+\begin{aligned}
+20 \times s         &= 100 \\\\
+20s                 &= 100 \\\\
+s                   &= \dfrac {100} {20} \\\\
+s                   &= \dfrac {20 \times 5} {20} \\\\
+s                   &= \dfrac {\cancel {20} \times 5} {\cancel {20}} \\\\
+s                   &= 5 \ \text {cm}
+\text {Total Area}  &= 10 \times \text {Area of a square} \\\\
+                    &= 10 \times s \times s \\\\
+                    &= 10 \times 5 \times 5 \\\\
+                    &= 250 \ \text {cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$250 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Let the side of the square $= s$
+
+Number of sides in the shape $= 20$
+
+Number of squares $= 10$
+
+As per the question,
+
+$
+\begin{aligned}
+20 \times s         &= 100 \\\\
+20s                 &= 100 \\\\
+s                   &= \dfrac {100} {20} \\\\
+s                   &= \dfrac {20 \times 5} {20} \\\\
+s                   &= \dfrac {\cancel {20} \times 5} {\cancel {20}} \\\\
+s                   &= 5 \ \text {cm}
+\text {Total Area}  &= 10 \times \text {Area of a square} \\\\
+                    &= 10 \times s \times s \\\\
+                    &= 10 \times 5 \times 5 \\\\
+                    &= 250 \ \text {cm}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1542,17 +1308,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$250 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
@@ -1915,109 +1671,6 @@ On the centimetre square grid below, draw a hexagon with area $12 \ \text{cm}^2$
 
 ![missing image](/papers/missing_image.svg)
 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>33292464-268B-4D05-8C7C-B9B634F07B00</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:35</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The shape below is made from two overlapping rectangles.
-
-One rectangle measures $5 \ \text{cm}$ by $4 \ \text{cm}$.
-
-The other measures $8 \ \text{cm}$ by $6 \ \text{cm}$.
-
-![missing image](/papers/missing_image.svg)
-
-
-Given that the area of the section shaded black is $15 \ \text{cm}^2$, work out the area of the section shaded grey.
 
 </div>
 <div class='workings'>

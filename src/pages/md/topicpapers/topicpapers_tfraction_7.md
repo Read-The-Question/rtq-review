@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-7"
 title: "TopicPaper - Fraction - 7"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -82,6 +82,9 @@ $3 \dfrac{1}{2}$
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='7569895A-16BF-4154-8A52-95D367FEA01A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='7569895A-16BF-4154-8A52-95D367FEA01A' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='7569895A-16BF-4154-8A52-95D367FEA01A' onclick='submitReview(event)'>PRCR</button>

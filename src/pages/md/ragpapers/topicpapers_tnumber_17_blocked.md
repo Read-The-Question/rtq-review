@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-blocked"
 title: "TopicPaper - Number - 17 - BLOCKED"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -175,6 +175,119 @@ The number nearest to $0.1$ = $0.101$
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$0.101$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>8A24363A-173B-47A3-9255-922EF8A300A3</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:19</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bob is thinking of a number. Alan asks him some questions.
+
+Is it more than $40$? Yes
+
+Is it a multiple of $3$? Yes
+
+Is it a multiple of $5$? Yes
+
+Is it more than $60$? No
+
+
+What numbers could Bob be thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Bob thinks = $a$
+
+As per the question,
+
+$a > 40$
+
+$a$ is a multiple of $3$
+
+$a$ is a multiple of $5$
+
+$a <60$
+
+Numbers between $40$ and $60$ which are multiple of $5 = {45, 50, 55}$
+
+Numbers between $40$ and $60$ which are multiple of $3 = {45, 48, 51, 54, 57}$
+
+Since $45$ is common in both, 
+
+$a = 45$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number Bob thinks = $a$
+
+As per the question,
+
+$a > 40$
+
+$a$ is a multiple of $3$
+
+$a$ is a multiple of $5$
+
+$a <60$
+
+Numbers between $40$ and $60$ which are multiple of $5 = {45, 50, 55}$
+
+Numbers between $40$ and $60$ which are multiple of $3 = {45, 48, 51, 54, 57}$
+
+Since $45$ is common in both, 
+
+$a = 45$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$45$
 </code></pre>
 </div>
 </div>
@@ -532,6 +645,351 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>B63E0E9C-DD91-4A19-A462-FF09979B19C0</p>
+</div>
+<div class='papername'>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+Calculate the answers to the following. Remember to show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$9.83 + 4.6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: Remember to line up the decimal points.
+
+
+$
+\begin{array}{cccccccccccccc}
+    &   9 \ .   &   8   &   3 \\
+{}+ &   4 \ .   &   6   &   0 \\
+\hline
+1   &   4 \ .   &   4   &   3
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14.43$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
+
+$
+\begin{array}{cccccccccccccc}
+    &   9 \ .   &   8   &   3 \\
+{}+ &   4 \ .   &   6   &   0 \\
+\hline
+1   &   4 \ .   &   4   &   3
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$14.43$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$15.4 - 2.21$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: Remember to line up the decimal points.
+
+
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   5 \ .   &   4   &   0 \\
+{}- &       &   2 \ .   &   2   &   1 \\
+\hline
+    &   1   &   3 \ .   &   1   &   9
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13.19$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
+
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   5 \ .   &   4   &   0 \\
+{}- &       &   2 \ .   &   2   &   1 \\
+\hline
+    &   1   &   3 \ .   &   1   &   9
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13.19$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$7.3 \times 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
+
+$
+\begin{array}{cccccccccccccc}
+        &       &   7   &   3 \\
+{}      &\times &       &   4 \\
+\hline
+        &   2   &   9   &   2
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is one.
+
+Let's account for the decimal point now.
+
+= 29.2 
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29.2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+rtq_abbr_md_multiply_when_decimal_points_note
+
+$
+\begin{array}{cccccccccccccc}
+        &       &   7   &   3 \\
+{}      &\times &       &   4 \\
+\hline
+        &   2   &   9   &   2
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is one.
+
+Let's account for the decimal point now.
+
+= 29.2 
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$29.2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$4.68 \div 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first divide the numbers ignoring the decimal points.
+
+$
+\begin{aligned}
+&= 4.68 \div 6 \\\\
+&= \dfrac {468} {6} \\\\
+&= \dfrac {6 \times 78} {6} \\\\
+&= \dfrac {\cancel {6} \times 78} {\cancel{6}} \\\\
+&= 78
+\end{aligned}
+$
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now.
+
+$= 0.78$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.78$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's first divide the numbers ignoring the decimal points.
+
+$
+\begin{aligned}
+&= 4.68 \div 6 \\\\
+&= \dfrac {468} {6} \\\\
+&= \dfrac {6 \times 78} {6} \\\\
+&= \dfrac {\cancel {6} \times 78} {\cancel{6}} \\\\
+&= 78
+\end{aligned}
+$
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now.
+
+$= 0.78$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0.78$
 </code></pre>
 </div>
 </div>

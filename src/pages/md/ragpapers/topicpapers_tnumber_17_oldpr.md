@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-oldpr"
 title: "TopicPaper - Number - 17 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-05 18:42:12
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -236,6 +236,9 @@ Katex is not correct, use begin aligned like its been done in reference UUID giv
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B8D6BAFA-557D-451D-BA17-5723EF73E965' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B8D6BAFA-557D-451D-BA17-5723EF73E965' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B8D6BAFA-557D-451D-BA17-5723EF73E965' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -275,10 +278,10 @@ Katex is not correct, use begin aligned like its been done in reference UUID giv
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -373,6 +376,9 @@ Same comments as B8D6BAFA-557D-451D-BA17-5723EF73E965, katex not written how we 
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4' onclick='submitReview(event)'>PRCR</button>
@@ -637,6 +643,9 @@ This is not done as other similar questions.
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='14E5F246-D749-41FC-B5F4-8237AC1F466F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='14E5F246-D749-41FC-B5F4-8237AC1F466F' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='14E5F246-D749-41FC-B5F4-8237AC1F466F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -668,7 +677,7 @@ This is not done as other similar questions.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>84DF97A5-920D-4BF6-91EC-3314D5655765</p>
 </div>
@@ -682,7 +691,7 @@ This is not done as other similar questions.
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1217,11 +1226,41 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write part 1 same as other case, do not write as 5! = 5 * 4 ...
+
+instead
+
+= %5!
+
+= 5 * 4
+
+= ...
+
+
+
+part c:
+
+
+
+add s3
+
+n! = 13 * 12! / 13 then cancel usual way and arrive to n = 12
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='84DF97A5-920D-4BF6-91EC-3314D5655765' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='84DF97A5-920D-4BF6-91EC-3314D5655765' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='84DF97A5-920D-4BF6-91EC-3314D5655765' onclick='submitReview(event)'>PRCR</button>

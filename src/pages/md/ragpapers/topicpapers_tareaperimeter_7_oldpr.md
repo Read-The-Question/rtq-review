@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -280,6 +280,9 @@ PArt B = Not solved.solve please
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='66489EBB-AF77-436C-8265-5C9A279D0B94' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='66489EBB-AF77-436C-8265-5C9A279D0B94' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='66489EBB-AF77-436C-8265-5C9A279D0B94' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -460,6 +463,9 @@ not directly related. thou.
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DC8558C2-EE37-46DD-A01E-FF5282A31014' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='DC8558C2-EE37-46DD-A01E-FF5282A31014' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='DC8558C2-EE37-46DD-A01E-FF5282A31014' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -610,6 +616,9 @@ not directly related. thou.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A60ACF29-F74F-4CDB-846D-DE660531F19A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A60ACF29-F74F-4CDB-846D-DE660531F19A' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A60ACF29-F74F-4CDB-846D-DE660531F19A' onclick='submitReview(event)'>PRCR</button>
@@ -963,6 +972,9 @@ Blue answer = 18 Stickers
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='51A3EFEE-AEFC-4035-956A-355C5FB4F3EB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='51A3EFEE-AEFC-4035-956A-355C5FB4F3EB' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='51A3EFEE-AEFC-4035-956A-355C5FB4F3EB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1134,6 +1146,9 @@ rtq_abbr_katex_formula_perimeter_rectangle
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1300,6 +1315,9 @@ Shaded Area = Area of ABCD - Area of rectangle inside ABCD (there is no T as you
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRCR</button>

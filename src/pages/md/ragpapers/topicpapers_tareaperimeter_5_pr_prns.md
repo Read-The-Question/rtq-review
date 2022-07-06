@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-pr-prns"
 title: "TopicPaper - Areaperimeter - 5 - PR - PRNS"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -130,6 +130,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6E58F8FA-31E6-4646-BF9D-0281F0604D60' onclick='submitReview(event)'>PRCR</button>
@@ -274,6 +277,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A9EDD897-7B82-4B95-B0E0-2756D47288FD' onclick='submitReview(event)'>PRCR</button>
@@ -430,6 +436,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6E36ADD4-85BD-4460-8658-D0A77EA9371D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='6E36ADD4-85BD-4460-8658-D0A77EA9371D' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6E36ADD4-85BD-4460-8658-D0A77EA9371D' onclick='submitReview(event)'>PRCR</button>
@@ -711,6 +720,9 @@ we are not supposed to solve tvolume change rag to amber or red
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='031D794E-5978-4206-9059-995FC698CDE6' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -906,6 +918,9 @@ Missing length $= 10 \ \text {cm}$.
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EFC35732-7F0C-4816-85A6-D476D88749D2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='EFC35732-7F0C-4816-85A6-D476D88749D2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='EFC35732-7F0C-4816-85A6-D476D88749D2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1056,6 +1071,9 @@ $
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C9FC1C48-8736-4864-B73E-9615A9F76F7E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1188,6 +1206,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C0550FA4-3C39-429E-84BB-90239E5C8FE3' onclick='submitReview(event)'>PRCR</button>
@@ -1338,6 +1359,9 @@ $
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A1314092-099E-4672-A643-BEABE665C8AB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A1314092-099E-4672-A643-BEABE665C8AB' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A1314092-099E-4672-A643-BEABE665C8AB' onclick='submitReview(event)'>PRCR</button>
@@ -1615,6 +1639,9 @@ tgraph
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5115612D-9C06-4F91-9D07-E0E41EA82030' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1766,6 +1793,9 @@ Perimeter of the shape remain same after removing tile $5$.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCR</button>

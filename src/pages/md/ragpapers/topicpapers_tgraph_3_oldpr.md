@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-3-oldpr"
 title: "TopicPaper - Graph - 3 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -247,6 +247,9 @@ in blue answer Ford (Use captials as in normal english)
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A068EE90-357B-4E72-854F-DF950A5D447E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A068EE90-357B-4E72-854F-DF950A5D447E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A068EE90-357B-4E72-854F-DF950A5D447E' onclick='submitReview(event)'>PRCR</button>
@@ -522,6 +525,9 @@ Part C : Refer to the correctiosn done in similar question in previous paper.
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1E41AB8C-F0A4-4285-998A-D76D7DD412AA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='1E41AB8C-F0A4-4285-998A-D76D7DD412AA' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1E41AB8C-F0A4-4285-998A-D76D7DD412AA' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -772,6 +778,9 @@ Part c : is it not food technology.. as the chart shows no one chose Food techno
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='552840B2-0E36-4290-AC67-292C3F32FFE0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='552840B2-0E36-4290-AC67-292C3F32FFE0' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='552840B2-0E36-4290-AC67-292C3F32FFE0' onclick='submitReview(event)'>PRCR</button>
@@ -1051,6 +1060,9 @@ As per the bar chart,
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0CC40F6E-A0EB-4D96-A29B-510F9BBC8915' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='0CC40F6E-A0EB-4D96-A29B-510F9BBC8915' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='0CC40F6E-A0EB-4D96-A29B-510F9BBC8915' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1251,6 +1263,9 @@ Please change : Ob......an angle greater than 90° but less than 180° (change b
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='422F78A1-EBFB-4834-9E93-8E37FE51E544' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='422F78A1-EBFB-4834-9E93-8E37FE51E544' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='422F78A1-EBFB-4834-9E93-8E37FE51E544' onclick='submitReview(event)'>PRCR</button>

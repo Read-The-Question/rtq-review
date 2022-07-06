@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-oldpr"
 title: "TopicPaper - Algebra - 1 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -218,6 +218,9 @@ Refer : 07B7F155-62F9-4100-8C73-1796ABA98DCB , check how the text is written..  
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='56B40B8C-468B-4A69-83E1-B687C31C142F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='56B40B8C-468B-4A69-83E1-B687C31C142F' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='56B40B8C-468B-4A69-83E1-B687C31C142F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -382,6 +385,9 @@ Weight of a small can $= 275 \ \text{grams}$
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='22F0FDBD-7B8F-4F90-BEAA-B0ED0DAC72C3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='22F0FDBD-7B8F-4F90-BEAA-B0ED0DAC72C3' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='22F0FDBD-7B8F-4F90-BEAA-B0ED0DAC72C3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -536,6 +542,9 @@ $
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8A0C2CE0-A552-4D9F-9814-2BDDBDFF39A7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8A0C2CE0-A552-4D9F-9814-2BDDBDFF39A7' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8A0C2CE0-A552-4D9F-9814-2BDDBDFF39A7' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -675,6 +684,9 @@ Number of glasses of water $= 25$
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7125F2EC-250C-48A5-96EC-68872015C687' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7125F2EC-250C-48A5-96EC-68872015C687' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7125F2EC-250C-48A5-96EC-68872015C687' onclick='submitReview(event)'>PRCR</button>
@@ -891,6 +903,9 @@ Banana $= 50 \ \text{pence}$ -- GIVE SPACE BETWEEN THESE TWO LINES..write Cost o
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1622DD6F-538D-47B0-8E04-EE946A7719E6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='1622DD6F-538D-47B0-8E04-EE946A7719E6' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1622DD6F-538D-47B0-8E04-EE946A7719E6' onclick='submitReview(event)'>PRCR</button>
@@ -1174,6 +1189,9 @@ $y = x ^ 2$ gives the same value if $y$ for both $x = 4$ and $x = -4$.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='734F4C9F-BA17-40EC-BE44-F910FF8517D0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='734F4C9F-BA17-40EC-BE44-F910FF8517D0' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='734F4C9F-BA17-40EC-BE44-F910FF8517D0' onclick='submitReview(event)'>PRCR</button>

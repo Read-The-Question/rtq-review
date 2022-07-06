@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-blocked"
 title: "TopicPaper - Number - 8 - BLOCKED"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1083,6 +1083,110 @@ $6!$
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>49A4C1C8-A26A-4008-B8AD-ED8A462A2B09</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When three consecutive odd numbers are multiplied together, the result is $9177$.
+
+What is the sum of the numbers? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first number be a, so consecutive odd numbers will be a + 2 and a + 4
+
+$
+\begin{aligned}
+a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
+a                                                           &= \sqrt[3]{9177} \\\\
+a                                                           &= 21 \, \text{approx.} \\\\
+\end{aligned}
+$
+
+|    Numbers     |  Product  |
+|----------------|-----------|
+| $17, 19, 21$   |  $6783$   |
+| $19, 21, 23$   |  $9177$   |
+| $21, 23, 25$   |  $12075$  |
+
+So the numbers are $= 19 , 21 , 23$
+
+Sum of these numbers are $= 19 + 21 + 23 = 63$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$63$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the first number be a, so consecutive odd numbers will be a + 2 and a + 4
+
+$
+\begin{aligned}
+a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
+a                                                           &= \sqrt[3]{9177} \\\\
+a                                                           &= 21 \, \text{approx.} \\\\
+\end{aligned}
+$
+
+|    Numbers     |  Product  |
+|----------------|-----------|
+| $17, 19, 21$   |  $6783$   |
+| $19, 21, 23$   |  $9177$   |
+| $21, 23, 25$   |  $12075$  |
+
+So the numbers are $= 19 , 21 , 23$
+
+Sum of these numbers are $= 19 + 21 + 23 = 63$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$63$
+</code></pre>
+</div>
+</div>
+
 
 </div>
 </li>

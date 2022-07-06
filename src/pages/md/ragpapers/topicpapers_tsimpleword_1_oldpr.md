@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-oldpr"
 title: "TopicPaper - Simpleword - 1 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -107,6 +107,9 @@ Baldwin ran $9 \ \text{km}$ more than Jeff.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRCR</button>
@@ -335,6 +338,9 @@ A} space in blue answer
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='52852CBD-3F19-4E8F-9646-311ABBA46E71' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='52852CBD-3F19-4E8F-9646-311ABBA46E71' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='52852CBD-3F19-4E8F-9646-311ABBA46E71' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -463,6 +469,9 @@ No. of veg.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='454E0C83-23ED-4839-B389-520CDF891C9D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='454E0C83-23ED-4839-B389-520CDF891C9D' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='454E0C83-23ED-4839-B389-520CDF891C9D' onclick='submitReview(event)'>PRCR</button>

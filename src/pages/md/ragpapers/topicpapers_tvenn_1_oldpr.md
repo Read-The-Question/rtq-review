@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tvenn-1-oldpr"
 title: "TopicPaper - Venn - 1 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -111,6 +111,9 @@ Cars neither red or blue = Total cards - Red cars - Blue cars
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='050EE19D-DD2B-4EAE-B94A-09B3971155EF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='050EE19D-DD2B-4EAE-B94A-09B3971155EF' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='050EE19D-DD2B-4EAE-B94A-09B3971155EF' onclick='submitReview(event)'>PRCR</button>

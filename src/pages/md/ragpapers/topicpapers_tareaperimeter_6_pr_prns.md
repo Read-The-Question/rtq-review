@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-pr-prns"
 title: "TopicPaper - Areaperimeter - 6 - PR - PRNS"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -161,6 +161,9 @@ Length of the edges of the cuboid are $6 \ \text {cm}, \ 4 \ \text {cm}, \ 8 \ \
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='80391C1A-13B4-4C02-A048-8C0B0C4AF7B9' onclick='submitReview(event)'>PRCR</button>
@@ -516,6 +519,9 @@ $
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3603BB2B-CD77-4715-948E-F254C76F0ED3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -856,6 +862,9 @@ $8$ people live in the region which is both mountainous and forested.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4ECFAAF5-2DF4-47D3-964C-185579B461DA' onclick='submitReview(event)'>PRCR</button>
@@ -1390,6 +1399,9 @@ Width $= 24 \ \text {m}$
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B6B76252-CCC5-4801-94D1-62EACE5B2AA6' onclick='submitReview(event)'>PRCR</button>

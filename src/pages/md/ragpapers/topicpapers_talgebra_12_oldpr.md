@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-oldpr"
 title: "TopicPaper - Algebra - 12 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -156,6 +156,9 @@ refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='85EB3724-4385-40C7-99FC-BD96F06DD4F3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -286,6 +289,9 @@ start katex with
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A44515A9-1C0B-4A2E-99CA-D73054BD487E' onclick='submitReview(event)'>PRCR</button>
@@ -507,6 +513,9 @@ a x b = 6 x 8 = 48
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CEFEC184-01C9-49CB-9761-F2A3E70E6B6F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='CEFEC184-01C9-49CB-9761-F2A3E70E6B6F' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CEFEC184-01C9-49CB-9761-F2A3E70E6B6F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -654,6 +663,9 @@ check align &=
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onclick='submitReview(event)'>PRCR</button>

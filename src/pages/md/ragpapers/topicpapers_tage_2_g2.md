@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-2-g2"
 title: "TopicPaper - Age - 2 - G2"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -129,6 +129,9 @@ Father's age $= 48 \ \text {years}$
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRCR</button>

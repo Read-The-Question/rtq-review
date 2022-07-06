@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-17-oldpr"
 title: "TopicPaper - Algebra - 17 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -127,6 +127,9 @@ in blue anser 3 kg
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='10D44C55-4639-4E1B-933F-702EB8DE1D6F' onclick='submitReview(event)'>PRCR</button>
@@ -264,6 +267,9 @@ Delete last sentence (the summary sentences now follow only if a variable is the
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B67C812C-8264-4E3E-AE90-257236E2DAC5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B67C812C-8264-4E3E-AE90-257236E2DAC5' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B67C812C-8264-4E3E-AE90-257236E2DAC5' onclick='submitReview(event)'>PRCR</button>
@@ -685,6 +691,9 @@ PArt d add a new step 3 = 3 +       5/2 then the step with 3 x 2.....
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4E026293-8092-4F84-94CD-07F5A6F4E37D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='4E026293-8092-4F84-94CD-07F5A6F4E37D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4E026293-8092-4F84-94CD-07F5A6F4E37D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1046,6 +1055,9 @@ Part e : solved wrong : its = 3 -2e + 2  (not -2) and then 5 -2e  (change answer
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3A6DE7DE-2610-4BB9-B90F-CF47C2F942B9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3A6DE7DE-2610-4BB9-B90F-CF47C2F942B9' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3A6DE7DE-2610-4BB9-B90F-CF47C2F942B9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1341,6 +1353,9 @@ Part C : Change Step 2:  to 2x  =  3 (x -4) then 2x = (3 x x) - (3 x 4) solve fu
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='10F6A653-86A6-4A15-B189-E38E373A64BD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='10F6A653-86A6-4A15-B189-E38E373A64BD' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='10F6A653-86A6-4A15-B189-E38E373A64BD' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1496,6 +1511,9 @@ a = 30 not 3!  The number he started with  $= 30$ The answer he should have obta
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0' onclick='submitReview(event)'>PRCR</button>
@@ -1738,6 +1756,9 @@ Part B : take the variable \"a\" not \"x\" inside katex Step 1 put \times betwee
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='48C8A320-D1E7-4D75-84D8-799A4AA7A4A2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='48C8A320-D1E7-4D75-84D8-799A4AA7A4A2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='48C8A320-D1E7-4D75-84D8-799A4AA7A4A2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -1873,6 +1894,9 @@ Change : Let the number I thought of $= a$
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='63ED19B8-7E96-4F52-9B00-D3ED22D0D160' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='63ED19B8-7E96-4F52-9B00-D3ED22D0D160' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='63ED19B8-7E96-4F52-9B00-D3ED22D0D160' onclick='submitReview(event)'>PRCR</button>

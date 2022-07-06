@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-oldpr"
 title: "TopicPaper - Order - 1 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -117,6 +117,9 @@ Refer : 51D8875F-8112-439E-9983-2C3C35DDC20B.. Alternative solution
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815' onclick='submitReview(event)'>PRCR</button>
@@ -369,6 +372,9 @@ $0.09 \quad     39\% \quad    \boxed{\rtq_katex_color_answer{0.44}} \quad     \d
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
@@ -509,6 +515,9 @@ therefore $\dfrac{6}{8}$ is the largest fraction.
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B' onclick='submitReview(event)'>PRCR</button>

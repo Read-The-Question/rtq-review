@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-oldpr"
 title: "TopicPaper - Algebra - 7 - OLDPR"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -271,6 +271,9 @@ Refer : 71748A3D-9EB9-407F-BE74-AE1F06A04E99... FOLLOW CODING GUILINES ,, ALIGNM
 <ul class='review'>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3F45652E-B2A7-4662-81DC-7F457C924A10' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3F45652E-B2A7-4662-81DC-7F457C924A10' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3F45652E-B2A7-4662-81DC-7F457C924A10' onclick='submitReview(event)'>PRCR</button>

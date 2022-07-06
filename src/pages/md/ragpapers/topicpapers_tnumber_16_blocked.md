@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-blocked"
 title: "TopicPaper - Number - 16 - BLOCKED"
-date: 2022-07-05 18:42:12
+date: 2022-07-06 05:29:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -176,6 +176,268 @@ $
 </div>
 </li>
 <li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>EC2A9B83-84D4-486D-8D93-A7BB3D422618</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:10</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the **__least__** number which can be added to $278$ to make a number which is exactly divisible by $13$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If we divide $278$ by $13$, the quotient is $21$ and the remainder is $5$.
+
+
+So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>If we divide $278$ by $13$, the quotient is $21$ and the remainder is $5$.
+
+
+So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>3143F4B2-41D5-4792-B6A8-FD619A39DC38</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:20</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If the rules about what order to do arithmetic operations do **not** apply for this last question on the paper then $2 + 4 \times 3$ could be $2 + 12 = 14$ or $6 \times 3 = 18$.
+
+Of the **five different** answers that there could be for the following question
+
+$14 - 3 \times 4 - 2 =$
+
+depending on the order you use for the operations, **which answer would be in the middle if the answers were placed in descending order (from largest to smallest)?**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's use brackets to show the sequence in which we apply the operations and give precedence to operators.
+
+$
+\begin{aligned}
+\text{Solution } 1  &= 14 - 3 \times 4 - 2 \\\\
+                    &= (14 - 3) \times (4 - 2) \\\\
+                    &= 11 \times 2 \\\\
+                    &= 22
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 2  &= 14 - 3 \times 4 - 2 \\\\
+                    &= (14 - 3) \times  4 - 2 \\\\
+                    &= 11 \times 4 - 2 \\\\
+                    &= (11 \times 4) - 2 \\\\
+                    &= 44 - 2 \\\\
+                    &= 42
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 3  &= 14 - 3 \times 4 - 2 \\\\
+                    &= 14 - (3 \times 4) - 2 \\\\                   
+                    &= 14 - 12 - 2 \\\\
+                    &= (14 - 12) - 2 \\\\
+                    &= 2 - 2 \\\\
+                    &= 0
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 4  &= 14 - 3 \times 4 - 2 \\\\
+                    &= 14 - (3 \times 4) - 2 \\\\
+                    &= 14 - 12 - 2 \\\\
+                    &= 14 - (12 - 2) \\\\
+                    &= 14 - 10 \\\\
+                    &= 4
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 5  &= 14 - 3 \times 4 - 2 \\\\
+                    &= 14 - 3 \times (4 - 2) \\\\
+                    &= 14 - 3 \times 2\\\\
+                    &= 14 - (3 \times 2) \\\\
+                    &= 14 - 6 \\\\
+                    &= 8
+\end{aligned}
+$
+
+Let's put them in descending order
+
+$42, \quad 22, \quad 8, \quad 4, \quad 0$
+
+Answer in the middle $= 8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's use brackets to show the sequence in which we apply the operations and give precedence to operators.
+
+$
+\begin{aligned}
+\text{Solution } 1  &= 14 - 3 \times 4 - 2 \\\\
+                    &= (14 - 3) \times (4 - 2) \\\\
+                    &= 11 \times 2 \\\\
+                    &= 22
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 2  &= 14 - 3 \times 4 - 2 \\\\
+                    &= (14 - 3) \times  4 - 2 \\\\
+                    &= 11 \times 4 - 2 \\\\
+                    &= (11 \times 4) - 2 \\\\
+                    &= 44 - 2 \\\\
+                    &= 42
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 3  &= 14 - 3 \times 4 - 2 \\\\
+                    &= 14 - (3 \times 4) - 2 \\\\                   
+                    &= 14 - 12 - 2 \\\\
+                    &= (14 - 12) - 2 \\\\
+                    &= 2 - 2 \\\\
+                    &= 0
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 4  &= 14 - 3 \times 4 - 2 \\\\
+                    &= 14 - (3 \times 4) - 2 \\\\
+                    &= 14 - 12 - 2 \\\\
+                    &= 14 - (12 - 2) \\\\
+                    &= 14 - 10 \\\\
+                    &= 4
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Solution } 5  &= 14 - 3 \times 4 - 2 \\\\
+                    &= 14 - 3 \times (4 - 2) \\\\
+                    &= 14 - 3 \times 2\\\\
+                    &= 14 - (3 \times 2) \\\\
+                    &= 14 - 6 \\\\
+                    &= 8
+\end{aligned}
+$
+
+Let's put them in descending order
+
+$42, \quad 22, \quad 8, \quad 4, \quad 0$
+
+Answer in the middle $= 8$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>0764EC27-58BF-4C34-A78B-8EB71ECB65E3</p>
@@ -265,6 +527,110 @@ The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$\dfrac {31} {120}$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>AF41292A-EA87-4917-AA96-255A70031420</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Make a list of all the whole numbers which leave a remainder of $7$ when divided into $46$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+As per the question,
+
+The whole number leaves a remainder $7$ when divided into $46$.
+
+As such, the number will be a factor of $= 46 - 7 = 39$
+
+Factors of $39 = 1, 3 , 13$ and $39$.
+
+The number has to be greater than $7$ as it leaves a remainder $7$.
+
+Lets check $13$ and $39$ fulfil the criteria.
+
+$= \dfrac {46} {13} =$ Quotient $3$ Remainder $7$
+
+$= \dfrac {46} {39} =$ Quotient $1$ Remainder $7$
+
+The whole numbers which leave a remainder of $7$ when dividied into $46 = 13$ and $39$
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13, 39$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+As per the question,
+
+The whole number leaves a remainder $7$ when divided into $46$.
+
+As such, the number will be a factor of $= 46 - 7 = 39$
+
+Factors of $39 = 1, 3 , 13$ and $39$.
+
+The number has to be greater than $7$ as it leaves a remainder $7$.
+
+Lets check $13$ and $39$ fulfil the criteria.
+
+$= \dfrac {46} {13} =$ Quotient $3$ Remainder $7$
+
+$= \dfrac {46} {39} =$ Quotient $1$ Remainder $7$
+
+The whole numbers which leave a remainder of $7$ when dividied into $46 = 13$ and $39$
+
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13, 39$
 </code></pre>
 </div>
 </div>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-5-g0"
 title: "TopicPaper - Number - 5 - G0"
-date: 2022-07-06 20:21:31
+date: 2022-07-06 22:53:14
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>9463F300-F509-4C89-9D36-52327C3A49BA</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-06 20:21:31
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -36,14 +36,12 @@ If $432.6 \times 7 = 3028.2$, what is $43.26 \times 0.7%$ ?
 <div class='workings'>
 <div class='working'>
 
-As per the given information,
-
 $
 \begin{aligned}
 &= 43.26 \times 0.7 \\\\
 &= \dfrac {43.26 \times 10 \times 0.7 \times 10} {10 \times 10} \\\\
 &= \dfrac {432.6 \times 7} {100} \\\\
-&= \dfrac {3028.2} {100} \\\\
+&= \dfrac {3028.2} {100} \text{ (As per the given information)}\\\\
 &= 30.282
 \end{aligned}
 $
@@ -60,14 +58,12 @@ $30.282$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the given information,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 43.26 \times 0.7 \\\\
 &= \dfrac {43.26 \times 10 \times 0.7 \times 10} {10 \times 10} \\\\
 &= \dfrac {432.6 \times 7} {100} \\\\
-&= \dfrac {3028.2} {100} \\\\
+&= \dfrac {3028.2} {100} \text{ (As per the given information)}\\\\
 &= 30.282
 \end{aligned}
 $
@@ -87,6 +83,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Drop as per the given information text in S4
+
+
+
+* S = Step
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -897,10 +906,13 @@ Subtract $7 + (3 \times 11)$ from $(7 + 3) \times 11$.
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
-&= (7 + 3) \times 11 - (7 + (3 \times 11)) \\\\
-&= 10 \times 11 - (7 + 33) \\\\
+&= ((7 + 3) \times 11) - (7 + (3 \times 11)) \\\\
+&= (10 \times 11) - (7 + 33) \\\\
 &= 110 - 40 \\\\
 &= 70
 \end{aligned}
@@ -918,10 +930,12 @@ $70$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
-&= (7 + 3) \times 11 - (7 + (3 \times 11)) \\\\
-&= 10 \times 11 - (7 + 33) \\\\
+&= ((7 + 3) \times 11) - (7 + (3 \times 11)) \\\\
+&= (10 \times 11) - (7 + 33) \\\\
 &= 110 - 40 \\\\
 &= 70
 \end{aligned}
@@ -1025,7 +1039,7 @@ $3 - 7 - 4 = -8$
 
 $(3 - 7) - 4 = (-4) - 4 = -8$
 
-$3 - (7 - 4) = 3 - (-3) = 3 + 3 = 6$
+$3 - (7 - 4) = 3 - (3) = 0$
 
 $((3 - 7) - 4) = ((-4) - 4) = -8$
 
@@ -1052,7 +1066,7 @@ $3 - (7 - 4)$
 
 $(3 - 7) - 4 = (-4) - 4 = -8$
 
-$3 - (7 - 4) = 3 - (-3) = 3 + 3 = 6$
+$3 - (7 - 4) = 3 - (3) = 0$
 
 $((3 - 7) - 4) = ((-4) - 4) = -8$
 
@@ -1257,6 +1271,7 @@ $
 &= \dfrac {70} {100} \\\\
 &= 0.7
 \end{aligned}
+$
 
 </div>
 </div>
@@ -1280,6 +1295,7 @@ $0.7$
 &= \dfrac {70} {100} \\\\
 &= 0.7
 \end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1376,8 +1392,8 @@ ABBR: Using BIDMAS
 
 $
 \begin{aligned}
-&= (4 + 2) \times 13 - (4 + (2 \times 13)) \\\\
-&= 6 \times 13 - (4 + 26) \\\\
+&= ((4 + 2) \times 13) - (4 + (2 \times 13)) \\\\
+&= (6 \times 13) - (4 + 26) \\\\
 &= 78 - 30 \\\\
 &= 48
 \end{aligned}
@@ -1399,8 +1415,8 @@ $48$
 
 $
 \begin{aligned}
-&= (4 + 2) \times 13 - (4 + (2 \times 13)) \\\\
-&= 6 \times 13 - (4 + 26) \\\\
+&= ((4 + 2) \times 13) - (4 + (2 \times 13)) \\\\
+&= (6 \times 13) - (4 + 26) \\\\
 &= 78 - 30 \\\\
 &= 48
 \end{aligned}
@@ -1853,8 +1869,8 @@ ABBR: Using BIDMAS
 
 $
 \begin{aligned}
-&= (20 + 1) \times 7 - (20 + (1 \times 7)) \\\\
-&= 21 \times 7 - (20 + 7) \\\\
+&= ((20 + 1) \times 7) - (20 + (1 \times 7)) \\\\
+&= (21 \times 7) - (20 + 7) \\\\
 &= 147 - 27 \\\\
 &= 120
 \end{aligned}
@@ -1876,8 +1892,8 @@ $120$
 
 $
 \begin{aligned}
-&= (20 + 1) \times 7 - (20 + (1 \times 7)) \\\\
-&= 21 \times 7 - (20 + 7) \\\\
+&= ((20 + 1) \times 7) - (20 + (1 \times 7)) \\\\
+&= (21 \times 7) - (20 + 7) \\\\
 &= 147 - 27 \\\\
 &= 120
 \end{aligned}
@@ -3115,7 +3131,7 @@ First prime number $= 2$
 
 First even multiple of $7 = 14$
 
-As per the question,
+So,
 
 $
 \begin{aligned}
@@ -3143,7 +3159,7 @@ $12$
 
 First even multiple of $7 = 14$
 
-As per the question,
+So,
 
 $
 \begin{aligned}
@@ -3294,11 +3310,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-DONE a b c d small.
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3673,7 +3684,7 @@ $0.9 \quad  0.17 \quad  0.72 \quad  0.73$
 
 $
 \begin{aligned}
-\text{Largest number}           &= 0.9 \\\\
+\text{Largest number}           &= 0.9  \\\\
 \text{Smallest number}          &= 0.17 \\\\
 \end{aligned}
 $
@@ -3704,7 +3715,7 @@ $0.73$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Largest number}           &= 0.9 \\\\
+\text{Largest number}           &= 0.9  \\\\
 \text{Smallest number}          &= 0.17 \\\\
 \end{aligned}
 $
@@ -3733,11 +3744,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-DONE alingn largest and small number at &=
-</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3779,7 +3785,7 @@ DONE alingn largest and small number at &=
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>FA4124D3-A923-48BA-A3AA-03F5085EC30D</p>
 </div>
@@ -3793,7 +3799,7 @@ DONE alingn largest and small number at &=
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3815,7 +3821,7 @@ What is the smallest four-digit positive integer which has four different digits
 <div class='workings'>
 <div class='working'>
 
-$1023$
+$1021$
 
 </div>
 </div>
@@ -3825,14 +3831,14 @@ $1023$
 </div>
 <div class='answer'>
 
-$1023$
+$1021$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1023$
+<pre class='language-latex'><code class='language-latex'>$1021$
 </code></pre>
 </div>
 </div>
@@ -3844,7 +3850,7 @@ $1023$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1023$
+<pre class='language-latex'><code class='language-latex'>$1021$
 </code></pre>
 </div>
 </div>
@@ -3852,7 +3858,11 @@ $1023$
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-done Answer ? 1023 not 1021
+
+
+
+
+1021 does not have 4 different digits!!
 </div>
 
 <div class='review'>
@@ -4496,11 +4506,6 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-DONE katex error in bleu answer
-</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-7"
 title: "TopicPaper - Areaperimeter - 7"
-date: 2022-07-06 20:21:31
+date: 2022-07-06 22:53:14
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-06 20:21:31
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>F62631D8-8CE1-4B73-8FF2-2E9C5041E712</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-07-06 20:21:31
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2359,7 +2359,7 @@ $
 s                   &= \dfrac {100} {20} \\\\
 s                   &= \dfrac {20 \times 5} {20} \\\\
 s                   &= \dfrac {\cancel {20} \times 5} {\cancel {20}} \\\\
-s                   &= 5 \ \text {cm}
+s                   &= 5 \ \text {cm} \\\\
 \text {Total Area}  &= 10 \times \text {Area of a square} \\\\
                     &= 10 \times s \times s \\\\
                     &= 10 \times 5 \times 5 \\\\
@@ -2396,7 +2396,7 @@ $
 s                   &= \dfrac {100} {20} \\\\
 s                   &= \dfrac {20 \times 5} {20} \\\\
 s                   &= \dfrac {\cancel {20} \times 5} {\cancel {20}} \\\\
-s                   &= 5 \ \text {cm}
+s                   &= 5 \ \text {cm} \\\\
 \text {Total Area}  &= 10 \times \text {Area of a square} \\\\
                     &= 10 \times s \times s \\\\
                     &= 10 \times 5 \times 5 \\\\
@@ -2497,7 +2497,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>3B258700-2792-46BF-9CE4-7A82E84147DE</p>
 </div>
@@ -2508,7 +2508,7 @@ TODOANSWER
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4598,7 +4598,7 @@ Area covered with paint $= 34 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A</p>
 </div>
@@ -4609,7 +4609,7 @@ Area covered with paint $= 34 \ \text{cm}^2$
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4710,6 +4710,43 @@ $
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' id='FORM-6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6D9F0281-C4C1-44F9-B1A4-5DAA59E19A8A'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5423,7 +5460,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>B47F258B-B664-46F7-A478-546D5D3A016B</p>
 </div>
@@ -5434,7 +5471,7 @@ $
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5533,39 +5570,23 @@ How many metres would Andrew travel in $60$ turns of the wheel?
 <div class='workings'>
 <div class='working'>
 
-Let's take the 
-
-Circumference as $c$
-
-Diameter as $d$
-
-$c = 3 \times d$
-
-Let's calculate first the distance travelled with one turn of the wheel.
-
-It's known that 
+As per the question,
 
 $
 \begin{aligned}
-100 Turns &= 150 \ \text {m} \\\\
-1 Turn &= \dfrac {150}{100} \\\\
-       &= \dfrac {3}{2} \\\\
-       &= 1.5 \ \text {m} \\\\
-\end{aligned}
-$
-
-So,
-
-$
-\begin{aligned}
-60 \ \text {Turns} &= 60 \times 1.5 \ \text {m} \\\\
-                   &= 6 \times 15\\\\
-                   &= 90  \ \text {m} \\\\
+100 \ \text {Turns}             &= 150 \ \text {m} \\\\
+1 \ \text {Turn}                &= \dfrac {150} {100} \\\\
+                                &= \dfrac {50 \times 3} {50 \times 2} \\\\
+                                &= \dfrac {\cancel {50} \times 3} {\cancel {50} \times 2} \\\\
+                                &= \dfrac {3} {2} \\\\
+                                &= 1.5 \ \text {m} \\\\
+60 \ \text {Turns}              &= 60 \times 1.5 \\\\
+                                &= 6 \times 15 \\\\
+                                &= 90  \ \text {m} \\\\
 \end{aligned}
 $
 
 Andrew travels $90  \ \text {m}$ in $60$ turns of the wheel.
-
 
 </div>
 </div>
@@ -5579,39 +5600,23 @@ $90  \ \text {m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's take the 
-
-Circumference as $c$
-
-Diameter as $d$
-
-$c = 3 \times d$
-
-Let's calculate first the distance travelled with one turn of the wheel.
-
-It's known that 
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-100 Turns &= 150 \ \text {m} \\\\
-1 Turn &= \dfrac {150}{100} \\\\
-       &= \dfrac {3}{2} \\\\
-       &= 1.5 \ \text {m} \\\\
-\end{aligned}
-$
-
-So,
-
-$
-\begin{aligned}
-60 \ \text {Turns} &= 60 \times 1.5 \ \text {m} \\\\
-                   &= 6 \times 15\\\\
-                   &= 90  \ \text {m} \\\\
+100 \ \text {Turns}             &= 150 \ \text {m} \\\\
+1 \ \text {Turn}                &= \dfrac {150} {100} \\\\
+                                &= \dfrac {50 \times 3} {50 \times 2} \\\\
+                                &= \dfrac {\cancel {50} \times 3} {\cancel {50} \times 2} \\\\
+                                &= \dfrac {3} {2} \\\\
+                                &= 1.5 \ \text {m} \\\\
+60 \ \text {Turns}              &= 60 \times 1.5 \\\\
+                                &= 6 \times 15 \\\\
+                                &= 90  \ \text {m} \\\\
 \end{aligned}
 $
 
 Andrew travels $90  \ \text {m}$ in $60$ turns of the wheel.
-
 </code></pre>
 </div>
 </div>
@@ -5640,23 +5645,18 @@ How many turns of the wheel would it take him to cover $600 \ \text{m}$?
 <div class='workings'>
 <div class='working'>
 
+Let the number of turns $= a$
 
-Distance travelled per turn of the wheel is $1.5 \ \text {m}$, as per the solution above.
-
-Distance travelled = No. of turns $\times$ circumference
-
-No. of turns $\times 1.5 \ \text {m} =$ Distance travelled
-
-Let's take the number of turns as $x$
+As per the question,
 
 $
 \begin{aligned}
-x \times 1.5 &= 600  \\\\
-           x &= 600 \times 1.5 \\\\
-             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
-             &= \dfrac {6000}{15} \\\\
-             &= \dfrac {{\cancel{6000}\raisebox{0.9em}{400}}}{{\cancel{15}\raisebox{-0.9em}{1}}} \\\\
-           x &= 400 \ \text {Turns}\\\\
+a \times 1.5  &= 600  \\\\
+a             &= 600 \times 1.5 \\\\
+a             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
+a             &= \dfrac {15 \times 400} {15} \\\\
+a             &= \dfrac {\cancel {15} \times 400} {\cancel {15}} \\\\
+a             &= 400 \ \text {Turns}\\\\
 \end{aligned}
 $
 
@@ -5675,23 +5675,18 @@ $400$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-Distance travelled per turn of the wheel is $1.5 \ \text {m}$, as per the solution above.
+<pre class='language-latex'><code class='language-latex'>Let the number of turns $= a$
 
-Distance travelled = No. of turns $\times$ circumference
-
-No. of turns $\times 1.5 \ \text {m} =$ Distance travelled
-
-Let's take the number of turns as $x$
+As per the question,
 
 $
 \begin{aligned}
-x \times 1.5 &= 600  \\\\
-           x &= 600 \times 1.5 \\\\
-             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
-             &= \dfrac {6000}{15} \\\\
-             &= \dfrac {{\cancel{6000}\raisebox{0.9em}{400}}}{{\cancel{15}\raisebox{-0.9em}{1}}} \\\\
-           x &= 400 \ \text {Turns}\\\\
+a \times 1.5  &= 600  \\\\
+a             &= 600 \times 1.5 \\\\
+a             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
+a             &= \dfrac {15 \times 400} {15} \\\\
+a             &= \dfrac {\cancel {15} \times 400} {\cancel {15}} \\\\
+a             &= 400 \ \text {Turns}\\\\
 \end{aligned}
 $
 

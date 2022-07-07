@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-pr"
 title: "TopicPaper - Fraction - 2 - PR"
-date: 2022-07-06 22:53:14
+date: 2022-07-07 11:31:29
 ---
 <ul class='question default-decimal'>
 <li>
@@ -616,7 +616,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>93596AA4-0BF2-47C9-9E88-D4F6D681CC5E</p>
 </div>
@@ -630,7 +630,7 @@ $
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -726,6 +726,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+first katex : 
+
+a capital in \"area of whole figure\"
+
+second katex :
+
+Replace \"fraction\" with \"Fraction shaded\" : f capital
+
+s capital in \"shaded region\" , a capital in \"area of whole figure\"
+
+Note : Every First word first character must be in capital
+</div>
 
 <div class='review'>
 <ul class='review'>

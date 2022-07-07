@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-5"
 title: "TopicPaper - Number - 5"
-date: 2022-07-06 22:53:14
+date: 2022-07-07 11:31:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-06 22:53:14
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9463F300-F509-4C89-9D36-52327C3A49BA</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-06 22:53:14
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -51,7 +51,6 @@ $
 &= 43.26 \times 0.7 \\\\
 &= \dfrac {43.26 \times 10 \times 0.7 \times 10} {10 \times 10} \\\\
 &= \dfrac {432.6 \times 7} {100} \\\\
-&= \dfrac {3028.2} {100} \text{ (As per the given information)}\\\\
 &= 30.282
 \end{aligned}
 $
@@ -73,7 +72,6 @@ $30.282$
 &= 43.26 \times 0.7 \\\\
 &= \dfrac {43.26 \times 10 \times 0.7 \times 10} {10 \times 10} \\\\
 &= \dfrac {432.6 \times 7} {100} \\\\
-&= \dfrac {3028.2} {100} \text{ (As per the given information)}\\\\
 &= 30.282
 \end{aligned}
 $
@@ -147,7 +145,7 @@ Drop as per the given information text in S4
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8DFE2F8B-77F8-41DA-966A-76830F037639</p>
 </div>
@@ -161,7 +159,7 @@ Drop as per the given information text in S4
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -274,7 +272,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D9649617-3FD7-4796-B3CC-D5D03A15DD17</p>
 </div>
@@ -288,7 +286,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -396,21 +394,32 @@ Round the number $1609.344$ to the nearest ten.
 <div class='workings'>
 <div class='working'>
 
-$1610.344$
+$
+\begin {aligned}
+&= 1609.344\\\\
+&\approx 1610 \text { (nearest ten)}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1610.344$
+
+$1610$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1610.344$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= 1609.344\\\\
+&\approx 1610 \text { (nearest ten)}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -422,7 +431,8 @@ $1610.344$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1610.344$
+<pre class='language-latex'><code class='language-latex'>
+$1610$
 </code></pre>
 </div>
 </div>
@@ -471,7 +481,7 @@ $1610.344$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>975EAC9C-F938-4155-8AE1-73E10BA7A384</p>
 </div>
@@ -485,7 +495,7 @@ $1610.344$
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -607,7 +617,6 @@ $
 &= \dfrac {25 \times 4} {2 \times 4} \\\\
 &= \dfrac {25 \times \cancel {4}} {2 \times \cancel {4}} \\\\
 &= \dfrac {25} {2} \\\\
-&= 12 \dfrac {1} {2} \\\\
 &= 12.5 \%
 \end{aligned}
 $
@@ -631,7 +640,6 @@ $12.5 \%$
 &= \dfrac {25 \times 4} {2 \times 4} \\\\
 &= \dfrac {25 \times \cancel {4}} {2 \times \cancel {4}} \\\\
 &= \dfrac {25} {2} \\\\
-&= 12 \dfrac {1} {2} \\\\
 &= 12.5 \%
 \end{aligned}
 $
@@ -1142,7 +1150,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>94575FCE-B695-49E6-BE39-C1569C3879FA</p>
 </div>
@@ -1156,7 +1164,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1214,7 +1222,12 @@ Round $1517$ to the nearest $100$.
 <div class='workings'>
 <div class='working'>
 
-$1500$
+$
+\begin {aligned}
+&= 1517\\\\
+&\approx 1500 \text { (nearest 100)}
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1228,7 +1241,12 @@ $1500$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1500$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= 1517\\\\
+&\approx 1500 \text { (nearest 100)}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1257,7 +1275,12 @@ Round $8885$ to the nearest $10$.
 <div class='workings'>
 <div class='working'>
 
-$8890$
+$
+\begin {aligned}
+&= 8885\\\\
+&\approx 8890 \text { (nearest ten)}
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1271,7 +1294,12 @@ $8890$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$8890$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= 8885\\\\
+&\approx 8890 \text { (nearest ten)}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1332,7 +1360,7 @@ $8890$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1EE4E87F-7843-412F-BFCA-8AFEE7B27AB2</p>
 </div>
@@ -1346,7 +1374,7 @@ $8890$
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1454,7 +1482,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F40CA335-0433-490A-BE1D-F7B5BDE3FC1E</p>
 </div>
@@ -1468,7 +1496,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1589,7 +1617,7 @@ Therefore,
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>03369C8B-3E90-4086-B6DA-720E32ACEC6B</p>
 </div>
@@ -1603,7 +1631,7 @@ Therefore,
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1813,7 +1841,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A6D2CE34-F3DD-4A6E-87DF-A49CAD0D533A</p>
 </div>
@@ -1827,7 +1855,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1935,7 +1963,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>524E7580-2554-4E70-A60C-098536BE5BC0</p>
 </div>
@@ -1949,7 +1977,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2010,9 +2038,10 @@ Calculate $0.75 + \dfrac{2}{5} + \dfrac{17}{100}$, leaving your answer as a deci
 $
 \begin{aligned}
 &= 0.75 + \dfrac {2} {5} + \dfrac{17} {100} \\\\
-&= 0.75 + \dfrac {2 \times 2} {5 \times 2} + \dfrac {17} {100} \\\\
-&= 0.75 + \dfrac {4} {10} + \dfrac {17} {100} \\\\
-&= 0.75 + 0.4 + 0.17 \\\\
+&= \dfrac{75} {100} + \dfrac {2 \times 20} {5 \times 20} + \dfrac {17} {100} \\\\
+&= \dfrac{75} {100} + \dfrac {40} {100} + \dfrac {17} {100} \\\\
+&= \dfrac{75 + 40 + 17}{100} \\\\
+&= \dfrac{132} {100} \\\\
 &= 1.32
 \end{aligned}
 $
@@ -2032,9 +2061,10 @@ $1.32$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 0.75 + \dfrac {2} {5} + \dfrac{17} {100} \\\\
-&= 0.75 + \dfrac {2 \times 2} {5 \times 2} + \dfrac {17} {100} \\\\
-&= 0.75 + \dfrac {4} {10} + \dfrac {17} {100} \\\\
-&= 0.75 + 0.4 + 0.17 \\\\
+&= \dfrac{75} {100} + \dfrac {2 \times 20} {5 \times 20} + \dfrac {17} {100} \\\\
+&= \dfrac{75} {100} + \dfrac {40} {100} + \dfrac {17} {100} \\\\
+&= \dfrac{75 + 40 + 17}{100} \\\\
+&= \dfrac{132} {100} \\\\
 &= 1.32
 \end{aligned}
 $
@@ -2161,7 +2191,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6FD6170F-6E07-464B-90D3-3A75A4035DD4</p>
 </div>
@@ -2175,7 +2205,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2290,7 +2320,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B4B7A00B-273C-468F-A81C-B5CBD794AFE8</p>
 </div>
@@ -2304,7 +2334,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2717,7 +2747,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EEA0BC82-9B14-4E6B-876F-32537F023D2A</p>
 </div>
@@ -2731,7 +2761,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2792,9 +2822,10 @@ Calculate $0.35 + \dfrac{4}{5} + \dfrac{37}{100}$, leaving your answer as a deci
 $
 \begin{aligned}
 &= 0.35 + \dfrac {4} {5} + \dfrac {37} {100} \\\\
-&= 0.35 + \dfrac {4 \times 2} {5 \times 2} + \dfrac {37} {100} \\\\
-&= 0.35 + \dfrac {8} {10} + \dfrac {37} {100} \\\\
-&= 0.35 + 0.8 + 0.37 \\\\
+&= \dfrac{35}{100} + \dfrac {4 \times 20} {5 \times 20} + \dfrac {37} {100} \\\\
+&= \dfrac{35}{100} + \dfrac {80} {100} + \dfrac {37} {100} \\\\
+&= \dfrac{35 + 80 + 37}{100} \\\\
+&= \dfrac{152}{100} \\\\
 &= 1.52
 \end{aligned}
 $
@@ -2814,9 +2845,10 @@ $1.52$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 0.35 + \dfrac {4} {5} + \dfrac {37} {100} \\\\
-&= 0.35 + \dfrac {4 \times 2} {5 \times 2} + \dfrac {37} {100} \\\\
-&= 0.35 + \dfrac {8} {10} + \dfrac {37} {100} \\\\
-&= 0.35 + 0.8 + 0.37 \\\\
+&= \dfrac{35}{100} + \dfrac {4 \times 20} {5 \times 20} + \dfrac {37} {100} \\\\
+&= \dfrac{35}{100} + \dfrac {80} {100} + \dfrac {37} {100} \\\\
+&= \dfrac{35 + 80 + 37}{100} \\\\
+&= \dfrac{152}{100} \\\\
 &= 1.52
 \end{aligned}
 $
@@ -3167,7 +3199,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>112E261B-4D99-4504-9B6C-5D5677C8F0D7</p>
 </div>
@@ -3181,7 +3213,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3753,7 +3785,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3E727517-2746-480B-A62D-71D4D1A9EA47</p>
 </div>
@@ -3767,7 +3799,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5871,7 +5903,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FA4124D3-A923-48BA-A3AA-03F5085EC30D</p>
 </div>
@@ -5885,7 +5917,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5907,36 +5939,36 @@ What is the smallest four-digit positive integer which has four different digits
 <div class='workings'>
 <div class='working'>
 
-$1021$
+$1023$
 
 </div>
 </div>
 <div class='answers'>
 <div class='option'>
-<p>B</p>
+<p>D</p>
 </div>
 <div class='answer'>
 
-$1021$
+1023
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1021$
+<pre class='language-latex'><code class='language-latex'>$1023$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>B</code></pre>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1021$
+<pre class='language-latex'><code class='language-latex'>1023
 </code></pre>
 </div>
 </div>

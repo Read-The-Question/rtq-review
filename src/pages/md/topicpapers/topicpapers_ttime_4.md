@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-07-06 22:53:14
+date: 2022-07-07 11:31:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -150,7 +150,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>879DB97C-9455-4A27-9352-B2A48176B546</p>
 </div>
@@ -161,7 +161,7 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -250,36 +250,21 @@ What time does the $07{:}55$ from Birmingham arrive in York?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+ $10{:}53$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$10{:}53$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'> $10{:}53$
 </code></pre>
 </div>
 </div>
@@ -291,17 +276,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$10{:}53$
 </code></pre>
 </div>
 </div>
@@ -318,36 +293,31 @@ Mrs Jones arrives at Derby station at $11{:}10$. How long does she have to wait 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Waiting Time}           &= 11{:}44 - 11{:}10 \\\\
+                              &= 34  \ \text{minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$34  \ \text{minutes}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Waiting Time}           &= 11{:}44 - 11{:}10 \\\\
+                              &= 34  \ \text{minutes}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -359,17 +329,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$34  \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -386,36 +346,39 @@ How long does the $11{:}44$ from Birmingham take to get to York?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Time taken}           &= 14{:}15 - 11{:}44 \\\\
+                            &=  02{:}31 \\\\
+                            &= 2 \ \text{hour} \ 31 \ \text{minutes}   \\\\
+                            &= 2 \times 60 \ \text{minutes} + 31  \ \text{minutes} \\\\
+                            &= 120 + 31  \\\\
+                            &= 151  \ \text{minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$151  \ \text{minutes}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Time taken}           &= 14{:}15 - 11{:}44 \\\\
+                            &=  02{:}31 \\\\
+                            &= 2 \ \text{hour} \ 31 \ \text{minutes}   \\\\
+                            &= 2 \times 60 \ \text{minutes} + 31  \ \text{minutes} \\\\
+                            &= 120 + 31  \\\\
+                            &= 151  \ \text{minutes}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -427,17 +390,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$151  \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -446,6 +399,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='879DB97C-9455-4A27-9352-B2A48176B546' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='879DB97C-9455-4A27-9352-B2A48176B546' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='879DB97C-9455-4A27-9352-B2A48176B546' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='879DB97C-9455-4A27-9352-B2A48176B546' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='879DB97C-9455-4A27-9352-B2A48176B546' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='879DB97C-9455-4A27-9352-B2A48176B546' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='879DB97C-9455-4A27-9352-B2A48176B546' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='879DB97C-9455-4A27-9352-B2A48176B546' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='879DB97C-9455-4A27-9352-B2A48176B546' id='FORM-879DB97C-9455-4A27-9352-B2A48176B546' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-879DB97C-9455-4A27-9352-B2A48176B546'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2763,36 +2753,47 @@ Plan a schedule for Tom's visit to the theme park so he can do all $4$ activitie
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+&   \text{Activity}   &   \text{Start time}   &   \text{ Finish  time} \\
+&   \text{Penguin feeding}    &   10{:}45   &   11{:}20  \\
+&   \text{Jeep safari}     &   12{:}00   &   12{:}45 \\
+&   \text{Steam train ride}     &   14{:}00   &   14{:}25 \\
+&   \text{Dolphin show}     &   13{:}00   &   13{:}40 
+\end{array}
+$
 
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$
+\begin{array}{cccccccccccccc}
+&   \text{Activity}   &   \text{Start time}   &   \text{ Finish  time} \\
+&   \text{Penguin feeding}    &   10{:}45   &   11{:}20  \\
+&   \text{Jeep safari}     &   12{:}00   &   12{:}45 \\
+&   \text{Steam train ride}     &   14{:}00   &   14{:}25 \\
+&   \text{Dolphin show}     &   13{:}00   &   13{:}40 
+\end{array}
+$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+&   \text{Activity}   &   \text{Start time}   &   \text{ Finish  time} \\
+&   \text{Penguin feeding}    &   10{:}45   &   11{:}20  \\
+&   \text{Jeep safari}     &   12{:}00   &   12{:}45 \\
+&   \text{Steam train ride}     &   14{:}00   &   14{:}25 \\
+&   \text{Dolphin show}     &   13{:}00   &   13{:}40 
+\end{array}
+$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -2804,17 +2805,15 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+&   \text{Activity}   &   \text{Start time}   &   \text{ Finish  time} \\
+&   \text{Penguin feeding}    &   10{:}45   &   11{:}20  \\
+&   \text{Jeep safari}     &   12{:}00   &   12{:}45 \\
+&   \text{Steam train ride}     &   14{:}00   &   14{:}25 \\
+&   \text{Dolphin show}     &   13{:}00   &   13{:}40 
+\end{array}
+$
 </code></pre>
 </div>
 </div>

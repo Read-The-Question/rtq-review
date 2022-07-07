@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-g0"
 title: "TopicPaper - Number - 8 - G0"
-date: 2022-07-06 22:53:14
+date: 2022-07-07 11:31:29
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>180F757E-01D0-440D-A6AD-2B7A83661632</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-06 22:53:14
 <p>rag_rb_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -82,8 +82,8 @@ $
 &= 20 \% \ \text {of} \ \pounds 840 \\\\
 &= \dfrac {20} {100} \times 840 \\\\
 &= \dfrac {20 \times 840} {100} \\\\
-&= \dfrac {168 \times 100} {100} \\\\
-&= \dfrac {168 \times \cancel {100}} {\cancel {100}} \\\\
+&= \dfrac {2 \cancel{0} \times 84 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 2 \times 84  \\\\
 &= \pounds 168
 \end{aligned}
 $
@@ -93,7 +93,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$168$
+$\pounds 168$
 
 </div>
 </div>
@@ -105,8 +105,8 @@ $168$
 &= 20 \% \ \text {of} \ \pounds 840 \\\\
 &= \dfrac {20} {100} \times 840 \\\\
 &= \dfrac {20 \times 840} {100} \\\\
-&= \dfrac {168 \times 100} {100} \\\\
-&= \dfrac {168 \times \cancel {100}} {\cancel {100}} \\\\
+&= \dfrac {2 \cancel{0} \times 84 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 2 \times 84  \\\\
 &= \pounds 168
 \end{aligned}
 $
@@ -121,7 +121,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$168$
+<pre class='language-latex'><code class='language-latex'>$\pounds 168$
 </code></pre>
 </div>
 </div>
@@ -142,11 +142,10 @@ $
 \begin{aligned}
 &= 12 \ \dfrac {1} {2} \% \ \text {of} \ 6.80 \ \text{meters} \\\\
 &= \dfrac {25} {2 \times 100} \times 6.8 \times 100 \ \text{centimeters} \\\\
-&= \dfrac {25} {2 \times 100} \times \dfrac {68} {10} \times 100 \\\\
-&= \dfrac {25 \times 68 \times 100} {2 \times 100 \times 10} \\\\
-&= \dfrac {5 \times 5 \times 2 \times 2 \times 17 \times 100} {2 \times 100 \times 5 \times 2} \\\\
-&= \dfrac {\cancel {5} \times 5 \times \cancel {2} \times \cancel {2} \times 17 \times \cancel {100}} {\cancel {2} \times \cancel {100} \times \cancel {5} \times \cancel {2}} \\\\
-&= 17 \times 5 \\\\
+&= \dfrac {25} {2 \times 100} \times {680}  \\\\
+&= \dfrac {25 \times 680} {2 \times 100} \\\\
+&= \dfrac {25 \times 2 \times 4 \times 85} {2 \times 4 \times 25} \\\\
+&= \dfrac {\cancel{25} \times \cancel{2} \times \cancel{4} \times 85} {\cancel{2} \times \cancel{4} \times \cancel{25}} \\\\
 &= 85 \ \text{centimeters}
 \end{aligned}
 $
@@ -167,11 +166,10 @@ $85 \ \text{centimeters}$
 \begin{aligned}
 &= 12 \ \dfrac {1} {2} \% \ \text {of} \ 6.80 \ \text{meters} \\\\
 &= \dfrac {25} {2 \times 100} \times 6.8 \times 100 \ \text{centimeters} \\\\
-&= \dfrac {25} {2 \times 100} \times \dfrac {68} {10} \times 100 \\\\
-&= \dfrac {25 \times 68 \times 100} {2 \times 100 \times 10} \\\\
-&= \dfrac {5 \times 5 \times 2 \times 2 \times 17 \times 100} {2 \times 100 \times 5 \times 2} \\\\
-&= \dfrac {\cancel {5} \times 5 \times \cancel {2} \times \cancel {2} \times 17 \times \cancel {100}} {\cancel {2} \times \cancel {100} \times \cancel {5} \times \cancel {2}} \\\\
-&= 17 \times 5 \\\\
+&= \dfrac {25} {2 \times 100} \times {680}  \\\\
+&= \dfrac {25 \times 680} {2 \times 100} \\\\
+&= \dfrac {25 \times 2 \times 4 \times 85} {2 \times 4 \times 25} \\\\
+&= \dfrac {\cancel{25} \times \cancel{2} \times \cancel{4} \times 85} {\cancel{2} \times \cancel{4} \times \cancel{25}} \\\\
 &= 85 \ \text{centimeters}
 \end{aligned}
 $
@@ -235,7 +233,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>04EBBA58-6647-40C9-8E46-0C41DA8751EB</p>
 </div>
@@ -249,7 +247,7 @@ $
 <p>rag_rb_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -313,21 +311,21 @@ square numbers
 <div class='workings'>
 <div class='working'>
 
-$9, 64$
+$9, \ \ 64$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$9, 64$
+$9, \ \ 64$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$9, 64$
+<pre class='language-latex'><code class='language-latex'>$9, \ \ 64$
 </code></pre>
 </div>
 </div>
@@ -339,7 +337,7 @@ $9, 64$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9, 64$
+<pre class='language-latex'><code class='language-latex'>$9, \ \ 64$
 </code></pre>
 </div>
 </div>
@@ -356,21 +354,21 @@ cube numbers
 <div class='workings'>
 <div class='working'>
 
-$8, 64$
+$8, \ \ 64$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8, 64$
+$8, \ \ 64$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$8, 64$
+<pre class='language-latex'><code class='language-latex'>$8, \ \ 64$
 </code></pre>
 </div>
 </div>
@@ -382,7 +380,7 @@ $8, 64$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8, 64$
+<pre class='language-latex'><code class='language-latex'>$8, \ \ 64$
 </code></pre>
 </div>
 </div>
@@ -399,21 +397,21 @@ prime numbers
 <div class='workings'>
 <div class='working'>
 
-$3, 41$
+$3, \ \ 41$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3, 41$
+$3, \ \ 41$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$3, 41$
+<pre class='language-latex'><code class='language-latex'>$3, \ \ 41$
 </code></pre>
 </div>
 </div>
@@ -425,7 +423,7 @@ $3, 41$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3, 41$
+<pre class='language-latex'><code class='language-latex'>$3, \ \ 41$
 </code></pre>
 </div>
 </div>
@@ -442,21 +440,21 @@ factors of $56$
 <div class='workings'>
 <div class='working'>
 
-$8, 28$
+$8, \ \ 28$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8, 28$
+$8, \ \ 28$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$8, 28$
+<pre class='language-latex'><code class='language-latex'>$8, \ \ 28$
 </code></pre>
 </div>
 </div>
@@ -468,7 +466,7 @@ $8, 28$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8, 28$
+<pre class='language-latex'><code class='language-latex'>$8, \ \ 28$
 </code></pre>
 </div>
 </div>

@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-4-g0-prpcr"
-title: "TopicPaper - Number - 4 - G0 - PRPCR"
-date: 2022-07-06 22:53:14
+slug: "ragpapers/topicpapers-tnumber-4-g0-prcc"
+title: "TopicPaper - Number - 4 - G0 - PRCC"
+date: 2022-07-07 11:31:29
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>861A9F4A-8283-4F3D-9CFD-C26459175E5B</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-06 22:53:14
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -79,13 +79,11 @@ Dean is using each card once to create two digit numbers (for example $37$ or $5
 <div class='workings'>
 <div class='working'>
 
-Largest number that Dean can create $= 7531$
-
-Smallest number that Dean can create $= 1357$
-
 $
 \begin{aligned}
-\text {Difference}  &= 7531 - 1357 \\\\
+\text{Smallest}     &= 1357 \\\\
+\text{Largest}      &= 7531 \\\\
+\text{Difference}   &= 7531-1357 \\\\
                     &= 6174
 \end{aligned}
 $
@@ -102,13 +100,11 @@ $6174$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Largest number that Dean can create $= 7531$
-
-Smallest number that Dean can create $= 1357$
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Difference}  &= 7531 - 1357 \\\\
+\text{Smallest}     &= 1357 \\\\
+\text{Largest}      &= 7531 \\\\
+\text{Difference}   &= 7531-1357 \\\\
                     &= 6174
 \end{aligned}
 $
@@ -141,9 +137,16 @@ How **many** numbers can he make that are bigger than $7000$?
 <div class='workings'>
 <div class='working'>
 
-$7135, 7153, 7315, 7351, 7513, 7531$
+The possible arrangements are:
 
-Dean can create six four digit numbers that are bigger than $7000$.
+- $7135$
+- $7153$
+- $7315$
+- $7351$
+- $7513$
+- $7531$
+
+Count $= 6$
 
 </div>
 </div>
@@ -157,9 +160,16 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$7135, 7153, 7315, 7351, 7513, 7531$
+<pre class='language-latex'><code class='language-latex'>The possible arrangements are:
 
-Dean can create six four digit numbers that are bigger than $7000$.
+- $7135$
+- $7153$
+- $7315$
+- $7351$
+- $7513$
+- $7531$
+
+Count $= 6$
 </code></pre>
 </div>
 </div>
@@ -233,7 +243,7 @@ b: Do as C6358DE6-D734-48A4-BC67-FD56196E1814, do not write long descriptive sen
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>46EC5B2B-6A2C-4EE1-B89E-6B67E8DD2594</p>
 </div>
@@ -247,7 +257,7 @@ b: Do as C6358DE6-D734-48A4-BC67-FD56196E1814, do not write long descriptive sen
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -361,15 +371,11 @@ Calculate $13 \times 13$.
 <div class='working'>
 
 $
-\begin{array}{ccccc}
-       &    1   &   3 \\
-\times &    1   &   3 \\
-\hline
-       &    3   &   9 \\
-1      &    3   &   0 \\
-\hline
-1      &    6   &   9
-\end{array}
+\begin{aligned}
+&= 13 ^ 2 \\\\
+&= 13 \times 13 \\\\
+&= 169
+\end{aligned}
 $
 
 </div>
@@ -385,15 +391,11 @@ $169$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{array}{ccccc}
-       &    1   &   3 \\
-\times &    1   &   3 \\
-\hline
-       &    3   &   9 \\
-1      &    3   &   0 \\
-\hline
-1      &    6   &   9
-\end{array}
+\begin{aligned}
+&= 13 ^ 2 \\\\
+&= 13 \times 13 \\\\
+&= 169
+\end{aligned}
 $
 </code></pre>
 </div>
@@ -423,7 +425,14 @@ How many square numbers are there between $101$ and $200$?
 <div class='workings'>
 <div class='working'>
 
-$121, 144, 169, 196$
+Let's find all square numbers between $101$ and $200$
+
+
+- $121$
+- $144$
+- $169$
+- $196$
+
 
 There are $4$ square numbers between $101$ and $200$.
 
@@ -439,7 +448,14 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$121, 144, 169, 196$
+<pre class='language-latex'><code class='language-latex'>Let's find all square numbers between $101$ and $200$
+
+
+- $121$
+- $144$
+- $169$
+- $196$
+
 
 There are $4$ square numbers between $101$ and $200$.
 </code></pre>
@@ -511,7 +527,7 @@ b: Do as C6358DE6-D734-48A4-BC67-FD56196E1814, do not write long descriptive sen
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>20FCDF7C-160A-422B-8553-7B721DA71113</p>
 </div>
@@ -525,7 +541,7 @@ b: Do as C6358DE6-D734-48A4-BC67-FD56196E1814, do not write long descriptive sen
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -551,23 +567,43 @@ $\boxed{\phantom{1}} \ ^2 - \boxed{\phantom{1}} \ ^2 = 33$
 <div class='workings'>
 <div class='working'>
 
-$\maroonC
- {7 ^ 2} - \maroonC
- {4 ^ 2} = 33$
+$7 ^ 2 - 4 ^ 2 = 33$
+
+
+Let's verify,
+
+$
+\begin{aligned}
+&= (7 \times 7 ) - (4 \times 4 ) \\\\
+&= 49-16\\\\
+&= 33
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$7 ^2 , 4 ^ 2$
+$7  , 4 $
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\rtq_katex_color_info {7 ^ 2} - \rtq_katex_color_info {4 ^ 2} = 33$
+<pre class='language-latex'><code class='language-latex'>$7 ^ 2 - 4 ^ 2 = 33$
+
+
+Let's verify,
+
+$
+\begin{aligned}
+&= (7 \times 7 ) - (4 \times 4 ) \\\\
+&= 49-16\\\\
+&= 33
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -579,7 +615,7 @@ $7 ^2 , 4 ^ 2$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7 ^2 , 4 ^ 2$
+<pre class='language-latex'><code class='language-latex'>$7  , 4 $
 </code></pre>
 </div>
 </div>
@@ -638,7 +674,7 @@ Write the answer without colours and then show working.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>100FBB17-3D32-4BB8-B59C-E8F8F8AC0D0E</p>
 </div>
@@ -652,7 +688,7 @@ Write the answer without colours and then show working.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -668,6 +704,9 @@ What is $4 \times (6.2 + 1.05)$?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -689,7 +728,9 @@ $29$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &= 4 \times (6.2 + 1.05)  \\\\
 &= 4 \times 7.25 \\\\
@@ -762,7 +803,7 @@ Write using bidmas like F540568C-C61B-4E8A-BFF9-10AF9AC433D7, use abbreviation l
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>437B376F-722B-4F93-B234-58C2F593FE92</p>
 </div>
@@ -776,7 +817,7 @@ Write using bidmas like F540568C-C61B-4E8A-BFF9-10AF9AC433D7, use abbreviation l
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -793,9 +834,6 @@ What fraction of an hour is $12 \ \text{minutes}$?
 <div class='workings'>
 <div class='working'>
 
-$1 \text{hour} = 60 \ \text{minutes}$
-
-Using that we get,
 
 $
 \begin{aligned} 
@@ -818,10 +856,7 @@ $\dfrac {1} {5}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1 \text{hour} = 60 \ \text{minutes}$
-
-Using that we get,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned} 
 \text {Fraction}    &= \dfrac {12} {60} \\\\
@@ -906,7 +941,7 @@ Using that we get,
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FACB2640-E039-4BB9-9697-8C4685D190F2</p>
 </div>
@@ -920,7 +955,7 @@ Using that we get,
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -936,6 +971,9 @@ What is $8 \times (4.1 + 1.07)$?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -957,7 +995,9 @@ $41.36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &= 8 \times (4.1 + 1.07)  \\\\
 &= 8 \times 5.17 \\\\
@@ -1030,7 +1070,7 @@ Write using bidmas (abbrev)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B1CD7CC3-1C82-46B8-9F60-E03B0C68A78A</p>
 </div>
@@ -1044,7 +1084,7 @@ Write using bidmas (abbrev)
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1060,6 +1100,9 @@ What is $4 \times (43.4 + 1.02)$?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+
 
 $
 \begin{aligned}
@@ -1081,7 +1124,9 @@ $177.68$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= 4 \times (43.4 + 1.02)  \\\\
 &= 4 \times 44.42 \\\\
@@ -1154,7 +1199,7 @@ write using bidmas
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3452FC7B-6354-498B-9BE2-BF8B78CD5FC9</p>
 </div>
@@ -1168,7 +1213,7 @@ write using bidmas
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1188,9 +1233,9 @@ What fraction of a day is $15 \ \text{minutes}$?
 $
 \begin{aligned} 
 \text {Fraction}    &= \dfrac {15} {60 \times 24}\\\\
-                    &= \dfrac {15} {1440} \\\\
-                    &= \dfrac {15} {15 \times 96} \\\\
-                    &= \dfrac {\cancel {15} } {\cancel {15} \times 96} \\\\
+                    &= \dfrac {15} {15 \times 4 \times 24} \\\\
+                    &= \dfrac {\cancel {15} } {\cancel {15} \times 4 \times 24} \\\\
+                    &= \dfrac {1} {4 \times 24}\\\\
                     &= \dfrac {1} {96}
 \end{aligned}
 $
@@ -1210,9 +1255,9 @@ $\dfrac {1} {96}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned} 
 \text {Fraction}    &= \dfrac {15} {60 \times 24}\\\\
-                    &= \dfrac {15} {1440} \\\\
-                    &= \dfrac {15} {15 \times 96} \\\\
-                    &= \dfrac {\cancel {15} } {\cancel {15} \times 96} \\\\
+                    &= \dfrac {15} {15 \times 4 \times 24} \\\\
+                    &= \dfrac {\cancel {15} } {\cancel {15} \times 4 \times 24} \\\\
+                    &= \dfrac {1} {4 \times 24}\\\\
                     &= \dfrac {1} {96}
 \end{aligned}
 $
@@ -1300,7 +1345,113 @@ S2 S3 s4 above are wrong, change them
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>362B2010-9590-466F-8D23-A4DCD45A3669</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:9</p>
+</div>
+<div class='rag'>
+<p>Ayushi Mishra</p>
+</div>
+<div class='rag'>
+<p>rag_am_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What does the $2$ in the number $3567.23$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$0.2$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0.2$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='362B2010-9590-466F-8D23-A4DCD45A3669' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='362B2010-9590-466F-8D23-A4DCD45A3669' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='362B2010-9590-466F-8D23-A4DCD45A3669' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='362B2010-9590-466F-8D23-A4DCD45A3669' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='362B2010-9590-466F-8D23-A4DCD45A3669' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='362B2010-9590-466F-8D23-A4DCD45A3669' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='362B2010-9590-466F-8D23-A4DCD45A3669' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='362B2010-9590-466F-8D23-A4DCD45A3669' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='362B2010-9590-466F-8D23-A4DCD45A3669' id='FORM-362B2010-9590-466F-8D23-A4DCD45A3669' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-362B2010-9590-466F-8D23-A4DCD45A3669'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0971C220-5039-4CEF-8DED-F3662CB31C38</p>
 </div>
@@ -1314,7 +1465,7 @@ S2 S3 s4 above are wrong, change them
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1330,6 +1481,9 @@ What is $6 \times (4.1 + 1.07)$?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+
 
 $
 \begin{aligned}
@@ -1351,7 +1505,9 @@ $31.02$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= 6 \times (4.1 + 1.07)  \\\\
 &= 6 \times 5.17 \\\\
@@ -1424,7 +1580,7 @@ write using bidmas (abbrev)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1</p>
 </div>
@@ -1438,7 +1594,7 @@ write using bidmas (abbrev)
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1454,6 +1610,9 @@ What is $36 \div (9 + 3)$?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+
 
 $
 \begin{aligned}
@@ -1477,7 +1636,9 @@ $3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= 36 \div (9 + 3) \\\\
 &= \dfrac {36} {12} \\\\
@@ -1552,7 +1713,7 @@ write using bidmas
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7CFA18A8-41D9-48D0-8E45-D13601860CE5</p>
 </div>
@@ -1566,7 +1727,7 @@ write using bidmas
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1594,21 +1755,21 @@ Select one statement which is true for ALL three numbers
 <div class='workings'>
 <div class='working'>
 
-$\text {d}$
+D
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {d}$
+D
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {d}$
+<pre class='language-latex'><code class='language-latex'>D
 </code></pre>
 </div>
 </div>
@@ -1620,7 +1781,7 @@ $\text {d}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {d}$
+<pre class='language-latex'><code class='language-latex'>D
 </code></pre>
 </div>
 </div>
@@ -1677,7 +1838,7 @@ write d without katex ie D instead of \text{D}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EF5DCF10-9858-4EE4-8CC9-C59139A05556</p>
 </div>
@@ -1691,7 +1852,7 @@ write d without katex ie D instead of \text{D}
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1711,7 +1872,12 @@ What is $76.5974$ correct to $2$ decimal places?
 <div class='workings'>
 <div class='working'>
 
-$76.60$
+$
+\begin {aligned}
+&= 76.5974\\\\
+&\approx 76.60 \text { (for 2 decimal places)}
+\end {aligned}
+$
 
 </div>
 </div>
@@ -1725,7 +1891,12 @@ $76.60$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$76.60$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= 76.5974\\\\
+&\approx 76.60 \text { (for 2 decimal places)}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>

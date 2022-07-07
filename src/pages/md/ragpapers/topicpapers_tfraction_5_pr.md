@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-pr"
 title: "TopicPaper - Fraction - 5 - PR"
-date: 2022-07-07 11:31:29
+date: 2022-07-07 16:10:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -700,7 +700,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>2094CB63-4A8B-4A7D-935F-06B130312908</p>
 </div>
@@ -714,7 +714,7 @@ $
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -859,6 +859,29 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+add section.answers section in primary question section 
+
+and replace TODOANSWER and TODOWORKING with %empty%
+
+for this refer : 0BC6DC5C-B1B3-4EBE-AC5C-839914A2772E
+
+
+
+part (a): add L.H.S. : \"\text {Fraction}\"
+
+R.H.S : p and t capital in \"purple\" and \"total\"
+
+
+
+same for part (b)
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1793,7 +1816,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0DA91A78-9D3B-401D-88F2-BF5050E8FEF5</p>
 </div>
@@ -1807,7 +1830,7 @@ $
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1873,6 +1896,17 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+add a step 1: 3/8 of 72
+
+and write 9 x 8 as 8 x 9 (smaller number first do this for every question even not written in comment)
+</div>
 
 <div class='review'>
 <ul class='review'>

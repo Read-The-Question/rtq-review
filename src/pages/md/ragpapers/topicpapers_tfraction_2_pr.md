@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-pr"
 title: "TopicPaper - Fraction - 2 - PR"
-date: 2022-07-07 11:31:29
+date: 2022-07-07 16:10:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -488,7 +488,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0938745E-D2D2-4329-BECD-D1192F79FC97</p>
 </div>
@@ -502,7 +502,7 @@ $
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -575,6 +575,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Replace : \"Area of rectangle that is coloured\" with 
+
+\"Area coloured\"
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -744,6 +757,10 @@ Replace \"fraction\" with \"Fraction shaded\" : f capital
 s capital in \"shaded region\" , a capital in \"area of whole figure\"
 
 Note : Every First word first character must be in capital
+
+
+
+and use one katex (combine both katex)
 </div>
 
 <div class='review'>
@@ -1224,7 +1241,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>946F4B92-263D-41EA-A4C5-DB28CEF5EF01</p>
 </div>
@@ -1238,7 +1255,7 @@ $
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1497,6 +1514,51 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a): dont convert into decimals instead make the denominator same for all the fractions and compare.
+
+Refer : 08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815
+
+for working.
+
+in section.answer: 
+
+write both answer separately , for this refer :
+
+19818B2F-9086-4F00-9201-4F75D3C5194C
+
+
+
+part (b): 
+
+Step 1: add a \' before and after \"\text{of}\"
+
+add a Step 2: 1/9 x 100
+
+
+
+part (c):
+
+remove \"be\" from \"Let the number be\"
+
+remove Step 1
+
+step 2 : add a \' before and after \"\text {of}\"
+
+last step : write x in L.H.S. 
+
+
+
+add a last line outside katex :
+
+\"1/9 is half of 2/9\"
+</div>
 
 <div class='review'>
 <ul class='review'>

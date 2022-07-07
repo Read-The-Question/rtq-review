@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-07-07 11:31:29
+date: 2022-07-07 16:10:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-07 11:31:29
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-07 11:31:29
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -98,6 +98,29 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove whole katex:
+
+replace it with :
+
+Fraction of Boots = 9/63+9
+
+                  = 9/72
+
+                  = 9/8 x 9
+
+and solve further....
+
+
+
+and the answer in section.answers too
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4165,7 +4188,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>9F3349DA-53D7-4B90-AF97-44661D4FDBE4</p>
 </div>
@@ -4179,7 +4202,7 @@ $
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4256,6 +4279,19 @@ therefore $\dfrac {5} {12}$ is the smallest fraction.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Refer to the comment in : 
+
+946F4B92-263D-41EA-A4C5-DB28CEF5EF01
+
+part (a)
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4297,7 +4333,7 @@ therefore $\dfrac {5} {12}$ is the smallest fraction.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>82754E73-D876-45A7-8AA1-76C9E05BCE77</p>
 </div>
@@ -4311,7 +4347,7 @@ therefore $\dfrac {5} {12}$ is the smallest fraction.
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4405,6 +4441,19 @@ Therefore, $\dfrac{3+4}{2+3}$ is the biggest.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Refer to the comment in : 
+
+946F4B92-263D-41EA-A4C5-DB28CEF5EF01
+
+part (a)
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5960,7 +6009,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C957490D-C2D2-48AD-80EA-F4EAAF92A7A1</p>
 </div>
@@ -5974,7 +6023,7 @@ $
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6161,6 +6210,31 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a): 
+
+step 3: write 4 x 8 instead of 8 x 4 (small number first)
+
+same for the next step
+
+
+
+part (b):
+
+remove whole katex
+
+replace with :
+
+Not blue = Total students - Favourite colour blue
+
+         = 32 - ....... solve further 
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6659,7 +6733,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>00594CC4-DB7B-458D-945E-CC2A6F291884</p>
 </div>
@@ -6673,7 +6747,7 @@ $
 <p>rag_ar_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6748,6 +6822,31 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+add the unitprompt for unit conversion in first line 
+
+remove \"be\" and . from first line 
+
+
+
+Step 1 : replace : 
+
+x \ \text {of} \ 2.4 \ \text {litres} &= 400 \ \text {ml} \\
+
+Step 2 : replace : 
+
+x \times 2400 \ \text {ml} &= 400 \ \text {ml} \\
+
+remove step 3
+
+write x in L.H.S. from step 4 to the last step
+</div>
 
 <div class='review'>
 <ul class='review'>

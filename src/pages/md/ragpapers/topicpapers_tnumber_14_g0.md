@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-g0"
 title: "TopicPaper - Number - 14 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -120,10 +120,10 @@ $20$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -249,10 +249,10 @@ Number closest in value $= 1.009$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -629,10 +629,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -776,10 +776,10 @@ $8 \dfrac {1} {20}$ and $8.05$ are same.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-oldpr"
 title: "TopicPaper - Number - 15 - OLDPR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -233,10 +233,10 @@ $3.49$ is $100$ times smaller than $349$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -466,10 +466,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -753,10 +753,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -973,10 +973,10 @@ Two thousand and seven is $10$ more than one thousand nine hundred and ninety se
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1095,10 +1095,10 @@ put box in last line too
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

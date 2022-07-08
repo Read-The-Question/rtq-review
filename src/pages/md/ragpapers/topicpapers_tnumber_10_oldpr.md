@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-10-oldpr"
 title: "TopicPaper - Number - 10 - OLDPR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2C656582-6ACE-4216-AD4B-DA5375031347</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-07 16:10:01
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

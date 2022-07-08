@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-5-g0"
 title: "TopicPaper - Number - 5 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9463F300-F509-4C89-9D36-52327C3A49BA</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-07 16:10:01
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,6 +41,7 @@ $
 &= 43.26 \times 0.7 \\\\
 &= \dfrac {43.26 \times 10 \times 0.7 \times 10} {10 \times 10} \\\\
 &= \dfrac {432.6 \times 7} {100} \\\\
+&= \dfrac {3028.2}{100} \\\\
 &= 30.282
 \end{aligned}
 $
@@ -62,6 +63,7 @@ $30.282$
 &= 43.26 \times 0.7 \\\\
 &= \dfrac {43.26 \times 10 \times 0.7 \times 10} {10 \times 10} \\\\
 &= \dfrac {432.6 \times 7} {100} \\\\
+&= \dfrac {3028.2}{100} \\\\
 &= 30.282
 \end{aligned}
 $
@@ -147,7 +149,7 @@ add after s3
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D9649617-3FD7-4796-B3CC-D5D03A15DD17</p>
 </div>
@@ -161,7 +163,7 @@ add after s3
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -226,21 +228,21 @@ Circle which of the following describes the position of the $6$ in the number ab
 <div class='workings'>
 <div class='working'>
 
-$\text {Hundreds}$
+Hundreds
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Hundreds}$
+Hundreds
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Hundreds}$
+<pre class='language-latex'><code class='language-latex'>Hundreds
 </code></pre>
 </div>
 </div>
@@ -252,7 +254,7 @@ $\text {Hundreds}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Hundreds}$
+<pre class='language-latex'><code class='language-latex'>Hundreds
 </code></pre>
 </div>
 </div>
@@ -272,7 +274,7 @@ Round the number $1609.344$ to the nearest ten.
 $
 \begin {aligned}
 &= 1609.344\\\\
-&\approx 1610 \text { (nearest ten)}
+&\approx 1610
 \end {aligned}
 $
 
@@ -292,7 +294,7 @@ $1610$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 1609.344\\\\
-&\approx 1610 \text { (nearest ten)}
+&\approx 1610
 \end {aligned}
 $
 </code></pre>
@@ -367,7 +369,7 @@ b: remove (nearest ten). Just &\approx 1610 is enough.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>94575FCE-B695-49E6-BE39-C1569C3879FA</p>
 </div>
@@ -381,7 +383,7 @@ b: remove (nearest ten). Just &\approx 1610 is enough.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -442,7 +444,7 @@ Round $1517$ to the nearest $100$.
 $
 \begin {aligned}
 &= 1517\\\\
-&\approx 1500 \text { (nearest 100)}
+&\approx 1500 
 \end {aligned}
 $
 
@@ -461,7 +463,7 @@ $1500$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 1517\\\\
-&\approx 1500 \text { (nearest 100)}
+&\approx 1500 
 \end {aligned}
 $
 </code></pre>
@@ -495,7 +497,7 @@ Round $8885$ to the nearest $10$.
 $
 \begin {aligned}
 &= 8885\\\\
-&\approx 8890 \text { (nearest ten)}
+&\approx 8890
 \end {aligned}
 $
 
@@ -514,7 +516,7 @@ $8890$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 8885\\\\
-&\approx 8890 \text { (nearest ten)}
+&\approx 8890
 \end {aligned}
 $
 </code></pre>
@@ -723,7 +725,7 @@ Therefore,
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>524E7580-2554-4E70-A60C-098536BE5BC0</p>
 </div>
@@ -737,7 +739,7 @@ Therefore,
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -798,10 +800,9 @@ Calculate $0.75 + \dfrac{2}{5} + \dfrac{17}{100}$, leaving your answer as a deci
 $
 \begin{aligned}
 &= 0.75 + \dfrac {2} {5} + \dfrac{17} {100} \\\\
-&= \dfrac{75} {100} + \dfrac {2 \times 20} {5 \times 20} + \dfrac {17} {100} \\\\
-&= \dfrac{75} {100} + \dfrac {40} {100} + \dfrac {17} {100} \\\\
-&= \dfrac{75 + 40 + 17}{100} \\\\
-&= \dfrac{132} {100} \\\\
+&= 0.75 + \dfrac {2 \times 20} {5 \times 20} + \dfrac {17} {100} \\\\
+&= 0.75 + \dfrac {4} {10} + \dfrac {17} {100} \\\\
+&= 0.75 + 0.4 + 0.17\\\\
 &= 1.32
 \end{aligned}
 $
@@ -821,10 +822,9 @@ $1.32$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 0.75 + \dfrac {2} {5} + \dfrac{17} {100} \\\\
-&= \dfrac{75} {100} + \dfrac {2 \times 20} {5 \times 20} + \dfrac {17} {100} \\\\
-&= \dfrac{75} {100} + \dfrac {40} {100} + \dfrac {17} {100} \\\\
-&= \dfrac{75 + 40 + 17}{100} \\\\
-&= \dfrac{132} {100} \\\\
+&= 0.75 + \dfrac {2 \times 20} {5 \times 20} + \dfrac {17} {100} \\\\
+&= 0.75 + \dfrac {4} {10} + \dfrac {17} {100} \\\\
+&= 0.75 + 0.4 + 0.17\\\\
 &= 1.32
 \end{aligned}
 $
@@ -1093,7 +1093,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EEA0BC82-9B14-4E6B-876F-32537F023D2A</p>
 </div>
@@ -1107,7 +1107,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1168,10 +1168,9 @@ Calculate $0.35 + \dfrac{4}{5} + \dfrac{37}{100}$, leaving your answer as a deci
 $
 \begin{aligned}
 &= 0.35 + \dfrac {4} {5} + \dfrac {37} {100} \\\\
-&= \dfrac{35}{100} + \dfrac {4 \times 20} {5 \times 20} + \dfrac {37} {100} \\\\
-&= \dfrac{35}{100} + \dfrac {80} {100} + \dfrac {37} {100} \\\\
-&= \dfrac{35 + 80 + 37}{100} \\\\
-&= \dfrac{152}{100} \\\\
+&= 0.35 + \dfrac {4 \times 20} {5 \times 20} + \dfrac {37} {100} \\\\
+&= 0.35+ \dfrac {8} {10} + \dfrac {37} {100} \\\\
+&= 0.35 + 0.8 + 0.37 \\\\
 &= 1.52
 \end{aligned}
 $
@@ -1191,10 +1190,9 @@ $1.52$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 0.35 + \dfrac {4} {5} + \dfrac {37} {100} \\\\
-&= \dfrac{35}{100} + \dfrac {4 \times 20} {5 \times 20} + \dfrac {37} {100} \\\\
-&= \dfrac{35}{100} + \dfrac {80} {100} + \dfrac {37} {100} \\\\
-&= \dfrac{35 + 80 + 37}{100} \\\\
-&= \dfrac{152}{100} \\\\
+&= 0.35 + \dfrac {4 \times 20} {5 \times 20} + \dfrac {37} {100} \\\\
+&= 0.35+ \dfrac {8} {10} + \dfrac {37} {100} \\\\
+&= 0.35 + 0.8 + 0.37 \\\\
 &= 1.52
 \end{aligned}
 $
@@ -1328,7 +1326,7 @@ a: Do as 03369C8B-3E90-4086-B6DA-720E32ACEC6B, when the final answer is in decim
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3E727517-2746-480B-A62D-71D4D1A9EA47</p>
 </div>
@@ -1342,7 +1340,7 @@ a: Do as 03369C8B-3E90-4086-B6DA-720E32ACEC6B, when the final answer is in decim
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1400,6 +1398,9 @@ $18 - 6 + 7 = \text{\textunderscore \textunderscore \textunderscore }$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+
+
 $
 \begin{aligned}
 &= 18 - 6 + 7 \\\\
@@ -1419,7 +1420,9 @@ $19$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
+
+$
 \begin{aligned}
 &= 18 - 6 + 7 \\\\
 &= 19
@@ -1459,10 +1462,12 @@ $
 \begin{aligned}
 21 - (a \times 3) &= 9 \\\\
 21 - 3a           &= 9 \\\\
-21 - 9            &= 3a \\\\
-12                &= 3a \\\\
-\dfrac {12} {3}   &= a \\\\
-4                 &= a
+3a                &= 21-9 \\\\
+3a                &= 12 \\\\
+a                 &= \dfrac {12} {3} \\\\
+a                 &= \dfrac{4 \times 3}{3} \\\\
+a                 &= \dfrac{4 \times \cancel 3}{\cancel 3} \\\\
+a                 &= 4
 \end{aligned}
 $
 
@@ -1486,10 +1491,12 @@ $
 \begin{aligned}
 21 - (a \times 3) &= 9 \\\\
 21 - 3a           &= 9 \\\\
-21 - 9            &= 3a \\\\
-12                &= 3a \\\\
-\dfrac {12} {3}   &= a \\\\
-4                 &= a
+3a                &= 21-9 \\\\
+3a                &= 12 \\\\
+a                 &= \dfrac {12} {3} \\\\
+a                 &= \dfrac{4 \times 3}{3} \\\\
+a                 &= \dfrac{4 \times \cancel 3}{\cancel 3} \\\\
+a                 &= 4
 \end{aligned}
 $
 
@@ -1622,7 +1629,7 @@ c:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DE46FC56-5B26-47CD-B3FB-1C1418F36001</p>
 </div>
@@ -1636,7 +1643,7 @@ c:
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1848,7 +1855,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B2224EDD-524E-45BF-A029-6D612A707429</p>
 </div>
@@ -1862,7 +1869,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1976,7 +1983,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A61D4303-87FB-4717-9F33-89FB6673FB65</p>
 </div>
@@ -1990,7 +1997,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2016,11 +2023,10 @@ First prime number $= 2$
 
 First even multiple of $7 = 14$
 
-So,
 
 $
 \begin{aligned}
-&= 14 - 2 \\\\
+\text{Difference} &= 14 - 2 \\\\
 &= 12
 \end{aligned}
 $
@@ -2044,11 +2050,10 @@ $12$
 
 First even multiple of $7 = 14$
 
-So,
 
 $
 \begin{aligned}
-&= 14 - 2 \\\\
+\text{Difference} &= 14 - 2 \\\\
 &= 12
 \end{aligned}
 $
@@ -2109,7 +2114,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D2A86CA4-F12F-428A-A86B-8B322E9D886C</p>
 </div>
@@ -2123,7 +2128,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2146,6 +2151,9 @@ $22 - 10 + 8 \div 4$
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2171,7 +2179,9 @@ $(22 - 10 + 8) \div 4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &\text {a.} \quad   22 - (10 + 8)\div 4 = 17.5 \not = 5 \\\\
 &\text {b.} \quad  (22 - 10) + 8 \div 4 = 14 \not = 5 \\\\
@@ -2236,7 +2246,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2D14E878-11B5-46B1-A002-9A3CA82CED1D</p>
 </div>
@@ -2250,7 +2260,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2290,10 +2300,9 @@ $
 16 + b                                         &= 14 + b + 2a \\\\
 16 + b - b                                     &= 14 + 2a \\\\
 16                                             &= 14 + 2a \\\\
-16 - 14                                        &= 14 + 2a \\\\
-2                                              &= 2a \\\\
-\dfrac {2} {2}                                 &= a \\\\
-1                                              &= a \\\\
+16 - 14                                        &= 2a \\\\
+2a                                             &= 2 \\\\
+a                                              &= \dfrac {2} {2} \\\\
 a                                              &= 1
 \end{aligned}
 $
@@ -2324,10 +2333,9 @@ $
 16 + b                                         &= 14 + b + 2a \\\\
 16 + b - b                                     &= 14 + 2a \\\\
 16                                             &= 14 + 2a \\\\
-16 - 14                                        &= 14 + 2a \\\\
-2                                              &= 2a \\\\
-\dfrac {2} {2}                                 &= a \\\\
-1                                              &= a \\\\
+16 - 14                                        &= 2a \\\\
+2a                                             &= 2 \\\\
+a                                              &= \dfrac {2} {2} \\\\
 a                                              &= 1
 \end{aligned}
 $
@@ -2390,7 +2398,7 @@ The worth of triangle $= 1$ point
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2EBA663D-D618-44C9-A3A5-8A3DDDFE6BA1</p>
 </div>
@@ -2404,7 +2412,7 @@ The worth of triangle $= 1$ point
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2432,12 +2440,11 @@ Work out the input if both machines also have the same output.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-n \times 4 + 4                                 &= x \\\\
-n \times 5 - 2                                 &= x \\\\
+\text{First machine} \Rightarrow n \times 4 + 4     &= x \\\\
+\text{Second machine} \Rightarrow n \times 5 - 2    &= x \\\\
 n \times 4 + 4                                 &= n \times 5 - 2 \\\\
 4n + 4                                         &= 5n -2 \\\\
 4 + 2                                          &= 5n - 4n \\\\
@@ -2460,12 +2467,11 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-n \times 4 + 4                                 &= x \\\\
-n \times 5 - 2                                 &= x \\\\
+\text{First machine} \Rightarrow n \times 4 + 4     &= x \\\\
+\text{Second machine} \Rightarrow n \times 5 - 2    &= x \\\\
 n \times 4 + 4                                 &= n \times 5 - 2 \\\\
 4n + 4                                         &= 5n -2 \\\\
 4 + 2                                          &= 5n - 4n \\\\
@@ -2529,7 +2535,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>35896D91-A3BE-4BE3-9135-008AD443B921</p>
 </div>
@@ -2543,7 +2549,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2574,12 +2580,10 @@ $
 \end{aligned}
 $
 
-As per the question,
-
 $
 \begin{aligned}
-&= 0.9 - 0.17 \\\\
-&= 0.73
+\text{Difference} &= 0.9 - 0.17 \\\\
+                  &= 0.73
 \end{aligned}
 $
 
@@ -2605,12 +2609,10 @@ $0.73$
 \end{aligned}
 $
 
-As per the question,
-
 $
 \begin{aligned}
-&= 0.9 - 0.17 \\\\
-&= 0.73
+\text{Difference} &= 0.9 - 0.17 \\\\
+                  &= 0.73
 \end{aligned}
 $
 </code></pre>
@@ -2670,7 +2672,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>376FC516-ED40-42F7-AC7C-A63AECDD668C</p>
 </div>
@@ -2684,7 +2686,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2705,6 +2707,9 @@ What is $(999 - 99 + 9) \div 9$?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2732,7 +2737,9 @@ $101$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &= (999 - 99 + 9) \div 9 \\\\
 &= (999 - 90) \div 9 \\\\
@@ -2799,7 +2806,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B4401778-D5A5-43C6-92E1-D7C3D77AF227</p>
 </div>
@@ -2813,7 +2820,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3051,7 +3058,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2DF6D85D-B0AA-476C-BAA9-7CFAFB3CB5CB</p>
 </div>
@@ -3065,7 +3072,7 @@ $7$
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3179,7 +3186,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F1298F25-DACE-45D0-91EE-A49F30843ED5</p>
 </div>
@@ -3193,7 +3200,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3214,6 +3221,9 @@ Which one of these calculations is **incorrect**?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -3243,7 +3253,9 @@ $9 \times 6 + 73 = 96 + 7 \times 3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 \text {A.} \quad   4 \times 5 + 67 &= 45 + 6 \times 7 \\\\
 87                                 &= 87 \\\\
@@ -3312,7 +3324,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>43C95808-BF77-4C0E-AB13-6950EA8A04D3</p>
 </div>
@@ -3326,7 +3338,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3534,7 +3546,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>076C322A-4256-441B-A7AC-33130D028CB9</p>
 </div>
@@ -3548,7 +3560,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3565,7 +3577,6 @@ Add together two thousand three hundred and seven AND one thousand and twenty-fo
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{array}{cccccccccccccc}
@@ -3588,8 +3599,7 @@ $3331$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   3   &   0   &   7 \\
@@ -3655,7 +3665,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FB1740E1-C8CF-466B-86CB-D7A6CC75E664</p>
 </div>
@@ -3669,7 +3679,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-oldpr"
 title: "TopicPaper - Number - 8 - OLDPR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7C2113F9-AB30-441B-B2AE-B6D84D249E3E</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-07 16:10:01
 <p>rag_rb_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -199,11 +199,11 @@ $8008 \div 13$
 
 $
 \begin{aligned}
-8008 \div 13 \\\\
+&=  8008 \div 13 \\\\
 &=  \dfrac{8008}{13} \\\\
 &=  \dfrac{616 \times 13}{13} \\\\
 &=  \dfrac{616 \times \cancel {13}}{\cancel {13}} \\\\
-&=   616
+&=  616
 \end{aligned}
 $
 
@@ -221,11 +221,11 @@ $616$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-8008 \div 13 \\\\
+&=  8008 \div 13 \\\\
 &=  \dfrac{8008}{13} \\\\
 &=  \dfrac{616 \times 13}{13} \\\\
 &=  \dfrac{616 \times \cancel {13}}{\cancel {13}} \\\\
-&=   616
+&=  616
 \end{aligned}
 $
 </code></pre>
@@ -258,7 +258,7 @@ $21\%$ of $426$
 
 $
 \begin{aligned}
-&= \dfrac {21} {100} \times 426 \% \\\\
+&= \dfrac {21} {100} \times 426 \\\\
 &= \dfrac {21 \times 426} {100} \\\\
 &= \dfrac {8946} {100} \\\\
 &= 89.46 
@@ -279,7 +279,7 @@ $89.46$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {21} {100} \times 426 \% \\\\
+&= \dfrac {21} {100} \times 426 \\\\
 &= \dfrac {21 \times 426} {100} \\\\
 &= \dfrac {8946} {100} \\\\
 &= 89.46 
@@ -320,6 +320,7 @@ $
 &= \dfrac {28} {35} - \dfrac {21} {35} \\\\
 &= \dfrac {28 - 21} {35} \\\\
 &= \dfrac {7} {35} \\\\
+&= \dfrac {\cancel {7}} {\cancel {7} \times 5} \\\\
 &= \dfrac {1} {5}
 \end{aligned}
 $
@@ -343,6 +344,7 @@ $\dfrac {1} {5}$
 &= \dfrac {28} {35} - \dfrac {21} {35} \\\\
 &= \dfrac {28 - 21} {35} \\\\
 &= \dfrac {7} {35} \\\\
+&= \dfrac {\cancel {7}} {\cancel {7} \times 5} \\\\
 &= \dfrac {1} {5}
 \end{aligned}
 $
@@ -378,8 +380,7 @@ $
 \begin{aligned}
 &= 2\dfrac {1} {3} \times 3\dfrac {3} {7} \\\\
 &= \dfrac {7} {3} \times \dfrac {24} {7} \\\\
-&= \dfrac{7 \times 24} {3 \times 7} \\\\
-&= \dfrac{\cancel {7} \times 24} {3 \times \cancel{7}} \\\\
+&= \dfrac{\cancel {7} \times \cancel {3} \times 8} {\cancel {3} \times \cancel{7}} \\\\
 &= 8
 \end{aligned}
 $
@@ -400,8 +401,7 @@ $8$
 \begin{aligned}
 &= 2\dfrac {1} {3} \times 3\dfrac {3} {7} \\\\
 &= \dfrac {7} {3} \times \dfrac {24} {7} \\\\
-&= \dfrac{7 \times 24} {3 \times 7} \\\\
-&= \dfrac{\cancel {7} \times 24} {3 \times \cancel{7}} \\\\
+&= \dfrac{\cancel {7} \times \cancel {3} \times 8} {\cancel {3} \times \cancel{7}} \\\\
 &= 8
 \end{aligned}
 $

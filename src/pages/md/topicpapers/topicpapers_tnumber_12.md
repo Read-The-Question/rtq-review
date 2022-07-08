@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -946,7 +946,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FB54FC28-0CE7-4805-A51B-22A1806749EC</p>
 </div>
@@ -960,7 +960,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4326,7 +4326,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9223B5BC-2F8C-43A9-8FF7-B370A90FF796</p>
 </div>
@@ -4340,7 +4340,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4766,7 +4766,7 @@ write in katex align...... Largest 4 digit number=...Smallest 3 digit number =..
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4AF7B768-CBF8-4E4C-9565-AEB914711765</p>
 </div>
@@ -4780,7 +4780,7 @@ write in katex align...... Largest 4 digit number=...Smallest 3 digit number =..
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5604,7 +5604,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C</p>
 </div>
@@ -5618,7 +5618,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

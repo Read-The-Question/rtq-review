@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-oldpr"
 title: "TopicPaper - Number - 17 - OLDPR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -278,10 +278,10 @@ Katex is not correct, use begin aligned like its been done in reference UUID giv
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -420,10 +420,10 @@ Same comments as B8D6BAFA-557D-451D-BA17-5723EF73E965, katex not written how we 
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -685,10 +685,10 @@ This is not done as other similar questions.
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-g0"
 title: "TopicPaper - Number - 15 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -331,10 +331,10 @@ Refer tage questions for approved ways of writing algebra answers. topicpapers-t
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -718,10 +718,10 @@ fix katex for d
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

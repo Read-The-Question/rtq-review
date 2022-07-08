@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-pr-prns"
 title: "TopicPaper - Time - 3 - PR - PRNS"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -846,10 +846,10 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -959,10 +959,10 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

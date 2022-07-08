@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-oldpr"
 title: "TopicPaper - Time - 4 - OLDPR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -148,10 +148,10 @@ $
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -423,10 +423,10 @@ $
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -699,10 +699,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g0"
 title: "TopicPaper - Number - 1 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -416,14 +416,14 @@ Write the population of Clowne correct to the nearest $100$.
 
 Population of Clowne $= 6152$
 
-After rounding up to the nearest $100 = 6200$
+After rounding up to the nearest $100 = 6100$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6200$
+$6100$
 
 </div>
 </div>
@@ -432,7 +432,7 @@ $6200$
 
 <pre class='language-latex'><code class='language-latex'>Population of Clowne $= 6152$
 
-After rounding up to the nearest $100 = 6200$
+After rounding up to the nearest $100 = 6100$
 </code></pre>
 </div>
 </div>
@@ -444,7 +444,7 @@ After rounding up to the nearest $100 = 6200$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6200$
+<pre class='language-latex'><code class='language-latex'>$6100$
 </code></pre>
 </div>
 </div>
@@ -669,17 +669,12 @@ $94 - \ldots = 65$
 <div class='workings'>
 <div class='working'>
 
-$94 - \underline{\green
-{29}} = 65$
-
-</div>
-<div class='working'>
-
 Let the missing  number $= a$
  
 $
 \begin{aligned}
 94 - a &= 65 \\\\
+a      &= 94 - 65\\\\
 a           &= 29
 \end{aligned}
 $
@@ -696,16 +691,12 @@ $29$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$94 - \underline{\rtq_katex_color_answer{29}} = 65$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
  
 $
 \begin{aligned}
 94 - a &= 65 \\\\
+a      &= 94 - 65\\\\
 a           &= 29
 \end{aligned}
 $
@@ -741,21 +732,6 @@ $\underline{\green
 {9}} \times 40 = 360$
 
 </div>
-<div class='working'>
-
-Let the missing  number $= a$
-
-$
-\begin{aligned}
-a \times 40 &= 360 \\\\
-a           &= \dfrac{360}{40} \\\\
-a           &= \dfrac{9 \times 40}{40} \\\\
-a           &= \dfrac{9 \times \cancel{40}}{\cancel{40}} \\\\
-a           &= 9 
-\end{aligned}
-$
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -768,21 +744,6 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{9}} \times 40 = 360$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
-$
-\begin{aligned}
-a \times 40 &= 360 \\\\
-a           &= \dfrac{360}{40} \\\\
-a           &= \dfrac{9 \times 40}{40} \\\\
-a           &= \dfrac{9 \times \cancel{40}}{\cancel{40}} \\\\
-a           &= 9 
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>
@@ -811,12 +772,6 @@ $\ldots \div 0.5 = 20$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green
-{10}} \div 0.5 = 20$
-
-</div>
-<div class='working'>
-
 Let the missing  number $= a$
  
 $
@@ -837,11 +792,6 @@ $10$
 </div>
 </div>
 <div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{10}} \div 0.5 = 20$
-</code></pre>
-</div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
@@ -885,19 +835,6 @@ $-35 + \underline{\green
 {9}} = -26$
 
 </div>
-<div class='working'>
-
-Let the missing  number $= a$
- 
-$
-\begin{aligned}
--35 + a &= -26 \\\\
-a       &= -26 + 35\\\\
-a       &= 9
-\end{aligned}
-$
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -910,19 +847,6 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$-35 + \underline{\rtq_katex_color_answer{9}} = -26$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
- 
-$
-\begin{aligned}
--35 + a &= -26 \\\\
-a       &= -26 + 35\\\\
-a       &= 9
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>
@@ -1010,7 +934,7 @@ Reach out if any confusion.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>02D4678C-2407-4D76-9D31-57EE67F35A29</p>
 </div>
@@ -1024,7 +948,7 @@ Reach out if any confusion.
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1043,15 +967,7 @@ Circle the numbers below which are multiples of $7$.
 $44 \quad 91 \quad 350 \quad 789$
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-$44 \quad \boxed{\green
-{91}} \quad \boxed{\green
-{350}} \quad 789$
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -1059,13 +975,7 @@ $91, 350$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$44 \quad \boxed{\rtq_katex_color_answer{91}} \quad \boxed{\rtq_katex_color_answer{350}} \quad 789$
-</code></pre>
-</div>
-</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -1120,7 +1030,7 @@ $91, 350$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2414B804-D702-4FED-B317-F76BD48DA812</p>
 </div>
@@ -1134,7 +1044,7 @@ $91, 350$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1196,19 +1106,6 @@ $\underline{\green
 {28}} + 15 = 43$
 
 </div>
-<div class='working'>
-
-Let the missing  number $= a$
- 
-$
-\begin{aligned}
-a + 15  &= 43 \\\\
-a           &= 43 - 15  \\\\
-a           &= 28
-\end{aligned}
-$
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1221,19 +1118,6 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{28}} + 15 = 43$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
- 
-$
-\begin{aligned}
-a + 15  &= 43 \\\\
-a           &= 43 - 15  \\\\
-a           &= 28
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>
@@ -1266,21 +1150,6 @@ $6 \times \underline{\green
 {9}} = 54$
 
 </div>
-<div class='working'>
-
-Let the missing  number $= a$
-
-$
-\begin{aligned}
-6 \times a &= 54 \\\\
-a           &= \dfrac{54}{6} \\\\
-a           &= \dfrac{9 \times 6}{6} \\\\
-a           &= \dfrac{9 \times \cancel{6}}{\cancel{6}} \\\\
-a           &= 9 
-\end{aligned}
-$
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1293,21 +1162,6 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$6 \times \underline{\rtq_katex_color_answer{9}} = 54$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
-$
-\begin{aligned}
-6 \times a &= 54 \\\\
-a           &= \dfrac{54}{6} \\\\
-a           &= \dfrac{9 \times 6}{6} \\\\
-a           &= \dfrac{9 \times \cancel{6}}{\cancel{6}} \\\\
-a           &= 9 
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>
@@ -1340,19 +1194,6 @@ $\underline{\green
 {80}} - 23 = 57$
 
 </div>
-<div class='working'>
-
-Let the missing  number $= a$
- 
-$
-\begin{aligned}
-a - 23  &= 57 \\\\
-a           &= 57 + 23  \\\\
-a           &= 80
-\end{aligned}
-$
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1365,19 +1206,6 @@ $80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{80}} - 23 = 57$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
- 
-$
-\begin{aligned}
-a - 23  &= 57 \\\\
-a           &= 57 + 23  \\\\
-a           &= 80
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>
@@ -1410,21 +1238,6 @@ $64 \div \underline{\green
 {8}} = 8$
 
 </div>
-<div class='working'>
-
-Let the missing  number $= a$
- 
-$
-\begin{aligned}
-64 \div a  &= 8 \\\\
-a           &= \dfrac{64}{8} \\\\
-a           &= \dfrac{8 \times 8}{8} \\\\
-a           &= \dfrac{8 \times \cancel{8}}{\cancel{8}} \\\\
-a           &= 8
-\end{aligned}
-$
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1437,21 +1250,6 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$64 \div \underline{\rtq_katex_color_answer{8}} = 8$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
- 
-$
-\begin{aligned}
-64 \div a  &= 8 \\\\
-a           &= \dfrac{64}{8} \\\\
-a           &= \dfrac{8 \times 8}{8} \\\\
-a           &= \dfrac{8 \times \cancel{8}}{\cancel{8}} \\\\
-a           &= 8
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>
@@ -1525,7 +1323,7 @@ reach out if any confusion.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0A0A949A-4315-41A1-A28D-C39E8F6FC5E9</p>
 </div>
@@ -1539,7 +1337,7 @@ reach out if any confusion.
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1597,18 +1395,11 @@ $14 \times 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$14 \times 100 = \underline{\green
-{1400}}$
-
-</div>
-<div class='working'>
-
-Let the answer is $= a$
 
 $
 \begin{aligned}
- 14 \times 100 &=a \\\\
- a  &=1400
+&= 14 \times 100 \\\\
+&= 1400
 \end{aligned}
 $
 
@@ -1624,17 +1415,11 @@ $1400$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$14 \times 100 = \underline{\rtq_katex_color_answer{1400}}$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the answer is $= a$
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
- 14 \times 100 &=a \\\\
- a  &=1400
+&= 14 \times 100 \\\\
+&= 1400
 \end{aligned}
 $
 </code></pre>
@@ -1665,19 +1450,12 @@ $864 \div 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$864 \div 100 = \underline{\green
-{8.64}}$
-
-</div>
-<div class='working'>
-
-Let the answer is $= a$
 
 $
 \begin{aligned}
-864 \div 100 &= a \\\\
-a           &= \dfrac{864}{100} \\\\
-a           &= 8.64
+&= 864 \div 100  \\\\
+&= \dfrac{864}{100} \\\\
+&= 8.64
 \end{aligned}
 $
 
@@ -1693,18 +1471,12 @@ $8.64$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$864 \div 100 = \underline{\rtq_katex_color_answer{8.64}}$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the answer is $= a$
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-864 \div 100 &= a \\\\
-a           &= \dfrac{864}{100} \\\\
-a           &= 8.64
+&= 864 \div 100  \\\\
+&= \dfrac{864}{100} \\\\
+&= 8.64
 \end{aligned}
 $
 </code></pre>
@@ -1735,19 +1507,12 @@ $\ldots \times 300 = 60$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green
-{0.2}} \times 300 = 60$
-
-
-</div>
-<div class='working'>
-
 Let the missing  number $= a$
  
 $
 \begin{aligned}
 a \times 300  &= 60 \\\\
-a           &= \dfrac{60}{100} \\\\
+a           &= \dfrac{60}{300} \\\\
 a           &= \dfrac{3 \times 2 \times 10}{3 \times 10 \times 10} \\\\
 a           &= \dfrac{\cancel{3} \times 2 \times \cancel{10}}{\cancel{3} \times \cancel{10} \times 10} \\\\
 a           &= \dfrac{2}{10} \\\\
@@ -1767,18 +1532,12 @@ $0.2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{0.2}} \times 300 = 60$
-
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
  
 $
 \begin{aligned}
 a \times 300  &= 60 \\\\
-a           &= \dfrac{60}{100} \\\\
+a           &= \dfrac{60}{300} \\\\
 a           &= \dfrac{3 \times 2 \times 10}{3 \times 10 \times 10} \\\\
 a           &= \dfrac{\cancel{3} \times 2 \times \cancel{10}}{\cancel{3} \times \cancel{10} \times 10} \\\\
 a           &= \dfrac{2}{10} \\\\
@@ -1882,7 +1641,7 @@ s2 is wrong, should be 60 /300
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>680B2DDC-4438-441C-A50B-D93FE578EBF9</p>
 </div>
@@ -1896,7 +1655,7 @@ s2 is wrong, should be 60 /300
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1957,18 +1716,7 @@ Look at the numbers in the star.
 Which two numbers are multiples of $6$?
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-$12, 30$
-
-</div>
-<div class='working'>
-
-Both are multiple 0f $6$
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -1976,18 +1724,7 @@ $12, 30$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$12, 30$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Both are multiple 0f $6$
-</code></pre>
-</div>
-</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -2010,13 +1747,7 @@ $12, 30$
 Which two numbers are prime?
 
 </div>
-<div class='workings'>
-<div class='working'>
 
- 17,29
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -2024,13 +1755,7 @@ $17, 29$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'> 17,29
-</code></pre>
-</div>
-</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -2053,13 +1778,7 @@ $17, 29$
 Which two numbers are factors of $70$?
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-$10, 14$ 
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -2067,13 +1786,7 @@ $10, 14$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$10, 14$ 
-</code></pre>
-</div>
-</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -2096,13 +1809,7 @@ $10, 14$
 Which two numbers are square numbers?
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-$9, 49$
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -2110,13 +1817,7 @@ $9, 49$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$9, 49$
-</code></pre>
-</div>
-</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -2213,7 +1914,7 @@ d: extra working
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2D142A42-5829-4132-A5C5-363CD6339B26</p>
 </div>
@@ -2227,7 +1928,7 @@ d: extra working
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2289,7 +1990,7 @@ $
 \begin {aligned}
 &= 370 \ \text {cm} \\\\
 &= \dfrac {370} {100} \ \text {m} \\\\
-&= 3.7 \ \text {m}
+&= 3.7 
 \end {aligned}
 $
 
@@ -2298,7 +1999,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3.7 \ \text{m}$
+$3.7$
 
 </div>
 </div>
@@ -2309,7 +2010,7 @@ $3.7 \ \text{m}$
 \begin {aligned}
 &= 370 \ \text {cm} \\\\
 &= \dfrac {370} {100} \ \text {m} \\\\
-&= 3.7 \ \text {m}
+&= 3.7 
 \end {aligned}
 $
 </code></pre>
@@ -2323,7 +2024,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3.7 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$3.7$
 </code></pre>
 </div>
 </div>
@@ -2353,7 +2054,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3700 \ \text {mm}$
+$3700$
 
 </div>
 </div>
@@ -2378,7 +2079,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3700 \ \text {mm}$
+<pre class='language-latex'><code class='language-latex'>$3700$
 </code></pre>
 </div>
 </div>
@@ -2427,7 +2128,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>30A3B574-CDF9-4730-A7AF-15CE0C6A1084</p>
 </div>
@@ -2441,7 +2142,7 @@ $
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2467,6 +2168,8 @@ $5000 + ? + 7 = 5087$
 
 Let the missing value $= a$
 
+As per the question,
+
 $
 \begin{aligned}
 5000 + a + 7     &= 5087 \\\\
@@ -2488,6 +2191,8 @@ $80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2562,7 +2267,7 @@ Add as per the question, look at other algebra questions for sample
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A99C08EB-7124-4965-8037-088A5FBC046B</p>
 </div>
@@ -2576,7 +2281,7 @@ Add as per the question, look at other algebra questions for sample
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2598,7 +2303,8 @@ $2 + (3 \times 6 + 4) \div 2 = ?$
 <div class='workings'>
 <div class='working'>
 
-rtq_abbr_md_bodmas,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2621,7 +2327,7 @@ $13$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bodmas,
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
 
 $
 \begin{aligned}
@@ -2697,7 +2403,7 @@ abbr name is wrong, it is not expanding search in macros.toml for the right one
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>39547CBC-4623-45FA-B56B-A6BB9A5811A9</p>
 </div>
@@ -2711,7 +2417,7 @@ abbr name is wrong, it is not expanding search in macros.toml for the right one
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2728,7 +2434,8 @@ Work out $5 + 4 \times 2$
 <div class='workings'>
 <div class='working'>
 
-rtq_abbr_md_bodmas,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -2749,7 +2456,7 @@ $13$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bodmas,
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
 
 $
 \begin{aligned}
@@ -2814,7 +2521,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F087310-2750-47AA-8B72-0FD80BCEBA2B</p>
 </div>
@@ -2828,7 +2535,7 @@ $
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2850,7 +2557,7 @@ Let the missing value $= a$,
 $
 \begin{aligned}
 82 - 27  &= 5 \times a \\\\
-5a       &= 55 \\\\
+5 \times a       &= 55 \\\\
 a        &= \dfrac {55} {5} \\\\
 a        &= \dfrac {5 \times 11} {5} \\\\
 a        &= \dfrac {\cancel {5} \times 11} {\cancel {5} } \\\\
@@ -2875,7 +2582,7 @@ $11$
 $
 \begin{aligned}
 82 - 27  &= 5 \times a \\\\
-5a       &= 55 \\\\
+5 \times a       &= 55 \\\\
 a        &= \dfrac {55} {5} \\\\
 a        &= \dfrac {5 \times 11} {5} \\\\
 a        &= \dfrac {\cancel {5} \times 11} {\cancel {5} } \\\\
@@ -2948,7 +2655,7 @@ add s2 5 *a = 82 -27
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>85FD3DB9-A666-4D58-8BAE-262C8ECA3FB7</p>
 </div>
@@ -2962,7 +2669,7 @@ add s2 5 *a = 82 -27
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2985,7 +2692,8 @@ $12 - 2 \times 4 + 3 =$
 <div class='workings'>
 <div class='working'>
 
-rtq_abbr_md_bodmas,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -3011,7 +2719,7 @@ $7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bodmas,
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
 
 $
 \begin{aligned}
@@ -3087,7 +2795,7 @@ abbr wrong, check the right one in macros.toml
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8F66D2BA-D78E-4C07-BD24-B7741E19A525</p>
 </div>
@@ -3101,7 +2809,7 @@ abbr wrong, check the right one in macros.toml
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3211,7 +2919,7 @@ this is written in katex, change to plain md, remove $$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>723278F6-68EA-4B8A-A325-641508B83065</p>
 </div>
@@ -3225,7 +2933,7 @@ this is written in katex, change to plain md, remove $$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3248,7 +2956,8 @@ $16 \times 2 - 2 \times 4 =$
 <div class='workings'>
 <div class='working'>
 
-rtq_abbr_md_bodmas,
+ABBR: Using BIDMAS
+,
 
 $
 \begin{aligned}
@@ -3273,7 +2982,7 @@ $24$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bodmas,
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
 
 $
 \begin{aligned}

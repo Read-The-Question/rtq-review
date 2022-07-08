@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-6"
 title: "TopicPaper - Number - 6"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-07 16:10:01
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-07 16:10:01
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -179,12 +179,7 @@ $27648 \div 576 =$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-576 \times 48                                    &= 27648 \\\\
-27648 \div 576                                   &= 48
-\end{aligned}
-$
+$48$
 
 </div>
 </div>
@@ -198,12 +193,7 @@ $48$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-576 \times 48                                    &= 27648 \\\\
-27648 \div 576                                   &= 48
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$48$
 </code></pre>
 </div>
 </div>
@@ -232,12 +222,7 @@ $27648 - 23040 =$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-23040 + 4608                                     &= 27648 \\\\
-27648 - 23040                                    &= 4608
-\end{aligned}
-$
+$4608$
 
 </div>
 </div>
@@ -251,12 +236,7 @@ $4608$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-23040 + 4608                                     &= 27648 \\\\
-27648 - 23040                                    &= 4608
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$4608$
 </code></pre>
 </div>
 </div>
@@ -681,7 +661,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E415E9BA-DA5E-4951-8221-A29D763C6820</p>
 </div>
@@ -695,7 +675,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1239,7 +1219,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F28875CA-296F-4209-9C81-2B07A43BF4E5</p>
 </div>
@@ -1253,7 +1233,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1518,7 +1498,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7C785172-CCF2-4BDA-BF7D-65D283EB76B5</p>
 </div>
@@ -1532,7 +1512,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2179,7 +2159,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>21D2BF8B-CBA9-43C7-99F2-36A0C829C26F</p>
 </div>
@@ -2193,7 +2173,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2320,13 +2300,13 @@ As per the question,
 
 $
 \begin{aligned}
-257 \times 34       &= 8738 \\\\
-34                  &= \dfrac {8738} {257} \\\\
-34 \times 10        &= \dfrac {8738} {257} \times 10 \\\\
-340                 &= 8738 \times \dfrac {10} {257} \\\\
-340                 &= 8738 \times \dfrac {1} {25.7} \\\\
-340                 &= \dfrac {8738} {25.7} \\\\
-8738 \div 25.7      &= 340
+257 \times 34                    &= 8738 \\\\
+\dfrac {8738} {257}              &= 34 \\\\
+\dfrac {8738} {257} \times 10    &= 34 \times 10\\\\
+8738 \times \dfrac {10} {257}    &= 340 \\\\
+8738 \times \dfrac {1} {25.7}    &= 340 \\\\
+\dfrac {8738} {25.7}             &=340 \\\\
+3748 \div 25.7                   &=340 
 \end{aligned}
 $
 
@@ -2346,13 +2326,13 @@ $340$
 
 $
 \begin{aligned}
-257 \times 34       &= 8738 \\\\
-34                  &= \dfrac {8738} {257} \\\\
-34 \times 10        &= \dfrac {8738} {257} \times 10 \\\\
-340                 &= 8738 \times \dfrac {10} {257} \\\\
-340                 &= 8738 \times \dfrac {1} {25.7} \\\\
-340                 &= \dfrac {8738} {25.7} \\\\
-8738 \div 25.7      &= 340
+257 \times 34                    &= 8738 \\\\
+\dfrac {8738} {257}              &= 34 \\\\
+\dfrac {8738} {257} \times 10    &= 34 \times 10\\\\
+8738 \times \dfrac {10} {257}    &= 340 \\\\
+8738 \times \dfrac {1} {25.7}    &= 340 \\\\
+\dfrac {8738} {25.7}             &=340 \\\\
+3748 \div 25.7                   &=340 
 \end{aligned}
 $
 </code></pre>
@@ -2415,7 +2395,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D4412297-8D86-4D55-A9DE-3FB96031B779</p>
 </div>
@@ -2429,7 +2409,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2521,7 +2501,7 @@ $\text {Four million forty thousand four hundred forty}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FCB6CEA1-F7E6-4747-8C98-E15D79B8A2AE</p>
 </div>
@@ -2535,7 +2515,7 @@ $\text {Four million forty thousand four hundred forty}$
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2555,35 +2535,37 @@ What number is halfway between $-3$ and $8$?
 <div class='workings'>
 <div class='working'>
 
-The number which is halfway between $-3$ and $8$ is \dfrac {(-3) + 8} {2}$
-
 $
 \begin{aligned}
 &= \dfrac {(-3) + 8} {2} \\\\
-&= \dfrac {5} {2}
+&= \dfrac {5} {2}\\\\
+&= 2.5
 \end{aligned}
 $
+
+The number which is halfway between -3 and 8 is 2.5.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {5} {2}$
+$2.5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The number which is halfway between $-3$ and $8$ is \dfrac {(-3) + 8} {2}$
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= \dfrac {(-3) + 8} {2} \\\\
-&= \dfrac {5} {2}
+&= \dfrac {5} {2}\\\\
+&= 2.5
 \end{aligned}
 $
+
+The number which is halfway between -3 and 8 is 2.5.
 </code></pre>
 </div>
 </div>
@@ -2595,7 +2577,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {5} {2}$
+<pre class='language-latex'><code class='language-latex'>$2.5$
 </code></pre>
 </div>
 </div>
@@ -2641,7 +2623,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5757E4AA-C7E9-4186-8F69-0AA3D64752CA</p>
 </div>
@@ -2655,7 +2637,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2681,8 +2663,6 @@ What is the other number?
 
 Let the number $= a$.
 
-As per the question,
-
 $
 \begin{aligned}
 \dfrac {0.11 + a} {2}                &= 0.126 \\\\
@@ -2693,7 +2673,7 @@ a                                    &= 0.142
 \end{aligned}
 $
 
-Other number $= 0.142$.
+Therefore, other number $= 0.142$.
 
 </div>
 </div>
@@ -2709,8 +2689,6 @@ $0.142$
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$.
 
-As per the question,
-
 $
 \begin{aligned}
 \dfrac {0.11 + a} {2}                &= 0.126 \\\\
@@ -2721,7 +2699,7 @@ a                                    &= 0.142
 \end{aligned}
 $
 
-Other number $= 0.142$.
+Therefore, other number $= 0.142$.
 </code></pre>
 </div>
 </div>
@@ -2882,7 +2860,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A5529866-6896-4634-A0C7-7BA27DF46995</p>
 </div>
@@ -2896,7 +2874,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2916,7 +2894,6 @@ What is halfway between $120$ and $300$?
 <div class='workings'>
 <div class='working'>
 
-Halfway between two numbers $= \dfrac{(\text{MAX} + \text{MIN})} {2}$
 
 $
 \begin{aligned}
@@ -2924,9 +2901,11 @@ $
 &= \dfrac {420} {2} \\\\
 &= \dfrac {2 \times 210} {2} \\\\
 &= \dfrac {\cancel {2} \times 210} {\cancel {2}} \\\\
-&= 210
+&= 210 
 \end{aligned}
 $
+
+Halfway between the given numbers is 210.
 
 </div>
 </div>
@@ -2940,17 +2919,18 @@ $210$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Halfway between two numbers $= \dfrac{(\text{MAX} + \text{MIN})} {2}$
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
 &= \dfrac {300 + 120} {2} \\\\
 &= \dfrac {420} {2} \\\\
 &= \dfrac {2 \times 210} {2} \\\\
 &= \dfrac {\cancel {2} \times 210} {\cancel {2}} \\\\
-&= 210
+&= 210 
 \end{aligned}
 $
+
+Halfway between the given numbers is 210.
 </code></pre>
 </div>
 </div>

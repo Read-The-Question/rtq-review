@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-1-notstarted"
 title: "TopicPaper - Graph - 1 - NOTSTARTED"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -315,22 +315,29 @@ How many boys pass the test?
 <div class='workings'>
 <div class='working'>
 
-Let the number of boys $= b$
+Let total number of boys $= a$
 
-As per the pie chart,
+As per the graph,
 
 $
 \begin{aligned}
-\dfrac{1}{4} \times b &= 15 \\\\
-b &= 15 \times 4 \\\\
-b &= 60
+\text {Boys failed}         &= 15 \\\\
+\dfrac {3} {12} \times a    &= 15 \\\\
+3a                          &= 15 \times 12 \\\\
+a                           &= \dfrac {15 \times 12} {3} \\\\
+a                           &= \dfrac {3 \times 5 \times 12} {3} \\\\
+a                           &= \dfrac {\cancel {3} \times 5 \times 12} {\cancel {3}} \\\\
+a                           &= 5 \times 12 \\\\
+a                           &= 60
 \end{aligned}
 $
 
+Total number of boys $= 60$
+
 $
 \begin{aligned}
-\text{Boys who passed the test}     &= 60 - 15 \\\\
-                                            &= 45
+\text{Boys passed}      &= 60 - 15 \\\\
+                        &= 45
 \end{aligned}
 $
 
@@ -346,22 +353,29 @@ $45$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number of boys $= b$
+<pre class='language-latex'><code class='language-latex'>Let total number of boys $= a$
 
-As per the pie chart,
+As per the graph,
 
 $
 \begin{aligned}
-\dfrac{1}{4} \times b &= 15 \\\\
-b &= 15 \times 4 \\\\
-b &= 60
+\text {Boys failed}         &= 15 \\\\
+\dfrac {3} {12} \times a    &= 15 \\\\
+3a                          &= 15 \times 12 \\\\
+a                           &= \dfrac {15 \times 12} {3} \\\\
+a                           &= \dfrac {3 \times 5 \times 12} {3} \\\\
+a                           &= \dfrac {\cancel {3} \times 5 \times 12} {\cancel {3}} \\\\
+a                           &= 5 \times 12 \\\\
+a                           &= 60
 \end{aligned}
 $
 
+Total number of boys $= 60$
+
 $
 \begin{aligned}
-\text{Boys who passed the test}     &= 60 - 15 \\\\
-                                            &= 45
+\text{Boys passed}      &= 60 - 15 \\\\
+                        &= 45
 \end{aligned}
 $
 </code></pre>
@@ -395,18 +409,8 @@ Charlie says that more girls fail the test than boys. Explain why he might not b
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -419,23 +423,8 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -665,241 +654,6 @@ TODOANSWER
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>EB8DEFE8-8C21-46BB-B230-ED8458A32909</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:19</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A survey was carried out to see what colour cars people owned. Here are the results:
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What fraction of people owned a black car?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{People who owned a black car}      &= \dfrac{90}{360} \\\\
-                                        &= \dfrac{90}{90 \times 4} \\\\
-                                        &= \dfrac{\cancel{90}}{\cancel{90} \times 4} \\\\
-                                        &= \dfrac{1}{4}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{1}{4}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{People who owned a black car}      &= \dfrac{90}{360} \\\\
-                                        &= \dfrac{90}{90 \times 4} \\\\
-                                        &= \dfrac{\cancel{90}}{\cancel{90} \times 4} \\\\
-                                        &= \dfrac{1}{4}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{4}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Given that $5$ people owned a white car, how many people owned a silver car?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the total number of people $= p$
-
-As per the pie chart, the people who owned a white car is $30 \degree$. Using that we get,
-
-$
-\begin{aligned}
-\dfrac{30}{360} \text{ of } p   &= 5 \\\\
-\dfrac{30}{360} \times a        &= 5 \\\\
-p                               &= \dfrac{5 \times 360}{60} \\\\
-p                               &= \dfrac{5 \times 60 \times 6}{60} \\\\
-p                               &= \dfrac{5 \times \cancel{60} \times 6}{\cancel{60}} \\\\
-p                               &= 5 \times 6 \\\\
-p                               &= 30
-\end{aligned}
-$
-
-Total people $= 30$
-
-$
-\begin{aligned}
-\text{People who owned a silver car}  &= \dfrac{180}{360} \times 30 \\\\
-                                    &= \dfrac{1}{2} \times 30 \\\\
-                                    &= \dfrac{30}{2} \\\\
-                                    &= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the total number of people $= p$
-
-As per the pie chart, the people who owned a white car is $30 \degree$. Using that we get,
-
-$
-\begin{aligned}
-\dfrac{30}{360} \text{ of } p   &= 5 \\\\
-\dfrac{30}{360} \times a        &= 5 \\\\
-p                               &= \dfrac{5 \times 360}{60} \\\\
-p                               &= \dfrac{5 \times 60 \times 6}{60} \\\\
-p                               &= \dfrac{5 \times \cancel{60} \times 6}{\cancel{60}} \\\\
-p                               &= 5 \times 6 \\\\
-p                               &= 30
-\end{aligned}
-$
-
-Total people $= 30$
-
-$
-\begin{aligned}
-\text{People who owned a silver car}  &= \dfrac{180}{360} \times 30 \\\\
-                                    &= \dfrac{1}{2} \times 30 \\\\
-                                    &= \dfrac{30}{2} \\\\
-                                    &= 15
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$15$
 </code></pre>
 </div>
 <div class='answercodeblock'>

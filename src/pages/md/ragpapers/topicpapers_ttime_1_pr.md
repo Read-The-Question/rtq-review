@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-pr"
 title: "TopicPaper - Time - 1 - PR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -132,10 +132,10 @@ $
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -432,10 +432,10 @@ $
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -576,10 +576,10 @@ $
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2928,10 +2928,10 @@ $
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3051,10 +3051,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:30</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

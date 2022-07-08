@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-10"
 title: "TopicPaper - Number - 10"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -6067,7 +6067,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2C656582-6ACE-4216-AD4B-DA5375031347</p>
 </div>
@@ -6081,7 +6081,7 @@ $
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8819,7 +8819,7 @@ $13083$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0599F702-1B64-45DB-AEE4-5001AF8C4CBC</p>
 </div>
@@ -8833,7 +8833,7 @@ $13083$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

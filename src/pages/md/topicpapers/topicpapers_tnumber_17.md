@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-17"
 title: "TopicPaper - Number - 17"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,10 +23,10 @@ date: 2022-07-07 16:10:01
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -440,10 +440,10 @@ The smallest whole number above $120$ which when divided by $53$ leaves a remain
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -1202,10 +1202,10 @@ $a = 45$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2710,10 +2710,10 @@ $47, 53$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2933,10 +2933,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3015,10 +3015,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5185,10 +5185,10 @@ Let's account for the one zero now $= 7420$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5291,10 +5291,10 @@ TODOANSWER
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6084,10 +6084,10 @@ $
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -6702,10 +6702,10 @@ $= 12$
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7063,10 +7063,10 @@ $10.47$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -7328,10 +7328,10 @@ This is not done as other similar questions.
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>

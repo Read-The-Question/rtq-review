@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-oldpr"
 title: "TopicPaper - Time - 2 - OLDPR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -136,10 +136,10 @@ $
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

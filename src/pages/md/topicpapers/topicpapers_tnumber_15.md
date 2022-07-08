@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-15"
 title: "TopicPaper - Number - 15"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -257,10 +257,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -561,10 +561,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1291,10 +1291,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1735,10 +1735,10 @@ litres
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3235,10 +3235,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3344,10 +3344,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3652,10 +3652,10 @@ $2 \times 3 \times 7 = 42$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3823,10 +3823,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4231,10 +4231,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4474,10 +4474,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4694,10 +4694,10 @@ Two thousand and seven is $10$ more than one thousand nine hundred and ninety se
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4943,10 +4943,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5014,10 +5014,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5253,10 +5253,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5607,10 +5607,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -6127,10 +6127,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -6630,10 +6630,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -6752,10 +6752,10 @@ put box in last line too
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7008,10 +7008,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -7651,10 +7651,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8065,10 +8065,10 @@ Lisa’s favourite number $= 11$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

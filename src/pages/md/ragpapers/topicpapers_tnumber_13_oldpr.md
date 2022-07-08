@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-oldpr"
 title: "TopicPaper - Number - 13 - OLDPR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_kb_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

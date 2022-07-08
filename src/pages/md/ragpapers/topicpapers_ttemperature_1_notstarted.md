@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-notstarted"
 title: "TopicPaper - Temperature - 1 - NOTSTARTED"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>

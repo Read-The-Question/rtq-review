@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-g0"
 title: "TopicPaper - Number - 8 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>04EBBA58-6647-40C9-8E46-0C41DA8751EB</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-07 16:10:01
 <p>rag_rb_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -83,21 +83,21 @@ square numbers
 <div class='workings'>
 <div class='working'>
 
-$9, \ \ 64$
+$9, \quad 64$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$9, \ \ 64$
+$9, \quad 64$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$9, \ \ 64$
+<pre class='language-latex'><code class='language-latex'>$9, \quad 64$
 </code></pre>
 </div>
 </div>
@@ -109,7 +109,7 @@ $9, \ \ 64$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9, \ \ 64$
+<pre class='language-latex'><code class='language-latex'>$9, \quad 64$
 </code></pre>
 </div>
 </div>
@@ -126,21 +126,21 @@ cube numbers
 <div class='workings'>
 <div class='working'>
 
-$8, \ \ 64$
+$8, \quad 64$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8, \ \ 64$
+$8, \quad 64$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$8, \ \ 64$
+<pre class='language-latex'><code class='language-latex'>$8, \quad 64$
 </code></pre>
 </div>
 </div>
@@ -152,7 +152,7 @@ $8, \ \ 64$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8, \ \ 64$
+<pre class='language-latex'><code class='language-latex'>$8, \quad 64$
 </code></pre>
 </div>
 </div>
@@ -169,21 +169,21 @@ prime numbers
 <div class='workings'>
 <div class='working'>
 
-$3, \ \ 41$
+$3, \quad 41$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3, \ \ 41$
+$3, \quad 41$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$3, \ \ 41$
+<pre class='language-latex'><code class='language-latex'>$3, \quad 41$
 </code></pre>
 </div>
 </div>
@@ -195,7 +195,7 @@ $3, \ \ 41$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3, \ \ 41$
+<pre class='language-latex'><code class='language-latex'>$3, \quad 41$
 </code></pre>
 </div>
 </div>
@@ -212,21 +212,21 @@ factors of $56$
 <div class='workings'>
 <div class='working'>
 
-$8, \ \ 28$
+$8, \quad 28$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8, \ \ 28$
+$8, \quad 28$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$8, \ \ 28$
+<pre class='language-latex'><code class='language-latex'>$8, \quad 28$
 </code></pre>
 </div>
 </div>
@@ -238,7 +238,7 @@ $8, \ \ 28$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8, \ \ 28$
+<pre class='language-latex'><code class='language-latex'>$8, \quad 28$
 </code></pre>
 </div>
 </div>
@@ -296,7 +296,7 @@ use \quad instead of \ \ for spacing
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4D2B394A-E26C-48A9-AA9D-F465C4BA0818</p>
 </div>
@@ -310,7 +310,7 @@ use \quad instead of \ \ for spacing
 <p>rag_rb_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -489,7 +489,7 @@ $
 &= \dfrac {13 \times 2} {5 \times 2} + \dfrac {3 \times 5} {2 \times 5} \\\\
 &= \dfrac {26} {10} + \dfrac {15} {10} \\\\
 &= \dfrac {26 + 15} {10} \\\\
-&= \dfrac {41} {10}
+&= 4 \ \dfrac {1} {10} 
 \end{aligned}
 $
 
@@ -498,7 +498,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {41} {10}$
+$4 \ \dfrac {1} {10}$
 
 </div>
 </div>
@@ -512,7 +512,7 @@ $\dfrac {41} {10}$
 &= \dfrac {13 \times 2} {5 \times 2} + \dfrac {3 \times 5} {2 \times 5} \\\\
 &= \dfrac {26} {10} + \dfrac {15} {10} \\\\
 &= \dfrac {26 + 15} {10} \\\\
-&= \dfrac {41} {10}
+&= 4 \ \dfrac {1} {10} 
 \end{aligned}
 $
 </code></pre>
@@ -526,7 +526,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {41} {10}$
+<pre class='language-latex'><code class='language-latex'>$4 \ \dfrac {1} {10}$
 </code></pre>
 </div>
 </div>
@@ -588,7 +588,7 @@ write the final answre in mixed fraction as the original question had mixed frac
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1A3FC891-C119-48EE-A8DC-B1BD9CD15311</p>
 </div>
@@ -602,7 +602,7 @@ write the final answre in mixed fraction as the original question had mixed frac
 <p>rag_rb_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -660,6 +660,10 @@ $4 \ {?} \ 3 \ {?} \  2 = 14$
 <div class='workings'>
 <div class='working'>
 
+$4 \times 3 + 2 = 14$
+
+Let's verify.
+
 $
 \begin{aligned}
 &= 4 \times 3 + 2 \\\\
@@ -680,7 +684,11 @@ $4 \times 3 + 2 = 14$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$4 \times 3 + 2 = 14$
+
+Let's verify.
+
+$
 \begin{aligned}
 &= 4 \times 3 + 2 \\\\
 &= 12 + 2 \\\\
@@ -715,6 +723,10 @@ $(3 \ {?} \ 5) \ {?} \ (4 \ {?} \ 2) = 4$
 <div class='workings'>
 <div class='working'>
 
+$(3 + 5) \div (4 - 2) = 4$
+
+Let's verify 
+
 $
 \begin{aligned}
 &= (3 + 5) \div (4 - 2) \\\\
@@ -735,7 +747,11 @@ $(3 + 5) \div (4 - 2) = 4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$(3 + 5) \div (4 - 2) = 4$
+
+Let's verify 
+
+$
 \begin{aligned}
 &= (3 + 5) \div (4 - 2) \\\\
 &= 8 \div 2 \\\\
@@ -815,7 +831,7 @@ First write the answer, then verify the answer as given in reference uuid for al
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3F8909D1-F3B2-4F16-AA83-CCF85A77CEF0</p>
 </div>
@@ -829,7 +845,7 @@ First write the answer, then verify the answer as given in reference uuid for al
 <p>rag_rb_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -849,21 +865,21 @@ Write down two **different** odd prime numbers that add together to make a squar
 <div class='workings'>
 <div class='working'>
 
-$5, \ \ 11$
+$5, \quad 11$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5, \ \ 11$
+$5, \quad 11$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$5, \ \ 11$
+<pre class='language-latex'><code class='language-latex'>$5, \quad 11$
 </code></pre>
 </div>
 </div>
@@ -875,7 +891,7 @@ $5, \ \ 11$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5, \ \ 11$
+<pre class='language-latex'><code class='language-latex'>$5, \quad 11$
 </code></pre>
 </div>
 </div>
@@ -921,7 +937,7 @@ $5, \ \ 11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7D4D7D66-A219-4530-8AD2-9B49EAA75FC9</p>
 </div>
@@ -935,7 +951,7 @@ $5, \ \ 11$
 <p>rag_rb_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1052,7 +1068,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\text {Two thousand five hundred and twenty six}$
+Two thousand five hundred and twenty six
 
 </div>
 </div>
@@ -1077,7 +1093,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Two thousand five hundred and twenty six}$
+<pre class='language-latex'><code class='language-latex'>Two thousand five hundred and twenty six
 </code></pre>
 </div>
 </div>
@@ -1135,7 +1151,7 @@ Remove \text in the answer (not in working). Just write plain md.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D886A428-808E-47EE-B054-ED47FD880D59</p>
 </div>
@@ -1149,7 +1165,7 @@ Remove \text in the answer (not in working). Just write plain md.
 <p>rag_rb_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1214,6 +1230,15 @@ A multiple of $7$:
 
 $28$
 
+Let's verify 
+
+$
+\begin{aligned}
+&= 28 \\\\
+&= 7 \times 4
+\end{aligned}
+$
+
 </div>
 </div>
 <div class='answers'>
@@ -1227,6 +1252,15 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$28$
+
+Let's verify 
+
+$
+\begin{aligned}
+&= 28 \\\\
+&= 7 \times 4
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1257,6 +1291,16 @@ A square number:
 
 $9$
 
+Let's verify
+
+$
+\begin{aligned}
+&= 9 \\\\
+&= 3 \times 3 \\\\
+&= 3 ^ 2
+\end{aligned}
+$
+
 </div>
 </div>
 <div class='answers'>
@@ -1270,6 +1314,16 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$9$
+
+Let's verify
+
+$
+\begin{aligned}
+&= 9 \\\\
+&= 3 \times 3 \\\\
+&= 3 ^ 2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1298,21 +1352,39 @@ The product of two of the other numbers in the box:
 <div class='workings'>
 <div class='working'>
 
-$45$
+$30$
+
+Let's verify
+
+$
+\begin{aligned}
+&= 2 \times 15 \\\\
+&= 30
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$45$
+$30$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$45$
+<pre class='language-latex'><code class='language-latex'>$30$
+
+Let's verify
+
+$
+\begin{aligned}
+&= 2 \times 15 \\\\
+&= 30
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1324,7 +1396,7 @@ $45$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$45$
+<pre class='language-latex'><code class='language-latex'>$30$
 </code></pre>
 </div>
 </div>
@@ -1382,7 +1454,7 @@ write as lets verify way.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D03375C8-7EA3-489F-8485-E7B331CCAD8E</p>
 </div>
@@ -1396,7 +1468,7 @@ write as lets verify way.
 <p>rag_rb_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1517,9 +1589,9 @@ In a class of $30$ pupils, $21$ are girls. What percentage of the class is boys?
 
 $
 \begin{aligned}
-\text {Boys in the class}   &= 30 - 21 \\\\
+\text {Number of boys}      &= 30 - 21 \\\\
                             &= 9 \\\\
-\text {\% of boys}           &= \dfrac {9} {30} \times 100 \\\\
+\text {\% of boys}          &= \dfrac {9} {30} \times 100 \\\\
                             &= \dfrac {9 \times 100} {30} \\\\
                             &= \dfrac {3 \times 3 \times 10 \times 10} {3 \times 10} \\\\
                             &= \dfrac {3 \times \cancel {3} \times 10 \times \cancel {10}} {\cancel {3} \times \cancel {10}} \\\\
@@ -1541,9 +1613,9 @@ $30 \%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Boys in the class}   &= 30 - 21 \\\\
+\text {Number of boys}      &= 30 - 21 \\\\
                             &= 9 \\\\
-\text {\% of boys}           &= \dfrac {9} {30} \times 100 \\\\
+\text {\% of boys}          &= \dfrac {9} {30} \times 100 \\\\
                             &= \dfrac {9 \times 100} {30} \\\\
                             &= \dfrac {3 \times 3 \times 10 \times 10} {3 \times 10} \\\\
                             &= \dfrac {3 \times \cancel {3} \times 10 \times \cancel {10}} {\cancel {3} \times \cancel {10}} \\\\
@@ -1641,9 +1713,8 @@ $
 \begin{aligned}
 &= 85 \% \\\\
 &= \dfrac {85} {100} \\\\
-&= \dfrac {17 \times 5} {2 \times 5 \times 10} \\\\
-&= \dfrac {17 \times \cancel {5}} {2 \times \cancel {5} \times 10} \\\\
-&= \dfrac {17} {2 \times 10} \\\\
+&= \dfrac {17 \times 5} {20 \times 5} \\\\
+&= \dfrac {17 \times \cancel {5}} {20 \times \cancel {5}} \\\\
 &= \dfrac {17} {20}
 \end{aligned}
 $
@@ -1664,9 +1735,8 @@ $\dfrac {17} {20}$
 \begin{aligned}
 &= 85 \% \\\\
 &= \dfrac {85} {100} \\\\
-&= \dfrac {17 \times 5} {2 \times 5 \times 10} \\\\
-&= \dfrac {17 \times \cancel {5}} {2 \times \cancel {5} \times 10} \\\\
-&= \dfrac {17} {2 \times 10} \\\\
+&= \dfrac {17 \times 5} {20 \times 5} \\\\
+&= \dfrac {17 \times \cancel {5}} {20 \times \cancel {5}} \\\\
 &= \dfrac {17} {20}
 \end{aligned}
 $

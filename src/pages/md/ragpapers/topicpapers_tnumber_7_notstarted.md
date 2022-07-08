@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-notstarted"
 title: "TopicPaper - Number - 7 - NOTSTARTED"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -36,36 +36,21 @@ Write $\pounds 87$ to the nearest $\pounds 5$.
 <div class='workings'>
 <div class='working'>
 
-
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\pounds 85$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 85$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\pounds 85$
 </code></pre>
 </div>
 </div>
@@ -77,17 +62,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds 85$
 </code></pre>
 </div>
 </div>
@@ -139,72 +114,72 @@ E: $7$
 <div class='workings'>
 <div class='working'>
 
+Let the missing value $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 299 &= 577 \\\\
+a       &= 577-299
+\end{aligned}
+$
+
 $
 \begin{array}{cccccccccccccc}
-        &  5 & 7 & 7 \\
-    {}+ &  2 & 9 & 9 \\
-    \hline
-        & 2 & 7 & 8
+    &  5 & 7 & 7 \\
+{}- &  2 & 9 & 9 \\
+\hline
+    &  2 & 7 & 8
 \end{array}
 $
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-7 is the answer
-
+<div class='option'>
+<p>E</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+7
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 299 &= 577 \\\\
+a       &= 577-299
+\end{aligned}
+$
+
+$
 \begin{array}{cccccccccccccc}
-        &  5 & 7 & 7 \\
-    {}+ &  2 & 9 & 9 \\
-    \hline
-        & 2 & 7 & 8
+    &  5 & 7 & 7 \\
+{}- &  2 & 9 & 9 \\
+\hline
+    &  2 & 7 & 8
 \end{array}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>E</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>7 is the answer
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>7
 </code></pre>
 </div>
 </div>
@@ -254,68 +229,53 @@ E: $231$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin {aligned}
-&= 1 {}+ 6 {}+ 20 {}+ 6 \\\\
+&= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
+&= 1 + 6 + 20 + 6 \\\\
 &= 33
 \end {aligned}
 $
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
 <div class='answer'>
 
 33
-
-</div>
-<div class='answer'>
-
-TODOANSWER
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin {aligned}
-&= 1 {}+ 6 {}+ 20 {}+ 6 \\\\
+&= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
+&= 1 + 6 + 20 + 6 \\\\
 &= 33
 \end {aligned}
 $
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>33
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -365,58 +325,56 @@ E: $17\text{p}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$17\text{p}$
 
-</div>
-<div class='working'>
+Lets verify
 
-TODOWORKING
+$
+\begin{aligned}
+49\text{p}   &= 11 \text{p} \times 4 + 5\text{p} \\\\
+19\text{p}   &= 11 \text{p} + 8 \text{p} \\\\
+38\text{p}   &= 11 \text{p} \times 3 + 5 \text{p} 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>E</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+ $=$ $17\text{p}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>$17\text{p}$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Lets verify
+
+$
+\begin{aligned}
+49\text{p}   &= 11 \text{p} \times 4 + 5\text{p} \\\\
+19\text{p}   &= 11 \text{p} + 8 \text{p} \\\\
+38\text{p}   &= 11 \text{p} \times 3 + 5 \text{p} 
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>E</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'></code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$17\text{p}$
 </code></pre>
 </div>
 </div>
@@ -456,36 +414,21 @@ tnumber
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -497,17 +440,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -524,33 +457,23 @@ Work out $53\times173$
 
 $
 \begin{array}{cccccccccccccc}
-            &       &              & 5     & 3     \\
-{}\times    &       & 1              & 7     & 3     \\
+            &     &     &  5     & 3    \\
+{}\times    &     &  1  &  7     & 3    \\
 \hline
-            &      &       1       & 5     & 9     \\
-           &      3&       7       & 1     & 0     \\
-            &     5 &      3        & 0     & 0    \\
+            &     &  1  &  5     & 9    \\
+            &  3  &  7  &  1     & 0    \\
+            &  5  &  3  &  0     & 0    \\
 \hline
-           & 9 & 1 & 6 & 9
+            &  9  &  1  &  6     & 9
 \end{array}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-9169
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9169$
 
 </div>
 </div>
@@ -559,21 +482,16 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{cccccccccccccc}
-            &       &              & 5     & 3     \\
-{}\times    &       & 1              & 7     & 3     \\
+            &     &     &  5     & 3    \\
+{}\times    &     &  1  &  7     & 3    \\
 \hline
-            &      &       1       & 5     & 9     \\
-           &      3&       7       & 1     & 0     \\
-            &     5 &      3        & 0     & 0    \\
+            &     &  1  &  5     & 9    \\
+            &  3  &  7  &  1     & 0    \\
+            &  5  &  3  &  0     & 0    \\
 \hline
-           & 9 & 1 & 6 & 9
+            &  9  &  1  &  6     & 9
 \end{array}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -585,17 +503,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>9169
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$9169$
 </code></pre>
 </div>
 </div>
@@ -614,29 +522,19 @@ Subtract $235$ from $412$.
 
 $
 \begin{array}{cccccccccccccc}
-        & 2  & 3 & 5 \\
-    {}- &  4 & 1 & 2 \\
-    \hline
-    {}-    & 1 & 7 & 7
+    & 4  & 1 & 2 \\
+{}- & 2  & 3 & 5 \\
+\hline
+    & 1  & 7 & 7
 \end{array}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
--177
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$177$
 
 </div>
 </div>
@@ -645,17 +543,12 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{cccccccccccccc}
-        & 2  & 3 & 5 \\
-    {}- &  4 & 1 & 2 \\
-    \hline
-    {}-    & 1 & 7 & 7
+    & 4  & 1 & 2 \\
+{}- & 2  & 3 & 5 \\
+\hline
+    & 1  & 7 & 7
 \end{array}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -667,17 +560,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>-177
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$177$
 </code></pre>
 </div>
 </div>
@@ -703,21 +586,11 @@ $
 $
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
 31.23
-
-</div>
-<div class='answer'>
-
-TODOANSWER
 
 </div>
 </div>
@@ -733,11 +606,6 @@ TODOANSWER
 $
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
@@ -748,16 +616,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>31.23
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -1042,36 +900,21 @@ Calculate
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1083,17 +926,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1167,12 +1000,14 @@ $361 - 89$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{array}{cccccccccccccc}
     &   3   &   6   &   1 \\
 {}- &       &   8   &   9 \\
 \hline
     &   2   &   7   &   2
 \end{array}
+$
 
 </div>
 </div>
@@ -1186,12 +1021,14 @@ $272$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>\begin{array}{cccccccccccccc}
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
     &   3   &   6   &   1 \\
 {}- &       &   8   &   9 \\
 \hline
     &   2   &   7   &   2
 \end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -1220,36 +1057,46 @@ $\pounds17.23 + \pounds6.58 + 75\text{p}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
+ABBR: It is really important to use the right units in calculations and convert where required.
 
-TODOWORKING
+Let's convert all the costs into pence.
+
+$
+\begin{array}{cccccccccccccc}
+    & 1 & 7 & 2 & 3 \\
+    &   & 6 & 5 & 8 \\
+{}+ &   &   & 7 & 5 \\
+\hline
+    & 2 & 4 & 5 & 6
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$2456 \text{p}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>
+rtq_abbr_md_unit_note
+Let's convert all the costs into pence.
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{array}{cccccccccccccc}
+    & 1 & 7 & 2 & 3 \\
+    &   & 6 & 5 & 8 \\
+{}+ &   &   & 7 & 5 \\
+\hline
+    & 2 & 4 & 5 & 6
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -1261,17 +1108,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$2456 \text{p}$
 </code></pre>
 </div>
 </div>
@@ -1302,7 +1139,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$1674$
 
 </div>
 </div>
@@ -1328,7 +1165,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1674$
 </code></pre>
 </div>
 </div>
@@ -1345,36 +1182,35 @@ $85 \div 5$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&=  85 \div 5 \\\\
+&=  \dfrac {85} {5} \\\\
+&=  \dfrac {17 \times \cancel {5}} {\cancel {5}}
+&=  17
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+17
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&=  85 \div 5 \\\\
+&=  \dfrac {85} {5} \\\\
+&=  \dfrac {17 \times \cancel {5}} {\cancel {5}}
+&=  17
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1386,17 +1222,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>17
 </code></pre>
 </div>
 </div>
@@ -1480,21 +1306,39 @@ an odd answer.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$57, \quad 28$
+
+Let's verify
+
+$
+\begin{aligned}
+&= 57 + 28 \\\\
+&= 85
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$57, \quad 28$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$57, \quad 28$
+
+Let's verify
+
+$
+\begin{aligned}
+&= 57 + 28 \\\\
+&= 85
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1506,7 +1350,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$57, \quad 28$
 </code></pre>
 </div>
 </div>
@@ -1523,36 +1367,21 @@ The largest possible answer.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$75, \quad 82$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$75, \quad 82$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$75, \quad 82$
 </code></pre>
 </div>
 </div>
@@ -1564,17 +1393,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$75, \quad 82$
 </code></pre>
 </div>
 </div>
@@ -1617,36 +1436,21 @@ tnumber
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty% 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty% 
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty% 
 </code></pre>
 </div>
 </div>
@@ -1658,17 +1462,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty% 
 </code></pre>
 </div>
 </div>
@@ -1683,36 +1477,21 @@ Find the largest 2-digit number which is neither prime nor divisible by $3$ or $
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$98$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$98$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$98$
 </code></pre>
 </div>
 </div>
@@ -1724,17 +1503,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$98$
 </code></pre>
 </div>
 </div>
@@ -1751,36 +1520,39 @@ Find the smallest 3-digit number which is neither prime nor divisible by $2,\:\:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$119$
 
-</div>
-<div class='working'>
+Lets verify 
 
-TODOWORKING
+$
+\begin{aligned}
+&= 119  \\\\
+&= 7*19
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+119
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>$119$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Lets verify 
+
+$
+\begin{aligned}
+&= 119  \\\\
+&= 7*19
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1792,17 +1564,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>119
 </code></pre>
 </div>
 </div>

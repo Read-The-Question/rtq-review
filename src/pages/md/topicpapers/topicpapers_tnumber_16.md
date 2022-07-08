@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,10 +23,10 @@ date: 2022-07-07 16:10:01
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -656,10 +656,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1310,10 +1310,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1742,10 +1742,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3918,10 +3918,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4245,10 +4245,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4955,10 +4955,10 @@ Answer in the middle $= 8$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5555,10 +5555,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6939,10 +6939,10 @@ $63401$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -7453,7 +7453,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2F004FED-C180-43D6-92EB-C8E129B37242</p>
 </div>
@@ -7461,13 +7461,13 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_up_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7494,27 +7494,28 @@ Which **one** of the following statements is false?
 <div class='workings'>
 <div class='working'>
 
-ABBR: Using BIDMAS
-,
+$
+\begin{aligned}
+\text{A}    &= 2 + 5 \times 4 \\\\
+            &= 2 + 20 \\\\
+            &= \red
+{22} = 22 \\\\
+\text{B}    &= 18 - 6 \times 3 \\\\
+            &= 18 - 18 \\\\
+            &= \red
+{0} = 0 \\\\
+\text{C}    &= 15 - 2 \times 7 \\\\
+            &= 15 - 14 \\\\
+            &= \red
+{1}  = 1 \\\\
+\text{D}    &= 7 + 1 \times 3 \\\\
+            &= 7 + 3 \\\\
+            &= \green
+{10} \neq 24
+\end{aligned}
+$
 
-A. $2 + 5 \times 4 =$
-$2 + 20 =  \green
-{22}$
-
-B. $18 - 6 \times 3 =$
-$18 - 18 =  \green
-{0}$
-
-C. $15-2 \times 7 = $
-$15-14 =  \green
-{1}$
-
-D. $7 + 1 \times 3 = \red
-{21}$
-
-E. $8 \times 5 - 7 =$
-$40 - 7 =  \green
-{33}$
+False statement $= \text{D}$
 
 </div>
 </div>
@@ -7528,21 +7529,24 @@ $D$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{A}    &= 2 + 5 \times 4 \\\\
+            &= 2 + 20 \\\\
+            &= \rtq_katex_color_wrong_answer{22} = 22 \\\\
+\text{B}    &= 18 - 6 \times 3 \\\\
+            &= 18 - 18 \\\\
+            &= \rtq_katex_color_wrong_answer{0} = 0 \\\\
+\text{C}    &= 15 - 2 \times 7 \\\\
+            &= 15 - 14 \\\\
+            &= \rtq_katex_color_wrong_answer{1}  = 1 \\\\
+\text{D}    &= 7 + 1 \times 3 \\\\
+            &= 7 + 3 \\\\
+            &= \rtq_katex_color_answer{10} \neq 24
+\end{aligned}
+$
 
-A. $2 + 5 \times 4 =$
-$2 + 20 =  \rtq_katex_color_answer{22}$
-
-B. $18 - 6 \times 3 =$
-$18 - 18 =  \rtq_katex_color_answer{0}$
-
-C. $15-2 \times 7 = $
-$15-14 =  \rtq_katex_color_answer{1}$
-
-D. $7 + 1 \times 3 = \rtq_katex_color_wrong_answer{21}$
-
-E. $8 \times 5 - 7 =$
-$40 - 7 =  \rtq_katex_color_answer{33}$
+False statement $= \text{D}$
 </code></pre>
 </div>
 </div>

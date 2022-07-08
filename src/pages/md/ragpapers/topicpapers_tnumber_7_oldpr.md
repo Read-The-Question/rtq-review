@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-oldpr"
 title: "TopicPaper - Number - 7 - OLDPR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2FFF4985-E128-4223-A3A6-63DFE0284470</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-07 16:10:01
 <p>rag_rb_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -103,11 +103,22 @@ $836 + 79 - 108$
 <div class='working'>
 
 $
-\begin{aligned}
-&= 836 + 79 - 108 \\\\
-&= 915 - 108 \\\\
-&= 807
-\end{aligned}
+\begin{array}{cccccccccccccc}
+      &   8   &   3   &   6 \\
+{}+   &       &   7   &   9 \\
+\hline
+      &   9   &   1   &   5
+\end{array}
+$
+
+
+$
+\begin{array}{cccccccccccccc}
+      &   9   &   1   &   5 \\
+{}-   &   1   &   0   &   8 \\
+\hline
+      &   8   &   0   &   7
+\end{array}
 $
 
 </div>
@@ -123,11 +134,22 @@ $807$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 836 + 79 - 108 \\\\
-&= 915 - 108 \\\\
-&= 807
-\end{aligned}
+\begin{array}{cccccccccccccc}
+      &   8   &   3   &   6 \\
+{}+   &       &   7   &   9 \\
+\hline
+      &   9   &   1   &   5
+\end{array}
+$
+
+
+$
+\begin{array}{cccccccccccccc}
+      &   9   &   1   &   5 \\
+{}-   &   1   &   0   &   8 \\
+\hline
+      &   8   &   0   &   7
+\end{array}
 $
 </code></pre>
 </div>
@@ -216,11 +238,11 @@ $259 \div 7$
 
 $
 \begin{aligned}
-259 \div 7 \\\\
+&=  259 \div 7 \\\\
 &=  \dfrac{259}{7} \\\\
 &=  \dfrac{37 \times 7}{7} \\\\
 &=  \dfrac{37 \times \cancel 7}{\cancel 7} \\\\
-&=   37
+&=  37
 \end{aligned}
 $
 
@@ -238,11 +260,11 @@ $37$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-259 \div 7 \\\\
+&=  259 \div 7 \\\\
 &=  \dfrac{259}{7} \\\\
 &=  \dfrac{37 \times 7}{7} \\\\
 &=  \dfrac{37 \times \cancel 7}{\cancel 7} \\\\
-&=   37
+&=  37
 \end{aligned}
 $
 </code></pre>
@@ -312,7 +334,7 @@ use array for part a
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>39FEECD6-F2F2-4967-9FC1-5D2680489012</p>
 </div>
@@ -326,7 +348,7 @@ use array for part a
 <p>rag_rb_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -764,8 +786,8 @@ $
 &=  442 \div 17 \\\\
 &=  \dfrac {442} {17} \\\\
 &=  \dfrac {26 \times 17} {17} \\\\
-&=  \dfrac {26 \times \cancel {17} {\cancel {17}} \\\\
-&=   26
+&=  \dfrac {26 \times \cancel {17}} {\cancel {17}} \\\\
+&=  26
 \end{aligned}
 $
 
@@ -786,8 +808,8 @@ $26$
 &=  442 \div 17 \\\\
 &=  \dfrac {442} {17} \\\\
 &=  \dfrac {26 \times 17} {17} \\\\
-&=  \dfrac {26 \times \cancel {17} {\cancel {17}} \\\\
-&=   26
+&=  \dfrac {26 \times \cancel {17}} {\cancel {17}} \\\\
+&=  26
 \end{aligned}
 $
 </code></pre>

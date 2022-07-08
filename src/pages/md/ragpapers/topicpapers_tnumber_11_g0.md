@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g0"
 title: "TopicPaper - Number - 11 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C954F40E-1D09-4B13-991D-3F41AE8C2EBD</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-07 16:10:01
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -151,7 +151,7 @@ infact below you have done 399479DE-51A6-4956-8212-54785530A4E3 which is done th
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>319B61CC-449C-44FE-B38A-92867BEE2EA2</p>
 </div>
@@ -165,7 +165,7 @@ infact below you have done 399479DE-51A6-4956-8212-54785530A4E3 which is done th
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -283,7 +283,7 @@ Write as just Ninety nine thousand eight hundred eighty nine
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5D23DFC1-FD54-4C99-AB45-64690B6C330D</p>
 </div>
@@ -297,7 +297,7 @@ Write as just Ninety nine thousand eight hundred eighty nine
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -535,7 +535,7 @@ Not done right way, doing a as sample, fix all on the same lines, use katex begi
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1745EB65-D406-49A7-B609-AA0C27FEF72C</p>
 </div>
@@ -549,7 +549,7 @@ Not done right way, doing a as sample, fix all on the same lines, use katex begi
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -664,7 +664,7 @@ write similar to F540568C-C61B-4E8A-BFF9-10AF9AC433D7, write using bidmas abbrev
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>399479DE-51A6-4956-8212-54785530A4E3</p>
 </div>
@@ -678,7 +678,7 @@ write similar to F540568C-C61B-4E8A-BFF9-10AF9AC433D7, write using bidmas abbrev
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -972,7 +972,7 @@ b should be like this:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>96E8D2D6-DA2F-4DA4-B311-368105378BF5</p>
 </div>
@@ -986,7 +986,7 @@ b should be like this:
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

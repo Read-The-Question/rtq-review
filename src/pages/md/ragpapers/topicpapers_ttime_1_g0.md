@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g0"
 title: "TopicPaper - Time - 1 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B42D6744-B5FF-4E7F-A4E1-0E475C841546</p>
 </div>
@@ -13,13 +13,13 @@ date: 2022-07-07 16:10:01
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -43,10 +43,10 @@ He needs to be at cricket training at $10 \ \text{am}$ - how many minutes does h
 
 $
 \begin{aligned}
-\text{Time left}              &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
+\text{Time left}              &= 10{:}00 - 8{:}15  \\\\
                               &= 1 \ \text{hour} \ 45 \ \text{minutes}   \\\\
                               &= 1 \times 60 \ \text{minutes} + 45  \ \text{minutes} \\\\
-                              &= 60 + 45  \ \text{minutes} \\\\
+                              &= 60 + 45  \\\\
                               &= 105  \ \text{minutes}
 \end{aligned}
 $
@@ -65,10 +65,10 @@ $105  \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time left}              &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
+\text{Time left}              &= 10{:}00 - 8{:}15  \\\\
                               &= 1 \ \text{hour} \ 45 \ \text{minutes}   \\\\
                               &= 1 \times 60 \ \text{minutes} + 45  \ \text{minutes} \\\\
-                              &= 60 + 45  \ \text{minutes} \\\\
+                              &= 60 + 45  \\\\
                               &= 105  \ \text{minutes}
 \end{aligned}
 $
@@ -148,10 +148,10 @@ remove minutes from step 4
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -253,7 +253,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>78560253-2BD8-42B2-8E55-911BFF244038</p>
 </div>
@@ -261,13 +261,13 @@ $
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -292,10 +292,8 @@ The time is given in hours, but the final answer has to be in minutes.
 
 $
 \begin {aligned}
-\text {Minutes stayed}  &= 15 \% \ \text {of} \ 3 \ \text {hours} \\\\
-                        &= \dfrac {15} {100} \times 3 \\\\
+\text {Minutes stayed}  &= 15 \% \ \text {of} \ 3  \\\\
                         &= \dfrac {15} {100} \times 3 \times 60 \ \text {minutes} \\\\
-                        &= \dfrac {15 \times 3 \times 60} {100} \\\\
                         &= \dfrac {5 \times 3 \times 3 \times 3 \times 2 \times 10} {5 \times 2 \times 10} \\\\
                         &= \dfrac {\cancel {5} \times 3 \times 3 \times 3 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
                         &= 3 \times 3 \times 3 \\\\
@@ -321,10 +319,8 @@ The time is given in hours, but the final answer has to be in minutes.
 
 $
 \begin {aligned}
-\text {Minutes stayed}  &= 15 \% \ \text {of} \ 3 \ \text {hours} \\\\
-                        &= \dfrac {15} {100} \times 3 \\\\
+\text {Minutes stayed}  &= 15 \% \ \text {of} \ 3  \\\\
                         &= \dfrac {15} {100} \times 3 \times 60 \ \text {minutes} \\\\
-                        &= \dfrac {15 \times 3 \times 60} {100} \\\\
                         &= \dfrac {5 \times 3 \times 3 \times 3 \times 2 \times 10} {5 \times 2 \times 10} \\\\
                         &= \dfrac {\cancel {5} \times 3 \times 3 \times 3 \times \cancel {2} \times \cancel {10}} {\cancel {5} \times \cancel {2} \times \cancel {10}} \\\\
                         &= 3 \times 3 \times 3 \\\\
@@ -401,7 +397,7 @@ remove step 2
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A7936BDD-9D0B-4DE1-9D29-9396E4564A70</p>
 </div>
@@ -409,13 +405,13 @@ remove step 2
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -434,9 +430,9 @@ How many $\text{minutes}$ are there between $9.23\ \text{am}$ and $1.06\ \text{p
 
 $
 \begin{aligned}
-&= 1{.}06 \ \text {pm} - 9{.}23 \ \text {am} \\\\
-&= 3 \ \text {hours} \ \ 43 \ \text {minutes} \\\\
-&= 3 \times 60 + 43 \\\\
+&= 1{:}06 \ \text {pm} - 9{:}23 \ \text {am} \\\\
+&= 3 \ \text {hours} \  43 \ \text {minutes} \\\\
+&= 3 \times 60 \ \text {minutes} + 43 \ \text {minutes} \\\\
 &= 180 + 43 \\\\
 &= 223 \ \text {minutes}
 \end{aligned}
@@ -456,9 +452,9 @@ $223 \ \text {minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 1{.}06 \ \text {pm} - 9{.}23 \ \text {am} \\\\
-&= 3 \ \text {hours} \ \ 43 \ \text {minutes} \\\\
-&= 3 \times 60 + 43 \\\\
+&= 1{:}06 \ \text {pm} - 9{:}23 \ \text {am} \\\\
+&= 3 \ \text {hours} \  43 \ \text {minutes} \\\\
+&= 3 \times 60 \ \text {minutes} + 43 \ \text {minutes} \\\\
 &= 180 + 43 \\\\
 &= 223 \ \text {minutes}
 \end{aligned}
@@ -541,10 +537,10 @@ step 3 : write \"minutes\" after 60
 <p>csse--11-plus--maths--2015--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -812,7 +808,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6A8BB9E0-C32A-4D55-898F-18D887FEB7F8</p>
 </div>
@@ -820,13 +816,13 @@ $
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -845,8 +841,8 @@ My journey to school generally takes $40 \ \text{minutes}$. What time shall I le
 
 $
 \begin{aligned}
-\text{Time I shall leave home}   &= 8{.}15 \ \text{a.m} - 40 \ \text{minutes} \\\\
-                                 &= 7{.}35 \ \text{a.m}
+\text{Time to leave}   &= 8{:}15 \ \text{am} - 40 \ \text{minutes} \\\\
+                       &= 7{:}35 \ \text{am}
 \end{aligned}
 $
 
@@ -864,8 +860,8 @@ $7{.}35 \ \text{a.m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time I shall leave home}   &= 8{.}15 \ \text{a.m} - 40 \ \text{minutes} \\\\
-                                 &= 7{.}35 \ \text{a.m}
+\text{Time to leave}   &= 8{:}15 \ \text{am} - 40 \ \text{minutes} \\\\
+                       &= 7{:}35 \ \text{am}
 \end{aligned}
 $
 </code></pre>
@@ -944,7 +940,7 @@ and remove . from a.m
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E16C4E97-F68B-47AE-9AB5-9D9CE481082D</p>
 </div>
@@ -952,13 +948,13 @@ and remove . from a.m
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -980,10 +976,10 @@ How many seconds in $24$ hours?
 
 $
 \begin{aligned}
-\text {Seconds in 1 hour}        &= 60 \times 60 \\\\
-                                 &= 3600 \\\\     
-\text {Seconds in 24 hours}      &= 24 \times 3600 \\\\
-                                 &= 86400 \ \text {seconds}
+&= 24 \ \text{hour} \\\\
+&=  24 \times 60 \times 60 \ \text{seconds} \\\\
+&=  24 \times 3600 \\\\
+&= 86400 \ \text {seconds}
 \end{aligned}
 $
 
@@ -1001,10 +997,10 @@ $86400  \ \text {seconds}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Seconds in 1 hour}        &= 60 \times 60 \\\\
-                                 &= 3600 \\\\     
-\text {Seconds in 24 hours}      &= 24 \times 3600 \\\\
-                                 &= 86400 \ \text {seconds}
+&= 24 \ \text{hour} \\\\
+&=  24 \times 60 \times 60 \ \text{seconds} \\\\
+&=  24 \times 3600 \\\\
+&= 86400 \ \text {seconds}
 \end{aligned}
 $
 </code></pre>
@@ -1079,7 +1075,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2E9E403F-844C-41B1-8119-E989E5B6E531</p>
 </div>
@@ -1087,13 +1083,13 @@ and solve further
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1112,7 +1108,7 @@ The sun rose at $05{:}43$ and set at $18{:}05$. How many minutes were there betw
 
 $
 \begin{aligned}
-\text{Time between sunrise and sunset}              &= 18{:}05 - 5{:}43 \\\\
+\text{Difference}                                   &= 18{:}05 - 5{:}43 \\\\
                                                     &= 12 \ \text{hour} \ 22 \ \text{minutes}   \\\\
                                                     &= 12 \times 60 \ \text{minutes} + 22 \ \text{minutes} \\\\
                                                     &= 720 + 22 \\\\
@@ -1134,7 +1130,7 @@ $742  \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time between sunrise and sunset}              &= 18{:}05 - 5{:}43 \\\\
+\text{Difference}                                   &= 18{:}05 - 5{:}43 \\\\
                                                     &= 12 \ \text{hour} \ 22 \ \text{minutes}   \\\\
                                                     &= 12 \times 60 \ \text{minutes} + 22 \ \text{minutes} \\\\
                                                     &= 720 + 22 \\\\
@@ -1211,7 +1207,7 @@ replace L.H.S with : \"Difference\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6758134C-A670-44FB-BDD8-5A6BEBD3402C</p>
 </div>
@@ -1219,13 +1215,13 @@ replace L.H.S with : \"Difference\"
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1247,10 +1243,10 @@ How many seconds in $12$ hours?
 
 $
 \begin{aligned}
-\text {Seconds in an hour}       &= 60 \times 60 \ \text {seconds} \\\\
-                                 &= 3600 \ \text {seconds} \\\\
-\text {Seconds in 12 hours}      &= 3600 \times 12 \\\\
-                                 &= 43200 \ \text {seconds}
+&=12 \ \text{hour} \\\\
+&= 12 \times 60 \times 60 \ \text {seconds} \\\\
+&= 12 \times 3600 \\\\
+&= 43200 \ \text {seconds}
 \end{aligned}
 $
 
@@ -1268,10 +1264,10 @@ $43200 \ \text {seconds}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Seconds in an hour}       &= 60 \times 60 \ \text {seconds} \\\\
-                                 &= 3600 \ \text {seconds} \\\\
-\text {Seconds in 12 hours}      &= 3600 \times 12 \\\\
-                                 &= 43200 \ \text {seconds}
+&=12 \ \text{hour} \\\\
+&= 12 \times 60 \times 60 \ \text {seconds} \\\\
+&= 12 \times 3600 \\\\
+&= 43200 \ \text {seconds}
 \end{aligned}
 $
 </code></pre>
@@ -1348,7 +1344,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AA0A40BF-651B-45E6-A04A-E3ECF12E2B2D</p>
 </div>
@@ -1356,13 +1352,13 @@ and solve further
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1384,7 +1380,7 @@ The sun rose at $05{:}34$ and set at $21{:}15$. How many minutes were there betw
 
 $
 \begin{aligned}
-\text{Time between sunrise and sunset}              &= 21{:}15 - 5{:}34 \\\\
+\text{Difference}                                   &= 21{:}15 - 5{:}34 \\\\
                                                     &= 15 \ \text{hour} \ 41 \ \text{minutes}   \\\\
                                                     &= 15 \times 60 \ \text{minutes} + 41  \ \text{minutes} \\\\
                                                     &= 900 + 41 \\\\
@@ -1406,7 +1402,7 @@ $941  \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time between sunrise and sunset}              &= 21{:}15 - 5{:}34 \\\\
+\text{Difference}                                   &= 21{:}15 - 5{:}34 \\\\
                                                     &= 15 \ \text{hour} \ 41 \ \text{minutes}   \\\\
                                                     &= 15 \times 60 \ \text{minutes} + 41  \ \text{minutes} \\\\
                                                     &= 900 + 41 \\\\
@@ -1483,7 +1479,7 @@ replace L.H.S with : \"Difference\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A1EDAEB9-76B5-4123-86DE-D30F402EFDCB</p>
 </div>
@@ -1491,13 +1487,13 @@ replace L.H.S with : \"Difference\"
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1514,21 +1510,21 @@ What time is the same as $4.30$ in the afternoon?
 <div class='workings'>
 <div class='working'>
 
-$16.30$
+$16{:}30$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$16.30$
+$16{:}30$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$16.30$
+<pre class='language-latex'><code class='language-latex'>$16{:}30$
 </code></pre>
 </div>
 </div>
@@ -1540,7 +1536,7 @@ $16.30$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16.30$
+<pre class='language-latex'><code class='language-latex'>$16{:}30$
 </code></pre>
 </div>
 </div>
@@ -1599,7 +1595,7 @@ replace . with :
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9DD640A7-205F-4E19-A2C2-DA3900B8FC8D</p>
 </div>
@@ -1607,13 +1603,13 @@ replace . with :
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:28</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1635,10 +1631,10 @@ How many seconds in $24$ hours?
 
 $
 \begin{aligned}
-\text {Seconds in an hour}       &= 60 \times 60 \ \text {seconds} \\\\
-                                 &= 3600 \ \text {seconds} \\\\
-\text {Seconds in 24 hours}      &= 3600 \times 24 \\\\
-                                 &= 86400 \ \text {seconds}
+&= 24 \ \text{hours} \\\\
+&= 24 \times 60 \times 60 \ \text {seconds} \\\\
+&= 24 \times 3600 \\\\
+&= 86400 \ \text {seconds}
 \end{aligned}
 $
 
@@ -1656,10 +1652,10 @@ $86400 \ \text {seconds}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Seconds in an hour}       &= 60 \times 60 \ \text {seconds} \\\\
-                                 &= 3600 \ \text {seconds} \\\\
-\text {Seconds in 24 hours}      &= 3600 \times 24 \\\\
-                                 &= 86400 \ \text {seconds}
+&= 24 \ \text{hours} \\\\
+&= 24 \times 60 \times 60 \ \text {seconds} \\\\
+&= 24 \times 3600 \\\\
+&= 86400 \ \text {seconds}
 \end{aligned}
 $
 </code></pre>
@@ -1736,7 +1732,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8B3960FC-2E89-4E92-95E6-DB73E2995DE1</p>
 </div>
@@ -1744,13 +1740,13 @@ and solve further
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:30</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1769,7 +1765,7 @@ The sun rose at $05{:}37$ and set at $21{:}10$. How many minutes were there betw
 
 $
 \begin{aligned}
-\text{Time between sunrise and sunset}              &= 21{:}10 - 5{:}37 \\\\
+\text{Difference}                                   &= 21{:}10 - 5{:}37 \\\\
                                                     &= 15 \ \text{hour} \ 33 \ \text{minutes}   \\\\
                                                     &= 15 \times 60 \ \text{minutes} + 33  \ \text{minutes} \\\\
                                                     &= 900 + 33 \\\\
@@ -1791,7 +1787,7 @@ $933  \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time between sunrise and sunset}              &= 21{:}10 - 5{:}37 \\\\
+\text{Difference}                                   &= 21{:}10 - 5{:}37 \\\\
                                                     &= 15 \ \text{hour} \ 33 \ \text{minutes}   \\\\
                                                     &= 15 \times 60 \ \text{minutes} + 33  \ \text{minutes} \\\\
                                                     &= 900 + 33 \\\\

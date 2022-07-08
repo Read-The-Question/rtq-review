@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g1-prns"
 title: "TopicPaper - Time - 1 - G1 - PRNS"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -132,10 +132,10 @@ $
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -268,10 +268,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:32</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g1</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

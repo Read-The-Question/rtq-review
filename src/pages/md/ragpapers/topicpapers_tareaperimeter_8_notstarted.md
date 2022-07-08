@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-notstarted"
 title: "TopicPaper - Areaperimeter - 8 - NOTSTARTED"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1933,7 +1933,14 @@ Find the radius of the sphere with the same surface area as the cube.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the radius of the sphere $= r$
+
+As per the question,
+
+$
+\begin{aligned}
+4\pi\,r^2       &= 150 \\\\
+
 
 </div>
 <div class='working'>
@@ -1957,7 +1964,14 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the radius of the sphere $= r$
+
+As per the question,
+
+$
+\begin{aligned}
+4\pi\,r^2       &= 150 \\\\
+
 </code></pre>
 </div>
 <div class='workingcodeblock'>

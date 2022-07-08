@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-blocked"
 title: "TopicPaper - Areaperimeter - 8 - BLOCKED"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

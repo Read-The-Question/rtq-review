@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-notstarted"
 title: "TopicPaper - Number - 13 - NOTSTARTED"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -107,10 +107,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -406,10 +406,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -500,10 +500,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -593,10 +593,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -688,10 +688,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -783,10 +783,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1011,10 +1011,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1239,10 +1239,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1589,10 +1589,10 @@ $\text {square}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1859,10 +1859,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2166,10 +2166,10 @@ $60 \pounds$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2504,10 +2504,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

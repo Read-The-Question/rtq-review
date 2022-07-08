@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-pr"
 title: "TopicPaper - Time - 2 - PR"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -568,10 +568,10 @@ $
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:19</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -700,10 +700,10 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -824,10 +824,10 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -939,10 +939,10 @@ $
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1542,10 +1542,10 @@ $
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-g0"
 title: "TopicPaper - Number - 3 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B5875D8A-0E59-497A-87D0-9B611FB2A027</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-07 16:10:01
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -39,21 +39,21 @@ Write the number ninety nine thousand ninety nine hundred and ninety nine in fig
 <div class='workings'>
 <div class='working'>
 
-$9909999$
+$999999$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$9909999$
+$999999$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$9909999$
+<pre class='language-latex'><code class='language-latex'>$999999$
 </code></pre>
 </div>
 </div>
@@ -65,7 +65,7 @@ $9909999$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9909999$
+<pre class='language-latex'><code class='language-latex'>$999999$
 </code></pre>
 </div>
 </div>
@@ -120,7 +120,7 @@ This does not seem to be correct?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2DDEAEF0-033E-49F6-8D4F-45B414CA2381</p>
 </div>
@@ -134,7 +134,7 @@ This does not seem to be correct?
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -304,6 +304,9 @@ $3 \times 4 + 5 \times 6$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= 3 \times 4 + 5 \times 6 \\\\
@@ -324,7 +327,9 @@ $42$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &= 3 \times 4 + 5 \times 6 \\\\
 &= 12 + 30 \\\\
@@ -400,7 +405,7 @@ c: WRite abbrev for bidmas
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3BDB00B3-B2BC-4D61-A8CD-E0447FA5BAD0</p>
 </div>
@@ -414,7 +419,7 @@ c: WRite abbrev for bidmas
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -474,7 +479,7 @@ If $x = 6$, work out the value of $2x$.
 
 $
 \begin{aligned}
-&= 2 \times x \\\\
+&= 2x \\\\
 &= 2 \times 6 \\\\
 &= 12
 \end{aligned}
@@ -494,7 +499,7 @@ $12$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 2 \times x \\\\
+&= 2x \\\\
 &= 2 \times 6 \\\\
 &= 12
 \end{aligned}
@@ -680,7 +685,7 @@ a: change 2 * x to 2x as thats the original question
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E34CB75A-4F6E-4FC6-89C1-0AA71049F1A4</p>
 </div>
@@ -694,7 +699,7 @@ a: change 2 * x to 2x as thats the original question
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -720,12 +725,10 @@ $0.3 + 0.8 =$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-    &   0 \ .   &   3 \\
-{}+ &   0 \ .   &   8 \\
-\hline
-    &   1 \ .   &   1
-\end{array}
+\begin{aligned}
+&= 0.3 + 0.8 \\\\
+&= 1.1
+\end{aligned}
 $
 
 </div>
@@ -744,12 +747,10 @@ $1.1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-    &   0 \ .   &   3 \\
-{}+ &   0 \ .   &   8 \\
-\hline
-    &   1 \ .   &   1
-\end{array}
+\begin{aligned}
+&= 0.3 + 0.8 \\\\
+&= 1.1
+\end{aligned}
 $
 </code></pre>
 </div>
@@ -823,7 +824,7 @@ Too simple to show array detailed version, change to begin aligned
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>142280BA-7FA3-4D0B-B002-0B6A5B2CCEAE</p>
 </div>
@@ -837,7 +838,7 @@ Too simple to show array detailed version, change to begin aligned
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -864,7 +865,7 @@ $4.18$
 $
 \begin{aligned}
 &= 4.18 \\\\
-&= 4.20
+&\approx 4.2
 \end{aligned}
 $
 
@@ -876,7 +877,7 @@ $
 </div>
 <div class='answer'>
 
-$4.20$
+$4.2$
 
 </div>
 </div>
@@ -886,7 +887,7 @@ $4.20$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 4.18 \\\\
-&= 4.20
+&\approx 4.2
 \end{aligned}
 $
 </code></pre>
@@ -900,7 +901,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4.20$
+<pre class='language-latex'><code class='language-latex'>$4.2$
 </code></pre>
 </div>
 </div>
@@ -955,7 +956,7 @@ Use approx template, refer DAA6B0CE-CF05-45FF-83D8-D30065047D76
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CD8EF491-8FD3-41BA-82B3-641CE269368D</p>
 </div>
@@ -969,7 +970,7 @@ Use approx template, refer DAA6B0CE-CF05-45FF-83D8-D30065047D76
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -992,12 +993,10 @@ tnumber
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-    &   0 \ .   &   3 \\
-{}+ &   0 \ .   &   8 \\
-\hline
-    &   1 \ .   &   1
-\end{array}
+\begin{aligned}
+&= 0.3 + 0.8 \\\\
+&= 1.1
+\end{aligned}
 $
 
 </div>
@@ -1016,12 +1015,10 @@ $1.1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-    &   0 \ .   &   3 \\
-{}+ &   0 \ .   &   8 \\
-\hline
-    &   1 \ .   &   1
-\end{array}
+\begin{aligned}
+&= 0.3 + 0.8 \\\\
+&= 1.1
+\end{aligned}
 $
 </code></pre>
 </div>
@@ -1105,7 +1102,7 @@ Too simple to show array detailed version, change to begin aligned
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6530ADDD-4337-48F7-BFAA-29AC198707E3</p>
 </div>
@@ -1119,7 +1116,7 @@ Too simple to show array detailed version, change to begin aligned
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1145,7 +1142,7 @@ Round the number below to one decimal place:
 $
 \begin{aligned}
 &= 4.18 \\\\
-&= 4.20
+&\approx 4.2
 \end{aligned}
 $
 
@@ -1153,11 +1150,11 @@ $
 </div>
 <div class='answers'>
 <div class='option'>
-<p>A</p>
+<p>C</p>
 </div>
 <div class='answer'>
 
-$4.20$
+$4.2$
 
 </div>
 </div>
@@ -1167,7 +1164,7 @@ $4.20$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 4.18 \\\\
-&= 4.20
+&\approx 4.2
 \end{aligned}
 $
 </code></pre>
@@ -1175,13 +1172,13 @@ $
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>A</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4.20$
+<pre class='language-latex'><code class='language-latex'>$4.2$
 </code></pre>
 </div>
 </div>
@@ -1236,7 +1233,7 @@ Use approx way of writing
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>79795420-38FD-4AE7-84E8-377DBD4317D4</p>
 </div>
@@ -1250,7 +1247,7 @@ Use approx way of writing
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1345,7 +1342,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7D74ACBA-5E3A-4BCF-9ECA-55ED79C8FCFA</p>
 </div>
@@ -1359,7 +1356,7 @@ $6$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1376,16 +1373,16 @@ Find the sum of the prime numbers between $50$ and $60$.
 <div class='workings'>
 <div class='working'>
 
-The prime numbers between $50$ and $60$ are $53$ and $59$.
+Prime numbers between $50$ and $60$ = $53$, $59$.
 
 $
 \begin{aligned}
-&= 53 + 59 \\\\
-&= 112
+Sum &= 53 + 59 \\\\
+    &= 112
 \end{aligned}
 $
 
-The sum of the prime numbers between $50$ and $60$ is $112$.
+
 
 </div>
 </div>
@@ -1399,16 +1396,16 @@ $112$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The prime numbers between $50$ and $60$ are $53$ and $59$.
+<pre class='language-latex'><code class='language-latex'>Prime numbers between $50$ and $60$ = $53$, $59$.
 
 $
 \begin{aligned}
-&= 53 + 59 \\\\
-&= 112
+Sum &= 53 + 59 \\\\
+    &= 112
 \end{aligned}
 $
 
-The sum of the prime numbers between $50$ and $60$ is $112$.
+
 </code></pre>
 </div>
 </div>
@@ -1491,7 +1488,7 @@ Sum    &= 53 + 59 \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6C7BE121-B86D-4FE7-A747-6364A8DD4633</p>
 </div>
@@ -1505,7 +1502,7 @@ Sum    &= 53 + 59 \\
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1522,12 +1519,13 @@ What is $4 - ((4 + 4) \div 4)$?
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &=   4 - ( (4 + 4) \div 4) \\\\
 &=   4 - (8 \div 4) \\\\
-&=   4 - \dfrac {4 \times 2} {4} \\\\
-&=   4 - \dfrac {\cancel {4} \times 2} {\cancel {4} } \\\\
 &=   4 - 2 \\\\
 &=  2
 \end{aligned}
@@ -1545,12 +1543,12 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &=   4 - ( (4 + 4) \div 4) \\\\
 &=   4 - (8 \div 4) \\\\
-&=   4 - \dfrac {4 \times 2} {4} \\\\
-&=   4 - \dfrac {\cancel {4} \times 2} {\cancel {4} } \\\\
 &=   4 - 2 \\\\
 &=  2
 \end{aligned}
@@ -1629,7 +1627,7 @@ remove s3, s4
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2BED9D4A-8D69-441E-8E45-9BDB4DE30AD0</p>
 </div>
@@ -1643,7 +1641,7 @@ remove s3, s4
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1701,13 +1699,13 @@ $233343 \div 99$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
-2357 \times 99 &= 233343 \\\\
-2357           &= 233343 \div 99 \\\\
-233343 \div 99 &= 2357
+&= 2357 \times 99 &= 233343 \\\\
+&= 2357           &= 233343 \div 99 \\\\
+&= 233343 \div 99 &= 2357
 \end{aligned}
 $
 
@@ -1723,13 +1721,13 @@ $2357$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>
 
 $
 \begin{aligned}
-2357 \times 99 &= 233343 \\\\
-2357           &= 233343 \div 99 \\\\
-233343 \div 99 &= 2357
+&= 2357 \times 99 &= 233343 \\\\
+&= 2357           &= 233343 \div 99 \\\\
+&= 233343 \div 99 &= 2357
 \end{aligned}
 $
 </code></pre>
@@ -1762,9 +1760,9 @@ $235.7 \times 99$
 
 $
 \begin{aligned}
-2357 \times 99                               &= 233343 \\\\
-\dfrac {2357} {10} \times 99                 &= \dfrac {233343} {10} \\\\
-235.7 \times 99                              &= 23334.3
+&= 2357 \times 99                               &= 233343 \\\\
+&= \dfrac {2357} {10} \times 99                 &= \dfrac {233343} {10} \\\\
+&= 235.7 \times 99                              &= 23334.3
 \end{aligned}
 $
 
@@ -1782,9 +1780,9 @@ $23334.3$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-2357 \times 99                               &= 233343 \\\\
-\dfrac {2357} {10} \times 99                 &= \dfrac {233343} {10} \\\\
-235.7 \times 99                              &= 23334.3
+&= 2357 \times 99                               &= 233343 \\\\
+&= \dfrac {2357} {10} \times 99                 &= \dfrac {233343} {10} \\\\
+&= 235.7 \times 99                              &= 23334.3
 \end{aligned}
 $
 </code></pre>
@@ -1864,7 +1862,7 @@ Refer CD6BCBD5-16AA-4496-BA89-31C177B22E60, its not G2 yet, so please follow acc
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4B7CDE91-4C3F-4F86-89D2-B8D194C48EBA</p>
 </div>
@@ -1878,7 +1876,7 @@ Refer CD6BCBD5-16AA-4496-BA89-31C177B22E60, its not G2 yet, so please follow acc
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1973,7 +1971,7 @@ $1.3 \text{ litres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>95A2D77B-0B84-43C2-9DD0-E83FA201C390</p>
 </div>
@@ -1987,7 +1985,7 @@ $1.3 \text{ litres}$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2004,7 +2002,7 @@ What number is $\text{twelve less than eight thousand two hundred and seven}$?
 <div class='workings'>
 <div class='working'>
 
-As per the question
+
 
 $
 \begin{aligned}
@@ -2025,7 +2023,7 @@ $8195$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question
+<pre class='language-latex'><code class='language-latex'>
 
 $
 \begin{aligned}
@@ -2099,7 +2097,7 @@ remove aptq
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C9466555-29F0-42AB-BD3A-65F6D00EE5E6</p>
 </div>
@@ -2113,7 +2111,7 @@ remove aptq
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2448,7 +2446,7 @@ d \\ missing
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ACA26B1F-A7BD-4600-BA3F-B16189433567</p>
 </div>
@@ -2462,7 +2460,7 @@ d \\ missing
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2522,13 +2520,11 @@ $56 + 975 = 10{?}1$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-    &       &                         5   &   6 \\
-{}+ &  9    &                         7   &   5 \\
-\hline
-  1 &  0    & \maroonC
- {3}   &   1
-\end{array}
+\begin{aligned}
+&= 56 + 975 \\\\
+&= 10\maroonC
+{3}1
+\end{aligned}
 $
 
 </div>
@@ -2544,12 +2540,10 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-    &       &                         5   &   6 \\
-{}+ &  9    &                         7   &   5 \\
-\hline
-  1 &  0    & \rtq_katex_color_info {3}   &   1
-\end{array}
+\begin{aligned}
+&= 56 + 975 \\\\
+&= 10\rtq_katex_color_info{3}1
+\end{aligned}
 $
 </code></pre>
 </div>
@@ -2900,7 +2894,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2DC7C262-016C-4768-9AC7-B4FDEE3E7F2F</p>
 </div>
@@ -2914,7 +2908,7 @@ $5$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3178,7 +3172,7 @@ $6$ needs to be replaced with $7$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3076ED1B-E57F-4AB7-938D-0415C60AB6C7</p>
 </div>
@@ -3192,7 +3186,7 @@ $6$ needs to be replaced with $7$.
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3397,7 +3391,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FB36F13C-5BC9-4CF6-9408-E90684FEF6AA</p>
 </div>
@@ -3411,7 +3405,7 @@ $
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3515,7 +3509,7 @@ $4$ is a square number and also an even number.
 
 $16 ,36$
 
-There are $2$ more whole numbers less than fifty that are even square numbers.
+Count = 2
 
 </div>
 </div>
@@ -3531,7 +3525,7 @@ $2$
 
 <pre class='language-latex'><code class='language-latex'>$16 ,36$
 
-There are $2$ more whole numbers less than fifty that are even square numbers.
+Count = 2
 </code></pre>
 </div>
 </div>
@@ -3672,7 +3666,7 @@ c: Add Using trial and error,
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BA83C340-2093-4114-9461-69921AFDBC47</p>
 </div>
@@ -3686,7 +3680,7 @@ c: Add Using trial and error,
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3748,10 +3742,13 @@ Which two numbers have a difference of $10$?
 <div class='workings'>
 <div class='working'>
 
+
+Numbers = 37, 27
+
 $
 \begin{aligned}
-&= 37 - 27 \\\\
-&= 10
+\text{Difference} &= 37 - 27 \\\\
+                  &= 10
 \end{aligned}
 $
 
@@ -3769,10 +3766,13 @@ $37, 27$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+Numbers = 37, 27
+
+$
 \begin{aligned}
-&= 37 - 27 \\\\
-&= 10
+\text{Difference} &= 37 - 27 \\\\
+                  &= 10
 \end{aligned}
 $
 
@@ -3805,6 +3805,9 @@ What is the largest total that can be made adding two cards?
 <div class='workings'>
 <div class='working'>
 
+
+Numbers = 49, 41
+
 $
 \begin{aligned}
 \text {Largest Total}   &= 49 + 41 \\\\
@@ -3824,7 +3827,10 @@ $100$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+Numbers = 49, 41
+
+$
 \begin{aligned}
 \text {Largest Total}   &= 49 + 41 \\\\
                         &= 100
@@ -3858,10 +3864,12 @@ Which two numberes cards add to make $44$?
 <div class='workings'>
 <div class='working'>
 
+Numbers = 26, 18
+
 $
 \begin{aligned}
-&= 26 + 18 \\\\
-&= 44
+\text {Sum} &= 26 + 18 \\\\
+            &= 44
 \end{aligned}
 $
 
@@ -3879,10 +3887,12 @@ $26, 18$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Numbers = 26, 18
+
+$
 \begin{aligned}
-&= 26 + 18 \\\\
-&= 44
+\text {Sum} &= 26 + 18 \\\\
+            &= 44
 \end{aligned}
 $
 
@@ -3917,17 +3927,21 @@ This can be done using **two** different pairs.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 49 + 13 \\\\
-&= 62
-\end{aligned}
-$
+Numbers = 49,13
 
 $
 \begin{aligned}
-&= 25 + 37 \\\\
-&= 62
+\text {Sum} &= 49 + 13 \\\\
+            &= 62
+\end{aligned}
+$
+
+Numbers = 25,37
+
+$
+\begin{aligned}
+\text {Sum} &= 25 + 37 \\\\
+            &= 62
 \end{aligned}
 $
 
@@ -3945,17 +3959,21 @@ $49, 13 or 25, 37$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 49 + 13 \\\\
-&= 62
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>Numbers = 49,13
 
 $
 \begin{aligned}
-&= 25 + 37 \\\\
-&= 62
+\text {Sum} &= 49 + 13 \\\\
+            &= 62
+\end{aligned}
+$
+
+Numbers = 25,37
+
+$
+\begin{aligned}
+\text {Sum} &= 25 + 37 \\\\
+            &= 62
 \end{aligned}
 $
 
@@ -4031,11 +4049,13 @@ What is total of the three *prime* numbered cards?
 <div class='workings'>
 <div class='working'>
 
+Numbers = 13, 37, 41
+
 $
 \begin{aligned}
-&= 13 + 37 + 41 \\\\
-&= 50 + 41 \\\\
-&= 91
+\text{Sum} &= 13 + 37 + 41 \\\\
+           &= 50 + 41 \\\\
+           &= 91
 \end{aligned}
 $
 
@@ -4051,11 +4071,13 @@ $91$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Numbers = 13, 37, 41
+
+$
 \begin{aligned}
-&= 13 + 37 + 41 \\\\
-&= 50 + 41 \\\\
-&= 91
+\text{Sum} &= 13 + 37 + 41 \\\\
+           &= 50 + 41 \\\\
+           &= 91
 \end{aligned}
 $
 </code></pre>
@@ -4155,7 +4177,7 @@ f: LHS Sum = 13 + 37 + 41
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5AB9EB35-D90D-4748-A763-71ED6F92BC7F</p>
 </div>
@@ -4169,7 +4191,7 @@ f: LHS Sum = 13 + 37 + 41
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4229,8 +4251,8 @@ What number must be added to $6.4$ to make $10$?
 
 $
 \begin{aligned}
-\text {Number needed}   &= 10 - 6.4 \\\\
-                        &= 3.6 
+\text {Number}  &= 10 - 6.4 \\\\
+                &= 3.6 
 \end{aligned}
 $
 
@@ -4248,8 +4270,8 @@ $3.6$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Number needed}   &= 10 - 6.4 \\\\
-                        &= 3.6 
+\text {Number}  &= 10 - 6.4 \\\\
+                &= 3.6 
 \end{aligned}
 $
 </code></pre>
@@ -4282,8 +4304,8 @@ What number must be added to $5.37$ to make $6$?
 
 $
 \begin{aligned}
-\text {Number needed}   &= 6 - 5.37 \\\\
-                        &= 0.63 
+\text {Number}  &= 6 - 5.37 \\\\
+                &= 0.63 
 \end{aligned}
 $
 
@@ -4301,8 +4323,8 @@ $0.63$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Number needed}   &= 6 - 5.37 \\\\
-                        &= 0.63 
+\text {Number}  &= 6 - 5.37 \\\\
+                &= 0.63 
 \end{aligned}
 $
 </code></pre>
@@ -4335,8 +4357,8 @@ What is the difference between $6.4$ and $7.28$?
 
 $
 \begin{aligned}
-&= 7.28 - 6.4 \\\\
-&= 0.88 
+\text{Difference} &= 7.28 - 6.4 \\\\
+                  &= 0.88 
 \end{aligned}
 $
 
@@ -4354,8 +4376,8 @@ $0.88$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 7.28 - 6.4 \\\\
-&= 0.88 
+\text{Difference} &= 7.28 - 6.4 \\\\
+                  &= 0.88 
 \end{aligned}
 $
 </code></pre>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-g0"
 title: "TopicPaper - Number - 2 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>34651AA1-3B37-4CF9-8B13-4FD3BDD2969A</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-07 16:10:01
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -137,14 +137,13 @@ $0.25 \div 1/4 = \boxed{\phantom{5555}}$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number $= a$
 
 $
 \begin{aligned}
-0.25 \div \dfrac {1} {4} &= a \\\\
-a                        &= 0.25 \div \dfrac {1} {4} \\\\
-a                        &= 0.25 \times 4 \\\\
-a                        &= 1
+&= 0.25 \div \dfrac {1} {4} \\\\
+&= 0.25 \div \dfrac {1} {4} \\\\
+&= 0.25 \times 4 \\\\
+&= 1
 \end{aligned}
 $
 
@@ -160,14 +159,13 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-0.25 \div \dfrac {1} {4} &= a \\\\
-a                        &= 0.25 \div \dfrac {1} {4} \\\\
-a                        &= 0.25 \times 4 \\\\
-a                        &= 1
+&= 0.25 \div \dfrac {1} {4} \\\\
+&= 0.25 \div \dfrac {1} {4} \\\\
+&= 0.25 \times 4 \\\\
+&= 1
 \end{aligned}
 $
 </code></pre>
@@ -327,6 +325,7 @@ $
 72 \div 9 &= a \div 3 \\\\
 \dfrac {72} {9}  &= \dfrac {a} {3} \\\\
 a                &= \dfrac {72 \times 3} {9} \\\\
+a                &= \dfrac {8 \times {9} \times 3} {{9}} \\\\
 a                &= \dfrac {8 \times \cancel{9} \times 3} {\cancel{9}} \\\\
 a                &= 24
 \end{aligned}
@@ -351,6 +350,7 @@ $
 72 \div 9 &= a \div 3 \\\\
 \dfrac {72} {9}  &= \dfrac {a} {3} \\\\
 a                &= \dfrac {72 \times 3} {9} \\\\
+a                &= \dfrac {8 \times {9} \times 3} {{9}} \\\\
 a                &= \dfrac {8 \times \cancel{9} \times 3} {\cancel{9}} \\\\
 a                &= 24
 \end{aligned}
@@ -386,7 +386,7 @@ $(20 + 10) \times (20 \times 0) = \boxed{\phantom{5555}}$
 $
 \begin{aligned}
 &= (20 + 10) \times (20 \times 0) \\\\
-&= 30 \times 0 \\\\
+&= (20 + 10) \times 0 \\\\
 &= 0
 \end{aligned}
 $
@@ -406,7 +406,7 @@ $0$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= (20 + 10) \times (20 \times 0) \\\\
-&= 30 \times 0 \\\\
+&= (20 + 10) \times 0 \\\\
 &= 0
 \end{aligned}
 $
@@ -503,7 +503,7 @@ f: s2: do not solve (20+10) to 30, still show (20+10) to represent that multiply
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128</p>
 </div>
@@ -517,7 +517,7 @@ f: s2: do not solve (20+10) to 30, still show (20+10) to represent that multiply
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -577,26 +577,27 @@ What is the larger of these two numbers?
 <div class='workings'>
 <div class='working'>
 
-Let the two numbers $= n , \ n + 1$
+Let the first numbers $= a  
+the second number $= a + 1
 
 As per the question,
 
 $
 \begin{aligned}
-n + n + 1 &= 91 \\\\
-2 n + 1   &= 91 \\\\
-2 n       &= 91 - 1 \\\\
-2 n       &= 90 \\\\
-n         &= \dfrac {90} {2} \\\\
-n         &= \dfrac {45 \times 2} {2} \\\\
-n         &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
-n         &= 45
+a + a + 1 &= 91 \\\\
+2 a + 1   &= 91 \\\\
+2 a       &= 91 - 1 \\\\
+2 a       &= 90 \\\\
+a         &= \dfrac {90} {2} \\\\
+a         &= \dfrac {45 \times 2} {2} \\\\
+a         &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
+a         &= 45
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {Largest number} &= n + 1 \\\\
+\text {Larger number} &= a + 1 \\\\
                        &= 45 + 1 \\\\
                        &= 46
 \end{aligned}
@@ -614,26 +615,27 @@ $46$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the two numbers $= n , \ n + 1$
+<pre class='language-latex'><code class='language-latex'>Let the first numbers $= a  
+the second number $= a + 1
 
 As per the question,
 
 $
 \begin{aligned}
-n + n + 1 &= 91 \\\\
-2 n + 1   &= 91 \\\\
-2 n       &= 91 - 1 \\\\
-2 n       &= 90 \\\\
-n         &= \dfrac {90} {2} \\\\
-n         &= \dfrac {45 \times 2} {2} \\\\
-n         &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
-n         &= 45
+a + a + 1 &= 91 \\\\
+2 a + 1   &= 91 \\\\
+2 a       &= 91 - 1 \\\\
+2 a       &= 90 \\\\
+a         &= \dfrac {90} {2} \\\\
+a         &= \dfrac {45 \times 2} {2} \\\\
+a         &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
+a         &= 45
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {Largest number} &= n + 1 \\\\
+\text {Larger number} &= a + 1 \\\\
                        &= 45 + 1 \\\\
                        &= 46
 \end{aligned}
@@ -677,10 +679,10 @@ As per the question,
 $
 \begin{aligned}
 (2 \times a - 14) \div 3 &= 8 \\\\
-2 \times a - 14          &= 8 \times 3 \\\\
-2 \times a - 14          &= 24 \\\\
-2 \times a               &= 24 + 14 \\\\
-2 \times a               &= 38 \\\\
+2a - 14          &= 8 \times 3 \\\\
+2a - 14          &= 24 \\\\
+2a               &= 24 + 14 \\\\
+2a               &= 38 \\\\
 a                        &= \dfrac {38} {2} \\\\
 a                        &= \dfrac {19 \times 2} {2} \\\\
 a                        &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
@@ -707,10 +709,10 @@ As per the question,
 $
 \begin{aligned}
 (2 \times a - 14) \div 3 &= 8 \\\\
-2 \times a - 14          &= 8 \times 3 \\\\
-2 \times a - 14          &= 24 \\\\
-2 \times a               &= 24 + 14 \\\\
-2 \times a               &= 38 \\\\
+2a - 14          &= 8 \times 3 \\\\
+2a - 14          &= 24 \\\\
+2a               &= 24 + 14 \\\\
+2a               &= 38 \\\\
 a                        &= \dfrac {38} {2} \\\\
 a                        &= \dfrac {19 \times 2} {2} \\\\
 a                        &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
@@ -804,7 +806,7 @@ b: change 2 * a to 2a after S1, leave as 2 *a only in S1
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>50E04B0C-8A1F-40C0-AACC-F803CBD9A220</p>
 </div>
@@ -818,7 +820,7 @@ b: change 2 * a to 2a after S1, leave as 2 *a only in S1
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -877,13 +879,7 @@ What are the missing values on each of these scales?
 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-$4.5$
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -891,13 +887,7 @@ $4.5$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$4.5$
-</code></pre>
-</div>
-</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -921,13 +911,7 @@ $4.5$
 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-$8.3$
-
-</div>
-</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -935,13 +919,7 @@ $8.3$
 
 </div>
 </div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$8.3$
-</code></pre>
-</div>
-</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -999,7 +977,7 @@ $8.3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>812FF640-E4A8-4932-850E-09DE0E46EB37</p>
 </div>
@@ -1013,7 +991,7 @@ $8.3$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1042,16 +1020,13 @@ $\dfrac{1}{6}$ of $\pounds 12.78$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+
 
 $
 \begin{aligned}
 &= \dfrac {1} {6} \text{ of } \pounds 12.78\\\\
 &= \dfrac {1} {6} \times 12.78 \\\\
-&= \dfrac {1} {6} \times \dfrac {1278} {100} \\\\
-&= \dfrac {1 \times 6 \times 213} {6 \times 100} \\\\
-&= \dfrac {\cancel{6} \times 213} {\cancel{6} \times 100} \\\\
-&= \dfrac {213} {100} \\\\
+&= \dfrac {12.78} {6} \\\\
 &= \pounds 2.13
 \end{aligned}
 $
@@ -1068,16 +1043,13 @@ $\pounds 2.13$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>
 
 $
 \begin{aligned}
 &= \dfrac {1} {6} \text{ of } \pounds 12.78\\\\
 &= \dfrac {1} {6} \times 12.78 \\\\
-&= \dfrac {1} {6} \times \dfrac {1278} {100} \\\\
-&= \dfrac {1 \times 6 \times 213} {6 \times 100} \\\\
-&= \dfrac {\cancel{6} \times 213} {\cancel{6} \times 100} \\\\
-&= \dfrac {213} {100} \\\\
+&= \dfrac {12.78} {6} \\\\
 &= \pounds 2.13
 \end{aligned}
 $

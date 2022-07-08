@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g0-prcc"
 title: "TopicPaper - Time - 5 - G0 - PRCC"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -208,10 +208,10 @@ $10 \ \text{hrs} \ 48 \ \text{mins}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -317,10 +317,10 @@ $9{:}40, \ 21{:}40$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -438,10 +438,10 @@ $11{:}11$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -561,10 +561,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -841,10 +841,10 @@ It arrives on Wednesday at $2{:}00$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1216,10 +1216,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1335,10 +1335,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:31</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1446,10 +1446,10 @@ $10{:}40$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1569,10 +1569,10 @@ Sherry arrived at $14{:}35$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1697,10 +1697,10 @@ Bus Q takes $2 \ \text{minutes}$ less.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:33</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1949,10 +1949,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2078,10 +2078,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
-<p>Aryan Rawat</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

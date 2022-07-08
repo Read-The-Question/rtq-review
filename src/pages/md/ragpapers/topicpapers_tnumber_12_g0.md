@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-g0"
 title: "TopicPaper - Number - 12 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FB54FC28-0CE7-4805-A51B-22A1806749EC</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-07 16:10:01
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -164,7 +164,7 @@ Fix spelling for fractions, its written frations!
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9223B5BC-2F8C-43A9-8FF7-B370A90FF796</p>
 </div>
@@ -178,7 +178,7 @@ Fix spelling for fractions, its written frations!
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -325,7 +325,7 @@ katex & alignment is not correct, please fix.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4AF7B768-CBF8-4E4C-9565-AEB914711765</p>
 </div>
@@ -339,7 +339,7 @@ katex & alignment is not correct, please fix.
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -480,7 +480,7 @@ katex whitespace is not aligned properly, please look at white space coding guid
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C</p>
 </div>
@@ -494,7 +494,7 @@ katex whitespace is not aligned properly, please look at white space coding guid
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

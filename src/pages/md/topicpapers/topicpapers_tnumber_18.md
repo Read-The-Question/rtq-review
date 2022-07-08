@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-18"
 title: "TopicPaper - Number - 18"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,10 +23,10 @@ date: 2022-07-07 16:10:01
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -104,10 +104,10 @@ $
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mm_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -455,10 +455,10 @@ $
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mm_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -882,10 +882,10 @@ $
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1208,10 +1208,10 @@ a                       &= 2n + 7
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1305,10 +1305,10 @@ TODOANSWER
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1388,10 +1388,10 @@ $
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1462,10 +1462,10 @@ This number is $957992$ less than one million.
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1658,10 +1658,10 @@ $\pounds 90,100$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mm_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1781,10 +1781,10 @@ The missing number $= 8.40 \ \text{cm}$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mm_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1896,10 +1896,10 @@ $
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mm_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

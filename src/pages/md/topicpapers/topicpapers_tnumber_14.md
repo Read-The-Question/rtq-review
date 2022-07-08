@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-14"
 title: "TopicPaper - Number - 14"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,10 +23,10 @@ date: 2022-07-07 16:10:01
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -848,10 +848,10 @@ $2017$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1664,10 +1664,10 @@ $
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2149,10 +2149,10 @@ $
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2851,10 +2851,10 @@ $= 211$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3082,10 +3082,10 @@ TODOANSWER
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3414,10 +3414,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3521,10 +3521,10 @@ $20$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4563,10 +4563,10 @@ $34598$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_kb_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4815,10 +4815,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5551,10 +5551,10 @@ $3124, \ 3142, \ 3214, \ 3412$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5680,10 +5680,10 @@ Number closest in value $= 1.009$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6136,10 +6136,10 @@ $\dfrac{4} {5}, 80\%, 0.8$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6341,10 +6341,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6728,10 +6728,10 @@ $20306$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:42</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_kb_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7015,10 +7015,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7162,10 +7162,10 @@ $8 \dfrac {1} {20}$ and $8.05$ are same.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_kb_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7486,10 +7486,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_kb_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

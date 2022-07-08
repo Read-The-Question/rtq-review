@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-18-notstarted"
 title: "TopicPaper - Number - 18 - NOTSTARTED"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -94,10 +94,10 @@ $
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -420,10 +420,10 @@ a                       &= 2n + 7
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -517,10 +517,10 @@ TODOANSWER
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -600,10 +600,10 @@ $
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -674,10 +674,10 @@ This number is $957992$ less than one million.
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

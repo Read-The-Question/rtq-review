@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-g0-prns"
 title: "TopicPaper - Number - 9 - G0 - PRNS"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -77,9 +77,14 @@ $-3 + 0$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
+
 $
 \begin{aligned}
-&= -3 
+&= -3 + 0 \\\\
+&= -3  
 \end{aligned}
 $
 
@@ -95,9 +100,13 @@ $-3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+
+$
 \begin{aligned}
-&= -3 
+&= -3 + 0 \\\\
+&= -3  
 \end{aligned}
 $
 </code></pre>
@@ -128,6 +137,9 @@ $0 \times 4$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+, 
+
 $
 \begin{aligned}
 &= 0 \times 4 \\\\
@@ -147,7 +159,9 @@ $0$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas, 
+
+$
 \begin{aligned}
 &= 0 \times 4 \\\\
 &= 0
@@ -181,6 +195,9 @@ $4 - 3 \times 0$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= 4 - 3 \times 0 \\\\
@@ -201,7 +218,9 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &= 4 - 3 \times 0 \\\\
 &= 4 - 0 \\\\
@@ -236,6 +255,9 @@ $8 + 0 \div 4$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= 8 + 0 \div 4 \\\\
@@ -256,7 +278,9 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &= 8 + 0 \div 4 \\\\
 &= 8 + 0 \\\\
@@ -291,6 +315,9 @@ $-1 \times 4 + 3 \times 5$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= -1 \times 4 + 3 \times 5 \\\\
@@ -311,7 +338,9 @@ $11$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &= -1 \times 4 + 3 \times 5 \\\\
 &= -4 + 15 \\\\
@@ -346,6 +375,9 @@ $7 - 7 \div 7 + 7$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Using BIDMAS
+,
+
 $
 \begin{aligned}
 &= 7 - 7 \div 7 + 7 \\\\
@@ -366,7 +398,9 @@ $13$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
 \begin{aligned}
 &= 7 - 7 \div 7 + 7 \\\\
 &= 7 - 1 + 7 \\\\

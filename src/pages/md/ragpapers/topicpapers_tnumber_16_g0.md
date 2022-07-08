@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0"
 title: "TopicPaper - Number - 16 - G0"
-date: 2022-07-07 16:10:01
+date: 2022-07-08 13:25:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-07 16:10:01
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -122,10 +122,10 @@ $12.15$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -542,10 +542,10 @@ e: show factors after s4 and then cancel
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -869,10 +869,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-14"
 title: "TopicPaper - Number - 14"
-date: 2022-07-09 13:32:15
+date: 2022-07-09 18:06:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4593,14 +4593,14 @@ Give your answer in metres.
 
 ABBR: It is really important to use the right units in calculations and convert where required
 . 
-
+ 
 $
 \begin{aligned}
-&= 2.7 \text{m} - 30 \ \text{cm} \\\\
-&= \dfrac{30}{100} \text{m} \\\\
-&= 2.7 \text{m} - 0.3 \text{m} \\\\
-&= 2.7  - 0.3  \\\\
-&= 2.4 \text{m}
+&= 2.7 \text{m} - 32 \ \text{cm} \\\\
+&=  2.7 \text{m} - \dfrac{32}{100} \text{m} \\\\
+&= 2.7 \text{m} - 0.32 \text{m} \\\\
+&= 2.7 \text{m} - 0.32 \text{m} \\\\
+&= 2.38 \text{m}
 \end{aligned}
 $
 
@@ -4609,7 +4609,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2.4 \text{m}$
+$2.38 \text{m}$
 
 </div>
 </div>
@@ -4617,14 +4617,14 @@ $2.4 \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
-
+ 
 $
 \begin{aligned}
-&= 2.7 \text{m} - 30 \ \text{cm} \\\\
-&= \dfrac{30}{100} \text{m} \\\\
-&= 2.7 \text{m} - 0.3 \text{m} \\\\
-&= 2.7  - 0.3  \\\\
-&= 2.4 \text{m}
+&= 2.7 \text{m} - 32 \ \text{cm} \\\\
+&=  2.7 \text{m} - \dfrac{32}{100} \text{m} \\\\
+&= 2.7 \text{m} - 0.32 \text{m} \\\\
+&= 2.7 \text{m} - 0.32 \text{m} \\\\
+&= 2.38 \text{m}
 \end{aligned}
 $
 </code></pre>
@@ -4638,7 +4638,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2.4 \text{m}$
+<pre class='language-latex'><code class='language-latex'>$2.38 \text{m}$
 </code></pre>
 </div>
 </div>

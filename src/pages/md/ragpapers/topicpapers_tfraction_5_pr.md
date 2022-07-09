@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-pr"
 title: "TopicPaper - Fraction - 5 - PR"
-date: 2022-07-09 13:32:15
+date: 2022-07-09 18:06:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>786BE81B-1199-48F3-9C7D-7B52BFE15DCD</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-09 13:32:15
 <p>rag_rb_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -87,9 +87,7 @@ What fraction of the triangle has been shaded?
 <div class='working'>
 
 $
-\begin{aligned}
-&= \dfrac {1} {6}
-\end{aligned}
+\dfrac {1} {6}
 $
 
 </div>
@@ -105,9 +103,7 @@ $\dfrac {1} {6}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= \dfrac {1} {6}
-\end{aligned}
+\dfrac {1} {6}
 $
 </code></pre>
 </div>
@@ -138,21 +134,19 @@ Shade in a further $\dfrac{1}{3}$ of the triangle.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Shade any two blocks on the triangle*
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -162,26 +156,13 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Shade any two blocks on the triangle*
+rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -210,10 +191,10 @@ Give your answer in its simplest form.
 
 $
 \begin{aligned}
-&= \dfrac {4} {6} \\\\
-&= \dfrac {2 \times 2} {3 \times 2} \\\\
-&= \dfrac {2 \times \cancel 2 } {3 \times \cancel 2 } \\\\
-&= \dfrac {2} {3}
+&= \dfrac {1} {6} + \dfrac{1}{6} + \dfrac{1}{6} \\\\
+&= \dfrac {3 \times 1} {3 \times 2} \\\\
+&= \dfrac {\cancel{3} } {\cancel{3} \times 2} \\\\
+&= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -222,7 +203,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {3}$
+$\dfrac {1} {2}$
 
 </div>
 </div>
@@ -231,10 +212,10 @@ $\dfrac {2} {3}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {4} {6} \\\\
-&= \dfrac {2 \times 2} {3 \times 2} \\\\
-&= \dfrac {2 \times \cancel 2 } {3 \times \cancel 2 } \\\\
-&= \dfrac {2} {3}
+&= \dfrac {1} {6} + \dfrac{1}{6} + \dfrac{1}{6} \\\\
+&= \dfrac {3 \times 1} {3 \times 2} \\\\
+&= \dfrac {\cancel{3} } {\cancel{3} \times 2} \\\\
+&= \dfrac {1} {2}
 \end{aligned}
 $
 </code></pre>
@@ -248,7 +229,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {3}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {2}$
 </code></pre>
 </div>
 </div>
@@ -537,7 +518,7 @@ same for part (b)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>29315613-031C-43A5-881D-8518DC15DE73</p>
 </div>
@@ -551,7 +532,7 @@ same for part (b)
 <p>rag_rb_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -573,7 +554,9 @@ What fraction of this diagram is shaded?
 
 $
 \begin{aligned}
-&= \dfrac {3} {16}
+\text{Total triangles}  &= 16   \\\\
+\text{Shaded}           &= 3    \\\\
+\text{Fraction shaded}  &= \dfrac {3} {16}  \\\\
 \end{aligned}
 $
 
@@ -591,7 +574,9 @@ $\dfrac {3} {16}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {3} {16}
+\text{Total triangles}  &= 16   \\\\
+\text{Shaded}           &= 3    \\\\
+\text{Fraction shaded}  &= \dfrac {3} {16}  \\\\
 \end{aligned}
 $
 </code></pre>
@@ -672,7 +657,7 @@ Fraction =
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>2F7A1B11-0659-49F6-BD2C-6F4144FB59D3</p>
 </div>
@@ -686,7 +671,7 @@ Fraction =
 <p>rag_rb_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -749,10 +734,12 @@ What percentage of the circle is shaded?
 
 $
 \begin{aligned}
-&= \dfrac {3} {12} \\\\
-&= \dfrac {3} {3 \times 4} \\\\
-&= \dfrac {\cancel{3}} {\cancel{3} \times 4} \\\\
-&= \dfrac {1} {4}
+\text{Total divisions}      &= 12   \\\\
+\text{The divisions shaded} &= 3    \\\\
+\text{Percentage shaded}    &= \dfrac {3} {12} \times 100 \\\\
+                            &= \dfrac {3 \times 100} {12} \\\\
+                            &= \dfrac {\cancel{3} \times \cancel{4} \times 25} {\cancel{3} \times \cancel{4}} \\\\
+                            &= 25 \%
 \end{aligned}
 $
 
@@ -761,7 +748,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {4}$
+$25 \%$
 
 </div>
 </div>
@@ -770,10 +757,12 @@ $\dfrac {1} {4}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {3} {12} \\\\
-&= \dfrac {3} {3 \times 4} \\\\
-&= \dfrac {\cancel{3}} {\cancel{3} \times 4} \\\\
-&= \dfrac {1} {4}
+\text{Total divisions}      &= 12   \\\\
+\text{The divisions shaded} &= 3    \\\\
+\text{Percentage shaded}    &= \dfrac {3} {12} \times 100 \\\\
+                            &= \dfrac {3 \times 100} {12} \\\\
+                            &= \dfrac {\cancel{3} \times \cancel{4} \times 25} {\cancel{3} \times \cancel{4}} \\\\
+                            &= 25 \%
 \end{aligned}
 $
 </code></pre>
@@ -787,7 +776,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {4}$
+<pre class='language-latex'><code class='language-latex'>$25 \%$
 </code></pre>
 </div>
 </div>
@@ -807,9 +796,24 @@ What fraction of the shape is shaded?
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO::Draw the figure with a verticle line in middle of the figure 
+and on the points where the triangle touch the middle horizontal line*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+The triangle is now split into 16 equal parts
+
 $
 \begin{aligned}
-&= \dfrac {3} {16}
+\text{Total parts}      &= 16 \\\\
+\text{Shaded parts}     &= 3  \\\\
+\text{Fraction shaded}  &= \dfrac {3} {16}
 \end{aligned}
 $
 
@@ -825,9 +829,18 @@ $\dfrac {3} {16}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO::Draw the figure with a verticle line in middle of the figure 
+and on the points where the triangle touch the middle horizontal line*
+rtq_abbr_md_add_drawing_ends
+
+The triangle is now split into 16 equal parts
+
+$
 \begin{aligned}
-&= \dfrac {3} {16}
+\text{Total parts}      &= 16 \\\\
+\text{Shaded parts}     &= 3  \\\\
+\text{Fraction shaded}  &= \dfrac {3} {16}
 \end{aligned}
 $
 </code></pre>
@@ -861,19 +874,30 @@ Shade $25 \%$ of the shape.
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Shade any 4 squares on the figure
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 $
 \begin{aligned}
-&= 25\% \text{of} \ 16 \\\\
-&= 25\% \times 16 \\\\
-&= \dfrac {25} {100} \times 16 \\\\
-&= \dfrac {25 \times 16} {100} \\\\
-&= \dfrac {25 \times 4 \times 4} {25 \times 4} \\\\
-&= \dfrac {\cancel{25} \times \cancel{4} \times 4} {\cancel{25} \times \cancel{4}} \\\\
-&= 4
+\text{Total squares}        &= 16   \\\\
+\text{Squares to be shaded} &= 25\% \ \text{of} \ 16 \\\\
+                            &= 25\% \times 16 \\\\
+                            &= \dfrac {25} {100} \times 16 \\\\
+                            &= \dfrac {25 \times 16} {100} \\\\
+                            &= \dfrac {25 \times 4 \times 4} {25 \times 4} \\\\
+                            &= \dfrac {\cancel{25} \times \cancel{4} \times 4} {\cancel{25} \times \cancel{4}} \\\\
+                            &= 4
 \end{aligned}
 $
 
-We need to shade 4 squares.
+We will shade 4 squares.
 
 </div>
 </div>
@@ -887,19 +911,24 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Shade any 4 squares on the figure
+rtq_abbr_md_add_drawing_ends
+
+$
 \begin{aligned}
-&= 25\% \text{of} \ 16 \\\\
-&= 25\% \times 16 \\\\
-&= \dfrac {25} {100} \times 16 \\\\
-&= \dfrac {25 \times 16} {100} \\\\
-&= \dfrac {25 \times 4 \times 4} {25 \times 4} \\\\
-&= \dfrac {\cancel{25} \times \cancel{4} \times 4} {\cancel{25} \times \cancel{4}} \\\\
-&= 4
+\text{Total squares}        &= 16   \\\\
+\text{Squares to be shaded} &= 25\% \ \text{of} \ 16 \\\\
+                            &= 25\% \times 16 \\\\
+                            &= \dfrac {25} {100} \times 16 \\\\
+                            &= \dfrac {25 \times 16} {100} \\\\
+                            &= \dfrac {25 \times 4 \times 4} {25 \times 4} \\\\
+                            &= \dfrac {\cancel{25} \times \cancel{4} \times 4} {\cancel{25} \times \cancel{4}} \\\\
+                            &= 4
 \end{aligned}
 $
 
-We need to shade 4 squares.
+We will shade 4 squares.
 </code></pre>
 </div>
 </div>
@@ -993,7 +1022,7 @@ Squares to be shaded = 25% of 16 and then calculate and then show diagram.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>79914FCA-BAC2-4507-8C7D-01EF4B61E0DC</p>
 </div>
@@ -1007,7 +1036,7 @@ Squares to be shaded = 25% of 16 and then calculate and then show diagram.
 <p>rag_rb_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1068,7 +1097,13 @@ What fraction of this shape is shaded?
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {13} {25}$
+$
+\begin{aligned}
+\text{Total boxes}      &= 25 \\\\
+\text{Shaded boxes}     &= 13 \\\\
+\text{Fraction}         &= \dfrac{13}{25} 
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1082,7 +1117,13 @@ $\dfrac {13} {25}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac {13} {25}$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total boxes}      &= 25 \\\\
+\text{Shaded boxes}     &= 13 \\\\
+\text{Fraction}         &= \dfrac{13}{25} 
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1114,19 +1155,30 @@ Shade two-fifths of this shape.
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Shade 10 boxes in the given figure* 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
 $
 \begin{aligned}
-&= \dfrac {2} {5} \ \text {of} \ \ 25 \\\\
-&= \dfrac {2} {5} \times 25 \\\\
-&= \dfrac {2 \times 25} {5} \\\\
-&= \dfrac {2 \times 5 \times 5} {5} \\\\
-&= \dfrac {2 \times 5 \times \cancel{5}} {5} \\\\
-&= 2 \times 5 \\\\
-&= 10
+\text{Total boxes}      &= 25 \\\\
+\text{2/5 of the boxes} &= \dfrac {2} {5} \ \text {of} \ \ 25 \\\\
+                        &= \dfrac {2} {5} \times 25 \\\\
+                        &= \dfrac {2 \times 25} {5} \\\\
+                        &= \dfrac {2 \times 5 \times \cancel{5}} {\cancel{5}} \\\\
+                        &= 10
 \end{aligned}
-
-Therefore we need to shade 10 squares.
 $
+
+Therefore we will shade 10 squares.
 
 </div>
 </div>
@@ -1140,19 +1192,22 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= \dfrac {2} {5} \ \text {of} \ \ 25 \\\\
-&= \dfrac {2} {5} \times 25 \\\\
-&= \dfrac {2 \times 25} {5} \\\\
-&= \dfrac {2 \times 5 \times 5} {5} \\\\
-&= \dfrac {2 \times 5 \times \cancel{5}} {5} \\\\
-&= 2 \times 5 \\\\
-&= 10
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Shade 10 boxes in the given figure* 
+rtq_abbr_md_add_drawing_starts
 
-Therefore we need to shade 10 squares.
 $
+\begin{aligned}
+\text{Total boxes}      &= 25 \\\\
+\text{2/5 of the boxes} &= \dfrac {2} {5} \ \text {of} \ \ 25 \\\\
+                        &= \dfrac {2} {5} \times 25 \\\\
+                        &= \dfrac {2 \times 25} {5} \\\\
+                        &= \dfrac {2 \times 5 \times \cancel{5}} {\cancel{5}} \\\\
+                        &= 10
+\end{aligned}
+$
+
+Therefore we will shade 10 squares.
 </code></pre>
 </div>
 </div>
@@ -1222,7 +1277,7 @@ katex broken
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>5235BF01-DA75-4C84-A7A7-3B17AAB007EB</p>
 </div>
@@ -1236,7 +1291,7 @@ katex broken
 <p>rag_rb_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1305,11 +1360,11 @@ What percentage of the people she asked liked Toto best ?
 
 $
 \begin{aligned}
-\text{Percentage of the people that liked Toto best} &= \dfrac {2} {8} \times 100 \\\\
-                                                     &= \dfrac {2 \times 100} {8} \\\\
-                                                     &= \dfrac {2 \times 25 \times 4} {2 \times 4} \\\\
-                                                     &= \dfrac {\cancel {2} \times 25 \times \cancel {4}} {\cancel {2} \times \cancel {4}} \\\\
-                                                     &= 25 \%
+\text{\% people that liked Toto best}       &= \dfrac {2} {8} \times 100 \\\\
+                                            &= \dfrac {2 \times 100} {8} \\\\
+                                            &= \dfrac {2 \times 25 \times 4} {2 \times 4} \\\\
+                                            &= \dfrac {\cancel {2} \times 25 \times \cancel {4}} {\cancel {2} \times \cancel {4}} \\\\
+                                            &= 25 \%
 \end{aligned}
 $
 
@@ -1327,11 +1382,11 @@ $25 \%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Percentage of the people that liked Toto best} &= \dfrac {2} {8} \times 100 \\\\
-                                                     &= \dfrac {2 \times 100} {8} \\\\
-                                                     &= \dfrac {2 \times 25 \times 4} {2 \times 4} \\\\
-                                                     &= \dfrac {\cancel {2} \times 25 \times \cancel {4}} {\cancel {2} \times \cancel {4}} \\\\
-                                                     &= 25 \%
+\text{\% people that liked Toto best}       &= \dfrac {2} {8} \times 100 \\\\
+                                            &= \dfrac {2 \times 100} {8} \\\\
+                                            &= \dfrac {2 \times 25 \times 4} {2 \times 4} \\\\
+                                            &= \dfrac {\cancel {2} \times 25 \times \cancel {4}} {\cancel {2} \times \cancel {4}} \\\\
+                                            &= 25 \%
 \end{aligned}
 $
 </code></pre>
@@ -1364,30 +1419,31 @@ How many more people liked Dorothy than the Scarecrow?
 <div class='workings'>
 <div class='working'>
 
-Let total number of people $=x$
+Let total number of people $=a$
+
+Number of people that liked scarecrow $=\dfrac{a}{8}$
+
+Number of people that liked Dorothy $=24$
 
 $
 \begin{aligned}
-\text{Number of people that liked Dorothy}    &= 24 \\\\
-\dfrac {4} {8} \text {of} x                   &= 24 \\\\
-\dfrac {4} {8} \times x                       &= 24 \\\\
-x                                             &= 24 \times \dfrac {8} {4} \\\\
+\dfrac {4} {8} \ \text {of} \ a               &= 24 \\\\
+\dfrac {4} {8} \times a                       &= 24 \\\\
+a                                             &= 24 \times \dfrac {8} {4} \\\\
                                               &= \dfrac {24 \times 8} {4} \\\\
-                                              &= \dfrac {24 \times 2 \times 4} {4} \\\\
                                               &= \dfrac {24 \times 2 \times \cancel{4}} {\cancel{4}} \\\\
-                                              &= 24 \times 2 \\\\
-                                              &= 48 \\\\
-\text {Number of people that like Scarecrow}  &= \dfrac {1} {8} \times 48 \\\\
-                                              &= \dfrac {48} {8} \\\\
-                                              &= \dfrac {6 \times 8} {8} \\\\
-                                              &= \dfrac {6 \times \cancel{8}} {\cancel{8}} \\\\
-                                              &= 6
+                                              &= 48
 \end{aligned}
 $
+
+Let's find the people that liked Dorothy than the Scarecrow
 
 $
 \begin{aligned}
 \text {Number of people that liked Dorothy than the Scarecrow} &= \text{Number of people that liked Dorothy} - \text {Number of people that like Scarecrow} \\\\
+                                                               &= 24 - \dfrac {1} {8} \times 48 \\\\
+                                                               &= 24 - \dfrac {48} {8} \\\\
+                                                               &= 24 - \dfrac {6 \times \cancel{8}} {\cancel{8}} \\\\
                                                                &= 24 - 6 \\\\
                                                                &= 18
 \end{aligned}
@@ -1405,30 +1461,31 @@ $18$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let total number of people $=x$
+<pre class='language-latex'><code class='language-latex'>Let total number of people $=a$
+
+Number of people that liked scarecrow $=\dfrac{a}{8}$
+
+Number of people that liked Dorothy $=24$
 
 $
 \begin{aligned}
-\text{Number of people that liked Dorothy}    &= 24 \\\\
-\dfrac {4} {8} \text {of} x                   &= 24 \\\\
-\dfrac {4} {8} \times x                       &= 24 \\\\
-x                                             &= 24 \times \dfrac {8} {4} \\\\
+\dfrac {4} {8} \ \text {of} \ a               &= 24 \\\\
+\dfrac {4} {8} \times a                       &= 24 \\\\
+a                                             &= 24 \times \dfrac {8} {4} \\\\
                                               &= \dfrac {24 \times 8} {4} \\\\
-                                              &= \dfrac {24 \times 2 \times 4} {4} \\\\
                                               &= \dfrac {24 \times 2 \times \cancel{4}} {\cancel{4}} \\\\
-                                              &= 24 \times 2 \\\\
-                                              &= 48 \\\\
-\text {Number of people that like Scarecrow}  &= \dfrac {1} {8} \times 48 \\\\
-                                              &= \dfrac {48} {8} \\\\
-                                              &= \dfrac {6 \times 8} {8} \\\\
-                                              &= \dfrac {6 \times \cancel{8}} {\cancel{8}} \\\\
-                                              &= 6
+                                              &= 48
 \end{aligned}
 $
+
+Let's find the people that liked Dorothy than the Scarecrow
 
 $
 \begin{aligned}
 \text {Number of people that liked Dorothy than the Scarecrow} &= \text{Number of people that liked Dorothy} - \text {Number of people that like Scarecrow} \\\\
+                                                               &= 24 - \dfrac {1} {8} \times 48 \\\\
+                                                               &= 24 - \dfrac {48} {8} \\\\
+                                                               &= 24 - \dfrac {6 \times \cancel{8}} {\cancel{8}} \\\\
                                                                &= 24 - 6 \\\\
                                                                &= 18
 \end{aligned}

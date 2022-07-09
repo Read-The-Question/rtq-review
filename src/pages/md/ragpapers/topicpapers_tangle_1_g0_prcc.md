@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g0-prcc"
 title: "TopicPaper - Angle - 1 - G0 - PRCC"
-date: 2022-07-09 13:32:15
+date: 2022-07-09 18:06:37
 ---
 <ul class='question default-decimal'>
 <li>

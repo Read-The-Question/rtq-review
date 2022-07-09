@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-4"
 title: "TopicPaper - Simpleword - 4"
-date: 2022-07-09 13:32:15
+date: 2022-07-09 18:06:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5032,7 +5032,7 @@ Refer to UUID : 7B238D76-DC32-4173-81A3-114829891742 and change your accordingly
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>02E8A3E3-375F-4D9B-81E3-04DF65B30116</p>
 </div>
@@ -5046,7 +5046,7 @@ Refer to UUID : 7B238D76-DC32-4173-81A3-114829891742 and change your accordingly
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5281,7 +5281,7 @@ same isn blue answer only number (look original question paper)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
 </div>
@@ -5295,7 +5295,7 @@ same isn blue answer only number (look original question paper)
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5356,23 +5356,11 @@ How many seats are there in the concert hall?
 
 $
 \begin {aligned}
-\text {Total seats}  &= \text {No. of rows} \times \text {No. of seats in each row} \\\\
-                     &= 128 \times 35
+\text {Total seats}  &= 128 \times 35 \\\\
+&= 4480
 \end {aligned}
 $
 
-\begin {array}{cccccccccccccc}
-       &        &    1    &     2     &    8 \\
-       & \times &         &     3     &    5 \\
-\hline
-       &        &    6    &     4     &    0 \\
-       &    3   &    8    &     4     &    0 \\
-\hline
-       &    4   &    4    &     8     &    0
-\end {array}
-$
-
-Total number of seats in the concert hall $= 4480$.
 
 </div>
 </div>
@@ -5389,23 +5377,11 @@ $4480$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin {aligned}
-\text {Total seats}  &= \text {No. of rows} \times \text {No. of seats in each row} \\\\
-                     &= 128 \times 35
+\text {Total seats}  &= 128 \times 35 \\\\
+&= 4480
 \end {aligned}
 $
 
-\begin {array}{cccccccccccccc}
-       &        &    1    &     2     &    8 \\
-       & \times &         &     3     &    5 \\
-\hline
-       &        &    6    &     4     &    0 \\
-       &    3   &    8    &     4     &    0 \\
-\hline
-       &    4   &    4    &     8     &    0
-\end {array}
-$
-
-Total number of seats in the concert hall $= 4480$.
 </code></pre>
 </div>
 </div>
@@ -5434,17 +5410,13 @@ If the concert hall is $75\%$ full, how many seats are **empty**?
 <div class='workings'>
 <div class='working'>
 
-If the concert is $75 \%$ full, then the hall is $(100 \% - 75 \%) = 25 \%$ empty.
-
-Using this we get,
 
 $
 \begin {aligned}
 \text {Empty seats}  &= 25 \% \ \text {of} \ 4480 \\\\
                      &= \dfrac {25} {100} \times 4480 \\\\
-                     &= \dfrac {25 \times 4480} {100} \\\\
-                     &= \dfrac {25 \times 4 \times 1120} {25 \times 4} \\\\
-                     &= \dfrac {\cancel {25} \times \cancel {4} \times 1120} {\cancel {25} \times \cancel {4}} \\\\
+                     &= \dfrac {5 \times 5 \times 2 \times 2 \times 1120} {5 \times 5 \times 2 \times 2} \\\\
+                     &= \dfrac {\cancel 5 \times \cancel 5 \times \cancel 2 \times \cancel 2 \times 1120} {\cancel 5 \times \cancel 5 \times \cancel 2 \times \cancel 2} \\\\
                      &= 1120
 \end {aligned}
 $
@@ -5461,17 +5433,13 @@ $1120$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>If the concert is $75 \%$ full, then the hall is $(100 \% - 75 \%) = 25 \%$ empty.
-
-Using this we get,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin {aligned}
 \text {Empty seats}  &= 25 \% \ \text {of} \ 4480 \\\\
                      &= \dfrac {25} {100} \times 4480 \\\\
-                     &= \dfrac {25 \times 4480} {100} \\\\
-                     &= \dfrac {25 \times 4 \times 1120} {25 \times 4} \\\\
-                     &= \dfrac {\cancel {25} \times \cancel {4} \times 1120} {\cancel {25} \times \cancel {4}} \\\\
+                     &= \dfrac {5 \times 5 \times 2 \times 2 \times 1120} {5 \times 5 \times 2 \times 2} \\\\
+                     &= \dfrac {\cancel 5 \times \cancel 5 \times \cancel 2 \times \cancel 2 \times 1120} {\cancel 5 \times \cancel 5 \times \cancel 2 \times \cancel 2} \\\\
                      &= 1120
 \end {aligned}
 $
@@ -5687,7 +5655,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>C4D8FFF9-4461-4B89-8BE3-4C402598EB60</p>
 </div>
@@ -5701,7 +5669,7 @@ $
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5759,22 +5727,17 @@ How much is his bill each month?
 <div class='workings'>
 <div class='working'>
 
-As per Question,
-
-Patrick spends $\pounds 375.84$ on his electricity bill each year
-
-Now, 
+ 
 
 $
 \begin{aligned}
-\text{Bill (Each month)}                        &= \dfrac {\text{Total Bill (in a year)}} {\text{ Number of months (in a year)}} \\\\
-                                                &= \dfrac {\pounds 375.84} {12} \\\\
-                                                &= \dfrac {\pounds375.84 \times 100} {12 \times 100} \\\\
-                                                &= \dfrac {37584} {1200} \\\\
-                                                &= \dfrac {12 \times 3132} {12 \times 100} \\\\
-                                                &= \dfrac {\cancel{12} \times 3132} {\cancel{12} \times 100} \\\\
-                                                &= \dfrac {3132} {100} \\\\
-                                                &= \pounds 31.32
+\text{Each month}&= \dfrac {\pounds 375.84} {12} \\\\
+&= \dfrac {\pounds375.84 \times 100} {12 \times 100} \\\\
+&= \dfrac {37584} {1200} \\\\
+&= \dfrac {12 \times 3132} {12 \times 100} \\\\
+&= \dfrac {\cancel{12} \times 3132} {\cancel{12} \times 100} \\\\
+&= \dfrac {3132} {100} \\\\
+&= \pounds 31.32
 \end{aligned}
 $
 
@@ -5790,22 +5753,17 @@ $\pounds 31.32$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per Question,
-
-Patrick spends $\pounds 375.84$ on his electricity bill each year
-
-Now, 
+<pre class='language-latex'><code class='language-latex'> 
 
 $
 \begin{aligned}
-\text{Bill (Each month)}                        &= \dfrac {\text{Total Bill (in a year)}} {\text{ Number of months (in a year)}} \\\\
-                                                &= \dfrac {\pounds 375.84} {12} \\\\
-                                                &= \dfrac {\pounds375.84 \times 100} {12 \times 100} \\\\
-                                                &= \dfrac {37584} {1200} \\\\
-                                                &= \dfrac {12 \times 3132} {12 \times 100} \\\\
-                                                &= \dfrac {\cancel{12} \times 3132} {\cancel{12} \times 100} \\\\
-                                                &= \dfrac {3132} {100} \\\\
-                                                &= \pounds 31.32
+\text{Each month}&= \dfrac {\pounds 375.84} {12} \\\\
+&= \dfrac {\pounds375.84 \times 100} {12 \times 100} \\\\
+&= \dfrac {37584} {1200} \\\\
+&= \dfrac {12 \times 3132} {12 \times 100} \\\\
+&= \dfrac {\cancel{12} \times 3132} {\cancel{12} \times 100} \\\\
+&= \dfrac {3132} {100} \\\\
+&= \pounds 31.32
 \end{aligned}
 $
 </code></pre>
@@ -5838,13 +5796,11 @@ How much does his electricity bill cost him over five years?
 
 $
 \begin{aligned}
-1 \ \text {year}             &= \pounds 375.84 \\\\
-1 \times 5 \ \text {years}   &= \pounds 375.84 \times 5 \\\\
-5 \ \text {years}            &= \pounds 1879.20                                                  
+\text {Total bill}&= \pounds 375.84 \times 5 \\\\
+&= \pounds 1879.20                                                  
 \end{aligned}
 $
 
-Over five years his electricity bill will cost him $= \pounds 1879.20$
 
 </div>
 </div>
@@ -5860,13 +5816,11 @@ $\pounds 1879.20$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text {year}             &= \pounds 375.84 \\\\
-1 \times 5 \ \text {years}   &= \pounds 375.84 \times 5 \\\\
-5 \ \text {years}            &= \pounds 1879.20                                                  
+\text {Total bill}&= \pounds 375.84 \times 5 \\\\
+&= \pounds 1879.20                                                  
 \end{aligned}
 $
 
-Over five years his electricity bill will cost him $= \pounds 1879.20$
 </code></pre>
 </div>
 </div>
@@ -6244,7 +6198,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>F7FB7A20-0F3A-452F-8BE4-998904AC107F</p>
 </div>
@@ -6258,7 +6212,7 @@ $
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

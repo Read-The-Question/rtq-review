@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-07-09 13:32:15
+date: 2022-07-09 18:06:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1495,7 +1495,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>C4ADB604-3586-4C38-8E01-6FF8B5B7147A</p>
 </div>
@@ -1506,7 +1506,7 @@ TODOANSWER
 <p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_kb_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1529,7 +1529,7 @@ Work out the value of
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+
 
 </div>
 <div class='working'>
@@ -1541,19 +1541,19 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -1570,7 +1570,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -1580,7 +1580,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>
 </code></pre>
 </div>
 </div>
@@ -1595,7 +1595,13 @@ $3\!$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+ 3! &= 3 \times 2 \times 1 \\\\
+ &= 6 \\\\
+\end{aligned}
+$
+
 
 </div>
 <div class='working'>
@@ -1607,19 +1613,25 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+6
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+ 3! &= 3 \times 2 \times 1 \\\\
+ &= 6 \\\\
+\end{aligned}
+$
+
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -1636,7 +1648,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>6
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -1646,7 +1658,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>
 </code></pre>
 </div>
 </div>
@@ -1668,14 +1680,20 @@ TODOWORKING
 </div>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+10! &= 10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
+&= 3628800 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+3628800
+
 
 </div>
 <div class='answer'>
@@ -1692,7 +1710,12 @@ TODOANSWER
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+10! &= 10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
+&= 3628800 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1704,7 +1727,8 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>3628800
+
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -1731,7 +1755,14 @@ $\dfrac{100\!}{98\!}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac{100!}{98!} &= \dfrac{100 \times 99 \times 98!}{98!} \\\\
+&= \dfrac{100 \times 99 \times \cancel{98!}}{\cancel{98!}} \\\\
+&= 100 \times 99 \\\\
+&= 9,900 \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -1743,7 +1774,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+9,900
 
 </div>
 <div class='answer'>
@@ -1755,7 +1786,14 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\dfrac{100!}{98!} &= \dfrac{100 \times 99 \times 98!}{98!} \\\\
+&= \dfrac{100 \times 99 \times \cancel{98!}}{\cancel{98!}} \\\\
+&= 100 \times 99 \\\\
+&= 9,900 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -1772,7 +1810,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>9,900
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2149,7 +2187,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>DC082ECB-D148-4B24-9DA0-CFEBA40072D2</p>
 </div>
@@ -2160,7 +2198,7 @@ $
 <p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_kb_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2183,7 +2221,7 @@ Write down the number that the arrow is pointing to on the scale.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$4.65$
 
 </div>
 <div class='working'>
@@ -2195,7 +2233,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$4.65$
 
 </div>
 <div class='answer'>
@@ -2207,7 +2245,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$4.65$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2224,7 +2262,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$4.65$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2397,7 +2435,7 @@ Alternative solution, (line 1 in second option)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>3FA0F030-E4AF-438E-983D-E94A03478CD8</p>
 </div>
@@ -2408,7 +2446,7 @@ Alternative solution, (line 1 in second option)
 <p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_kb_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2430,7 +2468,11 @@ Round this number to the nearest ten thousand.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{The nearest ten thousand value for 13766753 is} &= 13770000
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -2442,7 +2484,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+13770000
 
 </div>
 <div class='answer'>
@@ -2454,7 +2496,11 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{The nearest ten thousand value for 13766753 is} &= 13770000
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2471,7 +2517,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>13770000
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2609,7 +2655,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>1A11854F-0304-4DF8-AF45-682DB61E74B6</p>
 </div>
@@ -2620,7 +2666,7 @@ $
 <p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_kb_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2644,36 +2690,59 @@ $4  \ \text{\textunderscore \textunderscore \textunderscore}  \ 3 = 60 \ \text{\
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+8 + 2 &= 5 \times 2 \\\\
+10 &= 10 \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+4 \times 3 &= 60 \div 5 \\\\
+12 &= 12 \\\\
+\end{aligned}
+$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
++, *
+
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+*, /
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+8 + 2 &= 5 \times 2 \\\\
+10 &= 10 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+4 \times 3 &= 60 \div 5 \\\\
+12 &= 12 \\\\
+\end{aligned}
+$
+
 </code></pre>
 </div>
 </div>
@@ -2685,7 +2754,8 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>+, *
+
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2695,7 +2765,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>*, /
 </code></pre>
 </div>
 </div>
@@ -3117,7 +3187,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>08C4C9B4-1CD9-4FF2-AFDF-787A67B91DCB</p>
 </div>
@@ -3128,7 +3198,7 @@ $
 <p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_kb_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3148,7 +3218,7 @@ What number is:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+
 
 </div>
 <div class='working'>
@@ -3172,7 +3242,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -3214,7 +3284,14 @@ Six less than $-10$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+-16 is six less than -10 
+
+$
+\begin{aligned}
+&= (-6) + (-10) \\\\
+&=  -16          \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -3226,7 +3303,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+-16
 
 </div>
 <div class='answer'>
@@ -3238,7 +3315,14 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>-16 is six less than -10 
+
+$
+\begin{aligned}
+&= (-6) + (-10) \\\\
+&=  -16          \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -3255,7 +3339,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>-16
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -3282,7 +3366,16 @@ Twelve more than $-8$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+4 is Twelve more than -8
+
+$
+\begin{aligned}
+&= 12 + (-8) \\\\
+&= 12 - 8 \\\\
+&= 4 \\\\
+\end{aligned}
+$
+
 
 </div>
 <div class='working'>
@@ -3294,7 +3387,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+4
 
 </div>
 <div class='answer'>
@@ -3306,7 +3399,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>4 is Twelve more than -8
+
+$
+\begin{aligned}
+&= 12 + (-8) \\\\
+&= 12 - 8 \\\\
+&= 4 \\\\
+\end{aligned}
+$
+
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -3323,7 +3425,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>4
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -3442,7 +3544,17 @@ $8 - 5 + 2 = 1$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+According to BIDMAS rule
+
+$
+\begin{aligned}
+&=8 - (5+2) \\\\
+&=8 - (7)   \\\\
+&= 1         \\\\
+&= \text{L.H.S} \\\\
+\text {L.H.S} &= \text {R.H.S} \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -3459,14 +3571,24 @@ TODOANSWER
 </div>
 <div class='answer'>
 
-TODOANSWER
+8-(5+2)
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>According to BIDMAS rule
+
+$
+\begin{aligned}
+&=8 - (5+2) \\\\
+&=8 - (7)   \\\\
+&= 1         \\\\
+&= \text{L.H.S} \\\\
+\text {L.H.S} &= \text {R.H.S} \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -3493,7 +3615,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>8-(5+2)
 </code></pre>
 </div>
 </div>
@@ -3510,7 +3632,19 @@ $12 - 11 + 2 - 1 = 0$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+According to BIDMAS rule
+
+
+$
+\begin{aligned}
+&= 12 -(11+(2-1)) \\\\
+&= 12 -(11+1)     \\\\
+&= 12 - 12        \\\\   
+&= 0               \\\\
+&= \text {L.H.S} \\\\
+\text {L.H.S} &= \text {R.H.S} \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -3522,7 +3656,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+(11+(2-1))
 
 </div>
 <div class='answer'>
@@ -3534,7 +3668,19 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>According to BIDMAS rule
+
+
+$
+\begin{aligned}
+&= 12 -(11+(2-1)) \\\\
+&= 12 -(11+1)     \\\\
+&= 12 - 12        \\\\   
+&= 0               \\\\
+&= \text {L.H.S} \\\\
+\text {L.H.S} &= \text {R.H.S} \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -3551,7 +3697,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>(11+(2-1))
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -4263,7 +4409,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
 </div>
@@ -4274,7 +4420,7 @@ $13$
 <p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_kb_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6305,7 +6451,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>68CB7B73-86D8-4C13-9AD6-25E68ADB0A8B</p>
 </div>
@@ -6316,7 +6462,7 @@ $
 <p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_kb_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7536,7 +7682,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>E4217FA5-8FD3-4C35-9B50-472281B6B580</p>
 </div>
@@ -7547,7 +7693,7 @@ $
 <p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_kb_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7874,7 +8020,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>E5EAB57C-739C-4CF3-A13A-07113F5D6481</p>
 </div>
@@ -7885,7 +8031,7 @@ $
 <p>Kiran Babu</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_kb_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

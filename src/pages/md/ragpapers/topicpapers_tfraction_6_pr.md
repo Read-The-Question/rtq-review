@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-pr"
 title: "TopicPaper - Fraction - 6 - PR"
-date: 2022-07-09 13:32:15
+date: 2022-07-09 18:06:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>61BBB217-3B14-4521-9FBE-3800F9FD9D24</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-09 13:32:15
 <p>rag_rb_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -85,9 +85,8 @@ How many girls are in Year $6$?
 
 $
 \begin{aligned}
-\text {girls in year 6} &= \text {girls who only play hockey} + \text {girls who only play netball} + \text {girls who play both} + \text {girls who play neither hockey nor netball} \\\\
-                        &= 7 + 6 + 9 + 3\\\\
-                        &= 25
+\text {Girls in year 6}   &= 7 + 6 + 9 + 3\\\\
+                          &= 25
 \end{aligned}
 $
 
@@ -105,9 +104,8 @@ $25$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {girls in year 6} &= \text {girls who only play hockey} + \text {girls who only play netball} + \text {girls who play both} + \text {girls who play neither hockey nor netball} \\\\
-                        &= 7 + 6 + 9 + 3\\\\
-                        &= 25
+\text {Girls in year 6}   &= 7 + 6 + 9 + 3\\\\
+                          &= 25
 \end{aligned}
 $
 </code></pre>
@@ -183,13 +181,13 @@ What percentage of the girls play in the hockey team but not in the netball team
 
 $
 \begin{aligned}
-&= \dfrac {7} {25} \ \text {of} 100 \\\\
-&= \dfrac {7} {25} \times 100 \\\\
-&= \dfrac {7 \times 100} {25} \\\\
-&= \dfrac {7 \times 4 \times 25} {25} \\\\
-&= \dfrac {7 \times 4 \times \cancel{25}} {\cancel{25}} \\\\
-&= 7 \times 4 \\\\
-&= 28\%
+\text{Total Girls}                           &= 25  \\\\
+\text{Girls who play hockey but not netball} &=  7  \\\\
+\text{Percent of girls}                      &=  \dfrac {7} {25} \times 100 \\\\
+                                             &= \dfrac {7 \times 100} {25} \\\\
+                                             &= \dfrac {7 \times 4 \times 25} {25} \\\\
+                                             &= 7 \times 4 \\\\
+                                             &= 28\%
 \end{aligned}
 $
 
@@ -207,13 +205,13 @@ $28\%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {7} {25} \ \text {of} 100 \\\\
-&= \dfrac {7} {25} \times 100 \\\\
-&= \dfrac {7 \times 100} {25} \\\\
-&= \dfrac {7 \times 4 \times 25} {25} \\\\
-&= \dfrac {7 \times 4 \times \cancel{25}} {\cancel{25}} \\\\
-&= 7 \times 4 \\\\
-&= 28\%
+\text{Total Girls}                           &= 25  \\\\
+\text{Girls who play hockey but not netball} &=  7  \\\\
+\text{Percent of girls}                      &=  \dfrac {7} {25} \times 100 \\\\
+                                             &= \dfrac {7 \times 100} {25} \\\\
+                                             &= \dfrac {7 \times 4 \times 25} {25} \\\\
+                                             &= 7 \times 4 \\\\
+                                             &= 28\%
 \end{aligned}
 $
 </code></pre>
@@ -245,9 +243,7 @@ What fraction of the girls who play netball also play hockey?
 <div class='working'>
 
 $
-\begin{aligned}
 &= \dfrac {9} {25}
-\end{aligned}
 $
 
 </div>
@@ -263,9 +259,7 @@ $\dfrac {9} {25}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
 &= \dfrac {9} {25}
-\end{aligned}
 $
 </code></pre>
 </div>

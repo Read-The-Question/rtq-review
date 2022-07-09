@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-8"
 title: "TopicPaper - Areaperimeter - 8"
-date: 2022-07-09 13:32:15
+date: 2022-07-09 18:06:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -448,7 +448,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>34424FBE-EF3D-43B6-887C-E57D4C2AFD0B</p>
 </div>
@@ -459,7 +459,7 @@ $
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -548,36 +548,44 @@ Find the area of the shape shaded on the grid.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of the shape}       &= \text {Number of squares} \times \text {Area of a square} \\\\
+                                &= 15 \times (1 \times 1) \\\\
+                                &= 15 \times 1 \\\\
+                                &= 15 \ \text {cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$15 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of the shape}       &= \text {Number of squares} \times \text {Area of a square} \\\\
+                                &= 15 \times (1 \times 1) \\\\
+                                &= 15 \times 1 \\\\
+                                &= 15 \ \text {cm}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -589,17 +597,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$15 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
@@ -619,7 +617,15 @@ Draw a rectangle on the grid with the same area as the shape
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Draw a rectangle which with area $15 \ \text {cm}^2$. (one possible rectangle can be drawn using 3 row each with 5 squares)*
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 <div class='working'>
@@ -643,7 +649,9 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Draw a rectangle which with area $15 \ \text {cm}^2$. (one possible rectangle can be drawn using 3 row each with 5 squares)*
+rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -679,6 +687,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' id='FORM-34424FBE-EF3D-43B6-887C-E57D4C2AFD0B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-34424FBE-EF3D-43B6-887C-E57D4C2AFD0B'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2132,7 +2177,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3E76B098-E1E3-44C7-9465-39667894AFEE</p>
 </div>
@@ -2143,7 +2188,7 @@ TODOANSWER
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2232,36 +2277,39 @@ If $R = 63$ and $r = 2.4$ , find $S$ .
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+S               &= 2\,\pi^2\,\times 63 \times 2.4 + 4\pi\,{2.4}^2 \\\\
+                &= 2 \times {3.14}^2 \times 63 \times 2.4 + 4 \times 3.14 \times {2.4}^2 \\\\
+                &= 2 \times 9.8596 \times 63 \times 2.4 + 4 \times 3.14 \times 5.76 \\\\
+                &= 3053.88 \ \text {units}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$3053.88 \ \text {units}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+S               &= 2\,\pi^2\,\times 63 \times 2.4 + 4\pi\,{2.4}^2 \\\\
+                &= 2 \times {3.14}^2 \times 63 \times 2.4 + 4 \times 3.14 \times {2.4}^2 \\\\
+                &= 2 \times 9.8596 \times 63 \times 2.4 + 4 \times 3.14 \times 5.76 \\\\
+                &= 3053.88 \ \text {units}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2273,17 +2321,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$3053.88 \ \text {units}^2$
 </code></pre>
 </div>
 </div>
@@ -2300,36 +2338,45 @@ If $S = 2500$ and $r = 3.1$, find $R$ .
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+2\,\pi^2\,\times R \times 3.1 + 4\pi\,{3.1}^2                           &= 2500 \\\\
+2 \times {3.14}^2 \times R \times 3.1 + 4 \times 3.14 \times {3.1}^2    &= 2500 \\\\
+61.12 R + 120.70                                                        &= 2500 \\\\
+61.12 R                                                                 &= 2500 - 120.70 \\\\
+61.12 R                                                                 &= 2379.3 \\\\
+R                                                                       &= \dfrac {2379.3} {61.12} \\\\
+R                                                                       &= 39.01  
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$39.01$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+2\,\pi^2\,\times R \times 3.1 + 4\pi\,{3.1}^2                           &= 2500 \\\\
+2 \times {3.14}^2 \times R \times 3.1 + 4 \times 3.14 \times {3.1}^2    &= 2500 \\\\
+61.12 R + 120.70                                                        &= 2500 \\\\
+61.12 R                                                                 &= 2500 - 120.70 \\\\
+61.12 R                                                                 &= 2379.3 \\\\
+R                                                                       &= \dfrac {2379.3} {61.12} \\\\
+R                                                                       &= 39.01  
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2341,17 +2388,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$39.01$
 </code></pre>
 </div>
 </div>
@@ -2368,36 +2405,49 @@ If $S = 1800$ and $R = 10r$ , find $r$ .
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+2\,\pi^2\,\times 10 \times 3.1 + 4\pi\,r^2                              &= 1800 \\\\
+2 \times {3.14}^2 \times 10 \times 3.1 + 4 \times 3.14 \times r^2       &= 1800 \\\\
+611.29 + 12.56 r                                                        &= 1800 \\\\
+12.56 r^2                                                               &= 1800 - 611.29 \\\\
+12.56 r^2                                                               &= 1188.71 \\\\
+r^2                                                                     &= \dfrac {1188.71} {12.56} \\\\
+r^2                                                                     &= 94.64 \\\\
+r                                                                       &= \sqrt {94.64} \\\\
+r                                                                       &= 9.7
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9.7$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+2\,\pi^2\,\times 10 \times 3.1 + 4\pi\,r^2                              &= 1800 \\\\
+2 \times {3.14}^2 \times 10 \times 3.1 + 4 \times 3.14 \times r^2       &= 1800 \\\\
+611.29 + 12.56 r                                                        &= 1800 \\\\
+12.56 r^2                                                               &= 1800 - 611.29 \\\\
+12.56 r^2                                                               &= 1188.71 \\\\
+r^2                                                                     &= \dfrac {1188.71} {12.56} \\\\
+r^2                                                                     &= 94.64 \\\\
+r                                                                       &= \sqrt {94.64} \\\\
+r                                                                       &= 9.7
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2409,17 +2459,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$9.7$
 </code></pre>
 </div>
 </div>
@@ -2496,6 +2536,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' id='FORM-3E76B098-E1E3-44C7-9465-39667894AFEE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3E76B098-E1E3-44C7-9465-39667894AFEE'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2735,7 +2812,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8FE71FBE-741B-44E7-B00C-6618D7E244F9</p>
 </div>
@@ -2746,7 +2823,7 @@ TODOANSWER
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2845,24 +2922,25 @@ As per the question,
 $
 \begin{aligned}
 4\pi\,r^2       &= 150 \\\\
+r^2             &= \dfrac {150} {4 \pi} \\\\
+r^2             &= \dfrac {150} {4 \times 3.14} \\\\
+r^2             &= \dfrac {150} {12.56} \\\\
+r^2             &= \dfrac {12 \times 12.56} {12.56} \\\\
+r^2             &= \dfrac {12 \times \cancel {12.56}} {\cancel {12.56}} \\\\
+r^2             &= 12 \\\\
+r               &= \sqrt {12} \\\\
+r               &= 3.46 \ \text {cm}
+\end{aligned}
+$
 
-
-</div>
-<div class='working'>
-
-TODOWORKING
+Radius of the sphere    $= 3.46 \ \text {cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$3.46 \ \text {cm}$
 
 </div>
 </div>
@@ -2876,12 +2954,18 @@ As per the question,
 $
 \begin{aligned}
 4\pi\,r^2       &= 150 \\\\
+r^2             &= \dfrac {150} {4 \pi} \\\\
+r^2             &= \dfrac {150} {4 \times 3.14} \\\\
+r^2             &= \dfrac {150} {12.56} \\\\
+r^2             &= \dfrac {12 \times 12.56} {12.56} \\\\
+r^2             &= \dfrac {12 \times \cancel {12.56}} {\cancel {12.56}} \\\\
+r^2             &= 12 \\\\
+r               &= \sqrt {12} \\\\
+r               &= 3.46 \ \text {cm}
+\end{aligned}
+$
 
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Radius of the sphere    $= 3.46 \ \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -2893,17 +2977,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$3.46 \ \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -2920,36 +2994,83 @@ Find the radius of the sphere with the same volume as the cube.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Surface area of cube} = 6 \times \text{edge} \times \text{edge}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Volume} = \text{side} ^ { 3 }$
+
+
+Let the edge of the cube $= a$
+
+Let the radius of the sphere $= r$
+As per the question,
+
+$
+\begin{aligned}
+6 \times a \times a     &= 150 \\\\
+6a^2                    &= 150 \\\\
+a^2                     &= \dfrac {150} {6} \\\\
+a^2                     &= \dfrac {6 \times 25} {6} \\\\
+a^2                     &= \dfrac {\cancel {6} \times 25} {\cancel {6}} \\\\
+a^2                     &= 25 \\\\
+a                       &= \sqrt {25} \\\\
+a                       &= 5 \ \text {cm} \\\\
+\dfrac{4} {3}\pi\,r^3   &= a^3 \\\\
+\dfrac{4\pi} {3} r^3    &= 5^3 \\\\
+r^3                     &= \dfrac {125 \times 3} {4\pi} \\\\
+r^3                     &= \dfrac {30 \times 12.56} {12.56} \\\\
+r^3                     &= \dfrac {30 \times \cancel {12.56}} {\cancel {12.56}} \\\\
+r^3                     &= 30 \\\\
+r                       &= \sqrt[3] {30} \\\\
+r                       &= 3.1 \ \text {cm}
+\end{aligned}
+$
+
+Radius of the sphere $= 3.1 \ \text {cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$3.1 \ \text {cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_volume_cube
+
+Let the edge of the cube $= a$
+
+Let the radius of the sphere $= r$
+As per the question,
+
+$
+\begin{aligned}
+6 \times a \times a     &= 150 \\\\
+6a^2                    &= 150 \\\\
+a^2                     &= \dfrac {150} {6} \\\\
+a^2                     &= \dfrac {6 \times 25} {6} \\\\
+a^2                     &= \dfrac {\cancel {6} \times 25} {\cancel {6}} \\\\
+a^2                     &= 25 \\\\
+a                       &= \sqrt {25} \\\\
+a                       &= 5 \ \text {cm} \\\\
+\dfrac{4} {3}\pi\,r^3   &= a^3 \\\\
+\dfrac{4\pi} {3} r^3    &= 5^3 \\\\
+r^3                     &= \dfrac {125 \times 3} {4\pi} \\\\
+r^3                     &= \dfrac {30 \times 12.56} {12.56} \\\\
+r^3                     &= \dfrac {30 \times \cancel {12.56}} {\cancel {12.56}} \\\\
+r^3                     &= 30 \\\\
+r                       &= \sqrt[3] {30} \\\\
+r                       &= 3.1 \ \text {cm}
+\end{aligned}
+$
+
+Radius of the sphere $= 3.1 \ \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -2961,17 +3082,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$3.1 \ \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -2988,36 +3099,53 @@ Find the radius of the sphere if both the sphere and the cube have the same rati
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+\dfrac {4\pi\,r^2} {\frac{4} {3}\pi\,r^3}                           &= \dfrac {150} {125} \\\\
+\dfrac {4\pi\,r^2 \times 3} {4\pi\,r^3}                             &= \dfrac {25 \times 6} {25 \times 5} \\\\
+\dfrac {\cancel {4\pi}\,r^2 \times 3} {\cancel {4\pi}\,r^3}         &= \dfrac {\cancel {25} \times 6} {\cancel {25} \times 5} \\\\
+r \times 3                                                          &= \dfrac {6} {5} \\\\
+r                                                                   &= \dfrac {6} {5 \times 3} \\\\
+r                                                                   &= \dfrac {2 \times 3} {5 \times 3} \\\\
+r                                                                   &= \dfrac {2 \times \cancel {3}} {5 \times \cancel {3}} \\\\
+r                                                                   &= \dfrac {2} {5} \\\\
+r                                                                   &= 0.4 \ \text {cm}
+\end{aligned}
+$
 
-TODOWORKING
+Radius of the sphere $= 0.4 \ \text {cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$0.4 \ \text{cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\dfrac {4\pi\,r^2} {\frac{4} {3}\pi\,r^3}                           &= \dfrac {150} {125} \\\\
+\dfrac {4\pi\,r^2 \times 3} {4\pi\,r^3}                             &= \dfrac {25 \times 6} {25 \times 5} \\\\
+\dfrac {\cancel {4\pi}\,r^2 \times 3} {\cancel {4\pi}\,r^3}         &= \dfrac {\cancel {25} \times 6} {\cancel {25} \times 5} \\\\
+r \times 3                                                          &= \dfrac {6} {5} \\\\
+r                                                                   &= \dfrac {6} {5 \times 3} \\\\
+r                                                                   &= \dfrac {2 \times 3} {5 \times 3} \\\\
+r                                                                   &= \dfrac {2 \times \cancel {3}} {5 \times \cancel {3}} \\\\
+r                                                                   &= \dfrac {2} {5} \\\\
+r                                                                   &= 0.4 \ \text {cm}
+\end{aligned}
+$
+
+Radius of the sphere $= 0.4 \ \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -3029,17 +3157,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$0.4 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -3048,10 +3166,47 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' id='FORM-8FE71FBE-741B-44E7-B00C-6618D7E244F9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8FE71FBE-741B-44E7-B00C-6618D7E244F9'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>03277000-358B-4FBF-A4D3-363BF2924B7F</p>
 </div>
@@ -3062,7 +3217,7 @@ TODOANSWER
 <p>Naman Pant</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3153,36 +3308,40 @@ What is the area of the pond?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of pond}    &= 11 \times 6 \\\\
+                        &= 66 \ \text {cm}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$66 \ \text {cm}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of pond}    &= 11 \times 6 \\\\
+                        &= 66 \ \text {cm}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3194,17 +3353,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$66 \ \text {cm}^2$
 </code></pre>
 </div>
 </div>
@@ -3223,36 +3372,58 @@ Now calculate the area of the lawn
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Show the diagram with lawn divided into two parts and also show measurements for the sides which do not have measurements shown.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the question, the lawn can be divided into two rectangles.
+
+$
+\begin{aligned}
+\text{Area of lawn}     &= \text{Rectangle 1} + \text{Rectangle 2} \\\\
+                        &= 14 \times 3 + 5 \times 12 \\\\
+                        &= 42 + 60 \\\\
+                        &= 102 \ \text{m}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$102 \ \text{m}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram with lawn divided into two parts and also show measurements for the sides which do not have measurements shown.*
+rtq_abbr_md_add_drawing_ends
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the question, the lawn can be divided into two rectangles.
+
+$
+\begin{aligned}
+\text{Area of lawn}     &= \text{Rectangle 1} + \text{Rectangle 2} \\\\
+                        &= 14 \times 3 + 5 \times 12 \\\\
+                        &= 42 + 60 \\\\
+                        &= 102 \ \text{m}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3264,17 +3435,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$102 \ \text{m}^2$
 </code></pre>
 </div>
 </div>
@@ -3291,36 +3452,44 @@ What is the area of the path?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of path}     &= \text{Area of Garden} - \text{Area of pond} - \text {Area of lawn} \\\\
+                        &= 19 \times 12 - 66 - 102 \\\\
+                        &= 228 - 168 \\\\
+                        &= 60 \ \text{m}^2
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$60 \ \text{m}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of path}     &= \text{Area of Garden} - \text{Area of pond} - \text {Area of lawn} \\\\
+                        &= 19 \times 12 - 66 - 102 \\\\
+                        &= 228 - 168 \\\\
+                        &= 60 \ \text{m}^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3332,17 +3501,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$60 \ \text{m}^2$
 </code></pre>
 </div>
 </div>
@@ -3351,6 +3510,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='03277000-358B-4FBF-A4D3-363BF2924B7F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='03277000-358B-4FBF-A4D3-363BF2924B7F' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='03277000-358B-4FBF-A4D3-363BF2924B7F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='03277000-358B-4FBF-A4D3-363BF2924B7F' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='03277000-358B-4FBF-A4D3-363BF2924B7F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='03277000-358B-4FBF-A4D3-363BF2924B7F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='03277000-358B-4FBF-A4D3-363BF2924B7F' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='03277000-358B-4FBF-A4D3-363BF2924B7F' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='03277000-358B-4FBF-A4D3-363BF2924B7F' id='FORM-03277000-358B-4FBF-A4D3-363BF2924B7F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-03277000-358B-4FBF-A4D3-363BF2924B7F'>Initial</p>
+</div>
 </div>
 </li>
 <li>

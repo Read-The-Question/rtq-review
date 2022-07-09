@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-2"
 title: "TopicPaper - Number - 2"
-date: 2022-07-08 13:25:34
+date: 2022-07-09 06:23:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -6692,7 +6692,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>34651AA1-3B37-4CF9-8B13-4FD3BDD2969A</p>
 </div>
@@ -6706,7 +6706,7 @@ TODOANSWER
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7148,6 +7148,20 @@ e: s3 step missing to show factors, direct cancellation is shown.
 
 
 f: s2: do not solve (20+10) to 30, still show (20+10) to represent that multiply by zero you do not have to solve
+
+
+
+b: Use rtq_abbr_md_divide_by_fraction_note, refer 73DB7EA7-A552-463A-A18C-5677985F3293 for one usage for it.
+
+
+
+
+
+b: remove S2, its duplicate of S1
+
+
+
+c: Add S3 step: 42 - a = 38
 </div>
 
 <div class='review'>
@@ -7190,7 +7204,7 @@ f: s2: do not solve (20+10) to 30, still show (20+10) to represent that multiply
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128</p>
 </div>
@@ -7201,10 +7215,10 @@ f: s2: do not solve (20+10) to 30, still show (20+10) to represent that multiply
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_an_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7264,29 +7278,25 @@ What is the larger of these two numbers?
 <div class='workings'>
 <div class='working'>
 
-Let the first numbers $= a  
-the second number $= a + 1
+Let the first number $= a$
+
+Second number $= a + 1$
 
 As per the question,
 
 $
 \begin{aligned}
-a + a + 1 &= 91 \\\\
-2 a + 1   &= 91 \\\\
-2 a       &= 91 - 1 \\\\
-2 a       &= 90 \\\\
-a         &= \dfrac {90} {2} \\\\
-a         &= \dfrac {45 \times 2} {2} \\\\
-a         &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
-a         &= 45
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Larger number} &= a + 1 \\\\
-                       &= 45 + 1 \\\\
-                       &= 46
+a + a + 1               &= 91 \\\\
+2 a + 1                 &= 91 \\\\
+2 a                     &= 91 - 1 \\\\
+2 a                     &= 90 \\\\
+a                       &= \dfrac {90} {2} \\\\
+a                       &= \dfrac {45 \times 2} {2} \\\\
+a                       &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
+a                       &= 45 \\\\
+\text {Larger number}   &= a + 1 \\\\
+                        &= 45 + 1 \\\\
+                        &= 46
 \end{aligned}
 $ 
 
@@ -7302,29 +7312,25 @@ $46$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first numbers $= a  
-the second number $= a + 1
+<pre class='language-latex'><code class='language-latex'>Let the first number $= a$
+
+Second number $= a + 1$
 
 As per the question,
 
 $
 \begin{aligned}
-a + a + 1 &= 91 \\\\
-2 a + 1   &= 91 \\\\
-2 a       &= 91 - 1 \\\\
-2 a       &= 90 \\\\
-a         &= \dfrac {90} {2} \\\\
-a         &= \dfrac {45 \times 2} {2} \\\\
-a         &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
-a         &= 45
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Larger number} &= a + 1 \\\\
-                       &= 45 + 1 \\\\
-                       &= 46
+a + a + 1               &= 91 \\\\
+2 a + 1                 &= 91 \\\\
+2 a                     &= 91 - 1 \\\\
+2 a                     &= 90 \\\\
+a                       &= \dfrac {90} {2} \\\\
+a                       &= \dfrac {45 \times 2} {2} \\\\
+a                       &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
+a                       &= 45 \\\\
+\text {Larger number}   &= a + 1 \\\\
+                        &= 45 + 1 \\\\
+                        &= 46
 \end{aligned}
 $ 
 </code></pre>
@@ -7370,10 +7376,10 @@ $
 2a - 14          &= 24 \\\\
 2a               &= 24 + 14 \\\\
 2a               &= 38 \\\\
-a                        &= \dfrac {38} {2} \\\\
-a                        &= \dfrac {19 \times 2} {2} \\\\
-a                        &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
-a                        &= 19
+a                &= \dfrac {38} {2} \\\\
+a                &= \dfrac {19 \times 2} {2} \\\\
+a                &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
+a                &= 19
 \end{aligned}
 $
 
@@ -7400,10 +7406,10 @@ $
 2a - 14          &= 24 \\\\
 2a               &= 24 + 14 \\\\
 2a               &= 38 \\\\
-a                        &= \dfrac {38} {2} \\\\
-a                        &= \dfrac {19 \times 2} {2} \\\\
-a                        &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
-a                        &= 19
+a                &= \dfrac {38} {2} \\\\
+a                &= \dfrac {19 \times 2} {2} \\\\
+a                &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
+a                &= 19
 \end{aligned}
 $
 </code></pre>
@@ -7425,63 +7431,36 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: refer some age topic papers to check how to write algebra before you fix this, this should have been in algebra but lets do it now
-
-
-
-a. use a instead of n
-
-
-
-Let the first number = a
-
-the second number = a + 1
-
-
-
-combine 2 aligned, change Largest number to Larger number
-
-
-
-b: change 2 * a to 2a after S1, leave as 2 *a only in S1
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' id='FORM-6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' id='FORM-6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -7493,7 +7472,7 @@ b: change 2 * a to 2a after S1, leave as 2 *a only in S1
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>50E04B0C-8A1F-40C0-AACC-F803CBD9A220</p>
 </div>
@@ -7507,7 +7486,7 @@ b: change 2 * a to 2a after S1, leave as 2 *a only in S1
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7623,6 +7602,27 @@ $8.3$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: answer is wrong
+
+
+
+They should be explained more
+
+
+
+we need to find what each least count on the scale represents and then find the answer.
+
+
+
+discuss
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -9064,7 +9064,7 @@ Therefore, the correct statement is $\bold {Between \ 1000 \ and \ 1100}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>812FF640-E4A8-4932-850E-09DE0E46EB37</p>
 </div>
@@ -9075,10 +9075,10 @@ Therefore, the correct statement is $\bold {Between \ 1000 \ and \ 1100}$
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_an_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9283,57 +9283,36 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: 
-
-remove as per the question
-
-for decimals ones, do not show such factors
-
-
-
-make s3 = 12.78 / 6
-
-s4 = pound 2.13 (final answer)
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' id='FORM-812FF640-E4A8-4932-850E-09DE0E46EB37' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='812FF640-E4A8-4932-850E-09DE0E46EB37' id='FORM-812FF640-E4A8-4932-850E-09DE0E46EB37' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

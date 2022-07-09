@@ -1,6 +1,6 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-3-g0"
-title: "TopicPaper - Number - 3 - G0"
+slug: "ragpapers/topicpapers-tnumber-3-g0-prpcr"
+title: "TopicPaper - Number - 3 - G0 - PRPCR"
 date: 2022-07-09 06:23:59
 ---
 <ul class='question default-decimal'>

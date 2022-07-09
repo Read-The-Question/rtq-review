@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-3"
 title: "TopicPaper - Number - 3"
-date: 2022-07-09 06:23:59
+date: 2022-07-09 09:41:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -8060,6 +8060,10 @@ Write all these question in Lets verify way. Search for Lets verify to see examp
 
 
 First write the answer, then Lets verify and show working.
+
+
+
+Drop summary line in the end for all, just write the way other lets verify been written.
 
 
 

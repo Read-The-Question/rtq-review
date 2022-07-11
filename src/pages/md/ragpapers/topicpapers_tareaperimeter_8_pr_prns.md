@@ -1,9 +1,574 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-pr-prns"
 title: "TopicPaper - Areaperimeter - 8 - PR - PRNS"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>2C26352A-4AA1-46CE-9387-78C69FD25973</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:3</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A group of children are cutting squares off one corner of rectangular sheets of paper, as shown in the diagram.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Ahmed's sheet of paper is $8 \ \text{cm}$ by $7 \ \text{cm}$. He cuts out a square with sides of length $5 \ \text{cm}$. 
+What area of paper is remaining when he has cut out his square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Remaining Area}      &= \text {Area of sheet} - \text {Area of square} \\\\
+                            &= 8 \times 7 - 5 \times 5 \\\\
+                            &= 56 - 25 \\\\
+                            &= 31 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$31 \ \text{cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Remaining Area}      &= \text {Area of sheet} - \text {Area of square} \\\\
+                            &= 8 \times 7 - 5 \times 5 \\\\
+                            &= 56 - 25 \\\\
+                            &= 31 \ \text{cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$31 \ \text{cm}^2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Bella's sheet of paper is $11 \ \text{cm}$ by $12 \ \text{cm}$. After her square is cut out, the area of paper she is left with is $68 \ \text{cm}^2$.  What is the length of each side of the square she cuts out?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the side of the square $= s$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Remaining Area}      &= \text {Area of sheet} - \text {Area of square} \\\\
+68                          &= 11 \times 12 - s \times s \\\\
+68                          &= 132 - s^2 \\\\
+s^2                         &= 132 - 68 \\\\
+s^2                         &= 64 \\\\
+s                           &= \sqrt {64} \\\\
+s                           &= 8 \ \text {cm}
+\end{aligned}
+$
+
+Length of the side of square that Bella cuts out $= 8 \ \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text {cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the side of the square $= s$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Remaining Area}      &= \text {Area of sheet} - \text {Area of square} \\\\
+68                          &= 11 \times 12 - s \times s \\\\
+68                          &= 132 - s^2 \\\\
+s^2                         &= 132 - 68 \\\\
+s^2                         &= 64 \\\\
+s                           &= \sqrt {64} \\\\
+s                           &= 8 \ \text {cm}
+\end{aligned}
+$
+
+Length of the side of square that Bella cuts out $= 8 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Chris has an area of $23 \ \text{cm}^2$ of paper left when he cuts a square with sides of $7 \ \text{cm}$ from his sheet of paper.
+If his rectangular sheet of paper is $8 \ \text{cm}$ wide, how long is it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the length of the sheet $= l$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of sheet} - \text {Area of square}    &= \text {Remaining Area} \\\\
+l \times 8 - 7 \times 7                           &= 23 \\\\
+8l - 49                                           &= 23 \\\\
+8l                                                &= 23 + 49 \\\\
+8l                                                &= 72 \\\\
+l                                                 &= \dfrac {72} {8} \\\\
+l                                                 &= \dfrac {8 \times 9} {8} \\\\
+l                                                 &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
+l                                                 &= 9 \ \text {cm}
+\end{aligned}
+$
+
+Length of the side of sheet $= 9 \ \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text {cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the length of the sheet $= l$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of sheet} - \text {Area of square}    &= \text {Remaining Area} \\\\
+l \times 8 - 7 \times 7                           &= 23 \\\\
+8l - 49                                           &= 23 \\\\
+8l                                                &= 23 + 49 \\\\
+8l                                                &= 72 \\\\
+l                                                 &= \dfrac {72} {8} \\\\
+l                                                 &= \dfrac {8 \times 9} {8} \\\\
+l                                                 &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
+l                                                 &= 9 \ \text {cm}
+\end{aligned}
+$
+
+Length of the side of sheet $= 9 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2C26352A-4AA1-46CE-9387-78C69FD25973' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2C26352A-4AA1-46CE-9387-78C69FD25973' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2C26352A-4AA1-46CE-9387-78C69FD25973' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2C26352A-4AA1-46CE-9387-78C69FD25973' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2C26352A-4AA1-46CE-9387-78C69FD25973' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2C26352A-4AA1-46CE-9387-78C69FD25973' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2C26352A-4AA1-46CE-9387-78C69FD25973' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2C26352A-4AA1-46CE-9387-78C69FD25973' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='2C26352A-4AA1-46CE-9387-78C69FD25973' id='FORM-2C26352A-4AA1-46CE-9387-78C69FD25973' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2C26352A-4AA1-46CE-9387-78C69FD25973'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>F82A9A83-8990-460E-9DE9-6B7ACD86127F</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:12</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle has an area of $70 \ \text{cm}^2$ and a perimeter of $38 \ \text{cm}$. What is the length of the **shortest** side of the rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+Let the width of the rectangle (in $\text{cm}$) $= w$
+
+Let the length of the rectangle (in $\text{cm}$) $= l$
+
+As per the question,
+
+$
+\begin{aligned}
+l \times w          &= 70 \\\\
+2 \times (l + w)    &= 38 \\\\
+l + w               &= \dfrac {38}{2} \\\\
+l + w               &= 19
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
+
+- Both the numbers should be smaller than $19$
+- The product of the $2$ numbers is $70$ 
+- The sum of the $2$ numbers is $19$.
+
+Factors of $70 = 1, 2, 5, 7, 10, 14, 35, 70$
+
+| Factors   |  Sum  | Numbers $< 19$    |
+|:-------:  |:----: |:---------------:  |
+| $2, 35$   | $37$  |        No         |
+| $5, 14$   | $19$  |       Yes         |
+| $7, 10$   | $17$  |       Yes         |
+
+A quick check shows that $5$ and $14$ meets all the criteria above.
+
+*Note: The two equations form a quadratic equation. ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
+
+Width of the rectangle $= 5 \ \text{cm}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \text{cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_katex_formula_expanded_perimeter_rectangle
+
+Let the width of the rectangle (in $\text{cm}$) $= w$
+
+Let the length of the rectangle (in $\text{cm}$) $= l$
+
+As per the question,
+
+$
+\begin{aligned}
+l \times w          &= 70 \\\\
+2 \times (l + w)    &= 38 \\\\
+l + w               &= \dfrac {38}{2} \\\\
+l + w               &= 19
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
+
+- Both the numbers should be smaller than $19$
+- The product of the $2$ numbers is $70$ 
+- The sum of the $2$ numbers is $19$.
+
+Factors of $70 = 1, 2, 5, 7, 10, 14, 35, 70$
+
+| Factors   |  Sum  | Numbers $< 19$    |
+|:-------:  |:----: |:---------------:  |
+| $2, 35$   | $37$  |        No         |
+| $5, 14$   | $19$  |       Yes         |
+| $7, 10$   | $17$  |       Yes         |
+
+A quick check shows that $5$ and $14$ meets all the criteria above.
+
+*Note: The two equations form a quadratic equation. rtq_abbr_md_quadratic_note*
+
+Width of the rectangle $= 5 \ \text{cm}$ 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5 \ \text{cm}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F82A9A83-8990-460E-9DE9-6B7ACD86127F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F82A9A83-8990-460E-9DE9-6B7ACD86127F' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F82A9A83-8990-460E-9DE9-6B7ACD86127F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F82A9A83-8990-460E-9DE9-6B7ACD86127F' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F82A9A83-8990-460E-9DE9-6B7ACD86127F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F82A9A83-8990-460E-9DE9-6B7ACD86127F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F82A9A83-8990-460E-9DE9-6B7ACD86127F' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F82A9A83-8990-460E-9DE9-6B7ACD86127F' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='F82A9A83-8990-460E-9DE9-6B7ACD86127F' id='FORM-F82A9A83-8990-460E-9DE9-6B7ACD86127F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F82A9A83-8990-460E-9DE9-6B7ACD86127F'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>

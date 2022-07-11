@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g0"
 title: "TopicPaper - Time - 4 - G0"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-09 18:06:37
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -87,6 +87,23 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+step 1 : t capital in \"time\"
+
+remove \"am\" from step 1 and 2
+
+add a step between step 2 and 1:
+
+= 7:40 + 70 minutes - 5 minutes
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -128,7 +145,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>E8BEF82D-E970-4508-A623-9BC202200751</p>
 </div>
@@ -142,7 +159,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -202,6 +219,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replace L.H.S with : \"Arrival Time\"
+
+remove \"pm\" from step 1
+
+write \"min\" as \"minutes\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -243,7 +273,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>D5012DF2-F430-4487-8A7E-139B87DBBF34</p>
 </div>
@@ -257,7 +287,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -319,6 +349,29 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove line 1
+
+reomve whole katex
+
+replace with :
+
+= 48 weeks
+
+= 48 x 7 
+
+= 336 days
+
+
+
+write days in section.answer too
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -360,7 +413,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
@@ -374,7 +427,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -574,6 +627,25 @@ Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove n from \"Australian\"
+
+
+
+part (b): Add a L.H.S in step 1:
+
+\"Arrival Time\"
+
+replace step 2 :
+
+= 23:00 + 38 hours
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -615,7 +687,7 @@ Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>9584D5F5-A2A6-4220-9550-009F833ABA09</p>
 </div>
@@ -629,7 +701,7 @@ Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -703,6 +775,31 @@ April $2$ falls on a Thursday.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove line 1 and line 2
+
+add rd , th, ist , nd on the date respectively
+
+step 1 : 
+
+ replace \"1 day + 2 days\" with \"3 days\"
+
+remove step 2
+
+replace step 3 :
+
+= March 30th Monday +3 days
+
+
+
+remove last line i.e. \"april 2nd ......\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -744,7 +841,7 @@ April $2$ falls on a Thursday.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>A6FC38CB-D02D-48DD-BC05-EFFF3A076124</p>
 </div>
@@ -758,7 +855,7 @@ April $2$ falls on a Thursday.
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -824,6 +921,19 @@ The journey took $=112 \ \text {minutes}$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+step 3 : write it as : 1 x 60 minutes
+
+add a step 4: = 60 + 52
+
+remove last line
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -865,7 +975,7 @@ The journey took $=112 \ \text {minutes}$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
 </div>
@@ -879,7 +989,7 @@ The journey took $=112 \ \text {minutes}$.
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -970,6 +1080,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove all
+
+replace with :
+
+As per the question,
+
+
+
+Total hours = 6 x (9 pm - 7 am) + 4:30 pm - 10:30 am
+
+and solve further
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1228,7 +1357,7 @@ The shortest time taken by me to prepare my breakfast is $=4 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>5C8F5D72-0C11-4187-B036-6028A9F59B70</p>
 </div>
@@ -1242,7 +1371,7 @@ The shortest time taken by me to prepare my breakfast is $=4 \ \text{minutes}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1308,6 +1437,39 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replcae L.H.S : \"Concert Lasted\"
+
+remove R.H.S from step 1
+
+remove \"pm\" from step 2
+
+step 4 : write it as : 1 x 60 minutes
+
+add a step 5 : 60 + 36
+
+
+
+
+
+replcae L.H.S : \"Concert Lasted\"
+
+remove R.H.S from step 1
+
+remove \"pm\" from step 2
+
+step 4 : write it as : 1 x 60 minutes
+
+add a step 5 : 60 + 36
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1349,7 +1511,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>011051B7-79BC-4F3A-B3E5-9FEA0D775E51</p>
 </div>
@@ -1363,7 +1525,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1518,6 +1680,41 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove \"on TV\" from L.H.S
+
+reomve \"pm\" from step 1
+
+replace \"hours\" with \"hour\"
+
+change in section.answers too
+
+
+
+part (b) : 
+
+replace l.H.S : \"Total Time\"
+
+remove R.H.S and step 2 
+
+replace with :
+
+= 3 x 2 hours 45 minutes
+
+= 3 x 2 hours + 3 x 45 minutes
+
+= 6 hours + 135 minutes
+
+= 6 hours + 2 hours + 15 minutes
+
+= 8 hours 15 minutes
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2011,7 +2208,7 @@ Greatest glow $= 08{:}08$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>72B6948E-CEFE-403E-AB86-3937A9FDB31F</p>
 </div>
@@ -2025,7 +2222,7 @@ Greatest glow $= 08{:}08$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2087,6 +2284,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+t capital in \"time\"
+
+remove \"am\" from step 1 and step 2
+
+remove brackets from step 1 
+</div>
 
 <div class='review'>
 <ul class='review'>

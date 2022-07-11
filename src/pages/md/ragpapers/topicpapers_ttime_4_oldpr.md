@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-oldpr"
 title: "TopicPaper - Time - 4 - OLDPR"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-09 18:06:37
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -99,6 +99,27 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove both katex
+
+replace with :
+
+Heartbeat rate = 80 x (3:30 pm - 8:30 am)
+
+               = 80 x 7 hours
+
+               = 80 x 7 x 60 minutes
+
+               = 80 x 420
+
+and solve further
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -140,7 +161,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
@@ -154,7 +175,7 @@ $
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -374,6 +395,39 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+for all : write : inside {}
+
+part (a) : replace L.H.S. with :\"Time\"
+
+part (b) : step 1 : remove R.H.S.
+
+step 4 : write it as 1 x 60 minutes +....
+
+add a step 5 : 60 + 9
+
+
+
+part (c) : replace L.H.S. : \"Time delayed\"
+
+remove R.H.S from step 1
+
+remove all the steps from step 2
+
+= 09:11 - 07:45 - 1 1/4 hours
+
+= 1 hour 26 minutes - 1 hour + 1/4 hour
+
+= 1 hour 26 minutes - 1 hour + 1/4 x 60 minutes
+
+and solve furhter
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -415,7 +469,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
@@ -429,7 +483,7 @@ $
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -650,6 +704,55 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : replace L.H.S : \"Started cycling\"
+
+remove R.H.S. from step 1
+
+write : inside {} 
+
+add a \' before mins
+
+and write mins as \"minutes\"
+
+replace step 3 as : 12:45 + 1 hour 19 minutes
+
+
+
+part (b): remove cycling from L.H.S. 
+
+ and remove R.H.S. from step 1
+
+replace step 3 : 2 hours ... minutes
+
+in section.answer : add a \' between 154 and \text
+
+
+
+part (c) : replace L.H.S. with : \"Total Time taken\"
+
+remove R.H.S. from step 1
+
+replace from step 4 : 
+
+= 340 / 60 hours
+
+= 5 40/60 hours
+
+= 5 hours + 40 minutes
+
+= 5 hours 40 minutes  
+
+
+
+in section.answer : write hrs and \"hours\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -691,7 +794,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>19C4B959-6C02-4D22-B36F-6E0A58FE85F7</p>
 </div>
@@ -705,7 +808,7 @@ $
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -781,6 +884,21 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove whole katex:
+
+ replace with :
+
+= 7:35 + 42 minutes
+
+= 8:17 am
+</div>
 
 <div class='review'>
 <ul class='review'>

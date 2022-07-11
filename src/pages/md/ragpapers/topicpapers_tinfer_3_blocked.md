@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-3-blocked"
 title: "TopicPaper - Infer - 3 - BLOCKED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>49F43ACE-1EBA-464B-BF4D-AAF2D99392C6</p>
+<p>A3E2A396-36A1-43D4-9B0A-20559805248E</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:37</p>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:24</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -30,36 +30,43 @@ tinfer
 </div>
 <div class='question question'>
 
-![missing table](/papers/missing_table.svg)
+In the three digit number below the last two digits have been hidden
 
+$6**$
 
-A piece of paper with letters written on it is folded in half, so that the 
-letters $A, B, C, D, E, F, G, H$ are on the top.
+The three digit number is divisible by $3, 5$ and $7$. What is the number?
 
-![missing image](/papers/missing_image.svg)
-
-
-Now the letter $M$ is under the letter $A$.
+$6………..$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+LCM of $3, \ 5, \ 7 = 105$
+
+Multiplying the LCM by 6 to make it greater than 600 $= 105 \times 6 = 630
+
+$The last  two digits are $= 3 \ \text{and} \ 0$
+two digits$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+$3 \ \text{and} \ 0$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>LCM of $3, \ 5, \ 7 = 105$
+
+Multiplying the LCM by 6 to make it greater than 600 $= 105 \times 6 = 630
+
+$The last  two digits are $= 3 \ \text{and} \ 0$
+two digits$
 </code></pre>
 </div>
 </div>
@@ -71,159 +78,11 @@ Now the letter $M$ is under the letter $A$.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which letter is under the $C$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{O}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{O}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$\text{O}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{O}$
+<pre class='language-latex'><code class='language-latex'>$3 \ \text{and} \ 0$
 </code></pre>
 </div>
 </div>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The paper is folded again so that $A, B, E$ and $F$ are on top.
-
-![missing image](/papers/missing_image.svg)
-
-  
-Under $A$ are the letter $M, P$ and $D$ in that order. 
-
-![missing table](/papers/missing_table.svg)
-
-
-Working from top to bottom:
-
-Which letters are under $B$?
- 
-Which letters are under $E$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{N, \ O, \ C}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{N, \ O, \ C}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$\text{N, \ O, \ C}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{N, \ O, \ C}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-
-After another fold, which letters are under $B$? 
-Write the letters in order from top to bottom.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{N, \ O, \ C, \ F}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{N, \ O, \ C, \ F}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$\text{N, \ O, \ C, \ F}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{N, \ O, \ C, \ F}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 
 </div>
 </li>

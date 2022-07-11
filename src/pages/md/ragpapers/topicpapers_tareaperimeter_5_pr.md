@@ -1,9 +1,672 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-pr"
 title: "TopicPaper - Areaperimeter - 5 - PR"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>00CCC3EA-C140-4A54-BC78-9715614128A9</p>
+</div>
+<div class='papername'>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:23</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs Suzie needs to cover a floor measuring $3\ \text{m}$ by $2\ \text{m}$. There are three possible options:
+
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
+
+Which option is the cheapest? Show all your workings & explain clearly. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+The floor measurement is given in $\text{m}$ while the tile measurement is given in $\text{cm}$.
+
+Let's convert the floor measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Number of Acron tiles}       &= \dfrac {\text {Area of floor}} {\text {Area of a tile}} \\\\
+                                    &= \dfrac {3 \ \text {m} \times 2 \ \text {m}} {50 \ \text {cm} \times 50 \ \text {cm}} \\\\
+                                    &= \dfrac {3 \times 100 \ \text {cm} \times 2 \times 100 \ \text {cm}} {50 \ \text {cm} \times 50 \ \text {cm}} \\\\
+                                    &= \dfrac {3 \times 100 \times 2 \times 100} {50 \times 50} \\\\
+                                    &= \dfrac {3 \times 50 \times 2 \times 2 \times 50 \times 2} {50 \times 50} \\\\
+                                    &= \dfrac {3 \times \cancel {50} \times 2 \times 2 \times \cancel {50} \times 2} {\cancel {50} \times \cancel {50}} \\\\
+                                    &= 3 \times 2 \times 2 \times 2 \\\\
+                                    &= 24 \\\\
+\text {Total cost of Acron tiles}   &= 4 \times 24 \\\\
+                                    &= \pounds \ 96
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Number of Beeching tiles}        &= \dfrac {\text {Area of floor}} {\text {Area of a tile}} \\\\
+                                        &= \dfrac {3 \ \text {m} \times 2 \ \text {m}} {60 \ \text {cm} \times 40 \ \text {cm}} \\\\
+                                        &= \dfrac {3 \times 100 \ \text {cm} \times 2 \times 100 \ \text {cm}} {60 \ \text {cm} \times 40 \ \text {cm}} \\\\
+                                        &= \dfrac {3 \times 10 \times 10 \times 2 \times 4 \times 25} {3 \times 2 \times 10 \times 4 \times 10} \\\\
+                                        &= \dfrac {\cancel {3} \times \cancel {10} \times \cancel {10} \times \cancel {2} \times \cancel {4} \times 25} {\cancel {3} \times \cancel {2} \times \cancel {10} \times \cancel {10} \times \cancel {4}} \\\\
+                                        &= 25
+\text {Total cost of Beeching tiles}    &= 3 \times 25 \\\\
+                                        &= \pounds \ 75
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Total cost of carpet}            &= \text {Cost per square metre} \times \text {Area of floor} + \text {Fitting cost} \\\\
+                                        &= 14 \times (3 \times 2) + 30 \\\\ 
+                                        &= 14 \times 6 + 30 \\\\ 
+                                        &= 84 + 30 \\\\ 
+                                        &= \pounds \ 114
+\end{aligned}
+$
+
+Beeching tiles are the cheapest.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Beeching tiles
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+rtq_abbr_md_unit_no_dot_note.
+The floor measurement is given in $\text{m}$ while the tile measurement is given in $\text{cm}$.
+
+Let's convert the floor measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Number of Acron tiles}       &= \dfrac {\text {Area of floor}} {\text {Area of a tile}} \\\\
+                                    &= \dfrac {3 \ \text {m} \times 2 \ \text {m}} {50 \ \text {cm} \times 50 \ \text {cm}} \\\\
+                                    &= \dfrac {3 \times 100 \ \text {cm} \times 2 \times 100 \ \text {cm}} {50 \ \text {cm} \times 50 \ \text {cm}} \\\\
+                                    &= \dfrac {3 \times 100 \times 2 \times 100} {50 \times 50} \\\\
+                                    &= \dfrac {3 \times 50 \times 2 \times 2 \times 50 \times 2} {50 \times 50} \\\\
+                                    &= \dfrac {3 \times \cancel {50} \times 2 \times 2 \times \cancel {50} \times 2} {\cancel {50} \times \cancel {50}} \\\\
+                                    &= 3 \times 2 \times 2 \times 2 \\\\
+                                    &= 24 \\\\
+\text {Total cost of Acron tiles}   &= 4 \times 24 \\\\
+                                    &= \pounds \ 96
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Number of Beeching tiles}        &= \dfrac {\text {Area of floor}} {\text {Area of a tile}} \\\\
+                                        &= \dfrac {3 \ \text {m} \times 2 \ \text {m}} {60 \ \text {cm} \times 40 \ \text {cm}} \\\\
+                                        &= \dfrac {3 \times 100 \ \text {cm} \times 2 \times 100 \ \text {cm}} {60 \ \text {cm} \times 40 \ \text {cm}} \\\\
+                                        &= \dfrac {3 \times 10 \times 10 \times 2 \times 4 \times 25} {3 \times 2 \times 10 \times 4 \times 10} \\\\
+                                        &= \dfrac {\cancel {3} \times \cancel {10} \times \cancel {10} \times \cancel {2} \times \cancel {4} \times 25} {\cancel {3} \times \cancel {2} \times \cancel {10} \times \cancel {10} \times \cancel {4}} \\\\
+                                        &= 25
+\text {Total cost of Beeching tiles}    &= 3 \times 25 \\\\
+                                        &= \pounds \ 75
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Total cost of carpet}            &= \text {Cost per square metre} \times \text {Area of floor} + \text {Fitting cost} \\\\
+                                        &= 14 \times (3 \times 2) + 30 \\\\ 
+                                        &= 14 \times 6 + 30 \\\\ 
+                                        &= 84 + 30 \\\\ 
+                                        &= \pounds \ 114
+\end{aligned}
+$
+
+Beeching tiles are the cheapest.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Beeching tiles
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='00CCC3EA-C140-4A54-BC78-9715614128A9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='00CCC3EA-C140-4A54-BC78-9715614128A9' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='00CCC3EA-C140-4A54-BC78-9715614128A9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='00CCC3EA-C140-4A54-BC78-9715614128A9' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='00CCC3EA-C140-4A54-BC78-9715614128A9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='00CCC3EA-C140-4A54-BC78-9715614128A9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='00CCC3EA-C140-4A54-BC78-9715614128A9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='00CCC3EA-C140-4A54-BC78-9715614128A9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='00CCC3EA-C140-4A54-BC78-9715614128A9' id='FORM-00CCC3EA-C140-4A54-BC78-9715614128A9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-00CCC3EA-C140-4A54-BC78-9715614128A9'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>000F26CC-5C2D-4850-8657-54919DE2A725</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:12</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This design has one large square and two identical small squares.
+
+![missing image](/papers/missing_image.svg)
+
+
+Calculate the length of a side of the large square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of the small square $= a$
+
+Let the side of large square $= b$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + b                   &= 28 \\\\
+b                       &= 28 - a \\\\
+2a + b                  &= 36 \\\\
+2a + (28 - a)           &= 36 \\\\
+a + 28                  &= 36 \\\\
+a                       &= 36 - 28 \\\\
+a                       &= 8 \ \text {cm} \\\\
+b                       &= 28 - a \\\\
+                        &= 28 - 8 \\\\
+                        &= 20 \ \text {cm}
+\end{aligned}
+$
+
+Length of the side of the large square $= 20 \ \text {cm}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$= 20 \ \text {cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the side of the small square $= a$
+
+Let the side of large square $= b$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + b                   &= 28 \\\\
+b                       &= 28 - a \\\\
+2a + b                  &= 36 \\\\
+2a + (28 - a)           &= 36 \\\\
+a + 28                  &= 36 \\\\
+a                       &= 36 - 28 \\\\
+a                       &= 8 \ \text {cm} \\\\
+b                       &= 28 - a \\\\
+                        &= 28 - 8 \\\\
+                        &= 20 \ \text {cm}
+\end{aligned}
+$
+
+Length of the side of the large square $= 20 \ \text {cm}$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$= 20 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='000F26CC-5C2D-4850-8657-54919DE2A725' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='000F26CC-5C2D-4850-8657-54919DE2A725' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='000F26CC-5C2D-4850-8657-54919DE2A725' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='000F26CC-5C2D-4850-8657-54919DE2A725' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='000F26CC-5C2D-4850-8657-54919DE2A725' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='000F26CC-5C2D-4850-8657-54919DE2A725' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='000F26CC-5C2D-4850-8657-54919DE2A725' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='000F26CC-5C2D-4850-8657-54919DE2A725' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='000F26CC-5C2D-4850-8657-54919DE2A725' id='FORM-000F26CC-5C2D-4850-8657-54919DE2A725' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-000F26CC-5C2D-4850-8657-54919DE2A725'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>EB9046DE-5CB1-466D-B588-2C902127E32B</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:10</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Each square is one square unit. What is the area of the shaded triangle?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Show the diagram with three unshaded triangles marked as 1, 2, and 3 along with the measurements.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Area of the shaded triangle}             &= 4 \times \text {Square} - \text {Triangle 1} - \text {Triangle 2} - \text {Triangle 3} \\\\
+                                                &= 4 \times 1 \times 1 - \dfrac {1} {2} \times 1 \times 2 - \dfrac {1} {2} \times 1 \times 2 - \dfrac {1} {2} \times 1 \times 1 \\\\
+                                                &= 4 - \dfrac {2 \times 1} {2} - \dfrac {2 \times 1} {2} - \dfrac {1} {2} \\\\
+                                                &= 4 - \dfrac {\cancel {2} \times 1} {\cancel {2}} - \dfrac {\cancel {2} \times 1} {\cancel {2}} - \dfrac {1} {2} \\\\
+                                                &= 4 - 1 - 1 - \dfrac {1} {2} \\\\
+                                                &= 4 - 1 - 1 - 0.5 \\\\
+                                                &= 1.5 \ \text {cm}^2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.5 \ \text {cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Show the diagram with three unshaded triangles marked as 1, 2, and 3 along with the measurements.*
+rtq_abbr_md_add_drawing_ends
+
+rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_area_triangle_expanded
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Area of the shaded triangle}             &= 4 \times \text {Square} - \text {Triangle 1} - \text {Triangle 2} - \text {Triangle 3} \\\\
+                                                &= 4 \times 1 \times 1 - \dfrac {1} {2} \times 1 \times 2 - \dfrac {1} {2} \times 1 \times 2 - \dfrac {1} {2} \times 1 \times 1 \\\\
+                                                &= 4 - \dfrac {2 \times 1} {2} - \dfrac {2 \times 1} {2} - \dfrac {1} {2} \\\\
+                                                &= 4 - \dfrac {\cancel {2} \times 1} {\cancel {2}} - \dfrac {\cancel {2} \times 1} {\cancel {2}} - \dfrac {1} {2} \\\\
+                                                &= 4 - 1 - 1 - \dfrac {1} {2} \\\\
+                                                &= 4 - 1 - 1 - 0.5 \\\\
+                                                &= 1.5 \ \text {cm}^2
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1.5 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EB9046DE-5CB1-466D-B588-2C902127E32B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='EB9046DE-5CB1-466D-B588-2C902127E32B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='EB9046DE-5CB1-466D-B588-2C902127E32B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='EB9046DE-5CB1-466D-B588-2C902127E32B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EB9046DE-5CB1-466D-B588-2C902127E32B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='EB9046DE-5CB1-466D-B588-2C902127E32B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='EB9046DE-5CB1-466D-B588-2C902127E32B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='EB9046DE-5CB1-466D-B588-2C902127E32B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='EB9046DE-5CB1-466D-B588-2C902127E32B' id='FORM-EB9046DE-5CB1-466D-B588-2C902127E32B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EB9046DE-5CB1-466D-B588-2C902127E32B'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:11</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My vegetable patch is rectangular in shape and measures $200 \times 450 \ \text{centimetres}$. I have planted vegetables in $\dfrac {2} {3}$ of the patch. One half of that contains carrots. What area of the patch has been planted with carrots?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of the patch with vegetables}       &= \dfrac {2} {3} \times \text {Area of whole patch} \\\\
+                                                &= \dfrac {2} {3} \times \text 200 \times 450\\\\
+                                                &= \dfrac {2 \times 200 \times 450} {3} \\\\
+                                                &= \dfrac {2 \times 200 \times 3 \times 150} {3} \\\\
+                                                &= \dfrac {2 \times 200 \times \cancel {3} \times 150} {\cancel {3}} \\\\
+                                                &= 2 \times 200 \times 150 \\\\
+                                                &= 60000 \ \text {cm}^2 \\\\
+\text {Area of the patch with carrots}          &= \dfrac {1} {2} \times \text {Area of the patch with vegetables} \\\\
+                                                &= \dfrac {1} {2} \times 60000 \\\\
+                                                &= \dfrac {60000} {2} \\\\
+                                                &= \dfrac {2 \times 30000} {2} \\\\
+                                                &= \dfrac {\cancel {2} \times 30000} {\cancel {2}} \\\\
+                                                &= 30000 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30000 \ \text {cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of the patch with vegetables}       &= \dfrac {2} {3} \times \text {Area of whole patch} \\\\
+                                                &= \dfrac {2} {3} \times \text 200 \times 450\\\\
+                                                &= \dfrac {2 \times 200 \times 450} {3} \\\\
+                                                &= \dfrac {2 \times 200 \times 3 \times 150} {3} \\\\
+                                                &= \dfrac {2 \times 200 \times \cancel {3} \times 150} {\cancel {3}} \\\\
+                                                &= 2 \times 200 \times 150 \\\\
+                                                &= 60000 \ \text {cm}^2 \\\\
+\text {Area of the patch with carrots}          &= \dfrac {1} {2} \times \text {Area of the patch with vegetables} \\\\
+                                                &= \dfrac {1} {2} \times 60000 \\\\
+                                                &= \dfrac {60000} {2} \\\\
+                                                &= \dfrac {2 \times 30000} {2} \\\\
+                                                &= \dfrac {\cancel {2} \times 30000} {\cancel {2}} \\\\
+                                                &= 30000 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$30000 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' id='FORM-C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C1FC7DDE-F1CE-4C60-A219-5DA1E003BA1C'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
@@ -1669,162 +2332,6 @@ tgraph
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-5115612D-9C06-4F91-9D07-E0E41EA82030'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>47EFAF0C-137C-44C4-BF63-3C7AD7B35914</p>
-</div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:14</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the diagram shown below, which square could be removed with the 
-perimeter of the shape remaining the same?
-
-![missing image](/papers/missing_image.svg)
-
-
-- $1$
-- $2$
-- $3$
-- $4$
-- $5$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
-
-
-*TODO: Add the explanation to count the sides in the shape.*
-
-As per the diagram,
-
-Total number of sides in the shape $= 18$
-
-Number of sides after removing tile $1 = 16$
-
-Number of sides after removing tile $2 = 16$
-
-Number of sides after removing tile $3 = 20$
-
-Number of sides after removing tile $4 = 16$
-
-Number of sides after removing tile $5 = 18$
-
-Perimeter of the shape remain same after removing tile $5$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>E</p>
-</div>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
-*TODO: Add the explanation to count the sides in the shape.*
-
-As per the diagram,
-
-Total number of sides in the shape $= 18$
-
-Number of sides after removing tile $1 = 16$
-
-Number of sides after removing tile $2 = 16$
-
-Number of sides after removing tile $3 = 20$
-
-Number of sides after removing tile $4 = 16$
-
-Number of sides after removing tile $5 = 18$
-
-Perimeter of the shape remain same after removing tile $5$.
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>E</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='47EFAF0C-137C-44C4-BF63-3C7AD7B35914' id='FORM-47EFAF0C-137C-44C4-BF63-3C7AD7B35914' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-47EFAF0C-137C-44C4-BF63-3C7AD7B35914'>Initial</p>
 </div>
 </div>
 </li>

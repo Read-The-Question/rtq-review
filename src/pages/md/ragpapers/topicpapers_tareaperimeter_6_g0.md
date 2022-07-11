@@ -1,9 +1,154 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-g0"
 title: "TopicPaper - Areaperimeter - 6 - G0"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>6082C51C-48FB-4A15-B156-8BC33B276648</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:15</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the area of the trapezium.
+
+![missing image](/papers/missing_image.svg)
+
+
+- $50 \ \text{cm}^{2}$
+- $44 \ \text{cm}^{2}$
+- $40 \ \text{cm}^{2}$
+- $42 \ \text{cm}^{2}$
+- $48 \ \text{cm}^{2}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of trapezium} = \dfrac {\text{length} + \text{width}} {2} \times \text {height}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area}                 &= \dfrac {8+12} {2}\times 5\\\\
+                            &= \dfrac {20} {2}\times 5\\\\
+                            &= \dfrac {2 \times 10} {2}\times 5\\\\
+                            &= \dfrac { \cancel 2 \times 10} {\cancel 2}\times 5\\\\
+                            &= 10 \times 5\\\\
+                            &= 50 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$50 \ \text{cm}^{2}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_trapezium_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area}                 &= \dfrac {8+12} {2}\times 5\\\\
+                            &= \dfrac {20} {2}\times 5\\\\
+                            &= \dfrac {2 \times 10} {2}\times 5\\\\
+                            &= \dfrac { \cancel 2 \times 10} {\cancel 2}\times 5\\\\
+                            &= 10 \times 5\\\\
+                            &= 50 \ \text{cm}^{2}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>A</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$50 \ \text{cm}^{2}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='6082C51C-48FB-4A15-B156-8BC33B276648' id='FORM-6082C51C-48FB-4A15-B156-8BC33B276648' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6082C51C-48FB-4A15-B156-8BC33B276648'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
@@ -631,344 +776,6 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-E7D1BED3-00FC-4923-94CA-88CE3E83BB8C'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>C93A6248-F4DF-45F2-A0DE-18925C33F3FD</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:18</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A square has a perimeter of $8\ \text{cm}$. Five of these squares are put together in a line to make a rectangle. 
-
-What is the area of the rectangle?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
-
-
-ABBR: $\text{Area of square} = \text{side} \times \text{side}$
-
-
-ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-Let the side of the square $= s$
-
-As per the question,
-
-$
-\begin{aligned}
-4 \times s                 &= 8 \\\\
-s                          &= \dfrac {8} {4} \\\\
-s                          &= \dfrac {4 \times 2} {4} \\\\
-s                          &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
-s                          &= 2 \ \text{cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Area of one square} &= 2 \times 2 \\\\
-                           &= 4 \ \text {cm}^2 \\\\
-\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
-                           &= 5 \times 4 \\\\
-                           &= 20 \ \text{cm} ^ 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20 \ \text{cm} ^ 2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
-rtq_abbr_katex_formula_area_square_expanded
-
-rtq_abbr_katex_formula_area_rectangle_expanded
-
-Let the side of the square $= s$
-
-As per the question,
-
-$
-\begin{aligned}
-4 \times s                 &= 8 \\\\
-s                          &= \dfrac {8} {4} \\\\
-s                          &= \dfrac {4 \times 2} {4} \\\\
-s                          &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
-s                          &= 2 \ \text{cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Area of one square} &= 2 \times 2 \\\\
-                           &= 4 \ \text {cm}^2 \\\\
-\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
-                           &= 5 \times 4 \\\\
-                           &= 20 \ \text{cm} ^ 2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$20 \ \text{cm} ^ 2$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' id='FORM-C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C93A6248-F4DF-45F2-A0DE-18925C33F3FD'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>A5D1670C-F9E8-458A-87F9-BEAD48F73EC4</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:26</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This shape has an area of $63 \ \text{cm}^2$.
-
-It is made from square tiles.
-
-Find the perimeter of the shape.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Area of square} = \text{side} \times \text{side}$
-
-
-Let the side of square tile $= s$
-
-As per the diagram,
-
-$
-\begin{aligned}
-7 \times (s \times s)    &= 63 \\\\
-7 \times s^2             &= 63 \\\\
-s ^ 2                    &= \dfrac {63} {7} \\\\
-s ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
-s ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
-s ^ 2                    &= 9 \\\\
-s                        &= \sqrt 9 \\\\
-s                        &= 3 \ \text{cm}
-\end{aligned}
-$
-
-*TODO: add a description to count all the sides which add upto perimeter*
-
-$
-\begin{aligned}
-\text{Perimeter of the shape} &= 16 \times s \\\\
-                              &= 16 \times 3 \\\\
-                              &= 48 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48 \ \text{cm}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
-Let the side of square tile $= s$
-
-As per the diagram,
-
-$
-\begin{aligned}
-7 \times (s \times s)    &= 63 \\\\
-7 \times s^2             &= 63 \\\\
-s ^ 2                    &= \dfrac {63} {7} \\\\
-s ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
-s ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
-s ^ 2                    &= 9 \\\\
-s                        &= \sqrt 9 \\\\
-s                        &= 3 \ \text{cm}
-\end{aligned}
-$
-
-*TODO: add a description to count all the sides which add upto perimeter*
-
-$
-\begin{aligned}
-\text{Perimeter of the shape} &= 16 \times s \\\\
-                              &= 16 \times 3 \\\\
-                              &= 48 \ \text{cm}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$48 \ \text{cm}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' id='FORM-A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-A5D1670C-F9E8-458A-87F9-BEAD48F73EC4'>Initial</p>
 </div>
 </div>
 </li>

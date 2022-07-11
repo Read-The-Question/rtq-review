@@ -1,9 +1,347 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-g0"
 title: "TopicPaper - Areaperimeter - 7 - G0"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>C93A6248-F4DF-45F2-A0DE-18925C33F3FD</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:18</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has a perimeter of $8\ \text{cm}$. Five of these squares are put together in a line to make a rectangle. 
+
+What is the area of the rectangle?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the side of the square $= s$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times s                 &= 8 \\\\
+s                          &= \dfrac {8} {4} \\\\
+s                          &= \dfrac {4 \times 2} {4} \\\\
+s                          &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
+s                          &= 2 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Area of one square} &= 2 \times 2 \\\\
+                           &= 4 \ \text {cm}^2 \\\\
+\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
+                           &= 5 \times 4 \\\\
+                           &= 20 \ \text{cm} ^ 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{cm} ^ 2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
+
+rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_katex_formula_area_rectangle_expanded
+
+Let the side of the square $= s$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times s                 &= 8 \\\\
+s                          &= \dfrac {8} {4} \\\\
+s                          &= \dfrac {4 \times 2} {4} \\\\
+s                          &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
+s                          &= 2 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Area of one square} &= 2 \times 2 \\\\
+                           &= 4 \ \text {cm}^2 \\\\
+\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
+                           &= 5 \times 4 \\\\
+                           &= 20 \ \text{cm} ^ 2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20 \ \text{cm} ^ 2$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='C93A6248-F4DF-45F2-A0DE-18925C33F3FD' id='FORM-C93A6248-F4DF-45F2-A0DE-18925C33F3FD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C93A6248-F4DF-45F2-A0DE-18925C33F3FD'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>A5D1670C-F9E8-458A-87F9-BEAD48F73EC4</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:26</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This shape has an area of $63 \ \text{cm}^2$.
+
+It is made from square tiles.
+
+Find the perimeter of the shape.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+Let the side of square tile $= s$
+
+As per the diagram,
+
+$
+\begin{aligned}
+7 \times (s \times s)    &= 63 \\\\
+7 \times s^2             &= 63 \\\\
+s ^ 2                    &= \dfrac {63} {7} \\\\
+s ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
+s ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
+s ^ 2                    &= 9 \\\\
+s                        &= \sqrt 9 \\\\
+s                        &= 3 \ \text{cm}
+\end{aligned}
+$
+
+*TODO: add a description to count all the sides which add upto perimeter*
+
+$
+\begin{aligned}
+\text{Perimeter of the shape} &= 16 \times s \\\\
+                              &= 16 \times 3 \\\\
+                              &= 48 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text{cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+Let the side of square tile $= s$
+
+As per the diagram,
+
+$
+\begin{aligned}
+7 \times (s \times s)    &= 63 \\\\
+7 \times s^2             &= 63 \\\\
+s ^ 2                    &= \dfrac {63} {7} \\\\
+s ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
+s ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
+s ^ 2                    &= 9 \\\\
+s                        &= \sqrt 9 \\\\
+s                        &= 3 \ \text{cm}
+\end{aligned}
+$
+
+*TODO: add a description to count all the sides which add upto perimeter*
+
+$
+\begin{aligned}
+\text{Perimeter of the shape} &= 16 \times s \\\\
+                              &= 16 \times 3 \\\\
+                              &= 48 \ \text{cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$48 \ \text{cm}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' id='FORM-A5D1670C-F9E8-458A-87F9-BEAD48F73EC4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A5D1670C-F9E8-458A-87F9-BEAD48F73EC4'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
@@ -789,1061 +1127,6 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>B3120C19-2C89-411F-90CE-9EA04D6E4598</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:10</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two rectangles have the same area. One rectangle is $28 \ \text{cm}$ long and $12 \ \text{cm}$ wide. The second rectangle has width $7 \ \text{cm}$. What is the length of this rectangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-Let the length of the second rectangle $= l$
-
-As per the question,
-
-$
-\begin{aligned}
-l \times 7  &= 28 \times 12 \\\\
-l           &= \dfrac {28 \times 12} { 7} \\\\
-l           &= \dfrac {7 \times 4 \times 12} { 7} \\\\
-l           &= \dfrac {\cancel{7} \times 4 \times 12} { \cancel{7}} \\\\
-l           &= 4 \times 12 \\\\
-l           &= 48 \ \text{cm}
-\end{aligned}  
-$
-
-Length of the second rectangle $= 48 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48 \ \text{cm}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
-Let the length of the second rectangle $= l$
-
-As per the question,
-
-$
-\begin{aligned}
-l \times 7  &= 28 \times 12 \\\\
-l           &= \dfrac {28 \times 12} { 7} \\\\
-l           &= \dfrac {7 \times 4 \times 12} { 7} \\\\
-l           &= \dfrac {\cancel{7} \times 4 \times 12} { \cancel{7}} \\\\
-l           &= 4 \times 12 \\\\
-l           &= 48 \ \text{cm}
-\end{aligned}  
-$
-
-Length of the second rectangle $= 48 \ \text{cm}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$48 \ \text{cm}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='B3120C19-2C89-411F-90CE-9EA04D6E4598' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='B3120C19-2C89-411F-90CE-9EA04D6E4598' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='B3120C19-2C89-411F-90CE-9EA04D6E4598' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='B3120C19-2C89-411F-90CE-9EA04D6E4598' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='B3120C19-2C89-411F-90CE-9EA04D6E4598' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='B3120C19-2C89-411F-90CE-9EA04D6E4598' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='B3120C19-2C89-411F-90CE-9EA04D6E4598' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='B3120C19-2C89-411F-90CE-9EA04D6E4598' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='B3120C19-2C89-411F-90CE-9EA04D6E4598' id='FORM-B3120C19-2C89-411F-90CE-9EA04D6E4598' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B3120C19-2C89-411F-90CE-9EA04D6E4598'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:1</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-All the measurements in the following diagram are given in centimetres
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find the perimeter of this letter $F$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-*ABBR: TODO:: Add drawing starts.*
-
-![missing image](/papers/missing_image.svg)
-
-
-*TODO:: Show the given diagram with missing sides calculated.*
-
-*ABBR: TODO:: Add drawing ends.*
-
-
-ABBR: $\text{Perimeter of polygon} = \text{Sum of all sides}$
-
-
-$
-\begin{aligned}
-\text {Perimeter} &= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2 \\\\
-                  &= 42 \ \text {cm}
-\end{aligned}
-$
-
-Perimeter of letter F $= 42 \ \text {cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \ \text {cm}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-*TODO:: Show the given diagram with missing sides calculated.*
-rtq_abbr_md_add_drawing_ends
-
-rtq_abbr_katex_formula_expanded_perimeter_polygon
-
-$
-\begin{aligned}
-\text {Perimeter} &= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2 \\\\
-                  &= 42 \ \text {cm}
-\end{aligned}
-$
-
-Perimeter of letter F $= 42 \ \text {cm}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$42 \ \text {cm}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Find the area of this letter $F$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-*ABBR: TODO:: Add drawing starts.*
-
-![missing image](/papers/missing_image.svg)
-
-
-*TODO:: Show the given diagram divided into 3 rectangles with missing sides calculated.*
-
-*ABBR: TODO:: Add drawing ends.*
-
-
-ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-As per the question, the shape can be divided into three rectangles
-
-$
-\begin{aligned}
-\text {Total Area}      &= \text {Rectangle 1} + \text {Rectangle 2} + \text {Rectangle 3} \\\\
-                        &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
-                        &= 26 + 4 + 8 \\\\
-                        &= 38 \ \text {cm} ^ 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$38 \ \text {cm} ^ 2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-*TODO:: Show the given diagram divided into 3 rectangles with missing sides calculated.*
-rtq_abbr_md_add_drawing_ends
-
-rtq_abbr_katex_formula_area_rectangle_expanded
-
-As per the question, the shape can be divided into three rectangles
-
-$
-\begin{aligned}
-\text {Total Area}      &= \text {Rectangle 1} + \text {Rectangle 2} + \text {Rectangle 3} \\\\
-                        &= (13 \times 2) + (2 \times 2) + (4 \times 2) \\\\
-                        &= 26 + 4 + 8 \\\\
-                        &= 38 \ \text {cm} ^ 2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$38 \ \text {cm} ^ 2$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' id='FORM-AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:12</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A rectangle is $4 \ \text{cm}$ longer than it is wide. The 
-distance all the way round the rectangle (its perimeter) 
-is $32 \ \text{cm}$.  What is the area of the rectangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
-
-
-Let the width of the rectangle (in $\text{cm}$) $= a$
-
-Length of the rectangle $= a + 4$
-
-As per the question,
-
-$
-\begin{aligned}
-2 \times (a + (a + 4))    &= 32 \\\\
-2 \times (2a + 4)         &= 32 \\\\
-4a + 8                    &= 32 \\\\
-4a                        &= 32 - 8 \\\\
-4a                        &= 24 \\\\
-a                         &= \dfrac {24} {4} \\\\
-a                         &= \dfrac {4 \times 6} {4} \\\\
-a                         &= \dfrac {\cancel {4} \times 6} {\cancel {4}} \\\\
-a                         &= 6 \ \text{cm} \\\\
-\text{Width}              &= 6 \ \text{cm} \\\\
-\text{Length}             &= a + 4 \\\\
-                          &= 6 + 4 \\\\
-                          &= 10 \ \text{cm} \\\\
-\text{Area}               &= 10 \times 6 \\\\
-                          &= 60 \ \text{cm}^{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \ \text{cm}^{2}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
-rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
-Let the width of the rectangle (in $\text{cm}$) $= a$
-
-Length of the rectangle $= a + 4$
-
-As per the question,
-
-$
-\begin{aligned}
-2 \times (a + (a + 4))    &= 32 \\\\
-2 \times (2a + 4)         &= 32 \\\\
-4a + 8                    &= 32 \\\\
-4a                        &= 32 - 8 \\\\
-4a                        &= 24 \\\\
-a                         &= \dfrac {24} {4} \\\\
-a                         &= \dfrac {4 \times 6} {4} \\\\
-a                         &= \dfrac {\cancel {4} \times 6} {\cancel {4}} \\\\
-a                         &= 6 \ \text{cm} \\\\
-\text{Width}              &= 6 \ \text{cm} \\\\
-\text{Length}             &= a + 4 \\\\
-                          &= 6 + 4 \\\\
-                          &= 10 \ \text{cm} \\\\
-\text{Area}               &= 10 \times 6 \\\\
-                          &= 60 \ \text{cm}^{2}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$60 \ \text{cm}^{2}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='E2291F35-574A-483C-8BAF-E63AE6B7FA81' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='E2291F35-574A-483C-8BAF-E63AE6B7FA81' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='E2291F35-574A-483C-8BAF-E63AE6B7FA81' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='E2291F35-574A-483C-8BAF-E63AE6B7FA81' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='E2291F35-574A-483C-8BAF-E63AE6B7FA81' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='E2291F35-574A-483C-8BAF-E63AE6B7FA81' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='E2291F35-574A-483C-8BAF-E63AE6B7FA81' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='E2291F35-574A-483C-8BAF-E63AE6B7FA81' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='E2291F35-574A-483C-8BAF-E63AE6B7FA81' id='FORM-E2291F35-574A-483C-8BAF-E63AE6B7FA81' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E2291F35-574A-483C-8BAF-E63AE6B7FA81'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>99D0FFC6-A645-4175-8EA6-1E27EC96521C</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:15</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the following diagram the two shaded rectangles have equal areas. What is the **total** shaded area?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-Let the length of the shaded left bottom rectangle (in $\text{cm}$) $= a$
-
-Length of the shaded right top rectangle (in $\text{cm}$) $= 14 - a$
-
-As per the question,
-
-$
-\begin{aligned}
-3 \times a  &= 4 \times (14 - a) \\\\
-3a          &= 56 - 4a \\\\
-3a + 4a     &= 56 \\\\
-7a          &= 56 \\\\
-a           &= \dfrac {56} {7} \\\\
-a           &= \dfrac {7 \times 8} {7} \\\\
-a           &= \dfrac {\cancel {7} \times 8} {\cancel{7}} \\\\
-a           &= 8 \ \text{cm}
-\end {aligned}
-$
-
-$
-\begin{aligned}
-\text{Total shaded area}    &= 2 \times (3 \times 8) \\\\
-                            &= 2 \times 24 \\\\
-                            &= 48 \ \text{cm}^2
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48 \ \text{cm}^2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
-Let the length of the shaded left bottom rectangle (in $\text{cm}$) $= a$
-
-Length of the shaded right top rectangle (in $\text{cm}$) $= 14 - a$
-
-As per the question,
-
-$
-\begin{aligned}
-3 \times a  &= 4 \times (14 - a) \\\\
-3a          &= 56 - 4a \\\\
-3a + 4a     &= 56 \\\\
-7a          &= 56 \\\\
-a           &= \dfrac {56} {7} \\\\
-a           &= \dfrac {7 \times 8} {7} \\\\
-a           &= \dfrac {\cancel {7} \times 8} {\cancel{7}} \\\\
-a           &= 8 \ \text{cm}
-\end {aligned}
-$
-
-$
-\begin{aligned}
-\text{Total shaded area}    &= 2 \times (3 \times 8) \\\\
-                            &= 2 \times 24 \\\\
-                            &= 48 \ \text{cm}^2
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$48 \ \text{cm}^2$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='99D0FFC6-A645-4175-8EA6-1E27EC96521C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='99D0FFC6-A645-4175-8EA6-1E27EC96521C' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='99D0FFC6-A645-4175-8EA6-1E27EC96521C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='99D0FFC6-A645-4175-8EA6-1E27EC96521C' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='99D0FFC6-A645-4175-8EA6-1E27EC96521C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='99D0FFC6-A645-4175-8EA6-1E27EC96521C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='99D0FFC6-A645-4175-8EA6-1E27EC96521C' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='99D0FFC6-A645-4175-8EA6-1E27EC96521C' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='99D0FFC6-A645-4175-8EA6-1E27EC96521C' id='FORM-99D0FFC6-A645-4175-8EA6-1E27EC96521C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-99D0FFC6-A645-4175-8EA6-1E27EC96521C'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:1:17</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-St Hugh's School hall is in the shape of a large box or cuboid.  
-The area of the floor is $200 \ \text{m}^2$, the area of one of the 
-side walls is $150 \ \text{m}^2$ and the area of an end wall is $48 \ \text{m}^2$. 
-
-What is the height, in metres, of the hall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Area} = \text{length} \times \text{width}$
-
-
-Let the length of the school hall (in m) $= l$
-
-Let the width of the school hall (in m) $= w$
-
-Let the height of the school hall (in m) $= h$
-
-As per the question,
-
-$
-\begin{aligned}
-l \times h                              &= 150 \\\\
-l                                       &= \dfrac {150} {h} \\\\
-w \times h                              &= 48 \\\\
-w                                       &= \dfrac{48}{h} \\\\
-l \times w                              &= 200 \\\\
-\dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
-\dfrac {150 \times 48} {h^2}            &= 200 \\\\
-\dfrac {150 \times 48} {200}            &= h^2 \\\\
-h^2                                     &= \dfrac {150 \times 48} {200} \\\\
-h^2                                     &= \dfrac {50 \times 3 \times 12 \times 4} {50 \times 4} \\\\
-h^2                                     &= \dfrac {\cancel{50} \times 3 \times 12 \times \cancel{4}} {\cancel{50} \times \cancel{4}} \\\\
-h^2                                     &= 3 \times 12 \\\\
-h^2                                     &= 36 \\\\
-h                                       &= \sqrt {36} \\\\
-h                                       &= 6 \ \text {m}
-\end{aligned}
-$
-
-Height of the school hall (in m) $= 6  \ \text {m}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6 \ \text {m}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle
-
-Let the length of the school hall (in m) $= l$
-
-Let the width of the school hall (in m) $= w$
-
-Let the height of the school hall (in m) $= h$
-
-As per the question,
-
-$
-\begin{aligned}
-l \times h                              &= 150 \\\\
-l                                       &= \dfrac {150} {h} \\\\
-w \times h                              &= 48 \\\\
-w                                       &= \dfrac{48}{h} \\\\
-l \times w                              &= 200 \\\\
-\dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
-\dfrac {150 \times 48} {h^2}            &= 200 \\\\
-\dfrac {150 \times 48} {200}            &= h^2 \\\\
-h^2                                     &= \dfrac {150 \times 48} {200} \\\\
-h^2                                     &= \dfrac {50 \times 3 \times 12 \times 4} {50 \times 4} \\\\
-h^2                                     &= \dfrac {\cancel{50} \times 3 \times 12 \times \cancel{4}} {\cancel{50} \times \cancel{4}} \\\\
-h^2                                     &= 3 \times 12 \\\\
-h^2                                     &= 36 \\\\
-h                                       &= \sqrt {36} \\\\
-h                                       &= 6 \ \text {m}
-\end{aligned}
-$
-
-Height of the school hall (in m) $= 6  \ \text {m}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6 \ \text {m}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='728683E0-0172-4C1B-B996-DE78A22F8120' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='728683E0-0172-4C1B-B996-DE78A22F8120' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='728683E0-0172-4C1B-B996-DE78A22F8120' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='728683E0-0172-4C1B-B996-DE78A22F8120' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='728683E0-0172-4C1B-B996-DE78A22F8120' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='728683E0-0172-4C1B-B996-DE78A22F8120' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='728683E0-0172-4C1B-B996-DE78A22F8120' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='728683E0-0172-4C1B-B996-DE78A22F8120' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='728683E0-0172-4C1B-B996-DE78A22F8120' id='FORM-728683E0-0172-4C1B-B996-DE78A22F8120' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-728683E0-0172-4C1B-B996-DE78A22F8120'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>200C8D82-5237-4C70-B9AC-2480E77462EA</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:15</p>
-</div>
-<div class='rag'>
-<p>Naman Pant</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the picture below is the net of a cube. What would be the total surface area of the outside of the cube when the net is made into the cube?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Surface area of cube} = 6 \times \text{edge} \times \text{edge}$
-
-
-Let the side of the cube (in $\text{cm}$) $= a$
-
-As per the diagram,
-
-$
-\begin{aligned}
-3a      &= 15 \\\\
-a       &= \dfrac {15} {3} \\\\
-a       &= 5 \ \text{cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Surface area}  &= 6 \times a \times a \\\\
-                     &= 6 \times 5 \times 5 \\\\
-                     &= 150 \ \text{cm}^{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \ \text {cm}^2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
-
-Let the side of the cube (in $\text{cm}$) $= a$
-
-As per the diagram,
-
-$
-\begin{aligned}
-3a      &= 15 \\\\
-a       &= \dfrac {15} {3} \\\\
-a       &= 5 \ \text{cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Surface area}  &= 6 \times a \times a \\\\
-                     &= 6 \times 5 \times 5 \\\\
-                     &= 150 \ \text{cm}^{2}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$150 \ \text {cm}^2$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='200C8D82-5237-4C70-B9AC-2480E77462EA' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='200C8D82-5237-4C70-B9AC-2480E77462EA' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='200C8D82-5237-4C70-B9AC-2480E77462EA' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='200C8D82-5237-4C70-B9AC-2480E77462EA' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='200C8D82-5237-4C70-B9AC-2480E77462EA' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='200C8D82-5237-4C70-B9AC-2480E77462EA' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='200C8D82-5237-4C70-B9AC-2480E77462EA' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='200C8D82-5237-4C70-B9AC-2480E77462EA' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='200C8D82-5237-4C70-B9AC-2480E77462EA' id='FORM-200C8D82-5237-4C70-B9AC-2480E77462EA' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-200C8D82-5237-4C70-B9AC-2480E77462EA'>Initial</p>
 </div>
 </div>
 </li>

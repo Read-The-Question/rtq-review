@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-pr"
 title: "TopicPaper - Fraction - 3 - PR"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-09 18:06:37
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -160,10 +160,10 @@ and the answer in section.answers too
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:36</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -303,10 +303,10 @@ part (a)
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:40</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -465,10 +465,10 @@ part (a)
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:26</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -732,10 +732,10 @@ Not blue = Total students - Favourite colour blue
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

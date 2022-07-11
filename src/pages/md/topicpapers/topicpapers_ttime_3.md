@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-3"
 title: "TopicPaper - Time - 3"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-09 18:06:37
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A665B0B4-EBC8-4304-BDFA-28CF12D417AD</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-09 18:06:37
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -116,6 +116,7 @@ $
 \text{Time taken} &= 10{:}10 - 8{:}40 \\\\
                   &= 1 \ \text {hour} \ 30 \ \text {minutes} \\\\
                   &= 60 \ \text {minutes} + 30 \ \text {minutes} \\\\
+                  &= 60 + 30 \\\\
                   &= 90 \ \text {minutes}
 \end{aligned}
 $
@@ -137,6 +138,7 @@ $90 \ \text {minutes}$
 \text{Time taken} &= 10{:}10 - 8{:}40 \\\\
                   &= 1 \ \text {hour} \ 30 \ \text {minutes} \\\\
                   &= 60 \ \text {minutes} + 30 \ \text {minutes} \\\\
+                  &= 60 + 30 \\\\
                   &= 90 \ \text {minutes}
 \end{aligned}
 $
@@ -170,7 +172,7 @@ If the train is $35 \ \text{minutes}$ late leaving Crewe, what time should it ar
 
 $
 \begin{aligned}
-\text{Arriving time} &= 10{:}45 + 35 \ \text{minutes} \\\\
+\text{Arrival Time} &= 10{:}45 + 35 \ \text{minutes} \\\\
                      &= 11{:}20
 \end{aligned}
 $
@@ -189,7 +191,7 @@ $11{:}20$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Arriving time} &= 10{:}45 + 35 \ \text{minutes} \\\\
+\text{Arrival Time} &= 10{:}45 + 35 \ \text{minutes} \\\\
                      &= 11{:}20
 \end{aligned}
 $
@@ -268,7 +270,7 @@ part (b) : replace L.H.S. : \"Arrival Time\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0B2DDF0F-855E-489C-A9C7-EF1107955CE1</p>
 </div>
@@ -282,7 +284,7 @@ part (b) : replace L.H.S. : \"Arrival Time\"
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -343,10 +345,10 @@ $10.10 \ \text{a.m.}$
 
 $
 \begin{aligned}
-\text {time passed} &= 10{.}24 \ \text{a.m}- 10{.}10 \ \text{a.m} \\\\
+\text {Time passed} &= 10{:}24 - 10{:}10 \\\\
                     &= 14 \ \text {minutes} \\\\
-\text {Real time}   &= 10{.}24 \ \text{a.m} + 14 \\\\
-                    &= 10{.}38 \ \text{a.m}
+\text {Real time}   &= 10{:}24  + 14  \ \text {minutes} \\\\
+                    &= 10{:}38 \ \text{a.m}
 \end{aligned}
 $
 
@@ -364,10 +366,10 @@ $10{.}38 \ \text{a.m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {time passed} &= 10{.}24 \ \text{a.m}- 10{.}10 \ \text{a.m} \\\\
+\text {Time passed} &= 10{:}24 - 10{:}10 \\\\
                     &= 14 \ \text {minutes} \\\\
-\text {Real time}   &= 10{.}24 \ \text{a.m} + 14 \\\\
-                    &= 10{.}38 \ \text{a.m}
+\text {Real time}   &= 10{:}24  + 14  \ \text {minutes} \\\\
+                    &= 10{:}38 \ \text{a.m}
 \end{aligned}
 $
 </code></pre>
@@ -400,10 +402,10 @@ $9.43 \ \text{a.m}$
 
 $
 \begin{aligned}
-\text {time passed} &= 10{.}24 \ \text{a.m} - 9{.}43 \ \text{a.m} \\\\
+\text {time passed} &= 10{:}24  - 9{:}43 \\\\
                     &= 41 \ \text {minutes} \\\\
-\text{Real time}    &= 10{.}24 \ \text{a.m} + 41 \\\\
-                    &= 11{.}05 \ \text{a.m}
+\text{Real time}    &= 10{:}24  + 41 \ \text{minutes} \\\\
+                    &= 11{:}05 \ \text{a.m}
 \end{aligned}
 $
 
@@ -421,10 +423,10 @@ $11{.}05 \ \text{a.m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {time passed} &= 10{.}24 \ \text{a.m} - 9{.}43 \ \text{a.m} \\\\
+\text {time passed} &= 10{:}24  - 9{:}43 \\\\
                     &= 41 \ \text {minutes} \\\\
-\text{Real time}    &= 10{.}24 \ \text{a.m} + 41 \\\\
-                    &= 11{.}05 \ \text{a.m}
+\text{Real time}    &= 10{:}24  + 41 \ \text{minutes} \\\\
+                    &= 11{:}05 \ \text{a.m}
 \end{aligned}
 $
 </code></pre>
@@ -762,7 +764,7 @@ Tuesday
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EDEC9010-CA4E-4456-BF0A-E30E81B8226D</p>
 </div>
@@ -776,7 +778,7 @@ Tuesday
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -801,7 +803,7 @@ For how long was the video recording?
 
 $
 \begin{aligned}
-\text {Length of video recording} &= 17{:}25 - 14{:}48 \\\\
+\text {Length of recording} &= 17{:}25 - 14{:}48 \\\\
                                   &= 2 \ \text {hours} \ 37 \ \text {minutes}
 \end{aligned}
 $
@@ -820,7 +822,7 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Length of video recording} &= 17{:}25 - 14{:}48 \\\\
+\text {Length of recording} &= 17{:}25 - 14{:}48 \\\\
                                   &= 2 \ \text {hours} \ 37 \ \text {minutes}
 \end{aligned}
 $
@@ -890,7 +892,7 @@ remove \"video\" from L.H.S.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DBC1958C-C043-4319-9AE7-09CEA696EBC9</p>
 </div>
@@ -904,7 +906,7 @@ remove \"video\" from L.H.S.
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -923,9 +925,9 @@ What is $463 \ \text{minutes}$ in hours and minutes ?
 
 $
 \begin{aligned}
-&= 463 \\\\
-&= 420 + 43 \\\\
-&= 60 \times 7 + 43 \\\\
+&= 463 \ \text{minutes} \\\\
+&= \dfrac {463} {60} \ \text{hours} \\\\
+&= 7 \dfrac {43} {60} \\\\
 &= 7 \ \text{hours} \ 43 \ \text{minutes}
 \end{aligned}
 $
@@ -944,9 +946,9 @@ $7 \ \text{hours} \ 43 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 463 \\\\
-&= 420 + 43 \\\\
-&= 60 \times 7 + 43 \\\\
+&= 463 \ \text{minutes} \\\\
+&= \dfrac {463} {60} \ \text{hours} \\\\
+&= 7 \dfrac {43} {60} \\\\
 &= 7 \ \text{hours} \ 43 \ \text{minutes}
 \end{aligned}
 $
@@ -1026,7 +1028,7 @@ replace :
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FFA405AA-B004-43FE-A6D8-72C925702C2D</p>
 </div>
@@ -1040,7 +1042,7 @@ replace :
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1062,8 +1064,8 @@ Melanie’s father took $1 \ \text{hr} \ 25 \ \text{mins}$ to drive from Peterbo
 
 $
 \begin{aligned}
-\text {time he arrived Oxford} &= 11.45  \ \text {am} + 1 \ \text{hr} \ 25 \ \text {mins} \\\\
-                               &= 1.10 \ \text {pm} \\\\
+\text {Arrival Time}           &= 11{:}45   + 1 \ \text{hours} \ 25 \ \text {minutes} \\\\
+                               &= 1{:}10 \ \text {pm} \\\\
 \end{aligned}
 $
 
@@ -1072,7 +1074,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1:10$
+$1:10 \ \text{pm}$
 
 </div>
 </div>
@@ -1081,8 +1083,8 @@ $1:10$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {time he arrived Oxford} &= 11.45  \ \text {am} + 1 \ \text{hr} \ 25 \ \text {mins} \\\\
-                               &= 1.10 \ \text {pm} \\\\
+\text {Arrival Time}           &= 11{:}45   + 1 \ \text{hours} \ 25 \ \text {minutes} \\\\
+                               &= 1{:}10 \ \text {pm} \\\\
 \end{aligned}
 $
 </code></pre>
@@ -1096,7 +1098,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1:10$
+<pre class='language-latex'><code class='language-latex'>$1:10 \ \text{pm}$
 </code></pre>
 </div>
 </div>
@@ -1159,7 +1161,7 @@ and write \"pm\" in section.answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>154BD462-2E71-4EBE-AD0B-A1A972F20268</p>
 </div>
@@ -1173,7 +1175,7 @@ and write \"pm\" in section.answer
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1192,8 +1194,9 @@ Change $4.6 \ \text{minutes}$ into seconds.
 
 $
 \begin{aligned}
-4.6 \text {minutes}                 &= 4.6 \times 60 \text{seconds} \\\\
-                                    &= 276 \text{seconds}
+&= 4.6 \ \text{minutes} \\\\
+&= 4.6 \times 60 \ \text{seconds} \\\\
+&= 276 \  \text{seconds}
 \end{aligned}
 $
 
@@ -1202,7 +1205,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$276 \text{seconds}$
+$276 \ \text{seconds}$
 
 </div>
 </div>
@@ -1211,8 +1214,9 @@ $276 \text{seconds}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-4.6 \text {minutes}                 &= 4.6 \times 60 \text{seconds} \\\\
-                                    &= 276 \text{seconds}
+&= 4.6 \ \text{minutes} \\\\
+&= 4.6 \times 60 \ \text{seconds} \\\\
+&= 276 \  \text{seconds}
 \end{aligned}
 $
 </code></pre>
@@ -1226,7 +1230,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$276 \text{seconds}$
+<pre class='language-latex'><code class='language-latex'>$276 \ \text{seconds}$
 </code></pre>
 </div>
 </div>
@@ -1358,7 +1362,7 @@ $\text {Wednesday}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BA7A2E5A-F0B6-4120-988C-2F8865BF4B44</p>
 </div>
@@ -1372,7 +1376,7 @@ $\text {Wednesday}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1432,9 +1436,9 @@ What is $387 \ \text{minutes}$ in hours and minutes?
 
 $
 \begin{aligned}
-&= 387 \\\\
-&= 360 + 27 \\\\
-&= 60 \times 6 + 27 \\\\
+&= 387 \ \text{minutes} \\\\
+&= \dfrac{387} {60} \ \text{hours} \\\\
+&= 6 \dfrac {27} {60} \\\\
 &= 6 \ \text{hours} \ 27 \ \text{minutes}
 \end{aligned}
 $
@@ -1453,9 +1457,9 @@ $6 \ \text{hours} \ 27 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 387 \\\\
-&= 360 + 27 \\\\
-&= 60 \times 6 + 27 \\\\
+&= 387 \ \text{minutes} \\\\
+&= \dfrac{387} {60} \ \text{hours} \\\\
+&= 6 \dfrac {27} {60} \\\\
 &= 6 \ \text{hours} \ 27 \ \text{minutes}
 \end{aligned}
 $
@@ -1489,7 +1493,8 @@ Change $9.6 \ \text{hours}$ into minutes.
 
 $
 \begin{aligned}
-&= 9.6 \times 60 \\\\
+&=9.6 \ \text{hours} \\\\
+&= 9.6 \times 60 \ \text{minutes} \\\\
 &= 576 \ \text{minutes}
 \end{aligned}
 $
@@ -1508,7 +1513,8 @@ $576 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 9.6 \times 60 \\\\
+&=9.6 \ \text{hours} \\\\
+&= 9.6 \times 60 \ \text{minutes} \\\\
 &= 576 \ \text{minutes}
 \end{aligned}
 $
@@ -1605,7 +1611,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3568C8D0-C035-4738-8BE0-B0BC876E29B4</p>
 </div>
@@ -1619,7 +1625,7 @@ and solve further
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1638,10 +1644,9 @@ A boy has to be in school by $8.35 \ \text{am}$. It takes him $25 \ \text{minute
 
 $
 \begin{aligned}
-\text{Start time}                                                      &= \text{School Time} - (\text{Time to get dressed} + \text{Time to eat} + \text{Time to walk}) \\\\
-                                                                       &= 8{:}35 \ \text{am} - (25 \ \text{minutes} + 15 \ \text{minutes} + 18 \ \text{minutes}) \\\\
-                                                                       &= 8{:}35 \ \text{am} - 58 \ \text{minutes} \\\\
-                                                                       &= 7{:}37 \ \text{am}
+\text{Time}  &= 8{:}35  - 25 \ \text{minutes} - 15 \ \text{minutes} - 18 \ \text{minutes} \\\\
+             &= 8{:}35  - 58 \ \text{minutes} \\\\
+             &= 7{:}37 \ \text{am}
 \end{aligned}
 $
 
@@ -1650,7 +1655,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8{:}37 \text{am}$
+$7{:}37 \ \text{am}$
 
 </div>
 </div>
@@ -1659,10 +1664,9 @@ $8{:}37 \text{am}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Start time}                                                      &= \text{School Time} - (\text{Time to get dressed} + \text{Time to eat} + \text{Time to walk}) \\\\
-                                                                       &= 8{:}35 \ \text{am} - (25 \ \text{minutes} + 15 \ \text{minutes} + 18 \ \text{minutes}) \\\\
-                                                                       &= 8{:}35 \ \text{am} - 58 \ \text{minutes} \\\\
-                                                                       &= 7{:}37 \ \text{am}
+\text{Time}  &= 8{:}35  - 25 \ \text{minutes} - 15 \ \text{minutes} - 18 \ \text{minutes} \\\\
+             &= 8{:}35  - 58 \ \text{minutes} \\\\
+             &= 7{:}37 \ \text{am}
 \end{aligned}
 $
 </code></pre>
@@ -1676,7 +1680,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8{:}37 \text{am}$
+<pre class='language-latex'><code class='language-latex'>$7{:}37 \ \text{am}$
 </code></pre>
 </div>
 </div>
@@ -1737,7 +1741,7 @@ change in answer too
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>27309122-5511-4842-BA1A-FDCDE985F81B</p>
 </div>
@@ -1751,7 +1755,7 @@ change in answer too
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1770,8 +1774,8 @@ You arrive at a bus stop $18 \ \text{minutes}$ late. The buses run every $45 \ \
 
 $
 \begin{aligned}
-\text{Waiting time for the next bus}                                   &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
-                                                                       &= 27 \ \text{minutes}
+\text{Waiting Time} &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
+                    &= 27 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1789,8 +1793,8 @@ $27 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Waiting time for the next bus}                                   &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
-                                                                       &= 27 \ \text{minutes}
+\text{Waiting Time} &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
+                    &= 27 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -1863,7 +1867,7 @@ replace L.H.S. with : \"Waiting Time\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F642196-79F1-4CFA-BF49-1BD4515A47BD</p>
 </div>
@@ -1877,7 +1881,7 @@ replace L.H.S. with : \"Waiting Time\"
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1896,10 +1900,9 @@ You have to catch the bus after school. Buses leave school at $15.55$ and $16.35
 
 $
 \begin{aligned}
-\text{Waiting time for the second bus}                                 &= \text{Time of second bus} - \text{Time of first bus} - 4 \ \text{minutes}  \\\\
-                                                                       &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
-                                                                       &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
-                                                                       &= 36 \ \text{minutes}
+\text{Waiting Time} &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
+                    &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
+                    &= 36 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1917,10 +1920,9 @@ $36 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Waiting time for the second bus}                                 &= \text{Time of second bus} - \text{Time of first bus} - 4 \ \text{minutes}  \\\\
-                                                                       &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
-                                                                       &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
-                                                                       &= 36 \ \text{minutes}
+\text{Waiting Time} &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
+                    &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
+                    &= 36 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -1991,7 +1993,7 @@ replace L.H.S.: \"Waiting Time\"  ;  remove R.H.S. for step 1
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>219060A7-EC1A-4ED0-B135-50542C15C7B7</p>
 </div>
@@ -2005,7 +2007,7 @@ replace L.H.S.: \"Waiting Time\"  ;  remove R.H.S. for step 1
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2024,10 +2026,9 @@ Antony is making some cupcakes. It takes him $20 \ \text{minutes}$ to prepare th
 
 $
 \begin{aligned}
-\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
-                                                                       &= 4{:}10 \ \text{pm} - (20 + 22 + 10) \ \text{minutes} \\\\
-                                                                       &= 4{:}10 \ \text{pm} - 52 \ \text{minutes} \\\\
-                                                                       &= 3{:}18 \ \text{pm}
+\text{Start Time}               &= 4{:}10  - 20 \ \text{minutes} - 22 \ \text{minutes} - 10 \ \text{minutes} \\\\
+                                &= 4{:}10 - 52 \ \text{minutes} \\\\
+                                &= 3{:}18 \ \text{pm}
 \end{aligned}
 $
 
@@ -2045,10 +2046,9 @@ $3{:}18 \ \text{pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
-                                                                       &= 4{:}10 \ \text{pm} - (20 + 22 + 10) \ \text{minutes} \\\\
-                                                                       &= 4{:}10 \ \text{pm} - 52 \ \text{minutes} \\\\
-                                                                       &= 3{:}18 \ \text{pm}
+\text{Start Time}               &= 4{:}10  - 20 \ \text{minutes} - 22 \ \text{minutes} - 10 \ \text{minutes} \\\\
+                                &= 4{:}10 - 52 \ \text{minutes} \\\\
+                                &= 3{:}18 \ \text{pm}
 \end{aligned}
 $
 </code></pre>
@@ -2236,7 +2236,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>434CD114-4752-47E2-A24B-B5229509F3BD</p>
 </div>
@@ -2250,7 +2250,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2267,14 +2267,12 @@ Tasweer is making some cupcakes. It takes her $15 \ \text{minutes}$ to prepare t
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
-                                                                       &= 3{:}15 \ \text{pm} - (15 + 18 + 10) \ \text{minutes} \\\\
-                                                                       &= 3{:}15 \ \text{pm} - 43 \ \text{minutes} \\\\
-                                                                       &= 2{:}32 \ \text{pm}
+\text{Start Time}                                           &= 3{:}15  - 15 \ \text{minutes} - 18 \ \text{minutes} - 10 \ \text{minutes} \\\\
+                                                            &= 3{:}15 - 43 \ \text{minutes} \\\\
+                                                            &= 2{:}32 \ \text{pm}
 \end{aligned}
 $
 
@@ -2290,14 +2288,12 @@ $2{:}32 \ \text{pm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text{Start Time}                                                      &= \text{Time he wants to eat} - (\text{Preparing ingredients + Baking + Cooling}) \\\\
-                                                                       &= 3{:}15 \ \text{pm} - (15 + 18 + 10) \ \text{minutes} \\\\
-                                                                       &= 3{:}15 \ \text{pm} - 43 \ \text{minutes} \\\\
-                                                                       &= 2{:}32 \ \text{pm}
+\text{Start Time}                                           &= 3{:}15  - 15 \ \text{minutes} - 18 \ \text{minutes} - 10 \ \text{minutes} \\\\
+                                                            &= 3{:}15 - 43 \ \text{minutes} \\\\
+                                                            &= 2{:}32 \ \text{pm}
 \end{aligned}
 $
 </code></pre>
@@ -2372,7 +2368,7 @@ remove \"pm\" from step 2 and 3
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>535DDC7C-F46C-4FFD-AF90-E1FC89C96B9F</p>
 </div>
@@ -2386,7 +2382,7 @@ remove \"pm\" from step 2 and 3
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2403,19 +2399,12 @@ How many $\text{minutes}$ are there in one day?
 <div class='workings'>
 <div class='working'>
 
-We know,
-
-$1$ day $= 24$ hours
-
-$1$ hour $= 60$ minutes
-
-As per the question,
-
 $
 \begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
-                                &= 24 \times 60 \\\\
-                                &= 1440 \ \text{minutes}
+&= 1 \ \text{day} \\\\
+&= 1 \times 24 \ \text{hours} \\\\
+&= 24 \times 60 \ \text{minutes} \\\\
+&= 1440 \ \text{minutes}
 \end{aligned}
 $
 
@@ -2431,19 +2420,12 @@ $1440 \ \text{minutes}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>We know,
-
-$1$ day $= 24$ hours
-
-$1$ hour $= 60$ minutes
-
-As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
-                                &= 24 \times 60 \\\\
-                                &= 1440 \ \text{minutes}
+&= 1 \ \text{day} \\\\
+&= 1 \times 24 \ \text{hours} \\\\
+&= 24 \times 60 \ \text{minutes} \\\\
+&= 1440 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -2522,7 +2504,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9004924A-FAFE-4C44-A7D2-20DAF504FB5B</p>
 </div>
@@ -2536,7 +2518,7 @@ and solve further
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2553,19 +2535,12 @@ How many $\text{minutes}$ are there in one day?
 <div class='workings'>
 <div class='working'>
 
-We know,
-
-$1$ day $= 24$ hours
-
-$1$ hour $= 60$ minutes
-
-As per the question,
-
 $
 \begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
-                                &= 24 \times 60 \\\\
-                                &= 1440 \ \text{minutes}
+&= 1 \ \text{day} \\\\
+&= 1 \times 24 \ \text{hours} \\\\
+&= 24 \times 60 \ \text{minutes} \\\\
+&= 1440 \ \text{minutes}
 \end{aligned}
 $
 
@@ -2581,19 +2556,12 @@ $1440 \ \text{minutes}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>We know,
-
-$1$ day $= 24$ hours
-
-$1$ hour $= 60$ minutes
-
-As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{No. of minutes in a day}  &= \text{No. of hours in a day} \times \text{No. of minutes in an hour} \\\\
-                                &= 24 \times 60 \\\\
-                                &= 1440 \ \text{minutes}
+&= 1 \ \text{day} \\\\
+&= 1 \times 24 \ \text{hours} \\\\
+&= 24 \times 60 \ \text{minutes} \\\\
+&= 1440 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -2672,7 +2640,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
@@ -2686,7 +2654,7 @@ and solve further
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2748,6 +2716,21 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replace L.H.S. with : \"Get up Time\"
+
+remove R.H.S from step 1
+
+remove \"am\" from step 2 and 3
+
+final answer wrong , change in section.answers too
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3020,7 +3003,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>71A87121-8B24-43F3-8CA2-5883E0DFF79B</p>
 </div>
@@ -3034,7 +3017,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3053,10 +3036,10 @@ Ann went to the cinema. The film started at $11{:}55 \ \text{AM}$ and lasted $11
 
 $
 \begin{aligned}
-\text{Film ended}   &= 11{:}55 \ \text{A.M} + 117 \ \text {minutes} \\\\
+\text{Film ended}   &= 11{:}55  + 117 \ \text {minutes} \\\\
                     &= 11{:}55 + 1 \ \text {hours} \ 57 \ \text {minutes} \\\\
                     &= 12{:}55 + 57 \ \text{minutes} \\\\
-                    &= 01{:}52 \ \text {P.M}
+                    &= 01{:}52 \ \text {pm}
 \end{aligned}
 $
 
@@ -3065,7 +3048,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$01{:}52 \ \text {P.M}$
+$01{:}52 \ \text {pm}$
 
 </div>
 </div>
@@ -3074,10 +3057,10 @@ $01{:}52 \ \text {P.M}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Film ended}   &= 11{:}55 \ \text{A.M} + 117 \ \text {minutes} \\\\
+\text{Film ended}   &= 11{:}55  + 117 \ \text {minutes} \\\\
                     &= 11{:}55 + 1 \ \text {hours} \ 57 \ \text {minutes} \\\\
                     &= 12{:}55 + 57 \ \text{minutes} \\\\
-                    &= 01{:}52 \ \text {P.M}
+                    &= 01{:}52 \ \text {pm}
 \end{aligned}
 $
 </code></pre>
@@ -3091,7 +3074,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$01{:}52 \ \text {P.M}$
+<pre class='language-latex'><code class='language-latex'>$01{:}52 \ \text {pm}$
 </code></pre>
 </div>
 </div>
@@ -3148,7 +3131,7 @@ last step: write \"P.M\" as \"pm\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>CB718008-6C5B-486B-83F4-A32A6530AAA0</p>
 </div>
@@ -3162,7 +3145,7 @@ last step: write \"P.M\" as \"pm\"
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3228,6 +3211,21 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replace L.H.S with : \"Arrival Time\"
+
+remove Step 1 R.H.S.
+
+write \"min\" as \"minutes\"
+
+remove step 4 and step 5
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3269,7 +3267,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>B436492B-ADE1-4E62-B5CC-10E5C7D215FC</p>
 </div>
@@ -3283,7 +3281,7 @@ $
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3361,6 +3359,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove line 1  and line 2
+
+step 2 : write \"seconds\" after 24 x 60 x 60
+
+ad a step between step 1 and step 2: 
+
+&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \ \text {hours} \\
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5724,7 +5741,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>F541C565-A23A-42AB-A949-6DABF9981E5A</p>
 </div>
@@ -5738,7 +5755,7 @@ $
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5800,6 +5817,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replace L.H.S. with : \"Watching Time\"
+
+
+
+remove \"am\" from step 1
+
+step 3 : write 1 x 60 minutes + ....
+
+add a step 4 : = 60 + 55
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6122,7 +6158,7 @@ $ 02{:}00 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
 </div>
@@ -6136,7 +6172,7 @@ $ 02{:}00 \ \text{pm}$
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6316,6 +6352,45 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : replace L.H.S. with : \"Working hours\"
+
+remove R.H.S. from step 1 
+
+remove rest of the katex
+
+replace with :
+
+= 10:15 - 8:15 + 12:50 - 10:35
+
+and solve further
+
+
+
+part (b): 
+
+replace L.H.S with : \"Total amount\"
+
+remove R.H.S from step 1
+
+reomve all the katex from step 3
+
+replace :
+
+= (4 hours + 15 minutes) x 6 
+
+= (4 hours + 15 / 60 hours) x 6 
+
+= 4 x 6 + 15 x 6 / 60 
+
+and solve further 
+</div>
 
 <div class='review'>
 <ul class='review'>

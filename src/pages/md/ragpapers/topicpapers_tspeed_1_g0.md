@@ -1,9 +1,132 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-1-g0"
 title: "TopicPaper - Speed - 1 - G0"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>286BFED8-7256-45C4-AA5A-FC71136B6B5D</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:17</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I travel $1\ \text{mile}$ at $60\ \text{m.p.h.}$ and then $1\ \text{mile}$ at $30\ \text{m.p.h.}$ What is my average speed in $\text{miles per hour}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Average speed}   &= \dfrac {60 + 30} {2} \\\\
+                        &= \dfrac {90} {2} \\\\
+                        &= \dfrac {45 \times 2} {2} \\\\
+                        &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
+                        &= 45 \ \text {m.p.h}
+\end{aligned}
+$
+
+My average speed is $= 45 \ \text {m.p.h}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \ \text {m.p.h}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Average speed}   &= \dfrac {60 + 30} {2} \\\\
+                        &= \dfrac {90} {2} \\\\
+                        &= \dfrac {45 \times 2} {2} \\\\
+                        &= \dfrac {45 \times \cancel {2}} {\cancel {2}} \\\\
+                        &= 45 \ \text {m.p.h}
+\end{aligned}
+$
+
+My average speed is $= 45 \ \text {m.p.h}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$45 \ \text {m.p.h}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='286BFED8-7256-45C4-AA5A-FC71136B6B5D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='286BFED8-7256-45C4-AA5A-FC71136B6B5D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='286BFED8-7256-45C4-AA5A-FC71136B6B5D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='286BFED8-7256-45C4-AA5A-FC71136B6B5D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='286BFED8-7256-45C4-AA5A-FC71136B6B5D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='286BFED8-7256-45C4-AA5A-FC71136B6B5D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='286BFED8-7256-45C4-AA5A-FC71136B6B5D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='286BFED8-7256-45C4-AA5A-FC71136B6B5D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='286BFED8-7256-45C4-AA5A-FC71136B6B5D' id='FORM-286BFED8-7256-45C4-AA5A-FC71136B6B5D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-286BFED8-7256-45C4-AA5A-FC71136B6B5D'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
@@ -715,6 +838,123 @@ $
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
+<p>189A1B25-EAA6-4C15-8F75-A6EC061BEC38</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3:1:27</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $6$ metres per second in kilometres per hour? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 6 \times \dfrac {60 \times 60} {1000} \\\\
+&= \dfrac {6 \times 60 \times 60} {1000} \\\\
+&= \dfrac {21600} {1000} \\\\
+&= 21.6 \ \text{kilometer per hour}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21.6 \ \text{kilometer per hour}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 6 \times \dfrac {60 \times 60} {1000} \\\\
+&= \dfrac {6 \times 60 \times 60} {1000} \\\\
+&= \dfrac {21600} {1000} \\\\
+&= 21.6 \ \text{kilometer per hour}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$21.6 \ \text{kilometer per hour}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='189A1B25-EAA6-4C15-8F75-A6EC061BEC38' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='189A1B25-EAA6-4C15-8F75-A6EC061BEC38' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='189A1B25-EAA6-4C15-8F75-A6EC061BEC38' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='189A1B25-EAA6-4C15-8F75-A6EC061BEC38' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='189A1B25-EAA6-4C15-8F75-A6EC061BEC38' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='189A1B25-EAA6-4C15-8F75-A6EC061BEC38' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='189A1B25-EAA6-4C15-8F75-A6EC061BEC38' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='189A1B25-EAA6-4C15-8F75-A6EC061BEC38' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='189A1B25-EAA6-4C15-8F75-A6EC061BEC38' id='FORM-189A1B25-EAA6-4C15-8F75-A6EC061BEC38' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-189A1B25-EAA6-4C15-8F75-A6EC061BEC38'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
 <p>2345E090-B8BA-4D8C-BDCC-6077A8A3A4E5</p>
 </div>
 <div class='papername'>
@@ -1173,199 +1413,6 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-C080FD51-AF57-4871-AB17-719829BD7FA9'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>1726FC9C-67EA-46CA-9AE2-A3CB7D96F149</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:9</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tspeed
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ \text{seconds}$ after him and finished $30 \  \text{seconds}$ before him. What was Jackie's speed in kilometres per hour?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: It is really important to use the right units in calculations and convert where required
-. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
-
-Distance $= 3 \ \text{km}$
-
-Since Jackie started $30 \ \text{seconds}$ after and finished $30 \  \text{seconds}$ earlier, so,
-
-$
-\begin{aligned}
-\text{Time taken}   &= 13 \ \text{minutes} - 30 \text{s} - 30 \text{s} \\\\
-                    &= 13 \ \text{minutes} - 60 \text{s} \\\\
-                    &= 13 \ \text{minutes} - 1 \ \text{minute} \\\\
-                    &= 12 \ \text{minutes} \\\\
-                    &= \dfrac {12} {60} \ \text{hours}
-\end{aligned}
-$
-
-Let's find the speed now.
-
-$
-\begin{aligned}
-\text{Speed}      &= \dfrac {\text{Distance}} {\text{Time}} \\\\
-                  &= \dfrac {3} { \dfrac {12}{60} } \ \text{km/hour} \\\\
-                  &= \dfrac {3 \times 60} {12} \ \text{km/hour} \\\\
-                  &= \dfrac {3 \times 5 \times 12} {12} \ \text{km/hour} \\\\
-                  &= \dfrac {3 \times 5 \times \cancel{12}} {\cancel{12}} \ \text{km/hour} \\\\
-                  &= 15 \ \text{km/hour}
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-We can also use ratio to find the speed from the distance and time. 
-
-$
-\begin{aligned}
-3 \ \text{km}               &: 12 \ \text{minutes} \\\\
-3 \times 5 \ \text{km}      &: 12 \times 5 \ \text{minutes} \\\\
-15 \ \text{km}              &: 60 \ \text{minutes} \\\\
-15 \ \text{km}              &: 1 \ \text{hour}
-\end{aligned}
-$
-
-$\text{Speed} = 15 \ \text{km/hour}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15 \ \text{km/hour}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
-
-Distance $= 3 \ \text{km}$
-
-Since Jackie started $30 \ \text{seconds}$ after and finished $30 \  \text{seconds}$ earlier, so,
-
-$
-\begin{aligned}
-\text{Time taken}   &= 13 \ \text{minutes} - 30 \text{s} - 30 \text{s} \\\\
-                    &= 13 \ \text{minutes} - 60 \text{s} \\\\
-                    &= 13 \ \text{minutes} - 1 \ \text{minute} \\\\
-                    &= 12 \ \text{minutes} \\\\
-                    &= \dfrac {12} {60} \ \text{hours}
-\end{aligned}
-$
-
-Let's find the speed now.
-
-$
-\begin{aligned}
-\text{Speed}      &= \dfrac {\text{Distance}} {\text{Time}} \\\\
-                  &= \dfrac {3} { \dfrac {12}{60} } \ \text{km/hour} \\\\
-                  &= \dfrac {3 \times 60} {12} \ \text{km/hour} \\\\
-                  &= \dfrac {3 \times 5 \times 12} {12} \ \text{km/hour} \\\\
-                  &= \dfrac {3 \times 5 \times \cancel{12}} {\cancel{12}} \ \text{km/hour} \\\\
-                  &= 15 \ \text{km/hour}
-\end{aligned}
-$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>We can also use ratio to find the speed from the distance and time. 
-
-$
-\begin{aligned}
-3 \ \text{km}               &: 12 \ \text{minutes} \\\\
-3 \times 5 \ \text{km}      &: 12 \times 5 \ \text{minutes} \\\\
-15 \ \text{km}              &: 60 \ \text{minutes} \\\\
-15 \ \text{km}              &: 1 \ \text{hour}
-\end{aligned}
-$
-
-$\text{Speed} = 15 \ \text{km/hour}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$15 \ \text{km/hour}$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' id='FORM-1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1726FC9C-67EA-46CA-9AE2-A3CB7D96F149'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-g0"
 title: "TopicPaper - Algebra - 11 - G0"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
-<p>998DABA8-00BE-4F0A-8D36-19CCA9E7D239</p>
+<p>33BA3A42-D90E-400D-A934-CADF6E6B81F9</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:26</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -30,78 +30,107 @@ talgebra
 </div>
 <div class='question question'>
 
-Vale Youth Club has $126$ members. There are $20$ more boys than 
-girls. How many girls are members of the Youth Club? 
+$2$ packets of crisps and $2$ drinks cost $\pounds 1.50$. $2$ packets of crisps and $1$ drink costs $\pounds 1.10$. How much would $4$ packets of crisps and $3$ drinks cost? 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's  the number of boys  $= a$
+Let the price of crisp $= a$
 
-Let's  the number of girls  $= b$
-
-There are $20$ more boys than girls $a = b+20$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
-
-As per the question
+Let the price of drinks $= b$
 
 $
 \begin{aligned}
-\text{Total number of boys} + \text{Total number of girls} &= \text{Total members in Vale Youth Club} \\\\
-\text{a} + \text{b} &= 126 \\\\
-\text{a} + \text{b} &= 126 \\\\
-\text{b}+20 + \text{b} &= 126 \\\\
-2\text{b} &= 126 - 20 \\\\
-2\text{b} &= 106 \\\\
-\text{b} &= \dfrac{106}{2} \\\\
-\text{b} &= \dfrac{53 \times 2}{2} \\\\
-\text{b} &= \dfrac{53 \times \cancel 2}{\cancel2} \\\\
-\text{b} &= 53
-\end{aligned} 
+2a + 2b &= 1.50 \\\\
+2a      &= 1.50 - 2b 
+\end{aligned}
 $
 
-Total number of girls in Vale Youth Club $= 53$
+$
+\begin{aligned}
+2a +  b  &= 1.10 \\\\
+2a       &= 1.10 - b 
+1.10 - b &= 1.50 - 2b \\\\
+2b - b   &= 1.50 - 1.10 \\\\
+b        &= 0.40
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a  &=  1.50 - 2b \\\\
+2a  &=  1.50 - 2 \times 0.40 \\\\
+2a  &=  1.50 - 0.80 \\\\
+2a  &=  0.70 \\\\
+a   &=  \dfrac {0.70} {2} \\\\
+a   &=  0.35
+\end{aligned}
+$
+
+Price of crisp $= \pounds 0.35$, and price of drinks $= \pounds 0.40$. Using this we get,
+
+$
+\begin{aligned}
+\text {For 4 crisps and 3 drinks} &= 4 \times 0.35 + 3 \times 0.40 \\\\
+                                  &= 1.4 + 1.2 \\\\
+                                  &= \pounds 2.6
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$53$
+$\pounds 2.6$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's  the number of boys  $= a$
+<pre class='language-latex'><code class='language-latex'>Let the price of crisp $= a$
 
-Let's  the number of girls  $= b$
-
-There are $20$ more boys than girls $a = b+20$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
-
-As per the question
+Let the price of drinks $= b$
 
 $
 \begin{aligned}
-\text{Total number of boys} + \text{Total number of girls} &= \text{Total members in Vale Youth Club} \\\\
-\text{a} + \text{b} &= 126 \\\\
-\text{a} + \text{b} &= 126 \\\\
-\text{b}+20 + \text{b} &= 126 \\\\
-2\text{b} &= 126 - 20 \\\\
-2\text{b} &= 106 \\\\
-\text{b} &= \dfrac{106}{2} \\\\
-\text{b} &= \dfrac{53 \times 2}{2} \\\\
-\text{b} &= \dfrac{53 \times \cancel 2}{\cancel2} \\\\
-\text{b} &= 53
-\end{aligned} 
+2a + 2b &= 1.50 \\\\
+2a      &= 1.50 - 2b 
+\end{aligned}
 $
 
-Total number of girls in Vale Youth Club $= 53$
+$
+\begin{aligned}
+2a +  b  &= 1.10 \\\\
+2a       &= 1.10 - b 
+1.10 - b &= 1.50 - 2b \\\\
+2b - b   &= 1.50 - 1.10 \\\\
+b        &= 0.40
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a  &=  1.50 - 2b \\\\
+2a  &=  1.50 - 2 \times 0.40 \\\\
+2a  &=  1.50 - 0.80 \\\\
+2a  &=  0.70 \\\\
+a   &=  \dfrac {0.70} {2} \\\\
+a   &=  0.35
+\end{aligned}
+$
+
+Price of crisp $= \pounds 0.35$, and price of drinks $= \pounds 0.40$. Using this we get,
+
+$
+\begin{aligned}
+\text {For 4 crisps and 3 drinks} &= 4 \times 0.35 + 3 \times 0.40 \\\\
+                                  &= 1.4 + 1.2 \\\\
+                                  &= \pounds 2.6
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -113,7 +142,7 @@ Total number of girls in Vale Youth Club $= 53$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$53$
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.6$
 </code></pre>
 </div>
 </div>
@@ -122,415 +151,49 @@ Total number of girls in Vale Youth Club $= 53$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='33BA3A42-D90E-400D-A934-CADF6E6B81F9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='33BA3A42-D90E-400D-A934-CADF6E6B81F9' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='33BA3A42-D90E-400D-A934-CADF6E6B81F9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='33BA3A42-D90E-400D-A934-CADF6E6B81F9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='33BA3A42-D90E-400D-A934-CADF6E6B81F9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='33BA3A42-D90E-400D-A934-CADF6E6B81F9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='33BA3A42-D90E-400D-A934-CADF6E6B81F9' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='33BA3A42-D90E-400D-A934-CADF6E6B81F9' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' id='FORM-998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G0' data-uuid='33BA3A42-D90E-400D-A934-CADF6E6B81F9' id='FORM-33BA3A42-D90E-400D-A934-CADF6E6B81F9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-998DABA8-00BE-4F0A-8D36-19CCA9E7D239'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-33BA3A42-D90E-400D-A934-CADF6E6B81F9'>Initial</p>
 </div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
-<p>7C7B09CA-32E5-42A1-9057-06F6895DD676</p>
+<p>98887762-1849-4F10-9E68-211B94B015A0</p>
 </div>
 <div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:30</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mr Green goes into a café and buys one pack of sandwiches, one 
-biscuit and two cups of tea and is charged $\pounds 5.80$.
-
-Mrs Plum goes into the café and buys two packs of sandwiches, two 
-biscuits and one cup of tea and is charged $\pounds 6.50$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much would it cost for one pack of sandwiches, one biscuit and one cup of tea?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Let the pack of sandwiches be $= s$
-
-Let a biscuit be $= b$
-
-Let a one cup of tea be  $= t$
-
-$
-\begin{aligned}
-\text{Mr Green charged with} &= \pounds 5.80 \\\\
-\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
-\text{Mrs Plum charged with} &= \pounds 6.50 \\\\
-2\text{s}+ 2\text{b} +\text{t} &= \pounds 6.50 \\\\
-\end{aligned}
-$
-
-We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
-
-$
-\begin{aligned}
-(2\text{s}+ 2\text{b} + \text{t}) + (s + b + 2\text{t}) &= (\pounds 6.50 + \pounds 5.80) \\\\
-3\text{s}+ 3\text{b} + 3\text{t} &= \pounds 12.30 \\\\
-3(\text{s}+\text{b}+\text{t}) &= 12.23 \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{12.23}{3} \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{3\times 4.10}{3} \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{\cancel 3 \times 4.10}{\cancel 3} \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4.10$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-Let the pack of sandwiches be $= s$
-
-Let a biscuit be $= b$
-
-Let a one cup of tea be  $= t$
-
-$
-\begin{aligned}
-\text{Mr Green charged with} &= \pounds 5.80 \\\\
-\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
-\text{Mrs Plum charged with} &= \pounds 6.50 \\\\
-2\text{s}+ 2\text{b} +\text{t} &= \pounds 6.50 \\\\
-\end{aligned}
-$
-
-We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
-
-$
-\begin{aligned}
-(2\text{s}+ 2\text{b} + \text{t}) + (s + b + 2\text{t}) &= (\pounds 6.50 + \pounds 5.80) \\\\
-3\text{s}+ 3\text{b} + 3\text{t} &= \pounds 12.30 \\\\
-3(\text{s}+\text{b}+\text{t}) &= 12.23 \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{12.23}{3} \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{3\times 4.10}{3} \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{\cancel 3 \times 4.10}{\cancel 3} \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 4.10$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much is a pack of sandwiches and a biscuit?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{The cost  of a pack of sandwiches and a biscuit} \\\\
-2\text{s}+ 2\text{b} + \text{t} &= \pounds 6.50 \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
-
-$
-\begin{aligned}
-(2\text{s}+ 2\text{b} + \text{t}) - (\text{s} + \text{b} + \text{t}) &= \pounds 6.50 - \pounds 4.10 \\\\
-2\text{s}+ 2\text{b} + \cancel t - \text{s} - \text{b} - \cancel t  &= 2.40 \\\\
-\text{s}+\text{b} &= \pounds 2.40 \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.40$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{The cost  of a pack of sandwiches and a biscuit} \\\\
-2\text{s}+ 2\text{b} + \text{t} &= \pounds 6.50 \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
-
-$
-\begin{aligned}
-(2\text{s}+ 2\text{b} + \text{t}) - (\text{s} + \text{b} + \text{t}) &= \pounds 6.50 - \pounds 4.10 \\\\
-2\text{s}+ 2\text{b} + \cancel t - \text{s} - \text{b} - \cancel t  &= 2.40 \\\\
-\text{s}+\text{b} &= \pounds 2.40 \\\\
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 2.40$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much is a cup of tea?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{The cost  of a cup of tea} \\\\
-\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
-
-$
-\begin{aligned}
-(\text{s}+\text{b}+ 2\text{t}) - (\text{s}+\text{b}+\text{t}) &= \pounds 5.80 - \pounds 4.10 \\\\
-\text{s} + \text{b} + 2\text{t} - \text{s} - \text{b} - \text{t} &=  1.70 \\\\
-\cancel s + \cancel b + 2\text{t} - \cancel s - \cancel b - \text{t} &=  1.70 \\\\
-2\text{t} - \text{t} &=  1.70 \\\\
-\text{t} &= \pounds 1.70
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1.70$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{The cost  of a cup of tea} \\\\
-\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
-
-$
-\begin{aligned}
-(\text{s}+\text{b}+ 2\text{t}) - (\text{s}+\text{b}+\text{t}) &= \pounds 5.80 - \pounds 4.10 \\\\
-\text{s} + \text{b} + 2\text{t} - \text{s} - \text{b} - \text{t} &=  1.70 \\\\
-\cancel s + \cancel b + 2\text{t} - \cancel s - \cancel b - \text{t} &=  1.70 \\\\
-2\text{t} - \text{t} &=  1.70 \\\\
-\text{t} &= \pounds 1.70
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 1.70$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' id='FORM-7C7B09CA-32E5-42A1-9057-06F6895DD676' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-7C7B09CA-32E5-42A1-9057-06F6895DD676'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>072C52DE-5BD3-4299-845A-4CA76E632B3F</p>
-</div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:13</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -550,49 +213,41 @@ talgebra
 </div>
 <div class='question question'>
 
-Simplify the expression $4c - 6d + 2c + 3d$.
-
-
-- $6c - 3d$
-- $15cd$
-- $2c + 9d$
-- $7c + 8d$
-- $6c - 9d$ 
+Pippa came home from her holiday at her Grandma’s with $5$ books. Whilst she was away she bought $2$ books from the bookshop and got $1$ book as a present from her Grandma. During her stay at her Grandma’s she gave her cousin $4$ books that she had finished. How many books did Pippa take with her when she left for her holiday? 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+Let the numbers of books she took as $=a$
+
 $
 \begin{aligned}
-&= 4c - 6d + 2c + 3d \\\\
-&= 4c  + 2c - 6d + 3d \\\\
-&= 6c - 6d + 3d \\\\
-&= 6c - 3d \\\\
+a &= 5 + 2 + 1 - 4 \\\\
+a &= 8 - 4 \\\\
+a &= 4
 \end{aligned}
 $
 
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
 <div class='answer'>
 
-$6c - 3d$
+$4$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Let the numbers of books she took as $=a$
+
+$
 \begin{aligned}
-&= 4c - 6d + 2c + 3d \\\\
-&= 4c  + 2c - 6d + 3d \\\\
-&= 6c - 6d + 3d \\\\
-&= 6c - 3d \\\\
+a &= 5 + 2 + 1 - 4 \\\\
+a &= 8 - 4 \\\\
+a &= 4
 \end{aligned}
 $
 </code></pre>
@@ -600,13 +255,13 @@ $
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>A</code></pre>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6c - 3d$
+<pre class='language-latex'><code class='language-latex'>$4$
 </code></pre>
 </div>
 </div>
@@ -615,49 +270,49 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='072C52DE-5BD3-4299-845A-4CA76E632B3F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='98887762-1849-4F10-9E68-211B94B015A0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='072C52DE-5BD3-4299-845A-4CA76E632B3F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='98887762-1849-4F10-9E68-211B94B015A0' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='072C52DE-5BD3-4299-845A-4CA76E632B3F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='98887762-1849-4F10-9E68-211B94B015A0' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='072C52DE-5BD3-4299-845A-4CA76E632B3F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='98887762-1849-4F10-9E68-211B94B015A0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='072C52DE-5BD3-4299-845A-4CA76E632B3F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='98887762-1849-4F10-9E68-211B94B015A0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='072C52DE-5BD3-4299-845A-4CA76E632B3F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='98887762-1849-4F10-9E68-211B94B015A0' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='072C52DE-5BD3-4299-845A-4CA76E632B3F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='98887762-1849-4F10-9E68-211B94B015A0' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='072C52DE-5BD3-4299-845A-4CA76E632B3F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='98887762-1849-4F10-9E68-211B94B015A0' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='072C52DE-5BD3-4299-845A-4CA76E632B3F' id='FORM-072C52DE-5BD3-4299-845A-4CA76E632B3F' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G0' data-uuid='98887762-1849-4F10-9E68-211B94B015A0' id='FORM-98887762-1849-4F10-9E68-211B94B015A0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-072C52DE-5BD3-4299-845A-4CA76E632B3F'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-98887762-1849-4F10-9E68-211B94B015A0'>Initial</p>
 </div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
-<p>C2CBB803-CAE6-49B9-ADCD-2636CA8618C1</p>
+<p>0614640E-B41A-4826-860D-7235E6EC27FC</p>
 </div>
 <div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:25</p>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:35</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -677,64 +332,231 @@ talgebra
 </div>
 <div class='question question'>
 
-$4d + 7e - d + 2e =$
-
-- $3d - 9e$
-- $12de$
-- $4d - 9e$
-- $3d + 9e$
-- $5d - 9e$
+Sophie should have divided a number by $4$, but instead she subtracted $4$. She got the answer $88$. What should her answer have been?
 
 </div>
 <div class='workings'>
 <div class='working'>
+
+Let the number $=a$,
+
+$
+\begin{aligned}
+a - 4 &= 88 \\\\
+a     &= 88 + 4\\\\
+a     &= 92
+\end{aligned}
+$
+
+Answer should have been,
+
+$
+\begin{aligned}
+&= \dfrac {92} {4} \\\\
+&= \dfrac {23 \times 4} {4} \\\\
+&= \dfrac {23 \times \cancel{4} } {\cancel{4} } \\\\
+&= 23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$,
+
+$
+\begin{aligned}
+a - 4 &= 88 \\\\
+a     &= 88 + 4\\\\
+a     &= 92
+\end{aligned}
+$
+
+Answer should have been,
+
+$
+\begin{aligned}
+&= \dfrac {92} {4} \\\\
+&= \dfrac {23 \times 4} {4} \\\\
+&= \dfrac {23 \times \cancel{4} } {\cancel{4} } \\\\
+&= 23
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$23$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='0614640E-B41A-4826-860D-7235E6EC27FC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='0614640E-B41A-4826-860D-7235E6EC27FC' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='0614640E-B41A-4826-860D-7235E6EC27FC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='0614640E-B41A-4826-860D-7235E6EC27FC' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='0614640E-B41A-4826-860D-7235E6EC27FC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='0614640E-B41A-4826-860D-7235E6EC27FC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='0614640E-B41A-4826-860D-7235E6EC27FC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='0614640E-B41A-4826-860D-7235E6EC27FC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='0614640E-B41A-4826-860D-7235E6EC27FC' id='FORM-0614640E-B41A-4826-860D-7235E6EC27FC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0614640E-B41A-4826-860D-7235E6EC27FC'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>59782F67-CD3A-4562-8A32-D1EC35290808</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+After a card game, four gamblers had $\pounds 234$ between them. Harry had $\pounds 20$ more than Dana, 
+Charlotte had $\pounds 53$ more than Dana and Sid had $\pounds 71$ more than Dana.
+
+How much did each of them have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the amount with Dana $= d$
 
 As per the question,
 
 $
-\begin{aligned} 
-&=  4d + 7e - d + 2e \\\\
-&=  4d -d + 7e + 2e \\\\
-&=  3d + 9e
+\begin{aligned}
+d + d + 20 + d + 53 + d + 71        &= 234 \\\\
+4d + 144                            &= 234 \\\\
+4d                                  &= 234 - 144 \\\\
+4d                                  &= 90 \\\\
+d                                   &= \dfrac {90} {4} \\\\
+d                                   &= \pounds 22.5
 \end{aligned}
 $
+
+Amount with Dana $= \pounds 22.5$
+
+Amount with Harry $= \pounds 22.5 + 20 = \pounds 42.5$
+
+Amount with Charlotte $= \pounds 22.5 + 53 = \pounds 75.5$
+
+Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
 
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
 <div class='answer'>
 
-$3d + 9e$
+$\text {Dana} = \pounds 22.5 \\
+\text {Harry} = \pounds 42.5 \\
+\text {Charlotte} = \pounds 75.5 \\
+\text {Sid} = 93.5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the amount with Dana $= d$
+
+As per the question,
 
 $
-\begin{aligned} 
-&=  4d + 7e - d + 2e \\\\
-&=  4d -d + 7e + 2e \\\\
-&=  3d + 9e
+\begin{aligned}
+d + d + 20 + d + 53 + d + 71        &= 234 \\\\
+4d + 144                            &= 234 \\\\
+4d                                  &= 234 - 144 \\\\
+4d                                  &= 90 \\\\
+d                                   &= \dfrac {90} {4} \\\\
+d                                   &= \pounds 22.5
 \end{aligned}
 $
+
+Amount with Dana $= \pounds 22.5$
+
+Amount with Harry $= \pounds 22.5 + 20 = \pounds 42.5$
+
+Amount with Charlotte $= \pounds 22.5 + 53 = \pounds 75.5$
+
+Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>D</code></pre>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3d + 9e$
+<pre class='language-latex'><code class='language-latex'>$\text {Dana} = \pounds 22.5 \\
+\text {Harry} = \pounds 42.5 \\
+\text {Charlotte} = \pounds 75.5 \\
+\text {Sid} = 93.5$
 </code></pre>
 </div>
 </div>
@@ -743,39 +565,39 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='59782F67-CD3A-4562-8A32-D1EC35290808' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='59782F67-CD3A-4562-8A32-D1EC35290808' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='59782F67-CD3A-4562-8A32-D1EC35290808' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='59782F67-CD3A-4562-8A32-D1EC35290808' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='59782F67-CD3A-4562-8A32-D1EC35290808' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='59782F67-CD3A-4562-8A32-D1EC35290808' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='59782F67-CD3A-4562-8A32-D1EC35290808' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='59782F67-CD3A-4562-8A32-D1EC35290808' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' id='FORM-C2CBB803-CAE6-49B9-ADCD-2636CA8618C1' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G0' data-uuid='59782F67-CD3A-4562-8A32-D1EC35290808' id='FORM-59782F67-CD3A-4562-8A32-D1EC35290808' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-C2CBB803-CAE6-49B9-ADCD-2636CA8618C1'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-59782F67-CD3A-4562-8A32-D1EC35290808'>Initial</p>
 </div>
 </div>
 </li>

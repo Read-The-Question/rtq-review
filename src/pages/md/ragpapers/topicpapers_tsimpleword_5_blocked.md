@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-blocked"
 title: "TopicPaper - Simpleword - 5 - BLOCKED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>4C1FFBEC-5A20-4587-B402-F509D681C586</p>
+<p>78014A49-10F8-489D-B6FC-B8F15474740B</p>
 </div>
 <div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:12</p>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:1</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -30,17 +30,129 @@ tsimpleword
 </div>
 <div class='question question'>
 
-Find the sum of all the numbers between $7$ and $19$ which are divisible by $4$.
+In one week, the hens on the Billings family farm lay $389$ eggs. The eggs are packaged in boxes of twelve.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many boxes can be filled?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+12 \ \text {eggs}   &= 1 \ \text {box} \\\\
+1 \ \text {egg}     &= \dfrac {1} {12} \ \text {of} \ 1 \ \text {box} \\\\
+389 \ \text {eggs}  &= 389 \times \dfrac {1} {12} \ \text {of} \ 1 \ \text {box} \\\\
+                    &= 389 \times \dfrac {1} {12} \\\\
+                    &= \dfrac {389} {12} \\\\
+                    &= 32 \dfrac {5} {12}
+\end {aligned}
+$
+
+$32$ boxes can be filled.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32 \ \text {boxes}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+12 \ \text {eggs}   &= 1 \ \text {box} \\\\
+1 \ \text {egg}     &= \dfrac {1} {12} \ \text {of} \ 1 \ \text {box} \\\\
+389 \ \text {eggs}  &= 389 \times \dfrac {1} {12} \ \text {of} \ 1 \ \text {box} \\\\
+                    &= 389 \times \dfrac {1} {12} \\\\
+                    &= \dfrac {389} {12} \\\\
+                    &= 32 \dfrac {5} {12}
+\end {aligned}
+$
+
+$32$ boxes can be filled.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$32 \ \text {boxes}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many eggs are left over?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
 $
-\begin{aligned}
-&= 8 + 12 + 16 \\\\
-&= 36
-\end{aligned}
+\begin {aligned}
+\text {Number of Left over eggs}    &= \text {Total number of eggs} - \text {Total eggs in boxes} \\\\
+                                    &= 389 - (32 \times 12) \\\\
+                                    &= 389 - 384 \\\\
+                                    &= 5
+\end {aligned}
 $
 
 </div>
@@ -48,7 +160,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$36$
+$5$
 
 </div>
 </div>
@@ -56,10 +168,12 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 8 + 12 + 16 \\\\
-&= 36
-\end{aligned}
+\begin {aligned}
+\text {Number of Left over eggs}    &= \text {Total number of eggs} - \text {Total eggs in boxes} \\\\
+                                    &= 389 - (32 \times 12) \\\\
+                                    &= 389 - 384 \\\\
+                                    &= 5
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -72,11 +186,79 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$36$
+<pre class='language-latex'><code class='language-latex'>$5$
 </code></pre>
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The family keep eight of the filled boxes to give to friends. The rest are sold in the farm shop.
+
+What percentage of the filled boxes are sold in the farm shop?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Percentage of filled boxes sold in the farm shop}     &= \dfrac {32 - 8} {32} \ \text {of} \ 100 \\\\
+                                                             &= \dfrac {24} {32} \times 100 \\\\
+                                                             &= \dfrac {24 \times 100} {32} \\\\
+                                                             &= \dfrac {3 \times 8 \times 4 \times 25} {\cancel {8} \times \cancel {4}} \\\\
+                                                             &= \dfrac {3 \times \cancel {8} \times \cancel {4} \times 25} {8 \times 4} \\\\
+                                                             &= 3 \times 25 \\\\
+                                                             &= 75 \%
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75 \%$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Percentage of filled boxes sold in the farm shop}     &= \dfrac {32 - 8} {32} \ \text {of} \ 100 \\\\
+                                                             &= \dfrac {24} {32} \times 100 \\\\
+                                                             &= \dfrac {24 \times 100} {32} \\\\
+                                                             &= \dfrac {3 \times 8 \times 4 \times 25} {\cancel {8} \times \cancel {4}} \\\\
+                                                             &= \dfrac {3 \times \cancel {8} \times \cancel {4} \times 25} {8 \times 4} \\\\
+                                                             &= 3 \times 25 \\\\
+                                                             &= 75 \%
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$75 \%$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3435,10 +3435,10 @@ Number $= 21$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:14</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -6287,10 +6287,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:9</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7031,10 +7031,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:8</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

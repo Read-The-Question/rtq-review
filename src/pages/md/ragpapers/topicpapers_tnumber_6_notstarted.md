@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-notstarted"
 title: "TopicPaper - Number - 6 - NOTSTARTED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
-<p>F0A659BE-8173-4968-AAA9-A353945F13A3</p>
+<p>2F4F2372-FBF4-4887-AB05-059A4D27FA56</p>
 </div>
 <div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:25</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:19</p>
 </div>
 <div class='rag'>
 <p>Ayushi Mishra</p>
@@ -26,11 +26,24 @@ date: 2022-07-09 18:06:37
 <li>
 tnumber
 </li>
+<li>
+tinfer
+</li>
 </ul>
 </div>
 <div class='question question'>
 
-Put a single number in the boxes to make each of these sums correct 
+The competitors in the Tour de France cycling race are all given race numbers to wear. 
+Based on last year's results, the captain of the leading team has the honour of wearing number $1$ and the other numbers of his 
+team wear numbers $2$ to $9$.
+
+![missing image](/papers/missing_image.svg)
+
+
+The captain of the next team in the rankings wears number $11$ and his team mates are given the race numbers from $12$ to $19$. 
+The third team gets allotted the race numbers $21$ to $29$, and so on.
+
+This process continues until all rides have been given a unique number that identifies them individually, but also identifies which team they are on.
 
 </div>
 <div class='workings'>
@@ -96,7 +109,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%waffles%
+Write down how many riders there are in each team.
 
 </div>
 <div class='workings'>
@@ -164,7 +177,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%waffles%
+The last race number to be issued is number 209. Write down how many teams there are in the race.
 
 </div>
 <div class='workings'>
@@ -232,7 +245,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%waffles%
+Calculate how many riders there are in the race in total.
 
 </div>
 <div class='workings'>
@@ -300,7 +313,77 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%waffles%
+Calculate how many zeroes occur in the list of all the race numbers from $1$ to $209$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+If $42$ riders failed to finish the $3$-week-long race, either through crashing our or abandoning the race, 
+work out what fraction of the number of riders who started the race actually **completed** the whole event. 
+Leave your answer in its simplest form.
 
 </div>
 <div class='workings'>
@@ -371,10 +454,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
-<p>CE37DE92-458D-431B-8515-962EE38135E1</p>
+<p>9E331C33-7AA2-4194-A24C-1B155799E154</p>
 </div>
 <div class='papername'>
-<p>epsom-college--11-plus--maths--9999--sample-paper-1:1:10</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:6</p>
 </div>
 <div class='rag'>
 <p>Ayushi Mishra</p>
@@ -394,7 +477,109 @@ tnumber
 </div>
 <div class='question question'>
 
-What number must fit into each box to make these calculations correct? 
+Circle the factors of $99$: 
+
+
+$
+\begin{matrix}
+9   & \quad 198 & \quad 990 & \quad 33 \\
+66  & \quad 11  & \quad 18  & \quad 48
+\end{matrix}
+$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>B0628307-9D81-49C9-9641-6419EDEB036A</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:8</p>
+</div>
+<div class='rag'>
+<p>Ayushi Mishra</p>
+</div>
+<div class='rag'>
+<p>rag_am_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a survey a group of children were asked how many films they had seen in the last week. No-one in the group had seen more than four films, and the results are shown in the pie chart below.
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -460,7 +645,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$27 \ \boxed{ \phantom{+ 11}} = 91$
+Work out the percentage of children who had seen exactly three films. 
 
 </div>
 <div class='workings'>
@@ -528,7 +713,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$58 \ \boxed{ \phantom{+ 11}} = 39$
+Work out the fraction of children who had seen no films, giving your answer in its lowest terms.
 
 </div>
 <div class='workings'>
@@ -596,75 +781,13 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$\boxed{ \phantom{11}} \times 7 = 364$
+Nine of the children who were surveyed had seen exactly one film and another nine had seen exactly three films. 
 
-</div>
-<div class='workings'>
-<div class='working'>
+Fill in the table below to show the number of children who had seen $0, 2,$ and $4$ films.
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$161 \ \boxed{ \phantom{+ 11}} = 23$
+|      Number of films        | $0$ | $1$ | $2$ | $3$ | $4$ |
+|:---------------------------:|:---:|:---:|:---:|:---:|:---:|
+| Number of children surveyed |     | $9$ |     | $9$ |     |
 
 </div>
 <div class='workings'>
@@ -735,10 +858,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
-<p>0A9683A9-D010-44F1-9170-501D9A4DF97D</p>
+<p>2DD8EB4A-BB2A-4217-B162-687FC557B27B</p>
 </div>
 <div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3:1:22</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:11</p>
 </div>
 <div class='rag'>
 <p>Ayushi Mishra</p>
@@ -758,19 +881,73 @@ tnumber
 </div>
 <div class='question question'>
 
-$36$ is a square number because it can be written $6 \times 6$.
+%empty% 
 
-Similarly, $64 = 8 \times 8$ is a square number.
+</div>
+<div class='workings'>
+<div class='working'>
 
-$1000$ is a cube number because it can be written $10 \times 10 \times 10$
+TODOWORKING
 
-Similarly, $343 = 7 \times 7 \times 7$ is a cube number.
+</div>
+<div class='working'>
 
-The French mathematician Pierre de Fermat claimed correctly that there is only one square number that is $2$ less than a cube number.
+TODOWORKING
 
-It is less than $50$.
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
 
-What is it? 
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Round $1619$ to the nearest $10$.
 
 </div>
 <div class='workings'>
@@ -832,40 +1009,13 @@ TODOANSWER
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>596C756A-4491-4F11-86D2-84247118FAAC</p>
-</div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:1:24</p>
-</div>
-<div class='rag'>
-<p>Ayushi Mishra</p>
-</div>
-<div class='rag'>
-<p>rag_am_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ella noticed that the $5 \text{th October } 2015$ could be written $5{-}10{-}15$, with all numbers being a multiple of $5$.
-When is the next date **from today** ($23 \text{rd January } 2016$) which when written in this form also has all the numbers being a multiple of $5$? 
+Round $2017$ to the nearest $100$.
 
 </div>
 <div class='workings'>
@@ -927,16 +1077,19 @@ TODOANSWER
 </div>
 </div>
 
+</div>
+</li>
+</ul>
 
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
-<p>C40506CE-7E47-4369-B275-8F978F906E78</p>
+<p>914AE816-ADA8-4255-B9E6-1052CA048DDB</p>
 </div>
 <div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:11</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:1</p>
 </div>
 <div class='rag'>
 <p>Ayushi Mishra</p>
@@ -956,7 +1109,7 @@ tnumber
 </div>
 <div class='question question'>
 
-Calculate the following:
+Work out: 
 
 </div>
 <div class='workings'>
@@ -997,7 +1150,7 @@ Calculate the following:
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$0.4 \times 0.4$ 
+$2019 - 567$
 
 </div>
 <div class='workings'>
@@ -1005,10 +1158,10 @@ $0.4 \times 0.4$
 
 $
 \begin{array}{cccccccccccccc}
-             &   0 \ .   &   4   &   0 \\
-\times       &   0 \ .   &   4   &   0 \\
+    &   2   &   0   &   1   &   9 \\
+{}- &       &   5   &   6   &   7 \\
 \hline
-             &   0 \ .   &   1   &   6 	
+    &   1   &   4   &   5   &   2
 \end{array}
 $
 
@@ -1017,7 +1170,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.16$
+$1452$
 
 </div>
 </div>
@@ -1026,10 +1179,10 @@ $0.16$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{cccccccccccccc}
-             &   0 \ .   &   4   &   0 \\
-\times       &   0 \ .   &   4   &   0 \\
+    &   2   &   0   &   1   &   9 \\
+{}- &       &   5   &   6   &   7 \\
 \hline
-             &   0 \ .   &   1   &   6 	
+    &   1   &   4   &   5   &   2
 \end{array}
 $
 </code></pre>
@@ -1043,7 +1196,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0.16$
+<pre class='language-latex'><code class='language-latex'>$1452$
 </code></pre>
 </div>
 </div>
@@ -1054,143 +1207,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$45 \div 0.5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>2A22D64E-B5F4-4E13-8153-04B7ABEB62C4</p>
-</div>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:1</p>
-</div>
-<div class='rag'>
-<p>Ayushi Mishra</p>
-</div>
-<div class='rag'>
-<p>rag_am_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the answers to these questions.
-You may show your working or work them out in your head. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$124 + 37$
+$67 \times 89$
 
 </div>
 <div class='workings'>
@@ -1198,10 +1215,13 @@ $124 + 37$
 
 $
 \begin{array}{cccccccccccccc}
-    &   1   &   2   &   4 \\
-{}+ &       &   3   &   7 \\
+   &             &   6   &   7 \\
+{} & \times      &   8   &   9 \\
 \hline
-    &   1   &   6   &   1
+   &         6   &   0   &   3 \\
+5  &         3   &   6   &   0 \\
+\hline
+5  &         9   &   6   &   3
 \end{array}
 $
 
@@ -1210,7 +1230,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$161$
+$5963$
 
 </div>
 </div>
@@ -1219,10 +1239,13 @@ $161$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{cccccccccccccc}
-    &   1   &   2   &   4 \\
-{}+ &       &   3   &   7 \\
+   &             &   6   &   7 \\
+{} & \times      &   8   &   9 \\
 \hline
-    &   1   &   6   &   1
+   &         6   &   0   &   3 \\
+5  &         3   &   6   &   0 \\
+\hline
+5  &         9   &   6   &   3
 \end{array}
 $
 </code></pre>
@@ -1236,7 +1259,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$161$
+<pre class='language-latex'><code class='language-latex'>$5963$
 </code></pre>
 </div>
 </div>
@@ -1247,432 +1270,47 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$4 \times 8$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4 \times 8 = 32$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$4 \times 8 = 32$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$32$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$100 - 48$ 
+$81.9 \div 6$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-    &   1   &   0   &   0 \\
-{}- &       &   4   &   8 \\
-\hline
-    &       &   5   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$52$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-    &   1   &   0   &   0 \\
-{}- &       &   4   &   8 \\
-\hline
-    &       &   5   &   2
-\end{array}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$52$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$39 \div (-3)$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$502 \times 10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$502 \times 10 = 5020$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5020$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$502 \times 10 = 5020$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5020$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Half of $74$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$-263 + 984$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   9   &   8   &   4 \\
-{}- &   2   &   6   &   3 \\
-\hline
-    &   7   &   2   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$721$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-    &   9   &   8   &   4 \\
-{}- &   2   &   6   &   3 \\
-\hline
-    &   7   &   2   &   1
-\end{array}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$721$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$-705 - 342$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-{}-     &       &   7   &   0   &   5 \\
-{}-     &       &   3   &   4   &   2 \\
-\hline
-{}-     &   1   &   0   &   4   &   7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1047$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-{}-     &       &   7   &   0   &   5 \\
-{}-     &       &   3   &   4   &   2 \\
-\hline
-{}-     &   1   &   0   &   4   &   7
-\end{array}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1047$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$3 + 2 \times 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
 \begin{aligned}
-&= 2 + 3 x 5 \\\\
-&= 3+10 \\\\
-&= 13
+& 81.9 \div 6 \\\\
+&= \dfrac {819} {10} \div 6 \\\\
+&= \dfrac {8190} {100} \times \dfrac {1} {6} \\\\
+&= \dfrac {1365 \times 6} {100} \times \dfrac {1} {6} \\\\
+&= \dfrac {1365 \times \cancel {6}} {100} \times \dfrac {1} {\cancel {6}} \\\\
+&= \dfrac {1365} {100} \\\\
+&= 13.65
 \end{aligned}
-
-
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$13$
+$13.65$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>\begin{aligned}
-&= 2 + 3 x 5 \\\\
-&= 3+10 \\\\
-&= 13
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+& 81.9 \div 6 \\\\
+&= \dfrac {819} {10} \div 6 \\\\
+&= \dfrac {8190} {100} \times \dfrac {1} {6} \\\\
+&= \dfrac {1365 \times 6} {100} \times \dfrac {1} {6} \\\\
+&= \dfrac {1365 \times \cancel {6}} {100} \times \dfrac {1} {\cancel {6}} \\\\
+&= \dfrac {1365} {100} \\\\
+&= 13.65
 \end{aligned}
-
-
+$
 </code></pre>
 </div>
 </div>
@@ -1684,7 +1322,7 @@ $13$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$13$
+<pre class='language-latex'><code class='language-latex'>$13.65$
 </code></pre>
 </div>
 </div>
@@ -1695,33 +1333,41 @@ $13$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$4.5 \times 10$
+$17.4 + 8.78$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-\begin{aligned}
-&= 4.5 \times 10 \\\\
-&= 45
-\end{aligned}
+$
+\begin{array}{cccccccccccccc}
+    &   1   &   7 \ .   &   4   &   0 \\
+{}+ &       &   8 \ .   &   7   &   8 \\
+\hline
+    &   2   &   6 \ .   &   1   &   8
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$45$
+$26.18$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>\begin{aligned}
-&= 4.5 \times 10 \\\\
-&= 45
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+    &   1   &   7 \ .   &   4   &   0 \\
+{}+ &       &   8 \ .   &   7   &   8 \\
+\hline
+    &   2   &   6 \ .   &   1   &   8
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -1733,7 +1379,7 @@ $45$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$45$
+<pre class='language-latex'><code class='language-latex'>$26.18$
 </code></pre>
 </div>
 </div>
@@ -1747,10 +1393,10 @@ $45$
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
-<p>076162DF-A050-42F4-A027-B259BDE6BD88</p>
+<p>A3C686C3-0BCC-4B4A-ABD1-83D7681517FB</p>
 </div>
 <div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:2</p>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:6</p>
 </div>
 <div class='rag'>
 <p>Ayushi Mishra</p>
@@ -1766,17 +1412,12 @@ $45$
 <li>
 tnumber
 </li>
-<li>
-tdetailedmultiplication
-</li>
-<li>
-tdivision
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-Write down the answer to each of the following. 
+%empty%
+ 
 
 </div>
 <div class='workings'>
@@ -1842,70 +1483,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$201 \times 10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-       &    2   &   0   &   1 \\
-\times &        &   1   &   0 \\
-\hline 
-       &    0   &   0   &   0 \\
-       &    2   &   0   &   1 \\
-\hline
-       &    2   &   0   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$201$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-       &    2   &   0   &   1 \\
-\times &        &   1   &   0 \\
-\hline 
-       &    0   &   0   &   0 \\
-       &    2   &   0   &   1 \\
-\hline
-       &    2   &   0   &   1
-\end{array}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$201$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$700 \div 10$
+Round $649$ to the nearest $100$.
 
 </div>
 <div class='workings'>
@@ -1973,47 +1551,42 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$201 \times 2000$
+Round $832$ to the nearest $10$.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-\begin{array}{cccccccccccccc}
-       &        &   2   &   0   &   1 \\
-\times &    2   &   0   &   0   &   0 \\
-\hline
-       &        &   0   &   0   &   0 \\
-       &        &   0   &   0   &   0 \\
-       &        &   0   &   0   &   0 \\
-       &        &   4   &   0   &   2 \\
-\hline
-       &        &   4   &   0   &   2      
-\end{array}
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$402$
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>\begin{array}{cccccccccccccc}
-       &        &   2   &   0   &   1 \\
-\times &    2   &   0   &   0   &   0 \\
-\hline
-       &        &   0   &   0   &   0 \\
-       &        &   0   &   0   &   0 \\
-       &        &   0   &   0   &   0 \\
-       &        &   4   &   0   &   2 \\
-\hline
-       &        &   4   &   0   &   2      
-\end{array}
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -2025,7 +1598,17 @@ $402$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$402$
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -2036,7 +1619,7 @@ $402$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$52000 \div 200$
+A number has been rounded to the nearest $10$ to give $370$. What is the smallest whole number possible?
 
 </div>
 <div class='workings'>
@@ -2101,6 +1684,498 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>2654C266-6341-484A-B3AF-C6FDC62EF599</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:16</p>
+</div>
+<div class='rag'>
+<p>Ayushi Mishra</p>
+</div>
+<div class='rag'>
+<p>rag_am_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three bus services stop at my bus stop. Service $A$ departs every $3 \ \text{minutes}$, Service $B$ every $5 \ \text{minutes}$ 
+and Service $C$ every $8 \ \text{minutes}$s.
+
+If all three services leave my stop at $10.00 \ \text{a.m.}$, at what time will they next leave my stop together? (Assume that all three services always run on time). 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>FFEC9EBA-B25F-4F0E-872A-749DBF460D95</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:23</p>
+</div>
+<div class='rag'>
+<p>Ayushi Mishra</p>
+</div>
+<div class='rag'>
+<p>rag_am_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two numbers are *clotted* by multiplying them together and then writing the answer backwards.
+
+For example, $6$ and $7$ are *clotted* to give $24$ because $6 \times 7 = 42$ and $42$ written backwards is $24$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the result of *clotting* $8$ and $9$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+With which number must 4 be *clotted* with to give $42$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find two whole numbers which *clot* to give $53$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>19B6D329-CD50-489D-A8AF-9B3A4470AA73</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:2:3</p>
+</div>
+<div class='rag'>
+<p>Ayushi Mishra</p>
+</div>
+<div class='rag'>
+<p>rag_am_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the expression below:
+
+$1 \ \square 2 \ \square 3 \ \square 4$
+
+each $\square$ is to be replaced by either $+$ or $\times$.
+
+What is the largest value of all the expressions that can be obtained in this way? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
 
 </div>
 </li>

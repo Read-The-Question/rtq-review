@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-pr"
 title: "TopicPaper - Fraction - 6 - PR"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-09 18:06:37
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -348,7 +348,7 @@ d: write  without aligned
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6</p>
 </div>
@@ -356,13 +356,13 @@ d: write  without aligned
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:4</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -379,18 +379,13 @@ Work out $17 \dfrac{1}{2} \div 5$.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 17 \dfrac{1}{2} \div 5 \\\\
-&= \dfrac {35} {2} \div 5
-\end{aligned}
-$
-
 ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
 
 
 $
 \begin{aligned}
+&= 17 \dfrac{1}{2} \div 5 \\\\
+&= \dfrac {35} {2} \div 5 \\\\
 &= \dfrac {35} {2} \times \dfrac {1} {5} \\\\
 &= \dfrac {35} {2 \times 5} \\\\
 &= \dfrac {7 \times 5} {2 \times 5} \\\\
@@ -412,17 +407,12 @@ $3\dfrac{1}{2}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
+
+$
 \begin{aligned}
 &= 17 \dfrac{1}{2} \div 5 \\\\
-&= \dfrac {35} {2} \div 5
-\end{aligned}
-$
-
-rtq_abbr_md_divide_by_fraction_note
-
-$
-\begin{aligned}
+&= \dfrac {35} {2} \div 5 \\\\
 &= \dfrac {35} {2} \times \dfrac {1} {5} \\\\
 &= \dfrac {35} {2 \times 5} \\\\
 &= \dfrac {7 \times 5} {2 \times 5} \\\\
@@ -497,7 +487,7 @@ write rtq_abbr_md_divide_by_fraction_note at the top, look at other questions ho
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6975D4C4-7A3B-4AE4-968A-13F66593DA85</p>
 </div>
@@ -505,13 +495,13 @@ write rtq_abbr_md_divide_by_fraction_note at the top, look at other questions ho
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:8</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -531,13 +521,27 @@ What fraction of the shape shown has been shaded?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of parallelogram} = \text{base} \times \text{height}$
+
+
+As per the diagram,
+
+Assuming height and width of boxes to be 1 cm
+
 $
 \begin{aligned}
-&= \dfrac {21} {36} \\\\
-&= \dfrac {3 \times 7} {3 \times 12} \\\\
-&= \dfrac {\cancel{3} \times 7} {\cancel{3} \times 12} \\\\
-&= \dfrac {7} {12}
-\end{aligned}
+\text {Height}                 &= 6 \\\\
+\text {Length}                 &= 5 \\\\
+\text {Width}                  &= 2 \\\\
+\text {Area}                   &= \dfrac {5 + 2} {2} \times 6 \\\\
+                               &= \dfrac {7\times 6}{2}  \\\\
+                               &= \dfrac {7 \times \cancel{2} \times 3}{\cancel {2}} \\\\  
+                               &= 21 \ \text {cm}^ 2 \\\\
+\text{Total Area}              &= 36 \text{cm}^2 \\\\
+\text{Fraction of Area Shaded} &= \dfrac{21}{30} \\\\
+                               &= \dfrac{\cancel{3} \times 7}{\cancel{3} \times{12}} \\\\
+                               &= \dfrac{7}{12}
+\end{aligned}        
 $
 
 </div>
@@ -552,13 +556,26 @@ $\dfrac {7} {12}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_parallelogram_expanded
+
+As per the diagram,
+
+Assuming height and width of boxes to be 1 cm
+
+$
 \begin{aligned}
-&= \dfrac {21} {36} \\\\
-&= \dfrac {3 \times 7} {3 \times 12} \\\\
-&= \dfrac {\cancel{3} \times 7} {\cancel{3} \times 12} \\\\
-&= \dfrac {7} {12}
-\end{aligned}
+\text {Height}                 &= 6 \\\\
+\text {Length}                 &= 5 \\\\
+\text {Width}                  &= 2 \\\\
+\text {Area}                   &= \dfrac {5 + 2} {2} \times 6 \\\\
+                               &= \dfrac {7\times 6}{2}  \\\\
+                               &= \dfrac {7 \times \cancel{2} \times 3}{\cancel {2}} \\\\  
+                               &= 21 \ \text {cm}^ 2 \\\\
+\text{Total Area}              &= 36 \text{cm}^2 \\\\
+\text{Fraction of Area Shaded} &= \dfrac{21}{30} \\\\
+                               &= \dfrac{\cancel{3} \times 7}{\cancel{3} \times{12}} \\\\
+                               &= \dfrac{7}{12}
+\end{aligned}        
 $
 </code></pre>
 </div>
@@ -626,7 +643,7 @@ write little bit more descriptive, total squares, shades, fraction, solve like s
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B312B8A5-E0AD-4546-B70A-03DA93E314AC</p>
 </div>
@@ -634,13 +651,13 @@ write little bit more descriptive, total squares, shades, fraction, solve like s
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Rochak Bhardwaj</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_rb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -706,10 +723,12 @@ What fraction of this shape is shaded?
 
 $
 \begin{aligned}
-&= \dfrac {9} {12} \\\\
-&= \dfrac {3 \times 3} {3 \times 4} \\\\
-&= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 4} \\\\
-&= \dfrac {3} {4}
+\text{Total boxes}    &= 12 \\\\
+\text{Shaded boxes}   &= 9 \\\\
+\text{Fraction}       &= \dfrac {9} {12} \\\\
+                      &= \dfrac {3 \times 3} {3 \times 4} \\\\
+                      &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 4} \\\\
+                      &= \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -727,10 +746,12 @@ $\dfrac {3} {4}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {9} {12} \\\\
-&= \dfrac {3 \times 3} {3 \times 4} \\\\
-&= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 4} \\\\
-&= \dfrac {3} {4}
+\text{Total boxes}    &= 12 \\\\
+\text{Shaded boxes}   &= 9 \\\\
+\text{Fraction}       &= \dfrac {9} {12} \\\\
+                      &= \dfrac {3 \times 3} {3 \times 4} \\\\
+                      &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 4} \\\\
+                      &= \dfrac {3} {4}
 \end{aligned}
 $
 </code></pre>
@@ -764,21 +785,61 @@ Shade $\frac {2} {3}$ of this shape.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+*TODO:: Shade 6 triangles in the figure*
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+$
+\begin{aligned}
+\text{Total number of small triangles}    &= 9 \\\\
+\text{2/3 of this shape}                  &= 9 \times \dfrac{2}{3} \\\\
+                                          &= \dfrac{9 \times 2}{3} \\\\
+                                          &= \dfrac{\cancel{3} \times 3 \times 2}{\cancel{3}} \\\\
+                                          &= 6
+\end{aligned}
+$
+
+We will shade 6 triangles
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+We will shade 6 triangles
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+
+*TODO:: Shade 6 triangles in the figure*
+
+rtq_abbr_md_add_drawing_ends
+
+$
+\begin{aligned}
+\text{Total number of small triangles}    &= 9 \\\\
+\text{2/3 of this shape}                  &= 9 \times \dfrac{2}{3} \\\\
+                                          &= \dfrac{9 \times 2}{3} \\\\
+                                          &= \dfrac{\cancel{3} \times 3 \times 2}{\cancel{3}} \\\\
+                                          &= 6
+\end{aligned}
+$
+
+We will shade 6 triangles
+
 </code></pre>
 </div>
 </div>
@@ -790,7 +851,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>We will shade 6 triangles
 </code></pre>
 </div>
 </div>

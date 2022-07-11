@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-1-blocked"
 title: "TopicPaper - Permutation - 1 - BLOCKED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>D1877BC6-DBDD-470A-9061-101346F1F6A4</p>
+<p>F0E5AC4B-9543-44E6-BAB8-0991A9B073BD</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:15</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:20</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -30,7 +30,7 @@ tpermutation
 </div>
 <div class='question question'>
 
-Yesterday, the reading on Mr Smith’s electricity meter was $098157$. He was shocked to realise that all six of these digits are different. How many more units of electricity will he use before the next time all the digits are different?
+There are $5$ competitors in a tennis competition. If each player plays every other player once only, how many matches will there be?
 
 </div>
 <div class='workings'>
@@ -38,33 +38,19 @@ Yesterday, the reading on Mr Smith’s electricity meter was $098157$. He was sh
 
 As per the question,
 
-Units of electricity used by Smith = $098157$
-
-The next time all the digits are different, is by adding units to $098157$
-
-$098157 + 1 = 098158$ 
-The digits $8$ is repeated.
-
-$098157 + 2 = 098159$
-The digits $9$ is repeated.
-
-$098157 + 3 = 098160$
-The digits $0$ is repeated.
-
-$098157 + 4 = 098161$
-The digits $1$ is repeated.
-
-$098157 + 5 = 098162$
-No digit is repeated. All digits are different.
-
-The number of units required to get next time all different digits = $098162 - 098157 = 5$
+$
+\begin{aligned}
+\text{Total matches}            &= 4 + 3 + 2 + 1 \\\\
+                                &= 10
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5$
+$10$
 
 </div>
 </div>
@@ -73,26 +59,12 @@ $5$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 
-Units of electricity used by Smith = $098157$
-
-The next time all the digits are different, is by adding units to $098157$
-
-$098157 + 1 = 098158$ 
-The digits $8$ is repeated.
-
-$098157 + 2 = 098159$
-The digits $9$ is repeated.
-
-$098157 + 3 = 098160$
-The digits $0$ is repeated.
-
-$098157 + 4 = 098161$
-The digits $1$ is repeated.
-
-$098157 + 5 = 098162$
-No digit is repeated. All digits are different.
-
-The number of units required to get next time all different digits = $098162 - 098157 = 5$
+$
+\begin{aligned}
+\text{Total matches}            &= 4 + 3 + 2 + 1 \\\\
+                                &= 10
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -104,7 +76,134 @@ The number of units required to get next time all different digits = $098162 - 0
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5$
+<pre class='language-latex'><code class='language-latex'>$10$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>C6358DE6-D734-48A4-BC67-FD56196E1814</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:19</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The numbers $34$ and $55$ are two examples of two-digit numbers which are made up using the digits $3, 4$ and $5$. 
+How many two-digit numbers in total can be made using some or all of the digits $3, 4$ and $5$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find all two-digit numbers that can be made using the digits $3, 4$ and $5$.
+
+The possible arrangements are:
+
+- $33$
+- $34$
+- $35$
+- $43$
+- $44$
+- $45$
+- $53$
+- $54$
+- $55$
+
+Count $= 9$
+
+</div>
+<div class='working'>
+
+We can solve this problem using permutation instead of manually counting all the arrangements.
+
+Count of digits that can be used in tens place        $= 3$
+
+Count of digits that can be used in unit place        $= 3$
+
+$
+\begin{aligned} 
+\text{Total Arrangements}                           &= 3 \times 3 \\\\\
+                                                    &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's find all two-digit numbers that can be made using the digits $3, 4$ and $5$.
+
+The possible arrangements are:
+
+- $33$
+- $34$
+- $35$
+- $43$
+- $44$
+- $45$
+- $53$
+- $54$
+- $55$
+
+Count $= 9$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>We can solve this problem using permutation instead of manually counting all the arrangements.
+
+Count of digits that can be used in tens place        $= 3$
+
+Count of digits that can be used in unit place        $= 3$
+
+$
+\begin{aligned} 
+\text{Total Arrangements}                           &= 3 \times 3 \\\\\
+                                                    &= 9
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9$
 </code></pre>
 </div>
 </div>

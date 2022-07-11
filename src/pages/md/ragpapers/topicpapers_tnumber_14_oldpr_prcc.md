@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-oldpr-prcc"
 title: "TopicPaper - Number - 14 - OLDPR - PRCC"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
-<p>7E1A8AB3-C593-4477-9220-607D3E76FDBE</p>
+<p>D98DBBF2-7AD9-4207-B861-10DE19DB559C</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:4</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
 <p>Kiran Babu</p>
@@ -26,31 +26,78 @@ date: 2022-07-09 18:06:37
 <li>
 tnumber
 </li>
-<li>
-tunitprompt
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-Find the difference between $2.7 \ \text{metres}$ and $32 \ \text{centimetres}$.
-
-Give your answer in metres.
+Complete the spaces shown by dotted lines below. 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-. 
- 
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+START                                                 END 
+$\boxed {57}$  Subtract 28  $\boxed {........}$  Add...... $\boxed {63}$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first space $a$ and second space $b$,
+
+Let's find $a$ first
+
+As per the question,
+
 $
 \begin{aligned}
-&= 2.7 \text{m} - 32 \ \text{cm} \\\\
-&=  2.7 \text{m} - \dfrac{32}{100} \text{m} \\\\
-&= 2.7 \text{m} - 0.32 \text{m} \\\\
-&= 2.7 \text{m} - 0.32 \text{m} \\\\
-&= 2.38 \text{m}
+a &= 57 - 28  \\\\
+a  &=  29
+\end{aligned}
+$
+
+Let's find $b$
+
+$
+\begin{aligned}
+29 + b &=  63  \\\\
+b &=  63 - 29 \\\\
+b &= 34
 \end{aligned}
 $
 
@@ -59,22 +106,33 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2.38 \text{m}$
+$29, 34$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
- 
+<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and second space $b$,
+
+Let's find $a$ first
+
+As per the question,
+
 $
 \begin{aligned}
-&= 2.7 \text{m} - 32 \ \text{cm} \\\\
-&=  2.7 \text{m} - \dfrac{32}{100} \text{m} \\\\
-&= 2.7 \text{m} - 0.32 \text{m} \\\\
-&= 2.7 \text{m} - 0.32 \text{m} \\\\
-&= 2.38 \text{m}
+a &= 57 - 28  \\\\
+a  &=  29
+\end{aligned}
+$
+
+Let's find $b$
+
+$
+\begin{aligned}
+29 + b &=  63  \\\\
+b &=  63 - 29 \\\\
+b &= 34
 \end{aligned}
 $
 </code></pre>
@@ -88,63 +146,150 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2.38 \text{m}$
+<pre class='language-latex'><code class='language-latex'>$29, 34$
 </code></pre>
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+START                                                 END 
+$\boxed {53}$ Add.......  $\boxed {..125....}$  Subtract 39  $\boxed {.........}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first space $a$ and let the second space $b$
+
+Let's find $a$ first
+
+As per the question, 
+
+$
+\begin{aligned}
+53 + a &=  125  \\\\
+a &=  125 - 53 \\\\
+a &= 72
+\end{aligned}
+$
+
+Let's find b
+
+$
+\begin{aligned}
+b = 125 - 39 \\\\
+b = 86
+\end{aligned}
+$
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$72, 86$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and let the second space $b$
+
+Let's find $a$ first
+
+As per the question, 
+
+$
+\begin{aligned}
+53 + a &=  125  \\\\
+a &=  125 - 53 \\\\
+a &= 72
+\end{aligned}
+$
+
+Let's find b
+
+$
+\begin{aligned}
+b = 125 - 39 \\\\
+b = 86
+\end{aligned}
+$</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$72, 86$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-wrong
+Refer to the corrections done in similar question in previous paper. 
 </div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='7E1A8AB3-C593-4477-9220-607D3E76FDBE' id='FORM-7E1A8AB3-C593-4477-9220-607D3E76FDBE' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' id='FORM-D98DBBF2-7AD9-4207-B861-10DE19DB559C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-7E1A8AB3-C593-4477-9220-607D3E76FDBE'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-D98DBBF2-7AD9-4207-B861-10DE19DB559C'>Initial</p>
 </div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
-<p>81E9148A-2F48-4754-A14C-C49051FB1236</p>
+<p>9918B00D-75CB-41DB-93FD-465940FFC114</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:7</p>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
 <p>Kiran Babu</p>
@@ -164,53 +309,27 @@ tnumber
 </div>
 <div class='question question'>
 
-Circle the number in the list below which is closest to the value $1$
-
-$0.993   \quad 1.006  \quad 1.1  \quad 0.94  \quad 0.99$
+Calculate 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the difference between the number and $1$.
-
-| Number   |     Difference      |
-|:--------:|:-------------------:|
-|  $0.993$ | $1 - 0.993 = 0.007$ |
-|  $1.006$ | $1.006 - 1 = 0.006$ |
-|  $1.1$   | $1.1 - 1 = 0.1$     |
-|  $0.94$  | $1 - 0.94 = 0.06$   |
-|  $0.99$  | $1 - 0.99 = 0.01$   |
-
-From the calculation above, the smallest difference is $0.006$.
-
-Number closest in value $= 1.006$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1.006$
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the difference between the number and $1$.
-
-| Number   |     Difference      |
-|:--------:|:-------------------:|
-|  $0.993$ | $1 - 0.993 = 0.007$ |
-|  $1.006$ | $1.006 - 1 = 0.006$ |
-|  $1.1$   | $1.1 - 1 = 0.1$     |
-|  $0.94$  | $1 - 0.94 = 0.06$   |
-|  $0.99$  | $1 - 0.99 = 0.01$   |
-
-From the calculation above, the smallest difference is $0.006$.
-
-Number closest in value $= 1.006$
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -222,48 +341,299 @@ Number closest in value $= 1.006$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1.006$
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+423 + 237 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   4   &   2   &   3 \\
+{}+ &   2   &   3   &   7 \\
+\hline\
+    &   6   &   6   &   0 \\
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$660$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+    &   4   &   2   &   3 \\
+{}+ &   2   &   3   &   7 \\
+\hline\
+    &   6   &   6   &   0 \\
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$660$
 </code></pre>
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+354 - 97  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   3   &   5   &   4 \\
+{}- &       &   9   &   7 \\
+\hline\
+    &   2   &   5   &   7 \\
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$257$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+    &   3   &   5   &   4 \\
+{}- &       &   9   &   7 \\
+\hline\
+    &   2   &   5   &   7 \\
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$257$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$67
+\times 73$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+            &        &   6   &  
+            7\\
+            & \times &   7   &   3 \\
+\hline
+            &        2   &   0   &   1 \\
+ 4          &   6    &   9   &   0 \\
+\hline
+ 4          &   8    &   9   &   1
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4891$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{cccccccccccccc}
+            &        &   6   &  
+            7\\
+            & \times &   7   &   3 \\
+\hline
+            &        2   &   0   &   1 \\
+ 4          &   6    &   9   &   0 \\
+\hline
+ 4          &   8    &   9   &   1
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4891$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$4122 \div 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  4122 \div 6 \\\\
+&=  \dfrac{4122}{6} \\\\
+&=  \dfrac{6 \times 687}{{6}} \\\\
+&=  \dfrac{\cancel 6 \times 687}{\cancel6} \\\\
+&=  687
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$687$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&=  4122 \div 6 \\\\
+&=  \dfrac{4122}{6} \\\\
+&=  \dfrac{6 \times 687}{{6}} \\\\
+&=  \dfrac{\cancel 6 \times 687}{\cancel6} \\\\
+&=  687
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$687$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt c: Delete the leftmost & from the whole array. that is why the alignment is incorrect.
+
+
+
+
+
+c: * should be next to 7 as per coding guidelines, look at other detailed multiplications.
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='81E9148A-2F48-4754-A14C-C49051FB1236' id='FORM-81E9148A-2F48-4754-A14C-C49051FB1236' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' id='FORM-9918B00D-75CB-41DB-93FD-465940FFC114' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-81E9148A-2F48-4754-A14C-C49051FB1236'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-9918B00D-75CB-41DB-93FD-465940FFC114'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-blocked"
 title: "TopicPaper - Areaperimeter - 5 - BLOCKED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -396,119 +396,6 @@ $</code></pre>
 </div>
 </li>
 </ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prns question'>
-<div class='uuid'>
-<p>F1B80E8B-8F3D-4D7C-B004-64E862ADAB50</p>
-</div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:23</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the perimeter of the compound shape.
-
-![missing image](/papers/missing_image.svg)
-
-
-- $92 \ \text{cm}$
-- $52 \ \text{cm}$
-- $36 \ \text{cm}$
-- $25 \ \text{cm}$
-- $30 \ \text{cm}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-APTQ,
-
-$
-\begin{aligned}
-\text{Perimeter is the total distance around the outside of a shape} \\\\
-\text{The missing vertical side plus } \  4 \  \text{cm} \ \ \text{must equal} \  10 \  \text{cm} \ \ \text{The missing vertical side is} \  6 \  \text{cm}   \\\\
-\text{The missing  horizontal side plus } \  3 \  \text{cm} \ \ \text{must equal} \  8 \  \text{cm} \ \ \text{The missing  horizontall side is} \  5 \  \text{cm}   \\\\
-\text{We find the perimeter by adding the outside edges of our shape} \\\\
-8  \ \text{cm} + 10 \ \text{cm} &= 18 \ \text{cm} \\\\
-3  \ \text{cm} + 4 \ \text{cm} &= 7 \ \text{cm} \\\\
-\text{We can add these four sides to make} \  25 \  \text{cm} \\\\
-\text{We add the remaining two sides to} \  25 \  \text{cm} \\\\
-25  \ \text{cm} + 6 \ \text{cm} &= 31 \ \text{cm} \\\\
-31  \ \text{cm} + 5 \ \text{cm} &= 36 \ \text{cm} \\\\
-\text{The perimeter of this compound shape is }  \ 36 \  \text{cm} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>APTQ,
-
-$
-\begin{aligned}
-\text{Perimeter is the total distance around the outside of a shape} \\\\
-\text{The missing vertical side plus } \  4 \  \text{cm} \ \ \text{must equal} \  10 \  \text{cm} \ \ \text{The missing vertical side is} \  6 \  \text{cm}   \\\\
-\text{The missing  horizontal side plus } \  3 \  \text{cm} \ \ \text{must equal} \  8 \  \text{cm} \ \ \text{The missing  horizontall side is} \  5 \  \text{cm}   \\\\
-\text{We find the perimeter by adding the outside edges of our shape} \\\\
-8  \ \text{cm} + 10 \ \text{cm} &= 18 \ \text{cm} \\\\
-3  \ \text{cm} + 4 \ \text{cm} &= 7 \ \text{cm} \\\\
-\text{We can add these four sides to make} \  25 \  \text{cm} \\\\
-\text{We add the remaining two sides to} \  25 \  \text{cm} \\\\
-25  \ \text{cm} + 6 \ \text{cm} &= 31 \ \text{cm} \\\\
-31  \ \text{cm} + 5 \ \text{cm} &= 36 \ \text{cm} \\\\
-\text{The perimeter of this compound shape is }  \ 36 \  \text{cm} \\\\
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>C</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$36$
-</code></pre>
-</div>
-</div>
-
 
 </div>
 </li>

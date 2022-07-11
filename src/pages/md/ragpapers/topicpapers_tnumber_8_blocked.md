@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-blocked"
 title: "TopicPaper - Number - 8 - BLOCKED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>AC854B93-AB29-484A-A714-B3FAAEEFAC01</p>
+<p>E139F769-4D91-44F2-B824-EAE49083E0C7</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:13</p>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -26,11 +26,19 @@ date: 2022-07-09 18:06:37
 <li>
 tnumber
 </li>
+<li>
+tpower
+</li>
+<li>
+tsequence
+</li>
 </ul>
 </div>
 <div class='question question'>
 
-%empty%
+Here is a start of a number pattern:
+
+$28 \quad 25 \quad 22 \quad 19 \quad 16 \quad 13 \quad 10 \quad \ldots \quad \ldots$
 
 </div>
 <div class='workings'>
@@ -71,27 +79,27 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Explain why $91$ is not a prime number.
+From the numbers in the list above, write down:
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\text {Since 91 has more than two factors, i.e 1, 7, 13, 91, it is not a prime number}$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Since 91 has more than two factors, i.e 1, 7, 13, 91, it is not a prime number}$
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Since 91 has more than two factors, i.e 1, 7, 13, 91, it is not a prime number}$
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -103,7 +111,275 @@ $\text {Since 91 has more than two factors, i.e 1, 7, 13, 91, it is not a prime 
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Since 91 has more than two factors, i.e 1, 7, 13, 91, it is not a prime number}$
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+an even number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$28$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$28$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$28$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+the product of $2$ and $11$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2 \times 11 \\\\
+&= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 2 \times 11 \\\\
+&= 22
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$22$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+a prime number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$19$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$19$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$19$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+a square number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$25$
+
+</div>
+</div>
+
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$25$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the next two numbers in the pattern.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by subtracting $3$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
+28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 10 - 3 \\\\
+                                  &= 7 \\\\
+\text{Second missing number}      &= 7 - 3 \\\\
+                                  &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7, \ 4$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
+
+The next term is calculated by subtracting $3$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\rtq_katex_color_info {(-3)} } 
+&&  \footnotesize {\rtq_katex_color_info {(-3)} }  
+&&  \footnotesize {\rtq_katex_color_info {(-3)} }   
+&&  \footnotesize {\rtq_katex_color_info {(-3)} }   
+&&  \footnotesize {\rtq_katex_color_info {(-3)} }
+&&  \footnotesize {\rtq_katex_color_info {(-3)} }
+&&  \footnotesize {\rtq_katex_color_info {(-3)} }
+&&  \footnotesize {\rtq_katex_color_info {(-3)} }  \\
+28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 10 - 3 \\\\
+                                  &= 7 \\\\
+\text{Second missing number}      &= 7 - 3 \\\\
+                                  &= 4
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7, \ 4$
 </code></pre>
 </div>
 </div>
@@ -114,27 +390,27 @@ $\text {Since 91 has more than two factors, i.e 1, 7, 13, 91, it is not a prime 
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the $7 \text{th}$ prime number?
+If you carry on the pattern, which will be the first number below zero?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$17$
+$-2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$17$
+$-2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$17$
+<pre class='language-latex'><code class='language-latex'>$-2$
 </code></pre>
 </div>
 </div>
@@ -146,7 +422,7 @@ $17$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$17$
+<pre class='language-latex'><code class='language-latex'>$-2$
 </code></pre>
 </div>
 </div>
@@ -160,10 +436,10 @@ $17$
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>AC3AC204-80D4-4019-BF9B-79C535481A56</p>
+<p>6F9E845A-08BB-4FC9-9F77-A071F6D82B70</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:1:17</p>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -183,7 +459,89 @@ tnumber
 </div>
 <div class='question question'>
 
-You are told that $22 \times 46 = 1012$. Use this fact to write down the answers to: 
+Find three prime numbers that add up to $30$.  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question
+
+$
+\begin{aligned}
+&= 23 + 5 + 2 \\\\
+&= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23, 5, 2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question
+
+$
+\begin{aligned}
+&= 23 + 5 + 2 \\\\
+&= 30
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$23, 5, 2$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>1EA0EDB9-277D-4979-AC2C-B24FE106F900</p>
+</div>
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:22</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This calculation is correct: $396 \times 279 = 110484$
+
+Use this result to answer these questions: 
 
 </div>
 <div class='workings'>
@@ -224,7 +582,7 @@ You are told that $22 \times 46 = 1012$. Use this fact to write down the answers
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$220 \times 46$ 
+$3.96 \times 2.79$
 
 </div>
 <div class='workings'>
@@ -232,9 +590,9 @@ $220 \times 46$
 
 $
 \begin{aligned}
-22 \times 46           &= 1012 \\\\
-22 \times 10 \times 46 &= 1012 \times 10 \\\\
-220 \times 46          &= 10120
+396 \times 279                               &= 110484 \\\\
+\dfrac {396} {100} \times \dfrac {279} {100} &= \dfrac {110484} {10000} \\\\
+3.96 \times 2.79                             &= 11.0484
 \end{aligned}
 $
 
@@ -243,7 +601,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$10120$
+$11.0484$
 
 </div>
 </div>
@@ -252,9 +610,9 @@ $10120$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-22 \times 46           &= 1012 \\\\
-22 \times 10 \times 46 &= 1012 \times 10 \\\\
-220 \times 46          &= 10120
+396 \times 279                               &= 110484 \\\\
+\dfrac {396} {100} \times \dfrac {279} {100} &= \dfrac {110484} {10000} \\\\
+3.96 \times 2.79                             &= 11.0484
 \end{aligned}
 $
 </code></pre>
@@ -268,7 +626,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10120$
+<pre class='language-latex'><code class='language-latex'>$11.0484$
 </code></pre>
 </div>
 </div>
@@ -279,7 +637,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$2.2  \times 0.46$
+$110484 \div 279$
 
 </div>
 <div class='workings'>
@@ -287,9 +645,10 @@ $2.2  \times 0.46$
 
 $
 \begin{aligned}
-22 \times 46                              &= 1012 \\\\
-\dfrac {22} {10} \times \dfrac {46} {100} &= \dfrac {1012} {1000} \\\\
-2.2 \times 4.6                            &= 1.012
+396 \times 279        &= 110484 \\\\
+396                   &= \dfrac {110484} {279} \\\\
+\dfrac {110484} {279} &= 396 \\\\
+110484 \div 279       &= 396
 \end{aligned}
 $
 
@@ -298,7 +657,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1.012$
+$396$
 
 </div>
 </div>
@@ -307,9 +666,10 @@ $1.012$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-22 \times 46                              &= 1012 \\\\
-\dfrac {22} {10} \times \dfrac {46} {100} &= \dfrac {1012} {1000} \\\\
-2.2 \times 4.6                            &= 1.012
+396 \times 279        &= 110484 \\\\
+396                   &= \dfrac {110484} {279} \\\\
+\dfrac {110484} {279} &= 396 \\\\
+110484 \div 279       &= 396
 \end{aligned}
 $
 </code></pre>
@@ -323,7 +683,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1.012$
+<pre class='language-latex'><code class='language-latex'>$396$
 </code></pre>
 </div>
 </div>
@@ -334,7 +694,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$22{,}000{,}000  \times  0.046$ 
+$1104.84 \div 2.79$
 
 </div>
 <div class='workings'>
@@ -342,9 +702,12 @@ $22{,}000{,}000  \times  0.046$
 
 $
 \begin{aligned}
-22 \times 46                         &= 1012 \\\\
-22 \times 1000000 \times {46} {1000} &= 1012 \times 1000 \\\\
-22000000 \times 0.046                &= 1012000
+396 \times 279                                &= 110484 \\\\
+396                                           &= \dfrac {110484} {279} \\\\
+\dfrac {110484} {279}                         &= 396 \\\\
+110484 \div 279                               &= 396 \\\\
+\dfrac {110484} {100} \div \dfrac {279} {100} &= \dfrac {396} {100} \\\\
+1104.84 \div 2.79                             &= 3.96
 \end{aligned}
 $
 
@@ -353,7 +716,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1012000$
+$3.96$
 
 </div>
 </div>
@@ -362,9 +725,12 @@ $1012000$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-22 \times 46                         &= 1012 \\\\
-22 \times 1000000 \times {46} {1000} &= 1012 \times 1000 \\\\
-22000000 \times 0.046                &= 1012000
+396 \times 279                                &= 110484 \\\\
+396                                           &= \dfrac {110484} {279} \\\\
+\dfrac {110484} {279}                         &= 396 \\\\
+110484 \div 279                               &= 396 \\\\
+\dfrac {110484} {100} \div \dfrac {279} {100} &= \dfrac {396} {100} \\\\
+1104.84 \div 2.79                             &= 3.96
 \end{aligned}
 $
 </code></pre>
@@ -378,7 +744,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1012000$
+<pre class='language-latex'><code class='language-latex'>$3.96$
 </code></pre>
 </div>
 </div>
@@ -389,7 +755,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$101{,}200  \div  4.6$ 
+$1104.84 \div 396$
 
 </div>
 <div class='workings'>
@@ -397,13 +763,12 @@ $101{,}200  \div  4.6$
 
 $
 \begin{aligned}
-22 \times 46               &= 1012 \\\\
-22 \times \dfrac {46} {10} &= \dfrac {1012} {10} \\\\
-22 \times 4.6              &= 101.2 \\\\
-22 \times 1000 \times 4.6  &= 101.2 \times 1000 \\\\
-101.2 \times 1000          &= 22 \times 1000 \times 4.6 \\\\
-\dfrac {101200} {4.6}      &= 22000 \\\\
-101200 \div 4.6            &= 22000
+396 \times 279                &= 110484 \\\\
+\dfrac {396 \times 279} {100} &= \dfrac {110484} {100} \\\\
+\dfrac {396 \times 279} {100} &= 1104.84 \\\\
+\dfrac {279} {100}            &= \dfrac {1104.84} {396} \\\\
+\dfrac {1104.84} {396}        &= \dfrac {279} {100} \\\\
+1104.84 \div 396              &= 2.79
 \end{aligned}
 $
 
@@ -412,7 +777,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$22000$
+$2.79$
 
 </div>
 </div>
@@ -421,13 +786,12 @@ $22000$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-22 \times 46               &= 1012 \\\\
-22 \times \dfrac {46} {10} &= \dfrac {1012} {10} \\\\
-22 \times 4.6              &= 101.2 \\\\
-22 \times 1000 \times 4.6  &= 101.2 \times 1000 \\\\
-101.2 \times 1000          &= 22 \times 1000 \times 4.6 \\\\
-\dfrac {101200} {4.6}      &= 22000 \\\\
-101200 \div 4.6            &= 22000
+396 \times 279                &= 110484 \\\\
+\dfrac {396 \times 279} {100} &= \dfrac {110484} {100} \\\\
+\dfrac {396 \times 279} {100} &= 1104.84 \\\\
+\dfrac {279} {100}            &= \dfrac {1104.84} {396} \\\\
+\dfrac {1104.84} {396}        &= \dfrac {279} {100} \\\\
+1104.84 \div 396              &= 2.79
 \end{aligned}
 $
 </code></pre>
@@ -441,66 +805,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$22000$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$44  \times 23$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-22 \times 46                                           &= 1012 \\\\
-22 \times 2 \times \dfrac {46} {2}                     &= 1012 \\\\
-44 \times \dfrac {23 \times 2} {2}                     &= 1012 \\\\
-44 \times \dfrac {23 \times \cancel {2}} {\cancel {2}} &= 1012 \\\\
-44 \times 23                                           &= 1012
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1012$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-22 \times 46                                           &= 1012 \\\\
-22 \times 2 \times \dfrac {46} {2}                     &= 1012 \\\\
-44 \times \dfrac {23 \times 2} {2}                     &= 1012 \\\\
-44 \times \dfrac {23 \times \cancel {2}} {\cancel {2}} &= 1012 \\\\
-44 \times 23                                           &= 1012
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1012$
+<pre class='language-latex'><code class='language-latex'>$2.79$
 </code></pre>
 </div>
 </div>
@@ -514,10 +819,10 @@ $
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>78CECFB3-9153-42DC-8BA2-8610EB45BC1A</p>
+<p>6EFFBA2C-28FA-44ED-B737-5420543F31C9</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:1:4</p>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -537,27 +842,27 @@ tnumber
 </div>
 <div class='question question'>
 
-%empty% 
+%empty%
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+empty
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+empty
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>empty
 </code></pre>
 </div>
 </div>
@@ -569,7 +874,7 @@ tnumber
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>empty
 </code></pre>
 </div>
 </div>
@@ -578,15 +883,7 @@ tnumber
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-%waffles%
-
-Insert the digits 1 to 5 to make this sum correct (use each digit only once).
-
-….
-
-…. ….
-
-$\dfrac{+\:\:\: ….\:\:\: ….}{6\:\:\:\:0}$
+Work out $273 \times 23$.
 
 </div>
 <div class='workings'>
@@ -594,11 +891,13 @@ $\dfrac{+\:\:\: ….\:\:\: ….}{6\:\:\:\:0}$
 
 $
 \begin{array}{cccccccccccccc}
-    &       &   5 \\
-    &   3   &   4 \\
-{}+ &   2   &   1 \\
+       &   2      &   7     &     3 \\
+\times &          &   2     &     3 \\
 \hline
-    &   6   &   0
+       &   8      &   1     &     9 \\
+   5   &   4      &   6     &     0 \\
+\hline
+   6   &   2      &   7     &     9
 \end{array}
 $
 
@@ -607,7 +906,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5, \ 4, \ 1, \ 3, \ 2$
+$6279$
 
 </div>
 </div>
@@ -616,11 +915,13 @@ $5, \ 4, \ 1, \ 3, \ 2$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{cccccccccccccc}
-    &       &   5 \\
-    &   3   &   4 \\
-{}+ &   2   &   1 \\
+       &   2      &   7     &     3 \\
+\times &          &   2     &     3 \\
 \hline
-    &   6   &   0
+       &   8      &   1     &     9 \\
+   5   &   4      &   6     &     0 \\
+\hline
+   6   &   2      &   7     &     9
 \end{array}
 $
 </code></pre>
@@ -634,7 +935,275 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5, \ 4, \ 1, \ 3, \ 2$
+<pre class='language-latex'><code class='language-latex'>$6279$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out $595 \div 17$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 595 \div 17 \\\\
+&= \dfrac {595} {17} \\\\
+&= \dfrac {35 \times 17} {17} \\\\
+&= \dfrac {35 \times \cancel{17}} {\cancel{17}} \\\\
+&= 35
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= 595 \div 17 \\\\
+&= \dfrac {595} {17} \\\\
+&= \dfrac {35 \times 17} {17} \\\\
+&= \dfrac {35 \times \cancel{17}} {\cancel{17}} \\\\
+&= 35
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$35$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down two multiples of $2001$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4002, 6003$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4002, 6003$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$4002, 6003$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4002, 6003$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down two factors of $2001$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1, 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1, 3$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$1, 3$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1, 3$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the cost of $31 \ \text{litres}$ of petrol at $81 \text{p}$ per litre.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 31 \times 81 \\\\
+&= 2511 \ \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2511 \text {p}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 31 \times 81 \\\\
+&= 2511 \ \text{p}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2511 \text {p}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In a ‘third off’ sale a bike is sold for $\pounds 114$.
+How much would it have sold for before the sale?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original price (in $\pounds$) $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {3} \ \text{of} \ a      &= 114 \\\\
+\dfrac {1} {3} \times a             &= 114 \\\\
+a                                   &= 114 \times 3 \\\\
+a                                   &= \pounds 342
+\end{aligned}
+$
+
+Original price $= \pounds 342$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 342$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the original price (in $\pounds$) $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {3} \ \text{of} \ a      &= 114 \\\\
+\dfrac {1} {3} \times a             &= 114 \\\\
+a                                   &= 114 \times 3 \\\\
+a                                   &= \pounds 342
+\end{aligned}
+$
+
+Original price $= \pounds 342$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 342$
 </code></pre>
 </div>
 </div>
@@ -648,10 +1217,10 @@ $
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>00C83C65-B936-44F3-99CB-A05AB103EFC5</p>
+<p>086D94CB-886E-4ACA-8DCD-B35E5C030E87</p>
 </div>
 <div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3:1:2</p>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:5</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -671,27 +1240,37 @@ tnumber
 </div>
 <div class='question question'>
 
-Calculate each of the following 
+What is the value of the $6$ in the decimal $0.264$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+
+|  Units | Decimal | Tenths    | Hundredths | Thousandths |
+|:------:|:-------:|:---------:|:----------:|:-----------:|
+| $0$    | .       | $2$       | $6$        | $4$         |
+
+the value of the $6$ in the decimal $0.264$ is Hundredths place
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+Hundredths
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>
+|  Units | Decimal | Tenths    | Hundredths | Thousandths |
+|:------:|:-------:|:---------:|:----------:|:-----------:|
+| $0$    | .       | $2$       | $6$        | $4$         |
+
+the value of the $6$ in the decimal $0.264$ is Hundredths place
 </code></pre>
 </div>
 </div>
@@ -703,486 +1282,7 @@ Calculate each of the following
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$-17 \times - 0.6$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &        &   1       &   7 \\
-\times      &        &   0   .   &   6 \\
-\hline
-            &   1    &   0   .   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13.6$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-            &        &   1       &   7 \\
-\times      &        &   0   .   &   6 \\
-\hline
-            &   1    &   0   .   &   2
-\end{array}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$13.6$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$(9 -  8 \times 0.25) + 1.5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= (9 -  8 \times 0.25) + 1.5 \\\\
-&= (9 - 2) + 1.5 \\\\
-&= 7 + 1.5 \\\
-&= 8.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8.5$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= (9 -  8 \times 0.25) + 1.5 \\\\
-&= (9 - 2) + 1.5 \\\\
-&= 7 + 1.5 \\\
-&= 8.5
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8.5$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$1 -  (1 -  (1 -  2))$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 1 - (1 - (-1)) \\\\
-&= 1 - (1 + 1) \\\\
-&= 1 - 2 \\\\
-&= -1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-1$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 1 - (1 - (-1)) \\\\
-&= 1 - (1 + 1) \\\\
-&= 1 - 2 \\\\
-&= -1
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-1$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prns question'>
-<div class='uuid'>
-<p>FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4:1:10</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$356241$ is a number which contains the digits from one to six, each appearing once, with no other digits. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What is the smallest and largest number with this same property?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Smallest $= 123456$
-
-Largest $= 654321$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$123456, \ 654321$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Smallest $= 123456$
-
-Largest $= 654321$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$123456, \ 654321$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many odd numbers greater than $300000$ exist with this same property?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$240$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$240$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$240$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$240$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many numbers with this same property are divisible by $3$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$6!$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6!$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$6!$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6!$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prns question'>
-<div class='uuid'>
-<p>49A4C1C8-A26A-4008-B8AD-ED8A462A2B09</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:8</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When three consecutive odd numbers are multiplied together, the result is $9177$.
-
-What is the sum of the numbers? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the first number be a, so consecutive odd numbers will be a + 2 and a + 4
-
-$
-\begin{aligned}
-a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
-a                                                           &= \sqrt[3]{9177} \\\\
-a                                                           &= 21 \, \text{approx.} \\\\
-\end{aligned}
-$
-
-|    Numbers     |  Product  |
-|----------------|-----------|
-| $17, 19, 21$   |  $6783$   |
-| $19, 21, 23$   |  $9177$   |
-| $21, 23, 25$   |  $12075$  |
-
-So the numbers are $= 19 , 21 , 23$
-
-Sum of these numbers are $= 19 + 21 + 23 = 63$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$63$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the first number be a, so consecutive odd numbers will be a + 2 and a + 4
-
-$
-\begin{aligned}
-a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
-a                                                           &= \sqrt[3]{9177} \\\\
-a                                                           &= 21 \, \text{approx.} \\\\
-\end{aligned}
-$
-
-|    Numbers     |  Product  |
-|----------------|-----------|
-| $17, 19, 21$   |  $6783$   |
-| $19, 21, 23$   |  $9177$   |
-| $21, 23, 25$   |  $12075$  |
-
-So the numbers are $= 19 , 21 , 23$
-
-Sum of these numbers are $= 19 + 21 + 23 = 63$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$63$
+<pre class='language-latex'><code class='language-latex'>Hundredths
 </code></pre>
 </div>
 </div>

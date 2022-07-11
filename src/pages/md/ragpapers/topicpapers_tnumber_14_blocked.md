@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-blocked"
 title: "TopicPaper - Number - 14 - BLOCKED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>DDFEFC66-AB76-4490-8FB7-6CEDD4FA9965</p>
+<p>FE1B2DF4-1F07-4D2B-8602-80AF787DCBA7</p>
 </div>
 <div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:5</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -30,10 +30,73 @@ tnumber
 </div>
 <div class='question question'>
 
-Complete the boxes with $+, -, \times, \div$ to make the statements correct. 
-The first one has  been done for you as an example.
+Write down all the numbers  **smaller**  than 90 which are multiples of both 6 **and** 9. 
 
-$8 \quad \boxed{\times} \quad 3 = 28 \quad \boxed{-} \quad 4$
+</div>
+<div class='workings'>
+<div class='working'>
+
+$18, 36, 54, 72$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18, 36, 54, 72$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$18, 36, 54, 72$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18, 36, 54, 72$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>143C7006-44B5-49D4-BF75-6AB0ECEAF105</p>
+</div>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down 
 
 </div>
 <div class='workings'>
@@ -74,31 +137,27 @@ $8 \quad \boxed{\times} \quad 3 = 28 \quad \boxed{-} \quad 4$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$21 \quad \boxed{ \phantom{-} } \quad 3 = 5 \quad \boxed{ \phantom{-} } \quad 2$
+all the factors of $24$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-21 \quad \boxed{\div} \quad = 4 \quad \boxed{+} \quad 2
-$
+$1, 2, 3, 4, 6, 8, 12, 24$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\div, +$
+$1, 2, 3, 4, 6, 8, 12, 24$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-21 \quad \boxed{\div} \quad = 4 \quad \boxed{+} \quad 2
-$
+<pre class='language-latex'><code class='language-latex'>$1, 2, 3, 4, 6, 8, 12, 24$
 </code></pre>
 </div>
 </div>
@@ -110,7 +169,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\div, +$
+<pre class='language-latex'><code class='language-latex'>$1, 2, 3, 4, 6, 8, 12, 24$
 </code></pre>
 </div>
 </div>
@@ -121,31 +180,27 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$18 \quad \boxed{ \phantom{-} } \quad  6 = 120 \quad \boxed{ \phantom{-} } \quad  12$
+the first $4$ multiples of $7$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-18 \quad \boxed{\times} 6 = 120 \quad \boxed{-} \quad 12
-$
+$7, 14 , 21, 28$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\times, -$
+$7, 14 , 21, 28$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-18 \quad \boxed{\times} 6 = 120 \quad \boxed{-} \quad 12
-$
+<pre class='language-latex'><code class='language-latex'>$7, 14 , 21, 28$
 </code></pre>
 </div>
 </div>
@@ -157,7 +212,93 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\times, -$
+<pre class='language-latex'><code class='language-latex'>$7, 14 , 21, 28$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+the $\text{third square number}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$9$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+the $\text{fifth}$ prime number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$11$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$11$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$11$
 </code></pre>
 </div>
 </div>
@@ -171,10 +312,10 @@ $
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>8089705E-50AA-40D2-9513-A70C93DC8C55</p>
+<p>2FB7FD94-DCE7-416B-94DB-D40514D8544D</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:23</p>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -191,44 +332,52 @@ $
 tnumber
 </li>
 <li>
-tnoexplanation
+tmoney
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-
-Here are four cards which you can use to make numbers:
-
-$
-\boxed{\huge { \text{ 1 }}} \quad
-\boxed{\huge { \text{ 2 }}} \quad
-\boxed{\huge { \text{ 3 }}} \quad
-\boxed{\huge { \text{ 4 }}}
-$
-
-Write down all the possible $4$-digit even numbers you can make which are greater than $3000$.
-Write your answers from smallest to biggest.
+$\pounds 1.28 + 57 \text{p}$ 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$3124, \ 3142, \ 3214, \ 3412$
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+$
+\begin{array}{cccccccccccccc}
+&= \pounds1.28 - 57 \text{p} \\\
+&= 128 \text{p} + 57 \text{p} \\\
+&= 185 \text{p} \\\
+&= \pounds 1.85
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3124, \ 3142, \ 3214, \ 3412$
+$\pounds 0.72$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$3124, \ 3142, \ 3214, \ 3412$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
+
+$
+\begin{array}{cccccccccccccc}
+&= \pounds1.28 - 57 \text{p} \\\
+&= 128 \text{p} + 57 \text{p} \\\
+&= 185 \text{p} \\\
+&= \pounds 1.85
+\end{array}
+$
 </code></pre>
 </div>
 </div>
@@ -240,7 +389,7 @@ $3124, \ 3142, \ 3214, \ 3412$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3124, \ 3142, \ 3214, \ 3412$
+<pre class='language-latex'><code class='language-latex'>$\pounds 0.72$
 </code></pre>
 </div>
 </div>
@@ -249,12 +398,12 @@ $3124, \ 3142, \ 3214, \ 3412$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
-<p>91ED3A8C-B829-405F-8BFA-E46567724624</p>
+<p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:11</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -263,7 +412,7 @@ $3124, \ 3142, \ 3214, \ 3412$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -274,37 +423,51 @@ tnumber
 </div>
 <div class='question question'>
 
-Select $3$ cards from the set below which show the same value.
-
-$
-\boxed { \phantom{\dfrac{1}{5}} 20 \%        \phantom{\dfrac{1}{5}} }  \quad 
-\boxed { \phantom{\dfrac{1}{5}} \dfrac{1}{5} \phantom{\dfrac{1}{5}} }   \quad 
-\boxed { \phantom{\dfrac{1}{5}} \dfrac{4}{5} \phantom{\dfrac{1}{5}} }   \quad 
-\boxed { \phantom{\dfrac{1}{5}} 0.5          \phantom{\dfrac{1}{5}} }   \quad
-\boxed { \phantom{\dfrac{1}{5}} 80 \%        \phantom{\dfrac{1}{5}} }   \quad
-\boxed { \phantom{\dfrac{1}{5}} 50 \%        \phantom{\dfrac{1}{5}} }   \quad
-\boxed { \phantom{\dfrac{1}{5}} 0.8 \phantom{\dfrac{1}{5}} }
-$
+Write the three prime numbers which multiply to make $231$:
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\dfrac{4} {5}, 80\%, 0.8$
+Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
+
+As the unit digit has $1$, we can rule out $2$ and $5$ .
+
+Let's try $3$, $7$ and $11$.
+
+$
+\begin{aligned}
+&= 3 \times 7 \times 11 \\\\
+&= 21 \times 11 \\\\
+&= 231
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{4} {5}, 80\%, 0.8$
+$3, 7, 11$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac{4} {5}, 80\%, 0.8$
+<pre class='language-latex'><code class='language-latex'>Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
+
+As the unit digit has $1$, we can rule out $2$ and $5$ .
+
+Let's try $3$, $7$ and $11$.
+
+$
+\begin{aligned}
+&= 3 \times 7 \times 11 \\\\
+&= 21 \times 11 \\\\
+&= 231
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -316,7 +479,7 @@ $\dfrac{4} {5}, 80\%, 0.8$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{4} {5}, 80\%, 0.8$
+<pre class='language-latex'><code class='language-latex'>$3, 7, 11$
 </code></pre>
 </div>
 </div>

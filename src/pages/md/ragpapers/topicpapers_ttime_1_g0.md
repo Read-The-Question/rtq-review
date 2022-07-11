@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g0"
 title: "TopicPaper - Time - 1 - G0"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -541,7 +541,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6A8BB9E0-C32A-4D55-898F-18D887FEB7F8</p>
 </div>
@@ -555,7 +555,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -574,7 +574,7 @@ My journey to school generally takes $40 \ \text{minutes}$. What time shall I le
 
 $
 \begin{aligned}
-\text{Time to leave}   &= 8{:}15 \ \text{am} - 40 \ \text{minutes} \\\\
+\text{Time to leave}   &= 8{:}15 - 40 \ \text{minutes} \\\\
                        &= 7{:}35 \ \text{am}
 \end{aligned}
 $
@@ -584,7 +584,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7{.}35 \ \text{a.m}$
+$7{:}35 \ \text{am}$
 
 </div>
 </div>
@@ -593,7 +593,7 @@ $7{.}35 \ \text{a.m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time to leave}   &= 8{:}15 \ \text{am} - 40 \ \text{minutes} \\\\
+\text{Time to leave}   &= 8{:}15 - 40 \ \text{minutes} \\\\
                        &= 7{:}35 \ \text{am}
 \end{aligned}
 $
@@ -608,7 +608,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7{.}35 \ \text{a.m}$
+<pre class='language-latex'><code class='language-latex'>$7{:}35 \ \text{am}$
 </code></pre>
 </div>
 </div>
@@ -669,7 +669,7 @@ replace . from :
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E16C4E97-F68B-47AE-9AB5-9D9CE481082D</p>
 </div>
@@ -683,7 +683,7 @@ replace . from :
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -705,7 +705,7 @@ How many seconds in $24$ hours?
 
 $
 \begin{aligned}
-&= 24 \ \text{hour} \\\\
+&= 24 \ \text{hours} \\\\
 &=  24 \times 60 \times 60 \ \text{seconds} \\\\
 &=  24 \times 3600 \\\\
 &= 86400 \ \text {seconds}
@@ -726,7 +726,7 @@ $86400  \ \text {seconds}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 24 \ \text{hour} \\\\
+&= 24 \ \text{hours} \\\\
 &=  24 \times 60 \times 60 \ \text{seconds} \\\\
 &=  24 \times 3600 \\\\
 &= 86400 \ \text {seconds}
@@ -798,7 +798,7 @@ replace \"hour\" with \"hours\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6758134C-A670-44FB-BDD8-5A6BEBD3402C</p>
 </div>
@@ -812,7 +812,7 @@ replace \"hour\" with \"hours\"
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -834,7 +834,7 @@ How many seconds in $12$ hours?
 
 $
 \begin{aligned}
-&=12 \ \text{hour} \\\\
+&=12 \ \text{hours} \\\\
 &= 12 \times 60 \times 60 \ \text {seconds} \\\\
 &= 12 \times 3600 \\\\
 &= 43200 \ \text {seconds}
@@ -855,7 +855,7 @@ $43200 \ \text {seconds}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=12 \ \text{hour} \\\\
+&=12 \ \text{hours} \\\\
 &= 12 \times 60 \times 60 \ \text {seconds} \\\\
 &= 12 \times 3600 \\\\
 &= 43200 \ \text {seconds}

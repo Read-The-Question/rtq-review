@@ -1,9 +1,462 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-notstarted"
 title: "TopicPaper - Ratio - 3 - NOTSTARTED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>B8B2E49B-8011-42BF-B6B2-E0E65544BF52</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:27</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It takes $5$ teachers $9 \ \text{hours}$ to mark a set of examination papers. 
+How long would it take for $12$ teachers to mark the same set of examination papers?
+
+- $3.75 \ \text{hours}$
+- $3.5 \ \text{hours}$
+- $21.6 \ \text{hours}$
+- $20.5 \ \text{hours}$
+- $4 \ \text{hours}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
+\text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
+\text{Now,} &=12 \times 1.8 \\\\
+&= 21.6 \ \text{hrs} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$21.6 \ \text{hrs}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
+\text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
+\text{Now,} &=12 \times 1.8 \\\\
+&= 21.6 \ \text{hrs} \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$21.6 \ \text{hrs}$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>2E210E66-DA3C-41A7-AEFA-6EE0F1A7883F</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:10</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $750 \ \text{grams}$ of pasta cost $90 \text{p}$ find the cost of $1 \ \text{kilogram}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
+
+$1 \ \text{kg} = 1000 \ \text{grams}$ 
+
+As per the question,
+
+$
+\begin{aligned}
+    750                                   & : 90 \text{p}                                                                     \\\\
+    \dfrac {750}{750}                     & : \dfrac {90}{750}                                                                \\\\
+    \dfrac {\cancel {750}}{\cancel {750}} & : \dfrac {9 \cancel 0}{75 \cancel 0}                                              \\\\
+    1                                     & : \dfrac {9}{75}                                                                  \\\\
+    1  \times 1000                        & : \dfrac {9}{75} \times 1000                                                      \\\\
+    1000                                  & : \dfrac {9 \times 1000}{75}                                                      \\\\
+    1000                                  & : \dfrac {3 \times 3 \times 25 \times 40} {3 \times 25}                           \\\\
+    1000                                  & : \dfrac {\cancel 3 \times \cancel {25} \times 40}{\cancel 3 \times \cancel {25}} \\\\
+    1000                                  & : 3 \times 40                                                                     \\\\
+    1000                                  & : 120 \text{p}                                                                    \\\\
+    1000 \ \text {gram}                   & : \pounds 1.20                                                                    
+\end{aligned}
+$
+
+$1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
+
+
+</div>
+<div class='working'>
+
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
+
+$1 \ \text{kg} = 1000 \ \text{grams}$ 
+
+This can be solved using ratios.
+
+$
+\begin{aligned}
+    750 \text{g}    & : 1000 \text{g}    \\\\
+    75 \text{g}     & : 100 \text{g}     \\\\
+    \dfrac {75}{25} & : \dfrac {100}{25} \\\\
+    3               & : 4                
+\end{aligned}
+$
+
+Let's take the cost of $1 \ \text{kg}$ = $a$ 
+
+$
+\begin{aligned}
+    \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
+    \dfrac {3}{4} & : \dfrac {3 \times 30}{4 \times 30} \\\\
+    \dfrac {3}{4} & : \dfrac {90}{120}                  \\\\
+\end{aligned}
+$
+
+$1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.20$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
+
+$1 \ \text{kg} = 1000 \ \text{grams}$ 
+
+As per the question,
+
+$
+\begin{aligned}
+    750                                   & : 90 \text{p}                                                                     \\\\
+    \dfrac {750}{750}                     & : \dfrac {90}{750}                                                                \\\\
+    \dfrac {\cancel {750}}{\cancel {750}} & : \dfrac {9 \cancel 0}{75 \cancel 0}                                              \\\\
+    1                                     & : \dfrac {9}{75}                                                                  \\\\
+    1  \times 1000                        & : \dfrac {9}{75} \times 1000                                                      \\\\
+    1000                                  & : \dfrac {9 \times 1000}{75}                                                      \\\\
+    1000                                  & : \dfrac {3 \times 3 \times 25 \times 40} {3 \times 25}                           \\\\
+    1000                                  & : \dfrac {\cancel 3 \times \cancel {25} \times 40}{\cancel 3 \times \cancel {25}} \\\\
+    1000                                  & : 3 \times 40                                                                     \\\\
+    1000                                  & : 120 \text{p}                                                                    \\\\
+    1000 \ \text {gram}                   & : \pounds 1.20                                                                    
+\end{aligned}
+$
+
+$1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
+
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+rtq_abbr_md_unit_note
+The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
+
+$1 \ \text{kg} = 1000 \ \text{grams}$ 
+
+This can be solved using ratios.
+
+$
+\begin{aligned}
+    750 \text{g}    & : 1000 \text{g}    \\\\
+    75 \text{g}     & : 100 \text{g}     \\\\
+    \dfrac {75}{25} & : \dfrac {100}{25} \\\\
+    3               & : 4                
+\end{aligned}
+$
+
+Let's take the cost of $1 \ \text{kg}$ = $a$ 
+
+$
+\begin{aligned}
+    \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
+    \dfrac {3}{4} & : \dfrac {3 \times 30}{4 \times 30} \\\\
+    \dfrac {3}{4} & : \dfrac {90}{120}                  \\\\
+\end{aligned}
+$
+
+$1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1.20$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>97436615-6898-4B56-86C1-EED30973F623</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:6</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The drink "Raspberry Heaven" is $1$ part raspberry juice, $2$ parts orange juice and $3$ parts apple juice. 
+How much raspberry juice does a $300 \ \text{ml}$ glass of Raspberry Heaven contain?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>9777149C-D9F9-44DB-9A03-FA447A5348FA</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:8</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $7$ tennis lessons cost $\pounds 167.65$ what is the cost of $1$ lesson?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question
+
+$
+\begin{aligned}
+\text{Cost of 1 lesson} &= \dfrac {167.65} {7} \\\\
+                        &= \dfrac {23.95 \times 7} {7} \\\\
+                        &= \dfrac {23.95 \times \cancel {7} } {\cancel {7} } \\\\
+                        &= \pounds 23.95
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds23.95$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the question
+
+$
+\begin{aligned}
+\text{Cost of 1 lesson} &= \dfrac {167.65} {7} \\\\
+                        &= \dfrac {23.95 \times 7} {7} \\\\
+                        &= \dfrac {23.95 \times \cancel {7} } {\cancel {7} } \\\\
+                        &= \pounds 23.95
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds23.95$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -302,6 +755,100 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>9A2A7579-2562-46BD-8466-B4BBD799EF81</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:25</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An aircraft takes off from London Heathrow with $120000 \ \text{litres}$ of fuel on board. 
+It flies at an average speed of $800 \ \text{kilometres}$ per hour and uses fuel at a rate of $10 \ \text{litres}$ per kilometre.
+
+How much fuel is left in the tank when it lands in Miami $9 \ \text{hours}$ later?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
 
 </div>
 </li>
@@ -1739,6 +2286,102 @@ $
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>26A1F77E-A724-4868-9E86-DF9259F3FCC2</p>
+</div>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:14</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One Aardvark weighs the same as $20$ Squirrels.
+
+One Tapir weighs the same as $4$ Aardvarks.
+
+How many Squirrels weigh the same as $3$ Tapirs?
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
 
 </div>
 </li>
@@ -3465,6 +4108,78 @@ $
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
+<p>77F62AEF-602C-4E6C-8EBE-202B89E04308</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:44</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the same time that Tom can run $100 \ \text{metres}$, Jerry can run only $60 \ \text{metres}$.
+
+Tom and Jerry have a competition.
+
+When Jerry has run $100 \ \text{metres}$, Tom sets off in pursuit.
+
+How many metres will Tom run before he catches Jerry?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
 <p>9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288</p>
 </div>
 <div class='papername'>
@@ -3676,1198 +4391,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$121$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>E96F9980-E746-44A5-BF5E-740293EF65A9</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:5</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A festival in Platt Fields attracted a huge crowd and all the people attending brought food with them to share out. Some people brought bread with them, others brought fish while the remainder brought fruit in the form of apples.
-
-Everyone agreed that they would share their food with each other according to the following rules.
-
-Two loaves of bread could be swapped for one fish and one loaf could be swapped for three apples.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's take Loaves as $l$, fish as $f$ and apples as $a$
-
-$
-\begin{aligned}
-2l &= 1f \\\\
-1l &= 3a \text { \ \ so,} \\\\
-1f &= 2 \ l  \\\\
-      &= 2 (3a) \\\\
-      &= 6a \\\\
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's take Loaves as $l$, fish as $f$ and apples as $a$
-
-$
-\begin{aligned}
-2l &= 1f \\\\
-1l &= 3a \text { \ \ so,} \\\\
-1f &= 2 \ l  \\\\
-      &= 2 (3a) \\\\
-      &= 6a \\\\
-\end{aligned}
-$
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Oliver brought two fish and firstly swapped them for loaves of bread. Then he decided to change the loaves for apples.
-
-How many apples did he get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
-2f &= 2 \times 2l \\\\
-4l &= 4 \times 3a \\\\
-   &= 12a \\\\
-\end{aligned}
-$
-
-Oliver has $12$ apples.
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$ apples
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-$
-\begin{aligned}
-2f &= 2 \times 2l \\\\
-4l &= 4 \times 3a \\\\
-   &= 12a \\\\
-\end{aligned}
-$
-
-Oliver has $12$ apples.
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$12$ apples
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many loaves could Irfan have for three fish and twelve apples?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
- 3f &= 3 \times 2l \\\\
-    &= 6l \\\\
-12a &= 12 \div 3l \\\\
-12a &= 4l \\\\
-\end{aligned}
-$
-
-
-
-Irfan bought $3f + 12a$. Now let's substitute,
-
-$
-\begin{aligned}
-&= 6l + 4l \\\\
-&= 10l \\\\
-\end{aligned}
-$
-
-Irfan had $10$ loaves of bread.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10$ loaves
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-$
-\begin{aligned}
- 3f &= 3 \times 2l \\\\
-    &= 6l \\\\
-12a &= 12 \div 3l \\\\
-12a &= 4l \\\\
-\end{aligned}
-$
-
-
-
-Irfan bought $3f + 12a$. Now let's substitute,
-
-$
-\begin{aligned}
-&= 6l + 4l \\\\
-&= 10l \\\\
-\end{aligned}
-$
-
-Irfan had $10$ loaves of bread.
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10$ loaves
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Aidan wanted four fish to go with each loaf, how many loaves and fish could he exchange for $54$ apples?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let's exchange $54$ apples into fish.
-
-$
-\begin{aligned}
- 6a &= 1f \text {so,} \\\\
-54a &= \dfrac {54}{6} f \\\\
-    &= 9f\\\\
-\end{aligned}
-$
-
-for $54$ apples Aidan gets $9$ fish.
-
-Now for $1$ loaf he needs $4$ fish. 
-
-$
-\begin{aligned}
-2l &= 1f \\\\
-9f &= 8f + 2l \\\\
-\end{aligned}
-$
-
-Aidan exchanges $54$ apples and gets $2$ loafes and $8$ fish as he wanted.
-
-
-
-</div>
-<div class='working'>
-
-
-Let's take number of fish as $4x$
-
-and number of loaf as $x$ 
-
-As per the question 
-
-$
-\begin{aligned}
-1f &= 6a \\\\
-1l &= 3a \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-54 &= (4x \times 6) + (x \times 3) \\\\
-   &= 24x + 3x \\\\
-   &= 27x \\\\
- x &= \dfrac{54}{27}   \\\\
- x &= 2 \\\\
-\end{aligned}
-$
-
-Let's substitute
-
-$
-\begin{aligned}
- \text {loaf} &= x = 2 \\\\
- \text {fish} &= 4x \\\\
-              &= 4 \times 2 \\\\
-              &= 8 \\\\
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$ loaves
-
-</div>
-<div class='answer'>
-
-$8$ fish
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-Let's exchange $54$ apples into fish.
-
-$
-\begin{aligned}
- 6a &= 1f \text {so,} \\\\
-54a &= \dfrac {54}{6} f \\\\
-    &= 9f\\\\
-\end{aligned}
-$
-
-for $54$ apples Aidan gets $9$ fish.
-
-Now for $1$ loaf he needs $4$ fish. 
-
-$
-\begin{aligned}
-2l &= 1f \\\\
-9f &= 8f + 2l \\\\
-\end{aligned}
-$
-
-Aidan exchanges $54$ apples and gets $2$ loafes and $8$ fish as he wanted.
-
-
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-Let's take number of fish as $4x$
-
-and number of loaf as $x$ 
-
-As per the question 
-
-$
-\begin{aligned}
-1f &= 6a \\\\
-1l &= 3a \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-54 &= (4x \times 6) + (x \times 3) \\\\
-   &= 24x + 3x \\\\
-   &= 27x \\\\
- x &= \dfrac{54}{27}   \\\\
- x &= 2 \\\\
-\end{aligned}
-$
-
-Let's substitute
-
-$
-\begin{aligned}
- \text {loaf} &= x = 2 \\\\
- \text {fish} &= 4x \\\\
-              &= 4 \times 2 \\\\
-              &= 8 \\\\
-\end{aligned}
-$
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2$ loaves
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8$ fish
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>429BC7A1-F12E-43F9-8EFD-D9F1BEE76328</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:17</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-*Lathes Engineering* produces ten boxes of screws every minute. It has to produce $48{,}000$ boxes of screws in five days. If its machines work an equal amount of time each day, work out the number of hours which will be needed **__each day__** to produce the boxes of screws needed.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>33EF32F3-D1A0-4738-855C-B10DF6AC9DAE</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:1</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Complete this bill for a small shopping trip, filling in the **__five__** missing quantities and amounts in the spaces provided.
-
-<!--
-,$\pounds \ldotp \text{p}$
-............ biscuits at $45  \text{p}$ each                        ,$3.60$
-............ eggs which cost $\pounds 1.60$ for twelve              ,$0.80$
-............ grams of butter at $\pounds 2.50 \ \text{per Kg}$      ,$1.50$
-............ litres of milk costing $90 \text{p}$ per litre         ,$\ldots$
-**TOTAL**                                                           ,$\pounds 8.15$ 
--->
-
-|                                                                | $\pounds \ldotp \text{p}$ |
-|----------------------------------------------------------------|:-------------------------:|
-| ............ biscuits at $45  \text{p}$ each                   |           $3.60$          |
-| ............ eggs which cost $\pounds 1.60$ for twelve         |           $0.80$          |
-| ............ grams of butter at $\pounds 2.50 \ \text{per Kg}$ |           $1.50$          |
-| ............ litres of milk costing $90 \text{p}$ per litre    |          $\ldots$         |
-| **TOTAL**                                                      |       $\pounds 8.15$      |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>FF5C2EF2-F081-47E2-A6EF-2FD0FBAECCD2</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:11</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Petrol costs $\pounds 1.12$ per litre. If there are $4.5 \ \text{litres}$ in a gallon, what would the cost of a gallon of petrol be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-This can be solved using ratio.
-
-$4.5 \ \text{litres} = 1 \ \text{gallon}$
-
-As per the question,
-
-$
-\begin{aligned}
-1 \ \text{litre}            &: \pounds 1.12 \\\\
-4.5 \times 1 \ \text{litre} &: 4.5 \times \pounds 1.12 \\\\
-4.5 \ \text{litre}          &: \pounds 5.04 \\\\
-1 \ \text{gallon}           &: \pounds 5.04
-\end{aligned}
-$
-
-Cost of a gallon of petrol $= \pounds 5.04$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 5.04$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>This can be solved using ratio.
-
-$4.5 \ \text{litres} = 1 \ \text{gallon}$
-
-As per the question,
-
-$
-\begin{aligned}
-1 \ \text{litre}            &: \pounds 1.12 \\\\
-4.5 \times 1 \ \text{litre} &: 4.5 \times \pounds 1.12 \\\\
-4.5 \ \text{litre}          &: \pounds 5.04 \\\\
-1 \ \text{gallon}           &: \pounds 5.04
-\end{aligned}
-$
-
-Cost of a gallon of petrol $= \pounds 5.04$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 5.04$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>DD38D637-4C88-49D5-A00B-F650F7D2F6F7</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:11</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Susan is making a necklace of beads, using red and yellow beads in the ratio 2 : 3. She has $56$ red beads altogether.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many yellow beads will she need:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Ratio of red beads and yellow beads = 2 : 3.
-
-She has 56 red beads altogether. i.e.,
-
-$
-\begin{aligned}
-2 \ \text{red beads} : 3 \ \text{yellow beads} \\\\
-2 \times 28 \ \text{red beads} : 3 \times 28 \ \text{yellow beads} \\\\
-56 \ \text{red beads} : 84 \ \text{yellow beads}
-\end{aligned}
-$
-
-Number of yellow beads required = $84 \ \text{beads}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$84 \ \text{beads}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Ratio of red beads and yellow beads = 2 : 3.
-
-She has 56 red beads altogether. i.e.,
-
-$
-\begin{aligned}
-2 \ \text{red beads} : 3 \ \text{yellow beads} \\\\
-2 \times 28 \ \text{red beads} : 3 \times 28 \ \text{yellow beads} \\\\
-56 \ \text{red beads} : 84 \ \text{yellow beads}
-\end{aligned}
-$
-
-Number of yellow beads required = $84 \ \text{beads}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$84 \ \text{beads}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many beads will she use altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total number of beads = Number of red beads + Number of yellow beads
-
-$
-\begin{aligned}
-&= 56 + 84 \\\\
-&= 140 \ \text{beads}
-\end{aligned}
-$
-
-Total number of beads = $140 \ \text{beads}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$140 \ \text{beads}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Total number of beads = Number of red beads + Number of yellow beads
-
-$
-\begin{aligned}
-&= 56 + 84 \\\\
-&= 140 \ \text{beads}
-\end{aligned}
-$
-
-Total number of beads = $140 \ \text{beads}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$140 \ \text{beads}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>A272142D-A294-48CF-AB64-9FFEA9730C13</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:3</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Hamster food costs $70 \text{p}$$ for $40\, grams$.
-
-What is the cost of $100\,g$ of hamster food.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>C828E4FF-C19B-4FB5-8A34-1263F0C5A041</p>
-</div>
-<div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A packet of sweets contains $15$ red, $25$ blue and $10$ green. A larger packet of sweets has the colours in the same ratio and contains $22$ green. How many blue are there in the larger packet.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>2DBF4A78-C5F8-4558-AC6C-E1DFFD1868D9</p>
-</div>
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:9</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If nine identical books cost $$\pounds 38.79$ together, how much would seven books cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>

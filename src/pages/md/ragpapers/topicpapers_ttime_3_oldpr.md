@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-oldpr"
 title: "TopicPaper - Time - 3 - OLDPR"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-09 18:06:37
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -81,6 +81,21 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replace L.H.S. with : \"Get up Time\"
+
+remove R.H.S from step 1
+
+remove \"am\" from step 2 and 3
+
+final answer wrong , change in section.answers too
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -122,7 +137,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>CB718008-6C5B-486B-83F4-A32A6530AAA0</p>
 </div>
@@ -136,7 +151,7 @@ $
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -202,6 +217,21 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replace L.H.S with : \"Arrival Time\"
+
+remove Step 1 R.H.S.
+
+write \"min\" as \"minutes\"
+
+remove step 4 and step 5
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -243,7 +273,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>B436492B-ADE1-4E62-B5CC-10E5C7D215FC</p>
 </div>
@@ -257,7 +287,7 @@ $
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -335,6 +365,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove line 1  and line 2
+
+step 2 : write \"seconds\" after 24 x 60 x 60
+
+ad a step between step 1 and step 2: 
+
+&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \ \text {hours} \\
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -376,7 +425,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>F541C565-A23A-42AB-A949-6DABF9981E5A</p>
 </div>
@@ -390,7 +439,7 @@ $
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -452,6 +501,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replace L.H.S. with : \"Watching Time\"
+
+
+
+remove \"am\" from step 1
+
+step 3 : write 1 x 60 minutes + ....
+
+add a step 4 : = 60 + 55
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -493,7 +561,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
 </div>
@@ -507,7 +575,7 @@ $
 <p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -687,6 +755,45 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : replace L.H.S. with : \"Working hours\"
+
+remove R.H.S. from step 1 
+
+remove rest of the katex
+
+replace with :
+
+= 10:15 - 8:15 + 12:50 - 10:35
+
+and solve further
+
+
+
+part (b): 
+
+replace L.H.S with : \"Total amount\"
+
+remove R.H.S from step 1
+
+reomve all the katex from step 3
+
+replace :
+
+= (4 hours + 15 minutes) x 6 
+
+= (4 hours + 15 / 60 hours) x 6 
+
+= 4 x 6 + 15 x 6 / 60 
+
+and solve further 
+</div>
 
 <div class='review'>
 <ul class='review'>

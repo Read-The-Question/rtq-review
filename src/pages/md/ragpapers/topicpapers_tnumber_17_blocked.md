@@ -1,100 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-blocked"
 title: "TopicPaper - Number - 17 - BLOCKED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:25</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prbd</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smallest whole number, above $120$, which when divided by $53$, leaves a remainder of two.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$53 \times 2 = 106$ ,
-$106 < 120$
-
-$53 \times 3 = 159$ ,
-$159 > 120$ 
-
-$159 + 2 = 161$
-
-The smallest whole number above $120$ which when divided by $53$ leaves a remainder of two $= 161$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$161$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-$53 \times 2 = 106$ ,
-$106 < 120$
-
-$53 \times 3 = 159$ ,
-$159 > 120$ 
-
-$159 + 2 = 161$
-
-The smallest whole number above $120$ which when divided by $53$ leaves a remainder of two $= 161$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$161$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>49BFC6D9-BB28-4B8F-8410-7C6507972FBB</p>
+<p>DDFEFC66-AB76-4490-8FB7-6CEDD4FA9965</p>
 </div>
 <div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:13</p>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -114,214 +30,10 @@ tnumber
 </div>
 <div class='question question'>
 
-Circle the number nearest to $0.1$
+Complete the boxes with $+, -, \times, \div$ to make the statements correct. 
+The first one has  been done for you as an example.
 
-$0.2\:\:\: 0.101\:\:\: 0.11\:\:\: 0.99\:\:\: 0.0998\:\:\: 1.0$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.2, \quad 0.101, \quad 0.11, \quad 0.99, \quad 0.0998, \quad 1.0 \\\\
-&= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0 \\\\
-\end{aligned}
-$
-
-$0.1$ lies between $0.101$ and $0.11$
-
-The number nearest to $0.1$ = $0.101$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.101$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= 0.2, \quad 0.101, \quad 0.11, \quad 0.99, \quad 0.0998, \quad 1.0 \\\\
-&= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0 \\\\
-\end{aligned}
-$
-
-$0.1$ lies between $0.101$ and $0.11$
-
-The number nearest to $0.1$ = $0.101$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0.101$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prns question'>
-<div class='uuid'>
-<p>8A24363A-173B-47A3-9255-922EF8A300A3</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:19</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bob is thinking of a number. Alan asks him some questions.
-
-Is it more than $40$? Yes
-
-Is it a multiple of $3$? Yes
-
-Is it a multiple of $5$? Yes
-
-Is it more than $60$? No
-
-
-What numbers could Bob be thinking of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Bob thinks = $a$
-
-As per the question,
-
-$a > 40$
-
-$a$ is a multiple of $3$
-
-$a$ is a multiple of $5$
-
-$a <60$
-
-Numbers between $40$ and $60$ which are multiple of $5 = {45, 50, 55}$
-
-Numbers between $40$ and $60$ which are multiple of $3 = {45, 48, 51, 54, 57}$
-
-Since $45$ is common in both, 
-
-$a = 45$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number Bob thinks = $a$
-
-As per the question,
-
-$a > 40$
-
-$a$ is a multiple of $3$
-
-$a$ is a multiple of $5$
-
-$a <60$
-
-Numbers between $40$ and $60$ which are multiple of $5 = {45, 50, 55}$
-
-Numbers between $40$ and $60$ which are multiple of $3 = {45, 48, 51, 54, 57}$
-
-Since $45$ is common in both, 
-
-$a = 45$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$45$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prns question'>
-<div class='uuid'>
-<p>6A0EC9AD-0A91-465C-9D77-92C64E1E72BC</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:16</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Frank does the following calculations. Mark his work by putting a tick of a cross in the boxes, to indicate which Frank has correct and which he has wrong.
+$8 \quad \boxed{\times} \quad 3 = 28 \quad \boxed{-} \quad 4$
 
 </div>
 <div class='workings'>
@@ -362,27 +74,31 @@ Frank does the following calculations. Mark his work by putting a tick of a cros
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$22 - 7 \times = 45$        $\Box$
+$21 \quad \boxed{ \phantom{-} } \quad 3 = 5 \quad \boxed{ \phantom{-} } \quad 2$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$22 - 7 \times = 45$        $\boxed {\times}$
+$
+21 \quad \boxed{\div} \quad = 4 \quad \boxed{+} \quad 2
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$22 - 7 \times = 45$        $\boxed {\times}$
+$\div, +$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$22 - 7 \times = 45$        $\boxed {\times}$
+<pre class='language-latex'><code class='language-latex'>$
+21 \quad \boxed{\div} \quad = 4 \quad \boxed{+} \quad 2
+$
 </code></pre>
 </div>
 </div>
@@ -394,7 +110,7 @@ $22 - 7 \times = 45$        $\boxed {\times}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$22 - 7 \times = 45$        $\boxed {\times}$
+<pre class='language-latex'><code class='language-latex'>$\div, +$
 </code></pre>
 </div>
 </div>
@@ -405,28 +121,22 @@ $22 - 7 \times = 45$        $\boxed {\times}$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$10 \times 2 + 7 \times 7 = 69$        $\Box$
+$18 \quad \boxed{ \phantom{-} } \quad  6 = 120 \quad \boxed{ \phantom{-} } \quad  12$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
 $
-\begin{aligned}
-&= 10 \times 2 + 7 \times 7 \\\\
-&= 20 + 49 \\\
-&= 69
-\end{aligned}
+18 \quad \boxed{\times} 6 = 120 \quad \boxed{-} \quad 12
 $
-
-$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
+$\times, -$
 
 </div>
 </div>
@@ -434,14 +144,8 @@ $10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 10 \times 2 + 7 \times 7 \\\\
-&= 20 + 49 \\\
-&= 69
-\end{aligned}
+18 \quad \boxed{\times} 6 = 120 \quad \boxed{-} \quad 12
 $
-
-$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
 </code></pre>
 </div>
 </div>
@@ -453,198 +157,7 @@ $10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$12 + 3 \times 7 - 3 = 30$        $\Box$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 12 + 3 \times 7 - 3 \\\\
-&= 12 + 21 - 3 \\\\
-&= 33 - 3 \\\\
-&= 30
-\end{aligned}
-$
-
-$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 12 + 3 \times 7 - 3 \\\\
-&= 12 + 21 - 3 \\\\
-&= 33 - 3 \\\\
-&= 30
-\end{aligned}
-$
-
-$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$30 \div 3 + 2 = 6$        $\Box$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 30 \div 3 + 2 \\\\
-&= \dfrac {30}{3} + 2 \\\\
-&= \dfrac {3 \times 10}{3} + 2 \\\\
-&= \dfrac {\cancel {3} \times 10}{\cancel {3}} + 2 \\\\
-&= 10 + 2 \\\\
-&= 12 \ \cancel {=} \ 6
-\end{aligned}
-$
-
-$30 \div 3 + 2 = 6$        $\boxed {\times}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \div 3 + 2 = 6$        $\boxed {\times}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 30 \div 3 + 2 \\\\
-&= \dfrac {30}{3} + 2 \\\\
-&= \dfrac {3 \times 10}{3} + 2 \\\\
-&= \dfrac {\cancel {3} \times 10}{\cancel {3}} + 2 \\\\
-&= 10 + 2 \\\\
-&= 12 \ \cancel {=} \ 6
-\end{aligned}
-$
-
-$30 \div 3 + 2 = 6$        $\boxed {\times}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$30 \div 3 + 2 = 6$        $\boxed {\times}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$24 \div 4 - 3 \times 2 = 0$        $\Box$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 24 \div 4 - 3 \times 2 \\\\
-&= \dfrac {24} {4} - 3 \times 2 \\\\
-&= \dfrac {6 \times 4} {4} - 3 \times 2 \\\\
-&= \dfrac {12 \times \cancel {4}} {\cancel {4}} - 3 \times 2 \\\\
-&= 6 - 6 \\\\
-&= 0
-\end{aligned}
-$
-
-$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 24 \div 4 - 3 \times 2 \\\\
-&= \dfrac {24} {4} - 3 \times 2 \\\\
-&= \dfrac {6 \times 4} {4} - 3 \times 2 \\\\
-&= \dfrac {12 \times \cancel {4}} {\cancel {4}} - 3 \times 2 \\\\
-&= 6 - 6 \\\\
-&= 0
-\end{aligned}
-$
-
-$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
+<pre class='language-latex'><code class='language-latex'>$\times, -$
 </code></pre>
 </div>
 </div>
@@ -658,10 +171,90 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>B63E0E9C-DD91-4A19-A462-FF09979B19C0</p>
+<p>8089705E-50AA-40D2-9513-A70C93DC8C55</p>
 </div>
 <div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:23</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+Here are four cards which you can use to make numbers:
+
+$
+\boxed{\huge { \text{ 1 }}} \quad
+\boxed{\huge { \text{ 2 }}} \quad
+\boxed{\huge { \text{ 3 }}} \quad
+\boxed{\huge { \text{ 4 }}}
+$
+
+Write down all the possible $4$-digit even numbers you can make which are greater than $3000$.
+Write your answers from smallest to biggest.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3124, \ 3142, \ 3214, \ 3412$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3124, \ 3142, \ 3214, \ 3412$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$3124, \ 3142, \ 3214, \ 3412$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3124, \ 3142, \ 3214, \ 3412$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>91ED3A8C-B829-405F-8BFA-E46567724624</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:11</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -681,28 +274,37 @@ tnumber
 </div>
 <div class='question question'>
 
+Select $3$ cards from the set below which show the same value.
 
-Calculate the answers to the following. Remember to show your working.
+$
+\boxed { \phantom{\dfrac{1}{5}} 20 \%        \phantom{\dfrac{1}{5}} }  \quad 
+\boxed { \phantom{\dfrac{1}{5}} \dfrac{1}{5} \phantom{\dfrac{1}{5}} }   \quad 
+\boxed { \phantom{\dfrac{1}{5}} \dfrac{4}{5} \phantom{\dfrac{1}{5}} }   \quad 
+\boxed { \phantom{\dfrac{1}{5}} 0.5          \phantom{\dfrac{1}{5}} }   \quad
+\boxed { \phantom{\dfrac{1}{5}} 80 \%        \phantom{\dfrac{1}{5}} }   \quad
+\boxed { \phantom{\dfrac{1}{5}} 50 \%        \phantom{\dfrac{1}{5}} }   \quad
+\boxed { \phantom{\dfrac{1}{5}} 0.8 \phantom{\dfrac{1}{5}} }
+$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+$\dfrac{4} {5}, 80\%, 0.8$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+$\dfrac{4} {5}, 80\%, 0.8$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>$\dfrac{4} {5}, 80\%, 0.8$
 </code></pre>
 </div>
 </div>
@@ -714,7 +316,73 @@ Calculate the answers to the following. Remember to show your working.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>$\dfrac{4} {5}, 80\%, 0.8$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>BB09C106-9846-4E9F-948E-B0C68907C1D9</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:21</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tick the box for the best estimate for these measurements:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -723,46 +391,30 @@ Calculate the answers to the following. Remember to show your working.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$9.83 + 4.6$
+![missing table](/papers/missing_table.svg)
+
+
+The mass of a table-tennis ball   $2.5 \text{g}   \quad 30 \text{g}   \quad 0.7 \ \text{kg}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-ABBR: Remember to line up the decimal points.
-
-
-$
-\begin{array}{cccccccccccccc}
-    &   9 \ .   &   8   &   3 \\
-{}+ &   4 \ .   &   6   &   0 \\
-\hline
-1   &   4 \ .   &   4   &   3
-\end{array}
-$
+$30 \text{g}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$14.43$
+$30 \text{g}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
-$
-\begin{array}{cccccccccccccc}
-    &   9 \ .   &   8   &   3 \\
-{}+ &   4 \ .   &   6   &   0 \\
-\hline
-1   &   4 \ .   &   4   &   3
-\end{array}
-$
+<pre class='language-latex'><code class='language-latex'>$30 \text{g}$
 </code></pre>
 </div>
 </div>
@@ -774,7 +426,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$14.43$
+<pre class='language-latex'><code class='language-latex'>$30 \text{g}$
 </code></pre>
 </div>
 </div>
@@ -785,46 +437,30 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$15.4 - 2.21$
+![missing table](/papers/missing_table.svg)
+
+
+The amount of water in a full kettle   $10 \ \text{l} \quad  2 \ \text{l}  \quad 400 \ \text{ml}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-ABBR: Remember to line up the decimal points.
-
-
-$
-\begin{array}{cccccccccccccc}
-    &   1   &   5 \ .   &   4   &   0 \\
-{}- &       &   2 \ .   &   2   &   1 \\
-\hline
-    &   1   &   3 \ .   &   1   &   9
-\end{array}
-$
+$2\text{l}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$13.19$
+$2\text{l}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
-$
-\begin{array}{cccccccccccccc}
-    &   1   &   5 \ .   &   4   &   0 \\
-{}- &       &   2 \ .   &   2   &   1 \\
-\hline
-    &   1   &   3 \ .   &   1   &   9
-\end{array}
-$
+<pre class='language-latex'><code class='language-latex'>$2\text{l}$
 </code></pre>
 </div>
 </div>
@@ -836,7 +472,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$13.19$
+<pre class='language-latex'><code class='language-latex'>$2\text{l}$
 </code></pre>
 </div>
 </div>
@@ -847,62 +483,30 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$7.3 \times 4$
+![missing table](/papers/missing_table.svg)
+
+
+The diameter of a CD    $120 \ \text{mm}  \quad  50 \ \text{cm} \quad  50 \ \text{mm}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-
-ABBR: Let's first multiply the numbers ignoring the decimal points.
-
-
-$
-\begin{array}{cccccccccccccc}
-        &       &   7   &   3 \\
-{}      &\times &       &   4 \\
-\hline
-        &   2   &   9   &   2
-\end{array}
-$
-
-Between the two numbers, the total number of digits after the decimal point is one.
-
-Let's account for the decimal point now.
-
-= 29.2 
-
+$50 \text{ cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$29.2$
+$50 \text{ cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-rtq_abbr_md_multiply_when_decimal_points_note
-
-$
-\begin{array}{cccccccccccccc}
-        &       &   7   &   3 \\
-{}      &\times &       &   4 \\
-\hline
-        &   2   &   9   &   2
-\end{array}
-$
-
-Between the two numbers, the total number of digits after the decimal point is one.
-
-Let's account for the decimal point now.
-
-= 29.2 
-
+<pre class='language-latex'><code class='language-latex'>$50 \text{ cm}$
 </code></pre>
 </div>
 </div>
@@ -914,82 +518,7 @@ Let's account for the decimal point now.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$29.2$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$4.68 \div 6$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first divide the numbers ignoring the decimal points.
-
-$
-\begin{aligned}
-&= 4.68 \div 6 \\\\
-&= \dfrac {468} {6} \\\\
-&= \dfrac {6 \times 78} {6} \\\\
-&= \dfrac {\cancel {6} \times 78} {\cancel{6}} \\\\
-&= 78
-\end{aligned}
-$
-
-Between the two numbers, the total number of digits after the decimal point is two.
-
-Let's account for the decimal point now.
-
-$= 0.78$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.78$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let's first divide the numbers ignoring the decimal points.
-
-$
-\begin{aligned}
-&= 4.68 \div 6 \\\\
-&= \dfrac {468} {6} \\\\
-&= \dfrac {6 \times 78} {6} \\\\
-&= \dfrac {\cancel {6} \times 78} {\cancel{6}} \\\\
-&= 78
-\end{aligned}
-$
-
-Between the two numbers, the total number of digits after the decimal point is two.
-
-Let's account for the decimal point now.
-
-$= 0.78$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0.78$
+<pre class='language-latex'><code class='language-latex'>$50 \text{ cm}$
 </code></pre>
 </div>
 </div>

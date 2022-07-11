@@ -1,9 +1,86 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-2-blocked"
 title: "TopicPaper - Simpleword - 2 - BLOCKED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>B7872B8A-9943-4EDF-A994-E7E5E984DD66</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:1:10</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A teacher shares a large packet of sweets evenly to her class of $24$ pupils and then eats the left over sweets.
+There were $170$ sweets in the packet, how many does the teacher eat?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 170 - 24 \\\\
+&= 146
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$146$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= 170 - 24 \\\\
+&= 146
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$146$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
@@ -79,6 +156,95 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$378$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>FEEA7D17-856F-460C-80DB-83CFB61B8A34</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:15</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I cook rice for four people. I use $60 \ \text{grams}$ per person. How much, in grammes, remains from a $1 \ \text{kilogram}$ packet?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.  The weight measurements are given in both kilograms and grams.
+
+$
+\begin{aligned}
+\text{Rice used for four people}    &= 60 \times 4 \\\\
+                                    &= 240 \ \text{g} \\\\
+\text{Rice left}                    &= 1 \ \text{kg} - 240 \ \text{g} \\\\
+                                    &= 1 \times 1000 \ \text{g} - 240 \ \text{g} \\\\
+                                    &= 1000 - 240 \\\\
+                                    &= 760 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$760 \ \text{g}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.  The weight measurements are given in both kilograms and grams.
+
+$
+\begin{aligned}
+\text{Rice used for four people}    &= 60 \times 4 \\\\
+                                    &= 240 \ \text{g} \\\\
+\text{Rice left}                    &= 1 \ \text{kg} - 240 \ \text{g} \\\\
+                                    &= 1 \times 1000 \ \text{g} - 240 \ \text{g} \\\\
+                                    &= 1000 - 240 \\\\
+                                    &= 760 \ \text{g}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$760 \ \text{g}$
 </code></pre>
 </div>
 </div>

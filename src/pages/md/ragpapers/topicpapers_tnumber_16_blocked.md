@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-blocked"
 title: "TopicPaper - Number - 16 - BLOCKED"
-date: 2022-07-09 18:06:37
+date: 2022-07-11 06:13:31
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>09B08DAF-540F-4115-B9CB-3DA13E21C2F3</p>
+<p>AA1C5578-EC4D-41B3-8D56-14B948934F9D</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:6</p>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:13</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -26,70 +26,63 @@ date: 2022-07-09 18:06:37
 <li>
 tnumber
 </li>
-<li>
-tmoney
-</li>
 </ul>
 </div>
 <div class='question question'>
 
-Neil lends Rodger $\pounds 4$. Rodger pays back $30 \%$ of this the next day. How much does he still owe Neil?
+Five miles is the same distance as eight kilometres. Use this fact to convert:
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-
-
-Let's convert pounds to pence.
-
-$
-\begin{aligned}
-\text{Total amount} &= \pounds 4 \\\\
-&= 4 \times 100 \text{p} \\\\
-&= 400 \text{p}
-\end{aligned}
-$
-
-Rodger pays back $30 \%$. So,
-
-$
-\begin{aligned}
-\text{Amount paid} &= 30\% \text{ of } 400 \\\\
-&= \dfrac {30} {100} \times 400 \\\\
-&= 30 \times 4 \\\\
-&= 120  \text{p} 
-\end{aligned}
-$
-
-Let's calculate the amount Rodger still owes Neil.
-
-$
-\begin{aligned}
-\text{Amount owed} &= 400 - 120 \\\\
-&= 280 \text{p} \\\\
-&= \pounds \dfrac{280}{100} \\\\
-&= \pounds 2.80
-\end{aligned}
-$
+%empty%
 
 </div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$20 \ \text{miles}$ into kilometres
+
+</div>
+<div class='workings'>
 <div class='working'>
 
-Can we do better than the previous solution? 
-
-If Rodger has paid back $30\%$ of the money, he still has $70\%$ to pay. 
-So we can directly calculate the amount owed and save on calculating the amount paid as well.
-
 $
-\begin{aligned}
-\text{Amount owed} &= 70\% \text{ of } 400 \\\\
-&= \dfrac {70} {100} \times 400 \\\\
-&= 70 \times 4 \\\\
-&= 280 \text{p} \\\\
-&= \pounds \dfrac{280}{100} \\\\
-&= \pounds 2.80
-\end{aligned}
+\begin {aligned}
+5 \ \text {miles}   &= 8 \ \text {kilometres} \\\\
+5 \times 4          &= 8 \times 4 \\\\
+20 \ \text {miles}  &= 32 \ \text {kilometres}
+\end {aligned}
 $
 
 </div>
@@ -97,64 +90,19 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.80$
+$32 \ \text {kilometres}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-
-Let's convert pounds to pence.
-
-$
-\begin{aligned}
-\text{Total amount} &= \pounds 4 \\\\
-&= 4 \times 100 \text{p} \\\\
-&= 400 \text{p}
-\end{aligned}
-$
-
-Rodger pays back $30 \%$. So,
-
-$
-\begin{aligned}
-\text{Amount paid} &= 30\% \text{ of } 400 \\\\
-&= \dfrac {30} {100} \times 400 \\\\
-&= 30 \times 4 \\\\
-&= 120  \text{p} 
-\end{aligned}
-$
-
-Let's calculate the amount Rodger still owes Neil.
-
-$
-\begin{aligned}
-\text{Amount owed} &= 400 - 120 \\\\
-&= 280 \text{p} \\\\
-&= \pounds \dfrac{280}{100} \\\\
-&= \pounds 2.80
-\end{aligned}
-$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Can we do better than the previous solution? 
-
-If Rodger has paid back $30\%$ of the money, he still has $70\%$ to pay. 
-So we can directly calculate the amount owed and save on calculating the amount paid as well.
-
-$
-\begin{aligned}
-\text{Amount owed} &= 70\% \text{ of } 400 \\\\
-&= \dfrac {70} {100} \times 400 \\\\
-&= 70 \times 4 \\\\
-&= 280 \text{p} \\\\
-&= \pounds \dfrac{280}{100} \\\\
-&= \pounds 2.80
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+5 \ \text {miles}   &= 8 \ \text {kilometres} \\\\
+5 \times 4          &= 8 \times 4 \\\\
+20 \ \text {miles}  &= 32 \ \text {kilometres}
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -167,21 +115,79 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 2.80$
+<pre class='language-latex'><code class='language-latex'>$32 \ \text {kilometres}$
 </code></pre>
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$40 \ \text{kilometres}$ into miles.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+8 \ \text {kilometres}  &= 5 \ \text {miles} \\\\
+8 \times 5              &= 5 \times 5 \\\\
+40 \ \text{kilometres}  &= 25 \ \text {miles}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25 \ \text {miles}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+8 \ \text {kilometres}  &= 5 \ \text {miles} \\\\
+8 \times 5              &= 5 \times 5 \\\\
+40 \ \text{kilometres}  &= 25 \ \text {miles}
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25 \ \text {miles}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>EC2A9B83-84D4-486D-8D93-A7BB3D422618</p>
+<p>9A7731E6-A10D-4E1C-BE92-A499746AB9E7</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:10</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -197,20 +203,76 @@ $
 <li>
 tnumber
 </li>
+<li>
+tfactor
+</li>
+<li>
+tstatistics
+</li>
+<li>
+tnoexplanation
+</li>
 </ul>
 </div>
 <div class='question question'>
 
-What is the **__least__** number which can be added to $278$ to make a number which is exactly divisible by $13$?
+Here is the start of a number pattern:
+
+$2 \quad  3 \quad  5 \quad  8 \quad  13 \quad  21 \quad  34 \quad  55 \quad  89$
+
+From the numbers above, write down:
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-If we divide $278$ by $13$, the quotient is $21$ and the remainder is $5$.
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+a multiple of $4$
+
+</div>
+<div class='workings'>
+<div class='working'>
 
 
-So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
+$
+\begin{aligned}
+&= 8  
+\end{aligned}
+$
 
 </div>
 </div>
@@ -224,10 +286,12 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>If we divide $278$ by $13$, the quotient is $21$ and the remainder is $5$.
-
-
-So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+&= 8  
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -244,16 +308,203 @@ So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+a prime number bigger than $6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$13$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+two numbers with a difference of $18$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+21, \ 3 \\\\
+&= 21 - 3 \\\\
+&= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3, \ 21$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+21, \ 3 \\\\
+&= 21 - 3 \\\\
+&= 18
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3, \ 21$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+two numbers whose product is $26$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2, \ 13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2, \ 13$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$2, \ 13$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2, \ 13$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+the median of the nine numbers
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$13$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
-<p>3143F4B2-41D5-4792-B6A8-FD619A39DC38</p>
+<p>ADEAD8D0-2747-44BF-901C-F26BADA4C02C</p>
 </div>
 <div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:20</p>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
 <p>Waffles Woof</p>
@@ -273,151 +524,27 @@ tnumber
 </div>
 <div class='question question'>
 
-If the rules about what order to do arithmetic operations do **not** apply for this last question on the paper then $2 + 4 \times 3$ could be $2 + 12 = 14$ or $6 \times 3 = 18$.
-
-Of the **five different** answers that there could be for the following question
-
-$14 - 3 \times 4 - 2 =$
-
-depending on the order you use for the operations, **which answer would be in the middle if the answers were placed in descending order (from largest to smallest)?**
+%empty%
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let's use brackets to show the sequence in which we apply the operations and give precedence to operators.
-
-$
-\begin{aligned}
-\text{Solution } 1  &= 14 - 3 \times 4 - 2 \\\\
-                    &= (14 - 3) \times (4 - 2) \\\\
-                    &= 11 \times 2 \\\\
-                    &= 22
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 2  &= 14 - 3 \times 4 - 2 \\\\
-                    &= (14 - 3) \times  4 - 2 \\\\
-                    &= 11 \times 4 - 2 \\\\
-                    &= (11 \times 4) - 2 \\\\
-                    &= 44 - 2 \\\\
-                    &= 42
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 3  &= 14 - 3 \times 4 - 2 \\\\
-                    &= 14 - (3 \times 4) - 2 \\\\                   
-                    &= 14 - 12 - 2 \\\\
-                    &= (14 - 12) - 2 \\\\
-                    &= 2 - 2 \\\\
-                    &= 0
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 4  &= 14 - 3 \times 4 - 2 \\\\
-                    &= 14 - (3 \times 4) - 2 \\\\
-                    &= 14 - 12 - 2 \\\\
-                    &= 14 - (12 - 2) \\\\
-                    &= 14 - 10 \\\\
-                    &= 4
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 5  &= 14 - 3 \times 4 - 2 \\\\
-                    &= 14 - 3 \times (4 - 2) \\\\
-                    &= 14 - 3 \times 2\\\\
-                    &= 14 - (3 \times 2) \\\\
-                    &= 14 - 6 \\\\
-                    &= 8
-\end{aligned}
-$
-
-Let's put them in descending order
-
-$42, \quad 22, \quad 8, \quad 4, \quad 0$
-
-Answer in the middle $= 8$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8$
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's use brackets to show the sequence in which we apply the operations and give precedence to operators.
-
-$
-\begin{aligned}
-\text{Solution } 1  &= 14 - 3 \times 4 - 2 \\\\
-                    &= (14 - 3) \times (4 - 2) \\\\
-                    &= 11 \times 2 \\\\
-                    &= 22
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 2  &= 14 - 3 \times 4 - 2 \\\\
-                    &= (14 - 3) \times  4 - 2 \\\\
-                    &= 11 \times 4 - 2 \\\\
-                    &= (11 \times 4) - 2 \\\\
-                    &= 44 - 2 \\\\
-                    &= 42
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 3  &= 14 - 3 \times 4 - 2 \\\\
-                    &= 14 - (3 \times 4) - 2 \\\\                   
-                    &= 14 - 12 - 2 \\\\
-                    &= (14 - 12) - 2 \\\\
-                    &= 2 - 2 \\\\
-                    &= 0
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 4  &= 14 - 3 \times 4 - 2 \\\\
-                    &= 14 - (3 \times 4) - 2 \\\\
-                    &= 14 - 12 - 2 \\\\
-                    &= 14 - (12 - 2) \\\\
-                    &= 14 - 10 \\\\
-                    &= 4
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Solution } 5  &= 14 - 3 \times 4 - 2 \\\\
-                    &= 14 - 3 \times (4 - 2) \\\\
-                    &= 14 - 3 \times 2\\\\
-                    &= 14 - (3 \times 2) \\\\
-                    &= 14 - 6 \\\\
-                    &= 8
-\end{aligned}
-$
-
-Let's put them in descending order
-
-$42, \quad 22, \quad 8, \quad 4, \quad 0$
-
-Answer in the middle $= 8$
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -429,212 +556,350 @@ Answer in the middle $= 8$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8$
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Choose one of the following units to complete each statement below.
+
+$\text{km} \quad \text{m} \quad \text{cm} \quad \text{mm} \quad \text{l} \quad \text{ml}$
+
+Mandy's thumb is approximately $50 \ldots$ long.
+
+A glass could contain $250 \ldots$ of orange juice.
+
+A house could be $7.5 \ldots$ tall.
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Mandy's thumb is approximately $\underline {50 \ \text {mm}}$ long.
+
+A glass could contain $\underline {250 \ \text {ml}}$ of orange juice.
+
+A house could be $\underline {7.5 \ \text {m}}$ tall.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {mm}$ 
+
+</div>
+<div class='answer'>
+
+$\text {ml}$ 
+
+</div>
+<div class='answer'>
+
+$\text {m}$ 
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Mandy's thumb is approximately $\underline {50 \ \text {mm}}$ long.
+
+A glass could contain $\underline {250 \ \text {ml}}$ of orange juice.
+
+A house could be $\underline {7.5 \ \text {m}}$ tall.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {mm}$ 
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {ml}$ 
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {m}$ 
 </code></pre>
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down, in grams, the masses represented by the arrows on these scales. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 10 \ \text {g} \\\\
+\text {number of divisions in an interval}      &= 4 \\\\
+\text {mass represented by a division}          &= \dfrac {10} {4} \\\\
+                                                &= 2.5 \ \text {g} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= {2 \times 2.5 } \\\\ 
+                                                &= 5 \ \text {g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \text {g}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 10 \ \text {g} \\\\
+\text {number of divisions in an interval}      &= 4 \\\\
+\text {mass represented by a division}          &= \dfrac {10} {4} \\\\
+                                                &= 2.5 \ \text {g} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= {2 \times 2.5 } \\\\ 
+                                                &= 5 \ \text {g}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5 \ \text {g}$
+</code></pre>
+</div>
+</div>
 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>0764EC27-58BF-4C34-A78B-8EB71ECB65E3</p>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
 </div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:10</p>
+<div class='workings'>
+<div class='working'>
+
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 25 \ \text {g} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {25} {5} \\\\
+                                                &= 5 \ \text {g} \\\\
+\text {division at which the arrow is pointing} &= \text {first division after 225} \\\\
+\text {mass represented by the arrow}           &= 225 + {1 \times 5 } \\\\
+                                                &= 230 \ \text {g}
+\end{aligned}
+$
+
 </div>
-<div class='rag'>
-<p>Waffles Woof</p>
 </div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
+<div class='answers'>
+<div class='answer'>
+
+$230 \ \text{g}$
+
 </div>
-<div class='rag'>
-<p>rag_wf_prbd</p>
 </div>
-<div class='topics'>
-<ul>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 25 \ \text {g} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {25} {5} \\\\
+                                                &= 5 \ \text {g} \\\\
+\text {division at which the arrow is pointing} &= \text {first division after 225} \\\\
+\text {mass represented by the arrow}           &= 225 + {1 \times 5 } \\\\
+                                                &= 230 \ \text {g}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$230 \ \text{g}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
 <li>
-tnumber
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 1 \ \text {kg} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {1} {5} \\\\
+                                                &= 0.2 \text {kg} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= 2 \ \text {kg} + {2 \times 0.2 } \ \text {kg} \\\\
+                                                &= 2.4 \ \text {kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.4 \ \text {kg}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the scale,
+
+$
+\begin{aligned}
+\text {mass represented by an interval}         &= 1 \ \text {kg} \\\\
+\text {number of divisions in an interval}      &= 5 \\\\
+\text {mass represented by a division}          &= \dfrac {1} {5} \\\\
+                                                &= 0.2 \text {kg} \\\\
+\text {division at which the arrow is pointing} &= 2 \\\\
+\text {mass represented by the arrow}           &= 2 \ \text {kg} + {2 \times 0.2 } \ \text {kg} \\\\
+                                                &= 2.4 \ \text {kg}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2.4 \ \text {kg}$
+</code></pre>
+</div>
+</div>
+
+</div>
 </li>
 </ul>
 </div>
-<div class='question question'>
-
-Which of the following fractions is closet to $\frac 1 4$
-
-
-$\frac {11} {40}\:\:\:,\frac {16} {60}\:\:\: ,\frac {21} {80}\:\:\: ,\frac {26} {100}\:\:\:,\frac {31} {120}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To determine which fraction is closest to $\dfrac {1}{4}$, we can subtract $\dfrac {1}{4}$ from each fraction. The difference that is closest to zero will indicate the fraction that is closest to $\dfrac {1}{4}$.
-
-$
-\begin{aligned}
-&= \dfrac {11} {40},  \quad \dfrac {4} {15},  \quad   \dfrac {21} {80},  \quad   \dfrac {13} {50}, \quad   \dfrac {31} {120} \\\\
-&= \bigg (\dfrac {11} {40} - \dfrac {1} {4}\bigg ),  \quad \bigg (\dfrac {4} {15}- \dfrac {1} {4}\bigg ),  \quad   \bigg (\dfrac {21} {80} - \dfrac {1} {4}\bigg ),  \quad   \bigg (\dfrac {13} {50} - \dfrac {1} {4}\bigg ), \quad   \bigg (\dfrac {31} {120}- \dfrac {1} {4}\bigg )\\\\
-&= \bigg (\dfrac {11} {40} - \dfrac {1 \times 10} {4 \times 10}\bigg ),  \quad \bigg (\dfrac {4\times 4} {15\times 4}- \dfrac {1\times 15} {4\times 15}\bigg ),  \quad   \bigg (\dfrac {21} {80} - \dfrac {1\times 20} {4 \times 20}\bigg ),  \quad   \bigg (\dfrac {13 \times 2} {50\times 2} - \dfrac {1 \times 25} {4\times 25}\bigg ), \quad   \bigg (\dfrac {31} {120}- \dfrac {1 \times 30} {4\times 30}\bigg )\\\\
-&= \bigg (\dfrac {11 - 10} {40} \bigg ),  \quad \bigg (\dfrac {16-15} {60}\bigg ),  \quad   \bigg (\dfrac {21 -20} {80}\bigg ),  \quad   \bigg (\dfrac {26- 25} {100} \bigg ), \quad   \bigg (\dfrac {31 - 30} {120}\bigg )\\\\
-&= \dfrac{1}{40}, \quad \dfrac{1}{60}, \quad \dfrac{1}{80}, \quad   \dfrac{1}{100}, \quad   \dfrac {1} {120}
-\end{aligned}
-$
-
-The fraction with the biggest denominator is the smallest fraction and is nearer to zero.
-
-The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {31} {120}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>To determine which fraction is closest to $\dfrac {1}{4}$, we can subtract $\dfrac {1}{4}$ from each fraction. The difference that is closest to zero will indicate the fraction that is closest to $\dfrac {1}{4}$.
-
-$
-\begin{aligned}
-&= \dfrac {11} {40},  \quad \dfrac {4} {15},  \quad   \dfrac {21} {80},  \quad   \dfrac {13} {50}, \quad   \dfrac {31} {120} \\\\
-&= \bigg (\dfrac {11} {40} - \dfrac {1} {4}\bigg ),  \quad \bigg (\dfrac {4} {15}- \dfrac {1} {4}\bigg ),  \quad   \bigg (\dfrac {21} {80} - \dfrac {1} {4}\bigg ),  \quad   \bigg (\dfrac {13} {50} - \dfrac {1} {4}\bigg ), \quad   \bigg (\dfrac {31} {120}- \dfrac {1} {4}\bigg )\\\\
-&= \bigg (\dfrac {11} {40} - \dfrac {1 \times 10} {4 \times 10}\bigg ),  \quad \bigg (\dfrac {4\times 4} {15\times 4}- \dfrac {1\times 15} {4\times 15}\bigg ),  \quad   \bigg (\dfrac {21} {80} - \dfrac {1\times 20} {4 \times 20}\bigg ),  \quad   \bigg (\dfrac {13 \times 2} {50\times 2} - \dfrac {1 \times 25} {4\times 25}\bigg ), \quad   \bigg (\dfrac {31} {120}- \dfrac {1 \times 30} {4\times 30}\bigg )\\\\
-&= \bigg (\dfrac {11 - 10} {40} \bigg ),  \quad \bigg (\dfrac {16-15} {60}\bigg ),  \quad   \bigg (\dfrac {21 -20} {80}\bigg ),  \quad   \bigg (\dfrac {26- 25} {100} \bigg ), \quad   \bigg (\dfrac {31 - 30} {120}\bigg )\\\\
-&= \dfrac{1}{40}, \quad \dfrac{1}{60}, \quad \dfrac{1}{80}, \quad   \dfrac{1}{100}, \quad   \dfrac {1} {120}
-\end{aligned}
-$
-
-The fraction with the biggest denominator is the smallest fraction and is nearer to zero.
-
-The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {31} {120}$
-</code></pre>
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>AF41292A-EA87-4917-AA96-255A70031420</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:14</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prbd</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
 </li>
 </ul>
-</div>
-<div class='question question'>
-
-Make a list of all the whole numbers which leave a remainder of $7$ when divided into $46$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-As per the question,
-
-The whole number leaves a remainder $7$ when divided into $46$.
-
-As such, the number will be a factor of $= 46 - 7 = 39$
-
-Factors of $39 = 1, 3 , 13$ and $39$.
-
-The number has to be greater than $7$ as it leaves a remainder $7$.
-
-Lets check $13$ and $39$ fulfil the criteria.
-
-$= \dfrac {46} {13} =$ Quotient $3$ Remainder $7$
-
-$= \dfrac {46} {39} =$ Quotient $1$ Remainder $7$
-
-The whole numbers which leave a remainder of $7$ when dividied into $46 = 13$ and $39$
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13, 39$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-As per the question,
-
-The whole number leaves a remainder $7$ when divided into $46$.
-
-As such, the number will be a factor of $= 46 - 7 = 39$
-
-Factors of $39 = 1, 3 , 13$ and $39$.
-
-The number has to be greater than $7$ as it leaves a remainder $7$.
-
-Lets check $13$ and $39$ fulfil the criteria.
-
-$= \dfrac {46} {13} =$ Quotient $3$ Remainder $7$
-
-$= \dfrac {46} {39} =$ Quotient $1$ Remainder $7$
-
-The whole numbers which leave a remainder of $7$ when dividied into $46 = 13$ and $39$
-
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$13, 39$
-</code></pre>
-</div>
-</div>
-
 
 </div>
 </li>

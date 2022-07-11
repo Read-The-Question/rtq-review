@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2314,7 +2314,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ACBD2F74-0174-460D-93C5-F21245389B8B</p>
 </div>
@@ -2322,13 +2322,13 @@ $
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2354,9 +2354,10 @@ What was his original number?
 <div class='workings'>
 <div class='working'>
 
-Let the number Kieran thought of $= a$
+Let the original number Kieran thought of $= a$
 
 As per the question,
+
 
 $
 \begin{aligned}
@@ -2390,9 +2391,10 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number Kieran thought of $= a$
+<pre class='language-latex'><code class='language-latex'>Let the original number Kieran thought of $= a$
 
 As per the question,
+
 
 $
 \begin{aligned}

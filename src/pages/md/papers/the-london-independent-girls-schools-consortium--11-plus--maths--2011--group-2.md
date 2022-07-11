@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1200,7 +1200,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
@@ -1214,7 +1214,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1277,21 +1277,31 @@ from London Euston to Birmingham International?
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text{hrs} \ 10 \ \text{mins}$
+$
+\begin {aligned}
+\text {Time Taken}     &= 21{:}07 - 19{:}57 \\\\
+                       &= 1 \ \text{hrs} \ 10 \ \text{min}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hrs} \ 10 \ \text{mins}$
+$1 \ \text{hrs} \ 10 \ \text{min}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1 \ \text{hrs} \ 10 \ \text{mins}$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Time Taken}     &= 21{:}07 - 19{:}57 \\\\
+                       &= 1 \ \text{hrs} \ 10 \ \text{min}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1303,7 +1313,7 @@ $1 \ \text{hrs} \ 10 \ \text{mins}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1 \ \text{hrs} \ 10 \ \text{mins}$
+<pre class='language-latex'><code class='language-latex'>$1 \ \text{hrs} \ 10 \ \text{min}$
 </code></pre>
 </div>
 </div>
@@ -1320,21 +1330,31 @@ from London Euston Station to Glasgow?
 <div class='workings'>
 <div class='working'>
 
-$10 \ \text{hrs} \ 48 \ \text{mins}$
+$
+\begin {aligned}
+\text {Time Taken}     &= 06{:}45 - 19{:}57 \\\\
+                       &= 10 \ \text{hrs} \ 48 \ \text{min}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hrs} \ 48 \ \text{mins}$
+$10 \ \text{hrs} \ 48 \ \text{min}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$10 \ \text{hrs} \ 48 \ \text{mins}$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Time Taken}     &= 06{:}45 - 19{:}57 \\\\
+                       &= 10 \ \text{hrs} \ 48 \ \text{min}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1346,7 +1366,7 @@ $10 \ \text{hrs} \ 48 \ \text{mins}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10 \ \text{hrs} \ 48 \ \text{mins}$
+<pre class='language-latex'><code class='language-latex'>$10 \ \text{hrs} \ 48 \ \text{min}$
 </code></pre>
 </div>
 </div>

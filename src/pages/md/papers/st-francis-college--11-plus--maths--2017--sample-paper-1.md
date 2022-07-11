@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1670,7 +1670,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>8A17957B-1662-4775-ABE7-2482551AF10F</p>
 </div>
@@ -1684,7 +1684,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1755,21 +1755,11 @@ $
 
 
 
-Change \"Difference between the hottest and the coldest cities\" to \"Difference\"
+step 1 :
 
+23 - (-12)
 
-
-Remove \"Hottest tempareture - Coldest tempareture\", spelling is wrong too.
-
-
-
-Write  in katex
-
-
-
-Difference = 23 - 12
-
-           = 11
+and solve further
 </div>
 
 <div class='review'>

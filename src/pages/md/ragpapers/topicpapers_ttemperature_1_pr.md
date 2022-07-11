@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-pr"
 title: "TopicPaper - Temperature - 1 - PR"
-date: 2022-07-11 06:13:31
+date: 2022-07-11 18:04:07
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>190C260A-B709-4BC3-B1A5-EB1669D52A22</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-11 06:13:31
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -324,6 +324,87 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : align &=
+
+
+
+part (c):
+
+move step 1 R.H.S. to step 2
+
+add a step 1 :
+
+11 - (18:00 - 12:00) x 1.5
+
+
+
+remove second katex
+
+write a Last line outside katex:
+
+Temperature at $6 \text {am}$ was cooler.
+
+
+
+in section.answer :
+
+two different answers , write in different sections 
+
+for this refer  :  19818B2F-9086-4F00-9201-4F75D3C5194C
+
+
+
+part (a) : align &=
+
+
+
+part (c):
+
+align &= (or katex)
+
+remove whole katex
+
+replace with :
+
+Temperature fell  = (18:00 - 12:00) x 2 
+
+                  = 6°C
+
+and in the same katex : 
+
+add another line : 
+
+\"Temperature at 18:00 am = Temperature at noon + Temperature risen\"
+
+                         = 11 - 9
+
+......
+
+
+
+part (d) : 
+
+remove second katex
+
+write a Last line outside katex:
+
+Temperature at $6 \text {am}$ was cooler.
+
+
+
+in section.answer :
+
+two different answers , write in different sections 
+
+for this refer  :  19818B2F-9086-4F00-9201-4F75D3C5194C
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -365,7 +446,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6698C0E8-8C91-401E-A164-C22C25F5E9F7</p>
 </div>
@@ -379,7 +460,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -443,6 +524,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove \"the\" from L.H.S. and R.H.S.
+
+
+
+align &= vertically
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -484,7 +578,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>34B6ABD4-2634-46DE-BC0B-524DA2C850E0</p>
 </div>
@@ -498,7 +592,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -558,6 +652,41 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+align &= (or katex)
+
+remove whole katex
+
+replace with :
+
+Temperature risen = (10:30 - 5:00) x 2 
+
+                  = 5 hours 30 minutes x 2 
+
+                  = 5 1/2 hours x 2 
+
+                  = 11/2 x 2
+
+                  = 11 x 2 /2
+
+and solve further 
+
+and in the same katex : 
+
+add another line : 
+
+\"Temperature at 10.30 am = Temperature at 5.00 am + Temperature risen\"
+
+                         = -3 + 11 
+
+and solve further
+</div>
 
 <div class='review'>
 <ul class='review'>

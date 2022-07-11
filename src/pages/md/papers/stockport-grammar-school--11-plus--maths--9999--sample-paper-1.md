@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3514,7 +3514,7 @@ tgraph
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>051F2794-DFF8-4792-8C27-24EC80D9363E</p>
 </div>
@@ -3528,7 +3528,7 @@ tgraph
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3697,6 +3697,19 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+step 1 : add line before katex:
+
+\"As per the table,\"
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>

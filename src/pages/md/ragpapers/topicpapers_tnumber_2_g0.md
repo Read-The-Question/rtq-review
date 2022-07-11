@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-g0"
 title: "TopicPaper - Number - 2 - G0"
-date: 2022-07-11 06:13:31
+date: 2022-07-11 18:04:07
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>162AA59F-08CC-4B9C-8C47-3D255B74EFFE</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-11 06:13:31
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -120,7 +120,7 @@ $2500 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>34651AA1-3B37-4CF9-8B13-4FD3BDD2969A</p>
 </div>
@@ -134,7 +134,7 @@ $2500 \ \text{cm}$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -252,10 +252,10 @@ $0.25 \div 1/4 = \boxed{\phantom{5555}}$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
 
 $
 \begin{aligned}
-&= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \times 4 \\\\
 &= 1
@@ -274,10 +274,9 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
 $
 \begin{aligned}
-&= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \times 4 \\\\
 &= 1
@@ -316,6 +315,7 @@ Let the missing number $= a$
 $
 \begin{aligned}
 25 - a + 17 &= 38 \\\\
+42 - a &= 38 \\\\
 a      &= 42 - 38 \\\\
 a      &= 4
 \end{aligned}
@@ -338,6 +338,7 @@ $4$
 $
 \begin{aligned}
 25 - a + 17 &= 38 \\\\
+42 - a &= 38 \\\\
 a      &= 42 - 38 \\\\
 a      &= 4
 \end{aligned}

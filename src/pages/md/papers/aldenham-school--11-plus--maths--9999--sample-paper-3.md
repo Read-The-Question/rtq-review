@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -358,7 +358,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C6F4AD83-598E-4D8C-8FE2-F30239151865</p>
 </div>
@@ -372,7 +372,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -408,6 +408,8 @@ $
 \end {aligned}
 $
 
+Number of students who studied Spanish $= 63$
+
 </div>
 </div>
 <div class='answers'>
@@ -434,6 +436,8 @@ $
                                 &=  63
 \end {aligned}
 $
+
+Number of students who studied Spanish $= 63$
 </code></pre>
 </div>
 </div>
@@ -926,7 +930,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>36F489C8-4D43-443D-8436-ED8F6DD25EB8</p>
 </div>
@@ -940,7 +944,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -967,8 +971,6 @@ How many cookies did they need to sell to reach their target?
 
 ABBR: It is really important to use the right units in calculations and convert where required
 .
-
-Let's convert the total amount into pence.
 
 $
 \begin {aligned}
@@ -998,7 +1000,7 @@ $
 </div>
 <div class='working'>
 
-This can be solved using algebra as well.
+Alternate solution.
 
 Let the number of cookies $= c$
 
@@ -1029,8 +1031,6 @@ $500$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
 
-Let's convert the total amount into pence.
-
 $
 \begin {aligned}
 \text{Total amount}     &= \pounds 200 \\\\
@@ -1059,7 +1059,7 @@ $
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>This can be solved using algebra as well.
+<pre class='language-latex'><code class='language-latex'>Alternate solution.
 
 Let the number of cookies $= c$
 
@@ -2719,7 +2719,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CB316C58-82C4-48CD-8739-CF12D8CB2F4C</p>
 </div>
@@ -2733,7 +2733,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3334,7 +3334,7 @@ Missing angle $= 27 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>91D59936-06F2-4B60-9E45-CE6157C7CD5F</p>
 </div>
@@ -3348,7 +3348,7 @@ Missing angle $= 27 \degree$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3426,6 +3426,8 @@ a                           &= 17
 \end {aligned}
 $
 
+The number I am thinking of $= 17$
+
 </div>
 </div>
 <div class='answers'>
@@ -3453,6 +3455,8 @@ a                           &= 23 - 6 \\\\
 a                           &= 17
 \end {aligned}
 $
+
+The number I am thinking of $= 17$
 </code></pre>
 </div>
 </div>
@@ -3863,7 +3867,7 @@ Square number with biggest sum of the digits $= 49$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8697781B-4AFF-4468-AA7D-11AE8E929A4F</p>
 </div>
@@ -3877,7 +3881,7 @@ Square number with biggest sum of the digits $= 49$.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3898,8 +3902,6 @@ How tall is the tree at the end of the second year?
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the height of the tree at the end of the first year.
-
 If the height increased by $30 \%$, then the new height will be $100 + 30 = 130 \%$ of the previous height. Using that, we get
 
 $
@@ -3912,8 +3914,6 @@ $
 \end {aligned}
 $
 
-Let's calculate the height of the tree at the end of the second year.
-
 If the height increased by $25 \%$, then the new height will be $100 + 25 = 125 \%$ of the previous height. Using that, we get
 
 $
@@ -3925,10 +3925,12 @@ $
 \end {aligned}
 $
 
+Tree height at the end of the second year $= 292.5$ cm.
+
 </div>
 <div class='working'>
 
-We can do both the calculations together and save a little effort.
+Alternate solution.
 
 $
 \begin {aligned}
@@ -3940,6 +3942,8 @@ $
                                        &= 292.5 \ \text{cm}
 \end {aligned}
 $
+
+Tree height at the end of the second year $= 292.5$ cm.
 
 </div>
 </div>
@@ -3953,9 +3957,7 @@ $292.5 \ \text {cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the height of the tree at the end of the first year.
-
-If the height increased by $30 \%$, then the new height will be $100 + 30 = 130 \%$ of the previous height. Using that, we get
+<pre class='language-latex'><code class='language-latex'>If the height increased by $30 \%$, then the new height will be $100 + 30 = 130 \%$ of the previous height. Using that, we get
 
 $
 \begin {aligned}
@@ -3967,8 +3969,6 @@ $
 \end {aligned}
 $
 
-Let's calculate the height of the tree at the end of the second year.
-
 If the height increased by $25 \%$, then the new height will be $100 + 25 = 125 \%$ of the previous height. Using that, we get
 
 $
@@ -3979,11 +3979,13 @@ $
                                       &= 292.5 \ \text {cm}
 \end {aligned}
 $
+
+Tree height at the end of the second year $= 292.5$ cm.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>We can do both the calculations together and save a little effort.
+<pre class='language-latex'><code class='language-latex'>Alternate solution.
 
 $
 \begin {aligned}
@@ -3995,6 +3997,8 @@ $
                                        &= 292.5 \ \text{cm}
 \end {aligned}
 $
+
+Tree height at the end of the second year $= 292.5$ cm.
 </code></pre>
 </div>
 </div>

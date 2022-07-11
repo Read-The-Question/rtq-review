@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2017-sample-paper-8"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4836,7 +4836,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4496A117-6B18-4654-BAF9-62ABE44DB139</p>
 </div>
@@ -4847,7 +4847,7 @@ TODOANSWER
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4989,7 +4989,7 @@ Ben wants to travel from Watford Town Hall to Uxbridge by bus. If he catches a b
 
 $
 \begin{aligned}
-\text{Time taken}       &= 09{:}36 - 08{:}57 \\\\
+\text{Time Taken}       &= 09{:}36 - 08{:}57 \\\\
                         &= 39  \ \text{minutes}
 \end{aligned}
 $
@@ -5008,7 +5008,7 @@ $39  \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time taken}       &= 09{:}36 - 08{:}57 \\\\
+\text{Time Taken}       &= 09{:}36 - 08{:}57 \\\\
                         &= 39  \ \text{minutes}
 \end{aligned}
 $
@@ -5245,6 +5245,43 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' id='FORM-4496A117-6B18-4654-BAF9-62ABE44DB139' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4496A117-6B18-4654-BAF9-62ABE44DB139'>Initial</p>
+</div>
 </div>
 </li>
 <li>

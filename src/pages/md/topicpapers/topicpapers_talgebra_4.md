@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "TopicPaper - Algebra - 4"
-date: 2022-07-11 06:13:31
+date: 2022-07-11 18:04:07
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-11 06:13:31
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>76EED758-156E-462D-9D8B-24446C9E1E55</p>
 </div>
@@ -23,13 +23,13 @@ date: 2022-07-11 06:13:31
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -47,44 +47,38 @@ Alex drinks $50\%$ more than Jane and these two friends finish the bottle betwee
 <div class='workings'>
 <div class='working'>
 
-Let Jane drinks $x \ \text{ml}$.
+Let Jane drinks $= a\ \text{ml}$.
+
+Juice drunk by Alex $= a + 50 \% \ \text{of} \ x$
 
 As per the question,
 
-Juice drunk by Alex $= x + 50 \% \ \text{of} x$
-
-Then,
-
 $
 \begin{aligned}
-x + x + 50 \% \ \text{of} \ x                &= 150 \ \text{ml} \\\\
-2x + \dfrac {50x} {100}                      &= 150 \\\\
-2x + \dfrac {5 \cancel{0}x} {10 \cancel {0}} &= 150 \\\\
-2x + \dfrac {5x} {10}                        &= 150 \\\\
-\dfrac {20x + 5x} {10}                       &= 150 \\\\
-\dfrac {25x} {10}                            &= 150 \\\\
-25x                                          &= 150 \times 10 \\\\
-x                                            &= \dfrac {25 \times 6 \times 10} {25} \\\\
-x                                            &= \dfrac {\cancel {25} \times 6 \times 10} {\cancel {25}} \\\\
-x                                            &= 6 \times 10 \\\\
-x                                            &= 60 \ \text {ml}
-\end{aligned}
-$
-
-Juice drunk by Jane $= 60 \ \text {ml}$
-
-Juice drunk by Alex $= 60 + 50 \% \times 60$
-
-$
-\begin{aligned}
+a + a + 50 \% \ \text{of} \ a                &= 150 \ \text{ml} \\\\
+2a + \dfrac {50a} {100}                      &= 150 \\\\
+2a + \dfrac {50a} {50 \times 2}              &= 150 \\\\
+2a + \dfrac { \cancel{50} a} { \cancel{50} \times 2}   &= 150 \\\\
+2a + \dfrac {a} {2}                        &= 150 \\\\
+\dfrac {2a \times 2 + a} {2}               &= 150 \\\\
+\dfrac  {4a + a} {2}                       &= 150 \\\\
+\dfrac  {5a} {2}                           &= 150 \\\\
+a                                          &= \dfrac {150 \times 2} {5} \\\\
+a                                          &= \dfrac { 5 \times 30 \times 2} {5} \\\\
+a                                          &= \dfrac { \cancel 5 \times 30 \times 2} {\cancel 5} \\\\
+a                                          &=  30 \times 2 \\\\
+a                                          &= 60 \ \text {ml} \\\\
+Juice drunk by Jane &= 60 \ \text {ml} \\\\
+Juice drunk by Alex &= 60 + 50 \% \times 60 \\\\
 &= 60 + \dfrac {50} {100} \times 60 \\\\
-&= 60 + \dfrac {3000} {100} \\\\
-&= 60 + \dfrac {30 \cancel{00}} {1 \cancel{00}} \\\\
-&= 90 \ \text {ml}
+&= 60 + \dfrac {50 \times 30 \times 2} {50 \times 2} \\\\
+&= 60 + \dfrac {\cancel {50} \times 30 \times \cancel 2} {\cancel {50} \times \cancel 2}  \\\\
+&= 60 + 30 \\\\
+&= 90 \ \text {ml} \\\\
+Juice drunk by Alex &= 90 \ \text {ml}
 \end{aligned}
 $
 
-Juice drunk by Alex $= 90 \ \text {ml}$
 
 </div>
 </div>
@@ -98,44 +92,38 @@ $90 \ \text {ml}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let Jane drinks $x \ \text{ml}$.
+<pre class='language-latex'><code class='language-latex'>Let Jane drinks $= a\ \text{ml}$.
+
+Juice drunk by Alex $= a + 50 \% \ \text{of} \ x$
 
 As per the question,
 
-Juice drunk by Alex $= x + 50 \% \ \text{of} x$
-
-Then,
-
 $
 \begin{aligned}
-x + x + 50 \% \ \text{of} \ x                &= 150 \ \text{ml} \\\\
-2x + \dfrac {50x} {100}                      &= 150 \\\\
-2x + \dfrac {5 \cancel{0}x} {10 \cancel {0}} &= 150 \\\\
-2x + \dfrac {5x} {10}                        &= 150 \\\\
-\dfrac {20x + 5x} {10}                       &= 150 \\\\
-\dfrac {25x} {10}                            &= 150 \\\\
-25x                                          &= 150 \times 10 \\\\
-x                                            &= \dfrac {25 \times 6 \times 10} {25} \\\\
-x                                            &= \dfrac {\cancel {25} \times 6 \times 10} {\cancel {25}} \\\\
-x                                            &= 6 \times 10 \\\\
-x                                            &= 60 \ \text {ml}
-\end{aligned}
-$
-
-Juice drunk by Jane $= 60 \ \text {ml}$
-
-Juice drunk by Alex $= 60 + 50 \% \times 60$
-
-$
-\begin{aligned}
+a + a + 50 \% \ \text{of} \ a                &= 150 \ \text{ml} \\\\
+2a + \dfrac {50a} {100}                      &= 150 \\\\
+2a + \dfrac {50a} {50 \times 2}              &= 150 \\\\
+2a + \dfrac { \cancel{50} a} { \cancel{50} \times 2}   &= 150 \\\\
+2a + \dfrac {a} {2}                        &= 150 \\\\
+\dfrac {2a \times 2 + a} {2}               &= 150 \\\\
+\dfrac  {4a + a} {2}                       &= 150 \\\\
+\dfrac  {5a} {2}                           &= 150 \\\\
+a                                          &= \dfrac {150 \times 2} {5} \\\\
+a                                          &= \dfrac { 5 \times 30 \times 2} {5} \\\\
+a                                          &= \dfrac { \cancel 5 \times 30 \times 2} {\cancel 5} \\\\
+a                                          &=  30 \times 2 \\\\
+a                                          &= 60 \ \text {ml} \\\\
+Juice drunk by Jane &= 60 \ \text {ml} \\\\
+Juice drunk by Alex &= 60 + 50 \% \times 60 \\\\
 &= 60 + \dfrac {50} {100} \times 60 \\\\
-&= 60 + \dfrac {3000} {100} \\\\
-&= 60 + \dfrac {30 \cancel{00}} {1 \cancel{00}} \\\\
-&= 90 \ \text {ml}
+&= 60 + \dfrac {50 \times 30 \times 2} {50 \times 2} \\\\
+&= 60 + \dfrac {\cancel {50} \times 30 \times \cancel 2} {\cancel {50} \times \cancel 2}  \\\\
+&= 60 + 30 \\\\
+&= 90 \ \text {ml} \\\\
+Juice drunk by Alex &= 90 \ \text {ml}
 \end{aligned}
 $
 
-Juice drunk by Alex $= 90 \ \text {ml}$
 </code></pre>
 </div>
 </div>
@@ -201,10 +189,10 @@ Juice drunk by Alex $= 90 \ \text {ml}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -582,10 +570,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -948,10 +936,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1219,10 +1207,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1311,10 +1299,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1400,7 +1388,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A3479604-4BFA-4285-ACC4-985B4A900D81</p>
 </div>
@@ -1408,13 +1396,13 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1584,6 +1572,8 @@ Work out the value of $a$ if $3 \ \ast \ a = 6$.
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 (a - 3) \times 3 &= 6 \\\\
@@ -1608,7 +1598,9 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
 (a - 3) \times 3 &= 6 \\\\
 3a - 9           &= 6 \\\\
@@ -1647,6 +1639,9 @@ Work out the value of $b$ if $b \ \ast \ 5 = 9$.
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+
 $
 \begin{aligned}
 (5 - b) \times 3 &= 9 \\\\
@@ -1669,7 +1664,10 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+
+$
 \begin{aligned}
 (5 - b) \times 3 &= 9 \\\\
 15 - 3b          &= 9 \\\\
@@ -1706,6 +1704,9 @@ Work out the value of $c$ if $c \ \ast \ 5 = 4 \ \ast \ c$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+
 $
 \begin{aligned}
 (5 - c) \times 3 &= (c - 4) \times 3 \\\\
@@ -1731,7 +1732,10 @@ $\dfrac {9} {2}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+
+$
 \begin{aligned}
 (5 - c) \times 3 &= (c - 4) \times 3 \\\\
 15 - 3c          &= 3c - 12 \\\\
@@ -1811,10 +1815,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1894,7 +1898,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>75A4A1B2-39C8-487C-BD89-470F69BE0F8C</p>
 </div>
@@ -1902,13 +1906,13 @@ TODOANSWER
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2029,7 +2033,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>07071090-243A-4C15-B778-53C51DA63E26</p>
 </div>
@@ -2037,13 +2041,13 @@ $
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2176,7 +2180,7 @@ The number I was thinking of $= 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BD373007-66C1-4E42-B2DD-8E077A7F99DB</p>
 </div>
@@ -2184,13 +2188,13 @@ The number I was thinking of $= 5$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2225,7 +2229,7 @@ How many white tiles does it have?
 
 After oberserving the pattern, the white tiles are one more than half of the black tiles.
 
-As per the pattern,
+As per the question,
 
 $
 \begin{aligned}
@@ -2255,7 +2259,7 @@ $15$
 
 <pre class='language-latex'><code class='language-latex'>After oberserving the pattern, the white tiles are one more than half of the black tiles.
 
-As per the pattern,
+As per the question,
 
 $
 \begin{aligned}
@@ -2329,7 +2333,7 @@ DONE As per the pattern,
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ACBD2F74-0174-460D-93C5-F21245389B8B</p>
 </div>
@@ -2337,13 +2341,13 @@ DONE As per the pattern,
 <p>eltham-college--11-plus--maths--2020--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2369,9 +2373,10 @@ What was his original number?
 <div class='workings'>
 <div class='working'>
 
-Let the number Kieran thought of $= a$
+Let the original number Kieran thought of $= a$
 
 As per the question,
+
 
 $
 \begin{aligned}
@@ -2405,9 +2410,10 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number Kieran thought of $= a$
+<pre class='language-latex'><code class='language-latex'>Let the original number Kieran thought of $= a$
 
 As per the question,
+
 
 $
 \begin{aligned}
@@ -2482,7 +2488,7 @@ The original number Kieran thought of $= 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>083271E8-99C6-43BF-A7F3-B01D009B385F</p>
 </div>
@@ -2490,13 +2496,13 @@ The original number Kieran thought of $= 5$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2528,28 +2534,28 @@ a - b                    &= 6
 \end{aligned}
 $
 
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Subtract the second equation from the first to reduce it to one variable.
+Let's find first number. Using equation 1 and 2 we get,
 
 $
 \begin{aligned}
-a + b - (a - b)          &= 32 - 6 \\\\
-a + b - a + b            &= 26 \\\\
-2b                       &= 26 \\\\
-b                        &= \dfrac {26} {2} \\\\
-b                        &= 13
+a + a &= 38 \\\\
+2a &= 38 \\\\
+a &= \dfrac {38} {2} \\\\
+a &= \dfrac {19 \times 2} {2} \\\\
+a &= \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
+a &= 19
 \end{aligned}
 $
 
-Let's substitute the value of $b$ in one of the initial equations.
+Let's find the second number. Using equation 1 we get,
+
 
 $
 \begin{aligned} 
 a + b                    &= 32 \\\\
-a + 13                   &= 32 \\\\
-a                        &= 32 - 13 \\\\
-a                        &= 19
+19 + b                   &= 32 \\\\
+b                        &= 32 - 19 \\\\
+b                        &= 13
 \end{aligned}
 $
 
@@ -2562,7 +2568,7 @@ Second number $= 13$
 <div class='answers'>
 <div class='answer'>
 
-$19 \ \text{and} \ 13$
+$19 , 13$
 
 </div>
 </div>
@@ -2582,28 +2588,28 @@ a - b                    &= 6
 \end{aligned}
 $
 
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Subtract the second equation from the first to reduce it to one variable.
+Let's find first number. Using equation 1 and 2 we get,
 
 $
 \begin{aligned}
-a + b - (a - b)          &= 32 - 6 \\\\
-a + b - a + b            &= 26 \\\\
-2b                       &= 26 \\\\
-b                        &= \dfrac {26} {2} \\\\
-b                        &= 13
+a + a &= 38 \\\\
+2a &= 38 \\\\
+a &= \dfrac {38} {2} \\\\
+a &= \dfrac {19 \times 2} {2} \\\\
+a &= \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
+a &= 19
 \end{aligned}
 $
 
-Let's substitute the value of $b$ in one of the initial equations.
+Let's find the second number. Using equation 1 we get,
+
 
 $
 \begin{aligned} 
 a + b                    &= 32 \\\\
-a + 13                   &= 32 \\\\
-a                        &= 32 - 13 \\\\
-a                        &= 19
+19 + b                   &= 32 \\\\
+b                        &= 32 - 19 \\\\
+b                        &= 13
 \end{aligned}
 $
 
@@ -2621,7 +2627,7 @@ Second number $= 13$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$19 \ \text{and} \ 13$
+<pre class='language-latex'><code class='language-latex'>$19 , 13$
 </code></pre>
 </div>
 </div>
@@ -2675,10 +2681,10 @@ Second number $= 13$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3025,10 +3031,10 @@ $
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3162,10 +3168,10 @@ The number Sophie thought of $= 9$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3231,10 +3237,10 @@ TODOANSWER
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3575,10 +3581,10 @@ $
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3714,10 +3720,10 @@ Mayank's number $= 18$.
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3842,10 +3848,10 @@ $
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3937,10 +3943,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:24</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4080,10 +4086,10 @@ There are total $3$ wobbles.
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4221,10 +4227,10 @@ Theo was thinking of $32$.
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4404,10 +4410,10 @@ Amrit gets $9 \times 1 = 9$ sweets.
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:37</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4499,10 +4505,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4635,10 +4641,10 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4730,10 +4736,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4860,10 +4866,10 @@ The medicine will last for $6$ days.
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4985,10 +4991,10 @@ The number is $7$
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5079,10 +5085,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5172,10 +5178,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5264,10 +5270,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5406,10 +5412,10 @@ Suril got $6 \times 15 = 90$ marks.
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5547,10 +5553,10 @@ They won $6$ matches.
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5789,10 +5795,10 @@ $
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6215,10 +6221,10 @@ $
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6328,10 +6334,10 @@ $
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6645,10 +6651,10 @@ $6$ bottles will last for $9$ days.
 <p>highgate-school--11-plus--maths--2013--sample-paper-d:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

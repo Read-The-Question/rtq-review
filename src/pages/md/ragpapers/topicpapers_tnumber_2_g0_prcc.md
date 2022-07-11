@@ -1,11 +1,126 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-2-g0-prpcr"
-title: "TopicPaper - Number - 2 - G0 - PRPCR"
-date: 2022-07-11 06:13:31
+slug: "ragpapers/topicpapers-tnumber-2-g0-prcc"
+title: "TopicPaper - Number - 2 - G0 - PRCC"
+date: 2022-07-11 18:04:07
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>162AA59F-08CC-4B9C-8C47-3D255B74EFFE</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:4</p>
+</div>
+<div class='rag'>
+<p>Anushka Srivastava</p>
+</div>
+<div class='rag'>
+<p>rag_an_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The most likely height of a single-decker bus is:
+
+-  $0.25 \ \text{cm}$ 
+-  $2.5 \ \text{cm}$ 
+-  $25 \ \text{cm}$ 
+-  $250 \ \text{cm}$ 
+-  $2500 \ \text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2500 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$2500 \ \text{cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$2500 \ \text{cm}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>E</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2500 \ \text{cm}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' id='FORM-162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-162AA59F-08CC-4B9C-8C47-3D255B74EFFE'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>34651AA1-3B37-4CF9-8B13-4FD3BDD2969A</p>
 </div>
@@ -19,7 +134,7 @@ date: 2022-07-11 06:13:31
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -137,10 +252,10 @@ $0.25 \div 1/4 = \boxed{\phantom{5555}}$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
 
 $
 \begin{aligned}
-&= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \times 4 \\\\
 &= 1
@@ -159,10 +274,9 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
 $
 \begin{aligned}
-&= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \times 4 \\\\
 &= 1
@@ -201,6 +315,7 @@ Let the missing number $= a$
 $
 \begin{aligned}
 25 - a + 17 &= 38 \\\\
+42 - a &= 38 \\\\
 a      &= 42 - 38 \\\\
 a      &= 4
 \end{aligned}
@@ -223,6 +338,7 @@ $4$
 $
 \begin{aligned}
 25 - a + 17 &= 38 \\\\
+42 - a &= 38 \\\\
 a      &= 42 - 38 \\\\
 a      &= 4
 \end{aligned}

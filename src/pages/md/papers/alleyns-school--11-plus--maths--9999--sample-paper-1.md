@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1087,7 +1087,7 @@ $$ is still katex, write without $$ just place nine tenths
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6D5C94CF-2D87-4416-AAA2-9227B6C1AC6A</p>
 </div>
@@ -1101,7 +1101,7 @@ $$ is still katex, write without $$ just place nine tenths
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1127,19 +1127,22 @@ I buy a pen and a pencil for $\pounds 1.10$. The pen costs $50 \text{p}$ more th
 <div class='workings'>
 <div class='working'>
 
-Let the price of pencil $= a$
+Let the price of pencil $= a$ (in pence)
 
-As per the question price of pen $= a + 50$
+then the price of pen $= a + 50$ (in pence)
+
+
+As per the question,
 
 $
 \begin{aligned}
-a + a + 50   &= 110 \\\\
-2a + 50      &= 110 \\\\
-2a           &= 110 - 50 \\\\
-a            &= \dfrac {60} {2} \\\\
-a            &= \dfrac {30 \times 2} {2} \\\\
-a            &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
-a            &= 30 \text{p}
+(a + a + 50) \text{p}   &= 1.1 \times 100 \text{p} \\\\
+2a + 50                 &= 110 \\\\
+2a                      &= 110 - 50 \\\\
+a                       &= \dfrac {60} {2} \\\\
+a                       &= \dfrac {30 \times 2} {2} \\\\
+a                       &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
+a                       &= 30 \text{p}
 \end{aligned}
 $
 
@@ -1159,26 +1162,29 @@ $
 </div>
 <div class='answer'>
 
-$80 \text{p}$
+d
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the price of pencil $= a$
+<pre class='language-latex'><code class='language-latex'>Let the price of pencil $= a$ (in pence)
 
-As per the question price of pen $= a + 50$
+then the price of pen $= a + 50$ (in pence)
+
+
+As per the question,
 
 $
 \begin{aligned}
-a + a + 50   &= 110 \\\\
-2a + 50      &= 110 \\\\
-2a           &= 110 - 50 \\\\
-a            &= \dfrac {60} {2} \\\\
-a            &= \dfrac {30 \times 2} {2} \\\\
-a            &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
-a            &= 30 \text{p}
+(a + a + 50) \text{p}   &= 1.1 \times 100 \text{p} \\\\
+2a + 50                 &= 110 \\\\
+2a                      &= 110 - 50 \\\\
+a                       &= \dfrac {60} {2} \\\\
+a                       &= \dfrac {30 \times 2} {2} \\\\
+a                       &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
+a                       &= 30 \text{p}
 \end{aligned}
 $
 
@@ -1200,7 +1206,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$80 \text{p}$
+<pre class='language-latex'><code class='language-latex'>d
 </code></pre>
 </div>
 </div>

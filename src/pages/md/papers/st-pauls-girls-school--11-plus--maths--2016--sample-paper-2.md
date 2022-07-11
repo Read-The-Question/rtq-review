@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1660,7 +1660,7 @@ Numbers that are divisible by both 3 and 5 and would appear in the sequence are 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -1674,7 +1674,7 @@ Numbers that are divisible by both 3 and 5 and would appear in the sequence are 
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1701,8 +1701,9 @@ At what time is registration?
 
 $
 \begin{aligned}
-\text{Registration time}      &= 7{:}40 \ \text{am} + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
-                              &= 7{:}40 \ \text{am} + 65 \ \text{minutes}   \\\\
+\text{Registration Time}      &= 7{:}40  + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
+                              &= 7{:}40 + 70 \ \text{minutes} - 5 \ \text{minutes}   \\\\
+                              &= 7{:}40 + 65 \ \text{minutes}   \\\\
                               &= 8{:}45 \ \text{am}
 \end{aligned}
 $
@@ -1721,8 +1722,9 @@ $8{:}45 \ \text{am}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Registration time}      &= 7{:}40 \ \text{am} + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
-                              &= 7{:}40 \ \text{am} + 65 \ \text{minutes}   \\\\
+\text{Registration Time}      &= 7{:}40  + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
+                              &= 7{:}40 + 70 \ \text{minutes} - 5 \ \text{minutes}   \\\\
+                              &= 7{:}40 + 65 \ \text{minutes}   \\\\
                               &= 8{:}45 \ \text{am}
 \end{aligned}
 $

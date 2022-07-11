@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1116,7 +1116,7 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
 </div>
@@ -1130,7 +1130,7 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1152,24 +1152,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Opening hours from Monday to Saturday} &= 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} \\\\
-                                             &= 14 \ \text{hours} \\\\
-\text{Opening hours on Sunday}               &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
-                                             &= 6 \ \text{hours}
+\text{Total hours}    &= 6 \times ( 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} ) + 04{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
+                      &= 6 \times 14 \ \text{hours} +  6 \ \text{hours} \\\\
+                      &= 84 + 6 \\\\
+                      &= 90 \ \text{hours}
 \end{aligned}
 $
 
-Number of hours from Monday to Saturday $= 14 \times 6$
-
-Number of hours on Sunday $= 6$
-
-$
-\begin{aligned}
-\text{Total hours}  &= 14 \times 6 + 6 \\\\
-                    &= 84 + 6 \\\\
-                    &= 90 \ \text {hours}
-\end{aligned}
-$
 
 </div>
 </div>
@@ -1187,24 +1176,13 @@ $90 \ \text {hours}$
 
 $
 \begin{aligned}
-\text{Opening hours from Monday to Saturday} &= 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} \\\\
-                                             &= 14 \ \text{hours} \\\\
-\text{Opening hours on Sunday}               &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
-                                             &= 6 \ \text{hours}
+\text{Total hours}    &= 6 \times ( 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} ) + 04{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
+                      &= 6 \times 14 \ \text{hours} +  6 \ \text{hours} \\\\
+                      &= 84 + 6 \\\\
+                      &= 90 \ \text{hours}
 \end{aligned}
 $
 
-Number of hours from Monday to Saturday $= 14 \times 6$
-
-Number of hours on Sunday $= 6$
-
-$
-\begin{aligned}
-\text{Total hours}  &= 14 \times 6 + 6 \\\\
-                    &= 84 + 6 \\\\
-                    &= 90 \ \text {hours}
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>

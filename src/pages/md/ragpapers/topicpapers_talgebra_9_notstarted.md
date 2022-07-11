@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-notstarted"
 title: "TopicPaper - Algebra - 9 - NOTSTARTED"
-date: 2022-07-11 06:13:31
+date: 2022-07-11 18:04:07
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-11 06:13:31
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -284,10 +284,10 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -580,10 +580,10 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -682,10 +682,10 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -780,10 +780,10 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -879,10 +879,10 @@ TODOANSWER
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -986,10 +986,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1085,10 +1085,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1180,10 +1180,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1271,10 +1271,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1625,10 +1625,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1909,10 +1909,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2003,10 +2003,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2096,10 +2096,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2167,10 +2167,10 @@ How many magazines does she buy?
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

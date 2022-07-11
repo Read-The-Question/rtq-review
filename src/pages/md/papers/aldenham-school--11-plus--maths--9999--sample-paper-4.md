@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1321,7 +1321,7 @@ I think you have removed working section for all these questions, you need to ad
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EED93740-E026-4C7A-A7F1-CCA71D506BCC</p>
 </div>
@@ -1335,7 +1335,7 @@ I think you have removed working section for all these questions, you need to ad
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1357,8 +1357,6 @@ How many did he put in the fruit bowl?
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the number of apples left after giving some to his Granny.
-
 If George gave $\dfrac {1} {2}$ to his Granny, then he is left with $1 - \dfrac {1} {2} = \dfrac {1} {2}$ of the apples. Using that, we get
 
 $
@@ -1367,8 +1365,6 @@ $
                         &= 12
 \end {aligned}
 $
-
-Let's calculate the number of apples left after giving some to his friends.
 
 If George gave $\dfrac {2} {3}$ to his friends, then he is left with $1 - \dfrac {2} {3} = \dfrac {1} {3}$ of the remaining apples. Using that, we get
 
@@ -1379,10 +1375,12 @@ $
 \end {aligned}
 $
 
+Number of apples left in his fruit bowl $= 4$
+
 </div>
 <div class='working'>
 
-We can do both the calculations together and save a little effort.
+Alternate solution.
 
 $
 \begin {aligned}
@@ -1392,6 +1390,8 @@ $
                                       &= 4
 \end {aligned}
 $
+
+Number of apples left in the fruit bowl $= 4$
 
 </div>
 </div>
@@ -1405,9 +1405,7 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the number of apples left after giving some to his Granny.
-
-If George gave $\dfrac {1} {2}$ to his Granny, then he is left with $1 - \dfrac {1} {2} = \dfrac {1} {2}$ of the apples. Using that, we get
+<pre class='language-latex'><code class='language-latex'>If George gave $\dfrac {1} {2}$ to his Granny, then he is left with $1 - \dfrac {1} {2} = \dfrac {1} {2}$ of the apples. Using that, we get
 
 $
 \begin {aligned}
@@ -1415,8 +1413,6 @@ $
                         &= 12
 \end {aligned}
 $
-
-Let's calculate the number of apples left after giving some to his friends.
 
 If George gave $\dfrac {2} {3}$ to his friends, then he is left with $1 - \dfrac {2} {3} = \dfrac {1} {3}$ of the remaining apples. Using that, we get
 
@@ -1426,11 +1422,13 @@ $
                                           &= 4
 \end {aligned}
 $
+
+Number of apples left in his fruit bowl $= 4$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>We can do both the calculations together and save a little effort.
+<pre class='language-latex'><code class='language-latex'>Alternate solution.
 
 $
 \begin {aligned}
@@ -1440,6 +1438,8 @@ $
                                       &= 4
 \end {aligned}
 $
+
+Number of apples left in the fruit bowl $= 4$
 </code></pre>
 </div>
 </div>
@@ -1497,7 +1497,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C9888A8A-5D23-40EC-9466-8099B63871A2</p>
 </div>
@@ -1511,7 +1511,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

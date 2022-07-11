@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-1"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -804,7 +804,7 @@ $50706$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>190C260A-B709-4BC3-B1A5-EB1669D52A22</p>
 </div>
@@ -818,7 +818,7 @@ $50706$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1123,6 +1123,87 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : align &=
+
+
+
+part (c):
+
+move step 1 R.H.S. to step 2
+
+add a step 1 :
+
+11 - (18:00 - 12:00) x 1.5
+
+
+
+remove second katex
+
+write a Last line outside katex:
+
+Temperature at $6 \text {am}$ was cooler.
+
+
+
+in section.answer :
+
+two different answers , write in different sections 
+
+for this refer  :  19818B2F-9086-4F00-9201-4F75D3C5194C
+
+
+
+part (a) : align &=
+
+
+
+part (c):
+
+align &= (or katex)
+
+remove whole katex
+
+replace with :
+
+Temperature fell  = (18:00 - 12:00) x 2 
+
+                  = 6°C
+
+and in the same katex : 
+
+add another line : 
+
+\"Temperature at 18:00 am = Temperature at noon + Temperature risen\"
+
+                         = 11 - 9
+
+......
+
+
+
+part (d) : 
+
+remove second katex
+
+write a Last line outside katex:
+
+Temperature at $6 \text {am}$ was cooler.
+
+
+
+in section.answer :
+
+two different answers , write in different sections 
+
+for this refer  :  19818B2F-9086-4F00-9201-4F75D3C5194C
+</div>
 
 <div class='review'>
 <ul class='review'>

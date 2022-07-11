@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-11 06:08:59
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>34651AA1-3B37-4CF9-8B13-4FD3BDD2969A</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-11 06:08:59
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -145,10 +145,10 @@ $0.25 \div 1/4 = \boxed{\phantom{5555}}$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
 
 $
 \begin{aligned}
-&= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \times 4 \\\\
 &= 1
@@ -167,10 +167,9 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
 $
 \begin{aligned}
-&= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \div \dfrac {1} {4} \\\\
 &= 0.25 \times 4 \\\\
 &= 1
@@ -209,6 +208,7 @@ Let the missing number $= a$
 $
 \begin{aligned}
 25 - a + 17 &= 38 \\\\
+42 - a &= 38 \\\\
 a      &= 42 - 38 \\\\
 a      &= 4
 \end{aligned}
@@ -231,6 +231,7 @@ $4$
 $
 \begin{aligned}
 25 - a + 17 &= 38 \\\\
+42 - a &= 38 \\\\
 a      &= 42 - 38 \\\\
 a      &= 4
 \end{aligned}
@@ -3323,7 +3324,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>90559230-2BC2-4EB0-84DF-D9BA98C6058E</p>
 </div>
@@ -3337,7 +3338,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3358,6 +3359,8 @@ How much money does she still have to spend?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 \text{Money left to spent} &= 20 - (4.88 + \dfrac {1} {3} \times (20 - 4.88)) \\\\
@@ -3369,6 +3372,8 @@ $
                            &= \pounds 10.08
 \end{aligned}
 $
+
+Money left with Eleanor $= \pounds 10.08$
 
 </div>
 </div>
@@ -3382,7 +3387,9 @@ $\pounds 10.08$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
 \text{Money left to spent} &= 20 - (4.88 + \dfrac {1} {3} \times (20 - 4.88)) \\\\
                            &= 20 - (4.88 + \dfrac {1} {3} \times 15.12) \\\\
@@ -3393,6 +3400,8 @@ $\pounds 10.08$
                            &= \pounds 10.08
 \end{aligned}
 $
+
+Money left with Eleanor $= \pounds 10.08$
 </code></pre>
 </div>
 </div>

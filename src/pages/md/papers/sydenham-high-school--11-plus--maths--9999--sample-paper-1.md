@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2449,7 +2449,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
 </div>
@@ -2463,7 +2463,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2525,6 +2525,21 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+from L.H.S : remove \"The\" and t capital in \"temperature\"
+
+step 1 : 
+
+change to -7 + 12 
+
+remove step 2
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2737,7 +2752,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E8BEF82D-E970-4508-A623-9BC202200751</p>
 </div>
@@ -2751,7 +2766,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2772,8 +2787,8 @@ At what time did Jamie get home?
 
 $
 \begin{aligned}
-\text {Time at which Jamie got home}             &= 3 {:} 55 \ \text {pm} + 55 \ \text {min} \\\\
-                                                 &= 4 {:} 50 \ \text {pm}
+\text {Arrival Time}             &= 3 {:} 55 + 55 \ \text {minutes} \\\\
+                                 &= 4 {:} 50 \ \text {pm}
 \end{aligned}
 $
 
@@ -2791,8 +2806,8 @@ $4 {:} 50 \ \text {pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Time at which Jamie got home}             &= 3 {:} 55 \ \text {pm} + 55 \ \text {min} \\\\
-                                                 &= 4 {:} 50 \ \text {pm}
+\text {Arrival Time}             &= 3 {:} 55 + 55 \ \text {minutes} \\\\
+                                 &= 4 {:} 50 \ \text {pm}
 \end{aligned}
 $
 </code></pre>

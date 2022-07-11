@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-11 06:08:59
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>71748A3D-9EB9-407F-BE74-AE1F06A04E99</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-11 06:08:59
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -892,7 +892,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A9BB615E-D457-47F6-AF4E-CD7BA00D2171</p>
 </div>
@@ -906,7 +906,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -977,6 +977,8 @@ $
 \end{aligned}
 $
 
+Each person will get $= 108$ stickers
+
 </div>
 </div>
 <div class='answers'>
@@ -1000,6 +1002,8 @@ $
                                               &= 108
 \end{aligned}
 $
+
+Each person will get $= 108$ stickers
 </code></pre>
 </div>
 </div>
@@ -1099,6 +1103,8 @@ $
 \end{aligned}
 $
 
+Amar's travelling cost $= \pounds 14$ per week
+
 </div>
 </div>
 <div class='answers'>
@@ -1122,6 +1128,8 @@ $
                                               &= \pounds 14
 \end{aligned}
 $
+
+Amar's travelling cost $= \pounds 14$ per week
 </code></pre>
 </div>
 </div>

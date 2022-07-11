@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1592,7 +1592,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>6A8BB9E0-C32A-4D55-898F-18D887FEB7F8</p>
 </div>
@@ -1606,7 +1606,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1625,7 +1625,7 @@ My journey to school generally takes $40 \ \text{minutes}$. What time shall I le
 
 $
 \begin{aligned}
-\text{Time to leave}   &= 8{:}15 \ \text{am} - 40 \ \text{minutes} \\\\
+\text{Time to leave}   &= 8{:}15 - 40 \ \text{minutes} \\\\
                        &= 7{:}35 \ \text{am}
 \end{aligned}
 $
@@ -1635,7 +1635,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7{.}35 \ \text{a.m}$
+$7{:}35 \ \text{am}$
 
 </div>
 </div>
@@ -1644,7 +1644,7 @@ $7{.}35 \ \text{a.m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time to leave}   &= 8{:}15 \ \text{am} - 40 \ \text{minutes} \\\\
+\text{Time to leave}   &= 8{:}15 - 40 \ \text{minutes} \\\\
                        &= 7{:}35 \ \text{am}
 \end{aligned}
 $
@@ -1659,7 +1659,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7{.}35 \ \text{a.m}$
+<pre class='language-latex'><code class='language-latex'>$7{:}35 \ \text{am}$
 </code></pre>
 </div>
 </div>
@@ -1671,13 +1671,7 @@ $
 
 
 
-remove \"am\" from first line 
-
-in section.answer :
-
-remove . from \"a.m\"
-
-replace . from :
+replace L.H.S : \"Leaving Time\"
 </div>
 
 <div class='review'>

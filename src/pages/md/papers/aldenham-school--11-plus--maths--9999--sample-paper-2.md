@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1126,7 +1126,7 @@ $0.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>125D5D46-1589-49A3-B299-BF6AD03EEA2F</p>
 </div>
@@ -1140,7 +1140,7 @@ $0.4$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1176,9 +1176,8 @@ $
 \bigg(\dfrac{a}{2} + 5 \bigg)^2     &= 121 \\\\
 \dfrac{a}{2} + 5                    &= \sqrt{121} \\\\
 \dfrac{a}{2} + 5                    &= 11 \\\\
-\dfrac{a}{2}                        &= 11 - 5 \\\\
-\dfrac{a}{2}                        &= 6 \\\\
-a                                   &= 6 \times 2 \\\\
+a                                   &= 2 \times (11 - 5) \\\\
+a                                   &= 2 \times 6 \\\\
 a                                   &= 12 
 \end {aligned}
 $
@@ -1206,9 +1205,8 @@ $
 \bigg(\dfrac{a}{2} + 5 \bigg)^2     &= 121 \\\\
 \dfrac{a}{2} + 5                    &= \sqrt{121} \\\\
 \dfrac{a}{2} + 5                    &= 11 \\\\
-\dfrac{a}{2}                        &= 11 - 5 \\\\
-\dfrac{a}{2}                        &= 6 \\\\
-a                                   &= 6 \times 2 \\\\
+a                                   &= 2 \times (11 - 5) \\\\
+a                                   &= 2 \times 6 \\\\
 a                                   &= 12 
 \end {aligned}
 $

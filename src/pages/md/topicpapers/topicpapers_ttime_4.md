@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-07-11 06:13:31
+date: 2022-07-11 18:04:07
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1383,7 +1383,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -1397,7 +1397,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1424,8 +1424,9 @@ At what time is registration?
 
 $
 \begin{aligned}
-\text{Registration time}      &= 7{:}40 \ \text{am} + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
-                              &= 7{:}40 \ \text{am} + 65 \ \text{minutes}   \\\\
+\text{Registration Time}      &= 7{:}40  + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
+                              &= 7{:}40 + 70 \ \text{minutes} - 5 \ \text{minutes}   \\\\
+                              &= 7{:}40 + 65 \ \text{minutes}   \\\\
                               &= 8{:}45 \ \text{am}
 \end{aligned}
 $
@@ -1444,8 +1445,9 @@ $8{:}45 \ \text{am}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Registration time}      &= 7{:}40 \ \text{am} + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
-                              &= 7{:}40 \ \text{am} + 65 \ \text{minutes}   \\\\
+\text{Registration Time}      &= 7{:}40  + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
+                              &= 7{:}40 + 70 \ \text{minutes} - 5 \ \text{minutes}   \\\\
+                              &= 7{:}40 + 65 \ \text{minutes}   \\\\
                               &= 8{:}45 \ \text{am}
 \end{aligned}
 $
@@ -2724,7 +2726,7 @@ remove whole katex:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E8BEF82D-E970-4508-A623-9BC202200751</p>
 </div>
@@ -2738,7 +2740,7 @@ remove whole katex:
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2759,8 +2761,8 @@ At what time did Jamie get home?
 
 $
 \begin{aligned}
-\text {Time at which Jamie got home}             &= 3 {:} 55 \ \text {pm} + 55 \ \text {min} \\\\
-                                                 &= 4 {:} 50 \ \text {pm}
+\text {Arrival Time}             &= 3 {:} 55 + 55 \ \text {minutes} \\\\
+                                 &= 4 {:} 50 \ \text {pm}
 \end{aligned}
 $
 
@@ -2778,8 +2780,8 @@ $4 {:} 50 \ \text {pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Time at which Jamie got home}             &= 3 {:} 55 \ \text {pm} + 55 \ \text {min} \\\\
-                                                 &= 4 {:} 50 \ \text {pm}
+\text {Arrival Time}             &= 3 {:} 55 + 55 \ \text {minutes} \\\\
+                                 &= 4 {:} 50 \ \text {pm}
 \end{aligned}
 $
 </code></pre>
@@ -3007,7 +3009,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D5012DF2-F430-4487-8A7E-139B87DBBF34</p>
 </div>
@@ -3021,7 +3023,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3038,12 +3040,12 @@ How many days are there in $48 \ \text{weeks}$?
 <div class='workings'>
 <div class='working'>
 
-As we know there are $7$ days in a week. Using that we get,
 
 $
 \begin{aligned}
-\text {Number of days in 48 weeks}  &= 48 \times 7 \\\\
-                                    &= 336
+&= 48 \ \text{weeks} \\\\
+&= 48 \times 7 \\\\
+&= 336 \ \text{days}
 \end{aligned}
 $
 
@@ -3052,19 +3054,19 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$336$
+$336 \ \text{days}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As we know there are $7$ days in a week. Using that we get,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text {Number of days in 48 weeks}  &= 48 \times 7 \\\\
-                                    &= 336
+&= 48 \ \text{weeks} \\\\
+&= 48 \times 7 \\\\
+&= 336 \ \text{days}
 \end{aligned}
 $
 </code></pre>
@@ -3078,7 +3080,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$336$
+<pre class='language-latex'><code class='language-latex'>$336 \ \text{days}$
 </code></pre>
 </div>
 </div>
@@ -3147,7 +3149,7 @@ write days in section.answer too
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
@@ -3161,7 +3163,7 @@ write days in section.answer too
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3227,7 +3229,7 @@ $
 \end{aligned}
 $
 
-Matilda receives the call in Australian at $10{:}00$ and on $31 \text{st}$ January.
+Matilda receives the call in Australia at $10{:}00$ and on $31 \text{st}$ January.
 
 
 </div>
@@ -3254,7 +3256,7 @@ $31 \text{st January}$
 \end{aligned}
 $
 
-Matilda receives the call in Australian at $10{:}00$ and on $31 \text{st}$ January.
+Matilda receives the call in Australia at $10{:}00$ and on $31 \text{st}$ January.
 
 </code></pre>
 </div>
@@ -3298,9 +3300,9 @@ She leaves the UK at the same time that John makes his phone call. Given that th
 
 $
 \begin{aligned}
-& = 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
-& = 23{:}00 + 24 \ \text {hours} + 14 \ \text {hours} \\\\
-& = 13{:}00
+\text{Arrival Time}       &= 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
+                          &= 23{:}00 + 38 \ \text {hours} \\\\
+                          & = 13{:}00
 \end{aligned}
 $
 
@@ -3325,9 +3327,9 @@ $1 \text{st February}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-& = 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
-& = 23{:}00 + 24 \ \text {hours} + 14 \ \text {hours} \\\\
-& = 13{:}00
+\text{Arrival Time}       &= 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
+                          &= 23{:}00 + 38 \ \text {hours} \\\\
+                          & = 13{:}00
 \end{aligned}
 $
 
@@ -3795,7 +3797,7 @@ The latest time that Roweena need to leave her house is $= 0719$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9584D5F5-A2A6-4220-9550-009F833ABA09</p>
 </div>
@@ -3809,7 +3811,7 @@ The latest time that Roweena need to leave her house is $= 0719$.
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3826,20 +3828,16 @@ If March $23 \text{rd}$ is a Monday, on what day of the week is April $2 \text{n
 <div class='workings'>
 <div class='working'>
 
-The month March has $31$ days.
-
-A week has $7$ days.
 
 $
 \begin{aligned}
-&= \text {March} \ 23 \ \text {Monday} + 7 \ \text {days} + 1 \ \text {day} + 2 \ \text{days} \\\\
-&= \text {March} \ 30 \ \text {Monday} + 1 \ \text {day} + 2 \ \text {days} \\\\
-&= \text {March} \ 31 \ \text {Tuesday} + 2 \ \text {days} \\\\
-&= \text {April} \ 2 \ \text {Thursday}
+&= \text {March} \ 23\text{rd} \ \text {Monday} + 7 \ \text {days} + 3 \ \text{days} \\\\
+&= \text {March} \ 30\text{th} \ \text {Monday} + 3 \ \text {days} \\\\
+&= \text {April} \ 2\text{nd} \ \text {Thursday}
 \end{aligned}
 $
 
-April $2$ falls on a Thursday.
+
 
 </div>
 </div>
@@ -3853,20 +3851,16 @@ $\text {Thursday}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The month March has $31$ days.
-
-A week has $7$ days.
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= \text {March} \ 23 \ \text {Monday} + 7 \ \text {days} + 1 \ \text {day} + 2 \ \text{days} \\\\
-&= \text {March} \ 30 \ \text {Monday} + 1 \ \text {day} + 2 \ \text {days} \\\\
-&= \text {March} \ 31 \ \text {Tuesday} + 2 \ \text {days} \\\\
-&= \text {April} \ 2 \ \text {Thursday}
+&= \text {March} \ 23\text{rd} \ \text {Monday} + 7 \ \text {days} + 3 \ \text{days} \\\\
+&= \text {March} \ 30\text{th} \ \text {Monday} + 3 \ \text {days} \\\\
+&= \text {April} \ 2\text{nd} \ \text {Thursday}
 \end{aligned}
 $
 
-April $2$ falls on a Thursday.
+
 </code></pre>
 </div>
 </div>
@@ -3949,7 +3943,7 @@ remove last line i.e. \"april 2nd ......\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A6FC38CB-D02D-48DD-BC05-EFFF3A076124</p>
 </div>
@@ -3963,7 +3957,7 @@ remove last line i.e. \"april 2nd ......\"
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3984,12 +3978,12 @@ $
 \begin{aligned}
 \text{Time taken}           &= 11 {:} 34 - 09 {:} 42 \\\\
                             &= 1 \ \text {hour} \ 52 \ \text {minutes} \\\\
-                            &= 60 \ \text {minutes} + \ 52 \ \text {minutes} \\\\
+                            &= 1 \times 60 \ \text {minutes} + \ 52 \ \text {minutes} \\\\
+                            &= 60 + 52 \\\\
                             &= 112  \ \text {minutes}
 \end{aligned}
 $
 
-The journey took $=112 \ \text {minutes}$.
 
 </div>
 </div>
@@ -4007,12 +4001,12 @@ $112 \ \text{minutes}$
 \begin{aligned}
 \text{Time taken}           &= 11 {:} 34 - 09 {:} 42 \\\\
                             &= 1 \ \text {hour} \ 52 \ \text {minutes} \\\\
-                            &= 60 \ \text {minutes} + \ 52 \ \text {minutes} \\\\
+                            &= 1 \times 60 \ \text {minutes} + \ 52 \ \text {minutes} \\\\
+                            &= 60 + 52 \\\\
                             &= 112  \ \text {minutes}
 \end{aligned}
 $
 
-The journey took $=112 \ \text {minutes}$.
 </code></pre>
 </div>
 </div>
@@ -4273,7 +4267,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42B09AC3-796B-4A16-B123-5A18D316FA38</p>
 </div>
@@ -4287,7 +4281,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4309,24 +4303,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Opening hours from Monday to Saturday} &= 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} \\\\
-                                             &= 14 \ \text{hours} \\\\
-\text{Opening hours on Sunday}               &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
-                                             &= 6 \ \text{hours}
+\text{Total hours}    &= 6 \times ( 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} ) + 04{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
+                      &= 6 \times 14 \ \text{hours} +  6 \ \text{hours} \\\\
+                      &= 84 + 6 \\\\
+                      &= 90 \ \text{hours}
 \end{aligned}
 $
 
-Number of hours from Monday to Saturday $= 14 \times 6$
-
-Number of hours on Sunday $= 6$
-
-$
-\begin{aligned}
-\text{Total hours}  &= 14 \times 6 + 6 \\\\
-                    &= 84 + 6 \\\\
-                    &= 90 \ \text {hours}
-\end{aligned}
-$
 
 </div>
 </div>
@@ -4344,24 +4327,13 @@ $90 \ \text {hours}$
 
 $
 \begin{aligned}
-\text{Opening hours from Monday to Saturday} &= 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} \\\\
-                                             &= 14 \ \text{hours} \\\\
-\text{Opening hours on Sunday}               &= 4{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
-                                             &= 6 \ \text{hours}
+\text{Total hours}    &= 6 \times ( 9{:}00 \ \text{pm} - 7{:}00 \ \text{am} ) + 04{:}30 \ \text{pm} - 10{:}30 \ \text{am} \\\\
+                      &= 6 \times 14 \ \text{hours} +  6 \ \text{hours} \\\\
+                      &= 84 + 6 \\\\
+                      &= 90 \ \text{hours}
 \end{aligned}
 $
 
-Number of hours from Monday to Saturday $= 14 \times 6$
-
-Number of hours on Sunday $= 6$
-
-$
-\begin{aligned}
-\text{Total hours}  &= 14 \times 6 + 6 \\\\
-                    &= 84 + 6 \\\\
-                    &= 90 \ \text {hours}
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>
@@ -4981,7 +4953,7 @@ $ 02{:}23 \ \text{am on 1st October}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5C8F5D72-0C11-4187-B036-6028A9F59B70</p>
 </div>
@@ -4995,7 +4967,7 @@ $ 02{:}23 \ \text{am on 1st October}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5016,11 +4988,11 @@ How many minutes does it last?
 
 $
 \begin{aligned}
-\text{Concert performance lasted}          &= \text{End time} - \text{Start time} \\\\
-                                           &= 9{:}11 \ \text{pm} - 7{:}35 \ \text{pm} \\\\
-                                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
-                                           &= 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
-                                           &= 96 \ \text{minutes}
+\text{Concert Lasted}      &= 9{:}11  - 7{:}35  \\\\
+                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
+                           &= 1 \times 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
+                           &=60 + 36 \\\\
+                           &= 96 \ \text{minutes}
 \end{aligned}
 $
 
@@ -5038,11 +5010,11 @@ $96 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Concert performance lasted}          &= \text{End time} - \text{Start time} \\\\
-                                           &= 9{:}11 \ \text{pm} - 7{:}35 \ \text{pm} \\\\
-                                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
-                                           &= 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
-                                           &= 96 \ \text{minutes}
+\text{Concert Lasted}      &= 9{:}11  - 7{:}35  \\\\
+                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
+                           &= 1 \times 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
+                           &=60 + 36 \\\\
+                           &= 96 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -5964,7 +5936,7 @@ $240\degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4496A117-6B18-4654-BAF9-62ABE44DB139</p>
 </div>
@@ -5975,7 +5947,7 @@ $240\degree$
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6117,7 +6089,7 @@ Ben wants to travel from Watford Town Hall to Uxbridge by bus. If he catches a b
 
 $
 \begin{aligned}
-\text{Time taken}       &= 09{:}36 - 08{:}57 \\\\
+\text{Time Taken}       &= 09{:}36 - 08{:}57 \\\\
                         &= 39  \ \text{minutes}
 \end{aligned}
 $
@@ -6136,7 +6108,7 @@ $39  \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time taken}       &= 09{:}36 - 08{:}57 \\\\
+\text{Time Taken}       &= 09{:}36 - 08{:}57 \\\\
                         &= 39  \ \text{minutes}
 \end{aligned}
 $
@@ -6373,6 +6345,43 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='4496A117-6B18-4654-BAF9-62ABE44DB139' id='FORM-4496A117-6B18-4654-BAF9-62ABE44DB139' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4496A117-6B18-4654-BAF9-62ABE44DB139'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6497,7 +6506,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>011051B7-79BC-4F3A-B3E5-9FEA0D775E51</p>
 </div>
@@ -6511,7 +6520,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6571,8 +6580,8 @@ Dita watched television from $5{:}35 \ \text{pm}$ until $7{:}10 \ \text{pm}$. Ho
 
 $
 \begin{aligned}
-\text{Time spent on TV} &= 7{:}10 \ \text{pm} - 5{:}35 \ \text{pm} \\\\
-                        &= 1 \ \text{hours} \ 35 \ \text{minutes}
+\text{Time spent } &= 7{:}10  - 5{:}35 \\\\
+                   &= 1 \ \text{hour} \ 35 \ \text{minutes}
 \end{aligned}
 $
 
@@ -6581,7 +6590,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hours} \ 35 \ \text{minutes}$
+$1 \ \text{hour} \ 35 \ \text{minutes}$
 
 </div>
 </div>
@@ -6590,8 +6599,8 @@ $1 \ \text{hours} \ 35 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time spent on TV} &= 7{:}10 \ \text{pm} - 5{:}35 \ \text{pm} \\\\
-                        &= 1 \ \text{hours} \ 35 \ \text{minutes}
+\text{Time spent } &= 7{:}10  - 5{:}35 \\\\
+                   &= 1 \ \text{hour} \ 35 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -6605,7 +6614,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1 \ \text{hours} \ 35 \ \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$1 \ \text{hour} \ 35 \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -6624,8 +6633,11 @@ Dita watches the television for $2 \text{ hours } 45 \text{ minutes}$ each weeke
 
 $
 \begin{aligned}
-\text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} \times 3 \\\\
-                                      &= 8 \ \text{hours} \ 15 \ \text{minutes}
+\text{Total Time} &= 3 \times 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
+                  &= 3 \times 2 \ \text{hours} + 3 \times 45 \ \text{minutes} \\\\
+                  &= 6 \ \text{hours} + 135 \ \text{minutes} \\\\
+                  &= 6 \ \text{hours} + 2 \ \text{hours} + 15 \ \text{minutes} \\\\
+                  &= 8 \ \text{hours} \ 15 \ \text{minutes}
 \end{aligned}
 $
 
@@ -6643,8 +6655,11 @@ $8 \ \text{hours} \ 15 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} \times 3 \\\\
-                                      &= 8 \ \text{hours} \ 15 \ \text{minutes}
+\text{Total Time} &= 3 \times 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
+                  &= 3 \times 2 \ \text{hours} + 3 \times 45 \ \text{minutes} \\\\
+                  &= 6 \ \text{hours} + 135 \ \text{minutes} \\\\
+                  &= 6 \ \text{hours} + 2 \ \text{hours} + 15 \ \text{minutes} \\\\
+                  &= 8 \ \text{hours} \ 15 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -6742,7 +6757,7 @@ replace with :
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>F62A204D-13DB-4426-A702-451397983AD5</p>
 </div>
@@ -6753,10 +6768,10 @@ replace with :
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6828,32 +6843,32 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' id='FORM-F62A204D-13DB-4426-A702-451397983AD5' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' id='FORM-F62A204D-13DB-4426-A702-451397983AD5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -7419,7 +7434,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>72B6948E-CEFE-403E-AB86-3937A9FDB31F</p>
 </div>
@@ -7433,7 +7448,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7454,8 +7469,8 @@ How long did I have to wait for my train?
 
 $
 \begin{aligned}
-\text{Waiting time} &= (8{:}05 \ \text{am} + 13 \ \text{minutes}) - 7{:}47 \ \text{am} \\\\
-                    &= 8{:}18 \ \text{am} - 7{:}47 \ \text{am} \\\\
+\text{Waiting Time} &= 8{:}05  + 13 \ \text{minutes} - 7{:}47  \\\\
+                    &= 8{:}18  - 7{:}47  \\\\
                     &= 31 \ \text{minutes}
 \end{aligned}
 $
@@ -7474,8 +7489,8 @@ $31 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Waiting time} &= (8{:}05 \ \text{am} + 13 \ \text{minutes}) - 7{:}47 \ \text{am} \\\\
-                    &= 8{:}18 \ \text{am} - 7{:}47 \ \text{am} \\\\
+\text{Waiting Time} &= 8{:}05  + 13 \ \text{minutes} - 7{:}47  \\\\
+                    &= 8{:}18  - 7{:}47  \\\\
                     &= 31 \ \text{minutes}
 \end{aligned}
 $

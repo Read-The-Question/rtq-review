@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-4"
 title: "TopicPaper - Number - 4"
-date: 2022-07-11 06:13:31
+date: 2022-07-11 18:04:07
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5625,7 +5625,7 @@ Drop summary line in the end for all, just write the way other lets verify been 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>28822DF6-1E36-41A2-8D1E-91DDA75CEE74</p>
 </div>
@@ -5639,7 +5639,7 @@ Drop summary line in the end for all, just write the way other lets verify been 
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5758,12 +5758,10 @@ ABBR: It is really important to use the right units in calculations and convert 
 $
 \begin{aligned}
 \text {Tape left}   &= 5 \ \text {m} \ 35 \ \text {cm} - 243 \ \text{cm} \\\\
-                    &= 5 + \dfrac {35} {100} \ \text {m} - \dfrac {243} {100} \ \text {m} \\\\
-                    &= 5 + 0.35 - 2.43 \\\\
-                    &= 5.35 - 2.43 \\\\
-                    &= 2.92 \ \text {m} \\\\
-                    &= 2 \ \text {m} + 0.92 \times 100 \ \text {cm} \\\\
-                    &= 2 \ \text {m} \ 92 \ \text {cm}
+                    &= 5 \times 100 + 35\ \text {cm} - 243\ \text {cm} \\\\
+                    &= 500 + 35 - 243 \\\\
+                    &= 535 - 243 \\\\
+                    &= 292 \ \text {cm} \\\\
 \end{aligned}
 $
 
@@ -5772,7 +5770,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \ \text {m} \ 92 \ \text {cm}$
+$2 \text {cm}$
 
 </div>
 </div>
@@ -5784,12 +5782,10 @@ $2 \ \text {m} \ 92 \ \text {cm}$
 $
 \begin{aligned}
 \text {Tape left}   &= 5 \ \text {m} \ 35 \ \text {cm} - 243 \ \text{cm} \\\\
-                    &= 5 + \dfrac {35} {100} \ \text {m} - \dfrac {243} {100} \ \text {m} \\\\
-                    &= 5 + 0.35 - 2.43 \\\\
-                    &= 5.35 - 2.43 \\\\
-                    &= 2.92 \ \text {m} \\\\
-                    &= 2 \ \text {m} + 0.92 \times 100 \ \text {cm} \\\\
-                    &= 2 \ \text {m} \ 92 \ \text {cm}
+                    &= 5 \times 100 + 35\ \text {cm} - 243\ \text {cm} \\\\
+                    &= 500 + 35 - 243 \\\\
+                    &= 535 - 243 \\\\
+                    &= 292 \ \text {cm} \\\\
 \end{aligned}
 $
 </code></pre>
@@ -5803,7 +5799,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2 \ \text {m} \ 92 \ \text {cm}$
+<pre class='language-latex'><code class='language-latex'>$2 \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -5852,7 +5848,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3076ED1B-E57F-4AB7-938D-0415C60AB6C7</p>
 </div>
@@ -5866,7 +5862,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5929,11 +5925,17 @@ $\boxed{\phantom{1}} \ \boxed{\phantom{1}} \ \boxed{\phantom{1}} \ - \ \boxed{\p
 <div class='workings'>
 <div class='working'>
 
+$ 745 - 91 $
+
+Let's verify,
+
 $
-\begin {aligned}
-&= 745 - 91 \\
-&= 654
-\end {aligned}
+\begin{array}{cccccccccccccc}
+    &  7   &                           4     &   5 \\
+{}- &      &                           9     &   1 \\
+\hline
+    &  6    &                          5   &     4
+\end{array}
 $
 
 </div>
@@ -5948,11 +5950,17 @@ $745, 91$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin {aligned}
-&= 745 - 91 \\
-&= 654
-\end {aligned}
+<pre class='language-latex'><code class='language-latex'>$ 745 - 91 $
+
+Let's verify,
+
+$
+\begin{array}{cccccccccccccc}
+    &  7   &                           4     &   5 \\
+{}- &      &                           9     &   1 \\
+\hline
+    &  6    &                          5   &     4
+\end{array}
 $
 </code></pre>
 </div>
@@ -5984,9 +5992,13 @@ $\boxed{\phantom{1}} \ + \boxed{\phantom{1}} \ \times \boxed{\phantom{1}} = 33$
 <div class='workings'>
 <div class='working'>
 
+$ 5 + 4 \times 7 $
+
+Let's verify,
+
 $
 \begin {aligned}
-&= 5 + 4 \times 7 \\\\
+&=5 + 4 \times 7 \\\\
 &= 5 + 28 \\\\
 &= 33
 \end {aligned}
@@ -6004,9 +6016,13 @@ $5, 4, 7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$ 5 + 4 \times 7 $
+
+Let's verify,
+
+$
 \begin {aligned}
-&= 5 + 4 \times 7 \\\\
+&=5 + 4 \times 7 \\\\
 &= 5 + 28 \\\\
 &= 33
 \end {aligned}
@@ -6088,7 +6104,7 @@ a: should be \\ instead of \
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FB36F13C-5BC9-4CF6-9408-E90684FEF6AA</p>
 </div>
@@ -6102,7 +6118,7 @@ a: should be \\ instead of \
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6206,7 +6222,7 @@ $4$ is a square number and also an even number.
 
 $16 ,36$
 
-Count = 2
+Count = $2$
 
 </div>
 </div>
@@ -6222,7 +6238,7 @@ $2$
 
 <pre class='language-latex'><code class='language-latex'>$16 ,36$
 
-Count = 2
+Count = $2$
 </code></pre>
 </div>
 </div>
@@ -6251,6 +6267,12 @@ Which three prime numbers multiply together to make $154$?
 <div class='workings'>
 <div class='working'>
 
+Using trial and error
+
+Prime numbers = 2, 7, 11
+
+Lets verify,
+
 $
 \begin{aligned}
 &= 2 \times 7 \times 11 \\\\
@@ -6271,7 +6293,13 @@ $2, 7, 11$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Using trial and error
+
+Prime numbers = 2, 7, 11
+
+Lets verify,
+
+$
 \begin{aligned}
 &= 2 \times 7 \times 11 \\\\
 &= 14 \times 11 \\\\
@@ -6391,7 +6419,7 @@ and then show working.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BA83C340-2093-4114-9461-69921AFDBC47</p>
 </div>
@@ -6405,7 +6433,7 @@ and then show working.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

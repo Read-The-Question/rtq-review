@@ -1,7 +1,7 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1136,7 +1136,7 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>083271E8-99C6-43BF-A7F3-B01D009B385F</p>
 </div>
@@ -1144,13 +1144,13 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1182,28 +1182,28 @@ a - b                    &= 6
 \end{aligned}
 $
 
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Subtract the second equation from the first to reduce it to one variable.
+Let's find first number. Using equation 1 and 2 we get,
 
 $
 \begin{aligned}
-a + b - (a - b)          &= 32 - 6 \\\\
-a + b - a + b            &= 26 \\\\
-2b                       &= 26 \\\\
-b                        &= \dfrac {26} {2} \\\\
-b                        &= 13
+a + a &= 38 \\\\
+2a &= 38 \\\\
+a &= \dfrac {38} {2} \\\\
+a &= \dfrac {19 \times 2} {2} \\\\
+a &= \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
+a &= 19
 \end{aligned}
 $
 
-Let's substitute the value of $b$ in one of the initial equations.
+Let's find the second number. Using equation 1 we get,
+
 
 $
 \begin{aligned} 
 a + b                    &= 32 \\\\
-a + 13                   &= 32 \\\\
-a                        &= 32 - 13 \\\\
-a                        &= 19
+19 + b                   &= 32 \\\\
+b                        &= 32 - 19 \\\\
+b                        &= 13
 \end{aligned}
 $
 
@@ -1216,7 +1216,7 @@ Second number $= 13$
 <div class='answers'>
 <div class='answer'>
 
-$19 \ \text{and} \ 13$
+$19 , 13$
 
 </div>
 </div>
@@ -1236,28 +1236,28 @@ a - b                    &= 6
 \end{aligned}
 $
 
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Subtract the second equation from the first to reduce it to one variable.
+Let's find first number. Using equation 1 and 2 we get,
 
 $
 \begin{aligned}
-a + b - (a - b)          &= 32 - 6 \\\\
-a + b - a + b            &= 26 \\\\
-2b                       &= 26 \\\\
-b                        &= \dfrac {26} {2} \\\\
-b                        &= 13
+a + a &= 38 \\\\
+2a &= 38 \\\\
+a &= \dfrac {38} {2} \\\\
+a &= \dfrac {19 \times 2} {2} \\\\
+a &= \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
+a &= 19
 \end{aligned}
 $
 
-Let's substitute the value of $b$ in one of the initial equations.
+Let's find the second number. Using equation 1 we get,
+
 
 $
 \begin{aligned} 
 a + b                    &= 32 \\\\
-a + 13                   &= 32 \\\\
-a                        &= 32 - 13 \\\\
-a                        &= 19
+19 + b                   &= 32 \\\\
+b                        &= 32 - 19 \\\\
+b                        &= 13
 \end{aligned}
 $
 
@@ -1275,7 +1275,7 @@ Second number $= 13$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$19 \ \text{and} \ 13$
+<pre class='language-latex'><code class='language-latex'>$19 , 13$
 </code></pre>
 </div>
 </div>
@@ -1329,10 +1329,10 @@ Second number $= 13$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2918,10 +2918,10 @@ TODOANSWER
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6060,10 +6060,10 @@ TODOANSWER
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6531,10 +6531,10 @@ TODOANSWER
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2117,7 +2117,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>34B6ABD4-2634-46DE-BC0B-524DA2C850E0</p>
 </div>
@@ -2131,7 +2131,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2191,6 +2191,41 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+align &= (or katex)
+
+remove whole katex
+
+replace with :
+
+Temperature risen = (10:30 - 5:00) x 2 
+
+                  = 5 hours 30 minutes x 2 
+
+                  = 5 1/2 hours x 2 
+
+                  = 11/2 x 2
+
+                  = 11 x 2 /2
+
+and solve further 
+
+and in the same katex : 
+
+add another line : 
+
+\"Temperature at 10.30 am = Temperature at 5.00 am + Temperature risen\"
+
+                         = -3 + 11 
+
+and solve further
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -897,7 +897,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9584D5F5-A2A6-4220-9550-009F833ABA09</p>
 </div>
@@ -911,7 +911,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -928,20 +928,16 @@ If March $23 \text{rd}$ is a Monday, on what day of the week is April $2 \text{n
 <div class='workings'>
 <div class='working'>
 
-The month March has $31$ days.
-
-A week has $7$ days.
 
 $
 \begin{aligned}
-&= \text {March} \ 23 \ \text {Monday} + 7 \ \text {days} + 1 \ \text {day} + 2 \ \text{days} \\\\
-&= \text {March} \ 30 \ \text {Monday} + 1 \ \text {day} + 2 \ \text {days} \\\\
-&= \text {March} \ 31 \ \text {Tuesday} + 2 \ \text {days} \\\\
-&= \text {April} \ 2 \ \text {Thursday}
+&= \text {March} \ 23\text{rd} \ \text {Monday} + 7 \ \text {days} + 3 \ \text{days} \\\\
+&= \text {March} \ 30\text{th} \ \text {Monday} + 3 \ \text {days} \\\\
+&= \text {April} \ 2\text{nd} \ \text {Thursday}
 \end{aligned}
 $
 
-April $2$ falls on a Thursday.
+
 
 </div>
 </div>
@@ -955,20 +951,16 @@ $\text {Thursday}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The month March has $31$ days.
-
-A week has $7$ days.
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= \text {March} \ 23 \ \text {Monday} + 7 \ \text {days} + 1 \ \text {day} + 2 \ \text{days} \\\\
-&= \text {March} \ 30 \ \text {Monday} + 1 \ \text {day} + 2 \ \text {days} \\\\
-&= \text {March} \ 31 \ \text {Tuesday} + 2 \ \text {days} \\\\
-&= \text {April} \ 2 \ \text {Thursday}
+&= \text {March} \ 23\text{rd} \ \text {Monday} + 7 \ \text {days} + 3 \ \text{days} \\\\
+&= \text {March} \ 30\text{th} \ \text {Monday} + 3 \ \text {days} \\\\
+&= \text {April} \ 2\text{nd} \ \text {Thursday}
 \end{aligned}
 $
 
-April $2$ falls on a Thursday.
+
 </code></pre>
 </div>
 </div>
@@ -1748,7 +1740,7 @@ The number nearest to the value of $6.9201 \times \sqrt{\smash[b]{26}} = 35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A6FC38CB-D02D-48DD-BC05-EFFF3A076124</p>
 </div>
@@ -1762,7 +1754,7 @@ The number nearest to the value of $6.9201 \times \sqrt{\smash[b]{26}} = 35$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1783,12 +1775,12 @@ $
 \begin{aligned}
 \text{Time taken}           &= 11 {:} 34 - 09 {:} 42 \\\\
                             &= 1 \ \text {hour} \ 52 \ \text {minutes} \\\\
-                            &= 60 \ \text {minutes} + \ 52 \ \text {minutes} \\\\
+                            &= 1 \times 60 \ \text {minutes} + \ 52 \ \text {minutes} \\\\
+                            &= 60 + 52 \\\\
                             &= 112  \ \text {minutes}
 \end{aligned}
 $
 
-The journey took $=112 \ \text {minutes}$.
 
 </div>
 </div>
@@ -1806,12 +1798,12 @@ $112 \ \text{minutes}$
 \begin{aligned}
 \text{Time taken}           &= 11 {:} 34 - 09 {:} 42 \\\\
                             &= 1 \ \text {hour} \ 52 \ \text {minutes} \\\\
-                            &= 60 \ \text {minutes} + \ 52 \ \text {minutes} \\\\
+                            &= 1 \times 60 \ \text {minutes} + \ 52 \ \text {minutes} \\\\
+                            &= 60 + 52 \\\\
                             &= 112  \ \text {minutes}
 \end{aligned}
 $
 
-The journey took $=112 \ \text {minutes}$.
 </code></pre>
 </div>
 </div>

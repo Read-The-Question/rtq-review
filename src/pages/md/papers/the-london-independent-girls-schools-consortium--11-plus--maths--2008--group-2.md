@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 2"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1715,7 +1715,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>011051B7-79BC-4F3A-B3E5-9FEA0D775E51</p>
 </div>
@@ -1729,7 +1729,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1789,8 +1789,8 @@ Dita watched television from $5{:}35 \ \text{pm}$ until $7{:}10 \ \text{pm}$. Ho
 
 $
 \begin{aligned}
-\text{Time spent on TV} &= 7{:}10 \ \text{pm} - 5{:}35 \ \text{pm} \\\\
-                        &= 1 \ \text{hours} \ 35 \ \text{minutes}
+\text{Time spent } &= 7{:}10  - 5{:}35 \\\\
+                   &= 1 \ \text{hour} \ 35 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1799,7 +1799,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hours} \ 35 \ \text{minutes}$
+$1 \ \text{hour} \ 35 \ \text{minutes}$
 
 </div>
 </div>
@@ -1808,8 +1808,8 @@ $1 \ \text{hours} \ 35 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time spent on TV} &= 7{:}10 \ \text{pm} - 5{:}35 \ \text{pm} \\\\
-                        &= 1 \ \text{hours} \ 35 \ \text{minutes}
+\text{Time spent } &= 7{:}10  - 5{:}35 \\\\
+                   &= 1 \ \text{hour} \ 35 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -1823,7 +1823,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1 \ \text{hours} \ 35 \ \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$1 \ \text{hour} \ 35 \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -1842,8 +1842,11 @@ Dita watches the television for $2 \text{ hours } 45 \text{ minutes}$ each weeke
 
 $
 \begin{aligned}
-\text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} \times 3 \\\\
-                                      &= 8 \ \text{hours} \ 15 \ \text{minutes}
+\text{Total Time} &= 3 \times 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
+                  &= 3 \times 2 \ \text{hours} + 3 \times 45 \ \text{minutes} \\\\
+                  &= 6 \ \text{hours} + 135 \ \text{minutes} \\\\
+                  &= 6 \ \text{hours} + 2 \ \text{hours} + 15 \ \text{minutes} \\\\
+                  &= 8 \ \text{hours} \ 15 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1861,8 +1864,11 @@ $8 \ \text{hours} \ 15 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time spent over three weekends} &= 2 \ \text{hours} \ 45 \ \text{minutes} \times 3 \\\\
-                                      &= 8 \ \text{hours} \ 15 \ \text{minutes}
+\text{Total Time} &= 3 \times 2 \ \text{hours} \ 45 \ \text{minutes} \\\\
+                  &= 3 \times 2 \ \text{hours} + 3 \times 45 \ \text{minutes} \\\\
+                  &= 6 \ \text{hours} + 135 \ \text{minutes} \\\\
+                  &= 6 \ \text{hours} + 2 \ \text{hours} + 15 \ \text{minutes} \\\\
+                  &= 8 \ \text{hours} \ 15 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -2340,7 +2346,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>F62A204D-13DB-4426-A702-451397983AD5</p>
 </div>
@@ -2351,10 +2357,10 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2426,32 +2432,32 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' id='FORM-F62A204D-13DB-4426-A702-451397983AD5' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='F62A204D-13DB-4426-A702-451397983AD5' id='FORM-F62A204D-13DB-4426-A702-451397983AD5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1060,7 +1060,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -1074,7 +1074,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1258,31 +1258,9 @@ $
 
 
 
-These are simple word problems, write LHS
+remove () from step 1 
 
-
-
-a). Write \"Difference\" in LHS on S1
-
-
-
-b). Write \"Temperature outside\" in LHS on S1
-
-
-
-
-
-a). Write \"Difference\" in LHS on S1
-
-
-
-b). Write \"Temperature outside\" in LHS on S1
-
-
-
-
-
-Do not write \ \text{C}. Write \text{C}
+remove step 2 and step 3
 </div>
 
 <div class='review'>

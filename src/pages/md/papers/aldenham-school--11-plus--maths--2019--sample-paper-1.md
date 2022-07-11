@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1045,7 +1045,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F57C9C9-F2AD-4B34-BB50-53249F45FAE3</p>
 </div>
@@ -1059,7 +1059,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1089,7 +1089,7 @@ $p - 71$
 <div class='answers'>
 <div class='answer'>
 
-$p - 71$
+c
 
 </div>
 </div>
@@ -1108,7 +1108,7 @@ $p - 71$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$p - 71$
+<pre class='language-latex'><code class='language-latex'>c
 </code></pre>
 </div>
 </div>
@@ -2647,7 +2647,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A0407EE1-F5C4-4644-87E4-39782B777B4E</p>
 </div>
@@ -2661,7 +2661,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2696,13 +2696,10 @@ a                                              &= \dfrac{14 \times 5}{2} \\\\
 \end{aligned}
 $
 
-The total number of children in the club $= 35$
-
-Let's find how many girls are in the club.
-
 $
 \begin{aligned}
-\text{Girls}            &= \text{Total children} - \text{Total boys} \\\\      
+\text{Total children}   &= 35 \\\\
+\text{Total girls}      &= \text{Total children} - \text{Total boys} \\\\      
                         &= 35 - 14  \\\\
                         &= 21
 \end{aligned}
@@ -2736,13 +2733,10 @@ a                                              &= \dfrac{14 \times 5}{2} \\\\
 \end{aligned}
 $
 
-The total number of children in the club $= 35$
-
-Let's find how many girls are in the club.
-
 $
 \begin{aligned}
-\text{Girls}            &= \text{Total children} - \text{Total boys} \\\\      
+\text{Total children}   &= 35 \\\\
+\text{Total girls}      &= \text{Total children} - \text{Total boys} \\\\      
                         &= 35 - 14  \\\\
                         &= 21
 \end{aligned}
@@ -2804,7 +2798,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CE466DC8-BA86-4871-AE14-6A9661BFBE5C</p>
 </div>
@@ -2818,7 +2812,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4133,7 +4127,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3B389935-2713-4E79-B41A-797356ED47C0</p>
 </div>
@@ -4147,7 +4141,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4218,9 +4212,11 @@ $
 a + 5                  &= 6 \times 2 \\\\
 a + 5                  &= 12 \\\\
 a                      &= 12 - 5\\\\
-a                      &= 7\\\\
+a                      &= 7
 \end{aligned}
 $
+
+The number I am thinking of $= 7$
 
 </div>
 </div>
@@ -4244,9 +4240,11 @@ $
 a + 5                  &= 6 \times 2 \\\\
 a + 5                  &= 12 \\\\
 a                      &= 12 - 5\\\\
-a                      &= 7\\\\
+a                      &= 7
 \end{aligned}
 $
+
+The number I am thinking of $= 7$
 </code></pre>
 </div>
 </div>

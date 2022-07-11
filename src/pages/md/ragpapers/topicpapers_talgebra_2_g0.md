@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-g0"
 title: "TopicPaper - Algebra - 2 - G0"
-date: 2022-07-11 06:13:31
+date: 2022-07-11 18:04:07
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>61824054-48C2-4222-94CE-B049FCF364CB</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-11 06:13:31
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -85,10 +85,15 @@ $
 \begin{aligned}
 \text{Tables needed}                          &= \dfrac {\text{Total pupils}} {\text{Pupil per table}} \\\\
                                               &= \dfrac {180} {8} \\\\
-                                              &= 22 \dfrac {4} {8} \\\\
+                                              &= \dfrac {45 \times 4} {2 \times 4} \\\\
+                                              &= \dfrac {45 \times \cancel 4} {2 \times \cancel 4} \\\\
+                                              &= \dfrac {45} {2} \\\\
+                                              &= 22 \dfrac {1} {2} \\\\
                                               &= 23
 \end{aligned}
 $
+
+Total tables needed $= 23$
 
 </div>
 </div>
@@ -108,10 +113,15 @@ $
 \begin{aligned}
 \text{Tables needed}                          &= \dfrac {\text{Total pupils}} {\text{Pupil per table}} \\\\
                                               &= \dfrac {180} {8} \\\\
-                                              &= 22 \dfrac {4} {8} \\\\
+                                              &= \dfrac {45 \times 4} {2 \times 4} \\\\
+                                              &= \dfrac {45 \times \cancel 4} {2 \times \cancel 4} \\\\
+                                              &= \dfrac {45} {2} \\\\
+                                              &= 22 \dfrac {1} {2} \\\\
                                               &= 23
 \end{aligned}
 $
+
+Total tables needed $= 23$
 </code></pre>
 </div>
 </div>
@@ -145,6 +155,8 @@ How many monthly payments did Jake have to make to buy it?
 
 Let the number of monthly payments $= m$
 
+As per the question,
+
 $
 \begin{aligned}
 50 + 25m                                      &= 275 \\\\
@@ -172,6 +184,8 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of monthly payments $= m$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -331,7 +345,7 @@ Number of girls at Lily's school $= 265$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>90559230-2BC2-4EB0-84DF-D9BA98C6058E</p>
 </div>
@@ -345,7 +359,7 @@ Number of girls at Lily's school $= 265$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -366,6 +380,8 @@ How much money does she still have to spend?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 \text{Money left to spent} &= 20 - (4.88 + \dfrac {1} {3} \times (20 - 4.88)) \\\\
@@ -377,6 +393,8 @@ $
                            &= \pounds 10.08
 \end{aligned}
 $
+
+Money left with Eleanor $= \pounds 10.08$
 
 </div>
 </div>
@@ -390,7 +408,9 @@ $\pounds 10.08$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
 \text{Money left to spent} &= 20 - (4.88 + \dfrac {1} {3} \times (20 - 4.88)) \\\\
                            &= 20 - (4.88 + \dfrac {1} {3} \times 15.12) \\\\
@@ -401,6 +421,8 @@ $\pounds 10.08$
                            &= \pounds 10.08
 \end{aligned}
 $
+
+Money left with Eleanor $= \pounds 10.08$
 </code></pre>
 </div>
 </div>

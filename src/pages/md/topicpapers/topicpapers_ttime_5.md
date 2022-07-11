@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-5"
 title: "TopicPaper - Time - 5"
-date: 2022-07-11 06:13:31
+date: 2022-07-11 18:04:07
 ---
 <div class='paper'>
 <div class='meta'>
@@ -921,7 +921,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
@@ -935,7 +935,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -998,21 +998,31 @@ from London Euston to Birmingham International?
 <div class='workings'>
 <div class='working'>
 
-$1 \ \text{hrs} \ 10 \ \text{mins}$
+$
+\begin {aligned}
+\text {Time Taken}     &= 21{:}07 - 19{:}57 \\\\
+                       &= 1 \ \text{hrs} \ 10 \ \text{min}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text{hrs} \ 10 \ \text{mins}$
+$1 \ \text{hrs} \ 10 \ \text{min}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1 \ \text{hrs} \ 10 \ \text{mins}$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Time Taken}     &= 21{:}07 - 19{:}57 \\\\
+                       &= 1 \ \text{hrs} \ 10 \ \text{min}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1024,7 +1034,7 @@ $1 \ \text{hrs} \ 10 \ \text{mins}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1 \ \text{hrs} \ 10 \ \text{mins}$
+<pre class='language-latex'><code class='language-latex'>$1 \ \text{hrs} \ 10 \ \text{min}$
 </code></pre>
 </div>
 </div>
@@ -1041,21 +1051,31 @@ from London Euston Station to Glasgow?
 <div class='workings'>
 <div class='working'>
 
-$10 \ \text{hrs} \ 48 \ \text{mins}$
+$
+\begin {aligned}
+\text {Time Taken}     &= 06{:}45 - 19{:}57 \\\\
+                       &= 10 \ \text{hrs} \ 48 \ \text{min}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$10 \ \text{hrs} \ 48 \ \text{mins}$
+$10 \ \text{hrs} \ 48 \ \text{min}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$10 \ \text{hrs} \ 48 \ \text{mins}$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Time Taken}     &= 06{:}45 - 19{:}57 \\\\
+                       &= 10 \ \text{hrs} \ 48 \ \text{min}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1067,7 +1087,7 @@ $10 \ \text{hrs} \ 48 \ \text{mins}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10 \ \text{hrs} \ 48 \ \text{mins}$
+<pre class='language-latex'><code class='language-latex'>$10 \ \text{hrs} \ 48 \ \text{min}$
 </code></pre>
 </div>
 </div>
@@ -1641,7 +1661,7 @@ $22{:}25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9</p>
 </div>
@@ -1655,7 +1675,7 @@ $22{:}25$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1682,9 +1702,8 @@ For how long did the film last?
 
 $
 \begin{aligned}
-\text {Time for which film last} &= \text {End time} - \text {Start time} \\\\
-                                 &= 10{:}34 \ \text{pm} - 7{:}45 \ \text{pm} \\\\
-                                 &= 2 \ \text{hours} \ 49 \ \text{minutes}
+\text {Film lasted} &= 10{:}34 - 7{:}45  \\\\
+                    &= 2 \ \text{hours} \ 49 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1702,9 +1721,8 @@ $2 \ \text{hours} \ 49 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Time for which film last} &= \text {End time} - \text {Start time} \\\\
-                                 &= 10{:}34 \ \text{pm} - 7{:}45 \ \text{pm} \\\\
-                                 &= 2 \ \text{hours} \ 49 \ \text{minutes}
+\text {Film lasted} &= 10{:}34 - 7{:}45  \\\\
+                    &= 2 \ \text{hours} \ 49 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -1777,7 +1795,7 @@ remove \"pm\" from 2nd step
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>854DCA2A-3998-41A0-B4D8-1620410A4611</p>
 </div>
@@ -1791,7 +1809,7 @@ remove \"pm\" from 2nd step
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1856,7 +1874,7 @@ When it is $16.42$ in London, what time is it in New York?
 
 $
 \begin{aligned}
-\text{Time in New York} &= 16{:}42 - 5 \\\\
+\text{Time in New York} &= 16{:}42 - 5 \ \text{hours}  \\\\
                         &= 11{:}42
 \end{aligned}
 $
@@ -1875,7 +1893,7 @@ $11{:}42$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time in New York} &= 16{:}42 - 5 \\\\
+\text{Time in New York} &= 16{:}42 - 5 \ \text{hours}  \\\\
                         &= 11{:}42
 \end{aligned}
 $
@@ -1909,7 +1927,7 @@ When it is $12.37$ in New York, what time is it in Addis Ababa?
 
 $
 \begin{aligned}
-\text{Time in Addis Ababa} &= 12{:}37 + 5 + 2 \\\\
+\text{Time in Addis Ababa} &= 12{:}37 + 5 \ \text{hours}+ 2 \ \text{hours} \\\\
                            &= 12{:}37 + 7 \\\\
                            &= 19{:}37
 \end{aligned}
@@ -1929,7 +1947,7 @@ $19{:}37$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time in Addis Ababa} &= 12{:}37 + 5 + 2 \\\\
+\text{Time in Addis Ababa} &= 12{:}37 + 5 \ \text{hours}+ 2 \ \text{hours} \\\\
                            &= 12{:}37 + 7 \\\\
                            &= 19{:}37
 \end{aligned}
@@ -1968,20 +1986,19 @@ At what time and on which day does it arrive in New York?
 
 $
 \begin{aligned}
-\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 7 \\\\
-                                            &= 19{:}00 + 7 \\\\
-                                            &= 2{:}00
+\text{Arrival Time} &= 19{:}00 + 14 \ \text{hours} - 7 \ \text{hours} \\\\
+                    &= 19{:}00 + 7  \ \text{hours}\\\\
+                    &= 2{:}00 \\\\
+\text {Day of Arrival} &= \text {Wednesday}
 \end{aligned}
 $
-
-It arrives on Wednesday at $2{:}00$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Wednesday}, \ 2{:}00$
+$2{:}00 \ \text{on Wednesday}$
 
 </div>
 </div>
@@ -1990,13 +2007,12 @@ $\text{Wednesday}, \ 2{:}00$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 7 \\\\
-                                            &= 19{:}00 + 7 \\\\
-                                            &= 2{:}00
+\text{Arrival Time} &= 19{:}00 + 14 \ \text{hours} - 7 \ \text{hours} \\\\
+                    &= 19{:}00 + 7  \ \text{hours}\\\\
+                    &= 2{:}00 \\\\
+\text {Day of Arrival} &= \text {Wednesday}
 \end{aligned}
 $
-
-It arrives on Wednesday at $2{:}00$
 </code></pre>
 </div>
 </div>
@@ -2008,7 +2024,7 @@ It arrives on Wednesday at $2{:}00$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{Wednesday}, \ 2{:}00$
+<pre class='language-latex'><code class='language-latex'>$2{:}00 \ \text{on Wednesday}$
 </code></pre>
 </div>
 </div>
@@ -2870,7 +2886,7 @@ remove L.H.S.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990</p>
 </div>
@@ -2884,7 +2900,7 @@ remove L.H.S.
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2950,21 +2966,21 @@ Write the time her clock actually shows, using the $12$-hour clock.
 <div class='workings'>
 <div class='working'>
 
-$1{:}41 \ \text {p.m}$
+$1{:}41 \ \text {pm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1{:}41 \ \text {p.m}$
+$1{:}41 \ \text {pm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1{:}41 \ \text {p.m}$
+<pre class='language-latex'><code class='language-latex'>$1{:}41 \ \text {pm}$
 </code></pre>
 </div>
 </div>
@@ -2976,7 +2992,7 @@ $1{:}41 \ \text {p.m}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1{:}41 \ \text {p.m}$
+<pre class='language-latex'><code class='language-latex'>$1{:}41 \ \text {pm}$
 </code></pre>
 </div>
 </div>
@@ -3094,8 +3110,8 @@ For how much longer did Rebecca remain silent than Holly?
 
 $
 \begin{aligned}
-\text {Time for which Rebecca remained silent than Holly}  &= 17{:}08 - 16{:}29 \\\\
-                                                           &= 39 \ \text {minutes}
+\text {Difference}  &= 17{:}08 - 16{:}29 \\\\
+                    &= 39 \ \text {minutes}
 \end{aligned}
 $
 
@@ -3113,8 +3129,8 @@ $39 \ \text {minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Time for which Rebecca remained silent than Holly}  &= 17{:}08 - 16{:}29 \\\\
-                                                           &= 39 \ \text {minutes}
+\text {Difference}  &= 17{:}08 - 16{:}29 \\\\
+                    &= 39 \ \text {minutes}
 \end{aligned}
 $
 </code></pre>
@@ -3147,13 +3163,12 @@ If each girl was sponsored $10 \ \text{pence}$ for each minute that she remained
 
 $
 \begin{aligned}
-\text {They remained silent for}     &= \text {Holly's silence time} + \text {Rebecca's silence time} + \text {Stacey's silence time} \\\\
-                                     &= (16{:}29 - 15{:}00) + (17{:}08 - 15{:}00) + (16{:}23 - 15{:}00) \\\\
+\text {Silent Time}                  &= 16{:}29 - 15{:}00 + 17{:}08 - 15{:}00 + 16{:}23 - 15{:}00 \\\\
                                      &= 1 \ \text {hour} \ 29 \ \text {minutes} + 2 \ \text {hour} \ 8 \ \text {minutes} + 1 \ \text {hour} \ 23 \ \text {minutes} \\\\
                                      &= 1 \times 60 \ \text {minutes} + 29 \ \text {minutes} + 2 \times 60 \ \text {minutes} + 8 \ \text {minutes} + 1 \times 60 \ \text {minutes} + 23 \ \text {minutes} \\\\
                                      &= 60 + 29 + 120 + 8 + 60 + 23 \\\\
                                      &= 300 \ \text {minutes} \\\\
-\text {Total money raised}           &= 300 \times 10 \\\\
+\text {Total money raised}           &= 300 \times 10 \ \text {pence} \\\\
                                      &= 3000 \ \text {pence}
 \end{aligned}
 $
@@ -3172,13 +3187,12 @@ $3000 \ \text {pence}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {They remained silent for}     &= \text {Holly's silence time} + \text {Rebecca's silence time} + \text {Stacey's silence time} \\\\
-                                     &= (16{:}29 - 15{:}00) + (17{:}08 - 15{:}00) + (16{:}23 - 15{:}00) \\\\
+\text {Silent Time}                  &= 16{:}29 - 15{:}00 + 17{:}08 - 15{:}00 + 16{:}23 - 15{:}00 \\\\
                                      &= 1 \ \text {hour} \ 29 \ \text {minutes} + 2 \ \text {hour} \ 8 \ \text {minutes} + 1 \ \text {hour} \ 23 \ \text {minutes} \\\\
                                      &= 1 \times 60 \ \text {minutes} + 29 \ \text {minutes} + 2 \times 60 \ \text {minutes} + 8 \ \text {minutes} + 1 \times 60 \ \text {minutes} + 23 \ \text {minutes} \\\\
                                      &= 60 + 29 + 120 + 8 + 60 + 23 \\\\
                                      &= 300 \ \text {minutes} \\\\
-\text {Total money raised}           &= 300 \times 10 \\\\
+\text {Total money raised}           &= 300 \times 10 \ \text {pence} \\\\
                                      &= 3000 \ \text {pence}
 \end{aligned}
 $
@@ -3529,9 +3543,10 @@ Write your answer using the $24$-hour clock.
 
 $
 \begin{aligned}
-\text{Film will end in}     &= 3.25 + 108 \\\\
-                            &= 15.25 + 108 \\\\
-                            &= 17.13
+\text{Ending Time}     &= 3{:}25 + 108 \ \text{minutes} \\\\
+                       &= 15{:}25 + 108 \ \text{minutes} \\\\
+                       &= 15{:}25 + 1 \ \text{hour} \ 48 \ \text{minutes} \\\\
+                       &= 17{:}13
 \end{aligned}
 $
 
@@ -3549,9 +3564,10 @@ $17.13$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Film will end in}     &= 3.25 + 108 \\\\
-                            &= 15.25 + 108 \\\\
-                            &= 17.13
+\text{Ending Time}     &= 3{:}25 + 108 \ \text{minutes} \\\\
+                       &= 15{:}25 + 108 \ \text{minutes} \\\\
+                       &= 15{:}25 + 1 \ \text{hour} \ 48 \ \text{minutes} \\\\
+                       &= 17{:}13
 \end{aligned}
 $
 </code></pre>

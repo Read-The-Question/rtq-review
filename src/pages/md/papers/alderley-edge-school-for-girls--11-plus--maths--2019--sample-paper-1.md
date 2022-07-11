@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -660,7 +660,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FCDA8DA7-63FA-4DE6-B114-DC8D5BBB3D6C</p>
 </div>
@@ -674,7 +674,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -709,7 +709,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$21$
+c
 
 </div>
 </div>
@@ -734,7 +734,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$21$
+<pre class='language-latex'><code class='language-latex'>c
 </code></pre>
 </div>
 </div>
@@ -780,7 +780,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2E74314D-F920-4315-9637-FCA3246945FC</p>
 </div>
@@ -794,7 +794,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -820,9 +820,9 @@ As per the question,
 
 $
 \begin{aligned}
-&= 21 \times 2 + 5 \\\\
-&= 42 + 5   \\\\
-&= 47
+\text{My answer}        &= 21 \times 2 + 5 \\\\
+                        &= 42 + 5   \\\\
+                        &= 47
 \end{aligned}
 $
 
@@ -831,7 +831,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$47$
+d
 
 </div>
 </div>
@@ -842,9 +842,9 @@ $47$
 
 $
 \begin{aligned}
-&= 21 \times 2 + 5 \\\\
-&= 42 + 5   \\\\
-&= 47
+\text{My answer}        &= 21 \times 2 + 5 \\\\
+                        &= 42 + 5   \\\\
+                        &= 47
 \end{aligned}
 $
 </code></pre>
@@ -858,7 +858,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$47$
+<pre class='language-latex'><code class='language-latex'>d
 </code></pre>
 </div>
 </div>
@@ -4916,7 +4916,7 @@ it should be 3 1 /3 then 3 and 1 / 3 * 60 and then 3 hours and 20 minutes
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>174BEC63-0B02-473E-B51D-7B5AA1F6DFC3</p>
 </div>
@@ -4930,7 +4930,7 @@ it should be 3 1 /3 then 3 and 1 / 3 * 60 and then 3 hours and 20 minutes
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

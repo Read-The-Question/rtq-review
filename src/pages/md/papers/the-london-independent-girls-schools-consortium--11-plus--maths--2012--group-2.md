@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2154,7 +2154,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>3C6BCAEF-2EAE-44E1-B652-80E960F07578</p>
 </div>
@@ -2168,7 +2168,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2332,6 +2332,19 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (b) : remove \"in Cold city\"
+
+
+
+part (b) : remove \"in Cold city\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3028,7 +3041,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9</p>
 </div>
@@ -3042,7 +3055,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3069,9 +3082,8 @@ For how long did the film last?
 
 $
 \begin{aligned}
-\text {Time for which film last} &= \text {End time} - \text {Start time} \\\\
-                                 &= 10{:}34 \ \text{pm} - 7{:}45 \ \text{pm} \\\\
-                                 &= 2 \ \text{hours} \ 49 \ \text{minutes}
+\text {Film lasted} &= 10{:}34 - 7{:}45  \\\\
+                    &= 2 \ \text{hours} \ 49 \ \text{minutes}
 \end{aligned}
 $
 
@@ -3089,9 +3101,8 @@ $2 \ \text{hours} \ 49 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Time for which film last} &= \text {End time} - \text {Start time} \\\\
-                                 &= 10{:}34 \ \text{pm} - 7{:}45 \ \text{pm} \\\\
-                                 &= 2 \ \text{hours} \ 49 \ \text{minutes}
+\text {Film lasted} &= 10{:}34 - 7{:}45  \\\\
+                    &= 2 \ \text{hours} \ 49 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -7599,7 +7610,7 @@ Jumpers hung $=$ Shirts hung $= 13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>854DCA2A-3998-41A0-B4D8-1620410A4611</p>
 </div>
@@ -7613,7 +7624,7 @@ Jumpers hung $=$ Shirts hung $= 13$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7678,7 +7689,7 @@ When it is $16.42$ in London, what time is it in New York?
 
 $
 \begin{aligned}
-\text{Time in New York} &= 16{:}42 - 5 \\\\
+\text{Time in New York} &= 16{:}42 - 5 \ \text{hours}  \\\\
                         &= 11{:}42
 \end{aligned}
 $
@@ -7697,7 +7708,7 @@ $11{:}42$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time in New York} &= 16{:}42 - 5 \\\\
+\text{Time in New York} &= 16{:}42 - 5 \ \text{hours}  \\\\
                         &= 11{:}42
 \end{aligned}
 $
@@ -7731,7 +7742,7 @@ When it is $12.37$ in New York, what time is it in Addis Ababa?
 
 $
 \begin{aligned}
-\text{Time in Addis Ababa} &= 12{:}37 + 5 + 2 \\\\
+\text{Time in Addis Ababa} &= 12{:}37 + 5 \ \text{hours}+ 2 \ \text{hours} \\\\
                            &= 12{:}37 + 7 \\\\
                            &= 19{:}37
 \end{aligned}
@@ -7751,7 +7762,7 @@ $19{:}37$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time in Addis Ababa} &= 12{:}37 + 5 + 2 \\\\
+\text{Time in Addis Ababa} &= 12{:}37 + 5 \ \text{hours}+ 2 \ \text{hours} \\\\
                            &= 12{:}37 + 7 \\\\
                            &= 19{:}37
 \end{aligned}
@@ -7790,20 +7801,19 @@ At what time and on which day does it arrive in New York?
 
 $
 \begin{aligned}
-\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 7 \\\\
-                                            &= 19{:}00 + 7 \\\\
-                                            &= 2{:}00
+\text{Arrival Time} &= 19{:}00 + 14 \ \text{hours} - 7 \ \text{hours} \\\\
+                    &= 19{:}00 + 7  \ \text{hours}\\\\
+                    &= 2{:}00 \\\\
+\text {Day of Arrival} &= \text {Wednesday}
 \end{aligned}
 $
-
-It arrives on Wednesday at $2{:}00$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Wednesday}, \ 2{:}00$
+$2{:}00 \ \text{on Wednesday}$
 
 </div>
 </div>
@@ -7812,13 +7822,12 @@ $\text{Wednesday}, \ 2{:}00$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time at which it arrives in New York} &= 19{:}00 + 14 - 7 \\\\
-                                            &= 19{:}00 + 7 \\\\
-                                            &= 2{:}00
+\text{Arrival Time} &= 19{:}00 + 14 \ \text{hours} - 7 \ \text{hours} \\\\
+                    &= 19{:}00 + 7  \ \text{hours}\\\\
+                    &= 2{:}00 \\\\
+\text {Day of Arrival} &= \text {Wednesday}
 \end{aligned}
 $
-
-It arrives on Wednesday at $2{:}00$
 </code></pre>
 </div>
 </div>
@@ -7830,7 +7839,7 @@ It arrives on Wednesday at $2{:}00$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text{Wednesday}, \ 2{:}00$
+<pre class='language-latex'><code class='language-latex'>$2{:}00 \ \text{on Wednesday}$
 </code></pre>
 </div>
 </div>

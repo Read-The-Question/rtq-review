@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4700,10 +4700,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4792,10 +4792,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4881,7 +4881,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A3479604-4BFA-4285-ACC4-985B4A900D81</p>
 </div>
@@ -4889,13 +4889,13 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5065,6 +5065,8 @@ Work out the value of $a$ if $3 \ \ast \ a = 6$.
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 (a - 3) \times 3 &= 6 \\\\
@@ -5089,7 +5091,9 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
 (a - 3) \times 3 &= 6 \\\\
 3a - 9           &= 6 \\\\
@@ -5128,6 +5132,9 @@ Work out the value of $b$ if $b \ \ast \ 5 = 9$.
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+
 $
 \begin{aligned}
 (5 - b) \times 3 &= 9 \\\\
@@ -5150,7 +5157,10 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+
+$
 \begin{aligned}
 (5 - b) \times 3 &= 9 \\\\
 15 - 3b          &= 9 \\\\
@@ -5187,6 +5197,9 @@ Work out the value of $c$ if $c \ \ast \ 5 = 4 \ \ast \ c$
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
+
 $
 \begin{aligned}
 (5 - c) \times 3 &= (c - 4) \times 3 \\\\
@@ -5212,7 +5225,10 @@ $\dfrac {9} {2}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+
+$
 \begin{aligned}
 (5 - c) \times 3 &= (c - 4) \times 3 \\\\
 15 - 3c          &= 3c - 12 \\\\
@@ -5885,10 +5901,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

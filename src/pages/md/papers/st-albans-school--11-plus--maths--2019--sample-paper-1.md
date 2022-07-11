@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2250,7 +2250,7 @@ $2398$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8D5A13B0-AC54-44FE-9685-F6B105592306</p>
 </div>
@@ -2261,7 +2261,7 @@ $2398$
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2325,21 +2325,31 @@ An aeroplane leaves Heathrow at $$21{:}26$$ and arrives at Atlanta at $$10{:}45$
 <div class='workings'>
 <div class='working'>
 
-$12 {:} 19$
+$
+\begin{aligned}
+\text{Time taken}           &= 21{:}26 - 10{:}45 \\\\
+                            &= 13 \ \text{hours} \ 19 \ \text{minutes} 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12 {:} 19$
+$13 \ \text{hours} \ 19 \ \text{minutes}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$12 {:} 19$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Time taken}           &= 21{:}26 - 10{:}45 \\\\
+                            &= 13 \ \text{hours} \ 19 \ \text{minutes} 
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2351,7 +2361,7 @@ $12 {:} 19$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$12 {:} 19$
+<pre class='language-latex'><code class='language-latex'>$13 \ \text{hours} \ 19 \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -2371,36 +2381,31 @@ In fact, the times were given  as local times. The time in Atlanta is five hours
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Actual time taken}   &= 13 \ \text{hours} \ 19 \ \text{minutes} +5 \ \text{hours} \\\\
+                           &= 18 \ \text{hours} \ 19 \ \text{minutes}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$18 \ \text{hours} \ 19 \ \text{minutes}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Actual time taken}   &= 13 \ \text{hours} \ 19 \ \text{minutes} +5 \ \text{hours} \\\\
+                           &= 18 \ \text{hours} \ 19 \ \text{minutes}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2412,17 +2417,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$18 \ \text{hours} \ 19 \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -2431,6 +2426,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8D5A13B0-AC54-44FE-9685-F6B105592306' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8D5A13B0-AC54-44FE-9685-F6B105592306' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8D5A13B0-AC54-44FE-9685-F6B105592306' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8D5A13B0-AC54-44FE-9685-F6B105592306' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8D5A13B0-AC54-44FE-9685-F6B105592306' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8D5A13B0-AC54-44FE-9685-F6B105592306' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8D5A13B0-AC54-44FE-9685-F6B105592306' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8D5A13B0-AC54-44FE-9685-F6B105592306' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8D5A13B0-AC54-44FE-9685-F6B105592306' id='FORM-8D5A13B0-AC54-44FE-9685-F6B105592306' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8D5A13B0-AC54-44FE-9685-F6B105592306'>Initial</p>
+</div>
 </div>
 </li>
 <li>

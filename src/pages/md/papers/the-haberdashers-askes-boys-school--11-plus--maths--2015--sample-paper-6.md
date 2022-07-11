@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2015-sample-paper-6"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -716,7 +716,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5C8F5D72-0C11-4187-B036-6028A9F59B70</p>
 </div>
@@ -730,7 +730,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -751,11 +751,11 @@ How many minutes does it last?
 
 $
 \begin{aligned}
-\text{Concert performance lasted}          &= \text{End time} - \text{Start time} \\\\
-                                           &= 9{:}11 \ \text{pm} - 7{:}35 \ \text{pm} \\\\
-                                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
-                                           &= 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
-                                           &= 96 \ \text{minutes}
+\text{Concert Lasted}      &= 9{:}11  - 7{:}35  \\\\
+                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
+                           &= 1 \times 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
+                           &=60 + 36 \\\\
+                           &= 96 \ \text{minutes}
 \end{aligned}
 $
 
@@ -773,11 +773,11 @@ $96 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Concert performance lasted}          &= \text{End time} - \text{Start time} \\\\
-                                           &= 9{:}11 \ \text{pm} - 7{:}35 \ \text{pm} \\\\
-                                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
-                                           &= 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
-                                           &= 96 \ \text{minutes}
+\text{Concert Lasted}      &= 9{:}11  - 7{:}35  \\\\
+                           &= 1 \ \text{hour} \ 36 \ \text{minutes} \\\\
+                           &= 1 \times 60 \ \text{minutes} + 36 \ \text{minutes} \\\\
+                           &=60 + 36 \\\\
+                           &= 96 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>

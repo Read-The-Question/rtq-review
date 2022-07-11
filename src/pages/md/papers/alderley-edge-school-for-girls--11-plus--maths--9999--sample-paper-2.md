@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3141,7 +3141,7 @@ Triangle is $3 \ \text{cm}$ tall.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>25AE63AD-E6BE-469D-8815-36F8E101C78C</p>
 </div>
@@ -3155,7 +3155,7 @@ Triangle is $3 \ \text{cm}$ tall.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3180,14 +3180,17 @@ As per the question,
 
 $
 \begin{aligned}
-3.6 \times a    &= 1.8 \times 7  \\\\
-a               &= \dfrac {1.8 \times 7} {3.6} \\\\
-a               &= \dfrac {1.8 \times 7} {1.8 \times 2} \\\\
-a               &= \dfrac {\cancel {1.8} \times 7} {\cancel {1.8} \times 2} \\\\
-a               &= \dfrac {7} {2} \\\\
-a               &= 3.5
+3.6 \times a                 &= 1.8 \times 7  \\\\
+\dfrac {36} {10} \times a    &= \dfrac {18} {10} \times 7  \\\\
+a                            &= \dfrac {18 \times 7 \times 10} {36 \times 10} \\\\
+a                            &= \dfrac {18 \times 7 \times 10} {18 \times 2 \times 10} \\\\
+a                            &= \dfrac {\cancel {18} \times 7 \times \cancel {10}} {\cancel {18} \times 2 \times \cancel {10}} \\\\
+a                            &= \dfrac {7} {2} \\\\
+a                            &= 3.5
 \end{aligned}
 $
+
+The missing number $= 3.5$
 
 </div>
 </div>
@@ -3207,14 +3210,17 @@ As per the question,
 
 $
 \begin{aligned}
-3.6 \times a    &= 1.8 \times 7  \\\\
-a               &= \dfrac {1.8 \times 7} {3.6} \\\\
-a               &= \dfrac {1.8 \times 7} {1.8 \times 2} \\\\
-a               &= \dfrac {\cancel {1.8} \times 7} {\cancel {1.8} \times 2} \\\\
-a               &= \dfrac {7} {2} \\\\
-a               &= 3.5
+3.6 \times a                 &= 1.8 \times 7  \\\\
+\dfrac {36} {10} \times a    &= \dfrac {18} {10} \times 7  \\\\
+a                            &= \dfrac {18 \times 7 \times 10} {36 \times 10} \\\\
+a                            &= \dfrac {18 \times 7 \times 10} {18 \times 2 \times 10} \\\\
+a                            &= \dfrac {\cancel {18} \times 7 \times \cancel {10}} {\cancel {18} \times 2 \times \cancel {10}} \\\\
+a                            &= \dfrac {7} {2} \\\\
+a                            &= 3.5
 \end{aligned}
 $
+
+The missing number $= 3.5$
 </code></pre>
 </div>
 </div>

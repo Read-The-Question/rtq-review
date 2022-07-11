@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-oldpr"
 title: "TopicPaper - Algebra - 9 - OLDPR"
-date: 2022-07-11 06:13:31
+date: 2022-07-11 18:04:07
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-11 06:13:31
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -179,10 +179,10 @@ Money Martin have = \pounds 19 + 13
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -449,10 +449,10 @@ F82A9A83-8990-460E-9DE9-6B7ACD86127F for b
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -626,10 +626,10 @@ Let the cost of first item. Delete line 3,4 . For spacing use \ .
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -766,10 +766,10 @@ No need to explain this much. Length (x) = length (Lower figure) + 1/3 \times le
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1088,10 +1088,10 @@ the write.. 2 full buses and for rest $9$ one more bus
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1247,10 +1247,10 @@ in blue answer only $15$ delete rest
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

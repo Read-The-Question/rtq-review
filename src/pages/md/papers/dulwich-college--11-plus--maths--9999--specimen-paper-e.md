@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2975,7 +2975,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>76EED758-156E-462D-9D8B-24446C9E1E55</p>
 </div>
@@ -2983,13 +2983,13 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3007,44 +3007,38 @@ Alex drinks $50\%$ more than Jane and these two friends finish the bottle betwee
 <div class='workings'>
 <div class='working'>
 
-Let Jane drinks $x \ \text{ml}$.
+Let Jane drinks $= a\ \text{ml}$.
+
+Juice drunk by Alex $= a + 50 \% \ \text{of} \ x$
 
 As per the question,
 
-Juice drunk by Alex $= x + 50 \% \ \text{of} x$
-
-Then,
-
 $
 \begin{aligned}
-x + x + 50 \% \ \text{of} \ x                &= 150 \ \text{ml} \\\\
-2x + \dfrac {50x} {100}                      &= 150 \\\\
-2x + \dfrac {5 \cancel{0}x} {10 \cancel {0}} &= 150 \\\\
-2x + \dfrac {5x} {10}                        &= 150 \\\\
-\dfrac {20x + 5x} {10}                       &= 150 \\\\
-\dfrac {25x} {10}                            &= 150 \\\\
-25x                                          &= 150 \times 10 \\\\
-x                                            &= \dfrac {25 \times 6 \times 10} {25} \\\\
-x                                            &= \dfrac {\cancel {25} \times 6 \times 10} {\cancel {25}} \\\\
-x                                            &= 6 \times 10 \\\\
-x                                            &= 60 \ \text {ml}
-\end{aligned}
-$
-
-Juice drunk by Jane $= 60 \ \text {ml}$
-
-Juice drunk by Alex $= 60 + 50 \% \times 60$
-
-$
-\begin{aligned}
+a + a + 50 \% \ \text{of} \ a                &= 150 \ \text{ml} \\\\
+2a + \dfrac {50a} {100}                      &= 150 \\\\
+2a + \dfrac {50a} {50 \times 2}              &= 150 \\\\
+2a + \dfrac { \cancel{50} a} { \cancel{50} \times 2}   &= 150 \\\\
+2a + \dfrac {a} {2}                        &= 150 \\\\
+\dfrac {2a \times 2 + a} {2}               &= 150 \\\\
+\dfrac  {4a + a} {2}                       &= 150 \\\\
+\dfrac  {5a} {2}                           &= 150 \\\\
+a                                          &= \dfrac {150 \times 2} {5} \\\\
+a                                          &= \dfrac { 5 \times 30 \times 2} {5} \\\\
+a                                          &= \dfrac { \cancel 5 \times 30 \times 2} {\cancel 5} \\\\
+a                                          &=  30 \times 2 \\\\
+a                                          &= 60 \ \text {ml} \\\\
+Juice drunk by Jane &= 60 \ \text {ml} \\\\
+Juice drunk by Alex &= 60 + 50 \% \times 60 \\\\
 &= 60 + \dfrac {50} {100} \times 60 \\\\
-&= 60 + \dfrac {3000} {100} \\\\
-&= 60 + \dfrac {30 \cancel{00}} {1 \cancel{00}} \\\\
-&= 90 \ \text {ml}
+&= 60 + \dfrac {50 \times 30 \times 2} {50 \times 2} \\\\
+&= 60 + \dfrac {\cancel {50} \times 30 \times \cancel 2} {\cancel {50} \times \cancel 2}  \\\\
+&= 60 + 30 \\\\
+&= 90 \ \text {ml} \\\\
+Juice drunk by Alex &= 90 \ \text {ml}
 \end{aligned}
 $
 
-Juice drunk by Alex $= 90 \ \text {ml}$
 
 </div>
 </div>
@@ -3058,44 +3052,38 @@ $90 \ \text {ml}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let Jane drinks $x \ \text{ml}$.
+<pre class='language-latex'><code class='language-latex'>Let Jane drinks $= a\ \text{ml}$.
+
+Juice drunk by Alex $= a + 50 \% \ \text{of} \ x$
 
 As per the question,
 
-Juice drunk by Alex $= x + 50 \% \ \text{of} x$
-
-Then,
-
 $
 \begin{aligned}
-x + x + 50 \% \ \text{of} \ x                &= 150 \ \text{ml} \\\\
-2x + \dfrac {50x} {100}                      &= 150 \\\\
-2x + \dfrac {5 \cancel{0}x} {10 \cancel {0}} &= 150 \\\\
-2x + \dfrac {5x} {10}                        &= 150 \\\\
-\dfrac {20x + 5x} {10}                       &= 150 \\\\
-\dfrac {25x} {10}                            &= 150 \\\\
-25x                                          &= 150 \times 10 \\\\
-x                                            &= \dfrac {25 \times 6 \times 10} {25} \\\\
-x                                            &= \dfrac {\cancel {25} \times 6 \times 10} {\cancel {25}} \\\\
-x                                            &= 6 \times 10 \\\\
-x                                            &= 60 \ \text {ml}
-\end{aligned}
-$
-
-Juice drunk by Jane $= 60 \ \text {ml}$
-
-Juice drunk by Alex $= 60 + 50 \% \times 60$
-
-$
-\begin{aligned}
+a + a + 50 \% \ \text{of} \ a                &= 150 \ \text{ml} \\\\
+2a + \dfrac {50a} {100}                      &= 150 \\\\
+2a + \dfrac {50a} {50 \times 2}              &= 150 \\\\
+2a + \dfrac { \cancel{50} a} { \cancel{50} \times 2}   &= 150 \\\\
+2a + \dfrac {a} {2}                        &= 150 \\\\
+\dfrac {2a \times 2 + a} {2}               &= 150 \\\\
+\dfrac  {4a + a} {2}                       &= 150 \\\\
+\dfrac  {5a} {2}                           &= 150 \\\\
+a                                          &= \dfrac {150 \times 2} {5} \\\\
+a                                          &= \dfrac { 5 \times 30 \times 2} {5} \\\\
+a                                          &= \dfrac { \cancel 5 \times 30 \times 2} {\cancel 5} \\\\
+a                                          &=  30 \times 2 \\\\
+a                                          &= 60 \ \text {ml} \\\\
+Juice drunk by Jane &= 60 \ \text {ml} \\\\
+Juice drunk by Alex &= 60 + 50 \% \times 60 \\\\
 &= 60 + \dfrac {50} {100} \times 60 \\\\
-&= 60 + \dfrac {3000} {100} \\\\
-&= 60 + \dfrac {30 \cancel{00}} {1 \cancel{00}} \\\\
-&= 90 \ \text {ml}
+&= 60 + \dfrac {50 \times 30 \times 2} {50 \times 2} \\\\
+&= 60 + \dfrac {\cancel {50} \times 30 \times \cancel 2} {\cancel {50} \times \cancel 2}  \\\\
+&= 60 + 30 \\\\
+&= 90 \ \text {ml} \\\\
+Juice drunk by Alex &= 90 \ \text {ml}
 \end{aligned}
 $
 
-Juice drunk by Alex $= 90 \ \text {ml}$
 </code></pre>
 </div>
 </div>
@@ -4518,10 +4506,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

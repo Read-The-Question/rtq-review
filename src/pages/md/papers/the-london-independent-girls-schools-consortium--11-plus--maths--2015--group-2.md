@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 2"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2407,9 +2407,10 @@ Write your answer using the $24$-hour clock.
 
 $
 \begin{aligned}
-\text{Film will end in}     &= 3.25 + 108 \\\\
-                            &= 15.25 + 108 \\\\
-                            &= 17.13
+\text{Ending Time}     &= 3{:}25 + 108 \ \text{minutes} \\\\
+                       &= 15{:}25 + 108 \ \text{minutes} \\\\
+                       &= 15{:}25 + 1 \ \text{hour} \ 48 \ \text{minutes} \\\\
+                       &= 17{:}13
 \end{aligned}
 $
 
@@ -2427,9 +2428,10 @@ $17.13$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Film will end in}     &= 3.25 + 108 \\\\
-                            &= 15.25 + 108 \\\\
-                            &= 17.13
+\text{Ending Time}     &= 3{:}25 + 108 \ \text{minutes} \\\\
+                       &= 15{:}25 + 108 \ \text{minutes} \\\\
+                       &= 15{:}25 + 1 \ \text{hour} \ 48 \ \text{minutes} \\\\
+                       &= 17{:}13
 \end{aligned}
 $
 </code></pre>

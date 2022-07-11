@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-07-11 06:08:59
+date: 2022-07-11 17:59:40
 ---
 <div class='paper'>
 <div class='meta'>
@@ -579,7 +579,7 @@ Marks George got $= 24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D5012DF2-F430-4487-8A7E-139B87DBBF34</p>
 </div>
@@ -593,7 +593,7 @@ Marks George got $= 24$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -610,12 +610,12 @@ How many days are there in $48 \ \text{weeks}$?
 <div class='workings'>
 <div class='working'>
 
-As we know there are $7$ days in a week. Using that we get,
 
 $
 \begin{aligned}
-\text {Number of days in 48 weeks}  &= 48 \times 7 \\\\
-                                    &= 336
+&= 48 \ \text{weeks} \\\\
+&= 48 \times 7 \\\\
+&= 336 \ \text{days}
 \end{aligned}
 $
 
@@ -624,19 +624,19 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$336$
+$336 \ \text{days}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As we know there are $7$ days in a week. Using that we get,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text {Number of days in 48 weeks}  &= 48 \times 7 \\\\
-                                    &= 336
+&= 48 \ \text{weeks} \\\\
+&= 48 \times 7 \\\\
+&= 336 \ \text{days}
 \end{aligned}
 $
 </code></pre>
@@ -650,7 +650,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$336$
+<pre class='language-latex'><code class='language-latex'>$336 \ \text{days}$
 </code></pre>
 </div>
 </div>
@@ -3211,7 +3211,7 @@ fifteen
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6247B84C-67BA-4837-942E-898B6625652A</p>
 </div>
@@ -3225,7 +3225,7 @@ fifteen
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3291,7 +3291,7 @@ $
 \end{aligned}
 $
 
-Matilda receives the call in Australian at $10{:}00$ and on $31 \text{st}$ January.
+Matilda receives the call in Australia at $10{:}00$ and on $31 \text{st}$ January.
 
 
 </div>
@@ -3318,7 +3318,7 @@ $31 \text{st January}$
 \end{aligned}
 $
 
-Matilda receives the call in Australian at $10{:}00$ and on $31 \text{st}$ January.
+Matilda receives the call in Australia at $10{:}00$ and on $31 \text{st}$ January.
 
 </code></pre>
 </div>
@@ -3362,9 +3362,9 @@ She leaves the UK at the same time that John makes his phone call. Given that th
 
 $
 \begin{aligned}
-& = 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
-& = 23{:}00 + 24 \ \text {hours} + 14 \ \text {hours} \\\\
-& = 13{:}00
+\text{Arrival Time}       &= 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
+                          &= 23{:}00 + 38 \ \text {hours} \\\\
+                          & = 13{:}00
 \end{aligned}
 $
 
@@ -3389,9 +3389,9 @@ $1 \text{st February}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-& = 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
-& = 23{:}00 + 24 \ \text {hours} + 14 \ \text {hours} \\\\
-& = 13{:}00
+\text{Arrival Time}       &= 23{:}00 + 27 \ \text {hours} + 11 \ \text {hours} \\\\
+                          &= 23{:}00 + 38 \ \text {hours} \\\\
+                          & = 13{:}00
 \end{aligned}
 $
 

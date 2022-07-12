@@ -1,0 +1,122 @@
+---
+slug: "ragpapers/topicpapers-tnumber-15-g0-prcr"
+title: "TopicPaper - Number - 15 - G0 - PRCR"
+date: 2022-07-12 14:58:45
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>4AED5958-F04F-45F1-A4E4-5E09C607BC13</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:9</p>
+</div>
+<div class='rag'>
+<p>Kiran Babu</p>
+</div>
+<div class='rag'>
+<p>rag_kb_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Convert $7.4 \ \text{kilograms}$ into grams.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \ \text{kilograms}   &= 1000 \ \text{grams} \\\\
+7.4 \ \text{kilograms} &= 1000 \times 7.4 \\\\
+                       &= 7400 \ \text{grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7400 \ \text{grams}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+1 \ \text{kilograms}   &= 1000 \ \text{grams} \\\\
+7.4 \ \text{kilograms} &= 1000 \times 7.4 \\\\
+                       &= 7400 \ \text{grams}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$7400 \ \text{grams}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' id='FORM-4AED5958-F04F-45F1-A4E4-5E09C607BC13' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4AED5958-F04F-45F1-A4E4-5E09C607BC13'>Initial</p>
+</div>
+</div>
+</li>
+</ul>

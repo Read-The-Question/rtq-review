@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-2"
 title: "TopicPaper - Money - 2"
-date: 2022-07-12 14:05:17
+date: 2022-07-12 14:58:45
 ---
 <div class='paper'>
 <div class='meta'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-2"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1168,7 +1168,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>00C17084-5529-4DED-AB9D-84C6F2769CA9</p>
 </div>
@@ -1182,7 +1182,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1235,7 +1235,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$a = 10,b = 0
+$a = 10,b = 0 \\
 a = 2,b = 12$
 
 </div>
@@ -1280,7 +1280,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$a = 10,b = 0
+<pre class='language-latex'><code class='language-latex'>$a = 10,b = 0 \\
 a = 2,b = 12$
 </code></pre>
 </div>
@@ -1327,7 +1327,7 @@ a = 2,b = 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1AF27AEE-1DB6-474C-AB00-27C71B0A48B2</p>
 </div>
@@ -1341,7 +1341,7 @@ a = 2,b = 12$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2096,7 +2096,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4471FF90-E8D7-4ED1-8FDA-C346A528851A</p>
 </div>
@@ -2110,7 +2110,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2129,8 +2129,8 @@ Two workers are paid a total of $\pounds 506$ by their employer. If one is paid 
 
 $
 \begin{aligned}
-\text{Let the wage of first labourer = x} \\\\
-\text{Therefore wage of second labourer}                            &= x + \dfrac{20}{100} \times x \\\\
+\text{Let wage of 1st labourer = x} \\\\
+\text{wage of second labourer}                            &= x + \dfrac{20}{100} \times x \\\\
                                                                     &= \dfrac{100 \times x + 20x}{100} \\\\
                                                                     &= \dfrac{120x}{100} \\\\
 \text{Total wages}                                                  &=  506 \\\\
@@ -2138,9 +2138,11 @@ x + \dfrac{120x}{100}                                               &= 506 \\\\
 \dfrac{100x + 120x}{100}                                            &= 506 \\\\
 \dfrac{220x}{100}                                                   &= 506 \\\\
 x                                                                   &= \dfrac{506 \times 100} {220} \\\\
-x                                                                   &= 23 \\\\
-\text{Wage of other worker}                                         &= 506 - 23 \\\\
-                                                                    &= 483
+x                                                                   &= \dfrac{46 \times 11 \times 2 \times 2 \times 5 \times 5} {11 \times 2 \times 2 \times 5} \\\\
+x                                                                   &= \dfrac{46 \times \cancel 11 \times \cancel 2 \times \cancel 2 \times \cancel 5 \times 5} {\cancel 11 \times \cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+x                                                                   &= 230 \\\\
+\text{Wage of other worker}                                         &= 506 - 230 \\\\
+                                                                    &= 276
 \end{aligned}
 $
 
@@ -2149,7 +2151,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23,483$
+$230, 276$
 
 </div>
 </div>
@@ -2158,8 +2160,8 @@ $23,483$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Let the wage of first labourer = x} \\\\
-\text{Therefore wage of second labourer}                            &= x + \dfrac{20}{100} \times x \\\\
+\text{Let wage of 1st labourer = x} \\\\
+\text{wage of second labourer}                            &= x + \dfrac{20}{100} \times x \\\\
                                                                     &= \dfrac{100 \times x + 20x}{100} \\\\
                                                                     &= \dfrac{120x}{100} \\\\
 \text{Total wages}                                                  &=  506 \\\\
@@ -2167,9 +2169,11 @@ x + \dfrac{120x}{100}                                               &= 506 \\\\
 \dfrac{100x + 120x}{100}                                            &= 506 \\\\
 \dfrac{220x}{100}                                                   &= 506 \\\\
 x                                                                   &= \dfrac{506 \times 100} {220} \\\\
-x                                                                   &= 23 \\\\
-\text{Wage of other worker}                                         &= 506 - 23 \\\\
-                                                                    &= 483
+x                                                                   &= \dfrac{46 \times 11 \times 2 \times 2 \times 5 \times 5} {11 \times 2 \times 2 \times 5} \\\\
+x                                                                   &= \dfrac{46 \times \cancel 11 \times \cancel 2 \times \cancel 2 \times \cancel 5 \times 5} {\cancel 11 \times \cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+x                                                                   &= 230 \\\\
+\text{Wage of other worker}                                         &= 506 - 230 \\\\
+                                                                    &= 276
 \end{aligned}
 $
 </code></pre>
@@ -2183,7 +2187,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$23,483$
+<pre class='language-latex'><code class='language-latex'>$230, 276$
 </code></pre>
 </div>
 </div>
@@ -2783,7 +2787,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4F5AE821-53F1-4B63-BD66-A4D76B7F9B20</p>
 </div>
@@ -2797,7 +2801,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

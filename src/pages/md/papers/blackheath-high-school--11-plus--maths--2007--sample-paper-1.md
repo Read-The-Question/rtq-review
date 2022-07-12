@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2296,7 +2296,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5DEB5130-9B77-4FA1-865A-BA2AA2AA14E4</p>
 </div>
@@ -2310,7 +2310,7 @@ $21$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2337,6 +2337,8 @@ $
 Let the missing numerator $= a,b,c$
 
 Let the missing denominator $= d$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2396,6 +2398,8 @@ $1,6,21,20$
 <pre class='language-latex'><code class='language-latex'>Let the missing numerator $= a,b,c$
 
 Let the missing denominator $= d$
+
+As per the question,
 
 $
 \begin{aligned}

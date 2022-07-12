@@ -1,7 +1,7 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1186,6 +1186,7 @@ Let's find first number. Using equation 1 and 2 we get,
 
 $
 \begin{aligned}
+a + a &= 32 + 6  \\\\
 a + a &= 38 \\\\
 2a &= 38 \\\\
 a &= \dfrac {38} {2} \\\\
@@ -1240,6 +1241,7 @@ Let's find first number. Using equation 1 and 2 we get,
 
 $
 \begin{aligned}
+a + a &= 32 + 6  \\\\
 a + a &= 38 \\\\
 2a &= 38 \\\\
 a &= \dfrac {38} {2} \\\\
@@ -2910,7 +2912,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CFC461D1-AF24-4C9B-9A0D-E298AE0E6C8F</p>
 </div>
@@ -2924,7 +2926,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

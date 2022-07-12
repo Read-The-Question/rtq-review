@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-21"
 title: "TopicPaper - Number - 21"
-date: 2022-07-11 18:04:07
+date: 2022-07-12 03:47:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3343,7 +3343,7 @@ Direct answer in workings (no solving needed)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D0AE7167-AAFE-44B0-8895-2BD334572908</p>
 </div>
@@ -3357,7 +3357,7 @@ Direct answer in workings (no solving needed)
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3399,13 +3399,12 @@ $
 \begin{aligned}
 2b - a          &= 15 \\\\
 2(35 - 2a) - a  &= 15 \\\\
-70 - 14a - a    &= 15 \\\\
-70 - 15a        &= 15 \\\\
-70 -15          &= 15a \\\\
-15a             &= 65 \\\\
-a               &= \dfrac {65} {15} \\\\
-a               &= \dfrac {13} {3} \\\\
-a               &= 4.33
+70 - 4a - a    &= 15 \\\\
+70 - 5a        &= 15 \\\\
+70 -15          &= 5a \\\\
+5a             &= 55 \\\\
+a               &= \dfrac {55} {5} \\\\
+a               &= 11 \\\\
 \end{aligned}
 $
 
@@ -3414,11 +3413,10 @@ Now, let's find b
 $
 \begin{aligned}
 2a + b &= 35 \\\\
-2 \times \dfrac {13} {3} + b &= 35 \\\\
-\dfrac {26} {3} + b &= 35 \\\\
-b &= 35 - \dfrac {26} {3} \\\\
-b &= \dfrac {79} {3} \\\\
-b &= 26.33 \\\\
+2 \times 11 + b &= 35 \\\\
+22 + b &= 35 \\\\
+b &= 35 - 22 \\\\
+b &= 13 \\\\
 \end{aligned}
 $
 
@@ -3433,7 +3431,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-first number $= \dfrac {13} {3}$, second number $= \dfrac {79} {3}$
+first number $= 11$, second number $= 13$
 
 </div>
 <div class='answer'>
@@ -3464,13 +3462,12 @@ $
 \begin{aligned}
 2b - a          &= 15 \\\\
 2(35 - 2a) - a  &= 15 \\\\
-70 - 14a - a    &= 15 \\\\
-70 - 15a        &= 15 \\\\
-70 -15          &= 15a \\\\
-15a             &= 65 \\\\
-a               &= \dfrac {65} {15} \\\\
-a               &= \dfrac {13} {3} \\\\
-a               &= 4.33
+70 - 4a - a    &= 15 \\\\
+70 - 5a        &= 15 \\\\
+70 -15          &= 5a \\\\
+5a             &= 55 \\\\
+a               &= \dfrac {55} {5} \\\\
+a               &= 11 \\\\
 \end{aligned}
 $
 
@@ -3479,11 +3476,10 @@ Now, let's find b
 $
 \begin{aligned}
 2a + b &= 35 \\\\
-2 \times \dfrac {13} {3} + b &= 35 \\\\
-\dfrac {26} {3} + b &= 35 \\\\
-b &= 35 - \dfrac {26} {3} \\\\
-b &= \dfrac {79} {3} \\\\
-b &= 26.33 \\\\
+2 \times 11 + b &= 35 \\\\
+22 + b &= 35 \\\\
+b &= 35 - 22 \\\\
+b &= 13 \\\\
 \end{aligned}
 $
 
@@ -3503,7 +3499,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>first number $= \dfrac {13} {3}$, second number $= \dfrac {79} {3}$
+<pre class='language-latex'><code class='language-latex'>first number $= 11$, second number $= 13$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -5506,7 +5502,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>F4652DE7-C2AD-4795-819E-73CC80ABCABB</p>
 </div>
@@ -5520,7 +5516,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6406,7 +6402,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>439E0621-10B5-4202-9B77-CE1228F38FE8</p>
 </div>
@@ -6420,7 +6416,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6773,7 +6769,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>B74FD1B5-8CBD-45FD-A538-4105553D541F</p>
 </div>
@@ -6787,7 +6783,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6925,7 +6921,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>A547290D-8C41-4C9B-A7F1-47894E812D75</p>
 </div>
@@ -6939,7 +6935,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7136,7 +7132,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>C1973D01-029D-4F22-8DE1-F3678679D1B4</p>
 </div>
@@ -7150,7 +7146,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7167,7 +7163,7 @@ Write in figures the number forty-two thousand and eight. How much is this numbe
 <div class='workings'>
 <div class='working'>
 
-The number is $= 42008$
+The number $= 42008$
 
 $1000000 - 42008 = 957992$
 
@@ -7185,7 +7181,7 @@ $42008 \\\\ 957992$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The number is $= 42008$
+<pre class='language-latex'><code class='language-latex'>The number $= 42008$
 
 $1000000 - 42008 = 957992$
 
@@ -7461,7 +7457,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>CB25A103-14EA-41BF-BF3D-B461BBA32FAB</p>
 </div>
@@ -7475,7 +7471,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

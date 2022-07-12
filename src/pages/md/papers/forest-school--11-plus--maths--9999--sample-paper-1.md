@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-1"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2161,7 +2161,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2233EE67-0456-49F5-B1A4-331DDBD7F697</p>
 </div>
@@ -2175,7 +2175,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2194,7 +2194,7 @@ What was the number he first thought of?
 <div class='workings'>
 <div class='working'>
 
-Let the number $= a$
+Let the number Theo first thought of $= a$
 
 As per the question,
 
@@ -2203,7 +2203,6 @@ $
 \dfrac {3} {4} \ \text{of} \ a &= 24 \\\\
 \dfrac {3} {4} \times a        &= 24 \\\\
 \dfrac {3a} {4}                &= 24 \\\\
-a                              &= 24 \times \dfrac {4} {3} \\\\
 a                              &= \dfrac{24 \times 4} {3} \\\\
 a                              &= \dfrac{8 \times 3 \times 4} {3} \\\\
 a                              &= \dfrac{8 \times \cancel {3} \times 4} {\cancel {3}} \\\\
@@ -2212,7 +2211,7 @@ a                              &= 32
 \end{aligned}
 $
 
-Theo was thinking of $32$.
+The number Theo first thought of $= 32$.
 
 </div>
 </div>
@@ -2226,7 +2225,7 @@ $32$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number Theo first thought of $= a$
 
 As per the question,
 
@@ -2235,7 +2234,6 @@ $
 \dfrac {3} {4} \ \text{of} \ a &= 24 \\\\
 \dfrac {3} {4} \times a        &= 24 \\\\
 \dfrac {3a} {4}                &= 24 \\\\
-a                              &= 24 \times \dfrac {4} {3} \\\\
 a                              &= \dfrac{24 \times 4} {3} \\\\
 a                              &= \dfrac{8 \times 3 \times 4} {3} \\\\
 a                              &= \dfrac{8 \times \cancel {3} \times 4} {\cancel {3}} \\\\
@@ -2244,7 +2242,7 @@ a                              &= 32
 \end{aligned}
 $
 
-Theo was thinking of $32$.
+The number Theo first thought of $= 32$.
 </code></pre>
 </div>
 </div>
@@ -3510,7 +3508,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1C0336ED-FF75-46F7-A592-23696B697EF3</p>
 </div>
@@ -3524,7 +3522,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3543,13 +3541,11 @@ Amrit, Brenda and Clare share $13$ sweets. Amrit gets three times as many as Bre
 
 Let the number of sweets Clare get $= a$.
 
-As per the question,
-
 Number of sweets Brenda get $= 3a$.
 
 Number of sweets Amrit get $= 9a$.
 
-Total no. of sweets $= 13$
+As per the question,
 
 $
 \begin{aligned}
@@ -3562,11 +3558,12 @@ a               &= 1
 \end{aligned}
 $
 
-Clare gets $1$ sweet.
+Number of sweets Clare get $= 1$.
 
-Brenda gets $3 \times 1 = 3$ sweets.
+Number of sweets Brenda get $= 3 \times 1 = 3$.
 
-Amrit gets $9 \times 1 = 9$ sweets.
+Number of sweets Amrit get $= 9 \times 1 = 9$..
+
 
 </div>
 </div>
@@ -3592,13 +3589,11 @@ Clare $=$ $1$
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sweets Clare get $= a$.
 
-As per the question,
-
 Number of sweets Brenda get $= 3a$.
 
 Number of sweets Amrit get $= 9a$.
 
-Total no. of sweets $= 13$
+As per the question,
 
 $
 \begin{aligned}
@@ -3611,11 +3606,12 @@ a               &= 1
 \end{aligned}
 $
 
-Clare gets $1$ sweet.
+Number of sweets Clare get $= 1$.
 
-Brenda gets $3 \times 1 = 3$ sweets.
+Number of sweets Brenda get $= 3 \times 1 = 3$.
 
-Amrit gets $9 \times 1 = 9$ sweets.
+Number of sweets Amrit get $= 9 \times 1 = 9$..
+
 </code></pre>
 </div>
 </div>

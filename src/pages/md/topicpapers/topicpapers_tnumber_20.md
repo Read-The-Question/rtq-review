@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-20"
 title: "TopicPaper - Number - 20"
-date: 2022-07-11 18:04:07
+date: 2022-07-12 03:47:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -363,7 +363,7 @@ Answer in the middle $= 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>604C5332-B1C2-41A5-B567-64B914104E1E</p>
 </div>
@@ -377,7 +377,7 @@ Answer in the middle $= 8$
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -466,7 +466,7 @@ Put a circle round **each** of the multiples of $3$.
 
 $
 \begin{array}{ccccccccccccccccc}
-12, & 15, & 18\\\\
+11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19 \\\\
 \end{array}
 $
 
@@ -504,7 +504,7 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{ccccccccccccccccc}
-12, & 15, & 18\\\\
+11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19 \\\\
 \end{array}
 $
 
@@ -560,7 +560,11 @@ Draw a line underneath **each** of the prime numbers.
 <div class='workings'>
 <div class='working'>
 
-11, 13, 17, 19 are the primes.
+$
+\begin{array}{ccccccccccccccccc}
+\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19} \\\\
+\end{array}
+$
 
 </div>
 <div class='working'>
@@ -584,7 +588,11 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>11, 13, 17, 19 are the primes.
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{ccccccccccccccccc}
+\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -628,7 +636,13 @@ Put a **square** round the square number.
 <div class='workings'>
 <div class='working'>
 
-16 is a square number.
+$
+\begin{array}{ccccccccccccccccc}
+11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19 \\\\
+\end{array}
+$
+
+Lets verify
 
 $
 \begin{aligned}
@@ -658,7 +672,13 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>16 is a square number.
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{ccccccccccccccccc}
+11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19 \\\\
+\end{array}
+$
+
+Lets verify
 
 $
 \begin{aligned}
@@ -1052,7 +1072,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>7850D23B-A3B4-42DC-8963-DEF946414E10</p>
 </div>
@@ -1063,7 +1083,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1300,43 +1320,6 @@ The numbers are $18$ and $3$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='7850D23B-A3B4-42DC-8963-DEF946414E10' id='FORM-7850D23B-A3B4-42DC-8963-DEF946414E10' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-7850D23B-A3B4-42DC-8963-DEF946414E10'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -4726,7 +4709,7 @@ $a = 45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>EAF494FE-1406-4462-AED5-0A23F247B6E2</p>
 </div>
@@ -4740,7 +4723,7 @@ $a = 45$
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6580,7 +6563,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>7DCC3D45-5CB3-4A24-A48F-06B6CED96443</p>
 </div>
@@ -6594,7 +6577,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

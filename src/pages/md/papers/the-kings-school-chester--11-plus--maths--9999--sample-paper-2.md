@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -833,7 +833,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>5FA09A55-094D-4CB0-83D9-A30CEC5F4740</p>
 </div>
@@ -844,7 +844,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4618,7 +4618,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406</p>
 </div>
@@ -4629,7 +4629,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4652,7 +4652,60 @@ These are called nested squares. What fraction of this shape is shaded in?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text {Let the side of the square} \ &= s \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Let the area of the square} \ &= a \\\\
+                                     &= s^2 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Let the side of inner square} \ &= x \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Let the area of inner square} \ &= b \\\\
+                                       &= x^2 \\\\
+\end{aligned}
+$
+
+By pythogoras theorem,
+
+$
+\begin{aligned}
+(\dfrac{s}{2})^2 + (\dfrac{s}{2})^2 &= x^2 \\\\
+\dfrac{s^2}{4} + \dfrac{s^2}{4} &= x^2 \\\\
+\dfrac{s^2}{2} &= x^2 \\\\
+b &= \dfrac{a}{2} \\\\
+\end{aligned}
+$
+
+Area of inner square $= \dfrac{a}{2}$
+
+Following the similiar pattern,
+
+$
+\begin{aligned}
+\text {Area of shaded region} \ &= \dfrac{a}{2} - \dfrac{a}{4} + \dfrac{a}{8} - \dfrac{a}{16} + \dfrac{a}{32} \\\\
+&= \dfrac{11a}{32} \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Fraction of shaded region over total area} \ &= \dfrac{ \dfrac{11a}{32} }{a} \\\\
+&= \dfrac{11}{32} \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -4664,7 +4717,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{11}{32}$
 
 </div>
 <div class='answer'>
@@ -4676,7 +4729,60 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Let the side of the square} \ &= s \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Let the area of the square} \ &= a \\\\
+                                     &= s^2 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Let the side of inner square} \ &= x \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Let the area of inner square} \ &= b \\\\
+                                       &= x^2 \\\\
+\end{aligned}
+$
+
+By pythogoras theorem,
+
+$
+\begin{aligned}
+(\dfrac{s}{2})^2 + (\dfrac{s}{2})^2 &= x^2 \\\\
+\dfrac{s^2}{4} + \dfrac{s^2}{4} &= x^2 \\\\
+\dfrac{s^2}{2} &= x^2 \\\\
+b &= \dfrac{a}{2} \\\\
+\end{aligned}
+$
+
+Area of inner square $= \dfrac{a}{2}$
+
+Following the similiar pattern,
+
+$
+\begin{aligned}
+\text {Area of shaded region} \ &= \dfrac{a}{2} - \dfrac{a}{4} + \dfrac{a}{8} - \dfrac{a}{16} + \dfrac{a}{32} \\\\
+&= \dfrac{11a}{32} \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Fraction of shaded region over total area} \ &= \dfrac{ \dfrac{11a}{32} }{a} \\\\
+&= \dfrac{11}{32} \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4693,7 +4799,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{11}{32}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -4709,6 +4815,43 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' id='FORM-AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406'>Initial</p>
+</div>
 </div>
 </li>
 <li>

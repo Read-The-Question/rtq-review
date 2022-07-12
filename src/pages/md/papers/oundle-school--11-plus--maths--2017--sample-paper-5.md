@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-5"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 5"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -998,7 +998,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6A9856E1-3211-45A5-B5B2-EAF3CFB6C17B</p>
 </div>
@@ -1012,7 +1012,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1033,13 +1033,13 @@ How much does it cost now?
 
 $
 \begin{aligned}
-&= 22 \% \times 330 \\\\
+\text{increase} &= 22 \% \times 330 \\\\
 &= \dfrac{22}{100} \times 330 \\\\
 &= \dfrac{22 \times 330}{100} \\\\
 &= \dfrac{7260} {100} \\\\
 &= \dfrac{726 \cancel {0}} {10 \cancel{0}} \\\\
 &= 72.6 \\\\
-&= 330 + 72.6 \\\\
+\text{new price}&= 330 + 72.6 \\\\
 &= 402.6
 \end{aligned}
 $
@@ -1058,13 +1058,13 @@ $402.6$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 22 \% \times 330 \\\\
+\text{increase} &= 22 \% \times 330 \\\\
 &= \dfrac{22}{100} \times 330 \\\\
 &= \dfrac{22 \times 330}{100} \\\\
 &= \dfrac{7260} {100} \\\\
 &= \dfrac{726 \cancel {0}} {10 \cancel{0}} \\\\
 &= 72.6 \\\\
-&= 330 + 72.6 \\\\
+\text{new price}&= 330 + 72.6 \\\\
 &= 402.6
 \end{aligned}
 $
@@ -1125,7 +1125,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ED31C65A-6892-4ACD-8993-0B84DA0D7854</p>
 </div>
@@ -1139,7 +1139,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1192,7 +1192,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$a=12 b=0,a=3 b=12$
+$a=12, b=0 \\ a=3, b=12$
 
 </div>
 </div>
@@ -1235,7 +1235,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$a=12 b=0,a=3 b=12$
+<pre class='language-latex'><code class='language-latex'>$a=12, b=0 \\ a=3, b=12$
 </code></pre>
 </div>
 </div>
@@ -1806,7 +1806,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8F04F6AD-7E4E-4FEA-BE60-E45097E0FEB2</p>
 </div>
@@ -1820,7 +1820,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g1-prns"
 title: "TopicPaper - Time - 3 - G1 - PRNS"
-date: 2022-07-11 18:04:07
+date: 2022-07-12 03:47:51
 ---
 <ul class='question default-decimal'>
 <li>
@@ -923,10 +923,10 @@ $
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g1</p>
+<p>rag_up_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

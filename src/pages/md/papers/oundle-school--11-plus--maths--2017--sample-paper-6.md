@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-6"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 6"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -747,7 +747,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>552DEC74-2708-4D2D-A029-1CDE7C952691</p>
 </div>
@@ -761,7 +761,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -989,9 +989,9 @@ $2yz - x^3$
 $
 \begin{aligned}
 &= 2yz - x^3 \\\\
-&= 2 \times -7 \times -9 - 3 \times 3 \times 3 \\\\
-&= 126 - 9 \\\\
-&= 117
+&= 2 \times (-7) \times (-9) - 3 \times 3 \times 3 \\\\
+&= 126 - 27 \\\\
+&= 99
 \end{aligned}
 $
 
@@ -1010,9 +1010,9 @@ $117$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 2yz - x^3 \\\\
-&= 2 \times -7 \times -9 - 3 \times 3 \times 3 \\\\
-&= 126 - 9 \\\\
-&= 117
+&= 2 \times (-7) \times (-9) - 3 \times 3 \times 3 \\\\
+&= 126 - 27 \\\\
+&= 99
 \end{aligned}
 $
 </code></pre>
@@ -1075,7 +1075,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>571A23DE-783B-477A-9FCD-DE43E95FF88D</p>
 </div>
@@ -1089,7 +1089,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1290,6 +1290,7 @@ x \times 2 + 15                                         &= 3 \\\\
                                                         &= \dfrac{-12}{2} \\\\
                                                         &= -6
 \end{aligned}
+$
 
 </div>
 </div>
@@ -1314,6 +1315,7 @@ x \times 2 + 15                                         &= 3 \\\\
                                                         &= \dfrac{-12}{2} \\\\
                                                         &= -6
 \end{aligned}
+$
 </code></pre>
 </div>
 </div>

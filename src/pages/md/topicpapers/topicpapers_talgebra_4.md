@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "TopicPaper - Algebra - 4"
-date: 2022-07-11 18:04:07
+date: 2022-07-12 03:47:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2538,6 +2538,7 @@ Let's find first number. Using equation 1 and 2 we get,
 
 $
 \begin{aligned}
+a + a &= 32 + 6  \\\\
 a + a &= 38 \\\\
 2a &= 38 \\\\
 a &= \dfrac {38} {2} \\\\
@@ -2592,6 +2593,7 @@ Let's find first number. Using equation 1 and 2 we get,
 
 $
 \begin{aligned}
+a + a &= 32 + 6  \\\\
 a + a &= 38 \\\\
 2a &= 38 \\\\
 a &= \dfrac {38} {2} \\\\
@@ -3023,7 +3025,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CFC461D1-AF24-4C9B-9A0D-E298AE0E6C8F</p>
 </div>
@@ -3037,7 +3039,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3573,7 +3575,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>037A493D-C297-430E-AC77-1E4B3884FF9F</p>
 </div>
@@ -3587,7 +3589,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3606,7 +3608,7 @@ What was Mayank’s number?
 <div class='workings'>
 <div class='working'>
 
-Let the number $= a$.
+Let Mayank's number $= a$.
 
 As per question,
 
@@ -3637,7 +3639,7 @@ $18$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $= a$.
+<pre class='language-latex'><code class='language-latex'>Let Mayank's number $= a$.
 
 As per question,
 
@@ -3712,7 +3714,7 @@ Mayank's number $= 18$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ADFEF3A0-ABF3-4ECF-A966-92F60CDB23AD</p>
 </div>
@@ -3726,7 +3728,7 @@ Mayank's number $= 18$.
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3750,16 +3752,23 @@ How many hours did Chris hire the hall for?
 <div class='workings'>
 <div class='working'>
 
+Let hours Chris hired the hall for $= a$
+
 As per the question,
 
 $
 \begin{aligned}
-\text {Chris hired the hall for}    &= \dfrac {120 - 30} {10} \\\\
-                                    &= \dfrac {90} {10} \\\\
-                                    &= \dfrac {9 \cancel {0}} {1 \cancel {0}} \\\\
-                                    &= 9 \ \text {hours}
+30 + 10a &= 120 \\\\
+10a &= 120 - 30 \\\\
+10a &= 90 \\\\
+a &= \dfrac {90} {10} \\\\
+a &= \dfrac {9 \times 10} {10} \\\\
+a &= \dfrac {9 \times \cancel {10}} {\cancel {10}} \\\\
+a &= 9
 \end{aligned}
 $
+
+Hours Chris hired the hall for $= 9$ 
 
 </div>
 </div>
@@ -3773,16 +3782,23 @@ $9 \ \text {hours}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let hours Chris hired the hall for $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\text {Chris hired the hall for}    &= \dfrac {120 - 30} {10} \\\\
-                                    &= \dfrac {90} {10} \\\\
-                                    &= \dfrac {9 \cancel {0}} {1 \cancel {0}} \\\\
-                                    &= 9 \ \text {hours}
+30 + 10a &= 120 \\\\
+10a &= 120 - 30 \\\\
+10a &= 90 \\\\
+a &= \dfrac {90} {10} \\\\
+a &= \dfrac {9 \times 10} {10} \\\\
+a &= \dfrac {9 \times \cancel {10}} {\cancel {10}} \\\\
+a &= 9
 \end{aligned}
 $
+
+Hours Chris hired the hall for $= 9$ 
 </code></pre>
 </div>
 </div>
@@ -3935,7 +3951,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FDC9EDD9-39D7-4C2B-A268-1781B263468C</p>
 </div>
@@ -3949,7 +3965,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3972,24 +3988,24 @@ How many wobbles are there?
 <div class='workings'>
 <div class='working'>
 
+Let the number of wobbles $= a$
+
 As per the question,
-
-Total arms of wibbles $= 11 \times 6$
-
-Total no. of arms $= 81$
 
 $
 \begin{aligned}
-\text {Number of wobbles}   &= \dfrac {81 - 11 \times 6} {5} \\\\
-                            &= \dfrac {81 - 66} {5} \\\\
-                            &= \dfrac {15} {5} \\\\
-                            &= \dfrac {3 \times 5} {5} \\\\
-                            &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
-                            &= 3
+5a + 11 \times 6 &= 81 \\\\\
+5a + 66 &= 81 \\\\
+5a &= 81 -66 \\\\
+5a &= 15 \\\\
+a &= \dfrac {15} {5} \\\\
+a &= \dfrac {3 \times 5} {5} \\\\
+a &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
+a &= 3 
 \end{aligned}
 $
 
-There are total $3$ wobbles.
+The number of wobbles $= 3$
 
 </div>
 </div>
@@ -4003,24 +4019,24 @@ $3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the number of wobbles $= a$
 
-Total arms of wibbles $= 11 \times 6$
-
-Total no. of arms $= 81$
+As per the question,
 
 $
 \begin{aligned}
-\text {Number of wobbles}   &= \dfrac {81 - 11 \times 6} {5} \\\\
-                            &= \dfrac {81 - 66} {5} \\\\
-                            &= \dfrac {15} {5} \\\\
-                            &= \dfrac {3 \times 5} {5} \\\\
-                            &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
-                            &= 3
+5a + 11 \times 6 &= 81 \\\\\
+5a + 66 &= 81 \\\\
+5a &= 81 -66 \\\\
+5a &= 15 \\\\
+a &= \dfrac {15} {5} \\\\
+a &= \dfrac {3 \times 5} {5} \\\\
+a &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
+a &= 3 
 \end{aligned}
 $
 
-There are total $3$ wobbles.
+The number of wobbles $= 3$
 </code></pre>
 </div>
 </div>
@@ -4078,7 +4094,7 @@ There are total $3$ wobbles.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2233EE67-0456-49F5-B1A4-331DDBD7F697</p>
 </div>
@@ -4092,7 +4108,7 @@ There are total $3$ wobbles.
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4111,7 +4127,7 @@ What was the number he first thought of?
 <div class='workings'>
 <div class='working'>
 
-Let the number $= a$
+Let the number Theo first thought of $= a$
 
 As per the question,
 
@@ -4120,7 +4136,6 @@ $
 \dfrac {3} {4} \ \text{of} \ a &= 24 \\\\
 \dfrac {3} {4} \times a        &= 24 \\\\
 \dfrac {3a} {4}                &= 24 \\\\
-a                              &= 24 \times \dfrac {4} {3} \\\\
 a                              &= \dfrac{24 \times 4} {3} \\\\
 a                              &= \dfrac{8 \times 3 \times 4} {3} \\\\
 a                              &= \dfrac{8 \times \cancel {3} \times 4} {\cancel {3}} \\\\
@@ -4129,7 +4144,7 @@ a                              &= 32
 \end{aligned}
 $
 
-Theo was thinking of $32$.
+The number Theo first thought of $= 32$.
 
 </div>
 </div>
@@ -4143,7 +4158,7 @@ $32$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number Theo first thought of $= a$
 
 As per the question,
 
@@ -4152,7 +4167,6 @@ $
 \dfrac {3} {4} \ \text{of} \ a &= 24 \\\\
 \dfrac {3} {4} \times a        &= 24 \\\\
 \dfrac {3a} {4}                &= 24 \\\\
-a                              &= 24 \times \dfrac {4} {3} \\\\
 a                              &= \dfrac{24 \times 4} {3} \\\\
 a                              &= \dfrac{8 \times 3 \times 4} {3} \\\\
 a                              &= \dfrac{8 \times \cancel {3} \times 4} {\cancel {3}} \\\\
@@ -4161,7 +4175,7 @@ a                              &= 32
 \end{aligned}
 $
 
-Theo was thinking of $32$.
+The number Theo first thought of $= 32$.
 </code></pre>
 </div>
 </div>
@@ -4219,7 +4233,7 @@ Theo was thinking of $32$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1C0336ED-FF75-46F7-A592-23696B697EF3</p>
 </div>
@@ -4233,7 +4247,7 @@ Theo was thinking of $32$.
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4252,13 +4266,11 @@ Amrit, Brenda and Clare share $13$ sweets. Amrit gets three times as many as Bre
 
 Let the number of sweets Clare get $= a$.
 
-As per the question,
-
 Number of sweets Brenda get $= 3a$.
 
 Number of sweets Amrit get $= 9a$.
 
-Total no. of sweets $= 13$
+As per the question,
 
 $
 \begin{aligned}
@@ -4271,11 +4283,12 @@ a               &= 1
 \end{aligned}
 $
 
-Clare gets $1$ sweet.
+Number of sweets Clare get $= 1$.
 
-Brenda gets $3 \times 1 = 3$ sweets.
+Number of sweets Brenda get $= 3 \times 1 = 3$.
 
-Amrit gets $9 \times 1 = 9$ sweets.
+Number of sweets Amrit get $= 9 \times 1 = 9$..
+
 
 </div>
 </div>
@@ -4301,13 +4314,11 @@ Clare $=$ $1$
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sweets Clare get $= a$.
 
-As per the question,
-
 Number of sweets Brenda get $= 3a$.
 
 Number of sweets Amrit get $= 9a$.
 
-Total no. of sweets $= 13$
+As per the question,
 
 $
 \begin{aligned}
@@ -4320,11 +4331,12 @@ a               &= 1
 \end{aligned}
 $
 
-Clare gets $1$ sweet.
+Number of sweets Clare get $= 1$.
 
-Brenda gets $3 \times 1 = 3$ sweets.
+Number of sweets Brenda get $= 3 \times 1 = 3$.
 
-Amrit gets $9 \times 1 = 9$ sweets.
+Number of sweets Amrit get $= 9 \times 1 = 9$..
+
 </code></pre>
 </div>
 </div>
@@ -4497,7 +4509,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5583CF32-08CB-4315-9AF6-9E18FBD6DE18</p>
 </div>
@@ -4511,7 +4523,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4531,22 +4543,26 @@ How much did each crayon cost?
 <div class='workings'>
 <div class='working'>
 
+Let the cost of each crayon(in pence) $= a$
+
 As per the question,
 
 $
 \begin{aligned}
-\text {Cost of four pencils}    &= 22 \times 4 \ \text {p} \\\\
-                                &= 88 \ \text {p} \\\\
-\text {Cost of $5$ crayons}     &= \pounds 2 - (32 \ \text {p} + 88 \ \text {p}) \\\\
-                                &= 2 \times 100 \ \text {p} - 120 \ \text {p} \\\\
-                                &= 200 - 120 \\\\
-                                &= 80 \ \text {p} \\\\
-\text {Cost of a crayon}        &= \dfrac {80} {5} \\\\
-                                &= \dfrac {16 \times 5} {5} \\\\
-                                &= \dfrac {16 \times \cancel {5}} {\cancel {5}} \\\\
-                                &= 16 \ \text {p}
+5a + 4 \times 22 &= 2 \times 100 -32 \\\\
+5a + 88 &= 200 - 32 \\\\
+5a + 88 &= 168 \\\\
+5a &= 168 - 88 \\\\
+5a &= 80 \\\\
+a &= \dfrac{80} {5} \\\\
+a &= \dfrac{5 \times 16} {5} \\\\
+a &= \dfrac{\cancel 5 \times 16} {\cancel 5} \\\\
+a &= 16
 \end{aligned}
 $
+
+The cost of each crayon(in pence) $= 16$
+
 
 </div>
 </div>
@@ -4560,22 +4576,26 @@ $16 \ \text {p}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the cost of each crayon(in pence) $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\text {Cost of four pencils}    &= 22 \times 4 \ \text {p} \\\\
-                                &= 88 \ \text {p} \\\\
-\text {Cost of $5$ crayons}     &= \pounds 2 - (32 \ \text {p} + 88 \ \text {p}) \\\\
-                                &= 2 \times 100 \ \text {p} - 120 \ \text {p} \\\\
-                                &= 200 - 120 \\\\
-                                &= 80 \ \text {p} \\\\
-\text {Cost of a crayon}        &= \dfrac {80} {5} \\\\
-                                &= \dfrac {16 \times 5} {5} \\\\
-                                &= \dfrac {16 \times \cancel {5}} {\cancel {5}} \\\\
-                                &= 16 \ \text {p}
+5a + 4 \times 22 &= 2 \times 100 -32 \\\\
+5a + 88 &= 200 - 32 \\\\
+5a + 88 &= 168 \\\\
+5a &= 168 - 88 \\\\
+5a &= 80 \\\\
+a &= \dfrac{80} {5} \\\\
+a &= \dfrac{5 \times 16} {5} \\\\
+a &= \dfrac{\cancel 5 \times 16} {\cancel 5} \\\\
+a &= 16
 \end{aligned}
 $
+
+The cost of each crayon(in pence) $= 16$
+
 </code></pre>
 </div>
 </div>
@@ -4728,7 +4748,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>17493FB2-C20B-436C-BAB0-DB85EAA91408</p>
 </div>
@@ -4742,7 +4762,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4760,20 +4780,23 @@ How long would a $180 \ \text{millilitre}$ bottle last her?
 <div class='workings'>
 <div class='working'>
 
+Let the days bottle last her $= a$
+
+
 As per the question,
 
 $
 \begin{aligned}
-\text {Amount of medicine in a day}     &= 10 \times 3 \\\\
-                                        &= 30 \ \text {millilitres} \\\\
-\text {The bottle would last}           &= \dfrac {180} {30} \\\\
-                                        &= \dfrac {6 \times 30} {30} \\\\
-                                        &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
-                                        &= 6
+10 \times 3 \times a &= 180 \\\\
+30a &= 180 \\\\
+a &= \dfrac {180} {30} \\\\
+a &= \dfrac {6 \times 30} {30} \\\\
+a &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
+a &= 6
 \end{aligned}
 $
 
-The medicine will last for $6$ days.
+The days bottle last her $= 6$.
 
 </div>
 </div>
@@ -4787,20 +4810,23 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the days bottle last her $= a$
+
+
+As per the question,
 
 $
 \begin{aligned}
-\text {Amount of medicine in a day}     &= 10 \times 3 \\\\
-                                        &= 30 \ \text {millilitres} \\\\
-\text {The bottle would last}           &= \dfrac {180} {30} \\\\
-                                        &= \dfrac {6 \times 30} {30} \\\\
-                                        &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
-                                        &= 6
+10 \times 3 \times a &= 180 \\\\
+30a &= 180 \\\\
+a &= \dfrac {180} {30} \\\\
+a &= \dfrac {6 \times 30} {30} \\\\
+a &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
+a &= 6
 \end{aligned}
 $
 
-The medicine will last for $6$ days.
+The days bottle last her $= 6$.
 </code></pre>
 </div>
 </div>
@@ -4858,7 +4884,7 @@ The medicine will last for $6$ days.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A55AF66D-61BF-46A3-B8DA-C14286D8E6CF</p>
 </div>
@@ -4872,7 +4898,7 @@ The medicine will last for $6$ days.
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4891,6 +4917,8 @@ Tomasc adds the same number to $23$ and to $8$ so that the first is then double 
 
 Let the number $= a$
 
+As per the question,
+
 $
 \begin{aligned}
 23 + a &= 2 \times (8 + a) \\\\
@@ -4900,7 +4928,7 @@ a      &= 7
 \end{aligned}
 $
 
-The number is $7$
+The number $= 7$
 
 </div>
 </div>
@@ -4916,6 +4944,8 @@ $7$
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
+As per the question,
+
 $
 \begin{aligned}
 23 + a &= 2 \times (8 + a) \\\\
@@ -4925,7 +4955,7 @@ a      &= 7
 \end{aligned}
 $
 
-The number is $7$
+The number $= 7$
 </code></pre>
 </div>
 </div>
@@ -5262,7 +5292,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6398C5BF-C910-451F-A847-5199C8321DD0</p>
 </div>
@@ -5276,7 +5306,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5296,13 +5326,11 @@ Ashiwini got $30$ marks. How many marks did Suril get?
 <div class='workings'>
 <div class='working'>
 
-Let Krishan got $x$ marks.
+Let marks Krishan got $= x$ .
+
+Marks Suril got $= 6x$.
 
 As per the question,
-
-Suril got $6x$ marks.
-
-Ashwini got $30$ marks which is equal to $2 \times$ Krishan's marks.
 
 $
 \begin{aligned}
@@ -5314,7 +5342,8 @@ x          &= 15
 \end{aligned}
 $
 
-Suril got $6 \times 15 = 90$ marks.
+Marks Suril got $=6 \times 15 = 90$ marks.
+
 
 </div>
 </div>
@@ -5328,13 +5357,11 @@ $90$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let Krishan got $x$ marks.
+<pre class='language-latex'><code class='language-latex'>Let marks Krishan got $= x$ .
+
+Marks Suril got $= 6x$.
 
 As per the question,
-
-Suril got $6x$ marks.
-
-Ashwini got $30$ marks which is equal to $2 \times$ Krishan's marks.
 
 $
 \begin{aligned}
@@ -5346,7 +5373,8 @@ x          &= 15
 \end{aligned}
 $
 
-Suril got $6 \times 15 = 90$ marks.
+Marks Suril got $=6 \times 15 = 90$ marks.
+
 </code></pre>
 </div>
 </div>
@@ -5441,9 +5469,10 @@ How many matches they have won?
 
 Let the number of matches they won $= a$
 
+Number of matches they lost $= 3a$
+
 As per the question,
 
-No. of matches they lost $= 3a$
 
 $
 \begin{aligned}
@@ -5456,7 +5485,7 @@ a             &= 6
 \end{aligned}
 $
 
-They won $6$ matches.
+The number of matches they won $= 6$
 
 </div>
 </div>
@@ -5472,9 +5501,10 @@ $6$
 
 <pre class='language-latex'><code class='language-latex'>Let the number of matches they won $= a$
 
+Number of matches they lost $= 3a$
+
 As per the question,
 
-No. of matches they lost $= 3a$
 
 $
 \begin{aligned}
@@ -5487,7 +5517,7 @@ a             &= 6
 \end{aligned}
 $
 
-They won $6$ matches.
+The number of matches they won $= 6$
 </code></pre>
 </div>
 </div>
@@ -5545,7 +5575,7 @@ They won $6$ matches.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DA8FA910-F7B0-4EDF-84B5-5986F11038C1</p>
 </div>
@@ -5559,7 +5589,7 @@ They won $6$ matches.
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5595,9 +5625,17 @@ a                   &= 9
 \end{aligned}
 $
 
+The missing number $= 9$
+
+
 </div>
 </div>
 <div class='answers'>
+<div class='answer'>
+
+c
+
+</div>
 <div class='answer'>
 
 $9$
@@ -5620,10 +5658,23 @@ a                   &= \dfrac {\cancel 4 \times 9} {\cancel 4} \\\\
 a                   &= 9
 \end{aligned}
 $
+
+The missing number $= 9$
+
 </code></pre>
 </div>
 </div>
 <div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>c
+</code></pre>
+</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -5787,7 +5838,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>953489BB-9734-4F88-81E4-F8A134B98396</p>
 </div>
@@ -5801,7 +5852,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5915,6 +5966,7 @@ $4b - b + 5b$
 $
 \begin{aligned}
 &= 4b - b  + 5b \\\\
+&= 3b + 5b \\\\
 &= 8b
 \end{aligned}
 $
@@ -5934,6 +5986,7 @@ $8b$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 4b - b  + 5b \\\\
+&= 3b + 5b \\\\
 &= 8b
 \end{aligned}
 $
@@ -6021,6 +6074,7 @@ $x \times 2x \times 4d$
 $
 \begin{aligned}
 &= x \times 2x \times 4d \\\\
+&= 2x ^2  \times 4d \\\\
 &= 8 x ^2 d
 \end{aligned}
 $
@@ -6040,6 +6094,7 @@ $8 x ^2 d$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= x \times 2x \times 4d \\\\
+&= 2x ^2  \times 4d \\\\
 &= 8 x ^2 d
 \end{aligned}
 $
@@ -6213,7 +6268,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>803720D5-F810-4180-9E12-79A58BB32B12</p>
 </div>
@@ -6227,7 +6282,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6326,7 +6381,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4F836F04-C354-45B9-A5A9-1A6EAED7234D</p>
 </div>
@@ -6340,7 +6395,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

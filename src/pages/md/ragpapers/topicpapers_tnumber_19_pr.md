@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-19-pr"
 title: "TopicPaper - Number - 19 - PR"
-date: 2022-07-11 18:04:07
+date: 2022-07-12 03:47:51
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>530C4350-38A0-441E-A078-0C428413AF90</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-11 18:04:07
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -191,7 +191,7 @@ $
 12 \times b &= 15 \\\\
 b &= \dfrac {15} {12} \\\\
 b &= \dfrac {5} {4} \\\\
-b &= 1.66 \\\\
+b &= 1.25 \\\\
 \end {aligned}
 $
 
@@ -205,7 +205,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-$b = 1.66$
+$b = 1.25$
 
 </div>
 <div class='answer'>
@@ -222,7 +222,7 @@ TODOANSWER
 12 \times b &= 15 \\\\
 b &= \dfrac {15} {12} \\\\
 b &= \dfrac {5} {4} \\\\
-b &= 1.66 \\\\
+b &= 1.25 \\\\
 \end {aligned}
 $
 </code></pre>
@@ -241,7 +241,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$b = 1.66$
+<pre class='language-latex'><code class='language-latex'>$b = 1.25$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -554,7 +554,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>1BA32A39-3DF3-41AF-A06A-CFDAD220B1D4</p>
 </div>
@@ -568,7 +568,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1105,7 +1105,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
 </div>
@@ -1119,7 +1119,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1188,11 +1188,10 @@ T \times 2E         &= 20 \\\\
 T \times E          &= \dfrac{20} {2} \\\\
 T \times E          &= \dfrac{10 \times 2} {2} \\\\
 T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
-T \times E          &= 10
+T \times E          &= 10 \\\\
+T \times E          &= 5 \times 2 \\\\
 \end{aligned}
 $
-
-LCM of $10$ is $2$ and $5$
 
 So,
 
@@ -1221,11 +1220,10 @@ T \times 2E         &= 20 \\\\
 T \times E          &= \dfrac{20} {2} \\\\
 T \times E          &= \dfrac{10 \times 2} {2} \\\\
 T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
-T \times E          &= 10
+T \times E          &= 10 \\\\
+T \times E          &= 5 \times 2 \\\\
 \end{aligned}
 $
-
-LCM of $10$ is $2$ and $5$
 
 So,
 

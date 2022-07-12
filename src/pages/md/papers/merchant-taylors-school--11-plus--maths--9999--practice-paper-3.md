@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5680,7 +5680,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1B75D1B9-5669-4840-977E-AF67A1065F16</p>
 </div>
@@ -5694,7 +5694,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5714,14 +5714,14 @@ All the bags have the same volume. What percentage of the porridge mix is wheat 
 
 $
 \begin{aligned}
-\text{Percentage} &= 3 \times 20 \% \\\\
-                  &= 3 \times \dfrac {20} {100} \\\\
-                  &= \dfrac {20 \times 3} {100} \\\\
-                  &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
-                  &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
-                  &= \dfrac {3} {5} \\\\
-                  &= 0.6 \times 100 \\\\
-                  &= 60 \%
+\text{Percentage} &= 20 \% \ \text{of} \ \dfrac{1}{4} \times 100 \\\\
+                  &= \dfrac{20}{100} \times \dfrac{1}{4} \times 100 \\\\
+                  &= \dfrac {2 \times 2 \times 5}{2 \times 2 \times 5 \times 5 \times 4} \times 100  \\\\
+                  &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 5 }{\cancel 2 \times \cancel 2 \times 5 \times \cancel 5 \times 4} \times 100 \\\\
+                  &= \dfrac {100} {20} \\\\
+                  &= \dfrac {2 \times 2 \times 5 \times 5}{2 \times 2 \times 5} \\\\
+                  &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 5 \times 5}{\cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+                  &= 5 \%
 \end{aligned}
 $
 
@@ -5730,7 +5730,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$60 \%$
+$5 \%$
 
 </div>
 </div>
@@ -5739,14 +5739,14 @@ $60 \%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Percentage} &= 3 \times 20 \% \\\\
-                  &= 3 \times \dfrac {20} {100} \\\\
-                  &= \dfrac {20 \times 3} {100} \\\\
-                  &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
-                  &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
-                  &= \dfrac {3} {5} \\\\
-                  &= 0.6 \times 100 \\\\
-                  &= 60 \%
+\text{Percentage} &= 20 \% \ \text{of} \ \dfrac{1}{4} \times 100 \\\\
+                  &= \dfrac{20}{100} \times \dfrac{1}{4} \times 100 \\\\
+                  &= \dfrac {2 \times 2 \times 5}{2 \times 2 \times 5 \times 5 \times 4} \times 100  \\\\
+                  &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 5 }{\cancel 2 \times \cancel 2 \times 5 \times \cancel 5 \times 4} \times 100 \\\\
+                  &= \dfrac {100} {20} \\\\
+                  &= \dfrac {2 \times 2 \times 5 \times 5}{2 \times 2 \times 5} \\\\
+                  &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 5 \times 5}{\cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+                  &= 5 \%
 \end{aligned}
 $
 </code></pre>
@@ -5760,7 +5760,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$60 \%$
+<pre class='language-latex'><code class='language-latex'>$5 \%$
 </code></pre>
 </div>
 </div>
@@ -5806,7 +5806,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>251FBF03-47A6-429C-803A-6682014D04F1</p>
 </div>
@@ -5820,7 +5820,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5840,8 +5840,9 @@ When the glass is half full of water the total mass is $320 \ \text{g}$. Find th
 
 $
 \begin{aligned}
-\text{Mass of glass} &= 400 - (80 + 80) \\\\
-                     &= 400 - 160 \\\\
+\text{mass of half water} &= 400 - 320 \\\\
+\text{mass of water} &= 160 \\\\
+\text{Mass of glass} &= 400 - 160 \\\\
                      &= 240 \ \text{g}
 \end{aligned}
 $
@@ -5860,8 +5861,9 @@ $240 \ \text{g}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Mass of glass} &= 400 - (80 + 80) \\\\
-                     &= 400 - 160 \\\\
+\text{mass of half water} &= 400 - 320 \\\\
+\text{mass of water} &= 160 \\\\
+\text{Mass of glass} &= 400 - 160 \\\\
                      &= 240 \ \text{g}
 \end{aligned}
 $

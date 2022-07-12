@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -568,7 +568,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5583CF32-08CB-4315-9AF6-9E18FBD6DE18</p>
 </div>
@@ -582,7 +582,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -602,22 +602,26 @@ How much did each crayon cost?
 <div class='workings'>
 <div class='working'>
 
+Let the cost of each crayon(in pence) $= a$
+
 As per the question,
 
 $
 \begin{aligned}
-\text {Cost of four pencils}    &= 22 \times 4 \ \text {p} \\\\
-                                &= 88 \ \text {p} \\\\
-\text {Cost of $5$ crayons}     &= \pounds 2 - (32 \ \text {p} + 88 \ \text {p}) \\\\
-                                &= 2 \times 100 \ \text {p} - 120 \ \text {p} \\\\
-                                &= 200 - 120 \\\\
-                                &= 80 \ \text {p} \\\\
-\text {Cost of a crayon}        &= \dfrac {80} {5} \\\\
-                                &= \dfrac {16 \times 5} {5} \\\\
-                                &= \dfrac {16 \times \cancel {5}} {\cancel {5}} \\\\
-                                &= 16 \ \text {p}
+5a + 4 \times 22 &= 2 \times 100 -32 \\\\
+5a + 88 &= 200 - 32 \\\\
+5a + 88 &= 168 \\\\
+5a &= 168 - 88 \\\\
+5a &= 80 \\\\
+a &= \dfrac{80} {5} \\\\
+a &= \dfrac{5 \times 16} {5} \\\\
+a &= \dfrac{\cancel 5 \times 16} {\cancel 5} \\\\
+a &= 16
 \end{aligned}
 $
+
+The cost of each crayon(in pence) $= 16$
+
 
 </div>
 </div>
@@ -631,22 +635,26 @@ $16 \ \text {p}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the cost of each crayon(in pence) $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\text {Cost of four pencils}    &= 22 \times 4 \ \text {p} \\\\
-                                &= 88 \ \text {p} \\\\
-\text {Cost of $5$ crayons}     &= \pounds 2 - (32 \ \text {p} + 88 \ \text {p}) \\\\
-                                &= 2 \times 100 \ \text {p} - 120 \ \text {p} \\\\
-                                &= 200 - 120 \\\\
-                                &= 80 \ \text {p} \\\\
-\text {Cost of a crayon}        &= \dfrac {80} {5} \\\\
-                                &= \dfrac {16 \times 5} {5} \\\\
-                                &= \dfrac {16 \times \cancel {5}} {\cancel {5}} \\\\
-                                &= 16 \ \text {p}
+5a + 4 \times 22 &= 2 \times 100 -32 \\\\
+5a + 88 &= 200 - 32 \\\\
+5a + 88 &= 168 \\\\
+5a &= 168 - 88 \\\\
+5a &= 80 \\\\
+a &= \dfrac{80} {5} \\\\
+a &= \dfrac{5 \times 16} {5} \\\\
+a &= \dfrac{\cancel 5 \times 16} {\cancel 5} \\\\
+a &= 16
 \end{aligned}
 $
+
+The cost of each crayon(in pence) $= 16$
+
 </code></pre>
 </div>
 </div>
@@ -1414,7 +1422,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>17493FB2-C20B-436C-BAB0-DB85EAA91408</p>
 </div>
@@ -1428,7 +1436,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1446,20 +1454,23 @@ How long would a $180 \ \text{millilitre}$ bottle last her?
 <div class='workings'>
 <div class='working'>
 
+Let the days bottle last her $= a$
+
+
 As per the question,
 
 $
 \begin{aligned}
-\text {Amount of medicine in a day}     &= 10 \times 3 \\\\
-                                        &= 30 \ \text {millilitres} \\\\
-\text {The bottle would last}           &= \dfrac {180} {30} \\\\
-                                        &= \dfrac {6 \times 30} {30} \\\\
-                                        &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
-                                        &= 6
+10 \times 3 \times a &= 180 \\\\
+30a &= 180 \\\\
+a &= \dfrac {180} {30} \\\\
+a &= \dfrac {6 \times 30} {30} \\\\
+a &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
+a &= 6
 \end{aligned}
 $
 
-The medicine will last for $6$ days.
+The days bottle last her $= 6$.
 
 </div>
 </div>
@@ -1473,20 +1484,23 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the days bottle last her $= a$
+
+
+As per the question,
 
 $
 \begin{aligned}
-\text {Amount of medicine in a day}     &= 10 \times 3 \\\\
-                                        &= 30 \ \text {millilitres} \\\\
-\text {The bottle would last}           &= \dfrac {180} {30} \\\\
-                                        &= \dfrac {6 \times 30} {30} \\\\
-                                        &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
-                                        &= 6
+10 \times 3 \times a &= 180 \\\\
+30a &= 180 \\\\
+a &= \dfrac {180} {30} \\\\
+a &= \dfrac {6 \times 30} {30} \\\\
+a &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
+a &= 6
 \end{aligned}
 $
 
-The medicine will last for $6$ days.
+The days bottle last her $= 6$.
 </code></pre>
 </div>
 </div>
@@ -1544,7 +1558,7 @@ The medicine will last for $6$ days.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A55AF66D-61BF-46A3-B8DA-C14286D8E6CF</p>
 </div>
@@ -1558,7 +1572,7 @@ The medicine will last for $6$ days.
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1577,6 +1591,8 @@ Tomasc adds the same number to $23$ and to $8$ so that the first is then double 
 
 Let the number $= a$
 
+As per the question,
+
 $
 \begin{aligned}
 23 + a &= 2 \times (8 + a) \\\\
@@ -1586,7 +1602,7 @@ a      &= 7
 \end{aligned}
 $
 
-The number is $7$
+The number $= 7$
 
 </div>
 </div>
@@ -1602,6 +1618,8 @@ $7$
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
+As per the question,
+
 $
 \begin{aligned}
 23 + a &= 2 \times (8 + a) \\\\
@@ -1611,7 +1629,7 @@ a      &= 7
 \end{aligned}
 $
 
-The number is $7$
+The number $= 7$
 </code></pre>
 </div>
 </div>
@@ -2864,7 +2882,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6398C5BF-C910-451F-A847-5199C8321DD0</p>
 </div>
@@ -2878,7 +2896,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2898,13 +2916,11 @@ Ashiwini got $30$ marks. How many marks did Suril get?
 <div class='workings'>
 <div class='working'>
 
-Let Krishan got $x$ marks.
+Let marks Krishan got $= x$ .
+
+Marks Suril got $= 6x$.
 
 As per the question,
-
-Suril got $6x$ marks.
-
-Ashwini got $30$ marks which is equal to $2 \times$ Krishan's marks.
 
 $
 \begin{aligned}
@@ -2916,7 +2932,8 @@ x          &= 15
 \end{aligned}
 $
 
-Suril got $6 \times 15 = 90$ marks.
+Marks Suril got $=6 \times 15 = 90$ marks.
+
 
 </div>
 </div>
@@ -2930,13 +2947,11 @@ $90$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let Krishan got $x$ marks.
+<pre class='language-latex'><code class='language-latex'>Let marks Krishan got $= x$ .
+
+Marks Suril got $= 6x$.
 
 As per the question,
-
-Suril got $6x$ marks.
-
-Ashwini got $30$ marks which is equal to $2 \times$ Krishan's marks.
 
 $
 \begin{aligned}
@@ -2948,7 +2963,8 @@ x          &= 15
 \end{aligned}
 $
 
-Suril got $6 \times 15 = 90$ marks.
+Marks Suril got $=6 \times 15 = 90$ marks.
+
 </code></pre>
 </div>
 </div>
@@ -3249,9 +3265,10 @@ How many matches they have won?
 
 Let the number of matches they won $= a$
 
+Number of matches they lost $= 3a$
+
 As per the question,
 
-No. of matches they lost $= 3a$
 
 $
 \begin{aligned}
@@ -3264,7 +3281,7 @@ a             &= 6
 \end{aligned}
 $
 
-They won $6$ matches.
+The number of matches they won $= 6$
 
 </div>
 </div>
@@ -3280,9 +3297,10 @@ $6$
 
 <pre class='language-latex'><code class='language-latex'>Let the number of matches they won $= a$
 
+Number of matches they lost $= 3a$
+
 As per the question,
 
-No. of matches they lost $= 3a$
 
 $
 \begin{aligned}
@@ -3295,7 +3313,7 @@ a             &= 6
 \end{aligned}
 $
 
-They won $6$ matches.
+The number of matches they won $= 6$
 </code></pre>
 </div>
 </div>

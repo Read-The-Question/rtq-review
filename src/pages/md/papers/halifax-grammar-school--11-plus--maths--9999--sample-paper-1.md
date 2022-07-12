@@ -1,7 +1,7 @@
 ---
 slug: "papers/halifax-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Halifax Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-11 17:59:40
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DA8FA910-F7B0-4EDF-84B5-5986F11038C1</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-11 17:59:40
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -63,9 +63,17 @@ a                   &= 9
 \end{aligned}
 $
 
+The missing number $= 9$
+
+
 </div>
 </div>
 <div class='answers'>
+<div class='answer'>
+
+c
+
+</div>
 <div class='answer'>
 
 $9$
@@ -88,10 +96,23 @@ a                   &= \dfrac {\cancel 4 \times 9} {\cancel 4} \\\\
 a                   &= 9
 \end{aligned}
 $
+
+The missing number $= 9$
+
 </code></pre>
 </div>
 </div>
 <div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>c
+</code></pre>
+</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic B"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -117,7 +117,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>604C5332-B1C2-41A5-B567-64B914104E1E</p>
 </div>
@@ -131,7 +131,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -220,7 +220,7 @@ Put a circle round **each** of the multiples of $3$.
 
 $
 \begin{array}{ccccccccccccccccc}
-12, & 15, & 18\\\\
+11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19 \\\\
 \end{array}
 $
 
@@ -258,7 +258,7 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{ccccccccccccccccc}
-12, & 15, & 18\\\\
+11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19 \\\\
 \end{array}
 $
 
@@ -314,7 +314,11 @@ Draw a line underneath **each** of the prime numbers.
 <div class='workings'>
 <div class='working'>
 
-11, 13, 17, 19 are the primes.
+$
+\begin{array}{ccccccccccccccccc}
+\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19} \\\\
+\end{array}
+$
 
 </div>
 <div class='working'>
@@ -338,7 +342,11 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>11, 13, 17, 19 are the primes.
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{ccccccccccccccccc}
+\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19} \\\\
+\end{array}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -382,7 +390,13 @@ Put a **square** round the square number.
 <div class='workings'>
 <div class='working'>
 
-16 is a square number.
+$
+\begin{array}{ccccccccccccccccc}
+11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19 \\\\
+\end{array}
+$
+
+Lets verify
 
 $
 \begin{aligned}
@@ -412,7 +426,13 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>16 is a square number.
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{ccccccccccccccccc}
+11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19 \\\\
+\end{array}
+$
+
+Lets verify
 
 $
 \begin{aligned}

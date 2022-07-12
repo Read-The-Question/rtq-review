@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-3-g0"
 title: "TopicPaper - Algebra - 3 - G0"
-date: 2022-07-11 18:04:07
+date: 2022-07-12 03:47:51
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6D028400-7588-4227-B770-FB7713EF5103</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-11 18:04:07
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -54,6 +54,8 @@ $
 \end {aligned}
 $
 
+Fraction of pizza left for Anna $= \dfrac {1} {2}$
+
 </div>
 </div>
 <div class='answers'>
@@ -81,6 +83,8 @@ $
                                 &= \dfrac {1} {2}
 \end {aligned}
 $
+
+Fraction of pizza left for Anna $= \dfrac {1} {2}$
 </code></pre>
 </div>
 </div>
@@ -138,7 +142,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2D83F97D-6DC7-4679-9E45-09038681DA89</p>
 </div>
@@ -152,7 +156,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -185,6 +189,8 @@ a                                   &= 3
 \end{aligned}
 $
 
+The number I am thinking of $= 3$
+
 </div>
 </div>
 <div class='answers'>
@@ -212,6 +218,8 @@ a                                   &= \dfrac {\cancel {15} \times 3} {\cancel {
 a                                   &= 3
 \end{aligned}
 $
+
+The number I am thinking of $= 3$
 </code></pre>
 </div>
 </div>
@@ -269,7 +277,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9E8AAB54-3D43-4819-A635-1CBDDE99E66B</p>
 </div>
@@ -283,7 +291,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -556,7 +564,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A53C7015-4325-4F04-9324-7266EA307FB1</p>
 </div>
@@ -570,7 +578,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -648,6 +656,8 @@ a                   &= 16
 \end{aligned}
 $
 
+Anwar's original number $= 16$
+
 </div>
 </div>
 <div class='answers'>
@@ -675,6 +685,8 @@ a                   &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
 a                   &= 16
 \end{aligned}
 $
+
+Anwar's original number $= 16$
 </code></pre>
 </div>
 </div>
@@ -720,6 +732,8 @@ a                   &= 24.5
 \end{aligned}
 $
 
+Anwar's original number $= 24.5$
+
 </div>
 </div>
 <div class='answers'>
@@ -746,6 +760,8 @@ a                   &= \dfrac {49} {2} \\\\
 a                   &= 24.5
 \end{aligned}
 $
+
+Anwar's original number $= 24.5$
 </code></pre>
 </div>
 </div>
@@ -793,6 +809,8 @@ a                                                                &= 64
 \end{aligned}
 $
 
+Anwar's original number $= 64$
+
 </div>
 </div>
 <div class='answers'>
@@ -821,6 +839,8 @@ a                                                                &= 30 + 34 \\\\
 a                                                                &= 64
 \end{aligned}
 $
+
+Anwar's original number $= 64$
 </code></pre>
 </div>
 </div>

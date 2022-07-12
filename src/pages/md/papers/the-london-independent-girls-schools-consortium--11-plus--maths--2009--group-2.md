@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1578,10 +1578,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_up_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -5771,7 +5771,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D5BB3C02-1F2E-4924-93A5-458B27B8F317</p>
 </div>
@@ -5782,7 +5782,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5806,7 +5806,34 @@ What fraction of the outside is black?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the length of edge of cube $= a$
+
+As the cube has six faces,
+
+$
+\begin{aligned}
+\text{Area of all faces} \ &= \text{Area of each face} \ \times 6 \\\\
+&= a^2 \ \times 6 \\\\
+&= 6a^2 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area of black region} \ &= 4 \times (\dfrac{a}{3} \times a) \\\\
+&= \dfrac{4a^2}{3}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Fraction of black region} &= \dfrac{\text{Area of black region}\ }{\text{Area of all faces}\ } \\\\
+&= \dfrac{\dfrac{4a^2}{3}}{6a^2} \\\\
+&= \dfrac{4a^2}{3 \times 6a^2} \\\\
+&= \dfrac{4 \cancel{a^2}}{18 \cancel{a^2}} \\\\
+&= \dfrac{2}{9} \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -5818,7 +5845,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{2}{9}$
 
 </div>
 <div class='answer'>
@@ -5830,7 +5857,34 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the length of edge of cube $= a$
+
+As the cube has six faces,
+
+$
+\begin{aligned}
+\text{Area of all faces} \ &= \text{Area of each face} \ \times 6 \\\\
+&= a^2 \ \times 6 \\\\
+&= 6a^2 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area of black region} \ &= 4 \times (\dfrac{a}{3} \times a) \\\\
+&= \dfrac{4a^2}{3}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Fraction of black region} &= \dfrac{\text{Area of black region}\ }{\text{Area of all faces}\ } \\\\
+&= \dfrac{\dfrac{4a^2}{3}}{6a^2} \\\\
+&= \dfrac{4a^2}{3 \times 6a^2} \\\\
+&= \dfrac{4 \cancel{a^2}}{18 \cancel{a^2}} \\\\
+&= \dfrac{2}{9} \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -5847,7 +5901,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{2}{9}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -5863,6 +5917,43 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D5BB3C02-1F2E-4924-93A5-458B27B8F317' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D5BB3C02-1F2E-4924-93A5-458B27B8F317' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D5BB3C02-1F2E-4924-93A5-458B27B8F317' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D5BB3C02-1F2E-4924-93A5-458B27B8F317' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D5BB3C02-1F2E-4924-93A5-458B27B8F317' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D5BB3C02-1F2E-4924-93A5-458B27B8F317' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D5BB3C02-1F2E-4924-93A5-458B27B8F317' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D5BB3C02-1F2E-4924-93A5-458B27B8F317' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D5BB3C02-1F2E-4924-93A5-458B27B8F317' id='FORM-D5BB3C02-1F2E-4924-93A5-458B27B8F317' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D5BB3C02-1F2E-4924-93A5-458B27B8F317'>Initial</p>
+</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2758,7 +2758,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>953489BB-9734-4F88-81E4-F8A134B98396</p>
 </div>
@@ -2772,7 +2772,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2886,6 +2886,7 @@ $4b - b + 5b$
 $
 \begin{aligned}
 &= 4b - b  + 5b \\\\
+&= 3b + 5b \\\\
 &= 8b
 \end{aligned}
 $
@@ -2905,6 +2906,7 @@ $8b$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 4b - b  + 5b \\\\
+&= 3b + 5b \\\\
 &= 8b
 \end{aligned}
 $
@@ -2992,6 +2994,7 @@ $x \times 2x \times 4d$
 $
 \begin{aligned}
 &= x \times 2x \times 4d \\\\
+&= 2x ^2  \times 4d \\\\
 &= 8 x ^2 d
 \end{aligned}
 $
@@ -3011,6 +3014,7 @@ $8 x ^2 d$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= x \times 2x \times 4d \\\\
+&= 2x ^2  \times 4d \\\\
 &= 8 x ^2 d
 \end{aligned}
 $

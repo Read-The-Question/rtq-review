@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-blocked"
 title: "TopicPaper - Number - 20 - BLOCKED"
-date: 2022-07-11 18:04:07
+date: 2022-07-12 03:47:51
 ---
 <ul class='question default-decimal'>
 <li>
@@ -259,6 +259,257 @@ Answer in the middle $= 8$
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>7850D23B-A3B4-42DC-8963-DEF946414E10</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:8</p>
+</div>
+<div class='rag'>
+<p>Mahesh Madiraju</p>
+</div>
+<div class='rag'>
+<p>rag_mm_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Complete all the entries in the table below showing the sum, difference, product and quotient for pairs of numbers from the first two columns. The first row is completed as an example to help you.
+
+
+<!--
+**$1 \text{st}$ number**  ,**$2 \text{nd}$ number**     ,**SUM**    ,**DIFFERENCE**     ,**PRODUCT**    ,**QUOTIENT**
+$6$             ,$2$                ,$8$        ,$4$                ,$12$           ,$3$
+$12$            ,$3$                ,$\ldots$   ,$\ldots$           ,$\ldots$       ,$\ldots$
+$\ldots$        ,$\ldots$           ,$15$       ,$5$                ,$\ldots$       ,$\ldots$
+$\ldots$        ,$\ldots$           ,$\ldots$   ,$2$                ,$8$            ,$\ldots$
+$\ldots$        ,$\ldots$           ,$\ldots$   ,$\ldots$           ,$18$           ,$2$
+$\ldots$        ,$\ldots$           ,$21$       ,$\ldots$           ,$\ldots$       ,$6$
+-->
+
+| **$1 \text{st}$ number**     | **$2 \text{nd}$ number**     |  **SUM**     | **DIFFERENCE**     | **PRODUCT**     | **QUOTIENT**     |
+|:--------------:    |:--------------:    |:--------:    |:--------------:    |:-----------:    |:------------:    |
+|       $6$          |       $2$          |    $8$       |       $4$          |     $12$        |      $3$         |
+|      $12$          |       $3$          | $\ldots$     |    $\ldots$        |   $\ldots$      |   $\ldots$       |
+|    $\ldots$        |    $\ldots$        |   $15$       |       $5$          |   $\ldots$      |   $\ldots$       |
+|    $\ldots$        |    $\ldots$        | $\ldots$     |       $2$          |     $8$         |   $\ldots$       |
+|    $\ldots$        |    $\ldots$        | $\ldots$     |    $\ldots$        |     $18$        |      $2$         |
+|    $\ldots$        |    $\ldots$        |   $21$       |    $\ldots$        |   $\ldots$      |      $6$         |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+**ROW 2**
+
+$1$st number and $2$nd number are known so rest can be solved.
+
+**ROW 3**
+
+Sum $= 154$
+
+Difference $= 5$
+
+$
+\begin{aligned}
+             15 &= x + y \\
+             5  &= x - y  \\
+         15 + 5 &= x + y + (x - y) \\
+             20 &= x + y + x -y \\
+                &= x + x + y -y \\
+                &= 2x \\
+\dfrac {20}{10} &= x \\
+              x &= 10 \\
+              y &= 10 - 5 = 5 \\
+\end{aligned}
+$
+
+**ROW 4**
+
+Product $8$ 
+
+$8$ is only a multiple of $4 \times 2$
+
+So the numbers are $2$ and $4$
+
+\underline {ROW 5}
+
+Product is $18$
+
+$18$ is a multiple of :
+
+$9 \times 2$ but $9$ is not divisible by $2$ to give quotient $2$
+
+$6 \times 3$ are the numbers with quotient $2$
+
+**ROW 6**
+
+Sum $= 21$
+
+Quotient $= 6$
+
+Let's find multiples of $6$ $<21$ and $>6$  
+
+$6 \times 2 = 12$
+
+$6 + 2 = 12 \not 21$
+
+$6 \times 3 = 18$
+
+$18 \div 3 = 6$
+
+$18 + 3 = 21$
+
+The numbers are $18$ and $3$
+
+
+
+</div>
+<div class='working'>
+
+
+| **$1 \text{st}$ number**     | **$2 \text{nd}$ number**     |  **SUM**     | **DIFFERENCE**     | **PRODUCT**     | **QUOTIENT**     |
+|:------------------:|:------------------:|:------------------:|:----------------:|:--------------------------:|:--------------------------:|
+|      $12$          |       $3$          |    $12 + 3=15$     |    $12 - 3=9$    |    $12 \times 3 = 36$      |     $12 \div  4 = 3$       |
+|      $10$          |       $5$          |    $10 + 5=15$     |    $10 - 5=5$    |    $10 \times 5 = 50$      |     $10 \div  5 = 2$       |
+|      $10$          |       $5$          |    $4 + 2 = 6$     |     $4 - 2=2$    |      $4 \times 2 = 8$      |      $4 \div  2 = 2$       |
+|       $6$          |       $3$          |    $6 + 3 = 9$     |     $6 - 3=3$    |     $6 \times 3 = 18$      |      $6 \div  3 = 2$       |
+|      $18$          |       $3$          |   $18 + 3 = 21$    |   $18 - 3=15$    |    $18 \times 3 = 54$      |     $18 \div  3 = 6$       |
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+**ROW 2**
+
+$1$st number and $2$nd number are known so rest can be solved.
+
+**ROW 3**
+
+Sum $= 154$
+
+Difference $= 5$
+
+$
+\begin{aligned}
+             15 &= x + y \\
+             5  &= x - y  \\
+         15 + 5 &= x + y + (x - y) \\
+             20 &= x + y + x -y \\
+                &= x + x + y -y \\
+                &= 2x \\
+\dfrac {20}{10} &= x \\
+              x &= 10 \\
+              y &= 10 - 5 = 5 \\
+\end{aligned}
+$
+
+**ROW 4**
+
+Product $8$ 
+
+$8$ is only a multiple of $4 \times 2$
+
+So the numbers are $2$ and $4$
+
+\underline {ROW 5}
+
+Product is $18$
+
+$18$ is a multiple of :
+
+$9 \times 2$ but $9$ is not divisible by $2$ to give quotient $2$
+
+$6 \times 3$ are the numbers with quotient $2$
+
+**ROW 6**
+
+Sum $= 21$
+
+Quotient $= 6$
+
+Let's find multiples of $6$ $<21$ and $>6$  
+
+$6 \times 2 = 12$
+
+$6 + 2 = 12 \not 21$
+
+$6 \times 3 = 18$
+
+$18 \div 3 = 6$
+
+$18 + 3 = 21$
+
+The numbers are $18$ and $3$
+
+
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+| **$1 \text{st}$ number**     | **$2 \text{nd}$ number**     |  **SUM**     | **DIFFERENCE**     | **PRODUCT**     | **QUOTIENT**     |
+|:------------------:|:------------------:|:------------------:|:----------------:|:--------------------------:|:--------------------------:|
+|      $12$          |       $3$          |    $12 + 3=15$     |    $12 - 3=9$    |    $12 \times 3 = 36$      |     $12 \div  4 = 3$       |
+|      $10$          |       $5$          |    $10 + 5=15$     |    $10 - 5=5$    |    $10 \times 5 = 50$      |     $10 \div  5 = 2$       |
+|      $10$          |       $5$          |    $4 + 2 = 6$     |     $4 - 2=2$    |      $4 \times 2 = 8$      |      $4 \div  2 = 2$       |
+|       $6$          |       $3$          |    $6 + 3 = 9$     |     $6 - 3=3$    |     $6 \times 3 = 18$      |      $6 \div  3 = 2$       |
+|      $18$          |       $3$          |   $18 + 3 = 21$    |   $18 - 3=15$    |    $18 \times 3 = 54$      |     $18 \div  3 = 6$       |
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>

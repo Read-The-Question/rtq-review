@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-3"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1377,7 +1377,7 @@ same sequence problem
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0987E5A4-4B55-4CE4-AE21-2C2FA89D1803</p>
 </div>
@@ -1391,7 +1391,7 @@ same sequence problem
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1511,7 +1511,7 @@ $xy$
 $
 \begin{aligned}
 &= xy \\\\
-&= 7 /times - 5 \\\\
+&= 7 \times - 5 \\\\
 &= - 35
 \end{aligned}
 $
@@ -1531,7 +1531,7 @@ $- 35$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= xy \\\\
-&= 7 /times - 5 \\\\
+&= 7 \times - 5 \\\\
 &= - 35
 \end{aligned}
 $
@@ -2246,7 +2246,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9534E5E7-9ED2-4503-B261-575DFA10853E</p>
 </div>
@@ -2260,7 +2260,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2455,11 +2455,11 @@ Let the number $=x$
 $
 \begin{aligned}
 2x + 15                         &= 3 \\\\
-2x                              &= 12 \\\\
-x                               &= \dfrac {12} {2} \\\\
-x                               &= \dfrac {6 \times 2} {2} \\\\
-x                               &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-x                               &= 6
+2x                              &= -12 \\\\
+x                               &= - \dfrac {12} {2} \\\\
+x                               &= - \dfrac {6 \times 2} {2} \\\\
+x                               &= - \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+x                               &= - 6
 \end{aligned}
 $
 
@@ -2480,11 +2480,11 @@ $6$
 $
 \begin{aligned}
 2x + 15                         &= 3 \\\\
-2x                              &= 12 \\\\
-x                               &= \dfrac {12} {2} \\\\
-x                               &= \dfrac {6 \times 2} {2} \\\\
-x                               &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-x                               &= 6
+2x                              &= -12 \\\\
+x                               &= - \dfrac {12} {2} \\\\
+x                               &= - \dfrac {6 \times 2} {2} \\\\
+x                               &= - \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+x                               &= - 6
 \end{aligned}
 $
 </code></pre>
@@ -2621,7 +2621,7 @@ $\text {As We Know Sum Of Two Sides Of A Triangle Must Be Greater Than The Third
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2CA89A06-D6D2-400A-B27B-67091B0F2E69</p>
 </div>
@@ -2635,7 +2635,7 @@ $\text {As We Know Sum Of Two Sides Of A Triangle Must Be Greater Than The Third
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2764,8 +2764,8 @@ $
 \begin{aligned}
 2.1 \times a &= 84 \\\\
 a            &= \dfrac {84} {2.1} \\\\
-a            &= \dfrac {40 \times 2.1} {2.1} \\\\
-a            &= \dfrac {40 \times \cancel {2.1}} {\cancel {2.1}} \\\\
+a            &= \dfrac {4 \times 21 \times 10} {21} \\\\
+a            &= \dfrac {40 \times \cancel {21}} {\cancel {21}} \\\\
 a            &= 40
 \end{aligned}
 $
@@ -2788,8 +2788,8 @@ $
 \begin{aligned}
 2.1 \times a &= 84 \\\\
 a            &= \dfrac {84} {2.1} \\\\
-a            &= \dfrac {40 \times 2.1} {2.1} \\\\
-a            &= \dfrac {40 \times \cancel {2.1}} {\cancel {2.1}} \\\\
+a            &= \dfrac {4 \times 21 \times 10} {21} \\\\
+a            &= \dfrac {40 \times \cancel {21}} {\cancel {21}} \\\\
 a            &= 40
 \end{aligned}
 $
@@ -2826,8 +2826,11 @@ Let the missing number $= a$
 $
 \begin{aligned}
 8.4 \div a &= 21 \\\\
-a          &= 21 \times 8.4 \\\\
-a          &= 176.4
+a          &= \dfrac{8.4}{21} \\\\
+a          &= \dfrac{84}{210} \\\\
+a          &= \dfrac{21 \times 4}{21 \times 10} \\\\
+a          &= \dfrac{\cancel{21} \times 4}{\cancel{21} \times 10} \\\\
+a          &= 0.4
 \end{aligned}
 $
 
@@ -2836,7 +2839,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$176.4$
+$0.4$
 
 </div>
 </div>
@@ -2848,8 +2851,11 @@ $176.4$
 $
 \begin{aligned}
 8.4 \div a &= 21 \\\\
-a          &= 21 \times 8.4 \\\\
-a          &= 176.4
+a          &= \dfrac{8.4}{21} \\\\
+a          &= \dfrac{84}{210} \\\\
+a          &= \dfrac{21 \times 4}{21 \times 10} \\\\
+a          &= \dfrac{\cancel{21} \times 4}{\cancel{21} \times 10} \\\\
+a          &= 0.4
 \end{aligned}
 $
 </code></pre>
@@ -2863,7 +2869,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$176.4$
+<pre class='language-latex'><code class='language-latex'>$0.4$
 </code></pre>
 </div>
 </div>

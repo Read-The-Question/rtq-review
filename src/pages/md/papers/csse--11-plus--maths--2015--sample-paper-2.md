@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2085,7 +2085,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>76044041-12E6-44F3-B9A7-E35637106F3F</p>
 </div>
@@ -2099,7 +2099,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4711,10 +4711,10 @@ $\dfrac {68} {12} = \dfrac {17} {3} = \dfrac {1} {3} \ \text {of} \ 17$ is the b
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -5318,7 +5318,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A53C7015-4325-4F04-9324-7266EA307FB1</p>
 </div>
@@ -5332,7 +5332,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5410,6 +5410,8 @@ a                   &= 16
 \end{aligned}
 $
 
+Anwar's original number $= 16$
+
 </div>
 </div>
 <div class='answers'>
@@ -5437,6 +5439,8 @@ a                   &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
 a                   &= 16
 \end{aligned}
 $
+
+Anwar's original number $= 16$
 </code></pre>
 </div>
 </div>
@@ -5482,6 +5486,8 @@ a                   &= 24.5
 \end{aligned}
 $
 
+Anwar's original number $= 24.5$
+
 </div>
 </div>
 <div class='answers'>
@@ -5508,6 +5514,8 @@ a                   &= \dfrac {49} {2} \\\\
 a                   &= 24.5
 \end{aligned}
 $
+
+Anwar's original number $= 24.5$
 </code></pre>
 </div>
 </div>
@@ -5555,6 +5563,8 @@ a                                                                &= 64
 \end{aligned}
 $
 
+Anwar's original number $= 64$
+
 </div>
 </div>
 <div class='answers'>
@@ -5583,6 +5593,8 @@ a                                                                &= 30 + 34 \\\\
 a                                                                &= 64
 \end{aligned}
 $
+
+Anwar's original number $= 64$
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-7"
 title: "TopicPaper - Algebra - 7"
-date: 2022-07-11 18:04:07
+date: 2022-07-12 03:47:51
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-11 18:04:07
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1B75D1B9-5669-4840-977E-AF67A1065F16</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-11 18:04:07
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -49,14 +49,14 @@ All the bags have the same volume. What percentage of the porridge mix is wheat 
 
 $
 \begin{aligned}
-\text{Percentage} &= 3 \times 20 \% \\\\
-                  &= 3 \times \dfrac {20} {100} \\\\
-                  &= \dfrac {20 \times 3} {100} \\\\
-                  &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
-                  &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
-                  &= \dfrac {3} {5} \\\\
-                  &= 0.6 \times 100 \\\\
-                  &= 60 \%
+\text{Percentage} &= 20 \% \ \text{of} \ \dfrac{1}{4} \times 100 \\\\
+                  &= \dfrac{20}{100} \times \dfrac{1}{4} \times 100 \\\\
+                  &= \dfrac {2 \times 2 \times 5}{2 \times 2 \times 5 \times 5 \times 4} \times 100  \\\\
+                  &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 5 }{\cancel 2 \times \cancel 2 \times 5 \times \cancel 5 \times 4} \times 100 \\\\
+                  &= \dfrac {100} {20} \\\\
+                  &= \dfrac {2 \times 2 \times 5 \times 5}{2 \times 2 \times 5} \\\\
+                  &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 5 \times 5}{\cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+                  &= 5 \%
 \end{aligned}
 $
 
@@ -65,7 +65,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$60 \%$
+$5 \%$
 
 </div>
 </div>
@@ -74,14 +74,14 @@ $60 \%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Percentage} &= 3 \times 20 \% \\\\
-                  &= 3 \times \dfrac {20} {100} \\\\
-                  &= \dfrac {20 \times 3} {100} \\\\
-                  &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
-                  &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
-                  &= \dfrac {3} {5} \\\\
-                  &= 0.6 \times 100 \\\\
-                  &= 60 \%
+\text{Percentage} &= 20 \% \ \text{of} \ \dfrac{1}{4} \times 100 \\\\
+                  &= \dfrac{20}{100} \times \dfrac{1}{4} \times 100 \\\\
+                  &= \dfrac {2 \times 2 \times 5}{2 \times 2 \times 5 \times 5 \times 4} \times 100  \\\\
+                  &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 5 }{\cancel 2 \times \cancel 2 \times 5 \times \cancel 5 \times 4} \times 100 \\\\
+                  &= \dfrac {100} {20} \\\\
+                  &= \dfrac {2 \times 2 \times 5 \times 5}{2 \times 2 \times 5} \\\\
+                  &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 5 \times 5}{\cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+                  &= 5 \%
 \end{aligned}
 $
 </code></pre>
@@ -95,7 +95,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$60 \%$
+<pre class='language-latex'><code class='language-latex'>$5 \%$
 </code></pre>
 </div>
 </div>
@@ -141,7 +141,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>251FBF03-47A6-429C-803A-6682014D04F1</p>
 </div>
@@ -155,7 +155,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -175,8 +175,9 @@ When the glass is half full of water the total mass is $320 \ \text{g}$. Find th
 
 $
 \begin{aligned}
-\text{Mass of glass} &= 400 - (80 + 80) \\\\
-                     &= 400 - 160 \\\\
+\text{mass of half water} &= 400 - 320 \\\\
+\text{mass of water} &= 160 \\\\
+\text{Mass of glass} &= 400 - 160 \\\\
                      &= 240 \ \text{g}
 \end{aligned}
 $
@@ -195,8 +196,9 @@ $240 \ \text{g}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Mass of glass} &= 400 - (80 + 80) \\\\
-                     &= 400 - 160 \\\\
+\text{mass of half water} &= 400 - 320 \\\\
+\text{mass of water} &= 160 \\\\
+\text{Mass of glass} &= 400 - 160 \\\\
                      &= 240 \ \text{g}
 \end{aligned}
 $
@@ -350,7 +352,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9534D4D0-5ABE-4A31-B52C-8A1B05281589</p>
 </div>
@@ -364,7 +366,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -726,7 +728,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>01216F9C-A7F5-4791-AC06-D99D4185E47A</p>
 </div>
@@ -740,7 +742,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1594,7 +1596,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BB2373FF-1D5B-413C-8160-D9BBA4F4E551</p>
 </div>
@@ -1608,7 +1610,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2341,7 +2343,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>172741B4-476E-490F-988C-FC140144A330</p>
 </div>
@@ -2355,7 +2357,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2418,7 +2420,7 @@ Let the missing number $=x$
 $
 \begin{aligned}
 x                               &= \dfrac {349000} {3.49} \\\\
-x                               &= 1000000
+x                               &= 100000
 \end{aligned}
 $
 
@@ -2427,7 +2429,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1000000$
+$100000$
 
 </div>
 </div>
@@ -2439,7 +2441,7 @@ $1000000$
 $
 \begin{aligned}
 x                               &= \dfrac {349000} {3.49} \\\\
-x                               &= 1000000
+x                               &= 100000
 \end{aligned}
 $
 </code></pre>
@@ -2453,7 +2455,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1000000$
+<pre class='language-latex'><code class='language-latex'>$100000$
 </code></pre>
 </div>
 </div>
@@ -2561,7 +2563,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D7B8557B-C51F-4733-8A8F-653E8E463B35</p>
 </div>
@@ -2575,7 +2577,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2592,12 +2594,13 @@ Five friends shared the cost of a mansion (priced at $3$ million pounds) equally
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{aligned}
-\text{Let the amount given be each friend}          &= x \\\\
+\text{Contribution}&= x \\\\
 5x                      &= 3000000 \\\\
 x                       &= \dfrac {3000000} {5} \\\\
-                        &= \dfrac {600000 \times \cancel{5} {\cancel{5}}} \\\\
+                        &= \dfrac {600000 \times \cancel{5}} {\cancel{5}} \\\\
 x                       &= 600000
 \end{aligned}
 $
@@ -2614,12 +2617,13 @@ $600000$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+$
 \begin{aligned}
-\text{Let the amount given be each friend}          &= x \\\\
+\text{Contribution}&= x \\\\
 5x                      &= 3000000 \\\\
 x                       &= \dfrac {3000000} {5} \\\\
-                        &= \dfrac {600000 \times \cancel{5} {\cancel{5}}} \\\\
+                        &= \dfrac {600000 \times \cancel{5}} {\cancel{5}} \\\\
 x                       &= 600000
 \end{aligned}
 $
@@ -2968,7 +2972,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>00C17084-5529-4DED-AB9D-84C6F2769CA9</p>
 </div>
@@ -2982,7 +2986,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3035,7 +3039,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$a = 10,b = 0
+$a = 10,b = 0 \\
 a = 2,b = 12$
 
 </div>
@@ -3080,7 +3084,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$a = 10,b = 0
+<pre class='language-latex'><code class='language-latex'>$a = 10,b = 0 \\
 a = 2,b = 12$
 </code></pre>
 </div>
@@ -3127,7 +3131,7 @@ a = 2,b = 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1AF27AEE-1DB6-474C-AB00-27C71B0A48B2</p>
 </div>
@@ -3141,7 +3145,7 @@ a = 2,b = 12$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3284,7 +3288,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4471FF90-E8D7-4ED1-8FDA-C346A528851A</p>
 </div>
@@ -3298,7 +3302,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3317,8 +3321,8 @@ Two workers are paid a total of $\pounds 506$ by their employer. If one is paid 
 
 $
 \begin{aligned}
-\text{Let the wage of first labourer = x} \\\\
-\text{Therefore wage of second labourer}                            &= x + \dfrac{20}{100} \times x \\\\
+\text{Let wage of 1st labourer = x} \\\\
+\text{wage of second labourer}                            &= x + \dfrac{20}{100} \times x \\\\
                                                                     &= \dfrac{100 \times x + 20x}{100} \\\\
                                                                     &= \dfrac{120x}{100} \\\\
 \text{Total wages}                                                  &=  506 \\\\
@@ -3326,9 +3330,11 @@ x + \dfrac{120x}{100}                                               &= 506 \\\\
 \dfrac{100x + 120x}{100}                                            &= 506 \\\\
 \dfrac{220x}{100}                                                   &= 506 \\\\
 x                                                                   &= \dfrac{506 \times 100} {220} \\\\
-x                                                                   &= 23 \\\\
-\text{Wage of other worker}                                         &= 506 - 23 \\\\
-                                                                    &= 483
+x                                                                   &= \dfrac{46 \times 11 \times 2 \times 2 \times 5 \times 5} {11 \times 2 \times 2 \times 5} \\\\
+x                                                                   &= \dfrac{46 \times \cancel 11 \times \cancel 2 \times \cancel 2 \times \cancel 5 \times 5} {\cancel 11 \times \cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+x                                                                   &= 230 \\\\
+\text{Wage of other worker}                                         &= 506 - 230 \\\\
+                                                                    &= 276
 \end{aligned}
 $
 
@@ -3337,7 +3343,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23,483$
+$230, 276$
 
 </div>
 </div>
@@ -3346,8 +3352,8 @@ $23,483$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Let the wage of first labourer = x} \\\\
-\text{Therefore wage of second labourer}                            &= x + \dfrac{20}{100} \times x \\\\
+\text{Let wage of 1st labourer = x} \\\\
+\text{wage of second labourer}                            &= x + \dfrac{20}{100} \times x \\\\
                                                                     &= \dfrac{100 \times x + 20x}{100} \\\\
                                                                     &= \dfrac{120x}{100} \\\\
 \text{Total wages}                                                  &=  506 \\\\
@@ -3355,9 +3361,11 @@ x + \dfrac{120x}{100}                                               &= 506 \\\\
 \dfrac{100x + 120x}{100}                                            &= 506 \\\\
 \dfrac{220x}{100}                                                   &= 506 \\\\
 x                                                                   &= \dfrac{506 \times 100} {220} \\\\
-x                                                                   &= 23 \\\\
-\text{Wage of other worker}                                         &= 506 - 23 \\\\
-                                                                    &= 483
+x                                                                   &= \dfrac{46 \times 11 \times 2 \times 2 \times 5 \times 5} {11 \times 2 \times 2 \times 5} \\\\
+x                                                                   &= \dfrac{46 \times \cancel 11 \times \cancel 2 \times \cancel 2 \times \cancel 5 \times 5} {\cancel 11 \times \cancel 2 \times \cancel 2 \times \cancel 5} \\\\
+x                                                                   &= 230 \\\\
+\text{Wage of other worker}                                         &= 506 - 230 \\\\
+                                                                    &= 276
 \end{aligned}
 $
 </code></pre>
@@ -3371,7 +3379,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$23,483$
+<pre class='language-latex'><code class='language-latex'>$230, 276$
 </code></pre>
 </div>
 </div>
@@ -3417,7 +3425,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4F5AE821-53F1-4B63-BD66-A4D76B7F9B20</p>
 </div>
@@ -3431,7 +3439,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3716,7 +3724,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0987E5A4-4B55-4CE4-AE21-2C2FA89D1803</p>
 </div>
@@ -3730,7 +3738,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3850,7 +3858,7 @@ $xy$
 $
 \begin{aligned}
 &= xy \\\\
-&= 7 /times - 5 \\\\
+&= 7 \times - 5 \\\\
 &= - 35
 \end{aligned}
 $
@@ -3870,7 +3878,7 @@ $- 35$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= xy \\\\
-&= 7 /times - 5 \\\\
+&= 7 \times - 5 \\\\
 &= - 35
 \end{aligned}
 $
@@ -4048,7 +4056,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9534E5E7-9ED2-4503-B261-575DFA10853E</p>
 </div>
@@ -4062,7 +4070,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4257,11 +4265,11 @@ Let the number $=x$
 $
 \begin{aligned}
 2x + 15                         &= 3 \\\\
-2x                              &= 12 \\\\
-x                               &= \dfrac {12} {2} \\\\
-x                               &= \dfrac {6 \times 2} {2} \\\\
-x                               &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-x                               &= 6
+2x                              &= -12 \\\\
+x                               &= - \dfrac {12} {2} \\\\
+x                               &= - \dfrac {6 \times 2} {2} \\\\
+x                               &= - \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+x                               &= - 6
 \end{aligned}
 $
 
@@ -4282,11 +4290,11 @@ $6$
 $
 \begin{aligned}
 2x + 15                         &= 3 \\\\
-2x                              &= 12 \\\\
-x                               &= \dfrac {12} {2} \\\\
-x                               &= \dfrac {6 \times 2} {2} \\\\
-x                               &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-x                               &= 6
+2x                              &= -12 \\\\
+x                               &= - \dfrac {12} {2} \\\\
+x                               &= - \dfrac {6 \times 2} {2} \\\\
+x                               &= - \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+x                               &= - 6
 \end{aligned}
 $
 </code></pre>
@@ -4349,7 +4357,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2CA89A06-D6D2-400A-B27B-67091B0F2E69</p>
 </div>
@@ -4363,7 +4371,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4492,8 +4500,8 @@ $
 \begin{aligned}
 2.1 \times a &= 84 \\\\
 a            &= \dfrac {84} {2.1} \\\\
-a            &= \dfrac {40 \times 2.1} {2.1} \\\\
-a            &= \dfrac {40 \times \cancel {2.1}} {\cancel {2.1}} \\\\
+a            &= \dfrac {4 \times 21 \times 10} {21} \\\\
+a            &= \dfrac {40 \times \cancel {21}} {\cancel {21}} \\\\
 a            &= 40
 \end{aligned}
 $
@@ -4516,8 +4524,8 @@ $
 \begin{aligned}
 2.1 \times a &= 84 \\\\
 a            &= \dfrac {84} {2.1} \\\\
-a            &= \dfrac {40 \times 2.1} {2.1} \\\\
-a            &= \dfrac {40 \times \cancel {2.1}} {\cancel {2.1}} \\\\
+a            &= \dfrac {4 \times 21 \times 10} {21} \\\\
+a            &= \dfrac {40 \times \cancel {21}} {\cancel {21}} \\\\
 a            &= 40
 \end{aligned}
 $
@@ -4554,8 +4562,11 @@ Let the missing number $= a$
 $
 \begin{aligned}
 8.4 \div a &= 21 \\\\
-a          &= 21 \times 8.4 \\\\
-a          &= 176.4
+a          &= \dfrac{8.4}{21} \\\\
+a          &= \dfrac{84}{210} \\\\
+a          &= \dfrac{21 \times 4}{21 \times 10} \\\\
+a          &= \dfrac{\cancel{21} \times 4}{\cancel{21} \times 10} \\\\
+a          &= 0.4
 \end{aligned}
 $
 
@@ -4564,7 +4575,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$176.4$
+$0.4$
 
 </div>
 </div>
@@ -4576,8 +4587,11 @@ $176.4$
 $
 \begin{aligned}
 8.4 \div a &= 21 \\\\
-a          &= 21 \times 8.4 \\\\
-a          &= 176.4
+a          &= \dfrac{8.4}{21} \\\\
+a          &= \dfrac{84}{210} \\\\
+a          &= \dfrac{21 \times 4}{21 \times 10} \\\\
+a          &= \dfrac{\cancel{21} \times 4}{\cancel{21} \times 10} \\\\
+a          &= 0.4
 \end{aligned}
 $
 </code></pre>
@@ -4591,7 +4605,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$176.4$
+<pre class='language-latex'><code class='language-latex'>$0.4$
 </code></pre>
 </div>
 </div>
@@ -4640,7 +4654,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>28FC31CE-4F0F-40E8-993C-6AB248B233EF</p>
 </div>
@@ -4654,7 +4668,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5009,7 +5023,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3A0149EE-424F-4F81-9623-9D7932C23AE0</p>
 </div>
@@ -5023,7 +5037,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5694,7 +5708,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6A9856E1-3211-45A5-B5B2-EAF3CFB6C17B</p>
 </div>
@@ -5708,7 +5722,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5729,13 +5743,13 @@ How much does it cost now?
 
 $
 \begin{aligned}
-&= 22 \% \times 330 \\\\
+\text{increase} &= 22 \% \times 330 \\\\
 &= \dfrac{22}{100} \times 330 \\\\
 &= \dfrac{22 \times 330}{100} \\\\
 &= \dfrac{7260} {100} \\\\
 &= \dfrac{726 \cancel {0}} {10 \cancel{0}} \\\\
 &= 72.6 \\\\
-&= 330 + 72.6 \\\\
+\text{new price}&= 330 + 72.6 \\\\
 &= 402.6
 \end{aligned}
 $
@@ -5754,13 +5768,13 @@ $402.6$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 22 \% \times 330 \\\\
+\text{increase} &= 22 \% \times 330 \\\\
 &= \dfrac{22}{100} \times 330 \\\\
 &= \dfrac{22 \times 330}{100} \\\\
 &= \dfrac{7260} {100} \\\\
 &= \dfrac{726 \cancel {0}} {10 \cancel{0}} \\\\
 &= 72.6 \\\\
-&= 330 + 72.6 \\\\
+\text{new price}&= 330 + 72.6 \\\\
 &= 402.6
 \end{aligned}
 $
@@ -5821,7 +5835,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ED31C65A-6892-4ACD-8993-0B84DA0D7854</p>
 </div>
@@ -5835,7 +5849,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5888,7 +5902,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$a=12 b=0,a=3 b=12$
+$a=12, b=0 \\ a=3, b=12$
 
 </div>
 </div>
@@ -5931,7 +5945,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$a=12 b=0,a=3 b=12$
+<pre class='language-latex'><code class='language-latex'>$a=12, b=0 \\ a=3, b=12$
 </code></pre>
 </div>
 </div>
@@ -5977,7 +5991,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8F04F6AD-7E4E-4FEA-BE60-E45097E0FEB2</p>
 </div>
@@ -5991,7 +6005,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6414,7 +6428,7 @@ Refer : 71748A3D-9EB9-407F-BE74-AE1F06A04E99... FOLLOW CODING GUILINES ,, ALIGNM
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>552DEC74-2708-4D2D-A029-1CDE7C952691</p>
 </div>
@@ -6428,7 +6442,7 @@ Refer : 71748A3D-9EB9-407F-BE74-AE1F06A04E99... FOLLOW CODING GUILINES ,, ALIGNM
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6656,9 +6670,9 @@ $2yz - x^3$
 $
 \begin{aligned}
 &= 2yz - x^3 \\\\
-&= 2 \times -7 \times -9 - 3 \times 3 \times 3 \\\\
-&= 126 - 9 \\\\
-&= 117
+&= 2 \times (-7) \times (-9) - 3 \times 3 \times 3 \\\\
+&= 126 - 27 \\\\
+&= 99
 \end{aligned}
 $
 
@@ -6677,9 +6691,9 @@ $117$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 2yz - x^3 \\\\
-&= 2 \times -7 \times -9 - 3 \times 3 \times 3 \\\\
-&= 126 - 9 \\\\
-&= 117
+&= 2 \times (-7) \times (-9) - 3 \times 3 \times 3 \\\\
+&= 126 - 27 \\\\
+&= 99
 \end{aligned}
 $
 </code></pre>
@@ -6742,7 +6756,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>571A23DE-783B-477A-9FCD-DE43E95FF88D</p>
 </div>
@@ -6756,7 +6770,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6957,6 +6971,7 @@ x \times 2 + 15                                         &= 3 \\\\
                                                         &= \dfrac{-12}{2} \\\\
                                                         &= -6
 \end{aligned}
+$
 
 </div>
 </div>
@@ -6981,6 +6996,7 @@ x \times 2 + 15                                         &= 3 \\\\
                                                         &= \dfrac{-12}{2} \\\\
                                                         &= -6
 \end{aligned}
+$
 </code></pre>
 </div>
 </div>

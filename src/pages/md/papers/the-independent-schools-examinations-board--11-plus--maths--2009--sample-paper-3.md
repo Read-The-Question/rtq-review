@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4309,7 +4309,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1</p>
 </div>
@@ -4320,7 +4320,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4339,7 +4339,7 @@ ttable
 
 The two school hockey teams are called Team Alpha and Team Beta
 
-Some information about the number of right-handed $(RH)$ and left-handed $(LH)$ players in each team is shown in the table below.
+Some information about the number of right-handed $(RH)$ and left-handed $(LH)$ players in each Team is shown in the table below.
 
 ![missing image](/papers/missing_image.svg)
 
@@ -4417,7 +4417,53 @@ Complete the table above.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Given that,
+
+$
+\begin{aligned}
+\text{Right-handed players in Team Alpha} \ &= 7 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Left-handed players in Team Beta} \ &= 2 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total left-handed players} \ &= 6 \\\\
+\text{Total left-handed players} &= \text{Left-handed players in Team Beta} + \text{Left-handed players in Team Alpha} \\\\
+2 + \text{Left-handed players in Team Alpha} &= 6 \\\\
+\text{Left-handed players in Team Alpha} &= 4 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total players in Team Alpha} \ &= \text{Left-handed players in Team Alpha} + \text{Right-handed players in Team Alpha} \\\\
+\text{Total players in Team Alpha} \ &= 4 + 7 \\\\
+\text{Total players in Team Alpha} \ &= 11 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= \text{Total players in Team Beta} \ \\\\
+\text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= 11 \\\\
+2 + \text{Right-handed players in Team Beta} &= 11 \\\\
+\text{Right-handed players in Team Beta} &= 9 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total players playing} &= \text{Total players in Team Alpha} + \text{Total players in Team Beta} \\\\
+\text{Total players playing} &= 11 + 11 \\\\
+\text{Total players playing} &= 22 \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -4429,7 +4475,14 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$
+\begin{array}{lllllll}
+                    & \text{RH} \ & \text{LH} \ & \text{total} \ \\
+\text{Team Alpha} \ &  7          &  4          &   11           \\
+\text{Team Beta} \  &  9          &  2          &   11           \\
+\text{total} \      & 16          &  6          &   22           \\
+\end{array}
+$
 
 </div>
 <div class='answer'>
@@ -4441,7 +4494,53 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Given that,
+
+$
+\begin{aligned}
+\text{Right-handed players in Team Alpha} \ &= 7 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Left-handed players in Team Beta} \ &= 2 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total left-handed players} \ &= 6 \\\\
+\text{Total left-handed players} &= \text{Left-handed players in Team Beta} + \text{Left-handed players in Team Alpha} \\\\
+2 + \text{Left-handed players in Team Alpha} &= 6 \\\\
+\text{Left-handed players in Team Alpha} &= 4 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total players in Team Alpha} \ &= \text{Left-handed players in Team Alpha} + \text{Right-handed players in Team Alpha} \\\\
+\text{Total players in Team Alpha} \ &= 4 + 7 \\\\
+\text{Total players in Team Alpha} \ &= 11 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= \text{Total players in Team Beta} \ \\\\
+\text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= 11 \\\\
+2 + \text{Right-handed players in Team Beta} &= 11 \\\\
+\text{Right-handed players in Team Beta} &= 9 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total players playing} &= \text{Total players in Team Alpha} + \text{Total players in Team Beta} \\\\
+\text{Total players playing} &= 11 + 11 \\\\
+\text{Total players playing} &= 22 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4458,7 +4557,14 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{lllllll}
+                    & \text{RH} \ & \text{LH} \ & \text{total} \ \\
+\text{Team Alpha} \ &  7          &  4          &   11           \\
+\text{Team Beta} \  &  9          &  2          &   11           \\
+\text{total} \      & 16          &  6          &   22           \\
+\end{array}
+$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -4485,7 +4591,13 @@ What fraction of the left-handed players are in Team Alpha?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {\text {Left-handed players in Team Alpha} \ } {\text {Total left-handed players} \ } \\\\
+&= \dfrac {4} {6} \\\\
+&= \dfrac {2} {3} \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -4497,7 +4609,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac {2} {3}$
 
 </div>
 <div class='answer'>
@@ -4509,7 +4621,13 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {\text {Left-handed players in Team Alpha} \ } {\text {Total left-handed players} \ } \\\\
+&= \dfrac {4} {6} \\\\
+&= \dfrac {2} {3} \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4526,7 +4644,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {3}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -4559,7 +4677,16 @@ Redraw the table to show the new teams.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin{array}{lllllll}
+                    & \text{RH} \ & \text{LH} \ & \text{total} \ \\
+\text{Team Alpha} \ &      0      &      6      &        6       \\
+\text{Team Beta} \  &     16      &      0      &       16       \\
+\text{total} \      &     16      &      6      &       22       \\
+\end{array}
+$
 
 </div>
 <div class='working'>
@@ -4571,7 +4698,14 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$
+\begin{array}{lllllll}
+                    & \text{RH} \ & \text{LH} \ & \text{total} \ \\
+\text{Team Alpha} \ &      0      &      6      &        6       \\
+\text{Team Beta} \  &     16      &      0      &       16       \\
+\text{total} \      &     16      &      6      &       22       \\
+\end{array}
+$
 
 </div>
 <div class='answer'>
@@ -4583,7 +4717,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin{array}{lllllll}
+                    & \text{RH} \ & \text{LH} \ & \text{total} \ \\
+\text{Team Alpha} \ &      0      &      6      &        6       \\
+\text{Team Beta} \  &     16      &      0      &       16       \\
+\text{total} \      &     16      &      6      &       22       \\
+\end{array}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4600,7 +4743,14 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{lllllll}
+                    & \text{RH} \ & \text{LH} \ & \text{total} \ \\
+\text{Team Alpha} \ &      0      &      6      &        6       \\
+\text{Team Beta} \  &     16      &      0      &       16       \\
+\text{total} \      &     16      &      6      &       22       \\
+\end{array}
+$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -4631,7 +4781,12 @@ Calculate this distance.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= 55\text{m}\ \times 18 \\\\
+&= 990\text{m}\ \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -4643,7 +4798,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+990m
 
 </div>
 <div class='answer'>
@@ -4655,7 +4810,12 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 55\text{m}\ \times 18 \\\\
+&= 990\text{m}\ \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4672,7 +4832,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>990m
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -4691,6 +4851,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' id='FORM-85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1'>Initial</p>
+</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2016-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2016 - Sample Paper 1"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-11 17:59:40
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D0AE7167-AAFE-44B0-8895-2BD334572908</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-11 17:59:40
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -69,13 +69,12 @@ $
 \begin{aligned}
 2b - a          &= 15 \\\\
 2(35 - 2a) - a  &= 15 \\\\
-70 - 14a - a    &= 15 \\\\
-70 - 15a        &= 15 \\\\
-70 -15          &= 15a \\\\
-15a             &= 65 \\\\
-a               &= \dfrac {65} {15} \\\\
-a               &= \dfrac {13} {3} \\\\
-a               &= 4.33
+70 - 4a - a    &= 15 \\\\
+70 - 5a        &= 15 \\\\
+70 -15          &= 5a \\\\
+5a             &= 55 \\\\
+a               &= \dfrac {55} {5} \\\\
+a               &= 11 \\\\
 \end{aligned}
 $
 
@@ -84,11 +83,10 @@ Now, let's find b
 $
 \begin{aligned}
 2a + b &= 35 \\\\
-2 \times \dfrac {13} {3} + b &= 35 \\\\
-\dfrac {26} {3} + b &= 35 \\\\
-b &= 35 - \dfrac {26} {3} \\\\
-b &= \dfrac {79} {3} \\\\
-b &= 26.33 \\\\
+2 \times 11 + b &= 35 \\\\
+22 + b &= 35 \\\\
+b &= 35 - 22 \\\\
+b &= 13 \\\\
 \end{aligned}
 $
 
@@ -103,7 +101,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-first number $= \dfrac {13} {3}$, second number $= \dfrac {79} {3}$
+first number $= 11$, second number $= 13$
 
 </div>
 <div class='answer'>
@@ -134,13 +132,12 @@ $
 \begin{aligned}
 2b - a          &= 15 \\\\
 2(35 - 2a) - a  &= 15 \\\\
-70 - 14a - a    &= 15 \\\\
-70 - 15a        &= 15 \\\\
-70 -15          &= 15a \\\\
-15a             &= 65 \\\\
-a               &= \dfrac {65} {15} \\\\
-a               &= \dfrac {13} {3} \\\\
-a               &= 4.33
+70 - 4a - a    &= 15 \\\\
+70 - 5a        &= 15 \\\\
+70 -15          &= 5a \\\\
+5a             &= 55 \\\\
+a               &= \dfrac {55} {5} \\\\
+a               &= 11 \\\\
 \end{aligned}
 $
 
@@ -149,11 +146,10 @@ Now, let's find b
 $
 \begin{aligned}
 2a + b &= 35 \\\\
-2 \times \dfrac {13} {3} + b &= 35 \\\\
-\dfrac {26} {3} + b &= 35 \\\\
-b &= 35 - \dfrac {26} {3} \\\\
-b &= \dfrac {79} {3} \\\\
-b &= 26.33 \\\\
+2 \times 11 + b &= 35 \\\\
+22 + b &= 35 \\\\
+b &= 35 - 22 \\\\
+b &= 13 \\\\
 \end{aligned}
 $
 
@@ -173,7 +169,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>first number $= \dfrac {13} {3}$, second number $= \dfrac {79} {3}$
+<pre class='language-latex'><code class='language-latex'>first number $= 11$, second number $= 13$
 </code></pre>
 </div>
 <div class='answercodeblock'>

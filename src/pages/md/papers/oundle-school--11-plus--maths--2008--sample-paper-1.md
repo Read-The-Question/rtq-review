@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1689,7 +1689,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>172741B4-476E-490F-988C-FC140144A330</p>
 </div>
@@ -1703,7 +1703,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1766,7 +1766,7 @@ Let the missing number $=x$
 $
 \begin{aligned}
 x                               &= \dfrac {349000} {3.49} \\\\
-x                               &= 1000000
+x                               &= 100000
 \end{aligned}
 $
 
@@ -1775,7 +1775,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1000000$
+$100000$
 
 </div>
 </div>
@@ -1787,7 +1787,7 @@ $1000000$
 $
 \begin{aligned}
 x                               &= \dfrac {349000} {3.49} \\\\
-x                               &= 1000000
+x                               &= 100000
 \end{aligned}
 $
 </code></pre>
@@ -1801,7 +1801,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1000000$
+<pre class='language-latex'><code class='language-latex'>$100000$
 </code></pre>
 </div>
 </div>
@@ -1909,7 +1909,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D7B8557B-C51F-4733-8A8F-653E8E463B35</p>
 </div>
@@ -1923,7 +1923,7 @@ $
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1940,12 +1940,13 @@ Five friends shared the cost of a mansion (priced at $3$ million pounds) equally
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{aligned}
-\text{Let the amount given be each friend}          &= x \\\\
+\text{Contribution}&= x \\\\
 5x                      &= 3000000 \\\\
 x                       &= \dfrac {3000000} {5} \\\\
-                        &= \dfrac {600000 \times \cancel{5} {\cancel{5}}} \\\\
+                        &= \dfrac {600000 \times \cancel{5}} {\cancel{5}} \\\\
 x                       &= 600000
 \end{aligned}
 $
@@ -1962,12 +1963,13 @@ $600000$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+$
 \begin{aligned}
-\text{Let the amount given be each friend}          &= x \\\\
+\text{Contribution}&= x \\\\
 5x                      &= 3000000 \\\\
 x                       &= \dfrac {3000000} {5} \\\\
-                        &= \dfrac {600000 \times \cancel{5} {\cancel{5}}} \\\\
+                        &= \dfrac {600000 \times \cancel{5}} {\cancel{5}} \\\\
 x                       &= 600000
 \end{aligned}
 $

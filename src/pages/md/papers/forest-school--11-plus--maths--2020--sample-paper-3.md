@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -866,7 +866,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>037A493D-C297-430E-AC77-1E4B3884FF9F</p>
 </div>
@@ -880,7 +880,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -899,7 +899,7 @@ What was Mayank’s number?
 <div class='workings'>
 <div class='working'>
 
-Let the number $= a$.
+Let Mayank's number $= a$.
 
 As per question,
 
@@ -930,7 +930,7 @@ $18$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $= a$.
+<pre class='language-latex'><code class='language-latex'>Let Mayank's number $= a$.
 
 As per question,
 
@@ -1735,7 +1735,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ADFEF3A0-ABF3-4ECF-A966-92F60CDB23AD</p>
 </div>
@@ -1749,7 +1749,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1773,16 +1773,23 @@ How many hours did Chris hire the hall for?
 <div class='workings'>
 <div class='working'>
 
+Let hours Chris hired the hall for $= a$
+
 As per the question,
 
 $
 \begin{aligned}
-\text {Chris hired the hall for}    &= \dfrac {120 - 30} {10} \\\\
-                                    &= \dfrac {90} {10} \\\\
-                                    &= \dfrac {9 \cancel {0}} {1 \cancel {0}} \\\\
-                                    &= 9 \ \text {hours}
+30 + 10a &= 120 \\\\
+10a &= 120 - 30 \\\\
+10a &= 90 \\\\
+a &= \dfrac {90} {10} \\\\
+a &= \dfrac {9 \times 10} {10} \\\\
+a &= \dfrac {9 \times \cancel {10}} {\cancel {10}} \\\\
+a &= 9
 \end{aligned}
 $
+
+Hours Chris hired the hall for $= 9$ 
 
 </div>
 </div>
@@ -1796,16 +1803,23 @@ $9 \ \text {hours}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let hours Chris hired the hall for $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\text {Chris hired the hall for}    &= \dfrac {120 - 30} {10} \\\\
-                                    &= \dfrac {90} {10} \\\\
-                                    &= \dfrac {9 \cancel {0}} {1 \cancel {0}} \\\\
-                                    &= 9 \ \text {hours}
+30 + 10a &= 120 \\\\
+10a &= 120 - 30 \\\\
+10a &= 90 \\\\
+a &= \dfrac {90} {10} \\\\
+a &= \dfrac {9 \times 10} {10} \\\\
+a &= \dfrac {9 \times \cancel {10}} {\cancel {10}} \\\\
+a &= 9
 \end{aligned}
 $
+
+Hours Chris hired the hall for $= 9$ 
 </code></pre>
 </div>
 </div>
@@ -2826,7 +2840,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FDC9EDD9-39D7-4C2B-A268-1781B263468C</p>
 </div>
@@ -2840,7 +2854,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2863,24 +2877,24 @@ How many wobbles are there?
 <div class='workings'>
 <div class='working'>
 
+Let the number of wobbles $= a$
+
 As per the question,
-
-Total arms of wibbles $= 11 \times 6$
-
-Total no. of arms $= 81$
 
 $
 \begin{aligned}
-\text {Number of wobbles}   &= \dfrac {81 - 11 \times 6} {5} \\\\
-                            &= \dfrac {81 - 66} {5} \\\\
-                            &= \dfrac {15} {5} \\\\
-                            &= \dfrac {3 \times 5} {5} \\\\
-                            &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
-                            &= 3
+5a + 11 \times 6 &= 81 \\\\\
+5a + 66 &= 81 \\\\
+5a &= 81 -66 \\\\
+5a &= 15 \\\\
+a &= \dfrac {15} {5} \\\\
+a &= \dfrac {3 \times 5} {5} \\\\
+a &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
+a &= 3 
 \end{aligned}
 $
 
-There are total $3$ wobbles.
+The number of wobbles $= 3$
 
 </div>
 </div>
@@ -2894,24 +2908,24 @@ $3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the number of wobbles $= a$
 
-Total arms of wibbles $= 11 \times 6$
-
-Total no. of arms $= 81$
+As per the question,
 
 $
 \begin{aligned}
-\text {Number of wobbles}   &= \dfrac {81 - 11 \times 6} {5} \\\\
-                            &= \dfrac {81 - 66} {5} \\\\
-                            &= \dfrac {15} {5} \\\\
-                            &= \dfrac {3 \times 5} {5} \\\\
-                            &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
-                            &= 3
+5a + 11 \times 6 &= 81 \\\\\
+5a + 66 &= 81 \\\\
+5a &= 81 -66 \\\\
+5a &= 15 \\\\
+a &= \dfrac {15} {5} \\\\
+a &= \dfrac {3 \times 5} {5} \\\\
+a &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
+a &= 3 
 \end{aligned}
 $
 
-There are total $3$ wobbles.
+The number of wobbles $= 3$
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B"
-date: 2022-07-11 17:59:40
+date: 2022-07-12 03:42:29
 ---
 <div class='paper'>
 <div class='meta'>
@@ -812,7 +812,7 @@ Esthopia won 10 medals each of Gold, Silver and Bronze.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6692F471-DA27-4415-ADF6-727EF20ED385</p>
 </div>
@@ -826,7 +826,7 @@ Esthopia won 10 medals each of Gold, Silver and Bronze.
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -895,11 +895,10 @@ T \times 2E         &= 20 \\\\
 T \times E          &= \dfrac{20} {2} \\\\
 T \times E          &= \dfrac{10 \times 2} {2} \\\\
 T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
-T \times E          &= 10
+T \times E          &= 10 \\\\
+T \times E          &= 5 \times 2 \\\\
 \end{aligned}
 $
-
-LCM of $10$ is $2$ and $5$
 
 So,
 
@@ -928,11 +927,10 @@ T \times 2E         &= 20 \\\\
 T \times E          &= \dfrac{20} {2} \\\\
 T \times E          &= \dfrac{10 \times 2} {2} \\\\
 T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
-T \times E          &= 10
+T \times E          &= 10 \\\\
+T \times E          &= 5 \times 2 \\\\
 \end{aligned}
 $
-
-LCM of $10$ is $2$ and $5$
 
 So,
 

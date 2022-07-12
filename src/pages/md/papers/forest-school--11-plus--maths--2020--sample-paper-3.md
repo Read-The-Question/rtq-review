@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1111,7 +1111,7 @@ Four million forty thousand four hundred forty
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FCB6CEA1-F7E6-4747-8C98-E15D79B8A2AE</p>
 </div>
@@ -1125,7 +1125,7 @@ Four million forty thousand four hundred forty
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2203,7 +2203,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>FD674F46-633C-4D78-BC2C-5BC52EDE5036</p>
 </div>
@@ -2217,7 +2217,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2294,6 +2294,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+t capital in \"total\" and \"time\"
+
+remove R.H.S. for step 1 
+
+step 3 : 3 x 60 = 180
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/halifax-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Halifax Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -277,7 +277,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>464C68A6-30E1-4FB7-9F2A-1F485F1C4F73</p>
 </div>
@@ -291,7 +291,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -357,6 +357,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+discuss with uday for wording
+</div>
 
 <div class='review'>
 <ul class='review'>

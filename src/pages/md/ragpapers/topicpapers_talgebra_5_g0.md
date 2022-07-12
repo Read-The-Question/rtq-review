@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-g0"
 title: "TopicPaper - Algebra - 5 - G0"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-12 03:47:51
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,30 +41,21 @@ There are $72$ girls in the pool. How many boys are there?
 
 Let the total students $= a$
 
+Number of boys $= \dfrac {2} {5} a$.
+
+Number of girls $= \dfrac {3} {5} a$.
+
 As per the question,
-
-Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
-
-Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
 
 $
 \begin {aligned}
-\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
-\dfrac {3} {5} \times a           &= 72 \\\\
-3a                                &= 72 \times 5 \\\\
+\dfrac {3} {5} a                  &= 72 \\\\
+a                                 &= \dfrac {72 \times 5} {3} \\\\
 a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
 a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
 a                                 &= 24 \times 5 \\\\
-a                                 &= 120
-\end {aligned}
-$
-
-Now, lets calculate the total number of boys.
-
-$
-\begin {aligned}
-\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
-                        &= \dfrac {2} {5} \times 120 \\\\
+a                                 &= 120 \\\\
+\text {Number of boys}  &= \dfrac {2} {5} \times 120 \\\\
                         &= \dfrac {2 \times 120} {5} \\\\
                         &= \dfrac {2 \times 24 \times 5} {5} \\\\
                         &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
@@ -88,30 +79,21 @@ $48$
 <pre class='language-latex'><code class='language-latex'>
 Let the total students $= a$
 
+Number of boys $= \dfrac {2} {5} a$.
+
+Number of girls $= \dfrac {3} {5} a$.
+
 As per the question,
-
-Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
-
-Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
 
 $
 \begin {aligned}
-\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
-\dfrac {3} {5} \times a           &= 72 \\\\
-3a                                &= 72 \times 5 \\\\
+\dfrac {3} {5} a                  &= 72 \\\\
+a                                 &= \dfrac {72 \times 5} {3} \\\\
 a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
 a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
 a                                 &= 24 \times 5 \\\\
-a                                 &= 120
-\end {aligned}
-$
-
-Now, lets calculate the total number of boys.
-
-$
-\begin {aligned}
-\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
-                        &= \dfrac {2} {5} \times 120 \\\\
+a                                 &= 120 \\\\
+\text {Number of boys}  &= \dfrac {2} {5} \times 120 \\\\
                         &= \dfrac {2 \times 120} {5} \\\\
                         &= \dfrac {2 \times 24 \times 5} {5} \\\\
                         &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
@@ -176,7 +158,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>738E804C-DF07-4608-919A-55C23079A59F</p>
 </div>
@@ -190,7 +172,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -218,12 +200,7 @@ a + 7 a &= 72 \\\\
 a       &= \dfrac {72} {8} \\\\
 a       &= \dfrac {8 \times 9} {8} \\\\
 a       &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
-a       &= 9
-\end{aligned}
-$
-
-$
-\begin{aligned}
+a       &= 9 \\\\
 \text{Number of white shirts sold} &= 7 \times a \\\\
                                    &= 7 \times 9 \\\\
                                    &= 63
@@ -253,12 +230,7 @@ a + 7 a &= 72 \\\\
 a       &= \dfrac {72} {8} \\\\
 a       &= \dfrac {8 \times 9} {8} \\\\
 a       &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
-a       &= 9
-\end{aligned}
-$
-
-$
-\begin{aligned}
+a       &= 9 \\\\
 \text{Number of white shirts sold} &= 7 \times a \\\\
                                    &= 7 \times 9 \\\\
                                    &= 63
@@ -321,7 +293,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>33D4A098-C6B8-48A5-B813-5220DA2DEA7C</p>
 </div>
@@ -335,7 +307,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -452,7 +424,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8CFB528C-79C4-4BDA-83CD-5EE537CC7589</p>
 </div>
@@ -466,7 +438,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -683,6 +655,8 @@ How much does a pack of balloons cost?
 <div class='workings'>
 <div class='working'>
 
+
+
 $
 \begin{aligned}
 \text {Cost of a pack of balloons} &= \text {Cost of a balloon pump and four packs of balloons} - \text {Cost of a balloon pump and three packs of balloons} \\\\
@@ -703,7 +677,9 @@ $\pounds 2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+
+$
 \begin{aligned}
 \text {Cost of a pack of balloons} &= \text {Cost of a balloon pump and four packs of balloons} - \text {Cost of a balloon pump and three packs of balloons} \\\\
                                    &= 11 - 9 \\\\
@@ -845,7 +821,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>51F26F12-4636-4241-A2E6-BF22B6A0DD2F</p>
 </div>
@@ -859,7 +835,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -905,6 +881,8 @@ a                        &= 3 \ \text {cm}
 \end{aligned}
 $
 
+The space between the planks $= 3 cm$
+
 </div>
 </div>
 <div class='answers'>
@@ -933,6 +911,8 @@ a                        &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
 a                        &= 3 \ \text {cm}
 \end{aligned}
 $
+
+The space between the planks $= 3 cm$
 </code></pre>
 </div>
 </div>
@@ -990,7 +970,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>96EEA4D7-9474-4AF1-B44A-ACEF806ADE3D</p>
 </div>
@@ -1004,7 +984,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1148,7 +1128,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B5420130-A56B-4BA2-8654-2576766211F0</p>
 </div>
@@ -1162,7 +1142,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1197,7 +1177,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total number of questions Rex answered}  &= \text {Correct answers} + \text {Incorrect answers} + \text {Questions he left} \\\\
+\text {Total number of questions Rex answered}  &= a + b + 1 \\\\
 25                                              &= a + b + 1 \\\\
 a + b                                           &= 25 - 1 \\\\
 a + b                                           &= 24 \\\\
@@ -1215,7 +1195,7 @@ a                                               &= 19
 \end {aligned}
 $
 
-Correct answers $= 19$.
+Number of correct answers $= 19$.
 
 </div>
 </div>
@@ -1237,7 +1217,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total number of questions Rex answered}  &= \text {Correct answers} + \text {Incorrect answers} + \text {Questions he left} \\\\
+\text {Total number of questions Rex answered}  &= a + b + 1 \\\\
 25                                              &= a + b + 1 \\\\
 a + b                                           &= 25 - 1 \\\\
 a + b                                           &= 24 \\\\
@@ -1255,7 +1235,7 @@ a                                               &= 19
 \end {aligned}
 $
 
-Correct answers $= 19$.
+Number of correct answers $= 19$.
 </code></pre>
 </div>
 </div>
@@ -1313,7 +1293,7 @@ Correct answers $= 19$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6DA9F5A4-F475-42E3-A25E-62049134FBC4</p>
 </div>
@@ -1327,7 +1307,7 @@ Correct answers $= 19$.
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1436,7 +1416,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5AD43B4B-E920-4612-9106-152878ACCB28</p>
 </div>
@@ -1450,7 +1430,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1469,15 +1449,14 @@ Bill is twice as old as his son, who is $50$ years younger than Bill’s father.
 
 Let Bill’s father age $= a$
 
-As per the question,
-
 Bill’s son age $= a - 50$
 
 Bill’s age $= 2 \times (a - 50)$
 
+As per the question,
+
 $
 \begin {aligned}
-\text {Bill’s father age} + \text {Bill’s son age} + \text {Bill’s age}  &= 142 \\\\
 a + (a - 50) + 2 \times (a - 50)                                         &= 142 \\\\
 a + a - 50 + 2a - 100                                                    &= 142 \\\\
 4a - 150                                                                 &= 142 \\\\
@@ -1509,15 +1488,14 @@ $46$
 
 <pre class='language-latex'><code class='language-latex'>Let Bill’s father age $= a$
 
-As per the question,
-
 Bill’s son age $= a - 50$
 
 Bill’s age $= 2 \times (a - 50)$
 
+As per the question,
+
 $
 \begin {aligned}
-\text {Bill’s father age} + \text {Bill’s son age} + \text {Bill’s age}  &= 142 \\\\
 a + (a - 50) + 2 \times (a - 50)                                         &= 142 \\\\
 a + a - 50 + 2a - 100                                                    &= 142 \\\\
 4a - 150                                                                 &= 142 \\\\
@@ -1591,7 +1569,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A56CC986-6FB6-44CD-B429-F2315A65E217</p>
 </div>
@@ -1605,7 +1583,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

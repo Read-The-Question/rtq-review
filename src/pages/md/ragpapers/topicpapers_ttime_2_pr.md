@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-pr"
 title: "TopicPaper - Time - 2 - PR"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -560,7 +560,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>FD674F46-633C-4D78-BC2C-5BC52EDE5036</p>
 </div>
@@ -574,7 +574,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -651,6 +651,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+t capital in \"total\" and \"time\"
+
+remove R.H.S. for step 1 
+
+step 3 : 3 x 60 = 180
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -692,7 +705,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>EA88A4AA-38CC-41BA-9BD3-15846D2D71B5</p>
 </div>
@@ -706,7 +719,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -775,6 +788,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove whole katex 
+
+replace with :
+
+= 2 weeks
+
+= 14 days
+
+= 14 x 24 hours
+
+......
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -816,7 +848,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D359AE32-BA99-4C37-AF11-B4D00BE23AF5</p>
 </div>
@@ -830,7 +862,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -890,6 +922,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+f capital in \"finish\" , t capital in \"time\"
+
+remove \"pm\" from step 1
+
+add a step 2 :
+
+ = 8:50 + 2 hours 15 minutes + 13 minutes
+
+step 3 
+
+= 8:50 + 2 hours 28 minutes
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -931,7 +982,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>464C68A6-30E1-4FB7-9F2A-1F485F1C4F73</p>
 </div>
@@ -945,7 +996,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1011,6 +1062,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+discuss with uday for wording
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1534,7 +1594,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>853DE9ED-C8E9-4497-A4CE-70A8E172C5B2</p>
 </div>
@@ -1548,7 +1608,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1616,6 +1676,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write : inside {}
+
+remove pm from step 1
+
+add a \' between hour and 32
+
+in section.answer :
+
+remove C from key 
+
+write C in option
+</div>
 
 <div class='review'>
 <ul class='review'>

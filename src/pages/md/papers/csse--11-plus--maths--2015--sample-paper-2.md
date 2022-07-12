@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2157,7 +2157,7 @@ $(7 \times 5) - 4  \ \square \  7 \times (5 - 4)$
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -2167,7 +2167,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -2177,7 +2177,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $(7 \times 5) - 4 \ \quad \boxed{\green
 {>}}  \quad  7 \times (5 - 4)$
@@ -2194,7 +2194,7 @@ $(7 \times 5) - 4 \ \quad  > \quad  7 \times (5 - 4)$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
+<pre class='language-latex'><code class='language-latex'>First value
 
 $
 \begin{aligned}
@@ -2204,7 +2204,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -2214,7 +2214,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $(7 \times 5) - 4 \ \quad \boxed{\rtq_katex_color_answer{>}}  \quad  7 \times (5 - 4)$
 </code></pre>
@@ -2245,7 +2245,7 @@ $4 + 7 \times 5 \ \square \ 4 + (7 \times 5)$
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+First value.
 
 $
 \begin{aligned}
@@ -2255,7 +2255,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value.
 
 $
 \begin{aligned}
@@ -2265,7 +2265,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 + 7 \times 5 \ \quad \boxed{\green
 {=}}  \quad  4 + (7 \times 5)$
@@ -2282,7 +2282,7 @@ $4 + 7 \times 5 \ \quad  =  \quad  4 + (7 \times 5)$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
+<pre class='language-latex'><code class='language-latex'>First value.
 
 $
 \begin{aligned}
@@ -2292,7 +2292,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value.
 
 $
 \begin{aligned}
@@ -2302,7 +2302,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 + 7 \times 5 \ \quad \boxed{\rtq_katex_color_answer{=}}  \quad  4 + (7 \times 5)$
 </code></pre>
@@ -2334,7 +2334,7 @@ $4 \times 5 + 7 \ \square \ (5 + 4) \times (7 - 4)$
 <div class='working'>
 
 
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -2344,7 +2344,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -2354,7 +2354,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 \times 5 + 7 \ \quad \boxed{\green
 {=}}  \quad  (5 + 4) \times (7 - 4)$
@@ -2372,7 +2372,7 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -2382,7 +2382,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -2392,7 +2392,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 \times 5 + 7 \ \quad \boxed{\rtq_katex_color_answer{=}}  \quad  (5 + 4) \times (7 - 4)$
 </code></pre>

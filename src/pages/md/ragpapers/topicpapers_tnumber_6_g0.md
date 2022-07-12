@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-g0"
 title: "TopicPaper - Number - 6 - G0"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>05D0F503-9182-4564-B5A9-02F07594166E</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-12 03:47:51
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -238,7 +238,7 @@ There should be some explanation for this question, i will get back to you on th
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D86B78CF-3CB7-4D94-91D5-0A682E2CE7C1</p>
 </div>
@@ -252,7 +252,7 @@ There should be some explanation for this question, i will get back to you on th
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -276,9 +276,6 @@ $
 <div class='workings'>
 <div class='working'>
 
-First few multiples of 8 are $= 8, \ 16, \ 24, \ 32, \ 40, \ 48, \ 56....$
-
-Therefore,
 
 $
 \begin{matrix}
@@ -288,6 +285,16 @@ $
 2                                   & 1 & \boxed{\green
 {8}}  & 30 \\\\
 \end{matrix}
+$
+
+Let's verify
+
+$
+\begin{aligned}
+8 \times 1 &= 8 \\\\
+8 \times 2 &= 16 \\\\
+8 \times 3 &= 24 \\\\
+\end{aligned}
 $
 
 </div>
@@ -302,15 +309,22 @@ $16, 24, 8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>First few multiples of 8 are $= 8, \ 16, \ 24, \ 32, \ 40, \ 48, \ 56....$
-
-Therefore,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{matrix}
 \boxed{\rtq_katex_color_answer{16}} & 4 & \boxed{\rtq_katex_color_answer{24}} & 6 \\\\
 2                                   & 1 & \boxed{\rtq_katex_color_answer{8}}  & 30 \\\\
 \end{matrix}
+$
+
+Let's verify
+
+$
+\begin{aligned}
+8 \times 1 &= 8 \\\\
+8 \times 2 &= 16 \\\\
+8 \times 3 &= 24 \\\\
+\end{aligned}
 $
 </code></pre>
 </div>
@@ -520,7 +534,7 @@ katex is broken!!!
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>88582ABF-B271-4BB1-9E51-A3EA11DB76AD</p>
 </div>
@@ -534,7 +548,7 @@ katex is broken!!!
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -553,7 +567,11 @@ $9 \qquad 55 \qquad 81 \qquad 13 \qquad 21$
 <div class='workings'>
 <div class='working'>
 
-Since,
+$\boxed{\green
+{9}} \qquad  55 \qquad   \boxed{\green
+{81}} \qquad   13 \qquad   21$
+
+Let's verify. 
 
 $
 \begin{aligned}
@@ -564,11 +582,8 @@ $
 \end{aligned}
 $
 
-Therefore,
 
-$\boxed{\green
-{9}} \qquad  55 \qquad   \boxed{\green
-{81}} \qquad   13 \qquad   21$
+
 
 </div>
 </div>
@@ -582,7 +597,9 @@ $9, 81$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Since,
+<pre class='language-latex'><code class='language-latex'>$\boxed{\rtq_katex_color_answer{9}} \qquad  55 \qquad   \boxed{\rtq_katex_color_answer{81}} \qquad   13 \qquad   21$
+
+Let's verify. 
 
 $
 \begin{aligned}
@@ -593,9 +610,8 @@ $
 \end{aligned}
 $
 
-Therefore,
 
-$\boxed{\rtq_katex_color_answer{9}} \qquad  55 \qquad   \boxed{\rtq_katex_color_answer{81}} \qquad   13 \qquad   21$
+
 </code></pre>
 </div>
 </div>
@@ -653,7 +669,7 @@ $\boxed{\rtq_katex_color_answer{9}} \qquad  55 \qquad   \boxed{\rtq_katex_color_
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>95C9AEE9-A464-411A-8B44-638B44241C5F</p>
 </div>
@@ -667,7 +683,7 @@ $\boxed{\rtq_katex_color_answer{9}} \qquad  55 \qquad   \boxed{\rtq_katex_color_
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

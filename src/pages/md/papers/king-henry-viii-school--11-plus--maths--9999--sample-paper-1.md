@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3431,7 +3431,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6DA9F5A4-F475-42E3-A25E-62049134FBC4</p>
 </div>
@@ -3445,7 +3445,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4546,7 +4546,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5AD43B4B-E920-4612-9106-152878ACCB28</p>
 </div>
@@ -4560,7 +4560,7 @@ $14$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4579,15 +4579,14 @@ Bill is twice as old as his son, who is $50$ years younger than Bill’s father.
 
 Let Bill’s father age $= a$
 
-As per the question,
-
 Bill’s son age $= a - 50$
 
 Bill’s age $= 2 \times (a - 50)$
 
+As per the question,
+
 $
 \begin {aligned}
-\text {Bill’s father age} + \text {Bill’s son age} + \text {Bill’s age}  &= 142 \\\\
 a + (a - 50) + 2 \times (a - 50)                                         &= 142 \\\\
 a + a - 50 + 2a - 100                                                    &= 142 \\\\
 4a - 150                                                                 &= 142 \\\\
@@ -4619,15 +4618,14 @@ $46$
 
 <pre class='language-latex'><code class='language-latex'>Let Bill’s father age $= a$
 
-As per the question,
-
 Bill’s son age $= a - 50$
 
 Bill’s age $= 2 \times (a - 50)$
 
+As per the question,
+
 $
 \begin {aligned}
-\text {Bill’s father age} + \text {Bill’s son age} + \text {Bill’s age}  &= 142 \\\\
 a + (a - 50) + 2 \times (a - 50)                                         &= 142 \\\\
 a + a - 50 + 2a - 100                                                    &= 142 \\\\
 4a - 150                                                                 &= 142 \\\\

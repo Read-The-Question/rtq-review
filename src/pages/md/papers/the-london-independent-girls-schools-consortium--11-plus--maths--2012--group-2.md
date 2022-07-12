@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1850,7 +1850,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E2763A24-0886-4746-AFC3-EA159E1998DE</p>
 </div>
@@ -1861,7 +1861,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1950,7 +1950,15 @@ Shade in $\dfrac{3}{5}$ of the shape below.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+Shade three columns of given $5 \times 4$ grid 
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 <div class='working'>
@@ -1974,7 +1982,9 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+Shade three columns of given $5 \times 4$ grid 
+rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2021,7 +2031,15 @@ Shade in $70 \%$ of the shape below.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+Shade 14 blocks of given $5 \times 4$ grid
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 <div class='working'>
@@ -2045,7 +2063,9 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+Shade 14 blocks of given $5 \times 4$ grid
+rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2091,7 +2111,17 @@ Give a reason for your answer.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{array}{llll}
+\dfrac{3}{5} & & 70\% \\\\
+\dfrac{3 \times 2}{5 \times 2} & & \dfrac{7\cancel0}{10\cancel0} \\\\
+\dfrac{6}{10} & & \dfrac{7}{10} \\\\
+\dfrac{6}{10} & < & \dfrac{7}{10} \\\\
+\dfrac{3}{5} & < & 70\% \\\\
+\end{array}
+$
+
+Therefore, $70\%$ is greater than $\dfrac{3}{5}$
 
 </div>
 <div class='working'>
@@ -2103,7 +2133,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$70\% > \dfrac{3}{5}$
 
 </div>
 <div class='answer'>
@@ -2115,7 +2145,17 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{llll}
+\dfrac{3}{5} & & 70\% \\\\
+\dfrac{3 \times 2}{5 \times 2} & & \dfrac{7\cancel0}{10\cancel0} \\\\
+\dfrac{6}{10} & & \dfrac{7}{10} \\\\
+\dfrac{6}{10} & < & \dfrac{7}{10} \\\\
+\dfrac{3}{5} & < & 70\% \\\\
+\end{array}
+$
+
+Therefore, $70\%$ is greater than $\dfrac{3}{5}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2132,7 +2172,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$70\% > \dfrac{3}{5}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2151,6 +2191,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E2763A24-0886-4746-AFC3-EA159E1998DE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E2763A24-0886-4746-AFC3-EA159E1998DE' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E2763A24-0886-4746-AFC3-EA159E1998DE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E2763A24-0886-4746-AFC3-EA159E1998DE' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E2763A24-0886-4746-AFC3-EA159E1998DE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E2763A24-0886-4746-AFC3-EA159E1998DE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E2763A24-0886-4746-AFC3-EA159E1998DE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E2763A24-0886-4746-AFC3-EA159E1998DE' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='E2763A24-0886-4746-AFC3-EA159E1998DE' id='FORM-E2763A24-0886-4746-AFC3-EA159E1998DE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E2763A24-0886-4746-AFC3-EA159E1998DE'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2386,7 +2463,7 @@ part (b) : remove \"in Cold city\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C8640325-25B0-4880-AE2B-96BAE3EBCA9D</p>
 </div>
@@ -2397,7 +2474,7 @@ part (b) : remove \"in Cold city\"
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2557,7 +2634,47 @@ Complete the input and output table for this machine.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+**Row 1**
+
+As per the question,
+
+$
+\begin{aligned}
+&= (7 - 3) \times 2 \\\\
+&= 4 \times 2 \\\\
+&= 8 \\\\
+\end{aligned}
+$
+
+**Row 2**
+
+Let the input $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a - 3) \times 2 &= 34 \\\\
+a - 3 &= \dfrac{34}{2} \\\\
+a - 3 &= 17 \\\\
+a &= 20 \\\\
+\end{aligned}
+$
+
+**Row 3**
+
+Let the input $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a - 3) \times 2 &= 0 \\\\
+a - 3 &= \dfrac{0}{2} \\\\
+a - 3 &= 0 \\\\
+a &= 3 \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -2581,7 +2698,47 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>**Row 1**
+
+As per the question,
+
+$
+\begin{aligned}
+&= (7 - 3) \times 2 \\\\
+&= 4 \times 2 \\\\
+&= 8 \\\\
+\end{aligned}
+$
+
+**Row 2**
+
+Let the input $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a - 3) \times 2 &= 34 \\\\
+a - 3 &= \dfrac{34}{2} \\\\
+a - 3 &= 17 \\\\
+a &= 20 \\\\
+\end{aligned}
+$
+
+**Row 3**
+
+Let the input $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a - 3) \times 2 &= 0 \\\\
+a - 3 &= \dfrac{0}{2} \\\\
+a - 3 &= 0 \\\\
+a &= 3 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2627,7 +2784,20 @@ What is the number?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the input and output $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a - 3) \times 2 &= a \\\\
+a - 3 &= \dfrac{a}{2} \\\\
+a - \dfrac{a}{2} &= 3 \\\\
+\dfrac{a}{2} &= 3 \\\\
+a &= 3 \times 2 \\\\
+a &= 6 \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -2651,7 +2821,20 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the input and output $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a - 3) \times 2 &= a \\\\
+a - 3 &= \dfrac{a}{2} \\\\
+a - \dfrac{a}{2} &= 3 \\\\
+\dfrac{a}{2} &= 3 \\\\
+a &= 3 \times 2 \\\\
+a &= 6 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2703,7 +2886,76 @@ What is the rule for this number machine?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the output $= x$
+
+Let the rule $= a \times x + b$
+
+From Row 1, where $x = 2$,
+
+$
+\begin{aligned}
+a \times 2 + b &= 6 \\\\
+2a + b &= 6 \\\\
+\end{aligned}
+$
+
+From Row 2, where $x = 4$,
+
+$
+\begin{aligned}
+a \times 4 + b &= 7 \\\\
+4a + b &= 7 \\\\
+\end{aligned}
+$
+
+Lets solve the equations for \' a \'
+
+$
+\begin{aligned}
+4a + b &= 7 \\\\
+4a + (6 - 2a) &= 7 \\\\
+4a - 2a &= 7 - 6 \\\\
+2a &= 1 \\\\
+a &= \dfrac{1}{2} \\\\
+\end{aligned}
+$
+
+Lets solve the equations for \' b \'
+
+$
+\begin{aligned}
+2a + b &= 6 \\\\
+2 \times \dfrac{1}{2} + b &= 6 \\\\
+1 + b &= 6 \\\\
+b &= 5 \\\\
+\end{aligned}
+$
+
+Therefore, the rule $= \dfrac{x}{2} + 5$
+
+Lets verify the same for Row 3
+
+$
+\begin{aligned}
+&= \dfrac{x}{2} + 5 \\\\
+&= \dfrac{8}{2} + 5 \\\\
+&= 4 + 5 \\\\
+&= 9 = 9 \\\\
+\end{aligned}
+$
+
+Lets verify the same for Row 4
+
+$
+\begin{aligned}
+&= \dfrac{x}{2} + 5 \\\\
+&= \dfrac{12}{2} + 5 \\\\
+&= 6 + 5 \\\\
+&= 11 = 11 \\\\
+\end{aligned}
+$
+
+The rule is **Divide the number by 2 and add 5**
 
 </div>
 <div class='working'>
@@ -2715,7 +2967,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Divide the number by 2 and add 5
 
 </div>
 <div class='answer'>
@@ -2727,7 +2979,76 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the output $= x$
+
+Let the rule $= a \times x + b$
+
+From Row 1, where $x = 2$,
+
+$
+\begin{aligned}
+a \times 2 + b &= 6 \\\\
+2a + b &= 6 \\\\
+\end{aligned}
+$
+
+From Row 2, where $x = 4$,
+
+$
+\begin{aligned}
+a \times 4 + b &= 7 \\\\
+4a + b &= 7 \\\\
+\end{aligned}
+$
+
+Lets solve the equations for \' a \'
+
+$
+\begin{aligned}
+4a + b &= 7 \\\\
+4a + (6 - 2a) &= 7 \\\\
+4a - 2a &= 7 - 6 \\\\
+2a &= 1 \\\\
+a &= \dfrac{1}{2} \\\\
+\end{aligned}
+$
+
+Lets solve the equations for \' b \'
+
+$
+\begin{aligned}
+2a + b &= 6 \\\\
+2 \times \dfrac{1}{2} + b &= 6 \\\\
+1 + b &= 6 \\\\
+b &= 5 \\\\
+\end{aligned}
+$
+
+Therefore, the rule $= \dfrac{x}{2} + 5$
+
+Lets verify the same for Row 3
+
+$
+\begin{aligned}
+&= \dfrac{x}{2} + 5 \\\\
+&= \dfrac{8}{2} + 5 \\\\
+&= 4 + 5 \\\\
+&= 9 = 9 \\\\
+\end{aligned}
+$
+
+Lets verify the same for Row 4
+
+$
+\begin{aligned}
+&= \dfrac{x}{2} + 5 \\\\
+&= \dfrac{12}{2} + 5 \\\\
+&= 6 + 5 \\\\
+&= 11 = 11 \\\\
+\end{aligned}
+$
+
+The rule is **Divide the number by 2 and add 5**
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2744,7 +3065,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Divide the number by 2 and add 5
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2763,6 +3084,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C8640325-25B0-4880-AE2B-96BAE3EBCA9D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C8640325-25B0-4880-AE2B-96BAE3EBCA9D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C8640325-25B0-4880-AE2B-96BAE3EBCA9D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C8640325-25B0-4880-AE2B-96BAE3EBCA9D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C8640325-25B0-4880-AE2B-96BAE3EBCA9D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C8640325-25B0-4880-AE2B-96BAE3EBCA9D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C8640325-25B0-4880-AE2B-96BAE3EBCA9D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C8640325-25B0-4880-AE2B-96BAE3EBCA9D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='C8640325-25B0-4880-AE2B-96BAE3EBCA9D' id='FORM-C8640325-25B0-4880-AE2B-96BAE3EBCA9D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C8640325-25B0-4880-AE2B-96BAE3EBCA9D'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3041,7 +3399,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9</p>
 </div>
@@ -3052,10 +3410,10 @@ $
 <p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_up_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3121,49 +3479,36 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-replace L.H.S. : \"Film lasted\"
-
-remove R.H.S. from step 1
-
-remove \"pm\" from 2nd step
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' id='FORM-5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' id='FORM-5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3992,7 +4337,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C64CD9B6-260A-4796-B72F-DA0402DCC350</p>
 </div>
@@ -4003,7 +4348,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4095,7 +4440,12 @@ What mass is shown on the scale below?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac{4}{10} \times 400g \\\\
+&= 160g \\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -4107,7 +4457,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$160g$
 
 </div>
 <div class='answer'>
@@ -4119,7 +4469,12 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac{4}{10} \times 400g \\\\
+&= 160g \\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4136,7 +4491,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$160g$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -4166,7 +4521,19 @@ On the scale below, draw an arrow to represent one tenth of $2 \ \text{kilograms
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+Point 200g on given scale
+
+*ABBR: TODO:: Add drawing ends.*
+
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -4190,7 +4557,13 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+rtq_abbr_md_add_drawing_starts
+Point 200g on given scale
+rtq_abbr_md_add_drawing_ends
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4226,6 +4599,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C64CD9B6-260A-4796-B72F-DA0402DCC350' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C64CD9B6-260A-4796-B72F-DA0402DCC350' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C64CD9B6-260A-4796-B72F-DA0402DCC350' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C64CD9B6-260A-4796-B72F-DA0402DCC350' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C64CD9B6-260A-4796-B72F-DA0402DCC350' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C64CD9B6-260A-4796-B72F-DA0402DCC350' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C64CD9B6-260A-4796-B72F-DA0402DCC350' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C64CD9B6-260A-4796-B72F-DA0402DCC350' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='C64CD9B6-260A-4796-B72F-DA0402DCC350' id='FORM-C64CD9B6-260A-4796-B72F-DA0402DCC350' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C64CD9B6-260A-4796-B72F-DA0402DCC350'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -7610,7 +8020,7 @@ Jumpers hung $=$ Shirts hung $= 13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>854DCA2A-3998-41A0-B4D8-1620410A4611</p>
 </div>
@@ -7618,13 +8028,13 @@ Jumpers hung $=$ Shirts hung $= 13$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7854,33 +8264,11 @@ $
 
 
 
-part (a) :
+part (b) : step 2: write \"hours\" after 7
 
-step 1 : write \"hours\" after 5
+write 2:00 and Wednesday on different section.answers
 
-
-
-part (b) : 
-
-step 1 and step 2 : write \"hours\" after 5, 2, 7
-
-
-
-part (c) :
-
-replace L.H.S : \"Arrival Time\"
-
-step 1 and 2 : write \"hours\" after 14 and 7
-
-
-
-add a last line inside katex:
-
-\text {Day of Arrival} &= \text {Wednesday}
-
-
-
-remove last line i.e.  \"It arr....\"
+for this refer : 19818B2F-9086-4F00-9201-4F75D3C5194C
 </div>
 
 <div class='review'>

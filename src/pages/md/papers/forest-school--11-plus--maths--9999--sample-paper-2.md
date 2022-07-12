@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -444,7 +444,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>EA88A4AA-38CC-41BA-9BD3-15846D2D71B5</p>
 </div>
@@ -458,7 +458,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -527,6 +527,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove whole katex 
+
+replace with :
+
+= 2 weeks
+
+= 14 days
+
+= 14 x 24 hours
+
+......
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2580,7 +2599,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>D359AE32-BA99-4C37-AF11-B4D00BE23AF5</p>
 </div>
@@ -2594,7 +2613,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2654,6 +2673,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+f capital in \"finish\" , t capital in \"time\"
+
+remove \"pm\" from step 1
+
+add a step 2 :
+
+ = 8:50 + 2 hours 15 minutes + 13 minutes
+
+step 3 
+
+= 8:50 + 2 hours 28 minutes
+</div>
 
 <div class='review'>
 <ul class='review'>

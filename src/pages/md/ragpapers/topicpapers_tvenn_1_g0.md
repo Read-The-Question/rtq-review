@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tvenn-1-g0"
 title: "TopicPaper - Venn - 1 - G0"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>

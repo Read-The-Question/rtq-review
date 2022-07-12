@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-2-g0-prcc"
 title: "TopicPaper - Simpleword - 2 - G0 - PRCC"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -987,6 +987,127 @@ $
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
+<p>B7CDC218-814A-4291-B812-C2C813D385FB</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:31</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
+<p>rag_mr_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One inch is about $2.5 \ \text{centimetres}$. How many inches are roughly equal to $1 \ \text{metre}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Value of 1 metre in inches}           &= \left( \dfrac {1 \ \text{metre}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \left( \dfrac {100 \ \text{centimetres}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \dfrac {100 \times 10} {25} \\\\
+                                            &= \dfrac {25 \times 4 \times 10} {25} \\\\
+                                            &= \dfrac {\cancel {25} \times 4 \times 10} {\cancel {25}} \\\\
+                                            &= 40 \ \text{inches}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text{inches}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Value of 1 metre in inches}           &= \left( \dfrac {1 \ \text{metre}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \left( \dfrac {100 \ \text{centimetres}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \dfrac {100 \times 10} {25} \\\\
+                                            &= \dfrac {25 \times 4 \times 10} {25} \\\\
+                                            &= \dfrac {\cancel {25} \times 4 \times 10} {\cancel {25}} \\\\
+                                            &= 40 \ \text{inches}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$40 \ \text{inches}$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='B7CDC218-814A-4291-B812-C2C813D385FB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='B7CDC218-814A-4291-B812-C2C813D385FB' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='B7CDC218-814A-4291-B812-C2C813D385FB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='B7CDC218-814A-4291-B812-C2C813D385FB' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='B7CDC218-814A-4291-B812-C2C813D385FB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='B7CDC218-814A-4291-B812-C2C813D385FB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='B7CDC218-814A-4291-B812-C2C813D385FB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='B7CDC218-814A-4291-B812-C2C813D385FB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='B7CDC218-814A-4291-B812-C2C813D385FB' id='FORM-B7CDC218-814A-4291-B812-C2C813D385FB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B7CDC218-814A-4291-B812-C2C813D385FB'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
 <p>C9858780-383A-4690-AC16-06948BA34755</p>
 </div>
 <div class='papername'>
@@ -1230,6 +1351,129 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-8B94F863-C793-41C7-B877-AEAA83C69F16'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>5CC44C75-9BC0-4F62-9532-420FEB3EF9C8</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
+<p>rag_mr_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A minibus carries $12$ pupils.
+
+How many buses would be needed to take $248$ pupils?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Buses needed}     &= \dfrac {248} {12} \\\\
+                        &= \dfrac {62 \times 4} {3 \times 4} \\\\
+                        &= \dfrac {62 \times \cancel 4} {3 \times \cancel 4} \\\\
+                        &= \dfrac {62} {3} \\\\
+                        &= 20 \dfrac {2} {3} \\\\
+                        &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Buses needed}     &= \dfrac {248} {12} \\\\
+                        &= \dfrac {62 \times 4} {3 \times 4} \\\\
+                        &= \dfrac {62 \times \cancel 4} {3 \times \cancel 4} \\\\
+                        &= \dfrac {62} {3} \\\\
+                        &= 20 \dfrac {2} {3} \\\\
+                        &= 21
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$21$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' id='FORM-5CC44C75-9BC0-4F62-9532-420FEB3EF9C8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5CC44C75-9BC0-4F62-9532-420FEB3EF9C8'>Initial</p>
 </div>
 </div>
 </li>
@@ -1722,6 +1966,128 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-1B18A3C6-92A4-4CA7-B86D-E416689C9FF1'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>B1035CFF-9D27-4291-9D78-74E41193350E</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
+<p>rag_mr_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A minibus carries $14$ pupils.
+How many buses would be needed to take $300$ pupils?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Buses needed}     &= \dfrac {300} {14} \\\\
+                        &= \dfrac {150 \times 2} {7 \times 2} \\\\
+                        &= \dfrac {150 \times \cancel 2} {7 \times \cancel 2} \\\\
+                        &= \dfrac {150} {7} \\\\
+                        &= 21 \dfrac {3} {7} \\\\
+                        &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Buses needed}     &= \dfrac {300} {14} \\\\
+                        &= \dfrac {150 \times 2} {7 \times 2} \\\\
+                        &= \dfrac {150 \times \cancel 2} {7 \times \cancel 2} \\\\
+                        &= \dfrac {150} {7} \\\\
+                        &= 21 \dfrac {3} {7} \\\\
+                        &= 22
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$22$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' id='FORM-B1035CFF-9D27-4291-9D78-74E41193350E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B1035CFF-9D27-4291-9D78-74E41193350E'>Initial</p>
 </div>
 </div>
 </li>

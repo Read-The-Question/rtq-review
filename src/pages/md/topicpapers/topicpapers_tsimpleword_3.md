@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-3"
 title: "TopicPaper - Simpleword - 3"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -474,7 +474,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F139E74C-7678-4CC8-B3F7-4D88629C12D1</p>
 </div>
@@ -488,7 +488,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -508,20 +508,16 @@ Calculate the approximate distance in miles from Calais to Paris.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-1 \ \text {kilometre}       &= \dfrac {5} {8} \text {miles} \\\\
-320 \ \text {kilometres}    &= 320 \times \dfrac {5} {8} \\\\
-                            &= \dfrac {5 \times 40 \times 8} {8} \\\\
-                            &= \dfrac {5 \times 40 \times \cancel {8}} {\cancel {8}} \\\\
-                            &= 5 \times 40 \\\\
-                            &= 200 \ \text {miles}
+\text{Distance from Calais to Paris in miles}    &= \left( \dfrac {5 \ \text{miles}} {8 \ \text{kilometres}} \right) \times 320 \ \text{kilometres} \\\\
+                                                 &= \dfrac {5 \times 320} {8} \ \text{miles} \\\\
+                                                 &= \dfrac {5 \times 40 \times 8} {8} \\\\
+                                                 &= \dfrac {5 \times 40 \times \cancel 8} {\cancel 8} \\\\
+                                                 &= 5 \times 40 \\\\
+                                                 &= 200 \ \text{miles}
 \end{aligned}
 $
-
-$320 \ \text {kilometres} = 200 \ \text {miles}$
 
 </div>
 </div>
@@ -535,20 +531,16 @@ $200 \ \text {miles}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text {kilometre}       &= \dfrac {5} {8} \text {miles} \\\\
-320 \ \text {kilometres}    &= 320 \times \dfrac {5} {8} \\\\
-                            &= \dfrac {5 \times 40 \times 8} {8} \\\\
-                            &= \dfrac {5 \times 40 \times \cancel {8}} {\cancel {8}} \\\\
-                            &= 5 \times 40 \\\\
-                            &= 200 \ \text {miles}
+\text{Distance from Calais to Paris in miles}    &= \left( \dfrac {5 \ \text{miles}} {8 \ \text{kilometres}} \right) \times 320 \ \text{kilometres} \\\\
+                                                 &= \dfrac {5 \times 320} {8} \ \text{miles} \\\\
+                                                 &= \dfrac {5 \times 40 \times 8} {8} \\\\
+                                                 &= \dfrac {5 \times 40 \times \cancel 8} {\cancel 8} \\\\
+                                                 &= 5 \times 40 \\\\
+                                                 &= 200 \ \text{miles}
 \end{aligned}
 $
-
-$320 \ \text {kilometres} = 200 \ \text {miles}$
 </code></pre>
 </div>
 </div>

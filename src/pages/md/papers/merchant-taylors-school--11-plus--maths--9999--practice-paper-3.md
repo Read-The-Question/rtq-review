@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1227,7 +1227,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C8A77F0B-4C4D-421C-877B-72F489BBA0E6</p>
 </div>
@@ -1241,7 +1241,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2491,7 +2491,7 @@ $\text{German}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9B2BAD76-821C-4206-AED5-F5F1A8A5545E</p>
 </div>
@@ -2505,7 +2505,7 @@ $\text{German}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2527,6 +2527,8 @@ Let the chocolate with Beth $= a$
 Chocolate with Ali $= 6 a$
 
 Chocolate with Carl $= 2 a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2563,6 +2565,8 @@ $600 \ \text{g}$
 Chocolate with Ali $= 6 a$
 
 Chocolate with Carl $= 2 a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -3113,7 +3117,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C279109D-A77E-4019-9C41-983257A9DDF8</p>
 </div>
@@ -3127,7 +3131,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3698,7 +3702,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F202EB77-1406-4EA6-951F-C009520818C9</p>
 </div>
@@ -3712,7 +3716,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3732,10 +3736,11 @@ His return train fare is $\pounds 3.80$. If he leaves home with a $\pounds 20$ n
 
 $
 \begin{aligned}
-\text {Change he will receive} &= \pounds 20 - (\pounds 5.75 + \pounds 1.50 + 76 \text {p} + \pounds 3.80) \\\\
-                               &= \pounds 20 - (\pounds 5.75 + \pounds 1.50 + \pounds 0.76 + \pounds 3.80) \\\\
-                               &= 20 - 11.81 \\\\
-                               &= \pounds 8.19
+\text {Change Jeff will receive} &= \pounds 20 - \pounds 5.75 - \pounds 1.50 - 76 \text {p} - \pounds 3.80 \\\\
+                                 &= \pounds 20 - \pounds 5.75 - \pounds 1.50 - \pounds \dfrac{76} {100} - \pounds 3.80 \\\\
+                                 &=  20 - 5.75 - 1.50 -  0.76 - 3.80 \\\\
+                                 &= 20 - 11.81 \\\\
+                                 &= \pounds 8.19
 \end{aligned}
 $
 
@@ -3753,10 +3758,11 @@ $\pounds 8.19$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Change he will receive} &= \pounds 20 - (\pounds 5.75 + \pounds 1.50 + 76 \text {p} + \pounds 3.80) \\\\
-                               &= \pounds 20 - (\pounds 5.75 + \pounds 1.50 + \pounds 0.76 + \pounds 3.80) \\\\
-                               &= 20 - 11.81 \\\\
-                               &= \pounds 8.19
+\text {Change Jeff will receive} &= \pounds 20 - \pounds 5.75 - \pounds 1.50 - 76 \text {p} - \pounds 3.80 \\\\
+                                 &= \pounds 20 - \pounds 5.75 - \pounds 1.50 - \pounds \dfrac{76} {100} - \pounds 3.80 \\\\
+                                 &=  20 - 5.75 - 1.50 -  0.76 - 3.80 \\\\
+                                 &= 20 - 11.81 \\\\
+                                 &= \pounds 8.19
 \end{aligned}
 $
 </code></pre>
@@ -3816,7 +3822,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E7870838-DE3A-47DD-86EE-1A74709B54F2</p>
 </div>
@@ -3830,7 +3836,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3959,6 +3965,7 @@ $
 x                     &= \dfrac {3 \times 6} {2} \\\\
 x                     &= \dfrac {3 \times 2 \times 3} {2} \\\\
 x                     &= \dfrac {3 \times \cancel {2} \times 3} {\cancel {2}} \\\\
+x                     &= 3 \times 3 \\\\
 x                     &= 9
 \end{aligned}
 $
@@ -3983,6 +3990,7 @@ $9$
 x                     &= \dfrac {3 \times 6} {2} \\\\
 x                     &= \dfrac {3 \times 2 \times 3} {2} \\\\
 x                     &= \dfrac {3 \times \cancel {2} \times 3} {\cancel {2}} \\\\
+x                     &= 3 \times 3 \\\\
 x                     &= 9
 \end{aligned}
 $
@@ -4209,7 +4217,7 @@ $5, \quad 11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B262AEAA-906F-455F-9F60-3F9875266B0B</p>
 </div>
@@ -4223,7 +4231,7 @@ $5, \quad 11$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5688,10 +5696,10 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -5814,10 +5822,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -6817,10 +6825,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

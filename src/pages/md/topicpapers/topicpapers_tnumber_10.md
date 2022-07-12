@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-10"
 title: "TopicPaper - Number - 10"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -984,7 +984,7 @@ d: Factor 100 to 5 * 20 instead of 5 * 2 * 10 and then multiply 2 * 10 again lat
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>16721642-68D6-4CE6-8540-43C600013099</p>
 </div>
@@ -998,7 +998,7 @@ d: Factor 100 to 5 * 20 instead of 5 * 2 * 10 and then multiply 2 * 10 again lat
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1062,8 +1062,8 @@ After rounding to the nearest whole numbers
 
 $
 \begin{aligned}
-&= 9 \times 35 \\\\
-&= 315 \\\\
+&= 9 \times 34 \\\\
+&= 306 \\\\
 \end{aligned}
 $
 
@@ -1085,8 +1085,8 @@ After rounding to the nearest whole numbers
 
 $
 \begin{aligned}
-&= 9 \times 35 \\\\
-&= 315 \\\\
+&= 9 \times 34 \\\\
+&= 306 \\\\
 \end{aligned}
 $
 </code></pre>
@@ -1372,7 +1372,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>836169C8-E272-4A22-ACB9-5D73CCEFC167</p>
 </div>
@@ -1383,7 +1383,7 @@ $17$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1406,7 +1406,16 @@ tlcm
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {3} {5} \ \text{of} \ 20 \\\\
+&= \dfrac {3} {5} \times 20 \\\\
+&= \dfrac {3 \times 5 \times 4} {5} \\\\
+&= \dfrac {3 \times\cancel{5}\times 4} {\cancel{5}} \\\\
+&= 3\times 4\\\\
+&= 12
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -1430,7 +1439,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {3} {5} \ \text{of} \ 20 \\\\
+&= \dfrac {3} {5} \times 20 \\\\
+&= \dfrac {3 \times 5 \times 4} {5} \\\\
+&= \dfrac {3 \times\cancel{5}\times 4} {\cancel{5}} \\\\
+&= 3\times 4\\\\
+&= 12
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -1472,7 +1490,17 @@ Find the highest common factor (HCF) of $66$ and $30$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{The prime factors for 66, 30 are:}\\\\
+66&=2\times3\times11\\\\
+30&=2\times 3\times5\\\\
+\text{The factors that given numbers have in common are:}\\\\
+&=2\times3\\\\
+&=6
+\end{aligned}
+$
+
 
 </div>
 <div class='working'>
@@ -1484,7 +1512,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+6
 
 </div>
 <div class='answer'>
@@ -1496,7 +1524,17 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{The prime factors for 66, 30 are:}\\\\
+66&=2\times3\times11\\\\
+30&=2\times 3\times5\\\\
+\text{The factors that given numbers have in common are:}\\\\
+&=2\times3\\\\
+&=6
+\end{aligned}
+$
+
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -1513,7 +1551,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>6
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -1540,7 +1578,17 @@ Find the lowest common multiple (LCM) of $12$ and $8$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{The prime factors for 12, 8 are:}\\\\
+12&=2\times2\times3\\\\
+8&=2\times 2\times2\\\\
+\text{Multiply each factor the greater number of times}\\
+\text{it occurs in steps i) or ii) above to find the LCM:}\\\\
+&=2\times2\times2\times 3\\\\
+&=24
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -1552,7 +1600,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+24
 
 </div>
 <div class='answer'>
@@ -1564,7 +1612,17 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{The prime factors for 12, 8 are:}\\\\
+12&=2\times2\times3\\\\
+8&=2\times 2\times2\\\\
+\text{Multiply each factor the greater number of times}\\
+\text{it occurs in steps i) or ii) above to find the LCM:}\\\\
+&=2\times2\times2\times 3\\\\
+&=24
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -1581,7 +1639,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>24
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -1600,10 +1658,47 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' id='FORM-836169C8-E272-4A22-ACB9-5D73CCEFC167' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-836169C8-E272-4A22-ACB9-5D73CCEFC167'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9</p>
 </div>
@@ -1614,7 +1709,7 @@ TODOANSWER
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1899,6 +1994,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' id='FORM-0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2248,7 +2380,7 @@ $32027$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8A284E0B-57E3-41DE-ABA6-67932AE4157D</p>
 </div>
@@ -2259,7 +2391,7 @@ $32027$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2281,7 +2413,15 @@ $0.25\:\:\:  2\diagup9\:\:\:  0.039\:\:\:  4\diagup5\:\:\:  3\diagup8$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Lets convert all fractions into decimals:
+
+$
+\begin{aligned}
+&= 0.25, \dfrac{2}{9}, 0.039, \dfrac{4}{5}, \dfrac{3}{8}\\\\
+&=0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
+&=\dfrac{4}{5}, \dfrac{3}{8}
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -2293,7 +2433,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{4}{5}, \dfrac{3}{8}$
 
 </div>
 <div class='answer'>
@@ -2305,7 +2445,15 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Lets convert all fractions into decimals:
+
+$
+\begin{aligned}
+&= 0.25, \dfrac{2}{9}, 0.039, \dfrac{4}{5}, \dfrac{3}{8}\\\\
+&=0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
+&=\dfrac{4}{5}, \dfrac{3}{8}
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2322,7 +2470,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{4}{5}, \dfrac{3}{8}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2338,6 +2486,43 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8A284E0B-57E3-41DE-ABA6-67932AE4157D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8A284E0B-57E3-41DE-ABA6-67932AE4157D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8A284E0B-57E3-41DE-ABA6-67932AE4157D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8A284E0B-57E3-41DE-ABA6-67932AE4157D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8A284E0B-57E3-41DE-ABA6-67932AE4157D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8A284E0B-57E3-41DE-ABA6-67932AE4157D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8A284E0B-57E3-41DE-ABA6-67932AE4157D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8A284E0B-57E3-41DE-ABA6-67932AE4157D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8A284E0B-57E3-41DE-ABA6-67932AE4157D' id='FORM-8A284E0B-57E3-41DE-ABA6-67932AE4157D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8A284E0B-57E3-41DE-ABA6-67932AE4157D'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4881,7 +5066,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FF8263CB-765D-4212-B45C-E95A8847AA0A</p>
 </div>
@@ -4892,7 +5077,7 @@ $
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4978,7 +5163,19 @@ What is the largest whole number that is a factor of (i.e. will divide into) $35
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Find the prime factorization of 357
+
+= $3\times7\times17$
+
+Find the prime factorization of 255
+
+= $3\times5\times17$
+
+To find the GCF, multiply all the prime factors common to both numbers:
+
+= $3\times 17$
+
+= $51$
 
 </div>
 <div class='working'>
@@ -4990,7 +5187,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$51$
 
 </div>
 <div class='answer'>
@@ -5002,7 +5199,19 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Find the prime factorization of 357
+
+= $3\times7\times17$
+
+Find the prime factorization of 255
+
+= $3\times5\times17$
+
+To find the GCF, multiply all the prime factors common to both numbers:
+
+= $3\times 17$
+
+= $51$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -5019,7 +5228,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$51$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -5046,7 +5255,19 @@ What is the smallest whole number that $357$ and $255$ will divide into?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Find the prime factorization of 357
+
+= $3\times7\times17$
+
+Find the prime factorization of 255
+
+= $3\times5\times17$
+
+Multiply each factor the greater number of times it occurs in steps i) or ii) above to find the LCM:
+
+= $3\times5\times7\times 17$
+
+= $1785$
 
 </div>
 <div class='working'>
@@ -5058,7 +5279,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$1785$
 
 </div>
 <div class='answer'>
@@ -5070,7 +5291,19 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Find the prime factorization of 357
+
+= $3\times7\times17$
+
+Find the prime factorization of 255
+
+= $3\times5\times17$
+
+Multiply each factor the greater number of times it occurs in steps i) or ii) above to find the LCM:
+
+= $3\times5\times7\times 17$
+
+= $1785$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -5087,7 +5320,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1785$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -5106,6 +5339,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' id='FORM-FF8263CB-765D-4212-B45C-E95A8847AA0A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FF8263CB-765D-4212-B45C-E95A8847AA0A'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6602,7 +6872,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>154CF3A5-8DE7-4C0B-BB62-B260198A6014</p>
 </div>
@@ -6616,7 +6886,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6901,6 +7171,11 @@ The total length of seven cars is $22.19 \ \text{metres}$. What is the average l
 $
 \begin{aligned}
 \text{Average length of cars} &= \dfrac {22.19} {7} \\\\
+&= \dfrac {22.19\times100} {7\times 100} \\\\
+&= \dfrac {2219} {7\times 100} \\\\
+&= \dfrac {7\times 317} {7\times 100} \\\\
+&= \dfrac {\cancel{7}\times 317} {\cancel{7}\times 100} \\\\
+&= \dfrac {317} {100} \\\\
                               &= 3.17 \ \text{metres}
 \end{aligned}
 $
@@ -6920,6 +7195,11 @@ $3.17 \ \text{metres}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Average length of cars} &= \dfrac {22.19} {7} \\\\
+&= \dfrac {22.19\times100} {7\times 100} \\\\
+&= \dfrac {2219} {7\times 100} \\\\
+&= \dfrac {7\times 317} {7\times 100} \\\\
+&= \dfrac {\cancel{7}\times 317} {\cancel{7}\times 100} \\\\
+&= \dfrac {317} {100} \\\\
                               &= 3.17 \ \text{metres}
 \end{aligned}
 $
@@ -6957,9 +7237,10 @@ ABBR: Using BIDMAS
 $
 \begin{aligned}
 &= 11 + 39 \div 13 - 5 \times 3 \\\\
+&= 11 + 3 - 5\times 3 \\\\
 &= 11 + 3 - 15 \\\\
-&= 14 - 15 \\\\
-&= - 1
+&= 14 -15\\\\
+&=-1
 \end{aligned}
 $
 
@@ -6980,9 +7261,10 @@ $-1$
 $
 \begin{aligned}
 &= 11 + 39 \div 13 - 5 \times 3 \\\\
+&= 11 + 3 - 5\times 3 \\\\
 &= 11 + 3 - 15 \\\\
-&= 14 - 15 \\\\
-&= - 1
+&= 14 -15\\\\
+&=-1
 \end{aligned}
 $
 </code></pre>
@@ -8567,6 +8849,7 @@ ABBR: Using BIDMAS
 $
 \begin{aligned}
 &= -1 \times 4 + 3 \times 5 \\\\
+&= -4 + 3 \times 5 \\\\
 &= -4 + 15 \\\\
 &= 11
 \end{aligned}
@@ -8589,6 +8872,7 @@ $11$
 $
 \begin{aligned}
 &= -1 \times 4 + 3 \times 5 \\\\
+&= -4 + 3 \times 5 \\\\
 &= -4 + 15 \\\\
 &= 11
 \end{aligned}
@@ -8628,6 +8912,7 @@ $
 \begin{aligned}
 &= 7 - 7 \div 7 + 7 \\\\
 &= 7 - 1 + 7 \\\\
+&= 14 - 1\\\\
 &= 13
 \end{aligned}
 $
@@ -8650,6 +8935,7 @@ $
 \begin{aligned}
 &= 7 - 7 \div 7 + 7 \\\\
 &= 7 - 1 + 7 \\\\
+&= 14 - 1\\\\
 &= 13
 \end{aligned}
 $
@@ -9674,7 +9960,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>E172D520-4089-4F05-926E-DB8874B70DB6</p>
 </div>
@@ -9688,7 +9974,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9713,6 +9999,8 @@ $
 &= \dfrac{20.1}{6}  \\\\
 &= \dfrac{20.1 \times 100}{6 \times 100}    \\\\
 &= \dfrac{2010}{6 \times 100}   \\\\
+&= \dfrac{6\times 335}{6 \times 100}   \\\\
+&= \dfrac{\cancel{6}\times 335}{\cancel{6} \times 100}   \\\\
 &= \dfrac{335}{100} \\\\
 &= 3.35
 \end{aligned}
@@ -9736,6 +10024,8 @@ $3.35$
 &= \dfrac{20.1}{6}  \\\\
 &= \dfrac{20.1 \times 100}{6 \times 100}    \\\\
 &= \dfrac{2010}{6 \times 100}   \\\\
+&= \dfrac{6\times 335}{6 \times 100}   \\\\
+&= \dfrac{\cancel{6}\times 335}{\cancel{6} \times 100}   \\\\
 &= \dfrac{335}{100} \\\\
 &= 3.35
 \end{aligned}

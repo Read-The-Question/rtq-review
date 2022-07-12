@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -6094,7 +6094,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9A3BC642-22C8-463E-97DC-2F6D596F96A9</p>
 </div>
@@ -6105,7 +6105,7 @@ TODOANSWER
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6201,7 +6201,14 @@ Explain why you cannot make an even number
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Let's divide the given number by 2}&=\dfrac{1735}{2}\\\\
+&=817.5\\\\
+\because\text{Recieved result is not whole number}\\\
+\therefore\text{You cannot make an even number by uisng given each of cards}\\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -6225,7 +6232,14 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Let's divide the given number by 2}&=\dfrac{1735}{2}\\\\
+&=817.5\\\\
+\because\text{Recieved result is not whole number}\\\
+\therefore\text{You cannot make an even number by uisng given each of cards}\\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -6338,6 +6352,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' id='FORM-9A3BC642-22C8-463E-97DC-2F6D596F96A9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9A3BC642-22C8-463E-97DC-2F6D596F96A9'>Initial</p>
+</div>
 </div>
 </li>
 <li>

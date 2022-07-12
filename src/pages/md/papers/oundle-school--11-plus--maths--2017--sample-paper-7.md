@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-12 03:42:29
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>154CF3A5-8DE7-4C0B-BB62-B260198A6014</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-12 03:42:29
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -312,6 +312,11 @@ The total length of seven cars is $22.19 \ \text{metres}$. What is the average l
 $
 \begin{aligned}
 \text{Average length of cars} &= \dfrac {22.19} {7} \\\\
+&= \dfrac {22.19\times100} {7\times 100} \\\\
+&= \dfrac {2219} {7\times 100} \\\\
+&= \dfrac {7\times 317} {7\times 100} \\\\
+&= \dfrac {\cancel{7}\times 317} {\cancel{7}\times 100} \\\\
+&= \dfrac {317} {100} \\\\
                               &= 3.17 \ \text{metres}
 \end{aligned}
 $
@@ -331,6 +336,11 @@ $3.17 \ \text{metres}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Average length of cars} &= \dfrac {22.19} {7} \\\\
+&= \dfrac {22.19\times100} {7\times 100} \\\\
+&= \dfrac {2219} {7\times 100} \\\\
+&= \dfrac {7\times 317} {7\times 100} \\\\
+&= \dfrac {\cancel{7}\times 317} {\cancel{7}\times 100} \\\\
+&= \dfrac {317} {100} \\\\
                               &= 3.17 \ \text{metres}
 \end{aligned}
 $
@@ -368,9 +378,10 @@ ABBR: Using BIDMAS
 $
 \begin{aligned}
 &= 11 + 39 \div 13 - 5 \times 3 \\\\
+&= 11 + 3 - 5\times 3 \\\\
 &= 11 + 3 - 15 \\\\
-&= 14 - 15 \\\\
-&= - 1
+&= 14 -15\\\\
+&=-1
 \end{aligned}
 $
 
@@ -391,9 +402,10 @@ $-1$
 $
 \begin{aligned}
 &= 11 + 39 \div 13 - 5 \times 3 \\\\
+&= 11 + 3 - 5\times 3 \\\\
 &= 11 + 3 - 15 \\\\
-&= 14 - 15 \\\\
-&= - 1
+&= 14 -15\\\\
+&=-1
 \end{aligned}
 $
 </code></pre>

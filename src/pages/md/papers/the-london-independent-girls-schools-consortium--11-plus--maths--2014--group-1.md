@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1985,7 +1985,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>283D33E8-E4AF-4295-A01E-F5EF9BA7A56E</p>
 </div>
@@ -1996,7 +1996,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2065,21 +2065,93 @@ Complete the table of input and output numbers for Sally’s machine.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+**Row 1**
+
+$
+\begin{aligned}
+&= 6 \times 4 - 3 \\\\
+&= 24 - 3 \\\\
+&= 21 \\\\
+\end{aligned}
+$
+
+**Row 2**
+
+Let input $= a$
+
+$
+\begin{aligned}
+a \times 4 - 3 &= 33 \\\\
+a \times 4 &= 33 + 3 \\\\
+a \times 4 &= 36 \\\\
+a &= \dfrac{36}{4} \\\\
+a &= 9 \\\\
+\end{aligned}
+$
+
+**Row 3**
+
+Let input $= a$
+
+$
+\begin{aligned}
+a \times 4 - 3 &= -1 \\\\
+a \times 4 &= -1 + 3 \\\\
+a \times 4 &= 2 \\\\
+a &= \dfrac{2}{4} \\\\
+a &= \dfrac{1}{2} \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$21, 9, \dfrac{1}{2}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>**Row 1**
+
+$
+\begin{aligned}
+&= 6 \times 4 - 3 \\\\
+&= 24 - 3 \\\\
+&= 21 \\\\
+\end{aligned}
+$
+
+**Row 2**
+
+Let input $= a$
+
+$
+\begin{aligned}
+a \times 4 - 3 &= 33 \\\\
+a \times 4 &= 33 + 3 \\\\
+a \times 4 &= 36 \\\\
+a &= \dfrac{36}{4} \\\\
+a &= 9 \\\\
+\end{aligned}
+$
+
+**Row 3**
+
+Let input $= a$
+
+$
+\begin{aligned}
+a \times 4 - 3 &= -1 \\\\
+a \times 4 &= -1 + 3 \\\\
+a \times 4 &= 2 \\\\
+a &= \dfrac{2}{4} \\\\
+a &= \dfrac{1}{2} \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2091,7 +2163,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$21, 9, \dfrac{1}{2}$
 </code></pre>
 </div>
 </div>
@@ -2118,21 +2190,133 @@ Write suitable labels on the diagram below.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the input $= x$
+
+Let the rule $= a \times x + b$
+
+From Row 1, where $x = -1$
+
+$
+\begin{aligned}
+a \times -1 + b &= 0 \\\\
+b - a &= 0 \\\\
+\end{aligned}
+$
+
+From Row 2, where $x = 0$,
+
+$
+\begin{aligned}
+a \times 0 + b &= 2 \\\\
+b &= 2 \\\\
+\end{aligned}
+$
+
+Lets solve the equations for \' a \'
+
+$
+\begin{aligned}
+b - a &= 0 \\\\
+a &= b \\\\
+a &= 2 \\\\
+\end{aligned}
+$
+
+Therefore, the rule $= 2 \times x + 2$
+
+Lets verify the same for Row 3
+
+$
+\begin{aligned}
+&= 2 \times x + 2 \\\\
+&= 2 \times 1 + 2 \\\\
+&= 2 + 2 \\\\
+&= 4 = 4 \\\\
+\end{aligned}
+$
+
+Lets verify the same for Row 4
+
+$
+\begin{aligned}
+&= 2 \times x + 2 \\\\
+&= 2 \times 2 + 2 \\\\
+&= 4 + 2 \\\\
+&= 6 = 6 \\\\
+\end{aligned}
+$
+
+a, b $= 2, 2$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\times 2 \ \text{then}\ + 2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the input $= x$
+
+Let the rule $= a \times x + b$
+
+From Row 1, where $x = -1$
+
+$
+\begin{aligned}
+a \times -1 + b &= 0 \\\\
+b - a &= 0 \\\\
+\end{aligned}
+$
+
+From Row 2, where $x = 0$,
+
+$
+\begin{aligned}
+a \times 0 + b &= 2 \\\\
+b &= 2 \\\\
+\end{aligned}
+$
+
+Lets solve the equations for \' a \'
+
+$
+\begin{aligned}
+b - a &= 0 \\\\
+a &= b \\\\
+a &= 2 \\\\
+\end{aligned}
+$
+
+Therefore, the rule $= 2 \times x + 2$
+
+Lets verify the same for Row 3
+
+$
+\begin{aligned}
+&= 2 \times x + 2 \\\\
+&= 2 \times 1 + 2 \\\\
+&= 2 + 2 \\\\
+&= 4 = 4 \\\\
+\end{aligned}
+$
+
+Lets verify the same for Row 4
+
+$
+\begin{aligned}
+&= 2 \times x + 2 \\\\
+&= 2 \times 2 + 2 \\\\
+&= 4 + 2 \\\\
+&= 6 = 6 \\\\
+\end{aligned}
+$
+
+a, b $= 2, 2$
 </code></pre>
 </div>
 </div>
@@ -2144,7 +2328,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\times 2 \ \text{then}\ + 2$
 </code></pre>
 </div>
 </div>
@@ -2153,6 +2337,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' id='FORM-283D33E8-E4AF-4295-A01E-F5EF9BA7A56E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-283D33E8-E4AF-4295-A01E-F5EF9BA7A56E'>Initial</p>
+</div>
 </div>
 </li>
 <li>

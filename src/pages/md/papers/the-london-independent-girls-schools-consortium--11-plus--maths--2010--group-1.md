@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2421,7 +2421,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6B7D18F9-34AA-4D46-9CC1-DADAE07E2BCE</p>
 </div>
@@ -2435,7 +2435,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2582,6 +2582,43 @@ $2007$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (b) : 
+
+remove 2007
+
+start a katex:
+
+Year she got a new piano = 1st September 1998 + (15 years - 6 years 4 months)
+
+and solve further...
+
+​
+
+
+
+
+
+part (b) : 
+
+remove 2007
+
+start a katex:
+
+Year she got a new piano = 1st September 1998 + (15 years - 6 years 4 months)
+
+and solve further...
+
+​
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2623,7 +2660,7 @@ $2007$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>21940B64-6F2A-4A2C-BA44-8B9664CEAEAB</p>
 </div>
@@ -2637,7 +2674,7 @@ $2007$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2691,6 +2728,27 @@ $ 18 / /text{minutes} $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+show working
+
+remove the line
+
+start katex
+
+Real Time    = 07:10 - 12 minutes
+
+             = 06:53
+
+Minutes slow = 06:53 - 06:35
+
+             = 18 minutes 
+</div>
 
 <div class='review'>
 <ul class='review'>

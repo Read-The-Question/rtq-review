@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-5"
 title: "TopicPaper - Time - 5"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-12 03:47:51
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6B7D18F9-34AA-4D46-9CC1-DADAE07E2BCE</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-12 03:47:51
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -176,6 +176,43 @@ $2007$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (b) : 
+
+remove 2007
+
+start a katex:
+
+Year she got a new piano = 1st September 1998 + (15 years - 6 years 4 months)
+
+and solve further...
+
+​
+
+
+
+
+
+part (b) : 
+
+remove 2007
+
+start a katex:
+
+Year she got a new piano = 1st September 1998 + (15 years - 6 years 4 months)
+
+and solve further...
+
+​
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -217,7 +254,7 @@ $2007$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>21940B64-6F2A-4A2C-BA44-8B9664CEAEAB</p>
 </div>
@@ -231,7 +268,7 @@ $2007$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -285,6 +322,27 @@ $ 18 / /text{minutes} $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+show working
+
+remove the line
+
+start katex
+
+Real Time    = 07:10 - 12 minutes
+
+             = 06:53
+
+Minutes slow = 06:53 - 06:35
+
+             = 18 minutes 
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -326,7 +384,7 @@ $ 18 / /text{minutes} $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
 </div>
@@ -340,7 +398,7 @@ $ 18 / /text{minutes} $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -432,6 +490,17 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write  both katex in one katex
+
+remove s from \"charges\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -473,7 +542,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0A614191-1791-4F03-962B-E2CF656E9B67</p>
 </div>
@@ -487,7 +556,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -674,6 +743,27 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove step 3, 4, 5
+
+ and change answer in section.answer
+
+
+
+part (b) : 
+
+step 2: replace with : 2 hours 32 minutes
+
+dont use 2 katex, combine both katex
+
+step 3 : replace R.H.S. : 12:14 - 2 hours 32 minutes
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -715,7 +805,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6563C9DA-D275-4231-9D71-242D5FD8FE30</p>
 </div>
@@ -729,7 +819,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -880,6 +970,61 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove the line 
+
+replace with :
+
+Let total travelling time $= a$
+
+Time spent travelling in a car $= a/2$
+
+As per the question,
+
+
+
+now start a katex:
+
+Time spent in a train = 2 hours
+
+1/2 of (a - a/2)      = 2 
+
+1/2 x a/2           = 2
+
+and solve further 
+
+
+
+now start a new katex:
+
+Total travelling time = (value of a)
+
+Time spent in a car   = a/2 
+
+                      = ....
+
+
+
+part (b) : 
+
+remove whole katex:
+
+replace with :
+
+As per the above answer,
+
+Total travelling time = ...
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -921,7 +1066,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
@@ -929,13 +1074,13 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1102,9 +1247,9 @@ $
 
 
 
-part (a) : show the working
+both part :
 
-part (b) : show working
+replace \"hrs\" with \"hour\" and \"min\" with \"minutes\"
 </div>
 
 <div class='review'>
@@ -1256,7 +1401,7 @@ $9{:}40, \ 21{:}40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>6C0D2582-A45B-4E63-9DBD-EBD8E755B0AC</p>
 </div>
@@ -1264,13 +1409,13 @@ $9{:}40, \ 21{:}40$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1336,6 +1481,15 @@ $11{:}11$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+discuss with uday
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1377,7 +1531,7 @@ $11{:}11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>9CD5056F-BEE7-4E30-BB2A-9F30B48A7BC0</p>
 </div>
@@ -1391,7 +1545,7 @@ $11{:}11$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1620,6 +1774,15 @@ $22{:}25$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Discuss with uday 
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1661,7 +1824,7 @@ $22{:}25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9</p>
 </div>
@@ -1672,10 +1835,10 @@ $22{:}25$
 <p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_up_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1741,49 +1904,36 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-replace L.H.S. : \"Film lasted\"
-
-remove R.H.S. from step 1
-
-remove \"pm\" from 2nd step
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' id='FORM-5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' id='FORM-5F0AD6B4-7282-41A2-9CB3-7DA5E5AB71F9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1795,7 +1945,7 @@ remove \"pm\" from 2nd step
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>854DCA2A-3998-41A0-B4D8-1620410A4611</p>
 </div>
@@ -1803,13 +1953,13 @@ remove \"pm\" from 2nd step
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2039,33 +2189,11 @@ $
 
 
 
-part (a) :
+part (b) : step 2: write \"hours\" after 7
 
-step 1 : write \"hours\" after 5
+write 2:00 and Wednesday on different section.answers
 
-
-
-part (b) : 
-
-step 1 and step 2 : write \"hours\" after 5, 2, 7
-
-
-
-part (c) :
-
-replace L.H.S : \"Arrival Time\"
-
-step 1 and 2 : write \"hours\" after 14 and 7
-
-
-
-add a last line inside katex:
-
-\text {Day of Arrival} &= \text {Wednesday}
-
-
-
-remove last line i.e.  \"It arr....\"
+for this refer : 19818B2F-9086-4F00-9201-4F75D3C5194C
 </div>
 
 <div class='review'>
@@ -2338,7 +2466,7 @@ step 1: add a \' between 19 and \text
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0D5CF5E2-BF8D-4E7E-BAA3-D1EF882CC453</p>
 </div>
@@ -2352,7 +2480,7 @@ step 1: add a \' between 19 and \text
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2424,6 +2552,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replace L.H.S : \"Cooking Time\"
+
+write \"minutes\" after 50
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2465,7 +2606,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>5116C593-B84B-4E1A-B0A4-93B1D9786F62</p>
 </div>
@@ -2479,7 +2620,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2705,6 +2846,23 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (c) :
+
+replace \"sec\" with \"seconds\" 
+
+in section.answer :
+
+replace the answer : $12 \ \text {seconds}$
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2886,7 +3044,7 @@ remove L.H.S.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990</p>
 </div>
@@ -2897,10 +3055,10 @@ remove L.H.S.
 <p>Uday Pandey</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_up_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3218,57 +3376,36 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-part (a) : remove . from \"p.m\"
-
-part (c) - (i) : replace L.H.S. : \"Diffrence\"
-
-part (c) - (ii) :
-
-replace first L.H.S. : \"Silent Time\"
-
-remove R.H.S. from step 1
-
-remove brackets from step 2
-
-write units on the R.H.S of \"Total money raised\"
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' id='FORM-3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' id='FORM-3FEA6E5A-D3A4-49A8-9B6C-F90D412A8990' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3280,7 +3417,7 @@ write units on the R.H.S of \"Total money raised\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>53637178-CDCE-444C-AA67-C9970035BCD5</p>
 </div>
@@ -3294,7 +3431,7 @@ write units on the R.H.S of \"Total money raised\"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3465,6 +3602,79 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove step 2
+
+replace . with :from time 
+
+step 3 : add s in \"hour\"
+
+remove . from \"a.m\"
+
+
+
+part (b) : remove step 1 and 2
+
+step 3 : t capital in \"time\"
+
+remove R.H.S and last step replace with :
+
+19:40 + 30 hours + 4 1/2 hours + 5 hours
+
+and solve further
+
+add a step : 
+
+Day Bill arrived Sri Lanka = \text {Friday} 
+
+
+
+in section.asnwer :
+
+write time and day in different sections
+
+
+
+
+
+part (a) : remove step 2
+
+replace . with :from time 
+
+step 3 : add s in \"hour\"
+
+remove . from \"a.m\"
+
+
+
+part (b) : remove step 1 and 2
+
+step 3 : t capital in \"time\"
+
+remove R.H.S and last step replace with :
+
+19:40 + 30 hours + 4 1/2 hours + 5 hours
+
+and solve further
+
+add a step : 
+
+Day Bill arrived Sri Lanka = \text {Friday} 
+
+
+
+in section.asnwer :
+
+write time and day in different sections
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5484,10 +5694,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

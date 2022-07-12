@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-2-g0"
 title: "TopicPaper - Simpleword - 2 - G0"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -985,7 +985,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B7CDC218-814A-4291-B812-C2C813D385FB</p>
 </div>
@@ -999,7 +999,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1018,12 +1018,12 @@ One inch is about $2.5 \ \text{centimetres}$. How many inches are roughly equal 
 
 $
 \begin{aligned}
-1 \ \text {centimetres}               &= \dfrac {1} {2.5} \ \text {inches} \\\\
-1 \times 100 \ \text {centimetres}    &= \dfrac {100} {2.5} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {1000} {25} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {40 \times 25} {25} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {40 \times \cancel {25}} {\cancel {25}} \ \text {inches} \\\\
-1 \ \text {metre}                     &= 40 \ \text {inches} \\\\
+\text{Value of 1 metre in inches}           &= \left( \dfrac {1 \ \text{metre}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \left( \dfrac {100 \ \text{centimetres}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \dfrac {100 \times 10} {25} \\\\
+                                            &= \dfrac {25 \times 4 \times 10} {25} \\\\
+                                            &= \dfrac {\cancel {25} \times 4 \times 10} {\cancel {25}} \\\\
+                                            &= 40 \ \text{inches}
 \end{aligned}
 $
 
@@ -1041,12 +1041,12 @@ $40 \ \text{inches}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text {centimetres}               &= \dfrac {1} {2.5} \ \text {inches} \\\\
-1 \times 100 \ \text {centimetres}    &= \dfrac {100} {2.5} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {1000} {25} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {40 \times 25} {25} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {40 \times \cancel {25}} {\cancel {25}} \ \text {inches} \\\\
-1 \ \text {metre}                     &= 40 \ \text {inches} \\\\
+\text{Value of 1 metre in inches}           &= \left( \dfrac {1 \ \text{metre}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \left( \dfrac {100 \ \text{centimetres}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \dfrac {100 \times 10} {25} \\\\
+                                            &= \dfrac {25 \times 4 \times 10} {25} \\\\
+                                            &= \dfrac {\cancel {25} \times 4 \times 10} {\cancel {25}} \\\\
+                                            &= 40 \ \text{inches}
 \end{aligned}
 $
 </code></pre>
@@ -1355,7 +1355,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5CC44C75-9BC0-4F62-9532-420FEB3EF9C8</p>
 </div>
@@ -1369,7 +1369,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1391,12 +1391,13 @@ How many buses would be needed to take $248$ pupils?
 $
 \begin{aligned}
 \text{Buses needed}     &= \dfrac {248} {12} \\\\
-                        &= 20.\dot{6} \\\\
+                        &= \dfrac {62 \times 4} {3 \times 4} \\\\
+                        &= \dfrac {62 \times \cancel 4} {3 \times \cancel 4} \\\\
+                        &= \dfrac {62} {3} \\\\
+                        &= 20 \dfrac {2} {3} \\\\
                         &= 21
 \end{aligned}
 $
-
-Rounding up, $21$ buses are needed to carry $248$ pupils.
 
 </div>
 </div>
@@ -1413,12 +1414,13 @@ $21$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Buses needed}     &= \dfrac {248} {12} \\\\
-                        &= 20.\dot{6} \\\\
+                        &= \dfrac {62 \times 4} {3 \times 4} \\\\
+                        &= \dfrac {62 \times \cancel 4} {3 \times \cancel 4} \\\\
+                        &= \dfrac {62} {3} \\\\
+                        &= 20 \dfrac {2} {3} \\\\
                         &= 21
 \end{aligned}
 $
-
-Rounding up, $21$ buses are needed to carry $248$ pupils.
 </code></pre>
 </div>
 </div>
@@ -1968,7 +1970,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B1035CFF-9D27-4291-9D78-74E41193350E</p>
 </div>
@@ -1982,7 +1984,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2003,12 +2005,13 @@ How many buses would be needed to take $300$ pupils?
 $
 \begin{aligned}
 \text{Buses needed}     &= \dfrac {300} {14} \\\\
-                        &= 21.\dot{4} \\\\
+                        &= \dfrac {150 \times 2} {7 \times 2} \\\\
+                        &= \dfrac {150 \times \cancel 2} {7 \times \cancel 2} \\\\
+                        &= \dfrac {150} {7} \\\\
+                        &= 21 \dfrac {3} {7} \\\\
                         &= 22
 \end{aligned}
 $
-
-Rounding up, $22$ buses are needed to carry $300$ pupils.
 
 </div>
 </div>
@@ -2025,12 +2028,13 @@ $22$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Buses needed}     &= \dfrac {300} {14} \\\\
-                        &= 21.\dot{4} \\\\
+                        &= \dfrac {150 \times 2} {7 \times 2} \\\\
+                        &= \dfrac {150 \times \cancel 2} {7 \times \cancel 2} \\\\
+                        &= \dfrac {150} {7} \\\\
+                        &= 21 \dfrac {3} {7} \\\\
                         &= 22
 \end{aligned}
 $
-
-Rounding up, $22$ buses are needed to carry $300$ pupils.
 </code></pre>
 </div>
 </div>

@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-12-pr-prns"
-title: "TopicPaper - Number - 12 - PR - PRNS"
-date: 2022-07-12 03:47:51
+slug: "ragpapers/topicpapers-tnumber-12-pr-prcc"
+title: "TopicPaper - Number - 12 - PR - PRCC"
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>268985CE-D916-46A3-B493-68415348A63C</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-12 03:47:51
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -36,36 +36,35 @@ Which multiple of $11$ is nearest to $1000$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&=11\times9\times10\\\\
+&=99\times10\\\\
+&=990
+\end{aligned}
+$
 
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$990$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&=11\times9\times10\\\\
+&=99\times10\\\\
+&=990
+\end{aligned}
+$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -77,17 +76,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$990$
 </code></pre>
 </div>
 </div>

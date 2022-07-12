@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-9999-sample-paper-1"
 title: "James Allens Girls School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1245,7 +1245,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
 </div>
@@ -1259,7 +1259,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1281,30 +1281,21 @@ There are $72$ girls in the pool. How many boys are there?
 
 Let the total students $= a$
 
+Number of boys $= \dfrac {2} {5} a$.
+
+Number of girls $= \dfrac {3} {5} a$.
+
 As per the question,
-
-Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
-
-Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
 
 $
 \begin {aligned}
-\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
-\dfrac {3} {5} \times a           &= 72 \\\\
-3a                                &= 72 \times 5 \\\\
+\dfrac {3} {5} a                  &= 72 \\\\
+a                                 &= \dfrac {72 \times 5} {3} \\\\
 a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
 a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
 a                                 &= 24 \times 5 \\\\
-a                                 &= 120
-\end {aligned}
-$
-
-Now, lets calculate the total number of boys.
-
-$
-\begin {aligned}
-\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
-                        &= \dfrac {2} {5} \times 120 \\\\
+a                                 &= 120 \\\\
+\text {Number of boys}  &= \dfrac {2} {5} \times 120 \\\\
                         &= \dfrac {2 \times 120} {5} \\\\
                         &= \dfrac {2 \times 24 \times 5} {5} \\\\
                         &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
@@ -1328,30 +1319,21 @@ $48$
 <pre class='language-latex'><code class='language-latex'>
 Let the total students $= a$
 
+Number of boys $= \dfrac {2} {5} a$.
+
+Number of girls $= \dfrac {3} {5} a$.
+
 As per the question,
-
-Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
-
-Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
 
 $
 \begin {aligned}
-\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
-\dfrac {3} {5} \times a           &= 72 \\\\
-3a                                &= 72 \times 5 \\\\
+\dfrac {3} {5} a                  &= 72 \\\\
+a                                 &= \dfrac {72 \times 5} {3} \\\\
 a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
 a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
 a                                 &= 24 \times 5 \\\\
-a                                 &= 120
-\end {aligned}
-$
-
-Now, lets calculate the total number of boys.
-
-$
-\begin {aligned}
-\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
-                        &= \dfrac {2} {5} \times 120 \\\\
+a                                 &= 120 \\\\
+\text {Number of boys}  &= \dfrac {2} {5} \times 120 \\\\
                         &= \dfrac {2 \times 120} {5} \\\\
                         &= \dfrac {2 \times 24 \times 5} {5} \\\\
                         &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\

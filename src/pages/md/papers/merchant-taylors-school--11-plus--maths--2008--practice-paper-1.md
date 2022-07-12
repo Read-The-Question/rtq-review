@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -480,7 +480,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6608C680-BF3B-41A9-B171-C598733FE00F</p>
 </div>
@@ -494,7 +494,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1007,7 +1007,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D0234A9E-B354-49F2-86CF-030A38955623</p>
 </div>
@@ -1021,7 +1021,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2060,7 +2060,7 @@ In $6$ different ways I can get a total of $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>51C00E11-4522-456E-9573-8B2298390591</p>
 </div>
@@ -2074,7 +2074,7 @@ In $6$ different ways I can get a total of $7$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2136,7 +2136,7 @@ $15$ computers
 $
 \begin{aligned}
 &= 10000 + 15 \times 100 \\\\
-&= 10000 + 1500
+&= 10000 + 1500 \\\\
 &= \pounds 11500
 \end{aligned}
 $
@@ -2156,7 +2156,7 @@ $\pounds 11500$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 10000 + 15 \times 100 \\\\
-&= 10000 + 1500
+&= 10000 + 1500 \\\\
 &= \pounds 11500
 \end{aligned}
 $
@@ -2188,12 +2188,19 @@ How many computers does she sell if she earns $\pounds 12600$?
 <div class='workings'>
 <div class='working'>
 
+Let the number of computer she sells $= a$.
+
+As per the question,
+
 $
 \begin{aligned}
-&= \dfrac {12600 - 10000} {100} \\\\
-&= \dfrac {2600} {100} \\\\
-&= \dfrac {26 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 26 \ \text {computers}
+10000 + 100a &= 12600 \\\\
+100a &=12600-10000 \\\\
+100a &= 2600 \\\\
+a &= \dfrac {2600} {100} \\\\
+a &= \dfrac {26 \times 100} {100} \\\\
+a &= \dfrac {26 \times \cancel {100}} {\cancel {100}}\\\\
+a &= 26 \ \text {computers}
 \end{aligned}
 $
 
@@ -2209,12 +2216,19 @@ $26 \ \text {computers}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Let the number of computer she sells $= a$.
+
+As per the question,
+
+$
 \begin{aligned}
-&= \dfrac {12600 - 10000} {100} \\\\
-&= \dfrac {2600} {100} \\\\
-&= \dfrac {26 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 26 \ \text {computers}
+10000 + 100a &= 12600 \\\\
+100a &=12600-10000 \\\\
+100a &= 2600 \\\\
+a &= \dfrac {2600} {100} \\\\
+a &= \dfrac {26 \times 100} {100} \\\\
+a &= \dfrac {26 \times \cancel {100}} {\cancel {100}}\\\\
+a &= 26 \ \text {computers}
 \end{aligned}
 $
 </code></pre>
@@ -3826,7 +3840,7 @@ use \quad instead of \ \ for spacing
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6</p>
 </div>
@@ -3840,7 +3854,7 @@ use \quad instead of \ \ for spacing
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4726,7 +4740,7 @@ Width $=12 \ \text{ cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2BE1B352-38EE-45ED-B07A-12B3ABD5532C</p>
 </div>
@@ -4740,7 +4754,7 @@ Width $=12 \ \text{ cm}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4861,6 +4875,8 @@ ${?} \quad \spadesuit \quad 3 \quad \spadesuit \quad 1 = 8$
 
 Let the missing term $= a$
 
+As per the question,
+
 $
 \begin{aligned}
 a \div 3 - 1 &= 8 \\\\
@@ -4884,6 +4900,8 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing term $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -4954,7 +4972,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>49F70149-6E7A-4A5E-9D2E-9FBDD68F2349</p>
 </div>
@@ -4968,7 +4986,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

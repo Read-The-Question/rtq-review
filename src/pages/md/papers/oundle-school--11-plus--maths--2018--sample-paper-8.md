@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-8"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 8"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -714,6 +714,7 @@ ABBR: Using BIDMAS
 $
 \begin{aligned}
 &= -1 \times 4 + 3 \times 5 \\\\
+&= -4 + 3 \times 5 \\\\
 &= -4 + 15 \\\\
 &= 11
 \end{aligned}
@@ -736,6 +737,7 @@ $11$
 $
 \begin{aligned}
 &= -1 \times 4 + 3 \times 5 \\\\
+&= -4 + 3 \times 5 \\\\
 &= -4 + 15 \\\\
 &= 11
 \end{aligned}
@@ -775,6 +777,7 @@ $
 \begin{aligned}
 &= 7 - 7 \div 7 + 7 \\\\
 &= 7 - 1 + 7 \\\\
+&= 14 - 1\\\\
 &= 13
 \end{aligned}
 $
@@ -797,6 +800,7 @@ $
 \begin{aligned}
 &= 7 - 7 \div 7 + 7 \\\\
 &= 7 - 1 + 7 \\\\
+&= 14 - 1\\\\
 &= 13
 \end{aligned}
 $

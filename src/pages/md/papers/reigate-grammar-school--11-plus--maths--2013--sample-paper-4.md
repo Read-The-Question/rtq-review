@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1510,7 +1510,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>998EFCB6-EF19-4B92-8115-132CC13DB0AF</p>
 </div>
@@ -1524,7 +1524,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1648,8 +1648,11 @@ What is $500 \times 1.5$?
 $
 \begin{aligned}
 &=  500 \times 1.5 \\\\
-&=  \dfrac{500 \times 15}{10} \\\\
-&=  \dfrac{750 \cancel{0}}{\cancel{10}} \\\\
+&=  \dfrac{500 \times 1.5\times 10}{10} \\\\
+&=  \dfrac{500\times 15}{10} \\\\
+&=  \dfrac{7500}{10} \\\\
+&=  \dfrac{750\times10}{10} \\\\
+&=  \dfrac{750\times\cancel{10}}{\cancel{10}} \\\\
 &=  750 
 \end{aligned}
 $
@@ -1669,8 +1672,11 @@ $750$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  500 \times 1.5 \\\\
-&=  \dfrac{500 \times 15}{10} \\\\
-&=  \dfrac{750 \cancel{0}}{\cancel{10}} \\\\
+&=  \dfrac{500 \times 1.5\times 10}{10} \\\\
+&=  \dfrac{500\times 15}{10} \\\\
+&=  \dfrac{7500}{10} \\\\
+&=  \dfrac{750\times10}{10} \\\\
+&=  \dfrac{750\times\cancel{10}}{\cancel{10}} \\\\
 &=  750 
 \end{aligned}
 $
@@ -1705,8 +1711,11 @@ What is $500 \times 0.15$?
 $
 \begin{aligned}
 &=  500 \times 0.15 \\\\
+&=  \dfrac{500 \times 0.15\times 100}{100} \\\\
 &=  \dfrac{500 \times 15}{100} \\\\
-&=  \dfrac{75 \cancel{00}}{\cancel{100}} \\\\
+&=  \dfrac{7500}{100} \\\\
+&=  \dfrac{75\times100}{100} \\\\
+&=  \dfrac{75\times\cancel{100}}{\cancel{100}} \\\\
 &=  75
 \end{aligned}
 $
@@ -1726,8 +1735,11 @@ $75$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  500 \times 0.15 \\\\
+&=  \dfrac{500 \times 0.15\times 100}{100} \\\\
 &=  \dfrac{500 \times 15}{100} \\\\
-&=  \dfrac{75 \cancel{00}}{\cancel{100}} \\\\
+&=  \dfrac{7500}{100} \\\\
+&=  \dfrac{75\times100}{100} \\\\
+&=  \dfrac{75\times\cancel{100}}{\cancel{100}} \\\\
 &=  75
 \end{aligned}
 $

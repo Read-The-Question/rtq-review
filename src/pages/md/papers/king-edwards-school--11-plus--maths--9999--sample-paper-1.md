@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1668,7 +1668,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B5420130-A56B-4BA2-8654-2576766211F0</p>
 </div>
@@ -1682,7 +1682,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1717,7 +1717,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total number of questions Rex answered}  &= \text {Correct answers} + \text {Incorrect answers} + \text {Questions he left} \\\\
+\text {Total number of questions Rex answered}  &= a + b + 1 \\\\
 25                                              &= a + b + 1 \\\\
 a + b                                           &= 25 - 1 \\\\
 a + b                                           &= 24 \\\\
@@ -1735,7 +1735,7 @@ a                                               &= 19
 \end {aligned}
 $
 
-Correct answers $= 19$.
+Number of correct answers $= 19$.
 
 </div>
 </div>
@@ -1757,7 +1757,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total number of questions Rex answered}  &= \text {Correct answers} + \text {Incorrect answers} + \text {Questions he left} \\\\
+\text {Total number of questions Rex answered}  &= a + b + 1 \\\\
 25                                              &= a + b + 1 \\\\
 a + b                                           &= 25 - 1 \\\\
 a + b                                           &= 24 \\\\
@@ -1775,7 +1775,7 @@ a                                               &= 19
 \end {aligned}
 $
 
-Correct answers $= 19$.
+Number of correct answers $= 19$.
 </code></pre>
 </div>
 </div>

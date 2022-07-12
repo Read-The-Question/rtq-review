@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -209,7 +209,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EBAA41D6-4D72-44C7-ACD8-7C23E483986D</p>
 </div>
@@ -220,7 +220,7 @@ $
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_am_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -238,7 +238,7 @@ The calculator display below shows $\dfrac{2}{9}$ as a decimal.
 
 Complete the empty box to show how the calculator would display the answer to $\dfrac{2}{900}$.
 
-$\underline{You\:\: do\:\: not\:\: need\:\: to\:\: write\:\: your\:\: digits\:\: in\:\: the\:\: same\:\: style}$, but you should use $104$ digits.
+$\underline{You\:\: do\:\: not\:\: need\:\: to\:\: write\:\: your\:\: digits\:\: in\:\: the\:\: same\:\: style}$, but you should use $10$ digits.
 
 ![missing image](/papers/missing_image.svg)
 
@@ -250,36 +250,35 @@ $\underline{You\:\: do\:\: not\:\: need\:\: to\:\: write\:\: your\:\: digits\:\:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac{2}{900} \\\\
+&= \dfrac{2}{9 \times 100} \\\\
+&= \dfrac{0.222222222}{100} \\\\
+&= 0.002222222 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+0.002222222
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac{2}{900} \\\\
+&= \dfrac{2}{9 \times 100} \\\\
+&= \dfrac{0.222222222}{100} \\\\
+&= 0.002222222 
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -291,22 +290,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>0.002222222
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' id='FORM-EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EBAA41D6-4D72-44C7-ACD8-7C23E483986D'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3005,7 +3031,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2CE70451-4F92-4D9E-A6C6-97D5F69F38A0</p>
 </div>
@@ -3016,7 +3042,7 @@ $
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_am_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3104,36 +3130,21 @@ $\underline{Prime}?$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$23$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$23$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$23$
 </code></pre>
 </div>
 </div>
@@ -3145,17 +3156,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$23$
 </code></pre>
 </div>
 </div>
@@ -3172,36 +3173,39 @@ $\underline{Cube\:\: numbers}?$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$27$
 
-</div>
-<div class='working'>
+Let's verify.
 
-TODOWORKING
+$
+\begin{aligned}
+27 &= 3 \times 3 \times 3  \\\\
+   &= 3^3
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$27$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Let's verify.
+
+$
+\begin{aligned}
+27 &= 3 \times 3 \times 3  \\\\
+   &= 3^3
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3213,17 +3217,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$27$
 </code></pre>
 </div>
 </div>
@@ -3240,36 +3234,43 @@ $\underline{Square\:\: numbers}?$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$25$
 
-</div>
-<div class='working'>
+Let's verify.
 
-TODOWORKING
+$
+\begin{aligned}
+25 &= 5 \times 5 \\\\
+   &= 5^2
+\end{aligned}
+$
+
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$25$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Let's verify.
+
+$
+\begin{aligned}
+25 &= 5 \times 5 \\\\
+   &= 5^2
+\end{aligned}
+$
+
+
 </code></pre>
 </div>
 </div>
@@ -3281,17 +3282,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$25$
 </code></pre>
 </div>
 </div>
@@ -3310,36 +3301,21 @@ $\underline{Fibonacci\:\: numbers}$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$21$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$21$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$21$
 </code></pre>
 </div>
 </div>
@@ -3351,17 +3327,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$21$
 </code></pre>
 </div>
 </div>
@@ -3380,36 +3346,21 @@ $\underline{Triangular\:\: numbers}?$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$21, 28$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$21, 28$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$21, 28$
 </code></pre>
 </div>
 </div>
@@ -3421,17 +3372,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$21, 28$
 </code></pre>
 </div>
 </div>
@@ -3452,36 +3393,42 @@ e.g. $6$ is a perfect number because $1 + 2 + 3 = 6$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$28$
 
-</div>
-<div class='working'>
+$\text{Let's verify.}$
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Factors} &= (1, 2, 4, 7, 14) \\\\
+\text{Sum}     &= 1 + 2 + 4 + 7 + 14 \\\\
+               &= 28
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$28$
 
-</div>
-<div class='answer'>
-
-TODOANSWER
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>$28$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$\text{Let's verify.}$
+
+$
+\begin{aligned}
+\text{Factors} &= (1, 2, 4, 7, 14) \\\\
+\text{Sum}     &= 1 + 2 + 4 + 7 + 14 \\\\
+               &= 28
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -3493,17 +3440,8 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$28$
+
 </code></pre>
 </div>
 </div>
@@ -3524,36 +3462,47 @@ e.g. $16$ is a powerful number because both $2$ and $2^2$ are factors.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$25, 27$
 
-</div>
-<div class='working'>
+Let's verify.
 
-TODOWORKING
+$
+\begin{aligned}
+25 &= 5 \times 5 \\\\
+   &= 5^2 \\\\
+27 &= 3 \times 3 \times 3  \\\\
+   &= 3^3
+\end{aligned}
+$
+
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$25, 27$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>$25, 27$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Let's verify.
+
+$
+\begin{aligned}
+25 &= 5 \times 5 \\\\
+   &= 5^2 \\\\
+27 &= 3 \times 3 \times 3  \\\\
+   &= 3^3
+\end{aligned}
+$
+
+
 </code></pre>
 </div>
 </div>
@@ -3565,17 +3514,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$25, 27$
 </code></pre>
 </div>
 </div>
@@ -3584,10 +3523,47 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' id='FORM-2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2CE70451-4F92-4D9E-A6C6-97D5F69F38A0'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prcc question'>
 <div class='uuid'>
 <p>6C7BE121-B86D-4FE7-A747-6364A8DD4633</p>
 </div>
@@ -3601,7 +3577,7 @@ TODOANSWER
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2298,7 +2298,7 @@ Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B2E13D6F-C414-4890-83D9-EEF6CC62BD32</p>
 </div>
@@ -2312,7 +2312,7 @@ Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2522,7 +2522,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A2F4CE02-CC08-4549-9659-71797B3FFB94</p>
 </div>
@@ -2536,7 +2536,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2557,10 +2557,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Cost of the materials} &= 25 \% \ \text {of} \ \pounds 6000 \\\\
+\text {Cost of the materials} &= 25 \% \ \text {of} \  6000 \\\\
                               &= \dfrac {25} {100} \times 6000 \\\\
                               &= \dfrac {25 \times 6000} {100} \\\\
-                              &= \dfrac {25 \times 60 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                              &= \dfrac {25 \times 60 \times 100} {100} \\\\
+                              &= \dfrac {25 \times 60 \times \cancel {100} }{\cancel {100}} \\\\
                               &= 60 \times 25 \\\\
                               &= \pounds 1500
 \end{aligned}
@@ -2582,10 +2583,11 @@ $\pounds 1500$
 
 $
 \begin{aligned}
-\text {Cost of the materials} &= 25 \% \ \text {of} \ \pounds 6000 \\\\
+\text {Cost of the materials} &= 25 \% \ \text {of} \  6000 \\\\
                               &= \dfrac {25} {100} \times 6000 \\\\
                               &= \dfrac {25 \times 6000} {100} \\\\
-                              &= \dfrac {25 \times 60 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                              &= \dfrac {25 \times 60 \times 100} {100} \\\\
+                              &= \dfrac {25 \times 60 \times \cancel {100} }{\cancel {100}} \\\\
                               &= 60 \times 25 \\\\
                               &= \pounds 1500
 \end{aligned}
@@ -3210,7 +3212,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FD6001A4-A10E-44ED-88F4-1456AB82BADE</p>
 </div>
@@ -3224,7 +3226,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

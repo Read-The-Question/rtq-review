@@ -1,7 +1,7 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -806,7 +806,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>076C322A-4256-441B-A7AC-33130D028CB9</p>
 </div>
@@ -820,7 +820,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -839,12 +839,10 @@ Add together two thousand three hundred and seven AND one thousand and twenty-fo
 
 
 $
-\begin{array}{cccccccccccccc}
-    &   2   &   3   &   0   &   7 \\
-{}+ &   1   &   0   &   2   &   4 \\
-\hline
-    &   3   &   3   &   3   &   1
-\end{array}
+\begin{aligned}
+&= 2307 + 1024 \\\\
+&= 3331
+\end{aligned}
 $
 
 </div>
@@ -861,12 +859,10 @@ $3331$
 
 <pre class='language-latex'><code class='language-latex'>
 $
-\begin{array}{cccccccccccccc}
-    &   2   &   3   &   0   &   7 \\
-{}+ &   1   &   0   &   2   &   4 \\
-\hline
-    &   3   &   3   &   3   &   1
-\end{array}
+\begin{aligned}
+&= 2307 + 1024 \\\\
+&= 3331
+\end{aligned}
 $
 </code></pre>
 </div>

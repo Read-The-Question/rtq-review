@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1145,7 +1145,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>618D0D9B-0E35-480E-B94D-ABA47263B29E</p>
 </div>
@@ -1159,7 +1159,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1228,6 +1228,7 @@ $
 \begin{aligned}
 &= \dfrac{475}{19} \\\\
 &= \dfrac{475 \times 25}{19 \times 25} \\\\
+&= \dfrac{475 \times 25}{475} \\\\
 &= \dfrac{\cancel{475} \times 25}{\cancel{475}}  \\\\
 &= 25
 \end{aligned}
@@ -1249,6 +1250,7 @@ $25$
 \begin{aligned}
 &= \dfrac{475}{19} \\\\
 &= \dfrac{475 \times 25}{19 \times 25} \\\\
+&= \dfrac{475 \times 25}{475} \\\\
 &= \dfrac{\cancel{475} \times 25}{\cancel{475}}  \\\\
 &= 25
 \end{aligned}
@@ -1287,7 +1289,10 @@ $
 \begin{aligned}
 &= \dfrac{47500}{19} \\\\
 &= \dfrac{47500 \times 25}{19 \times 25} \\\\
-&= \dfrac{\cancel{475}00 \times 25}{\cancel{475}}  \\\\
+&= \dfrac{47500 \times 25}{475} \\\\
+&= \dfrac{475\times100 \times 25}{475} \\\\
+&= \dfrac{\cancel{475}\times100 \times 25}{\cancel{475}}  \\\\
+&=100\times25\\\\
 &= 2500
 \end{aligned}
 $
@@ -1308,7 +1313,10 @@ $2500$
 \begin{aligned}
 &= \dfrac{47500}{19} \\\\
 &= \dfrac{47500 \times 25}{19 \times 25} \\\\
-&= \dfrac{\cancel{475}00 \times 25}{\cancel{475}}  \\\\
+&= \dfrac{47500 \times 25}{475} \\\\
+&= \dfrac{475\times100 \times 25}{475} \\\\
+&= \dfrac{\cancel{475}\times100 \times 25}{\cancel{475}}  \\\\
+&=100\times25\\\\
 &= 2500
 \end{aligned}
 $
@@ -1344,8 +1352,10 @@ $
 \begin{aligned}
 &= \dfrac{475+475}{19} \\\\
 &= \dfrac{475 \times 2 \times 25}{19 \times 25} \\\\
-&= \dfrac{\cancel{475} \times 50}{\cancel{475}} \\\\
-&= 50
+&= \dfrac{475 \times 2 \times 25}{475} \\\\
+&= \dfrac{\cancel{475}\times2 \times 50}{\cancel{475}} \\\\
+&= 2\times 50\\\
+&=100
 \end{aligned}
 $
 
@@ -1365,8 +1375,10 @@ $50$
 \begin{aligned}
 &= \dfrac{475+475}{19} \\\\
 &= \dfrac{475 \times 2 \times 25}{19 \times 25} \\\\
-&= \dfrac{\cancel{475} \times 50}{\cancel{475}} \\\\
-&= 50
+&= \dfrac{475 \times 2 \times 25}{475} \\\\
+&= \dfrac{\cancel{475}\times2 \times 50}{\cancel{475}} \\\\
+&= 2\times 50\\\
+&=100
 \end{aligned}
 $
 </code></pre>

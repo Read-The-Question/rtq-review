@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2016-sample-paper-1"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -308,7 +308,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6AC57CB3-2B4F-431E-BFE6-E58FA21AEB17</p>
 </div>
@@ -322,7 +322,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -441,7 +441,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5CC44C75-9BC0-4F62-9532-420FEB3EF9C8</p>
 </div>
@@ -455,7 +455,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -477,12 +477,13 @@ How many buses would be needed to take $248$ pupils?
 $
 \begin{aligned}
 \text{Buses needed}     &= \dfrac {248} {12} \\\\
-                        &= 20.\dot{6} \\\\
+                        &= \dfrac {62 \times 4} {3 \times 4} \\\\
+                        &= \dfrac {62 \times \cancel 4} {3 \times \cancel 4} \\\\
+                        &= \dfrac {62} {3} \\\\
+                        &= 20 \dfrac {2} {3} \\\\
                         &= 21
 \end{aligned}
 $
-
-Rounding up, $21$ buses are needed to carry $248$ pupils.
 
 </div>
 </div>
@@ -499,12 +500,13 @@ $21$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Buses needed}     &= \dfrac {248} {12} \\\\
-                        &= 20.\dot{6} \\\\
+                        &= \dfrac {62 \times 4} {3 \times 4} \\\\
+                        &= \dfrac {62 \times \cancel 4} {3 \times \cancel 4} \\\\
+                        &= \dfrac {62} {3} \\\\
+                        &= 20 \dfrac {2} {3} \\\\
                         &= 21
 \end{aligned}
 $
-
-Rounding up, $21$ buses are needed to carry $248$ pupils.
 </code></pre>
 </div>
 </div>
@@ -964,7 +966,7 @@ $500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B28E8CC8-5960-4268-94EF-1CA3A276FABA</p>
 </div>
@@ -978,7 +980,7 @@ $500$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1011,9 +1013,9 @@ $
 
 $
 \begin{aligned}
-\text{One tenth of the number}  &= \dfrac {1} {10} \times a \\\\
-                                &= \dfrac {1} {10} \times 40 \\\\
+\text{One tenth of the number}  &= \dfrac {1} {10} \times 40 \\\\
                                 &= \dfrac {40} {10} \\\\
+                                &= \dfrac {4 \cancel 0} {1 \cancel 0} \\\\
                                 &= 4
 \end{aligned}
 $
@@ -1044,9 +1046,9 @@ $
 
 $
 \begin{aligned}
-\text{One tenth of the number}  &= \dfrac {1} {10} \times a \\\\
-                                &= \dfrac {1} {10} \times 40 \\\\
+\text{One tenth of the number}  &= \dfrac {1} {10} \times 40 \\\\
                                 &= \dfrac {40} {10} \\\\
+                                &= \dfrac {4 \cancel 0} {1 \cancel 0} \\\\
                                 &= 4
 \end{aligned}
 $
@@ -2823,7 +2825,7 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C76E1065-14BA-460E-A654-A168F4BE4BAA</p>
 </div>
@@ -2837,7 +2839,7 @@ $42$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3832,7 +3834,7 @@ It is nearest to $4.565$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>368E6571-9487-45B7-AD17-93CB13083556</p>
 </div>
@@ -3846,7 +3848,7 @@ It is nearest to $4.565$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3875,11 +3877,15 @@ c       &= 8 + 12 t \\\\
 12t     &= 100 - 8 \\\\
 12t     &= 92 \\\\
 t       &= \dfrac {92} {12} \\\\
-t       &= 7 \text{ remainder } 8
+t       &= \dfrac {23 \times 4} {3 \times 4} \\\\
+t       &= \dfrac {23 \times \cancel 4} {3 \times \cancel 4} \\\\
+t       &= \dfrac {23} {3} \\\\
+t       &= 7 \dfrac {2} {3} \\\\
+t       &= 7
 \end{aligned}
 $
 
-Max $7$ tickets can be bought with $\pounds 100$.
+Max tickets that can be bought $= 7$.
 
 </div>
 </div>
@@ -3902,11 +3908,15 @@ c       &= 8 + 12 t \\\\
 12t     &= 100 - 8 \\\\
 12t     &= 92 \\\\
 t       &= \dfrac {92} {12} \\\\
-t       &= 7 \text{ remainder } 8
+t       &= \dfrac {23 \times 4} {3 \times 4} \\\\
+t       &= \dfrac {23 \times \cancel 4} {3 \times \cancel 4} \\\\
+t       &= \dfrac {23} {3} \\\\
+t       &= 7 \dfrac {2} {3} \\\\
+t       &= 7
 \end{aligned}
 $
 
-Max $7$ tickets can be bought with $\pounds 100$.
+Max tickets that can be bought $= 7$.
 </code></pre>
 </div>
 </div>

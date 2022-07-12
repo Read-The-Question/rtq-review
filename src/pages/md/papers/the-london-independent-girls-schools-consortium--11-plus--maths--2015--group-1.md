@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5650,7 +5650,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9AB690F5-D948-4D6F-96C8-8B6598F5771D</p>
 </div>
@@ -5661,7 +5661,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5731,21 +5731,123 @@ Complete the table of digital roots of the next nine square numbers.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Digital root of} \ 100 &= 1 + 0 + 0 \\\\
+&= 1 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 121 &= 1 + 2 + 1 \\\\
+&= 4 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 144 &= 1 + 4 + 4 \\\\
+&= 9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 196 &= 1 + 9 + 6 &= 16 \\\\
+&= 1 + 6 \\\\
+&= 7 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 225 &= 2 + 2 + 5 \\\\
+&= 9 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 256 &= 2 + 5 + 6 &= 13 \\\\
+&= 1 + 3 \\\\
+&= 4 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 289 &= 2 + 8 + 9 &= 19 \\\\
+&= 1 + 9 &= 10 \\\\
+&= 1 + 0 \\\\
+&= 1
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+1, 4, 9, 7, 9, 4, 1
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Digital root of} \ 100 &= 1 + 0 + 0 \\\\
+&= 1 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 121 &= 1 + 2 + 1 \\\\
+&= 4 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 144 &= 1 + 4 + 4 \\\\
+&= 9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 196 &= 1 + 9 + 6 &= 16 \\\\
+&= 1 + 6 \\\\
+&= 7 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 225 &= 2 + 2 + 5 \\\\
+&= 9 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 256 &= 2 + 5 + 6 &= 13 \\\\
+&= 1 + 3 \\\\
+&= 4 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Digital root of} \ 289 &= 2 + 8 + 9 &= 19 \\\\
+&= 1 + 9 &= 10 \\\\
+&= 1 + 0 \\\\
+&= 1
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5757,7 +5859,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>1, 4, 9, 7, 9, 4, 1
 </code></pre>
 </div>
 </div>
@@ -5774,21 +5876,21 @@ What patterns do you notice in the digital roots in the tables above?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+**1, 4, 9, 7, 7, 9, 4, 1, 9** repeats for every 9 consecutive square numbers.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+1, 4, 9, 7, 7, 9, 4, 1, 9
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>**1, 4, 9, 7, 7, 9, 4, 1, 9** repeats for every 9 consecutive square numbers.
 </code></pre>
 </div>
 </div>
@@ -5800,7 +5902,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>1, 4, 9, 7, 7, 9, 4, 1, 9
 </code></pre>
 </div>
 </div>
@@ -5858,21 +5960,21 @@ $19^2$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+1
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+1
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>1
 </code></pre>
 </div>
 </div>
@@ -5884,7 +5986,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>1
 </code></pre>
 </div>
 </div>
@@ -5901,21 +6003,21 @@ $29^2$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+4
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+4
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>4
 </code></pre>
 </div>
 </div>
@@ -5927,7 +6029,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>4
 </code></pre>
 </div>
 </div>
@@ -5944,21 +6046,21 @@ $999999^2$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+9
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+9
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>9
 </code></pre>
 </div>
 </div>
@@ -5970,7 +6072,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>9
 </code></pre>
 </div>
 </div>
@@ -5982,6 +6084,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9AB690F5-D948-4D6F-96C8-8B6598F5771D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9AB690F5-D948-4D6F-96C8-8B6598F5771D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9AB690F5-D948-4D6F-96C8-8B6598F5771D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='9AB690F5-D948-4D6F-96C8-8B6598F5771D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9AB690F5-D948-4D6F-96C8-8B6598F5771D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9AB690F5-D948-4D6F-96C8-8B6598F5771D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9AB690F5-D948-4D6F-96C8-8B6598F5771D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9AB690F5-D948-4D6F-96C8-8B6598F5771D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='9AB690F5-D948-4D6F-96C8-8B6598F5771D' id='FORM-9AB690F5-D948-4D6F-96C8-8B6598F5771D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9AB690F5-D948-4D6F-96C8-8B6598F5771D'>Initial</p>
+</div>
 </div>
 </li>
 <li>

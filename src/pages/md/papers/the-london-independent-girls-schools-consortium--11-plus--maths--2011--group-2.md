@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1200,7 +1200,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>D54D9BB6-A403-4965-8B9A-D4BE958BB2E8</p>
 </div>
@@ -1208,13 +1208,13 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1381,9 +1381,9 @@ $
 
 
 
-part (a) : show the working
+both part :
 
-part (b) : show working
+replace \"hrs\" with \"hour\" and \"min\" with \"minutes\"
 </div>
 
 <div class='review'>
@@ -3116,7 +3116,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>6C0D2582-A45B-4E63-9DBD-EBD8E755B0AC</p>
 </div>
@@ -3124,13 +3124,13 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3196,6 +3196,15 @@ $11{:}11$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+discuss with uday
+</div>
 
 <div class='review'>
 <ul class='review'>

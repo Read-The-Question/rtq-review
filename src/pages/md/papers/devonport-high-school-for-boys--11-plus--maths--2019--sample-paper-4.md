@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -342,7 +342,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>96DDA787-538C-48A9-B7C3-E49BDEA6B62D</p>
 </div>
@@ -356,7 +356,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1023,7 +1023,7 @@ $0.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A7B86F61-CB41-4218-B297-AB8668CF3287</p>
 </div>
@@ -1037,7 +1037,7 @@ $0.2$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1059,6 +1059,15 @@ What is one half of my number?
 Let the number $= a$
 
 As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {5} \times a      &= 6 \\\\
+\dfrac {a} {5}               &= 6 \\\\
+a                            &= 5 \times 6 \\\\
+a                            &= 30
+\end{aligned}
+$
 
 $
 \begin{aligned}
@@ -1086,6 +1095,15 @@ $15$
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {5} \times a      &= 6 \\\\
+\dfrac {a} {5}               &= 6 \\\\
+a                            &= 5 \times 6 \\\\
+a                            &= 30
+\end{aligned}
+$
 
 $
 \begin{aligned}
@@ -1804,7 +1822,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>89F23118-BA61-4095-8FD2-82AAA7E88489</p>
 </div>
@@ -1818,7 +1836,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1837,7 +1855,7 @@ $42\ \text{cm} \quad  0.4 \ \text{m} \quad  147 \ \text{mm} \quad  0.351 \ \text
 <div class='workings'>
 <div class='working'>
 
-To compare, let's convert all the units to $\text {cm}$. 
+Let's convert all the units to $\text {cm}$. 
 
 $
 \begin{aligned}
@@ -1861,7 +1879,7 @@ $42 \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>To compare, let's convert all the units to $\text {cm}$. 
+<pre class='language-latex'><code class='language-latex'>Let's convert all the units to $\text {cm}$. 
 
 $
 \begin{aligned}
@@ -2828,7 +2846,7 @@ $132$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A41FF430-EBAD-4ACB-9835-13382E26129B</p>
 </div>
@@ -2842,7 +2860,7 @@ $132$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3808,7 +3826,7 @@ It is nearest to $4.565$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9BC445B0-E60B-4C43-9A3B-131B9EE3AD28</p>
 </div>
@@ -3822,7 +3840,7 @@ It is nearest to $4.565$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3851,11 +3869,15 @@ c       &= 6 + 10 t \\\\
 10t     &= 50 - 6 \\\\
 10t     &= 44 \\\\
 t       &= \dfrac {44} {10} \\\\
-t       &= 4 \text { remainder } 4
+t       &= \dfrac {22 \times 2} {5 \times 2} \\\\
+t       &= \dfrac {22 \times \cancel 2} {5 \times \cancel 2} \\\\
+t       &= \dfrac {22} {5} \\\\
+t       &= 4 \dfrac {2} {5} \\\\
+t       &= 4
 \end{aligned}
 $
 
-Max $4$ tickets can be bought with $\pounds 50$.
+Max tickets that can be bought $= 4$.
 
 </div>
 </div>
@@ -3878,11 +3900,15 @@ c       &= 6 + 10 t \\\\
 10t     &= 50 - 6 \\\\
 10t     &= 44 \\\\
 t       &= \dfrac {44} {10} \\\\
-t       &= 4 \text { remainder } 4
+t       &= \dfrac {22 \times 2} {5 \times 2} \\\\
+t       &= \dfrac {22 \times \cancel 2} {5 \times \cancel 2} \\\\
+t       &= \dfrac {22} {5} \\\\
+t       &= 4 \dfrac {2} {5} \\\\
+t       &= 4
 \end{aligned}
 $
 
-Max $4$ tickets can be bought with $\pounds 50$.
+Max tickets that can be bought $= 4$.
 </code></pre>
 </div>
 </div>

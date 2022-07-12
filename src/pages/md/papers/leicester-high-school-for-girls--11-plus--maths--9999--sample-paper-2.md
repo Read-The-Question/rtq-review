@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -743,7 +743,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9B9050C1-533D-4992-A903-6BF6255CBEA5</p>
 </div>
@@ -757,7 +757,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -820,7 +820,7 @@ As per the question,
 $
 \begin{aligned}
 \text {Leena brought}  &= 28 - 13 \\\\
-                       &= 15
+                       &= 15 \ \text{tokens}
 \end{aligned}
 $
 
@@ -841,7 +841,7 @@ $15$
 $
 \begin{aligned}
 \text {Leena brought}  &= 28 - 13 \\\\
-                       &= 15
+                       &= 15 \ \text{tokens}
 \end{aligned}
 $
 </code></pre>
@@ -1981,7 +1981,7 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9DD65BB6-6C3C-463C-A33E-777F8440F791</p>
 </div>
@@ -1995,7 +1995,7 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

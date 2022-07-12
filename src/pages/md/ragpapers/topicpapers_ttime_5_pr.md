@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-pr"
 title: "TopicPaper - Time - 5 - PR"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6B7D18F9-34AA-4D46-9CC1-DADAE07E2BCE</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-12 03:47:51
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -166,6 +166,43 @@ $2007$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (b) : 
+
+remove 2007
+
+start a katex:
+
+Year she got a new piano = 1st September 1998 + (15 years - 6 years 4 months)
+
+and solve further...
+
+​
+
+
+
+
+
+part (b) : 
+
+remove 2007
+
+start a katex:
+
+Year she got a new piano = 1st September 1998 + (15 years - 6 years 4 months)
+
+and solve further...
+
+​
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -207,7 +244,7 @@ $2007$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>21940B64-6F2A-4A2C-BA44-8B9664CEAEAB</p>
 </div>
@@ -221,7 +258,7 @@ $2007$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -275,6 +312,27 @@ $ 18 / /text{minutes} $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+show working
+
+remove the line
+
+start katex
+
+Real Time    = 07:10 - 12 minutes
+
+             = 06:53
+
+Minutes slow = 06:53 - 06:35
+
+             = 18 minutes 
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -316,7 +374,7 @@ $ 18 / /text{minutes} $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
 </div>
@@ -330,7 +388,7 @@ $ 18 / /text{minutes} $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -422,6 +480,17 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write  both katex in one katex
+
+remove s from \"charges\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -463,7 +532,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0A614191-1791-4F03-962B-E2CF656E9B67</p>
 </div>
@@ -477,7 +546,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -664,6 +733,27 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove step 3, 4, 5
+
+ and change answer in section.answer
+
+
+
+part (b) : 
+
+step 2: replace with : 2 hours 32 minutes
+
+dont use 2 katex, combine both katex
+
+step 3 : replace R.H.S. : 12:14 - 2 hours 32 minutes
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -705,7 +795,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6563C9DA-D275-4231-9D71-242D5FD8FE30</p>
 </div>
@@ -719,7 +809,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -870,6 +960,61 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove the line 
+
+replace with :
+
+Let total travelling time $= a$
+
+Time spent travelling in a car $= a/2$
+
+As per the question,
+
+
+
+now start a katex:
+
+Time spent in a train = 2 hours
+
+1/2 of (a - a/2)      = 2 
+
+1/2 x a/2           = 2
+
+and solve further 
+
+
+
+now start a new katex:
+
+Total travelling time = (value of a)
+
+Time spent in a car   = a/2 
+
+                      = ....
+
+
+
+part (b) : 
+
+remove whole katex:
+
+replace with :
+
+As per the above answer,
+
+Total travelling time = ...
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -911,7 +1056,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>9CD5056F-BEE7-4E30-BB2A-9F30B48A7BC0</p>
 </div>
@@ -925,7 +1070,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1154,6 +1299,15 @@ $22{:}25$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Discuss with uday 
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1195,7 +1349,7 @@ $22{:}25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0D5CF5E2-BF8D-4E7E-BAA3-D1EF882CC453</p>
 </div>
@@ -1209,7 +1363,7 @@ $22{:}25$
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1281,6 +1435,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+replace L.H.S : \"Cooking Time\"
+
+write \"minutes\" after 50
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1322,7 +1489,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>5116C593-B84B-4E1A-B0A4-93B1D9786F62</p>
 </div>
@@ -1336,7 +1503,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1562,6 +1729,23 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (c) :
+
+replace \"sec\" with \"seconds\" 
+
+in section.answer :
+
+replace the answer : $12 \ \text {seconds}$
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1603,7 +1787,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>53637178-CDCE-444C-AA67-C9970035BCD5</p>
 </div>
@@ -1617,7 +1801,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1788,6 +1972,79 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove step 2
+
+replace . with :from time 
+
+step 3 : add s in \"hour\"
+
+remove . from \"a.m\"
+
+
+
+part (b) : remove step 1 and 2
+
+step 3 : t capital in \"time\"
+
+remove R.H.S and last step replace with :
+
+19:40 + 30 hours + 4 1/2 hours + 5 hours
+
+and solve further
+
+add a step : 
+
+Day Bill arrived Sri Lanka = \text {Friday} 
+
+
+
+in section.asnwer :
+
+write time and day in different sections
+
+
+
+
+
+part (a) : remove step 2
+
+replace . with :from time 
+
+step 3 : add s in \"hour\"
+
+remove . from \"a.m\"
+
+
+
+part (b) : remove step 1 and 2
+
+step 3 : t capital in \"time\"
+
+remove R.H.S and last step replace with :
+
+19:40 + 30 hours + 4 1/2 hours + 5 hours
+
+and solve further
+
+add a step : 
+
+Day Bill arrived Sri Lanka = \text {Friday} 
+
+
+
+in section.asnwer :
+
+write time and day in different sections
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>

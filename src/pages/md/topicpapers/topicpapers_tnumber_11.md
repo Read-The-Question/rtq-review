@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-12 03:47:51
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>AA1616F9-E91C-47C6-96D1-6610825F3E80</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-12 03:47:51
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -155,8 +155,11 @@ and
 $
 \begin{aligned}
 &= \dfrac{3108}{8.4} \\\\
+&= \dfrac{3108 \times 37 \times 10}{8.4\times 10 \times 37 } \\\\
 &= \dfrac{3108 \times 37 \times 10}{84 \times 37 } \\\\
+&= \dfrac{3108 \times 37 \times 10}{3108 } \\\\
 &= \dfrac{\cancel{3108} \times 37 \times 10}{\cancel{3108}}  \\\\
+&=37\times 10\\\\
 &= 370
 \end{aligned}
 $
@@ -176,8 +179,11 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= \dfrac{3108}{8.4} \\\\
+&= \dfrac{3108 \times 37 \times 10}{8.4\times 10 \times 37 } \\\\
 &= \dfrac{3108 \times 37 \times 10}{84 \times 37 } \\\\
+&= \dfrac{3108 \times 37 \times 10}{3108 } \\\\
 &= \dfrac{\cancel{3108} \times 37 \times 10}{\cancel{3108}}  \\\\
+&=37\times 10\\\\
 &= 370
 \end{aligned}
 $
@@ -966,7 +972,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>72BEEC51-1902-4C41-BF4A-69B97ED5D4A7</p>
 </div>
@@ -977,7 +983,7 @@ $
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -996,65 +1002,16 @@ Here are some number cards
 ![missing image](/papers/missing_image.svg)
 
 
-</div>
-<div class='workings'>
-<div class='working'>
+You can use each card once to make the number $7523$ like this
 
-TODOWORKING
+![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-TODOANSWER
 
-</div>
-<div class='answer'>
 
-TODOANSWER
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1066,36 +1023,21 @@ Using each card once only make the smallest possible even number ……………
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$3752$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$3572$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$3752$
 </code></pre>
 </div>
 </div>
@@ -1107,17 +1049,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$3572$
 </code></pre>
 </div>
 </div>
@@ -1134,36 +1066,21 @@ Using each card once only make the smallest possible multiple of $6$ ………�
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+Not possible
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Not possible
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Not possible
 </code></pre>
 </div>
 </div>
@@ -1175,17 +1092,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Not possible
 </code></pre>
 </div>
 </div>
@@ -1202,36 +1109,29 @@ Using each card once only make a number as close as possible to $4000$ ………
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&=3752
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$3752$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&=3752
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1243,17 +1143,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$3752$
 </code></pre>
 </div>
 </div>
@@ -1262,6 +1152,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' id='FORM-72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-72BEEC51-1902-4C41-BF4A-69B97ED5D4A7'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -1384,7 +1311,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>618D0D9B-0E35-480E-B94D-ABA47263B29E</p>
 </div>
@@ -1398,7 +1325,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1467,6 +1394,7 @@ $
 \begin{aligned}
 &= \dfrac{475}{19} \\\\
 &= \dfrac{475 \times 25}{19 \times 25} \\\\
+&= \dfrac{475 \times 25}{475} \\\\
 &= \dfrac{\cancel{475} \times 25}{\cancel{475}}  \\\\
 &= 25
 \end{aligned}
@@ -1488,6 +1416,7 @@ $25$
 \begin{aligned}
 &= \dfrac{475}{19} \\\\
 &= \dfrac{475 \times 25}{19 \times 25} \\\\
+&= \dfrac{475 \times 25}{475} \\\\
 &= \dfrac{\cancel{475} \times 25}{\cancel{475}}  \\\\
 &= 25
 \end{aligned}
@@ -1526,7 +1455,10 @@ $
 \begin{aligned}
 &= \dfrac{47500}{19} \\\\
 &= \dfrac{47500 \times 25}{19 \times 25} \\\\
-&= \dfrac{\cancel{475}00 \times 25}{\cancel{475}}  \\\\
+&= \dfrac{47500 \times 25}{475} \\\\
+&= \dfrac{475\times100 \times 25}{475} \\\\
+&= \dfrac{\cancel{475}\times100 \times 25}{\cancel{475}}  \\\\
+&=100\times25\\\\
 &= 2500
 \end{aligned}
 $
@@ -1547,7 +1479,10 @@ $2500$
 \begin{aligned}
 &= \dfrac{47500}{19} \\\\
 &= \dfrac{47500 \times 25}{19 \times 25} \\\\
-&= \dfrac{\cancel{475}00 \times 25}{\cancel{475}}  \\\\
+&= \dfrac{47500 \times 25}{475} \\\\
+&= \dfrac{475\times100 \times 25}{475} \\\\
+&= \dfrac{\cancel{475}\times100 \times 25}{\cancel{475}}  \\\\
+&=100\times25\\\\
 &= 2500
 \end{aligned}
 $
@@ -1583,8 +1518,10 @@ $
 \begin{aligned}
 &= \dfrac{475+475}{19} \\\\
 &= \dfrac{475 \times 2 \times 25}{19 \times 25} \\\\
-&= \dfrac{\cancel{475} \times 50}{\cancel{475}} \\\\
-&= 50
+&= \dfrac{475 \times 2 \times 25}{475} \\\\
+&= \dfrac{\cancel{475}\times2 \times 50}{\cancel{475}} \\\\
+&= 2\times 50\\\
+&=100
 \end{aligned}
 $
 
@@ -1604,8 +1541,10 @@ $50$
 \begin{aligned}
 &= \dfrac{475+475}{19} \\\\
 &= \dfrac{475 \times 2 \times 25}{19 \times 25} \\\\
-&= \dfrac{\cancel{475} \times 50}{\cancel{475}} \\\\
-&= 50
+&= \dfrac{475 \times 2 \times 25}{475} \\\\
+&= \dfrac{\cancel{475}\times2 \times 50}{\cancel{475}} \\\\
+&= 2\times 50\\\
+&=100
 \end{aligned}
 $
 </code></pre>
@@ -3821,7 +3760,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9A3BC642-22C8-463E-97DC-2F6D596F96A9</p>
 </div>
@@ -3832,7 +3771,7 @@ $
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3928,7 +3867,14 @@ Explain why you cannot make an even number
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Let's divide the given number by 2}&=\dfrac{1735}{2}\\\\
+&=817.5\\\\
+\because\text{Recieved result is not whole number}\\\
+\therefore\text{You cannot make an even number by uisng given each of cards}\\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -3952,7 +3898,14 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Let's divide the given number by 2}&=\dfrac{1735}{2}\\\\
+&=817.5\\\\
+\because\text{Recieved result is not whole number}\\\
+\therefore\text{You cannot make an even number by uisng given each of cards}\\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4065,6 +4018,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='9A3BC642-22C8-463E-97DC-2F6D596F96A9' id='FORM-9A3BC642-22C8-463E-97DC-2F6D596F96A9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9A3BC642-22C8-463E-97DC-2F6D596F96A9'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4660,7 +4650,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>998EFCB6-EF19-4B92-8115-132CC13DB0AF</p>
 </div>
@@ -4674,7 +4664,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4798,8 +4788,11 @@ What is $500 \times 1.5$?
 $
 \begin{aligned}
 &=  500 \times 1.5 \\\\
-&=  \dfrac{500 \times 15}{10} \\\\
-&=  \dfrac{750 \cancel{0}}{\cancel{10}} \\\\
+&=  \dfrac{500 \times 1.5\times 10}{10} \\\\
+&=  \dfrac{500\times 15}{10} \\\\
+&=  \dfrac{7500}{10} \\\\
+&=  \dfrac{750\times10}{10} \\\\
+&=  \dfrac{750\times\cancel{10}}{\cancel{10}} \\\\
 &=  750 
 \end{aligned}
 $
@@ -4819,8 +4812,11 @@ $750$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  500 \times 1.5 \\\\
-&=  \dfrac{500 \times 15}{10} \\\\
-&=  \dfrac{750 \cancel{0}}{\cancel{10}} \\\\
+&=  \dfrac{500 \times 1.5\times 10}{10} \\\\
+&=  \dfrac{500\times 15}{10} \\\\
+&=  \dfrac{7500}{10} \\\\
+&=  \dfrac{750\times10}{10} \\\\
+&=  \dfrac{750\times\cancel{10}}{\cancel{10}} \\\\
 &=  750 
 \end{aligned}
 $
@@ -4855,8 +4851,11 @@ What is $500 \times 0.15$?
 $
 \begin{aligned}
 &=  500 \times 0.15 \\\\
+&=  \dfrac{500 \times 0.15\times 100}{100} \\\\
 &=  \dfrac{500 \times 15}{100} \\\\
-&=  \dfrac{75 \cancel{00}}{\cancel{100}} \\\\
+&=  \dfrac{7500}{100} \\\\
+&=  \dfrac{75\times100}{100} \\\\
+&=  \dfrac{75\times\cancel{100}}{\cancel{100}} \\\\
 &=  75
 \end{aligned}
 $
@@ -4876,8 +4875,11 @@ $75$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  500 \times 0.15 \\\\
+&=  \dfrac{500 \times 0.15\times 100}{100} \\\\
 &=  \dfrac{500 \times 15}{100} \\\\
-&=  \dfrac{75 \cancel{00}}{\cancel{100}} \\\\
+&=  \dfrac{7500}{100} \\\\
+&=  \dfrac{75\times100}{100} \\\\
+&=  \dfrac{75\times\cancel{100}}{\cancel{100}} \\\\
 &=  75
 \end{aligned}
 $
@@ -6487,7 +6489,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C5396C65-8D48-4EC7-B2F5-B976D05267E8</p>
 </div>
@@ -6501,7 +6503,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7154,7 +7156,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>29E53662-4095-436A-85A6-E3A91EB86DAF</p>
 </div>
@@ -7168,7 +7170,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7805,7 +7807,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA</p>
 </div>
@@ -7816,7 +7818,7 @@ $
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7936,7 +7938,16 @@ What is $\dfrac{3}{5}$ of $20$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {3} {5} \ \text{of} \ 20 \\\\
+&= \dfrac {3} {5} \times 20 \\\\
+&= \dfrac {3\times4\times5}{5} \\\\
+&= \dfrac {3 \times4\times \cancel{5}} {\cancel{5}} \\\\
+&=3\times4\\\\
+&= 12
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -7948,7 +7959,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$12$
 
 </div>
 <div class='answer'>
@@ -7960,7 +7971,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {3} {5} \ \text{of} \ 20 \\\\
+&= \dfrac {3} {5} \times 20 \\\\
+&= \dfrac {3\times4\times5}{5} \\\\
+&= \dfrac {3 \times4\times \cancel{5}} {\cancel{5}} \\\\
+&=3\times4\\\\
+&= 12
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -7977,7 +7997,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$12$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -8004,7 +8024,16 @@ What is $0.1$ of $\pounds40$ ?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= 0.1 \ \text{of} \pounds40 \\\\
+&= \dfrac {1} {10} \times 40 \\\\
+&= \dfrac {1 \times 4 \times 10} {10} \\\\
+&= \dfrac {1\times4\times \cancel{10}} {\cancel{10}} \\\\
+&= 1\times 4\\\\
+&=\pounds4
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -8016,7 +8045,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds4$
 
 </div>
 <div class='answer'>
@@ -8028,7 +8057,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 0.1 \ \text{of} \pounds40 \\\\
+&= \dfrac {1} {10} \times 40 \\\\
+&= \dfrac {1 \times 4 \times 10} {10} \\\\
+&= \dfrac {1\times4\times \cancel{10}} {\cancel{10}} \\\\
+&= 1\times 4\\\\
+&=\pounds4
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -8045,7 +8083,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds4$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -8072,7 +8110,14 @@ Simplify the fraction $\dfrac{24}{36}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&=\dfrac{24}{36}\\\\
+&=\dfrac{2\times3\times4}{3\times3\times4}\\\\
+&=\dfrac{2\times\cancel{3}\times\cancel{4}}{3\times\cancel{3}\times\cancel{4}}\\\\
+&=\dfrac{2}{3}
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -8084,7 +8129,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{2}{3}$
 
 </div>
 <div class='answer'>
@@ -8096,7 +8141,14 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&=\dfrac{24}{36}\\\\
+&=\dfrac{2\times3\times4}{3\times3\times4}\\\\
+&=\dfrac{2\times\cancel{3}\times\cancel{4}}{3\times\cancel{3}\times\cancel{4}}\\\\
+&=\dfrac{2}{3}
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -8113,7 +8165,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{2}{3}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -8140,7 +8192,7 @@ What is $0.03$ re-written as a fraction ?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\dfrac{3}{100}$
 
 </div>
 <div class='working'>
@@ -8152,7 +8204,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{3}{100}$
 
 </div>
 <div class='answer'>
@@ -8164,7 +8216,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{100}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -8181,7 +8233,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{100}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -8276,7 +8328,15 @@ Work out $\dfrac{1}{2}+\dfrac{1}{4}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{\aligned}
+&=\dfrac{1}{2}+\dfrac{1}{4}\\\\
+&=\dfrac{1\times2}{2\times 2}+\dfrac{1}{4}\\\\
+&=\dfrac{2}{4}+\dfrac{1}{4}\\\\
+&=\dfrac{2+1}{4}\\\\
+&=\dfrac{3}{4}\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -8288,7 +8348,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{3}{4}$
 
 </div>
 <div class='answer'>
@@ -8300,7 +8360,15 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{\aligned}
+&=\dfrac{1}{2}+\dfrac{1}{4}\\\\
+&=\dfrac{1\times2}{2\times 2}+\dfrac{1}{4}\\\\
+&=\dfrac{2}{4}+\dfrac{1}{4}\\\\
+&=\dfrac{2+1}{4}\\\\
+&=\dfrac{3}{4}\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -8317,7 +8385,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -8336,6 +8404,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' id='FORM-A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

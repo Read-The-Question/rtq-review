@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-10-g0"
 title: "TopicPaper - Number - 10 - G0"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1670,6 +1670,7 @@ ABBR: Using BIDMAS
 $
 \begin{aligned}
 &= -1 \times 4 + 3 \times 5 \\\\
+&= -4 + 3 \times 5 \\\\
 &= -4 + 15 \\\\
 &= 11
 \end{aligned}
@@ -1692,6 +1693,7 @@ $11$
 $
 \begin{aligned}
 &= -1 \times 4 + 3 \times 5 \\\\
+&= -4 + 3 \times 5 \\\\
 &= -4 + 15 \\\\
 &= 11
 \end{aligned}
@@ -1731,6 +1733,7 @@ $
 \begin{aligned}
 &= 7 - 7 \div 7 + 7 \\\\
 &= 7 - 1 + 7 \\\\
+&= 14 - 1\\\\
 &= 13
 \end{aligned}
 $
@@ -1753,6 +1756,7 @@ $
 \begin{aligned}
 &= 7 - 7 \div 7 + 7 \\\\
 &= 7 - 1 + 7 \\\\
+&= 14 - 1\\\\
 &= 13
 \end{aligned}
 $

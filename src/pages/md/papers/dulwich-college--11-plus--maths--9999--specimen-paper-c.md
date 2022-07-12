@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-c"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper C"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3025,7 +3025,7 @@ Perimeter of one tile (in metres) $= 1.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1916A682-4C8E-4C0E-A125-3B251D10C699</p>
 </div>
@@ -3039,7 +3039,7 @@ Perimeter of one tile (in metres) $= 1.6$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3104,21 +3104,20 @@ Total socks $= 30$
 
 White socks $= 30 \times \dfrac {1} {3}$
 
-Blue socks $= (\text{Total socks} \ - \ \text{White socks}) \times \dfrac{2} {5}$
-
 $
 \begin{aligned}
-&= \bigg (30 - 30 \times \dfrac {1} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {30} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {3 \times 10} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {\cancel {3} \times 10} {\cancel 3} \bigg) \times \dfrac {2} {5} \\\\
-&= (30 - 10) \times \dfrac {2} {5} \\\\
-&= 20 \times \dfrac {2} {5} \\\\
-&= \dfrac {20 \times 2} {5} \\\\
-&= \dfrac {4 \times 5 \times 2} {5} \\\\
-&= \dfrac {4 \times \cancel {5} \times 2} {\cancel {5}} \\\\
-&= 4 \times 2 \\\\
-&= 8
+\text{Blue socks}               &= (\text{Total socks} \ - \ \text{White socks}) \times \dfrac{2} {5} \\\\
+                                &= \bigg (30 - 30 \times \dfrac {1} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {30} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {3 \times 10} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {\cancel {3} \times 10} {\cancel 3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= (30 - 10) \times \dfrac {2} {5} \\\\
+                                &= 20 \times \dfrac {2} {5} \\\\
+                                &= \dfrac {20 \times 2} {5} \\\\
+                                &= \dfrac {4 \times 5 \times 2} {5} \\\\
+                                &= \dfrac {4 \times \cancel {5} \times 2} {\cancel {5}} \\\\
+                                &= 4 \times 2 \\\\
+                                &= 8
 \end{aligned}
 $
 
@@ -3142,21 +3141,20 @@ Total socks $= 30$
 
 White socks $= 30 \times \dfrac {1} {3}$
 
-Blue socks $= (\text{Total socks} \ - \ \text{White socks}) \times \dfrac{2} {5}$
-
 $
 \begin{aligned}
-&= \bigg (30 - 30 \times \dfrac {1} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {30} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {3 \times 10} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {\cancel {3} \times 10} {\cancel 3} \bigg) \times \dfrac {2} {5} \\\\
-&= (30 - 10) \times \dfrac {2} {5} \\\\
-&= 20 \times \dfrac {2} {5} \\\\
-&= \dfrac {20 \times 2} {5} \\\\
-&= \dfrac {4 \times 5 \times 2} {5} \\\\
-&= \dfrac {4 \times \cancel {5} \times 2} {\cancel {5}} \\\\
-&= 4 \times 2 \\\\
-&= 8
+\text{Blue socks}               &= (\text{Total socks} \ - \ \text{White socks}) \times \dfrac{2} {5} \\\\
+                                &= \bigg (30 - 30 \times \dfrac {1} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {30} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {3 \times 10} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {\cancel {3} \times 10} {\cancel 3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= (30 - 10) \times \dfrac {2} {5} \\\\
+                                &= 20 \times \dfrac {2} {5} \\\\
+                                &= \dfrac {20 \times 2} {5} \\\\
+                                &= \dfrac {4 \times 5 \times 2} {5} \\\\
+                                &= \dfrac {4 \times \cancel {5} \times 2} {\cancel {5}} \\\\
+                                &= 4 \times 2 \\\\
+                                &= 8
 \end{aligned}
 $
 
@@ -3189,16 +3187,17 @@ Write down how many pairs of red socks he could make.
 <div class='workings'>
 <div class='working'>
 
-Pairs of red socks $= \dfrac {\text {total socks} - \text {(white socks + blue socks)}} {2}$
+As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {30 - (8 + 10)}{2} \\\\
-&= \dfrac {30 - 18}{2} \\\\
-&= \dfrac {12}{2} \\\\
-&= \dfrac {6 \times 2} {2} \\\\
-&= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-&= 6 \ \text {pairs}
+\text{Pairs of red socks}               &= \dfrac {\text {Total socks} - (\text {White socks} + \text{Blue socks})} {2} \\\\
+                                        &= \dfrac {30 - (8 + 10)}{2} \\\\
+                                        &= \dfrac {30 - 18}{2} \\\\
+                                        &= \dfrac {12}{2} \\\\
+                                        &= \dfrac {6 \times 2} {2} \\\\
+                                        &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+                                        &= 6 \ \text {pairs}
 \end{aligned}
 $
 
@@ -3216,16 +3215,17 @@ $6 \ \text {pairs}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Pairs of red socks $= \dfrac {\text {total socks} - \text {(white socks + blue socks)}} {2}$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {30 - (8 + 10)}{2} \\\\
-&= \dfrac {30 - 18}{2} \\\\
-&= \dfrac {12}{2} \\\\
-&= \dfrac {6 \times 2} {2} \\\\
-&= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-&= 6 \ \text {pairs}
+\text{Pairs of red socks}               &= \dfrac {\text {Total socks} - (\text {White socks} + \text{Blue socks})} {2} \\\\
+                                        &= \dfrac {30 - (8 + 10)}{2} \\\\
+                                        &= \dfrac {30 - 18}{2} \\\\
+                                        &= \dfrac {12}{2} \\\\
+                                        &= \dfrac {6 \times 2} {2} \\\\
+                                        &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+                                        &= 6 \ \text {pairs}
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1902,7 +1902,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>370E6891-00C4-4400-9412-56FFA4BE4110</p>
 </div>
@@ -1916,7 +1916,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1936,11 +1936,12 @@ $300 \ \text{km}$. How much did he pay?
 
 $
 \begin{aligned}
-\text {Man pays for 4 days and 300km} &= 4 \times \pounds 35 + 300 \times 34 \text {p} \\\\
+\text {Amount he paid}                &= 4 \times \pounds 35 + 300 \times 34 \text {p} \\\\
                                       &= \pounds 140 + 10200 \text {p} \\\\
                                       &= \pounds 140 + \pounds \dfrac {10200} {100} \\\\
-                                      &= \pounds 140 + \pounds \dfrac {102 \cancel {00}} {1 \cancel {00}} \\\\
-                                      &= \pounds 140 + \pounds 102 \\\\
+                                      &= 140 +  \dfrac {102 \times 100} {100} \\\\
+                                      &= 140 +  \dfrac {102 \times \cancel {100}} { \cancel {100}} \\\\
+                                      &= 140 +  102 \\\\
                                       &= \pounds 242
 \end{aligned}
 $
@@ -1959,11 +1960,12 @@ $\pounds 242$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Man pays for 4 days and 300km} &= 4 \times \pounds 35 + 300 \times 34 \text {p} \\\\
+\text {Amount he paid}                &= 4 \times \pounds 35 + 300 \times 34 \text {p} \\\\
                                       &= \pounds 140 + 10200 \text {p} \\\\
                                       &= \pounds 140 + \pounds \dfrac {10200} {100} \\\\
-                                      &= \pounds 140 + \pounds \dfrac {102 \cancel {00}} {1 \cancel {00}} \\\\
-                                      &= \pounds 140 + \pounds 102 \\\\
+                                      &= 140 +  \dfrac {102 \times 100} {100} \\\\
+                                      &= 140 +  \dfrac {102 \times \cancel {100}} { \cancel {100}} \\\\
+                                      &= 140 +  102 \\\\
                                       &= \pounds 242
 \end{aligned}
 $
@@ -2860,7 +2862,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CA23ED80-3421-4BAC-BBB7-618D72B3F32C</p>
 </div>
@@ -2874,7 +2876,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3077,6 +3079,8 @@ Sam and Julia find there is one number for which, if they both start from that n
 <div class='workings'>
 <div class='working'>
 
+Let the number they both start with $= a$
+
 As per the question,
 
 $
@@ -3103,7 +3107,9 @@ $11$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the number they both start with $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -5308,7 +5314,7 @@ Last part not done
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0FE51052-D2CD-4586-8EBB-DB99CD3025CA</p>
 </div>
@@ -5322,7 +5328,7 @@ Last part not done
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5383,7 +5389,8 @@ How many are left at the end of the second day?
 
 $
 \begin{aligned}
-\text{Leaves left at the end of second day} &= \dfrac {400000} {4} \\\\
+\text{Leaves left at the end of second day} &= \dfrac {1} {2} \times \dfrac {1} {2} \times 400000 \\\\
+                                            &= \dfrac {400000} {4} \\\\
                                             &= \dfrac {100000 \times 4} {4} \\\\
                                             &= \dfrac {100000 \times \cancel {4}} {\cancel {4}} \\\\
                                             &= 100000
@@ -5404,7 +5411,8 @@ $100000$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Leaves left at the end of second day} &= \dfrac {400000} {4} \\\\
+\text{Leaves left at the end of second day} &= \dfrac {1} {2} \times \dfrac {1} {2} \times 400000 \\\\
+                                            &= \dfrac {400000} {4} \\\\
                                             &= \dfrac {100000 \times 4} {4} \\\\
                                             &= \dfrac {100000 \times \cancel {4}} {\cancel {4}} \\\\
                                             &= 100000

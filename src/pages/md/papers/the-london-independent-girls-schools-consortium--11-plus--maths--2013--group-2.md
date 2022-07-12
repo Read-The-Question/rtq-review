@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -660,7 +660,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>20A45DB5-153C-4BAE-BAB2-5E40D2045B0E</p>
 </div>
@@ -674,7 +674,7 @@ $
 <p>rag_mm_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3948,7 +3948,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>700724CE-B47C-452E-95FE-72A704D2129A</p>
 </div>
@@ -3959,7 +3959,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3984,7 +3984,7 @@ If the length of piece $A$ is $5$ units, estimate the length of $B$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Length of piece $B$ is approximately $7.5$ units
 
 </div>
 <div class='working'>
@@ -3996,7 +3996,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+7.5 units
 
 </div>
 <div class='answer'>
@@ -4008,7 +4008,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Length of piece $B$ is approximately $7.5$ units
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4025,7 +4025,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>7.5 units
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -4041,6 +4041,43 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='700724CE-B47C-452E-95FE-72A704D2129A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='700724CE-B47C-452E-95FE-72A704D2129A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='700724CE-B47C-452E-95FE-72A704D2129A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='700724CE-B47C-452E-95FE-72A704D2129A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='700724CE-B47C-452E-95FE-72A704D2129A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='700724CE-B47C-452E-95FE-72A704D2129A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='700724CE-B47C-452E-95FE-72A704D2129A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='700724CE-B47C-452E-95FE-72A704D2129A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='700724CE-B47C-452E-95FE-72A704D2129A' id='FORM-700724CE-B47C-452E-95FE-72A704D2129A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-700724CE-B47C-452E-95FE-72A704D2129A'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5268,7 +5305,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>5116C593-B84B-4E1A-B0A4-93B1D9786F62</p>
 </div>
@@ -5282,7 +5319,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5508,6 +5545,23 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (c) :
+
+replace \"sec\" with \"seconds\" 
+
+in section.answer :
+
+replace the answer : $12 \ \text {seconds}$
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7843,7 +7897,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AFFC377F-8DB8-4D17-8980-0952A23564BA</p>
 </div>
@@ -7854,7 +7908,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7892,7 +7946,48 @@ Fill in the dotted line to complete the following diagrams:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+From first image,
+
+$
+\begin{aligned}
+&= 13 \times 3 + 7 + 8 \\\\
+&= 39 + 15 \\\\
+&= 54 \\\\
+\end{aligned}
+$
+
+From second image,
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+12 \times 4 + a + 6 &= 55 \\\\
+48 + a + 6 &= 55 \\\\
+54 + a &= 55 \\\\
+a &= 55 - 54 \\\\
+a &= 1 \\\\
+\end{aligned}
+$
+
+From third image,
+
+Let the first missing number $= a$
+
+Let the second missing number $= b$
+
+$
+\begin{aligned}
+a \times b + 9 + 8 &= 38 \\\\
+ab + 17 &= 38 \\\\
+ab &= 38 - 17 \\\\
+ab &= 21 \\\\
+a \times b &= 1 \times 21 \ \text{Or,}\ \\\\
+a \times b &= 3 \times 7 \ \text{Or,}\ \\\\
+a \times b &= 7 \times 3 \ \text{Or,}\ \\\\
+a \times b &= 21 \times 1 \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -7904,7 +7999,11 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$
+55 \\\\
+1 \\\\
+(1, 21) \ \text{Or,}\ (3, 7) \ \text{Or,}\ (7, 3) \ \text{Or,}\ (21, 1) \\\\
+$
 
 </div>
 <div class='answer'>
@@ -7916,7 +8015,48 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>From first image,
+
+$
+\begin{aligned}
+&= 13 \times 3 + 7 + 8 \\\\
+&= 39 + 15 \\\\
+&= 54 \\\\
+\end{aligned}
+$
+
+From second image,
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+12 \times 4 + a + 6 &= 55 \\\\
+48 + a + 6 &= 55 \\\\
+54 + a &= 55 \\\\
+a &= 55 - 54 \\\\
+a &= 1 \\\\
+\end{aligned}
+$
+
+From third image,
+
+Let the first missing number $= a$
+
+Let the second missing number $= b$
+
+$
+\begin{aligned}
+a \times b + 9 + 8 &= 38 \\\\
+ab + 17 &= 38 \\\\
+ab &= 38 - 17 \\\\
+ab &= 21 \\\\
+a \times b &= 1 \times 21 \ \text{Or,}\ \\\\
+a \times b &= 3 \times 7 \ \text{Or,}\ \\\\
+a \times b &= 7 \times 3 \ \text{Or,}\ \\\\
+a \times b &= 21 \times 1 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -7933,7 +8073,11 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$
+55 \\\\
+1 \\\\
+(1, 21) \ \text{Or,}\ (3, 7) \ \text{Or,}\ (7, 3) \ \text{Or,}\ (21, 1) \\\\
+$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -7949,6 +8093,43 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AFFC377F-8DB8-4D17-8980-0952A23564BA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='AFFC377F-8DB8-4D17-8980-0952A23564BA' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AFFC377F-8DB8-4D17-8980-0952A23564BA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='AFFC377F-8DB8-4D17-8980-0952A23564BA' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AFFC377F-8DB8-4D17-8980-0952A23564BA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AFFC377F-8DB8-4D17-8980-0952A23564BA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='AFFC377F-8DB8-4D17-8980-0952A23564BA' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='AFFC377F-8DB8-4D17-8980-0952A23564BA' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='AFFC377F-8DB8-4D17-8980-0952A23564BA' id='FORM-AFFC377F-8DB8-4D17-8980-0952A23564BA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AFFC377F-8DB8-4D17-8980-0952A23564BA'>Initial</p>
+</div>
 </div>
 </li>
 <li>

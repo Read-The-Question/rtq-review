@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -654,7 +654,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>738E804C-DF07-4608-919A-55C23079A59F</p>
 </div>
@@ -668,7 +668,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -696,12 +696,7 @@ a + 7 a &= 72 \\\\
 a       &= \dfrac {72} {8} \\\\
 a       &= \dfrac {8 \times 9} {8} \\\\
 a       &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
-a       &= 9
-\end{aligned}
-$
-
-$
-\begin{aligned}
+a       &= 9 \\\\
 \text{Number of white shirts sold} &= 7 \times a \\\\
                                    &= 7 \times 9 \\\\
                                    &= 63
@@ -731,12 +726,7 @@ a + 7 a &= 72 \\\\
 a       &= \dfrac {72} {8} \\\\
 a       &= \dfrac {8 \times 9} {8} \\\\
 a       &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
-a       &= 9
-\end{aligned}
-$
-
-$
-\begin{aligned}
+a       &= 9 \\\\
 \text{Number of white shirts sold} &= 7 \times a \\\\
                                    &= 7 \times 9 \\\\
                                    &= 63
@@ -1423,7 +1413,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>33D4A098-C6B8-48A5-B813-5220DA2DEA7C</p>
 </div>
@@ -1437,7 +1427,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

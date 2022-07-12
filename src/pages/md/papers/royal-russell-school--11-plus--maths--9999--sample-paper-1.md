@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1943,7 +1943,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA</p>
 </div>
@@ -1954,7 +1954,7 @@ $
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2074,7 +2074,16 @@ What is $\dfrac{3}{5}$ of $20$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {3} {5} \ \text{of} \ 20 \\\\
+&= \dfrac {3} {5} \times 20 \\\\
+&= \dfrac {3\times4\times5}{5} \\\\
+&= \dfrac {3 \times4\times \cancel{5}} {\cancel{5}} \\\\
+&=3\times4\\\\
+&= 12
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -2086,7 +2095,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$12$
 
 </div>
 <div class='answer'>
@@ -2098,7 +2107,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {3} {5} \ \text{of} \ 20 \\\\
+&= \dfrac {3} {5} \times 20 \\\\
+&= \dfrac {3\times4\times5}{5} \\\\
+&= \dfrac {3 \times4\times \cancel{5}} {\cancel{5}} \\\\
+&=3\times4\\\\
+&= 12
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2115,7 +2133,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$12$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2142,7 +2160,16 @@ What is $0.1$ of $\pounds40$ ?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= 0.1 \ \text{of} \pounds40 \\\\
+&= \dfrac {1} {10} \times 40 \\\\
+&= \dfrac {1 \times 4 \times 10} {10} \\\\
+&= \dfrac {1\times4\times \cancel{10}} {\cancel{10}} \\\\
+&= 1\times 4\\\\
+&=\pounds4
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -2154,7 +2181,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds4$
 
 </div>
 <div class='answer'>
@@ -2166,7 +2193,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 0.1 \ \text{of} \pounds40 \\\\
+&= \dfrac {1} {10} \times 40 \\\\
+&= \dfrac {1 \times 4 \times 10} {10} \\\\
+&= \dfrac {1\times4\times \cancel{10}} {\cancel{10}} \\\\
+&= 1\times 4\\\\
+&=\pounds4
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2183,7 +2219,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds4$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2210,7 +2246,14 @@ Simplify the fraction $\dfrac{24}{36}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&=\dfrac{24}{36}\\\\
+&=\dfrac{2\times3\times4}{3\times3\times4}\\\\
+&=\dfrac{2\times\cancel{3}\times\cancel{4}}{3\times\cancel{3}\times\cancel{4}}\\\\
+&=\dfrac{2}{3}
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -2222,7 +2265,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{2}{3}$
 
 </div>
 <div class='answer'>
@@ -2234,7 +2277,14 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&=\dfrac{24}{36}\\\\
+&=\dfrac{2\times3\times4}{3\times3\times4}\\\\
+&=\dfrac{2\times\cancel{3}\times\cancel{4}}{3\times\cancel{3}\times\cancel{4}}\\\\
+&=\dfrac{2}{3}
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2251,7 +2301,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{2}{3}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2278,7 +2328,7 @@ What is $0.03$ re-written as a fraction ?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\dfrac{3}{100}$
 
 </div>
 <div class='working'>
@@ -2290,7 +2340,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{3}{100}$
 
 </div>
 <div class='answer'>
@@ -2302,7 +2352,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{100}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2319,7 +2369,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{100}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2414,7 +2464,15 @@ Work out $\dfrac{1}{2}+\dfrac{1}{4}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{\aligned}
+&=\dfrac{1}{2}+\dfrac{1}{4}\\\\
+&=\dfrac{1\times2}{2\times 2}+\dfrac{1}{4}\\\\
+&=\dfrac{2}{4}+\dfrac{1}{4}\\\\
+&=\dfrac{2+1}{4}\\\\
+&=\dfrac{3}{4}\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -2426,7 +2484,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{3}{4}$
 
 </div>
 <div class='answer'>
@@ -2438,7 +2496,15 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{\aligned}
+&=\dfrac{1}{2}+\dfrac{1}{4}\\\\
+&=\dfrac{1\times2}{2\times 2}+\dfrac{1}{4}\\\\
+&=\dfrac{2}{4}+\dfrac{1}{4}\\\\
+&=\dfrac{2+1}{4}\\\\
+&=\dfrac{3}{4}\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2455,7 +2521,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4}$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2474,6 +2540,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' id='FORM-A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA'>Initial</p>
+</div>
 </div>
 </li>
 <li>

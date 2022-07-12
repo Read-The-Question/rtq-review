@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-g0"
 title: "TopicPaper - Number - 4 - G0"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3013,7 +3013,7 @@ $(7 \times 5) - 4  \ \square \  7 \times (5 - 4)$
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -3023,7 +3023,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3033,7 +3033,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $(7 \times 5) - 4 \ \quad \boxed{\green
 {>}}  \quad  7 \times (5 - 4)$
@@ -3050,7 +3050,7 @@ $(7 \times 5) - 4 \ \quad  > \quad  7 \times (5 - 4)$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
+<pre class='language-latex'><code class='language-latex'>First value
 
 $
 \begin{aligned}
@@ -3060,7 +3060,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3070,7 +3070,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $(7 \times 5) - 4 \ \quad \boxed{\rtq_katex_color_answer{>}}  \quad  7 \times (5 - 4)$
 </code></pre>
@@ -3101,7 +3101,7 @@ $4 + 7 \times 5 \ \square \ 4 + (7 \times 5)$
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+First value.
 
 $
 \begin{aligned}
@@ -3111,7 +3111,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value.
 
 $
 \begin{aligned}
@@ -3121,7 +3121,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 + 7 \times 5 \ \quad \boxed{\green
 {=}}  \quad  4 + (7 \times 5)$
@@ -3138,7 +3138,7 @@ $4 + 7 \times 5 \ \quad  =  \quad  4 + (7 \times 5)$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
+<pre class='language-latex'><code class='language-latex'>First value.
 
 $
 \begin{aligned}
@@ -3148,7 +3148,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value.
 
 $
 \begin{aligned}
@@ -3158,7 +3158,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 + 7 \times 5 \ \quad \boxed{\rtq_katex_color_answer{=}}  \quad  4 + (7 \times 5)$
 </code></pre>
@@ -3190,7 +3190,7 @@ $4 \times 5 + 7 \ \square \ (5 + 4) \times (7 - 4)$
 <div class='working'>
 
 
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -3200,7 +3200,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3210,7 +3210,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 \times 5 + 7 \ \quad \boxed{\green
 {=}}  \quad  (5 + 4) \times (7 - 4)$
@@ -3228,7 +3228,7 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -3238,7 +3238,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3248,7 +3248,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 \times 5 + 7 \ \quad \boxed{\rtq_katex_color_answer{=}}  \quad  (5 + 4) \times (7 - 4)$
 </code></pre>
@@ -3388,12 +3388,19 @@ $57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-57 &= \maroonC
+$ 57 = \maroonC
  {19} \times \maroonC
- {3}
-\end{aligned}
+ {3}$
+
+Let's verify,
+
+$
+\begin{array}{cccccccccccccc}
+             & 1  & 9 \\
+{}\times     &    & 3 \\
+\hline
+             & 5  & 7
+\end{array}
 $
 
 </div>
@@ -3408,10 +3415,17 @@ $19 \times 3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-57 &= \rtq_katex_color_info {19} \times \rtq_katex_color_info {3}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>$ 57 = \rtq_katex_color_info {19} \times \rtq_katex_color_info {3}$
+
+Let's verify,
+
+$
+\begin{array}{cccccccccccccc}
+             & 1  & 9 \\
+{}\times     &    & 3 \\
+\hline
+             & 5  & 7
+\end{array}
 $
 </code></pre>
 </div>
@@ -3441,12 +3455,19 @@ $91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-91 &= \maroonC
+$ 91 = \maroonC
  {13} \times \maroonC
- {7}
-\end{aligned}
+ {7}$
+
+Let's verify,
+
+$
+\begin{array}{cccccccccccccc}
+             & 1  & 3 \\
+{}\times     &    & 7 \\
+\hline
+             & 9  & 1
+\end{array}
 $
 
 </div>
@@ -3461,10 +3482,17 @@ $13 \times 7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-91 &= \rtq_katex_color_info {13} \times \rtq_katex_color_info {7}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>$ 91 = \rtq_katex_color_info {13} \times \rtq_katex_color_info {7}$
+
+Let's verify,
+
+$
+\begin{array}{cccccccccccccc}
+             & 1  & 3 \\
+{}\times     &    & 7 \\
+\hline
+             & 9  & 1
+\end{array}
 $
 </code></pre>
 </div>
@@ -3526,7 +3554,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E360A432-F135-4436-A055-D63323CCC9EF</p>
 </div>
@@ -3540,7 +3568,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3600,7 +3628,7 @@ $3^4$ or $4^3$?
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -3611,7 +3639,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3622,7 +3650,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $3 ^ 4$ is bigger than $4 ^ 3$.
 
@@ -3638,7 +3666,7 @@ $3 ^ 4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
+<pre class='language-latex'><code class='language-latex'>First value
 
 $
 \begin{aligned}
@@ -3649,7 +3677,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3660,7 +3688,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $3 ^ 4$ is bigger than $4 ^ 3$.
 </code></pre>
@@ -3784,7 +3812,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2</p>
 </div>
@@ -3798,7 +3826,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4076,21 +4104,22 @@ The area of a postage stamp is calculated as:
 
 $2 \ \text{cm} \times 2.5 \ \text{cm} = 5 \ \text{cm}^2$
 
-What is the area of this stamo in $\text{mm}^2$?
+What is the area of this stamp in $\text{mm}^2$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-2 \ \text{cm} \times 2.5 \ \text{cm}                        &= 5 \ \text{cm}^2 \\\\
-2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm}    &= 5 \times 100 \ \text{mm}^2 \\\\\
-20 \ \text{mm} \times 25 \ \text{mm}                        &= 500 \ \text{mm}^2
+&= 2 \ \text{cm} \times 2.5 \ \text{cm}  \\\\                      
+&= 2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm} \\\\
+&= 5 \times 100 \ \text{mm}^2 \\\\
+&= 500 \ \text{mm}^2
 \end{aligned}
 $
+
 
 </div>
 </div>
@@ -4104,15 +4133,16 @@ $500 \ \text{mm}^2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-2 \ \text{cm} \times 2.5 \ \text{cm}                        &= 5 \ \text{cm}^2 \\\\
-2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm}    &= 5 \times 100 \ \text{mm}^2 \\\\\
-20 \ \text{mm} \times 25 \ \text{mm}                        &= 500 \ \text{mm}^2
+&= 2 \ \text{cm} \times 2.5 \ \text{cm}  \\\\                      
+&= 2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm} \\\\
+&= 5 \times 100 \ \text{mm}^2 \\\\
+&= 500 \ \text{mm}^2
 \end{aligned}
 $
+
 </code></pre>
 </div>
 </div>

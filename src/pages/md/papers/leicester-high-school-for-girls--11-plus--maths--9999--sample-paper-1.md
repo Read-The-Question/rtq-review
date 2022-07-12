@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1569,7 +1569,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A8E86124-27D8-4CD2-9092-38E26EDAFF3C</p>
 </div>
@@ -1583,7 +1583,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2001,7 +2001,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>31862070-31F4-4769-871C-B8B78E60185D</p>
 </div>
@@ -2015,7 +2015,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2073,7 +2073,19 @@ $4 \times \Box = 36$
 <div class='workings'>
 <div class='working'>
 
-$9$
+Let the missing value = $a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times a &= 36 \\\\
+a       &= \dfrac {36} {4} \\\\
+a       &= \dfrac {4 \times 9} {4} \\\\
+a       &= \dfrac {\cancel {4} \times 9} {\cancel {4}} \\\\
+a       &= 9 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2087,7 +2099,19 @@ $9$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$9$
+<pre class='language-latex'><code class='language-latex'>Let the missing value = $a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times a &= 36 \\\\
+a       &= \dfrac {36} {4} \\\\
+a       &= \dfrac {4 \times 9} {4} \\\\
+a       &= \dfrac {\cancel {4} \times 9} {\cancel {4}} \\\\
+a       &= 9 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>

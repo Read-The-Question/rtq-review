@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2017-sample-paper-2"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -332,7 +332,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>956A6B0F-7A0D-461F-9183-623BBCE06B2D</p>
 </div>
@@ -346,7 +346,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -465,7 +465,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B1035CFF-9D27-4291-9D78-74E41193350E</p>
 </div>
@@ -479,7 +479,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -500,12 +500,13 @@ How many buses would be needed to take $300$ pupils?
 $
 \begin{aligned}
 \text{Buses needed}     &= \dfrac {300} {14} \\\\
-                        &= 21.\dot{4} \\\\
+                        &= \dfrac {150 \times 2} {7 \times 2} \\\\
+                        &= \dfrac {150 \times \cancel 2} {7 \times \cancel 2} \\\\
+                        &= \dfrac {150} {7} \\\\
+                        &= 21 \dfrac {3} {7} \\\\
                         &= 22
 \end{aligned}
 $
-
-Rounding up, $22$ buses are needed to carry $300$ pupils.
 
 </div>
 </div>
@@ -522,12 +523,13 @@ $22$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Buses needed}     &= \dfrac {300} {14} \\\\
-                        &= 21.\dot{4} \\\\
+                        &= \dfrac {150 \times 2} {7 \times 2} \\\\
+                        &= \dfrac {150 \times \cancel 2} {7 \times \cancel 2} \\\\
+                        &= \dfrac {150} {7} \\\\
+                        &= 21 \dfrac {3} {7} \\\\
                         &= 22
 \end{aligned}
 $
-
-Rounding up, $22$ buses are needed to carry $300$ pupils.
 </code></pre>
 </div>
 </div>
@@ -1012,7 +1014,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CE54E1C3-FEFC-401E-BEA5-7DF8F88FFE0E</p>
 </div>
@@ -1026,7 +1028,7 @@ $60$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1062,6 +1064,7 @@ $
 \text {one tenth of the number}     &= \dfrac {1} {10} \times a \\\\
                                     &= \dfrac {1} {10} \times 20 \\\\
                                     &= \dfrac {20} {10} \\\\
+                                    &= \dfrac {2 \cancel 0} {1 \cancel 0} \\\\
                                     &= 2
 \end{aligned}
 $
@@ -1095,6 +1098,7 @@ $
 \text {one tenth of the number}     &= \dfrac {1} {10} \times a \\\\
                                     &= \dfrac {1} {10} \times 20 \\\\
                                     &= \dfrac {20} {10} \\\\
+                                    &= \dfrac {2 \cancel 0} {1 \cancel 0} \\\\
                                     &= 2
 \end{aligned}
 $
@@ -2825,7 +2829,7 @@ $84$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3A513985-D1D3-40B2-B05F-CC9885D680E6</p>
 </div>
@@ -2839,7 +2843,7 @@ $84$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3805,7 +3809,7 @@ It is nearest to $4.565$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42A469A6-6AE1-419D-A33A-1F27EE2552D0</p>
 </div>
@@ -3819,7 +3823,7 @@ It is nearest to $4.565$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3848,11 +3852,15 @@ c       &= 6 + 12 t \\\\
 12t     &= 100 - 6 \\\\
 12t     &= 94 \\\\
 t       &= \dfrac {94} {12} \\\\
-t       &= 7 \text { remainder } 10
+t       &= \dfrac {47 \times 2} {6 \times 2} \\\\
+t       &= \dfrac {47 \times \cancel 2} {6 \times \cancel 2} \\\\
+t       &= \dfrac {47} {6} \\\\
+t       &= 7 \dfrac {5} {6} \\\\
+t       &= 7
 \end{aligned}
 $
 
-Max $7$ tickets can be bought with $\pounds 100$.
+Max tickets that can be bought $= 7$.
 
 </div>
 </div>
@@ -3875,11 +3883,15 @@ c       &= 6 + 12 t \\\\
 12t     &= 100 - 6 \\\\
 12t     &= 94 \\\\
 t       &= \dfrac {94} {12} \\\\
-t       &= 7 \text { remainder } 10
+t       &= \dfrac {47 \times 2} {6 \times 2} \\\\
+t       &= \dfrac {47 \times \cancel 2} {6 \times \cancel 2} \\\\
+t       &= \dfrac {47} {6} \\\\
+t       &= 7 \dfrac {5} {6} \\\\
+t       &= 7
 \end{aligned}
 $
 
-Max $7$ tickets can be bought with $\pounds 100$.
+Max tickets that can be bought $= 7$.
 </code></pre>
 </div>
 </div>

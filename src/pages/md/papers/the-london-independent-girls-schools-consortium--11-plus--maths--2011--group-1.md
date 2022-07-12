@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1450,7 +1450,7 @@ Count $= 6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
 </div>
@@ -1464,7 +1464,7 @@ Count $= 6$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1556,6 +1556,17 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write  both katex in one katex
+
+remove s from \"charges\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2170,7 +2181,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>0A614191-1791-4F03-962B-E2CF656E9B67</p>
 </div>
@@ -2184,7 +2195,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2371,6 +2382,27 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove step 3, 4, 5
+
+ and change answer in section.answer
+
+
+
+part (b) : 
+
+step 2: replace with : 2 hours 32 minutes
+
+dont use 2 katex, combine both katex
+
+step 3 : replace R.H.S. : 12:14 - 2 hours 32 minutes
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3244,7 +3276,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>6563C9DA-D275-4231-9D71-242D5FD8FE30</p>
 </div>
@@ -3258,7 +3290,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3409,6 +3441,61 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove the line 
+
+replace with :
+
+Let total travelling time $= a$
+
+Time spent travelling in a car $= a/2$
+
+As per the question,
+
+
+
+now start a katex:
+
+Time spent in a train = 2 hours
+
+1/2 of (a - a/2)      = 2 
+
+1/2 x a/2           = 2
+
+and solve further 
+
+
+
+now start a new katex:
+
+Total travelling time = (value of a)
+
+Time spent in a car   = a/2 
+
+                      = ....
+
+
+
+part (b) : 
+
+remove whole katex:
+
+replace with :
+
+As per the above answer,
+
+Total travelling time = ...
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>

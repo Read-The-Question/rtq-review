@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-g0"
 title: "TopicPaper - Number - 7 - G0"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -408,7 +408,7 @@ Do this one as 2F004FED-C180-43D6-92EB-C8E129B37242 or 57C9979B-2ACE-4BAF-8E7F-A
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>076C322A-4256-441B-A7AC-33130D028CB9</p>
 </div>
@@ -422,7 +422,7 @@ Do this one as 2F004FED-C180-43D6-92EB-C8E129B37242 or 57C9979B-2ACE-4BAF-8E7F-A
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -441,12 +441,10 @@ Add together two thousand three hundred and seven AND one thousand and twenty-fo
 
 
 $
-\begin{array}{cccccccccccccc}
-    &   2   &   3   &   0   &   7 \\
-{}+ &   1   &   0   &   2   &   4 \\
-\hline
-    &   3   &   3   &   3   &   1
-\end{array}
+\begin{aligned}
+&= 2307 + 1024 \\\\
+&= 3331
+\end{aligned}
 $
 
 </div>
@@ -463,12 +461,10 @@ $3331$
 
 <pre class='language-latex'><code class='language-latex'>
 $
-\begin{array}{cccccccccccccc}
-    &   2   &   3   &   0   &   7 \\
-{}+ &   1   &   0   &   2   &   4 \\
-\hline
-    &   3   &   3   &   3   &   1
-\end{array}
+\begin{aligned}
+&= 2307 + 1024 \\\\
+&= 3331
+\end{aligned}
 $
 </code></pre>
 </div>
@@ -1321,7 +1317,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7C785172-CCF2-4BDA-BF7D-65D283EB76B5</p>
 </div>
@@ -1335,7 +1331,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1880,7 +1876,7 @@ or CD6BCBD5-16AA-4496-BA89-31C177B22E60
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FCB6CEA1-F7E6-4747-8C98-E15D79B8A2AE</p>
 </div>
@@ -1894,7 +1890,7 @@ or CD6BCBD5-16AA-4496-BA89-31C177B22E60
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

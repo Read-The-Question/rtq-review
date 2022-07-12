@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1536,6 +1536,8 @@ How much does a pack of balloons cost?
 <div class='workings'>
 <div class='working'>
 
+
+
 $
 \begin{aligned}
 \text {Cost of a pack of balloons} &= \text {Cost of a balloon pump and four packs of balloons} - \text {Cost of a balloon pump and three packs of balloons} \\\\
@@ -1556,7 +1558,9 @@ $\pounds 2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+
+$
 \begin{aligned}
 \text {Cost of a pack of balloons} &= \text {Cost of a balloon pump and four packs of balloons} - \text {Cost of a balloon pump and three packs of balloons} \\\\
                                    &= 11 - 9 \\\\
@@ -4761,7 +4765,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>51F26F12-4636-4241-A2E6-BF22B6A0DD2F</p>
 </div>
@@ -4775,7 +4779,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4821,6 +4825,8 @@ a                        &= 3 \ \text {cm}
 \end{aligned}
 $
 
+The space between the planks $= 3 cm$
+
 </div>
 </div>
 <div class='answers'>
@@ -4849,6 +4855,8 @@ a                        &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
 a                        &= 3 \ \text {cm}
 \end{aligned}
 $
+
+The space between the planks $= 3 cm$
 </code></pre>
 </div>
 </div>
@@ -5155,7 +5163,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>96EEA4D7-9474-4AF1-B44A-ACEF806ADE3D</p>
 </div>
@@ -5169,7 +5177,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

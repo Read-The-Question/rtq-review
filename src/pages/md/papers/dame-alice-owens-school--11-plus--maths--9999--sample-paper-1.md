@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3316,7 +3316,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B7CDC218-814A-4291-B812-C2C813D385FB</p>
 </div>
@@ -3330,7 +3330,7 @@ TODOANSWER
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3349,12 +3349,12 @@ One inch is about $2.5 \ \text{centimetres}$. How many inches are roughly equal 
 
 $
 \begin{aligned}
-1 \ \text {centimetres}               &= \dfrac {1} {2.5} \ \text {inches} \\\\
-1 \times 100 \ \text {centimetres}    &= \dfrac {100} {2.5} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {1000} {25} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {40 \times 25} {25} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {40 \times \cancel {25}} {\cancel {25}} \ \text {inches} \\\\
-1 \ \text {metre}                     &= 40 \ \text {inches} \\\\
+\text{Value of 1 metre in inches}           &= \left( \dfrac {1 \ \text{metre}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \left( \dfrac {100 \ \text{centimetres}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \dfrac {100 \times 10} {25} \\\\
+                                            &= \dfrac {25 \times 4 \times 10} {25} \\\\
+                                            &= \dfrac {\cancel {25} \times 4 \times 10} {\cancel {25}} \\\\
+                                            &= 40 \ \text{inches}
 \end{aligned}
 $
 
@@ -3372,12 +3372,12 @@ $40 \ \text{inches}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text {centimetres}               &= \dfrac {1} {2.5} \ \text {inches} \\\\
-1 \times 100 \ \text {centimetres}    &= \dfrac {100} {2.5} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {1000} {25} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {40 \times 25} {25} \ \text {inches} \\\\
-1 \ \text {metre}                     &= \dfrac {40 \times \cancel {25}} {\cancel {25}} \ \text {inches} \\\\
-1 \ \text {metre}                     &= 40 \ \text {inches} \\\\
+\text{Value of 1 metre in inches}           &= \left( \dfrac {1 \ \text{metre}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \left( \dfrac {100 \ \text{centimetres}} {2.5 \ \text{centimetres}} \right) \ \text{inches} \\\\
+                                            &= \dfrac {100 \times 10} {25} \\\\
+                                            &= \dfrac {25 \times 4 \times 10} {25} \\\\
+                                            &= \dfrac {\cancel {25} \times 4 \times 10} {\cancel {25}} \\\\
+                                            &= 40 \ \text{inches}
 \end{aligned}
 $
 </code></pre>
@@ -4965,7 +4965,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D44610EA-AB8D-4FD4-B65F-78A4B633E925</p>
 </div>
@@ -4979,7 +4979,7 @@ TODOANSWER
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4996,17 +4996,8 @@ List all the factors of $36$.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-1 \times 36 &= 36 \\\\
-2 \times 18 &= 36 \\\\
-3 \times 12 &= 36 \\\\
-4 \times 9  &= 36 \\\\
-6 \times 6  &= 36
-\end{aligned}
-$
 
-The factors of 36 are $1, 2, 3, 4, 6, 9, 12, 18$.
+$1, 2, 3, 4, 6, 9, 12, 18 ,36$.
 
 </div>
 </div>
@@ -5020,17 +5011,8 @@ $1, 2, 3, 4, 6, 9, 12, 18$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-1 \times 36 &= 36 \\\\
-2 \times 18 &= 36 \\\\
-3 \times 12 &= 36 \\\\
-4 \times 9  &= 36 \\\\
-6 \times 6  &= 36
-\end{aligned}
-$
-
-The factors of 36 are $1, 2, 3, 4, 6, 9, 12, 18$.
+<pre class='language-latex'><code class='language-latex'>
+$1, 2, 3, 4, 6, 9, 12, 18 ,36$.
 </code></pre>
 </div>
 </div>
@@ -5337,7 +5319,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7CA73E7B-3025-4C63-BFDC-17AB654A9CA0</p>
 </div>
@@ -5351,7 +5333,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

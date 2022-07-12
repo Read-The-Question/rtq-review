@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -329,7 +329,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>9E15412C-4661-4C5C-9D9D-3029A1E8FD6A</p>
 </div>
@@ -343,7 +343,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -411,6 +411,25 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove step 1 and step 2
+
+d capital in step 3
+
+move step 3 R.H.S to step 4
+
+and replace step 3 R.H.S with : 
+
+15.47 - 13.762
+
+last step remove s from \"seconds\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1401,7 +1420,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>4EC0680A-34C3-42F7-A969-84F026ED93EE</p>
 </div>
@@ -1415,7 +1434,7 @@ $
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

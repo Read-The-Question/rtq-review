@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-g0-prcc"
 title: "TopicPaper - Number - 4 - G0 - PRCC"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3013,7 +3013,7 @@ $(7 \times 5) - 4  \ \square \  7 \times (5 - 4)$
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -3023,7 +3023,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3033,7 +3033,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $(7 \times 5) - 4 \ \quad \boxed{\green
 {>}}  \quad  7 \times (5 - 4)$
@@ -3050,7 +3050,7 @@ $(7 \times 5) - 4 \ \quad  > \quad  7 \times (5 - 4)$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
+<pre class='language-latex'><code class='language-latex'>First value
 
 $
 \begin{aligned}
@@ -3060,7 +3060,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3070,7 +3070,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $(7 \times 5) - 4 \ \quad \boxed{\rtq_katex_color_answer{>}}  \quad  7 \times (5 - 4)$
 </code></pre>
@@ -3101,7 +3101,7 @@ $4 + 7 \times 5 \ \square \ 4 + (7 \times 5)$
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+First value.
 
 $
 \begin{aligned}
@@ -3111,7 +3111,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value.
 
 $
 \begin{aligned}
@@ -3121,7 +3121,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 + 7 \times 5 \ \quad \boxed{\green
 {=}}  \quad  4 + (7 \times 5)$
@@ -3138,7 +3138,7 @@ $4 + 7 \times 5 \ \quad  =  \quad  4 + (7 \times 5)$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
+<pre class='language-latex'><code class='language-latex'>First value.
 
 $
 \begin{aligned}
@@ -3148,7 +3148,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value.
 
 $
 \begin{aligned}
@@ -3158,7 +3158,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 + 7 \times 5 \ \quad \boxed{\rtq_katex_color_answer{=}}  \quad  4 + (7 \times 5)$
 </code></pre>
@@ -3190,7 +3190,7 @@ $4 \times 5 + 7 \ \square \ (5 + 4) \times (7 - 4)$
 <div class='working'>
 
 
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -3200,7 +3200,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3210,7 +3210,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 \times 5 + 7 \ \quad \boxed{\green
 {=}}  \quad  (5 + 4) \times (7 - 4)$
@@ -3228,7 +3228,7 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-Let's calculate the first value.
+First value
 
 $
 \begin{aligned}
@@ -3238,7 +3238,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Second value
 
 $
 \begin{aligned}
@@ -3248,7 +3248,7 @@ $
 \end{aligned}
 $
 
-Using the calculation above,
+Therefore,
 
 $4 \times 5 + 7 \ \quad \boxed{\rtq_katex_color_answer{=}}  \quad  (5 + 4) \times (7 - 4)$
 </code></pre>
@@ -3388,12 +3388,19 @@ $57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-57 &= \maroonC
+$ 57 = \maroonC
  {19} \times \maroonC
- {3}
-\end{aligned}
+ {3}$
+
+Let's verify,
+
+$
+\begin{array}{cccccccccccccc}
+             & 1  & 9 \\
+{}\times     &    & 3 \\
+\hline
+             & 5  & 7
+\end{array}
 $
 
 </div>
@@ -3408,10 +3415,17 @@ $19 \times 3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-57 &= \rtq_katex_color_info {19} \times \rtq_katex_color_info {3}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>$ 57 = \rtq_katex_color_info {19} \times \rtq_katex_color_info {3}$
+
+Let's verify,
+
+$
+\begin{array}{cccccccccccccc}
+             & 1  & 9 \\
+{}\times     &    & 3 \\
+\hline
+             & 5  & 7
+\end{array}
 $
 </code></pre>
 </div>
@@ -3441,12 +3455,19 @@ $91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-91 &= \maroonC
+$ 91 = \maroonC
  {13} \times \maroonC
- {7}
-\end{aligned}
+ {7}$
+
+Let's verify,
+
+$
+\begin{array}{cccccccccccccc}
+             & 1  & 3 \\
+{}\times     &    & 7 \\
+\hline
+             & 9  & 1
+\end{array}
 $
 
 </div>
@@ -3461,10 +3482,17 @@ $13 \times 7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-91 &= \rtq_katex_color_info {13} \times \rtq_katex_color_info {7}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>$ 91 = \rtq_katex_color_info {13} \times \rtq_katex_color_info {7}$
+
+Let's verify,
+
+$
+\begin{array}{cccccccccccccc}
+             & 1  & 3 \\
+{}\times     &    & 7 \\
+\hline
+             & 9  & 1
+\end{array}
 $
 </code></pre>
 </div>
@@ -3522,6 +3550,655 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-75DCC5C4-E1C9-4A03-AAE9-DB54181531B6'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>E360A432-F135-4436-A055-D63323CCC9EF</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4:1:7</p>
+</div>
+<div class='rag'>
+<p>Ayushi Mishra</p>
+</div>
+<div class='rag'>
+<p>rag_am_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Which is bigger:
+
+$3^4$ or $4^3$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First value
+
+$
+\begin{aligned}
+&= 3 ^ 4 \\\\
+&= 3 \times 3 \times 3 \times 3 \\\\
+&= 9 \times 9 \\\\
+&= 81
+\end{aligned}
+$
+
+Second value
+
+$
+\begin{aligned}
+&= 4 ^ 3 \\\\
+&= 4 \times 4 \times 4 \\\\
+&= 16 \times 4 \\\\
+&= 64
+\end{aligned}
+$
+
+Therefore,
+
+$3 ^ 4$ is bigger than $4 ^ 3$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 ^ 4$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>First value
+
+$
+\begin{aligned}
+&= 3 ^ 4 \\\\
+&= 3 \times 3 \times 3 \times 3 \\\\
+&= 9 \times 9 \\\\
+&= 81
+\end{aligned}
+$
+
+Second value
+
+$
+\begin{aligned}
+&= 4 ^ 3 \\\\
+&= 4 \times 4 \times 4 \\\\
+&= 16 \times 4 \\\\
+&= 64
+\end{aligned}
+$
+
+Therefore,
+
+$3 ^ 4$ is bigger than $4 ^ 3$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3 ^ 4$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate the result of:
+
+$4^3 - 3^4 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 ^ 3 - 3 ^ 4 \\\\
+&= (4 \times 4 \times 4) - (3 \times 3 \times 3 \times 3) \\\\
+&= (16 \times 4) - (9 \times 9) \\\\
+&= 64 - 81 \\\\
+&= -17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-17$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 4 ^ 3 - 3 ^ 4 \\\\
+&= (4 \times 4 \times 4) - (3 \times 3 \times 3 \times 3) \\\\
+&= (16 \times 4) - (9 \times 9) \\\\
+&= 64 - 81 \\\\
+&= -17
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$-17$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='E360A432-F135-4436-A055-D63323CCC9EF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='E360A432-F135-4436-A055-D63323CCC9EF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='E360A432-F135-4436-A055-D63323CCC9EF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='E360A432-F135-4436-A055-D63323CCC9EF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='E360A432-F135-4436-A055-D63323CCC9EF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='E360A432-F135-4436-A055-D63323CCC9EF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='E360A432-F135-4436-A055-D63323CCC9EF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='E360A432-F135-4436-A055-D63323CCC9EF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='E360A432-F135-4436-A055-D63323CCC9EF' id='FORM-E360A432-F135-4436-A055-D63323CCC9EF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E360A432-F135-4436-A055-D63323CCC9EF'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4:1:9</p>
+</div>
+<div class='rag'>
+<p>Ayushi Mishra</p>
+</div>
+<div class='rag'>
+<p>rag_am_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A bottle contains $0.35 \ \text{litres}$, how many *ml* is this?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.35 \ \text {litres} \\\\
+&= 0.35 \times 1000 \ \text {ml} \\\\
+&= 350 \ \text {ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$350 \ \text {ml}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 0.35 \ \text {litres} \\\\
+&= 0.35 \times 1000 \ \text {ml} \\\\
+&= 350 \ \text {ml}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$350 \ \text {ml}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A picture is $540 \ \text{mm}$ tall, what is this measurement in *cm*?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 540 \ \text {mm} \\\\
+&= \dfrac {540} {10} \ \text {cm} \\\\
+&= 54 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54 \ \text {cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 540 \ \text {mm} \\\\
+&= \dfrac {540} {10} \ \text {cm} \\\\
+&= 54 \ \text {cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$54 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A bag of flour contains $1029 \ \text{g}$. Rewrite the quantity in *kg*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1029 \ \text {g} \\\\
+&= \dfrac {1029} {1000} \ \text {kg} \\\\
+&= 1.029 \ \text {kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.029 \ \text {kg}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 1029 \ \text {g} \\\\
+&= \dfrac {1029} {1000} \ \text {kg} \\\\
+&= 1.029 \ \text {kg}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1.029 \ \text {kg}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Add together $1 \ \text{mm}$, $0.1 \ \text{cm}$ and $0.1 \ \text{m}$. Give your answer in *cm*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  1 \ \text {mm} + 0.1 \ \text {cm} + 0.1 \ \text {m} \\\\
+&=  \dfrac {1} {10} \ \text {cm} + 0.1 \ \text {cm} + 0.1 \times 100 \ \text {cm} \\\\
+&= 0.1 + 0.1 + 10 \\\\
+&= 10.2 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10.2 \ \text {cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&=  1 \ \text {mm} + 0.1 \ \text {cm} + 0.1 \ \text {m} \\\\
+&=  \dfrac {1} {10} \ \text {cm} + 0.1 \ \text {cm} + 0.1 \times 100 \ \text {cm} \\\\
+&= 0.1 + 0.1 + 10 \\\\
+&= 10.2 \ \text {cm}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10.2 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The area of a postage stamp is calculated as:
+
+$2 \ \text{cm} \times 2.5 \ \text{cm} = 5 \ \text{cm}^2$
+
+What is the area of this stamp in $\text{mm}^2$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+&= 2 \ \text{cm} \times 2.5 \ \text{cm}  \\\\                      
+&= 2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm} \\\\
+&= 5 \times 100 \ \text{mm}^2 \\\\
+&= 500 \ \text{mm}^2
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$500 \ \text{mm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+&= 2 \ \text{cm} \times 2.5 \ \text{cm}  \\\\                      
+&= 2 \times 10 \ \text{mm} \times 2.5 \times 10 \ \text{mm} \\\\
+&= 5 \times 100 \ \text{mm}^2 \\\\
+&= 500 \ \text{mm}^2
+\end{aligned}
+$
+
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$500 \ \text{mm}^2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G0' data-uuid='D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' id='FORM-D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2'>Initial</p>
 </div>
 </div>
 </li>

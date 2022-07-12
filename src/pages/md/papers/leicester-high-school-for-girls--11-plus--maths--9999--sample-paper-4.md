@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-12 03:42:29
+date: 2022-07-12 13:59:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1472,7 +1472,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>03B1D61C-7CBC-4E0B-A194-696178602F1C</p>
 </div>
@@ -1486,7 +1486,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1546,32 +1546,32 @@ When **k = 6**, what is the value of each expression?
 <div class='workings'>
 <div class='working'>
 
-First expression
+
 
 $
 \begin{aligned}
-&= 3 k \\\\
+\text{First expression} &= 3 k \\\\
 &= 3 \times 6 \\\\
 &= 18
 \end{aligned}
 $
 
-Second expression
+
 
 $
 \begin{aligned}
-&= 4(k + 2) \\\\
+\text{Second expression} &= 4(k + 2) \\\\
 &= 4(6 + 2) \\\\
 &= 4 \times 8 \\\\
 &= 32
 \end{aligned}
 $
 
-Third expression
+
 
 $
 \begin{aligned}
-&= k ^ 2 \\\\
+\text{Third expression} &= k ^ 2 \\\\
 &= (6) ^2 \\\\
 &= 36
 \end{aligned}
@@ -1589,32 +1589,32 @@ $18, 32, 36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>First expression
+<pre class='language-latex'><code class='language-latex'>
 
 $
 \begin{aligned}
-&= 3 k \\\\
+\text{First expression} &= 3 k \\\\
 &= 3 \times 6 \\\\
 &= 18
 \end{aligned}
 $
 
-Second expression
+
 
 $
 \begin{aligned}
-&= 4(k + 2) \\\\
+\text{Second expression} &= 4(k + 2) \\\\
 &= 4(6 + 2) \\\\
 &= 4 \times 8 \\\\
 &= 32
 \end{aligned}
 $
 
-Third expression
+
 
 $
 \begin{aligned}
-&= k ^ 2 \\\\
+\text{Third expression} &= k ^ 2 \\\\
 &= (6) ^2 \\\\
 &= 36
 \end{aligned}
@@ -1647,32 +1647,32 @@ When $\bold{k = -10}$, what is the value of each expression?
 <div class='workings'>
 <div class='working'>
 
-First expression
+
 
 $
 \begin{aligned}
-&= 3 k \\\\
+\text{First expression} &= 3 k \\\\
 &= 3 \times - 10 \\\\
 &= - 30
 \end{aligned}
 $
 
-Second expression
+
 
 $
 \begin{aligned}
-&= 4(k + 2) \\\\
+\text{Second expression} &= 4(k + 2) \\\\
 &= 4(- 10 + 2) \\\\
 &= 4 \times - 8 \\\\
 &= - 32
 \end{aligned}
 $
 
-Third expression
+
 
 $
 \begin{aligned}
-&= k ^ 2 \\\\
+\text{Third expression} &= k ^ 2 \\\\
 &= (- 10) ^2 \\\\
 &= 100
 \end{aligned}
@@ -1690,32 +1690,32 @@ $-30, -32, 100$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>First expression
+<pre class='language-latex'><code class='language-latex'>
 
 $
 \begin{aligned}
-&= 3 k \\\\
+\text{First expression} &= 3 k \\\\
 &= 3 \times - 10 \\\\
 &= - 30
 \end{aligned}
 $
 
-Second expression
+
 
 $
 \begin{aligned}
-&= 4(k + 2) \\\\
+\text{Second expression} &= 4(k + 2) \\\\
 &= 4(- 10 + 2) \\\\
 &= 4 \times - 8 \\\\
 &= - 32
 \end{aligned}
 $
 
-Third expression
+
 
 $
 \begin{aligned}
-&= k ^ 2 \\\\
+\text{Third expression} &= k ^ 2 \\\\
 &= (- 10) ^2 \\\\
 &= 100
 \end{aligned}
@@ -2172,7 +2172,7 @@ add a last line outside katex :
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>48C65EB8-9775-47FA-92CD-8B8FF4D26C07</p>
 </div>
@@ -2186,7 +2186,7 @@ add a last line outside katex :
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2392,7 +2392,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D283FA4A-33AB-496A-950F-B2EB59FA6F01</p>
 </div>
@@ -2406,7 +2406,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2595,8 +2595,8 @@ $
 3p + 14           &= 5p + 1 \\\\
 3p - 5p           &= 1 - 14 \\\\
 -2p               &= -13 \\\\
-\cancel {-} 2p    &= \cancel {-} 13 \\\\
-p                 &= \dfrac {13} {2}
+p                 &= \dfrac {-13} {-2} \\\\
+p                 &= \dfrac {13} {2} \\\\
 \end{aligned}
 $
 
@@ -2617,8 +2617,8 @@ $\dfrac {13} {2}$
 3p + 14           &= 5p + 1 \\\\
 3p - 5p           &= 1 - 14 \\\\
 -2p               &= -13 \\\\
-\cancel {-} 2p    &= \cancel {-} 13 \\\\
-p                 &= \dfrac {13} {2}
+p                 &= \dfrac {-13} {-2} \\\\
+p                 &= \dfrac {13} {2} \\\\
 \end{aligned}
 $
 </code></pre>
@@ -5085,7 +5085,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0DB51330-766E-464D-9295-67675484FDA4</p>
 </div>
@@ -5099,7 +5099,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

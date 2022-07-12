@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-5-g0"
 title: "TopicPaper - Number - 5 - G0"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -108,7 +108,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D44610EA-AB8D-4FD4-B65F-78A4B633E925</p>
 </div>
@@ -122,7 +122,7 @@ $7$
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -139,17 +139,8 @@ List all the factors of $36$.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-1 \times 36 &= 36 \\\\
-2 \times 18 &= 36 \\\\
-3 \times 12 &= 36 \\\\
-4 \times 9  &= 36 \\\\
-6 \times 6  &= 36
-\end{aligned}
-$
 
-The factors of 36 are $1, 2, 3, 4, 6, 9, 12, 18$.
+$1, 2, 3, 4, 6, 9, 12, 18 ,36$.
 
 </div>
 </div>
@@ -163,17 +154,8 @@ $1, 2, 3, 4, 6, 9, 12, 18$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-1 \times 36 &= 36 \\\\
-2 \times 18 &= 36 \\\\
-3 \times 12 &= 36 \\\\
-4 \times 9  &= 36 \\\\
-6 \times 6  &= 36
-\end{aligned}
-$
-
-The factors of 36 are $1, 2, 3, 4, 6, 9, 12, 18$.
+<pre class='language-latex'><code class='language-latex'>
+$1, 2, 3, 4, 6, 9, 12, 18 ,36$.
 </code></pre>
 </div>
 </div>
@@ -231,7 +213,7 @@ The factors of 36 are $1, 2, 3, 4, 6, 9, 12, 18$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B9065A5E-7C52-4C0F-A700-FFA2337EB5BC</p>
 </div>
@@ -245,7 +227,7 @@ The factors of 36 are $1, 2, 3, 4, 6, 9, 12, 18$.
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -346,7 +328,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>52E563CF-BAF0-40C4-9688-3CFD0072AE8E</p>
 </div>
@@ -360,7 +342,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -454,7 +436,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0FD0289F-6CF3-4995-B86D-7A270F63D72B</p>
 </div>
@@ -468,7 +450,7 @@ $11$
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -583,7 +565,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>89F23118-BA61-4095-8FD2-82AAA7E88489</p>
 </div>
@@ -597,7 +579,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -616,7 +598,7 @@ $42\ \text{cm} \quad  0.4 \ \text{m} \quad  147 \ \text{mm} \quad  0.351 \ \text
 <div class='workings'>
 <div class='working'>
 
-To compare, let's convert all the units to $\text {cm}$. 
+Let's convert all the units to $\text {cm}$. 
 
 $
 \begin{aligned}
@@ -640,7 +622,7 @@ $42 \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>To compare, let's convert all the units to $\text {cm}$. 
+<pre class='language-latex'><code class='language-latex'>Let's convert all the units to $\text {cm}$. 
 
 $
 \begin{aligned}

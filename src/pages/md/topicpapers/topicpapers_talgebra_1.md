@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -949,7 +949,7 @@ The number that Gino thought of $= 12$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>56B40B8C-468B-4A69-83E1-B687C31C142F</p>
 </div>
@@ -963,7 +963,7 @@ The number that Gino thought of $= 12$.
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1019,6 +1019,8 @@ Find the cost for $2$ adults and $4$ children to visit the theme park.
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
 \text{Total cost} &= 2 \times \text{Adult} + 4 \times \text{Child}  \\\\
@@ -1027,6 +1029,8 @@ $
                   &= \pounds 22.50
 \end{aligned}
 $
+
+The cost for $2$ adults and $4$ children to visit the theme park $= \pounds 22.50$
 
 </div>
 </div>
@@ -1040,7 +1044,9 @@ $\pounds 22.50$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
 \text{Total cost} &= 2 \times \text{Adult} + 4 \times \text{Child}  \\\\
                   &= 2 \times \pounds 6.25 + 4 \times \pounds 2.50 \\\\
@@ -1048,6 +1054,8 @@ $\pounds 22.50$
                   &= \pounds 22.50
 \end{aligned}
 $
+
+The cost for $2$ adults and $4$ children to visit the theme park $= \pounds 22.50$
 </code></pre>
 </div>
 </div>
@@ -1196,7 +1204,7 @@ Refer : 07B7F155-62F9-4100-8C73-1796ABA98DCB , check how the text is written..  
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>22F0FDBD-7B8F-4F90-BEAA-B0ED0DAC72C3</p>
 </div>
@@ -1210,7 +1218,7 @@ Refer : 07B7F155-62F9-4100-8C73-1796ABA98DCB , check how the text is written..  
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1245,7 +1253,7 @@ Work out the weight of one small can.
 Let the weight of a small can (in $\text{grams}$) $= w$
 
 ABBR: It is really important to use the right units in calculations and convert where required
-. Let's convert the total weight into $\text{grams}$.
+.
 
 $
 \begin{aligned}
@@ -1263,6 +1271,8 @@ $
 3w                    &= 1250 - 425  \\\\
 3w                    &= 825  \\\\
 w                     &= \dfrac{825}{3}  \\\\
+w                     &= \dfrac{275 \times 3} {3}  \\\\
+w                     &= \dfrac{275 \times \cancel 3} {\cancel 3}  \\\\
 w                     &= 275 \ \text{grams}
 \end{aligned}
 $
@@ -1283,7 +1293,7 @@ $275 \ \text{grams}$
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of a small can (in $\text{grams}$) $= w$
 
-rtq_abbr_md_unit_no_dot_note. Let's convert the total weight into $\text{grams}$.
+rtq_abbr_md_unit_no_dot_note.
 
 $
 \begin{aligned}
@@ -1301,6 +1311,8 @@ $
 3w                    &= 1250 - 425  \\\\
 3w                    &= 825  \\\\
 w                     &= \dfrac{825}{3}  \\\\
+w                     &= \dfrac{275 \times 3} {3}  \\\\
+w                     &= \dfrac{275 \times \cancel 3} {\cancel 3}  \\\\
 w                     &= 275 \ \text{grams}
 \end{aligned}
 $
@@ -1363,7 +1375,7 @@ Weight of a small can $= 275 \ \text{grams}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8A0C2CE0-A552-4D9F-9814-2BDDBDFF39A7</p>
 </div>
@@ -1377,7 +1389,7 @@ Weight of a small can $= 275 \ \text{grams}$
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1401,23 +1413,20 @@ How many of pupils in $7$S are boys with brown hair?
 
 As per the question,
 
-Let the number of  boys $= a$
-
 $
 \begin{aligned}
-\text{Number of boys}     &= a \\\\
-a                         &= \dfrac {2} {3} \times 24 \\\\
-a                         &= \dfrac {2 \times 24} {3} \\\\
-a                         &= \dfrac {2 \times 3 \times 8} {3} \\\\
-a                         &= \dfrac {2 \times \cancel{3} \times 8} {\cancel{3}} \\\\
-a                         &= 2 \times 8 \\\\
-a                         &= 16
+\text{Number of boys}     &= \dfrac {2} {3} \times 24 \\\\
+                          &= \dfrac {2 \times 24} {3} \\\\
+                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
+                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+                          &= 2 \times 8 \\\\
+                          &= 16
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\\\
+\text{Boys with brown hair}       &= \dfrac {1} {2} \times a\\\\
                                   &= \dfrac {1} {2} \times 16 \\\\
                                   &= 8
 \end{aligned}
@@ -1437,23 +1446,20 @@ $8$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 
-Let the number of  boys $= a$
-
 $
 \begin{aligned}
-\text{Number of boys}     &= a \\\\
-a                         &= \dfrac {2} {3} \times 24 \\\\
-a                         &= \dfrac {2 \times 24} {3} \\\\
-a                         &= \dfrac {2 \times 3 \times 8} {3} \\\\
-a                         &= \dfrac {2 \times \cancel{3} \times 8} {\cancel{3}} \\\\
-a                         &= 2 \times 8 \\\\
-a                         &= 16
+\text{Number of boys}     &= \dfrac {2} {3} \times 24 \\\\
+                          &= \dfrac {2 \times 24} {3} \\\\
+                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
+                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+                          &= 2 \times 8 \\\\
+                          &= 16
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\\\
+\text{Boys with brown hair}       &= \dfrac {1} {2} \times a\\\\
                                   &= \dfrac {1} {2} \times 16 \\\\
                                   &= 8
 \end{aligned}
@@ -1520,7 +1526,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7125F2EC-250C-48A5-96EC-68872015C687</p>
 </div>
@@ -1534,7 +1540,7 @@ $
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1557,17 +1563,24 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required
-. Let's convert the total water into $\text{ml}$.
+.
 
 $
 \begin{aligned}
 \text{Total water}       &= 5 \ \text{litres} \\\\
                          &= 5 \times 1000 \ \text{ml} \\\\
                          &= 5000 \ \text{ml} \\\\
-\text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
-                         &= \dfrac { 5000 } { 200 } \\\\
-                         &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
-                         &= \dfrac { 50 } { 2 } \\\\
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of glasses} &= \dfrac {\text{Total Water in cooler}} {\text{Water in a glass}} \\\\
+                         &= \dfrac {5000} {200} \\\\
+                         &= \dfrac {50\cancel{0}\cancel{0}} {2\cancel{0}\cancel{0}} \\\\
+                         &= \dfrac {50} {2} \\\\
                          &= 25
 \end{aligned}
 $
@@ -1586,17 +1599,24 @@ $25$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. Let's convert the total water into $\text{ml}$.
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
 
 $
 \begin{aligned}
 \text{Total water}       &= 5 \ \text{litres} \\\\
                          &= 5 \times 1000 \ \text{ml} \\\\
                          &= 5000 \ \text{ml} \\\\
-\text{Number of glasses} &= \dfrac { \text{Total Water in cooler} } { \text{Water in a glass} } \\\\
-                         &= \dfrac { 5000 } { 200 } \\\\
-                         &= \dfrac { 50\cancel{0}\cancel{0} } { 2\cancel{0}\cancel{0} } \\\\
-                         &= \dfrac { 50 } { 2 } \\\\
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of glasses} &= \dfrac {\text{Total Water in cooler}} {\text{Water in a glass}} \\\\
+                         &= \dfrac {5000} {200} \\\\
+                         &= \dfrac {50\cancel{0}\cancel{0}} {2\cancel{0}\cancel{0}} \\\\
+                         &= \dfrac {50} {2} \\\\
                          &= 25
 \end{aligned}
 $
@@ -1664,7 +1684,7 @@ Number of glasses of water $= 25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1622DD6F-538D-47B0-8E04-EE946A7719E6</p>
 </div>
@@ -1678,7 +1698,7 @@ Number of glasses of water $= 25$
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1753,13 +1773,16 @@ a          &= 35 \ \text{pence}
 \end{aligned}
 $
 
+Cost of an apple $= 35 \ \text{pence}$.
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Apple $= 35 \ \text{pence}$
-Banana $= 50 \ \text{pence}$
+Cost of an apple $= 35 \ \text{pence}$
+
+Cost of a banana $= 50 \ \text{pence}$
 
 </div>
 </div>
@@ -1818,6 +1841,8 @@ a          &= \dfrac {70} {2} \\\\
 a          &= 35 \ \text{pence}
 \end{aligned}
 $
+
+Cost of an apple $= 35 \ \text{pence}$.
 </code></pre>
 </div>
 </div>
@@ -1829,8 +1854,9 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Apple $= 35 \ \text{pence}$
-Banana $= 50 \ \text{pence}$
+<pre class='language-latex'><code class='language-latex'>Cost of an apple $= 35 \ \text{pence}$
+
+Cost of a banana $= 50 \ \text{pence}$
 </code></pre>
 </div>
 </div>
@@ -4854,7 +4880,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>734F4C9F-BA17-40EC-BE44-F910FF8517D0</p>
 </div>
@@ -4868,7 +4894,7 @@ TODOANSWER
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

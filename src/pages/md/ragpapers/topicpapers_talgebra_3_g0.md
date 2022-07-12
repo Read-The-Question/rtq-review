@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-3-g0"
 title: "TopicPaper - Algebra - 3 - G0"
-date: 2022-07-12 03:47:51
+date: 2022-07-12 14:05:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -901,7 +901,7 @@ Anwar's original number $= 64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E0E9D923-E176-4223-B0A1-C3789A643CE8</p>
 </div>
@@ -915,7 +915,7 @@ Anwar's original number $= 64$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -987,6 +987,8 @@ $
 \end {aligned}
 $
 
+The OUTPUT $= 81$
+
 </div>
 </div>
 <div class='answers'>
@@ -1008,6 +1010,8 @@ $
                 &= 81
 \end {aligned}
 $
+
+The OUTPUT $= 81$
 </code></pre>
 </div>
 </div>
@@ -1051,6 +1055,8 @@ a                   &= 6
 \end {aligned}
 $
 
+The INPUT $= 6$
+
 </div>
 </div>
 <div class='answers'>
@@ -1077,6 +1083,8 @@ a                   &= \dfrac {6 \times \cancel {7}} {\cancel {7}} \\\\
 a                   &= 6
 \end {aligned}
 $
+
+The INPUT $= 6$
 </code></pre>
 </div>
 </div>
@@ -1210,6 +1218,8 @@ $
 \end {aligned}
 $
 
+The OUTPUT $= 31$
+
 </div>
 </div>
 <div class='answers'>
@@ -1231,6 +1241,8 @@ $
                 &= 31
 \end {aligned}
 $
+
+The OUTPUT $= 31$
 </code></pre>
 </div>
 </div>
@@ -1291,7 +1303,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>23E98A7C-586C-492D-8FCB-9E1A4B2FD4CE</p>
 </div>
@@ -1305,7 +1317,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1627,7 +1639,7 @@ b, c: Steps missing still, lets discuss
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7CA73E7B-3025-4C63-BFDC-17AB654A9CA0</p>
 </div>
@@ -1641,7 +1653,7 @@ b, c: Steps missing still, lets discuss
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1761,7 +1773,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6AC57CB3-2B4F-431E-BFE6-E58FA21AEB17</p>
 </div>
@@ -1775,7 +1787,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1894,7 +1906,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B28E8CC8-5960-4268-94EF-1CA3A276FABA</p>
 </div>
@@ -1908,7 +1920,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1941,9 +1953,9 @@ $
 
 $
 \begin{aligned}
-\text{One tenth of the number}  &= \dfrac {1} {10} \times a \\\\
-                                &= \dfrac {1} {10} \times 40 \\\\
+\text{One tenth of the number}  &= \dfrac {1} {10} \times 40 \\\\
                                 &= \dfrac {40} {10} \\\\
+                                &= \dfrac {4 \cancel 0} {1 \cancel 0} \\\\
                                 &= 4
 \end{aligned}
 $
@@ -1974,9 +1986,9 @@ $
 
 $
 \begin{aligned}
-\text{One tenth of the number}  &= \dfrac {1} {10} \times a \\\\
-                                &= \dfrac {1} {10} \times 40 \\\\
+\text{One tenth of the number}  &= \dfrac {1} {10} \times 40 \\\\
                                 &= \dfrac {40} {10} \\\\
+                                &= \dfrac {4 \cancel 0} {1 \cancel 0} \\\\
                                 &= 4
 \end{aligned}
 $
@@ -2037,7 +2049,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C76E1065-14BA-460E-A654-A168F4BE4BAA</p>
 </div>
@@ -2051,7 +2063,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2166,7 +2178,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>368E6571-9487-45B7-AD17-93CB13083556</p>
 </div>
@@ -2180,7 +2192,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2209,11 +2221,15 @@ c       &= 8 + 12 t \\\\
 12t     &= 100 - 8 \\\\
 12t     &= 92 \\\\
 t       &= \dfrac {92} {12} \\\\
-t       &= 7 \text{ remainder } 8
+t       &= \dfrac {23 \times 4} {3 \times 4} \\\\
+t       &= \dfrac {23 \times \cancel 4} {3 \times \cancel 4} \\\\
+t       &= \dfrac {23} {3} \\\\
+t       &= 7 \dfrac {2} {3} \\\\
+t       &= 7
 \end{aligned}
 $
 
-Max $7$ tickets can be bought with $\pounds 100$.
+Max tickets that can be bought $= 7$.
 
 </div>
 </div>
@@ -2236,11 +2252,15 @@ c       &= 8 + 12 t \\\\
 12t     &= 100 - 8 \\\\
 12t     &= 92 \\\\
 t       &= \dfrac {92} {12} \\\\
-t       &= 7 \text{ remainder } 8
+t       &= \dfrac {23 \times 4} {3 \times 4} \\\\
+t       &= \dfrac {23 \times \cancel 4} {3 \times \cancel 4} \\\\
+t       &= \dfrac {23} {3} \\\\
+t       &= 7 \dfrac {2} {3} \\\\
+t       &= 7
 \end{aligned}
 $
 
-Max $7$ tickets can be bought with $\pounds 100$.
+Max tickets that can be bought $= 7$.
 </code></pre>
 </div>
 </div>
@@ -2298,7 +2318,7 @@ Max $7$ tickets can be bought with $\pounds 100$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>956A6B0F-7A0D-461F-9183-623BBCE06B2D</p>
 </div>
@@ -2312,7 +2332,7 @@ Max $7$ tickets can be bought with $\pounds 100$.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2431,7 +2451,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CE54E1C3-FEFC-401E-BEA5-7DF8F88FFE0E</p>
 </div>
@@ -2445,7 +2465,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2481,6 +2501,7 @@ $
 \text {one tenth of the number}     &= \dfrac {1} {10} \times a \\\\
                                     &= \dfrac {1} {10} \times 20 \\\\
                                     &= \dfrac {20} {10} \\\\
+                                    &= \dfrac {2 \cancel 0} {1 \cancel 0} \\\\
                                     &= 2
 \end{aligned}
 $
@@ -2514,6 +2535,7 @@ $
 \text {one tenth of the number}     &= \dfrac {1} {10} \times a \\\\
                                     &= \dfrac {1} {10} \times 20 \\\\
                                     &= \dfrac {20} {10} \\\\
+                                    &= \dfrac {2 \cancel 0} {1 \cancel 0} \\\\
                                     &= 2
 \end{aligned}
 $
@@ -2574,7 +2596,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3A513985-D1D3-40B2-B05F-CC9885D680E6</p>
 </div>
@@ -2588,7 +2610,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2703,7 +2725,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42A469A6-6AE1-419D-A33A-1F27EE2552D0</p>
 </div>
@@ -2717,7 +2739,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2746,11 +2768,15 @@ c       &= 6 + 12 t \\\\
 12t     &= 100 - 6 \\\\
 12t     &= 94 \\\\
 t       &= \dfrac {94} {12} \\\\
-t       &= 7 \text { remainder } 10
+t       &= \dfrac {47 \times 2} {6 \times 2} \\\\
+t       &= \dfrac {47 \times \cancel 2} {6 \times \cancel 2} \\\\
+t       &= \dfrac {47} {6} \\\\
+t       &= 7 \dfrac {5} {6} \\\\
+t       &= 7
 \end{aligned}
 $
 
-Max $7$ tickets can be bought with $\pounds 100$.
+Max tickets that can be bought $= 7$.
 
 </div>
 </div>
@@ -2773,11 +2799,15 @@ c       &= 6 + 12 t \\\\
 12t     &= 100 - 6 \\\\
 12t     &= 94 \\\\
 t       &= \dfrac {94} {12} \\\\
-t       &= 7 \text { remainder } 10
+t       &= \dfrac {47 \times 2} {6 \times 2} \\\\
+t       &= \dfrac {47 \times \cancel 2} {6 \times \cancel 2} \\\\
+t       &= \dfrac {47} {6} \\\\
+t       &= 7 \dfrac {5} {6} \\\\
+t       &= 7
 \end{aligned}
 $
 
-Max $7$ tickets can be bought with $\pounds 100$.
+Max tickets that can be bought $= 7$.
 </code></pre>
 </div>
 </div>
@@ -2835,7 +2865,7 @@ Max $7$ tickets can be bought with $\pounds 100$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5BDF797D-4BC1-47EE-9D46-F0012478D4C3</p>
 </div>
@@ -2849,7 +2879,7 @@ Max $7$ tickets can be bought with $\pounds 100$.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2968,7 +2998,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8AD4D8C4-1AB8-45CD-AF1F-11030CCEC600</p>
 </div>
@@ -2982,7 +3012,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3097,7 +3127,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>96DDA787-538C-48A9-B7C3-E49BDEA6B62D</p>
 </div>
@@ -3111,7 +3141,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3228,7 +3258,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A7B86F61-CB41-4218-B297-AB8668CF3287</p>
 </div>
@@ -3242,7 +3272,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3264,6 +3294,15 @@ What is one half of my number?
 Let the number $= a$
 
 As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {5} \times a      &= 6 \\\\
+\dfrac {a} {5}               &= 6 \\\\
+a                            &= 5 \times 6 \\\\
+a                            &= 30
+\end{aligned}
+$
 
 $
 \begin{aligned}
@@ -3291,6 +3330,15 @@ $15$
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {5} \times a      &= 6 \\\\
+\dfrac {a} {5}               &= 6 \\\\
+a                            &= 5 \times 6 \\\\
+a                            &= 30
+\end{aligned}
+$
 
 $
 \begin{aligned}
@@ -3359,7 +3407,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A41FF430-EBAD-4ACB-9835-13382E26129B</p>
 </div>
@@ -3373,7 +3421,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3488,7 +3536,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9BC445B0-E60B-4C43-9A3B-131B9EE3AD28</p>
 </div>
@@ -3502,7 +3550,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3531,11 +3579,15 @@ c       &= 6 + 10 t \\\\
 10t     &= 50 - 6 \\\\
 10t     &= 44 \\\\
 t       &= \dfrac {44} {10} \\\\
-t       &= 4 \text { remainder } 4
+t       &= \dfrac {22 \times 2} {5 \times 2} \\\\
+t       &= \dfrac {22 \times \cancel 2} {5 \times \cancel 2} \\\\
+t       &= \dfrac {22} {5} \\\\
+t       &= 4 \dfrac {2} {5} \\\\
+t       &= 4
 \end{aligned}
 $
 
-Max $4$ tickets can be bought with $\pounds 50$.
+Max tickets that can be bought $= 4$.
 
 </div>
 </div>
@@ -3558,11 +3610,15 @@ c       &= 6 + 10 t \\\\
 10t     &= 50 - 6 \\\\
 10t     &= 44 \\\\
 t       &= \dfrac {44} {10} \\\\
-t       &= 4 \text { remainder } 4
+t       &= \dfrac {22 \times 2} {5 \times 2} \\\\
+t       &= \dfrac {22 \times \cancel 2} {5 \times \cancel 2} \\\\
+t       &= \dfrac {22} {5} \\\\
+t       &= 4 \dfrac {2} {5} \\\\
+t       &= 4
 \end{aligned}
 $
 
-Max $4$ tickets can be bought with $\pounds 50$.
+Max tickets that can be bought $= 4$.
 </code></pre>
 </div>
 </div>
@@ -3620,7 +3676,7 @@ Max $4$ tickets can be bought with $\pounds 50$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F481AB65-8DA5-410D-BAC7-FD0E1A610F97</p>
 </div>
@@ -3634,7 +3690,7 @@ Max $4$ tickets can be bought with $\pounds 50$.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3747,7 +3803,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
 </div>
@@ -3761,7 +3817,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3895,7 +3951,7 @@ So, 20 minutes before 11 o'clock $= 10 {:} 40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1916A682-4C8E-4C0E-A125-3B251D10C699</p>
 </div>
@@ -3909,7 +3965,7 @@ So, 20 minutes before 11 o'clock $= 10 {:} 40$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3974,21 +4030,20 @@ Total socks $= 30$
 
 White socks $= 30 \times \dfrac {1} {3}$
 
-Blue socks $= (\text{Total socks} \ - \ \text{White socks}) \times \dfrac{2} {5}$
-
 $
 \begin{aligned}
-&= \bigg (30 - 30 \times \dfrac {1} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {30} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {3 \times 10} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {\cancel {3} \times 10} {\cancel 3} \bigg) \times \dfrac {2} {5} \\\\
-&= (30 - 10) \times \dfrac {2} {5} \\\\
-&= 20 \times \dfrac {2} {5} \\\\
-&= \dfrac {20 \times 2} {5} \\\\
-&= \dfrac {4 \times 5 \times 2} {5} \\\\
-&= \dfrac {4 \times \cancel {5} \times 2} {\cancel {5}} \\\\
-&= 4 \times 2 \\\\
-&= 8
+\text{Blue socks}               &= (\text{Total socks} \ - \ \text{White socks}) \times \dfrac{2} {5} \\\\
+                                &= \bigg (30 - 30 \times \dfrac {1} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {30} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {3 \times 10} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {\cancel {3} \times 10} {\cancel 3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= (30 - 10) \times \dfrac {2} {5} \\\\
+                                &= 20 \times \dfrac {2} {5} \\\\
+                                &= \dfrac {20 \times 2} {5} \\\\
+                                &= \dfrac {4 \times 5 \times 2} {5} \\\\
+                                &= \dfrac {4 \times \cancel {5} \times 2} {\cancel {5}} \\\\
+                                &= 4 \times 2 \\\\
+                                &= 8
 \end{aligned}
 $
 
@@ -4012,21 +4067,20 @@ Total socks $= 30$
 
 White socks $= 30 \times \dfrac {1} {3}$
 
-Blue socks $= (\text{Total socks} \ - \ \text{White socks}) \times \dfrac{2} {5}$
-
 $
 \begin{aligned}
-&= \bigg (30 - 30 \times \dfrac {1} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {30} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {3 \times 10} {3} \bigg) \times \dfrac {2} {5} \\\\
-&= \bigg (30 - \dfrac {\cancel {3} \times 10} {\cancel 3} \bigg) \times \dfrac {2} {5} \\\\
-&= (30 - 10) \times \dfrac {2} {5} \\\\
-&= 20 \times \dfrac {2} {5} \\\\
-&= \dfrac {20 \times 2} {5} \\\\
-&= \dfrac {4 \times 5 \times 2} {5} \\\\
-&= \dfrac {4 \times \cancel {5} \times 2} {\cancel {5}} \\\\
-&= 4 \times 2 \\\\
-&= 8
+\text{Blue socks}               &= (\text{Total socks} \ - \ \text{White socks}) \times \dfrac{2} {5} \\\\
+                                &= \bigg (30 - 30 \times \dfrac {1} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {30} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {3 \times 10} {3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= \bigg (30 - \dfrac {\cancel {3} \times 10} {\cancel 3} \bigg) \times \dfrac {2} {5} \\\\
+                                &= (30 - 10) \times \dfrac {2} {5} \\\\
+                                &= 20 \times \dfrac {2} {5} \\\\
+                                &= \dfrac {20 \times 2} {5} \\\\
+                                &= \dfrac {4 \times 5 \times 2} {5} \\\\
+                                &= \dfrac {4 \times \cancel {5} \times 2} {\cancel {5}} \\\\
+                                &= 4 \times 2 \\\\
+                                &= 8
 \end{aligned}
 $
 
@@ -4059,16 +4113,17 @@ Write down how many pairs of red socks he could make.
 <div class='workings'>
 <div class='working'>
 
-Pairs of red socks $= \dfrac {\text {total socks} - \text {(white socks + blue socks)}} {2}$
+As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {30 - (8 + 10)}{2} \\\\
-&= \dfrac {30 - 18}{2} \\\\
-&= \dfrac {12}{2} \\\\
-&= \dfrac {6 \times 2} {2} \\\\
-&= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-&= 6 \ \text {pairs}
+\text{Pairs of red socks}               &= \dfrac {\text {Total socks} - (\text {White socks} + \text{Blue socks})} {2} \\\\
+                                        &= \dfrac {30 - (8 + 10)}{2} \\\\
+                                        &= \dfrac {30 - 18}{2} \\\\
+                                        &= \dfrac {12}{2} \\\\
+                                        &= \dfrac {6 \times 2} {2} \\\\
+                                        &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+                                        &= 6 \ \text {pairs}
 \end{aligned}
 $
 
@@ -4086,16 +4141,17 @@ $6 \ \text {pairs}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Pairs of red socks $= \dfrac {\text {total socks} - \text {(white socks + blue socks)}} {2}$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {30 - (8 + 10)}{2} \\\\
-&= \dfrac {30 - 18}{2} \\\\
-&= \dfrac {12}{2} \\\\
-&= \dfrac {6 \times 2} {2} \\\\
-&= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
-&= 6 \ \text {pairs}
+\text{Pairs of red socks}               &= \dfrac {\text {Total socks} - (\text {White socks} + \text{Blue socks})} {2} \\\\
+                                        &= \dfrac {30 - (8 + 10)}{2} \\\\
+                                        &= \dfrac {30 - 18}{2} \\\\
+                                        &= \dfrac {12}{2} \\\\
+                                        &= \dfrac {6 \times 2} {2} \\\\
+                                        &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+                                        &= 6 \ \text {pairs}
 \end{aligned}
 $
 

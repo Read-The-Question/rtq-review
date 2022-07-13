@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-pr-prns"
 title: "TopicPaper - Number - 16 - PR - PRNS"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-12 14:58:45
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -387,10 +387,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -518,10 +518,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:10</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -656,10 +656,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:13</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -812,10 +812,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:8</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1109,10 +1109,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:11</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1418,10 +1418,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1805,10 +1805,10 @@ $\text {square}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2112,10 +2112,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2456,10 +2456,10 @@ $60 \pounds$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2846,10 +2846,10 @@ tehn solve ... no So,
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3231,10 +3231,10 @@ Wrong way of working
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3821,10 +3821,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g0"
 title: "TopicPaper - Number - 13 - G0"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6982898E-1D09-4D16-AF1F-A1690147F770</p>
 </div>
@@ -13,13 +13,13 @@ date: 2022-07-12 14:58:45
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -82,7 +82,7 @@ How many centimetres are there in five kilometres?
 
 $
 \begin{aligned}
-&= 5 \ \text{kilometres}
+&= 5 \ \text{kilometres}\\\\
 &= 5 \times 100000 \ \text {cm}\\\\
 &= 500000 \ \text {cm}
 \end{aligned}
@@ -102,7 +102,7 @@ $500000 \ \text {cm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 5 \ \text{kilometres}
+&= 5 \ \text{kilometres}\\\\
 &= 5 \times 100000 \ \text {cm}\\\\
 &= 500000 \ \text {cm}
 \end{aligned}
@@ -227,7 +227,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -235,13 +235,13 @@ $
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -304,11 +304,15 @@ As per the question,
 $
 \begin{aligned}
 &= 1760 \times 0.6 \\\\
+&= 1760 \times\dfrac{6}{10} \\\\
+&=\dfrac{176\times 10\times 6}{10} \\\\
+&=\dfrac{176\times\cancel{10}\times 6}{\cancel{10}} \\\\
+&=176\times 6\\\\
 &= 1056 \ \text{yards}
 \end{aligned}
 $
 
-I live $1056 \text {yards}$ away from Goodison Park.
+
 
 </div>
 </div>
@@ -327,11 +331,15 @@ $1056 \ \text{yards}$
 $
 \begin{aligned}
 &= 1760 \times 0.6 \\\\
+&= 1760 \times\dfrac{6}{10} \\\\
+&=\dfrac{176\times 10\times 6}{10} \\\\
+&=\dfrac{176\times\cancel{10}\times 6}{\cancel{10}} \\\\
+&=176\times 6\\\\
 &= 1056 \ \text{yards}
 \end{aligned}
 $
 
-I live $1056 \text {yards}$ away from Goodison Park.
+
 </code></pre>
 </div>
 </div>
@@ -365,11 +373,13 @@ As per the question,
 $
 \begin{aligned}
 &= \dfrac {4400} {1760} \\\\
+&= \dfrac {25\times 176} {10\times 176} \\\\
+&= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
+&=\dfrac{25}{10}\\\\
 &= 2.5 \ \text {miles}
 \end{aligned}
 $
 
-I live $2.5$ miles away from Anfield football stadium.
 
 </div>
 </div>
@@ -388,11 +398,13 @@ $2.5 \ \text {miles}$
 $
 \begin{aligned}
 &= \dfrac {4400} {1760} \\\\
+&= \dfrac {25\times 176} {10\times 176} \\\\
+&= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
+&=\dfrac{25}{10}\\\\
 &= 2.5 \ \text {miles}
 \end{aligned}
 $
 
-I live $2.5$ miles away from Anfield football stadium.
 </code></pre>
 </div>
 </div>
@@ -427,11 +439,11 @@ $
 \begin{aligned}
 &= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
 &= \dfrac {2.5 \times 5} {8} \\\\
+&= \dfrac {12.5} {8} \\\\
 &= 1.5625 \ \text {km}
 \end{aligned}
 $
 
-I live $1.5625$ km away from Anfield.
 
 </div>
 </div>
@@ -451,11 +463,11 @@ $
 \begin{aligned}
 &= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
 &= \dfrac {2.5 \times 5} {8} \\\\
+&= \dfrac {12.5} {8} \\\\
 &= 1.5625 \ \text {km}
 \end{aligned}
 $
 
-I live $1.5625$ km away from Anfield.
 </code></pre>
 </div>
 </div>
@@ -516,7 +528,7 @@ I live $1.5625$ km away from Anfield.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CF6BAF33-A5F8-41F9-A140-9829B0BE78AC</p>
 </div>
@@ -524,13 +536,13 @@ I live $1.5625$ km away from Anfield.
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:19</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

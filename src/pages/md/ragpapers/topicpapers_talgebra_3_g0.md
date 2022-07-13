@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-3-g0"
 title: "TopicPaper - Algebra - 3 - G0"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1123,7 +1123,7 @@ INPUT %symbol% [$\times \ldots$] %symbol% [$+ \ldots$] %symbol% OUTPUT
 
 As per the question,
 
-Lets's solve it for first equation.
+Let's solve it for first equation.
 
 $
 \begin {aligned}
@@ -1133,7 +1133,7 @@ $
 \end {aligned}
 $
 
-Lets's solve it for second equation.
+Let's solve it for second equation.
 
 $
 \begin {aligned}
@@ -1159,7 +1159,7 @@ $\text {INPUT} \times 5 + 11 = \text {OUTPUT}$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 
-Lets's solve it for first equation.
+Let's solve it for first equation.
 
 $
 \begin {aligned}
@@ -1169,7 +1169,7 @@ $
 \end {aligned}
 $
 
-Lets's solve it for second equation.
+Let's solve it for second equation.
 
 $
 \begin {aligned}

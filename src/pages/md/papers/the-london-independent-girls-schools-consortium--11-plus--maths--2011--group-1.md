@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -6691,10 +6691,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_mm_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

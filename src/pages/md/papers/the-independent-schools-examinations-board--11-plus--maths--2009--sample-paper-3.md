@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -494,10 +494,10 @@ $51$ is the first number in the pattern which is greater than $48$.
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1762,10 +1762,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3569,10 +3569,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_mm_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

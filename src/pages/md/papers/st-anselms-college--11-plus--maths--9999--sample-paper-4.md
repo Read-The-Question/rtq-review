@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -700,7 +700,7 @@ $64.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>9A21B777-4815-48B4-8EBE-0799D0C7C977</p>
 </div>
@@ -708,13 +708,13 @@ $64.9$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -775,7 +775,7 @@ How far is this in metres?
 $
 \begin{aligned}
 &=  5.2 \ \text{km} \\\\
-&=  5.2 \times 1000 \\\\
+&=  5.2 \times 1000\ \text{metres} \\\\
 &=  5200 \ \text{metres}
 \end{aligned}
 $
@@ -795,7 +795,7 @@ $5200 \ \text{metres}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  5.2 \ \text{km} \\\\
-&=  5.2 \times 1000 \\\\
+&=  5.2 \times 1000\ \text{metres} \\\\
 &=  5200 \ \text{metres}
 \end{aligned}
 $
@@ -830,7 +830,8 @@ Goodison Park is a further $1200\,m$ from my house. How many **kilometres** is G
 $
 \begin{aligned}
 &= 1200 \ \text{metres} \\\\
-&= \dfrac {1200} {1000} \\\\
+&= 1200\times\dfrac {1}{1000}\ \text{km} \\\\
+&=dfrac{1200}{1000}\\\\
 &= \dfrac {12 \cancel{00} } {10 \cancel{00} } \\\\
 &= \dfrac {12} {10} \\\\
 &= 1.2 \ \text{km}
@@ -852,7 +853,8 @@ $1.2 \ \text{km}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 1200 \ \text{metres} \\\\
-&= \dfrac {1200} {1000} \\\\
+&= 1200\times\dfrac {1}{1000}\ \text{km} \\\\
+&=dfrac{1200}{1000}\\\\
 &= \dfrac {12 \cancel{00} } {10 \cancel{00} } \\\\
 &= \dfrac {12} {10} \\\\
 &= 1.2 \ \text{km}
@@ -1276,10 +1278,10 @@ and solve further
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3958,7 +3960,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3137279D-0797-499D-81D8-8651675F4A7D</p>
 </div>
@@ -3966,13 +3968,13 @@ TODOANSWER
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3997,11 +3999,19 @@ d) $1500\,mm$
 <div class='workings'>
 <div class='working'>
 
-$120 cm$ is nearly the height of a dwarf. 
-$150 mm or 15 cm$, height is not possible
-$1.8 m or 180 cm$ is nearly the height average height of a man
-$112 inches or 284 cm$ height is not possible 
-
+$ 
+\begin{aligned}
+110\ \text{cm}&= 110\times 0. 0328084 \ \text{feet}\ \\\\ 
+& = 3.60892 \ \text{feet}\ \\\\
+1.8\ \text{m}&= 1.8\times 3.28084\ \text{feet}\ \\\\
+& = 5.90551 \ \text{feet}\ \\\\
+12\ \text{m}&= 12 \times 3.28084\ \text{feet}\ \\\\ 
+& = 39.3701 \ \text{feet}\ \\\\
+1500\ \text{mm}&= 1500 \times 3.28084\ \text{feet}\ \\\\ 
+& = 4.92126 \ \text{feet}\ \\\\
+&\therefore \text{closest distance is 1.8 m}\
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4015,11 +4025,19 @@ $1.8 \ \text{m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$120 cm$ is nearly the height of a dwarf. 
-$150 mm or 15 cm$, height is not possible
-$1.8 m or 180 cm$ is nearly the height average height of a man
-$112 inches or 284 cm$ height is not possible 
-
+<pre class='language-latex'><code class='language-latex'>$ 
+\begin{aligned}
+110\ \text{cm}&= 110\times 0. 0328084 \ \text{feet}\ \\\\ 
+& = 3.60892 \ \text{feet}\ \\\\
+1.8\ \text{m}&= 1.8\times 3.28084\ \text{feet}\ \\\\
+& = 5.90551 \ \text{feet}\ \\\\
+12\ \text{m}&= 12 \times 3.28084\ \text{feet}\ \\\\ 
+& = 39.3701 \ \text{feet}\ \\\\
+1500\ \text{mm}&= 1500 \times 3.28084\ \text{feet}\ \\\\ 
+& = 4.92126 \ \text{feet}\ \\\\
+&\therefore \text{closest distance is 1.8 m}\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4493,10 +4511,10 @@ Prime Number
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

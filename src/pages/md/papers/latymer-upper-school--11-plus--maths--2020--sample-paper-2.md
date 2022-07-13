@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-2"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -275,7 +275,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AAD74FF2-AC76-4ECE-AB35-E5D7E8DF0E2B</p>
 </div>
@@ -289,7 +289,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -886,7 +886,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F73731D-E7C1-44C0-8150-D86AA287599D</p>
 </div>
@@ -900,7 +900,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1154,7 +1154,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A52F9548-B5CC-43EF-8F45-832F47AAC757</p>
 </div>
@@ -1168,7 +1168,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1729,7 +1729,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CD9EAC9B-F7F6-484E-833B-8FF927046A32</p>
 </div>
@@ -1740,7 +1740,7 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1770,45 +1770,57 @@ E: $1$
 <div class='workings'>
 <div class='working'>
 
-Let the three odd numbers $n, \ n + 2, \ n + 4$
+Let the three odd numbers $= n, \ n + 2, \ n + 6$
 
 As per the question,
 
 $
 \begin{aligned}
-n + n + 2 + n + 4 &= 23 \\\\
-3 n + 6           &= 23 \\\\
-3 n               &= 23 - 6 \\\\
-3 n               &= 17 \\\\
-n                 &= \dfrac {17} {3}
+n + n + 2 + n + 6 &= 23 \\\\
+3 n + 8           &= 23 \\\\
+3 n               &= 23 - 8 \\\\
+3 n               &= 15 \\\\
+n                 &= \dfrac {15} {3} \\\\
+n                 &= \dfrac {5 \times 3} {3} \\\\
+n                 &= \dfrac {5 \times \cancel 3} {\cancel 3} \\\\
+n                 &= 5
 \end{aligned}
 $
+
+Smallest possible value of the largest of the three numbers $= n + 6 = 5 + 6 = 11$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$11$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the three odd numbers $n, \ n + 2, \ n + 4$
+<pre class='language-latex'><code class='language-latex'>Let the three odd numbers $= n, \ n + 2, \ n + 6$
 
 As per the question,
 
 $
 \begin{aligned}
-n + n + 2 + n + 4 &= 23 \\\\
-3 n + 6           &= 23 \\\\
-3 n               &= 23 - 6 \\\\
-3 n               &= 17 \\\\
-n                 &= \dfrac {17} {3}
+n + n + 2 + n + 6 &= 23 \\\\
+3 n + 8           &= 23 \\\\
+3 n               &= 23 - 8 \\\\
+3 n               &= 15 \\\\
+n                 &= \dfrac {15} {3} \\\\
+n                 &= \dfrac {5 \times 3} {3} \\\\
+n                 &= \dfrac {5 \times \cancel 3} {\cancel 3} \\\\
+n                 &= 5
 \end{aligned}
 $
+
+Smallest possible value of the largest of the three numbers $= n + 6 = 5 + 6 = 11$
+
 </code></pre>
 </div>
 </div>
@@ -1820,12 +1832,49 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$11$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CD9EAC9B-F7F6-484E-833B-8FF927046A32' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='CD9EAC9B-F7F6-484E-833B-8FF927046A32' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CD9EAC9B-F7F6-484E-833B-8FF927046A32' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='CD9EAC9B-F7F6-484E-833B-8FF927046A32' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='CD9EAC9B-F7F6-484E-833B-8FF927046A32' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='CD9EAC9B-F7F6-484E-833B-8FF927046A32' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='CD9EAC9B-F7F6-484E-833B-8FF927046A32' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='CD9EAC9B-F7F6-484E-833B-8FF927046A32' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='CD9EAC9B-F7F6-484E-833B-8FF927046A32' id='FORM-CD9EAC9B-F7F6-484E-833B-8FF927046A32' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CD9EAC9B-F7F6-484E-833B-8FF927046A32'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2046,7 +2095,7 @@ $1400 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7C02F3E0-0B0D-4D18-94F1-36B11717F1F8</p>
 </div>
@@ -2060,7 +2109,7 @@ $1400 \ \text{cm}$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

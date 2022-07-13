@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-11-plus-maths-9999-sample-paper-1"
 title: "Kent College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2651,7 +2651,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1BF483A4-E5F0-45CE-93A3-E0436396EDAA</p>
 </div>
@@ -2662,7 +2662,7 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2686,16 +2686,15 @@ How many litres of water will be in $12 \ \text{litres}$ of orange drink?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin {aligned}
-\text {Litres of water in 12 litres of orange drink}  &= \dfrac {3} {4} \ \text {of} \ 12 \ \text {litres} \\\\
-                                                      &= \dfrac {3 \times 12} {4} \\\\
-                                                      &= \dfrac {3 \times 3 \times 4} {4} \\\\
-                                                      &= \dfrac {3 \times 3 \times \cancel {4}} {\cancel {4}} \\\\
-                                                      &= 3 \times 3 \\\\
-                                                      &= 9 \ \text {litres}
+&= \dfrac {3} {4} \ \text {of} \ 12 \ \text {litres} \\\\
+&= \dfrac {3 \times 12} {4} \\\\
+&= \dfrac {3 \times 3 \times 4} {4} \\\\
+&= \dfrac {3 \times 3 \times \cancel {4}} {\cancel {4}} \\\\
+&= 3 \times 3 \\\\
+&= 9 \ \text {litres}
 \end {aligned}
 $
 
@@ -2711,16 +2710,15 @@ $9 \ \text {litres}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin {aligned}
-\text {Litres of water in 12 litres of orange drink}  &= \dfrac {3} {4} \ \text {of} \ 12 \ \text {litres} \\\\
-                                                      &= \dfrac {3 \times 12} {4} \\\\
-                                                      &= \dfrac {3 \times 3 \times 4} {4} \\\\
-                                                      &= \dfrac {3 \times 3 \times \cancel {4}} {\cancel {4}} \\\\
-                                                      &= 3 \times 3 \\\\
-                                                      &= 9 \ \text {litres}
+&= \dfrac {3} {4} \ \text {of} \ 12 \ \text {litres} \\\\
+&= \dfrac {3 \times 12} {4} \\\\
+&= \dfrac {3 \times 3 \times 4} {4} \\\\
+&= \dfrac {3 \times 3 \times \cancel {4}} {\cancel {4}} \\\\
+&= 3 \times 3 \\\\
+&= 9 \ \text {litres}
 \end {aligned}
 $
 </code></pre>
@@ -2739,11 +2737,53 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+tratio
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1BF483A4-E5F0-45CE-93A3-E0436396EDAA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='1BF483A4-E5F0-45CE-93A3-E0436396EDAA' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1BF483A4-E5F0-45CE-93A3-E0436396EDAA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='1BF483A4-E5F0-45CE-93A3-E0436396EDAA' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1BF483A4-E5F0-45CE-93A3-E0436396EDAA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1BF483A4-E5F0-45CE-93A3-E0436396EDAA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='1BF483A4-E5F0-45CE-93A3-E0436396EDAA' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1BF483A4-E5F0-45CE-93A3-E0436396EDAA' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='1BF483A4-E5F0-45CE-93A3-E0436396EDAA' id='FORM-1BF483A4-E5F0-45CE-93A3-E0436396EDAA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1BF483A4-E5F0-45CE-93A3-E0436396EDAA'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2E75B7DC-1BB8-4EB4-8F7A-059D13BBC07E</p>
 </div>
@@ -2757,7 +2797,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

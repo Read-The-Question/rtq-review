@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -641,7 +641,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D36BB18F-8826-4176-8B3F-39ED15916C0B</p>
 </div>
@@ -652,7 +652,7 @@ TODOANSWER
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_am_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -672,36 +672,27 @@ If %symbol% represents an even number smaller than $10$ and if %symbol% $< 5$ st
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%symbol% < 10, is a even number and also < 5
 
-</div>
-<div class='working'>
+Therefore, possible value = 2 
 
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+2
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>%symbol% < 10, is a even number and also < 5
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Therefore, possible value = 2 
+
 </code></pre>
 </div>
 </div>
@@ -713,26 +704,53 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>2
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' id='FORM-D36BB18F-8826-4176-8B3F-39ED15916C0B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D36BB18F-8826-4176-8B3F-39ED15916C0B'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9</p>
 </div>
@@ -743,7 +761,7 @@ TODOANSWER
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_am_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -765,21 +783,49 @@ $\dfrac{3}{5} \quad \dfrac{3}{7} \quad  \dfrac{5}{12} \quad \dfrac{8}{15} \quad 
 <div class='workings'>
 <div class='working'>
 
+Using trial and error,
 
+If twice the numerator is bigger then the denominator then the fraction will be will be bigger than 1/2. So,
+
+| Fraction  |Denominator < $2 \times$ Numerator|
+|:-------:  |:-------------------------------: |
+| $3, 5$    |             Yes                  |
+| $3, 7$    |              No                  |
+| $5, 12$   |              No                  |
+| $8, 15$   |             Yes                  |
+| $11, 15$  |             Yes                  |
+
+
+
+$ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>Using trial and error,
+
+If twice the numerator is bigger then the denominator then the fraction will be will be bigger than 1/2. So,
+
+| Fraction  |Denominator < $2 \times$ Numerator|
+|:-------:  |:-------------------------------: |
+| $3, 5$    |             Yes                  |
+| $3, 7$    |              No                  |
+| $5, 12$   |              No                  |
+| $8, 15$   |             Yes                  |
+| $11, 15$  |             Yes                  |
+
+
+
+$ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 </code></pre>
 </div>
 </div>
@@ -791,12 +837,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' id='FORM-3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9'>Initial</p>
+</div>
 </div>
 </li>
 <li>

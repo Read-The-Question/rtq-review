@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g0"
 title: "TopicPaper - Number - 11 - G0"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A7C319CF-83DA-4579-B28A-5CF2D1F00791</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-12 14:58:45
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -135,10 +135,11 @@ Convert $430\ \text{millimetres}$ into $\text{centimetres}$
 $
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm} \\\\
-&= \dfrac {430} {10} \ \text{cm} \\\\
-&= \dfrac {43 \cancel{0}} {1 \cancel{0}} \ \text{cm} \\\\
-&= 43 \ \text{cm}
+&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
+&= \dfrac {430} {10}  \\\\
+&= \dfrac {43 \times 10} {10}  \\\\
+&= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
+&=43 \ \text{cm}
 \end{aligned}
 $
 
@@ -157,10 +158,11 @@ $43 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm} \\\\
-&= \dfrac {430} {10} \ \text{cm} \\\\
-&= \dfrac {43 \cancel{0}} {1 \cancel{0}} \ \text{cm} \\\\
-&= 43 \ \text{cm}
+&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
+&= \dfrac {430} {10}  \\\\
+&= \dfrac {43 \times 10} {10}  \\\\
+&= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
+&=43 \ \text{cm}
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2172,7 +2172,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
 </div>
@@ -2186,7 +2186,7 @@ TODOANSWER
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2244,9 +2244,7 @@ Express $36$ as a product of its prime factors.
 <div class='workings'>
 <div class='working'>
 
-Prime factors of $36 = 1, 2 \ \text {and} \ 3$
-
-$36$ as a product of its prime factors $= 2 \times 2 \times 3 \times 3$
+$2 \times 2 \times 3 \times 3$
 
 </div>
 </div>
@@ -2260,9 +2258,7 @@ $2 \times 2 \times 3 \times 3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Prime factors of $36 = 1, 2 \ \text {and} \ 3$
-
-$36$ as a product of its prime factors $= 2 \times 2 \times 3 \times 3$
+<pre class='language-latex'><code class='language-latex'>$2 \times 2 \times 3 \times 3$
 </code></pre>
 </div>
 </div>
@@ -2293,7 +2289,7 @@ What is the largest of the common factors of $24$ and $36$?
 
 Factors of $24 = 1, 2, 3, 4, 6, 8, \bold {12}, 24$
 
-Factors of $36$ (< 24) $= 1, 2, 3, 4, 6, 9, \bold {12}, 18$
+Factors of $36 = 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36$
 
 The largest common factors of $24$ and $36 = 12$
 
@@ -2311,7 +2307,7 @@ $12$
 
 <pre class='language-latex'><code class='language-latex'>Factors of $24 = 1, 2, 3, 4, 6, 8, \bold {12}, 24$
 
-Factors of $36$ (< 24) $= 1, 2, 3, 4, 6, 9, \bold {12}, 18$
+Factors of $36 = 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36$
 
 The largest common factors of $24$ and $36 = 12$
 </code></pre>

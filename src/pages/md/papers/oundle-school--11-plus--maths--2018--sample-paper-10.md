@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-10"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 10"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1331,7 +1331,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B4B6A0C4-0E17-4C31-8F27-57901959FB2A</p>
 </div>
@@ -1345,7 +1345,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1521,7 +1521,7 @@ $1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84</p>
 </div>
@@ -1535,7 +1535,7 @@ $1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2686,7 +2686,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>183E5936-AE5B-4F69-9E14-3F492AF14DA3</p>
 </div>
@@ -2700,7 +2700,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2957,7 +2957,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A8B52462-A833-4D1A-AD6D-8D8F5E26916D</p>
 </div>
@@ -2971,7 +2971,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3041,8 +3041,8 @@ As per the the question,
 $
 \begin{aligned}
 5x + 8                                           &= 3x \\\\
-5x - 3x                                          &= -2 \\\\
-x                                                &= -1                                            
+5x - 3x                                          &= -8 \\\\
+x                                                &= -4                                            
 \end{aligned}
 $
 
@@ -3051,7 +3051,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-1$
+$-4$
 
 </div>
 </div>
@@ -3065,8 +3065,8 @@ As per the the question,
 $
 \begin{aligned}
 5x + 8                                           &= 3x \\\\
-5x - 3x                                          &= -2 \\\\
-x                                                &= -1                                            
+5x - 3x                                          &= -8 \\\\
+x                                                &= -4                                            
 \end{aligned}
 $
 </code></pre>
@@ -3080,7 +3080,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-1$
+<pre class='language-latex'><code class='language-latex'>$-4$
 </code></pre>
 </div>
 </div>
@@ -3111,8 +3111,8 @@ $
 x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
-x                                                              &= 10 \div -2 \\\\
-x                                                              &= -5 \\\\
+x                                                              &= -\dfrac{10}{5} \\\\
+x                                                              &= -2 \\\\
 \end{aligned}
 $
 
@@ -3121,7 +3121,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-5$
+$-2$
 
 </div>
 </div>
@@ -3138,8 +3138,8 @@ $
 x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
-x                                                              &= 10 \div -2 \\\\
-x                                                              &= -5 \\\\
+x                                                              &= -\dfrac{10}{5} \\\\
+x                                                              &= -2 \\\\
 \end{aligned}
 $
 </code></pre>
@@ -3153,7 +3153,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-5$
+<pre class='language-latex'><code class='language-latex'>$-2$
 </code></pre>
 </div>
 </div>
@@ -3176,16 +3176,19 @@ Find the dimensions of the rectangle.
 
 $
 \begin{aligned}
-width                                 &= 4 \times height \\\\
-2 (width + height)                    &= 12 \\\\
-2 (4 \times height + height)          &= 12 \\\\
-5 \times height                       &= 6 \\\\
-height                                &= 6 /div 5 \\\\
+\text{Let Width} &= w \\\\ 
+\text{Let Height} &= h \\\\ 
+w                                &= 4 \times h \\\\
+2 \times (w + h)                    &= 12 \\\\
+2 \times (4 \times h + h)          &= 12 \\\\
+2 \times (5 \times h)                       &= 12 \\\\
+10 \times h                      &= 12 \\\\
+h                                &= \dfrac{12}{10} \\\\
                                       &= 1.2 \\\\
-width                                 &= 4 \times 1.2 \\\\
+w                                &= 4 \times 1.2 \\\\
                                       &= 4.8
-
 \end{aligned}
+$
 
 </div>
 </div>
@@ -3201,16 +3204,19 @@ $1.2,4.8$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-width                                 &= 4 \times height \\\\
-2 (width + height)                    &= 12 \\\\
-2 (4 \times height + height)          &= 12 \\\\
-5 \times height                       &= 6 \\\\
-height                                &= 6 /div 5 \\\\
+\text{Let Width} &= w \\\\ 
+\text{Let Height} &= h \\\\ 
+w                                &= 4 \times h \\\\
+2 \times (w + h)                    &= 12 \\\\
+2 \times (4 \times h + h)          &= 12 \\\\
+2 \times (5 \times h)                       &= 12 \\\\
+10 \times h                      &= 12 \\\\
+h                                &= \dfrac{12}{10} \\\\
                                       &= 1.2 \\\\
-width                                 &= 4 \times 1.2 \\\\
+w                                &= 4 \times 1.2 \\\\
                                       &= 4.8
-
 \end{aligned}
+$
 </code></pre>
 </div>
 </div>

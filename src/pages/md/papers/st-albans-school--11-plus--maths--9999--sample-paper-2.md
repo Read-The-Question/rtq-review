@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-9999-sample-paper-2"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1339,10 +1339,10 @@ $
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1626,7 +1626,7 @@ Number $= 21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A7490F93-7479-4839-A126-AA134B1AEB90</p>
 </div>
@@ -1634,13 +1634,13 @@ Number $= 21$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1657,18 +1657,18 @@ I  think of a  number   multiply it by  **3**  and   then  subtract **8** . If t
 <div class='workings'>
 <div class='working'>
 
-Let the  number be $ = a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-3 \times a - 8    &= - 5 \\\\
-3 \times a        &= 8 - 5 \\\\
-3 \times a        &= 3 \\\\
-a                 &= \dfrac {3} {3} \\\\
-a                 &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
-a                 &= 1
+3a - 8      &= -5 \\\\
+3a          &= -5 + 8 \\\\
+3a          &= 3 \\\\
+a           &= \dfrac {3} {3} \\\\
+a           &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
+a           &= 1
 \end{aligned}
 $
 
@@ -1684,18 +1684,18 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the  number be $ = a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-3 \times a - 8    &= - 5 \\\\
-3 \times a        &= 8 - 5 \\\\
-3 \times a        &= 3 \\\\
-a                 &= \dfrac {3} {3} \\\\
-a                 &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
-a                 &= 1
+3a - 8      &= -5 \\\\
+3a          &= -5 + 8 \\\\
+3a          &= 3 \\\\
+a           &= \dfrac {3} {3} \\\\
+a           &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
+a           &= 1
 \end{aligned}
 $
 </code></pre>

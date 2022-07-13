@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-notstarted"
 title: "TopicPaper - Number - 13 - NOTSTARTED"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,10 +13,10 @@ date: 2022-07-12 14:58:45
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -104,10 +104,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -171,10 +171,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -538,10 +538,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -766,10 +766,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -996,10 +996,10 @@ TODOANSWER
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1064,10 +1064,10 @@ $123 \, -  (\,  45 \, +  (\,  67 \, - \,  89 ) ) = 100$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1159,10 +1159,10 @@ $
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1253,10 +1253,10 @@ TODOANSWER
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

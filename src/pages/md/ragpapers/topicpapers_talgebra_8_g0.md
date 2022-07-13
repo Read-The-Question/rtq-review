@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-8-g0"
 title: "TopicPaper - Algebra - 8 - G0"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1502,7 +1502,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>183E5936-AE5B-4F69-9E14-3F492AF14DA3</p>
 </div>
@@ -1516,7 +1516,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1773,7 +1773,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A8B52462-A833-4D1A-AD6D-8D8F5E26916D</p>
 </div>
@@ -1787,7 +1787,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1857,8 +1857,8 @@ As per the the question,
 $
 \begin{aligned}
 5x + 8                                           &= 3x \\\\
-5x - 3x                                          &= -2 \\\\
-x                                                &= -1                                            
+5x - 3x                                          &= -8 \\\\
+x                                                &= -4                                            
 \end{aligned}
 $
 
@@ -1867,7 +1867,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-1$
+$-4$
 
 </div>
 </div>
@@ -1881,8 +1881,8 @@ As per the the question,
 $
 \begin{aligned}
 5x + 8                                           &= 3x \\\\
-5x - 3x                                          &= -2 \\\\
-x                                                &= -1                                            
+5x - 3x                                          &= -8 \\\\
+x                                                &= -4                                            
 \end{aligned}
 $
 </code></pre>
@@ -1896,7 +1896,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-1$
+<pre class='language-latex'><code class='language-latex'>$-4$
 </code></pre>
 </div>
 </div>
@@ -1927,8 +1927,8 @@ $
 x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
-x                                                              &= 10 \div -2 \\\\
-x                                                              &= -5 \\\\
+x                                                              &= -\dfrac{10}{5} \\\\
+x                                                              &= -2 \\\\
 \end{aligned}
 $
 
@@ -1937,7 +1937,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-5$
+$-2$
 
 </div>
 </div>
@@ -1954,8 +1954,8 @@ $
 x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
-x                                                              &= 10 \div -2 \\\\
-x                                                              &= -5 \\\\
+x                                                              &= -\dfrac{10}{5} \\\\
+x                                                              &= -2 \\\\
 \end{aligned}
 $
 </code></pre>
@@ -1969,7 +1969,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-5$
+<pre class='language-latex'><code class='language-latex'>$-2$
 </code></pre>
 </div>
 </div>
@@ -1992,16 +1992,19 @@ Find the dimensions of the rectangle.
 
 $
 \begin{aligned}
-width                                 &= 4 \times height \\\\
-2 (width + height)                    &= 12 \\\\
-2 (4 \times height + height)          &= 12 \\\\
-5 \times height                       &= 6 \\\\
-height                                &= 6 /div 5 \\\\
+\text{Let Width} &= w \\\\ 
+\text{Let Height} &= h \\\\ 
+w                                &= 4 \times h \\\\
+2 \times (w + h)                    &= 12 \\\\
+2 \times (4 \times h + h)          &= 12 \\\\
+2 \times (5 \times h)                       &= 12 \\\\
+10 \times h                      &= 12 \\\\
+h                                &= \dfrac{12}{10} \\\\
                                       &= 1.2 \\\\
-width                                 &= 4 \times 1.2 \\\\
+w                                &= 4 \times 1.2 \\\\
                                       &= 4.8
-
 \end{aligned}
+$
 
 </div>
 </div>
@@ -2017,16 +2020,19 @@ $1.2,4.8$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-width                                 &= 4 \times height \\\\
-2 (width + height)                    &= 12 \\\\
-2 (4 \times height + height)          &= 12 \\\\
-5 \times height                       &= 6 \\\\
-height                                &= 6 /div 5 \\\\
+\text{Let Width} &= w \\\\ 
+\text{Let Height} &= h \\\\ 
+w                                &= 4 \times h \\\\
+2 \times (w + h)                    &= 12 \\\\
+2 \times (4 \times h + h)          &= 12 \\\\
+2 \times (5 \times h)                       &= 12 \\\\
+10 \times h                      &= 12 \\\\
+h                                &= \dfrac{12}{10} \\\\
                                       &= 1.2 \\\\
-width                                 &= 4 \times 1.2 \\\\
+w                                &= 4 \times 1.2 \\\\
                                       &= 4.8
-
 \end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2087,7 +2093,7 @@ width                                 &= 4 \times 1.2 \\\\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>51830703-CBD9-43F8-B47F-335ADCA3A65F</p>
 </div>
@@ -2101,7 +2107,7 @@ width                                 &= 4 \times 1.2 \\\\
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2388,7 +2394,7 @@ $
 \text{Total boxes needed}   &= \dfrac {650} {24} \\\\
                             &= \dfrac {650} {24} \\\\
                             &= 27.08 \\\\
-                            &= 28
+                            &\approx 28
 \end{aligned}
 $
 
@@ -2409,7 +2415,7 @@ $28$
 \text{Total boxes needed}   &= \dfrac {650} {24} \\\\
                             &= \dfrac {650} {24} \\\\
                             &= 27.08 \\\\
-                            &= 28
+                            &\approx 28
 \end{aligned}
 $
 </code></pre>
@@ -2472,7 +2478,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EFD38E79-EABA-416D-9691-E23FADC9823E</p>
 </div>
@@ -2486,7 +2492,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2505,13 +2511,13 @@ An iPhone used to cost $\pounds 500$. Since Brexit the price has increased by $2
 
 $
 \begin{aligned}
-&= 22 \% \times 500 \\\\
+\text{increase}&= 22 \% \times 500 \\\\
 &= \dfrac {22} {100} \times 500 \\\\
 &= \dfrac {22 \times 500} {100} \\\\
 &= \dfrac {11000} {100} \\\\
 &= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
 &= 110 \\\\
-&= 500 + 110 \\\\
+\text{price}&= 500 + 110 \\\\
 &= 610
 \end{aligned}
 $
@@ -2530,13 +2536,13 @@ $610$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 22 \% \times 500 \\\\
+\text{increase}&= 22 \% \times 500 \\\\
 &= \dfrac {22} {100} \times 500 \\\\
 &= \dfrac {22 \times 500} {100} \\\\
 &= \dfrac {11000} {100} \\\\
 &= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
 &= 110 \\\\
-&= 500 + 110 \\\\
+\text{price}&= 500 + 110 \\\\
 &= 610
 \end{aligned}
 $
@@ -2597,7 +2603,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B46513A7-1E27-44FD-8AD7-EA8D3C19DE4E</p>
 </div>
@@ -2611,7 +2617,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2658,7 +2664,8 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$(12,0),(4,18)$
+$a=12,b=0 \\
+ a=4, b=18$
 
 </div>
 </div>
@@ -2696,7 +2703,8 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$(12,0),(4,18)$
+<pre class='language-latex'><code class='language-latex'>$a=12,b=0 \\
+ a=4, b=18$
 </code></pre>
 </div>
 </div>
@@ -2742,7 +2750,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E2966271-3218-4066-8490-77C5F92607CA</p>
 </div>
@@ -2756,7 +2764,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3039,7 +3047,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532</p>
 </div>
@@ -3053,7 +3061,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3229,7 +3237,7 @@ $
 \begin{aligned}
 \text{Containers needed} &= \dfrac {2341} {21} \\\\
                          &= 111.47 \\\\
-                         &= 112
+                         &\approx 112
 \end{aligned}
 $
 
@@ -3249,7 +3257,7 @@ $112$
 \begin{aligned}
 \text{Containers needed} &= \dfrac {2341} {21} \\\\
                          &= 111.47 \\\\
-                         &= 112
+                         &\approx 112
 \end{aligned}
 $
 </code></pre>
@@ -3432,7 +3440,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B0474C27-24BE-44CC-8751-8A066A162D28</p>
 </div>
@@ -3446,7 +3454,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3619,8 +3627,8 @@ $-3x^2$
 $
 \begin{aligned}
 &= -3x^2 \\\\
-&= -3(-2)^2 \\\\
-&= -3(4) \\\\
+&= -3 \times (-2)^2 \\\\
+&= -3 \times (4) \\\\
 &= -12
 \end{aligned}
 $
@@ -3640,8 +3648,8 @@ $-12$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= -3x^2 \\\\
-&= -3(-2)^2 \\\\
-&= -3(4) \\\\
+&= -3 \times (-2)^2 \\\\
+&= -3 \times (4) \\\\
 &= -12
 \end{aligned}
 $
@@ -3673,14 +3681,16 @@ $2xy - z^3$
 <div class='workings'>
 <div class='working'>
 
+
 $
-\begin{aligned]
+\begin{aligned}
 &= 2xy - z^3 \\\\
 &= 2 \times -2 \times 3 - (-1)^3 \\\\
 &= -12 - (-1) \\\\
 &= -12 + 1 \\\\
 &= -11
 \end{aligned}
+$
 $
 
 </div>
@@ -3695,14 +3705,16 @@ $-11$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned]
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
 &= 2xy - z^3 \\\\
 &= 2 \times -2 \times 3 - (-1)^3 \\\\
 &= -12 - (-1) \\\\
 &= -12 + 1 \\\\
 &= -11
 \end{aligned}
+$
 $
 </code></pre>
 </div>
@@ -3764,7 +3776,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>39E23842-24A9-4406-85BD-91A1D31AE811</p>
 </div>
@@ -3778,7 +3790,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4071,7 +4083,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
 </div>
@@ -4085,7 +4097,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4143,11 +4155,12 @@ $3x -7 = 5x + 7$
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{aligned}
-3 x - 7    &= 5 x + 7 \\\\
-3 x - 5 x  &= 7 + 7 \\\\
-- 2 x      &= 14 \\\\
+3 \times x - 7    &= 5 \times x + 7 \\\\
+3 \times x - 5 \times x  &= 7 + 7 \\\\
+-2 \times x      &= 14 \\\\
 x          &= - \dfrac {14} {2} \\\\
 x          &= - \dfrac {7 \times 2} {2} \\\\
 x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
@@ -4167,11 +4180,12 @@ $-7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+$
 \begin{aligned}
-3 x - 7    &= 5 x + 7 \\\\
-3 x - 5 x  &= 7 + 7 \\\\
-- 2 x      &= 14 \\\\
+3 \times x - 7    &= 5 \times x + 7 \\\\
+3 \times x - 5 \times x  &= 7 + 7 \\\\
+-2 \times x      &= 14 \\\\
 x          &= - \dfrac {14} {2} \\\\
 x          &= - \dfrac {7 \times 2} {2} \\\\
 x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
@@ -4208,9 +4222,9 @@ $\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
 
 $
 \begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5
+\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5 \\\\
 \dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - \dfrac x \times 2}{6}                       &= 8 \\\\
+\dfrac{x \times 3 - x \times 2}{6}                       &= 8 \\\\
 \dfrac{x}{6}                                                    &= 8 \\\\
 x                                                               &= 8 \times 6 \\\\
                                                                 &= 48
@@ -4231,9 +4245,9 @@ $48$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5
+\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5 \\\\
 \dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - \dfrac x \times 2}{6}                       &= 8 \\\\
+\dfrac{x \times 3 - x \times 2}{6}                       &= 8 \\\\
 \dfrac{x}{6}                                                    &= 8 \\\\
 x                                                               &= 8 \times 6 \\\\
                                                                 &= 48
@@ -4299,7 +4313,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>33950D66-0394-4747-B53F-98D8262D12EC</p>
 </div>
@@ -4313,7 +4327,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4438,7 +4452,7 @@ Number of boys in the school $= 501$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>72FCEF04-0FAC-4FF2-B835-201FE7548490</p>
 </div>
@@ -4452,7 +4466,7 @@ Number of boys in the school $= 501$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4475,8 +4489,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total children}                                &= \text{Total boys} + \text{Total girls} \\\\
-c                                                    &= \dfrac {2} {5} \times c + 12 \\\\
+\text{Total children}                                &= \dfrac {2} {5} \times c + 12 \\\\
 c                                                    &= \dfrac {2a} {5} + 12 \\\\
 c - \dfrac {2c} {5}                                  &= 12 \\\\
 \dfrac {c \times 5} {1 \times 5} - \dfrac {2c} {5}   &= 12 \\\\
@@ -4489,14 +4502,12 @@ c                                                    &= 20
 \end{aligned}
 $
 
-The total number of children in class $= 20$
 
 Let's find the total number of boys.
 
 $
 \begin{aligned}
-\text{Total number of boys}                     &= \text{Total children} - \text{Total girls} \\\\
-                                                &= 20 - 12 \\\\
+\text{Total number of boys}                     &= 20 - 12 \\\\
                                                 &= 8
 \end{aligned}
 $
@@ -4519,8 +4530,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total children}                                &= \text{Total boys} + \text{Total girls} \\\\
-c                                                    &= \dfrac {2} {5} \times c + 12 \\\\
+\text{Total children}                                &= \dfrac {2} {5} \times c + 12 \\\\
 c                                                    &= \dfrac {2a} {5} + 12 \\\\
 c - \dfrac {2c} {5}                                  &= 12 \\\\
 \dfrac {c \times 5} {1 \times 5} - \dfrac {2c} {5}   &= 12 \\\\
@@ -4533,14 +4543,12 @@ c                                                    &= 20
 \end{aligned}
 $
 
-The total number of children in class $= 20$
 
 Let's find the total number of boys.
 
 $
 \begin{aligned}
-\text{Total number of boys}                     &= \text{Total children} - \text{Total girls} \\\\
-                                                &= 20 - 12 \\\\
+\text{Total number of boys}                     &= 20 - 12 \\\\
                                                 &= 8
 \end{aligned}
 $
@@ -4601,7 +4609,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D420B70D-FFDF-4298-9B28-CB918A886544</p>
 </div>
@@ -4615,7 +4623,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4733,7 +4741,7 @@ Cost of  $6$ ruler and $4$ pens $= 6x + 4y$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>94C2C3F2-69F9-49F2-946E-30BF9FEA63BD</p>
 </div>
@@ -4747,7 +4755,7 @@ Cost of  $6$ ruler and $4$ pens $= 6x + 4y$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4773,16 +4781,8 @@ As per the question,
 $
 \begin{aligned} 
 a + b                    &= 35 \\\\
-a - b                    &= 13
-\end{aligned}
-$
-
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned}
+a - b                    &= 13 \\\\
+\text{substracting,} \\\\
 a + b - (a - b)          &= 35 - 13 \\\\
 a + b - a + b            &= 22 \\\\
 2b                       &= 22 \\\\
@@ -4829,16 +4829,8 @@ As per the question,
 $
 \begin{aligned} 
 a + b                    &= 35 \\\\
-a - b                    &= 13
-\end{aligned}
-$
-
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned}
+a - b                    &= 13 \\\\
+\text{substracting,} \\\\
 a + b - (a - b)          &= 35 - 13 \\\\
 a + b - a + b            &= 22 \\\\
 2b                       &= 22 \\\\
@@ -4920,7 +4912,7 @@ Second number $= 11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B33A22B5-0C06-4A7C-A218-0C2B9A928463</p>
 </div>
@@ -4934,7 +4926,7 @@ Second number $= 11$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5065,7 +5057,7 @@ The two numbers are $= 4 \ \text{and} \ 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F144AB4B-7F3C-4D5C-A3B8-FD43E18D9B4E</p>
 </div>
@@ -5079,7 +5071,7 @@ The two numbers are $= 4 \ \text{and} \ 7$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5851,7 +5843,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4C9A3109-398C-46C7-B66E-8EC1E868DD8C</p>
 </div>
@@ -5865,7 +5857,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6527,7 +6519,7 @@ The bar was having $600$ \text{g} chocolates originally.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D10222B7-3539-4A50-96F9-131B2DC288B9</p>
 </div>
@@ -6541,7 +6533,7 @@ The bar was having $600$ \text{g} chocolates originally.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6658,7 +6650,7 @@ The number I think of $= 33$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4E6171F1-A614-49B9-AD77-25E54516C128</p>
 </div>
@@ -6672,7 +6664,7 @@ The number I think of $= 33$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7432,7 +7424,7 @@ Number of sweets Martin take $= 36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1386CD9E-4F45-4B19-8D78-E266D298EDFB</p>
 </div>
@@ -7446,7 +7438,7 @@ Number of sweets Martin take $= 36$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

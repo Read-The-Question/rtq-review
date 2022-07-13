@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1037,10 +1037,10 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2607,10 +2607,10 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2698,10 +2698,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2997,10 +2997,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3083,7 +3083,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C207B486-E1C2-4DBB-91FE-CCBBCB8F1F7A</p>
 </div>
@@ -3091,13 +3091,13 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3116,13 +3116,12 @@ A theatre has seats arranged in rows of 22. If an audience of 483 fills the rows
 
 $
 \begin {aligned}
-\text {No. of rows occupied}          &= \dfrac { \text{Total audience}} { \text{Seats per row}} \\\\
-                                      &= \dfrac {483} {22} \\\\
-                                      &= 21 \dfrac {21} {22}
+\text {Number of rows fully occupied}     &= \dfrac {\text{Total audience}} {\text{Seats per row}} \\\\
+                                          &= \dfrac {483} {22} \\\\
+                                          &= 21 \ \text {remainder} \ 21 \\\\
+                                          &\approx 21
 \end {aligned}
 $
-
-Number of rows that will be full $= 21$
 
 </div>
 </div>
@@ -3138,13 +3137,12 @@ $21$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {No. of rows occupied}          &= \dfrac { \text{Total audience}} { \text{Seats per row}} \\\\
-                                      &= \dfrac {483} {22} \\\\
-                                      &= 21 \dfrac {21} {22}
+\text {Number of rows fully occupied}     &= \dfrac {\text{Total audience}} {\text{Seats per row}} \\\\
+                                          &= \dfrac {483} {22} \\\\
+                                          &= 21 \ \text {remainder} \ 21 \\\\
+                                          &\approx 21
 \end {aligned}
 $
-
-Number of rows that will be full $= 21$
 </code></pre>
 </div>
 </div>
@@ -3210,10 +3208,10 @@ Number of rows that will be full $= 21$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3438,10 +3436,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3668,10 +3666,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6085,7 +6083,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FEAB2ACE-3E49-46F1-A250-9631A7EA7469</p>
 </div>
@@ -6093,13 +6091,13 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6120,34 +6118,37 @@ How many balloons are blue?
 
 Let the number of red balloons $= a$
 
+Number of green balloons $= 3a$
+
+Number of blue balloons $= 6a$
+
+As per the question,
+
 $
 \begin{aligned}
-\text{Blue} + \text{Green} + \text{Red}                                     &= \text{Total balloons} \\\\
-6a + 3a + a                                                                 &= 40 \\\\
-10a                                                                         &= 40 \\\\
-a                                                                           &= \dfrac {40} {10} \\\\
-a                                                                           &= \dfrac {4 \cancel{0}} {1 \cancel{0}} \\\\
-a                                                                           &= 4
+a + 3a + 6a       &= 40 \\\\
+10a               &= 40 \\\\
+a                 &= \dfrac {40} {10} \\\\
+a                 &= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
+a                 &= 4
 \end{aligned}
 $
 
 $
-\begin{aligned}
-\text{Number of red balloons}                        &= 4 \\\\
-\text{Number of blue balloons}                       &= 6 \times a \\\\
-                                                     &= 6 \times 4 \\\\
-                                                    &= 24
-\end{aligned}
+\begin {aligned}
+\text {Number of red balloons}      &= 4 \\\\
+\text {Number of blue balloons}     &= 6a \\\\
+                                    &= 6 \times 4 \\\\
+                                    &= 24
+\end {aligned}
 $
-
-The number of blue balloons are $= 24$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$24 \ \text{Balloons}$
+$24$
 
 </div>
 </div>
@@ -6156,27 +6157,30 @@ $24 \ \text{Balloons}$
 
 <pre class='language-latex'><code class='language-latex'>Let the number of red balloons $= a$
 
+Number of green balloons $= 3a$
+
+Number of blue balloons $= 6a$
+
+As per the question,
+
 $
 \begin{aligned}
-\text{Blue} + \text{Green} + \text{Red}                                     &= \text{Total balloons} \\\\
-6a + 3a + a                                                                 &= 40 \\\\
-10a                                                                         &= 40 \\\\
-a                                                                           &= \dfrac {40} {10} \\\\
-a                                                                           &= \dfrac {4 \cancel{0}} {1 \cancel{0}} \\\\
-a                                                                           &= 4
+a + 3a + 6a       &= 40 \\\\
+10a               &= 40 \\\\
+a                 &= \dfrac {40} {10} \\\\
+a                 &= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
+a                 &= 4
 \end{aligned}
 $
 
 $
-\begin{aligned}
-\text{Number of red balloons}                        &= 4 \\\\
-\text{Number of blue balloons}                       &= 6 \times a \\\\
-                                                     &= 6 \times 4 \\\\
-                                                    &= 24
-\end{aligned}
+\begin {aligned}
+\text {Number of red balloons}      &= 4 \\\\
+\text {Number of blue balloons}     &= 6a \\\\
+                                    &= 6 \times 4 \\\\
+                                    &= 24
+\end {aligned}
 $
-
-The number of blue balloons are $= 24$
 </code></pre>
 </div>
 </div>
@@ -6188,7 +6192,7 @@ The number of blue balloons are $= 24$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$24 \ \text{Balloons}$
+<pre class='language-latex'><code class='language-latex'>$24$
 </code></pre>
 </div>
 </div>
@@ -6234,7 +6238,7 @@ The number of blue balloons are $= 24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3E12E5A1-1C9D-490A-A55D-17256F88FBF4</p>
 </div>
@@ -6242,13 +6246,13 @@ The number of blue balloons are $= 24$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6265,23 +6269,23 @@ I think of a number. I multiply my number by 9 and add 5 to the result. The answ
 <div class='workings'>
 <div class='working'>
 
-Let the number I think of $= a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-a \times 9 + 5                                               &= 50 \\\\
-9a                                                           &= 50 - 5 \\\\
-9a                                                           &= 45 \\\\
-a                                                            &= \dfrac {45} {9} \\\\
-a                                                            &= \dfrac {9 \times 5} {9} \\\\
-a                                                            &= \dfrac {\cancel{9} \times 5} {\cancel{9}} \\\\
-a                                                            &= 5
+a \times 9 + 5    &= 50 \\\\
+9a                &= 50 - 5 \\\\
+9a                &= 45 \\\\
+a                 &= \dfrac {45} {9} \\\\
+a                 &= \dfrac {5 \times 9} {9} \\\\
+a                 &= \dfrac {5 \times \cancel {9}} {\cancel {9}} \\\\
+a                 &= 5
 \end{aligned}
 $
 
-The number I think of $= 5$
+The number $= 5$
 
 </div>
 </div>
@@ -6295,23 +6299,23 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I think of $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-a \times 9 + 5                                               &= 50 \\\\
-9a                                                           &= 50 - 5 \\\\
-9a                                                           &= 45 \\\\
-a                                                            &= \dfrac {45} {9} \\\\
-a                                                            &= \dfrac {9 \times 5} {9} \\\\
-a                                                            &= \dfrac {\cancel{9} \times 5} {\cancel{9}} \\\\
-a                                                            &= 5
+a \times 9 + 5    &= 50 \\\\
+9a                &= 50 - 5 \\\\
+9a                &= 45 \\\\
+a                 &= \dfrac {45} {9} \\\\
+a                 &= \dfrac {5 \times 9} {9} \\\\
+a                 &= \dfrac {5 \times \cancel {9}} {\cancel {9}} \\\\
+a                 &= 5
 \end{aligned}
 $
 
-The number I think of $= 5$
+The number $= 5$
 </code></pre>
 </div>
 </div>
@@ -6475,10 +6479,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

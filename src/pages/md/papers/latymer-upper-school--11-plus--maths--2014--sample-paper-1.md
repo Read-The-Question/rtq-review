@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -143,7 +143,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>767A83AB-D696-47B5-958B-CB9F94B0FA06</p>
 </div>
@@ -157,7 +157,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -798,7 +798,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5</p>
 </div>
@@ -812,7 +812,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -845,7 +845,10 @@ ABBR: Using BIDMAS
 $
 \begin {aligned}
 &= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
+&= 1 + 6 + 4 \times 5 + 6 \\\\
 &= 1 + 6 + 20 + 6 \\\\
+&= 7 + 20 + 6 \\\\
+&= 27 + 6 \\\\
 &= 33
 \end {aligned}
 $
@@ -870,7 +873,10 @@ $
 $
 \begin {aligned}
 &= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
+&= 1 + 6 + 4 \times 5 + 6 \\\\
 &= 1 + 6 + 20 + 6 \\\\
+&= 7 + 20 + 6 \\\\
+&= 27 + 6 \\\\
 &= 33
 \end {aligned}
 $
@@ -931,7 +937,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E72D1D0A-45E7-4B11-AD1D-3A696C67C895</p>
 </div>
@@ -942,7 +948,7 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -972,36 +978,54 @@ E: $52$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the number $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin {aligned}
+\dfrac {3} {4} \times a &= a - 36 \\\\
+a - \dfrac {3a} {4} &= 36 \\\\
+\dfrac {a \times 4} {4} -\dfrac {3a} {4} &= 36 \\\\
+\dfrac {4a - 3a} {4}  &= 36 \\\\
+\dfrac {a} {4}  &= 36 \\\\
+a &= 36 \times 4 \\\\
+a &= 144
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+A
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$144$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {3} {4} \times a &= a - 36 \\\\
+a - \dfrac {3a} {4} &= 36 \\\\
+\dfrac {a \times 4} {4} -\dfrac {3a} {4} &= 36 \\\\
+\dfrac {4a - 3a} {4}  &= 36 \\\\
+\dfrac {a} {4}  &= 36 \\\\
+a &= 36 \times 4 \\\\
+a &= 144
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1013,7 +1037,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>A
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -1023,12 +1047,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$144$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E72D1D0A-45E7-4B11-AD1D-3A696C67C895' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E72D1D0A-45E7-4B11-AD1D-3A696C67C895' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E72D1D0A-45E7-4B11-AD1D-3A696C67C895' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E72D1D0A-45E7-4B11-AD1D-3A696C67C895' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E72D1D0A-45E7-4B11-AD1D-3A696C67C895' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E72D1D0A-45E7-4B11-AD1D-3A696C67C895' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E72D1D0A-45E7-4B11-AD1D-3A696C67C895' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E72D1D0A-45E7-4B11-AD1D-3A696C67C895' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='E72D1D0A-45E7-4B11-AD1D-3A696C67C895' id='FORM-E72D1D0A-45E7-4B11-AD1D-3A696C67C895' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E72D1D0A-45E7-4B11-AD1D-3A696C67C895'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2062,7 +2123,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1D719402-C0E1-45A3-8C6F-B5F75896007C</p>
 </div>
@@ -2076,7 +2137,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2109,6 +2170,7 @@ Lets verify
 
 $
 \begin{aligned}
+7\text{p}  &= 5 \text{p} \times 2 + 8\text{p} -11\text{p}\\\\
 49\text{p}   &= 11 \text{p} \times 4 + 5\text{p} \\\\
 19\text{p}   &= 11 \text{p} + 8 \text{p} \\\\
 38\text{p}   &= 11 \text{p} \times 3 + 5 \text{p} 
@@ -2125,6 +2187,7 @@ $
 
  $=$ $17\text{p}$
 
+
 </div>
 </div>
 <div class='workingscodeblock'>
@@ -2136,6 +2199,7 @@ Lets verify
 
 $
 \begin{aligned}
+7\text{p}  &= 5 \text{p} \times 2 + 8\text{p} -11\text{p}\\\\
 49\text{p}   &= 11 \text{p} \times 4 + 5\text{p} \\\\
 19\text{p}   &= 11 \text{p} + 8 \text{p} \\\\
 38\text{p}   &= 11 \text{p} \times 3 + 5 \text{p} 
@@ -2153,6 +2217,7 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$17\text{p}$
+
 </code></pre>
 </div>
 </div>
@@ -3043,7 +3108,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>07C9B12E-3E52-4065-B971-8A932EE40907</p>
 </div>
@@ -3057,7 +3122,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3240,8 +3305,8 @@ What is the remainder when $531$ is divided by $17$?
 $
 \begin {aligned}
 &= \dfrac {531} {17} \\\\
-&= \dfrac {\cancel{531}} {\cancel {17}} \\\\
-&= 31.23
+&= 31\ \dfrac {4} {17} \\\\
+\therefore\text{Reminder is 4}
 \end {aligned}
 $
 
@@ -3260,8 +3325,8 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= \dfrac {531} {17} \\\\
-&= \dfrac {\cancel{531}} {\cancel {17}} \\\\
-&= 31.23
+&= 31\ \dfrac {4} {17} \\\\
+\therefore\text{Reminder is 4}
 \end {aligned}
 $
 </code></pre>

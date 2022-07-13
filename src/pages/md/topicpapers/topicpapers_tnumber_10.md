@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-10"
 title: "TopicPaper - Number - 10"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1372,7 +1372,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>836169C8-E272-4A22-ACB9-5D73CCEFC167</p>
 </div>
@@ -1386,7 +1386,7 @@ $17$
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1698,7 +1698,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9</p>
 </div>
@@ -1712,7 +1712,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2380,7 +2380,7 @@ $32027$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8A284E0B-57E3-41DE-ABA6-67932AE4157D</p>
 </div>
@@ -2394,7 +2394,7 @@ $32027$
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2418,8 +2418,9 @@ Lets convert all fractions into decimals:
 $
 \begin{aligned}
 &= 0.25, \dfrac{2}{9}, 0.039, \dfrac{4}{5}, \dfrac{3}{8}\\\\
-&=0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
-&=\dfrac{4}{5}, \dfrac{3}{8}
+&= 0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
+&= 0.80, 0.375\\\\ 
+&= \dfrac{4}{5}, \dfrac{3}{8}
 \end{aligned}
 $
 
@@ -2450,8 +2451,9 @@ TODOANSWER
 $
 \begin{aligned}
 &= 0.25, \dfrac{2}{9}, 0.039, \dfrac{4}{5}, \dfrac{3}{8}\\\\
-&=0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
-&=\dfrac{4}{5}, \dfrac{3}{8}
+&= 0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
+&= 0.80, 0.375\\\\ 
+&= \dfrac{4}{5}, \dfrac{3}{8}
 \end{aligned}
 $
 </code></pre>
@@ -5066,7 +5068,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FF8263CB-765D-4212-B45C-E95A8847AA0A</p>
 </div>
@@ -5080,7 +5082,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8153,7 +8155,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B4B6A0C4-0E17-4C31-8F27-57901959FB2A</p>
 </div>
@@ -8167,7 +8169,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8343,7 +8345,7 @@ $1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84</p>
 </div>
@@ -8357,7 +8359,7 @@ $1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

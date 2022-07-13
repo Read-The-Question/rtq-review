@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -566,7 +566,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>02F2B606-7110-4F90-BC98-D3ED752A91BC</p>
 </div>
@@ -574,13 +574,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -640,14 +640,14 @@ What is the value of $x$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, all fractions are the same.
+As per the question,
 
 $
 \begin{aligned}
 \dfrac {x} {24} &= \dfrac {2} {3} \\\\
 x               &= \dfrac {2 \times 24} {3} \\\\
-x               &= \dfrac {2 \times 8 \times 3} {3} \\\\
-x               &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+x               &= \dfrac {2 \times 3 \times 8} {3} \\\\
+x               &= \dfrac {2 \times \cancel {3} \times 8} {\cancel {3}} \\\\
 x               &= 2 \times 8 \\\\
 x               &= 16
 \end{aligned}
@@ -665,14 +665,14 @@ $16$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, all fractions are the same.
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
 \dfrac {x} {24} &= \dfrac {2} {3} \\\\
 x               &= \dfrac {2 \times 24} {3} \\\\
-x               &= \dfrac {2 \times 8 \times 3} {3} \\\\
-x               &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+x               &= \dfrac {2 \times 3 \times 8} {3} \\\\
+x               &= \dfrac {2 \times \cancel {3} \times 8} {\cancel {3}} \\\\
 x               &= 2 \times 8 \\\\
 x               &= 16
 \end{aligned}
@@ -705,16 +705,17 @@ What is the value of $y$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, all fractions are the same.
+As per the question,
 
 $
 \begin{aligned}
-\dfrac {2} {3}      &= \dfrac {50} {y} \\\\
-y                   &= \dfrac {50 \times 3} {2} \\\\
-y                   &= \dfrac {2 \times 25 \times 3} {2} \\\\
-y                   &= \dfrac {\cancel 2 \times 25 \times 3} {\cancel 2} \\\\
-y                   &= 25 \times 3 \\\\
-y                   &= 75
+\dfrac {2} {3}    &= \dfrac {50} {y} \\\\
+2y                &= 50 \times 3 \\\\
+y                 &= \dfrac {50 \times 3} {2} \\\\
+y                 &= \dfrac {2 \times 25 \times 3} {2} \\\\
+y                 &= \dfrac {\cancel {2} \times 25 \times 3} {\cancel {2}} \\\\
+y                 &= 25 \times 3 \\\\
+y                 &= 75  
 \end{aligned}
 $
 
@@ -730,16 +731,17 @@ $75$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, all fractions are the same.
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-\dfrac {2} {3}      &= \dfrac {50} {y} \\\\
-y                   &= \dfrac {50 \times 3} {2} \\\\
-y                   &= \dfrac {2 \times 25 \times 3} {2} \\\\
-y                   &= \dfrac {\cancel 2 \times 25 \times 3} {\cancel 2} \\\\
-y                   &= 25 \times 3 \\\\
-y                   &= 75
+\dfrac {2} {3}    &= \dfrac {50} {y} \\\\
+2y                &= 50 \times 3 \\\\
+y                 &= \dfrac {50 \times 3} {2} \\\\
+y                 &= \dfrac {2 \times 25 \times 3} {2} \\\\
+y                 &= \dfrac {\cancel {2} \times 25 \times 3} {\cancel {2}} \\\\
+y                 &= 25 \times 3 \\\\
+y                 &= 75  
 \end{aligned}
 $
 </code></pre>
@@ -1860,7 +1862,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AF17E277-3722-4E4E-A504-06257C3D772B</p>
 </div>
@@ -1868,13 +1870,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2001,7 +2003,7 @@ a                                 &= 8
 \end{aligned}
 $
 
-The  number I started with $= 8$
+The number I started with $= 8$
 
 </div>
 </div>
@@ -2029,7 +2031,7 @@ a                                 &= 8
 \end{aligned}
 $
 
-The  number I started with $= 8$
+The number I started with $= 8$
 </code></pre>
 </div>
 </div>
@@ -2923,7 +2925,7 @@ Delete last sentence:Total number of goals = 600
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8C3FB2D8-E8CD-47F4-96A7-00A5872C6D30</p>
 </div>
@@ -2931,13 +2933,13 @@ Delete last sentence:Total number of goals = 600
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3005,12 +3007,11 @@ $32 - 8$
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says take away she always adds.
-
-$32 - 8$
+As per the question,
 
 $
 \begin{aligned}
+&= 32 - 8 \\\\
 &= 32 + 8 \\\\
 &= 40 
 \end{aligned}
@@ -3028,12 +3029,11 @@ $40$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says take away she always adds.
-
-$32 - 8$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
+&= 32 - 8 \\\\
 &= 32 + 8 \\\\
 &= 40 
 \end{aligned}
@@ -3066,15 +3066,15 @@ $96 \times 8$
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says multiply she always divides.
-
-$96 \times 8$
+As per the question,
 
 $
 \begin{aligned}
-&= \dfrac{96} {8} \\\\
-&= \dfrac{12 \times 8} {8} \\\\
-&= \dfrac{12 \times \cancel {8}} {\cancel {8}} \\\\
+&= 96 \times 8 \\\\
+&= 96 \div 8 \\\\
+&= \dfrac {96} {8} \\\\
+&= \dfrac {8 \times 12} {8} \\\\
+&= \dfrac {\cancel {8} \times 12} {\cancel {8}} \\\\
 &= 12
 \end{aligned}
 $
@@ -3091,15 +3091,15 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says multiply she always divides.
-
-$96 \times 8$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-&= \dfrac{96} {8} \\\\
-&= \dfrac{12 \times 8} {8} \\\\
-&= \dfrac{12 \times \cancel {8}} {\cancel {8}} \\\\
+&= 96 \times 8 \\\\
+&= 96 \div 8 \\\\
+&= \dfrac {96} {8} \\\\
+&= \dfrac {8 \times 12} {8} \\\\
+&= \dfrac {\cancel {8} \times 12} {\cancel {8}} \\\\
 &= 12
 \end{aligned}
 $
@@ -3131,17 +3131,16 @@ She works out $a \div 8$ and gives the answer as $72$ .What is the value of $a$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says divides she always multiplies.
-
-$a \div 8 = 72$
+As per the question,
 
 $
 \begin{aligned}
-a \times 8    &= 72 \\\\
-a             &= \dfrac{72} {8} \\\\
-a             &= \dfrac{8 \times 9} {8} \\\\
-a             &= \dfrac{\cancel {8} \times 9} {\cancel {8}} \\\\
-a             &= 9
+a \div 8    &= 72 \\\\
+a \times 8  &= 72 \\\\
+a           &= \dfrac {72} {8} \\\\
+a           &= \dfrac {8 \times 9} {8} \\\\
+a           &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
+a           &= 9
 \end{aligned}
 $
 
@@ -3157,17 +3156,16 @@ $9$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says divides she always multiplies.
-
-$a \div 8 = 72$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-a \times 8    &= 72 \\\\
-a             &= \dfrac{72} {8} \\\\
-a             &= \dfrac{8 \times 9} {8} \\\\
-a             &= \dfrac{\cancel {8} \times 9} {\cancel {8}} \\\\
-a             &= 9
+a \div 8    &= 72 \\\\
+a \times 8  &= 72 \\\\
+a           &= \dfrac {72} {8} \\\\
+a           &= \dfrac {8 \times 9} {8} \\\\
+a           &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
+a           &= 9
 \end{aligned}
 $
 </code></pre>
@@ -3198,17 +3196,15 @@ She works out $c \div c$ as $144$. What is the value of $c$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says divides she always multiplies.
-
-$c \div c = 144$
+As per the question,
 
 $
 \begin{aligned}
-c \times c    &= 144 \\\\
-c ^ 2         &= 144 \\\\
-c ^ 2         &= 12 \times 12 \\\\
-c ^ 2         &= 12 ^2 \\\\
-c             &= 12
+c \div c    &= 144 \\\\
+c \times c  &= 144 \\\\
+c ^ 2       &= 144 \\\\
+c           &= \sqrt {144} \\\\
+c           &= 12
 \end{aligned}
 $
 
@@ -3224,17 +3220,15 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says divides she always multiplies.
-
-$c \div c = 144$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-c \times c    &= 144 \\\\
-c ^ 2         &= 144 \\\\
-c ^ 2         &= 12 \times 12 \\\\
-c ^ 2         &= 12 ^2 \\\\
-c             &= 12
+c \div c    &= 144 \\\\
+c \times c  &= 144 \\\\
+c ^ 2       &= 144 \\\\
+c           &= \sqrt {144} \\\\
+c           &= 12
 \end{aligned}
 $
 </code></pre>
@@ -3266,17 +3260,18 @@ What is the value of $b$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says multiply she always divides, When it says add she always takes away.
+As per the question,
 
-$b \times 4 + 4$
+Using BIDMAS
 
 $
 \begin{aligned}
-\dfrac{b} {4} - 4       &= 4 \\\\
-\dfrac{b} {4}           &= 4 + 4 \\\\
-\dfrac{b} {4}           &= 8 \\\\
-b                       &= 8 \times 4 \\\\
-b                       &= 32
+b \times 4 + 4    &= 4 \\\\
+b \div 4 - 4      &= 4 \\\\
+b \div 4          &= 4 + 4 \\\\
+b \div 4          &= 8 \\\\
+b                 &= 8 \times 4 \\\\
+b                 &= 32
 \end{aligned}
 $
 
@@ -3292,17 +3287,18 @@ $32$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says multiply she always divides, When it says add she always takes away.
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-$b \times 4 + 4$
+Using BIDMAS
 
 $
 \begin{aligned}
-\dfrac{b} {4} - 4       &= 4 \\\\
-\dfrac{b} {4}           &= 4 + 4 \\\\
-\dfrac{b} {4}           &= 8 \\\\
-b                       &= 8 \times 4 \\\\
-b                       &= 32
+b \times 4 + 4    &= 4 \\\\
+b \div 4 - 4      &= 4 \\\\
+b \div 4          &= 4 + 4 \\\\
+b \div 4          &= 8 \\\\
+b                 &= 8 \times 4 \\\\
+b                 &= 32
 \end{aligned}
 $
 </code></pre>
@@ -5477,10 +5473,10 @@ TODOANSWER
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6553,7 +6549,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
 </div>
@@ -6561,13 +6557,13 @@ TODOANSWER
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6587,7 +6583,7 @@ There is a number of coins on a table. One quarter of them are showing heads. If
 <div class='workings'>
 <div class='working'>
 
-Let the number of coins on the table $= c$
+Let the total number of coins $= c$
 
 As per the question,
 
@@ -6604,7 +6600,7 @@ c                                                                           &= 2
 \end{aligned}
 $
 
-The number of coins on the table are $=24$
+Number of coins on the table $= 24$
 
 </div>
 </div>
@@ -6618,7 +6614,7 @@ $24$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number of coins on the table $= c$
+<pre class='language-latex'><code class='language-latex'>Let the total number of coins $= c$
 
 As per the question,
 
@@ -6635,7 +6631,7 @@ c                                                                           &= 2
 \end{aligned}
 $
 
-The number of coins on the table are $=24$
+Number of coins on the table $= 24$
 </code></pre>
 </div>
 </div>

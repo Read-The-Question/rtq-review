@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2779,7 +2779,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>7BD6412A-AB4F-4E0D-A1D8-63B836E328AB</p>
 </div>
@@ -2793,7 +2793,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4049,7 +4049,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3E665D6B-1AC3-4180-8E1A-CA9EDBC34E11</p>
 </div>
@@ -4063,7 +4063,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4166,14 +4166,6 @@ Find the smallest 3-digit number which is neither prime nor divisible by $2,\:\:
 
 $119$
 
-Lets verify 
-
-$
-\begin{aligned}
-&= 119  \\\\
-&= 7*19
-\end{aligned}
-$
 
 </div>
 </div>
@@ -4189,14 +4181,6 @@ $
 
 <pre class='language-latex'><code class='language-latex'>$119$
 
-Lets verify 
-
-$
-\begin{aligned}
-&= 119  \\\\
-&= 7*19
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>

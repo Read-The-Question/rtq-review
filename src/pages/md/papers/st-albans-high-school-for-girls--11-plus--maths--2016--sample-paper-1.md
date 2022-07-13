@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -942,10 +942,10 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1782,10 +1782,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1964,10 +1964,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2366,10 +2366,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4111,7 +4111,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>10A23251-5F49-4F92-9764-BB9FD81CC27A</p>
 </div>
@@ -4119,13 +4119,13 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4322,17 +4322,16 @@ $c \circ c = 50$
 
 $
 \begin{aligned} 
-c \circ c                                         &= 50 \\\\
-c \times c + c \times c                           &= 50 \\\\
-c^{2} + c^{2}                                     &= 50 \\\\
-2c^{2}                                            &= 50 \\\\
-c^{2}                                             &= \dfrac {50} {2} \\\\
-c^{2}                                             &= \dfrac {2 \times 25} {2} \\\\
-c^{2}                                             &= \dfrac {\cancel{2} \times 25} {\cancel{2}} \\\\
-c^{2}                                             &= 25 \\\\
-c^{2}                                             &= 5 \times 5 \\\\
-c^{2}                                             &= 5^{2} \\\\
-c                                                 &= 5
+c \circ c               &= 50 \\\\
+c \times c + c \times c &= 50 \\\\
+c^{2} + c^{2}           &= 50 \\\\
+2c^{2}                  &= 50 \\\\
+c^{2}                   &= \dfrac {50} {2} \\\\
+c^{2}                   &= \dfrac {2 \times 25} {2} \\\\
+c^{2}                   &= \dfrac {\cancel{2} \times 25} {\cancel{2}} \\\\
+c^{2}                   &= 25 \\\\
+c                       &= \sqrt {25} \\\\
+c                       &= 5
 \end{aligned}
 $
 
@@ -4350,17 +4349,16 @@ $5$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned} 
-c \circ c                                         &= 50 \\\\
-c \times c + c \times c                           &= 50 \\\\
-c^{2} + c^{2}                                     &= 50 \\\\
-2c^{2}                                            &= 50 \\\\
-c^{2}                                             &= \dfrac {50} {2} \\\\
-c^{2}                                             &= \dfrac {2 \times 25} {2} \\\\
-c^{2}                                             &= \dfrac {\cancel{2} \times 25} {\cancel{2}} \\\\
-c^{2}                                             &= 25 \\\\
-c^{2}                                             &= 5 \times 5 \\\\
-c^{2}                                             &= 5^{2} \\\\
-c                                                 &= 5
+c \circ c               &= 50 \\\\
+c \times c + c \times c &= 50 \\\\
+c^{2} + c^{2}           &= 50 \\\\
+2c^{2}                  &= 50 \\\\
+c^{2}                   &= \dfrac {50} {2} \\\\
+c^{2}                   &= \dfrac {2 \times 25} {2} \\\\
+c^{2}                   &= \dfrac {\cancel{2} \times 25} {\cancel{2}} \\\\
+c^{2}                   &= 25 \\\\
+c                       &= \sqrt {25} \\\\
+c                       &= 5
 \end{aligned}
 $
 </code></pre>

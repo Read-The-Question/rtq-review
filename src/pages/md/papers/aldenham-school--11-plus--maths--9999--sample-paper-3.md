@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -495,7 +495,7 @@ Number of students who studied Spanish $= 63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>009D6B34-62AB-4E8A-B3B9-09BCC4A3140E</p>
 </div>
@@ -506,10 +506,10 @@ Number of students who studied Spanish $= 63$
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_an_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -764,67 +764,36 @@ $9$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-For such questions, if the answer is really easy and no major calculation required, just write the answer as it was done earlier, if some calculation involved, then use algebra.
-
-
-
-Also you have left both previous and new answer. 
-
-
-
-a. Use algebra, but steps missing. REmove old answer.
-
-b. No algebra, keep old answer.
-
-c. remove old answer
-
-d. easy, no algebra, remove new answer.
-
-
-
-Reach out if any confusion.
-
-
-
-a: S3 katex in code not indented properly, website is ok
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' id='FORM-009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' id='FORM-009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2039,7 +2008,13 @@ Circle the numbers below which are multiples of $7$.
 $44 \quad 91 \quad 350 \quad 789$
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$91, 350$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -2047,7 +2022,13 @@ $91, 350$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$91, 350$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -2069,6 +2050,10 @@ $91, 350$
 
 
 working are missing for this one, you need to add TOML working for this one, look at how working looks like for other question and add one and write the working. reach out if any confusion.
+
+
+
+This again is marked PRCC without changes being done???
 </div>
 
 <div class='review'>

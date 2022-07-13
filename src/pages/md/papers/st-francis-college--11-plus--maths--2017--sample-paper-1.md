@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1399,7 +1399,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D9B9E901-ED49-4035-81FE-273FD45511EB</p>
 </div>
@@ -1407,13 +1407,13 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1474,8 +1474,9 @@ $\text{centimetres}$ are there in $70\ \text{mm}$?
 $
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  \dfrac {70} {10} \text {cm} \\\\
-&=  \dfrac {7 \cancel{0}} {1 \cancel{0}} \text {cm} \\\\
+&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
+&=  7\times10\times\dfrac{1}{10} \\\\
+&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
 &=  7 \ \text {cm}
 \end{aligned}
 $
@@ -1495,8 +1496,9 @@ $7cm$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  \dfrac {70} {10} \text {cm} \\\\
-&=  \dfrac {7 \cancel{0}} {1 \cancel{0}} \text {cm} \\\\
+&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
+&=  7\times10\times\dfrac{1}{10} \\\\
+&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
 &=  7 \ \text {cm}
 \end{aligned}
 $
@@ -1577,7 +1579,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-\text{millilitres}$ are there in $3\ \text{litres}$?
+$\text{millilitres}$ are there in $3\ \text{litres}$?
 
 </div>
 <div class='workings'>
@@ -3454,10 +3456,10 @@ and solve further
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5822,10 +5824,10 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5941,10 +5943,10 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6752,10 +6754,10 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

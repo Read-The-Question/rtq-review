@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-talgebra-10-g0-prcr"
-title: "TopicPaper - Algebra - 10 - G0 - PRCR"
-date: 2022-07-12 14:58:45
+slug: "ragpapers/topicpapers-talgebra-10-g0-prcc"
+title: "TopicPaper - Algebra - 10 - G0 - PRCC"
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>02F2B606-7110-4F90-BC98-D3ED752A91BC</p>
 </div>
@@ -13,13 +13,13 @@ date: 2022-07-12 14:58:45
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -79,14 +79,14 @@ What is the value of $x$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, all fractions are the same.
+As per the question,
 
 $
 \begin{aligned}
 \dfrac {x} {24} &= \dfrac {2} {3} \\\\
 x               &= \dfrac {2 \times 24} {3} \\\\
-x               &= \dfrac {2 \times 8 \times 3} {3} \\\\
-x               &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+x               &= \dfrac {2 \times 3 \times 8} {3} \\\\
+x               &= \dfrac {2 \times \cancel {3} \times 8} {\cancel {3}} \\\\
 x               &= 2 \times 8 \\\\
 x               &= 16
 \end{aligned}
@@ -104,14 +104,14 @@ $16$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, all fractions are the same.
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
 \dfrac {x} {24} &= \dfrac {2} {3} \\\\
 x               &= \dfrac {2 \times 24} {3} \\\\
-x               &= \dfrac {2 \times 8 \times 3} {3} \\\\
-x               &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+x               &= \dfrac {2 \times 3 \times 8} {3} \\\\
+x               &= \dfrac {2 \times \cancel {3} \times 8} {\cancel {3}} \\\\
 x               &= 2 \times 8 \\\\
 x               &= 16
 \end{aligned}
@@ -144,16 +144,17 @@ What is the value of $y$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, all fractions are the same.
+As per the question,
 
 $
 \begin{aligned}
-\dfrac {2} {3}      &= \dfrac {50} {y} \\\\
-y                   &= \dfrac {50 \times 3} {2} \\\\
-y                   &= \dfrac {2 \times 25 \times 3} {2} \\\\
-y                   &= \dfrac {\cancel 2 \times 25 \times 3} {\cancel 2} \\\\
-y                   &= 25 \times 3 \\\\
-y                   &= 75
+\dfrac {2} {3}    &= \dfrac {50} {y} \\\\
+2y                &= 50 \times 3 \\\\
+y                 &= \dfrac {50 \times 3} {2} \\\\
+y                 &= \dfrac {2 \times 25 \times 3} {2} \\\\
+y                 &= \dfrac {\cancel {2} \times 25 \times 3} {\cancel {2}} \\\\
+y                 &= 25 \times 3 \\\\
+y                 &= 75  
 \end{aligned}
 $
 
@@ -169,16 +170,17 @@ $75$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, all fractions are the same.
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-\dfrac {2} {3}      &= \dfrac {50} {y} \\\\
-y                   &= \dfrac {50 \times 3} {2} \\\\
-y                   &= \dfrac {2 \times 25 \times 3} {2} \\\\
-y                   &= \dfrac {\cancel 2 \times 25 \times 3} {\cancel 2} \\\\
-y                   &= 25 \times 3 \\\\
-y                   &= 75
+\dfrac {2} {3}    &= \dfrac {50} {y} \\\\
+2y                &= 50 \times 3 \\\\
+y                 &= \dfrac {50 \times 3} {2} \\\\
+y                 &= \dfrac {2 \times 25 \times 3} {2} \\\\
+y                 &= \dfrac {\cancel {2} \times 25 \times 3} {\cancel {2}} \\\\
+y                 &= 25 \times 3 \\\\
+y                 &= 75  
 \end{aligned}
 $
 </code></pre>
@@ -241,7 +243,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AF17E277-3722-4E4E-A504-06257C3D772B</p>
 </div>
@@ -249,13 +251,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -382,7 +384,7 @@ a                                 &= 8
 \end{aligned}
 $
 
-The  number I started with $= 8$
+The number I started with $= 8$
 
 </div>
 </div>
@@ -410,7 +412,7 @@ a                                 &= 8
 \end{aligned}
 $
 
-The  number I started with $= 8$
+The number I started with $= 8$
 </code></pre>
 </div>
 </div>
@@ -471,7 +473,7 @@ The  number I started with $= 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8C3FB2D8-E8CD-47F4-96A7-00A5872C6D30</p>
 </div>
@@ -479,13 +481,13 @@ The  number I started with $= 8$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -553,12 +555,11 @@ $32 - 8$
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says take away she always adds.
-
-$32 - 8$
+As per the question,
 
 $
 \begin{aligned}
+&= 32 - 8 \\\\
 &= 32 + 8 \\\\
 &= 40 
 \end{aligned}
@@ -576,12 +577,11 @@ $40$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says take away she always adds.
-
-$32 - 8$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
+&= 32 - 8 \\\\
 &= 32 + 8 \\\\
 &= 40 
 \end{aligned}
@@ -614,15 +614,15 @@ $96 \times 8$
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says multiply she always divides.
-
-$96 \times 8$
+As per the question,
 
 $
 \begin{aligned}
-&= \dfrac{96} {8} \\\\
-&= \dfrac{12 \times 8} {8} \\\\
-&= \dfrac{12 \times \cancel {8}} {\cancel {8}} \\\\
+&= 96 \times 8 \\\\
+&= 96 \div 8 \\\\
+&= \dfrac {96} {8} \\\\
+&= \dfrac {8 \times 12} {8} \\\\
+&= \dfrac {\cancel {8} \times 12} {\cancel {8}} \\\\
 &= 12
 \end{aligned}
 $
@@ -639,15 +639,15 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says multiply she always divides.
-
-$96 \times 8$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-&= \dfrac{96} {8} \\\\
-&= \dfrac{12 \times 8} {8} \\\\
-&= \dfrac{12 \times \cancel {8}} {\cancel {8}} \\\\
+&= 96 \times 8 \\\\
+&= 96 \div 8 \\\\
+&= \dfrac {96} {8} \\\\
+&= \dfrac {8 \times 12} {8} \\\\
+&= \dfrac {\cancel {8} \times 12} {\cancel {8}} \\\\
 &= 12
 \end{aligned}
 $
@@ -679,17 +679,16 @@ She works out $a \div 8$ and gives the answer as $72$ .What is the value of $a$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says divides she always multiplies.
-
-$a \div 8 = 72$
+As per the question,
 
 $
 \begin{aligned}
-a \times 8    &= 72 \\\\
-a             &= \dfrac{72} {8} \\\\
-a             &= \dfrac{8 \times 9} {8} \\\\
-a             &= \dfrac{\cancel {8} \times 9} {\cancel {8}} \\\\
-a             &= 9
+a \div 8    &= 72 \\\\
+a \times 8  &= 72 \\\\
+a           &= \dfrac {72} {8} \\\\
+a           &= \dfrac {8 \times 9} {8} \\\\
+a           &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
+a           &= 9
 \end{aligned}
 $
 
@@ -705,17 +704,16 @@ $9$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says divides she always multiplies.
-
-$a \div 8 = 72$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-a \times 8    &= 72 \\\\
-a             &= \dfrac{72} {8} \\\\
-a             &= \dfrac{8 \times 9} {8} \\\\
-a             &= \dfrac{\cancel {8} \times 9} {\cancel {8}} \\\\
-a             &= 9
+a \div 8    &= 72 \\\\
+a \times 8  &= 72 \\\\
+a           &= \dfrac {72} {8} \\\\
+a           &= \dfrac {8 \times 9} {8} \\\\
+a           &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
+a           &= 9
 \end{aligned}
 $
 </code></pre>
@@ -746,17 +744,15 @@ She works out $c \div c$ as $144$. What is the value of $c$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says divides she always multiplies.
-
-$c \div c = 144$
+As per the question,
 
 $
 \begin{aligned}
-c \times c    &= 144 \\\\
-c ^ 2         &= 144 \\\\
-c ^ 2         &= 12 \times 12 \\\\
-c ^ 2         &= 12 ^2 \\\\
-c             &= 12
+c \div c    &= 144 \\\\
+c \times c  &= 144 \\\\
+c ^ 2       &= 144 \\\\
+c           &= \sqrt {144} \\\\
+c           &= 12
 \end{aligned}
 $
 
@@ -772,17 +768,15 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says divides she always multiplies.
-
-$c \div c = 144$
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-c \times c    &= 144 \\\\
-c ^ 2         &= 144 \\\\
-c ^ 2         &= 12 \times 12 \\\\
-c ^ 2         &= 12 ^2 \\\\
-c             &= 12
+c \div c    &= 144 \\\\
+c \times c  &= 144 \\\\
+c ^ 2       &= 144 \\\\
+c           &= \sqrt {144} \\\\
+c           &= 12
 \end{aligned}
 $
 </code></pre>
@@ -814,17 +808,18 @@ What is the value of $b$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, when it says multiply she always divides, When it says add she always takes away.
+As per the question,
 
-$b \times 4 + 4$
+Using BIDMAS
 
 $
 \begin{aligned}
-\dfrac{b} {4} - 4       &= 4 \\\\
-\dfrac{b} {4}           &= 4 + 4 \\\\
-\dfrac{b} {4}           &= 8 \\\\
-b                       &= 8 \times 4 \\\\
-b                       &= 32
+b \times 4 + 4    &= 4 \\\\
+b \div 4 - 4      &= 4 \\\\
+b \div 4          &= 4 + 4 \\\\
+b \div 4          &= 8 \\\\
+b                 &= 8 \times 4 \\\\
+b                 &= 32
 \end{aligned}
 $
 
@@ -840,17 +835,18 @@ $32$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, when it says multiply she always divides, When it says add she always takes away.
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-$b \times 4 + 4$
+Using BIDMAS
 
 $
 \begin{aligned}
-\dfrac{b} {4} - 4       &= 4 \\\\
-\dfrac{b} {4}           &= 4 + 4 \\\\
-\dfrac{b} {4}           &= 8 \\\\
-b                       &= 8 \times 4 \\\\
-b                       &= 32
+b \times 4 + 4    &= 4 \\\\
+b \div 4 - 4      &= 4 \\\\
+b \div 4          &= 4 + 4 \\\\
+b \div 4          &= 8 \\\\
+b                 &= 8 \times 4 \\\\
+b                 &= 32
 \end{aligned}
 $
 </code></pre>
@@ -913,7 +909,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
 </div>
@@ -921,13 +917,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:3:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -947,7 +943,7 @@ There is a number of coins on a table. One quarter of them are showing heads. If
 <div class='workings'>
 <div class='working'>
 
-Let the number of coins on the table $= c$
+Let the total number of coins $= c$
 
 As per the question,
 
@@ -964,7 +960,7 @@ c                                                                           &= 2
 \end{aligned}
 $
 
-The number of coins on the table are $=24$
+Number of coins on the table $= 24$
 
 </div>
 </div>
@@ -978,7 +974,7 @@ $24$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number of coins on the table $= c$
+<pre class='language-latex'><code class='language-latex'>Let the total number of coins $= c$
 
 As per the question,
 
@@ -995,7 +991,7 @@ c                                                                           &= 2
 \end{aligned}
 $
 
-The number of coins on the table are $=24$
+Number of coins on the table $= 24$
 </code></pre>
 </div>
 </div>
@@ -1053,7 +1049,7 @@ The number of coins on the table are $=24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>19C76E65-DBF3-4C5E-81F2-D769B5AC9A0B</p>
 </div>
@@ -1061,13 +1057,13 @@ The number of coins on the table are $=24$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1131,7 +1127,6 @@ $
 \begin{aligned}
 &= a + b + c \\\\
 &= 3 + 5 + (-6) \\\\
-&= 3 + 5 - 6 \\\\
 &= 8 - 6 \\\\
 &= 2
 \end{aligned}
@@ -1153,7 +1148,6 @@ $2$
 \begin{aligned}
 &= a + b + c \\\\
 &= 3 + 5 + (-6) \\\\
-&= 3 + 5 - 6 \\\\
 &= 8 - 6 \\\\
 &= 2
 \end{aligned}
@@ -1247,8 +1241,8 @@ $abc$
 
 $
 \begin{aligned}
-&= abc \\\\
-&= 3 \times 5 \times (-6) \\\\
+&= a \times b \times c \\\\
+&= 3 \times 5 \times -6 \\\\
 &= 15 \times -6 \\\\
 &= -90
 \end{aligned}
@@ -1268,8 +1262,8 @@ $-90$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= abc \\\\
-&= 3 \times 5 \times (-6) \\\\
+&= a \times b \times c \\\\
+&= 3 \times 5 \times -6 \\\\
 &= 15 \times -6 \\\\
 &= -90
 \end{aligned}
@@ -1304,7 +1298,7 @@ $a(b - c)$
 
 $
 \begin{aligned}
-&= a(b - c) \\\\
+&= a \times (b - c) \\\\
 &= 3 \times ( 5 - (-6)) \\\\
 &= 3 \times (5 + 6) \\\\
 &= 3 \times 11 \\\\
@@ -1326,7 +1320,7 @@ $33$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= a(b - c) \\\\
+&= a \times (b - c) \\\\
 &= 3 \times ( 5 - (-6)) \\\\
 &= 3 \times (5 + 6) \\\\
 &= 3 \times 11 \\\\
@@ -1450,7 +1444,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7A95ED96-CA1A-406F-8BFB-49F2F5F3F979</p>
 </div>
@@ -1458,13 +1452,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1524,11 +1518,11 @@ $2x = 62$
 
 $
 \begin{aligned}
-2x &= 62 \\\\
-x  &= \dfrac {62} {2} \\\\
-x  &= \dfrac {31 \times 2} {2} \\\\
-x  &= \dfrac {31 \times \cancel {2}} {\cancel {2}} \\\\
-x  &= 31
+2x    &= 62 \\\\
+x     &= \dfrac {62} {2} \\\\
+x     &= \dfrac {2 \times 31} {2} \\\\
+x     &= \dfrac {\cancel {2} \times 31} {\cancel {2}} \\\\
+x     &= 31
 \end{aligned}
 $
 
@@ -1546,11 +1540,11 @@ $31$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-2x &= 62 \\\\
-x  &= \dfrac {62} {2} \\\\
-x  &= \dfrac {31 \times 2} {2} \\\\
-x  &= \dfrac {31 \times \cancel {2}} {\cancel {2}} \\\\
-x  &= 31
+2x    &= 62 \\\\
+x     &= \dfrac {62} {2} \\\\
+x     &= \dfrac {2 \times 31} {2} \\\\
+x     &= \dfrac {\cancel {2} \times 31} {\cancel {2}} \\\\
+x     &= 31
 \end{aligned}
 $
 </code></pre>
@@ -1583,13 +1577,13 @@ $3x + 1 = 19$
 
 $
 \begin{aligned}
-3x + 1 &= 19 \\\\
-3x     &= 19 - 1 \\\\
-3x     &= 18 \\\\
-x      &= \dfrac {18} {3} \\\\
-x      &= \dfrac {6 \times 3} {3} \\\\
-x      &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-x      &= 6
+3x + 1      &= 19 \\\\
+3x          &= 19 - 1 \\\\
+3x          &= 18 \\\\
+x           &= \dfrac {18} {3} \\\\
+x           &= \dfrac {3 \times 6} {3} \\\\
+x           &= \dfrac {\cancel {3} \times 6} {\cancel {3}} \\\\
+x           &= 6
 \end{aligned}
 $
 
@@ -1607,13 +1601,13 @@ $6$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-3x + 1 &= 19 \\\\
-3x     &= 19 - 1 \\\\
-3x     &= 18 \\\\
-x      &= \dfrac {18} {3} \\\\
-x      &= \dfrac {6 \times 3} {3} \\\\
-x      &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-x      &= 6
+3x + 1      &= 19 \\\\
+3x          &= 19 - 1 \\\\
+3x          &= 18 \\\\
+x           &= \dfrac {18} {3} \\\\
+x           &= \dfrac {3 \times 6} {3} \\\\
+x           &= \dfrac {\cancel {3} \times 6} {\cancel {3}} \\\\
+x           &= 6
 \end{aligned}
 $
 </code></pre>
@@ -1646,13 +1640,13 @@ $2(x + 6) = 31$
 
 $
 \begin{aligned}
-2(x + 16)                   &= 31 \\\\
-2 \times x + 2 \times 16    &= 31 \\\\
-2x + 32                     &= 31 \\\\
-2x                          &= 31 - 32 \\\\
-2x                          &= -1 \\\\
-x                           &= \dfrac {-1} {2} \\\\
-x                           &= -0.5
+2 \times (x + 16)             &= 31 \\\\
+2 \times x + 2 \times 16      &= 31 \\\\
+2x + 32                       &= 31 \\\\
+2x                            &= 31 - 32 \\\\
+2x                            &= -1 \\\\
+x                             &= - \dfrac {1} {2} \\\\
+x                             &= -0.5
 \end{aligned}
 $
 
@@ -1661,7 +1655,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {-1} {2} \ \text{or} \-0.5$
+$-0.5$
 
 </div>
 </div>
@@ -1670,13 +1664,13 @@ $\dfrac {-1} {2} \ \text{or} \-0.5$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-2(x + 16)                   &= 31 \\\\
-2 \times x + 2 \times 16    &= 31 \\\\
-2x + 32                     &= 31 \\\\
-2x                          &= 31 - 32 \\\\
-2x                          &= -1 \\\\
-x                           &= \dfrac {-1} {2} \\\\
-x                           &= -0.5
+2 \times (x + 16)             &= 31 \\\\
+2 \times x + 2 \times 16      &= 31 \\\\
+2x + 32                       &= 31 \\\\
+2x                            &= 31 - 32 \\\\
+2x                            &= -1 \\\\
+x                             &= - \dfrac {1} {2} \\\\
+x                             &= -0.5
 \end{aligned}
 $
 </code></pre>
@@ -1690,7 +1684,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {-1} {2} \ \text{or} \-0.5$
+<pre class='language-latex'><code class='language-latex'>$-0.5$
 </code></pre>
 </div>
 </div>
@@ -1709,15 +1703,15 @@ $2x + 7 = 4x - 15$
 
 $
 \begin{aligned}
-2x + 7                                          &=   4x - 15 \\\\
-4x -15                                          &=   2x - 7 \\\\
-15 + 7                                          &=   4x - 2x  \\\\
-22                                              &=   2x \\\\
-\dfrac {22} {2}                                 &=   x  \\\\
-\dfrac {2 \times 11} {2}                        &=   x \\\\
-\dfrac {\cancel 2 \times 11} {\cancel 2}        &=   x \\\\
-11                                              &=   x \\\\
-x                                               &=   11
+2x + 7            &= 4x - 15 \\\\
+2x - 4x           &= -15 - 7 \\\\
+-2x               &= -22 \\\\
+\cancel {-} 2x    &= \cancel {-} 22 \\\\
+2x                &= 22 \\\\
+x                 &= \dfrac {22} {2} \\\\
+x                 &= \dfrac {2 \times 11} {2} \\\\
+x                 &= \dfrac {\cancel {2} \times 11} {\cancel {2}} \\\\
+x                 &= 11
 \end{aligned}
 $
 
@@ -1735,15 +1729,15 @@ $11$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-2x + 7                                          &=   4x - 15 \\\\
-4x -15                                          &=   2x - 7 \\\\
-15 + 7                                          &=   4x - 2x  \\\\
-22                                              &=   2x \\\\
-\dfrac {22} {2}                                 &=   x  \\\\
-\dfrac {2 \times 11} {2}                        &=   x \\\\
-\dfrac {\cancel 2 \times 11} {\cancel 2}        &=   x \\\\
-11                                              &=   x \\\\
-x                                               &=   11
+2x + 7            &= 4x - 15 \\\\
+2x - 4x           &= -15 - 7 \\\\
+-2x               &= -22 \\\\
+\cancel {-} 2x    &= \cancel {-} 22 \\\\
+2x                &= 22 \\\\
+x                 &= \dfrac {22} {2} \\\\
+x                 &= \dfrac {2 \times 11} {2} \\\\
+x                 &= \dfrac {\cancel {2} \times 11} {\cancel {2}} \\\\
+x                 &= 11
 \end{aligned}
 $
 </code></pre>
@@ -1776,11 +1770,13 @@ $\dfrac {3} {x} = 18$
 
 $
 \begin{aligned}
-\dfrac {3} {x}                                  &=   18 \\\\
-x                                               &=   \dfrac {3} {18} \\\\
-x                                               &=   \dfrac {3} {3 \times 6} \\\\
-x                                               &=   \dfrac {\cancel {3}} {\cancel {3} \times 6} \\\\
-x                                               &=   \dfrac {1} {6}
+\dfrac {3} {x}    &= 18 \\\\
+3                 &= 18x \\\\
+18x               &= 3 \\\\
+x                 &= \dfrac {3} {18} \\\\
+x                 &= \dfrac {3} {3 \times 6} \\\\
+x                 &= \dfrac {\cancel {3}} {\cancel {3} \times 6} \\\\
+x                 &= \dfrac {1} {6}
 \end{aligned}
 $
 
@@ -1798,11 +1794,13 @@ $\dfrac {1} {6}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\dfrac {3} {x}                                  &=   18 \\\\
-x                                               &=   \dfrac {3} {18} \\\\
-x                                               &=   \dfrac {3} {3 \times 6} \\\\
-x                                               &=   \dfrac {\cancel {3}} {\cancel {3} \times 6} \\\\
-x                                               &=   \dfrac {1} {6}
+\dfrac {3} {x}    &= 18 \\\\
+3                 &= 18x \\\\
+18x               &= 3 \\\\
+x                 &= \dfrac {3} {18} \\\\
+x                 &= \dfrac {3} {3 \times 6} \\\\
+x                 &= \dfrac {\cancel {3}} {\cancel {3} \times 6} \\\\
+x                 &= \dfrac {1} {6}
 \end{aligned}
 $
 </code></pre>
@@ -1865,7 +1863,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EDB8D422-9368-4C8B-8C79-7E41BBCC1FC9</p>
 </div>
@@ -1873,13 +1871,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1896,22 +1894,28 @@ One quarter of the people at a party are men, a half are girls, one sixth are wo
 <div class='workings'>
 <div class='working'>
 
-Let the total people in the party $= a$
+Let the number of people in the party $= a$
+
+Number of men in the party $= \dfrac {a} {4}$
+
+Number of girls in the party $= \dfrac {a} {2}$
+
+Number of women in the party $= \dfrac {a} {6}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Total people}                                                                                                                 &= \text{Men} + \text{Women} + \text{Girls} + \text{Boys} \\\\
-a                                                                                                                                   &= \dfrac {1} {4} \times a + \dfrac {1} {2} \times a + \dfrac {1} {6} \times a + 5 \\\\
-a                                                                                                                                   &= \dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5 \\\\
-a - \dfrac {a} {4} - \dfrac {a} {2} - \dfrac {a} {6}                                                                                &= 5 \\\\
-\dfrac {12 \times a} {12} - \dfrac {3 \times a} {3 \times 4} - \dfrac {6 \times a} {6 \times 2} - \dfrac {2 \times a} {2 \times 6}  &= 5 \\\\
-\dfrac{12a} {12} - \dfrac {3a} {12} - \dfrac {6a} {12} - \dfrac {2a} {12}                                                           &= 5 \\\\
-\dfrac {12a - 3a - 6a - 2a} {12}                                                                                                    &= 5 \\\\
-\dfrac {a} {12}                                                                                                                     &= 5 \\\\
-a                                                                                                                                   &= 5 \times 12 \\\\
-a                                                                                                                                   &= 60
+\dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5                                                                                            &= a \\\\
+\dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} - a                                                                                            &= - 5 \\\\
+\dfrac {a \times 3} {4 \times 3} + \dfrac {a \times 6} {2 \times 6} + \dfrac {a \times 2} {6 \times 2} - \dfrac {a \times 12} {1 \times 12}     &= -5 \\\\
+\dfrac {3a} {12} + \dfrac {6a} {12} + \dfrac {2a} {12} - \dfrac {12a} {12}                                                                      &= -5 \\\\
+\dfrac {3a + 6a + 2a - 12a} {12}                                                                                                                &= -5 \\\\
+\dfrac {11a - 12a} {12}                                                                                                                         &= -5 \\\\
+{}- \dfrac {a} {12}                                                                                                                             &= -5 \\\\
+\cancel {-} \dfrac {a} {12}                                                                                                                     &= \cancel {-} 5 \\\\
+a                                                                                                                                               &= 5 \times 12 \\\\
+a                                                                                                                                               &= 60
 \end{aligned}
 $
 
@@ -1929,22 +1933,28 @@ $60$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the total people in the party $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number of people in the party $= a$
+
+Number of men in the party $= \dfrac {a} {4}$
+
+Number of girls in the party $= \dfrac {a} {2}$
+
+Number of women in the party $= \dfrac {a} {6}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Total people}                                                                                                                 &= \text{Men} + \text{Women} + \text{Girls} + \text{Boys} \\\\
-a                                                                                                                                   &= \dfrac {1} {4} \times a + \dfrac {1} {2} \times a + \dfrac {1} {6} \times a + 5 \\\\
-a                                                                                                                                   &= \dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5 \\\\
-a - \dfrac {a} {4} - \dfrac {a} {2} - \dfrac {a} {6}                                                                                &= 5 \\\\
-\dfrac {12 \times a} {12} - \dfrac {3 \times a} {3 \times 4} - \dfrac {6 \times a} {6 \times 2} - \dfrac {2 \times a} {2 \times 6}  &= 5 \\\\
-\dfrac{12a} {12} - \dfrac {3a} {12} - \dfrac {6a} {12} - \dfrac {2a} {12}                                                           &= 5 \\\\
-\dfrac {12a - 3a - 6a - 2a} {12}                                                                                                    &= 5 \\\\
-\dfrac {a} {12}                                                                                                                     &= 5 \\\\
-a                                                                                                                                   &= 5 \times 12 \\\\
-a                                                                                                                                   &= 60
+\dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5                                                                                            &= a \\\\
+\dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} - a                                                                                            &= - 5 \\\\
+\dfrac {a \times 3} {4 \times 3} + \dfrac {a \times 6} {2 \times 6} + \dfrac {a \times 2} {6 \times 2} - \dfrac {a \times 12} {1 \times 12}     &= -5 \\\\
+\dfrac {3a} {12} + \dfrac {6a} {12} + \dfrac {2a} {12} - \dfrac {12a} {12}                                                                      &= -5 \\\\
+\dfrac {3a + 6a + 2a - 12a} {12}                                                                                                                &= -5 \\\\
+\dfrac {11a - 12a} {12}                                                                                                                         &= -5 \\\\
+{}- \dfrac {a} {12}                                                                                                                             &= -5 \\\\
+\cancel {-} \dfrac {a} {12}                                                                                                                     &= \cancel {-} 5 \\\\
+a                                                                                                                                               &= 5 \times 12 \\\\
+a                                                                                                                                               &= 60
 \end{aligned}
 $
 
@@ -2006,7 +2016,7 @@ Total number of people $= 60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D1ACF183-0702-4413-B707-24443D6D16E4</p>
 </div>
@@ -2014,13 +2024,13 @@ Total number of people $= 60$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2043,23 +2053,22 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {3} {8} \times a     &= 27 \\\\
-\dfrac {3a} {8}             &= 27 \\\\
-3a                          &= 27 \times 8 \\\\
-a                           &= \dfrac{27 \times 8} {3} \\\\
-a                           &= \dfrac{3 \times 9 \times 8} {3} \\\\
-a                           &= \dfrac{\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
-a                           &= 9 \times 8 \\\\
-a                           &= 72
+\dfrac {3} {8} \ \text {of} \ a     &= 27 \\\\
+\dfrac {3} {8} \times a             &= 27 \\\\
+a                                   &= 27 \times \dfrac {8} {3} \\\\
+a                                   &= \dfrac {27 \times 8} {3} \\\\
+a                                   &= \dfrac {3 \times 9 \times 8} {3} \\\\
+a                                   &= \dfrac {\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
+a                                   &= 9 \times 8 \\\\
+a                                   &= 72
 \end{aligned}
 $
 
 The number $= 72$
 
-Let's find $\dfrac {1} {2} \text{of} 72$
-
 $
 \begin{aligned}
+&= \dfrac {1} {2} \ \text {of} \ a \\\\
 &= \dfrac {1} {2} \times 72 \\\\
 &= \dfrac {72} {2} \\\\
 &= \dfrac {2 \times 36} {2} \\\\
@@ -2086,23 +2095,22 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {3} {8} \times a     &= 27 \\\\
-\dfrac {3a} {8}             &= 27 \\\\
-3a                          &= 27 \times 8 \\\\
-a                           &= \dfrac{27 \times 8} {3} \\\\
-a                           &= \dfrac{3 \times 9 \times 8} {3} \\\\
-a                           &= \dfrac{\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
-a                           &= 9 \times 8 \\\\
-a                           &= 72
+\dfrac {3} {8} \ \text {of} \ a     &= 27 \\\\
+\dfrac {3} {8} \times a             &= 27 \\\\
+a                                   &= 27 \times \dfrac {8} {3} \\\\
+a                                   &= \dfrac {27 \times 8} {3} \\\\
+a                                   &= \dfrac {3 \times 9 \times 8} {3} \\\\
+a                                   &= \dfrac {\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
+a                                   &= 9 \times 8 \\\\
+a                                   &= 72
 \end{aligned}
 $
 
 The number $= 72$
 
-Let's find $\dfrac {1} {2} \text{of} 72$
-
 $
 \begin{aligned}
+&= \dfrac {1} {2} \ \text {of} \ a \\\\
 &= \dfrac {1} {2} \times 72 \\\\
 &= \dfrac {72} {2} \\\\
 &= \dfrac {2 \times 36} {2} \\\\
@@ -2167,7 +2175,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>10A23251-5F49-4F92-9764-BB9FD81CC27A</p>
 </div>
@@ -2175,13 +2183,13 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2378,17 +2386,16 @@ $c \circ c = 50$
 
 $
 \begin{aligned} 
-c \circ c                                         &= 50 \\\\
-c \times c + c \times c                           &= 50 \\\\
-c^{2} + c^{2}                                     &= 50 \\\\
-2c^{2}                                            &= 50 \\\\
-c^{2}                                             &= \dfrac {50} {2} \\\\
-c^{2}                                             &= \dfrac {2 \times 25} {2} \\\\
-c^{2}                                             &= \dfrac {\cancel{2} \times 25} {\cancel{2}} \\\\
-c^{2}                                             &= 25 \\\\
-c^{2}                                             &= 5 \times 5 \\\\
-c^{2}                                             &= 5^{2} \\\\
-c                                                 &= 5
+c \circ c               &= 50 \\\\
+c \times c + c \times c &= 50 \\\\
+c^{2} + c^{2}           &= 50 \\\\
+2c^{2}                  &= 50 \\\\
+c^{2}                   &= \dfrac {50} {2} \\\\
+c^{2}                   &= \dfrac {2 \times 25} {2} \\\\
+c^{2}                   &= \dfrac {\cancel{2} \times 25} {\cancel{2}} \\\\
+c^{2}                   &= 25 \\\\
+c                       &= \sqrt {25} \\\\
+c                       &= 5
 \end{aligned}
 $
 
@@ -2406,17 +2413,16 @@ $5$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned} 
-c \circ c                                         &= 50 \\\\
-c \times c + c \times c                           &= 50 \\\\
-c^{2} + c^{2}                                     &= 50 \\\\
-2c^{2}                                            &= 50 \\\\
-c^{2}                                             &= \dfrac {50} {2} \\\\
-c^{2}                                             &= \dfrac {2 \times 25} {2} \\\\
-c^{2}                                             &= \dfrac {\cancel{2} \times 25} {\cancel{2}} \\\\
-c^{2}                                             &= 25 \\\\
-c^{2}                                             &= 5 \times 5 \\\\
-c^{2}                                             &= 5^{2} \\\\
-c                                                 &= 5
+c \circ c               &= 50 \\\\
+c \times c + c \times c &= 50 \\\\
+c^{2} + c^{2}           &= 50 \\\\
+2c^{2}                  &= 50 \\\\
+c^{2}                   &= \dfrac {50} {2} \\\\
+c^{2}                   &= \dfrac {2 \times 25} {2} \\\\
+c^{2}                   &= \dfrac {\cancel{2} \times 25} {\cancel{2}} \\\\
+c^{2}                   &= 25 \\\\
+c                       &= \sqrt {25} \\\\
+c                       &= 5
 \end{aligned}
 $
 </code></pre>
@@ -2479,7 +2485,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C207B486-E1C2-4DBB-91FE-CCBBCB8F1F7A</p>
 </div>
@@ -2487,13 +2493,13 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2512,13 +2518,12 @@ A theatre has seats arranged in rows of 22. If an audience of 483 fills the rows
 
 $
 \begin {aligned}
-\text {No. of rows occupied}          &= \dfrac { \text{Total audience}} { \text{Seats per row}} \\\\
-                                      &= \dfrac {483} {22} \\\\
-                                      &= 21 \dfrac {21} {22}
+\text {Number of rows fully occupied}     &= \dfrac {\text{Total audience}} {\text{Seats per row}} \\\\
+                                          &= \dfrac {483} {22} \\\\
+                                          &= 21 \ \text {remainder} \ 21 \\\\
+                                          &\approx 21
 \end {aligned}
 $
-
-Number of rows that will be full $= 21$
 
 </div>
 </div>
@@ -2534,13 +2539,12 @@ $21$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {No. of rows occupied}          &= \dfrac { \text{Total audience}} { \text{Seats per row}} \\\\
-                                      &= \dfrac {483} {22} \\\\
-                                      &= 21 \dfrac {21} {22}
+\text {Number of rows fully occupied}     &= \dfrac {\text{Total audience}} {\text{Seats per row}} \\\\
+                                          &= \dfrac {483} {22} \\\\
+                                          &= 21 \ \text {remainder} \ 21 \\\\
+                                          &\approx 21
 \end {aligned}
 $
-
-Number of rows that will be full $= 21$
 </code></pre>
 </div>
 </div>
@@ -2598,7 +2602,7 @@ Number of rows that will be full $= 21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FEAB2ACE-3E49-46F1-A250-9631A7EA7469</p>
 </div>
@@ -2606,13 +2610,13 @@ Number of rows that will be full $= 21$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:37</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2633,34 +2637,37 @@ How many balloons are blue?
 
 Let the number of red balloons $= a$
 
+Number of green balloons $= 3a$
+
+Number of blue balloons $= 6a$
+
+As per the question,
+
 $
 \begin{aligned}
-\text{Blue} + \text{Green} + \text{Red}                                     &= \text{Total balloons} \\\\
-6a + 3a + a                                                                 &= 40 \\\\
-10a                                                                         &= 40 \\\\
-a                                                                           &= \dfrac {40} {10} \\\\
-a                                                                           &= \dfrac {4 \cancel{0}} {1 \cancel{0}} \\\\
-a                                                                           &= 4
+a + 3a + 6a       &= 40 \\\\
+10a               &= 40 \\\\
+a                 &= \dfrac {40} {10} \\\\
+a                 &= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
+a                 &= 4
 \end{aligned}
 $
 
 $
-\begin{aligned}
-\text{Number of red balloons}                        &= 4 \\\\
-\text{Number of blue balloons}                       &= 6 \times a \\\\
-                                                     &= 6 \times 4 \\\\
-                                                    &= 24
-\end{aligned}
+\begin {aligned}
+\text {Number of red balloons}      &= 4 \\\\
+\text {Number of blue balloons}     &= 6a \\\\
+                                    &= 6 \times 4 \\\\
+                                    &= 24
+\end {aligned}
 $
-
-The number of blue balloons are $= 24$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$24 \ \text{Balloons}$
+$24$
 
 </div>
 </div>
@@ -2669,27 +2676,30 @@ $24 \ \text{Balloons}$
 
 <pre class='language-latex'><code class='language-latex'>Let the number of red balloons $= a$
 
+Number of green balloons $= 3a$
+
+Number of blue balloons $= 6a$
+
+As per the question,
+
 $
 \begin{aligned}
-\text{Blue} + \text{Green} + \text{Red}                                     &= \text{Total balloons} \\\\
-6a + 3a + a                                                                 &= 40 \\\\
-10a                                                                         &= 40 \\\\
-a                                                                           &= \dfrac {40} {10} \\\\
-a                                                                           &= \dfrac {4 \cancel{0}} {1 \cancel{0}} \\\\
-a                                                                           &= 4
+a + 3a + 6a       &= 40 \\\\
+10a               &= 40 \\\\
+a                 &= \dfrac {40} {10} \\\\
+a                 &= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
+a                 &= 4
 \end{aligned}
 $
 
 $
-\begin{aligned}
-\text{Number of red balloons}                        &= 4 \\\\
-\text{Number of blue balloons}                       &= 6 \times a \\\\
-                                                     &= 6 \times 4 \\\\
-                                                    &= 24
-\end{aligned}
+\begin {aligned}
+\text {Number of red balloons}      &= 4 \\\\
+\text {Number of blue balloons}     &= 6a \\\\
+                                    &= 6 \times 4 \\\\
+                                    &= 24
+\end {aligned}
 $
-
-The number of blue balloons are $= 24$
 </code></pre>
 </div>
 </div>
@@ -2701,7 +2711,7 @@ The number of blue balloons are $= 24$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$24 \ \text{Balloons}$
+<pre class='language-latex'><code class='language-latex'>$24$
 </code></pre>
 </div>
 </div>
@@ -2747,7 +2757,7 @@ The number of blue balloons are $= 24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3E12E5A1-1C9D-490A-A55D-17256F88FBF4</p>
 </div>
@@ -2755,13 +2765,13 @@ The number of blue balloons are $= 24$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:38</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2778,23 +2788,23 @@ I think of a number. I multiply my number by 9 and add 5 to the result. The answ
 <div class='workings'>
 <div class='working'>
 
-Let the number I think of $= a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-a \times 9 + 5                                               &= 50 \\\\
-9a                                                           &= 50 - 5 \\\\
-9a                                                           &= 45 \\\\
-a                                                            &= \dfrac {45} {9} \\\\
-a                                                            &= \dfrac {9 \times 5} {9} \\\\
-a                                                            &= \dfrac {\cancel{9} \times 5} {\cancel{9}} \\\\
-a                                                            &= 5
+a \times 9 + 5    &= 50 \\\\
+9a                &= 50 - 5 \\\\
+9a                &= 45 \\\\
+a                 &= \dfrac {45} {9} \\\\
+a                 &= \dfrac {5 \times 9} {9} \\\\
+a                 &= \dfrac {5 \times \cancel {9}} {\cancel {9}} \\\\
+a                 &= 5
 \end{aligned}
 $
 
-The number I think of $= 5$
+The number $= 5$
 
 </div>
 </div>
@@ -2808,23 +2818,23 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I think of $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-a \times 9 + 5                                               &= 50 \\\\
-9a                                                           &= 50 - 5 \\\\
-9a                                                           &= 45 \\\\
-a                                                            &= \dfrac {45} {9} \\\\
-a                                                            &= \dfrac {9 \times 5} {9} \\\\
-a                                                            &= \dfrac {\cancel{9} \times 5} {\cancel{9}} \\\\
-a                                                            &= 5
+a \times 9 + 5    &= 50 \\\\
+9a                &= 50 - 5 \\\\
+9a                &= 45 \\\\
+a                 &= \dfrac {45} {9} \\\\
+a                 &= \dfrac {5 \times 9} {9} \\\\
+a                 &= \dfrac {5 \times \cancel {9}} {\cancel {9}} \\\\
+a                 &= 5
 \end{aligned}
 $
 
-The number I think of $= 5$
+The number $= 5$
 </code></pre>
 </div>
 </div>
@@ -2882,7 +2892,7 @@ The number I think of $= 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BAAC6E7A-0541-4A20-B7D2-0C364A8C1403</p>
 </div>
@@ -2890,13 +2900,13 @@ The number I think of $= 5$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2954,8 +2964,6 @@ Faye called Emily's number x, showing your working clearly.
 
 **$4x - 5 = 2x + 1$**
 
-Gemma said,'Multiplying my number by 2 and then adding 5 gives the same answer as subtracting my number from 23'
-
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2963,8 +2971,11 @@ Gemma said,'Multiplying my number by 2 and then adding 5 gives the same answer a
 $
 \begin{aligned}
 4 x - 5     &= 2 x + 1 \\\\
-4 x - 2 x   &= 5 + 1 \\\\
+4 x - 2 x   &= 1 + 5 \\\\
 2 x         &= 6 \\\\
+x           &= \dfrac {6} {2} \\\\
+x           &= \dfrac {2 \times 3} {2} \\\\
+x           &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
 x           &= 3
 \end{aligned}
 $
@@ -2984,8 +2995,11 @@ $3$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 4 x - 5     &= 2 x + 1 \\\\
-4 x - 2 x   &= 5 + 1 \\\\
+4 x - 2 x   &= 1 + 5 \\\\
 2 x         &= 6 \\\\
+x           &= \dfrac {6} {2} \\\\
+x           &= \dfrac {2 \times 3} {2} \\\\
+x           &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
 x           &= 3
 \end{aligned}
 $
@@ -3011,6 +3025,8 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
+Gemma said,'Multiplying my number by 2 and then adding 5 gives the same answer as subtracting my number from 23'
+
 Find Gemma's number, showing your working clearly.
 
 ![missing image](/papers/missing_image.svg)
@@ -3020,18 +3036,17 @@ Find Gemma's number, showing your working clearly.
 <div class='workings'>
 <div class='working'>
 
-
 Let Gemma's number $= a$
 
 $
 \begin{aligned}
-2 \times a + 5    &= 23 - a \\\\
-2 a + a           &= 23 - 5 \\\\
-3a                &= 18 \\\\
-a                 &= \dfrac {18} {3} \\\\
-a                 &= \dfrac {6 \times 3} {3} \\\\
-a                 &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-a                 &= 6
+2 a + 5     &= 23 - a \\\\
+2 a + a     &= 23 - 5 \\\\
+3a          &= 18 \\\\
+a           &= \dfrac {18} {3} \\\\
+a           &= \dfrac {3 \times 6} {3} \\\\
+a           &= \dfrac {\cancel {3} \times 6} {\cancel {3}} \\\\
+a           &= 6
 \end{aligned}
 $
 
@@ -3047,18 +3062,17 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-Let Gemma's number $= a$
+<pre class='language-latex'><code class='language-latex'>Let Gemma's number $= a$
 
 $
 \begin{aligned}
-2 \times a + 5    &= 23 - a \\\\
-2 a + a           &= 23 - 5 \\\\
-3a                &= 18 \\\\
-a                 &= \dfrac {18} {3} \\\\
-a                 &= \dfrac {6 \times 3} {3} \\\\
-a                 &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-a                 &= 6
+2 a + 5     &= 23 - a \\\\
+2 a + a     &= 23 - 5 \\\\
+3a          &= 18 \\\\
+a           &= \dfrac {18} {3} \\\\
+a           &= \dfrac {3 \times 6} {3} \\\\
+a           &= \dfrac {\cancel {3} \times 6} {\cancel {3}} \\\\
+a           &= 6
 \end{aligned}
 $
 </code></pre>
@@ -3121,7 +3135,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E94D101F-0E1E-4F40-BE84-649D7E772C37</p>
 </div>
@@ -3129,13 +3143,13 @@ $
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3159,13 +3173,19 @@ How many did John buy?
 <div class='workings'>
 <div class='working'>
 
-Let the horses John buy $=a$,
+Let the number of horses John buy $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-14 + a  &= 27 + 3 \\\\
-14 + a  &= 30 \\\\
-a       &= 16
+a + 14      &= 27 - a + 3 \\\\
+a + 14      &= 30 - a \\\\
+a + a       &= 30 - 14 \\\\
+2a          &= 16 \\\\
+a           &= \dfrac {2 \times 8} {2} \\\\
+a           &= \dfrac {\cancel {2} \times 8} {\cancel {2}} \\\\
+a           &= 8
 \end{aligned}
 $
 
@@ -3174,20 +3194,26 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16$
+$8$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the horses John buy $=a$,
+<pre class='language-latex'><code class='language-latex'>Let the number of horses John buy $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-14 + a  &= 27 + 3 \\\\
-14 + a  &= 30 \\\\
-a       &= 16
+a + 14      &= 27 - a + 3 \\\\
+a + 14      &= 30 - a \\\\
+a + a       &= 30 - 14 \\\\
+2a          &= 16 \\\\
+a           &= \dfrac {2 \times 8} {2} \\\\
+a           &= \dfrac {\cancel {2} \times 8} {\cancel {2}} \\\\
+a           &= 8
 \end{aligned}
 $
 </code></pre>
@@ -3201,7 +3227,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16$
+<pre class='language-latex'><code class='language-latex'>$8$
 </code></pre>
 </div>
 </div>
@@ -3247,123 +3273,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:27</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The front row of a theatre has 48 seats and each other row has four more seats than the row in front. There are 80 seats in the last row. How many seats are there **altogether** in the theatre?
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Total seats}    &= 48 + 52 + 56 + 60 + 64 + 68 + 72 + 76 + 80 \\\\
-                       &= 570
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$570$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text {Total seats}    &= 48 + 52 + 56 + 60 + 64 + 68 + 72 + 76 + 80 \\\\
-                       &= 570
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$570$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' id='FORM-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A7490F93-7479-4839-A126-AA134B1AEB90</p>
 </div>
@@ -3371,13 +3281,13 @@ $
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3394,18 +3304,18 @@ I  think of a  number   multiply it by  **3**  and   then  subtract **8** . If t
 <div class='workings'>
 <div class='working'>
 
-Let the  number be $ = a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-3 \times a - 8    &= - 5 \\\\
-3 \times a        &= 8 - 5 \\\\
-3 \times a        &= 3 \\\\
-a                 &= \dfrac {3} {3} \\\\
-a                 &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
-a                 &= 1
+3a - 8      &= -5 \\\\
+3a          &= -5 + 8 \\\\
+3a          &= 3 \\\\
+a           &= \dfrac {3} {3} \\\\
+a           &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
+a           &= 1
 \end{aligned}
 $
 
@@ -3421,18 +3331,18 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the  number be $ = a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-3 \times a - 8    &= - 5 \\\\
-3 \times a        &= 8 - 5 \\\\
-3 \times a        &= 3 \\\\
-a                 &= \dfrac {3} {3} \\\\
-a                 &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
-a                 &= 1
+3a - 8      &= -5 \\\\
+3a          &= -5 + 8 \\\\
+3a          &= 3 \\\\
+a           &= \dfrac {3} {3} \\\\
+a           &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
+a           &= 1
 \end{aligned}
 $
 </code></pre>
@@ -3492,7 +3402,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BE2D8C56-1D9C-4A7F-BA9C-6FF46B0B1C3E</p>
 </div>
@@ -3500,13 +3410,13 @@ $
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3564,21 +3474,23 @@ I think of a number, multiply it by $17$ and then subtract $19$. The result is $
 <div class='workings'>
 <div class='working'>
 
-Let the number I think $= a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-(17 \times a) - 19  &= 66 \\\\
-(17 \times a)       &= 66 + 19 \\\\
-17a                 &= 85 \\\\
-a                   &= \dfrac {85} {17} \\\\
-a                   &= \dfrac {17 \times 5} {17} \\\\
-a                   &= \dfrac {\cancel {17} \times 5} {\cancel {17}} \\\\
-a                   &= 5
+a \times 17 - 19        &= 66 \\\\
+17a                     &= 66 + 19 \\\\
+17a                     &= 85 \\\\
+a                       &= \dfrac {85} {17} \\\\
+a                       &= \dfrac {5 \times 17} {17} \\\\
+a                       &= \dfrac {5 \times \cancel {17}} {\cancel {17}} \\\\
+a                       &= 5
 \end{aligned}
 $
+
+The number $= 5$
 
 </div>
 </div>
@@ -3592,21 +3504,23 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I think $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-(17 \times a) - 19  &= 66 \\\\
-(17 \times a)       &= 66 + 19 \\\\
-17a                 &= 85 \\\\
-a                   &= \dfrac {85} {17} \\\\
-a                   &= \dfrac {17 \times 5} {17} \\\\
-a                   &= \dfrac {\cancel {17} \times 5} {\cancel {17}} \\\\
-a                   &= 5
+a \times 17 - 19        &= 66 \\\\
+17a                     &= 66 + 19 \\\\
+17a                     &= 85 \\\\
+a                       &= \dfrac {85} {17} \\\\
+a                       &= \dfrac {5 \times 17} {17} \\\\
+a                       &= \dfrac {5 \times \cancel {17}} {\cancel {17}} \\\\
+a                       &= 5
 \end{aligned}
 $
+
+The number $= 5$
 </code></pre>
 </div>
 </div>
@@ -3637,15 +3551,15 @@ $10 \,\, \times \,\, k \,\, + \,\, 23 = 4 \times \,\, k \,\, +\,\,  35$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-10k + 23 &= 4k + 35 \\\\
-10k - 4k &= 35 - 23 \\\\
-6k       &= 12 \\\\
-k        &= \dfrac {12} {6} \\\\
-k        &= 2
+10k + 23    &= 4k + 35 \\\\
+10k - 4k    &= 35 - 23 \\\\
+6k          &= 12 \\\\
+k           &= \dfrac {12} {6} \\\\
+k           &= \dfrac {2 \times 6} {6} \\\\
+k           &= \dfrac {2 \times \cancel {6}} {\cancel {6}} \\\\
+k           &= 2
 \end{aligned}
 $
 
@@ -3661,15 +3575,15 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-10k + 23 &= 4k + 35 \\\\
-10k - 4k &= 35 - 23 \\\\
-6k       &= 12 \\\\
-k        &= \dfrac {12} {6} \\\\
-k        &= 2
+10k + 23    &= 4k + 35 \\\\
+10k - 4k    &= 35 - 23 \\\\
+6k          &= 12 \\\\
+k           &= \dfrac {12} {6} \\\\
+k           &= \dfrac {2 \times 6} {6} \\\\
+k           &= \dfrac {2 \times \cancel {6}} {\cancel {6}} \\\\
+k           &= 2
 \end{aligned}
 $
 </code></pre>

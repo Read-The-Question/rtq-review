@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1688,7 +1688,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>19C76E65-DBF3-4C5E-81F2-D769B5AC9A0B</p>
 </div>
@@ -1696,13 +1696,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1766,7 +1766,6 @@ $
 \begin{aligned}
 &= a + b + c \\\\
 &= 3 + 5 + (-6) \\\\
-&= 3 + 5 - 6 \\\\
 &= 8 - 6 \\\\
 &= 2
 \end{aligned}
@@ -1788,7 +1787,6 @@ $2$
 \begin{aligned}
 &= a + b + c \\\\
 &= 3 + 5 + (-6) \\\\
-&= 3 + 5 - 6 \\\\
 &= 8 - 6 \\\\
 &= 2
 \end{aligned}
@@ -1882,8 +1880,8 @@ $abc$
 
 $
 \begin{aligned}
-&= abc \\\\
-&= 3 \times 5 \times (-6) \\\\
+&= a \times b \times c \\\\
+&= 3 \times 5 \times -6 \\\\
 &= 15 \times -6 \\\\
 &= -90
 \end{aligned}
@@ -1903,8 +1901,8 @@ $-90$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= abc \\\\
-&= 3 \times 5 \times (-6) \\\\
+&= a \times b \times c \\\\
+&= 3 \times 5 \times -6 \\\\
 &= 15 \times -6 \\\\
 &= -90
 \end{aligned}
@@ -1939,7 +1937,7 @@ $a(b - c)$
 
 $
 \begin{aligned}
-&= a(b - c) \\\\
+&= a \times (b - c) \\\\
 &= 3 \times ( 5 - (-6)) \\\\
 &= 3 \times (5 + 6) \\\\
 &= 3 \times 11 \\\\
@@ -1961,7 +1959,7 @@ $33$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= a(b - c) \\\\
+&= a \times (b - c) \\\\
 &= 3 \times ( 5 - (-6)) \\\\
 &= 3 \times (5 + 6) \\\\
 &= 3 \times 11 \\\\
@@ -2085,7 +2083,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7A95ED96-CA1A-406F-8BFB-49F2F5F3F979</p>
 </div>
@@ -2093,13 +2091,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2159,11 +2157,11 @@ $2x = 62$
 
 $
 \begin{aligned}
-2x &= 62 \\\\
-x  &= \dfrac {62} {2} \\\\
-x  &= \dfrac {31 \times 2} {2} \\\\
-x  &= \dfrac {31 \times \cancel {2}} {\cancel {2}} \\\\
-x  &= 31
+2x    &= 62 \\\\
+x     &= \dfrac {62} {2} \\\\
+x     &= \dfrac {2 \times 31} {2} \\\\
+x     &= \dfrac {\cancel {2} \times 31} {\cancel {2}} \\\\
+x     &= 31
 \end{aligned}
 $
 
@@ -2181,11 +2179,11 @@ $31$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-2x &= 62 \\\\
-x  &= \dfrac {62} {2} \\\\
-x  &= \dfrac {31 \times 2} {2} \\\\
-x  &= \dfrac {31 \times \cancel {2}} {\cancel {2}} \\\\
-x  &= 31
+2x    &= 62 \\\\
+x     &= \dfrac {62} {2} \\\\
+x     &= \dfrac {2 \times 31} {2} \\\\
+x     &= \dfrac {\cancel {2} \times 31} {\cancel {2}} \\\\
+x     &= 31
 \end{aligned}
 $
 </code></pre>
@@ -2218,13 +2216,13 @@ $3x + 1 = 19$
 
 $
 \begin{aligned}
-3x + 1 &= 19 \\\\
-3x     &= 19 - 1 \\\\
-3x     &= 18 \\\\
-x      &= \dfrac {18} {3} \\\\
-x      &= \dfrac {6 \times 3} {3} \\\\
-x      &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-x      &= 6
+3x + 1      &= 19 \\\\
+3x          &= 19 - 1 \\\\
+3x          &= 18 \\\\
+x           &= \dfrac {18} {3} \\\\
+x           &= \dfrac {3 \times 6} {3} \\\\
+x           &= \dfrac {\cancel {3} \times 6} {\cancel {3}} \\\\
+x           &= 6
 \end{aligned}
 $
 
@@ -2242,13 +2240,13 @@ $6$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-3x + 1 &= 19 \\\\
-3x     &= 19 - 1 \\\\
-3x     &= 18 \\\\
-x      &= \dfrac {18} {3} \\\\
-x      &= \dfrac {6 \times 3} {3} \\\\
-x      &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-x      &= 6
+3x + 1      &= 19 \\\\
+3x          &= 19 - 1 \\\\
+3x          &= 18 \\\\
+x           &= \dfrac {18} {3} \\\\
+x           &= \dfrac {3 \times 6} {3} \\\\
+x           &= \dfrac {\cancel {3} \times 6} {\cancel {3}} \\\\
+x           &= 6
 \end{aligned}
 $
 </code></pre>
@@ -2281,13 +2279,13 @@ $2(x + 6) = 31$
 
 $
 \begin{aligned}
-2(x + 16)                   &= 31 \\\\
-2 \times x + 2 \times 16    &= 31 \\\\
-2x + 32                     &= 31 \\\\
-2x                          &= 31 - 32 \\\\
-2x                          &= -1 \\\\
-x                           &= \dfrac {-1} {2} \\\\
-x                           &= -0.5
+2 \times (x + 16)             &= 31 \\\\
+2 \times x + 2 \times 16      &= 31 \\\\
+2x + 32                       &= 31 \\\\
+2x                            &= 31 - 32 \\\\
+2x                            &= -1 \\\\
+x                             &= - \dfrac {1} {2} \\\\
+x                             &= -0.5
 \end{aligned}
 $
 
@@ -2296,7 +2294,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {-1} {2} \ \text{or} \-0.5$
+$-0.5$
 
 </div>
 </div>
@@ -2305,13 +2303,13 @@ $\dfrac {-1} {2} \ \text{or} \-0.5$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-2(x + 16)                   &= 31 \\\\
-2 \times x + 2 \times 16    &= 31 \\\\
-2x + 32                     &= 31 \\\\
-2x                          &= 31 - 32 \\\\
-2x                          &= -1 \\\\
-x                           &= \dfrac {-1} {2} \\\\
-x                           &= -0.5
+2 \times (x + 16)             &= 31 \\\\
+2 \times x + 2 \times 16      &= 31 \\\\
+2x + 32                       &= 31 \\\\
+2x                            &= 31 - 32 \\\\
+2x                            &= -1 \\\\
+x                             &= - \dfrac {1} {2} \\\\
+x                             &= -0.5
 \end{aligned}
 $
 </code></pre>
@@ -2325,7 +2323,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {-1} {2} \ \text{or} \-0.5$
+<pre class='language-latex'><code class='language-latex'>$-0.5$
 </code></pre>
 </div>
 </div>
@@ -2344,15 +2342,15 @@ $2x + 7 = 4x - 15$
 
 $
 \begin{aligned}
-2x + 7                                          &=   4x - 15 \\\\
-4x -15                                          &=   2x - 7 \\\\
-15 + 7                                          &=   4x - 2x  \\\\
-22                                              &=   2x \\\\
-\dfrac {22} {2}                                 &=   x  \\\\
-\dfrac {2 \times 11} {2}                        &=   x \\\\
-\dfrac {\cancel 2 \times 11} {\cancel 2}        &=   x \\\\
-11                                              &=   x \\\\
-x                                               &=   11
+2x + 7            &= 4x - 15 \\\\
+2x - 4x           &= -15 - 7 \\\\
+-2x               &= -22 \\\\
+\cancel {-} 2x    &= \cancel {-} 22 \\\\
+2x                &= 22 \\\\
+x                 &= \dfrac {22} {2} \\\\
+x                 &= \dfrac {2 \times 11} {2} \\\\
+x                 &= \dfrac {\cancel {2} \times 11} {\cancel {2}} \\\\
+x                 &= 11
 \end{aligned}
 $
 
@@ -2370,15 +2368,15 @@ $11$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-2x + 7                                          &=   4x - 15 \\\\
-4x -15                                          &=   2x - 7 \\\\
-15 + 7                                          &=   4x - 2x  \\\\
-22                                              &=   2x \\\\
-\dfrac {22} {2}                                 &=   x  \\\\
-\dfrac {2 \times 11} {2}                        &=   x \\\\
-\dfrac {\cancel 2 \times 11} {\cancel 2}        &=   x \\\\
-11                                              &=   x \\\\
-x                                               &=   11
+2x + 7            &= 4x - 15 \\\\
+2x - 4x           &= -15 - 7 \\\\
+-2x               &= -22 \\\\
+\cancel {-} 2x    &= \cancel {-} 22 \\\\
+2x                &= 22 \\\\
+x                 &= \dfrac {22} {2} \\\\
+x                 &= \dfrac {2 \times 11} {2} \\\\
+x                 &= \dfrac {\cancel {2} \times 11} {\cancel {2}} \\\\
+x                 &= 11
 \end{aligned}
 $
 </code></pre>
@@ -2411,11 +2409,13 @@ $\dfrac {3} {x} = 18$
 
 $
 \begin{aligned}
-\dfrac {3} {x}                                  &=   18 \\\\
-x                                               &=   \dfrac {3} {18} \\\\
-x                                               &=   \dfrac {3} {3 \times 6} \\\\
-x                                               &=   \dfrac {\cancel {3}} {\cancel {3} \times 6} \\\\
-x                                               &=   \dfrac {1} {6}
+\dfrac {3} {x}    &= 18 \\\\
+3                 &= 18x \\\\
+18x               &= 3 \\\\
+x                 &= \dfrac {3} {18} \\\\
+x                 &= \dfrac {3} {3 \times 6} \\\\
+x                 &= \dfrac {\cancel {3}} {\cancel {3} \times 6} \\\\
+x                 &= \dfrac {1} {6}
 \end{aligned}
 $
 
@@ -2433,11 +2433,13 @@ $\dfrac {1} {6}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\dfrac {3} {x}                                  &=   18 \\\\
-x                                               &=   \dfrac {3} {18} \\\\
-x                                               &=   \dfrac {3} {3 \times 6} \\\\
-x                                               &=   \dfrac {\cancel {3}} {\cancel {3} \times 6} \\\\
-x                                               &=   \dfrac {1} {6}
+\dfrac {3} {x}    &= 18 \\\\
+3                 &= 18x \\\\
+18x               &= 3 \\\\
+x                 &= \dfrac {3} {18} \\\\
+x                 &= \dfrac {3} {3 \times 6} \\\\
+x                 &= \dfrac {\cancel {3}} {\cancel {3} \times 6} \\\\
+x                 &= \dfrac {1} {6}
 \end{aligned}
 $
 </code></pre>
@@ -4473,10 +4475,10 @@ TODOANSWER
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5093,7 +5095,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EDB8D422-9368-4C8B-8C79-7E41BBCC1FC9</p>
 </div>
@@ -5101,13 +5103,13 @@ TODOANSWER
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5124,22 +5126,28 @@ One quarter of the people at a party are men, a half are girls, one sixth are wo
 <div class='workings'>
 <div class='working'>
 
-Let the total people in the party $= a$
+Let the number of people in the party $= a$
+
+Number of men in the party $= \dfrac {a} {4}$
+
+Number of girls in the party $= \dfrac {a} {2}$
+
+Number of women in the party $= \dfrac {a} {6}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Total people}                                                                                                                 &= \text{Men} + \text{Women} + \text{Girls} + \text{Boys} \\\\
-a                                                                                                                                   &= \dfrac {1} {4} \times a + \dfrac {1} {2} \times a + \dfrac {1} {6} \times a + 5 \\\\
-a                                                                                                                                   &= \dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5 \\\\
-a - \dfrac {a} {4} - \dfrac {a} {2} - \dfrac {a} {6}                                                                                &= 5 \\\\
-\dfrac {12 \times a} {12} - \dfrac {3 \times a} {3 \times 4} - \dfrac {6 \times a} {6 \times 2} - \dfrac {2 \times a} {2 \times 6}  &= 5 \\\\
-\dfrac{12a} {12} - \dfrac {3a} {12} - \dfrac {6a} {12} - \dfrac {2a} {12}                                                           &= 5 \\\\
-\dfrac {12a - 3a - 6a - 2a} {12}                                                                                                    &= 5 \\\\
-\dfrac {a} {12}                                                                                                                     &= 5 \\\\
-a                                                                                                                                   &= 5 \times 12 \\\\
-a                                                                                                                                   &= 60
+\dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5                                                                                            &= a \\\\
+\dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} - a                                                                                            &= - 5 \\\\
+\dfrac {a \times 3} {4 \times 3} + \dfrac {a \times 6} {2 \times 6} + \dfrac {a \times 2} {6 \times 2} - \dfrac {a \times 12} {1 \times 12}     &= -5 \\\\
+\dfrac {3a} {12} + \dfrac {6a} {12} + \dfrac {2a} {12} - \dfrac {12a} {12}                                                                      &= -5 \\\\
+\dfrac {3a + 6a + 2a - 12a} {12}                                                                                                                &= -5 \\\\
+\dfrac {11a - 12a} {12}                                                                                                                         &= -5 \\\\
+{}- \dfrac {a} {12}                                                                                                                             &= -5 \\\\
+\cancel {-} \dfrac {a} {12}                                                                                                                     &= \cancel {-} 5 \\\\
+a                                                                                                                                               &= 5 \times 12 \\\\
+a                                                                                                                                               &= 60
 \end{aligned}
 $
 
@@ -5157,22 +5165,28 @@ $60$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the total people in the party $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number of people in the party $= a$
+
+Number of men in the party $= \dfrac {a} {4}$
+
+Number of girls in the party $= \dfrac {a} {2}$
+
+Number of women in the party $= \dfrac {a} {6}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Total people}                                                                                                                 &= \text{Men} + \text{Women} + \text{Girls} + \text{Boys} \\\\
-a                                                                                                                                   &= \dfrac {1} {4} \times a + \dfrac {1} {2} \times a + \dfrac {1} {6} \times a + 5 \\\\
-a                                                                                                                                   &= \dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5 \\\\
-a - \dfrac {a} {4} - \dfrac {a} {2} - \dfrac {a} {6}                                                                                &= 5 \\\\
-\dfrac {12 \times a} {12} - \dfrac {3 \times a} {3 \times 4} - \dfrac {6 \times a} {6 \times 2} - \dfrac {2 \times a} {2 \times 6}  &= 5 \\\\
-\dfrac{12a} {12} - \dfrac {3a} {12} - \dfrac {6a} {12} - \dfrac {2a} {12}                                                           &= 5 \\\\
-\dfrac {12a - 3a - 6a - 2a} {12}                                                                                                    &= 5 \\\\
-\dfrac {a} {12}                                                                                                                     &= 5 \\\\
-a                                                                                                                                   &= 5 \times 12 \\\\
-a                                                                                                                                   &= 60
+\dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5                                                                                            &= a \\\\
+\dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} - a                                                                                            &= - 5 \\\\
+\dfrac {a \times 3} {4 \times 3} + \dfrac {a \times 6} {2 \times 6} + \dfrac {a \times 2} {6 \times 2} - \dfrac {a \times 12} {1 \times 12}     &= -5 \\\\
+\dfrac {3a} {12} + \dfrac {6a} {12} + \dfrac {2a} {12} - \dfrac {12a} {12}                                                                      &= -5 \\\\
+\dfrac {3a + 6a + 2a - 12a} {12}                                                                                                                &= -5 \\\\
+\dfrac {11a - 12a} {12}                                                                                                                         &= -5 \\\\
+{}- \dfrac {a} {12}                                                                                                                             &= -5 \\\\
+\cancel {-} \dfrac {a} {12}                                                                                                                     &= \cancel {-} 5 \\\\
+a                                                                                                                                               &= 5 \times 12 \\\\
+a                                                                                                                                               &= 60
 \end{aligned}
 $
 
@@ -5242,10 +5256,10 @@ Total number of people $= 60$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5852,7 +5866,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D1ACF183-0702-4413-B707-24443D6D16E4</p>
 </div>
@@ -5860,13 +5874,13 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5889,23 +5903,22 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {3} {8} \times a     &= 27 \\\\
-\dfrac {3a} {8}             &= 27 \\\\
-3a                          &= 27 \times 8 \\\\
-a                           &= \dfrac{27 \times 8} {3} \\\\
-a                           &= \dfrac{3 \times 9 \times 8} {3} \\\\
-a                           &= \dfrac{\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
-a                           &= 9 \times 8 \\\\
-a                           &= 72
+\dfrac {3} {8} \ \text {of} \ a     &= 27 \\\\
+\dfrac {3} {8} \times a             &= 27 \\\\
+a                                   &= 27 \times \dfrac {8} {3} \\\\
+a                                   &= \dfrac {27 \times 8} {3} \\\\
+a                                   &= \dfrac {3 \times 9 \times 8} {3} \\\\
+a                                   &= \dfrac {\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
+a                                   &= 9 \times 8 \\\\
+a                                   &= 72
 \end{aligned}
 $
 
 The number $= 72$
 
-Let's find $\dfrac {1} {2} \text{of} 72$
-
 $
 \begin{aligned}
+&= \dfrac {1} {2} \ \text {of} \ a \\\\
 &= \dfrac {1} {2} \times 72 \\\\
 &= \dfrac {72} {2} \\\\
 &= \dfrac {2 \times 36} {2} \\\\
@@ -5932,23 +5945,22 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {3} {8} \times a     &= 27 \\\\
-\dfrac {3a} {8}             &= 27 \\\\
-3a                          &= 27 \times 8 \\\\
-a                           &= \dfrac{27 \times 8} {3} \\\\
-a                           &= \dfrac{3 \times 9 \times 8} {3} \\\\
-a                           &= \dfrac{\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
-a                           &= 9 \times 8 \\\\
-a                           &= 72
+\dfrac {3} {8} \ \text {of} \ a     &= 27 \\\\
+\dfrac {3} {8} \times a             &= 27 \\\\
+a                                   &= 27 \times \dfrac {8} {3} \\\\
+a                                   &= \dfrac {27 \times 8} {3} \\\\
+a                                   &= \dfrac {3 \times 9 \times 8} {3} \\\\
+a                                   &= \dfrac {\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
+a                                   &= 9 \times 8 \\\\
+a                                   &= 72
 \end{aligned}
 $
 
 The number $= 72$
 
-Let's find $\dfrac {1} {2} \text{of} 72$
-
 $
 \begin{aligned}
+&= \dfrac {1} {2} \ \text {of} \ a \\\\
 &= \dfrac {1} {2} \times 72 \\\\
 &= \dfrac {72} {2} \\\\
 &= \dfrac {2 \times 36} {2} \\\\
@@ -6021,10 +6033,10 @@ $
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

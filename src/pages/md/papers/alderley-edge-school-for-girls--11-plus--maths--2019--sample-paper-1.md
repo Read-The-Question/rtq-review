@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4511,7 +4511,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F2F1A365-9B27-4327-9C11-647F071C0FCD</p>
 </div>
@@ -4522,7 +4522,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4548,36 +4548,58 @@ How many bags of crisps are inside the box?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the number of bags of crisps $= b$
 
-</div>
-<div class='working'>
+ABBR: It is really important to use the right units in calculations and convert where required.
 
-TODOWORKING
+
+Total weight of the bags of crisps $= 1 \ \text{kg} = 1000 \ \text{grams}$
+
+As per the question,
+
+$
+\begin{aligned}
+b \times 25                 &= 1000 \\\\
+b                           &= \dfrac {1000} {25} \\\\
+b                           &= \dfrac {25 \times 40} {25} \\\\
+b                           &= \dfrac {\cancel {25} \times 40} {\cancel {25}} \\\\
+b                           &= 40
+\end{aligned}
+$
+
+Number of bags of crisps inside the box $= 40$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$40$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let the number of bags of crisps $= b$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+rtq_abbr_md_unit_note
+
+Total weight of the bags of crisps $= 1 \ \text{kg} = 1000 \ \text{grams}$
+
+As per the question,
+
+$
+\begin{aligned}
+b \times 25                 &= 1000 \\\\
+b                           &= \dfrac {1000} {25} \\\\
+b                           &= \dfrac {25 \times 40} {25} \\\\
+b                           &= \dfrac {\cancel {25} \times 40} {\cancel {25}} \\\\
+b                           &= 40
+\end{aligned}
+$
+
+Number of bags of crisps inside the box $= 40$.
 </code></pre>
 </div>
 </div>
@@ -4589,22 +4611,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$40$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F2F1A365-9B27-4327-9C11-647F071C0FCD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F2F1A365-9B27-4327-9C11-647F071C0FCD' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F2F1A365-9B27-4327-9C11-647F071C0FCD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F2F1A365-9B27-4327-9C11-647F071C0FCD' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F2F1A365-9B27-4327-9C11-647F071C0FCD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F2F1A365-9B27-4327-9C11-647F071C0FCD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F2F1A365-9B27-4327-9C11-647F071C0FCD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F2F1A365-9B27-4327-9C11-647F071C0FCD' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='F2F1A365-9B27-4327-9C11-647F071C0FCD' id='FORM-F2F1A365-9B27-4327-9C11-647F071C0FCD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F2F1A365-9B27-4327-9C11-647F071C0FCD'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5568,7 +5617,7 @@ As per the above calcuations, there are enough tiles to make the next square.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>ECF79888-F466-480C-80F9-F7FBEF06F5ED</p>
 </div>
@@ -5579,7 +5628,7 @@ As per the above calcuations, there are enough tiles to make the next square.
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5672,36 +5721,51 @@ Write an expression for the lengths of one of its sides.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the length of one of its sides $= l$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+6 \times l                      &= 42a + 18 \\\\
+l                               &= \dfrac {42a + 18} {6} \\\\
+l                               &= \dfrac {42a} {6} + \dfrac {18} {6} \\\\
+l                               &= \dfrac {6 \times 7a} {6} + \dfrac {6 \times 3} {6} \\\\
+l                               &= \dfrac {\cancel 6 \times 7a} {\cancel 6} + \dfrac {\cancel 6 \times 3} {\cancel 6} \\\\
+l                               &= 7a + 3
+\end{aligned}
+$
+
+Expression for the length of one of its sides $= 7a + 3$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$7a + 3$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let the length of one of its sides $= l$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+6 \times l                      &= 42a + 18 \\\\
+l                               &= \dfrac {42a + 18} {6} \\\\
+l                               &= \dfrac {42a} {6} + \dfrac {18} {6} \\\\
+l                               &= \dfrac {6 \times 7a} {6} + \dfrac {6 \times 3} {6} \\\\
+l                               &= \dfrac {\cancel 6 \times 7a} {\cancel 6} + \dfrac {\cancel 6 \times 3} {\cancel 6} \\\\
+l                               &= 7a + 3
+\end{aligned}
+$
+
+Expression for the length of one of its sides $= 7a + 3$.
 </code></pre>
 </div>
 </div>
@@ -5713,17 +5777,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$7a + 3$
 </code></pre>
 </div>
 </div>
@@ -5742,36 +5796,51 @@ How many sides does the regular polygon have?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the number of sides $= s$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+s \times (15b - 4)              &= 75b - 20 \\\\
+s                               &= \dfrac {75b - 20} {15b - 4} \\\\
+s                               &= \dfrac {5 \times 15b - 5 \times 4} {15b - 4} \\\\
+s                               &= \dfrac {5 \times (15b - 4)} {15b - 4} \\\\
+s                               &= \dfrac {5 \times \cancel {(15b - 4)}} {\cancel {15b - 4}} \\\\
+s                               &= 5
+\end{aligned}
+$
+
+Number of sides of the polygon $= 5$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let the number of sides $= s$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+s \times (15b - 4)              &= 75b - 20 \\\\
+s                               &= \dfrac {75b - 20} {15b - 4} \\\\
+s                               &= \dfrac {5 \times 15b - 5 \times 4} {15b - 4} \\\\
+s                               &= \dfrac {5 \times (15b - 4)} {15b - 4} \\\\
+s                               &= \dfrac {5 \times \cancel {(15b - 4)}} {\cancel {15b - 4}} \\\\
+s                               &= 5
+\end{aligned}
+$
+
+Number of sides of the polygon $= 5$.
 </code></pre>
 </div>
 </div>
@@ -5783,17 +5852,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5$
 </code></pre>
 </div>
 </div>
@@ -5802,6 +5861,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' id='FORM-ECF79888-F466-480C-80F9-F7FBEF06F5ED' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-ECF79888-F466-480C-80F9-F7FBEF06F5ED'>Initial</p>
+</div>
 </div>
 </li>
 <li>

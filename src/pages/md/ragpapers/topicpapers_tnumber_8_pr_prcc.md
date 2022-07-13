@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-8-pr-prns"
-title: "TopicPaper - Number - 8 - PR - PRNS"
-date: 2022-07-12 14:58:45
+slug: "ragpapers/topicpapers-tnumber-8-pr-prcc"
+title: "TopicPaper - Number - 8 - PR - PRCC"
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C03B2F52-178B-432A-9547-FE19416A6C67</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-12 14:58:45
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -36,7 +36,7 @@ Write $\pounds 87$ to the nearest $\pounds 5$.
 <div class='workings'>
 <div class='working'>
 
-$\pounds 85$
+$\approx\pounds 85$
 
 </div>
 </div>
@@ -50,7 +50,7 @@ $\pounds 85$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\pounds 85$
+<pre class='language-latex'><code class='language-latex'>$\approx\pounds 85$
 </code></pre>
 </div>
 </div>

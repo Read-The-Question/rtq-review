@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g0"
 title: "TopicPaper - Number - 1 - G0"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -128,25 +128,31 @@ Write the population of Clowne correct to the nearest $100$.
 <div class='workings'>
 <div class='working'>
 
-Population of Clowne $= 6152$
-
-After rounding up to the nearest $100 = 6100$
+$
+\begin{aligned}
+\text{Population of Clowne} &= 6152 \\\\
+                            &\approx 6200
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6100$
+$6200$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Population of Clowne $= 6152$
-
-After rounding up to the nearest $100 = 6100$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Population of Clowne} &= 6152 \\\\
+                            &\approx 6200
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -158,7 +164,7 @@ After rounding up to the nearest $100 = 6100$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6100$
+<pre class='language-latex'><code class='language-latex'>$6200$
 </code></pre>
 </div>
 </div>
@@ -175,9 +181,12 @@ Write the population of Eckington to the nearest $1000$.
 <div class='workings'>
 <div class='working'>
 
-Population of Eckington $= 22315$
-
-After rounding down to the nearest $1000 = 22000$
+$
+\begin{aligned}
+\text {Population of Eckington} &= 22315 \\\\
+                               &\approx 22000
+\end{aligned}
+$
 
 </div>
 </div>
@@ -191,9 +200,12 @@ $22000$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Population of Eckington $= 22315$
-
-After rounding down to the nearest $1000 = 22000$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Population of Eckington} &= 22315 \\\\
+                               &\approx 22000
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -222,7 +234,6 @@ How many more people live in Eckington than Bamford?
 <div class='workings'>
 <div class='working'>
 
-As per the table,
 
 $
 \begin{aligned}
@@ -243,8 +254,7 @@ $7995$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the table,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
 \text{Difference}    &=  22315 - 14320 \\\\
@@ -304,6 +314,10 @@ c: write using \approx
 
 
 d: Remove as per the table,
+
+
+
+Comments not taken care of, please check again.
 </div>
 
 <div class='review'>
@@ -348,347 +362,6 @@ d: Remove as per the table,
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
-<p>009D6B34-62AB-4E8A-B3B9-09BCC4A3140E</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:4</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the gaps:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$94 - \ldots = 65$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing  number $= a$
- 
-$
-\begin{aligned}
-94 - a &= 65 \\\\
-a      &= 94 - 65\\\\
-a           &= 29
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$29$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
- 
-$
-\begin{aligned}
-94 - a &= 65 \\\\
-a      &= 94 - 65\\\\
-a           &= 29
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$29$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$\ldots \times 40 = 360$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\underline{\green
-{9}} \times 40 = 360$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{9}} \times 40 = 360$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$\ldots \div 0.5 = 20$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing  number $= a$
- 
-$
-\begin{aligned}
-a \div 0.5  &= 20 \\\\
-a           &= 20 \times 0.5 \\\\
-a           &= 10
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
- 
-$
-\begin{aligned}
-a \div 0.5  &= 20 \\\\
-a           &= 20 \times 0.5 \\\\
-a           &= 10
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$-35 + \ldots = -26$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$-35 + \underline{\green
-{9}} = -26$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$-35 + \underline{\rtq_katex_color_answer{9}} = -26$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-For such questions, if the answer is really easy and no major calculation required, just write the answer as it was done earlier, if some calculation involved, then use algebra.
-
-
-
-Also you have left both previous and new answer. 
-
-
-
-a. Use algebra, but steps missing. REmove old answer.
-
-b. No algebra, keep old answer.
-
-c. remove old answer
-
-d. easy, no algebra, remove new answer.
-
-
-
-Reach out if any confusion.
-
-
-
-a: S3 katex in code not indented properly, website is ok
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' id='FORM-009D6B34-62AB-4E8A-B3B9-09BCC4A3140E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-009D6B34-62AB-4E8A-B3B9-09BCC4A3140E'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
 <p>02D4678C-2407-4D76-9D31-57EE67F35A29</p>
 </div>
 <div class='papername'>
@@ -720,7 +393,13 @@ Circle the numbers below which are multiples of $7$.
 $44 \quad 91 \quad 350 \quad 789$
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$91, 350$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -728,7 +407,13 @@ $91, 350$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$91, 350$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -750,6 +435,10 @@ $91, 350$
 
 
 working are missing for this one, you need to add TOML working for this one, look at how working looks like for other question and add one and write the working. reach out if any confusion.
+
+
+
+This again is marked PRCC without changes being done???
 </div>
 
 <div class='review'>
@@ -867,7 +556,13 @@ Look at the numbers in the star.
 Which two numbers are multiples of $6$?
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$12, 30$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -875,7 +570,13 @@ $12, 30$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$12, 30$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -898,7 +599,13 @@ $12, 30$
 Which two numbers are prime?
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$17, 29$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -906,7 +613,13 @@ $17, 29$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$17, 29$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -929,7 +642,13 @@ $17, 29$
 Which two numbers are factors of $70$?
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$10, 14$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -937,7 +656,13 @@ $10, 14$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$10, 14$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -960,7 +685,13 @@ $10, 14$
 Which two numbers are square numbers?
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$9, 49$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -968,7 +699,13 @@ $9, 49$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$9, 49$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -1145,7 +882,7 @@ $
 \begin {aligned}
 &= 370 \ \text {cm} \\\\
 &= \dfrac {370} {100} \ \text {m} \\\\
-&= 3.7 
+&= 3.7 \ \text {m}
 \end {aligned}
 $
 
@@ -1154,7 +891,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3.7$
+$3.7 \ \text {m}$
 
 </div>
 </div>
@@ -1165,7 +902,7 @@ $3.7$
 \begin {aligned}
 &= 370 \ \text {cm} \\\\
 &= \dfrac {370} {100} \ \text {m} \\\\
-&= 3.7 
+&= 3.7 \ \text {m}
 \end {aligned}
 $
 </code></pre>
@@ -1179,7 +916,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3.7$
+<pre class='language-latex'><code class='language-latex'>$3.7 \ \text {m}$
 </code></pre>
 </div>
 </div>
@@ -1209,7 +946,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3700$
+$3700 \ \text {mm}$
 
 </div>
 </div>
@@ -1234,7 +971,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3700$
+<pre class='language-latex'><code class='language-latex'>$3700 \ \text {mm}$
 </code></pre>
 </div>
 </div>
@@ -1551,9 +1288,12 @@ $82 - 27 =5 \times {?}$
 
 Let the missing value $= a$,
 
+As per the question,
+
 $
 \begin{aligned}
 82 - 27  &= 5 \times a \\\\
+5 \times a       &= 82 - 27 \\\\
 5 \times a       &= 55 \\\\
 a        &= \dfrac {55} {5} \\\\
 a        &= \dfrac {5 \times 11} {5} \\\\
@@ -1576,9 +1316,12 @@ $11$
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$,
 
+As per the question,
+
 $
 \begin{aligned}
 82 - 27  &= 5 \times a \\\\
+5 \times a       &= 82 - 27 \\\\
 5 \times a       &= 55 \\\\
 a        &= \dfrac {55} {5} \\\\
 a        &= \dfrac {5 \times 11} {5} \\\\
@@ -1696,7 +1439,7 @@ What is the value of the digit $9$ in the number $32.597$?
 <div class='workings'>
 <div class='working'>
 
-$nine tenths$
+nine tenths
 
 </div>
 </div>
@@ -1713,7 +1456,7 @@ $nine tenths$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$nine tenths$
+<pre class='language-latex'><code class='language-latex'>nine tenths
 </code></pre>
 </div>
 </div>

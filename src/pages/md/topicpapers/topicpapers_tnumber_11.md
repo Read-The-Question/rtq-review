@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -972,7 +972,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prbd question'>
 <div class='uuid'>
 <p>72BEEC51-1902-4C41-BF4A-69B97ED5D4A7</p>
 </div>
@@ -986,7 +986,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1151,6 +1151,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+seems to be wrong
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3760,7 +3769,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9A3BC642-22C8-463E-97DC-2F6D596F96A9</p>
 </div>
@@ -3774,7 +3783,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3801,7 +3810,7 @@ What is the biggest number you can make with the four cards?...................
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$5731$
 
 </div>
 <div class='working'>
@@ -3813,7 +3822,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$5731$
 
 </div>
 <div class='answer'>
@@ -3825,7 +3834,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$5731$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -3842,7 +3851,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5731$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -3958,7 +3967,17 @@ $4000$   ![missing image](/papers/missing_image.svg)
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Number closest to 50
+
+$ = 51$
+
+Number closest to 60
+
+$ = 57$
+
+Number closest to 4000
+
+$ = 3751$
 
 </div>
 <div class='working'>
@@ -3982,7 +4001,17 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Number closest to 50
+
+$ = 51$
+
+Number closest to 60
+
+$ = 57$
+
+Number closest to 4000
+
+$ = 3751$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -7534,7 +7563,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A7C319CF-83DA-4579-B28A-5CF2D1F00791</p>
 </div>
@@ -7548,7 +7577,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7664,10 +7693,11 @@ Convert $430\ \text{millimetres}$ into $\text{centimetres}$
 $
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm} \\\\
-&= \dfrac {430} {10} \ \text{cm} \\\\
-&= \dfrac {43 \cancel{0}} {1 \cancel{0}} \ \text{cm} \\\\
-&= 43 \ \text{cm}
+&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
+&= \dfrac {430} {10}  \\\\
+&= \dfrac {43 \times 10} {10}  \\\\
+&= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
+&=43 \ \text{cm}
 \end{aligned}
 $
 
@@ -7686,10 +7716,11 @@ $43 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm} \\\\
-&= \dfrac {430} {10} \ \text{cm} \\\\
-&= \dfrac {43 \cancel{0}} {1 \cancel{0}} \ \text{cm} \\\\
-&= 43 \ \text{cm}
+&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
+&= \dfrac {430} {10}  \\\\
+&= \dfrac {43 \times 10} {10}  \\\\
+&= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
+&=43 \ \text{cm}
 \end{aligned}
 $
 </code></pre>
@@ -7807,7 +7838,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA</p>
 </div>
@@ -7821,7 +7852,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8260,7 +8291,16 @@ Find $1\%$ of $200\ \text{kg}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= 1\%\ \text{of}\ 200\ \text{kg}\\\\
+&= \dfrac{1}{100}\times 200 \\\\
+&= \dfrac{200}{100}\\\\
+&= \dfrac{2\times 100}{100}\\\\
+&= \dfrac{2\times\cancel{100}}{\cancel{100}}\\\\
+&= 2\ \text{kg}
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -8284,7 +8324,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 1\%\ \text{of}\ 200\ \text{kg}\\\\
+&= \dfrac{1}{100}\times 200 \\\\
+&= \dfrac{200}{100}\\\\
+&= \dfrac{2\times 100}{100}\\\\
+&= \dfrac{2\times\cancel{100}}{\cancel{100}}\\\\
+&= 2\ \text{kg}
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -8329,12 +8378,12 @@ Work out $\dfrac{1}{2}+\dfrac{1}{4}$
 <div class='working'>
 
 $
-\begin{\aligned}
+\begin{aligned}
 &=\dfrac{1}{2}+\dfrac{1}{4}\\\\
-&=\dfrac{1\times2}{2\times 2}+\dfrac{1}{4}\\\\
+&=\dfrac{1\times2}{2\times2}+\dfrac{1}{4}\\\\
 &=\dfrac{2}{4}+\dfrac{1}{4}\\\\
 &=\dfrac{2+1}{4}\\\\
-&=\dfrac{3}{4}\\
+&=\dfrac{3}{4}
 \end{aligned}
 $
 
@@ -8361,12 +8410,12 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{\aligned}
+\begin{aligned}
 &=\dfrac{1}{2}+\dfrac{1}{4}\\\\
-&=\dfrac{1\times2}{2\times 2}+\dfrac{1}{4}\\\\
+&=\dfrac{1\times2}{2\times2}+\dfrac{1}{4}\\\\
 &=\dfrac{2}{4}+\dfrac{1}{4}\\\\
 &=\dfrac{2+1}{4}\\\\
-&=\dfrac{3}{4}\\
+&=\dfrac{3}{4}
 \end{aligned}
 $
 </code></pre>

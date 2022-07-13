@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2010-sample-paper-1"
 title: "Reigate Grammar School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2285,7 +2285,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>33950D66-0394-4747-B53F-98D8262D12EC</p>
 </div>
@@ -2299,7 +2299,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2424,7 +2424,7 @@ Number of boys in the school $= 501$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>72FCEF04-0FAC-4FF2-B835-201FE7548490</p>
 </div>
@@ -2438,7 +2438,7 @@ Number of boys in the school $= 501$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2461,8 +2461,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total children}                                &= \text{Total boys} + \text{Total girls} \\\\
-c                                                    &= \dfrac {2} {5} \times c + 12 \\\\
+\text{Total children}                                &= \dfrac {2} {5} \times c + 12 \\\\
 c                                                    &= \dfrac {2a} {5} + 12 \\\\
 c - \dfrac {2c} {5}                                  &= 12 \\\\
 \dfrac {c \times 5} {1 \times 5} - \dfrac {2c} {5}   &= 12 \\\\
@@ -2475,14 +2474,12 @@ c                                                    &= 20
 \end{aligned}
 $
 
-The total number of children in class $= 20$
 
 Let's find the total number of boys.
 
 $
 \begin{aligned}
-\text{Total number of boys}                     &= \text{Total children} - \text{Total girls} \\\\
-                                                &= 20 - 12 \\\\
+\text{Total number of boys}                     &= 20 - 12 \\\\
                                                 &= 8
 \end{aligned}
 $
@@ -2505,8 +2502,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total children}                                &= \text{Total boys} + \text{Total girls} \\\\
-c                                                    &= \dfrac {2} {5} \times c + 12 \\\\
+\text{Total children}                                &= \dfrac {2} {5} \times c + 12 \\\\
 c                                                    &= \dfrac {2a} {5} + 12 \\\\
 c - \dfrac {2c} {5}                                  &= 12 \\\\
 \dfrac {c \times 5} {1 \times 5} - \dfrac {2c} {5}   &= 12 \\\\
@@ -2519,14 +2515,12 @@ c                                                    &= 20
 \end{aligned}
 $
 
-The total number of children in class $= 20$
 
 Let's find the total number of boys.
 
 $
 \begin{aligned}
-\text{Total number of boys}                     &= \text{Total children} - \text{Total girls} \\\\
-                                                &= 20 - 12 \\\\
+\text{Total number of boys}                     &= 20 - 12 \\\\
                                                 &= 8
 \end{aligned}
 $
@@ -3773,7 +3767,7 @@ two digits$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D420B70D-FFDF-4298-9B28-CB918A886544</p>
 </div>
@@ -3787,7 +3781,7 @@ two digits$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3905,7 +3899,7 @@ Cost of  $6$ ruler and $4$ pens $= 6x + 4y$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>94C2C3F2-69F9-49F2-946E-30BF9FEA63BD</p>
 </div>
@@ -3919,7 +3913,7 @@ Cost of  $6$ ruler and $4$ pens $= 6x + 4y$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3945,16 +3939,8 @@ As per the question,
 $
 \begin{aligned} 
 a + b                    &= 35 \\\\
-a - b                    &= 13
-\end{aligned}
-$
-
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned}
+a - b                    &= 13 \\\\
+\text{substracting,} \\\\
 a + b - (a - b)          &= 35 - 13 \\\\
 a + b - a + b            &= 22 \\\\
 2b                       &= 22 \\\\
@@ -4001,16 +3987,8 @@ As per the question,
 $
 \begin{aligned} 
 a + b                    &= 35 \\\\
-a - b                    &= 13
-\end{aligned}
-$
-
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned}
+a - b                    &= 13 \\\\
+\text{substracting,} \\\\
 a + b - (a - b)          &= 35 - 13 \\\\
 a + b - a + b            &= 22 \\\\
 2b                       &= 22 \\\\
@@ -4747,7 +4725,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prbd question'>
 <div class='uuid'>
 <p>72BEEC51-1902-4C41-BF4A-69B97ED5D4A7</p>
 </div>
@@ -4761,7 +4739,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4926,6 +4904,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+seems to be wrong
+</div>
 
 <div class='review'>
 <ul class='review'>

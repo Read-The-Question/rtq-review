@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-9"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-12 14:53:28
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-12 14:53:28
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -203,7 +203,7 @@ $
 \begin{aligned}
 \text{Containers needed} &= \dfrac {2341} {21} \\\\
                          &= 111.47 \\\\
-                         &= 112
+                         &\approx 112
 \end{aligned}
 $
 
@@ -223,7 +223,7 @@ $112$
 \begin{aligned}
 \text{Containers needed} &= \dfrac {2341} {21} \\\\
                          &= 111.47 \\\\
-                         &= 112
+                         &\approx 112
 \end{aligned}
 $
 </code></pre>
@@ -694,7 +694,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B0474C27-24BE-44CC-8751-8A066A162D28</p>
 </div>
@@ -708,7 +708,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -881,8 +881,8 @@ $-3x^2$
 $
 \begin{aligned}
 &= -3x^2 \\\\
-&= -3(-2)^2 \\\\
-&= -3(4) \\\\
+&= -3 \times (-2)^2 \\\\
+&= -3 \times (4) \\\\
 &= -12
 \end{aligned}
 $
@@ -902,8 +902,8 @@ $-12$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= -3x^2 \\\\
-&= -3(-2)^2 \\\\
-&= -3(4) \\\\
+&= -3 \times (-2)^2 \\\\
+&= -3 \times (4) \\\\
 &= -12
 \end{aligned}
 $
@@ -935,14 +935,16 @@ $2xy - z^3$
 <div class='workings'>
 <div class='working'>
 
+
 $
-\begin{aligned]
+\begin{aligned}
 &= 2xy - z^3 \\\\
 &= 2 \times -2 \times 3 - (-1)^3 \\\\
 &= -12 - (-1) \\\\
 &= -12 + 1 \\\\
 &= -11
 \end{aligned}
+$
 $
 
 </div>
@@ -957,14 +959,16 @@ $-11$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned]
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
 &= 2xy - z^3 \\\\
 &= 2 \times -2 \times 3 - (-1)^3 \\\\
 &= -12 - (-1) \\\\
 &= -12 + 1 \\\\
 &= -11
 \end{aligned}
+$
 $
 </code></pre>
 </div>
@@ -1026,7 +1030,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>39E23842-24A9-4406-85BD-91A1D31AE811</p>
 </div>
@@ -1040,7 +1044,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1333,7 +1337,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
 </div>
@@ -1347,7 +1351,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1405,11 +1409,12 @@ $3x -7 = 5x + 7$
 <div class='workings'>
 <div class='working'>
 
+
 $
 \begin{aligned}
-3 x - 7    &= 5 x + 7 \\\\
-3 x - 5 x  &= 7 + 7 \\\\
-- 2 x      &= 14 \\\\
+3 \times x - 7    &= 5 \times x + 7 \\\\
+3 \times x - 5 \times x  &= 7 + 7 \\\\
+-2 \times x      &= 14 \\\\
 x          &= - \dfrac {14} {2} \\\\
 x          &= - \dfrac {7 \times 2} {2} \\\\
 x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
@@ -1429,11 +1434,12 @@ $-7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>
+$
 \begin{aligned}
-3 x - 7    &= 5 x + 7 \\\\
-3 x - 5 x  &= 7 + 7 \\\\
-- 2 x      &= 14 \\\\
+3 \times x - 7    &= 5 \times x + 7 \\\\
+3 \times x - 5 \times x  &= 7 + 7 \\\\
+-2 \times x      &= 14 \\\\
 x          &= - \dfrac {14} {2} \\\\
 x          &= - \dfrac {7 \times 2} {2} \\\\
 x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
@@ -1470,9 +1476,9 @@ $\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
 
 $
 \begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5
+\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5 \\\\
 \dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - \dfrac x \times 2}{6}                       &= 8 \\\\
+\dfrac{x \times 3 - x \times 2}{6}                       &= 8 \\\\
 \dfrac{x}{6}                                                    &= 8 \\\\
 x                                                               &= 8 \times 6 \\\\
                                                                 &= 48
@@ -1493,9 +1499,9 @@ $48$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5
+\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5 \\\\
 \dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - \dfrac x \times 2}{6}                       &= 8 \\\\
+\dfrac{x \times 3 - x \times 2}{6}                       &= 8 \\\\
 \dfrac{x}{6}                                                    &= 8 \\\\
 x                                                               &= 8 \times 6 \\\\
                                                                 &= 48

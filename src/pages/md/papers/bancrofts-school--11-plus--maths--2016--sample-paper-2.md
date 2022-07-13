@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5390,7 +5390,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FAA5ECCF-19F3-40F3-B1A7-DB725365723D</p>
 </div>
@@ -5404,7 +5404,7 @@ TODOANSWER
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5430,36 +5430,21 @@ $
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -5471,17 +5456,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -5496,11 +5471,7 @@ Choose two cards to make a two-digit multiple of $6$.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-36
-\end{aligned}
-$
+$36$
 
 </div>
 </div>
@@ -5514,11 +5485,7 @@ $36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-36
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$36$
 </code></pre>
 </div>
 </div>
@@ -5547,11 +5514,7 @@ Choose two cards to make a two-digits factor of $60$.
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-15
-\end{aligned}
-$
+$15$
 
 </div>
 </div>
@@ -5565,11 +5528,7 @@ $15$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-15
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$15$
 </code></pre>
 </div>
 </div>
@@ -5589,6 +5548,39 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: do not write like this
+
+
+
+$
+
+\begin{aligned}
+
+36
+
+\end{aligned}
+
+$
+
+
+
+just write $36$ when only a number is required, begin aligned is for equations.
+
+
+
+remove extra TODOWORKING AND ANSWERS
+
+
+
+b: write working without begin aligned, same as answer
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6968,7 +6960,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FCE7C38F-A082-42E3-8CCA-672D8C2FC7E1</p>
 </div>
@@ -6982,7 +6974,7 @@ TODOANSWER
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7003,36 +6995,21 @@ Adapt each statement by inserting the smallest possible numbers of zeros to make
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7044,17 +7021,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7069,10 +7036,15 @@ $52 + 41 = 543$
 <div class='workings'>
 <div class='working'>
 
+$502 + 41 = 543$
+
+Lets verify.
+
 $
 \begin{aligned}
-5\green
-{0}2 + 41 &= 543
+&= 5\green
+{0}2 + 41 \\\\
+&= 543
 \end{aligned}
 $
 
@@ -7088,9 +7060,14 @@ $502$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$502 + 41 = 543$
+
+Lets verify.
+
+$
 \begin{aligned}
-5\rtq_katex_color_answer{0}2 + 41 &= 543
+&= 5\rtq_katex_color_answer{0}2 + 41 \\\\
+&= 543
 \end{aligned}
 $
 </code></pre>
@@ -7121,11 +7098,16 @@ $163 + 71 = 1764$
 <div class='workings'>
 <div class='working'>
 
+$1063 + 701 = 1764$
+
+Lets verify.
+
 $
 \begin{aligned}
-1\green
+&= 1\green
 {0}63 + 7\green
-{0}1 &= 1764
+{0}1 \\\\
+&= 1764
 \end{aligned}
 $
 
@@ -7134,16 +7116,21 @@ $
 <div class='answers'>
 <div class='answer'>
 
-1063, 701
+$1063, 701$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$1063 + 701 = 1764$
+
+Lets verify.
+
+$
 \begin{aligned}
-1\rtq_katex_color_answer{0}63 + 7\rtq_katex_color_answer{0}1 &= 1764
+&= 1\rtq_katex_color_answer{0}63 + 7\rtq_katex_color_answer{0}1 \\\\
+&= 1764
 \end{aligned}
 $
 </code></pre>
@@ -7157,7 +7144,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>1063, 701
+<pre class='language-latex'><code class='language-latex'>$1063, 701$
 </code></pre>
 </div>
 </div>
@@ -7174,21 +7161,41 @@ $126 + 234 = 144$
 <div class='workings'>
 <div class='working'>
 
-Not possible
+$1206 + 234 = 1440$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 12\green
+{0}6 + 234 \\\\
+&= 144\green
+{0}
+\end{aligned}
+$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Not possible
+$1206, 1440$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Not possible
+<pre class='language-latex'><code class='language-latex'>$1206 + 234 = 1440$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 12\rtq_katex_color_answer{0}6 + 234 \\\\
+&= 144\rtq_katex_color_answer{0}
+\end{aligned}
+$ 
 </code></pre>
 </div>
 </div>
@@ -7200,7 +7207,7 @@ Not possible
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Not possible
+<pre class='language-latex'><code class='language-latex'>$1206, 1440$
 </code></pre>
 </div>
 </div>
@@ -7217,21 +7224,43 @@ $1 - 499 = 51$
 <div class='workings'>
 <div class='working'>
 
-Not possible
+$1000 - 499 = 501$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 1\green
+{0}\green
+{0}\green
+{0} - 499 \\\\
+&= 5\green
+{0}1
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Not possible
+$1000, 501$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Not possible
+<pre class='language-latex'><code class='language-latex'>$1000 - 499 = 501$
+
+Lets verify.
+
+$
+\begin{aligned}
+&= 1\rtq_katex_color_answer{0}\rtq_katex_color_answer{0}\rtq_katex_color_answer{0} - 499 \\\\
+&= 5\rtq_katex_color_answer{0}1
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7243,7 +7272,7 @@ Not possible
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Not possible
+<pre class='language-latex'><code class='language-latex'>$1000, 501$
 </code></pre>
 </div>
 </div>
@@ -7260,12 +7289,17 @@ $32 - 114 = 1898$
 <div class='workings'>
 <div class='working'>
 
+$3002 - 1104 = 1898$
+
+Lets verify.
+
 $
 \begin{aligned}
-3\green
+&= 3\green
 {0}\green
 {0}2 - 11\green
-{0}4 = 1898
+{0}4 \\\\
+&= 1898
 \end{aligned}
 $
 
@@ -7281,9 +7315,14 @@ $3002, 1104$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$3002 - 1104 = 1898$
+
+Lets verify.
+
+$
 \begin{aligned}
-3\rtq_katex_color_answer{0}\rtq_katex_color_answer{0}2 - 11\rtq_katex_color_answer{0}4 = 1898
+&= 3\rtq_katex_color_answer{0}\rtq_katex_color_answer{0}2 - 11\rtq_katex_color_answer{0}4 \\\\
+&= 1898
 \end{aligned}
 $
 </code></pre>
@@ -7305,6 +7344,31 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write all these using Lets verify way, 
+
+
+
+first write the final answer as you have done and then show detailed working, search for Lets verify and look for samples.
+
+
+
+d: is wrong 1000 - 499 = 501, please change
+
+
+
+
+
+
+
+c: is wrong  1206 + 234 = 1440, please change
+</div>
 
 <div class='review'>
 <ul class='review'>

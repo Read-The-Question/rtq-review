@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-14"
 title: "TopicPaper - Number - 14"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -81,7 +81,7 @@ $18, 36, 54, 72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>DA73C8E9-6BBC-4FA7-B8E6-E5C1634B2EF7</p>
 </div>
@@ -89,13 +89,13 @@ $18, 36, 54, 72$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -155,7 +155,7 @@ in mm
 
 $
 \begin{aligned}
-&= 7.8 \ \text{cm} \times 10 \\\\
+&= 7.8 \times 10 \ \text{mm} \\\\
 &= 78 \ \text{mm}
 \end{aligned}
 $
@@ -174,7 +174,7 @@ $78 \ \text{mm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 7.8 \ \text{cm} \times 10 \\\\
+&= 7.8 \times 10 \ \text{mm} \\\\
 &= 78 \ \text{mm}
 \end{aligned}
 $
@@ -208,7 +208,8 @@ in m
 
 $
 \begin{aligned}
-&= \dfrac{7.8 \ \text{cm} } {100}  \\\\
+&= 7.8 \times\dfrac{1}{100}\ \text{m}   \\\\
+&= \dfrac{7.8}{100}  \\\\
 &= 0.078 \ \text{m}
 \end{aligned}
 $
@@ -227,7 +228,8 @@ $0.078 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{7.8 \ \text{cm} } {100}  \\\\
+&= 7.8 \times\dfrac{1}{100}\ \text{m}   \\\\
+&= \dfrac{7.8}{100}  \\\\
 &= 0.078 \ \text{m}
 \end{aligned}
 $
@@ -312,10 +314,10 @@ same change...
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -377,26 +379,19 @@ $\boxed {57}$  Subtract 28  $\boxed {........}$  Add...... $\boxed {63}$
 <div class='workings'>
 <div class='working'>
 
-Let the first space $a$ and second space $b$,
+Let first space $= a$
 
-Let's find $a$ first
+Let second space $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-a &= 57 - 28  \\\\
-a  &=  29
-\end{aligned}
-$
-
-Let's find $b$
-
-$
-\begin{aligned}
-29 + b &=  63  \\\\
-b &=  63 - 29 \\\\
-b &= 34
+a          &= 57 - 28  \\\\
+a          &=  29 \\\\
+29 + b     &=  63  \\\\
+b          &=  63 - 29 \\\\
+b          &= 34
 \end{aligned}
 $
 
@@ -412,26 +407,19 @@ $29, 34$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and second space $b$,
+<pre class='language-latex'><code class='language-latex'>Let first space $= a$
 
-Let's find $a$ first
+Let second space $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-a &= 57 - 28  \\\\
-a  &=  29
-\end{aligned}
-$
-
-Let's find $b$
-
-$
-\begin{aligned}
-29 + b &=  63  \\\\
-b &=  63 - 29 \\\\
-b &= 34
+a          &= 57 - 28  \\\\
+a          &=  29 \\\\
+29 + b     &=  63  \\\\
+b          &=  63 - 29 \\\\
+b          &= 34
 \end{aligned}
 $
 </code></pre>
@@ -463,26 +451,19 @@ $\boxed {53}$ Add.......  $\boxed {..125....}$  Subtract 39  $\boxed {.........}
 <div class='workings'>
 <div class='working'>
 
-Let the first space $a$ and let the second space $b$
+Let first space $= a$ 
 
-Let's find $a$ first
+let second space $= b$
 
 As per the question, 
 
 $
 \begin{aligned}
-53 + a &=  125  \\\\
-a &=  125 - 53 \\\\
-a &= 72
-\end{aligned}
-$
-
-Let's find b
-
-$
-\begin{aligned}
-b = 125 - 39 \\\\
-b = 86
+53 + a      &=  125  \\\\
+a           &=  125 - 53 \\\\
+a           &= 72  \\\\
+b           &= 125 - 39 \\\\
+b           &= 86
 \end{aligned}
 $
 </div>
@@ -497,26 +478,19 @@ $72, 86$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and let the second space $b$
+<pre class='language-latex'><code class='language-latex'>Let first space $= a$ 
 
-Let's find $a$ first
+let second space $= b$
 
 As per the question, 
 
 $
 \begin{aligned}
-53 + a &=  125  \\\\
-a &=  125 - 53 \\\\
-a &= 72
-\end{aligned}
-$
-
-Let's find b
-
-$
-\begin{aligned}
-b = 125 - 39 \\\\
-b = 86
+53 + a      &=  125  \\\\
+a           &=  125 - 53 \\\\
+a           &= 72  \\\\
+b           &= 125 - 39 \\\\
+b           &= 86
 \end{aligned}
 $</code></pre>
 </div>
@@ -541,6 +515,10 @@ $</code></pre>
 
 <h4>Review Comments</h4>
 Refer to the corrections done in similar question in previous paper. 
+
+
+
+Not written per algebra standards
 </div>
 
 <div class='review'>
@@ -857,10 +835,10 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -920,7 +898,7 @@ $120 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FEC89A56-1AF8-4052-8EDD-95EC29CBFA28</p>
 </div>
@@ -928,13 +906,13 @@ $120 \ \text {cm}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -996,7 +974,11 @@ Which of the numbers has an **odd** number of factors? (Hint: there is only one)
 
 The square numbers have an odd numbers of factors.
 
-$49 &= 7^2$
+$
+\begin{aligned}
+49 &= 7^2
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1012,7 +994,11 @@ $49$
 
 <pre class='language-latex'><code class='language-latex'>The square numbers have an odd numbers of factors.
 
-$49 &= 7^2$
+$
+\begin{aligned}
+49 &= 7^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1041,7 +1027,11 @@ Give another example of a number with an odd number of factors.
 <div class='workings'>
 <div class='working'>
 
-$25$
+$
+\begin{aligned}
+15 &= 3\times 5
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1055,7 +1045,11 @@ $25$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$25$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+15 &= 3\times 5
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1413,7 +1407,7 @@ Seven million six hundred ninety two thousand twenty four square kilometres
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>9A21B777-4815-48B4-8EBE-0799D0C7C977</p>
 </div>
@@ -1421,13 +1415,13 @@ Seven million six hundred ninety two thousand twenty four square kilometres
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1488,7 +1482,7 @@ How far is this in metres?
 $
 \begin{aligned}
 &=  5.2 \ \text{km} \\\\
-&=  5.2 \times 1000 \\\\
+&=  5.2 \times 1000\ \text{metres} \\\\
 &=  5200 \ \text{metres}
 \end{aligned}
 $
@@ -1508,7 +1502,7 @@ $5200 \ \text{metres}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  5.2 \ \text{km} \\\\
-&=  5.2 \times 1000 \\\\
+&=  5.2 \times 1000\ \text{metres} \\\\
 &=  5200 \ \text{metres}
 \end{aligned}
 $
@@ -1543,7 +1537,8 @@ Goodison Park is a further $1200\,m$ from my house. How many **kilometres** is G
 $
 \begin{aligned}
 &= 1200 \ \text{metres} \\\\
-&= \dfrac {1200} {1000} \\\\
+&= 1200\times\dfrac {1}{1000}\ \text{km} \\\\
+&=dfrac{1200}{1000}\\\\
 &= \dfrac {12 \cancel{00} } {10 \cancel{00} } \\\\
 &= \dfrac {12} {10} \\\\
 &= 1.2 \ \text{km}
@@ -1565,7 +1560,8 @@ $1.2 \ \text{km}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 1200 \ \text{metres} \\\\
-&= \dfrac {1200} {1000} \\\\
+&= 1200\times\dfrac {1}{1000}\ \text{km} \\\\
+&=dfrac{1200}{1000}\\\\
 &= \dfrac {12 \cancel{00} } {10 \cancel{00} } \\\\
 &= \dfrac {12} {10} \\\\
 &= 1.2 \ \text{km}
@@ -1973,7 +1969,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3137279D-0797-499D-81D8-8651675F4A7D</p>
 </div>
@@ -1981,13 +1977,13 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2012,11 +2008,19 @@ d) $1500\,mm$
 <div class='workings'>
 <div class='working'>
 
-$120 cm$ is nearly the height of a dwarf. 
-$150 mm or 15 cm$, height is not possible
-$1.8 m or 180 cm$ is nearly the height average height of a man
-$112 inches or 284 cm$ height is not possible 
-
+$ 
+\begin{aligned}
+110\ \text{cm}&= 110\times 0. 0328084 \ \text{feet}\ \\\\ 
+& = 3.60892 \ \text{feet}\ \\\\
+1.8\ \text{m}&= 1.8\times 3.28084\ \text{feet}\ \\\\
+& = 5.90551 \ \text{feet}\ \\\\
+12\ \text{m}&= 12 \times 3.28084\ \text{feet}\ \\\\ 
+& = 39.3701 \ \text{feet}\ \\\\
+1500\ \text{mm}&= 1500 \times 3.28084\ \text{feet}\ \\\\ 
+& = 4.92126 \ \text{feet}\ \\\\
+&\therefore \text{closest distance is 1.8 m}\
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2030,11 +2034,19 @@ $1.8 \ \text{m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$120 cm$ is nearly the height of a dwarf. 
-$150 mm or 15 cm$, height is not possible
-$1.8 m or 180 cm$ is nearly the height average height of a man
-$112 inches or 284 cm$ height is not possible 
-
+<pre class='language-latex'><code class='language-latex'>$ 
+\begin{aligned}
+110\ \text{cm}&= 110\times 0. 0328084 \ \text{feet}\ \\\\ 
+& = 3.60892 \ \text{feet}\ \\\\
+1.8\ \text{m}&= 1.8\times 3.28084\ \text{feet}\ \\\\
+& = 5.90551 \ \text{feet}\ \\\\
+12\ \text{m}&= 12 \times 3.28084\ \text{feet}\ \\\\ 
+& = 39.3701 \ \text{feet}\ \\\\
+1500\ \text{mm}&= 1500 \times 3.28084\ \text{feet}\ \\\\ 
+& = 4.92126 \ \text{feet}\ \\\\
+&\therefore \text{closest distance is 1.8 m}\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2372,7 +2384,7 @@ Prime Number
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D9B9E901-ED49-4035-81FE-273FD45511EB</p>
 </div>
@@ -2380,13 +2392,13 @@ Prime Number
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2447,8 +2459,9 @@ $\text{centimetres}$ are there in $70\ \text{mm}$?
 $
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  \dfrac {70} {10} \text {cm} \\\\
-&=  \dfrac {7 \cancel{0}} {1 \cancel{0}} \text {cm} \\\\
+&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
+&=  7\times10\times\dfrac{1}{10} \\\\
+&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
 &=  7 \ \text {cm}
 \end{aligned}
 $
@@ -2468,8 +2481,9 @@ $7cm$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  \dfrac {70} {10} \text {cm} \\\\
-&=  \dfrac {7 \cancel{0}} {1 \cancel{0}} \text {cm} \\\\
+&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
+&=  7\times10\times\dfrac{1}{10} \\\\
+&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
 &=  7 \ \text {cm}
 \end{aligned}
 $
@@ -2550,7 +2564,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-\text{millilitres}$ are there in $3\ \text{litres}$?
+$\text{millilitres}$ are there in $3\ \text{litres}$?
 
 </div>
 <div class='workings'>
@@ -3685,7 +3699,7 @@ $42008$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BC964098-4A38-4BC7-A581-3B7D11BE274D</p>
 </div>
@@ -3693,13 +3707,13 @@ $42008$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3823,7 +3837,11 @@ ABBR: It is really important to use the right units in calculations and convert 
 $
 \begin{aligned}
 &= 510 \ \text{cm} \\\\
-&= \dfrac{510}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100}  \\\\
+&= 51\times10\times\dfrac{1}{10\times 10}  \\\\
+&= 51\times\cancel{10}\times\dfrac{1}{\cancel{10}\times 10}  \\\\
+&= \dfrac{51}{10}  \\\\
 &= 5.1 \ \text{m}                
 \end{aligned}
 $
@@ -3845,7 +3863,11 @@ $5.1 \ \text{m}$
 $
 \begin{aligned}
 &= 510 \ \text{cm} \\\\
-&= \dfrac{510}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100}  \\\\
+&= 51\times10\times\dfrac{1}{10\times 10}  \\\\
+&= 51\times\cancel{10}\times\dfrac{1}{\cancel{10}\times 10}  \\\\
+&= \dfrac{51}{10}  \\\\
 &= 5.1 \ \text{m}                
 \end{aligned}
 $
@@ -3917,10 +3939,10 @@ $
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3989,7 +4011,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>9918B00D-75CB-41DB-93FD-465940FFC114</p>
 </div>
@@ -3997,13 +4019,13 @@ $
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4291,47 +4313,36 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt c: Delete the leftmost & from the whole array. that is why the alignment is incorrect.
-
-
-
-
-
-c: * should be next to 7 as per coding guidelines, look at other detailed multiplications.
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' id='FORM-9918B00D-75CB-41DB-93FD-465940FFC114' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' id='FORM-9918B00D-75CB-41DB-93FD-465940FFC114' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -5058,10 +5069,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5171,10 +5182,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5882,7 +5893,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FB21F97F-B716-4F28-B691-6FF3FCEA330A</p>
 </div>
@@ -5890,13 +5901,13 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5921,11 +5932,14 @@ It ends in a $2$.
 
 As per the question,
 
-It is a multiple of $3$ and $7$. Since $3, 7$ have no common factors, the number is also a multiple of $3 \times 7 = 21$
-
-The number ends with 2. So,
-
-$21 \times 2 = 42$
+$
+\begin{aligned}
+&=3\times 7\\\\
+&=21\\\\
+&=21 \times 2\\\\
+&=42
+\end{aligned}
+$
 
 </div>
 </div>
@@ -5941,11 +5955,14 @@ $42$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 
-It is a multiple of $3$ and $7$. Since $3, 7$ have no common factors, the number is also a multiple of $3 \times 7 = 21$
-
-The number ends with 2. So,
-
-$21 \times 2 = 42$
+$
+\begin{aligned}
+&=3\times 7\\\\
+&=21\\\\
+&=21 \times 2\\\\
+&=42
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6016,10 +6033,10 @@ change tag to tfactor
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6184,10 +6201,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6374,10 +6391,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6453,10 +6470,10 @@ $\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6523,10 +6540,10 @@ $14 \times 14 = 196$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-g0"
 title: "TopicPaper - Number - 9 - G0"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -296,7 +296,7 @@ use \quad instead of \ \ for spacing
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>89AF4456-05DF-454E-9602-66C48E68886D</p>
 </div>
@@ -310,7 +310,7 @@ use \quad instead of \ \ for spacing
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -330,21 +330,21 @@ List all the positive integers less than $20$ that have TWO different factors, o
 <div class='workings'>
 <div class='working'>
 
-$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+$6,\quad 8, \quad 10,\quad 12,\quad 14, \quad 15, \quad 16, \quad 18$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+$6,\quad 8, \quad 10,\quad 12,\quad 14, \quad 15, \quad 16, \quad 18$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+<pre class='language-latex'><code class='language-latex'>$6,\quad 8, \quad 10,\quad 12,\quad 14, \quad 15, \quad 16, \quad 18$
 </code></pre>
 </div>
 </div>
@@ -356,7 +356,7 @@ $6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+<pre class='language-latex'><code class='language-latex'>$6,\quad 8, \quad 10,\quad 12,\quad 14, \quad 15, \quad 16, \quad 18$
 </code></pre>
 </div>
 </div>
@@ -595,6 +595,7 @@ $
 &= \dfrac {13 \times 2} {5 \times 2} + \dfrac {3 \times 5} {2 \times 5} \\\\
 &= \dfrac {26} {10} + \dfrac {15} {10} \\\\
 &= \dfrac {26 + 15} {10} \\\\
+&= \dfrac {41} {10} \\\\
 &= 4 \ \dfrac {1} {10} 
 \end{aligned}
 $
@@ -618,6 +619,7 @@ $4 \ \dfrac {1} {10}$
 &= \dfrac {13 \times 2} {5 \times 2} + \dfrac {3 \times 5} {2 \times 5} \\\\
 &= \dfrac {26} {10} + \dfrac {15} {10} \\\\
 &= \dfrac {26 + 15} {10} \\\\
+&= \dfrac {41} {10} \\\\
 &= 4 \ \dfrac {1} {10} 
 \end{aligned}
 $

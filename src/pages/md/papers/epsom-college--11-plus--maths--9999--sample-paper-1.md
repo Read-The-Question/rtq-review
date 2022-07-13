@@ -1,7 +1,7 @@
 ---
 slug: "papers/epsom-college-11-plus-maths-9999-sample-paper-1"
 title: "Epsom College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1621,6 +1621,10 @@ two numbers that have a difference of $20$,
 <div class='workings'>
 <div class='working'>
 
+$44, 24$
+
+Let's verify.
+
 $
 \begin {aligned}
 &= 44 - 24 \\\\
@@ -1628,7 +1632,7 @@ $
 \end {aligned}
 $
 
-Two numbers that have a difference of $20$ are $44$ and $24$. 
+
 
 </div>
 </div>
@@ -1642,14 +1646,18 @@ $24, 44$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$44, 24$
+
+Let's verify.
+
+$
 \begin {aligned}
 &= 44 - 24 \\\\
 &= 20
 \end {aligned}
 $
 
-Two numbers that have a difference of $20$ are $44$ and $24$. 
+
 </code></pre>
 </div>
 </div>
@@ -2471,7 +2479,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>21D2BF8B-CBA9-43C7-99F2-36A0C829C26F</p>
 </div>
@@ -2485,7 +2493,7 @@ $
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2547,14 +2555,12 @@ $2.57 \times 34$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-257 \times 34                   &= 8738 \\\\
-\dfrac {257 \times 34} {100}    &= \dfrac {8738} {100} \\\\
-\dfrac {257} {100} \times 34    &= \dfrac {8738} {100} \\\\
-2.57 \times 34                  &= 87.38
+&=2.57 \times 34 \\\\
+&= \dfrac {257} {100} \times 34 \\\\
+&= 87.38
 \end{aligned}
 $
 
@@ -2570,14 +2576,12 @@ $87.38$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-257 \times 34                   &= 8738 \\\\
-\dfrac {257 \times 34} {100}    &= \dfrac {8738} {100} \\\\
-\dfrac {257} {100} \times 34    &= \dfrac {8738} {100} \\\\
-2.57 \times 34                  &= 87.38
+&=2.57 \times 34 \\\\
+&= \dfrac {257} {100} \times 34 \\\\
+&= 87.38
 \end{aligned}
 $
 </code></pre>
@@ -2608,17 +2612,13 @@ $8738 \div 25.7$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-257 \times 34                    &= 8738 \\\\
-\dfrac {8738} {257}              &= 34 \\\\
-\dfrac {8738} {257} \times 10    &= 34 \times 10\\\\
-8738 \times \dfrac {10} {257}    &= 340 \\\\
-8738 \times \dfrac {1} {25.7}    &= 340 \\\\
-\dfrac {8738} {25.7}             &=340 \\\\
-3748 \div 25.7                   &=340 
+&= \dfrac {8738} {25.7} \\\\
+&= \dfrac {8738} {257} \times 10  \\\\
+&= 34 \times 10 \\\\
+&= 340
 \end{aligned}
 $
 
@@ -2634,17 +2634,13 @@ $340$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-257 \times 34                    &= 8738 \\\\
-\dfrac {8738} {257}              &= 34 \\\\
-\dfrac {8738} {257} \times 10    &= 34 \times 10\\\\
-8738 \times \dfrac {10} {257}    &= 340 \\\\
-8738 \times \dfrac {1} {25.7}    &= 340 \\\\
-\dfrac {8738} {25.7}             &=340 \\\\
-3748 \div 25.7                   &=340 
+&= \dfrac {8738} {25.7} \\\\
+&= \dfrac {8738} {257} \times 10  \\\\
+&= 34 \times 10 \\\\
+&= 340
 \end{aligned}
 $
 </code></pre>

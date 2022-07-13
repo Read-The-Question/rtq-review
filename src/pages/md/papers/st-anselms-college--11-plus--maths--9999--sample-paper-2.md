@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-2"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -641,7 +641,7 @@ Part B:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>DA73C8E9-6BBC-4FA7-B8E6-E5C1634B2EF7</p>
 </div>
@@ -649,13 +649,13 @@ Part B:
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -715,7 +715,7 @@ in mm
 
 $
 \begin{aligned}
-&= 7.8 \ \text{cm} \times 10 \\\\
+&= 7.8 \times 10 \ \text{mm} \\\\
 &= 78 \ \text{mm}
 \end{aligned}
 $
@@ -734,7 +734,7 @@ $78 \ \text{mm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 7.8 \ \text{cm} \times 10 \\\\
+&= 7.8 \times 10 \ \text{mm} \\\\
 &= 78 \ \text{mm}
 \end{aligned}
 $
@@ -768,7 +768,8 @@ in m
 
 $
 \begin{aligned}
-&= \dfrac{7.8 \ \text{cm} } {100}  \\\\
+&= 7.8 \times\dfrac{1}{100}\ \text{m}   \\\\
+&= \dfrac{7.8}{100}  \\\\
 &= 0.078 \ \text{m}
 \end{aligned}
 $
@@ -787,7 +788,8 @@ $0.078 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{7.8 \ \text{cm} } {100}  \\\\
+&= 7.8 \times\dfrac{1}{100}\ \text{m}   \\\\
+&= \dfrac{7.8}{100}  \\\\
 &= 0.078 \ \text{m}
 \end{aligned}
 $
@@ -1008,10 +1010,10 @@ add a step 4 : = 60 + 55
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1794,10 +1796,10 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1859,26 +1861,19 @@ $\boxed {57}$  Subtract 28  $\boxed {........}$  Add...... $\boxed {63}$
 <div class='workings'>
 <div class='working'>
 
-Let the first space $a$ and second space $b$,
+Let first space $= a$
 
-Let's find $a$ first
+Let second space $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-a &= 57 - 28  \\\\
-a  &=  29
-\end{aligned}
-$
-
-Let's find $b$
-
-$
-\begin{aligned}
-29 + b &=  63  \\\\
-b &=  63 - 29 \\\\
-b &= 34
+a          &= 57 - 28  \\\\
+a          &=  29 \\\\
+29 + b     &=  63  \\\\
+b          &=  63 - 29 \\\\
+b          &= 34
 \end{aligned}
 $
 
@@ -1894,26 +1889,19 @@ $29, 34$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and second space $b$,
+<pre class='language-latex'><code class='language-latex'>Let first space $= a$
 
-Let's find $a$ first
+Let second space $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-a &= 57 - 28  \\\\
-a  &=  29
-\end{aligned}
-$
-
-Let's find $b$
-
-$
-\begin{aligned}
-29 + b &=  63  \\\\
-b &=  63 - 29 \\\\
-b &= 34
+a          &= 57 - 28  \\\\
+a          &=  29 \\\\
+29 + b     &=  63  \\\\
+b          &=  63 - 29 \\\\
+b          &= 34
 \end{aligned}
 $
 </code></pre>
@@ -1945,26 +1933,19 @@ $\boxed {53}$ Add.......  $\boxed {..125....}$  Subtract 39  $\boxed {.........}
 <div class='workings'>
 <div class='working'>
 
-Let the first space $a$ and let the second space $b$
+Let first space $= a$ 
 
-Let's find $a$ first
+let second space $= b$
 
 As per the question, 
 
 $
 \begin{aligned}
-53 + a &=  125  \\\\
-a &=  125 - 53 \\\\
-a &= 72
-\end{aligned}
-$
-
-Let's find b
-
-$
-\begin{aligned}
-b = 125 - 39 \\\\
-b = 86
+53 + a      &=  125  \\\\
+a           &=  125 - 53 \\\\
+a           &= 72  \\\\
+b           &= 125 - 39 \\\\
+b           &= 86
 \end{aligned}
 $
 </div>
@@ -1979,26 +1960,19 @@ $72, 86$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and let the second space $b$
+<pre class='language-latex'><code class='language-latex'>Let first space $= a$ 
 
-Let's find $a$ first
+let second space $= b$
 
 As per the question, 
 
 $
 \begin{aligned}
-53 + a &=  125  \\\\
-a &=  125 - 53 \\\\
-a &= 72
-\end{aligned}
-$
-
-Let's find b
-
-$
-\begin{aligned}
-b = 125 - 39 \\\\
-b = 86
+53 + a      &=  125  \\\\
+a           &=  125 - 53 \\\\
+a           &= 72  \\\\
+b           &= 125 - 39 \\\\
+b           &= 86
 \end{aligned}
 $</code></pre>
 </div>
@@ -2023,6 +1997,10 @@ $</code></pre>
 
 <h4>Review Comments</h4>
 Refer to the corrections done in similar question in previous paper. 
+
+
+
+Not written per algebra standards
 </div>
 
 <div class='review'>
@@ -3899,10 +3877,10 @@ TODOANSWER
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4075,7 +4053,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FEC89A56-1AF8-4052-8EDD-95EC29CBFA28</p>
 </div>
@@ -4083,13 +4061,13 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4151,7 +4129,11 @@ Which of the numbers has an **odd** number of factors? (Hint: there is only one)
 
 The square numbers have an odd numbers of factors.
 
-$49 &= 7^2$
+$
+\begin{aligned}
+49 &= 7^2
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4167,7 +4149,11 @@ $49$
 
 <pre class='language-latex'><code class='language-latex'>The square numbers have an odd numbers of factors.
 
-$49 &= 7^2$
+$
+\begin{aligned}
+49 &= 7^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4196,7 +4182,11 @@ Give another example of a number with an odd number of factors.
 <div class='workings'>
 <div class='working'>
 
-$25$
+$
+\begin{aligned}
+15 &= 3\times 5
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4210,7 +4200,11 @@ $25$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$25$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+15 &= 3\times 5
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4370,10 +4364,10 @@ Refer to the corrections done in similar question in previous paper.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

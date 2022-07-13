@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-g0"
 title: "TopicPaper - Number - 7 - G0"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1482,6 +1482,10 @@ two numbers that have a difference of $20$,
 <div class='workings'>
 <div class='working'>
 
+$44, 24$
+
+Let's verify.
+
 $
 \begin {aligned}
 &= 44 - 24 \\\\
@@ -1489,7 +1493,7 @@ $
 \end {aligned}
 $
 
-Two numbers that have a difference of $20$ are $44$ and $24$. 
+
 
 </div>
 </div>
@@ -1503,14 +1507,18 @@ $24, 44$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$44, 24$
+
+Let's verify.
+
+$
 \begin {aligned}
 &= 44 - 24 \\\\
 &= 20
 \end {aligned}
 $
 
-Two numbers that have a difference of $20$ are $44$ and $24$. 
+
 </code></pre>
 </div>
 </div>
@@ -1623,7 +1631,7 @@ c: Write using Lets verify way
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>21D2BF8B-CBA9-43C7-99F2-36A0C829C26F</p>
 </div>
@@ -1637,7 +1645,7 @@ c: Write using Lets verify way
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1699,14 +1707,12 @@ $2.57 \times 34$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-257 \times 34                   &= 8738 \\\\
-\dfrac {257 \times 34} {100}    &= \dfrac {8738} {100} \\\\
-\dfrac {257} {100} \times 34    &= \dfrac {8738} {100} \\\\
-2.57 \times 34                  &= 87.38
+&=2.57 \times 34 \\\\
+&= \dfrac {257} {100} \times 34 \\\\
+&= 87.38
 \end{aligned}
 $
 
@@ -1722,14 +1728,12 @@ $87.38$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-257 \times 34                   &= 8738 \\\\
-\dfrac {257 \times 34} {100}    &= \dfrac {8738} {100} \\\\
-\dfrac {257} {100} \times 34    &= \dfrac {8738} {100} \\\\
-2.57 \times 34                  &= 87.38
+&=2.57 \times 34 \\\\
+&= \dfrac {257} {100} \times 34 \\\\
+&= 87.38
 \end{aligned}
 $
 </code></pre>
@@ -1760,17 +1764,13 @@ $8738 \div 25.7$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
 
 $
 \begin{aligned}
-257 \times 34                    &= 8738 \\\\
-\dfrac {8738} {257}              &= 34 \\\\
-\dfrac {8738} {257} \times 10    &= 34 \times 10\\\\
-8738 \times \dfrac {10} {257}    &= 340 \\\\
-8738 \times \dfrac {1} {25.7}    &= 340 \\\\
-\dfrac {8738} {25.7}             &=340 \\\\
-3748 \div 25.7                   &=340 
+&= \dfrac {8738} {25.7} \\\\
+&= \dfrac {8738} {257} \times 10  \\\\
+&= 34 \times 10 \\\\
+&= 340
 \end{aligned}
 $
 
@@ -1786,17 +1786,13 @@ $340$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-257 \times 34                    &= 8738 \\\\
-\dfrac {8738} {257}              &= 34 \\\\
-\dfrac {8738} {257} \times 10    &= 34 \times 10\\\\
-8738 \times \dfrac {10} {257}    &= 340 \\\\
-8738 \times \dfrac {1} {25.7}    &= 340 \\\\
-\dfrac {8738} {25.7}             &=340 \\\\
-3748 \div 25.7                   &=340 
+&= \dfrac {8738} {25.7} \\\\
+&= \dfrac {8738} {257} \times 10  \\\\
+&= 34 \times 10 \\\\
+&= 340
 \end{aligned}
 $
 </code></pre>
@@ -1912,13 +1908,12 @@ What number is halfway between $-3$ and $8$?
 
 $
 \begin{aligned}
-&= \dfrac {(-3) + 8} {2} \\\\
-&= \dfrac {5} {2}\\\\
+&= \dfrac {1} {2} \times (-3 + 8) \\\\
+&= \dfrac {1} {2} \times 5\\\\
+&= \dfrac {5} {2} \\\\
 &= 2.5
 \end{aligned}
 $
-
-The number which is halfway between -3 and 8 is 2.5.
 
 </div>
 </div>
@@ -1934,13 +1929,12 @@ $2.5$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {(-3) + 8} {2} \\\\
-&= \dfrac {5} {2}\\\\
+&= \dfrac {1} {2} \times (-3 + 8) \\\\
+&= \dfrac {1} {2} \times 5\\\\
+&= \dfrac {5} {2} \\\\
 &= 2.5
 \end{aligned}
 $
-
-The number which is halfway between -3 and 8 is 2.5.
 </code></pre>
 </div>
 </div>
@@ -2007,7 +2001,7 @@ Write this one like 58EBBE13-E081-4030-B52A-4CC0C78C709D
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5757E4AA-C7E9-4186-8F69-0AA3D64752CA</p>
 </div>
@@ -2021,7 +2015,7 @@ Write this one like 58EBBE13-E081-4030-B52A-4CC0C78C709D
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2049,7 +2043,7 @@ Let the number $= a$.
 
 $
 \begin{aligned}
-\dfrac {0.11 + a} {2}                &= 0.126 \\\\
+\dfrac {1}{2} \times (0.11 + a)     &= 0.126 \\\\
 0.11 + a                             &= 0.126 \times 2 \\\\
 0.11 + a                             &= 0.252 \\\\
 a                                    &= 0.252 - 0.11 \\\\
@@ -2057,7 +2051,7 @@ a                                    &= 0.142
 \end{aligned}
 $
 
-Therefore, other number $= 0.142$.
+Other number $= 0.142$
 
 </div>
 </div>
@@ -2075,7 +2069,7 @@ $0.142$
 
 $
 \begin{aligned}
-\dfrac {0.11 + a} {2}                &= 0.126 \\\\
+\dfrac {1}{2} \times (0.11 + a)     &= 0.126 \\\\
 0.11 + a                             &= 0.126 \times 2 \\\\
 0.11 + a                             &= 0.252 \\\\
 a                                    &= 0.252 - 0.11 \\\\
@@ -2083,7 +2077,7 @@ a                                    &= 0.142
 \end{aligned}
 $
 
-Therefore, other number $= 0.142$.
+Other number $= 0.142$
 </code></pre>
 </div>
 </div>
@@ -2158,7 +2152,7 @@ write 1/2 \times (0.11 + a) in S2
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A5529866-6896-4634-A0C7-7BA27DF46995</p>
 </div>
@@ -2172,7 +2166,7 @@ write 1/2 \times (0.11 + a) in S2
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2195,15 +2189,14 @@ What is halfway between $120$ and $300$?
 
 $
 \begin{aligned}
-&= \dfrac {300 + 120} {2} \\\\
-&= \dfrac {420} {2} \\\\
+&= \dfrac {1} {2} \times (120 + 300) \\\\
+&= \dfrac {1} {2} \times 420\\\\
 &= \dfrac {2 \times 210} {2} \\\\
 &= \dfrac {\cancel {2} \times 210} {\cancel {2}} \\\\
-&= 210 
+&= 210
 \end{aligned}
 $
 
-Halfway between the given numbers is 210.
 
 </div>
 </div>
@@ -2220,15 +2213,14 @@ $210$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= \dfrac {300 + 120} {2} \\\\
-&= \dfrac {420} {2} \\\\
+&= \dfrac {1} {2} \times (120 + 300) \\\\
+&= \dfrac {1} {2} \times 420\\\\
 &= \dfrac {2 \times 210} {2} \\\\
 &= \dfrac {\cancel {2} \times 210} {\cancel {2}} \\\\
-&= 210 
+&= 210
 \end{aligned}
 $
 
-Halfway between the given numbers is 210.
 </code></pre>
 </div>
 </div>
@@ -2295,7 +2287,7 @@ Write this one like 58EBBE13-E081-4030-B52A-4CC0C78C709D
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7F97A473-BC26-4166-978E-424582EA9335</p>
 </div>
@@ -2309,7 +2301,7 @@ Write this one like 58EBBE13-E081-4030-B52A-4CC0C78C709D
 <p>rag_am_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

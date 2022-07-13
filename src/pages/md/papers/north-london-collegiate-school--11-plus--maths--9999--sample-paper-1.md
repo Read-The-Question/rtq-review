@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1340,7 +1340,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8A284E0B-57E3-41DE-ABA6-67932AE4157D</p>
 </div>
@@ -1354,7 +1354,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1378,8 +1378,9 @@ Lets convert all fractions into decimals:
 $
 \begin{aligned}
 &= 0.25, \dfrac{2}{9}, 0.039, \dfrac{4}{5}, \dfrac{3}{8}\\\\
-&=0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
-&=\dfrac{4}{5}, \dfrac{3}{8}
+&= 0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
+&= 0.80, 0.375\\\\ 
+&= \dfrac{4}{5}, \dfrac{3}{8}
 \end{aligned}
 $
 
@@ -1410,8 +1411,9 @@ TODOANSWER
 $
 \begin{aligned}
 &= 0.25, \dfrac{2}{9}, 0.039, \dfrac{4}{5}, \dfrac{3}{8}\\\\
-&=0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
-&=\dfrac{4}{5}, \dfrac{3}{8}
+&= 0.25, 0.222, 0.039, 0.80, 0.375\\\\ 
+&= 0.80, 0.375\\\\ 
+&= \dfrac{4}{5}, \dfrac{3}{8}
 \end{aligned}
 $
 </code></pre>

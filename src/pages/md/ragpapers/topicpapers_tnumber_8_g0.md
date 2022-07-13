@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-g0"
 title: "TopicPaper - Number - 8 - G0"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2EE0ED7B-4DCA-4D8F-AB44-E34F84673128</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-12 14:58:45
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -112,7 +112,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4D1AE0C9-6A34-43FA-8225-0C9B3B37F156</p>
 </div>
@@ -126,7 +126,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -143,7 +143,10 @@ What is the **smallest number** that has four different prime factors?
 <div class='workings'>
 <div class='working'>
 
-$2 \times 3 \times 5 \times 7 = 210$
+
+$ =2 \times 3 \times 5 \times 7$
+
+$ =210$
 
 </div>
 </div>
@@ -157,7 +160,10 @@ $210$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$2 \times 3 \times 5 \times 7 = 210$
+<pre class='language-latex'><code class='language-latex'>
+$ =2 \times 3 \times 5 \times 7$
+
+$ =210$
 </code></pre>
 </div>
 </div>
@@ -215,7 +221,7 @@ $210$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2E75B7DC-1BB8-4EB4-8F7A-059D13BBC07E</p>
 </div>
@@ -229,7 +235,7 @@ $210$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -496,7 +502,7 @@ $3, \ 17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>814A48A6-788C-4EB8-9113-8A0722371A72</p>
 </div>
@@ -510,7 +516,7 @@ $3, \ 17$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -605,7 +611,7 @@ $6798$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FDD3F15E-48E0-4F86-B10C-AF2F1115F60F</p>
 </div>
@@ -619,7 +625,7 @@ $6798$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -713,7 +719,7 @@ $2.494$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>159DEF67-72A1-41FE-BBD4-431F17B1BE4E</p>
 </div>
@@ -727,7 +733,7 @@ $2.494$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -747,7 +753,8 @@ Write $3284 \ \text{mm}$ in metres.
 $
 \begin {aligned}
 &= 3284 \ \text {mm} \\\\
-&= \dfrac {3284} {1000} \ \text {m} \\\\
+&= {3284}\times\dfrac{1} {1000} \ \text {m} \\\\
+&=\dfrac{3284}{1000}\\\\
 &= 3.284 \ \text {m}
 \end {aligned}
 $
@@ -757,7 +764,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3.284$m
+$3.284$ m
 
 </div>
 </div>
@@ -767,7 +774,8 @@ $3.284$m
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 3284 \ \text {mm} \\\\
-&= \dfrac {3284} {1000} \ \text {m} \\\\
+&= {3284}\times\dfrac{1} {1000} \ \text {m} \\\\
+&=\dfrac{3284}{1000}\\\\
 &= 3.284 \ \text {m}
 \end {aligned}
 $
@@ -782,7 +790,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3.284$m
+<pre class='language-latex'><code class='language-latex'>$3.284$ m
 </code></pre>
 </div>
 </div>
@@ -828,7 +836,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FD93ED24-BEF8-4802-AAED-9BC436001678</p>
 </div>
@@ -842,7 +850,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

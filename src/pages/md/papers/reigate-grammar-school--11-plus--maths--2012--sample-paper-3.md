@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -6094,7 +6094,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9A3BC642-22C8-463E-97DC-2F6D596F96A9</p>
 </div>
@@ -6108,7 +6108,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6135,7 +6135,7 @@ What is the biggest number you can make with the four cards?...................
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$5731$
 
 </div>
 <div class='working'>
@@ -6147,7 +6147,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$5731$
 
 </div>
 <div class='answer'>
@@ -6159,7 +6159,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$5731$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -6176,7 +6176,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5731$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -6292,7 +6292,17 @@ $4000$   ![missing image](/papers/missing_image.svg)
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Number closest to 50
+
+$ = 51$
+
+Number closest to 60
+
+$ = 57$
+
+Number closest to 4000
+
+$ = 3751$
 
 </div>
 <div class='working'>
@@ -6316,7 +6326,17 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Number closest to 50
+
+$ = 51$
+
+Number closest to 60
+
+$ = 57$
+
+Number closest to 4000
+
+$ = 3751$
 </code></pre>
 </div>
 <div class='workingcodeblock'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-2"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -247,7 +247,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C03B2F52-178B-432A-9547-FE19416A6C67</p>
 </div>
@@ -261,7 +261,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -278,7 +278,7 @@ Write $\pounds 87$ to the nearest $\pounds 5$.
 <div class='workings'>
 <div class='working'>
 
-$\pounds 85$
+$\approx\pounds 85$
 
 </div>
 </div>
@@ -292,7 +292,7 @@ $\pounds 85$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\pounds 85$
+<pre class='language-latex'><code class='language-latex'>$\approx\pounds 85$
 </code></pre>
 </div>
 </div>
@@ -350,7 +350,7 @@ $\pounds 85$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>159DEF67-72A1-41FE-BBD4-431F17B1BE4E</p>
 </div>
@@ -364,7 +364,7 @@ $\pounds 85$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -384,7 +384,8 @@ Write $3284 \ \text{mm}$ in metres.
 $
 \begin {aligned}
 &= 3284 \ \text {mm} \\\\
-&= \dfrac {3284} {1000} \ \text {m} \\\\
+&= {3284}\times\dfrac{1} {1000} \ \text {m} \\\\
+&=\dfrac{3284}{1000}\\\\
 &= 3.284 \ \text {m}
 \end {aligned}
 $
@@ -394,7 +395,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3.284$m
+$3.284$ m
 
 </div>
 </div>
@@ -404,7 +405,8 @@ $3.284$m
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 3284 \ \text {mm} \\\\
-&= \dfrac {3284} {1000} \ \text {m} \\\\
+&= {3284}\times\dfrac{1} {1000} \ \text {m} \\\\
+&=\dfrac{3284}{1000}\\\\
 &= 3.284 \ \text {m}
 \end {aligned}
 $
@@ -419,7 +421,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3.284$m
+<pre class='language-latex'><code class='language-latex'>$3.284$ m
 </code></pre>
 </div>
 </div>
@@ -1245,7 +1247,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FD93ED24-BEF8-4802-AAED-9BC436001678</p>
 </div>
@@ -1259,7 +1261,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

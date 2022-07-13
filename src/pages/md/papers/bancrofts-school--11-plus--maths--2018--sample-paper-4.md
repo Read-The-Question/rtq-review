@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-12 14:53:28
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>9DDC6BED-46F5-4D58-8398-4817F0CC7992</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-12 14:53:28
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -409,6 +409,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Same comments as E9B137D1-8B98-49BF-9720-0A4D264C75B2, please refer to uuid given in that and change the answers accordingly.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -567,7 +576,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6111C775-4A87-420C-8E16-F677E36D388B</p>
 </div>
@@ -581,7 +590,7 @@ $
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -606,6 +615,9 @@ $
 \begin{aligned}
 &= (2018 - 20 + 18) \div 8 \\\\
 &= 2016 \div 8 \\\\
+&= \dfrac{2016}{8} \\\\
+&= \dfrac{252 \times 8}{8} \\\\
+&= \dfrac{252 \times \cancel{8}}{\cancel{8}} \\\\
 &= 252
 \end{aligned}
 $
@@ -629,6 +641,9 @@ $
 \begin{aligned}
 &= (2018 - 20 + 18) \div 8 \\\\
 &= 2016 \div 8 \\\\
+&= \dfrac{2016}{8} \\\\
+&= \dfrac{252 \times 8}{8} \\\\
+&= \dfrac{252 \times \cancel{8}}{\cancel{8}} \\\\
 &= 252
 \end{aligned}
 $
@@ -648,6 +663,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+show factor and cancellation after S2
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5442,7 +5466,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>5C40F174-3264-4060-8E9E-DE9D82B301EC</p>
 </div>
@@ -5456,7 +5480,7 @@ TODOANSWER
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5703,6 +5727,39 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove extra working and answers
+
+
+
+a: insert s2 = 16808 / 382, its missing
+
+
+
+c: change
+
+
+
+= 1680.8 / 44
+
+= write as fraction dfrac {1680.8} {44}
+
+= 16808 / 44 * 10
+
+= 382 * 44 / 44 * 10
+
+= cancel here
+
+= 382 /10
+
+= 38.2
+</div>
 
 <div class='review'>
 <ul class='review'>

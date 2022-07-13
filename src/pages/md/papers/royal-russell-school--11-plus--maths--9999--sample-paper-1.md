@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1670,7 +1670,7 @@ Angle $= 60 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A7C319CF-83DA-4579-B28A-5CF2D1F00791</p>
 </div>
@@ -1684,7 +1684,7 @@ Angle $= 60 \degree$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1800,10 +1800,11 @@ Convert $430\ \text{millimetres}$ into $\text{centimetres}$
 $
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm} \\\\
-&= \dfrac {430} {10} \ \text{cm} \\\\
-&= \dfrac {43 \cancel{0}} {1 \cancel{0}} \ \text{cm} \\\\
-&= 43 \ \text{cm}
+&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
+&= \dfrac {430} {10}  \\\\
+&= \dfrac {43 \times 10} {10}  \\\\
+&= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
+&=43 \ \text{cm}
 \end{aligned}
 $
 
@@ -1822,10 +1823,11 @@ $43 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm} \\\\
-&= \dfrac {430} {10} \ \text{cm} \\\\
-&= \dfrac {43 \cancel{0}} {1 \cancel{0}} \ \text{cm} \\\\
-&= 43 \ \text{cm}
+&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
+&= \dfrac {430} {10}  \\\\
+&= \dfrac {43 \times 10} {10}  \\\\
+&= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
+&=43 \ \text{cm}
 \end{aligned}
 $
 </code></pre>
@@ -1943,7 +1945,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A1E2D4F7-C55E-4B7B-BB4D-6A44B261FFFA</p>
 </div>
@@ -1957,7 +1959,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2396,7 +2398,16 @@ Find $1\%$ of $200\ \text{kg}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= 1\%\ \text{of}\ 200\ \text{kg}\\\\
+&= \dfrac{1}{100}\times 200 \\\\
+&= \dfrac{200}{100}\\\\
+&= \dfrac{2\times 100}{100}\\\\
+&= \dfrac{2\times\cancel{100}}{\cancel{100}}\\\\
+&= 2\ \text{kg}
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -2420,7 +2431,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 1\%\ \text{of}\ 200\ \text{kg}\\\\
+&= \dfrac{1}{100}\times 200 \\\\
+&= \dfrac{200}{100}\\\\
+&= \dfrac{2\times 100}{100}\\\\
+&= \dfrac{2\times\cancel{100}}{\cancel{100}}\\\\
+&= 2\ \text{kg}
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2465,12 +2485,12 @@ Work out $\dfrac{1}{2}+\dfrac{1}{4}$
 <div class='working'>
 
 $
-\begin{\aligned}
+\begin{aligned}
 &=\dfrac{1}{2}+\dfrac{1}{4}\\\\
-&=\dfrac{1\times2}{2\times 2}+\dfrac{1}{4}\\\\
+&=\dfrac{1\times2}{2\times2}+\dfrac{1}{4}\\\\
 &=\dfrac{2}{4}+\dfrac{1}{4}\\\\
 &=\dfrac{2+1}{4}\\\\
-&=\dfrac{3}{4}\\
+&=\dfrac{3}{4}
 \end{aligned}
 $
 
@@ -2497,12 +2517,12 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{\aligned}
+\begin{aligned}
 &=\dfrac{1}{2}+\dfrac{1}{4}\\\\
-&=\dfrac{1\times2}{2\times 2}+\dfrac{1}{4}\\\\
+&=\dfrac{1\times2}{2\times2}+\dfrac{1}{4}\\\\
 &=\dfrac{2}{4}+\dfrac{1}{4}\\\\
 &=\dfrac{2+1}{4}\\\\
-&=\dfrac{3}{4}\\
+&=\dfrac{3}{4}
 \end{aligned}
 $
 </code></pre>
@@ -3314,7 +3334,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>91FE409B-1661-46BC-A704-FA8A43CF6F5C</p>
 </div>
@@ -3328,7 +3348,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3386,21 +3406,21 @@ Write down the factors of $25$
 <div class='workings'>
 <div class='working'>
 
-Factors of $25 = 1, \ 5 \ \text{and} \ 25$
+$1, 5, 25$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1, \ 5 \ \text{and} \ 25$
+$1, 5,  25$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Factors of $25 = 1, \ 5 \ \text{and} \ 25$
+<pre class='language-latex'><code class='language-latex'>$1, 5, 25$
 </code></pre>
 </div>
 </div>
@@ -3412,7 +3432,7 @@ $1, \ 5 \ \text{and} \ 25$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1, \ 5 \ \text{and} \ 25$
+<pre class='language-latex'><code class='language-latex'>$1, 5,  25$
 </code></pre>
 </div>
 </div>
@@ -3429,21 +3449,21 @@ Write down the factors of $30$
 <div class='workings'>
 <div class='working'>
 
-Factors of $30 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
+$ 1,  2,  3,  5,  6,  10,  15,  30$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
+$ 1,  2,  3,  5,  6,  10,  15,  30$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Factors of $30 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
+<pre class='language-latex'><code class='language-latex'>$ 1,  2,  3,  5,  6,  10,  15,  30$
 </code></pre>
 </div>
 </div>
@@ -3455,7 +3475,7 @@ $1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
+<pre class='language-latex'><code class='language-latex'>$ 1,  2,  3,  5,  6,  10,  15,  30$
 </code></pre>
 </div>
 </div>
@@ -3472,7 +3492,19 @@ Write down the highest common factor of $25$ and $30$
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $25$ and $30 = 5$
+the prime factorization of 25
+
+$ = 1\times 5\times 5$
+
+the prime factorization of 20
+
+$ = 1\times 2\times 3\times 5$
+
+To find the HCF, multiply all the prime factors common to both numbers:
+
+$ = 1\times5$
+
+$ = 5$
 
 </div>
 </div>
@@ -3486,7 +3518,19 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Highest common factor of $25$ and $30 = 5$
+<pre class='language-latex'><code class='language-latex'>the prime factorization of 25
+
+$ = 1\times 5\times 5$
+
+the prime factorization of 20
+
+$ = 1\times 2\times 3\times 5$
+
+To find the HCF, multiply all the prime factors common to both numbers:
+
+$ = 1\times5$
+
+$ = 5$
 </code></pre>
 </div>
 </div>
@@ -3515,21 +3559,21 @@ Write down the prime factors of $30$
 <div class='workings'>
 <div class='working'>
 
-Prime factors of $30 = 2, \ 3, \ \text{and} \ 5$
+ $ 1, 2, 3, 5, 6, 10, 15, 30 $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2, \ 3, \ \text{and} \ 5$
+$ 1, 2, 3, 5, 6, 10, 15, 30 $
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Prime factors of $30 = 2, \ 3, \ \text{and} \ 5$
+<pre class='language-latex'><code class='language-latex'> $ 1, 2, 3, 5, 6, 10, 15, 30 $
 </code></pre>
 </div>
 </div>
@@ -3541,7 +3585,7 @@ $2, \ 3, \ \text{and} \ 5$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2, \ 3, \ \text{and} \ 5$
+<pre class='language-latex'><code class='language-latex'>$ 1, 2, 3, 5, 6, 10, 15, 30 $
 </code></pre>
 </div>
 </div>

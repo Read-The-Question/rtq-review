@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1051,7 +1051,7 @@ $42008$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BC964098-4A38-4BC7-A581-3B7D11BE274D</p>
 </div>
@@ -1059,13 +1059,13 @@ $42008$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1189,7 +1189,11 @@ ABBR: It is really important to use the right units in calculations and convert 
 $
 \begin{aligned}
 &= 510 \ \text{cm} \\\\
-&= \dfrac{510}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100}  \\\\
+&= 51\times10\times\dfrac{1}{10\times 10}  \\\\
+&= 51\times\cancel{10}\times\dfrac{1}{\cancel{10}\times 10}  \\\\
+&= \dfrac{51}{10}  \\\\
 &= 5.1 \ \text{m}                
 \end{aligned}
 $
@@ -1211,7 +1215,11 @@ $5.1 \ \text{m}$
 $
 \begin{aligned}
 &= 510 \ \text{cm} \\\\
-&= \dfrac{510}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100}  \\\\
+&= 51\times10\times\dfrac{1}{10\times 10}  \\\\
+&= 51\times\cancel{10}\times\dfrac{1}{\cancel{10}\times 10}  \\\\
+&= \dfrac{51}{10}  \\\\
 &= 5.1 \ \text{m}                
 \end{aligned}
 $
@@ -2505,10 +2513,10 @@ and solve furhter
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2815,10 +2823,10 @@ String (Remains) &= Sting (Total) - String (Cut) (solve accordingly)
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3991,10 +3999,10 @@ $
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

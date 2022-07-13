@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1546,7 +1546,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BEF543A2-9B44-4068-B632-CB6BEBDF1328</p>
 </div>
@@ -1557,7 +1557,7 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1581,36 +1581,43 @@ From what height was it originally dropped?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the height it was originally dropped from (in cm) $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin {aligned}
+\dfrac {a} {3^2}            &= 9 \\\\
+a                           &= 9 \times 3^2 \\\\
+a                           &= 9 \times 9 \\\\
+a                           &= 81 \ \text{cm}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$81 \ \text{cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let the height it was originally dropped from (in cm) $= a$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {a} {3^2}            &= 9 \\\\
+a                           &= 9 \times 3^2 \\\\
+a                           &= 9 \times 9 \\\\
+a                           &= 81 \ \text{cm}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1622,22 +1629,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$81 \ \text{cm}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='BEF543A2-9B44-4068-B632-CB6BEBDF1328' id='FORM-BEF543A2-9B44-4068-B632-CB6BEBDF1328' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BEF543A2-9B44-4068-B632-CB6BEBDF1328'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2236,7 +2270,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C79D8DA3-388C-41C9-AB78-2E9C21A3E585</p>
 </div>
@@ -2247,7 +2281,7 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2275,38 +2309,17 @@ How long is the comb in centimetres?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-Width of a tooth $= 1 \ \text {mm}$
-
-Total width of teeth $= 100 \times 1 \ \text {mm}$
-
-Total width of gaps $= 99 \times 1 \ \text {mm}$
-
-The total length of comb $= \text{length of} (\text {teeth} \ + \ \text {gaps})$
 
 $
 \begin{aligned}
-&= 100 \ \text {mm} + 99 \ \text {mm} \\\\
-&= 199 \ \text {mm}
+&= 100 \times 1 + 99 \times 1 \\\\
+&= 100  + 99  \\\\
+&= 199 \ \text {mm} \\\\
+&= \dfrac {199} {100} \ \text {cm} \\\\
+&= 1.99 \text {cm}
 \end{aligned}
 $
 
-$1$ mm $= \dfrac {1} {10} \ \text {cm}$
-
-then,
-
-$199$ mm $= 199 \times \dfrac {1} {10} \ \text {cm}$
-
-$
-\begin{aligned}
-&= 199 \times \dfrac {1} {10} \\\\
-&= \dfrac {199} {10} \\\\
-&= 19.9 \text {cm}
-\end{aligned}
-$
-
-the length of the comb $= 1.99 \text {cm}$
 
 </div>
 </div>
@@ -2320,38 +2333,17 @@ $19.9 \text {cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-Width of a tooth $= 1 \ \text {mm}$
-
-Total width of teeth $= 100 \times 1 \ \text {mm}$
-
-Total width of gaps $= 99 \times 1 \ \text {mm}$
-
-The total length of comb $= \text{length of} (\text {teeth} \ + \ \text {gaps})$
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= 100 \ \text {mm} + 99 \ \text {mm} \\\\
-&= 199 \ \text {mm}
+&= 100 \times 1 + 99 \times 1 \\\\
+&= 100  + 99  \\\\
+&= 199 \ \text {mm} \\\\
+&= \dfrac {199} {100} \ \text {cm} \\\\
+&= 1.99 \text {cm}
 \end{aligned}
 $
 
-$1$ mm $= \dfrac {1} {10} \ \text {cm}$
-
-then,
-
-$199$ mm $= 199 \times \dfrac {1} {10} \ \text {cm}$
-
-$
-\begin{aligned}
-&= 199 \times \dfrac {1} {10} \\\\
-&= \dfrac {199} {10} \\\\
-&= 19.9 \text {cm}
-\end{aligned}
-$
-
-the length of the comb $= 1.99 \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -2369,6 +2361,43 @@ the length of the comb $= 1.99 \text {cm}$
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='C79D8DA3-388C-41C9-AB78-2E9C21A3E585' id='FORM-C79D8DA3-388C-41C9-AB78-2E9C21A3E585' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C79D8DA3-388C-41C9-AB78-2E9C21A3E585'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4001,7 +4030,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6BD41E15-FCA4-4F84-8210-B217266B93E5</p>
 </div>
@@ -4012,7 +4041,7 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4027,7 +4056,7 @@ talgebra
 <div class='question question'>
 
 Jack likes to eat lots of fruit. 
-He finds that four apples and two oranges cost $\pounds 1.54 and that two oranges and four bananas 
+He finds that four apples and two oranges cost $\pounds 1.54$ and that two oranges and four bananas 
 cost $\pounds 1.70$. 
 
 How much would he have to pay if he bought one apple, one orange and one banana? 
@@ -4036,36 +4065,81 @@ How much would he have to pay if he bought one apple, one orange and one banana?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let cost of one apple (in pounds) $= a$
 
-</div>
-<div class='working'>
+Let cost of one orange (in pounds) $= b$
 
-TODOWORKING
+Let cost of one banana (in pounds) $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+4a + 2b       &= 1.54 \\\\
+2b + 4c       &= 1.70
+\end{aligned}
+$
+
+Let’s add all the equations.
+
+$
+\begin{aligned}
+4a + 2b + 2b + 4c &= 1.54 + 1.70 \\\\
+4a + 4b + 4c &= 3.24 \\\\
+4 \times (a + b + c) &= 3.24 \\\\
+a + b + c &= \dfrac {3.24} {4} \\\\
+a + b + c &= \dfrac {4 \times 0.81} {4} \\\\
+a + b + c &= \dfrac {\cancel 4 \times 0.81} {\cancel 4} \\\\
+a + b + c &= 0.81 
+\end{aligned}
+$
+
+The cost of one apple, one orange and one banana $= \pounds 0.81$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$= \pounds 0.81$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let cost of one apple (in pounds) $= a$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Let cost of one orange (in pounds) $= b$
+
+Let cost of one banana (in pounds) $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+4a + 2b       &= 1.54 \\\\
+2b + 4c       &= 1.70
+\end{aligned}
+$
+
+Let’s add all the equations.
+
+$
+\begin{aligned}
+4a + 2b + 2b + 4c &= 1.54 + 1.70 \\\\
+4a + 4b + 4c &= 3.24 \\\\
+4 \times (a + b + c) &= 3.24 \\\\
+a + b + c &= \dfrac {3.24} {4} \\\\
+a + b + c &= \dfrac {4 \times 0.81} {4} \\\\
+a + b + c &= \dfrac {\cancel 4 \times 0.81} {\cancel 4} \\\\
+a + b + c &= 0.81 
+\end{aligned}
+$
+
+The cost of one apple, one orange and one banana $= \pounds 0.81$
+
 </code></pre>
 </div>
 </div>
@@ -4077,22 +4151,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$= \pounds 0.81$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='6BD41E15-FCA4-4F84-8210-B217266B93E5' id='FORM-6BD41E15-FCA4-4F84-8210-B217266B93E5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6BD41E15-FCA4-4F84-8210-B217266B93E5'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

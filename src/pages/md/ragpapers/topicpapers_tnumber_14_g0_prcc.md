@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-14-g0-prcr"
-title: "TopicPaper - Number - 14 - G0 - PRCR"
-date: 2022-07-12 14:58:45
+slug: "ragpapers/topicpapers-tnumber-14-g0-prcc"
+title: "TopicPaper - Number - 14 - G0 - PRCC"
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D9B9E901-ED49-4035-81FE-273FD45511EB</p>
 </div>
@@ -13,13 +13,13 @@ date: 2022-07-12 14:58:45
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -80,8 +80,9 @@ $\text{centimetres}$ are there in $70\ \text{mm}$?
 $
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  \dfrac {70} {10} \text {cm} \\\\
-&=  \dfrac {7 \cancel{0}} {1 \cancel{0}} \text {cm} \\\\
+&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
+&=  7\times10\times\dfrac{1}{10} \\\\
+&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
 &=  7 \ \text {cm}
 \end{aligned}
 $
@@ -101,8 +102,9 @@ $7cm$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  \dfrac {70} {10} \text {cm} \\\\
-&=  \dfrac {7 \cancel{0}} {1 \cancel{0}} \text {cm} \\\\
+&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
+&=  7\times10\times\dfrac{1}{10} \\\\
+&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
 &=  7 \ \text {cm}
 \end{aligned}
 $
@@ -183,7 +185,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-\text{millilitres}$ are there in $3\ \text{litres}$?
+$\text{millilitres}$ are there in $3\ \text{litres}$?
 
 </div>
 <div class='workings'>
@@ -276,7 +278,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BC964098-4A38-4BC7-A581-3B7D11BE274D</p>
 </div>
@@ -284,13 +286,13 @@ $
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -414,7 +416,11 @@ ABBR: It is really important to use the right units in calculations and convert 
 $
 \begin{aligned}
 &= 510 \ \text{cm} \\\\
-&= \dfrac{510}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100}  \\\\
+&= 51\times10\times\dfrac{1}{10\times 10}  \\\\
+&= 51\times\cancel{10}\times\dfrac{1}{\cancel{10}\times 10}  \\\\
+&= \dfrac{51}{10}  \\\\
 &= 5.1 \ \text{m}                
 \end{aligned}
 $
@@ -436,7 +442,11 @@ $5.1 \ \text{m}$
 $
 \begin{aligned}
 &= 510 \ \text{cm} \\\\
-&= \dfrac{510}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100} \ \text{m} \\\\
+&= 510\times\dfrac{1}{100}  \\\\
+&= 51\times10\times\dfrac{1}{10\times 10}  \\\\
+&= 51\times\cancel{10}\times\dfrac{1}{\cancel{10}\times 10}  \\\\
+&= \dfrac{51}{10}  \\\\
 &= 5.1 \ \text{m}                
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -206,6 +206,7 @@ $
 &= \dfrac {13 \times 2} {5 \times 2} + \dfrac {3 \times 5} {2 \times 5} \\\\
 &= \dfrac {26} {10} + \dfrac {15} {10} \\\\
 &= \dfrac {26 + 15} {10} \\\\
+&= \dfrac {41} {10} \\\\
 &= 4 \ \dfrac {1} {10} 
 \end{aligned}
 $
@@ -229,6 +230,7 @@ $4 \ \dfrac {1} {10}$
 &= \dfrac {13 \times 2} {5 \times 2} + \dfrac {3 \times 5} {2 \times 5} \\\\
 &= \dfrac {26} {10} + \dfrac {15} {10} \\\\
 &= \dfrac {26 + 15} {10} \\\\
+&= \dfrac {41} {10} \\\\
 &= 4 \ \dfrac {1} {10} 
 \end{aligned}
 $
@@ -4335,7 +4337,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E9A0FA5F-BD86-427B-91F1-7D0A086BB6AE</p>
 </div>
@@ -4349,7 +4351,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5543,7 +5545,7 @@ Hence $n = 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>374A4BD9-3FE6-44D2-8C7B-F6B423ED0C7B</p>
 </div>
@@ -5557,7 +5559,7 @@ Hence $n = 8$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

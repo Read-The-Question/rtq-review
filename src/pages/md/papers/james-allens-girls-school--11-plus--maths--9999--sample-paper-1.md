@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-9999-sample-paper-1"
 title: "James Allens Girls School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2824,7 +2824,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F90E104C-83A3-4E73-9186-B474F19BDC15</p>
 </div>
@@ -2835,7 +2835,7 @@ TODOANSWER
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2856,21 +2856,32 @@ How much does each girl and each boy receive?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let each boy gets (in pence) $= a$
 
-</div>
-<div class='working'>
+Each girl gets (in pence) $= 2a$
 
-TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+7 \times 2a + 4a      &= 90 \\\\
+14a + 4a &= 90 \\\\
+18a &= 90 \\\\
+a &= \dfrac {90} {18} \\\\
+a &= \dfrac {18 \times 5} {18} \\\\
+a &= \dfrac {\cancel {18} \times 5} {\cancel {18}} \\\\
+a &= 5
+\end{aligned}
+$
+
+Each boy gets $= 5 \ \text{pence}$
+
+Each girl gets $= 2 \times 5 = 10 \ \text{pence}$
+
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -2880,12 +2891,28 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let each boy gets (in pence) $= a$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Each girl gets (in pence) $= 2a$
+
+As per the question,
+
+$
+\begin{aligned}
+7 \times 2a + 4a      &= 90 \\\\
+14a + 4a &= 90 \\\\
+18a &= 90 \\\\
+a &= \dfrac {90} {18} \\\\
+a &= \dfrac {18 \times 5} {18} \\\\
+a &= \dfrac {\cancel {18} \times 5} {\cancel {18}} \\\\
+a &= 5
+\end{aligned}
+$
+
+Each boy gets $= 5 \ \text{pence}$
+
+Each girl gets $= 2 \times 5 = 10 \ \text{pence}$
+
 </code></pre>
 </div>
 </div>
@@ -2900,19 +2927,46 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F90E104C-83A3-4E73-9186-B474F19BDC15' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F90E104C-83A3-4E73-9186-B474F19BDC15' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F90E104C-83A3-4E73-9186-B474F19BDC15' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F90E104C-83A3-4E73-9186-B474F19BDC15' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F90E104C-83A3-4E73-9186-B474F19BDC15' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F90E104C-83A3-4E73-9186-B474F19BDC15' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F90E104C-83A3-4E73-9186-B474F19BDC15' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F90E104C-83A3-4E73-9186-B474F19BDC15' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='F90E104C-83A3-4E73-9186-B474F19BDC15' id='FORM-F90E104C-83A3-4E73-9186-B474F19BDC15' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F90E104C-83A3-4E73-9186-B474F19BDC15'>Initial</p>
+</div>
 </div>
 </li>
 <li>

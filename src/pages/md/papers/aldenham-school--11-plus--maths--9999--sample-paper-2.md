@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -136,25 +136,31 @@ Write the population of Clowne correct to the nearest $100$.
 <div class='workings'>
 <div class='working'>
 
-Population of Clowne $= 6152$
-
-After rounding up to the nearest $100 = 6100$
+$
+\begin{aligned}
+\text{Population of Clowne} &= 6152 \\\\
+                            &\approx 6200
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6100$
+$6200$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Population of Clowne $= 6152$
-
-After rounding up to the nearest $100 = 6100$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Population of Clowne} &= 6152 \\\\
+                            &\approx 6200
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -166,7 +172,7 @@ After rounding up to the nearest $100 = 6100$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6100$
+<pre class='language-latex'><code class='language-latex'>$6200$
 </code></pre>
 </div>
 </div>
@@ -183,9 +189,12 @@ Write the population of Eckington to the nearest $1000$.
 <div class='workings'>
 <div class='working'>
 
-Population of Eckington $= 22315$
-
-After rounding down to the nearest $1000 = 22000$
+$
+\begin{aligned}
+\text {Population of Eckington} &= 22315 \\\\
+                               &\approx 22000
+\end{aligned}
+$
 
 </div>
 </div>
@@ -199,9 +208,12 @@ $22000$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Population of Eckington $= 22315$
-
-After rounding down to the nearest $1000 = 22000$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Population of Eckington} &= 22315 \\\\
+                               &\approx 22000
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -230,7 +242,6 @@ How many more people live in Eckington than Bamford?
 <div class='workings'>
 <div class='working'>
 
-As per the table,
 
 $
 \begin{aligned}
@@ -251,8 +262,7 @@ $7995$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the table,
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
 \text{Difference}    &=  22315 - 14320 \\\\
@@ -312,6 +322,10 @@ c: write using \approx
 
 
 d: Remove as per the table,
+
+
+
+Comments not taken care of, please check again.
 </div>
 
 <div class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1119,7 +1119,13 @@ Look at the numbers in the star.
 Which two numbers are multiples of $6$?
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$12, 30$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -1127,7 +1133,13 @@ $12, 30$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$12, 30$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -1150,7 +1162,13 @@ $12, 30$
 Which two numbers are prime?
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$17, 29$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -1158,7 +1176,13 @@ $17, 29$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$17, 29$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -1181,7 +1205,13 @@ $17, 29$
 Which two numbers are factors of $70$?
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$10, 14$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -1189,7 +1219,13 @@ $10, 14$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$10, 14$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -1212,7 +1248,13 @@ $10, 14$
 Which two numbers are square numbers?
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$9, 49$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -1220,7 +1262,13 @@ $9, 49$
 
 </div>
 </div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
 
+<pre class='language-latex'><code class='language-latex'>$9, 49$
+</code></pre>
+</div>
+</div>
 <div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -4120,7 +4168,7 @@ $
 \begin {aligned}
 &= 370 \ \text {cm} \\\\
 &= \dfrac {370} {100} \ \text {m} \\\\
-&= 3.7 
+&= 3.7 \ \text {m}
 \end {aligned}
 $
 
@@ -4129,7 +4177,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3.7$
+$3.7 \ \text {m}$
 
 </div>
 </div>
@@ -4140,7 +4188,7 @@ $3.7$
 \begin {aligned}
 &= 370 \ \text {cm} \\\\
 &= \dfrac {370} {100} \ \text {m} \\\\
-&= 3.7 
+&= 3.7 \ \text {m}
 \end {aligned}
 $
 </code></pre>
@@ -4154,7 +4202,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3.7$
+<pre class='language-latex'><code class='language-latex'>$3.7 \ \text {m}$
 </code></pre>
 </div>
 </div>
@@ -4184,7 +4232,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3700$
+$3700 \ \text {mm}$
 
 </div>
 </div>
@@ -4209,7 +4257,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3700$
+<pre class='language-latex'><code class='language-latex'>$3700 \ \text {mm}$
 </code></pre>
 </div>
 </div>

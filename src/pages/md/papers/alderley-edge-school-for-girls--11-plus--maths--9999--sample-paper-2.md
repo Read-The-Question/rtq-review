@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2080,9 +2080,12 @@ $82 - 27 =5 \times {?}$
 
 Let the missing value $= a$,
 
+As per the question,
+
 $
 \begin{aligned}
 82 - 27  &= 5 \times a \\\\
+5 \times a       &= 82 - 27 \\\\
 5 \times a       &= 55 \\\\
 a        &= \dfrac {55} {5} \\\\
 a        &= \dfrac {5 \times 11} {5} \\\\
@@ -2105,9 +2108,12 @@ $11$
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$,
 
+As per the question,
+
 $
 \begin{aligned}
 82 - 27  &= 5 \times a \\\\
+5 \times a       &= 82 - 27 \\\\
 5 \times a       &= 55 \\\\
 a        &= \dfrac {55} {5} \\\\
 a        &= \dfrac {5 \times 11} {5} \\\\
@@ -2185,7 +2191,7 @@ Add \"As per the question,\" before begin aligned
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8961258B-C4E5-4FED-89CA-D366F6304F54</p>
 </div>
@@ -2196,7 +2202,7 @@ Add \"As per the question,\" before begin aligned
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2216,36 +2222,53 @@ Small egg boxes can hold six eggs. How many egg boxes are needed to hold $50$ eg
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the number of egg boxes needed $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+a \times 6                          &= 50 \\\\
+a                                   &= \dfrac {50} {6} \\\\
+a                                   &= \dfrac {25 \times 2} {3 \times 2} \\\\
+a                                   &= \dfrac {25 \times \cancel 2} {3 \times \cancel 2} \\\\
+a                                   &= \dfrac {25} {3} \\\\
+a                                   &= 8 \dfrac {1} {3} \\\\
+a                                   &= 9
+\end{aligned}
+$
+
+Number of egg boxes needed $= 9$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$9$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let the number of egg boxes needed $= a$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+a \times 6                          &= 50 \\\\
+a                                   &= \dfrac {50} {6} \\\\
+a                                   &= \dfrac {25 \times 2} {3 \times 2} \\\\
+a                                   &= \dfrac {25 \times \cancel 2} {3 \times \cancel 2} \\\\
+a                                   &= \dfrac {25} {3} \\\\
+a                                   &= 8 \dfrac {1} {3} \\\\
+a                                   &= 9
+\end{aligned}
+$
+
+Number of egg boxes needed $= 9$.
 </code></pre>
 </div>
 </div>
@@ -2257,22 +2280,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$9$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' id='FORM-8961258B-C4E5-4FED-89CA-D366F6304F54' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8961258B-C4E5-4FED-89CA-D366F6304F54'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5340,7 +5390,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B1B9C7A4-30E0-4823-87AE-54149E9DBA84</p>
 </div>
@@ -5351,7 +5401,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5380,36 +5430,71 @@ The first on is done for you.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+\text{Cost of 5 rulers and 5 pens}              &= \text{Cost of 5 rulers} + \text{Cost of 5 pens} \\\\
+                                                &= 5k + 5m \ \text{pence} \\\\
+                                                &= 5 (k + m) \ \text{pence}
+\end{aligned}
+$
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Difference}                               &= \text{Cost of 5 pens} - \text{Cost of 5 rulers} \\\\
+                                                &= 5m - 5k \ \text{pence}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{The change}                               &= \pounds 5 - \text{Cost of 5 pens} \\\\
+                                                &= 5 \times 100 \ \text{pence} - 5m \ \text{pence} \\\\
+                                                &= 500 - 5m \ \text{pence}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Total cost of $5$ rulers and $5$ pens $= 5 (k + m) \ \text{pence}$.
 
-</div>
-<div class='answer'>
+The cost of $5$ pens is $5m - 5k \ \text{pence}$ more than the cost of $5$ rulers.
 
-TODOANSWER
+The change from $\pounds 5$, when you buy $5$ pens $= 500 - 5m \ \text{pence}$.
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\text{Cost of 5 rulers and 5 pens}              &= \text{Cost of 5 rulers} + \text{Cost of 5 pens} \\\\
+                                                &= 5k + 5m \ \text{pence} \\\\
+                                                &= 5 (k + m) \ \text{pence}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Difference}                               &= \text{Cost of 5 pens} - \text{Cost of 5 rulers} \\\\
+                                                &= 5m - 5k \ \text{pence}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{The change}                               &= \pounds 5 - \text{Cost of 5 pens} \\\\
+                                                &= 5 \times 100 \ \text{pence} - 5m \ \text{pence} \\\\
+                                                &= 500 - 5m \ \text{pence}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5421,22 +5506,53 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Total cost of $5$ rulers and $5$ pens $= 5 (k + m) \ \text{pence}$.
+
+The cost of $5$ pens is $5m - 5k \ \text{pence}$ more than the cost of $5$ rulers.
+
+The change from $\pounds 5$, when you buy $5$ pens $= 500 - 5m \ \text{pence}$.
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B1B9C7A4-30E0-4823-87AE-54149E9DBA84' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B1B9C7A4-30E0-4823-87AE-54149E9DBA84' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B1B9C7A4-30E0-4823-87AE-54149E9DBA84' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B1B9C7A4-30E0-4823-87AE-54149E9DBA84' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B1B9C7A4-30E0-4823-87AE-54149E9DBA84' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B1B9C7A4-30E0-4823-87AE-54149E9DBA84' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B1B9C7A4-30E0-4823-87AE-54149E9DBA84' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B1B9C7A4-30E0-4823-87AE-54149E9DBA84' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B1B9C7A4-30E0-4823-87AE-54149E9DBA84' id='FORM-B1B9C7A4-30E0-4823-87AE-54149E9DBA84' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B1B9C7A4-30E0-4823-87AE-54149E9DBA84'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6173,7 +6289,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B69E6255-458B-48F4-BE35-F45C3F505D00</p>
 </div>
@@ -6184,7 +6300,7 @@ $
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6213,36 +6329,47 @@ Work out the height of the pile of **five** boxes.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+\text{Height of the pile of 5 boxes}            &= 5 \times \dfrac {72} {4} \ \text{cm} \\\\
+                                                &= \dfrac {5 \times 72} {4} \\\\
+                                                &= \dfrac {5 \times 18 \times 4} {4} \\\\
+                                                &= \dfrac {5 \times 18 \times \cancel 4} {\cancel 4} \\\\
+                                                &= 5 \times 18 \\\\
+                                                &= 90 \ \text{cm}
+\end{aligned}
+$
 
-TODOWORKING
+The height of the pile of $5$ boxes $= 90 \ \text{cm}$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$90 \ \text{cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\text{Height of the pile of 5 boxes}            &= 5 \times \dfrac {72} {4} \ \text{cm} \\\\
+                                                &= \dfrac {5 \times 72} {4} \\\\
+                                                &= \dfrac {5 \times 18 \times 4} {4} \\\\
+                                                &= \dfrac {5 \times 18 \times \cancel 4} {\cancel 4} \\\\
+                                                &= 5 \times 18 \\\\
+                                                &= 90 \ \text{cm}
+\end{aligned}
+$
+
+The height of the pile of $5$ boxes $= 90 \ \text{cm}$.
 </code></pre>
 </div>
 </div>
@@ -6254,22 +6381,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$90 \ \text{cm}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B69E6255-458B-48F4-BE35-F45C3F505D00' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B69E6255-458B-48F4-BE35-F45C3F505D00' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B69E6255-458B-48F4-BE35-F45C3F505D00' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B69E6255-458B-48F4-BE35-F45C3F505D00' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B69E6255-458B-48F4-BE35-F45C3F505D00' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B69E6255-458B-48F4-BE35-F45C3F505D00' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B69E6255-458B-48F4-BE35-F45C3F505D00' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B69E6255-458B-48F4-BE35-F45C3F505D00' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B69E6255-458B-48F4-BE35-F45C3F505D00' id='FORM-B69E6255-458B-48F4-BE35-F45C3F505D00' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B69E6255-458B-48F4-BE35-F45C3F505D00'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -7921,7 +8075,7 @@ Third number $= 15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>3D2657A6-4DB2-4961-B1C9-1EEB0530FC13</p>
 </div>
@@ -7932,7 +8086,7 @@ Third number $= 15$
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9002,7 +9156,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>84822D8F-EA5C-49F0-97FB-8F065EFA3D25</p>
 </div>
@@ -9013,7 +9167,7 @@ TODOANSWER
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9110,36 +9264,47 @@ Work out the value of $y$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin{aligned}
+\text{Number of counters in Bag A}      &= \text{Number of counters in Bag B} \\\\
+6y + 1                                  &= 4y + 7 \\\\
+6y - 4y                                 &= 7 - 1 \\\\
+2y                                      &= 6 \\\\
+y                                       &= \dfrac {6} {2} \\\\
+y                                       &= 3
+\end{aligned}
+$
 
-TODOWORKING
+The value of y $= 3$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$3$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\text{Number of counters in Bag A}      &= \text{Number of counters in Bag B} \\\\
+6y + 1                                  &= 4y + 7 \\\\
+6y - 4y                                 &= 7 - 1 \\\\
+2y                                      &= 6 \\\\
+y                                       &= \dfrac {6} {2} \\\\
+y                                       &= 3
+\end{aligned}
+$
+
+The value of y $= 3$.
 </code></pre>
 </div>
 </div>
@@ -9151,17 +9316,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$3$
 </code></pre>
 </div>
 </div>
@@ -9187,36 +9342,41 @@ What is the **smallest** possible value of $k$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+| k | Counters in Bag C | Counters in Bag D |
+|:-:|:-----------------:|:-----------------:|
+|$1$| $4 \times 1 = 4$  |   $1 + 12 = 13$   |
+|$2$| $4 \times 2 = 8$  |   $2 + 12 = 14$   |
+|$3$| $4 \times 3 = 12$ |   $3 + 12 = 15$   |
+|$4$| $4 \times 4 = 16$ |   $4 + 12 = 16$   |
+|$5$| $4 \times 5 = 20$ |   $5 + 12 = 17$   |
 
-TODOWORKING
+The smallest possible value of k $= 5$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+| k | Counters in Bag C | Counters in Bag D |
+|:-:|:-----------------:|:-----------------:|
+|$1$| $4 \times 1 = 4$  |   $1 + 12 = 13$   |
+|$2$| $4 \times 2 = 8$  |   $2 + 12 = 14$   |
+|$3$| $4 \times 3 = 12$ |   $3 + 12 = 15$   |
+|$4$| $4 \times 4 = 16$ |   $4 + 12 = 16$   |
+|$5$| $4 \times 5 = 20$ |   $5 + 12 = 17$   |
+
+The smallest possible value of k $= 5$.
 </code></pre>
 </div>
 </div>
@@ -9228,17 +9388,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5$
 </code></pre>
 </div>
 </div>
@@ -9247,6 +9397,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='84822D8F-EA5C-49F0-97FB-8F065EFA3D25' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='84822D8F-EA5C-49F0-97FB-8F065EFA3D25' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='84822D8F-EA5C-49F0-97FB-8F065EFA3D25' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='84822D8F-EA5C-49F0-97FB-8F065EFA3D25' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='84822D8F-EA5C-49F0-97FB-8F065EFA3D25' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='84822D8F-EA5C-49F0-97FB-8F065EFA3D25' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='84822D8F-EA5C-49F0-97FB-8F065EFA3D25' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='84822D8F-EA5C-49F0-97FB-8F065EFA3D25' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='84822D8F-EA5C-49F0-97FB-8F065EFA3D25' id='FORM-84822D8F-EA5C-49F0-97FB-8F065EFA3D25' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-84822D8F-EA5C-49F0-97FB-8F065EFA3D25'>Initial</p>
+</div>
 </div>
 </li>
 <li>

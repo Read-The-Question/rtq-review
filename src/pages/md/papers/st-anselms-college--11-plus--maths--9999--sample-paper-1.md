@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -583,10 +583,10 @@ $\pounds 155.1$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -957,10 +957,10 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1752,10 +1752,10 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1818,27 +1818,20 @@ $\Huge \boxed {...}$  Subtract 28 $\Huge \boxed {...}$  Add 19 $\Huge \boxed {63
 <div class='workings'>
 <div class='working'>
 
-Let the first space $a$ and second space $b$,
+Let first space $= a$ 
 
-Let's find $b$ first
+Let second space $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-b + 19 &=  63  \\\\
-b  &=  63 - 19  \\\\
-b &=  44
-\end{aligned}
-$
-
-Let's find $a$ 
-
-$
-\begin{aligned}
-a - 28 &=  44  \\\\
-a  &=  44 + 28  \\\\
-a &=  72
+b + 19      &=  63  \\\\
+b           &=  63 - 19  \\\\
+b           &=  44 \\\\
+a-28        &=  44   \\\\
+a           &=  44 + 28 \\\\
+a           &=  72 \\\\
 \end{aligned}
 $
 
@@ -1855,27 +1848,20 @@ $72, 44$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and second space $b$,
+<pre class='language-latex'><code class='language-latex'>Let first space $= a$ 
 
-Let's find $b$ first
+Let second space $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-b + 19 &=  63  \\\\
-b  &=  63 - 19  \\\\
-b &=  44
-\end{aligned}
-$
-
-Let's find $a$ 
-
-$
-\begin{aligned}
-a - 28 &=  44  \\\\
-a  &=  44 + 28  \\\\
-a &=  72
+b + 19      &=  63  \\\\
+b           &=  63 - 19  \\\\
+b           &=  44 \\\\
+a-28        &=  44   \\\\
+a           &=  44 + 28 \\\\
+a           &=  72 \\\\
 \end{aligned}
 $
 
@@ -1909,26 +1895,19 @@ $\Huge \boxed {17}$  add...... $\Huge \boxed {32}$  Subtract 39 $\Huge \boxed {.
 <div class='workings'>
 <div class='working'>
 
-Let the first space $a$ and second space $b$,
+Let the first missing number $= a$
 
-Let's find $a$ first
+Let the second missing number $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-17 + a &=  32  \\\\
-a  &=  32 - 17  \\\\
-a &=  15
-\end{aligned}
-$
-
-Let's find $b$
-
-$
-\begin{aligned}
-b &= 32 - 39   \\\\
-b &=  -7
+17 + a      &=  32  \\\\
+a           &=  32 - 17  \\\\
+a           &=  15 \\\\
+b           &= 32 - 39   \\\\
+b           &=  -7
 \end{aligned}
 $
 
@@ -1944,26 +1923,19 @@ $15, -7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and second space $b$,
+<pre class='language-latex'><code class='language-latex'>Let the first missing number $= a$
 
-Let's find $a$ first
+Let the second missing number $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-17 + a &=  32  \\\\
-a  &=  32 - 17  \\\\
-a &=  15
-\end{aligned}
-$
-
-Let's find $b$
-
-$
-\begin{aligned}
-b &= 32 - 39   \\\\
-b &=  -7
+17 + a      &=  32  \\\\
+a           &=  32 - 17  \\\\
+a           &=  15 \\\\
+b           &= 32 - 39   \\\\
+b           &=  -7
 \end{aligned}
 $
 </code></pre>
@@ -1985,6 +1957,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Not written per algebra standards
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3907,7 +3888,7 @@ There are 82 blue counters in the bag.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>432CB436-BF77-496F-A6D6-C553A73CC616</p>
 </div>
@@ -3915,13 +3896,13 @@ There are 82 blue counters in the bag.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3942,27 +3923,33 @@ d) $112$ inches
 <div class='workings'>
 <div class='working'>
 
-$120\,cm$                is nearly the height of a dwarf. 
-$150\,mm or 15\,cm$,     height is not possible
-$1.8\,m or 180\,cm$      is nearly the height average height of a man
-$112 inches or 284\,cm$  height is not possible
+$120\ \text{cm}\ \text{is nearly the height of a dwarf} $              
+
+$150\ \text{mm}= 15\ \text{cm} \ \text{height is not possible} $ 
+
+$1.8\ \text{m}= 180\ \text{cm} \ \text{is nearly height average height of a man} $
+
+$112\ \text{inches}= 284\ \text{cm} \ \text{height is not possible} $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1.8 \ \text {m}$
+$\text {c)}\ 1.8 \ \text {m}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$120\,cm$                is nearly the height of a dwarf. 
-$150\,mm or 15\,cm$,     height is not possible
-$1.8\,m or 180\,cm$      is nearly the height average height of a man
-$112 inches or 284\,cm$  height is not possible
+<pre class='language-latex'><code class='language-latex'>$120\ \text{cm}\ \text{is nearly the height of a dwarf} $              
+
+$150\ \text{mm}= 15\ \text{cm} \ \text{height is not possible} $ 
+
+$1.8\ \text{m}= 180\ \text{cm} \ \text{is nearly height average height of a man} $
+
+$112\ \text{inches}= 284\ \text{cm} \ \text{height is not possible} $
 </code></pre>
 </div>
 </div>
@@ -3974,7 +3961,7 @@ $112 inches or 284\,cm$  height is not possible
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1.8 \ \text {m}$
+<pre class='language-latex'><code class='language-latex'>$\text {c)}\ 1.8 \ \text {m}$
 </code></pre>
 </div>
 </div>
@@ -4154,7 +4141,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7EDC8D07-F0B7-488E-966B-4C742A083200</p>
 </div>
@@ -4162,13 +4149,13 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4241,7 +4228,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16, 169$
+$49, 169$
 
 </div>
 </div>
@@ -4267,7 +4254,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16, 169$
+<pre class='language-latex'><code class='language-latex'>$49, 169$
 </code></pre>
 </div>
 </div>
@@ -4286,8 +4273,7 @@ Give another example of a number with an odd number of factors.
 
 $
 \begin{aligned}
-3^2 &= 9  \text {or,}
-4^2 &= 16
+15 &= 3\times 5
 \end{aligned}
 $
 
@@ -4296,7 +4282,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9$
+$15$
 
 </div>
 </div>
@@ -4305,8 +4291,7 @@ $9$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-3^2 &= 9  \text {or,}
-4^2 &= 16
+15 &= 3\times 5
 \end{aligned}
 $
 </code></pre>
@@ -4320,7 +4305,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9$
+<pre class='language-latex'><code class='language-latex'>$15$
 </code></pre>
 </div>
 </div>
@@ -4337,21 +4322,21 @@ These numbers have a special name. What is it?
 <div class='workings'>
 <div class='working'>
 
-$\text {Perferct Squares}$
+$\text {Perfect Squares}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Perferct Squares}$
+Perfect Squares
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Perferct Squares}$
+<pre class='language-latex'><code class='language-latex'>$\text {Perfect Squares}$
 </code></pre>
 </div>
 </div>
@@ -4363,7 +4348,7 @@ $\text {Perferct Squares}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Perferct Squares}$
+<pre class='language-latex'><code class='language-latex'>Perfect Squares
 </code></pre>
 </div>
 </div>
@@ -4494,10 +4479,10 @@ Part D :is correct
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-9-pr-prns"
-title: "TopicPaper - Number - 9 - PR - PRNS"
-date: 2022-07-12 14:58:45
+slug: "ragpapers/topicpapers-tnumber-9-pr-prcc"
+title: "TopicPaper - Number - 9 - PR - PRCC"
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>767A83AB-D696-47B5-958B-CB9F94B0FA06</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-12 14:58:45
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -137,7 +137,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5</p>
 </div>
@@ -151,7 +151,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -184,7 +184,10 @@ ABBR: Using BIDMAS
 $
 \begin {aligned}
 &= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
+&= 1 + 6 + 4 \times 5 + 6 \\\\
 &= 1 + 6 + 20 + 6 \\\\
+&= 7 + 20 + 6 \\\\
+&= 27 + 6 \\\\
 &= 33
 \end {aligned}
 $
@@ -209,7 +212,10 @@ $
 $
 \begin {aligned}
 &= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
+&= 1 + 6 + 4 \times 5 + 6 \\\\
 &= 1 + 6 + 20 + 6 \\\\
+&= 7 + 20 + 6 \\\\
+&= 27 + 6 \\\\
 &= 33
 \end {aligned}
 $
@@ -270,7 +276,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>1D719402-C0E1-45A3-8C6F-B5F75896007C</p>
 </div>
@@ -284,7 +290,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -317,6 +323,7 @@ Lets verify
 
 $
 \begin{aligned}
+7\text{p}  &= 5 \text{p} \times 2 + 8\text{p} -11\text{p}\\\\
 49\text{p}   &= 11 \text{p} \times 4 + 5\text{p} \\\\
 19\text{p}   &= 11 \text{p} + 8 \text{p} \\\\
 38\text{p}   &= 11 \text{p} \times 3 + 5 \text{p} 
@@ -333,6 +340,7 @@ $
 
  $=$ $17\text{p}$
 
+
 </div>
 </div>
 <div class='workingscodeblock'>
@@ -344,6 +352,7 @@ Lets verify
 
 $
 \begin{aligned}
+7\text{p}  &= 5 \text{p} \times 2 + 8\text{p} -11\text{p}\\\\
 49\text{p}   &= 11 \text{p} \times 4 + 5\text{p} \\\\
 19\text{p}   &= 11 \text{p} + 8 \text{p} \\\\
 38\text{p}   &= 11 \text{p} \times 3 + 5 \text{p} 
@@ -361,6 +370,7 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$17\text{p}$
+
 </code></pre>
 </div>
 </div>
@@ -406,7 +416,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>07C9B12E-3E52-4065-B971-8A932EE40907</p>
 </div>
@@ -420,7 +430,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -603,8 +613,8 @@ What is the remainder when $531$ is divided by $17$?
 $
 \begin {aligned}
 &= \dfrac {531} {17} \\\\
-&= \dfrac {\cancel{531}} {\cancel {17}} \\\\
-&= 31.23
+&= 31\ \dfrac {4} {17} \\\\
+\therefore\text{Reminder is 4}
 \end {aligned}
 $
 
@@ -623,8 +633,8 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= \dfrac {531} {17} \\\\
-&= \dfrac {\cancel{531}} {\cancel {17}} \\\\
-&= 31.23
+&= 31\ \dfrac {4} {17} \\\\
+\therefore\text{Reminder is 4}
 \end {aligned}
 $
 </code></pre>
@@ -687,7 +697,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>75CD6A49-4737-4E11-80CD-36DE5CEA30CC</p>
 </div>
@@ -701,7 +711,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1092,7 +1102,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>7BD6412A-AB4F-4E0D-A1D8-63B836E328AB</p>
 </div>
@@ -1106,7 +1116,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1300,7 +1310,7 @@ $75, \quad 82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3E665D6B-1AC3-4180-8E1A-CA9EDBC34E11</p>
 </div>
@@ -1314,7 +1324,7 @@ $75, \quad 82$
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1417,14 +1427,6 @@ Find the smallest 3-digit number which is neither prime nor divisible by $2,\:\:
 
 $119$
 
-Lets verify 
-
-$
-\begin{aligned}
-&= 119  \\\\
-&= 7*19
-\end{aligned}
-$
 
 </div>
 </div>
@@ -1440,14 +1442,6 @@ $
 
 <pre class='language-latex'><code class='language-latex'>$119$
 
-Lets verify 
-
-$
-\begin{aligned}
-&= 119  \\\\
-&= 7*19
-\end{aligned}
-$
 </code></pre>
 </div>
 </div>
@@ -1508,7 +1502,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9DEAFF28-1458-4484-8942-1E3083F1D0E8</p>
 </div>
@@ -1522,7 +1516,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1624,7 +1618,7 @@ Correct to the nearest $10 \ \text{km}^2$.
 <div class='workings'>
 <div class='working'>
 
-$1570 \ \text{km}^2$
+$\approx 1570 \ \text{km}^2$
 
 </div>
 </div>
@@ -1638,7 +1632,7 @@ $1570 \ \text{km}^2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1570 \ \text{km}^2$
+<pre class='language-latex'><code class='language-latex'>$\approx 1570 \ \text{km}^2$
 </code></pre>
 </div>
 </div>
@@ -1667,21 +1661,21 @@ Correct to the nearest $100 \ \text{km}^2$.
 <div class='workings'>
 <div class='working'>
 
-$1600 \ \text{km}^2$ 
+$\approx 1600 \ \text{km}^2$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1600 \ \text{km}^2$
+$ 1600\ \text{km}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1600 \ \text{km}^2$ 
+<pre class='language-latex'><code class='language-latex'>$\approx 1600 \ \text{km}^2$ 
 </code></pre>
 </div>
 </div>
@@ -1693,7 +1687,7 @@ $1600 \ \text{km}^2$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1600 \ \text{km}^2$
+<pre class='language-latex'><code class='language-latex'>$ 1600\ \text{km}^2$
 </code></pre>
 </div>
 </div>
@@ -1756,7 +1750,7 @@ Correct to $1$ decimal place.
 <div class='workings'>
 <div class='working'>
 
-$2.6 \ \text{cm}$
+$\approx 2.6 \ \text{cm}$
 
 </div>
 </div>
@@ -1770,7 +1764,7 @@ $2.6 \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$2.6 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$\approx 2.6 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -1799,7 +1793,7 @@ Correct to the nearest cm.
 <div class='workings'>
 <div class='working'>
 
-$3 \ \text{cm}$
+$\approx 3 \ \text{cm}$
 
 </div>
 </div>
@@ -1813,7 +1807,7 @@ $3 \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$3 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$\approx 3 \ \text{cm}$
 </code></pre>
 </div>
 </div>

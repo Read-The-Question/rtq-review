@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -931,7 +931,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6982898E-1D09-4D16-AF1F-A1690147F770</p>
 </div>
@@ -939,13 +939,13 @@ $
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1008,7 +1008,7 @@ How many centimetres are there in five kilometres?
 
 $
 \begin{aligned}
-&= 5 \ \text{kilometres}
+&= 5 \ \text{kilometres}\\\\
 &= 5 \times 100000 \ \text {cm}\\\\
 &= 500000 \ \text {cm}
 \end{aligned}
@@ -1028,7 +1028,7 @@ $500000 \ \text {cm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 5 \ \text{kilometres}
+&= 5 \ \text{kilometres}\\\\
 &= 5 \times 100000 \ \text {cm}\\\\
 &= 500000 \ \text {cm}
 \end{aligned}
@@ -2756,10 +2756,10 @@ we are not supposed to solve tvolume change rag to amber or red
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2930,10 +2930,10 @@ $\dfrac {5} {16}$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_notstarted</p>
+<p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3017,7 +3017,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BAAC6E7A-0541-4A20-B7D2-0C364A8C1403</p>
 </div>
@@ -3025,13 +3025,13 @@ $
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3089,8 +3089,6 @@ Faye called Emily's number x, showing your working clearly.
 
 **$4x - 5 = 2x + 1$**
 
-Gemma said,'Multiplying my number by 2 and then adding 5 gives the same answer as subtracting my number from 23'
-
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3098,8 +3096,11 @@ Gemma said,'Multiplying my number by 2 and then adding 5 gives the same answer a
 $
 \begin{aligned}
 4 x - 5     &= 2 x + 1 \\\\
-4 x - 2 x   &= 5 + 1 \\\\
+4 x - 2 x   &= 1 + 5 \\\\
 2 x         &= 6 \\\\
+x           &= \dfrac {6} {2} \\\\
+x           &= \dfrac {2 \times 3} {2} \\\\
+x           &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
 x           &= 3
 \end{aligned}
 $
@@ -3119,8 +3120,11 @@ $3$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 4 x - 5     &= 2 x + 1 \\\\
-4 x - 2 x   &= 5 + 1 \\\\
+4 x - 2 x   &= 1 + 5 \\\\
 2 x         &= 6 \\\\
+x           &= \dfrac {6} {2} \\\\
+x           &= \dfrac {2 \times 3} {2} \\\\
+x           &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
 x           &= 3
 \end{aligned}
 $
@@ -3146,6 +3150,8 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
+Gemma said,'Multiplying my number by 2 and then adding 5 gives the same answer as subtracting my number from 23'
+
 Find Gemma's number, showing your working clearly.
 
 ![missing image](/papers/missing_image.svg)
@@ -3155,18 +3161,17 @@ Find Gemma's number, showing your working clearly.
 <div class='workings'>
 <div class='working'>
 
-
 Let Gemma's number $= a$
 
 $
 \begin{aligned}
-2 \times a + 5    &= 23 - a \\\\
-2 a + a           &= 23 - 5 \\\\
-3a                &= 18 \\\\
-a                 &= \dfrac {18} {3} \\\\
-a                 &= \dfrac {6 \times 3} {3} \\\\
-a                 &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-a                 &= 6
+2 a + 5     &= 23 - a \\\\
+2 a + a     &= 23 - 5 \\\\
+3a          &= 18 \\\\
+a           &= \dfrac {18} {3} \\\\
+a           &= \dfrac {3 \times 6} {3} \\\\
+a           &= \dfrac {\cancel {3} \times 6} {\cancel {3}} \\\\
+a           &= 6
 \end{aligned}
 $
 
@@ -3182,18 +3187,17 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-Let Gemma's number $= a$
+<pre class='language-latex'><code class='language-latex'>Let Gemma's number $= a$
 
 $
 \begin{aligned}
-2 \times a + 5    &= 23 - a \\\\
-2 a + a           &= 23 - 5 \\\\
-3a                &= 18 \\\\
-a                 &= \dfrac {18} {3} \\\\
-a                 &= \dfrac {6 \times 3} {3} \\\\
-a                 &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
-a                 &= 6
+2 a + 5     &= 23 - a \\\\
+2 a + a     &= 23 - 5 \\\\
+3a          &= 18 \\\\
+a           &= \dfrac {18} {3} \\\\
+a           &= \dfrac {3 \times 6} {3} \\\\
+a           &= \dfrac {\cancel {3} \times 6} {\cancel {3}} \\\\
+a           &= 6
 \end{aligned}
 $
 </code></pre>
@@ -3420,7 +3424,7 @@ $\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E94D101F-0E1E-4F40-BE84-649D7E772C37</p>
 </div>
@@ -3428,13 +3432,13 @@ $\text {A}, \quad  \text {B}, \quad \text {D}, \quad \text {E}, \quad \text {F},
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3458,13 +3462,19 @@ How many did John buy?
 <div class='workings'>
 <div class='working'>
 
-Let the horses John buy $=a$,
+Let the number of horses John buy $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-14 + a  &= 27 + 3 \\\\
-14 + a  &= 30 \\\\
-a       &= 16
+a + 14      &= 27 - a + 3 \\\\
+a + 14      &= 30 - a \\\\
+a + a       &= 30 - 14 \\\\
+2a          &= 16 \\\\
+a           &= \dfrac {2 \times 8} {2} \\\\
+a           &= \dfrac {\cancel {2} \times 8} {\cancel {2}} \\\\
+a           &= 8
 \end{aligned}
 $
 
@@ -3473,20 +3483,26 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16$
+$8$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the horses John buy $=a$,
+<pre class='language-latex'><code class='language-latex'>Let the number of horses John buy $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-14 + a  &= 27 + 3 \\\\
-14 + a  &= 30 \\\\
-a       &= 16
+a + 14      &= 27 - a + 3 \\\\
+a + 14      &= 30 - a \\\\
+a + a       &= 30 - 14 \\\\
+2a          &= 16 \\\\
+a           &= \dfrac {2 \times 8} {2} \\\\
+a           &= \dfrac {\cancel {2} \times 8} {\cancel {2}} \\\\
+a           &= 8
 \end{aligned}
 $
 </code></pre>
@@ -3500,7 +3516,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16$
+<pre class='language-latex'><code class='language-latex'>$8$
 </code></pre>
 </div>
 </div>
@@ -4398,7 +4414,7 @@ tgeometry question
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prbd question'>
 <div class='uuid'>
 <p>4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE</p>
 </div>
@@ -4406,13 +4422,13 @@ tgeometry question
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5088,10 +5104,10 @@ $1$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

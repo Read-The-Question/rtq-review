@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-g0"
 title: "TopicPaper - Algebra - 5 - G0"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2005,7 +2005,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2AC891C8-7536-4140-932D-979889A952B8</p>
 </div>
@@ -2019,7 +2019,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2355,7 +2355,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3322EA7C-DA09-4452-AAFA-C64EAE93EE30</p>
 </div>
@@ -2369,7 +2369,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2404,7 +2404,6 @@ $
 \begin{aligned}
 60 \% \ \text {of} \ a               &=  240 \\\\
 \dfrac {60} {100} \times a           &=  240 \\\\
-a                                    &=  240 \times \dfrac {100} {60} \\\\
 a                                    &=  \dfrac {240 \times 100} {60} \\\\
 a                                    &=  \dfrac {60 \times 4 \times 100} {60} \\\\
 a                                    &=  \dfrac {\cancel {60} \times 4 \times 100} {\cancel {60}} \\\\
@@ -2437,7 +2436,6 @@ $
 \begin{aligned}
 60 \% \ \text {of} \ a               &=  240 \\\\
 \dfrac {60} {100} \times a           &=  240 \\\\
-a                                    &=  240 \times \dfrac {100} {60} \\\\
 a                                    &=  \dfrac {240 \times 100} {60} \\\\
 a                                    &=  \dfrac {60 \times 4 \times 100} {60} \\\\
 a                                    &=  \dfrac {\cancel {60} \times 4 \times 100} {\cancel {60}} \\\\
@@ -2503,7 +2501,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>140F0395-4212-4458-B2B7-7AF063D4D08B</p>
 </div>
@@ -2517,7 +2515,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2553,7 +2551,7 @@ $
 \dfrac {1} {2} \times a                                                  &=  8 + \dfrac {3} {7} \times a \\\\
 \dfrac {a} {2}                                                           &=  8 + \dfrac {3 a} {7} \\\\
 \dfrac {a} {2} - \dfrac {3 a} {7}                                        &=  8 \\\\
-\dfrac {1 \times 7 a} {2 \times 7} - \dfrac {3 \times 2 a} {7 \times 2}  &=  8 \\\\
+\dfrac {a \times 7 } {2 \times 7} - \dfrac {3a \times 2 } {7 \times 2}  &=  8 \\\\
 \dfrac {7 a} {14} - \dfrac {6 a} {14}                                    &=  8 \\\\
 \dfrac {7 a - 6 a} {14}                                                  &=  8 \\\\
 \dfrac {a} {14}                                                          &=  8 \\\\
@@ -2586,7 +2584,7 @@ $
 \dfrac {1} {2} \times a                                                  &=  8 + \dfrac {3} {7} \times a \\\\
 \dfrac {a} {2}                                                           &=  8 + \dfrac {3 a} {7} \\\\
 \dfrac {a} {2} - \dfrac {3 a} {7}                                        &=  8 \\\\
-\dfrac {1 \times 7 a} {2 \times 7} - \dfrac {3 \times 2 a} {7 \times 2}  &=  8 \\\\
+\dfrac {a \times 7 } {2 \times 7} - \dfrac {3a \times 2 } {7 \times 2}  &=  8 \\\\
 \dfrac {7 a} {14} - \dfrac {6 a} {14}                                    &=  8 \\\\
 \dfrac {7 a - 6 a} {14}                                                  &=  8 \\\\
 \dfrac {a} {14}                                                          &=  8 \\\\
@@ -2651,7 +2649,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A</p>
 </div>
@@ -2665,7 +2663,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2813,7 +2811,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>938E522F-43A3-44CB-9551-C2D9CF301F50</p>
 </div>
@@ -2827,7 +2825,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3130,7 +3128,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AAD74FF2-AC76-4ECE-AB35-E5D7E8DF0E2B</p>
 </div>
@@ -3144,7 +3142,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3280,7 +3278,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F73731D-E7C1-44C0-8150-D86AA287599D</p>
 </div>
@@ -3294,7 +3292,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3422,7 +3420,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A52F9548-B5CC-43EF-8F45-832F47AAC757</p>
 </div>
@@ -3436,7 +3434,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3570,7 +3568,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7C02F3E0-0B0D-4D18-94F1-36B11717F1F8</p>
 </div>
@@ -3584,7 +3582,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

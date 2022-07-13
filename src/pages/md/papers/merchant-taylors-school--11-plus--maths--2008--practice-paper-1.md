@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5353,7 +5353,7 @@ part (a): step 3 : = 1 x 60 minutes + 30 minutes
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>89AF4456-05DF-454E-9602-66C48E68886D</p>
 </div>
@@ -5367,7 +5367,7 @@ part (a): step 3 : = 1 x 60 minutes + 30 minutes
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5387,21 +5387,21 @@ List all the positive integers less than $20$ that have TWO different factors, o
 <div class='workings'>
 <div class='working'>
 
-$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+$6,\quad 8, \quad 10,\quad 12,\quad 14, \quad 15, \quad 16, \quad 18$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+$6,\quad 8, \quad 10,\quad 12,\quad 14, \quad 15, \quad 16, \quad 18$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+<pre class='language-latex'><code class='language-latex'>$6,\quad 8, \quad 10,\quad 12,\quad 14, \quad 15, \quad 16, \quad 18$
 </code></pre>
 </div>
 </div>
@@ -5413,7 +5413,7 @@ $6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+<pre class='language-latex'><code class='language-latex'>$6,\quad 8, \quad 10,\quad 12,\quad 14, \quad 15, \quad 16, \quad 18$
 </code></pre>
 </div>
 </div>

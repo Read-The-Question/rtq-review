@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-8"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 8"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-12 14:53:28
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>51830703-CBD9-43F8-B47F-335ADCA3A65F</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-12 14:53:28
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -314,7 +314,7 @@ $
 \text{Total boxes needed}   &= \dfrac {650} {24} \\\\
                             &= \dfrac {650} {24} \\\\
                             &= 27.08 \\\\
-                            &= 28
+                            &\approx 28
 \end{aligned}
 $
 
@@ -335,7 +335,7 @@ $28$
 \text{Total boxes needed}   &= \dfrac {650} {24} \\\\
                             &= \dfrac {650} {24} \\\\
                             &= 27.08 \\\\
-                            &= 28
+                            &\approx 28
 \end{aligned}
 $
 </code></pre>
@@ -1187,7 +1187,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EFD38E79-EABA-416D-9691-E23FADC9823E</p>
 </div>
@@ -1201,7 +1201,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1220,13 +1220,13 @@ An iPhone used to cost $\pounds 500$. Since Brexit the price has increased by $2
 
 $
 \begin{aligned}
-&= 22 \% \times 500 \\\\
+\text{increase}&= 22 \% \times 500 \\\\
 &= \dfrac {22} {100} \times 500 \\\\
 &= \dfrac {22 \times 500} {100} \\\\
 &= \dfrac {11000} {100} \\\\
 &= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
 &= 110 \\\\
-&= 500 + 110 \\\\
+\text{price}&= 500 + 110 \\\\
 &= 610
 \end{aligned}
 $
@@ -1245,13 +1245,13 @@ $610$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 22 \% \times 500 \\\\
+\text{increase}&= 22 \% \times 500 \\\\
 &= \dfrac {22} {100} \times 500 \\\\
 &= \dfrac {22 \times 500} {100} \\\\
 &= \dfrac {11000} {100} \\\\
 &= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
 &= 110 \\\\
-&= 500 + 110 \\\\
+\text{price}&= 500 + 110 \\\\
 &= 610
 \end{aligned}
 $
@@ -1312,7 +1312,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B46513A7-1E27-44FD-8AD7-EA8D3C19DE4E</p>
 </div>
@@ -1326,7 +1326,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1373,7 +1373,8 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$(12,0),(4,18)$
+$a=12,b=0 \\
+ a=4, b=18$
 
 </div>
 </div>
@@ -1411,7 +1412,8 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$(12,0),(4,18)$
+<pre class='language-latex'><code class='language-latex'>$a=12,b=0 \\
+ a=4, b=18$
 </code></pre>
 </div>
 </div>
@@ -1616,7 +1618,7 @@ ratio question mark it amber for now
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E2966271-3218-4066-8490-77C5F92607CA</p>
 </div>
@@ -1630,7 +1632,7 @@ ratio question mark it amber for now
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

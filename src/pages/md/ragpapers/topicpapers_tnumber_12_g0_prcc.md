@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-12-g0-prcr"
-title: "TopicPaper - Number - 12 - G0 - PRCR"
-date: 2022-07-12 14:58:45
+slug: "ragpapers/topicpapers-tnumber-12-g0-prcc"
+title: "TopicPaper - Number - 12 - G0 - PRCC"
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>91FE409B-1661-46BC-A704-FA8A43CF6F5C</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-12 14:58:45
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -77,21 +77,21 @@ Write down the factors of $25$
 <div class='workings'>
 <div class='working'>
 
-Factors of $25 = 1, \ 5 \ \text{and} \ 25$
+$1, 5, 25$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1, \ 5 \ \text{and} \ 25$
+$1, 5,  25$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Factors of $25 = 1, \ 5 \ \text{and} \ 25$
+<pre class='language-latex'><code class='language-latex'>$1, 5, 25$
 </code></pre>
 </div>
 </div>
@@ -103,7 +103,7 @@ $1, \ 5 \ \text{and} \ 25$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1, \ 5 \ \text{and} \ 25$
+<pre class='language-latex'><code class='language-latex'>$1, 5,  25$
 </code></pre>
 </div>
 </div>
@@ -120,21 +120,21 @@ Write down the factors of $30$
 <div class='workings'>
 <div class='working'>
 
-Factors of $30 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
+$ 1,  2,  3,  5,  6,  10,  15,  30$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
+$ 1,  2,  3,  5,  6,  10,  15,  30$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Factors of $30 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
+<pre class='language-latex'><code class='language-latex'>$ 1,  2,  3,  5,  6,  10,  15,  30$
 </code></pre>
 </div>
 </div>
@@ -146,7 +146,7 @@ $1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
+<pre class='language-latex'><code class='language-latex'>$ 1,  2,  3,  5,  6,  10,  15,  30$
 </code></pre>
 </div>
 </div>
@@ -163,7 +163,19 @@ Write down the highest common factor of $25$ and $30$
 <div class='workings'>
 <div class='working'>
 
-Highest common factor of $25$ and $30 = 5$
+the prime factorization of 25
+
+$ = 1\times 5\times 5$
+
+the prime factorization of 20
+
+$ = 1\times 2\times 3\times 5$
+
+To find the HCF, multiply all the prime factors common to both numbers:
+
+$ = 1\times5$
+
+$ = 5$
 
 </div>
 </div>
@@ -177,7 +189,19 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Highest common factor of $25$ and $30 = 5$
+<pre class='language-latex'><code class='language-latex'>the prime factorization of 25
+
+$ = 1\times 5\times 5$
+
+the prime factorization of 20
+
+$ = 1\times 2\times 3\times 5$
+
+To find the HCF, multiply all the prime factors common to both numbers:
+
+$ = 1\times5$
+
+$ = 5$
 </code></pre>
 </div>
 </div>
@@ -206,21 +230,21 @@ Write down the prime factors of $30$
 <div class='workings'>
 <div class='working'>
 
-Prime factors of $30 = 2, \ 3, \ \text{and} \ 5$
+ $ 1, 2, 3, 5, 6, 10, 15, 30 $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2, \ 3, \ \text{and} \ 5$
+$ 1, 2, 3, 5, 6, 10, 15, 30 $
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Prime factors of $30 = 2, \ 3, \ \text{and} \ 5$
+<pre class='language-latex'><code class='language-latex'> $ 1, 2, 3, 5, 6, 10, 15, 30 $
 </code></pre>
 </div>
 </div>
@@ -232,7 +256,7 @@ $2, \ 3, \ \text{and} \ 5$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2, \ 3, \ \text{and} \ 5$
+<pre class='language-latex'><code class='language-latex'>$ 1, 2, 3, 5, 6, 10, 15, 30 $
 </code></pre>
 </div>
 </div>
@@ -281,7 +305,7 @@ $2, \ 3, \ \text{and} \ 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BA7E261E-10D9-4C7B-8591-880AD1DD4EF9</p>
 </div>
@@ -295,7 +319,7 @@ $2, \ 3, \ \text{and} \ 5$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -514,7 +538,7 @@ $1, 7, 49$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>211838E2-E95A-47E2-855F-B9E96DAB6F7D</p>
 </div>
@@ -528,7 +552,7 @@ $1, 7, 49$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

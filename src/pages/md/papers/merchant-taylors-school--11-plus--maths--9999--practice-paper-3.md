@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1864,7 +1864,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9DEAFF28-1458-4484-8942-1E3083F1D0E8</p>
 </div>
@@ -1878,7 +1878,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1980,7 +1980,7 @@ Correct to the nearest $10 \ \text{km}^2$.
 <div class='workings'>
 <div class='working'>
 
-$1570 \ \text{km}^2$
+$\approx 1570 \ \text{km}^2$
 
 </div>
 </div>
@@ -1994,7 +1994,7 @@ $1570 \ \text{km}^2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1570 \ \text{km}^2$
+<pre class='language-latex'><code class='language-latex'>$\approx 1570 \ \text{km}^2$
 </code></pre>
 </div>
 </div>
@@ -2023,21 +2023,21 @@ Correct to the nearest $100 \ \text{km}^2$.
 <div class='workings'>
 <div class='working'>
 
-$1600 \ \text{km}^2$ 
+$\approx 1600 \ \text{km}^2$ 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$1600 \ \text{km}^2$
+$ 1600\ \text{km}^2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1600 \ \text{km}^2$ 
+<pre class='language-latex'><code class='language-latex'>$\approx 1600 \ \text{km}^2$ 
 </code></pre>
 </div>
 </div>
@@ -2049,7 +2049,7 @@ $1600 \ \text{km}^2$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1600 \ \text{km}^2$
+<pre class='language-latex'><code class='language-latex'>$ 1600\ \text{km}^2$
 </code></pre>
 </div>
 </div>
@@ -2112,7 +2112,7 @@ Correct to $1$ decimal place.
 <div class='workings'>
 <div class='working'>
 
-$2.6 \ \text{cm}$
+$\approx 2.6 \ \text{cm}$
 
 </div>
 </div>
@@ -2126,7 +2126,7 @@ $2.6 \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$2.6 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$\approx 2.6 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -2155,7 +2155,7 @@ Correct to the nearest cm.
 <div class='workings'>
 <div class='working'>
 
-$3 \ \text{cm}$
+$\approx 3 \ \text{cm}$
 
 </div>
 </div>
@@ -2169,7 +2169,7 @@ $3 \ \text{cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$3 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$\approx 3 \ \text{cm}$
 </code></pre>
 </div>
 </div>

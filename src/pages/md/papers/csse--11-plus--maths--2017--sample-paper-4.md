@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2017-sample-paper-4"
 title: "Csse - 11 Plus - Maths - 2017 - Sample Paper 4"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1385,7 +1385,7 @@ INPUT %symbol% [$\times \ldots$] %symbol% [$+ \ldots$] %symbol% OUTPUT
 
 As per the question,
 
-Lets's solve it for first equation.
+Let's solve it for first equation.
 
 $
 \begin {aligned}
@@ -1395,7 +1395,7 @@ $
 \end {aligned}
 $
 
-Lets's solve it for second equation.
+Let's solve it for second equation.
 
 $
 \begin {aligned}
@@ -1421,7 +1421,7 @@ $\text {INPUT} \times 5 + 11 = \text {OUTPUT}$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 
-Lets's solve it for first equation.
+Let's solve it for first equation.
 
 $
 \begin {aligned}
@@ -1431,7 +1431,7 @@ $
 \end {aligned}
 $
 
-Lets's solve it for second equation.
+Let's solve it for second equation.
 
 $
 \begin {aligned}

@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-12 14:53:28
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-12 14:53:28
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -40,6 +40,8 @@ tnumber
 
 Calculate and show all your working, 
 
+$\pounds 20 - \pounds 12.53$
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -47,31 +49,11 @@ Calculate and show all your working,
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-ABBR: Remember to line up the decimal points.
-
-
-$
-\begin{array}{cccccccccccccc}
-    &    2  &    0 \ .  &    0  &    0 \\
-{}- &    1  &    2 \ .  &    5  &    3 \\
-\hline
-  &         &    7 \ .  &    4  &    7
-\end{array}
-$
-
-</div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds7.47$
 
 </div>
 <div class='answer'>
@@ -86,25 +68,6 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
-$
-\begin{array}{cccccccccccccc}
-    &    2  &    0 \ .  &    0  &    0 \\
-{}- &    1  &    2 \ .  &    5  &    3 \\
-\hline
-  &         &    7 \ .  &    4  &    7
-\end{array}
-$
-</code></pre>
-</div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
@@ -114,7 +77,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds7.47$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -353,100 +316,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$67$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$\pounds 20 - \pounds 12.53$
-
-</div>
-
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 7.47$
-
-</div>
-</div>
-
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 7.47$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$41 \times 63 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-       &        &            &   4   &   1 \\
-       &        &   \times   &   6   &   3 \\
-\hline
-       &        &   1        &   2   &   3 \\
-       &    2   &   4        &   6   &   0 \\
-\hline
-       &    2   &   5        &   8   &   3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2583$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-       &        &            &   4   &   1 \\
-       &        &   \times   &   6   &   3 \\
-\hline
-       &        &   1        &   2   &   3 \\
-       &    2   &   4        &   6   &   0 \\
-\hline
-       &    2   &   5        &   8   &   3
-\end{array}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2583$
 </code></pre>
 </div>
 </div>

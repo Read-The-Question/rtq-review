@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -882,7 +882,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3322EA7C-DA09-4452-AAFA-C64EAE93EE30</p>
 </div>
@@ -896,7 +896,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -931,7 +931,6 @@ $
 \begin{aligned}
 60 \% \ \text {of} \ a               &=  240 \\\\
 \dfrac {60} {100} \times a           &=  240 \\\\
-a                                    &=  240 \times \dfrac {100} {60} \\\\
 a                                    &=  \dfrac {240 \times 100} {60} \\\\
 a                                    &=  \dfrac {60 \times 4 \times 100} {60} \\\\
 a                                    &=  \dfrac {\cancel {60} \times 4 \times 100} {\cancel {60}} \\\\
@@ -964,7 +963,6 @@ $
 \begin{aligned}
 60 \% \ \text {of} \ a               &=  240 \\\\
 \dfrac {60} {100} \times a           &=  240 \\\\
-a                                    &=  240 \times \dfrac {100} {60} \\\\
 a                                    &=  \dfrac {240 \times 100} {60} \\\\
 a                                    &=  \dfrac {60 \times 4 \times 100} {60} \\\\
 a                                    &=  \dfrac {\cancel {60} \times 4 \times 100} {\cancel {60}} \\\\
@@ -1830,7 +1828,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>140F0395-4212-4458-B2B7-7AF063D4D08B</p>
 </div>
@@ -1844,7 +1842,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1880,7 +1878,7 @@ $
 \dfrac {1} {2} \times a                                                  &=  8 + \dfrac {3} {7} \times a \\\\
 \dfrac {a} {2}                                                           &=  8 + \dfrac {3 a} {7} \\\\
 \dfrac {a} {2} - \dfrac {3 a} {7}                                        &=  8 \\\\
-\dfrac {1 \times 7 a} {2 \times 7} - \dfrac {3 \times 2 a} {7 \times 2}  &=  8 \\\\
+\dfrac {a \times 7 } {2 \times 7} - \dfrac {3a \times 2 } {7 \times 2}  &=  8 \\\\
 \dfrac {7 a} {14} - \dfrac {6 a} {14}                                    &=  8 \\\\
 \dfrac {7 a - 6 a} {14}                                                  &=  8 \\\\
 \dfrac {a} {14}                                                          &=  8 \\\\
@@ -1913,7 +1911,7 @@ $
 \dfrac {1} {2} \times a                                                  &=  8 + \dfrac {3} {7} \times a \\\\
 \dfrac {a} {2}                                                           &=  8 + \dfrac {3 a} {7} \\\\
 \dfrac {a} {2} - \dfrac {3 a} {7}                                        &=  8 \\\\
-\dfrac {1 \times 7 a} {2 \times 7} - \dfrac {3 \times 2 a} {7 \times 2}  &=  8 \\\\
+\dfrac {a \times 7 } {2 \times 7} - \dfrac {3a \times 2 } {7 \times 2}  &=  8 \\\\
 \dfrac {7 a} {14} - \dfrac {6 a} {14}                                    &=  8 \\\\
 \dfrac {7 a - 6 a} {14}                                                  &=  8 \\\\
 \dfrac {a} {14}                                                          &=  8 \\\\
@@ -2079,7 +2077,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A</p>
 </div>
@@ -2093,7 +2091,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3687,6 +3685,7 @@ Let the three numbers $= a, \ a + 2, \ a + 4$
 As per the question,
 
 $
+\begin{aligned}
 a + a + 2 + a + 4 &= 15 \\\\
 3 a + 6           &= 15 \\\\
 3 a               &= 15 - 6 \\\\
@@ -3695,6 +3694,7 @@ a                 &= \dfrac {9} {3} \\\\
 a                 &= \dfrac {3 \times 3} {3} \\\\
 a                 &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
 a                 &= 3
+\end{aligned}
 $
 
 Three numbers $= 3, \ 5, \ 7$
@@ -3716,6 +3716,7 @@ $3, \ 5, \ 7$
 As per the question,
 
 $
+\begin{aligned}
 a + a + 2 + a + 4 &= 15 \\\\
 3 a + 6           &= 15 \\\\
 3 a               &= 15 - 6 \\\\
@@ -3724,6 +3725,7 @@ a                 &= \dfrac {9} {3} \\\\
 a                 &= \dfrac {3 \times 3} {3} \\\\
 a                 &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
 a                 &= 3
+\end{aligned}
 $
 
 Three numbers $= 3, \ 5, \ 7$
@@ -3758,18 +3760,8 @@ Jenny has two younger brothers. The total of all three of their ages is $15$, an
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -3782,23 +3774,8 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -4110,7 +4087,7 @@ $06{:}36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>938E522F-43A3-44CB-9551-C2D9CF301F50</p>
 </div>
@@ -4124,7 +4101,7 @@ $06{:}36$
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

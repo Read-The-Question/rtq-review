@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -999,7 +999,7 @@ What is the value of the digit $9$ in the number $32.597$?
 <div class='workings'>
 <div class='working'>
 
-$nine tenths$
+nine tenths
 
 </div>
 </div>
@@ -1016,7 +1016,7 @@ $nine tenths$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$nine tenths$
+<pre class='language-latex'><code class='language-latex'>nine tenths
 </code></pre>
 </div>
 </div>
@@ -1252,7 +1252,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>2AF3E060-70CE-432C-B107-85983B43DE14</p>
 </div>
@@ -1266,7 +1266,7 @@ $
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1283,36 +1283,21 @@ Show your working when answering these questions.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1324,17 +1309,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1351,7 +1326,8 @@ $454 + 297 =$
 
 $
 \begin{aligned}
-454 + 297 &= 751
+&= 454 + 297 \\\\
+&= 751
 \end{aligned}
 $
 
@@ -1369,7 +1345,8 @@ $751$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-454 + 297 &= 751
+&= 454 + 297 \\\\
+&= 751
 \end{aligned}
 $
 </code></pre>
@@ -1402,7 +1379,8 @@ $604 - 447 =$
 
 $
 \begin{aligned}
-604 - 447 = 157
+&= 604 - 447 \\\\
+&= 157
 \end{aligned}
 $
 
@@ -1420,7 +1398,8 @@ $157$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-604 - 447 = 157
+&= 604 - 447 \\\\
+&= 157
 \end{aligned}
 $
 </code></pre>
@@ -1453,7 +1432,8 @@ $32 \times 74 =$
 
 $
 \begin{aligned}
-32 \times 74 &= 2368
+&= 32 \times 74 \\\\
+&= 2368
 \end{aligned}
 $
 
@@ -1471,7 +1451,8 @@ $2368$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-32 \times 74 &= 2368
+&= 32 \times 74 \\\\
+&= 2368
 \end{aligned}
 $
 </code></pre>
@@ -1504,7 +1485,11 @@ $4184 \div 8 =$
 
 $
 \begin{aligned}
-4184 \div 8 &= 523
+&= 4184 \div 8  \\\\
+&= \dfrac{4184}{8} \\\\
+&= \dfrac{523 \times 8}{8} \\\\
+&= \dfrac{523 \times \cancel{8}}{\cancel{8}} \\\\
+&= 523
 \end{aligned}
 $
 
@@ -1522,7 +1507,11 @@ $523$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-4184 \div 8 &= 523
+&= 4184 \div 8  \\\\
+&= \dfrac{4184}{8} \\\\
+&= \dfrac{523 \times 8}{8} \\\\
+&= \dfrac{523 \times \cancel{8}}{\cancel{8}} \\\\
+&= 523
 \end{aligned}
 $
 </code></pre>
@@ -1544,6 +1533,59 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+In the main question, you can see TODOWORKING and TODOAnswers, remove extra working extra answer
+
+replace TODOWORKING with %empty%, DO NOT REMOVE IT COMPLETELY, you need to keep one working and one answer even if its empty
+
+
+
+
+
+Answers are not written the right way, refer answer in the same file 4624AA36-41A6-4B3C-B4F2-11671F5E0925
+
+
+
+am giving a pseudo code for first answer, you need to fix all the same way. we do not write lhs = rhs for numbers, we instead use equations starting with =, repeat the question and then solve
+
+
+
+for eg, write this in begin alinged
+
+
+
+&= 454 + 297 \\
+
+&= 751
+
+
+
+Do the same for all
+
+
+
+
+
+
+
+
+
+ignore my previous comments
+
+
+
+you need to do part a b and c using detailed addition, subtraction and multiplication, refer those papers for how to write
+
+
+
+for part you need to show factors and cancel, please refer previus questions in the same paper for how to write factors and cancel, refer coding guidelines too.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4632,7 +4674,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>4D14222B-4C3F-48C9-8F72-3BEA18655358</p>
 </div>
@@ -4643,10 +4685,10 @@ TODOANSWER
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4663,7 +4705,7 @@ These pictures show parts of a scale with equal gaps between each marking. What 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+TODOANSWER
 
 </div>
 <div class='working'>
@@ -4687,7 +4729,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4730,36 +4772,29 @@ TODOANSWER
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+0.7
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+0.7
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+0.7
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4771,17 +4806,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>0.7
 </code></pre>
 </div>
 </div>
@@ -4799,36 +4824,29 @@ TODOANSWER
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+1.6
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+1.6
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+1.6
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4840,17 +4858,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>1.6
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -787,7 +787,7 @@ $ 2{:}00 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -795,13 +795,13 @@ $ 2{:}00 \ \text{pm}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -864,11 +864,15 @@ As per the question,
 $
 \begin{aligned}
 &= 1760 \times 0.6 \\\\
+&= 1760 \times\dfrac{6}{10} \\\\
+&=\dfrac{176\times 10\times 6}{10} \\\\
+&=\dfrac{176\times\cancel{10}\times 6}{\cancel{10}} \\\\
+&=176\times 6\\\\
 &= 1056 \ \text{yards}
 \end{aligned}
 $
 
-I live $1056 \text {yards}$ away from Goodison Park.
+
 
 </div>
 </div>
@@ -887,11 +891,15 @@ $1056 \ \text{yards}$
 $
 \begin{aligned}
 &= 1760 \times 0.6 \\\\
+&= 1760 \times\dfrac{6}{10} \\\\
+&=\dfrac{176\times 10\times 6}{10} \\\\
+&=\dfrac{176\times\cancel{10}\times 6}{\cancel{10}} \\\\
+&=176\times 6\\\\
 &= 1056 \ \text{yards}
 \end{aligned}
 $
 
-I live $1056 \text {yards}$ away from Goodison Park.
+
 </code></pre>
 </div>
 </div>
@@ -925,11 +933,13 @@ As per the question,
 $
 \begin{aligned}
 &= \dfrac {4400} {1760} \\\\
+&= \dfrac {25\times 176} {10\times 176} \\\\
+&= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
+&=\dfrac{25}{10}\\\\
 &= 2.5 \ \text {miles}
 \end{aligned}
 $
 
-I live $2.5$ miles away from Anfield football stadium.
 
 </div>
 </div>
@@ -948,11 +958,13 @@ $2.5 \ \text {miles}$
 $
 \begin{aligned}
 &= \dfrac {4400} {1760} \\\\
+&= \dfrac {25\times 176} {10\times 176} \\\\
+&= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
+&=\dfrac{25}{10}\\\\
 &= 2.5 \ \text {miles}
 \end{aligned}
 $
 
-I live $2.5$ miles away from Anfield football stadium.
 </code></pre>
 </div>
 </div>
@@ -987,11 +999,11 @@ $
 \begin{aligned}
 &= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
 &= \dfrac {2.5 \times 5} {8} \\\\
+&= \dfrac {12.5} {8} \\\\
 &= 1.5625 \ \text {km}
 \end{aligned}
 $
 
-I live $1.5625$ km away from Anfield.
 
 </div>
 </div>
@@ -1011,11 +1023,11 @@ $
 \begin{aligned}
 &= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
 &= \dfrac {2.5 \times 5} {8} \\\\
+&= \dfrac {12.5} {8} \\\\
 &= 1.5625 \ \text {km}
 \end{aligned}
 $
 
-I live $1.5625$ km away from Anfield.
 </code></pre>
 </div>
 </div>
@@ -1350,7 +1362,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BE2D8C56-1D9C-4A7F-BA9C-6FF46B0B1C3E</p>
 </div>
@@ -1358,13 +1370,13 @@ $
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1422,21 +1434,23 @@ I think of a number, multiply it by $17$ and then subtract $19$. The result is $
 <div class='workings'>
 <div class='working'>
 
-Let the number I think $= a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-(17 \times a) - 19  &= 66 \\\\
-(17 \times a)       &= 66 + 19 \\\\
-17a                 &= 85 \\\\
-a                   &= \dfrac {85} {17} \\\\
-a                   &= \dfrac {17 \times 5} {17} \\\\
-a                   &= \dfrac {\cancel {17} \times 5} {\cancel {17}} \\\\
-a                   &= 5
+a \times 17 - 19        &= 66 \\\\
+17a                     &= 66 + 19 \\\\
+17a                     &= 85 \\\\
+a                       &= \dfrac {85} {17} \\\\
+a                       &= \dfrac {5 \times 17} {17} \\\\
+a                       &= \dfrac {5 \times \cancel {17}} {\cancel {17}} \\\\
+a                       &= 5
 \end{aligned}
 $
+
+The number $= 5$
 
 </div>
 </div>
@@ -1450,21 +1464,23 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I think $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-(17 \times a) - 19  &= 66 \\\\
-(17 \times a)       &= 66 + 19 \\\\
-17a                 &= 85 \\\\
-a                   &= \dfrac {85} {17} \\\\
-a                   &= \dfrac {17 \times 5} {17} \\\\
-a                   &= \dfrac {\cancel {17} \times 5} {\cancel {17}} \\\\
-a                   &= 5
+a \times 17 - 19        &= 66 \\\\
+17a                     &= 66 + 19 \\\\
+17a                     &= 85 \\\\
+a                       &= \dfrac {85} {17} \\\\
+a                       &= \dfrac {5 \times 17} {17} \\\\
+a                       &= \dfrac {5 \times \cancel {17}} {\cancel {17}} \\\\
+a                       &= 5
 \end{aligned}
 $
+
+The number $= 5$
 </code></pre>
 </div>
 </div>
@@ -1495,15 +1511,15 @@ $10 \,\, \times \,\, k \,\, + \,\, 23 = 4 \times \,\, k \,\, +\,\,  35$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-10k + 23 &= 4k + 35 \\\\
-10k - 4k &= 35 - 23 \\\\
-6k       &= 12 \\\\
-k        &= \dfrac {12} {6} \\\\
-k        &= 2
+10k + 23    &= 4k + 35 \\\\
+10k - 4k    &= 35 - 23 \\\\
+6k          &= 12 \\\\
+k           &= \dfrac {12} {6} \\\\
+k           &= \dfrac {2 \times 6} {6} \\\\
+k           &= \dfrac {2 \times \cancel {6}} {\cancel {6}} \\\\
+k           &= 2
 \end{aligned}
 $
 
@@ -1519,15 +1535,15 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-10k + 23 &= 4k + 35 \\\\
-10k - 4k &= 35 - 23 \\\\
-6k       &= 12 \\\\
-k        &= \dfrac {12} {6} \\\\
-k        &= 2
+10k + 23    &= 4k + 35 \\\\
+10k - 4k    &= 35 - 23 \\\\
+6k          &= 12 \\\\
+k           &= \dfrac {12} {6} \\\\
+k           &= \dfrac {2 \times 6} {6} \\\\
+k           &= \dfrac {2 \times \cancel {6}} {\cancel {6}} \\\\
+k           &= 2
 \end{aligned}
 $
 </code></pre>
@@ -4095,7 +4111,7 @@ There are $105$ white counters in the bag.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CF6BAF33-A5F8-41F9-A140-9829B0BE78AC</p>
 </div>
@@ -4103,13 +4119,13 @@ There are $105$ white counters in the bag.
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

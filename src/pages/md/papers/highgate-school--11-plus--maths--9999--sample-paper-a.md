@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-07-12 14:53:28
+date: 2022-07-13 17:07:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1413,7 +1413,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E746A07A-99C6-4560-9C98-E8B7D1056C67</p>
 </div>
@@ -1424,7 +1424,7 @@ TODOANSWER
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1489,11 +1489,11 @@ How many adults are there in Mathsville?
 <div class='workings'>
 <div class='working'>
 
-If $45 \%$ residents are children, then the adults will be $100 - 45 = 55 \%$ of the total residents. Using that we get,
+As per the question,
 
 $
 \begin{aligned}
-\text{Total adults}    &= 55 \% \ \text {of} \ 360 \\\\
+\text{Number of adults} &= 55 \% \ \text {of} \ 360 \\\\
                        &= \dfrac {55} {100} \times 360 \\\\
                        &= \dfrac {55 \times 360} {100} \\\\
                        &= \dfrac {11 \times 5 \times 20 \times 18} {5 \times 20} \\\\
@@ -1515,11 +1515,11 @@ $198$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>If $45 \%$ residents are children, then the adults will be $100 - 45 = 55 \%$ of the total residents. Using that we get,
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
-\text{Total adults}    &= 55 \% \ \text {of} \ 360 \\\\
+\text{Number of adults} &= 55 \% \ \text {of} \ 360 \\\\
                        &= \dfrac {55} {100} \times 360 \\\\
                        &= \dfrac {55 \times 360} {100} \\\\
                        &= \dfrac {11 \times 5 \times 20 \times 18} {5 \times 20} \\\\
@@ -1558,12 +1558,12 @@ What percentage of the pupils are boys?
 <div class='workings'>
 <div class='working'>
 
-If $56 \%$ of the pupils are girls, then the number of boys is $280 - 56 = 224 \%$. Using that we get,
+As per the question,
 
 $
 \begin{aligned}
 \text{Percentage of boys}    &= \dfrac {\text {Number of boys}} {\text {Total pupils}} \times 100 \\\\
-                             &= \dfrac {224} {280} \times 100 \\\\
+                             &= \dfrac {280 - 56} {280} \times 100 \\\\
                              &= \dfrac {224 \times 100} {280} \\\\
                              &= \dfrac {8 \times 4 \times 7 \times 10 \times 10} {4 \times 7 \times 10} \\\\
                              &= \dfrac {8 \times \cancel {4} \times \cancel {7} \times \cancel {10} \times 10} {\cancel {4} \times \cancel {7} \times \cancel {10}} \\\\
@@ -1584,12 +1584,12 @@ $80 \%$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>If $56 \%$ of the pupils are girls, then the number of boys is $280 - 56 = 224 \%$. Using that we get,
+<pre class='language-latex'><code class='language-latex'>As per the question,
 
 $
 \begin{aligned}
 \text{Percentage of boys}    &= \dfrac {\text {Number of boys}} {\text {Total pupils}} \times 100 \\\\
-                             &= \dfrac {224} {280} \times 100 \\\\
+                             &= \dfrac {280 - 56} {280} \times 100 \\\\
                              &= \dfrac {224 \times 100} {280} \\\\
                              &= \dfrac {8 \times 4 \times 7 \times 10 \times 10} {4 \times 7 \times 10} \\\\
                              &= \dfrac {8 \times \cancel {4} \times \cancel {7} \times \cancel {10} \times 10} {\cancel {4} \times \cancel {7} \times \cancel {10}} \\\\
@@ -1628,15 +1628,25 @@ What did it cost a year ago?
 <div class='workings'>
 <div class='working'>
 
-If the price have been increased by $50 \%$, then the price in the past year would be $100 - 50 = 50 \%$. Using that we get,
+Let the cost of bus ticket a year ago (in pounds) $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Cost of bus ticket}    &= 50 \% \ \text {of} \ \pounds 1.80 \\\\
-                             &= \dfrac {50} {100} \times 1.80 \\\\
-                             &= \dfrac {50 \times 1.80} {100} \\\\
-                             &= \dfrac {90} {100} \\\\
-                             &= \pounds 0.900
+a + \dfrac {50} {100} \times a &= 1.80 \\\\
+a + \dfrac {50 \times a} {50 \times 2}  &= 1.80 \\\\
+a + \dfrac {\cancel {50} \times a} {\cancel {50} \times 2}  &= 1.80 \\\\
+a + \dfrac {a} {2}  &= 1.80 \\\\
+\dfrac {a \times 2} {2} + \dfrac {a} {2}  &= 1.80 \\\\
+\dfrac {2a + a} {2} &= 1.80 \\\\
+\dfrac {3a} {2} &= 1.80 \\\\
+3a &= 1.80 \times 2 \\\\
+3a &=  3.60 \\\\
+a &= \dfrac {3.60} {3} \\\\
+a &= \dfrac { 3 \times 1.20} {3} \\\\
+a &= \dfrac { \cancel 3 \times 1.20} { \cancel 3} \\\\
+a &= \pounds 1.20
 \end{aligned}
 $
 
@@ -1645,22 +1655,32 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.900$
+$\pounds 1.20$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>If the price have been increased by $50 \%$, then the price in the past year would be $100 - 50 = 50 \%$. Using that we get,
+<pre class='language-latex'><code class='language-latex'>Let the cost of bus ticket a year ago (in pounds) $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Cost of bus ticket}    &= 50 \% \ \text {of} \ \pounds 1.80 \\\\
-                             &= \dfrac {50} {100} \times 1.80 \\\\
-                             &= \dfrac {50 \times 1.80} {100} \\\\
-                             &= \dfrac {90} {100} \\\\
-                             &= \pounds 0.900
+a + \dfrac {50} {100} \times a &= 1.80 \\\\
+a + \dfrac {50 \times a} {50 \times 2}  &= 1.80 \\\\
+a + \dfrac {\cancel {50} \times a} {\cancel {50} \times 2}  &= 1.80 \\\\
+a + \dfrac {a} {2}  &= 1.80 \\\\
+\dfrac {a \times 2} {2} + \dfrac {a} {2}  &= 1.80 \\\\
+\dfrac {2a + a} {2} &= 1.80 \\\\
+\dfrac {3a} {2} &= 1.80 \\\\
+3a &= 1.80 \times 2 \\\\
+3a &=  3.60 \\\\
+a &= \dfrac {3.60} {3} \\\\
+a &= \dfrac { 3 \times 1.20} {3} \\\\
+a &= \dfrac { \cancel 3 \times 1.20} { \cancel 3} \\\\
+a &= \pounds 1.20
 \end{aligned}
 $
 </code></pre>
@@ -1674,7 +1694,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 0.900$
+<pre class='language-latex'><code class='language-latex'>$\pounds 1.20$
 </code></pre>
 </div>
 </div>
@@ -1696,21 +1716,93 @@ How much does a calculator cost, and how much does a protractor cost?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the cost of a calculator (in pounds) $= a$
+
+Let the cost of a protractor (in pounds) $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+4a + 3b &= 16.10 \\\\
+2a + b &= 7.50 \\\\
+\end{aligned}
+$
+
+Let's substitute b from the first equation to reduce it to just one variable.
+
+$
+\begin{aligned}
+4a + 3(7.50 - 2a) &= 16.10 \\\\
+4a + 3 \times 7.50 - 3 \times 2a &= 16.10 \\\\
+4a + 22.5 - 6a &= 16.10 \\\\
+22.5 - 2a &= 16.10 \\\\
+2a &= 22.5 -  16.10 \\\\
+2a &= 6.40 \\\\
+a &= \dfrac {6.40} {2} \\\\
+a &= \dfrac {3.20 \times 2} {2} \\\\
+a &= \dfrac {3.20 \times \cancel 2} {\cancel 2} \\\\
+a &= 3.20 \\\\
+b &= 7.50 - 2a \\\\
+b &= 7.50 - 2 \times 3.20 \\\\
+b &= 7.50 - 6.40 \\\\
+b &= 1.10
+\end{aligned}
+$
+
+The cost of a calculator (in pounds) $= 3.20$
+
+The cost of a protractor (in pounds) $= 1.10$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\pounds 3.20 , \pounds 1.10$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let the cost of a calculator (in pounds) $= a$
+
+Let the cost of a protractor (in pounds) $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+4a + 3b &= 16.10 \\\\
+2a + b &= 7.50 \\\\
+\end{aligned}
+$
+
+Let's substitute b from the first equation to reduce it to just one variable.
+
+$
+\begin{aligned}
+4a + 3(7.50 - 2a) &= 16.10 \\\\
+4a + 3 \times 7.50 - 3 \times 2a &= 16.10 \\\\
+4a + 22.5 - 6a &= 16.10 \\\\
+22.5 - 2a &= 16.10 \\\\
+2a &= 22.5 -  16.10 \\\\
+2a &= 6.40 \\\\
+a &= \dfrac {6.40} {2} \\\\
+a &= \dfrac {3.20 \times 2} {2} \\\\
+a &= \dfrac {3.20 \times \cancel 2} {\cancel 2} \\\\
+a &= 3.20 \\\\
+b &= 7.50 - 2a \\\\
+b &= 7.50 - 2 \times 3.20 \\\\
+b &= 7.50 - 6.40 \\\\
+b &= 1.10
+\end{aligned}
+$
+
+The cost of a calculator (in pounds) $= 3.20$
+
+The cost of a protractor (in pounds) $= 1.10$
 </code></pre>
 </div>
 </div>
@@ -1722,7 +1814,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds 3.20 , \pounds 1.10$
 </code></pre>
 </div>
 </div>
@@ -1749,36 +1841,47 @@ What is the total population of Numbertown?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let the total population of Numbertown $= a$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\dfrac {3} {5} \times \dfrac {1} {3} \times a &= 500 \\\\
+\dfrac {3} {5 \times 3} \times a &= 500 \\\\
+\dfrac {\cancel 3} {5 \times \cancel 3} \times a &= 500 \\\\
+\dfrac {1} {5} \times a &= 500 \\\\
+a &= 500 \times 5 \\\\
+a &= 2500 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$2500$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Let the total population of Numbertown $= a$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {5} \times \dfrac {1} {3} \times a &= 500 \\\\
+\dfrac {3} {5 \times 3} \times a &= 500 \\\\
+\dfrac {\cancel 3} {5 \times \cancel 3} \times a &= 500 \\\\
+\dfrac {1} {5} \times a &= 500 \\\\
+a &= 500 \times 5 \\\\
+a &= 2500 
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1790,17 +1893,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$2500$
 </code></pre>
 </div>
 </div>
@@ -1809,6 +1902,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='E746A07A-99C6-4560-9C98-E8B7D1056C67' id='FORM-E746A07A-99C6-4560-9C98-E8B7D1056C67' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E746A07A-99C6-4560-9C98-E8B7D1056C67'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

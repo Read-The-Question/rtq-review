@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-oldpr"
 title: "TopicPaper - Number - 14 - OLDPR"
-date: 2022-07-12 14:58:45
+date: 2022-07-13 17:13:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>DA73C8E9-6BBC-4FA7-B8E6-E5C1634B2EF7</p>
 </div>
@@ -13,13 +13,13 @@ date: 2022-07-12 14:58:45
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -79,7 +79,7 @@ in mm
 
 $
 \begin{aligned}
-&= 7.8 \ \text{cm} \times 10 \\\\
+&= 7.8 \times 10 \ \text{mm} \\\\
 &= 78 \ \text{mm}
 \end{aligned}
 $
@@ -98,7 +98,7 @@ $78 \ \text{mm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 7.8 \ \text{cm} \times 10 \\\\
+&= 7.8 \times 10 \ \text{mm} \\\\
 &= 78 \ \text{mm}
 \end{aligned}
 $
@@ -132,7 +132,8 @@ in m
 
 $
 \begin{aligned}
-&= \dfrac{7.8 \ \text{cm} } {100}  \\\\
+&= 7.8 \times\dfrac{1}{100}\ \text{m}   \\\\
+&= \dfrac{7.8}{100}  \\\\
 &= 0.078 \ \text{m}
 \end{aligned}
 $
@@ -151,7 +152,8 @@ $0.078 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{7.8 \ \text{cm} } {100}  \\\\
+&= 7.8 \times\dfrac{1}{100}\ \text{m}   \\\\
+&= \dfrac{7.8}{100}  \\\\
 &= 0.078 \ \text{m}
 \end{aligned}
 $
@@ -236,10 +238,10 @@ same change...
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -301,26 +303,19 @@ $\boxed {57}$  Subtract 28  $\boxed {........}$  Add...... $\boxed {63}$
 <div class='workings'>
 <div class='working'>
 
-Let the first space $a$ and second space $b$,
+Let first space $= a$
 
-Let's find $a$ first
+Let second space $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-a &= 57 - 28  \\\\
-a  &=  29
-\end{aligned}
-$
-
-Let's find $b$
-
-$
-\begin{aligned}
-29 + b &=  63  \\\\
-b &=  63 - 29 \\\\
-b &= 34
+a          &= 57 - 28  \\\\
+a          &=  29 \\\\
+29 + b     &=  63  \\\\
+b          &=  63 - 29 \\\\
+b          &= 34
 \end{aligned}
 $
 
@@ -336,26 +331,19 @@ $29, 34$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and second space $b$,
+<pre class='language-latex'><code class='language-latex'>Let first space $= a$
 
-Let's find $a$ first
+Let second space $= b$
 
 As per the question,
 
 $
 \begin{aligned}
-a &= 57 - 28  \\\\
-a  &=  29
-\end{aligned}
-$
-
-Let's find $b$
-
-$
-\begin{aligned}
-29 + b &=  63  \\\\
-b &=  63 - 29 \\\\
-b &= 34
+a          &= 57 - 28  \\\\
+a          &=  29 \\\\
+29 + b     &=  63  \\\\
+b          &=  63 - 29 \\\\
+b          &= 34
 \end{aligned}
 $
 </code></pre>
@@ -387,26 +375,19 @@ $\boxed {53}$ Add.......  $\boxed {..125....}$  Subtract 39  $\boxed {.........}
 <div class='workings'>
 <div class='working'>
 
-Let the first space $a$ and let the second space $b$
+Let first space $= a$ 
 
-Let's find $a$ first
+let second space $= b$
 
 As per the question, 
 
 $
 \begin{aligned}
-53 + a &=  125  \\\\
-a &=  125 - 53 \\\\
-a &= 72
-\end{aligned}
-$
-
-Let's find b
-
-$
-\begin{aligned}
-b = 125 - 39 \\\\
-b = 86
+53 + a      &=  125  \\\\
+a           &=  125 - 53 \\\\
+a           &= 72  \\\\
+b           &= 125 - 39 \\\\
+b           &= 86
 \end{aligned}
 $
 </div>
@@ -421,26 +402,19 @@ $72, 86$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first space $a$ and let the second space $b$
+<pre class='language-latex'><code class='language-latex'>Let first space $= a$ 
 
-Let's find $a$ first
+let second space $= b$
 
 As per the question, 
 
 $
 \begin{aligned}
-53 + a &=  125  \\\\
-a &=  125 - 53 \\\\
-a &= 72
-\end{aligned}
-$
-
-Let's find b
-
-$
-\begin{aligned}
-b = 125 - 39 \\\\
-b = 86
+53 + a      &=  125  \\\\
+a           &=  125 - 53 \\\\
+a           &= 72  \\\\
+b           &= 125 - 39 \\\\
+b           &= 86
 \end{aligned}
 $</code></pre>
 </div>
@@ -465,6 +439,10 @@ $</code></pre>
 
 <h4>Review Comments</h4>
 Refer to the corrections done in similar question in previous paper. 
+
+
+
+Not written per algebra standards
 </div>
 
 <div class='review'>
@@ -507,7 +485,7 @@ Refer to the corrections done in similar question in previous paper.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FEC89A56-1AF8-4052-8EDD-95EC29CBFA28</p>
 </div>
@@ -515,13 +493,13 @@ Refer to the corrections done in similar question in previous paper.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -583,7 +561,11 @@ Which of the numbers has an **odd** number of factors? (Hint: there is only one)
 
 The square numbers have an odd numbers of factors.
 
-$49 &= 7^2$
+$
+\begin{aligned}
+49 &= 7^2
+\end{aligned}
+$
 
 </div>
 </div>
@@ -599,7 +581,11 @@ $49$
 
 <pre class='language-latex'><code class='language-latex'>The square numbers have an odd numbers of factors.
 
-$49 &= 7^2$
+$
+\begin{aligned}
+49 &= 7^2
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -628,7 +614,11 @@ Give another example of a number with an odd number of factors.
 <div class='workings'>
 <div class='working'>
 
-$25$
+$
+\begin{aligned}
+15 &= 3\times 5
+\end{aligned}
+$
 
 </div>
 </div>
@@ -642,7 +632,11 @@ $25$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$25$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+15 &= 3\times 5
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -794,7 +788,7 @@ Refer to the corrections done in similar question in previous paper.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>9A21B777-4815-48B4-8EBE-0799D0C7C977</p>
 </div>
@@ -802,13 +796,13 @@ Refer to the corrections done in similar question in previous paper.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -869,7 +863,7 @@ How far is this in metres?
 $
 \begin{aligned}
 &=  5.2 \ \text{km} \\\\
-&=  5.2 \times 1000 \\\\
+&=  5.2 \times 1000\ \text{metres} \\\\
 &=  5200 \ \text{metres}
 \end{aligned}
 $
@@ -889,7 +883,7 @@ $5200 \ \text{metres}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  5.2 \ \text{km} \\\\
-&=  5.2 \times 1000 \\\\
+&=  5.2 \times 1000\ \text{metres} \\\\
 &=  5200 \ \text{metres}
 \end{aligned}
 $
@@ -924,7 +918,8 @@ Goodison Park is a further $1200\,m$ from my house. How many **kilometres** is G
 $
 \begin{aligned}
 &= 1200 \ \text{metres} \\\\
-&= \dfrac {1200} {1000} \\\\
+&= 1200\times\dfrac {1}{1000}\ \text{km} \\\\
+&=dfrac{1200}{1000}\\\\
 &= \dfrac {12 \cancel{00} } {10 \cancel{00} } \\\\
 &= \dfrac {12} {10} \\\\
 &= 1.2 \ \text{km}
@@ -946,7 +941,8 @@ $1.2 \ \text{km}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 1200 \ \text{metres} \\\\
-&= \dfrac {1200} {1000} \\\\
+&= 1200\times\dfrac {1}{1000}\ \text{km} \\\\
+&=dfrac{1200}{1000}\\\\
 &= \dfrac {12 \cancel{00} } {10 \cancel{00} } \\\\
 &= \dfrac {12} {10} \\\\
 &= 1.2 \ \text{km}
@@ -1088,7 +1084,7 @@ for Part c (extra) As per the question,
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3137279D-0797-499D-81D8-8651675F4A7D</p>
 </div>
@@ -1096,13 +1092,13 @@ for Part c (extra) As per the question,
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1127,11 +1123,19 @@ d) $1500\,mm$
 <div class='workings'>
 <div class='working'>
 
-$120 cm$ is nearly the height of a dwarf. 
-$150 mm or 15 cm$, height is not possible
-$1.8 m or 180 cm$ is nearly the height average height of a man
-$112 inches or 284 cm$ height is not possible 
-
+$ 
+\begin{aligned}
+110\ \text{cm}&= 110\times 0. 0328084 \ \text{feet}\ \\\\ 
+& = 3.60892 \ \text{feet}\ \\\\
+1.8\ \text{m}&= 1.8\times 3.28084\ \text{feet}\ \\\\
+& = 5.90551 \ \text{feet}\ \\\\
+12\ \text{m}&= 12 \times 3.28084\ \text{feet}\ \\\\ 
+& = 39.3701 \ \text{feet}\ \\\\
+1500\ \text{mm}&= 1500 \times 3.28084\ \text{feet}\ \\\\ 
+& = 4.92126 \ \text{feet}\ \\\\
+&\therefore \text{closest distance is 1.8 m}\
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1145,11 +1149,19 @@ $1.8 \ \text{m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$120 cm$ is nearly the height of a dwarf. 
-$150 mm or 15 cm$, height is not possible
-$1.8 m or 180 cm$ is nearly the height average height of a man
-$112 inches or 284 cm$ height is not possible 
-
+<pre class='language-latex'><code class='language-latex'>$ 
+\begin{aligned}
+110\ \text{cm}&= 110\times 0. 0328084 \ \text{feet}\ \\\\ 
+& = 3.60892 \ \text{feet}\ \\\\
+1.8\ \text{m}&= 1.8\times 3.28084\ \text{feet}\ \\\\
+& = 5.90551 \ \text{feet}\ \\\\
+12\ \text{m}&= 12 \times 3.28084\ \text{feet}\ \\\\ 
+& = 39.3701 \ \text{feet}\ \\\\
+1500\ \text{mm}&= 1500 \times 3.28084\ \text{feet}\ \\\\ 
+& = 4.92126 \ \text{feet}\ \\\\
+&\therefore \text{closest distance is 1.8 m}\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1209,373 +1221,19 @@ $112 inches or 284 cm$ height is not possible
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
-<p>9918B00D-75CB-41DB-93FD-465940FFC114</p>
-</div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:1:1</p>
-</div>
-<div class='rag'>
-<p>Kiran Babu</p>
-</div>
-<div class='rag'>
-<p>rag_kb_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-423 + 237 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   4   &   2   &   3 \\
-{}+ &   2   &   3   &   7 \\
-\hline\
-    &   6   &   6   &   0 \\
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$660$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-    &   4   &   2   &   3 \\
-{}+ &   2   &   3   &   7 \\
-\hline\
-    &   6   &   6   &   0 \\
-\end{array}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$660$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-354 - 97  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   3   &   5   &   4 \\
-{}- &       &   9   &   7 \\
-\hline\
-    &   2   &   5   &   7 \\
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$257$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-    &   3   &   5   &   4 \\
-{}- &       &   9   &   7 \\
-\hline\
-    &   2   &   5   &   7 \\
-\end{array}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$257$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$67
-\times 73$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-            &        &   6   &  
-            7\\
-            & \times &   7   &   3 \\
-\hline
-            &        2   &   0   &   1 \\
- 4          &   6    &   9   &   0 \\
-\hline
- 4          &   8    &   9   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4891$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-            &        &   6   &  
-            7\\
-            & \times &   7   &   3 \\
-\hline
-            &        2   &   0   &   1 \\
- 4          &   6    &   9   &   0 \\
-\hline
- 4          &   8    &   9   &   1
-\end{array}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4891$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$4122 \div 6$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&=  4122 \div 6 \\\\
-&=  \dfrac{4122}{6} \\\\
-&=  \dfrac{6 \times 687}{{6}} \\\\
-&=  \dfrac{\cancel 6 \times 687}{\cancel6} \\\\
-&=  687
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$687$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&=  4122 \div 6 \\\\
-&=  \dfrac{4122}{6} \\\\
-&=  \dfrac{6 \times 687}{{6}} \\\\
-&=  \dfrac{\cancel 6 \times 687}{\cancel6} \\\\
-&=  687
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$687$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt c: Delete the leftmost & from the whole array. that is why the alignment is incorrect.
-
-
-
-
-
-c: * should be next to 7 as per coding guidelines, look at other detailed multiplications.
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='9918B00D-75CB-41DB-93FD-465940FFC114' id='FORM-9918B00D-75CB-41DB-93FD-465940FFC114' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9918B00D-75CB-41DB-93FD-465940FFC114'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
 <p>FB21F97F-B716-4F28-B691-6FF3FCEA330A</p>
 </div>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Kiran Babu</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_kb_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1600,11 +1258,14 @@ It ends in a $2$.
 
 As per the question,
 
-It is a multiple of $3$ and $7$. Since $3, 7$ have no common factors, the number is also a multiple of $3 \times 7 = 21$
-
-The number ends with 2. So,
-
-$21 \times 2 = 42$
+$
+\begin{aligned}
+&=3\times 7\\\\
+&=21\\\\
+&=21 \times 2\\\\
+&=42
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1620,11 +1281,14 @@ $42$
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
 
-It is a multiple of $3$ and $7$. Since $3, 7$ have no common factors, the number is also a multiple of $3 \times 7 = 21$
-
-The number ends with 2. So,
-
-$21 \times 2 = 42$
+$
+\begin{aligned}
+&=3\times 7\\\\
+&=21\\\\
+&=21 \times 2\\\\
+&=42
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>

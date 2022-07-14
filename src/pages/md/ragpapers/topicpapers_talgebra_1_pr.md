@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-pr"
 title: "TopicPaper - Algebra - 1 - PR"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2472,6 +2472,429 @@ The three whole numbers $= 9, 10, 11$.
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-B1C64F6A-081A-4555-A7F5-0374D76EA86A'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>87DD43D2-0743-438D-822B-510F1C7AB73E</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:2:4</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
+<p>rag_mr_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On Planet Cash, money is measured in Tinkles and Clinks. Here is an addition sum (which is known to be correct).
+
+![missing table](/papers/missing_table.svg)
+
+
+%waffles%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many Tinkles make one Clink?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total clinks}             &= 2 + 2 + 1 + 1 \\\\
+                                &= 6 \\\\
+\text{Remaining clinks}         &= 8 - 6 \\\\
+                                &= 2 \\\\
+\text{Total tinkles}            &= 5 + 4 + 3 + 3 \\\\
+                                &= 15 \\\\
+\text{Remaining tinkles}        &= 15 - 3 \\\\
+                                &= 12
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of tinkles per clink}      &= \dfrac {12} {2} \\\\
+                                        &= 6
+\end{aligned}
+$
+
+$6$ tinkles $= 1$ clink.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total clinks}             &= 2 + 2 + 1 + 1 \\\\
+                                &= 6 \\\\
+\text{Remaining clinks}         &= 8 - 6 \\\\
+                                &= 2 \\\\
+\text{Total tinkles}            &= 5 + 4 + 3 + 3 \\\\
+                                &= 15 \\\\
+\text{Remaining tinkles}        &= 15 - 3 \\\\
+                                &= 12
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of tinkles per clink}      &= \dfrac {12} {2} \\\\
+                                        &= 6
+\end{aligned}
+$
+
+$6$ tinkles $= 1$ clink.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out the answer to this subtraction.
+
+![missing table](/papers/missing_table.svg)
+
+
+%waffles%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+$
+\begin{aligned}
+\text{First number}                     &= 4 \ \text{clinks} + 3 \ \text{tinkles} \\\\
+                                        &= (4 \times 6 + 3) \ \text{tinkles} \\\\
+                                        &= 24 + 3 \\\\
+                                        &= 27 \ \text{tinkles}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Second number}                    &= 2 \ \text{clinks} + 5 \ \text{tinkles} \\\\
+                                        &= (2 \times 6 + 5) \ \text{tinkles} \\\\
+                                        &= 12 + 5 \\\\
+                                        &= 17 \ \text{tinkles}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Subtraction}                      &= \text{First Number} - \text{Second Number} \\\\
+                                        &= (27 - 17) \ \text{tinkles} \\\\
+                                        &= 10 \\\\
+                                        &= 6 + 4 \\\\
+                                        &= 1 \ \text{clink} + 4 \ \text{tinkles}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+$
+\begin{aligned}
+\text{First number}                     &= 4 \ \text{clinks} + 3 \ \text{tinkles} \\\\
+                                        &= (4 \times 6 + 3) \ \text{tinkles} \\\\
+                                        &= 24 + 3 \\\\
+                                        &= 27 \ \text{tinkles}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Second number}                    &= 2 \ \text{clinks} + 5 \ \text{tinkles} \\\\
+                                        &= (2 \times 6 + 5) \ \text{tinkles} \\\\
+                                        &= 12 + 5 \\\\
+                                        &= 17 \ \text{tinkles}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Subtraction}                      &= \text{First Number} - \text{Second Number} \\\\
+                                        &= (27 - 17) \ \text{tinkles} \\\\
+                                        &= 10 \\\\
+                                        &= 6 + 4 \\\\
+                                        &= 1 \ \text{clink} + 4 \ \text{tinkles}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$14$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out the answer to this division.
+
+![missing table](/papers/missing_table.svg)
+
+
+%waffles%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+$
+\begin{aligned}
+\text{The dividend}                     &= 7 \ \text{clinks} + 2 \ \text{tinkles} \\\\
+                                        &= (7 \times 6 + 2) \ \text{tinkles} \\\\
+                                        &= 42 + 3 \\\\
+                                        &= 44 \ \text{tinkles}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{The answer}                       &= \dfrac {44} {4} \\\\
+                                        &= \dfrac {4 \times 11} {4} \\\\
+                                        &= \dfrac {\cancel 4 \times 11} {\cancel 4} \\\\
+                                        &= 11 \\\\
+                                        &= 6 + 5 \\\\
+                                        &= 1 \ \text{clink} + 5 \ \text{tinkles}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+$
+\begin{aligned}
+\text{The dividend}                     &= 7 \ \text{clinks} + 2 \ \text{tinkles} \\\\
+                                        &= (7 \times 6 + 2) \ \text{tinkles} \\\\
+                                        &= 42 + 3 \\\\
+                                        &= 44 \ \text{tinkles}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{The answer}                       &= \dfrac {44} {4} \\\\
+                                        &= \dfrac {4 \times 11} {4} \\\\
+                                        &= \dfrac {\cancel 4 \times 11} {\cancel 4} \\\\
+                                        &= 11 \\\\
+                                        &= 6 + 5 \\\\
+                                        &= 1 \ \text{clink} + 5 \ \text{tinkles}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' id='FORM-87DD43D2-0743-438D-822B-510F1C7AB73E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-87DD43D2-0743-438D-822B-510F1C7AB73E'>Initial</p>
 </div>
 </div>
 </li>

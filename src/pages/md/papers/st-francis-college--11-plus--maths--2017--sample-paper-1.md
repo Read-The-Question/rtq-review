@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1399,7 +1399,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>D9B9E901-ED49-4035-81FE-273FD45511EB</p>
 </div>
@@ -1413,7 +1413,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1631,6 +1631,19 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: single num / deno rule violation, 
+
+b: use the same unit as requested for in the question, do not use short forms, grams instead of g
+
+c: l has to be in \text{}, write full instead of ml, \ space before ml both in answer and working, katex broken in answer
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3448,7 +3461,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>33BA3A42-D90E-400D-A934-CADF6E6B81F9</p>
 </div>
@@ -3462,7 +3475,7 @@ and solve further
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3479,101 +3492,47 @@ $2$ packets of crisps and $2$ drinks cost $\pounds 1.50$. $2$ packets of crisps 
 <div class='workings'>
 <div class='working'>
 
-Let the price of crisp $= a$
+Let the price of a packet of crisp $= a$
 
-Let the price of drinks $= b$
+Let the price of a drink $= b$
 
-$
-\begin{aligned}
-2a + 2b &= 1.50 \\\\
-2a      &= 1.50 - 2b 
-\end{aligned}
-$
+As per the question,
 
 $
-\begin{aligned}
-2a +  b  &= 1.10 \\\\
-2a       &= 1.10 - b 
-1.10 - b &= 1.50 - 2b \\\\
-2b - b   &= 1.50 - 1.10 \\\\
-b        &= 0.40
-\end{aligned}
+\begin {aligned}
+2a + 2b + 2a + b  &= 1.50 + 1.10 \\\\
+4a + 3b           &= \pounds 2.60
+\end {aligned}
 $
 
-$
-\begin{aligned}
-2a  &=  1.50 - 2b \\\\
-2a  &=  1.50 - 2 \times 0.40 \\\\
-2a  &=  1.50 - 0.80 \\\\
-2a  &=  0.70 \\\\
-a   &=  \dfrac {0.70} {2} \\\\
-a   &=  0.35
-\end{aligned}
-$
-
-Price of crisp $= \pounds 0.35$, and price of drinks $= \pounds 0.40$. Using this we get,
-
-$
-\begin{aligned}
-\text {For 4 crisps and 3 drinks} &= 4 \times 0.35 + 3 \times 0.40 \\\\
-                                  &= 1.4 + 1.2 \\\\
-                                  &= \pounds 2.6
-\end{aligned}
-$
+Cost of $4$ packets of crisps and $3$ drinks $= \pounds 2.60$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.6$
+$\pounds 2.60$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the price of crisp $= a$
+<pre class='language-latex'><code class='language-latex'>Let the price of a packet of crisp $= a$
 
-Let the price of drinks $= b$
+Let the price of a drink $= b$
 
-$
-\begin{aligned}
-2a + 2b &= 1.50 \\\\
-2a      &= 1.50 - 2b 
-\end{aligned}
-$
+As per the question,
 
 $
-\begin{aligned}
-2a +  b  &= 1.10 \\\\
-2a       &= 1.10 - b 
-1.10 - b &= 1.50 - 2b \\\\
-2b - b   &= 1.50 - 1.10 \\\\
-b        &= 0.40
-\end{aligned}
+\begin {aligned}
+2a + 2b + 2a + b  &= 1.50 + 1.10 \\\\
+4a + 3b           &= \pounds 2.60
+\end {aligned}
 $
 
-$
-\begin{aligned}
-2a  &=  1.50 - 2b \\\\
-2a  &=  1.50 - 2 \times 0.40 \\\\
-2a  &=  1.50 - 0.80 \\\\
-2a  &=  0.70 \\\\
-a   &=  \dfrac {0.70} {2} \\\\
-a   &=  0.35
-\end{aligned}
-$
-
-Price of crisp $= \pounds 0.35$, and price of drinks $= \pounds 0.40$. Using this we get,
-
-$
-\begin{aligned}
-\text {For 4 crisps and 3 drinks} &= 4 \times 0.35 + 3 \times 0.40 \\\\
-                                  &= 1.4 + 1.2 \\\\
-                                  &= \pounds 2.6
-\end{aligned}
-$
+Cost of $4$ packets of crisps and $3$ drinks $= \pounds 2.60$
 </code></pre>
 </div>
 </div>
@@ -3585,7 +3544,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 2.6$
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.60$
 </code></pre>
 </div>
 </div>
@@ -5847,14 +5806,13 @@ Pippa came home from her holiday at her Grandma’s with $5$ books. Whilst she w
 <div class='workings'>
 <div class='working'>
 
-Let the numbers of books she took as $=a$
-
 $
-\begin{aligned}
-a &= 5 + 2 + 1 - 4 \\\\
-a &= 8 - 4 \\\\
-a &= 4
-\end{aligned}
+\begin {aligned}
+\text {Number of books she took for holiday}    &= \text {Total books} - \text {Books she got while se was at her Grandma’s} \\\\
+                                                &= 5 + 2 + 1 + 4 - 2 - 1 \\\\
+                                                &= 12 - 3 \\\\
+                                                &= 9
+\end {aligned}
 $
 
 </div>
@@ -5862,21 +5820,20 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4$
+$9$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the numbers of books she took as $=a$
-
-$
-\begin{aligned}
-a &= 5 + 2 + 1 - 4 \\\\
-a &= 8 - 4 \\\\
-a &= 4
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Number of books she took for holiday}    &= \text {Total books} - \text {Books she got while se was at her Grandma’s} \\\\
+                                                &= 5 + 2 + 1 + 4 - 2 - 1 \\\\
+                                                &= 12 - 3 \\\\
+                                                &= 9
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -5889,7 +5846,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4$
+<pre class='language-latex'><code class='language-latex'>$9$
 </code></pre>
 </div>
 </div>
@@ -5935,7 +5892,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B40C9067-5309-4BDD-A6D3-04C7A850101A</p>
 </div>
@@ -5949,7 +5906,7 @@ $
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5972,17 +5929,17 @@ As per the question,
 
 $
 \begin{aligned}
-a \times 2 - 5 &= 11 \\\\
-a \times 2     &= 11 + 5 \\\\
-a \times 2     &= 16 \\\\
-a              &= \dfrac {16} {2} \\\\
-a              &= \dfrac {8 \times 2} {2} \\\\
-a              &= \dfrac {8 \times \cancel{2}} {\cancel{2}} \\\\
-a              &= 8
+a \times 2 - 5    &= 11 \\\\
+2a                &= 11 + 5 \\\\
+2a                &= 16 \\\\
+a                 &= \dfrac {16} {2} \\\\
+a                 &= \dfrac {2 \times 8} {2} \\\\
+a                 &= \dfrac {\cancel {2} \times 8} {\cancel {2}} \\\\
+a                 &= 8
 \end{aligned}
 $
 
-My number is $8$.
+The number $= 8$
 
 </div>
 </div>
@@ -6002,17 +5959,17 @@ As per the question,
 
 $
 \begin{aligned}
-a \times 2 - 5 &= 11 \\\\
-a \times 2     &= 11 + 5 \\\\
-a \times 2     &= 16 \\\\
-a              &= \dfrac {16} {2} \\\\
-a              &= \dfrac {8 \times 2} {2} \\\\
-a              &= \dfrac {8 \times \cancel{2}} {\cancel{2}} \\\\
-a              &= 8
+a \times 2 - 5    &= 11 \\\\
+2a                &= 11 + 5 \\\\
+2a                &= 16 \\\\
+a                 &= \dfrac {16} {2} \\\\
+a                 &= \dfrac {2 \times 8} {2} \\\\
+a                 &= \dfrac {\cancel {2} \times 8} {\cancel {2}} \\\\
+a                 &= 8
 \end{aligned}
 $
 
-My number is $8$.
+The number $= 8$
 </code></pre>
 </div>
 </div>
@@ -6746,7 +6703,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0614640E-B41A-4826-860D-7235E6EC27FC</p>
 </div>
@@ -6760,7 +6717,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6777,7 +6734,7 @@ Sophie should have divided a number by $4$, but instead she subtracted $4$. She 
 <div class='workings'>
 <div class='working'>
 
-Let the number $=a$,
+Let the number $= a$
 
 $
 \begin{aligned}
@@ -6787,13 +6744,14 @@ a     &= 92
 \end{aligned}
 $
 
-Answer should have been,
+Answer should have been:
 
 $
 \begin{aligned}
+&= \dfrac {a} {4} \\\\
 &= \dfrac {92} {4} \\\\
-&= \dfrac {23 \times 4} {4} \\\\
-&= \dfrac {23 \times \cancel{4} } {\cancel{4} } \\\\
+&= \dfrac {4 \times 23} {4} \\\\
+&= \dfrac {\cancel {4} \times 23} {\cancel {4}} \\\\
 &= 23
 \end{aligned}
 $
@@ -6810,7 +6768,7 @@ $23$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=a$,
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 $
 \begin{aligned}
@@ -6820,13 +6778,14 @@ a     &= 92
 \end{aligned}
 $
 
-Answer should have been,
+Answer should have been:
 
 $
 \begin{aligned}
+&= \dfrac {a} {4} \\\\
 &= \dfrac {92} {4} \\\\
-&= \dfrac {23 \times 4} {4} \\\\
-&= \dfrac {23 \times \cancel{4} } {\cancel{4} } \\\\
+&= \dfrac {4 \times 23} {4} \\\\
+&= \dfrac {\cancel {4} \times 23} {\cancel {4}} \\\\
 &= 23
 \end{aligned}
 $

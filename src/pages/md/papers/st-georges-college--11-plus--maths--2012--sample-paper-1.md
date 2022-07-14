@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1051,7 +1051,7 @@ $42008$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>BC964098-4A38-4BC7-A581-3B7D11BE274D</p>
 </div>
@@ -1062,10 +1062,10 @@ $42008$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_g0</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1123,14 +1123,11 @@ Express $51 \ \text{km}$ in metres
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-.
-
 $
 \begin{aligned}
 &= 51 \ \text{km} \\\\
-&= 51 \times 1000 \ \text{m} \\\\
-&= 51000 \ \text{m}                  
+&= 51 \times 1000 \ \text{metres} \\\\
+&= 51000 \ \text{metres}                  
 \end{aligned}
 $
 
@@ -1139,20 +1136,18 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$51000 \ \text{m}$
+$51000 \ \text{metres}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 51 \ \text{km} \\\\
-&= 51 \times 1000 \ \text{m} \\\\
-&= 51000 \ \text{m}                  
+&= 51 \times 1000 \ \text{metres} \\\\
+&= 51000 \ \text{metres}                  
 \end{aligned}
 $
 </code></pre>
@@ -1166,7 +1161,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$51000 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$51000 \ \text{metres}$
 </code></pre>
 </div>
 </div>
@@ -1183,18 +1178,11 @@ Express $510 \ \text{cm}$ in metres
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-.
-
 $
 \begin{aligned}
 &= 510 \ \text{cm} \\\\
-&= 510\times\dfrac{1}{100} \ \text{m} \\\\
-&= 510\times\dfrac{1}{100}  \\\\
-&= 51\times10\times\dfrac{1}{10\times 10}  \\\\
-&= 51\times\cancel{10}\times\dfrac{1}{\cancel{10}\times 10}  \\\\
-&= \dfrac{51}{10}  \\\\
-&= 5.1 \ \text{m}                
+&= \dfrac{510}{100} \ \text{metres}  \\\\
+&= 5.1 \ \text{metres}
 \end{aligned}
 $
 
@@ -1210,17 +1198,11 @@ $5.1 \ \text{m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 510 \ \text{cm} \\\\
-&= 510\times\dfrac{1}{100} \ \text{m} \\\\
-&= 510\times\dfrac{1}{100}  \\\\
-&= 51\times10\times\dfrac{1}{10\times 10}  \\\\
-&= 51\times\cancel{10}\times\dfrac{1}{\cancel{10}\times 10}  \\\\
-&= \dfrac{51}{10}  \\\\
-&= 5.1 \ \text{m}                
+&= \dfrac{510}{100} \ \text{metres}  \\\\
+&= 5.1 \ \text{metres}
 \end{aligned}
 $
 </code></pre>
@@ -1246,32 +1228,32 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' id='FORM-BC964098-4A38-4BC7-A581-3B7D11BE274D' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='BC964098-4A38-4BC7-A581-3B7D11BE274D' id='FORM-BC964098-4A38-4BC7-A581-3B7D11BE274D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2505,7 +2487,7 @@ and solve furhter
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>83110D7D-4A15-444F-BC4E-DC7DC2E96129</p>
 </div>
@@ -2519,7 +2501,7 @@ and solve furhter
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2537,9 +2519,9 @@ Find the numbers.
 <div class='workings'>
 <div class='working'>
 
-Let's take the larger number $= a$
+Let the larger number $= a$
 
-Let's take the smaller number $= b$
+Let the smaller number $= b$
 
 As per the question,
 
@@ -2550,48 +2532,47 @@ a - b &= 6
 \end{aligned}
 $
 
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+Adding the above two equations we get,
 
 $
 \begin {aligned}
 a + b + a - b &= 32 + 6 \\\\
 2 a           &= 38 \\\\
 a             &= \dfrac{38}{2} \\\\
-              &= \dfrac{2 \times 19}{2} \\\\
-              &= \dfrac{\cancel {2} \times 19} {\cancel {2}} \\\\
-              &= 19
+a             &= \dfrac{2 \times 19}{2} \\\\
+a             &= \dfrac{\cancel {2} \times 19} {\cancel {2}} \\\\
+a             &= 19
 \end{aligned}
 $
-
-The larger number $=19$ 
-
-Let's find the smaller number.
 
 $
 \begin {aligned}
-9 + b &= 32 \\\\
-b     &= 32 - 19 \\\\
-      &= 13
-\end{aligned}
+\text {Larger number}   &= 19 \\\\
+\text {Smaller number}  &= 19 - 6 \\\\
+                        &= 13
+\end {aligned}
 $
-
-The smaller number $=13$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
- $19, 13$
+$19$
+
+</div>
+<div class='answer'>
+
+$13$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's take the larger number $= a$
+<pre class='language-latex'><code class='language-latex'>Let the larger number $= a$
 
-Let's take the smaller number $= b$
+Let the smaller number $= b$
 
 As per the question,
 
@@ -2602,32 +2583,26 @@ a - b &= 6
 \end{aligned}
 $
 
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+Adding the above two equations we get,
 
 $
 \begin {aligned}
 a + b + a - b &= 32 + 6 \\\\
 2 a           &= 38 \\\\
 a             &= \dfrac{38}{2} \\\\
-              &= \dfrac{2 \times 19}{2} \\\\
-              &= \dfrac{\cancel {2} \times 19} {\cancel {2}} \\\\
-              &= 19
+a             &= \dfrac{2 \times 19}{2} \\\\
+a             &= \dfrac{\cancel {2} \times 19} {\cancel {2}} \\\\
+a             &= 19
 \end{aligned}
 $
-
-The larger number $=19$ 
-
-Let's find the smaller number.
 
 $
 \begin {aligned}
-9 + b &= 32 \\\\
-b     &= 32 - 19 \\\\
-      &= 13
-\end{aligned}
+\text {Larger number}   &= 19 \\\\
+\text {Smaller number}  &= 19 - 6 \\\\
+                        &= 13
+\end {aligned}
 $
-
-The smaller number $=13$
 </code></pre>
 </div>
 </div>
@@ -2639,7 +2614,17 @@ The smaller number $=13$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'> $19, 13$
+<pre class='language-latex'><code class='language-latex'>$19$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$13$
 </code></pre>
 </div>
 </div>
@@ -2815,7 +2800,7 @@ String (Remains) &= Sting (Total) - String (Cut) (solve accordingly)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>682CC1A0-4A88-4DD0-BD42-0767DA7FEE5D</p>
 </div>
@@ -2829,7 +2814,7 @@ String (Remains) &= Sting (Total) - String (Cut) (solve accordingly)
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2890,43 +2875,46 @@ How many eggs will I use altogether if I make $15$ cakes?
 
 $
 \begin{aligned}
-1 \ \text{Cake} &= 5 \ \text{Eggs} \\\\
-1 \times 15 \ \text{Cakes} &= 5 \times 15 \\\\  
-15 \ \text{Cakes}   &=  75 \ \text{eggs}
+1 \ \text {Cake}        &= 5 \ \text {Eggs} \\\\
+1 \times 15             &= 5 \times 15 \\\\
+15 \ \text {Cakes}      &= 75 \ \text {Eggs}
 \end{aligned}
 $
 
-To make $15$ cakes I will use $=75$ eggs.
-
 </div>
-<div class='working'>
+</div>
+<div class='answers'>
+<div class='answer'>
 
 $75$
 
 </div>
 </div>
-
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text{Cake} &= 5 \ \text{Eggs} \\\\
-1 \times 15 \ \text{Cakes} &= 5 \times 15 \\\\  
-15 \ \text{Cakes}   &=  75 \ \text{eggs}
+1 \ \text {Cake}        &= 5 \ \text {Eggs} \\\\
+1 \times 15             &= 5 \times 15 \\\\
+15 \ \text {Cakes}      &= 75 \ \text {Eggs}
 \end{aligned}
 $
-
-To make $15$ cakes I will use $=75$ eggs.
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$75$
 </code></pre>
 </div>
 </div>
-
 
 </div>
 </li>
@@ -2943,16 +2931,14 @@ the $15$ cakes?
 
 $
 \begin{aligned}
-12 \  \text{Eggs} &= 1 \ \text{Box} \\\\
-1 \ \text{Egg} &= \dfrac{1}{12}\ \text{Box}  \\\\
-1 \times  75 \ \text{Eggs} &= \dfrac{1}{12}\ \times 75 \\\\
-75 \ \text{Eggs} &= 6\dfrac{3}{12}
+12 \ \text {Eggs}       &= 1 \ \text {Box} \\\\
+1 \ \text {Egg}         &= \dfrac {1} {12} \ \text {Box} \\\\
+1 \times 75             &= \dfrac {1} {12} \times 75 \\\\
+75                      &= \dfrac {75} {12} \\\\
+75                      &= 6 \ \text {remainder} \ 3 \\\\
+75 \ \text {Eggs}       &\approx 7 \ \text {Boxes}
 \end{aligned}
 $
-
-$6$ whole boxes and $1$ more box for the $3$ remaining eggs. 
-
-The number of boxes I must buy to ensure that I have enough eggs to make the 15 cakes $=7$
 
 </div>
 </div>
@@ -2968,16 +2954,14 @@ $7$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-12 \  \text{Eggs} &= 1 \ \text{Box} \\\\
-1 \ \text{Egg} &= \dfrac{1}{12}\ \text{Box}  \\\\
-1 \times  75 \ \text{Eggs} &= \dfrac{1}{12}\ \times 75 \\\\
-75 \ \text{Eggs} &= 6\dfrac{3}{12}
+12 \ \text {Eggs}       &= 1 \ \text {Box} \\\\
+1 \ \text {Egg}         &= \dfrac {1} {12} \ \text {Box} \\\\
+1 \times 75             &= \dfrac {1} {12} \times 75 \\\\
+75                      &= \dfrac {75} {12} \\\\
+75                      &= 6 \ \text {remainder} \ 3 \\\\
+75 \ \text {Eggs}       &\approx 7 \ \text {Boxes}
 \end{aligned}
 $
-
-$6$ whole boxes and $1$ more box for the $3$ remaining eggs. 
-
-The number of boxes I must buy to ensure that I have enough eggs to make the 15 cakes $=7$
 </code></pre>
 </div>
 </div>
@@ -3008,13 +2992,10 @@ How much will I pay for the eggs?
 
 $
 \begin{aligned}
-1 \ \text{Box} &= \pounds1.68 \\\\
-1 \times 7 \ \text{Boxes} &= 1.68 \times 7 \\\\
-7 \ \text{Boxes} &= \pounds 11.76
+\text {Total cost}      &= 7 \times \pounds 1.68 \\\\
+                        &= \pounds 11.76
 \end{aligned}
 $
-
-For $7$ boxes of eggs, I will pay $\pounds 11.76$
 
 </div>
 </div>
@@ -3030,13 +3011,10 @@ $\pounds 11.76$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text{Box} &= \pounds1.68 \\\\
-1 \times 7 \ \text{Boxes} &= 1.68 \times 7 \\\\
-7 \ \text{Boxes} &= \pounds 11.76
+\text {Total cost}      &= 7 \times \pounds 1.68 \\\\
+                        &= \pounds 11.76
 \end{aligned}
 $
-
-For $7$ boxes of eggs, I will pay $\pounds 11.76$
 </code></pre>
 </div>
 </div>

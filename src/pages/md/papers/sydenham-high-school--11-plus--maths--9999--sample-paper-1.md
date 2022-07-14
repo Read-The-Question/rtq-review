@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1285,7 +1285,7 @@ refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>51EF1152-4680-4066-B3A6-9E35EA7048B4</p>
 </div>
@@ -1296,7 +1296,7 @@ refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1358,16 +1358,13 @@ $370 \times 560$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-              &      &             &      3      &      7      &      0 \\
-{}\times      &      &             &      5      &      6      &      0 \\
-\hline
-              &      &             &      0      &      0      &      0 \\
-              &    2 &      2      &      2      &      0      &      0 \\
-1             &    8 &      5      &      0      &      0      &      0 \\
-\hline
-2             &    0 &      7      &      5      &      6      &      0
-\end{array}
+\begin{aligned}
+&= 370 \times 560 \\\\
+&= 37 \times 10 \times 56 \times 10 \\\\
+&= 37 \times 56 \times 100 \\\\
+&= 2072 \times 100 \\\\
+&= 207200 \\\\
+\end{aligned}
 $   
 
 </div>
@@ -1375,7 +1372,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$207560$
+$207200$
 
 </div>
 </div>
@@ -1383,16 +1380,13 @@ $207560$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-              &      &             &      3      &      7      &      0 \\
-{}\times      &      &             &      5      &      6      &      0 \\
-\hline
-              &      &             &      0      &      0      &      0 \\
-              &    2 &      2      &      2      &      0      &      0 \\
-1             &    8 &      5      &      0      &      0      &      0 \\
-\hline
-2             &    0 &      7      &      5      &      6      &      0
-\end{array}
+\begin{aligned}
+&= 370 \times 560 \\\\
+&= 37 \times 10 \times 56 \times 10 \\\\
+&= 37 \times 56 \times 100 \\\\
+&= 2072 \times 100 \\\\
+&= 207200 \\\\
+\end{aligned}
 $   
 </code></pre>
 </div>
@@ -1405,7 +1399,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$207560$
+<pre class='language-latex'><code class='language-latex'>$207200$
 </code></pre>
 </div>
 </div>
@@ -1423,25 +1417,12 @@ $38 \times 56$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-       &               & 5     & 6 \\
-\times &               & 3     & 8 \\
-\hline
-       &       4       & 4     & 8 \\
-      1&       6       & 8     & 0 \\
-\hline
-      2&       1       & 2     & 8
-\end{array}
-$
-
-</div>
-<div class='working'>
-
-$
 \begin{aligned}
-37 \times 56 &= 2072 \\\\
-2072 \div 56 &= 37 \\\\
-207.2 \div 56 &= 3.7
+&= 38 \times 56 \\\\
+&= (37 + 1) \times 56 \\\\
+&= 37 \times 56 + 56 \times 1 \\\\
+&= 2720 + 56 \\\\
+&= 2776 \\\\
 \end{aligned}
 $
 
@@ -1450,12 +1431,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2128$
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$2776$
 
 </div>
 </div>
@@ -1463,25 +1439,12 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
-\begin{array}{cccccccccccccc}
-       &               & 5     & 6 \\
-\times &               & 3     & 8 \\
-\hline
-       &       4       & 4     & 8 \\
-      1&       6       & 8     & 0 \\
-\hline
-      2&       1       & 2     & 8
-\end{array}
-$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-37 \times 56 &= 2072 \\\\
-2072 \div 56 &= 37 \\\\
-207.2 \div 56 &= 3.7
+&= 38 \times 56 \\\\
+&= (37 + 1) \times 56 \\\\
+&= 37 \times 56 + 56 \times 1 \\\\
+&= 2720 + 56 \\\\
+&= 2776 \\\\
 \end{aligned}
 $
 </code></pre>
@@ -1495,9 +1458,58 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2128$
+<pre class='language-latex'><code class='language-latex'>$2776$
 </code></pre>
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$207.2 \div 56$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+37 \times 56 &= 2072 \\\\
+\dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
+\dfrac{37}{10} \times 56 &= 207.2 \\\\
+3.7 \times 56 &= 207.2 \\\\
+207.2 \div 56 &= 3.7 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+3.7
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+37 \times 56 &= 2072 \\\\
+\dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
+\dfrac{37}{10} \times 56 &= 207.2 \\\\
+3.7 \times 56 &= 207.2 \\\\
+207.2 \div 56 &= 3.7 \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -1505,7 +1517,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>3.7
 </code></pre>
 </div>
 </div>
@@ -1513,7 +1525,49 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+mark this question as amber as the division part is not done
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' id='FORM-51EF1152-4680-4066-B3A6-9E35EA7048B4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-51EF1152-4680-4066-B3A6-9E35EA7048B4'>Initial</p>
+</div>
 </div>
 </li>
 <li>

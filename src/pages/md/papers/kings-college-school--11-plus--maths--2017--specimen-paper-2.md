@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-2"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -350,7 +350,7 @@ $\pounds 85$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>159DEF67-72A1-41FE-BBD4-431F17B1BE4E</p>
 </div>
@@ -364,7 +364,7 @@ $\pounds 85$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -426,6 +426,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write it as BC964098-4A38-4BC7-A581-3B7D11BE274D part b
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1247,7 +1256,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>FD93ED24-BEF8-4802-AAED-9BC436001678</p>
 </div>
@@ -1261,7 +1270,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1309,6 +1318,27 @@ $2, 4, 8$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write this way (with proper katex)
+
+
+
+begin aligned
+
+Factors of 32 = 1, 2 .... \\
+
+Factors of 24 = 1,2 3 \\
+
+Common factors = dfdfasadfs
+
+end aligned
+</div>
 
 <div class='review'>
 <ul class='review'>

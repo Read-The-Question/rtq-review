@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -6728,7 +6728,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4A4E7B81-270C-40B5-B238-65BE74C68BA8</p>
 </div>
@@ -6739,7 +6739,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6772,7 +6772,16 @@ $0.5 \ \text{kg} \quad 1 \ \text{kg} \quad 1.5 \ \text{kg} \quad 2 \ \text{kg} \
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= 56 \ \text{ounces} \\\\
+&= (56 \div 16) \ \text{pounds} \\\\
+&= 3.5 \ \text{pounds} \\\\
+&= (3.5 \div 2.2) \ \text{kg} \\\\
+&= 1.59 \ \text{kg} \\\\
+&= 1.5 \ \text{kg} \ \text{(approx.)} \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -6784,7 +6793,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+1.5 kg
 
 </div>
 <div class='answer'>
@@ -6796,7 +6805,16 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 56 \ \text{ounces} \\\\
+&= (56 \div 16) \ \text{pounds} \\\\
+&= 3.5 \ \text{pounds} \\\\
+&= (3.5 \div 2.2) \ \text{kg} \\\\
+&= 1.59 \ \text{kg} \\\\
+&= 1.5 \ \text{kg} \ \text{(approx.)} \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -6813,7 +6831,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>1.5 kg
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -6829,6 +6847,43 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4A4E7B81-270C-40B5-B238-65BE74C68BA8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='4A4E7B81-270C-40B5-B238-65BE74C68BA8' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4A4E7B81-270C-40B5-B238-65BE74C68BA8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4A4E7B81-270C-40B5-B238-65BE74C68BA8' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4A4E7B81-270C-40B5-B238-65BE74C68BA8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4A4E7B81-270C-40B5-B238-65BE74C68BA8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4A4E7B81-270C-40B5-B238-65BE74C68BA8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4A4E7B81-270C-40B5-B238-65BE74C68BA8' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='4A4E7B81-270C-40B5-B238-65BE74C68BA8' id='FORM-4A4E7B81-270C-40B5-B238-65BE74C68BA8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4A4E7B81-270C-40B5-B238-65BE74C68BA8'>Initial</p>
+</div>
 </div>
 </li>
 <li>

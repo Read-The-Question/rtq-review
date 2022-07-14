@@ -1,16 +1,16 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g0-prcc"
 title: "TopicPaper - Number - 1 - G0 - PRCC"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
-<p>269CAEB1-ECC7-4634-9068-42EF39354F2F</p>
+<p>33005D34-3FFB-4599-866E-73D0421ED42B</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2:1:1</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
 <p>Anushka Srivastava</p>
@@ -30,99 +30,7 @@ tnumber
 </div>
 <div class='question question'>
 
-The table shows the size of population for five Derbyshire villages.
-
-|   Village       | Population     |
-|:-----------:    |:----------:    |
-|   Ashover       |   $1796$       |
-|   Bamford       |   $14320$       |
-|    Clowne       |   $6152$       |
-| Darley Dale     |   $9517$       |
-|  Eckington      |   $22315$       |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write the population of Darley Dale in words.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Nine thousand five hundred and seventeen
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Nine thousand five hundred and seventeen
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Nine thousand five hundred and seventeen
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Nine thousand five hundred and seventeen
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write the population of Clowne correct to the nearest $100$.
+Write $2.4 \ \text{kg}$ in $\text{g}$
 
 </div>
 <div class='workings'>
@@ -130,8 +38,12 @@ Write the population of Clowne correct to the nearest $100$.
 
 $
 \begin{aligned}
-\text{Population of Clowne} &= 6152 \\\\
-                            &\approx 6200
+&=  2.4   \  \text{kg}\\\\
+&=  2.4   \  \times 1000 \  \text{g}\\\\
+&= \dfrac{24 \times 100 \times 10}{10} \  \text{g}\\\\
+&= \dfrac{24 \times 100 \times \cancel{10}}{\cancel{10}} \  \text{g}\\\\
+&= 24 \times 100 \  \text{g}\\\\
+&=  2400  \  \text{g}
 \end{aligned}
 $
 
@@ -140,7 +52,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6200$
+$2400 \ \text{g}$
 
 </div>
 </div>
@@ -149,8 +61,12 @@ $6200$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Population of Clowne} &= 6152 \\\\
-                            &\approx 6200
+&=  2.4   \  \text{kg}\\\\
+&=  2.4   \  \times 1000 \  \text{g}\\\\
+&= \dfrac{24 \times 100 \times 10}{10} \  \text{g}\\\\
+&= \dfrac{24 \times 100 \times \cancel{10}}{\cancel{10}} \  \text{g}\\\\
+&= 24 \times 100 \  \text{g}\\\\
+&=  2400  \  \text{g}
 \end{aligned}
 $
 </code></pre>
@@ -164,654 +80,58 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6200$
+<pre class='language-latex'><code class='language-latex'>$2400 \ \text{g}$
 </code></pre>
 </div>
 </div>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write the population of Eckington to the nearest $1000$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Population of Eckington} &= 22315 \\\\
-                               &\approx 22000
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$22000$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text {Population of Eckington} &= 22315 \\\\
-                               &\approx 22000
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$22000$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many more people live in Eckington than Bamford?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
-\text{Difference}    &=  22315 - 14320 \\\\
-                    &=  7995 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7995$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-$
-\begin{aligned}
-\text{Difference}    &=  22315 - 14320 \\\\
-                    &=  7995 
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7995$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-b: write approx related question using \approx, refer 08D5A505-1DF8-4590-802C-E8295C988258 for an example
-
-
-
-{aligned}
-
-\text {Population of Clowne}        &= 1234 \\
-
-                                    &\approx 1200 
-
-{aligned}
-
-
-
-
-
-
-
-
-
-
-
-c: write using \approx
-
-
-
-d: Remove as per the table,
-
-
-
-Comments not taken care of, please check again.
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='33005D34-3FFB-4599-866E-73D0421ED42B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='33005D34-3FFB-4599-866E-73D0421ED42B' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='33005D34-3FFB-4599-866E-73D0421ED42B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='33005D34-3FFB-4599-866E-73D0421ED42B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='33005D34-3FFB-4599-866E-73D0421ED42B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='33005D34-3FFB-4599-866E-73D0421ED42B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='33005D34-3FFB-4599-866E-73D0421ED42B' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='33005D34-3FFB-4599-866E-73D0421ED42B' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' id='FORM-269CAEB1-ECC7-4634-9068-42EF39354F2F' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G0' data-uuid='33005D34-3FFB-4599-866E-73D0421ED42B' id='FORM-33005D34-3FFB-4599-866E-73D0421ED42B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-269CAEB1-ECC7-4634-9068-42EF39354F2F'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-33005D34-3FFB-4599-866E-73D0421ED42B'>Initial</p>
 </div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
-<p>02D4678C-2407-4D76-9D31-57EE67F35A29</p>
+<p>9329E7E2-579A-4C3D-BDB9-73615C4009D5</p>
 </div>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:12</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tcircleanswer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle the numbers below which are multiples of $7$.
-
-$44 \quad 91 \quad 350 \quad 789$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$91, 350$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$91, 350$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$91, 350$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$91, 350$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-working are missing for this one, you need to add TOML working for this one, look at how working looks like for other question and add one and write the working. reach out if any confusion.
-
-
-
-This again is marked PRCC without changes being done???
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='02D4678C-2407-4D76-9D31-57EE67F35A29' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='02D4678C-2407-4D76-9D31-57EE67F35A29' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='02D4678C-2407-4D76-9D31-57EE67F35A29' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='02D4678C-2407-4D76-9D31-57EE67F35A29' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='02D4678C-2407-4D76-9D31-57EE67F35A29' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='02D4678C-2407-4D76-9D31-57EE67F35A29' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='02D4678C-2407-4D76-9D31-57EE67F35A29' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='02D4678C-2407-4D76-9D31-57EE67F35A29' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='02D4678C-2407-4D76-9D31-57EE67F35A29' id='FORM-02D4678C-2407-4D76-9D31-57EE67F35A29' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-02D4678C-2407-4D76-9D31-57EE67F35A29'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>680B2DDC-4438-441C-A50B-D93FE578EBF9</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:7</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the numbers in the star.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which two numbers are multiples of $6$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$12, 30$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12, 30$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$12, 30$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$12, 30$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which two numbers are prime?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$17, 29$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17, 29$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$17, 29$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$17, 29$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which two numbers are factors of $70$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10, 14$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10, 14$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$10, 14$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$10, 14$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which two numbers are square numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9, 49$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9, 49$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$9, 49$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9, 49$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-you have multiple workings, remove extra ones
-
-
-
-a. remove both second working
-
-b. extra working in katex
-
-
-
-[[sections.questions.subquestions.workings]]
-
-
-
-working = 
-
-$17, 29$
-
-
-
-working = 
-
- 17,29
-
-
-
-
-
-c: extra working
-
-d: extra working
-
-
-
-I think you have removed working section for all these questions, you need to add them back and add your answers, i will update scripts to check for atleast one working to avoid this getting through in the future.
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='680B2DDC-4438-441C-A50B-D93FE578EBF9' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='680B2DDC-4438-441C-A50B-D93FE578EBF9' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='680B2DDC-4438-441C-A50B-D93FE578EBF9' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='680B2DDC-4438-441C-A50B-D93FE578EBF9' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='680B2DDC-4438-441C-A50B-D93FE578EBF9' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='680B2DDC-4438-441C-A50B-D93FE578EBF9' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='680B2DDC-4438-441C-A50B-D93FE578EBF9' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='680B2DDC-4438-441C-A50B-D93FE578EBF9' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='680B2DDC-4438-441C-A50B-D93FE578EBF9' id='FORM-680B2DDC-4438-441C-A50B-D93FE578EBF9' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-680B2DDC-4438-441C-A50B-D93FE578EBF9'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>2D142A42-5829-4132-A5C5-363CD6339B26</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:22</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
 <p>Anushka Srivastava</p>
@@ -831,258 +151,13 @@ tnumber
 </div>
 <div class='question question'>
 
-Bob is very proud of his new car. It is $370 \ \text{cm}$ long.
+What is the fifth prime number?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Convert $370 \ \text{cm}$ in to metres
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 370 \ \text {cm} \\\\
-&= \dfrac {370} {100} \ \text {m} \\\\
-&= 3.7 \ \text {m}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.7 \ \text {m}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin {aligned}
-&= 370 \ \text {cm} \\\\
-&= \dfrac {370} {100} \ \text {m} \\\\
-&= 3.7 \ \text {m}
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3.7 \ \text {m}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Convert $370 \ \text{cm}$ into millimetres
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 370 \ \text {cm} \\\\
-&= 370 \times 10 \ \text {mm} \\\\
-&= 3700 \ \text {mm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3700 \ \text {mm}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin {aligned}
-&= 370 \ \text {cm} \\\\
-&= 370 \times 10 \ \text {mm} \\\\
-&= 3700 \ \text {mm}
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3700 \ \text {mm}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: unit missing on S3 (S == Step so step 3)
-
-
-
-a: unit missing in answer and working both
-
-
-
-b: unit missing in answer
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='2D142A42-5829-4132-A5C5-363CD6339B26' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='2D142A42-5829-4132-A5C5-363CD6339B26' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='2D142A42-5829-4132-A5C5-363CD6339B26' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='2D142A42-5829-4132-A5C5-363CD6339B26' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='2D142A42-5829-4132-A5C5-363CD6339B26' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='2D142A42-5829-4132-A5C5-363CD6339B26' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='2D142A42-5829-4132-A5C5-363CD6339B26' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='2D142A42-5829-4132-A5C5-363CD6339B26' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='2D142A42-5829-4132-A5C5-363CD6339B26' id='FORM-2D142A42-5829-4132-A5C5-363CD6339B26' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-2D142A42-5829-4132-A5C5-363CD6339B26'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>6F087310-2750-47AA-8B72-0FD80BCEBA2B</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:19</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$82 - 27 =5 \times {?}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing value $= a$,
-
-As per the question,
-
-$
-\begin{aligned}
-82 - 27  &= 5 \times a \\\\
-5 \times a       &= 82 - 27 \\\\
-5 \times a       &= 55 \\\\
-a        &= \dfrac {55} {5} \\\\
-a        &= \dfrac {5 \times 11} {5} \\\\
-a        &= \dfrac {\cancel {5} \times 11} {\cancel {5} } \\\\
-a        &= 11
-\end{aligned}
-$
+$11$
 
 </div>
 </div>
@@ -1096,21 +171,7 @@ $11$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the missing value $= a$,
-
-As per the question,
-
-$
-\begin{aligned}
-82 - 27  &= 5 \times a \\\\
-5 \times a       &= 82 - 27 \\\\
-5 \times a       &= 55 \\\\
-a        &= \dfrac {55} {5} \\\\
-a        &= \dfrac {5 \times 11} {5} \\\\
-a        &= \dfrac {\cancel {5} \times 11} {\cancel {5} } \\\\
-a        &= 11
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$11$
 </code></pre>
 </div>
 </div>
@@ -1127,184 +188,43 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-add s2 5 *a = 82 -27
-
-
-
-Add \"As per the question,\" before begin aligned 
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='6F087310-2750-47AA-8B72-0FD80BCEBA2B' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='9329E7E2-579A-4C3D-BDB9-73615C4009D5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='6F087310-2750-47AA-8B72-0FD80BCEBA2B' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='9329E7E2-579A-4C3D-BDB9-73615C4009D5' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='6F087310-2750-47AA-8B72-0FD80BCEBA2B' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='9329E7E2-579A-4C3D-BDB9-73615C4009D5' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='6F087310-2750-47AA-8B72-0FD80BCEBA2B' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='9329E7E2-579A-4C3D-BDB9-73615C4009D5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='6F087310-2750-47AA-8B72-0FD80BCEBA2B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='9329E7E2-579A-4C3D-BDB9-73615C4009D5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='6F087310-2750-47AA-8B72-0FD80BCEBA2B' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='9329E7E2-579A-4C3D-BDB9-73615C4009D5' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='6F087310-2750-47AA-8B72-0FD80BCEBA2B' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='9329E7E2-579A-4C3D-BDB9-73615C4009D5' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='6F087310-2750-47AA-8B72-0FD80BCEBA2B' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='9329E7E2-579A-4C3D-BDB9-73615C4009D5' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='6F087310-2750-47AA-8B72-0FD80BCEBA2B' id='FORM-6F087310-2750-47AA-8B72-0FD80BCEBA2B' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G0' data-uuid='9329E7E2-579A-4C3D-BDB9-73615C4009D5' id='FORM-9329E7E2-579A-4C3D-BDB9-73615C4009D5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-6F087310-2750-47AA-8B72-0FD80BCEBA2B'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>8F66D2BA-D78E-4C07-BD24-B7741E19A525</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:9</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the value of the digit $9$ in the number $32.597$?
-
--  nine hundred 
--  nine 
--  nine tenths 
--  nine hundredths 
--  nine thousandths 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-nine tenths
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$nine tenths$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>nine tenths
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>C</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$nine tenths$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-this is written in katex, change to plain md, remove $$
-
-
-
-$$ is still katex, write without $$ just place nine tenths
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' id='FORM-8F66D2BA-D78E-4C07-BD24-B7741E19A525' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-8F66D2BA-D78E-4C07-BD24-B7741E19A525'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-9329E7E2-579A-4C3D-BDB9-73615C4009D5'>Initial</p>
 </div>
 </div>
 </li>

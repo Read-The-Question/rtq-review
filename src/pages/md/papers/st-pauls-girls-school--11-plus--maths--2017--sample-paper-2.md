@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3427,7 +3427,7 @@ R.H.S. replace \"Area of each slab\" with \"Area of a slab\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E5F2C5B2-DCB1-433F-8448-979453D41F68</p>
 </div>
@@ -3438,7 +3438,7 @@ R.H.S. replace \"Area of each slab\" with \"Area of a slab\"
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3560,7 +3560,7 @@ As per the question,
 
 The tenth number would contain ten $4s$, nine $8s$ and one $9$
 
-The tenth number would be $=44444444448888888889$
+The tenth number $=44444444448888888889$
 
 </div>
 </div>
@@ -3578,7 +3578,7 @@ The tenth number would be $=44444444448888888889$
 
 The tenth number would contain ten $4s$, nine $8s$ and one $9$
 
-The tenth number would be $=44444444448888888889$
+The tenth number $=44444444448888888889$
 </code></pre>
 </div>
 </div>
@@ -3611,7 +3611,7 @@ As per the question,
 
 $44444444448888888889 = 6666666667 \times 6666666667$
 
-Hence the square root would be $= 6666666667$
+Hence the square root $= 6666666667$
 
 </div>
 </div>
@@ -3629,7 +3629,7 @@ $6666666667$
 
 $44444444448888888889 = 6666666667 \times 6666666667$
 
-Hence the square root would be $= 6666666667$
+Hence the square root $= 6666666667$
 </code></pre>
 </div>
 </div>
@@ -3650,6 +3650,43 @@ Hence the square root would be $= 6666666667$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' id='FORM-E5F2C5B2-DCB1-433F-8448-979453D41F68' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E5F2C5B2-DCB1-433F-8448-979453D41F68'>Initial</p>
+</div>
 </div>
 </li>
 <li>

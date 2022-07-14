@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -949,7 +949,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
 </div>
@@ -963,7 +963,7 @@ $
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1021,18 +1021,17 @@ I think of a number, divide it by $7$ and subtract $3$. The result is $6$. What 
 <div class='workings'>
 <div class='working'>
 
-Let the number I thought of $=a$ 
+Let the number $=a$ 
 
 As per the question,
 
 $
 \begin{aligned}
-(a \div 7) -3      &= 6 \\\\
-\dfrac {a} {7} - 3 &= 6 \\\\
-\dfrac {a} {7}     &= 6 + 3 \\\\
-\dfrac {a} {7}     &= 9 \\\\
-            a      &= 9 \times 7 \\\\
-            a      &= 63
+a \div 7 -3       &= 6 \\\\
+\dfrac {a} {7}    &= 6 + 3 \\\\
+\dfrac {a} {7}    &= 9 \\\\
+a                 &= 9 \times 7 \\\\
+a                 &= 63
 \end{aligned}
 $
 
@@ -1049,18 +1048,17 @@ $63$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I thought of $=a$ 
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$ 
 
 As per the question,
 
 $
 \begin{aligned}
-(a \div 7) -3      &= 6 \\\\
-\dfrac {a} {7} - 3 &= 6 \\\\
-\dfrac {a} {7}     &= 6 + 3 \\\\
-\dfrac {a} {7}     &= 9 \\\\
-            a      &= 9 \times 7 \\\\
-            a      &= 63
+a \div 7 -3       &= 6 \\\\
+\dfrac {a} {7}    &= 6 + 3 \\\\
+\dfrac {a} {7}    &= 9 \\\\
+a                 &= 9 \times 7 \\\\
+a                 &= 63
 \end{aligned}
 $
 
@@ -1096,18 +1094,18 @@ As per the question,
 
 $
 \begin{aligned}
-x \times 22 &= (x + 7) \times 8 \\\\
-        22x &= 8x + 56 \\\\
-   22x - 8x &= 56 \\\\
-        14x &= 56 \\\\
-          x &= \dfrac {56} {14} \\\\
-          x &= \dfrac {14 \times 4} {14} \\\\
-          x &= \dfrac {\cancel {14} \times 4} {\cancel {14}} \\\\
-          x &= 4
+(x + 7) \times 8  &= x \times 22 \\\\
+8x + 56           &= 22x \\\\
+8x - 22x          &= -56 \\\\
+{}-14x            &= -56 \\\\
+\cancel {-} 14x   &= \cancel {-} 56 \\\\
+14x               &= 56 \\\\
+x                 &= \dfrac {56} {14} \\\\
+x                 &= \dfrac {4 \times 14} {14} \\\\
+x                 &= \dfrac {4 \times \cancel {14}} {\cancel {14}} \\\\
+x                 &= 4
 \end{aligned}
 $
-
-x is $4$.
 
 </div>
 </div>
@@ -1125,18 +1123,18 @@ $4$
 
 $
 \begin{aligned}
-x \times 22 &= (x + 7) \times 8 \\\\
-        22x &= 8x + 56 \\\\
-   22x - 8x &= 56 \\\\
-        14x &= 56 \\\\
-          x &= \dfrac {56} {14} \\\\
-          x &= \dfrac {14 \times 4} {14} \\\\
-          x &= \dfrac {\cancel {14} \times 4} {\cancel {14}} \\\\
-          x &= 4
+(x + 7) \times 8  &= x \times 22 \\\\
+8x + 56           &= 22x \\\\
+8x - 22x          &= -56 \\\\
+{}-14x            &= -56 \\\\
+\cancel {-} 14x   &= \cancel {-} 56 \\\\
+14x               &= 56 \\\\
+x                 &= \dfrac {56} {14} \\\\
+x                 &= \dfrac {4 \times 14} {14} \\\\
+x                 &= \dfrac {4 \times \cancel {14}} {\cancel {14}} \\\\
+x                 &= 4
 \end{aligned}
 $
-
-x is $4$.
 </code></pre>
 </div>
 </div>

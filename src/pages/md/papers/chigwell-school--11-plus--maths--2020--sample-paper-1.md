@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -329,7 +329,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9E15412C-4661-4C5C-9D9D-3029A1E8FD6A</p>
 </div>
@@ -343,7 +343,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -368,10 +368,9 @@ Emily runs the same distance in a time of $13.762 \ \text{seconds}$.
 
 $
 \begin{aligned}
-\text {Jack's time rounded off}   &= 15 \ \text {seconds} \\\\
-\text {Emily's time rounded off}  &= 14 \ \text {seconds} \\\\
-\text {difference}                &= 15 - 14 \\\\
-                                  &= 1 \ \text {seconds}                        
+\text {Difference}              &= 15.47 - 13.762 \\\\ 
+                                &= 15 - 14 \\\\
+                                &= 1 \ \text {second}                        
 \end{aligned}
 $
 
@@ -380,7 +379,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text {seconds}$
+$1 \ \text {second}$
 
 </div>
 </div>
@@ -389,10 +388,9 @@ $1 \ \text {seconds}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Jack's time rounded off}   &= 15 \ \text {seconds} \\\\
-\text {Emily's time rounded off}  &= 14 \ \text {seconds} \\\\
-\text {difference}                &= 15 - 14 \\\\
-                                  &= 1 \ \text {seconds}                        
+\text {Difference}              &= 15.47 - 13.762 \\\\ 
+                                &= 15 - 14 \\\\
+                                &= 1 \ \text {second}                        
 \end{aligned}
 $
 </code></pre>
@@ -406,7 +404,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1 \ \text {seconds}$
+<pre class='language-latex'><code class='language-latex'>$1 \ \text {second}$
 </code></pre>
 </div>
 </div>
@@ -471,7 +469,7 @@ last step remove s from \"seconds\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF</p>
 </div>
@@ -485,7 +483,7 @@ last step remove s from \"seconds\"
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

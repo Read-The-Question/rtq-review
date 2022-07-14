@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -542,7 +542,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>130FA82E-F102-4D10-95E6-847C20BD8CB3</p>
 </div>
@@ -553,7 +553,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -641,7 +641,7 @@ The distance from London to Sydney.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{km}\ $
 
 </div>
 <div class='working'>
@@ -653,7 +653,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+km
 
 </div>
 <div class='answer'>
@@ -665,7 +665,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\text{km}\ $
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -682,7 +682,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>km
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -709,7 +709,7 @@ The mass of a sweet.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{g}\ $
 
 </div>
 <div class='working'>
@@ -721,7 +721,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+g
 
 </div>
 <div class='answer'>
@@ -733,7 +733,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\text{g}\ $
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -750,7 +750,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>g
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -777,7 +777,7 @@ The capacity of a bottle of lemonade.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{litre}\ $
 
 </div>
 <div class='working'>
@@ -789,7 +789,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+litre
 
 </div>
 <div class='answer'>
@@ -801,7 +801,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\text{litre}\ $
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -818,7 +818,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>litre
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -845,7 +845,7 @@ The length of a cricket pitch.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{m}\ $
 
 </div>
 <div class='working'>
@@ -857,7 +857,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+m
 
 </div>
 <div class='answer'>
@@ -869,7 +869,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\text{m}\ $
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -886,7 +886,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>m
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -913,7 +913,7 @@ The area of a school playground.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{m}^2 $
 
 </div>
 <div class='working'>
@@ -925,7 +925,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\text{m}^2 $
 
 </div>
 <div class='answer'>
@@ -937,7 +937,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\text{m}^2 $
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -954,7 +954,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\text{m}^2 $
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -973,6 +973,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='130FA82E-F102-4D10-95E6-847C20BD8CB3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='130FA82E-F102-4D10-95E6-847C20BD8CB3' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='130FA82E-F102-4D10-95E6-847C20BD8CB3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='130FA82E-F102-4D10-95E6-847C20BD8CB3' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='130FA82E-F102-4D10-95E6-847C20BD8CB3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='130FA82E-F102-4D10-95E6-847C20BD8CB3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='130FA82E-F102-4D10-95E6-847C20BD8CB3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='130FA82E-F102-4D10-95E6-847C20BD8CB3' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='130FA82E-F102-4D10-95E6-847C20BD8CB3' id='FORM-130FA82E-F102-4D10-95E6-847C20BD8CB3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-130FA82E-F102-4D10-95E6-847C20BD8CB3'>Initial</p>
+</div>
 </div>
 </li>
 <li>

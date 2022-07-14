@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -927,7 +927,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>654FC6F2-DF8B-40E0-8729-7984D08B8A1D</p>
 </div>
@@ -941,7 +941,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1032,8 +1032,8 @@ How many buses are needed to transport $175$ students to the athletics stadium?
 $
 \begin{aligned}
 \text {Buses needed } &= 175 \div 12 \\\\
-                      &= 14.58 \\\\
-                      &= 15
+                      &= 14 \ \text {remainder} \ 7 \\\\
+                      &\approx 15
 \end{aligned}
 $
 
@@ -1052,8 +1052,8 @@ $15$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Buses needed } &= 175 \div 12 \\\\
-                      &= 14.58 \\\\
-                      &= 15
+                      &= 14 \ \text {remainder} \ 7 \\\\
+                      &\approx 15
 \end{aligned}
 $
 </code></pre>
@@ -1087,7 +1087,7 @@ During the $12$ weeks of term, how many days did he arrive late?
 <div class='workings'>
 <div class='working'>
 
-Number of days that have 's' in their name = 3
+Number of days that have 's' in their name $= 3$
 
 $
 \begin{aligned}
@@ -1109,7 +1109,7 @@ $36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Number of days that have 's' in their name = 3
+<pre class='language-latex'><code class='language-latex'>Number of days that have 's' in their name $= 3$
 
 $
 \begin{aligned}
@@ -1149,34 +1149,21 @@ How much money does he have left?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-
-
-The time is given in hours, but the final answer has to be in minutes.
 
 $
 \begin {aligned}
-\text {Money spent on game}  &= 25 \% \ \text {of } \pounds 120  \\\\
-                    &= \dfrac {25} {100} \times 120 \\\\
-                    &= \dfrac {25 \times 120} {100} \\\\
-                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} \\\\
-                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} \\\\
-                    &= \pounds 30
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Money spent on DVD}  &= 10 \% \ \text {of } \pounds (120 - 30)  \\\\
-                            &= 10 \% \ \text {of } \pounds 80  \\\\
-                            &= \dfrac {10} {100} \times 80 \\\\
-                            &= \pounds 8
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Money left}  &= 120 - 30 -8 \\\\
+\text {Money spent} &= 25 \% \ \text {of } \pounds 120 +  10 \% \ \text {of } \pounds (120 - 25 \% \ \text {of } \pounds 120) \\\\
+                    &= \dfrac {25} {100} \times 120 + \dfrac {10} {100} \times (120 - \dfrac {25} {100} \times 120)\\\\
+                    &= \dfrac {25 \times 120} {100} + \dfrac {10} {10 \times 10} \times (120 - \dfrac {25 \times 120} {100}) \\\\
+                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} + \dfrac {\cancel 10} {\cancel 10 \times 10} \times (120 - \dfrac {25 \times 30 \times 4} {25 \times 4} ) \\\\
+                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} + \dfrac {1} {10} \times (120 - \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4}) \\\\
+                    &= 30 + \dfrac {1} {10} \times  (120 - 30) \\\\
+                    &= 30 + \dfrac {1} {10} \times 80  \\\\
+                    &= 30 + \dfrac {8 \times 10} {10}  \\\\
+                    &= 30 + \dfrac {8 \times \cancel {10}} {\cancel {10}}  \\\\
+                    &= 30 + 8 \\\\
+                    &= 38 \\\\
+\text {Money left}  &= 120 - 38 \\\\
                     &= \pounds 72
 \end {aligned}
 $
@@ -1194,33 +1181,21 @@ $\pounds 72$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
-The time is given in hours, but the final answer has to be in minutes.
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin {aligned}
-\text {Money spent on game}  &= 25 \% \ \text {of } \pounds 120  \\\\
-                    &= \dfrac {25} {100} \times 120 \\\\
-                    &= \dfrac {25 \times 120} {100} \\\\
-                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} \\\\
-                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} \\\\
-                    &= \pounds 30
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Money spent on DVD}  &= 10 \% \ \text {of } \pounds (120 - 30)  \\\\
-                            &= 10 \% \ \text {of } \pounds 80  \\\\
-                            &= \dfrac {10} {100} \times 80 \\\\
-                            &= \pounds 8
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Money left}  &= 120 - 30 -8 \\\\
+\text {Money spent} &= 25 \% \ \text {of } \pounds 120 +  10 \% \ \text {of } \pounds (120 - 25 \% \ \text {of } \pounds 120) \\\\
+                    &= \dfrac {25} {100} \times 120 + \dfrac {10} {100} \times (120 - \dfrac {25} {100} \times 120)\\\\
+                    &= \dfrac {25 \times 120} {100} + \dfrac {10} {10 \times 10} \times (120 - \dfrac {25 \times 120} {100}) \\\\
+                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} + \dfrac {\cancel 10} {\cancel 10 \times 10} \times (120 - \dfrac {25 \times 30 \times 4} {25 \times 4} ) \\\\
+                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} + \dfrac {1} {10} \times (120 - \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4}) \\\\
+                    &= 30 + \dfrac {1} {10} \times  (120 - 30) \\\\
+                    &= 30 + \dfrac {1} {10} \times 80  \\\\
+                    &= 30 + \dfrac {8 \times 10} {10}  \\\\
+                    &= 30 + \dfrac {8 \times \cancel {10}} {\cancel {10}}  \\\\
+                    &= 30 + 8 \\\\
+                    &= 38 \\\\
+\text {Money left}  &= 120 - 38 \\\\
                     &= \pounds 72
 \end {aligned}
 $
@@ -2872,7 +2847,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>50E04B0C-8A1F-40C0-AACC-F803CBD9A220</p>
 </div>
@@ -2883,10 +2858,10 @@ TODOANSWER
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_an_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3002,65 +2977,7 @@ $8.3$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-
-
-
-
-a: answer is wrong
-
-
-
-They should be explained more
-
-
-
-we need to find what each least count on the scale represents and then find the answer.
-
-
-
-discuss
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='50E04B0C-8A1F-40C0-AACC-F803CBD9A220' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='50E04B0C-8A1F-40C0-AACC-F803CBD9A220' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='50E04B0C-8A1F-40C0-AACC-F803CBD9A220' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='50E04B0C-8A1F-40C0-AACC-F803CBD9A220' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='50E04B0C-8A1F-40C0-AACC-F803CBD9A220' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='50E04B0C-8A1F-40C0-AACC-F803CBD9A220' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='50E04B0C-8A1F-40C0-AACC-F803CBD9A220' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='50E04B0C-8A1F-40C0-AACC-F803CBD9A220' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='50E04B0C-8A1F-40C0-AACC-F803CBD9A220' id='FORM-50E04B0C-8A1F-40C0-AACC-F803CBD9A220' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-50E04B0C-8A1F-40C0-AACC-F803CBD9A220'>Initial</p>
-</div>
 </div>
 </li>
 <li>

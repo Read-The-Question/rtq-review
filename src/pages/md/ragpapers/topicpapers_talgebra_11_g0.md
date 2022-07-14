@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-g0"
 title: "TopicPaper - Algebra - 11 - G0"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>33BA3A42-D90E-400D-A934-CADF6E6B81F9</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-13 17:13:09
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -36,101 +36,47 @@ $2$ packets of crisps and $2$ drinks cost $\pounds 1.50$. $2$ packets of crisps 
 <div class='workings'>
 <div class='working'>
 
-Let the price of crisp $= a$
+Let the price of a packet of crisp $= a$
 
-Let the price of drinks $= b$
+Let the price of a drink $= b$
 
-$
-\begin{aligned}
-2a + 2b &= 1.50 \\\\
-2a      &= 1.50 - 2b 
-\end{aligned}
-$
+As per the question,
 
 $
-\begin{aligned}
-2a +  b  &= 1.10 \\\\
-2a       &= 1.10 - b 
-1.10 - b &= 1.50 - 2b \\\\
-2b - b   &= 1.50 - 1.10 \\\\
-b        &= 0.40
-\end{aligned}
+\begin {aligned}
+2a + 2b + 2a + b  &= 1.50 + 1.10 \\\\
+4a + 3b           &= \pounds 2.60
+\end {aligned}
 $
 
-$
-\begin{aligned}
-2a  &=  1.50 - 2b \\\\
-2a  &=  1.50 - 2 \times 0.40 \\\\
-2a  &=  1.50 - 0.80 \\\\
-2a  &=  0.70 \\\\
-a   &=  \dfrac {0.70} {2} \\\\
-a   &=  0.35
-\end{aligned}
-$
-
-Price of crisp $= \pounds 0.35$, and price of drinks $= \pounds 0.40$. Using this we get,
-
-$
-\begin{aligned}
-\text {For 4 crisps and 3 drinks} &= 4 \times 0.35 + 3 \times 0.40 \\\\
-                                  &= 1.4 + 1.2 \\\\
-                                  &= \pounds 2.6
-\end{aligned}
-$
+Cost of $4$ packets of crisps and $3$ drinks $= \pounds 2.60$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.6$
+$\pounds 2.60$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the price of crisp $= a$
+<pre class='language-latex'><code class='language-latex'>Let the price of a packet of crisp $= a$
 
-Let the price of drinks $= b$
+Let the price of a drink $= b$
 
-$
-\begin{aligned}
-2a + 2b &= 1.50 \\\\
-2a      &= 1.50 - 2b 
-\end{aligned}
-$
+As per the question,
 
 $
-\begin{aligned}
-2a +  b  &= 1.10 \\\\
-2a       &= 1.10 - b 
-1.10 - b &= 1.50 - 2b \\\\
-2b - b   &= 1.50 - 1.10 \\\\
-b        &= 0.40
-\end{aligned}
+\begin {aligned}
+2a + 2b + 2a + b  &= 1.50 + 1.10 \\\\
+4a + 3b           &= \pounds 2.60
+\end {aligned}
 $
 
-$
-\begin{aligned}
-2a  &=  1.50 - 2b \\\\
-2a  &=  1.50 - 2 \times 0.40 \\\\
-2a  &=  1.50 - 0.80 \\\\
-2a  &=  0.70 \\\\
-a   &=  \dfrac {0.70} {2} \\\\
-a   &=  0.35
-\end{aligned}
-$
-
-Price of crisp $= \pounds 0.35$, and price of drinks $= \pounds 0.40$. Using this we get,
-
-$
-\begin{aligned}
-\text {For 4 crisps and 3 drinks} &= 4 \times 0.35 + 3 \times 0.40 \\\\
-                                  &= 1.4 + 1.2 \\\\
-                                  &= \pounds 2.6
-\end{aligned}
-$
+Cost of $4$ packets of crisps and $3$ drinks $= \pounds 2.60$
 </code></pre>
 </div>
 </div>
@@ -142,7 +88,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 2.6$
+<pre class='language-latex'><code class='language-latex'>$\pounds 2.60$
 </code></pre>
 </div>
 </div>
@@ -219,14 +165,13 @@ Pippa came home from her holiday at her Grandma’s with $5$ books. Whilst she w
 <div class='workings'>
 <div class='working'>
 
-Let the numbers of books she took as $=a$
-
 $
-\begin{aligned}
-a &= 5 + 2 + 1 - 4 \\\\
-a &= 8 - 4 \\\\
-a &= 4
-\end{aligned}
+\begin {aligned}
+\text {Number of books she took for holiday}    &= \text {Total books} - \text {Books she got while se was at her Grandma’s} \\\\
+                                                &= 5 + 2 + 1 + 4 - 2 - 1 \\\\
+                                                &= 12 - 3 \\\\
+                                                &= 9
+\end {aligned}
 $
 
 </div>
@@ -234,21 +179,20 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4$
+$9$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the numbers of books she took as $=a$
-
-$
-\begin{aligned}
-a &= 5 + 2 + 1 - 4 \\\\
-a &= 8 - 4 \\\\
-a &= 4
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Number of books she took for holiday}    &= \text {Total books} - \text {Books she got while se was at her Grandma’s} \\\\
+                                                &= 5 + 2 + 1 + 4 - 2 - 1 \\\\
+                                                &= 12 - 3 \\\\
+                                                &= 9
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -261,7 +205,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4$
+<pre class='language-latex'><code class='language-latex'>$9$
 </code></pre>
 </div>
 </div>
@@ -307,7 +251,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0614640E-B41A-4826-860D-7235E6EC27FC</p>
 </div>
@@ -321,7 +265,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -338,7 +282,7 @@ Sophie should have divided a number by $4$, but instead she subtracted $4$. She 
 <div class='workings'>
 <div class='working'>
 
-Let the number $=a$,
+Let the number $= a$
 
 $
 \begin{aligned}
@@ -348,13 +292,14 @@ a     &= 92
 \end{aligned}
 $
 
-Answer should have been,
+Answer should have been:
 
 $
 \begin{aligned}
+&= \dfrac {a} {4} \\\\
 &= \dfrac {92} {4} \\\\
-&= \dfrac {23 \times 4} {4} \\\\
-&= \dfrac {23 \times \cancel{4} } {\cancel{4} } \\\\
+&= \dfrac {4 \times 23} {4} \\\\
+&= \dfrac {\cancel {4} \times 23} {\cancel {4}} \\\\
 &= 23
 \end{aligned}
 $
@@ -371,7 +316,7 @@ $23$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=a$,
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 $
 \begin{aligned}
@@ -381,13 +326,14 @@ a     &= 92
 \end{aligned}
 $
 
-Answer should have been,
+Answer should have been:
 
 $
 \begin{aligned}
+&= \dfrac {a} {4} \\\\
 &= \dfrac {92} {4} \\\\
-&= \dfrac {23 \times 4} {4} \\\\
-&= \dfrac {23 \times \cancel{4} } {\cancel{4} } \\\\
+&= \dfrac {4 \times 23} {4} \\\\
+&= \dfrac {\cancel {4} \times 23} {\cancel {4}} \\\\
 &= 23
 \end{aligned}
 $
@@ -448,7 +394,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>59782F67-CD3A-4562-8A32-D1EC35290808</p>
 </div>
@@ -462,7 +408,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -482,66 +428,98 @@ How much did each of them have?
 <div class='workings'>
 <div class='working'>
 
-Let the amount with Dana $= d$
+Let the money Dana had (in $\pounds$) $= a$
+
+Money Harry had $= a + 20$
+
+Money Charlotte had $= a + 53$
+
+Money Sid had $= a + 71$
 
 As per the question,
 
 $
 \begin{aligned}
-d + d + 20 + d + 53 + d + 71        &= 234 \\\\
-4d + 144                            &= 234 \\\\
-4d                                  &= 234 - 144 \\\\
-4d                                  &= 90 \\\\
-d                                   &= \dfrac {90} {4} \\\\
-d                                   &= \pounds 22.5
+a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\\\
+4a + 144                      &= 234 \\\\
+4a                            &= 234 - 144 \\\\
+4a                            &= 90 \\\\
+a                             &= \dfrac {90} {4} \\\\
+a                             &= \pounds 22.50
 \end{aligned}
 $
 
-Amount with Dana $= \pounds 22.5$
-
-Amount with Harry $= \pounds 22.5 + 20 = \pounds 42.5$
-
-Amount with Charlotte $= \pounds 22.5 + 53 = \pounds 75.5$
-
-Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
+$
+\begin {aligned}
+\text {Money Dana had}        &= \pounds 22.50 \\\\
+\text {Money Harry had}       &= 22.50 + 20 \\\\
+                              &= \pounds 42.50 \\\\
+\text {Money Charlotte had}   &= 22.50 + 53 \\\\
+                              &= \pounds 75.50 \\\\
+\text {Money Sid had}         &= 22.50 + 71 \\\\
+                              &= \pounds 93.50
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Dana} = \pounds 22.5 \\
-\text {Harry} = \pounds 42.5 \\
-\text {Charlotte} = \pounds 75.5 \\
-\text {Sid} = 93.5$
+Dana $=$ $\pounds 22.50$
+
+</div>
+<div class='answer'>
+
+Harry $=$ $\pounds 42.50$
+
+</div>
+<div class='answer'>
+
+Charlotte $=$ $\pounds 75.50$
+
+</div>
+<div class='answer'>
+
+Sid $=$ $\pounds 93.50$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the amount with Dana $= d$
+<pre class='language-latex'><code class='language-latex'>Let the money Dana had (in $\pounds$) $= a$
+
+Money Harry had $= a + 20$
+
+Money Charlotte had $= a + 53$
+
+Money Sid had $= a + 71$
 
 As per the question,
 
 $
 \begin{aligned}
-d + d + 20 + d + 53 + d + 71        &= 234 \\\\
-4d + 144                            &= 234 \\\\
-4d                                  &= 234 - 144 \\\\
-4d                                  &= 90 \\\\
-d                                   &= \dfrac {90} {4} \\\\
-d                                   &= \pounds 22.5
+a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\\\
+4a + 144                      &= 234 \\\\
+4a                            &= 234 - 144 \\\\
+4a                            &= 90 \\\\
+a                             &= \dfrac {90} {4} \\\\
+a                             &= \pounds 22.50
 \end{aligned}
 $
 
-Amount with Dana $= \pounds 22.5$
-
-Amount with Harry $= \pounds 22.5 + 20 = \pounds 42.5$
-
-Amount with Charlotte $= \pounds 22.5 + 53 = \pounds 75.5$
-
-Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
+$
+\begin {aligned}
+\text {Money Dana had}        &= \pounds 22.50 \\\\
+\text {Money Harry had}       &= 22.50 + 20 \\\\
+                              &= \pounds 42.50 \\\\
+\text {Money Charlotte had}   &= 22.50 + 53 \\\\
+                              &= \pounds 75.50 \\\\
+\text {Money Sid had}         &= 22.50 + 71 \\\\
+                              &= \pounds 93.50
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -550,13 +528,40 @@ Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Dana</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 22.50$
+</code></pre>
+</div>
+<div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Dana} = \pounds 22.5 \\
-\text {Harry} = \pounds 42.5 \\
-\text {Charlotte} = \pounds 75.5 \\
-\text {Sid} = 93.5$
+<pre class='language-latex'><code class='language-latex'>Harry</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 42.50$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Charlotte</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 75.50$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Sid</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 93.50$
 </code></pre>
 </div>
 </div>

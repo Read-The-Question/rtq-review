@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -962,7 +962,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7D2466F0-AE57-429A-BA31-12DECBC77D48</p>
 </div>
@@ -976,7 +976,7 @@ $
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -995,17 +995,20 @@ $0.627 = 0.6 + 0.02 + \ldots$
 <div class='workings'>
 <div class='working'>
 
+Let the missing number $= a$
+
+As per the question,
+
 $
 \begin{aligned}
-0.627                    &= 0.6 + 0.02 + \ldots \\\\
-0.627                    &= 0.6 + 0.02 + \text {Missing number} \\\\
-\text {Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
-                         &= 0.627 - 0.62 \\\\
-                         &= 0.007
-
+0.627       &= 0.60 + 0.02 + a \\\\
+0.627       &= 0.62 + a \\\\
+a           &= 0.627 - 0.620 \\\\
+a           &= 0.007
 \end{aligned}
 $
 
+The missing number $= 0.007$
 
 </div>
 </div>
@@ -1019,17 +1022,20 @@ $0.007$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-0.627                    &= 0.6 + 0.02 + \ldots \\\\
-0.627                    &= 0.6 + 0.02 + \text {Missing number} \\\\
-\text {Missing number}   &= 0.627 - 0.6 - 0.02 \\\\
-                         &= 0.627 - 0.62 \\\\
-                         &= 0.007
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
 
+As per the question,
+
+$
+\begin{aligned}
+0.627       &= 0.60 + 0.02 + a \\\\
+0.627       &= 0.62 + a \\\\
+a           &= 0.627 - 0.620 \\\\
+a           &= 0.007
 \end{aligned}
 $
 
+The missing number $= 0.007$
 </code></pre>
 </div>
 </div>
@@ -1782,7 +1788,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B51C61A9-BBFD-4FCA-9F5F-BB543CC361E8</p>
 </div>
@@ -1796,7 +1802,7 @@ $
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1815,35 +1821,30 @@ How many biscuits do Alysha and Julia each have?
 <div class='workings'>
 <div class='working'>
 
-Let the number of biscuits Juilia has $=a$
+Let the number of biscuits Julia has $= a$
+
+Number of biscuits Alysha has $= a + 2$
 
 As per the question,
 
-Biscuits (Alysha) + Biscuits (Julia) = Total Biscuits
-
 $
 \begin{aligned}
-(a + 2) + a &= 14 \\\\\
-2a + 2  &= 14 \\\\
-2a      &= 14 - 2 \\\\
-2a      &= 12 \\\\
-a       &= \dfrac {12} {2} \\\\
-a       &= \dfrac {6 \times 2} {2} \\\\
-a       &= \dfrac {6 \times \cancel{2}} {\cancel{2}} \\\\
-a       &= 6
+a + a + 2   &= 14 \\\\
+2a          &= 14 - 2 \\\\
+2a          &= 12 \\\\
+a           &= \dfrac {12} {2} \\\\
+a           &= \dfrac {2 \times 6} {2} \\\\
+a           &= \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
+a           &= 6
 \end{aligned}
 $
 
-No. of biscuits Juilia has $= 6$
-
-No. of biscuits Alysha has
-
 $
-\begin{aligned}
-&= 2 + a \\\\
-&= 2 + 6 \\\\
-&= 8
-\end{aligned}
+\begin {aligned}
+\text {Number of biscuits Julia has}      &= 6 \\\\
+\text {Number of biscuits Alysha has}     &= 6 + 2 \\\\
+                                          &= 8
+\end {aligned}
 $
 
 </div>
@@ -1851,42 +1852,42 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
+$6$
+
+</div>
+<div class='answer'>
+
+$8$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number of biscuits Juilia has $=a$
+<pre class='language-latex'><code class='language-latex'>Let the number of biscuits Julia has $= a$
+
+Number of biscuits Alysha has $= a + 2$
 
 As per the question,
 
-Biscuits (Alysha) + Biscuits (Julia) = Total Biscuits
-
 $
 \begin{aligned}
-(a + 2) + a &= 14 \\\\\
-2a + 2  &= 14 \\\\
-2a      &= 14 - 2 \\\\
-2a      &= 12 \\\\
-a       &= \dfrac {12} {2} \\\\
-a       &= \dfrac {6 \times 2} {2} \\\\
-a       &= \dfrac {6 \times \cancel{2}} {\cancel{2}} \\\\
-a       &= 6
+a + a + 2   &= 14 \\\\
+2a          &= 14 - 2 \\\\
+2a          &= 12 \\\\
+a           &= \dfrac {12} {2} \\\\
+a           &= \dfrac {2 \times 6} {2} \\\\
+a           &= \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
+a           &= 6
 \end{aligned}
 $
 
-No. of biscuits Juilia has $= 6$
-
-No. of biscuits Alysha has
-
 $
-\begin{aligned}
-&= 2 + a \\\\
-&= 2 + 6 \\\\
-&= 8
-\end{aligned}
+\begin {aligned}
+\text {Number of biscuits Julia has}      &= 6 \\\\
+\text {Number of biscuits Alysha has}     &= 6 + 2 \\\\
+                                          &= 8
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -1899,7 +1900,17 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
+<pre class='language-latex'><code class='language-latex'>$6$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
 </code></pre>
 </div>
 </div>
@@ -1964,7 +1975,7 @@ No. of biscuits Alysha has =2 + a (Solve)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7B74D5EE-ABDD-4862-9E72-635714D53045</p>
 </div>
@@ -1978,7 +1989,7 @@ No. of biscuits Alysha has =2 + a (Solve)
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1999,19 +2010,21 @@ What is Jemma's number?
 <div class='workings'>
 <div class='working'>
 
-Let the number Jemma thought $= a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-(a + 3) \times 5    &= 35 \\\\
-a + 3               &= \dfrac {35} {5} \\\\
-a + 3               &= \dfrac {7 \times 5} {5} \\\\
-a + 3               &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
-a + 3               &= 7 \\\\
-a                   &= 7 - 3 \\\\
-a                   &= 4
+(a + 3) \times 5  &= 35 \\\\
+5a + 3 \times 5   &= 35 \\\\
+5a + 15           &= 35 \\\\
+5a                &= 35 - 15 \\\\
+5a                &= 20 \\\\
+a                 &= \dfrac {20} {5} \\\\
+a                 &= \dfrac {4 \times 5} {5} \\\\
+a                 &= \dfrac {4 \times \cancel {5}} {\cancel {5}} \\\\
+a                 &= 4
 \end{aligned}
 $
 
@@ -2029,19 +2042,21 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number Jemma thought $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-(a + 3) \times 5    &= 35 \\\\
-a + 3               &= \dfrac {35} {5} \\\\
-a + 3               &= \dfrac {7 \times 5} {5} \\\\
-a + 3               &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
-a + 3               &= 7 \\\\
-a                   &= 7 - 3 \\\\
-a                   &= 4
+(a + 3) \times 5  &= 35 \\\\
+5a + 3 \times 5   &= 35 \\\\
+5a + 15           &= 35 \\\\
+5a                &= 35 - 15 \\\\
+5a                &= 20 \\\\
+a                 &= \dfrac {20} {5} \\\\
+a                 &= \dfrac {4 \times 5} {5} \\\\
+a                 &= \dfrac {4 \times \cancel {5}} {\cancel {5}} \\\\
+a                 &= 4
 \end{aligned}
 $
 
@@ -2259,7 +2274,7 @@ blue answer 0.15 grams
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>786ECD30-5585-4FE5-91C7-28D8FFC8B3AE</p>
 </div>
@@ -2273,7 +2288,7 @@ blue answer 0.15 grams
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2306,23 +2321,30 @@ As per the question,
 
 $
 \begin{aligned}
-a + 2a + 3a         &= 24 \\\\
-6a                  &= 24 \\\\
-3 \times 2a         &= 24 \\\\
-2a                  &= \dfrac {8 \times 3} {3} \\\\
-2a                  &= \dfrac {8 \times \cancel{3}} {\cancel{3}} \\\\
-2a                  &= 8
+a + 2a + 3a &= 24 \\\\
+6a          &= 24 \\\\
+a           &= \dfrac {24} {6} \\\\
+a           &= \dfrac {4 \times 6} {6} \\\\
+a           &= \dfrac {4 \times \cancel {6}} {\cancel {6}} \\\\
+a           &= 4
 \end{aligned}
 $
 
-Number of oranges used $= 2a = 8$
+$
+\begin {aligned}
+\text {Number of bananas used}      &= 4 \\\\
+\text {Number of oranges used}      &= 2a \\\\
+                                    &= 2 \times 4 \\\\
+                                    &= 8
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$8 \ \text {oranges}$
+$8$
 
 </div>
 </div>
@@ -2339,16 +2361,23 @@ As per the question,
 
 $
 \begin{aligned}
-a + 2a + 3a         &= 24 \\\\
-6a                  &= 24 \\\\
-3 \times 2a         &= 24 \\\\
-2a                  &= \dfrac {8 \times 3} {3} \\\\
-2a                  &= \dfrac {8 \times \cancel{3}} {\cancel{3}} \\\\
-2a                  &= 8
+a + 2a + 3a &= 24 \\\\
+6a          &= 24 \\\\
+a           &= \dfrac {24} {6} \\\\
+a           &= \dfrac {4 \times 6} {6} \\\\
+a           &= \dfrac {4 \times \cancel {6}} {\cancel {6}} \\\\
+a           &= 4
 \end{aligned}
 $
 
-Number of oranges used $= 2a = 8$
+$
+\begin {aligned}
+\text {Number of bananas used}      &= 4 \\\\
+\text {Number of oranges used}      &= 2a \\\\
+                                    &= 2 \times 4 \\\\
+                                    &= 8
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2360,7 +2389,7 @@ Number of oranges used $= 2a = 8$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8 \ \text {oranges}$
+<pre class='language-latex'><code class='language-latex'>$8$
 </code></pre>
 </div>
 </div>
@@ -3072,7 +3101,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF</p>
 </div>
@@ -3086,7 +3115,7 @@ TODOANSWER
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3103,27 +3132,25 @@ I am thinking of a number that when I multiply it by two and divide the result b
 <div class='workings'>
 <div class='working'>
 
-Let the number you thought of $=a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac {\dfrac {2 \times a} {4} \times \dfrac {2 \times a} {4} - 4 } {10}                                           &= 6 \\\\
+\dfrac {\dfrac {a \times 2} {4} \times \dfrac {a \times 2} {4} - 4 } {10}                                           &= 6 \\\\
 \dfrac {2 \times a} {2 \times 2} \times \dfrac {2 \times a} {2 \times 2} - 4                                        &= 6 \times 10 \\\\
 \dfrac {\cancel{2} \times a} {\cancel{2} \times 2} \times \dfrac {\cancel{2} \times a} {\cancel{2} \times 2} - 4    &= 60 \\\\
-\dfrac {a} {2} \times \dfrac{a}{2} - 4                                                                              &= 60 \\\\
-\dfrac {a} {2} \times \dfrac{a}{2}                                                                                  &= 60 + 4 \\\\
-\dfrac {a \times a} {2 \times 2}                                                                                    &= 64 \\\\
-\dfrac {a \times a} {4}                                                                                             &= 64 \\\\
-a \times a                                                                                                          &= 64 \times 4 \\\\
-a \times a                                                                                                          &= 256 \\\\
-a \times a                                                                                                          &= 16 \times 16 \\\\
+\dfrac {a \times a} {2 \times 2}                                                                                    &= 60 + 4 \\\\
+\dfrac {a^2} {4}                                                                                                    &= 64 \\\\
+a^2                                                                                                                 &= 64 \times 4 \\\\
+a^2                                                                                                                 &= 256 \\\\
+a                                                                                                                   &= \sqrt {256} \\\\
 a                                                                                                                   &= 16
 \end{aligned}
 $
 
-The number you thought of $=16$
+The number $= 16$
 
 </div>
 </div>
@@ -3137,27 +3164,25 @@ $16$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number you thought of $=a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-\dfrac {\dfrac {2 \times a} {4} \times \dfrac {2 \times a} {4} - 4 } {10}                                           &= 6 \\\\
+\dfrac {\dfrac {a \times 2} {4} \times \dfrac {a \times 2} {4} - 4 } {10}                                           &= 6 \\\\
 \dfrac {2 \times a} {2 \times 2} \times \dfrac {2 \times a} {2 \times 2} - 4                                        &= 6 \times 10 \\\\
 \dfrac {\cancel{2} \times a} {\cancel{2} \times 2} \times \dfrac {\cancel{2} \times a} {\cancel{2} \times 2} - 4    &= 60 \\\\
-\dfrac {a} {2} \times \dfrac{a}{2} - 4                                                                              &= 60 \\\\
-\dfrac {a} {2} \times \dfrac{a}{2}                                                                                  &= 60 + 4 \\\\
-\dfrac {a \times a} {2 \times 2}                                                                                    &= 64 \\\\
-\dfrac {a \times a} {4}                                                                                             &= 64 \\\\
-a \times a                                                                                                          &= 64 \times 4 \\\\
-a \times a                                                                                                          &= 256 \\\\
-a \times a                                                                                                          &= 16 \times 16 \\\\
+\dfrac {a \times a} {2 \times 2}                                                                                    &= 60 + 4 \\\\
+\dfrac {a^2} {4}                                                                                                    &= 64 \\\\
+a^2                                                                                                                 &= 64 \times 4 \\\\
+a^2                                                                                                                 &= 256 \\\\
+a                                                                                                                   &= \sqrt {256} \\\\
 a                                                                                                                   &= 16
 \end{aligned}
 $
 
-The number you thought of $=16$
+The number $= 16$
 </code></pre>
 </div>
 </div>
@@ -3510,7 +3535,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>59DED6AF-072C-4471-8B10-931ECD8F050E</p>
 </div>
@@ -3524,7 +3549,7 @@ $
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3541,39 +3566,42 @@ Three apples and a banana cost $32 \text{p}$. Six apples and a banana cost $53 \
 <div class='workings'>
 <div class='working'>
 
-Let take apple $= a$
+Let the cost of an apple $= a$
 
-and let's take banana $= b$
+Cost of a banana $= b$
 
 As per the question,
 
-$3 \times a + 1 \times b = 32 \text{p}$ Or $1 \times b = 32 - 3 \times a$
+$
+\begin {aligned}
+3a + b  &= 32 \text {p} \\\\
+b       &= 32 - 3a
+\end {aligned}
+$
 
-$6 \times a + 1 \times b = 53 \text{p}$ Or $1 \times b = 53 - 6 \times a$
-
-Hence,
+Using the above calcuation we get,
 
 $
 \begin{aligned}
-32 - 3 \times a             &=  53 - 6 \times a \\\\
-6a - 3a                     &= 53 - 32 \\\\
-3a                          &= 21 \\\\
-a                           &= \dfrac{21}{3} \\\\
-a                           &= \dfrac{7 \times 3}{3} \\\\
-a                           &= 7 \\\\
-\text{Apple cost}           &= 7
+6a + b  &= 53 \text {p} \\\\
+6a + 32 - 3a    &= 53 \\\\
+3a              &= 53 - 32 \\\\
+3a              &= 21 \\\\
+a               &= \dfrac {21} {3} \\\\
+a               &= \dfrac {3 \times 7} {3} \\\\
+a               &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
+a               &= 7 \text {p}
 \end{aligned}
 $
 
-The cost of a banana
-
 $
-\begin{aligned}
-b &= 32 - 3 \times a \\\\
-b &= 32 - 3 \times 7 \text {p} \\\\
-b &= 32 - 21 \text {p} \\\\\
-b &= 11 \text {p}
-\end{aligned}
+\begin {aligned}
+\text {Cost of an apple}    &= 7 \text {p} \\\\
+\text {Cost of one banana}  &= 32 - 3a \\\\
+                            &= 32 - 3 \times 7 \\\\
+                            &= 32 - 21 \\\\
+                            &= 11 \text {p}
+\end {aligned}
 $
 
 </div>
@@ -3588,39 +3616,42 @@ $11 \text{p}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let take apple $= a$
+<pre class='language-latex'><code class='language-latex'>Let the cost of an apple $= a$
 
-and let's take banana $= b$
+Cost of a banana $= b$
 
 As per the question,
 
-$3 \times a + 1 \times b = 32 \text{p}$ Or $1 \times b = 32 - 3 \times a$
+$
+\begin {aligned}
+3a + b  &= 32 \text {p} \\\\
+b       &= 32 - 3a
+\end {aligned}
+$
 
-$6 \times a + 1 \times b = 53 \text{p}$ Or $1 \times b = 53 - 6 \times a$
-
-Hence,
+Using the above calcuation we get,
 
 $
 \begin{aligned}
-32 - 3 \times a             &=  53 - 6 \times a \\\\
-6a - 3a                     &= 53 - 32 \\\\
-3a                          &= 21 \\\\
-a                           &= \dfrac{21}{3} \\\\
-a                           &= \dfrac{7 \times 3}{3} \\\\
-a                           &= 7 \\\\
-\text{Apple cost}           &= 7
+6a + b  &= 53 \text {p} \\\\
+6a + 32 - 3a    &= 53 \\\\
+3a              &= 53 - 32 \\\\
+3a              &= 21 \\\\
+a               &= \dfrac {21} {3} \\\\
+a               &= \dfrac {3 \times 7} {3} \\\\
+a               &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
+a               &= 7 \text {p}
 \end{aligned}
 $
 
-The cost of a banana
-
 $
-\begin{aligned}
-b &= 32 - 3 \times a \\\\
-b &= 32 - 3 \times 7 \text {p} \\\\
-b &= 32 - 21 \text {p} \\\\\
-b &= 11 \text {p}
-\end{aligned}
+\begin {aligned}
+\text {Cost of an apple}    &= 7 \text {p} \\\\
+\text {Cost of one banana}  &= 32 - 3a \\\\
+                            &= 32 - 3 \times 7 \\\\
+                            &= 32 - 21 \\\\
+                            &= 11 \text {p}
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -4096,7 +4127,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>59782F67-CD3A-4562-8A32-D1EC35290808</p>
 </div>
@@ -4110,7 +4141,7 @@ TODOANSWER
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4130,66 +4161,98 @@ How much did each of them have?
 <div class='workings'>
 <div class='working'>
 
-Let the amount with Dana $= d$
+Let the money Dana had (in $\pounds$) $= a$
+
+Money Harry had $= a + 20$
+
+Money Charlotte had $= a + 53$
+
+Money Sid had $= a + 71$
 
 As per the question,
 
 $
 \begin{aligned}
-d + d + 20 + d + 53 + d + 71        &= 234 \\\\
-4d + 144                            &= 234 \\\\
-4d                                  &= 234 - 144 \\\\
-4d                                  &= 90 \\\\
-d                                   &= \dfrac {90} {4} \\\\
-d                                   &= \pounds 22.5
+a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\\\
+4a + 144                      &= 234 \\\\
+4a                            &= 234 - 144 \\\\
+4a                            &= 90 \\\\
+a                             &= \dfrac {90} {4} \\\\
+a                             &= \pounds 22.50
 \end{aligned}
 $
 
-Amount with Dana $= \pounds 22.5$
-
-Amount with Harry $= \pounds 22.5 + 20 = \pounds 42.5$
-
-Amount with Charlotte $= \pounds 22.5 + 53 = \pounds 75.5$
-
-Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
+$
+\begin {aligned}
+\text {Money Dana had}        &= \pounds 22.50 \\\\
+\text {Money Harry had}       &= 22.50 + 20 \\\\
+                              &= \pounds 42.50 \\\\
+\text {Money Charlotte had}   &= 22.50 + 53 \\\\
+                              &= \pounds 75.50 \\\\
+\text {Money Sid had}         &= 22.50 + 71 \\\\
+                              &= \pounds 93.50
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Dana} = \pounds 22.5 \\
-\text {Harry} = \pounds 42.5 \\
-\text {Charlotte} = \pounds 75.5 \\
-\text {Sid} = 93.5$
+Dana $=$ $\pounds 22.50$
+
+</div>
+<div class='answer'>
+
+Harry $=$ $\pounds 42.50$
+
+</div>
+<div class='answer'>
+
+Charlotte $=$ $\pounds 75.50$
+
+</div>
+<div class='answer'>
+
+Sid $=$ $\pounds 93.50$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the amount with Dana $= d$
+<pre class='language-latex'><code class='language-latex'>Let the money Dana had (in $\pounds$) $= a$
+
+Money Harry had $= a + 20$
+
+Money Charlotte had $= a + 53$
+
+Money Sid had $= a + 71$
 
 As per the question,
 
 $
 \begin{aligned}
-d + d + 20 + d + 53 + d + 71        &= 234 \\\\
-4d + 144                            &= 234 \\\\
-4d                                  &= 234 - 144 \\\\
-4d                                  &= 90 \\\\
-d                                   &= \dfrac {90} {4} \\\\
-d                                   &= \pounds 22.5
+a + a + 20 + a + 53 + a + 71  &= \pounds 234 \\\\
+4a + 144                      &= 234 \\\\
+4a                            &= 234 - 144 \\\\
+4a                            &= 90 \\\\
+a                             &= \dfrac {90} {4} \\\\
+a                             &= \pounds 22.50
 \end{aligned}
 $
 
-Amount with Dana $= \pounds 22.5$
-
-Amount with Harry $= \pounds 22.5 + 20 = \pounds 42.5$
-
-Amount with Charlotte $= \pounds 22.5 + 53 = \pounds 75.5$
-
-Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
+$
+\begin {aligned}
+\text {Money Dana had}        &= \pounds 22.50 \\\\
+\text {Money Harry had}       &= 22.50 + 20 \\\\
+                              &= \pounds 42.50 \\\\
+\text {Money Charlotte had}   &= 22.50 + 53 \\\\
+                              &= \pounds 75.50 \\\\
+\text {Money Sid had}         &= 22.50 + 71 \\\\
+                              &= \pounds 93.50
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4198,13 +4261,40 @@ Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Dana</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 22.50$
+</code></pre>
+</div>
+<div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {Dana} = \pounds 22.5 \\
-\text {Harry} = \pounds 42.5 \\
-\text {Charlotte} = \pounds 75.5 \\
-\text {Sid} = 93.5$
+<pre class='language-latex'><code class='language-latex'>Harry</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 42.50$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Charlotte</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 75.50$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Sid</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 93.50$
 </code></pre>
 </div>
 </div>

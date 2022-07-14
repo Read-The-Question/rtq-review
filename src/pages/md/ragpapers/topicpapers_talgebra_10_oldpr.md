@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-oldpr"
 title: "TopicPaper - Algebra - 10 - OLDPR"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-13 17:13:09
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -81,9 +81,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money received by Peter}  &= 2 \times \ \text{Helen} \\\\
-                                &= 2 \times \pounds 20 \\\\
-                                &= \pounds 40
+\text{Money Peter received}   &= 2 \times \pounds 20 \\\\
+                              &= \pounds 40
 \end{aligned}
 $
 
@@ -103,9 +102,8 @@ $\pounds 40$
 
 $
 \begin{aligned}
-\text{Money received by Peter}  &= 2 \times \ \text{Helen} \\\\
-                                &= 2 \times \pounds 20 \\\\
-                                &= \pounds 40
+\text{Money Peter received}   &= 2 \times \pounds 20 \\\\
+                              &= \pounds 40
 \end{aligned}
 $
 </code></pre>
@@ -140,23 +138,16 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money recieved by Helen}      &= \dfrac {\text{Peter}} {2} \\\\
-                                    &= \dfrac {60} {2} \\\\
-                                    &= \dfrac {30 \times 2} {2} \\\\
-                                    &= \dfrac {30 \times \cancel {2}} {\cancel {2}} \\\\
-                                    &= \pounds 30
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Total money}  &= \text{John}  + \text{Peter} +  \text{Helen} \\\\
-                    &= \dfrac {\text{Helen}}{5} + \pounds 60 + \pounds 30 \\\\
-                    &= \dfrac {30}{5} + 90 \\\\
-                    &= \dfrac {5 \times 6} {5} + 90 \\\\
-                    &= \dfrac {\cancel {5} \times 6} {\cancel {5}} + 90 \\\\
-                    &= 6 + 90 \\\\
-                    &= \pounds 96
+\text{Money Helen received}   &= \dfrac {60} {2} \\\\
+                              &= \dfrac {2 \times 30} {2} \\\\
+                              &= \dfrac {\cancel {2} \times 30} {\cancel {2}} \\\\
+                              &= \pounds 30 \\\\
+\text {Money John received}   &= \dfrac {30} {5} \\\\
+                              &= \dfrac {5 \times 6} {5} \\\\
+                              &= \dfrac {\cancel {5} \times 6} {\cancel {5}} \\\\
+                              &= \pounds 6 \\\\
+\text{Total money}            &= 60 + 30 + 6 \\\\
+                              &= \pounds 96
 \end{aligned}
 $
 
@@ -176,23 +167,16 @@ $\pounds 96$
 
 $
 \begin{aligned}
-\text{Money recieved by Helen}      &= \dfrac {\text{Peter}} {2} \\\\
-                                    &= \dfrac {60} {2} \\\\
-                                    &= \dfrac {30 \times 2} {2} \\\\
-                                    &= \dfrac {30 \times \cancel {2}} {\cancel {2}} \\\\
-                                    &= \pounds 30
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Total money}  &= \text{John}  + \text{Peter} +  \text{Helen} \\\\
-                    &= \dfrac {\text{Helen}}{5} + \pounds 60 + \pounds 30 \\\\
-                    &= \dfrac {30}{5} + 90 \\\\
-                    &= \dfrac {5 \times 6} {5} + 90 \\\\
-                    &= \dfrac {\cancel {5} \times 6} {\cancel {5}} + 90 \\\\
-                    &= 6 + 90 \\\\
-                    &= \pounds 96
+\text{Money Helen received}   &= \dfrac {60} {2} \\\\
+                              &= \dfrac {2 \times 30} {2} \\\\
+                              &= \dfrac {\cancel {2} \times 30} {\cancel {2}} \\\\
+                              &= \pounds 30 \\\\
+\text {Money John received}   &= \dfrac {30} {5} \\\\
+                              &= \dfrac {5 \times 6} {5} \\\\
+                              &= \dfrac {\cancel {5} \times 6} {\cancel {5}} \\\\
+                              &= \pounds 6 \\\\
+\text{Total money}            &= 60 + 30 + 6 \\\\
+                              &= \pounds 96
 \end{aligned}
 $
 </code></pre>
@@ -223,20 +207,22 @@ If they received $\pounds 160$ altogether in May, how much did __John__ receive 
 <div class='workings'>
 <div class='working'>
 
-Let the money John received $= a$
+Let the money John received (in $\pounds$) $= a$
+
+Money Helen received $= 5a$
+
+Money Peter received $= 10a$
 
 As per the question,
 
-
 $
 \begin{aligned}
- \text{John}  + \text{Helen} + \text{Peter} &= \text{Total money} \\\\
-a + 5a + 10a                                &= \pounds 160 \\\\
-16a                                         &= 160 \\\\
-a                                           &= \dfrac {160} {16} \\\\
-a                                           &= \dfrac {16 \times 10} {16} \\\\
-a                                           &= \dfrac {\cancel{16} \times 10} {\cancel{16}} \\\\
-a                                           &= \pounds 10
+a + 5a + 10a      &= \pounds 160 \\\\
+16a               &= 160 \\\\
+a                 &= \dfrac {160} {16} \\\\
+a                 &= \dfrac {10 \times 16} {16} \\\\
+a                 &= \dfrac {10 \times \cancel {16}} {\cancel {16}} \\\\
+a                 &= \pounds 10
 \end{aligned}
 $
 
@@ -254,20 +240,22 @@ $\pounds 10$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the money John received $= a$
+<pre class='language-latex'><code class='language-latex'>Let the money John received (in $\pounds$) $= a$
+
+Money Helen received $= 5a$
+
+Money Peter received $= 10a$
 
 As per the question,
 
-
 $
 \begin{aligned}
- \text{John}  + \text{Helen} + \text{Peter} &= \text{Total money} \\\\
-a + 5a + 10a                                &= \pounds 160 \\\\
-16a                                         &= 160 \\\\
-a                                           &= \dfrac {160} {16} \\\\
-a                                           &= \dfrac {16 \times 10} {16} \\\\
-a                                           &= \dfrac {\cancel{16} \times 10} {\cancel{16}} \\\\
-a                                           &= \pounds 10
+a + 5a + 10a      &= \pounds 160 \\\\
+16a               &= 160 \\\\
+a                 &= \dfrac {160} {16} \\\\
+a                 &= \dfrac {10 \times 16} {16} \\\\
+a                 &= \dfrac {10 \times \cancel {16}} {\cancel {16}} \\\\
+a                 &= \pounds 10
 \end{aligned}
 $
 
@@ -421,8 +409,6 @@ Work out $3 * 1$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= 3 * 1 \\\\
@@ -444,9 +430,7 @@ $10$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 3 * 1 \\\\
 &= (3 \times 3) + (1 \times 1) \\\\
@@ -482,8 +466,6 @@ Work out $3 * 2 + 1 * 0$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= 3 * 2 + 1 * 0 \\\\
@@ -505,9 +487,7 @@ $14$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 3 * 2 + 1 * 0 \\\\
 &= (3 \times 3) + (2 \times 2) + (1 \times 1) + (0 \times 0) \\\\
@@ -543,18 +523,15 @@ $a * 8 = 208$. Work out the value of $a$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-a * 8                           &= 208 \\\\
-(a \times a) + (8 \times 8)     &= 208 \\\\
-a^2 + 64                        &= 208 \\\\
-a^2                             &= 208 - 64 \\\\
-a^2                             &= 144 \\\\
-a^2                             &= 12 \times 12 \\\\
-a^2                             &= 12^2 \\\\
-a                               &= 12
+a * 8                         &= 208 \\\\
+(a \times a) + (8 \times 8)   &= 208 \\\\
+a^2 + 64                      &= 208 \\\\
+a^2                           &= 208 - 64 \\\\
+a^2                           &= 144 \\\\
+a                             &= \sqrt {144} \\\\
+a                             &= 12
 \end{aligned}
 $
 
@@ -570,18 +547,15 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-a * 8                           &= 208 \\\\
-(a \times a) + (8 \times 8)     &= 208 \\\\
-a^2 + 64                        &= 208 \\\\
-a^2                             &= 208 - 64 \\\\
-a^2                             &= 144 \\\\
-a^2                             &= 12 \times 12 \\\\
-a^2                             &= 12^2 \\\\
-a                               &= 12
+a * 8                         &= 208 \\\\
+(a \times a) + (8 \times 8)   &= 208 \\\\
+a^2 + 64                      &= 208 \\\\
+a^2                           &= 208 - 64 \\\\
+a^2                           &= 144 \\\\
+a                             &= \sqrt {144} \\\\
+a                             &= 12
 \end{aligned}
 $
 </code></pre>
@@ -612,8 +586,6 @@ $b * 2 = 4b$. Work out the value of $b$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 b * 2                           &= 4b \\\\
@@ -638,9 +610,7 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 b * 2                           &= 4b \\\\
 (b \times b) + (2 \times 2)     &= 4b \\\\
@@ -716,7 +686,7 @@ Wait with this aravind Last subquestion : (b-2)^2 explanation missing
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
 </div>
@@ -730,7 +700,7 @@ Wait with this aravind Last subquestion : (b-2)^2 explanation missing
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -788,18 +758,17 @@ I think of a number, divide it by $7$ and subtract $3$. The result is $6$. What 
 <div class='workings'>
 <div class='working'>
 
-Let the number I thought of $=a$ 
+Let the number $=a$ 
 
 As per the question,
 
 $
 \begin{aligned}
-(a \div 7) -3      &= 6 \\\\
-\dfrac {a} {7} - 3 &= 6 \\\\
-\dfrac {a} {7}     &= 6 + 3 \\\\
-\dfrac {a} {7}     &= 9 \\\\
-            a      &= 9 \times 7 \\\\
-            a      &= 63
+a \div 7 -3       &= 6 \\\\
+\dfrac {a} {7}    &= 6 + 3 \\\\
+\dfrac {a} {7}    &= 9 \\\\
+a                 &= 9 \times 7 \\\\
+a                 &= 63
 \end{aligned}
 $
 
@@ -816,18 +785,17 @@ $63$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I thought of $=a$ 
+<pre class='language-latex'><code class='language-latex'>Let the number $=a$ 
 
 As per the question,
 
 $
 \begin{aligned}
-(a \div 7) -3      &= 6 \\\\
-\dfrac {a} {7} - 3 &= 6 \\\\
-\dfrac {a} {7}     &= 6 + 3 \\\\
-\dfrac {a} {7}     &= 9 \\\\
-            a      &= 9 \times 7 \\\\
-            a      &= 63
+a \div 7 -3       &= 6 \\\\
+\dfrac {a} {7}    &= 6 + 3 \\\\
+\dfrac {a} {7}    &= 9 \\\\
+a                 &= 9 \times 7 \\\\
+a                 &= 63
 \end{aligned}
 $
 
@@ -863,18 +831,18 @@ As per the question,
 
 $
 \begin{aligned}
-x \times 22 &= (x + 7) \times 8 \\\\
-        22x &= 8x + 56 \\\\
-   22x - 8x &= 56 \\\\
-        14x &= 56 \\\\
-          x &= \dfrac {56} {14} \\\\
-          x &= \dfrac {14 \times 4} {14} \\\\
-          x &= \dfrac {\cancel {14} \times 4} {\cancel {14}} \\\\
-          x &= 4
+(x + 7) \times 8  &= x \times 22 \\\\
+8x + 56           &= 22x \\\\
+8x - 22x          &= -56 \\\\
+{}-14x            &= -56 \\\\
+\cancel {-} 14x   &= \cancel {-} 56 \\\\
+14x               &= 56 \\\\
+x                 &= \dfrac {56} {14} \\\\
+x                 &= \dfrac {4 \times 14} {14} \\\\
+x                 &= \dfrac {4 \times \cancel {14}} {\cancel {14}} \\\\
+x                 &= 4
 \end{aligned}
 $
-
-x is $4$.
 
 </div>
 </div>
@@ -892,18 +860,18 @@ $4$
 
 $
 \begin{aligned}
-x \times 22 &= (x + 7) \times 8 \\\\
-        22x &= 8x + 56 \\\\
-   22x - 8x &= 56 \\\\
-        14x &= 56 \\\\
-          x &= \dfrac {56} {14} \\\\
-          x &= \dfrac {14 \times 4} {14} \\\\
-          x &= \dfrac {\cancel {14} \times 4} {\cancel {14}} \\\\
-          x &= 4
+(x + 7) \times 8  &= x \times 22 \\\\
+8x + 56           &= 22x \\\\
+8x - 22x          &= -56 \\\\
+{}-14x            &= -56 \\\\
+\cancel {-} 14x   &= \cancel {-} 56 \\\\
+14x               &= 56 \\\\
+x                 &= \dfrac {56} {14} \\\\
+x                 &= \dfrac {4 \times 14} {14} \\\\
+x                 &= \dfrac {4 \times \cancel {14}} {\cancel {14}} \\\\
+x                 &= 4
 \end{aligned}
 $
-
-x is $4$.
 </code></pre>
 </div>
 </div>
@@ -997,7 +965,7 @@ x x 22 = ..... then x will fall and remain on the left side.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>E7751CD6-54CE-4BCD-BCD5-9E1364D791B2</p>
 </div>
@@ -1011,7 +979,7 @@ x x 22 = ..... then x will fall and remain on the left side.
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1072,18 +1040,23 @@ I think of a number, multiply it by $9$ and subtract $7$. The result is $101$. W
 <div class='workings'>
 <div class='working'>
 
-Let the number I think of   $= a$ 
+Let the number $= a$ 
+
+As per the question,
 
 $
 \begin{aligned}
-a \times 9 &= 101 + 7 \\\\
-a          &= \dfrac {108} {9} \\\\
-a          &= \dfrac {12 \times 9} {9} \\\\
-a          &= \dfrac {12 \times \cancel {9} } {\cancel {9} } \\\\
-a          &= 12
+a \times 9 - 7    &= 101 \\\\
+9a                &= 101 + 7 \\\\
+9a                &= 108 \\\\
+a                 &= \dfrac {108} {9} \\\\
+a                 &= \dfrac {9 \times 12} {9} \\\\
+a                 &= \dfrac {\cancel {9} \times 12} {\cancel {9}} \\\\
+a                 &= 12
 \end{aligned}
 $
 
+The number $= 12$
 
 </div>
 </div>
@@ -1097,18 +1070,23 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I think of   $= a$ 
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$ 
+
+As per the question,
 
 $
 \begin{aligned}
-a \times 9 &= 101 + 7 \\\\
-a          &= \dfrac {108} {9} \\\\
-a          &= \dfrac {12 \times 9} {9} \\\\
-a          &= \dfrac {12 \times \cancel {9} } {\cancel {9} } \\\\
-a          &= 12
+a \times 9 - 7    &= 101 \\\\
+9a                &= 101 + 7 \\\\
+9a                &= 108 \\\\
+a                 &= \dfrac {108} {9} \\\\
+a                 &= \dfrac {9 \times 12} {9} \\\\
+a                 &= \dfrac {\cancel {9} \times 12} {\cancel {9}} \\\\
+a                 &= 12
 \end{aligned}
 $
 
+The number $= 12$
 </code></pre>
 </div>
 </div>
@@ -1138,15 +1116,18 @@ answer by $6$, the overall result is the same as just multiplying $x$ by 18. Wha
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-x \times 18  &=  (x + 8) \times 6 \\\\ 
-18x          &=  6x + 48 \\\\ 
-18x - 6x     &=  48 \\\\ 
-12x          &=  48 \\\\ 
-x            &=  \dfrac{4 \times 12} {12} \\\\
-x            &=  \dfrac{4 \times \cancel {12} } {\cancel {12} } \\\\
-x            &=  4
+x \times 18 &= (x + 8) \times 6 \\\\
+18x         &= 6x + 48 \\\\
+18x - 6x    &= 48 \\\\
+12x         &= 48 \\\\
+x           &= \dfrac {48} {12} \\\\
+x           &= \dfrac{4 \times 12} {12} \\\\
+x           &= \dfrac{4 \times \cancel {12} } {\cancel {12} } \\\\
+x           &= 4
 \end{aligned}
 $
 
@@ -1163,15 +1144,18 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
-x \times 18  &=  (x + 8) \times 6 \\\\ 
-18x          &=  6x + 48 \\\\ 
-18x - 6x     &=  48 \\\\ 
-12x          &=  48 \\\\ 
-x            &=  \dfrac{4 \times 12} {12} \\\\
-x            &=  \dfrac{4 \times \cancel {12} } {\cancel {12} } \\\\
-x            &=  4
+x \times 18 &= (x + 8) \times 6 \\\\
+18x         &= 6x + 48 \\\\
+18x - 6x    &= 48 \\\\
+12x         &= 48 \\\\
+x           &= \dfrac {48} {12} \\\\
+x           &= \dfrac{4 \times 12} {12} \\\\
+x           &= \dfrac{4 \times \cancel {12} } {\cancel {12} } \\\\
+x           &= 4
 \end{aligned}
 $
 
@@ -1272,7 +1256,7 @@ answer is 4 . please change blue answer also
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>EED677CE-038C-415E-9155-1F7B7166B19B</p>
 </div>
@@ -1286,7 +1270,7 @@ answer is 4 . please change blue answer also
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1344,18 +1328,21 @@ I think of a number, divide it by $7$ and add $9$. The result is $17$. What was 
 <div class='workings'>
 <div class='working'>
 
-Let the number I thought of $= a$
+Let the number $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-a \div 7 + 9  &=   17 \\\\
-a \div 7      &=   17 - 9 \\\\
-a \div 7      &=   8 \\\\
-a             &=   8 \times 7 \\\\
-a             &=   56
+a \div 7 + 9      &= 17 \\\\
+\dfrac {a} {7}    &= 17 - 9 \\\\
+\dfrac {a} {7}    &= 8 \\\\
+a                 &= 8 \times 7 \\\\
+a                 &= 56
 \end{aligned}
 $
 
+The number $= 56$
 
 </div>
 </div>
@@ -1369,18 +1356,21 @@ $56$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I thought of $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-a \div 7 + 9  &=   17 \\\\
-a \div 7      &=   17 - 9 \\\\
-a \div 7      &=   8 \\\\
-a             &=   8 \times 7 \\\\
-a             &=   56
+a \div 7 + 9      &= 17 \\\\
+\dfrac {a} {7}    &= 17 - 9 \\\\
+\dfrac {a} {7}    &= 8 \\\\
+a                 &= 8 \times 7 \\\\
+a                 &= 56
 \end{aligned}
 $
 
+The number $= 56$
 </code></pre>
 </div>
 </div>
@@ -1409,15 +1399,19 @@ There is a number, *n*. When I add 3 to *n* then multiply the answer by 4, the o
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-6n       &=  (n + 3) \times 4 \\\\ 
-6n       &=  4n + 12 \\\\
-6n - 4n  &=  12 \\\\
-2n       &=  12 \\\\
-n        &=  \dfrac {6 \times 2} {2} \\\\
-n        &=  \dfrac {6 \times \cancel{2} } {\cancel{2} } \\\\
-n        &=  6
+n \times 6  &= (n + 3) \times 4 \\\\
+6n          &= (n + 3) \times 4 \\\\
+6n          &= 4n + 12 \\\\
+6n - 4n     &= 12 \\\\
+2n          &= 12 \\\\
+n           &= \dfrac {12} {2} \\\\
+n           &= \dfrac {2 \times 6} {2} \\\\
+n           &= \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
+n           &= 6
 \end{aligned}
 $
 
@@ -1433,15 +1427,19 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
-6n       &=  (n + 3) \times 4 \\\\ 
-6n       &=  4n + 12 \\\\
-6n - 4n  &=  12 \\\\
-2n       &=  12 \\\\
-n        &=  \dfrac {6 \times 2} {2} \\\\
-n        &=  \dfrac {6 \times \cancel{2} } {\cancel{2} } \\\\
-n        &=  6
+n \times 6  &= (n + 3) \times 4 \\\\
+6n          &= (n + 3) \times 4 \\\\
+6n          &= 4n + 12 \\\\
+6n - 4n     &= 12 \\\\
+2n          &= 12 \\\\
+n           &= \dfrac {12} {2} \\\\
+n           &= \dfrac {2 \times 6} {2} \\\\
+n           &= \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
+n           &= 6
 \end{aligned}
 $
 </code></pre>

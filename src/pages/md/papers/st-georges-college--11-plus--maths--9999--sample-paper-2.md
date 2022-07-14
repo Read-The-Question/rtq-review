@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4237,7 +4237,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>C5BEA94E-1A7E-437A-B7E1-A81049B5F92C</p>
 </div>
@@ -4251,7 +4251,7 @@ TODOANSWER
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4268,14 +4268,14 @@ Verity thinks of a number. She multiplies it by 7 then adds 8. If the resulting 
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+Let the number $= a$
 
-Let's take the number verity thinks of $=a$
+As per the question,
 
 $
 \begin{aligned}
 a \times 7 + 8  &= 71 \\\\
-a \times 7      &= 71 - 8 \\\\
+7a              &= 71 - 8 \\\\
 a               &= \dfrac{63}{7} \\\\
 a               &= \dfrac{7 \times 9}{7} \\\\
 a               &= \dfrac{\cancel 7 \times 9}{\cancel 7} \\\\
@@ -4295,14 +4295,14 @@ $9$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
-Let's take the number verity thinks of $=a$
+As per the question,
 
 $
 \begin{aligned}
 a \times 7 + 8  &= 71 \\\\
-a \times 7      &= 71 - 8 \\\\
+7a              &= 71 - 8 \\\\
 a               &= \dfrac{63}{7} \\\\
 a               &= \dfrac{7 \times 9}{7} \\\\
 a               &= \dfrac{\cancel 7 \times 9}{\cancel 7} \\\\
@@ -4523,7 +4523,7 @@ $= 17.28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>714A3922-27FE-4977-8C4F-8B64886AF8C2</p>
 </div>
@@ -4537,7 +4537,7 @@ $= 17.28$
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4554,39 +4554,57 @@ talgebra
 <div class='workings'>
 <div class='working'>
 
+Let the height of the triangle $= h$
+
+As per the question,
+
 $
-\begin{aligned}
-\text{Area} & = \dfrac{1}{2} \times \text{breath} \times \text{height} \\\\
-\text{height} &= \dfrac{1}{2} \times \text{breath} \times \text{Area} \\\\
-&= \dfrac{1}{2} \times 6 \times 24 \\\\
-&= \dfrac{1}{2} \times 6 \times  2 \times 12 \\\\
-&= \dfrac{1}{\cancel 2} \times 6 \times \cancel 2 \times 12 \\\\
-&= 36 \ \text{cm}
-\end{aligned}
+\begin {aligned}
+\text {Area}                        &= 24 \ \text {cm}^2 \\\\
+\dfrac {1} {2} \times 6 \times h    &= 24 \\\\
+\dfrac {6h} {2}                     &= 24 \\\\
+6h                                  &= 24 \times 2 \\\\
+h                                   &= \dfrac {24 \times 2} {6} \\\\
+h                                   &= \dfrac {4 \times 6 \times 2} {6} \\\\
+h                                   &= \dfrac {4 \times \cancel {6} \times 2} {\cancel {6}} \\\\
+h                                   &= 4 \times 2 \\\\
+h                                   &= 8 \ \text {cm}
+\end {aligned}
 $
+
+Height of the triangle $= 8 \ \text {cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$36 \ \text{cm}$
+$8 \ \text{cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Area} & = \dfrac{1}{2} \times \text{breath} \times \text{height} \\\\
-\text{height} &= \dfrac{1}{2} \times \text{breath} \times \text{Area} \\\\
-&= \dfrac{1}{2} \times 6 \times 24 \\\\
-&= \dfrac{1}{2} \times 6 \times  2 \times 12 \\\\
-&= \dfrac{1}{\cancel 2} \times 6 \times \cancel 2 \times 12 \\\\
-&= 36 \ \text{cm}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>Let the height of the triangle $= h$
+
+As per the question,
+
 $
+\begin {aligned}
+\text {Area}                        &= 24 \ \text {cm}^2 \\\\
+\dfrac {1} {2} \times 6 \times h    &= 24 \\\\
+\dfrac {6h} {2}                     &= 24 \\\\
+6h                                  &= 24 \times 2 \\\\
+h                                   &= \dfrac {24 \times 2} {6} \\\\
+h                                   &= \dfrac {4 \times 6 \times 2} {6} \\\\
+h                                   &= \dfrac {4 \times \cancel {6} \times 2} {\cancel {6}} \\\\
+h                                   &= 4 \times 2 \\\\
+h                                   &= 8 \ \text {cm}
+\end {aligned}
+$
+
+Height of the triangle $= 8 \ \text {cm}$
 </code></pre>
 </div>
 </div>
@@ -4598,7 +4616,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$36 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$8 \ \text{cm}$
 </code></pre>
 </div>
 </div>

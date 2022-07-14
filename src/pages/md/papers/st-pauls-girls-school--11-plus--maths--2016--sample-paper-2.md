@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-13 17:07:34
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D29C2F36-7EB5-46B2-8EF3-61D8FC17FEFD</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-13 17:07:34
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -42,10 +42,46 @@ talgebra
 
 Write, in the box, the missing numbers:
 
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
 $\boxed{\phantom{111}}+ 121 = 212$
-
-$6 \times \boxed{\phantom{111}} = 96$
-
 </div>
 <div class='workings'>
 <div class='working'>
@@ -55,32 +91,21 @@ Let the missing number $= a$
 As per the question,
 
 $
-\begin{aligned}
-a + 121 &= 212 \\\\
-a       &= 91
-\end{aligned}
+\begin {aligned}
+a + 121     &= 212 \\\\
+a           &= 212 - 121 \\\\
+a           &= 91
+\end {aligned}
 $
 
-Let the missing number $= b$
-
-As per the question,
-
-$
-\begin{aligned}
-6 \times b &= 96 \\\\
-b          &= \dfrac {96} {6} \\\\
-b          &= \dfrac {6 \times 16} {6} \\\\
-b          &= \dfrac {\cancel {6} \times 16} {\cancel {6}} \\\\
-b          &= 16
-\end{aligned}
-$
+The missing number $= 91$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$91, 16$
+$91$
 
 </div>
 </div>
@@ -92,25 +117,14 @@ $91, 16$
 As per the question,
 
 $
-\begin{aligned}
-a + 121 &= 212 \\\\
-a       &= 91
-\end{aligned}
+\begin {aligned}
+a + 121     &= 212 \\\\
+a           &= 212 - 121 \\\\
+a           &= 91
+\end {aligned}
 $
 
-Let the missing number $= b$
-
-As per the question,
-
-$
-\begin{aligned}
-6 \times b &= 96 \\\\
-b          &= \dfrac {96} {6} \\\\
-b          &= \dfrac {6 \times 16} {6} \\\\
-b          &= \dfrac {\cancel {6} \times 16} {\cancel {6}} \\\\
-b          &= 16
-\end{aligned}
-$
+The missing number $= 91$
 </code></pre>
 </div>
 </div>
@@ -122,11 +136,85 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$91, 16$
+<pre class='language-latex'><code class='language-latex'>$91$
 </code></pre>
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$6 \times \boxed{\phantom{111}} = 96$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= b$
+
+As per the question,
+
+$
+\begin {aligned}
+6 \times b  &= 96 \\\\
+b           &= \dfrac {96} {6} \\\\
+b           &= \dfrac {6 \times 16} {6} \\\\
+b           &= \dfrac {\cancel {6} \times 16} {\cancel {6}} \\\\
+b           &= 16
+\end {aligned}
+$
+
+The Missing number $= 16$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the missing number $= b$
+
+As per the question,
+
+$
+\begin {aligned}
+6 \times b  &= 96 \\\\
+b           &= \dfrac {96} {6} \\\\
+b           &= \dfrac {6 \times 16} {6} \\\\
+b           &= \dfrac {\cancel {6} \times 16} {\cancel {6}} \\\\
+b           &= 16
+\end {aligned}
+$
+
+The Missing number $= 16$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$16$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
@@ -1116,7 +1204,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>E095A1B1-A5D7-4A9A-9C71-AB7E49731549</p>
 </div>
@@ -1130,7 +1218,7 @@ $
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1159,11 +1247,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Time taken by Jess}       &= 18 \ \text {seconds} \\\\
-\text {Time taken by Mary}       &= \text {Time taken by Jo} + 4 \\\\
-                                 &= \text {Time taken by Jess} - 6 + 4 \\\\
-                                 &= 18 - 6 + 4 \\\\
-\text {Time taken by Mary}       &= 16 \ \text {seconds}
+\text {Time taken by Jess}  &= 18 \ \text {seconds} \\\\
+\text {Time taken by Jo}    &= 18 - 6 \\\\
+                            &= 12 \ \text {seconds} \\\\
+\text {Time taken by Mary}  &= 12 + 4 \\\\
+                            &= 16 \ \text {seconds}
 \end{aligned}
 $
 
@@ -1183,11 +1271,11 @@ $16 \ \text {seconds}$
 
 $
 \begin{aligned}
-\text {Time taken by Jess}       &= 18 \ \text {seconds} \\\\
-\text {Time taken by Mary}       &= \text {Time taken by Jo} + 4 \\\\
-                                 &= \text {Time taken by Jess} - 6 + 4 \\\\
-                                 &= 18 - 6 + 4 \\\\
-\text {Time taken by Mary}       &= 16 \ \text {seconds}
+\text {Time taken by Jess}  &= 18 \ \text {seconds} \\\\
+\text {Time taken by Jo}    &= 18 - 6 \\\\
+                            &= 12 \ \text {seconds} \\\\
+\text {Time taken by Mary}  &= 12 + 4 \\\\
+                            &= 16 \ \text {seconds}
 \end{aligned}
 $
 </code></pre>
@@ -1937,7 +2025,7 @@ Marks that Hebe scored more than Emily $=6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>ED0E72A9-DD21-4A7F-9701-21CDEA62D691</p>
 </div>
@@ -1951,7 +2039,7 @@ Marks that Hebe scored more than Emily $=6$
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1974,39 +2062,65 @@ How much does $1$ orange cost?
 <div class='workings'>
 <div class='working'>
 
+Let the cost of an apple $= a$
+
+Let the cost of an orange $= b$
+
 As per the question,
 
 $
 \begin{aligned}
-  1 \ \text {apple} + 2 \ \text {oranges}           &= 48 \ \text {p} \\\\
-- 1 \ \text {apple} + 1 \ \text {oranges}           &= 31 \ \text {p} \\\\
-\uline
-                     1 \ \text {orange}             &= 17 \ \text {p}
+a + 2b  &= 48 \text {p} \\\\
+a + b   &= 31 \text {p}
 \end{aligned}
 $
+
+Subtracting the above two equations we get,
+
+$
+\begin {aligned}
+a + 2b - a - b  &= 48 - 31 \\\\
+b               &= 17 \text {p}
+\end {aligned}
+$
+
+Cost of $1$ orange $= 17 \text {p}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$17 \ \text {p}$
+$17 \text {p}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the cost of an apple $= a$
+
+Let the cost of an orange $= b$
+
+As per the question,
 
 $
 \begin{aligned}
-  1 \ \text {apple} + 2 \ \text {oranges}           &= 48 \ \text {p} \\\\
-- 1 \ \text {apple} + 1 \ \text {oranges}           &= 31 \ \text {p} \\\\
-\uline
-                     1 \ \text {orange}             &= 17 \ \text {p}
+a + 2b  &= 48 \text {p} \\\\
+a + b   &= 31 \text {p}
 \end{aligned}
 $
+
+Subtracting the above two equations we get,
+
+$
+\begin {aligned}
+a + 2b - a - b  &= 48 - 31 \\\\
+b               &= 17 \text {p}
+\end {aligned}
+$
+
+Cost of $1$ orange $= 17 \text {p}$
 </code></pre>
 </div>
 </div>
@@ -2018,7 +2132,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$17 \ \text {p}$
+<pre class='language-latex'><code class='language-latex'>$17 \text {p}$
 </code></pre>
 </div>
 </div>
@@ -2085,7 +2199,7 @@ delete your answer.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>4D8E25F8-9D3B-41E4-A587-01F4188FD3F2</p>
 </div>
@@ -2099,7 +2213,7 @@ delete your answer.
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2122,81 +2236,97 @@ How much money did each have at the start?
 <div class='workings'>
 <div class='working'>
 
-Let the money with Alysha $= a \pounds$
+ABBR: It is really important to use the right units in calculations and convert where required.
 
-Let the money with Julia $= b \pounds$
 
-As per the question, at the end they have same amount. So at the end,
+Let the money Alysha had (in $\pounds$) $= a$
 
-$
-\begin{aligned}
-a + b       &= \pounds 3.20 \\\\
-2 \times a  &= 3.20 \\\\
-a           &= dfrac {3.20} {2} \\\\
-a           &= \pounds 1.60
-\end{aligned}
-$
+Let the money Julia had (in $\pounds$) $= b$
 
-Alysha gave Julia 20 \text{p} 20 p. So at start,
+As per the question,
 
 $
-\begin{aligned}
-a + b                             &= \pounds 3. 20 \\\\
-\pounds 1.60 + 0.20 \text {p} + b &= \pounds 3. 20 \\\\
-b                                 &= 3.20 - 1.80 \\\\
-b                                 &= \pounds 1.40
-\end{aligned}
+\begin {aligned}
+a   &= b + 20 \text {p} \\\\
+a   &= b + \pounds 0.20
+\end {aligned}
 $
 
-At the start, 
+Using this we get,
 
-The money Alysha had $= \pounds 1.80$.
+$
+\begin {aligned}
+a + b           &= \pounds 3.20 \\\\
+b + 0.20 + b    &= 3.20 \\\\
+2b + 0.20       &= 3.20 \\\\
+2b              &= 3.20 - 0.20 \\\\
+2b              &= 3 \\\\
+b               &= \dfrac {3} {2} \\\\
+b               &= \pounds 1.50
+\end {aligned}
+$
 
-The money Julia had $= \pounds 1.40$.
+$
+\begin {aligned}
+\text {Julia had}   &= \pounds 1.50 \\\\
+\text {Alysha had}  &= 1.50 + 0.20 \\\\
+                    &= \pounds 1.70
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1.8, \pounds 1.4$
+$\pounds 1.50$
+
+</div>
+<div class='answer'>
+
+$\pounds 1.70$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the money with Alysha $= a \pounds$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 
-Let the money with Julia $= b \pounds$
+Let the money Alysha had (in $\pounds$) $= a$
 
-As per the question, at the end they have same amount. So at the end,
+Let the money Julia had (in $\pounds$) $= b$
 
-$
-\begin{aligned}
-a + b       &= \pounds 3.20 \\\\
-2 \times a  &= 3.20 \\\\
-a           &= dfrac {3.20} {2} \\\\
-a           &= \pounds 1.60
-\end{aligned}
-$
-
-Alysha gave Julia 20 \text{p} 20 p. So at start,
+As per the question,
 
 $
-\begin{aligned}
-a + b                             &= \pounds 3. 20 \\\\
-\pounds 1.60 + 0.20 \text {p} + b &= \pounds 3. 20 \\\\
-b                                 &= 3.20 - 1.80 \\\\
-b                                 &= \pounds 1.40
-\end{aligned}
+\begin {aligned}
+a   &= b + 20 \text {p} \\\\
+a   &= b + \pounds 0.20
+\end {aligned}
 $
 
-At the start, 
+Using this we get,
 
-The money Alysha had $= \pounds 1.80$.
+$
+\begin {aligned}
+a + b           &= \pounds 3.20 \\\\
+b + 0.20 + b    &= 3.20 \\\\
+2b + 0.20       &= 3.20 \\\\
+2b              &= 3.20 - 0.20 \\\\
+2b              &= 3 \\\\
+b               &= \dfrac {3} {2} \\\\
+b               &= \pounds 1.50
+\end {aligned}
+$
 
-The money Julia had $= \pounds 1.40$.
+$
+\begin {aligned}
+\text {Julia had}   &= \pounds 1.50 \\\\
+\text {Alysha had}  &= 1.50 + 0.20 \\\\
+                    &= \pounds 1.70
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2208,7 +2338,17 @@ The money Julia had $= \pounds 1.40$.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 1.8, \pounds 1.4$
+<pre class='language-latex'><code class='language-latex'>$\pounds 1.50$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\pounds 1.70$
 </code></pre>
 </div>
 </div>
@@ -2723,7 +2863,7 @@ $45 \times 53 = 2385$
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B09AF32E-2996-4090-B6BE-24F80181CD57</p>
 </div>
@@ -2737,7 +2877,7 @@ $45 \times 53 = 2385$
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2754,24 +2894,23 @@ If I treble a number and add $6$, I get the same answer as when I add $16$ to th
 <div class='workings'>
 <div class='working'>
 
-Let the number I think $= a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
 a \times 3 + 6      &= a + 16 \\\\
-3a + 6              &= a + 16 \\\\
 3a - a              &= 16 - 6 \\\\
 2a                  &= 10 \\\\
 a                   &= \dfrac {10} {2} \\\\
-a                   &= \dfrac {5 \times 2} {2} \\\\
-a                   &= \dfrac {5 \times \cancel{2}} {\cancel{2}} \\\\
+a                   &= \dfrac {2 \times 5} {2} \\\\
+a                   &= \dfrac {\cancel {2} \times 5} {\cancel {2}} \\\\
 a                   &= 5
 \end{aligned}
 $
 
-My original number $= 5$
+The number $= 5$
 
 </div>
 </div>
@@ -2785,24 +2924,23 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I think $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
 a \times 3 + 6      &= a + 16 \\\\
-3a + 6              &= a + 16 \\\\
 3a - a              &= 16 - 6 \\\\
 2a                  &= 10 \\\\
 a                   &= \dfrac {10} {2} \\\\
-a                   &= \dfrac {5 \times 2} {2} \\\\
-a                   &= \dfrac {5 \times \cancel{2}} {\cancel{2}} \\\\
+a                   &= \dfrac {2 \times 5} {2} \\\\
+a                   &= \dfrac {\cancel {2} \times 5} {\cancel {2}} \\\\
 a                   &= 5
 \end{aligned}
 $
 
-My original number $= 5$
+The number $= 5$
 </code></pre>
 </div>
 </div>
@@ -3059,7 +3197,9 @@ Winston thinks of two different whole numbers that add together to make $20$ and
 <div class='workings'>
 <div class='working'>
 
-Let the numbers Winston thinks $= a,b$
+Let the first number $= a$
+
+Let the second number $= b$
 
 As per the question,
 
@@ -3101,7 +3241,9 @@ $6,14$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the numbers Winston thinks $= a,b$
+<pre class='language-latex'><code class='language-latex'>Let the first number $= a$
+
+Let the second number $= b$
 
 As per the question,
 

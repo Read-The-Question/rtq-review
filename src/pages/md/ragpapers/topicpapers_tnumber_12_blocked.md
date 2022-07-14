@@ -1,9 +1,272 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-blocked"
 title: "TopicPaper - Number - 12 - BLOCKED"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>91FE409B-1661-46BC-A704-FA8A43CF6F5C</p>
+</div>
+<div class='papername'>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:1:11</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
+<p>rag_da_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the factors of $25$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1, 5, 25$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1, 5,  25$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$1, 5, 25$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1, 5,  25$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the factors of $30$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$ 1,  2,  3,  5,  6,  10,  15,  30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ 1,  2,  3,  5,  6,  10,  15,  30$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$ 1,  2,  3,  5,  6,  10,  15,  30$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$ 1,  2,  3,  5,  6,  10,  15,  30$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the highest common factor of $25$ and $30$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+the prime factorization of 25
+
+$ = 1\times 5\times 5$
+
+the prime factorization of 20
+
+$ = 1\times 2\times 3\times 5$
+
+To find the HCF, multiply all the prime factors common to both numbers:
+
+$ = 1\times5$
+
+$ = 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>the prime factorization of 25
+
+$ = 1\times 5\times 5$
+
+the prime factorization of 20
+
+$ = 1\times 2\times 3\times 5$
+
+To find the HCF, multiply all the prime factors common to both numbers:
+
+$ = 1\times5$
+
+$ = 5$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the prime factors of $30$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ $ 1, 2, 3, 5, 6, 10, 15, 30 $
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ 1, 2, 3, 5, 6, 10, 15, 30 $
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'> $ 1, 2, 3, 5, 6, 10, 15, 30 $
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$ 1, 2, 3, 5, 6, 10, 15, 30 $
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prcr question'>
 <div class='uuid'>

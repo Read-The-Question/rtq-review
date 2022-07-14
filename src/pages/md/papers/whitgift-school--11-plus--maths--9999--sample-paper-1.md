@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -611,7 +611,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>1D26A49F-3EE4-4010-8B68-95938026FE00</p>
 </div>
@@ -622,7 +622,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4025,7 +4025,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>6982B8BB-3A1E-45A3-8685-D9B153372C8D</p>
 </div>
@@ -4036,7 +4036,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4064,7 +4064,12 @@ A horse is $15\,$ metres high
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+|                Statement                |    Correct/Incorrect    |
+|:---------------------------------------:|:-----------------------:|
+|       A lorry weighs $2000$ grams       |        Incorrect        |
+|A ten year old boy weighs $35$ kilograms |         Correct         |
+|Big Ben's tower is $200$ centimeters high|        Incorrect        |
+|       A horse is $15$ meters high       |        Incorrect        |
 
 </div>
 <div class='working'>
@@ -4076,7 +4081,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+'A ten year old boy weighs $35$ kilograms' is the only correct statement.
 
 </div>
 <div class='answer'>
@@ -4088,7 +4093,12 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>|                Statement                |    Correct/Incorrect    |
+|:---------------------------------------:|:-----------------------:|
+|       A lorry weighs $2000$ grams       |        Incorrect        |
+|A ten year old boy weighs $35$ kilograms |         Correct         |
+|Big Ben's tower is $200$ centimeters high|        Incorrect        |
+|       A horse is $15$ meters high       |        Incorrect        |
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -4105,7 +4115,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>'A ten year old boy weighs $35$ kilograms' is the only correct statement.
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -4121,6 +4131,43 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6982B8BB-3A1E-45A3-8685-D9B153372C8D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='6982B8BB-3A1E-45A3-8685-D9B153372C8D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6982B8BB-3A1E-45A3-8685-D9B153372C8D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6982B8BB-3A1E-45A3-8685-D9B153372C8D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6982B8BB-3A1E-45A3-8685-D9B153372C8D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6982B8BB-3A1E-45A3-8685-D9B153372C8D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6982B8BB-3A1E-45A3-8685-D9B153372C8D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6982B8BB-3A1E-45A3-8685-D9B153372C8D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='6982B8BB-3A1E-45A3-8685-D9B153372C8D' id='FORM-6982B8BB-3A1E-45A3-8685-D9B153372C8D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6982B8BB-3A1E-45A3-8685-D9B153372C8D'>Initial</p>
+</div>
 </div>
 </li>
 <li>

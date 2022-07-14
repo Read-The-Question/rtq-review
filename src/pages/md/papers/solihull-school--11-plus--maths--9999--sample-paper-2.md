@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4467,7 +4467,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678</p>
 </div>
@@ -4481,7 +4481,7 @@ TODOANSWER
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4543,9 +4543,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money received by Peter}  &= 2 \times \ \text{Helen} \\\\
-                                &= 2 \times \pounds 20 \\\\
-                                &= \pounds 40
+\text{Money Peter received}   &= 2 \times \pounds 20 \\\\
+                              &= \pounds 40
 \end{aligned}
 $
 
@@ -4565,9 +4564,8 @@ $\pounds 40$
 
 $
 \begin{aligned}
-\text{Money received by Peter}  &= 2 \times \ \text{Helen} \\\\
-                                &= 2 \times \pounds 20 \\\\
-                                &= \pounds 40
+\text{Money Peter received}   &= 2 \times \pounds 20 \\\\
+                              &= \pounds 40
 \end{aligned}
 $
 </code></pre>
@@ -4602,23 +4600,16 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Money recieved by Helen}      &= \dfrac {\text{Peter}} {2} \\\\
-                                    &= \dfrac {60} {2} \\\\
-                                    &= \dfrac {30 \times 2} {2} \\\\
-                                    &= \dfrac {30 \times \cancel {2}} {\cancel {2}} \\\\
-                                    &= \pounds 30
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Total money}  &= \text{John}  + \text{Peter} +  \text{Helen} \\\\
-                    &= \dfrac {\text{Helen}}{5} + \pounds 60 + \pounds 30 \\\\
-                    &= \dfrac {30}{5} + 90 \\\\
-                    &= \dfrac {5 \times 6} {5} + 90 \\\\
-                    &= \dfrac {\cancel {5} \times 6} {\cancel {5}} + 90 \\\\
-                    &= 6 + 90 \\\\
-                    &= \pounds 96
+\text{Money Helen received}   &= \dfrac {60} {2} \\\\
+                              &= \dfrac {2 \times 30} {2} \\\\
+                              &= \dfrac {\cancel {2} \times 30} {\cancel {2}} \\\\
+                              &= \pounds 30 \\\\
+\text {Money John received}   &= \dfrac {30} {5} \\\\
+                              &= \dfrac {5 \times 6} {5} \\\\
+                              &= \dfrac {\cancel {5} \times 6} {\cancel {5}} \\\\
+                              &= \pounds 6 \\\\
+\text{Total money}            &= 60 + 30 + 6 \\\\
+                              &= \pounds 96
 \end{aligned}
 $
 
@@ -4638,23 +4629,16 @@ $\pounds 96$
 
 $
 \begin{aligned}
-\text{Money recieved by Helen}      &= \dfrac {\text{Peter}} {2} \\\\
-                                    &= \dfrac {60} {2} \\\\
-                                    &= \dfrac {30 \times 2} {2} \\\\
-                                    &= \dfrac {30 \times \cancel {2}} {\cancel {2}} \\\\
-                                    &= \pounds 30
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Total money}  &= \text{John}  + \text{Peter} +  \text{Helen} \\\\
-                    &= \dfrac {\text{Helen}}{5} + \pounds 60 + \pounds 30 \\\\
-                    &= \dfrac {30}{5} + 90 \\\\
-                    &= \dfrac {5 \times 6} {5} + 90 \\\\
-                    &= \dfrac {\cancel {5} \times 6} {\cancel {5}} + 90 \\\\
-                    &= 6 + 90 \\\\
-                    &= \pounds 96
+\text{Money Helen received}   &= \dfrac {60} {2} \\\\
+                              &= \dfrac {2 \times 30} {2} \\\\
+                              &= \dfrac {\cancel {2} \times 30} {\cancel {2}} \\\\
+                              &= \pounds 30 \\\\
+\text {Money John received}   &= \dfrac {30} {5} \\\\
+                              &= \dfrac {5 \times 6} {5} \\\\
+                              &= \dfrac {\cancel {5} \times 6} {\cancel {5}} \\\\
+                              &= \pounds 6 \\\\
+\text{Total money}            &= 60 + 30 + 6 \\\\
+                              &= \pounds 96
 \end{aligned}
 $
 </code></pre>
@@ -4685,20 +4669,22 @@ If they received $\pounds 160$ altogether in May, how much did __John__ receive 
 <div class='workings'>
 <div class='working'>
 
-Let the money John received $= a$
+Let the money John received (in $\pounds$) $= a$
+
+Money Helen received $= 5a$
+
+Money Peter received $= 10a$
 
 As per the question,
 
-
 $
 \begin{aligned}
- \text{John}  + \text{Helen} + \text{Peter} &= \text{Total money} \\\\
-a + 5a + 10a                                &= \pounds 160 \\\\
-16a                                         &= 160 \\\\
-a                                           &= \dfrac {160} {16} \\\\
-a                                           &= \dfrac {16 \times 10} {16} \\\\
-a                                           &= \dfrac {\cancel{16} \times 10} {\cancel{16}} \\\\
-a                                           &= \pounds 10
+a + 5a + 10a      &= \pounds 160 \\\\
+16a               &= 160 \\\\
+a                 &= \dfrac {160} {16} \\\\
+a                 &= \dfrac {10 \times 16} {16} \\\\
+a                 &= \dfrac {10 \times \cancel {16}} {\cancel {16}} \\\\
+a                 &= \pounds 10
 \end{aligned}
 $
 
@@ -4716,20 +4702,22 @@ $\pounds 10$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the money John received $= a$
+<pre class='language-latex'><code class='language-latex'>Let the money John received (in $\pounds$) $= a$
+
+Money Helen received $= 5a$
+
+Money Peter received $= 10a$
 
 As per the question,
 
-
 $
 \begin{aligned}
- \text{John}  + \text{Helen} + \text{Peter} &= \text{Total money} \\\\
-a + 5a + 10a                                &= \pounds 160 \\\\
-16a                                         &= 160 \\\\
-a                                           &= \dfrac {160} {16} \\\\
-a                                           &= \dfrac {16 \times 10} {16} \\\\
-a                                           &= \dfrac {\cancel{16} \times 10} {\cancel{16}} \\\\
-a                                           &= \pounds 10
+a + 5a + 10a      &= \pounds 160 \\\\
+16a               &= 160 \\\\
+a                 &= \dfrac {160} {16} \\\\
+a                 &= \dfrac {10 \times 16} {16} \\\\
+a                 &= \dfrac {10 \times \cancel {16}} {\cancel {16}} \\\\
+a                 &= \pounds 10
 \end{aligned}
 $
 
@@ -5332,8 +5320,6 @@ Work out $3 * 1$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= 3 * 1 \\\\
@@ -5355,9 +5341,7 @@ $10$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 3 * 1 \\\\
 &= (3 \times 3) + (1 \times 1) \\\\
@@ -5393,8 +5377,6 @@ Work out $3 * 2 + 1 * 0$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= 3 * 2 + 1 * 0 \\\\
@@ -5416,9 +5398,7 @@ $14$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 3 * 2 + 1 * 0 \\\\
 &= (3 \times 3) + (2 \times 2) + (1 \times 1) + (0 \times 0) \\\\
@@ -5454,18 +5434,15 @@ $a * 8 = 208$. Work out the value of $a$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-a * 8                           &= 208 \\\\
-(a \times a) + (8 \times 8)     &= 208 \\\\
-a^2 + 64                        &= 208 \\\\
-a^2                             &= 208 - 64 \\\\
-a^2                             &= 144 \\\\
-a^2                             &= 12 \times 12 \\\\
-a^2                             &= 12^2 \\\\
-a                               &= 12
+a * 8                         &= 208 \\\\
+(a \times a) + (8 \times 8)   &= 208 \\\\
+a^2 + 64                      &= 208 \\\\
+a^2                           &= 208 - 64 \\\\
+a^2                           &= 144 \\\\
+a                             &= \sqrt {144} \\\\
+a                             &= 12
 \end{aligned}
 $
 
@@ -5481,18 +5458,15 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-a * 8                           &= 208 \\\\
-(a \times a) + (8 \times 8)     &= 208 \\\\
-a^2 + 64                        &= 208 \\\\
-a^2                             &= 208 - 64 \\\\
-a^2                             &= 144 \\\\
-a^2                             &= 12 \times 12 \\\\
-a^2                             &= 12^2 \\\\
-a                               &= 12
+a * 8                         &= 208 \\\\
+(a \times a) + (8 \times 8)   &= 208 \\\\
+a^2 + 64                      &= 208 \\\\
+a^2                           &= 208 - 64 \\\\
+a^2                           &= 144 \\\\
+a                             &= \sqrt {144} \\\\
+a                             &= 12
 \end{aligned}
 $
 </code></pre>
@@ -5523,8 +5497,6 @@ $b * 2 = 4b$. Work out the value of $b$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 b * 2                           &= 4b \\\\
@@ -5549,9 +5521,7 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 b * 2                           &= 4b \\\\
 (b \times b) + (2 \times 2)     &= 4b \\\\

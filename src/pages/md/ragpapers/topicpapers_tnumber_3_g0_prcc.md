@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-3-g0-prcr"
-title: "TopicPaper - Number - 3 - G0 - PRCR"
-date: 2022-07-13 17:13:09
+slug: "ragpapers/topicpapers-tnumber-3-g0-prcc"
+title: "TopicPaper - Number - 3 - G0 - PRCC"
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CD78B853-B17C-4750-B393-54B43D8568A4</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-13 17:13:09
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -180,8 +180,12 @@ Which of the factors of $36$ are square numbers?
 <div class='workings'>
 <div class='working'>
 
+$4, 9, 36$
+
+Lets verify.
+
 $
-\begin{aligned}
+\begin{aligned} 
 4   &= 2^2 \\\\
 9   &= 3^2 \\\\
 36  &= 6^2
@@ -200,8 +204,12 @@ $4, 9, 36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
+<pre class='language-latex'><code class='language-latex'>$4, 9, 36$
+
+Lets verify.
+
+$
+\begin{aligned} 
 4   &= 2^2 \\\\
 9   &= 3^2 \\\\
 36  &= 6^2
@@ -310,7 +318,7 @@ $2, 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF</p>
 </div>
@@ -324,7 +332,7 @@ $2, 3$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -415,7 +423,7 @@ $2 \times 2 \times 2 \times 7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FDB769B4-5A9B-4620-A568-180B7A9D0DC9</p>
 </div>
@@ -429,7 +437,7 @@ $2 \times 2 \times 2 \times 7$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -530,7 +538,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F4B3B39D-E597-4F49-846E-181927A93384</p>
 </div>
@@ -544,7 +552,7 @@ $
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -565,7 +573,9 @@ $
 \begin{aligned}
 &= 2750 \ \text {grams} \\\\
 &= \dfrac {2750} {1000} \ \text {kilograms} \\\\
-&= 2.750 \ \text {kilograms}
+&= \dfrac {275 \times 10} {100 \times 10} \ \text {kilograms} \\\\
+&= \dfrac {275 \times \cancel{10}} {100 \times \cancel{10}} \ \text {kilograms} \\\\
+&= 2.75 \ \text {kilograms}
 \end{aligned}
 $
 
@@ -585,7 +595,9 @@ $2.750 \ \text {kilograms}$
 \begin{aligned}
 &= 2750 \ \text {grams} \\\\
 &= \dfrac {2750} {1000} \ \text {kilograms} \\\\
-&= 2.750 \ \text {kilograms}
+&= \dfrac {275 \times 10} {100 \times 10} \ \text {kilograms} \\\\
+&= \dfrac {275 \times \cancel{10}} {100 \times \cancel{10}} \ \text {kilograms} \\\\
+&= 2.75 \ \text {kilograms}
 \end{aligned}
 $
 </code></pre>

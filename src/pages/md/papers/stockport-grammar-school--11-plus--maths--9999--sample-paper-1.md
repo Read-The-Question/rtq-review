@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4323,7 +4323,7 @@ call Aravind
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>998DABA8-00BE-4F0A-8D36-19CCA9E7D239</p>
 </div>
@@ -4337,7 +4337,7 @@ call Aravind
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4355,32 +4355,30 @@ girls. How many girls are members of the Youth Club?
 <div class='workings'>
 <div class='working'>
 
-Let's  the number of boys  $= a$
+Let the number of boys $= a$
 
-Let's  the number of girls  $= b$
+Let the number of girls $= b$
 
-There are $20$ more boys than girls $a = b+20$
+As per the question,
 
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+$a = b + 20$
 
-As per the question
+Using this we get,
 
 $
 \begin{aligned}
-\text{Total number of boys} + \text{Total number of girls} &= \text{Total members in Vale Youth Club} \\\\
-\text{a} + \text{b} &= 126 \\\\
-\text{a} + \text{b} &= 126 \\\\
-\text{b}+20 + \text{b} &= 126 \\\\
-2\text{b} &= 126 - 20 \\\\
-2\text{b} &= 106 \\\\
-\text{b} &= \dfrac{106}{2} \\\\
-\text{b} &= \dfrac{53 \times 2}{2} \\\\
-\text{b} &= \dfrac{53 \times \cancel 2}{\cancel2} \\\\
-\text{b} &= 53
+a + b       &= 126 \\\\
+b + 20 + b  &= 126 \\\\
+2b          &= 126 - 20 \\\\
+2b          &= 106 \\\\
+b           &= \dfrac {106} {2} \\\\
+b           &= \dfrac {2 \times 53} {2} \\\\
+b           &= \dfrac {\cancel {2} \times 53} {\cancel {2}} \\\\
+b           &= 53
 \end{aligned} 
 $
 
-Total number of girls in Vale Youth Club $= 53$
+Number of girls $= 53$
 
 </div>
 </div>
@@ -4394,32 +4392,30 @@ $53$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's  the number of boys  $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number of boys $= a$
 
-Let's  the number of girls  $= b$
+Let the number of girls $= b$
 
-There are $20$ more boys than girls $a = b+20$
+As per the question,
 
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+$a = b + 20$
 
-As per the question
+Using this we get,
 
 $
 \begin{aligned}
-\text{Total number of boys} + \text{Total number of girls} &= \text{Total members in Vale Youth Club} \\\\
-\text{a} + \text{b} &= 126 \\\\
-\text{a} + \text{b} &= 126 \\\\
-\text{b}+20 + \text{b} &= 126 \\\\
-2\text{b} &= 126 - 20 \\\\
-2\text{b} &= 106 \\\\
-\text{b} &= \dfrac{106}{2} \\\\
-\text{b} &= \dfrac{53 \times 2}{2} \\\\
-\text{b} &= \dfrac{53 \times \cancel 2}{\cancel2} \\\\
-\text{b} &= 53
+a + b       &= 126 \\\\
+b + 20 + b  &= 126 \\\\
+2b          &= 126 - 20 \\\\
+2b          &= 106 \\\\
+b           &= \dfrac {106} {2} \\\\
+b           &= \dfrac {2 \times 53} {2} \\\\
+b           &= \dfrac {\cancel {2} \times 53} {\cancel {2}} \\\\
+b           &= 53
 \end{aligned} 
 $
 
-Total number of girls in Vale Youth Club $= 53$
+Number of girls $= 53$
 </code></pre>
 </div>
 </div>
@@ -5066,7 +5062,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7C7B09CA-32E5-42A1-9057-06F6895DD676</p>
 </div>
@@ -5080,7 +5076,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5145,36 +5141,34 @@ How much would it cost for one pack of sandwiches, one biscuit and one cup of te
 <div class='workings'>
 <div class='working'>
 
+Let the cost of a pack of sandwiches $= s$
+
+Let the cost of a biscuit $= b$
+
+Let the cost of a cup of tea $= t$
+
 As per the question,
 
-Let the pack of sandwiches be $= s$
-
-Let a biscuit be $= b$
-
-Let a one cup of tea be  $= t$
-
 $
 \begin{aligned}
-\text{Mr Green charged with} &= \pounds 5.80 \\\\
-\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
-\text{Mrs Plum charged with} &= \pounds 6.50 \\\\
-2\text{s}+ 2\text{b} +\text{t} &= \pounds 6.50 \\\\
+s + b + 2t  &= \pounds 5.80 \\\\
+2s + 2b + t &= \pounds 6.50 \\\\
 \end{aligned}
 $
 
-We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
 
 $
 \begin{aligned}
-(2\text{s}+ 2\text{b} + \text{t}) + (s + b + 2\text{t}) &= (\pounds 6.50 + \pounds 5.80) \\\\
-3\text{s}+ 3\text{b} + 3\text{t} &= \pounds 12.30 \\\\
-3(\text{s}+\text{b}+\text{t}) &= 12.23 \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{12.23}{3} \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{3\times 4.10}{3} \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{\cancel 3 \times 4.10}{\cancel 3} \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
+s + b + 2t + 2s + 2b + t    &= 5.80 + 6.50 \\\\
+3s + 3b + 3t                &= 12.30 \\\\
+3 \times (s + b + t)        &= 12.30 \\\\
+s + b + t                   &= \dfrac {12.30} {3} \\\\
+s + b + t                   &= \pounds 4.10
 \end{aligned}
 $
+
+Cost of $1$ pack of sandwiches, $1$ biscuit and $1$ cup of tea $= \pounds 4.10$
 
 </div>
 </div>
@@ -5188,36 +5182,34 @@ $\pounds 4.10$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
+<pre class='language-latex'><code class='language-latex'>Let the cost of a pack of sandwiches $= s$
 
-Let the pack of sandwiches be $= s$
+Let the cost of a biscuit $= b$
 
-Let a biscuit be $= b$
+Let the cost of a cup of tea $= t$
 
-Let a one cup of tea be  $= t$
-
-$
-\begin{aligned}
-\text{Mr Green charged with} &= \pounds 5.80 \\\\
-\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
-\text{Mrs Plum charged with} &= \pounds 6.50 \\\\
-2\text{s}+ 2\text{b} +\text{t} &= \pounds 6.50 \\\\
-\end{aligned}
-$
-
-We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+As per the question,
 
 $
 \begin{aligned}
-(2\text{s}+ 2\text{b} + \text{t}) + (s + b + 2\text{t}) &= (\pounds 6.50 + \pounds 5.80) \\\\
-3\text{s}+ 3\text{b} + 3\text{t} &= \pounds 12.30 \\\\
-3(\text{s}+\text{b}+\text{t}) &= 12.23 \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{12.23}{3} \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{3\times 4.10}{3} \\\\
-\text{s}+\text{b}+\text{t} &= \dfrac{\cancel 3 \times 4.10}{\cancel 3} \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
+s + b + 2t  &= \pounds 5.80 \\\\
+2s + 2b + t &= \pounds 6.50 \\\\
 \end{aligned}
 $
+
+We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
+
+$
+\begin{aligned}
+s + b + 2t + 2s + 2b + t    &= 5.80 + 6.50 \\\\
+3s + 3b + 3t                &= 12.30 \\\\
+3 \times (s + b + t)        &= 12.30 \\\\
+s + b + t                   &= \dfrac {12.30} {3} \\\\
+s + b + t                   &= \pounds 4.10
+\end{aligned}
+$
+
+Cost of $1$ pack of sandwiches, $1$ biscuit and $1$ cup of tea $= \pounds 4.10$
 </code></pre>
 </div>
 </div>
@@ -5246,23 +5238,25 @@ How much is a pack of sandwiches and a biscuit?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{The cost  of a pack of sandwiches and a biscuit} \\\\
-2\text{s}+ 2\text{b} + \text{t} &= \pounds 6.50 \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+As per the above answer,
 
 $
 \begin{aligned}
-(2\text{s}+ 2\text{b} + \text{t}) - (\text{s} + \text{b} + \text{t}) &= \pounds 6.50 - \pounds 4.10 \\\\
-2\text{s}+ 2\text{b} + \cancel t - \text{s} - \text{b} - \cancel t  &= 2.40 \\\\
-\text{s}+\text{b} &= \pounds 2.40 \\\\
+2s + 2b + t  &= \pounds 6.50 \\\\
+s + b + t    &= \pounds 4.10 
 \end{aligned}
 $
+
+We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
+
+$
+\begin{aligned}
+2s + 2b + t - s - b - t     &= 6.50 - 4.10 \\\\
+s + b                       &= \pounds 2.40
+\end{aligned}
+$
+
+Cost of $1$ pack of sandwiches and $1$ biscuit $= \pounds 2.40$
 
 </div>
 </div>
@@ -5276,23 +5270,25 @@ $\pounds 2.40$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{The cost  of a pack of sandwiches and a biscuit} \\\\
-2\text{s}+ 2\text{b} + \text{t} &= \pounds 6.50 \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+<pre class='language-latex'><code class='language-latex'>As per the above answer,
 
 $
 \begin{aligned}
-(2\text{s}+ 2\text{b} + \text{t}) - (\text{s} + \text{b} + \text{t}) &= \pounds 6.50 - \pounds 4.10 \\\\
-2\text{s}+ 2\text{b} + \cancel t - \text{s} - \text{b} - \cancel t  &= 2.40 \\\\
-\text{s}+\text{b} &= \pounds 2.40 \\\\
+2s + 2b + t  &= \pounds 6.50 \\\\
+s + b + t    &= \pounds 4.10 
 \end{aligned}
 $
+
+We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
+
+$
+\begin{aligned}
+2s + 2b + t - s - b - t     &= 6.50 - 4.10 \\\\
+s + b                       &= \pounds 2.40
+\end{aligned}
+$
+
+Cost of $1$ pack of sandwiches and $1$ biscuit $= \pounds 2.40$
 </code></pre>
 </div>
 </div>
@@ -5321,25 +5317,25 @@ How much is a cup of tea?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{The cost  of a cup of tea} \\\\
-\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+As per the above answers,
 
 $
 \begin{aligned}
-(\text{s}+\text{b}+ 2\text{t}) - (\text{s}+\text{b}+\text{t}) &= \pounds 5.80 - \pounds 4.10 \\\\
-\text{s} + \text{b} + 2\text{t} - \text{s} - \text{b} - \text{t} &=  1.70 \\\\
-\cancel s + \cancel b + 2\text{t} - \cancel s - \cancel b - \text{t} &=  1.70 \\\\
-2\text{t} - \text{t} &=  1.70 \\\\
-\text{t} &= \pounds 1.70
+s + b + 2t  &= \pounds 5.80 \\\\
+s + b + t   &= \pounds 4.10
 \end{aligned}
 $
+
+We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
+
+$
+\begin{aligned}
+s + b + 2t - s - b - t  &= 5.80 - 4.10 \\\\
+t                       &= \pounds 1.70
+\end{aligned}
+$
+
+Cost of a cup of tea $= \pounds 1.70$
 
 </div>
 </div>
@@ -5353,25 +5349,25 @@ $\pounds 1.70$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{The cost  of a cup of tea} \\\\
-\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
-\text{s}+\text{b}+\text{t} &= \pounds 4.10
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+<pre class='language-latex'><code class='language-latex'>As per the above answers,
 
 $
 \begin{aligned}
-(\text{s}+\text{b}+ 2\text{t}) - (\text{s}+\text{b}+\text{t}) &= \pounds 5.80 - \pounds 4.10 \\\\
-\text{s} + \text{b} + 2\text{t} - \text{s} - \text{b} - \text{t} &=  1.70 \\\\
-\cancel s + \cancel b + 2\text{t} - \cancel s - \cancel b - \text{t} &=  1.70 \\\\
-2\text{t} - \text{t} &=  1.70 \\\\
-\text{t} &= \pounds 1.70
+s + b + 2t  &= \pounds 5.80 \\\\
+s + b + t   &= \pounds 4.10
 \end{aligned}
 $
+
+We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
+
+$
+\begin{aligned}
+s + b + 2t - s - b - t  &= 5.80 - 4.10 \\\\
+t                       &= \pounds 1.70
+\end{aligned}
+$
+
+Cost of a cup of tea $= \pounds 1.70$
 </code></pre>
 </div>
 </div>

@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-ttime-1-pr-prcr"
-title: "TopicPaper - Time - 1 - PR - PRCR"
-date: 2022-07-13 17:13:09
+slug: "ragpapers/topicpapers-ttime-1-pr-prcc"
+title: "TopicPaper - Time - 1 - PR - PRCC"
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FDDBCC32-B9DD-47A9-8DE7-22DB6C82700E</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-13 17:13:09
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -52,6 +52,9 @@ $
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
 <div class='answer'>
 
 $5 \ \text{hrs} \ 38 \ \text{mins}$
@@ -72,7 +75,7 @@ $
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>A</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -137,7 +140,7 @@ replace %empty% with : A
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>42717D42-3942-4015-AD45-A734CADB14A9</p>
 </div>
@@ -151,7 +154,7 @@ replace %empty% with : A
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -216,7 +219,7 @@ At what time will it finish?
 
 $
 \begin{aligned}
-&= 6{:}45 \ \text{pm} + 2 \ \text{hours } 35 \ \text{minutes} \\\\
+&= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
 &= 9{:}20 \ \text{pm} \\\\
 \end{aligned}
 $
@@ -235,7 +238,7 @@ $9{:}20 \ \text{pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 6{:}45 \ \text{pm} + 2 \ \text{hours } 35 \ \text{minutes} \\\\
+&= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
 &= 9{:}20 \ \text{pm} \\\\
 \end{aligned}
 $
@@ -271,11 +274,11 @@ How long should the journey have taken if the coach had left and arrived on time
 
 $
 \begin{aligned}
-\text {time had he not been late} &= 13{:}45 - 5 \ \text{minutes} \\\\
-                                  &= 13{:}40 \ \text{minutes} \\\\
-\text {time if arrived on time}   &= 17{:}05 + 14 \ \text{minutes} \\\\
+\text {Original Time to leave}    &= 13{:}45 - 5 \ \text{minutes} \\\\
+                                  &= 13{:}40  \\\\
+\text {Original Time to Arrive}   &= 17{:}05 + 14 \ \text{minutes} \\\\
                                   &= 17{:}19 \\\\
-\text {duration of journey}       &= 17{:}19 - 13{:}40 \\\\
+\text {Duration of journey}       &= 17{:}19 - 13{:}40 \\\\
                                   &= 3 \ \text {hours} \ 39 \ \text{minutes}
 \end{aligned}
 $
@@ -294,11 +297,11 @@ $3 \ \text {hours} \ 39 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {time had he not been late} &= 13{:}45 - 5 \ \text{minutes} \\\\
-                                  &= 13{:}40 \ \text{minutes} \\\\
-\text {time if arrived on time}   &= 17{:}05 + 14 \ \text{minutes} \\\\
+\text {Original Time to leave}    &= 13{:}45 - 5 \ \text{minutes} \\\\
+                                  &= 13{:}40  \\\\
+\text {Original Time to Arrive}   &= 17{:}05 + 14 \ \text{minutes} \\\\
                                   &= 17{:}19 \\\\
-\text {duration of journey}       &= 17{:}19 - 13{:}40 \\\\
+\text {Duration of journey}       &= 17{:}19 - 13{:}40 \\\\
                                   &= 3 \ \text {hours} \ 39 \ \text{minutes}
 \end{aligned}
 $
@@ -336,11 +339,11 @@ When Chris has run $18$ laps, how many laps has Dave run?
 
 $
 \begin{aligned}
-\text {ratio of Dave's and Chris speed} &= \dfrac {9} {6} \\\\
+\text {Ratio of their speed}            &= \dfrac {9} {6} \\\\
                                         &= \dfrac {3 \times 3} {3 \times 2} \\\\
                                         &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 2} \\\\
                                         &= \dfrac {3} {2} \\\\
-\text {laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} 18 \\\\
+\text {Laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} \ 18 \\\\
                                         &= \dfrac {3} {2} \times 18 \\\\
                                         &= \dfrac {3 \times 18} {2} \\\\
                                         &= \dfrac {3 \times 9 \times 2} {2} \\\\
@@ -364,11 +367,11 @@ $27$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {ratio of Dave's and Chris speed} &= \dfrac {9} {6} \\\\
+\text {Ratio of their speed}            &= \dfrac {9} {6} \\\\
                                         &= \dfrac {3 \times 3} {3 \times 2} \\\\
                                         &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 2} \\\\
                                         &= \dfrac {3} {2} \\\\
-\text {laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} 18 \\\\
+\text {Laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} \ 18 \\\\
                                         &= \dfrac {3} {2} \times 18 \\\\
                                         &= \dfrac {3 \times 18} {2} \\\\
                                         &= \dfrac {3 \times 9 \times 2} {2} \\\\
@@ -464,7 +467,7 @@ add a \' between \text {of} and 18
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>36053732-A8EE-4973-8B6C-1D0E4290AC4D</p>
 </div>
@@ -478,7 +481,7 @@ add a \' between \text {of} and 18
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -500,23 +503,27 @@ How long (in hours and minutes) did he send on his Xbox on Saturday?
 <div class='workings'>
 <div class='working'>
 
-let the time spend playing each weekday be $=x$.
+Let the time spend playing on each weekday be $= a$
+
+Time spent playing on weekend $= 2a$
+
+As per the question,
 
 $
 \begin{aligned}
-5 \times x + 2 \times 2 \times x &= 12 \ \text{hours} \\\\
-5 \times x + 4 \times x          &= 12 \\\\
-9 \times x                       &= 12 \\\\
-x                                &= \dfrac {12} {9} \\\\
-                                 &= \dfrac {3 \times 4} {3 \times 3} \\\\
-                                 &= \dfrac {\cancel{3} \times 4} {\cancel{3} \times 3} \\\\
-                                 &= \dfrac {4} {3} \\\\
-                                 &= 1 \dfrac {1} {3} \ \text {hours} \\\\
-                                 &= 1 \ \text {hour} \ \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
-                                 &= 1 \ \text {hour} \ \dfrac {60} {3} \ \text {minutes} \\\\
-                                 &= 1 \ \text {hour} \ \dfrac {3 \times 20} {3} \ \text {minutes} \\\\
-                                 &= 1 \ \text {hour} \ \dfrac {\cancel{3} \times 20} {\cancel{3}} \ \text {minutes} \\\\
-                                 &= 1 \ \text {hour} \ \ 20 \ \text {minutes}
+5 \times a + 2 \times 2a         &= 12  \\\\
+5a + 4a                          &= 12 \\\\
+9a                               &= 12 \\\\
+a                                &= \dfrac {12} {9} \\\\
+a                                &= \dfrac {3 \times 4} {3 \times 3} \\\\
+a                                &= \dfrac {\cancel{3} \times 4} {\cancel{3} \times 3} \\\\
+a                                &= \dfrac {4} {3} \\\\
+a                                &= 1 \dfrac {1} {3} \ \text {hours} \\\\
+a                                &= 1 \ \text {hour} \ \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
+a                                &= 1 \ \text {hour} \ \dfrac {60} {3} \ \text {minutes} \\\\
+a                                &= 1 \ \text {hour} \ \dfrac {3 \times 20} {3} \ \text {minutes} \\\\
+a                                &= 1 \ \text {hour} \ \dfrac {\cancel{3} \times 20} {\cancel{3}} \ \text {minutes} \\\\
+a                                &= 1 \ \text {hour} \ \ 20 \ \text {minutes}
 \end{aligned}
 $
 
@@ -532,23 +539,27 @@ $1 \ \text {hour} \ \ 20 \ \text {minutes}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>let the time spend playing each weekday be $=x$.
+<pre class='language-latex'><code class='language-latex'>Let the time spend playing on each weekday be $= a$
+
+Time spent playing on weekend $= 2a$
+
+As per the question,
 
 $
 \begin{aligned}
-5 \times x + 2 \times 2 \times x &= 12 \ \text{hours} \\\\
-5 \times x + 4 \times x          &= 12 \\\\
-9 \times x                       &= 12 \\\\
-x                                &= \dfrac {12} {9} \\\\
-                                 &= \dfrac {3 \times 4} {3 \times 3} \\\\
-                                 &= \dfrac {\cancel{3} \times 4} {\cancel{3} \times 3} \\\\
-                                 &= \dfrac {4} {3} \\\\
-                                 &= 1 \dfrac {1} {3} \ \text {hours} \\\\
-                                 &= 1 \ \text {hour} \ \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
-                                 &= 1 \ \text {hour} \ \dfrac {60} {3} \ \text {minutes} \\\\
-                                 &= 1 \ \text {hour} \ \dfrac {3 \times 20} {3} \ \text {minutes} \\\\
-                                 &= 1 \ \text {hour} \ \dfrac {\cancel{3} \times 20} {\cancel{3}} \ \text {minutes} \\\\
-                                 &= 1 \ \text {hour} \ \ 20 \ \text {minutes}
+5 \times a + 2 \times 2a         &= 12  \\\\
+5a + 4a                          &= 12 \\\\
+9a                               &= 12 \\\\
+a                                &= \dfrac {12} {9} \\\\
+a                                &= \dfrac {3 \times 4} {3 \times 3} \\\\
+a                                &= \dfrac {\cancel{3} \times 4} {\cancel{3} \times 3} \\\\
+a                                &= \dfrac {4} {3} \\\\
+a                                &= 1 \dfrac {1} {3} \ \text {hours} \\\\
+a                                &= 1 \ \text {hour} \ \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
+a                                &= 1 \ \text {hour} \ \dfrac {60} {3} \ \text {minutes} \\\\
+a                                &= 1 \ \text {hour} \ \dfrac {3 \times 20} {3} \ \text {minutes} \\\\
+a                                &= 1 \ \text {hour} \ \dfrac {\cancel{3} \times 20} {\cancel{3}} \ \text {minutes} \\\\
+a                                &= 1 \ \text {hour} \ \ 20 \ \text {minutes}
 \end{aligned}
 $
 </code></pre>
@@ -637,7 +648,7 @@ same for step 3 : 9a
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B88B1815-76F6-4987-A529-A31EC2A3A231</p>
 </div>
@@ -651,7 +662,7 @@ same for step 3 : 9a
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -806,19 +817,13 @@ How many minutes are there from $11.11$ util $23.23$ on the same day?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-
-
-The time is given in hours, but the final answer has to be in minutes.
-
 
 $
 \begin{aligned}
 &= 23{:}23 - 11{:}11 \\\\
-&= 12{:}12 \\\\
-&= 12 \text{ hours} 12 \text{ minutes} \\\\
+&= 12 \text{ hours} \ 12 \text{ minutes} \\\\
 &= 12 \times 60 \text{ minutes} + 12\text{ minutes} \\\\
-&= 720 + 12 \\\
+&= 720 + 12 \\\\
 &= 732 \text { minutes}
 \end{aligned}
 $
@@ -835,18 +840,13 @@ $732 \text { minutes}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
-The time is given in hours, but the final answer has to be in minutes.
-
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
 &= 23{:}23 - 11{:}11 \\\\
-&= 12{:}12 \\\\
-&= 12 \text{ hours} 12 \text{ minutes} \\\\
+&= 12 \text{ hours} \ 12 \text{ minutes} \\\\
 &= 12 \times 60 \text{ minutes} + 12\text{ minutes} \\\\
-&= 720 + 12 \\\
+&= 720 + 12 \\\\
 &= 732 \text { minutes}
 \end{aligned}
 $
@@ -880,22 +880,15 @@ What age will he be on his next birthday?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-
 
 $
 \begin{aligned}
-\text {Archie's current age} &= 20 \text{ years, } 20 \text{ months, } 20 \text{ days} \\\\
-                             &= (20 +1) \text{ years, } (8 + 5) \text{ months, } 20 \text{ days}  \\\\
-                             &= 21 \text{ years, } 13 \text{ months, } 20 \text{ days}  \\\\
-                             &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Archie's age on his next birthday} &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days} + 1 \text{ year} \\\\
-                                          &= 23 \text{ years}
+\text {Archie's current age}              &= 20 \text{ years} \ 20 \text{ months}  \ 20 \text{ weeks} \ 20 \text{ days} \\\\
+                                          &= 20 \text{ years} \ 20 \text{ months} \ 22 \text{ weeks} \ 6 \text{ days} \\\\
+                                          &= 20 \text{ years} \ 25 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
+                                          &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
+\text {Archie's age on his next birthday} &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} + 1 \text{ year} \\\\
+                                          &= 23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} 
 \end{aligned}
 $
 
@@ -904,28 +897,22 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23 \text{ years}$
+$23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} $
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text {Archie's current age} &= 20 \text{ years, } 20 \text{ months, } 20 \text{ days} \\\\
-                             &= (20 +1) \text{ years, } (8 + 5) \text{ months, } 20 \text{ days}  \\\\
-                             &= 21 \text{ years, } 13 \text{ months, } 20 \text{ days}  \\\\
-                             &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Archie's age on his next birthday} &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days} + 1 \text{ year} \\\\
-                                          &= 23 \text{ years}
+\text {Archie's current age}              &= 20 \text{ years} \ 20 \text{ months}  \ 20 \text{ weeks} \ 20 \text{ days} \\\\
+                                          &= 20 \text{ years} \ 20 \text{ months} \ 22 \text{ weeks} \ 6 \text{ days} \\\\
+                                          &= 20 \text{ years} \ 25 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
+                                          &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
+\text {Archie's age on his next birthday} &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} + 1 \text{ year} \\\\
+                                          &= 23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} 
 \end{aligned}
 $
 </code></pre>
@@ -939,7 +926,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$23 \text{ years}$
+<pre class='language-latex'><code class='language-latex'>$23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} $
 </code></pre>
 </div>
 </div>
@@ -958,12 +945,12 @@ On what date will the baby be $400$ days old?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-
 
 $
 \begin{aligned}
-&= 1 \text{st February } 2017 + 400 \text{ days} \\\\
+&= 1 \text{st February } 2017 + 400 \ \text{ days} \\\\
+&= 1 \text{st February } 2017 + 365 \ \text{ days} + 28 \ \text{ days} + 7 \ \text{ days}  \\\\
+&= 1 \text{st February } 2017 + 1 \  \text{year} + 1 \ \text{month} + 7 \ \text{ days}  \\\\
 &= 8 \text{th March } 2018
 \end{aligned}
 $ 
@@ -982,11 +969,12 @@ $8 \text{th March } 2018$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= 1 \text{st February } 2017 + 400 \text{ days} \\\\
+&= 1 \text{st February } 2017 + 400 \ \text{ days} \\\\
+&= 1 \text{st February } 2017 + 365 \ \text{ days} + 28 \ \text{ days} + 7 \ \text{ days}  \\\\
+&= 1 \text{st February } 2017 + 1 \  \text{year} + 1 \ \text{month} + 7 \ \text{ days}  \\\\
 &= 8 \text{th March } 2018
 \end{aligned}
 $ 
@@ -1091,7 +1079,7 @@ step 3 :
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>BED40D8C-CF65-469F-925B-B9A2EB6F21C4</p>
 </div>
@@ -1105,7 +1093,7 @@ step 3 :
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1248,10 +1236,9 @@ How many minutes are there from $11.11$ until $23.23$ on the same day?
 $
 \begin{aligned}
 &= 23{:}23 - 11{:}11 \\\\
-&= 12{:}12 \\\\
-&= 12 \text{ hours} 12 \text{ minutes} \\\\
+&= 12 \text{ hours} \ 12 \text{ minutes} \\\\
 &= 12 \times 60 \text{ minutes} + 12\text{ minutes} \\\\
-&= 720 + 12 \\\
+&= 720 + 12 \\\\
 &= 732 \text { minutes}
 \end{aligned}
 $
@@ -1271,10 +1258,9 @@ $732 \text { minutes}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 23{:}23 - 11{:}11 \\\\
-&= 12{:}12 \\\\
-&= 12 \text{ hours} 12 \text{ minutes} \\\\
+&= 12 \text{ hours} \ 12 \text{ minutes} \\\\
 &= 12 \times 60 \text{ minutes} + 12\text{ minutes} \\\\
-&= 720 + 12 \\\
+&= 720 + 12 \\\\
 &= 732 \text { minutes}
 \end{aligned}
 $
@@ -1308,22 +1294,14 @@ What age will he be on his next birthday?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-
-
 $
 \begin{aligned}
-\text {Archie's current age} &= 20 \text{ years, } 20 \text{ months, } 20 \text{ days} \\\\
-                             &= (20 +1) \text{ years, } (8 + 5) \text{ months, } 20 \text{ days}  \\\\
-                             &= 21 \text{ years, } 13 \text{ months, } 20 \text{ days}  \\\\
-                             &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Archie's age on his next birthday} &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days} + 1 \text{ year} \\\\
-                                          &= 23 \text{ years}
+\text {Archie's current age}              &= 20 \text{ years} \ 20 \text{ months}  \ 20 \text{ weeks} \ 20 \text{ days} \\\\
+                                          &= 20 \text{ years} \ 20 \text{ months} \ 22 \text{ weeks} \ 6 \text{ days} \\\\
+                                          &= 20 \text{ years} \ 25 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
+                                          &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
+\text {Archie's age on his next birthday} &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} + 1 \text{ year} \\\\
+                                          &= 23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} 
 \end{aligned}
 $
 
@@ -1333,28 +1311,21 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23 \text{ years}$
+$23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} $
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Archie's current age} &= 20 \text{ years, } 20 \text{ months, } 20 \text{ days} \\\\
-                             &= (20 +1) \text{ years, } (8 + 5) \text{ months, } 20 \text{ days}  \\\\
-                             &= 21 \text{ years, } 13 \text{ months, } 20 \text{ days}  \\\\
-                             &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Archie's age on his next birthday} &= 22 \text{ years, } 1 \text{ months, } 20 \text{ days} + 1 \text{ year} \\\\
-                                          &= 23 \text{ years}
+\text {Archie's current age}              &= 20 \text{ years} \ 20 \text{ months}  \ 20 \text{ weeks} \ 20 \text{ days} \\\\
+                                          &= 20 \text{ years} \ 20 \text{ months} \ 22 \text{ weeks} \ 6 \text{ days} \\\\
+                                          &= 20 \text{ years} \ 25 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
+                                          &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
+\text {Archie's age on his next birthday} &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} + 1 \text{ year} \\\\
+                                          &= 23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} 
 \end{aligned}
 $
 
@@ -1369,7 +1340,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$23 \text{ years}$
+<pre class='language-latex'><code class='language-latex'>$23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} $
 </code></pre>
 </div>
 </div>
@@ -1389,12 +1360,11 @@ On what date will the baby be $400$ days old?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-
-
 $
 \begin{aligned}
 &= 1 \text{st February } 2017 + 400 \text{ days} \\\\
+&= 1 \text{st February } 2017 + 365 \text{ days} + 28 \text{ days} + 7 \text{ days}  \\\\
+&= 1 \text{st February } 2017 + 1 \text{year} + 1 \text{month} + 7 \text{ days}  \\\\
 &= 8 \text{th March } 2018
 \end{aligned}
 $ 
@@ -1411,11 +1381,11 @@ $8 \text{th March } 2018$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 1 \text{st February } 2017 + 400 \text{ days} \\\\
+&= 1 \text{st February } 2017 + 365 \text{ days} + 28 \text{ days} + 7 \text{ days}  \\\\
+&= 1 \text{st February } 2017 + 1 \text{year} + 1 \text{month} + 7 \text{ days}  \\\\
 &= 8 \text{th March } 2018
 \end{aligned}
 $ 
@@ -1488,7 +1458,7 @@ same mistakes an in : B88B1815-76F6-4987-A529-A31EC2A3A231
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>654FC6F2-DF8B-40E0-8729-7984D08B8A1D</p>
 </div>
@@ -1502,7 +1472,7 @@ same mistakes an in : B88B1815-76F6-4987-A529-A31EC2A3A231
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1593,8 +1563,8 @@ How many buses are needed to transport $175$ students to the athletics stadium?
 $
 \begin{aligned}
 \text {Buses needed } &= 175 \div 12 \\\\
-                      &= 14.58 \\\\
-                      &= 15
+                      &= 14 \ \text {remainder} \ 7 \\\\
+                      &\approx 15
 \end{aligned}
 $
 
@@ -1613,8 +1583,8 @@ $15$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Buses needed } &= 175 \div 12 \\\\
-                      &= 14.58 \\\\
-                      &= 15
+                      &= 14 \ \text {remainder} \ 7 \\\\
+                      &\approx 15
 \end{aligned}
 $
 </code></pre>
@@ -1648,7 +1618,7 @@ During the $12$ weeks of term, how many days did he arrive late?
 <div class='workings'>
 <div class='working'>
 
-Number of days that have 's' in their name = 3
+Number of days that have 's' in their name $= 3$
 
 $
 \begin{aligned}
@@ -1670,7 +1640,7 @@ $36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Number of days that have 's' in their name = 3
+<pre class='language-latex'><code class='language-latex'>Number of days that have 's' in their name $= 3$
 
 $
 \begin{aligned}
@@ -1710,34 +1680,21 @@ How much money does he have left?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-
-
-The time is given in hours, but the final answer has to be in minutes.
 
 $
 \begin {aligned}
-\text {Money spent on game}  &= 25 \% \ \text {of } \pounds 120  \\\\
-                    &= \dfrac {25} {100} \times 120 \\\\
-                    &= \dfrac {25 \times 120} {100} \\\\
-                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} \\\\
-                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} \\\\
-                    &= \pounds 30
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Money spent on DVD}  &= 10 \% \ \text {of } \pounds (120 - 30)  \\\\
-                            &= 10 \% \ \text {of } \pounds 80  \\\\
-                            &= \dfrac {10} {100} \times 80 \\\\
-                            &= \pounds 8
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Money left}  &= 120 - 30 -8 \\\\
+\text {Money spent} &= 25 \% \ \text {of } \pounds 120 +  10 \% \ \text {of } \pounds (120 - 25 \% \ \text {of } \pounds 120) \\\\
+                    &= \dfrac {25} {100} \times 120 + \dfrac {10} {100} \times (120 - \dfrac {25} {100} \times 120)\\\\
+                    &= \dfrac {25 \times 120} {100} + \dfrac {10} {10 \times 10} \times (120 - \dfrac {25 \times 120} {100}) \\\\
+                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} + \dfrac {\cancel 10} {\cancel 10 \times 10} \times (120 - \dfrac {25 \times 30 \times 4} {25 \times 4} ) \\\\
+                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} + \dfrac {1} {10} \times (120 - \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4}) \\\\
+                    &= 30 + \dfrac {1} {10} \times  (120 - 30) \\\\
+                    &= 30 + \dfrac {1} {10} \times 80  \\\\
+                    &= 30 + \dfrac {8 \times 10} {10}  \\\\
+                    &= 30 + \dfrac {8 \times \cancel {10}} {\cancel {10}}  \\\\
+                    &= 30 + 8 \\\\
+                    &= 38 \\\\
+\text {Money left}  &= 120 - 38 \\\\
                     &= \pounds 72
 \end {aligned}
 $
@@ -1755,33 +1712,21 @@ $\pounds 72$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
-The time is given in hours, but the final answer has to be in minutes.
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin {aligned}
-\text {Money spent on game}  &= 25 \% \ \text {of } \pounds 120  \\\\
-                    &= \dfrac {25} {100} \times 120 \\\\
-                    &= \dfrac {25 \times 120} {100} \\\\
-                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} \\\\
-                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} \\\\
-                    &= \pounds 30
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Money spent on DVD}  &= 10 \% \ \text {of } \pounds (120 - 30)  \\\\
-                            &= 10 \% \ \text {of } \pounds 80  \\\\
-                            &= \dfrac {10} {100} \times 80 \\\\
-                            &= \pounds 8
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Money left}  &= 120 - 30 -8 \\\\
+\text {Money spent} &= 25 \% \ \text {of } \pounds 120 +  10 \% \ \text {of } \pounds (120 - 25 \% \ \text {of } \pounds 120) \\\\
+                    &= \dfrac {25} {100} \times 120 + \dfrac {10} {100} \times (120 - \dfrac {25} {100} \times 120)\\\\
+                    &= \dfrac {25 \times 120} {100} + \dfrac {10} {10 \times 10} \times (120 - \dfrac {25 \times 120} {100}) \\\\
+                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} + \dfrac {\cancel 10} {\cancel 10 \times 10} \times (120 - \dfrac {25 \times 30 \times 4} {25 \times 4} ) \\\\
+                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} + \dfrac {1} {10} \times (120 - \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4}) \\\\
+                    &= 30 + \dfrac {1} {10} \times  (120 - 30) \\\\
+                    &= 30 + \dfrac {1} {10} \times 80  \\\\
+                    &= 30 + \dfrac {8 \times 10} {10}  \\\\
+                    &= 30 + \dfrac {8 \times \cancel {10}} {\cancel {10}}  \\\\
+                    &= 30 + 8 \\\\
+                    &= 38 \\\\
+\text {Money left}  &= 120 - 38 \\\\
                     &= \pounds 72
 \end {aligned}
 $
@@ -1883,7 +1828,7 @@ Money left = 120 - ...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>912EEF9E-A307-43EB-9A90-8C39BBD20ABB</p>
 </div>
@@ -1897,7 +1842,7 @@ Money left = 120 - ...
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2041,21 +1986,21 @@ Round the number to the nearest $1000$.
 <div class='workings'>
 <div class='working'>
 
-$0$
+$2000$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0$
+$2000$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$0$
+<pre class='language-latex'><code class='language-latex'>$2000$
 </code></pre>
 </div>
 </div>
@@ -2067,7 +2012,7 @@ $0$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0$
+<pre class='language-latex'><code class='language-latex'>$2000$
 </code></pre>
 </div>
 </div>
@@ -2168,7 +2113,7 @@ part (c) : answer wrong : must be 2000
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9E15412C-4661-4C5C-9D9D-3029A1E8FD6A</p>
 </div>
@@ -2182,7 +2127,7 @@ part (c) : answer wrong : must be 2000
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2207,10 +2152,9 @@ Emily runs the same distance in a time of $13.762 \ \text{seconds}$.
 
 $
 \begin{aligned}
-\text {Jack's time rounded off}   &= 15 \ \text {seconds} \\\\
-\text {Emily's time rounded off}  &= 14 \ \text {seconds} \\\\
-\text {difference}                &= 15 - 14 \\\\
-                                  &= 1 \ \text {seconds}                        
+\text {Difference}              &= 15.47 - 13.762 \\\\ 
+                                &= 15 - 14 \\\\
+                                &= 1 \ \text {second}                        
 \end{aligned}
 $
 
@@ -2219,7 +2163,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text {seconds}$
+$1 \ \text {second}$
 
 </div>
 </div>
@@ -2228,10 +2172,9 @@ $1 \ \text {seconds}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Jack's time rounded off}   &= 15 \ \text {seconds} \\\\
-\text {Emily's time rounded off}  &= 14 \ \text {seconds} \\\\
-\text {difference}                &= 15 - 14 \\\\
-                                  &= 1 \ \text {seconds}                        
+\text {Difference}              &= 15.47 - 13.762 \\\\ 
+                                &= 15 - 14 \\\\
+                                &= 1 \ \text {second}                        
 \end{aligned}
 $
 </code></pre>
@@ -2245,7 +2188,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1 \ \text {seconds}$
+<pre class='language-latex'><code class='language-latex'>$1 \ \text {second}$
 </code></pre>
 </div>
 </div>
@@ -2310,7 +2253,7 @@ last step remove s from \"seconds\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3F25BBBF-5E67-4061-8C79-6ED94DD73A3D</p>
 </div>
@@ -2324,7 +2267,7 @@ last step remove s from \"seconds\"
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2346,8 +2289,9 @@ How many seconds in an hour?
 
 $
 \begin{aligned}
-\text {Second in an hour} &= 60 \times 60 \\\\
-                          &= 3600
+&= 1 \ \text{hour} \\\\
+&= 1 \times 60 \times 60 \ \text{seconds} \\\\
+&= 3600 \ \text{seconds}
 \end{aligned}
 $
 
@@ -2356,7 +2300,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3600$
+$3600 \ \text{seconds}$
 
 </div>
 </div>
@@ -2365,8 +2309,9 @@ $3600$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Second in an hour} &= 60 \times 60 \\\\
-                          &= 3600
+&= 1 \ \text{hour} \\\\
+&= 1 \times 60 \times 60 \ \text{seconds} \\\\
+&= 3600 \ \text{seconds}
 \end{aligned}
 $
 </code></pre>
@@ -2380,7 +2325,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3600$
+<pre class='language-latex'><code class='language-latex'>$3600 \ \text{seconds}$
 </code></pre>
 </div>
 </div>

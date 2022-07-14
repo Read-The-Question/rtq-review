@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -713,7 +713,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>190C260A-B709-4BC3-B1A5-EB1669D52A22</p>
 </div>
@@ -727,7 +727,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -813,8 +813,8 @@ By $09{:}00$ it had risen by $4$ degrees. What was the temperature at $09{:}00$?
 
 $
 \begin{aligned}
-\text {Temperature at } 09{:}00 &= -1 +4 \\\\
-                               &= 3 \degree \text{C}
+\text {Temperature at } 09{:}00   &= -1 +4 \\\\
+                                  &= 3 \degree \text{C}
 \end{aligned}
 $
 
@@ -834,8 +834,8 @@ $3 \degree \text{C}$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text {Temperature at } 09{:}00 &= -1 +4 \\\\
-                               &= 3 \degree \text{C}
+\text {Temperature at } 09{:}00   &= -1 +4 \\\\
+                                  &= 3 \degree \text{C}
 \end{aligned}
 $
 
@@ -922,9 +922,11 @@ After noon, the temperature fell by $1.5$ degrees each hour. What was the temper
 
 $
 \begin{aligned}
-\text {Temperature at } 18{:}00 &= 11 - 6 \times 1.5 \\\\
-                                &= 11 - 9 \\\\\
-                                &= 2 \degree \text{C}
+\text{Temperature fell}                     &= (18{:}00 - 12{:}00) \times 2 \\\\
+                                            &= 6 \degree \text{C} \\\\
+\text{Temperature at} \ 18{:}00 \ \text{am} &= \text{Temperature at noon} + \text{Temperature risen}\\\\
+                                            &= 11 - 9 \\\\
+                                            &= 2 \degree \text{C}                       
 \end{aligned}
 $
 
@@ -943,9 +945,11 @@ $2 \degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Temperature at } 18{:}00 &= 11 - 6 \times 1.5 \\\\
-                                &= 11 - 9 \\\\\
-                                &= 2 \degree \text{C}
+\text{Temperature fell}                     &= (18{:}00 - 12{:}00) \times 2 \\\\
+                                            &= 6 \degree \text{C} \\\\
+\text{Temperature at} \ 18{:}00 \ \text{am} &= \text{Temperature at noon} + \text{Temperature risen}\\\\
+                                            &= 11 - 9 \\\\
+                                            &= 2 \degree \text{C}                       
 \end{aligned}
 $
 
@@ -985,9 +989,7 @@ $
 \end{aligned}
 $
 
-$
-\text{Temperature at 6 am was cooler}
-$
+Temperature at $6 \text {am}$ was cooler.
 
 
 </div>
@@ -995,7 +997,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-3 \degree \text{C}, 6 \text{ am}$
+Temperature at 6am $=$ $-3 \degree \text{C}$
+
+</div>
+<div class='answer'>
+
+Cooler $=$ $6 \text{ am}$
 
 </div>
 </div>
@@ -1009,9 +1016,7 @@ $-3 \degree \text{C}, 6 \text{ am}$
 \end{aligned}
 $
 
-$
-\text{Temperature at 6 am was cooler}
-$
+Temperature at $6 \text {am}$ was cooler.
 
 </code></pre>
 </div>
@@ -1021,10 +1026,20 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Temperature at 6am</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$-3 \degree \text{C}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-3 \degree \text{C}, 6 \text{ am}$
+<pre class='language-latex'><code class='language-latex'>Cooler</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$6 \text{ am}$
 </code></pre>
 </div>
 </div>
@@ -1454,7 +1469,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6698C0E8-8C91-401E-A164-C22C25F5E9F7</p>
 </div>
@@ -1468,7 +1483,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1491,7 +1506,7 @@ What is the temperature in Inverness?
 
 $
 \begin{aligned}
-\text {Temperature in the Inverness}  &= \text {Temperature in the London} - 12 \\\\
+\text {Temperature in Inverness}    &= \text {Temperature in London} - 12 \\\\
                                     &= 5 - 12 \\\\
                                     &= -7 \degree \text {C}
 \end{aligned}
@@ -1511,7 +1526,7 @@ $-7 \degree \text {C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Temperature in the Inverness}  &= \text {Temperature in the London} - 12 \\\\
+\text {Temperature in Inverness}    &= \text {Temperature in London} - 12 \\\\
                                     &= 5 - 12 \\\\
                                     &= -7 \degree \text {C}
 \end{aligned}
@@ -4408,7 +4423,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>34B6ABD4-2634-46DE-BC0B-524DA2C850E0</p>
 </div>
@@ -4422,7 +4437,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4441,9 +4456,16 @@ At $5.00 \ \text{am}$ the temperature is $-3 \degree \text{C}$. At $10.30 \ \tex
 
 $
 \begin{aligned}
-\text {Temperature at 10.30 am}  &= \text {Temperature at 5.00 am} + 5.5 \times 2 \\\\
-                                    &= -3 + 11 \\\\
-                                    &= 8 \degree \text {C}
+\text{Temperature risen}                    &= (10{:}30 - 5{:}00) \times 2 \\\\
+                                            &= 5 \ \text{hours} \ 30 \ \text{minutes} \times 2 \\\\
+                                            &= 5 \dfrac{1} {2} \ \text{hours} \times 2 \\\\ 
+                                            &= \dfrac{11} {2} \times 2 \\\\
+                                            &= \dfrac{11 \times 2} {2} \\\\
+                                            &= \dfrac{11 \times \cancel 2} { \cancel 2} \\\\
+                                            &= 11 \degree \text{C} \\\\
+\text{Temperature at} \ 10{:}30 \ \text{am} &= \text{Temperature at} \ 05{:}00 \ \text{am} + \text{Temperature risen} \\\\
+                                            &= -3 + 11 \\\\
+                                            &= 8 \degree \text{C}
 \end{aligned}
 $
 
@@ -4461,9 +4483,16 @@ $8 \degree \text {C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Temperature at 10.30 am}  &= \text {Temperature at 5.00 am} + 5.5 \times 2 \\\\
-                                    &= -3 + 11 \\\\
-                                    &= 8 \degree \text {C}
+\text{Temperature risen}                    &= (10{:}30 - 5{:}00) \times 2 \\\\
+                                            &= 5 \ \text{hours} \ 30 \ \text{minutes} \times 2 \\\\
+                                            &= 5 \dfrac{1} {2} \ \text{hours} \times 2 \\\\ 
+                                            &= \dfrac{11} {2} \times 2 \\\\
+                                            &= \dfrac{11 \times 2} {2} \\\\
+                                            &= \dfrac{11 \times \cancel 2} { \cancel 2} \\\\
+                                            &= 11 \degree \text{C} \\\\
+\text{Temperature at} \ 10{:}30 \ \text{am} &= \text{Temperature at} \ 05{:}00 \ \text{am} + \text{Temperature risen} \\\\
+                                            &= -3 + 11 \\\\
+                                            &= 8 \degree \text{C}
 \end{aligned}
 $
 </code></pre>

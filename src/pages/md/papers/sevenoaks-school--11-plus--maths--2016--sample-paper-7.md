@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1732,7 +1732,7 @@ Orange juice $= 140 \text { ml}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D5021FF9-3A58-4AEA-87F5-5DB2612B1138</p>
 </div>
@@ -1743,7 +1743,7 @@ Orange juice $= 140 \text { ml}$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1763,53 +1763,45 @@ Find three prime numbers that add up to another prime number.
 <div class='workings'>
 <div class='working'>
 
-Trial and error method as many combinations are possible. 
+Using trial and error,
 
-Easiest is to take a prime number as our target number and then choose the three numbers with add up to the target prime number.
+Prime numbers $= 3, 7, 13$
 
-Prime numbers $= 2, 3, 5, 7, 11, 13, 17, 19, 23, \ldots $
+Let's verify.
 
-$23 = 19 + 4$ (no combination possible)
-
-Try another
-
-$23 = 13 + 7 + 3$ (true)
-
-Or,
-
-$19 = 11 + 5 + 3$ (true)
-
-
+$
+\begin{aligned}
+&= 3 + 7 + 13 \\\\
+&= 10 + 13 \\\\
+&= 23
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$23 = 13 + 7 + 3$
+$3, 7, 13$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Trial and error method as many combinations are possible. 
+<pre class='language-latex'><code class='language-latex'>Using trial and error,
 
-Easiest is to take a prime number as our target number and then choose the three numbers with add up to the target prime number.
+Prime numbers $= 3, 7, 13$
 
-Prime numbers $= 2, 3, 5, 7, 11, 13, 17, 19, 23, \ldots $
+Let's verify.
 
-$23 = 19 + 4$ (no combination possible)
-
-Try another
-
-$23 = 13 + 7 + 3$ (true)
-
-Or,
-
-$19 = 11 + 5 + 3$ (true)
-
-
+$
+\begin{aligned}
+&= 3 + 7 + 13 \\\\
+&= 10 + 13 \\\\
+&= 23
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1821,16 +1813,53 @@ $19 = 11 + 5 + 3$ (true)
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$23 = 13 + 7 + 3$
+<pre class='language-latex'><code class='language-latex'>$3, 7, 13$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' id='FORM-D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D5021FF9-3A58-4AEA-87F5-5DB2612B1138'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>970F2EE0-98DA-45DF-A88C-260A3AC22A4A</p>
 </div>
@@ -1841,7 +1870,7 @@ $19 = 11 + 5 + 3$ (true)
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_notstarted</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1927,26 +1956,7 @@ Write $3.14$ correct to $1$ decimal place.
 <div class='workings'>
 <div class='working'>
 
-
-The position of a digit to the right of the decimal point in a decimal number. 
-
-To round to a decimal place the first digit after the decimal point is one decimal place or the second digit for two decimal places. 
-
-If the number is $5$ or more, increase the previous digit by one. 
-
-If it's 4 or less, there will be no change and the previous digit remains same.
-
-The question asks to correct to $1$ decimal place which means the second decimal place is the number to consider.
-
-The number $3.14$ has two-digits after the decimal place. So
-
-**1** is the first decimal place.
-
-**4** is at the second decimal place.
-
-$4$ < $5$ so  no change in the previous digit.
-
-As the question asks to correct to $1$ decimal place, remove any numbers to the right of one decimal place.
+ 
 
 $3.1$
 
@@ -1964,26 +1974,7 @@ $3.1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-The position of a digit to the right of the decimal point in a decimal number. 
-
-To round to a decimal place the first digit after the decimal point is one decimal place or the second digit for two decimal places. 
-
-If the number is $5$ or more, increase the previous digit by one. 
-
-If it's 4 or less, there will be no change and the previous digit remains same.
-
-The question asks to correct to $1$ decimal place which means the second decimal place is the number to consider.
-
-The number $3.14$ has two-digits after the decimal place. So
-
-**1** is the first decimal place.
-
-**4** is at the second decimal place.
-
-$4$ < $5$ so  no change in the previous digit.
-
-As the question asks to correct to $1$ decimal place, remove any numbers to the right of one decimal place.
+<pre class='language-latex'><code class='language-latex'> 
 
 $3.1$
 
@@ -2016,30 +2007,7 @@ Write $0.085$ correct to $2$ decimal places.
 <div class='workings'>
 <div class='working'>
 
-$2$ decimal places is the $2$ digit after the decimal point.
-
-If the number is $5$ or more, increase the previous digit by one. 
-
-If it's 4 or less, there will be no change and the previous digit remains same.
-
-The question asks to correct to $2$ decimal place which means the third decimal place is the number to consider.
-
-The number $0.085$ has three-digits after the decimal place. So,
-
-**0** is the first decimal place.
-
-**8** is at the second decimal place.
-
-**5** is at the third decimal place.
-
-As third decimal place is more than 4 the previous digit will be increased by one 
-
-As the question asks to correct to $2$ decimal place, remove any numbers to the right of one decimal place.
-
 $0.09$
-
-
-
 
 </div>
 </div>
@@ -2054,30 +2022,7 @@ $0.09$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$2$ decimal places is the $2$ digit after the decimal point.
-
-If the number is $5$ or more, increase the previous digit by one. 
-
-If it's 4 or less, there will be no change and the previous digit remains same.
-
-The question asks to correct to $2$ decimal place which means the third decimal place is the number to consider.
-
-The number $0.085$ has three-digits after the decimal place. So,
-
-**0** is the first decimal place.
-
-**8** is at the second decimal place.
-
-**5** is at the third decimal place.
-
-As third decimal place is more than 4 the previous digit will be increased by one 
-
-As the question asks to correct to $2$ decimal place, remove any numbers to the right of one decimal place.
-
-$0.09$
-
-
-
+<pre class='language-latex'><code class='language-latex'>$0.09$
 </code></pre>
 </div>
 </div>
@@ -2107,22 +2052,8 @@ Write $5.97$ correct to $1$ decimal place.
 <div class='workings'>
 <div class='working'>
 
-$1$ decimal places is the $1$ digit after the decimal point.
 
-The question asks to correct to $1$ decimal place which means the second decimal place is the number to consider.
-
-**9** is the first decimal place.
-
-**7** is at the second decimal place.
-
-The second number is $7$ is greater than $5$. So, the previous digit will be increased by one. 
-
-As the question asks to correct to $1$ decimal place, remove any numbers to the right of one decimal place.
-
-$5.9 + 0.1$
-
-$6.00$
-
+$6.0$
 
 
 </div>
@@ -2130,29 +2061,15 @@ $6.00$
 <div class='answers'>
 <div class='answer'>
 
-$6.00$
+$6.0$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1$ decimal places is the $1$ digit after the decimal point.
-
-The question asks to correct to $1$ decimal place which means the second decimal place is the number to consider.
-
-**9** is the first decimal place.
-
-**7** is at the second decimal place.
-
-The second number is $7$ is greater than $5$. So, the previous digit will be increased by one. 
-
-As the question asks to correct to $1$ decimal place, remove any numbers to the right of one decimal place.
-
-$5.9 + 0.1$
-
-$6.00$
-
+<pre class='language-latex'><code class='language-latex'>
+$6.0$
 
 </code></pre>
 </div>
@@ -2165,7 +2082,7 @@ $6.00$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6.00$
+<pre class='language-latex'><code class='language-latex'>$6.0$
 </code></pre>
 </div>
 </div>
@@ -2174,6 +2091,43 @@ $6.00$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='970F2EE0-98DA-45DF-A88C-260A3AC22A4A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='970F2EE0-98DA-45DF-A88C-260A3AC22A4A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='970F2EE0-98DA-45DF-A88C-260A3AC22A4A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='970F2EE0-98DA-45DF-A88C-260A3AC22A4A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='970F2EE0-98DA-45DF-A88C-260A3AC22A4A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='970F2EE0-98DA-45DF-A88C-260A3AC22A4A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='970F2EE0-98DA-45DF-A88C-260A3AC22A4A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='970F2EE0-98DA-45DF-A88C-260A3AC22A4A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='970F2EE0-98DA-45DF-A88C-260A3AC22A4A' id='FORM-970F2EE0-98DA-45DF-A88C-260A3AC22A4A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-970F2EE0-98DA-45DF-A88C-260A3AC22A4A'>Initial</p>
+</div>
 </div>
 </li>
 <li>

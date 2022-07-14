@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -972,7 +972,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>72BEEC51-1902-4C41-BF4A-69B97ED5D4A7</p>
 </div>
@@ -983,7 +983,7 @@ $
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>
@@ -1151,53 +1151,7 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-
-
-
-
-seems to be wrong
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' id='FORM-72BEEC51-1902-4C41-BF4A-69B97ED5D4A7' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-72BEEC51-1902-4C41-BF4A-69B97ED5D4A7'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -7693,8 +7647,7 @@ Convert $430\ \text{millimetres}$ into $\text{centimetres}$
 $
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
-&= \dfrac {430} {10}  \\\\
+&= \dfrac {430} {10} \ \text{cm} \\\\
 &= \dfrac {43 \times 10} {10}  \\\\
 &= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
 &=43 \ \text{cm}
@@ -7716,8 +7669,7 @@ $43 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
-&= \dfrac {430} {10}  \\\\
+&= \dfrac {430} {10} \ \text{cm} \\\\
 &= \dfrac {43 \times 10} {10}  \\\\
 &= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
 &=43 \ \text{cm}
@@ -7753,7 +7705,7 @@ Convert $2.1\ \text{kilometres}$ into $\text{metres}$
 
 $
 \begin{aligned}
-&= 2.1 \ \text{km} \\\\
+&= 2.1 \ \text{kilometres} \\\\
 &= 2.1 \times 1000 \ \text{m} \\\\
 &= 2100 \ \text{m}
 \end{aligned}
@@ -7773,7 +7725,7 @@ $2100 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 2.1 \ \text{km} \\\\
+&= 2.1 \ \text{kilometres} \\\\
 &= 2.1 \times 1000 \ \text{m} \\\\
 &= 2100 \ \text{m}
 \end{aligned}
@@ -7797,6 +7749,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write the same as in the question, for eg kilometers instead of km
+</div>
 
 <div class='review'>
 <ul class='review'>

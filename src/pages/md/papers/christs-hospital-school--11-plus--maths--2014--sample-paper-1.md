@@ -1,7 +1,7 @@
 ---
 slug: "papers/christs-hospital-school-11-plus-maths-2014-sample-paper-1"
 title: "Christs Hospital School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -931,7 +931,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FDB769B4-5A9B-4620-A568-180B7A9D0DC9</p>
 </div>
@@ -945,7 +945,7 @@ $
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1046,7 +1046,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F4B3B39D-E597-4F49-846E-181927A93384</p>
 </div>
@@ -1060,7 +1060,7 @@ $
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1081,7 +1081,9 @@ $
 \begin{aligned}
 &= 2750 \ \text {grams} \\\\
 &= \dfrac {2750} {1000} \ \text {kilograms} \\\\
-&= 2.750 \ \text {kilograms}
+&= \dfrac {275 \times 10} {100 \times 10} \ \text {kilograms} \\\\
+&= \dfrac {275 \times \cancel{10}} {100 \times \cancel{10}} \ \text {kilograms} \\\\
+&= 2.75 \ \text {kilograms}
 \end{aligned}
 $
 
@@ -1101,7 +1103,9 @@ $2.750 \ \text {kilograms}$
 \begin{aligned}
 &= 2750 \ \text {grams} \\\\
 &= \dfrac {2750} {1000} \ \text {kilograms} \\\\
-&= 2.750 \ \text {kilograms}
+&= \dfrac {275 \times 10} {100 \times 10} \ \text {kilograms} \\\\
+&= \dfrac {275 \times \cancel{10}} {100 \times \cancel{10}} \ \text {kilograms} \\\\
+&= 2.75 \ \text {kilograms}
 \end{aligned}
 $
 </code></pre>

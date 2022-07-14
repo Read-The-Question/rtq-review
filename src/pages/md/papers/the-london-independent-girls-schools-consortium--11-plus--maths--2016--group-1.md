@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3698,7 +3698,7 @@ not directly related. thou.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EC923AB4-82BC-4611-AAA5-D323C2162579</p>
 </div>
@@ -3709,7 +3709,7 @@ not directly related. thou.
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3737,7 +3737,7 @@ As per the diagram,
 $
 \begin{aligned}
 \text {Length of the pencil}  &= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
-                              &= 2.9 \ \text{inches}
+\text {Length of the pencil}  &= 2.9 \ \text{inches}
 \end{aligned}
 $
 
@@ -3758,7 +3758,7 @@ $2.9 \ \text{inches}$
 $
 \begin{aligned}
 \text {Length of the pencil}  &= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
-                              &= 2.9 \ \text{inches}
+\text {Length of the pencil}  &= 2.9 \ \text{inches}
 \end{aligned}
 $
 </code></pre>
@@ -3777,7 +3777,59 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+Wrongly solved.
+
+
+
+= 3.6 - 0.7 
+
+= 2.9 inches
+
+
+
+change in blue answer as well.
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EC923AB4-82BC-4611-AAA5-D323C2162579' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='EC923AB4-82BC-4611-AAA5-D323C2162579' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='EC923AB4-82BC-4611-AAA5-D323C2162579' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='EC923AB4-82BC-4611-AAA5-D323C2162579' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EC923AB4-82BC-4611-AAA5-D323C2162579' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='EC923AB4-82BC-4611-AAA5-D323C2162579' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='EC923AB4-82BC-4611-AAA5-D323C2162579' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='EC923AB4-82BC-4611-AAA5-D323C2162579' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='EC923AB4-82BC-4611-AAA5-D323C2162579' id='FORM-EC923AB4-82BC-4611-AAA5-D323C2162579' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EC923AB4-82BC-4611-AAA5-D323C2162579'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4744,7 +4796,7 @@ change in blue answer to $2400 \text {g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>61203874-93D1-480D-901B-66CBB79D41D3</p>
 </div>
@@ -4755,7 +4807,7 @@ change in blue answer to $2400 \text {g}$
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4820,21 +4872,35 @@ What volume of lemonade is left in the jug?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
+&= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
+&= 1500 - 1200 \\\\
+&= 300 \text{ml}\ \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+300 ml
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
+&= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
+&= 1500 - 1200 \\\\
+&= 300 \text{ml}\ \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4846,7 +4912,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>300 ml
 </code></pre>
 </div>
 </div>
@@ -4865,21 +4931,67 @@ How many times could Zoya completely fill her jug from these bottles?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Total volume Zoya has} &= 5 \times 2 \text{litre} \\\\
+&= 10 \text{litre} \\\\
+\end{aligned}
+$
+
+Let number of times jug can be filled $= a$
+
+$
+\begin{aligned}
+a \times 1.5 &= 10 \\\\
+a \times \dfrac{15}{10} &= 10 \\\\
+a \times \dfrac{3}{2} &= 10 \\\\
+a &= \dfrac{10}{\dfrac{3}{2}} \\\\
+a &= 10 \times \dfrac{2}{3} \\\\
+a &= \dfrac{20}{3} \\\\
+a &= 6.66 \\\\
+\end{aligned}
+$
+
+Since the jug had to be completely filled,
+
+Total times $= 6$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$6$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total volume Zoya has} &= 5 \times 2 \text{litre} \\\\
+&= 10 \text{litre} \\\\
+\end{aligned}
+$
+
+Let number of times jug can be filled $= a$
+
+$
+\begin{aligned}
+a \times 1.5 &= 10 \\\\
+a \times \dfrac{15}{10} &= 10 \\\\
+a \times \dfrac{3}{2} &= 10 \\\\
+a &= \dfrac{10}{\dfrac{3}{2}} \\\\
+a &= 10 \times \dfrac{2}{3} \\\\
+a &= \dfrac{20}{3} \\\\
+a &= 6.66 \\\\
+\end{aligned}
+$
+
+Since the jug had to be completely filled,
+
+Total times $= 6$
 </code></pre>
 </div>
 </div>
@@ -4891,7 +5003,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$6$
 </code></pre>
 </div>
 </div>
@@ -4900,6 +5012,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='61203874-93D1-480D-901B-66CBB79D41D3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='61203874-93D1-480D-901B-66CBB79D41D3' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='61203874-93D1-480D-901B-66CBB79D41D3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='61203874-93D1-480D-901B-66CBB79D41D3' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='61203874-93D1-480D-901B-66CBB79D41D3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='61203874-93D1-480D-901B-66CBB79D41D3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='61203874-93D1-480D-901B-66CBB79D41D3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='61203874-93D1-480D-901B-66CBB79D41D3' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='61203874-93D1-480D-901B-66CBB79D41D3' id='FORM-61203874-93D1-480D-901B-66CBB79D41D3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-61203874-93D1-480D-901B-66CBB79D41D3'>Initial</p>
+</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2358,7 +2358,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>42717D42-3942-4015-AD45-A734CADB14A9</p>
 </div>
@@ -2372,7 +2372,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2437,7 +2437,7 @@ At what time will it finish?
 
 $
 \begin{aligned}
-&= 6{:}45 \ \text{pm} + 2 \ \text{hours } 35 \ \text{minutes} \\\\
+&= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
 &= 9{:}20 \ \text{pm} \\\\
 \end{aligned}
 $
@@ -2456,7 +2456,7 @@ $9{:}20 \ \text{pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 6{:}45 \ \text{pm} + 2 \ \text{hours } 35 \ \text{minutes} \\\\
+&= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
 &= 9{:}20 \ \text{pm} \\\\
 \end{aligned}
 $
@@ -2492,11 +2492,11 @@ How long should the journey have taken if the coach had left and arrived on time
 
 $
 \begin{aligned}
-\text {time had he not been late} &= 13{:}45 - 5 \ \text{minutes} \\\\
-                                  &= 13{:}40 \ \text{minutes} \\\\
-\text {time if arrived on time}   &= 17{:}05 + 14 \ \text{minutes} \\\\
+\text {Original Time to leave}    &= 13{:}45 - 5 \ \text{minutes} \\\\
+                                  &= 13{:}40  \\\\
+\text {Original Time to Arrive}   &= 17{:}05 + 14 \ \text{minutes} \\\\
                                   &= 17{:}19 \\\\
-\text {duration of journey}       &= 17{:}19 - 13{:}40 \\\\
+\text {Duration of journey}       &= 17{:}19 - 13{:}40 \\\\
                                   &= 3 \ \text {hours} \ 39 \ \text{minutes}
 \end{aligned}
 $
@@ -2515,11 +2515,11 @@ $3 \ \text {hours} \ 39 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {time had he not been late} &= 13{:}45 - 5 \ \text{minutes} \\\\
-                                  &= 13{:}40 \ \text{minutes} \\\\
-\text {time if arrived on time}   &= 17{:}05 + 14 \ \text{minutes} \\\\
+\text {Original Time to leave}    &= 13{:}45 - 5 \ \text{minutes} \\\\
+                                  &= 13{:}40  \\\\
+\text {Original Time to Arrive}   &= 17{:}05 + 14 \ \text{minutes} \\\\
                                   &= 17{:}19 \\\\
-\text {duration of journey}       &= 17{:}19 - 13{:}40 \\\\
+\text {Duration of journey}       &= 17{:}19 - 13{:}40 \\\\
                                   &= 3 \ \text {hours} \ 39 \ \text{minutes}
 \end{aligned}
 $
@@ -2557,11 +2557,11 @@ When Chris has run $18$ laps, how many laps has Dave run?
 
 $
 \begin{aligned}
-\text {ratio of Dave's and Chris speed} &= \dfrac {9} {6} \\\\
+\text {Ratio of their speed}            &= \dfrac {9} {6} \\\\
                                         &= \dfrac {3 \times 3} {3 \times 2} \\\\
                                         &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 2} \\\\
                                         &= \dfrac {3} {2} \\\\
-\text {laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} 18 \\\\
+\text {Laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} \ 18 \\\\
                                         &= \dfrac {3} {2} \times 18 \\\\
                                         &= \dfrac {3 \times 18} {2} \\\\
                                         &= \dfrac {3 \times 9 \times 2} {2} \\\\
@@ -2585,11 +2585,11 @@ $27$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {ratio of Dave's and Chris speed} &= \dfrac {9} {6} \\\\
+\text {Ratio of their speed}            &= \dfrac {9} {6} \\\\
                                         &= \dfrac {3 \times 3} {3 \times 2} \\\\
                                         &= \dfrac {\cancel{3} \times 3} {\cancel{3} \times 2} \\\\
                                         &= \dfrac {3} {2} \\\\
-\text {laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} 18 \\\\
+\text {Laps ran by Dave}                &= \dfrac {3} {2} \ \text {of} \ 18 \\\\
                                         &= \dfrac {3} {2} \times 18 \\\\
                                         &= \dfrac {3 \times 18} {2} \\\\
                                         &= \dfrac {3 \times 9 \times 2} {2} \\\\
@@ -4948,7 +4948,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4D98BB16-356B-4F86-BB81-8AC056B29F2C</p>
 </div>
@@ -4959,10 +4959,10 @@ TODOANSWER
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_pr</p>
+<p>rag_an_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5092,8 +5092,8 @@ What is the value of $20 \%$ of $(60)^{2}$
 
 $
 \begin{aligned}
-20 \% \text { of } (60)^{2} 
-&= \dfrac{20}{100} \times (60 \times 60) \\\\
+&= 20 \% \text { of } (60)^{2} \\\\
+&= \dfrac{20}{100} \times 60 \times 60 \\\\
 &= \dfrac{20 \times 60 \times 60}{100}  \\\\
 &= \dfrac{20 \times 6\cancel{0} \times 6\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
 &= 20 \times 6 \times 6 \\\\
@@ -5117,8 +5117,8 @@ $720$
 
 $
 \begin{aligned}
-20 \% \text { of } (60)^{2} 
-&= \dfrac{20}{100} \times (60 \times 60) \\\\
+&= 20 \% \text { of } (60)^{2} \\\\
+&= \dfrac{20}{100} \times 60 \times 60 \\\\
 &= \dfrac{20 \times 60 \times 60}{100}  \\\\
 &= \dfrac{20 \times 6\cancel{0} \times 6\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
 &= 20 \times 6 \times 6 \\\\
@@ -5144,69 +5144,36 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-remove extra WORKINGS AND ANSWERS
-
-
-
-a: show factors and cancellation steps for 9090 / 9
-
-
-
-
-
-
-
-b: write the original question as the first line
-
-
-
-its not following single num / single deno rule, please refer coding guideliles, look at other answers in tnumber in g2 to see how to factor and cancel the right way. do not calculate intermediate values for 60 * 60 = 3600, do not do that, factor and cancel
-
-
-
-b: write the original question as the first line
-
-
-
-its not following single num / single deno rule, please refer coding guideliles, look at other answers in tnumber in g2 to see how to factor and cancel the right way. do not calculate intermediate values for 60 * 60 = 3600, do not do that, factor and cancel
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' id='FORM-4D98BB16-356B-4F86-BB81-8AC056B29F2C' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' id='FORM-4D98BB16-356B-4F86-BB81-8AC056B29F2C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -7453,7 +7420,7 @@ The three whole numbers $= 9, 10, 11$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>87DD43D2-0743-438D-822B-510F1C7AB73E</p>
 </div>
@@ -7464,7 +7431,7 @@ The three whole numbers $= 9, 10, 11$.
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_notstarted</p>
+<p>rag_mr_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7555,36 +7522,65 @@ How many Tinkles make one Clink?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Total clinks}             &= 2 + 2 + 1 + 1 \\\\
+                                &= 6 \\\\
+\text{Remaining clinks}         &= 8 - 6 \\\\
+                                &= 2 \\\\
+\text{Total tinkles}            &= 5 + 4 + 3 + 3 \\\\
+                                &= 15 \\\\
+\text{Remaining tinkles}        &= 15 - 3 \\\\
+                                &= 12
+\end{aligned}
+$
 
-</div>
-<div class='working'>
+As per the question,
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Number of tinkles per clink}      &= \dfrac {12} {2} \\\\
+                                        &= 6
+\end{aligned}
+$
+
+$6$ tinkles $= 1$ clink.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$6$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total clinks}             &= 2 + 2 + 1 + 1 \\\\
+                                &= 6 \\\\
+\text{Remaining clinks}         &= 8 - 6 \\\\
+                                &= 2 \\\\
+\text{Total tinkles}            &= 5 + 4 + 3 + 3 \\\\
+                                &= 15 \\\\
+\text{Remaining tinkles}        &= 15 - 3 \\\\
+                                &= 12
+\end{aligned}
+$
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of tinkles per clink}      &= \dfrac {12} {2} \\\\
+                                        &= 6
+\end{aligned}
+$
+
+$6$ tinkles $= 1$ clink.
 </code></pre>
 </div>
 </div>
@@ -7596,17 +7592,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$6$
 </code></pre>
 </div>
 </div>
@@ -7628,36 +7614,82 @@ Work out the answer to this subtraction.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{First number}                     &= 4 \ \text{clinks} + 3 \ \text{tinkles} \\\\
+                                        &= (4 \times 6 + 3) \ \text{tinkles} \\\\
+                                        &= 24 + 3 \\\\
+                                        &= 27 \ \text{tinkles}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Second number}                    &= 2 \ \text{clinks} + 5 \ \text{tinkles} \\\\
+                                        &= (2 \times 6 + 5) \ \text{tinkles} \\\\
+                                        &= 12 + 5 \\\\
+                                        &= 17 \ \text{tinkles}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Subtraction}                      &= \text{First Number} - \text{Second Number} \\\\
+                                        &= (27 - 17) \ \text{tinkles} \\\\
+                                        &= 10 \\\\
+                                        &= 6 + 4 \\\\
+                                        &= 1 \ \text{clink} + 4 \ \text{tinkles}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$14$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\text{First number}                     &= 4 \ \text{clinks} + 3 \ \text{tinkles} \\\\
+                                        &= (4 \times 6 + 3) \ \text{tinkles} \\\\
+                                        &= 24 + 3 \\\\
+                                        &= 27 \ \text{tinkles}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Second number}                    &= 2 \ \text{clinks} + 5 \ \text{tinkles} \\\\
+                                        &= (2 \times 6 + 5) \ \text{tinkles} \\\\
+                                        &= 12 + 5 \\\\
+                                        &= 17 \ \text{tinkles}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Subtraction}                      &= \text{First Number} - \text{Second Number} \\\\
+                                        &= (27 - 17) \ \text{tinkles} \\\\
+                                        &= 10 \\\\
+                                        &= 6 + 4 \\\\
+                                        &= 1 \ \text{clink} + 4 \ \text{tinkles}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7669,17 +7701,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$14$
 </code></pre>
 </div>
 </div>
@@ -7701,36 +7723,66 @@ Work out the answer to this division.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: It is really important to use the right units in calculations and convert where required.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{The dividend}                     &= 7 \ \text{clinks} + 2 \ \text{tinkles} \\\\
+                                        &= (7 \times 6 + 2) \ \text{tinkles} \\\\
+                                        &= 42 + 3 \\\\
+                                        &= 44 \ \text{tinkles}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{The answer}                       &= \dfrac {44} {4} \\\\
+                                        &= \dfrac {4 \times 11} {4} \\\\
+                                        &= \dfrac {\cancel 4 \times 11} {\cancel 4} \\\\
+                                        &= 11 \\\\
+                                        &= 6 + 5 \\\\
+                                        &= 1 \ \text{clink} + 5 \ \text{tinkles}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$15$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned}
+\text{The dividend}                     &= 7 \ \text{clinks} + 2 \ \text{tinkles} \\\\
+                                        &= (7 \times 6 + 2) \ \text{tinkles} \\\\
+                                        &= 42 + 3 \\\\
+                                        &= 44 \ \text{tinkles}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{The answer}                       &= \dfrac {44} {4} \\\\
+                                        &= \dfrac {4 \times 11} {4} \\\\
+                                        &= \dfrac {\cancel 4 \times 11} {\cancel 4} \\\\
+                                        &= 11 \\\\
+                                        &= 6 + 5 \\\\
+                                        &= 1 \ \text{clink} + 5 \ \text{tinkles}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7742,17 +7794,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$15$
 </code></pre>
 </div>
 </div>
@@ -7761,6 +7803,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='87DD43D2-0743-438D-822B-510F1C7AB73E' id='FORM-87DD43D2-0743-438D-822B-510F1C7AB73E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-87DD43D2-0743-438D-822B-510F1C7AB73E'>Initial</p>
+</div>
 </div>
 </li>
 <li>

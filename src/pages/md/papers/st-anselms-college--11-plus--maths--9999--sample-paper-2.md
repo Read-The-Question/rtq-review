@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-2"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1002,7 +1002,7 @@ add a step 4 : = 60 + 55
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>E7751CD6-54CE-4BCD-BCD5-9E1364D791B2</p>
 </div>
@@ -1016,7 +1016,7 @@ add a step 4 : = 60 + 55
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1077,18 +1077,23 @@ I think of a number, multiply it by $9$ and subtract $7$. The result is $101$. W
 <div class='workings'>
 <div class='working'>
 
-Let the number I think of   $= a$ 
+Let the number $= a$ 
+
+As per the question,
 
 $
 \begin{aligned}
-a \times 9 &= 101 + 7 \\\\
-a          &= \dfrac {108} {9} \\\\
-a          &= \dfrac {12 \times 9} {9} \\\\
-a          &= \dfrac {12 \times \cancel {9} } {\cancel {9} } \\\\
-a          &= 12
+a \times 9 - 7    &= 101 \\\\
+9a                &= 101 + 7 \\\\
+9a                &= 108 \\\\
+a                 &= \dfrac {108} {9} \\\\
+a                 &= \dfrac {9 \times 12} {9} \\\\
+a                 &= \dfrac {\cancel {9} \times 12} {\cancel {9}} \\\\
+a                 &= 12
 \end{aligned}
 $
 
+The number $= 12$
 
 </div>
 </div>
@@ -1102,18 +1107,23 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I think of   $= a$ 
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$ 
+
+As per the question,
 
 $
 \begin{aligned}
-a \times 9 &= 101 + 7 \\\\
-a          &= \dfrac {108} {9} \\\\
-a          &= \dfrac {12 \times 9} {9} \\\\
-a          &= \dfrac {12 \times \cancel {9} } {\cancel {9} } \\\\
-a          &= 12
+a \times 9 - 7    &= 101 \\\\
+9a                &= 101 + 7 \\\\
+9a                &= 108 \\\\
+a                 &= \dfrac {108} {9} \\\\
+a                 &= \dfrac {9 \times 12} {9} \\\\
+a                 &= \dfrac {\cancel {9} \times 12} {\cancel {9}} \\\\
+a                 &= 12
 \end{aligned}
 $
 
+The number $= 12$
 </code></pre>
 </div>
 </div>
@@ -1143,15 +1153,18 @@ answer by $6$, the overall result is the same as just multiplying $x$ by 18. Wha
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-x \times 18  &=  (x + 8) \times 6 \\\\ 
-18x          &=  6x + 48 \\\\ 
-18x - 6x     &=  48 \\\\ 
-12x          &=  48 \\\\ 
-x            &=  \dfrac{4 \times 12} {12} \\\\
-x            &=  \dfrac{4 \times \cancel {12} } {\cancel {12} } \\\\
-x            &=  4
+x \times 18 &= (x + 8) \times 6 \\\\
+18x         &= 6x + 48 \\\\
+18x - 6x    &= 48 \\\\
+12x         &= 48 \\\\
+x           &= \dfrac {48} {12} \\\\
+x           &= \dfrac{4 \times 12} {12} \\\\
+x           &= \dfrac{4 \times \cancel {12} } {\cancel {12} } \\\\
+x           &= 4
 \end{aligned}
 $
 
@@ -1168,15 +1181,18 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
-x \times 18  &=  (x + 8) \times 6 \\\\ 
-18x          &=  6x + 48 \\\\ 
-18x - 6x     &=  48 \\\\ 
-12x          &=  48 \\\\ 
-x            &=  \dfrac{4 \times 12} {12} \\\\
-x            &=  \dfrac{4 \times \cancel {12} } {\cancel {12} } \\\\
-x            &=  4
+x \times 18 &= (x + 8) \times 6 \\\\
+18x         &= 6x + 48 \\\\
+18x - 6x    &= 48 \\\\
+12x         &= 48 \\\\
+x           &= \dfrac {48} {12} \\\\
+x           &= \dfrac{4 \times 12} {12} \\\\
+x           &= \dfrac{4 \times \cancel {12} } {\cancel {12} } \\\\
+x           &= 4
 \end{aligned}
 $
 

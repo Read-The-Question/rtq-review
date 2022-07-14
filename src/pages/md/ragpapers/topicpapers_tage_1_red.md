@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-red"
 title: "TopicPaper - Age - 1 - RED"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
 <li>

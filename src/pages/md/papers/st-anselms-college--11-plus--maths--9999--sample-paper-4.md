@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1270,7 +1270,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>EED677CE-038C-415E-9155-1F7B7166B19B</p>
 </div>
@@ -1284,7 +1284,7 @@ and solve further
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1342,18 +1342,21 @@ I think of a number, divide it by $7$ and add $9$. The result is $17$. What was 
 <div class='workings'>
 <div class='working'>
 
-Let the number I thought of $= a$
+Let the number $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-a \div 7 + 9  &=   17 \\\\
-a \div 7      &=   17 - 9 \\\\
-a \div 7      &=   8 \\\\
-a             &=   8 \times 7 \\\\
-a             &=   56
+a \div 7 + 9      &= 17 \\\\
+\dfrac {a} {7}    &= 17 - 9 \\\\
+\dfrac {a} {7}    &= 8 \\\\
+a                 &= 8 \times 7 \\\\
+a                 &= 56
 \end{aligned}
 $
 
+The number $= 56$
 
 </div>
 </div>
@@ -1367,18 +1370,21 @@ $56$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number I thought of $= a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-a \div 7 + 9  &=   17 \\\\
-a \div 7      &=   17 - 9 \\\\
-a \div 7      &=   8 \\\\
-a             &=   8 \times 7 \\\\
-a             &=   56
+a \div 7 + 9      &= 17 \\\\
+\dfrac {a} {7}    &= 17 - 9 \\\\
+\dfrac {a} {7}    &= 8 \\\\
+a                 &= 8 \times 7 \\\\
+a                 &= 56
 \end{aligned}
 $
 
+The number $= 56$
 </code></pre>
 </div>
 </div>
@@ -1407,15 +1413,19 @@ There is a number, *n*. When I add 3 to *n* then multiply the answer by 4, the o
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-6n       &=  (n + 3) \times 4 \\\\ 
-6n       &=  4n + 12 \\\\
-6n - 4n  &=  12 \\\\
-2n       &=  12 \\\\
-n        &=  \dfrac {6 \times 2} {2} \\\\
-n        &=  \dfrac {6 \times \cancel{2} } {\cancel{2} } \\\\
-n        &=  6
+n \times 6  &= (n + 3) \times 4 \\\\
+6n          &= (n + 3) \times 4 \\\\
+6n          &= 4n + 12 \\\\
+6n - 4n     &= 12 \\\\
+2n          &= 12 \\\\
+n           &= \dfrac {12} {2} \\\\
+n           &= \dfrac {2 \times 6} {2} \\\\
+n           &= \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
+n           &= 6
 \end{aligned}
 $
 
@@ -1431,15 +1441,19 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
-6n       &=  (n + 3) \times 4 \\\\ 
-6n       &=  4n + 12 \\\\
-6n - 4n  &=  12 \\\\
-2n       &=  12 \\\\
-n        &=  \dfrac {6 \times 2} {2} \\\\
-n        &=  \dfrac {6 \times \cancel{2} } {\cancel{2} } \\\\
-n        &=  6
+n \times 6  &= (n + 3) \times 4 \\\\
+6n          &= (n + 3) \times 4 \\\\
+6n          &= 4n + 12 \\\\
+6n - 4n     &= 12 \\\\
+2n          &= 12 \\\\
+n           &= \dfrac {12} {2} \\\\
+n           &= \dfrac {2 \times 6} {2} \\\\
+n           &= \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
+n           &= 6
 \end{aligned}
 $
 </code></pre>

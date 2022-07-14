@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1037,38 +1037,21 @@ $
 <div class='workings'>
 <div class='working'>
 
-All factors of $150 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15, \ 25, \ 30, \ 50, \ 75, \ \text {and} \ 150.$
-
-$
-\begin{matrix}
-100                                   & \quad \boxed{\green
- {30}} & \quad 7  & \quad 11 \\\\
-\boxed{\green
- {10}}  & \quad \boxed{\green
- {3}}  & \quad 8  & \quad 45
-\end{matrix}
-$
+$3, 10, 30$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$30, 10, 3$
+$3, 10, 30$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>All factors of $150 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15, \ 25, \ 30, \ 50, \ 75, \ \text {and} \ 150.$
-
-$
-\begin{matrix}
-100                                   & \quad \boxed{\rtq_katex_color_answer {30}} & \quad 7  & \quad 11 \\\\
-\boxed{\rtq_katex_color_answer {10}}  & \quad \boxed{\rtq_katex_color_answer {3}}  & \quad 8  & \quad 45
-\end{matrix}
-$
+<pre class='language-latex'><code class='language-latex'>$3, 10, 30$
 </code></pre>
 </div>
 </div>
@@ -1080,11 +1063,24 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$30, 10, 3$
+<pre class='language-latex'><code class='language-latex'>$3, 10, 30$
 </code></pre>
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+do it like D86B78CF-3CB7-4D94-91D5-0A682E2CE7C1, no verify needed for such simple question.
+
+
+
+write them in ascending order.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1889,17 +1885,13 @@ numbers and whose value is between $\dfrac{7}{13}$ and $\dfrac{8}{13}$.
 <div class='workings'>
 <div class='working'>
 
-For finding a number between two numbers,
-
-Add both the numbers and divide by $2$.
-
 $
-\begin{aligned}
-&= \bigg(\dfrac {7} {13} + \dfrac {8} {13} \bigg) \div 2 \\\\
-&= \dfrac {7 + 8} {13} \times \dfrac {1} {2} \\\\
-&= \dfrac {15} {13} \times \dfrac {1} {2} \\\\
-&= \dfrac {15} {26}
-\end{aligned}
+\begin {aligned}
+&= \dfrac {1} {2} \times (\dfrac {7} {13}+ \dfrac {8} {13}) \\\\
+&= \dfrac {1} {2} \times (\dfrac {7 + 8} {13}) \\\\
+&= \dfrac {1} {2} \times (\dfrac {15} {13}) \\\\
+&= \dfrac {15} {26} 
+\end {aligned}
 $
 
 </div>
@@ -1914,17 +1906,13 @@ $\dfrac {15} {26}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>For finding a number between two numbers,
-
-Add both the numbers and divide by $2$.
-
-$
-\begin{aligned}
-&= \bigg(\dfrac {7} {13} + \dfrac {8} {13} \bigg) \div 2 \\\\
-&= \dfrac {7 + 8} {13} \times \dfrac {1} {2} \\\\
-&= \dfrac {15} {13} \times \dfrac {1} {2} \\\\
-&= \dfrac {15} {26}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= \dfrac {1} {2} \times (\dfrac {7} {13}+ \dfrac {8} {13}) \\\\
+&= \dfrac {1} {2} \times (\dfrac {7 + 8} {13}) \\\\
+&= \dfrac {1} {2} \times (\dfrac {15} {13}) \\\\
+&= \dfrac {15} {26} 
+\end {aligned}
 $
 </code></pre>
 </div>
@@ -1942,6 +1930,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write it as 20E85746-0B74-4085-B598-68F104A85A9D, without any text or description
+</div>
 
 <div class='review'>
 <ul class='review'>

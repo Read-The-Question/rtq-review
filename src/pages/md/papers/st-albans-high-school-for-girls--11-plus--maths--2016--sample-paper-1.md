@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2117,7 +2117,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>34B6ABD4-2634-46DE-BC0B-524DA2C850E0</p>
 </div>
@@ -2131,7 +2131,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2150,9 +2150,16 @@ At $5.00 \ \text{am}$ the temperature is $-3 \degree \text{C}$. At $10.30 \ \tex
 
 $
 \begin{aligned}
-\text {Temperature at 10.30 am}  &= \text {Temperature at 5.00 am} + 5.5 \times 2 \\\\
-                                    &= -3 + 11 \\\\
-                                    &= 8 \degree \text {C}
+\text{Temperature risen}                    &= (10{:}30 - 5{:}00) \times 2 \\\\
+                                            &= 5 \ \text{hours} \ 30 \ \text{minutes} \times 2 \\\\
+                                            &= 5 \dfrac{1} {2} \ \text{hours} \times 2 \\\\ 
+                                            &= \dfrac{11} {2} \times 2 \\\\
+                                            &= \dfrac{11 \times 2} {2} \\\\
+                                            &= \dfrac{11 \times \cancel 2} { \cancel 2} \\\\
+                                            &= 11 \degree \text{C} \\\\
+\text{Temperature at} \ 10{:}30 \ \text{am} &= \text{Temperature at} \ 05{:}00 \ \text{am} + \text{Temperature risen} \\\\
+                                            &= -3 + 11 \\\\
+                                            &= 8 \degree \text{C}
 \end{aligned}
 $
 
@@ -2170,9 +2177,16 @@ $8 \degree \text {C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Temperature at 10.30 am}  &= \text {Temperature at 5.00 am} + 5.5 \times 2 \\\\
-                                    &= -3 + 11 \\\\
-                                    &= 8 \degree \text {C}
+\text{Temperature risen}                    &= (10{:}30 - 5{:}00) \times 2 \\\\
+                                            &= 5 \ \text{hours} \ 30 \ \text{minutes} \times 2 \\\\
+                                            &= 5 \dfrac{1} {2} \ \text{hours} \times 2 \\\\ 
+                                            &= \dfrac{11} {2} \times 2 \\\\
+                                            &= \dfrac{11 \times 2} {2} \\\\
+                                            &= \dfrac{11 \times \cancel 2} { \cancel 2} \\\\
+                                            &= 11 \degree \text{C} \\\\
+\text{Temperature at} \ 10{:}30 \ \text{am} &= \text{Temperature at} \ 05{:}00 \ \text{am} + \text{Temperature risen} \\\\
+                                            &= -3 + 11 \\\\
+                                            &= 8 \degree \text{C}
 \end{aligned}
 $
 </code></pre>

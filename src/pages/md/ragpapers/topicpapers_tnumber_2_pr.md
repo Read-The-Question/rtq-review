@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-pr"
 title: "TopicPaper - Number - 2 - PR"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>2AF3E060-70CE-432C-B107-85983B43DE14</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-13 17:13:09
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -293,51 +293,11 @@ $
 
 
 
-In the main question, you can see TODOWORKING and TODOAnswers, remove extra working extra answer
-
-replace TODOWORKING with %empty%, DO NOT REMOVE IT COMPLETELY, you need to keep one working and one answer even if its empty
 
 
+a b and c: you need to do using detailed addition, subtraction and multiplication, refer those papers for how to write, detailed addition i meant using array expansion
 
 
-
-Answers are not written the right way, refer answer in the same file 4624AA36-41A6-4B3C-B4F2-11671F5E0925
-
-
-
-am giving a pseudo code for first answer, you need to fix all the same way. we do not write lhs = rhs for numbers, we instead use equations starting with =, repeat the question and then solve
-
-
-
-for eg, write this in begin alinged
-
-
-
-&= 454 + 297 \\
-
-&= 751
-
-
-
-Do the same for all
-
-
-
-
-
-
-
-
-
-ignore my previous comments
-
-
-
-you need to do part a b and c using detailed addition, subtraction and multiplication, refer those papers for how to write
-
-
-
-for part you need to show factors and cancel, please refer previus questions in the same paper for how to write factors and cancel, refer coding guidelines too.
 </div>
 
 <div class='review'>
@@ -380,7 +340,7 @@ for part you need to show factors and cancel, please refer previus questions in 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>7C5F9971-BF26-405F-9730-7D7B8A1C26BF</p>
 </div>
@@ -394,7 +354,7 @@ for part you need to show factors and cancel, please refer previus questions in 
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -689,6 +649,10 @@ d: write factors and cancel, do not just write the final answer, do not use lhs 
 
 
 remove extra WORKINGS AND ANSWERS
+
+
+
+c : comments not done, do detailed way as part a and b.
 </div>
 
 <div class='review'>
@@ -731,509 +695,7 @@ remove extra WORKINGS AND ANSWERS
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
-<div class='uuid'>
-<p>4D98BB16-356B-4F86-BB81-8AC056B29F2C</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:24</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Calculate $(9999 - 999 + 99 - 9) \div 9$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-ABBR: Using BIDMAS
-,
-
-$
-\begin{aligned}
-&= (9999 - 999 + 99 - 9) \div 9 \\\\
-&= 9090 \div 9 \\\\
-&= \dfrac {9090}{9} \\\\
-&= \dfrac {1010 \times 9}{9} \\\\
-&= \dfrac {1010 \times \cancel{9}}{{9}} \\\\
-&= 1010
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1010$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-rtq_abbr_md_bidmas,
-
-$
-\begin{aligned}
-&= (9999 - 999 + 99 - 9) \div 9 \\\\
-&= 9090 \div 9 \\\\
-&= \dfrac {9090}{9} \\\\
-&= \dfrac {1010 \times 9}{9} \\\\
-&= \dfrac {1010 \times \cancel{9}}{{9}} \\\\
-&= 1010
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1010$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What is the value of $20 \%$ of $(60)^{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-
-$
-\begin{aligned}
-20 \% \text { of } (60)^{2} 
-&= \dfrac{20}{100} \times (60 \times 60) \\\\
-&= \dfrac{20 \times 60 \times 60}{100}  \\\\
-&= \dfrac{20 \times 6\cancel{0} \times 6\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
-&= 20 \times 6 \times 6 \\\\
-&= 720
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$720$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-
-$
-\begin{aligned}
-20 \% \text { of } (60)^{2} 
-&= \dfrac{20}{100} \times (60 \times 60) \\\\
-&= \dfrac{20 \times 60 \times 60}{100}  \\\\
-&= \dfrac{20 \times 6\cancel{0} \times 6\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
-&= 20 \times 6 \times 6 \\\\
-&= 720
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$720$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-remove extra WORKINGS AND ANSWERS
-
-
-
-a: show factors and cancellation steps for 9090 / 9
-
-
-
-
-
-
-
-b: write the original question as the first line
-
-
-
-its not following single num / single deno rule, please refer coding guideliles, look at other answers in tnumber in g2 to see how to factor and cancel the right way. do not calculate intermediate values for 60 * 60 = 3600, do not do that, factor and cancel
-
-
-
-b: write the original question as the first line
-
-
-
-its not following single num / single deno rule, please refer coding guideliles, look at other answers in tnumber in g2 to see how to factor and cancel the right way. do not calculate intermediate values for 60 * 60 = 3600, do not do that, factor and cancel
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='4D98BB16-356B-4F86-BB81-8AC056B29F2C' id='FORM-4D98BB16-356B-4F86-BB81-8AC056B29F2C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4D98BB16-356B-4F86-BB81-8AC056B29F2C'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcc question'>
-<div class='uuid'>
-<p>FAA5ECCF-19F3-40F3-B1A7-DB725365723D</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:26</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here are four cards.
-
-$
-\huge {
-\boxed {5} \quad
-\boxed {6} \quad
-\boxed {1} \quad
-\boxed {3}
-}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Choose two cards to make a two-digit multiple of $6$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$36$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$36$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$36$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Choose two cards to make a two-digits factor of $60$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$15$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$15$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$15$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: do not write like this
-
-
-
-$
-
-\begin{aligned}
-
-36
-
-\end{aligned}
-
-$
-
-
-
-just write $36$ when only a number is required, begin aligned is for equations.
-
-
-
-remove extra TODOWORKING AND ANSWERS
-
-
-
-b: write working without begin aligned, same as answer
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FAA5ECCF-19F3-40F3-B1A7-DB725365723D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='FAA5ECCF-19F3-40F3-B1A7-DB725365723D' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FAA5ECCF-19F3-40F3-B1A7-DB725365723D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='FAA5ECCF-19F3-40F3-B1A7-DB725365723D' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FAA5ECCF-19F3-40F3-B1A7-DB725365723D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FAA5ECCF-19F3-40F3-B1A7-DB725365723D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FAA5ECCF-19F3-40F3-B1A7-DB725365723D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FAA5ECCF-19F3-40F3-B1A7-DB725365723D' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='FAA5ECCF-19F3-40F3-B1A7-DB725365723D' id='FORM-FAA5ECCF-19F3-40F3-B1A7-DB725365723D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-FAA5ECCF-19F3-40F3-B1A7-DB725365723D'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>FCE7C38F-A082-42E3-8CCA-672D8C2FC7E1</p>
 </div>
@@ -1247,7 +709,7 @@ b: write working without begin aligned, same as answer
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1309,14 +771,14 @@ $52 + 41 = 543$
 <div class='workings'>
 <div class='working'>
 
-$502 + 41 = 543$
+$5\green
+{0}2 + 41 = 543$
 
-Lets verify.
+Let's verify.
 
 $
 \begin{aligned}
-&= 5\green
-{0}2 + 41 \\\\
+&= 502 + 41 \\\\
 &= 543
 \end{aligned}
 $
@@ -1326,20 +788,20 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$502$
+$502 + 41 = 543$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$502 + 41 = 543$
+<pre class='language-latex'><code class='language-latex'>$5\rtq_katex_color_answer{0}2 + 41 = 543$
 
-Lets verify.
+Let's verify.
 
 $
 \begin{aligned}
-&= 5\rtq_katex_color_answer{0}2 + 41 \\\\
+&= 502 + 41 \\\\
 &= 543
 \end{aligned}
 $
@@ -1354,7 +816,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$502$
+<pre class='language-latex'><code class='language-latex'>$502 + 41 = 543$
 </code></pre>
 </div>
 </div>
@@ -1371,15 +833,15 @@ $163 + 71 = 1764$
 <div class='workings'>
 <div class='working'>
 
-$1063 + 701 = 1764$
+$1\green
+{0}63 + 7\green
+{0}1 = 1764$
 
 Lets verify.
 
 $
 \begin{aligned}
-&= 1\green
-{0}63 + 7\green
-{0}1 \\\\
+&= 1063 + 701 \\\\
 &= 1764
 \end{aligned}
 $
@@ -1389,20 +851,20 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1063, 701$
+$1063 + 701 = 1764$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$1063 + 701 = 1764$
+<pre class='language-latex'><code class='language-latex'>$1\rtq_katex_color_answer{0}63 + 7\rtq_katex_color_answer{0}1 = 1764$
 
 Lets verify.
 
 $
 \begin{aligned}
-&= 1\rtq_katex_color_answer{0}63 + 7\rtq_katex_color_answer{0}1 \\\\
+&= 1063 + 701 \\\\
 &= 1764
 \end{aligned}
 $
@@ -1417,7 +879,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1063, 701$
+<pre class='language-latex'><code class='language-latex'>$1063 + 701 = 1764$
 </code></pre>
 </div>
 </div>
@@ -1624,23 +1086,11 @@ $
 
 
 
-Write all these using Lets verify way, 
+I have fixed a and b as samples, please see where i have put colours and I have changed answer too.
 
 
 
-first write the final answer as you have done and then show detailed working, search for Lets verify and look for samples.
-
-
-
-d: is wrong 1000 - 499 = 501, please change
-
-
-
-
-
-
-
-c: is wrong  1206 + 234 = 1440, please change
+Please change rest of the subquestions on the same lines.
 </div>
 
 <div class='review'>
@@ -1683,7 +1133,7 @@ c: is wrong  1206 + 234 = 1440, please change
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>E9B137D1-8B98-49BF-9720-0A4D264C75B2</p>
 </div>
@@ -1697,7 +1147,7 @@ c: is wrong  1206 + 234 = 1440, please change
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1715,36 +1165,21 @@ Fill in the missing numbers in the boxes.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1756,17 +1191,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1781,11 +1206,9 @@ $123 - \boxed{\phantom{5555}} = 78$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-123 - 45 &= 78
-\end{aligned}
-$
+$123 - \underline{\green
+{45}} = 78$
+
 
 </div>
 </div>
@@ -1799,11 +1222,8 @@ $45$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-123 - 45 &= 78
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$123 - \underline{\rtq_katex_color_answer{45}} = 78$
+
 </code></pre>
 </div>
 </div>
@@ -1834,7 +1254,12 @@ $( 24 \div 3 ) + ( 12 \div 12 ) = \boxed{\phantom{5555}}$
 
 $
 \begin{aligned}
-( 24 \div 3 ) + ( 12 \div 12 ) &= 9
+&= ( 24 \div 3 ) + ( 12 \div 12 ) \\\\
+&= \dfrac{24}{3} + \dfrac{12}{12} \\\\
+&= \dfrac{8 \times 3}{3} + \dfrac{12}{12} \\\\
+&= \dfrac{8 \times \cancel{3}}{\cancel{3}} + \dfrac{\cancel{12}}{\cancel{12}} \\\\
+&= 8 + 1 \\\\
+&= 9
 \end{aligned}
 $
 
@@ -1852,7 +1277,12 @@ $9$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-( 24 \div 3 ) + ( 12 \div 12 ) &= 9
+&= ( 24 \div 3 ) + ( 12 \div 12 ) \\\\
+&= \dfrac{24}{3} + \dfrac{12}{12} \\\\
+&= \dfrac{8 \times 3}{3} + \dfrac{12}{12} \\\\
+&= \dfrac{8 \times \cancel{3}}{\cancel{3}} + \dfrac{\cancel{12}}{\cancel{12}} \\\\
+&= 8 + 1 \\\\
+&= 9
 \end{aligned}
 $
 </code></pre>
@@ -1885,7 +1315,10 @@ $18 - \boxed{\phantom{5555}} + 22 = 37$
 
 $
 \begin{aligned}
-18 - 3 + 22 &= 37
+18 - a + 22 &= 37 \\\\
+40 - a      &= 37 \\\\
+a           &= 40 - 37 \\\\
+a           &= 3
 \end{aligned}
 $
 
@@ -1903,7 +1336,10 @@ $3$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-18 - 3 + 22 &= 37
+18 - a + 22 &= 37 \\\\
+40 - a      &= 37 \\\\
+a           &= 40 - 37 \\\\
+a           &= 3
 \end{aligned}
 $
 </code></pre>
@@ -1934,11 +1370,8 @@ $\boxed{\phantom{5555}} \times 3 \times 2 \times 1 = 48$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-8 \times 3 \times 2 \times 1 &= 48
-\end{aligned}
-$
+$\underline{\green
+{8}} \times 3 \times 2 \times 1 = 48 $
 
 </div>
 </div>
@@ -1952,11 +1385,7 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-8 \times 3 \times 2 \times 1 &= 48
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{8}} \times 3 \times 2 \times 1 = 48 $
 </code></pre>
 </div>
 </div>
@@ -1987,7 +1416,13 @@ $125 \times 4 = 1000 \div \boxed{\phantom{5555}}$
 
 $
 \begin{aligned}
-125 \times 4 &= 1000 \div 2
+125 \times 4 &= 1000 \div a \\\\
+125 \times 4 &= \dfrac{1000}{a} \\\\
+500          &= \dfrac{1000}{a} \\\\
+a            &= \dfrac{1000}{500}  \\\\
+a            &= \dfrac{100 \times 10}{500}  \\\\
+a            &= \dfrac{\cancel{500} \times 2}{\cancel{500}}  \\\\
+a            &= 2
 \end{aligned}
 $
 
@@ -2005,7 +1440,13 @@ $2$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-125 \times 4 &= 1000 \div 2
+125 \times 4 &= 1000 \div a \\\\
+125 \times 4 &= \dfrac{1000}{a} \\\\
+500          &= \dfrac{1000}{a} \\\\
+a            &= \dfrac{1000}{500}  \\\\
+a            &= \dfrac{100 \times 10}{500}  \\\\
+a            &= \dfrac{\cancel{500} \times 2}{\cancel{500}}  \\\\
+a            &= 2
 \end{aligned}
 $
 </code></pre>
@@ -2038,7 +1479,8 @@ $1.1 + 2.2 + 3.3 + 4.4 = \boxed{\phantom{5555}}$
 
 $
 \begin{aligned}
-1.1 + 2.2 + 3.3 + 4.4 &= 11
+&= 1.1 + 2.2 + 3.3 + 4.4 \\\\
+&= 11
 \end{aligned}
 $
 
@@ -2056,7 +1498,8 @@ $11$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1.1 + 2.2 + 3.3 + 4.4 &= 11
+&= 1.1 + 2.2 + 3.3 + 4.4 \\\\
+&= 11
 \end{aligned}
 $
 </code></pre>
@@ -2166,7 +1609,7 @@ f: show working, do not write in single line liek lhs = rhs
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>E7F0E6FE-6F7C-4468-8102-A18F8C731FE4</p>
 </div>
@@ -2180,7 +1623,7 @@ f: show working, do not write in single line liek lhs = rhs
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2464,144 +1907,6 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
-<div class='uuid'>
-<p>554EE914-E3B3-4005-88CF-95A6A1AB7B12</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:18</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Billy is $2 \ \text{metres}$ and $2 \ \text{centimetres}$ tall. Write his height as a decimal, in metres.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2 \ \text{ metres } 2 \ \text{ centimetres } \\\\
-&= 2 + \dfrac{2}{100} \ \text{metres} \\\\
-&= 2 + 0.02 \ \text{metres} \\\\
-&= 2.02 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.02 \ \text{metres}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 2 \ \text{ metres } 2 \ \text{ centimetres } \\\\
-&= 2 + \dfrac{2}{100} \ \text{metres} \\\\
-&= 2 + 0.02 \ \text{metres} \\\\
-&= 2.02 \ \text{metres}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2.02 \ \text{metres}$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-none of these answers are following the patterns on how to write, you need to look for existing answers and base on them, read coding guideliens, there are rules on when to write units, search for existing answers or ask in the chat for sample answer
-
-
-
-Refer D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2
-
-
-
-none of these answers are following the patterns on how to write, you need to look for existing answers and base on them, read coding guideliens, there are rules on when to write units, search for existing answers or ask in the chat for sample answer
-
-
-
-Refer D1CFE8AA-B475-4F1E-BC19-E60AF2E9D1C2 and change the answer accordingly.
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='554EE914-E3B3-4005-88CF-95A6A1AB7B12' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='554EE914-E3B3-4005-88CF-95A6A1AB7B12' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='554EE914-E3B3-4005-88CF-95A6A1AB7B12' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='554EE914-E3B3-4005-88CF-95A6A1AB7B12' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='554EE914-E3B3-4005-88CF-95A6A1AB7B12' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='554EE914-E3B3-4005-88CF-95A6A1AB7B12' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='554EE914-E3B3-4005-88CF-95A6A1AB7B12' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='554EE914-E3B3-4005-88CF-95A6A1AB7B12' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='554EE914-E3B3-4005-88CF-95A6A1AB7B12' id='FORM-554EE914-E3B3-4005-88CF-95A6A1AB7B12' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-554EE914-E3B3-4005-88CF-95A6A1AB7B12'>Initial</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>9DDC6BED-46F5-4D58-8398-4817F0CC7992</p>
@@ -2633,36 +1938,21 @@ Fill in the missing numbers in the boxes.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2674,17 +1964,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2699,9 +1979,14 @@ $2018 - \boxed{\phantom{5555}} = 1989$
 <div class='workings'>
 <div class='working'>
 
+$2018 - 29 = 1989$
+
+Lets verify.
+
 $
 \begin{aligned}
-2018 - 29 &= 1989
+&= 2018 - 29  \\\\
+&= 1989
 \end{aligned}
 $
 
@@ -2717,9 +2002,14 @@ $29$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$2018 - 29 = 1989$
+
+Lets verify.
+
+$
 \begin{aligned}
-2018 - 29 &= 1989
+&= 2018 - 29  \\\\
+&= 1989
 \end{aligned}
 $
 </code></pre>
@@ -2750,9 +2040,17 @@ $0.5 \div \dfrac{1}{2} = \boxed{\phantom{5555}}$
 <div class='workings'>
 <div class='working'>
 
+$0.5 \div \dfrac{1}{2} = 1$
+
+Lets verify.
+
 $
 \begin{aligned}
-0.5 \div \dfrac{1}{2} &= 1
+&= 0.5 \div \dfrac{1}{2} \\\\
+&= \dfrac{1}{2} \div \dfrac{1}{2} \\\\
+&= \dfrac{1 \times 2}{2 \times 1} \\\\
+&= \dfrac{\cancel{1} \times \cancel{2}}{\cancel{2} \times \cancel{1}} \\\\
+&= 1
 \end{aligned}
 $
 
@@ -2768,9 +2066,17 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$0.5 \div \dfrac{1}{2} = 1$
+
+Lets verify.
+
+$
 \begin{aligned}
-0.5 \div \dfrac{1}{2} &= 1
+&= 0.5 \div \dfrac{1}{2} \\\\
+&= \dfrac{1}{2} \div \dfrac{1}{2} \\\\
+&= \dfrac{1 \times 2}{2 \times 1} \\\\
+&= \dfrac{\cancel{1} \times \cancel{2}}{\cancel{2} \times \cancel{1}} \\\\
+&= 1
 \end{aligned}
 $
 </code></pre>
@@ -2801,9 +2107,14 @@ $18 + \boxed{\phantom{5555}} + 23 = 67$
 <div class='workings'>
 <div class='working'>
 
+$18 + 26 + 23 = 67$
+
+Lets verify.
+
 $
 \begin{aligned}
-18 + 26 + 23 &= 67
+&= 18 + 26 + 23 \\\\
+&= 67
 \end{aligned}
 $
 
@@ -2819,9 +2130,14 @@ $26$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$18 + 26 + 23 = 67$
+
+Lets verify.
+
+$
 \begin{aligned}
-18 + 26 + 23 &= 67
+&= 18 + 26 + 23 \\\\
+&= 67
 \end{aligned}
 $
 </code></pre>
@@ -2852,9 +2168,14 @@ $\boxed{\phantom{5555}} \times 5 \times 10 = 4500$
 <div class='workings'>
 <div class='working'>
 
+$90 \times 5 \times 10 = 4500$
+
+Lets verify.
+
 $
 \begin{aligned}
-90 \times 5 \times 10 &= 4500
+&= 90 \times 5 \times 10 \\\\
+&= 4500
 \end{aligned}
 $
 
@@ -2870,9 +2191,14 @@ $90$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$90 \times 5 \times 10 = 4500$
+
+Lets verify.
+
+$
 \begin{aligned}
-90 \times 5 \times 10 &= 4500
+&= 90 \times 5 \times 10 \\\\
+&= 4500
 \end{aligned}
 $
 </code></pre>
@@ -2903,9 +2229,17 @@ $\dfrac{3}{4}$ of $36 = \boxed{\phantom{5555}}$
 <div class='workings'>
 <div class='working'>
 
+$\dfrac{3}{4} of 36 = 27$
+
+Lets verify.
+
 $
 \begin{aligned}
-\dfrac{3}{4} \times 36 &= 27
+&= \dfrac{3}{4} \text { of } 36 = 27 \\\\
+&= \dfrac{3}{4} \times 36 \\\\
+&= \dfrac{3 \times 9 \times 4}{4} \\\\
+&= \dfrac{3 \times 9 \times \cancel{4}}{\cancel{4}} \\\\
+&= 27
 \end{aligned}
 $
 
@@ -2921,9 +2255,17 @@ $27$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4} of 36 = 27$
+
+Lets verify.
+
+$
 \begin{aligned}
-\dfrac{3}{4} \times 36 &= 27
+&= \dfrac{3}{4} \text { of } 36 = 27 \\\\
+&= \dfrac{3}{4} \times 36 \\\\
+&= \dfrac{3 \times 9 \times 4}{4} \\\\
+&= \dfrac{3 \times 9 \times \cancel{4}}{\cancel{4}} \\\\
+&= 27
 \end{aligned}
 $
 </code></pre>
@@ -2954,11 +2296,7 @@ Write in figures the number two million, two hundred and two $= \boxed{\phantom{
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-2000202
-\end{aligned}
-$
+$2000202$
 
 </div>
 </div>
@@ -2972,11 +2310,7 @@ $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-2000202
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$2000202$
 </code></pre>
 </div>
 </div>
@@ -3003,7 +2337,19 @@ $
 
 
 
-Same comments as E9B137D1-8B98-49BF-9720-0A4D264C75B2, please refer to uuid given in that and change the answers accordingly.
+This is not done right again!!
+
+
+
+Please refer 9D649605-D139-478F-BB54-746029DB4066 and 4624AA36-41A6-4B3C-B4F2-11671F5E0925 and 1E1E3C24-E217-4436-B14E-CD45334DCEFD on how to write.
+
+
+
+If the question is easy, just write answer and use lets verify. Else use algebra way to solve the equations. 
+
+
+
+Please refer all 3 before you do this question.
 </div>
 
 <div class='review'>
@@ -3048,10 +2394,10 @@ Same comments as E9B137D1-8B98-49BF-9720-0A4D264C75B2, please refer to uuid give
 <li>
 <div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
-<p>6111C775-4A87-420C-8E16-F677E36D388B</p>
+<p>6245D1C8-DAAF-4FB0-B3DD-FFA1E759A12F</p>
 </div>
 <div class='papername'>
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:3</p>
+<p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:1</p>
 </div>
 <div class='rag'>
 <p>Anushka Srivastava</p>
@@ -3071,806 +2417,27 @@ tnumber
 </div>
 <div class='question question'>
 
-Divide $(2018 - 20 + 18)$ by $8$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-ABBR: Using BIDMAS
-,
-
-$
-\begin{aligned}
-&= (2018 - 20 + 18) \div 8 \\\\
-&= 2016 \div 8 \\\\
-&= \dfrac{2016}{8} \\\\
-&= \dfrac{252 \times 8}{8} \\\\
-&= \dfrac{252 \times \cancel{8}}{\cancel{8}} \\\\
-&= 252
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$252$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-rtq_abbr_md_bidmas,
-
-$
-\begin{aligned}
-&= (2018 - 20 + 18) \div 8 \\\\
-&= 2016 \div 8 \\\\
-&= \dfrac{2016}{8} \\\\
-&= \dfrac{252 \times 8}{8} \\\\
-&= \dfrac{252 \times \cancel{8}}{\cancel{8}} \\\\
-&= 252
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$252$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-show factor and cancellation after S2
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6111C775-4A87-420C-8E16-F677E36D388B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='6111C775-4A87-420C-8E16-F677E36D388B' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6111C775-4A87-420C-8E16-F677E36D388B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6111C775-4A87-420C-8E16-F677E36D388B' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6111C775-4A87-420C-8E16-F677E36D388B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6111C775-4A87-420C-8E16-F677E36D388B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6111C775-4A87-420C-8E16-F677E36D388B' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6111C775-4A87-420C-8E16-F677E36D388B' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='6111C775-4A87-420C-8E16-F677E36D388B' id='FORM-6111C775-4A87-420C-8E16-F677E36D388B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-6111C775-4A87-420C-8E16-F677E36D388B'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>5C40F174-3264-4060-8E9E-DE9D82B301EC</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:29</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Given thaat $44 \times 382 = 16808$, use this information to work these out:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$16808 \div 382$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 16808 \div 382 \\\\
-&= \dfrac {44 \times 382} {382} \\\\
-&= \dfrac {44 \times \cancel{382}} {\cancel{382}} \\\\
-&= 44
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$44$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 16808 \div 382 \\\\
-&= \dfrac {44 \times 382} {382} \\\\
-&= \dfrac {44 \times \cancel{382}} {\cancel{382}} \\\\
-&= 44
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$44$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$88 \times 191$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 88 \times 191 \\\\
-&= 44 \times 2 \times 191 \\\\
-&= 44 \times 382 \\\\
-&= 16808
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16808$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 88 \times 191 \\\\
-&= 44 \times 2 \times 191 \\\\
-&= 44 \times 382 \\\\
-&= 16808
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16808$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$1680.8 \div 44$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 1680.8 \div 44 \\\\
-&= \dfrac {16808} {10} \div \dfrac {16808} {382} \\\\
-&= \dfrac {16808 \times 382} {10 \times 16808} \\\\
-&= \dfrac {\cancel{16808} \times 382} {10 \times \cancel{16808}} \\\\
-&= 38.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$38.2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 1680.8 \div 44 \\\\
-&= \dfrac {16808} {10} \div \dfrac {16808} {382} \\\\
-&= \dfrac {16808 \times 382} {10 \times 16808} \\\\
-&= \dfrac {\cancel{16808} \times 382} {10 \times \cancel{16808}} \\\\
-&= 38.2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$38.2$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-remove extra working and answers
-
-
-
-a: insert s2 = 16808 / 382, its missing
-
-
-
-c: change
-
-
-
-= 1680.8 / 44
-
-= write as fraction dfrac {1680.8} {44}
-
-= 16808 / 44 * 10
-
-= 382 * 44 / 44 * 10
-
-= cancel here
-
-= 382 /10
-
-= 38.2
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5C40F174-3264-4060-8E9E-DE9D82B301EC' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='5C40F174-3264-4060-8E9E-DE9D82B301EC' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5C40F174-3264-4060-8E9E-DE9D82B301EC' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5C40F174-3264-4060-8E9E-DE9D82B301EC' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5C40F174-3264-4060-8E9E-DE9D82B301EC' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5C40F174-3264-4060-8E9E-DE9D82B301EC' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='5C40F174-3264-4060-8E9E-DE9D82B301EC' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='5C40F174-3264-4060-8E9E-DE9D82B301EC' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='5C40F174-3264-4060-8E9E-DE9D82B301EC' id='FORM-5C40F174-3264-4060-8E9E-DE9D82B301EC' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-5C40F174-3264-4060-8E9E-DE9D82B301EC'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>90E2A5C8-884E-40C1-9D68-7DCB7181345F</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:2</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which one of the following numbers is three **less** than a multiple of $5$ and three more than a multiple of $6$?
-
-- 12
-- 17
-- 21
-- 22
-- 27
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-27
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-27
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$27$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What is the smallest four-digit positive whole number which has four different digits?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-1023
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1023$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-1023
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1023$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many odd three-digits numbers is it possible to make, using just the numbers $7, 8$ and $9$?
-
-(You are allowed to use each of the numbers more than once in a particular three-digit number.)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Numbers } &= 79,87,89,97 \\\\
-\text {Count} &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Numbers } &= 79,87,89,97 \\\\
-\text {Count} &= 4
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='90E2A5C8-884E-40C1-9D68-7DCB7181345F' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='90E2A5C8-884E-40C1-9D68-7DCB7181345F' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='90E2A5C8-884E-40C1-9D68-7DCB7181345F' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='90E2A5C8-884E-40C1-9D68-7DCB7181345F' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='90E2A5C8-884E-40C1-9D68-7DCB7181345F' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='90E2A5C8-884E-40C1-9D68-7DCB7181345F' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='90E2A5C8-884E-40C1-9D68-7DCB7181345F' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='90E2A5C8-884E-40C1-9D68-7DCB7181345F' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='90E2A5C8-884E-40C1-9D68-7DCB7181345F' id='FORM-90E2A5C8-884E-40C1-9D68-7DCB7181345F' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-90E2A5C8-884E-40C1-9D68-7DCB7181345F'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
-<div class='uuid'>
-<p>6245D1C8-DAAF-4FB0-B3DD-FFA1E759A12F</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:1</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prpcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
 Calculate 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -3882,17 +2449,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -3909,7 +2466,8 @@ $123 + 456$
 
 $
 \begin{aligned}
-123 + 456 &= 579
+&= 123 + 456 \\\\
+&= 579
 \end{aligned}
 $
 
@@ -3927,7 +2485,8 @@ $579$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-123 + 456 &= 579
+&= 123 + 456 \\\\
+&= 579
 \end{aligned}
 $
 </code></pre>
@@ -3960,7 +2519,8 @@ $12 \times 34$
 
 $
 \begin{aligned}
-12 \times 34 &= 408
+&= 12 \times 34 \\\\
+&= 408
 \end{aligned}
 $
 
@@ -3978,7 +2538,8 @@ $408$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-12 \times 34 &= 408
+&= 12 \times 34 \\\\
+&= 408
 \end{aligned}
 $
 </code></pre>
@@ -4011,7 +2572,8 @@ $9876 - 5432$
 
 $
 \begin{aligned}
-9876 - 5432 &= 4444
+&= 9876 - 5432 \\\\
+&= 4444
 \end{aligned}
 $
 
@@ -4029,7 +2591,8 @@ $4444$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-9876 - 5432 &= 4444
+&= 9876 - 5432 \\\\
+&= 4444
 \end{aligned}
 $
 </code></pre>
@@ -4062,7 +2625,8 @@ $12345 - 6789$
 
 $
 \begin{aligned}
-12345 - 6789 &= 5556
+&= 12345 - 6789 \\\\
+&= 5556
 \end{aligned}
 $
 
@@ -4080,7 +2644,8 @@ $5556$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-12345 - 6789 &= 5556
+&= 12345 - 6789 \\\\
+&= 5556
 \end{aligned}
 $
 </code></pre>
@@ -4113,7 +2678,11 @@ $1001 \div 7$
 
 $
 \begin{aligned}
-1001 \div 7 &= 143
+&= 1001 \div 7 \\\\
+&= \dfrac{1001}{7} \\\\
+&= \dfrac{143 \times 7}{7} \\\\
+&= \dfrac{143 \times \cancel{7}}{\cancel{7}} \\\\
+&= 143
 \end{aligned}
 $
 
@@ -4131,7 +2700,11 @@ $143$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1001 \div 7 &= 143
+&= 1001 \div 7 \\\\
+&= \dfrac{1001}{7} \\\\
+&= \dfrac{143 \times 7}{7} \\\\
+&= \dfrac{143 \times \cancel{7}}{\cancel{7}} \\\\
+&= 143
 \end{aligned}
 $
 </code></pre>
@@ -4203,7 +2776,7 @@ all needs edit, am not writing comments, please fix, write workings, write detai
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>200B23EC-ECB9-4100-B030-A95F97617B4D</p>
 </div>
@@ -4217,7 +2790,7 @@ all needs edit, am not writing comments, please fix, write workings, write detai
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4234,36 +2807,21 @@ tnumber
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4275,17 +2833,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4302,7 +2850,8 @@ What is the remainder when $123456$ is divided by $5$?
 
 $
 \begin{aligned}
-6
+&= \dfrac{123456}{5} \\\\
+&= 6
 \end{aligned}
 $
 
@@ -4320,7 +2869,8 @@ $6$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-6
+&= \dfrac{123456}{5} \\\\
+&= 6
 \end{aligned}
 $
 </code></pre>
@@ -4357,8 +2907,8 @@ ABBR: Using BIDMAS
 
 $
 \begin{aligned}
-&= 7 \times 451 + 2 \times 451 + 451
-&= 3157 + 902 + 451
+&= 7 \times 451 + 2 \times 451 + 451 \\\\
+&= 3157 + 902 + 451 \\\\
 &= 4510
 \end{aligned}
 $
@@ -4380,8 +2930,8 @@ rtq_abbr_md_bidmas,
 
 $
 \begin{aligned}
-&= 7 \times 451 + 2 \times 451 + 451
-&= 3157 + 902 + 451
+&= 7 \times 451 + 2 \times 451 + 451 \\\\
+&= 3157 + 902 + 451 \\\\
 &= 4510
 \end{aligned}
 $
@@ -4426,7 +2976,8 @@ What is the largest total that can be made?
 
 $
 \begin{aligned}
-654 - 321 &= 333
+&= 654 - 321 \\\\
+&= 333
 \end{aligned}
 $
 
@@ -4444,7 +2995,8 @@ $333$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-654 - 321 &= 333
+&= 654 - 321 \\\\
+&= 333
 \end{aligned}
 $
 </code></pre>
@@ -4845,7 +3397,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D15EDC84-A18C-454D-86C9-56344453DCFC</p>
 </div>
@@ -4859,7 +3411,7 @@ $
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4886,9 +3438,17 @@ $
 <div class='workings'>
 <div class='working'>
 
+$8 \div (3 - \dfrac{8}{3}) = 24$
+
+Lets verify.
+
 $
 \begin{aligned}
-8 \div (3 - \dfrac{8}{3}) &= 24
+&= 8 \div (3 - \dfrac{8}{3}) \\\\
+&= 8 \div (\dfrac{9 - 8}{3}) \\\\
+&= 8 \div (\dfrac{1}{3}) \\\\
+&= 8 \times 3 \\\\
+&= 24
 \end{aligned}
 $
 
@@ -4904,9 +3464,17 @@ $8, \div $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$8 \div (3 - \dfrac{8}{3}) = 24$
+
+Lets verify.
+
+$
 \begin{aligned}
-8 \div (3 - \dfrac{8}{3}) &= 24
+&= 8 \div (3 - \dfrac{8}{3}) \\\\
+&= 8 \div (\dfrac{9 - 8}{3}) \\\\
+&= 8 \div (\dfrac{1}{3}) \\\\
+&= 8 \times 3 \\\\
+&= 24
 \end{aligned}
 $
 </code></pre>
@@ -4925,6 +3493,19 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+do this lets verify way,
+
+
+
+write the original answer in color and boxed similar to other such questions.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4966,358 +3547,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>17B6FA60-5A61-4A37-9F7F-C2A480CB87D5</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:11</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The digit sum of a number is the sum of the digits of that number. 
-For example the digit sum of $2862$ is $18$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-List all the $5$ digit numbers that have a digit sum of $44$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Numbers} = 89999, 98999, 99899, 99989, 99998 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$ 89999, 98999, 99899, 99989, 99998$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Numbers} = 89999, 98999, 99899, 99989, 99998 
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$ 89999, 98999, 99899, 99989, 99998$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many $3$ digit numbers have a digit sum of $25$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Numbers} = 889, 898, 988, 997, 979, 799 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$ 889, 898, 988, 997, 979, 799 $
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Numbers} = 889, 898, 988, 997, 979, 799 
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$ 889, 898, 988, 997, 979, 799 $
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many $4$ digit numbers have a digit sum of $2$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Numbers} = 1001, 1100, 1010
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1001, 1100, 1010$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Numbers} = 1001, 1100, 1010
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1001, 1100, 1010$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many $100$ digit numbers have a digit sum of $899$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' id='FORM-17B6FA60-5A61-4A37-9F7F-C2A480CB87D5' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-17B6FA60-5A61-4A37-9F7F-C2A480CB87D5'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>CE16A2EF-1E6A-4CEF-92D8-FD0D216F5B17</p>
 </div>
@@ -5331,7 +3561,7 @@ TODOANSWER
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5352,36 +3582,21 @@ Fill in the missing numbers in the boxes.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -5393,17 +3608,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -5418,9 +3623,14 @@ $2018 - \boxed{\phantom{5555}} = 1989$
 <div class='workings'>
 <div class='working'>
 
+$2018 - 29 = 1989$
+
+Lets verify.
+
 $
 \begin{aligned}
-2018 - 29 &= 1989
+&= 2018 - 29 \\\\
+&= 1989
 \end{aligned}
 $
 
@@ -5436,9 +3646,14 @@ $29$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$2018 - 29 = 1989$
+
+Lets verify.
+
+$
 \begin{aligned}
-2018 - 29 &= 1989
+&= 2018 - 29 \\\\
+&= 1989
 \end{aligned}
 $
 </code></pre>
@@ -5469,9 +3684,17 @@ $0.5 \div \dfrac{1}{2} = \boxed{\phantom{5555}}$
 <div class='workings'>
 <div class='working'>
 
+$0.5 \div \dfrac{1}{2} = 1$
+
+Lets verify.
+
 $
 \begin{aligned}
-0.5 \div \dfrac{1}{2} &= 1
+&= 0.5 \div \dfrac{1}{2} \\\\
+&= \dfrac{1}{2} \div \dfrac{1}{2} \\\\
+&= \dfrac{1 \times 2}{2 \times 1} \\\\
+&= \dfrac{\cancel{1} \times \cancel{2}}{\cancel{2} \times \cancel{1}} \\\\
+&= 1
 \end{aligned}
 $
 
@@ -5487,9 +3710,17 @@ $1$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$0.5 \div \dfrac{1}{2} = 1$
+
+Lets verify.
+
+$
 \begin{aligned}
-0.5 \div \dfrac{1}{2} &= 1
+&= 0.5 \div \dfrac{1}{2} \\\\
+&= \dfrac{1}{2} \div \dfrac{1}{2} \\\\
+&= \dfrac{1 \times 2}{2 \times 1} \\\\
+&= \dfrac{\cancel{1} \times \cancel{2}}{\cancel{2} \times \cancel{1}} \\\\
+&= 1
 \end{aligned}
 $
 </code></pre>
@@ -5520,9 +3751,14 @@ $18 + \boxed{\phantom{5555}} + 23 = 67$
 <div class='workings'>
 <div class='working'>
 
+$18 + 26 + 23 = 67$
+
+Lets verify.
+
 $
 \begin{aligned}
-18 + 26 + 23 &= 67
+&= 18 + 26 + 23 \\\\
+&= 67
 \end{aligned}
 $
 
@@ -5538,9 +3774,14 @@ $26$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$18 + 26 + 23 = 67$
+
+Lets verify.
+
+$
 \begin{aligned}
-18 + 26 + 23 &= 67
+&= 18 + 26 + 23 \\\\
+&= 67
 \end{aligned}
 $
 </code></pre>
@@ -5571,9 +3812,14 @@ $\boxed{\phantom{5555}} \times 5 \times 10 = 4500$
 <div class='workings'>
 <div class='working'>
 
+$90 \times 5 \times 10 = 4500$
+
+Lets verify.
+
 $
 \begin{aligned}
-90 \times 5 \times 10 &= 4500
+&= 90 \times 5 \times 10 \\\\
+&= 4500
 \end{aligned}
 $
 
@@ -5589,9 +3835,14 @@ $90$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$90 \times 5 \times 10 = 4500$
+
+Lets verify.
+
+$
 \begin{aligned}
-90 \times 5 \times 10 &= 4500
+&= 90 \times 5 \times 10 \\\\
+&= 4500
 \end{aligned}
 $
 </code></pre>
@@ -5622,9 +3873,17 @@ $\dfrac{3}{4}$ of $36 = \boxed{\phantom{5555}}$
 <div class='workings'>
 <div class='working'>
 
+$\dfrac{3}{4} of 36$
+
+Lets verify.
+
 $
 \begin{aligned}
-\dfrac{3}{4} \times 36 &= 27
+&= \dfrac{3}{4} \text { of } 36  \\\\
+&= \dfrac{3}{4} \times 36 \\\\
+&= \dfrac{3 \times 9 \times 4}{4} \\\\
+&= \dfrac{3 \times 9 \times \cancel{4}}{\cancel{4}} \\\\
+&= 27
 \end{aligned}
 $
 
@@ -5640,9 +3899,17 @@ $27$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4} of 36$
+
+Lets verify.
+
+$
 \begin{aligned}
-\dfrac{3}{4} \times 36 &= 27
+&= \dfrac{3}{4} \text { of } 36  \\\\
+&= \dfrac{3}{4} \times 36 \\\\
+&= \dfrac{3 \times 9 \times 4}{4} \\\\
+&= \dfrac{3 \times 9 \times \cancel{4}}{\cancel{4}} \\\\
+&= 27
 \end{aligned}
 $
 </code></pre>
@@ -5674,11 +3941,7 @@ hundred and two $= \boxed{\phantom{5555}}$
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-2000202
-\end{aligned}
-$
+$2000202$
 
 </div>
 </div>
@@ -5692,11 +3955,7 @@ $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-2000202
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$2000202$
 </code></pre>
 </div>
 </div>
@@ -5766,7 +4025,7 @@ same as previous comments, please write as per the standards.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>23C8FF54-38F2-45D9-ACE1-8488CCD06BE6</p>
 </div>
@@ -5780,7 +4039,7 @@ same as previous comments, please write as per the standards.
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5846,6 +4105,10 @@ $
 
 
 show detailed working for this one
+
+
+
+This is not detailed way, detailed way means using array similar to what you have done in 7C5F9971-BF26-405F-9730-7D7B8A1C26BF in this paper.
 </div>
 
 <div class='review'>
@@ -5888,144 +4151,7 @@ show detailed working for this one
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
-<div class='uuid'>
-<p>9B4A6446-7AA1-4A5B-BC56-9E802866F1BD</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:3</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Divide $(2018 - 20 + 18)$ by $8$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-ABBR: Using BIDMAS
-,
-
-$
-\begin{aligned}
-&= (2018 - 20 + 18) \div 8 \\\\
-&= 2016 \div 8 \\\\
-&= \dfrac{2016}{8} \\\\
-&= \dfrac{252 \times 8}{8} \\\\
-&= \dfrac{252 \times \cancel{8}}{\cancel{8}} \\\\
-&= 252 \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$252$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>
-rtq_abbr_md_bidmas,
-
-$
-\begin{aligned}
-&= (2018 - 20 + 18) \div 8 \\\\
-&= 2016 \div 8 \\\\
-&= \dfrac{2016}{8} \\\\
-&= \dfrac{252 \times 8}{8} \\\\
-&= \dfrac{252 \times \cancel{8}}{\cancel{8}} \\\\
-&= 252 \\\\
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$252$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-show factors and cancellation
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' id='FORM-9B4A6446-7AA1-4A5B-BC56-9E802866F1BD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9B4A6446-7AA1-4A5B-BC56-9E802866F1BD'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>29DB2F3C-CDD7-45A3-9ED6-B749FF718507</p>
 </div>
@@ -6039,7 +4165,7 @@ show factors and cancellation
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6105,6 +4231,14 @@ $
 
 
 show detailed working using array
+
+
+
+show detailed working for this one
+
+
+
+This is not detailed way, detailed way means using array similar to what you have done in 7C5F9971-BF26-405F-9730-7D7B8A1C26BF in this paper.
 </div>
 
 <div class='review'>
@@ -6147,129 +4281,7 @@ show detailed working using array
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
-<div class='uuid'>
-<p>88B97B20-79E2-483F-AA53-227F341470B5</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:5</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What number (written in digits) is twenty **less** than twenty thousand?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 20000 - 20 \\\\
-&= 19980
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19980$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 20000 - 20 \\\\
-&= 19980
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$19980$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-do not write lhs = rhs way, look at similar answers and write as per the standards
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='88B97B20-79E2-483F-AA53-227F341470B5' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='88B97B20-79E2-483F-AA53-227F341470B5' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='88B97B20-79E2-483F-AA53-227F341470B5' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='88B97B20-79E2-483F-AA53-227F341470B5' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='88B97B20-79E2-483F-AA53-227F341470B5' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='88B97B20-79E2-483F-AA53-227F341470B5' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='88B97B20-79E2-483F-AA53-227F341470B5' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='88B97B20-79E2-483F-AA53-227F341470B5' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='88B97B20-79E2-483F-AA53-227F341470B5' id='FORM-88B97B20-79E2-483F-AA53-227F341470B5' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-88B97B20-79E2-483F-AA53-227F341470B5'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>00E3E8CA-40E1-462C-8598-94C8C4EC30F8</p>
 </div>
@@ -6283,7 +4295,7 @@ do not write lhs = rhs way, look at similar answers and write as per the standar
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6300,36 +4312,21 @@ tnumber
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -6341,17 +4338,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -6371,36 +4358,21 @@ For the three fractions in the table above, write down
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -6412,17 +4384,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -6572,6 +4534,19 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+extra working and answer sections
+
+
+
+extra working and answer sections
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6613,589 +4588,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:29</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Given thaat $44 \times 382 = 16808$, use this information to work these out:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$16808 \div 382$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 16808 \div 382 \\\\
-&= \dfrac{44 \times 382}{382} \\\\
-&= \dfrac{44 \times \cancel{382}}{\cancel{382}} \\\\
-&= 44
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$44$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 16808 \div 382 \\\\
-&= \dfrac{44 \times 382}{382} \\\\
-&= \dfrac{44 \times \cancel{382}}{\cancel{382}} \\\\
-&= 44
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$44$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$88 \times 191$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 88 \times 191 \\\\
-&= \dfrac{44 \times 2 \times 191}{2 \times 191} \\\\
-&= \dfrac{44 \times \cancel2 \times \cancel{191}}{\cancel2 \times \cancel{191}} \\\\
-&= 44
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$44$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 88 \times 191 \\\\
-&= \dfrac{44 \times 2 \times 191}{2 \times 191} \\\\
-&= \dfrac{44 \times \cancel2 \times \cancel{191}}{\cancel2 \times \cancel{191}} \\\\
-&= 44
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$44$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$1680.8 \div 44$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 1680.8 \div 44 \\\\
-&= \dfrac{16808}{10} \div \dfrac{16808}{382}  \\\\
-&= \dfrac{16808}{10} \times \dfrac{382}{16808} \\\\
-&= \dfrac{16808 \times 382}{10 \times 16808} \\\\
-&= \dfrac{\cancel{16808} \times 382}{10 \times \cancel{16808}} \\\\
-&= \dfrac{382}{10} \\\\
-&= 38.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$38.2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 1680.8 \div 44 \\\\
-&= \dfrac{16808}{10} \div \dfrac{16808}{382}  \\\\
-&= \dfrac{16808}{10} \times \dfrac{382}{16808} \\\\
-&= \dfrac{16808 \times 382}{10 \times 16808} \\\\
-&= \dfrac{\cancel{16808} \times 382}{10 \times \cancel{16808}} \\\\
-&= \dfrac{382}{10} \\\\
-&= 38.2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$38.2$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' id='FORM-A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-A3600F9C-78E8-4BBD-B1C3-C4E26964CC9F'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>BB0103D0-CDEE-4C5E-B3D9-85279CE09862</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:32</p>
-</div>
-<div class='rag'>
-<p>Anushka Srivastava</p>
-</div>
-<div class='rag'>
-<p>rag_an_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which one of the following numbers is three **less** than a multiple of $5$ and three more than a multiple of $6$?
-
-- 12
-- 17
-- 21
-- 22
-- 27
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$27$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$27$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$27$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What is the smallest four-digit positive whole number which has four different digits?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1023$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1023$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$1023$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1023$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How many odd three-digits numbers is it possible to make, using just the numbers $7, 8$ and $9$?
-
-(You are allowed to use each of the numbers more than once in a particular three-digit number.)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Three-Digits Odd Numbers} &= 79, 87, 89, 97  \\\\
-\text{Count}                    &= 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Three-Digits Odd Numbers} &= 79, 87, 89, 97  \\\\
-\text{Count}                    &= 2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='BB0103D0-CDEE-4C5E-B3D9-85279CE09862' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='BB0103D0-CDEE-4C5E-B3D9-85279CE09862' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='BB0103D0-CDEE-4C5E-B3D9-85279CE09862' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='BB0103D0-CDEE-4C5E-B3D9-85279CE09862' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='BB0103D0-CDEE-4C5E-B3D9-85279CE09862' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='BB0103D0-CDEE-4C5E-B3D9-85279CE09862' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='BB0103D0-CDEE-4C5E-B3D9-85279CE09862' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='BB0103D0-CDEE-4C5E-B3D9-85279CE09862' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='BB0103D0-CDEE-4C5E-B3D9-85279CE09862' id='FORM-BB0103D0-CDEE-4C5E-B3D9-85279CE09862' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-BB0103D0-CDEE-4C5E-B3D9-85279CE09862'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>E95CBB71-49A8-4E8B-95D1-80348169EE5B</p>
 </div>
@@ -7209,7 +4602,7 @@ $
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7226,36 +4619,21 @@ tnumber
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7267,17 +4645,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7299,7 +4667,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-123 - 45 - 67 + 89 &= 100 
+123 - 45 - 67 + 89 = 100 
 
 Lets verify.
 
@@ -7324,7 +4692,7 @@ $-,-,+$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>123 - 45 - 67 + 89 &= 100 
+<pre class='language-latex'><code class='language-latex'>123 - 45 - 67 + 89 = 100 
 
 Lets verify.
 
@@ -7368,36 +4736,43 @@ How many boys are at the school this year?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Number of Boys = a 
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned} 
+\dfrac{a}{540} &= \dfrac{275}{500} \\\\
+a              &= \dfrac{275 \times 540}{500} \\\\
+a              &= \dfrac{25 \times 11 \times 27 \times 2}{25 \times 2} \\\\
+a              &= \dfrac{\cancel{25} \times 11 \times 27 \times \cancel{2}}{\cancel{25} \times \cancel{2}} \\\\
+a              &= 11 \times 27 \\\\
+a              &= 297
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$297$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Number of Boys = a 
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+$
+\begin{aligned} 
+\dfrac{a}{540} &= \dfrac{275}{500} \\\\
+a              &= \dfrac{275 \times 540}{500} \\\\
+a              &= \dfrac{25 \times 11 \times 27 \times 2}{25 \times 2} \\\\
+a              &= \dfrac{\cancel{25} \times 11 \times 27 \times \cancel{2}}{\cancel{25} \times \cancel{2}} \\\\
+a              &= 11 \times 27 \\\\
+a              &= 297
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7409,17 +4784,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$297$
 </code></pre>
 </div>
 </div>
@@ -7442,36 +4807,55 @@ How long (in centimetres) is the longest piece?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Short Piece = a
 
-</div>
-<div class='working'>
+Middle Piece = 70 + a 
 
-TODOWORKING
+Long Piece = 40 + 70 + a 
+
+$
+\begin{aligned}
+a + 70 + a + 40 + 70 + a &= 600 \\\\
+3a + 180                 &= 600 \\\\
+3a                       &= 600 - 180 \\\\
+3a                       &= 420 \\\\
+a                        &= \dfrac{420}{3} \\\\
+a                        &= \dfrac{140 \times 3}{3} \\\\
+a                        &= \dfrac{140 \times \cancel{3}}{\cancel{3}} \\\\
+a                        &= 140
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$140$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
+<pre class='language-latex'><code class='language-latex'>Short Piece = a
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+Middle Piece = 70 + a 
+
+Long Piece = 40 + 70 + a 
+
+$
+\begin{aligned}
+a + 70 + a + 40 + 70 + a &= 600 \\\\
+3a + 180                 &= 600 \\\\
+3a                       &= 600 - 180 \\\\
+3a                       &= 420 \\\\
+a                        &= \dfrac{420}{3} \\\\
+a                        &= \dfrac{140 \times 3}{3} \\\\
+a                        &= \dfrac{140 \times \cancel{3}}{\cancel{3}} \\\\
+a                        &= 140
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7483,17 +4867,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$140$
 </code></pre>
 </div>
 </div>
@@ -7501,6 +4875,19 @@ TODOANSWER
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+part b and part c are not done. why is it set for review?
+
+
+
+a: write the numbers in katex, put operators in \boxed and color, refer similar answers in your papers, or ask in answers channel for sample references.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7542,7 +4929,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FA7194F8-F6C9-439F-991E-F1846EBA2EF2</p>
 </div>
@@ -7556,7 +4943,7 @@ TODOANSWER
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7620,6 +5007,7 @@ Find the value of $9 * 8$
 
 $
 \begin{aligned}
+&= 9 * 8 \\\\
 &= (5 \times 9) + 8 \\\\
 &= 45 + 8 \\\\
 &= 53
@@ -7640,6 +5028,7 @@ $53$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= 9 * 8 \\\\
 &= (5 \times 9) + 8 \\\\
 &= 45 + 8 \\\\
 &= 53
@@ -7673,17 +5062,21 @@ What number does $m$ stand for, if $m * 6 = 41$?
 <div class='workings'>
 <div class='working'>
 
-$7$
 
-Lets verify.
 
 $
 \begin{aligned}
-&= (5 \times 7) + 6 \\\\
-&= 35 + 6 \\\\
-&= 41
+m * 6            &= 41 \\\\
+(5 \times m) + 6 &= 41 \\\\
+5m               &= 41 - 6 \\\\
+5m               &= 35 \\\\
+m                &= \dfrac{35}{5} \\\\
+m                &= \dfrac{5 \times 7}{5} \\\\
+m                &= \dfrac{\cancel{5} \times 7}{\cancel{5}} \\\\
+m                &= 7
 \end{aligned}
 $
+
 
 </div>
 </div>
@@ -7697,17 +5090,21 @@ $7$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$7$
-
-Lets verify.
+<pre class='language-latex'><code class='language-latex'>
 
 $
 \begin{aligned}
-&= (5 \times 7) + 6 \\\\
-&= 35 + 6 \\\\
-&= 41
+m * 6            &= 41 \\\\
+(5 \times m) + 6 &= 41 \\\\
+5m               &= 41 - 6 \\\\
+5m               &= 35 \\\\
+m                &= \dfrac{35}{5} \\\\
+m                &= \dfrac{5 \times 7}{5} \\\\
+m                &= \dfrac{\cancel{5} \times 7}{\cancel{5}} \\\\
+m                &= 7
 \end{aligned}
 $
+
 </code></pre>
 </div>
 </div>
@@ -7736,20 +5133,18 @@ If $n * 4 = 8 * n$, what number does $n$ stand for?
 <div class='workings'>
 <div class='working'>
 
-$9$
-
-Lets verify.
 
 $
 \begin{aligned}
-&= (5 \times n) + 4 \\\\
-&= (5 \times 9) + 4 \\\\
-&= 45 + 4 \\\\
-&= 49 \\\\
-&= (5 \times 8) + n \\\\
-&= (5 \times 8) + 9 \\\\
-&= 40 + 9 \\\\
-&= 49
+n * 4            &= 8 * n \\\\
+(5 \times n) + 4 &= (5 \times 8) + n \\\\
+5n + 4           &= 40 + n \\\\
+5n - n           &= 40 - 4 \\\\
+4n               &= 36 \\\\
+n                &= \dfrac{36}{4} \\\\
+n                &= \dfrac{4 \times 9}{4} \\\\
+n                &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+n                &= 9
 \end{aligned}
 $
 
@@ -7765,20 +5160,18 @@ $9$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$9$
-
-Lets verify.
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-&= (5 \times n) + 4 \\\\
-&= (5 \times 9) + 4 \\\\
-&= 45 + 4 \\\\
-&= 49 \\\\
-&= (5 \times 8) + n \\\\
-&= (5 \times 8) + 9 \\\\
-&= 40 + 9 \\\\
-&= 49
+n * 4            &= 8 * n \\\\
+(5 \times n) + 4 &= (5 \times 8) + n \\\\
+5n + 4           &= 40 + n \\\\
+5n - n           &= 40 - 4 \\\\
+4n               &= 36 \\\\
+n                &= \dfrac{36}{4} \\\\
+n                &= \dfrac{4 \times 9}{4} \\\\
+n                &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+n                &= 9
 \end{aligned}
 $
 </code></pre>
@@ -7800,6 +5193,27 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: Write the original question in step 1 ie = 5 * 8 and then rest of the answer.
+
+
+
+a: Write the original question in step 1 ie = 5 * 8 and then rest of the answer.
+
+
+
+b and c are algebra type of question, you need to solve them as algebra question,
+
+
+
+REfer 39F565E5-A22B-4C7B-8F60-9AC45AFB6764 as a sample answer, this one is not fully reviewed and so may have some issues, but use it as a reference to write a b and c.
+</div>
 
 <div class='review'>
 <ul class='review'>

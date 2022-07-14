@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2799,7 +2799,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CD78B853-B17C-4750-B393-54B43D8568A4</p>
 </div>
@@ -2813,7 +2813,7 @@ TODOANSWER
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2974,8 +2974,12 @@ Which of the factors of $36$ are square numbers?
 <div class='workings'>
 <div class='working'>
 
+$4, 9, 36$
+
+Lets verify.
+
 $
-\begin{aligned}
+\begin{aligned} 
 4   &= 2^2 \\\\
 9   &= 3^2 \\\\
 36  &= 6^2
@@ -2994,8 +2998,12 @@ $4, 9, 36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
+<pre class='language-latex'><code class='language-latex'>$4, 9, 36$
+
+Lets verify.
+
+$
+\begin{aligned} 
 4   &= 2^2 \\\\
 9   &= 3^2 \\\\
 36  &= 6^2

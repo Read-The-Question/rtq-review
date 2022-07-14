@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -383,7 +383,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>95635D82-16D7-443E-B12A-BF8A22B7DC8A</p>
 </div>
@@ -394,7 +394,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -427,7 +427,7 @@ The most likely length of a television remote control is:
 <div class='answers'>
 <div class='answer'>
 
-$13 \text{cm}$
+$17 \text{cm}$
 
 </div>
 </div>
@@ -446,12 +446,49 @@ $13 \text{cm}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$13 \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$17 \text{cm}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='95635D82-16D7-443E-B12A-BF8A22B7DC8A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='95635D82-16D7-443E-B12A-BF8A22B7DC8A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='95635D82-16D7-443E-B12A-BF8A22B7DC8A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='95635D82-16D7-443E-B12A-BF8A22B7DC8A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='95635D82-16D7-443E-B12A-BF8A22B7DC8A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='95635D82-16D7-443E-B12A-BF8A22B7DC8A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='95635D82-16D7-443E-B12A-BF8A22B7DC8A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='95635D82-16D7-443E-B12A-BF8A22B7DC8A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='95635D82-16D7-443E-B12A-BF8A22B7DC8A' id='FORM-95635D82-16D7-443E-B12A-BF8A22B7DC8A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-95635D82-16D7-443E-B12A-BF8A22B7DC8A'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -959,7 +996,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>8F66D2BA-D78E-4C07-BD24-B7741E19A525</p>
 </div>
@@ -970,10 +1007,10 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_an_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1033,49 +1070,36 @@ $nine tenths$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-this is written in katex, change to plain md, remove $$
-
-
-
-$$ is still katex, write without $$ just place nine tenths
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' id='FORM-8F66D2BA-D78E-4C07-BD24-B7741E19A525' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='8F66D2BA-D78E-4C07-BD24-B7741E19A525' id='FORM-8F66D2BA-D78E-4C07-BD24-B7741E19A525' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1252,7 +1276,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>2AF3E060-70CE-432C-B107-85983B43DE14</p>
 </div>
@@ -1266,7 +1290,7 @@ $
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1540,51 +1564,11 @@ $
 
 
 
-In the main question, you can see TODOWORKING and TODOAnswers, remove extra working extra answer
-
-replace TODOWORKING with %empty%, DO NOT REMOVE IT COMPLETELY, you need to keep one working and one answer even if its empty
 
 
+a b and c: you need to do using detailed addition, subtraction and multiplication, refer those papers for how to write, detailed addition i meant using array expansion
 
 
-
-Answers are not written the right way, refer answer in the same file 4624AA36-41A6-4B3C-B4F2-11671F5E0925
-
-
-
-am giving a pseudo code for first answer, you need to fix all the same way. we do not write lhs = rhs for numbers, we instead use equations starting with =, repeat the question and then solve
-
-
-
-for eg, write this in begin alinged
-
-
-
-&= 454 + 297 \\
-
-&= 751
-
-
-
-Do the same for all
-
-
-
-
-
-
-
-
-
-ignore my previous comments
-
-
-
-you need to do part a b and c using detailed addition, subtraction and multiplication, refer those papers for how to write
-
-
-
-for part you need to show factors and cancel, please refer previus questions in the same paper for how to write factors and cancel, refer coding guidelines too.
 </div>
 
 <div class='review'>

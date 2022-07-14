@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-13 17:07:34
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DF4D7857-8E32-44AC-9B1E-0C88C83C63C6</p>
 </div>
@@ -24,7 +24,7 @@ date: 2022-07-13 17:07:34
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -110,25 +110,21 @@ Andy is $183$ $\text{\textunderscore \textunderscore \textunderscore}$ tall.
 <div class='workings'>
 <div class='working'>
 
-Height of a person is generally between $100$ to $200 \ \text {cm}$ 
-
-Andy is $183$ centimetres tall.
+$\text{cm} $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$cm$
+cm
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Height of a person is generally between $100$ to $200 \ \text {cm}$ 
-
-Andy is $183$ centimetres tall.
+<pre class='language-latex'><code class='language-latex'>$\text{cm} $
 </code></pre>
 </div>
 </div>
@@ -140,7 +136,7 @@ Andy is $183$ centimetres tall.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$cm$
+<pre class='language-latex'><code class='language-latex'>cm
 </code></pre>
 </div>
 </div>
@@ -157,25 +153,21 @@ Our football pitch is $80$ $\text{\textunderscore \textunderscore \textunderscor
 <div class='workings'>
 <div class='working'>
 
-A football pitch is generally $60$ to $100 \ \text {m}$ long.
-
-The football pitch is $80$ metres long.
+$\text{m} $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$m$
+m
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>A football pitch is generally $60$ to $100 \ \text {m}$ long.
-
-The football pitch is $80$ metres long.
+<pre class='language-latex'><code class='language-latex'>$\text{m} $
 </code></pre>
 </div>
 </div>
@@ -187,7 +179,7 @@ The football pitch is $80$ metres long.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$m$
+<pre class='language-latex'><code class='language-latex'>m
 </code></pre>
 </div>
 </div>
@@ -205,16 +197,14 @@ My birthday cake weighs $700$ $\text{\textunderscore \textunderscore \textunders
 <div class='working'>
 
 
-An average $15$ cm cake weighs $700 \ $ gram. A $28$ cm  cakes weighs approx.  to $2$kg  
-
-The birthday cake weighs $700$ gram.
+$\text{g} $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$g$
+g
 
 </div>
 </div>
@@ -222,9 +212,7 @@ $g$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-An average $15$ cm cake weighs $700 \ $ gram. A $28$ cm  cakes weighs approx.  to $2$kg  
-
-The birthday cake weighs $700$ gram.
+$\text{g} $
 </code></pre>
 </div>
 </div>
@@ -236,7 +224,7 @@ The birthday cake weighs $700$ gram.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$g$
+<pre class='language-latex'><code class='language-latex'>g
 </code></pre>
 </div>
 </div>
@@ -253,33 +241,21 @@ The area of a piece of lined writing paper is $600$ $\text{\textunderscore \text
 <div class='workings'>
 <div class='working'>
 
-Area of a normal A4 paper is 
-
-Area $= length \times width$
-
-$21.0 \text {cm} \times 29.7 \text {cm}$
-
-Approx. $623 \ cm^2$
+$\text{cm}^2 $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$cm^2$
+$\text{cm}^2 $
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Area of a normal A4 paper is 
-
-Area $= length \times width$
-
-$21.0 \text {cm} \times 29.7 \text {cm}$
-
-Approx. $623 \ cm^2$
+<pre class='language-latex'><code class='language-latex'>$\text{cm}^2 $
 </code></pre>
 </div>
 </div>
@@ -291,7 +267,7 @@ Approx. $623 \ cm^2$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$cm^2$
+<pre class='language-latex'><code class='language-latex'>$\text{cm}^2 $
 </code></pre>
 </div>
 </div>
@@ -308,29 +284,21 @@ My water bottle contains $1.5$ $\text{\textunderscore \textunderscore \textunder
 <div class='workings'>
 <div class='working'>
 
-A water bottle generally contains $500 \ \text {ml}$ to $1.5 \ \text {litres}$.
-
-$1.5 \text {ml}$ is water bottle is likely not possible.
-
-$1.5 \ \text {litres}$ water bottle is normal.
+$\text{litre} $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$litres$
+litre
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>A water bottle generally contains $500 \ \text {ml}$ to $1.5 \ \text {litres}$.
-
-$1.5 \text {ml}$ is water bottle is likely not possible.
-
-$1.5 \ \text {litres}$ water bottle is normal.
+<pre class='language-latex'><code class='language-latex'>$\text{litre} $
 </code></pre>
 </div>
 </div>
@@ -342,7 +310,7 @@ $1.5 \ \text {litres}$ water bottle is normal.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$litres$
+<pre class='language-latex'><code class='language-latex'>litre
 </code></pre>
 </div>
 </div>
@@ -351,6 +319,43 @@ $1.5 \ \text {litres}$ water bottle is normal.
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' id='FORM-DF4D7857-8E32-44AC-9B1E-0C88C83C63C6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DF4D7857-8E32-44AC-9B1E-0C88C83C63C6'>Initial</p>
+</div>
 </div>
 </li>
 <li>

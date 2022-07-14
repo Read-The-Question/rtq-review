@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1708,7 +1708,7 @@ CHECK WORKING (126÷n=9......126/n = 9.....126 = 9xn.... then the 9n = 126 step)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>072C52DE-5BD3-4299-845A-4CA76E632B3F</p>
 </div>
@@ -1722,7 +1722,7 @@ CHECK WORKING (126÷n=9......126/n = 9.....126 = 9xn.... then the 9n = 126 step)
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1751,7 +1751,7 @@ $
 &= 4c - 6d + 2c + 3d \\\\
 &= 4c  + 2c - 6d + 3d \\\\
 &= 6c - 6d + 3d \\\\
-&= 6c - 3d \\\\
+&= 6c - 3d
 \end{aligned}
 $
 
@@ -1775,7 +1775,7 @@ $6c - 3d$
 &= 4c - 6d + 2c + 3d \\\\
 &= 4c  + 2c - 6d + 3d \\\\
 &= 6c - 6d + 3d \\\\
-&= 6c - 3d \\\\
+&= 6c - 3d
 \end{aligned}
 $
 </code></pre>

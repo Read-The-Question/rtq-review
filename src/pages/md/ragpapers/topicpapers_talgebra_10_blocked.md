@@ -1,9 +1,88 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-blocked"
 title: "TopicPaper - Algebra - 10 - BLOCKED"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:27</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The front row of a theatre has 48 seats and each other row has four more seats than the row in front. There are 80 seats in the last row. How many seats are there **altogether** in the theatre?
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total seats}    &= 48 + 52 + 56 + 60 + 64 + 68 + 72 + 76 + 80 \\\\
+                       &= 570
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$570$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Total seats}    &= 48 + 52 + 56 + 60 + 64 + 68 + 72 + 76 + 80 \\\\
+                       &= 570
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$570$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

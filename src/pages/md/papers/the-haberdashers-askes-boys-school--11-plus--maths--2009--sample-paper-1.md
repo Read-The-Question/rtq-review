@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -452,7 +452,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>226E8E2D-19C1-4607-A921-E9F025A6322B</p>
 </div>
@@ -466,7 +466,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -485,17 +485,19 @@ In a Maths test Freddie gets $37$ more marks than George. If Freddie gets $61$, 
 
 Let George's marks $= a$
 
+Freddie's marks $= a + 37$
+
 As per the question,
 
 $
 \begin{aligned}
-a + 37      & = 61 \\\\
-a           & = 61 - 37 \\\\
-a           & = 24
+a + 37      &= 61 \\\\
+a           &= 61 - 37 \\\\
+a           &= 24
 \end{aligned}
 $
 
-Marks George got $= 24$
+George's marks $= 24$
 
 </div>
 </div>
@@ -511,17 +513,19 @@ $24$
 
 <pre class='language-latex'><code class='language-latex'>Let George's marks $= a$
 
+Freddie's marks $= a + 37$
+
 As per the question,
 
 $
 \begin{aligned}
-a + 37      & = 61 \\\\
-a           & = 61 - 37 \\\\
-a           & = 24
+a + 37      &= 61 \\\\
+a           &= 61 - 37 \\\\
+a           &= 24
 \end{aligned}
 $
 
-Marks George got $= 24$
+George's marks $= 24$
 </code></pre>
 </div>
 </div>
@@ -1490,7 +1494,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DACF41B7-F660-4A37-8522-2D3B2583F3CA</p>
 </div>
@@ -1504,7 +1508,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1521,23 +1525,25 @@ I think of a number, double it, take the answer away from $41$, and I am left wi
 <div class='workings'>
 <div class='working'>
 
-Let the number = $a$
+Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-41 - 2a     &= 3 \\\\
-2a          & = 41 - 3 \\\\
-2a          & = 38 \\\\
-a           & = \dfrac {38} {2} \\\\
-a           & = \dfrac {19 \times 2} {2} \\\\
-a           & = \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
-a           & = 19
+41 - 2a         &= 3 \\\\
+{}- 2a          &= 3 - 41 \\\\
+{}- 2a          &= -38 \\\\
+\cancel {-} 2a  &= \cancel {-} 38 \\\\
+2a              &= 38 \\\\
+a               &= \dfrac {38} {2} \\\\
+a               &= \dfrac {2 \times 19} {2} \\\\
+a               &= \dfrac {\cancel {2} \times 19} {\cancel {2}} \\\\
+a               &= 19
 \end{aligned}
 $
 
-The number I thought was $19$.
+The number $= 19$
 
 </div>
 </div>
@@ -1551,23 +1557,25 @@ $19$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number = $a$
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-41 - 2a     &= 3 \\\\
-2a          & = 41 - 3 \\\\
-2a          & = 38 \\\\
-a           & = \dfrac {38} {2} \\\\
-a           & = \dfrac {19 \times 2} {2} \\\\
-a           & = \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
-a           & = 19
+41 - 2a         &= 3 \\\\
+{}- 2a          &= 3 - 41 \\\\
+{}- 2a          &= -38 \\\\
+\cancel {-} 2a  &= \cancel {-} 38 \\\\
+2a              &= 38 \\\\
+a               &= \dfrac {38} {2} \\\\
+a               &= \dfrac {2 \times 19} {2} \\\\
+a               &= \dfrac {\cancel {2} \times 19} {\cancel {2}} \\\\
+a               &= 19
 \end{aligned}
 $
 
-The number I thought was $19$.
+The number $= 19$
 </code></pre>
 </div>
 </div>
@@ -2847,7 +2855,7 @@ $\text {sometimes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7F32C156-E6CA-40AB-9A96-8977312C93E4</p>
 </div>
@@ -2861,7 +2869,7 @@ $\text {sometimes}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2881,28 +2889,31 @@ If there are $42$ sweets in total how many does Ravi get?
 <div class='workings'>
 <div class='working'>
 
-Let the count of sweets Ravi has = $a$. 
+Let the number of sweets Ravi got $= a$
+
+Number of sweets Harsha got $= 2a$
+
+Number of sweets Harpreet got $= \dfrac {a} {2}$
 
 As per the question,
 
 $
 \begin{aligned}
-2 \times a + \dfrac {1} {2} \times a + a           &= 42 \\\\
-2a + \dfrac {a} {2} + a                            &= 42 \\\\
-3a + \dfrac {a} {2}                                &= 42 \\\\
-\dfrac {3a \times 2} {1 \times 2} + \dfrac {a} {2} &= 42 \\\\
-\dfrac {6a} {2} + \dfrac {a} {2}                   &= 42 \\\\
-\dfrac {6a + a} {2}                                &= 42 \\\\
-\dfrac {7a} {2}                                    &= 42 \\\\
-7a                                                 &= 42 \times 2 \\\\
-a                                                  &= \dfrac {42 \times 2} {7} \\\\
-a                                                  &= \dfrac {\cancel 7 \times 6 \times 2} {\cancel 7} \\\\
-a                                                  &= 6 \times 2 \\\\
-a                                                  &= 12
+a + 2a + \dfrac {a} {2}     &= 42 \\\\
+\dfrac {a \times 2} {1 \times 2} + \dfrac {2a \times 2} {1 \times 2} + \dfrac {a} {2}   &= 42 \\\\
+\dfrac {2a} {2} + \dfrac {4a} {2} + \dfrac {a} {2}                                      &= 42 \\\\
+\dfrac {2a + 4a + a} {2}                                                                &= 42 \\\\
+\dfrac {7a} {2}                                                                         &= 42 \\\\
+7a                                                                                      &= 42 \times 2 \\\\
+a                                                                                       &= \dfrac {42 \times 2} {7} \\\\
+a                                                                                       &= \dfrac {6 \times 7 \times 2} {7} \\\\
+a                                                                                       &= \dfrac {6 \times \cancel {7} \times 2} {\cancel {7}} \\\\
+a                                                                                       &= 6 \times 2 \\\\
+a                                                                                       &= 12
 \end{aligned}
 $
 
-Total number of sweets Ravi got $= 12$.
+Number of sweets Ravi got $= 12$
 
 </div>
 </div>
@@ -2916,28 +2927,31 @@ $12$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the count of sweets Ravi has = $a$. 
+<pre class='language-latex'><code class='language-latex'>Let the number of sweets Ravi got $= a$
+
+Number of sweets Harsha got $= 2a$
+
+Number of sweets Harpreet got $= \dfrac {a} {2}$
 
 As per the question,
 
 $
 \begin{aligned}
-2 \times a + \dfrac {1} {2} \times a + a           &= 42 \\\\
-2a + \dfrac {a} {2} + a                            &= 42 \\\\
-3a + \dfrac {a} {2}                                &= 42 \\\\
-\dfrac {3a \times 2} {1 \times 2} + \dfrac {a} {2} &= 42 \\\\
-\dfrac {6a} {2} + \dfrac {a} {2}                   &= 42 \\\\
-\dfrac {6a + a} {2}                                &= 42 \\\\
-\dfrac {7a} {2}                                    &= 42 \\\\
-7a                                                 &= 42 \times 2 \\\\
-a                                                  &= \dfrac {42 \times 2} {7} \\\\
-a                                                  &= \dfrac {\cancel 7 \times 6 \times 2} {\cancel 7} \\\\
-a                                                  &= 6 \times 2 \\\\
-a                                                  &= 12
+a + 2a + \dfrac {a} {2}     &= 42 \\\\
+\dfrac {a \times 2} {1 \times 2} + \dfrac {2a \times 2} {1 \times 2} + \dfrac {a} {2}   &= 42 \\\\
+\dfrac {2a} {2} + \dfrac {4a} {2} + \dfrac {a} {2}                                      &= 42 \\\\
+\dfrac {2a + 4a + a} {2}                                                                &= 42 \\\\
+\dfrac {7a} {2}                                                                         &= 42 \\\\
+7a                                                                                      &= 42 \times 2 \\\\
+a                                                                                       &= \dfrac {42 \times 2} {7} \\\\
+a                                                                                       &= \dfrac {6 \times 7 \times 2} {7} \\\\
+a                                                                                       &= \dfrac {6 \times \cancel {7} \times 2} {\cancel {7}} \\\\
+a                                                                                       &= 6 \times 2 \\\\
+a                                                                                       &= 12
 \end{aligned}
 $
 
-Total number of sweets Ravi got $= 12$.
+Number of sweets Ravi got $= 12$
 </code></pre>
 </div>
 </div>

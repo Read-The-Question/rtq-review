@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g0-prcc"
 title: "TopicPaper - Number - 11 - G0 - PRCC"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -135,8 +135,7 @@ Convert $430\ \text{millimetres}$ into $\text{centimetres}$
 $
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
-&= \dfrac {430} {10}  \\\\
+&= \dfrac {430} {10} \ \text{cm} \\\\
 &= \dfrac {43 \times 10} {10}  \\\\
 &= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
 &=43 \ \text{cm}
@@ -158,8 +157,7 @@ $43 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 430 \ \text{mm} \\\\
-&= 430 \times \dfrac {1} {10} \ \text{cm}\\\\
-&= \dfrac {430} {10}  \\\\
+&= \dfrac {430} {10} \ \text{cm} \\\\
 &= \dfrac {43 \times 10} {10}  \\\\
 &= \dfrac{43\times\cancel{10}}{\cancel{10}} \\\\
 &=43 \ \text{cm}
@@ -195,7 +193,7 @@ Convert $2.1\ \text{kilometres}$ into $\text{metres}$
 
 $
 \begin{aligned}
-&= 2.1 \ \text{km} \\\\
+&= 2.1 \ \text{kilometres} \\\\
 &= 2.1 \times 1000 \ \text{m} \\\\
 &= 2100 \ \text{m}
 \end{aligned}
@@ -215,7 +213,7 @@ $2100 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 2.1 \ \text{km} \\\\
+&= 2.1 \ \text{kilometres} \\\\
 &= 2.1 \times 1000 \ \text{m} \\\\
 &= 2100 \ \text{m}
 \end{aligned}
@@ -239,6 +237,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write the same as in the question, for eg kilometers instead of km
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-07-13 17:07:34
+date: 2022-07-14 14:23:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -787,7 +787,7 @@ $ 2{:}00 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -801,7 +801,7 @@ $ 2{:}00 \ \text{pm}$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -859,16 +859,15 @@ How many yards away from Goodison Park do I live?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&= 1760 \times 0.6 \\\\
-&= 1760 \times\dfrac{6}{10} \\\\
-&=\dfrac{176\times 10\times 6}{10} \\\\
-&=\dfrac{176\times\cancel{10}\times 6}{\cancel{10}} \\\\
-&=176\times 6\\\\
-&= 1056 \ \text{yards}
+\text{Distance}     &= 0.6 \ \text{miles} \\\\
+                    &= 0.6 \times 1760 \ \text{yards} \\\\
+                    &= \dfrac {6 \times 1760}{10} \\\\
+                    &= \dfrac {6 \times 176 \times 10}{10} \\\\
+                    &= \dfrac {6 \times 176 \times 1\cancel{0}} {1 \cancel{0}} \\\\
+                    &= 6 \times 176 \\\\
+                    &= 1056 \ \text{yards}
 \end{aligned}
 $
 
@@ -886,16 +885,15 @@ $1056 \ \text{yards}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 1760 \times 0.6 \\\\
-&= 1760 \times\dfrac{6}{10} \\\\
-&=\dfrac{176\times 10\times 6}{10} \\\\
-&=\dfrac{176\times\cancel{10}\times 6}{\cancel{10}} \\\\
-&=176\times 6\\\\
-&= 1056 \ \text{yards}
+\text{Distance}     &= 0.6 \ \text{miles} \\\\
+                    &= 0.6 \times 1760 \ \text{yards} \\\\
+                    &= \dfrac {6 \times 1760}{10} \\\\
+                    &= \dfrac {6 \times 176 \times 10}{10} \\\\
+                    &= \dfrac {6 \times 176 \times 1\cancel{0}} {1 \cancel{0}} \\\\
+                    &= 6 \times 176 \\\\
+                    &= 1056 \ \text{yards}
 \end{aligned}
 $
 
@@ -1047,6 +1045,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+I have done part a. Please change part b and c on the same lines.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4111,7 +4118,7 @@ There are $105$ white counters in the bag.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CF6BAF33-A5F8-41F9-A140-9829B0BE78AC</p>
 </div>
@@ -4122,10 +4129,10 @@ There are $105$ white counters in the bag.
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_g0</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4153,7 +4160,7 @@ $300 \ \text{metres}$
 </div>
 <div class='answers'>
 <div class='option'>
-<p>c</p>
+<p>C</p>
 </div>
 <div class='answer'>
 
@@ -4170,7 +4177,7 @@ $300 \ \text{metres}$
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>c</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -4185,32 +4192,32 @@ $300 \ \text{metres}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' id='FORM-CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' id='FORM-CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

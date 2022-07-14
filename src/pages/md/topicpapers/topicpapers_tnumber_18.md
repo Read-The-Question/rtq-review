@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-18"
 title: "TopicPaper - Number - 18"
-date: 2022-07-13 17:13:09
+date: 2022-07-14 14:27:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5432,7 +5432,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5D9766EF-08AE-488D-9646-593722B91E32</p>
 </div>
@@ -5443,7 +5443,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5539,7 +5539,28 @@ Complete the input and output numbers for the machine.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let output $= a$
+
+$
+\begin{aligned}
+& 40 \times 3 + 6 &= a \\\\
+& 120 + 6 &= a \\\\
+& a &= 126 \\\\
+\end{aligned}
+$
+
+Let the input $= b$
+
+$
+\begin{aligned}
+& b \times 3 + 6 &= 54 \\\\
+& 3b + 6 &= 54 \\\\
+& 3b &= 54 - 6 \\\\
+& 3b &= 48 \\\\
+& b &= \dfrac{48}{3} \\\\
+& b &= 16 \\\\
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -5551,7 +5572,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$126 \\\\ 16$
 
 </div>
 <div class='answer'>
@@ -5563,7 +5584,28 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let output $= a$
+
+$
+\begin{aligned}
+& 40 \times 3 + 6 &= a \\\\
+& 120 + 6 &= a \\\\
+& a &= 126 \\\\
+\end{aligned}
+$
+
+Let the input $= b$
+
+$
+\begin{aligned}
+& b \times 3 + 6 &= 54 \\\\
+& 3b + 6 &= 54 \\\\
+& 3b &= 54 - 6 \\\\
+& 3b &= 48 \\\\
+& b &= \dfrac{48}{3} \\\\
+& b &= 16 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -5580,7 +5622,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$126 \\\\ 16$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -5612,36 +5654,214 @@ Work out both possible answers.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let first label $= \times a$
+
+Let second label $= + b$
+
+$
+\begin{aligned}
+& a \times 6 + b &= 12 \\\\
+& 6a + b &= 12 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+& a \times 8 + b &= 20 \\\\
+& 8a + b &= 20 \\\\
+\end{aligned}
+$
+
+Lets solve for \'a\'
+
+$
+\begin{aligned}
+& 8a + b &= 20 \\\\
+& 8a + (12 - 6a) &= 20 \\\\
+& 8a - 6a &= 20 - 12 \\\\
+& 2a &= 8 \\\\
+& a &= \dfrac{8}{2} \\\\
+& a &= 4 \\\\
+\end{aligned}
+$
+
+Lets solve for \'b\'
+
+$
+\begin{aligned}
+& 6a + b &= 12 \\\\
+& 6(4) + b &= 12 \\\\
+& 24 + b &= 12 \\\\
+& b &= 12 - 24 \\\\
+& b &= - 12 \\\\
+\end{aligned}
+$
+
+Therefore, the labels $= \times 4, -12$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+Second possible labels
+
+Let first label $= + a$
+
+Let second label $= \times b$
+
+$
+\begin{aligned}
+(6 + a) \times b &= 12 \\\\
+6b + ab &= 12 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+(8 + a) \times b &= 20 \\\\
+8b + ab &= 20 \\\\
+\end{aligned}
+$
+
+Lets solve for \'b\'
+
+$
+\begin{aligned}
+8b + (12 - 6b) &= 20 \\\\
+8b - 6b &= 20 - 12 \\\\
+2b &= 8 \\\\
+b &= \dfrac{8}{2} \\\\
+b &= 4 \\\\
+\end{aligned}
+$
+
+Lets solve for \'a\'
+
+$
+\begin{aligned}
+(6 + a) \times 4 &= 12 \\\\
+6 \times 4 + a \times 4 &= 12 \\\\
+24 + 4a &= 12 \\\\
+4a &= 12 - 24 \\\\
+4a &= -12 \\\\
+a &= \dfrac{-12}{4} \\\\
+a &= -3 \\\\
+\end{aligned}
+$
+
+Therefore, the labels $= + 4, \times -3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\times 4, - 12$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$+ 4, \times -3$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Let first label $= \times a$
+
+Let second label $= + b$
+
+$
+\begin{aligned}
+& a \times 6 + b &= 12 \\\\
+& 6a + b &= 12 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+& a \times 8 + b &= 20 \\\\
+& 8a + b &= 20 \\\\
+\end{aligned}
+$
+
+Lets solve for \'a\'
+
+$
+\begin{aligned}
+& 8a + b &= 20 \\\\
+& 8a + (12 - 6a) &= 20 \\\\
+& 8a - 6a &= 20 - 12 \\\\
+& 2a &= 8 \\\\
+& a &= \dfrac{8}{2} \\\\
+& a &= 4 \\\\
+\end{aligned}
+$
+
+Lets solve for \'b\'
+
+$
+\begin{aligned}
+& 6a + b &= 12 \\\\
+& 6(4) + b &= 12 \\\\
+& 24 + b &= 12 \\\\
+& b &= 12 - 24 \\\\
+& b &= - 12 \\\\
+\end{aligned}
+$
+
+Therefore, the labels $= \times 4, -12$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Second possible labels
+
+Let first label $= + a$
+
+Let second label $= \times b$
+
+$
+\begin{aligned}
+(6 + a) \times b &= 12 \\\\
+6b + ab &= 12 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+(8 + a) \times b &= 20 \\\\
+8b + ab &= 20 \\\\
+\end{aligned}
+$
+
+Lets solve for \'b\'
+
+$
+\begin{aligned}
+8b + (12 - 6b) &= 20 \\\\
+8b - 6b &= 20 - 12 \\\\
+2b &= 8 \\\\
+b &= \dfrac{8}{2} \\\\
+b &= 4 \\\\
+\end{aligned}
+$
+
+Lets solve for \'a\'
+
+$
+\begin{aligned}
+(6 + a) \times 4 &= 12 \\\\
+6 \times 4 + a \times 4 &= 12 \\\\
+24 + 4a &= 12 \\\\
+4a &= 12 - 24 \\\\
+4a &= -12 \\\\
+a &= \dfrac{-12}{4} \\\\
+a &= -3 \\\\
+\end{aligned}
+$
+
+Therefore, the labels $= + 4, \times -3$
 </code></pre>
 </div>
 </div>
@@ -5653,7 +5873,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\times 4, - 12$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -5663,7 +5883,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$+ 4, \times -3$
 </code></pre>
 </div>
 </div>
@@ -5672,6 +5892,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5D9766EF-08AE-488D-9646-593722B91E32' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='5D9766EF-08AE-488D-9646-593722B91E32' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5D9766EF-08AE-488D-9646-593722B91E32' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5D9766EF-08AE-488D-9646-593722B91E32' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5D9766EF-08AE-488D-9646-593722B91E32' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5D9766EF-08AE-488D-9646-593722B91E32' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='5D9766EF-08AE-488D-9646-593722B91E32' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='5D9766EF-08AE-488D-9646-593722B91E32' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='5D9766EF-08AE-488D-9646-593722B91E32' id='FORM-5D9766EF-08AE-488D-9646-593722B91E32' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5D9766EF-08AE-488D-9646-593722B91E32'>Initial</p>
+</div>
 </div>
 </li>
 <li>

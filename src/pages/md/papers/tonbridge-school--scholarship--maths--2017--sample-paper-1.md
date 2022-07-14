@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2017-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2017 - Sample Paper 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>

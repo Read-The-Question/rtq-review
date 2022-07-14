@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1373,7 +1373,7 @@ $0.25\:\:\:  2\diagup9\:\:\:  0.039\:\:\:  4\diagup5\:\:\:  3\diagup8$
 <div class='workings'>
 <div class='working'>
 
-Lets convert all fractions into decimals:
+Let's convert all fractions into decimals.
 
 $
 \begin{aligned}
@@ -1406,7 +1406,7 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Lets convert all fractions into decimals:
+<pre class='language-latex'><code class='language-latex'>Let's convert all fractions into decimals.
 
 $
 \begin{aligned}

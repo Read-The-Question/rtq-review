@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -444,7 +444,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>EA88A4AA-38CC-41BA-9BD3-15846D2D71B5</p>
 </div>
@@ -458,7 +458,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -480,12 +480,10 @@ How many hours are there in $2$ weeks?
 
 $
 \begin{aligned}
-1 \ \text {week}  &= 7 \text { days} \\\\
-2 \ \text {weeks} &= 2 \times 7 \text { days} \\\\
-                  &= 14 \text { days} \\\\
-1 \text {day}     &= 24 \text { hours} \\\\
-14 \text {days}   &= 14 \times 24 \text { hours} \\\\
-                  &= 336 \text { hours}
+&=2 \ \text {weeks} \\\\
+&= 14 \ \text { days} \\\\
+&= 14 \times 24 \ \text { hours} \\\\
+&= 336 \ \text { hours}
 \end{aligned}
 $
 
@@ -494,7 +492,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$336 \text { hours}$
+$336 \ \text { hours}$
 
 </div>
 </div>
@@ -503,12 +501,10 @@ $336 \text { hours}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text {week}  &= 7 \text { days} \\\\
-2 \ \text {weeks} &= 2 \times 7 \text { days} \\\\
-                  &= 14 \text { days} \\\\
-1 \text {day}     &= 24 \text { hours} \\\\
-14 \text {days}   &= 14 \times 24 \text { hours} \\\\
-                  &= 336 \text { hours}
+&=2 \ \text {weeks} \\\\
+&= 14 \ \text { days} \\\\
+&= 14 \times 24 \ \text { hours} \\\\
+&= 336 \ \text { hours}
 \end{aligned}
 $
 </code></pre>
@@ -522,7 +518,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$336 \text { hours}$
+<pre class='language-latex'><code class='language-latex'>$336 \ \text { hours}$
 </code></pre>
 </div>
 </div>
@@ -2662,7 +2658,7 @@ The day it become taller than two metres $= \text{Monday} + 6 \ \text{days} = \t
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>D359AE32-BA99-4C37-AF11-B4D00BE23AF5</p>
 </div>
@@ -2676,7 +2672,7 @@ The day it become taller than two metres $= \text{Monday} + 6 \ \text{days} = \t
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2697,7 +2693,9 @@ Last Saturday it started $13 \ \text{minutes}$ late.  What time did it finish?
 
 $
 \begin{aligned}
-\text {finish time} &= 8{:}50 \ \text {pm} + 2\dfrac{1}{4} \ \text {hour} + 13 \ \text {minutes} \\\\
+\text {Finish Time} &= 8{:}50 + 2 \dfrac{1} {4} \ \text {hours} + 13 \ \text {minutes} \\\\
+                    &= 8{:}50 + 2 \ \text {hours} \ 15 \ \text {minutes} + 13 \ \text {minutes} \\\\
+                    &= 8{:}50 + 2 \ \text {hours} \ 28 \ \text {minutes} \\\\
                     &= 10{:}18 \ \text {pm}
 \end{aligned}
 $
@@ -2716,7 +2714,9 @@ $10{:}18 \ \text {pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {finish time} &= 8{:}50 \ \text {pm} + 2\dfrac{1}{4} \ \text {hour} + 13 \ \text {minutes} \\\\
+\text {Finish Time} &= 8{:}50 + 2 \dfrac{1} {4} \ \text {hours} + 13 \ \text {minutes} \\\\
+                    &= 8{:}50 + 2 \ \text {hours} \ 15 \ \text {minutes} + 13 \ \text {minutes} \\\\
+                    &= 8{:}50 + 2 \ \text {hours} \ 28 \ \text {minutes} \\\\
                     &= 10{:}18 \ \text {pm}
 \end{aligned}
 $

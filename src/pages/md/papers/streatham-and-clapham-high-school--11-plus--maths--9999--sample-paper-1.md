@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2688,7 +2688,7 @@ line 2: give comma after APTQ                                                   
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>19C4B959-6C02-4D22-B36F-6E0A58FE85F7</p>
 </div>
@@ -2702,7 +2702,7 @@ line 2: give comma after APTQ                                                   
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2728,12 +2728,8 @@ What time do I get to school?
 
 $
 \begin{aligned}
-\text{Time I reach school} &= \text{Time I leave home} + \text{Time takes to reach school} \\\\
-                           &= 7{:}35 + 42 \ \text{mins} \\\\
-                           &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
-                           &= 7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
-                           &= 8 \ \text{hr} +  17 \ \text{mins} \\\\
-                           &= 8{:}17 \ \text{am}
+&= 7{:}35 + 42 \ \text{minutes} \\\\
+&= 8{:}17 \ \text{am}
 \end{aligned}
 $
 
@@ -2754,12 +2750,8 @@ $8{:}17 \ \text{am}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time I reach school} &= \text{Time I leave home} + \text{Time takes to reach school} \\\\
-                           &= 7{:}35 + 42 \ \text{mins} \\\\
-                           &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
-                           &= 7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
-                           &= 8 \ \text{hr} +  17 \ \text{mins} \\\\
-                           &= 8{:}17 \ \text{am}
+&= 7{:}35 + 42 \ \text{minutes} \\\\
+&= 8{:}17 \ \text{am}
 \end{aligned}
 $
 </code></pre>

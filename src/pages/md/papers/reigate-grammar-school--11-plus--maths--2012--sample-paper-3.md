@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>

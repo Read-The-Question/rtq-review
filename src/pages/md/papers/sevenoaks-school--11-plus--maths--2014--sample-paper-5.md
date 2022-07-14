@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2014-sample-paper-5"
 title: "Sevenoaks School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-14 14:23:02
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-14 14:23:02
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -322,6 +322,18 @@ $
 
 <h4>Review Comments</h4>
 mark it amber(div question)
+
+
+
+a: use abbreviate for the decimal prompt instead of text, decimal not written correctly, check how to write in other answers.
+
+
+
+c: X not placeed correctly, fix
+
+
+
+c: X not placeed correctly, fix
 </div>
 
 <div class='review'>

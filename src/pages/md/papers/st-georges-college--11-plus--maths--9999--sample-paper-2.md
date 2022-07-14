@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2357,7 +2357,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
@@ -2371,7 +2371,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2432,10 +2432,10 @@ She starts the swimming stage at $12:45$ pm. If she takes $79\,minutes$ to compl
 
 $
 \begin{aligned}
-\text{ Time (Cycling)} &= \text{Start Time (Swimming)}+ \text{Time taken (Swimming)} \\'\\
-&= 12:45 + 79 \text {mins}  \\\\
-&= 12:45 + 60 + 15 + 4  \\\\
-&= 2:04 \ \text{pm}
+\text{ Started Cycling} &= 12{:}45 + 79 \text{minutes}  \\\\
+                        &= 12{:}45 + 60 + 19 \\\\
+                        &= 12{:}45 + 1 \ \text{hour} \ 19 \text{minutes}  \\\\
+                        &= 2{:}04 \ \text{pm}
 \end{aligned}
 $
 
@@ -2444,7 +2444,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2:04 \ \text{pm}$
+$2{:}04 \ \text{pm}$
 
 </div>
 </div>
@@ -2453,10 +2453,10 @@ $2:04 \ \text{pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{ Time (Cycling)} &= \text{Start Time (Swimming)}+ \text{Time taken (Swimming)} \\'\\
-&= 12:45 + 79 \text {mins}  \\\\
-&= 12:45 + 60 + 15 + 4  \\\\
-&= 2:04 \ \text{pm}
+\text{ Started Cycling} &= 12{:}45 + 79 \text{minutes}  \\\\
+                        &= 12{:}45 + 60 + 19 \\\\
+                        &= 12{:}45 + 1 \ \text{hour} \ 19 \text{minutes}  \\\\
+                        &= 2{:}04 \ \text{pm}
 \end{aligned}
 $
 </code></pre>
@@ -2470,7 +2470,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2:04 \ \text{pm}$
+<pre class='language-latex'><code class='language-latex'>$2{:}04 \ \text{pm}$
 </code></pre>
 </div>
 </div>
@@ -2489,9 +2489,10 @@ If she starts the running stage at $4:38\,pm$ work out how long she took in minu
 
 $
 \begin{aligned}
-\text{ Time taken (Cycling)} &= \text{Start Time (running)} -  \text{Start Time (Cycling)} \\\\
-&=  4:38 - 2:04 \\\\
-&=  2:34 \ \text{hr} \\\\
+\text{ Time taken} &=  4{:}38 - 2{:}04 \\\\
+&=  2 \ \text{hours} \ 34 \ \text{minutes} \\\\
+&=  2 \times 60 \ \text{minutes} \ 34 \ \text{minutes} \\\\
+&= 120 + 34 \\\\
 &= 154 \ \text{minutes}
 \end{aligned}
 $
@@ -2501,7 +2502,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$154 \text{minutes}$
+$154 \ \text{minutes}$
 
 </div>
 </div>
@@ -2510,9 +2511,10 @@ $154 \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{ Time taken (Cycling)} &= \text{Start Time (running)} -  \text{Start Time (Cycling)} \\\\
-&=  4:38 - 2:04 \\\\
-&=  2:34 \ \text{hr} \\\\
+\text{ Time taken} &=  4{:}38 - 2{:}04 \\\\
+&=  2 \ \text{hours} \ 34 \ \text{minutes} \\\\
+&=  2 \times 60 \ \text{minutes} \ 34 \ \text{minutes} \\\\
+&= 120 + 34 \\\\
 &= 154 \ \text{minutes}
 \end{aligned}
 $
@@ -2527,7 +2529,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$154 \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$154 \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -2546,10 +2548,12 @@ If she took 107 minutes on the running stage work out how long she took to compl
 
 $
 \begin{aligned}
-\text{Whole (Triathlon)} &= \text{Time (Swimming)} + \text{Time(Cycling)} + \text{Time (Running)} \\\\
-&=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
-&=  340 \ \text{minutes} \\\\
-&=  5 \  \text{hr} \ \ 40 \ \text{minutes}
+\text{Total Time taken} &=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
+                        &=  340 \ \text{minutes} \\\\
+                        &= \dfrac {340} {60} \ \text{hours} \\\\
+                        &= 5 \dfrac {40} {60} \ \text{hours} \\\\
+                        &= 5 \ \text{hours} + 40 \ \text{minutes} \\\\
+                        &=  5 \  \text{hr} \ \ 40 \ \text{minutes}
 \end{aligned}
 $
 
@@ -2558,7 +2562,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5 \  \text{hr} \ \ 40 \ \text{minutes}$
+$5 \  \text{hours} \ \ 40 \ \text{minutes}$
 
 </div>
 </div>
@@ -2567,10 +2571,12 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Whole (Triathlon)} &= \text{Time (Swimming)} + \text{Time(Cycling)} + \text{Time (Running)} \\\\
-&=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
-&=  340 \ \text{minutes} \\\\
-&=  5 \  \text{hr} \ \ 40 \ \text{minutes}
+\text{Total Time taken} &=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
+                        &=  340 \ \text{minutes} \\\\
+                        &= \dfrac {340} {60} \ \text{hours} \\\\
+                        &= 5 \dfrac {40} {60} \ \text{hours} \\\\
+                        &= 5 \ \text{hours} + 40 \ \text{minutes} \\\\
+                        &=  5 \  \text{hr} \ \ 40 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -2584,7 +2590,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5 \  \text{hr} \ \ 40 \ \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$5 \  \text{hours} \ \ 40 \ \text{minutes}$
 </code></pre>
 </div>
 </div>

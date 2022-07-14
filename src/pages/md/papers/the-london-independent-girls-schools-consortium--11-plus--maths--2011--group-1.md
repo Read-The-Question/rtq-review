@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1450,7 +1450,7 @@ Count $= 6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
 </div>
@@ -1464,7 +1464,7 @@ Count $= 6$
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1505,14 +1505,9 @@ Over to $4 \ \text{hours}$     $\pounds 5.00$
 
 $
 \begin{aligned}
-\text{Parking Time}           &= 02{:}15 \ \text{pm} - 10{:}30  \ \text{am}  \\\\
-                              &= 3 \ \text{hours} \ 45 \ \text{minutes}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Parking charges}        &= \pounds 1.70
+\text{Parking Time}         &= 02{:}15 \ \text{pm} - 10{:}30  \ \text{am}  \\\\
+                            &= 3 \ \text{hours} \ 45 \ \text{minutes}
+\text{Parking charge}       &= \pounds 1.70
 \end{aligned}
 $
 
@@ -1530,14 +1525,9 @@ $\pounds 1.70$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Parking Time}           &= 02{:}15 \ \text{pm} - 10{:}30  \ \text{am}  \\\\
-                              &= 3 \ \text{hours} \ 45 \ \text{minutes}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Parking charges}        &= \pounds 1.70
+\text{Parking Time}         &= 02{:}15 \ \text{pm} - 10{:}30  \ \text{am}  \\\\
+                            &= 3 \ \text{hours} \ 45 \ \text{minutes}
+\text{Parking charge}       &= \pounds 1.70
 \end{aligned}
 $
 </code></pre>
@@ -2181,7 +2171,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0A614191-1791-4F03-962B-E2CF656E9B67</p>
 </div>
@@ -2195,7 +2185,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2267,10 +2257,7 @@ How long does the journey from Sidcot to Wester take?
 $
 \begin{aligned}
 \text{Time taken }           &= 10{:}32 - 08{:}45 \\\\
-                              &= 1 \ \text{hour} \ 47 \ \text{minutes}   \\\\
-                              &= 1 \times 60 \ \text{minutes} + 47  \ \text{minutes} \\\\
-                              &= 60 + 47  \\\\
-                              &= 107  \ \text{minutes}
+                             &= 1 \ \text{hour} \ 47 \ \text{minutes} 
 \end{aligned}
 $
 
@@ -2279,7 +2266,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$107  \ \text{minutes}$
+$ 1 \ \text{hour} \ 47 \ \text{minutes} $
 
 </div>
 </div>
@@ -2289,10 +2276,7 @@ $107  \ \text{minutes}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Time taken }           &= 10{:}32 - 08{:}45 \\\\
-                              &= 1 \ \text{hour} \ 47 \ \text{minutes}   \\\\
-                              &= 1 \times 60 \ \text{minutes} + 47  \ \text{minutes} \\\\
-                              &= 60 + 47  \\\\
-                              &= 107  \ \text{minutes}
+                             &= 1 \ \text{hour} \ 47 \ \text{minutes} 
 \end{aligned}
 $
 </code></pre>
@@ -2306,7 +2290,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$107  \ \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$ 1 \ \text{hour} \ 47 \ \text{minutes} $
 </code></pre>
 </div>
 </div>
@@ -2327,14 +2311,9 @@ same. What time did I depart from Bunley if I arrive in Wester at $12 14$?
 $
 \begin{aligned}
 \text{Time taken from Bunley to Wester }      &= 10{:}32 - 08{:}00 \\\\
-                                              &= 02{:}32
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time of depart from Bunley}    &= 12{:}14 - 02{:}32 \\\\
-                                     &= 09{:}42
+                                              &=  2 \ \text{hours} \ 32 \ \text{minutes} \\\\
+\text{Time of depart from Bunley}             &= 12{:}14 -  2 \ \text{hours} \ 32 \ \text{minutes}  \\\\
+                                              &= 09{:}42
 \end{aligned}
 $
 
@@ -2353,14 +2332,9 @@ $09{:}42$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Time taken from Bunley to Wester }      &= 10{:}32 - 08{:}00 \\\\
-                                              &= 02{:}32
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time of depart from Bunley}    &= 12{:}14 - 02{:}32 \\\\
-                                     &= 09{:}42
+                                              &=  2 \ \text{hours} \ 32 \ \text{minutes} \\\\
+\text{Time of depart from Bunley}             &= 12{:}14 -  2 \ \text{hours} \ 32 \ \text{minutes}  \\\\
+                                              &= 09{:}42
 \end{aligned}
 $
 </code></pre>
@@ -3276,7 +3250,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6563C9DA-D275-4231-9D71-242D5FD8FE30</p>
 </div>
@@ -3290,7 +3264,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3352,21 +3326,77 @@ How long did she spend in a car?
 <div class='workings'>
 <div class='working'>
 
-$ 2 \ \text{hours}$
+Let total travelling time $= a$
+
+Time spent travelling in a car $= \dfrac {a} {2}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time spent in train}                            &=  2  \ \text{hours} \\\\
+\dfrac {1} {2} \ \text{of} \ (a - \dfrac {a} {2})     &=  2 \\\\ 
+\dfrac {1} {2} \times \dfrac {a} {2}                  &=  2 \\\\ 
+\dfrac {a} {2 \times 2}                               &=  2 \\\\ 
+\dfrac {a} {4}                                        &=  2 \\\\ 
+a                                                     &= 2 \times 4 \\\\
+a                                                     &= 8  \ \text{hours}
+\end{aligned}
+$
+ 
+$
+\begin{aligned}
+\text{Total travelling time}                          &=  8  \ \text{hours} \\\\
+\text{Time spent in a car}                            &=  \dfrac {a} {2} \\\\
+                                                      &=  \dfrac {8} {2} \\\\
+                                                      &= \dfrac {4 \times 2} {2} \\\\
+                                                      &= \dfrac {4 \times \cancel 2} {\cancel 2} \\\\
+                                                      &= 4 \ \text{hours}
+\end{aligned}
+$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$ 2 \ \text{hours}$
+$ 4 \ \text{hours}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$ 2 \ \text{hours}$
+<pre class='language-latex'><code class='language-latex'>Let total travelling time $= a$
+
+Time spent travelling in a car $= \dfrac {a} {2}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time spent in train}                            &=  2  \ \text{hours} \\\\
+\dfrac {1} {2} \ \text{of} \ (a - \dfrac {a} {2})     &=  2 \\\\ 
+\dfrac {1} {2} \times \dfrac {a} {2}                  &=  2 \\\\ 
+\dfrac {a} {2 \times 2}                               &=  2 \\\\ 
+\dfrac {a} {4}                                        &=  2 \\\\ 
+a                                                     &= 2 \times 4 \\\\
+a                                                     &= 8  \ \text{hours}
+\end{aligned}
+$
+ 
+$
+\begin{aligned}
+\text{Total travelling time}                          &=  8  \ \text{hours} \\\\
+\text{Time spent in a car}                            &=  \dfrac {a} {2} \\\\
+                                                      &=  \dfrac {8} {2} \\\\
+                                                      &= \dfrac {4 \times 2} {2} \\\\
+                                                      &= \dfrac {4 \times \cancel 2} {\cancel 2} \\\\
+                                                      &= 4 \ \text{hours}
+\end{aligned}
+$
+
 </code></pre>
 </div>
 </div>
@@ -3378,7 +3408,7 @@ $ 2 \ \text{hours}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$ 2 \ \text{hours}$
+<pre class='language-latex'><code class='language-latex'>$ 4 \ \text{hours}$
 </code></pre>
 </div>
 </div>
@@ -3395,33 +3425,27 @@ What was her total travelling time?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Total travel time}    &= \text{Travel time in car} + \text{Travel time in train} \\\\
-                            &= 2 + 2 \\\\ 
-                            &= 4  \ \text{hours}
-\end{aligned}
-$
+
+As per the above answer,
+
+Total travelling time $= 8 \ \text{hours}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4  \ \text{hours}$
+$8  \ \text{hours}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Total travel time}    &= \text{Travel time in car} + \text{Travel time in train} \\\\
-                            &= 2 + 2 \\\\ 
-                            &= 4  \ \text{hours}
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>
+As per the above answer,
+
+Total travelling time $= 8 \ \text{hours}$
 </code></pre>
 </div>
 </div>
@@ -3433,7 +3457,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4  \ \text{hours}$
+<pre class='language-latex'><code class='language-latex'>$8  \ \text{hours}$
 </code></pre>
 </div>
 </div>
@@ -6683,7 +6707,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A87AA655-D5C6-4729-987B-172DBA858D1D</p>
 </div>
@@ -6694,7 +6718,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6714,21 +6738,25 @@ Find the smallest number which leaves a remainder of $1$ when divided by $5$ or 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$1$
+
+$1$ is the smallest number that leaves remainder $1$ when divided by $5$ or $6$ or $7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$1$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$1$
+
+$1$ is the smallest number that leaves remainder $1$ when divided by $5$ or $6$ or $7$
 </code></pre>
 </div>
 </div>
@@ -6740,12 +6768,49 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' id='FORM-A87AA655-D5C6-4729-987B-172DBA858D1D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A87AA655-D5C6-4729-987B-172DBA858D1D'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

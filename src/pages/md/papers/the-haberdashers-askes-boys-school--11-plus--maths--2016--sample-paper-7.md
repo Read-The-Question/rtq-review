@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1593,7 +1593,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DC34D83A-C655-4169-BD7D-AF9298939526</p>
 </div>
@@ -1604,7 +1604,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1628,7 +1628,13 @@ $\boxed{5} \ \boxed{3} \ \boxed{ \phantom{5}}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+7
+
+Lets verify,
+
+For the number to be divisible by 3, the sum of digits has to be divisible by 3.
+
+Therefore maximum possible sum $= 15$
 
 </div>
 <div class='working'>
@@ -1640,7 +1646,7 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+5
 
 </div>
 <div class='answer'>
@@ -1652,7 +1658,13 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>7
+
+Lets verify,
+
+For the number to be divisible by 3, the sum of digits has to be divisible by 3.
+
+Therefore maximum possible sum $= 15$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -1669,7 +1681,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>5
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -1685,6 +1697,43 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DC34D83A-C655-4169-BD7D-AF9298939526' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='DC34D83A-C655-4169-BD7D-AF9298939526' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='DC34D83A-C655-4169-BD7D-AF9298939526' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='DC34D83A-C655-4169-BD7D-AF9298939526' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DC34D83A-C655-4169-BD7D-AF9298939526' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='DC34D83A-C655-4169-BD7D-AF9298939526' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='DC34D83A-C655-4169-BD7D-AF9298939526' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='DC34D83A-C655-4169-BD7D-AF9298939526' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='DC34D83A-C655-4169-BD7D-AF9298939526' id='FORM-DC34D83A-C655-4169-BD7D-AF9298939526' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DC34D83A-C655-4169-BD7D-AF9298939526'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -1970,7 +2019,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D4E8DB53-F61B-4532-B213-31CBBB8F961A</p>
 </div>
@@ -1981,7 +2030,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2001,15 +2050,23 @@ Draw lines to link each object to its correct height.
 
 
 Oak Tree $0.324 \ \text{km}$
+
 Eiffel Tower $1.41 \ \text{m}$
+
 Can of soda Car $2390 \ \text{cm}$ 
+
 Car $122 \ \text{mm}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+|     Object     |     Correct Height     |
+|:--------------:|:----------------------:|
+|    Oak Tree    |        $2390$ cm       |
+|  Eiffel Tower  |       $0.324$ km       |
+|   Can of Soda  |        $122$ mm        |
+|       Car      |        $1.41$ m        |
 
 </div>
 <div class='working'>
@@ -2021,7 +2078,12 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+|     Object     |     Correct Height     |
+|:--------------:|:----------------------:|
+|    Oak Tree    |        $2390$ cm       |
+|  Eiffel Tower  |       $0.324$ km       |
+|   Can of Soda  |        $122$ mm        |
+|       Car      |        $1.41$ m        |
 
 </div>
 <div class='answer'>
@@ -2033,7 +2095,12 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>|     Object     |     Correct Height     |
+|:--------------:|:----------------------:|
+|    Oak Tree    |        $2390$ cm       |
+|  Eiffel Tower  |       $0.324$ km       |
+|   Can of Soda  |        $122$ mm        |
+|       Car      |        $1.41$ m        |
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2050,7 +2117,12 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>|     Object     |     Correct Height     |
+|:--------------:|:----------------------:|
+|    Oak Tree    |        $2390$ cm       |
+|  Eiffel Tower  |       $0.324$ km       |
+|   Can of Soda  |        $122$ mm        |
+|       Car      |        $1.41$ m        |
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2066,6 +2138,43 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D4E8DB53-F61B-4532-B213-31CBBB8F961A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D4E8DB53-F61B-4532-B213-31CBBB8F961A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D4E8DB53-F61B-4532-B213-31CBBB8F961A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D4E8DB53-F61B-4532-B213-31CBBB8F961A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D4E8DB53-F61B-4532-B213-31CBBB8F961A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D4E8DB53-F61B-4532-B213-31CBBB8F961A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D4E8DB53-F61B-4532-B213-31CBBB8F961A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D4E8DB53-F61B-4532-B213-31CBBB8F961A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D4E8DB53-F61B-4532-B213-31CBBB8F961A' id='FORM-D4E8DB53-F61B-4532-B213-31CBBB8F961A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D4E8DB53-F61B-4532-B213-31CBBB8F961A'>Initial</p>
+</div>
 </div>
 </li>
 <li>

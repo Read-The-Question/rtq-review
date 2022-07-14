@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-pr-prns"
 title: "TopicPaper - Number - 15 - PR - PRNS"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -550,6 +550,184 @@ mark this question as amber as the division part is not done
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-51EF1152-4680-4066-B3A6-9E35EA7048B4'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>0DB24821-F222-4AA3-A90B-8A08F41EC2D7</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:23</p>
+</div>
+<div class='rag'>
+<p>Mahesh Madiraju</p>
+</div>
+<div class='rag'>
+<p>rag_mm_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+As part of a mathematics project a class is asked to look up the lengths of objects on the internet.
+
+These objects are listed in the rectangles below and the measurements are given in the triangles.
+
+Unfortunately these objects and measurements have been muddled up.
+
+Draw lines on the diagram to match each object with its correct length.
+
+![missing table](/papers/missing_table.svg)
+
+
+Width of Wembley Stadium pitch
+$300 \ \text{mm}$
+Height of an average man
+$5600 \ \text{km}$
+Distance from London to New York
+$135 \ \text{m}$
+Length of a piece of standard $A4$ paper
+$1750 \ \text{mm}$
+Height of the London Eye
+$8800 \ \text{m}$
+Height of Mount Everest
+$6900 \ \text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+|                     Object                   |     Correct Length     |
+|:--------------------------------------------:|:----------------------:|
+|        Width of Wembley Stadium pitch        |   $6900 \ \text{cm}$   |
+|           Height of an average man           |   $1750 \ \text{mm}$   |
+|       Distance from London to New York       |   $5600 \ \text{km}$   |
+|   Length of a piece of standard $A4$ paper   |   $300 \ \text{mm}$    |
+|           Height of the London Eye           |    $135 \ \text{m}$    |
+|           Height of Mount Everest            |   $8800 \ \text{m}$    |
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+|                     Object                   |     Correct Length     |
+|:--------------------------------------------:|:----------------------:|
+|        Width of Wembley Stadium pitch        |   $6900 \ \text{cm}$   |
+|           Height of an average man           |   $1750 \ \text{mm}$   |
+|       Distance from London to New York       |   $5600 \ \text{km}$   |
+|   Length of a piece of standard $A4$ paper   |   $300 \ \text{mm}$    |
+|           Height of the London Eye           |    $135 \ \text{m}$    |
+|           Height of Mount Everest            |   $8800 \ \text{m}$    |
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>|                     Object                   |     Correct Length     |
+|:--------------------------------------------:|:----------------------:|
+|        Width of Wembley Stadium pitch        |   $6900 \ \text{cm}$   |
+|           Height of an average man           |   $1750 \ \text{mm}$   |
+|       Distance from London to New York       |   $5600 \ \text{km}$   |
+|   Length of a piece of standard $A4$ paper   |   $300 \ \text{mm}$    |
+|           Height of the London Eye           |    $135 \ \text{m}$    |
+|           Height of Mount Everest            |   $8800 \ \text{m}$    |
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>|                     Object                   |     Correct Length     |
+|:--------------------------------------------:|:----------------------:|
+|        Width of Wembley Stadium pitch        |   $6900 \ \text{cm}$   |
+|           Height of an average man           |   $1750 \ \text{mm}$   |
+|       Distance from London to New York       |   $5600 \ \text{km}$   |
+|   Length of a piece of standard $A4$ paper   |   $300 \ \text{mm}$    |
+|           Height of the London Eye           |    $135 \ \text{m}$    |
+|           Height of Mount Everest            |   $8800 \ \text{m}$    |
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' id='FORM-0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0DB24821-F222-4AA3-A90B-8A08F41EC2D7'>Initial</p>
 </div>
 </div>
 </li>

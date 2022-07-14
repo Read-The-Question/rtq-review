@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2019-sample-paper-10"
 title: "Sevenoaks School - 11 Plus - Maths - 2019 - Sample Paper 10"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3242,7 +3242,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C85A7D1C-3318-4EEB-988F-C687D36512BB</p>
 </div>
@@ -3256,7 +3256,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3276,7 +3276,6 @@ How many minutes are there from $11{:}11$ until $23{:}23$ on the same day?
 $
 \begin{aligned}
 &= 23{:}23 - 11{:}11 \\\\
-&= 12{:}12 \\\\
 &= 12 \ \text{hours} \ 12 \ \text{minutes} \\\\
 &= 12 \times 60 \ \text{minutes} + 12 \ \text{minutes} \\\\
 &= 720 + 12 \\\\
@@ -3300,7 +3299,6 @@ $732 \ \text{minutes}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 23{:}23 - 11{:}11 \\\\
-&= 12{:}12 \\\\
 &= 12 \ \text{hours} \ 12 \ \text{minutes} \\\\
 &= 12 \times 60 \ \text{minutes} + 12 \ \text{minutes} \\\\
 &= 720 + 12 \\\\

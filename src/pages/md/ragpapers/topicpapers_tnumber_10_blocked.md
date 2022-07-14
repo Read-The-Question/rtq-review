@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-10-blocked"
 title: "TopicPaper - Number - 10 - BLOCKED"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -147,6 +147,252 @@ $17$
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$17$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>836169C8-E272-4A22-ACB9-5D73CCEFC167</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:15</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
+<p>rag_da_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tlcm
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the highest common factor (HCF) of $66$ and $30$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{The prime factors for 66, 30 are:}\\\\
+66&=2\times3\times11\\\\
+30&=2\times 3\times5\\\\
+\text{The factors that given numbers have in common are:}\\\\
+&=2\times3\\\\
+&=6
+\end{aligned}
+$
+
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+6
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{The prime factors for 66, 30 are:}\\\\
+66&=2\times3\times11\\\\
+30&=2\times 3\times5\\\\
+\text{The factors that given numbers have in common are:}\\\\
+&=2\times3\\\\
+&=6
+\end{aligned}
+$
+
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>6
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the lowest common multiple (LCM) of $12$ and $8$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{The prime factors for 12, 8 are:}\\\\
+12&=2\times2\times3\\\\
+8&=2\times 2\times2\\\\
+\text{Multiply each factor the greater number of times}\\
+\text{it occurs in steps i) or ii) above to find the LCM:}\\\\
+&=2\times2\times2\times 3\\\\
+&=24
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+24
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{The prime factors for 12, 8 are:}\\\\
+12&=2\times2\times3\\\\
+8&=2\times 2\times2\\\\
+\text{Multiply each factor the greater number of times}\\
+\text{it occurs in steps i) or ii) above to find the LCM:}\\\\
+&=2\times2\times2\times 3\\\\
+&=24
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>24
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -1124,6 +1370,282 @@ $
 </div>
 </li>
 <li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>FF8263CB-765D-4212-B45C-E95A8847AA0A</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3:1:6</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
+<p>rag_da_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the largest whole number that is a factor of (i.e. will divide into) $357$ and $255$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Find the prime factorization of 357
+
+= $3\times7\times17$
+
+Find the prime factorization of 255
+
+= $3\times5\times17$
+
+To find the GCF, multiply all the prime factors common to both numbers:
+
+= $3\times 17$
+
+= $51$
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51$
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Find the prime factorization of 357
+
+= $3\times7\times17$
+
+Find the prime factorization of 255
+
+= $3\times5\times17$
+
+To find the GCF, multiply all the prime factors common to both numbers:
+
+= $3\times 17$
+
+= $51$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$51$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the smallest whole number that $357$ and $255$ will divide into?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Find the prime factorization of 357
+
+= $3\times7\times17$
+
+Find the prime factorization of 255
+
+= $3\times5\times17$
+
+Multiply each factor the greater number of times it occurs in steps i) or ii) above to find the LCM:
+
+= $3\times5\times7\times 17$
+
+= $1785$
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1785$
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Find the prime factorization of 357
+
+= $3\times7\times17$
+
+Find the prime factorization of 255
+
+= $3\times5\times17$
+
+Multiply each factor the greater number of times it occurs in steps i) or ii) above to find the LCM:
+
+= $3\times5\times7\times 17$
+
+= $1785$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1785$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB</p>
@@ -1316,6 +1838,487 @@ $6!$
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$6!$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>154CF3A5-8DE7-4C0B-BB62-B260198A6014</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:1:1</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
+<p>rag_da_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A car is $3.28 \ \text{metres}$ long. A trailer is $1.86 \ \text{metres}$ long.
+
+What is the combined length?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total length} &= 3.28 + 1.86 \\\\
+                    &= 5.14 \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5.14 \ \text{metres}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total length} &= 3.28 + 1.86 \\\\
+                    &= 5.14 \ \text{metres}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$5.14 \ \text{metres}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A pallet of bricks contains $648$ bricks.
+
+Calculate the number of bricks in $37$ pallets.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of bricks} &= 648 \times 37 \\\\
+                        &= 23976
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23976$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of bricks} &= 648 \times 37 \\\\
+                        &= 23976
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$23976$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+One kilogram of carrots cost $\pounds 1.79$. 
+
+What does $0.37 \ \text{kilograms}$ of carrots cost (to the nearest pence)?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cost of 0.37 kilograms of carrots} &= 1.79 \times 0.37 \\\\
+                                         &= \pounds 0.6623 \\\\
+\text{Let's convert the cost into pence} &= 0.6623 \times 100 \text{p} \\\\
+                                         &= 66.23 \text{p} \\\\
+\text{Rounding to nearest pence}         &= 66 \text{p}                              
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$66 \text{p}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Cost of 0.37 kilograms of carrots} &= 1.79 \times 0.37 \\\\
+                                         &= \pounds 0.6623 \\\\
+\text{Let's convert the cost into pence} &= 0.6623 \times 100 \text{p} \\\\
+                                         &= 66.23 \text{p} \\\\
+\text{Rounding to nearest pence}         &= 66 \text{p}                              
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$66 \text{p}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+There are $0.907 \ \text{metres}$ in $1$ yard. How many metres are there in $0.026 \ \text{yards}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total metres} &= 0.907 \times 0.026 \\\\
+                    &= 0.023582 \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.023582 \ \text{metres}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total metres} &= 0.907 \times 0.026 \\\\
+                    &= 0.023582 \ \text{metres}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0.023582 \ \text{metres}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The total length of seven cars is $22.19 \ \text{metres}$. What is the average length of these cars?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Average length of cars} &= \dfrac {22.19} {7} \\\\
+&= \dfrac {22.19\times100} {7\times 100} \\\\
+&= \dfrac {2219} {7\times 100} \\\\
+&= \dfrac {7\times 317} {7\times 100} \\\\
+&= \dfrac {\cancel{7}\times 317} {\cancel{7}\times 100} \\\\
+&= \dfrac {317} {100} \\\\
+                              &= 3.17 \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.17 \ \text{metres}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Average length of cars} &= \dfrac {22.19} {7} \\\\
+&= \dfrac {22.19\times100} {7\times 100} \\\\
+&= \dfrac {2219} {7\times 100} \\\\
+&= \dfrac {7\times 317} {7\times 100} \\\\
+&= \dfrac {\cancel{7}\times 317} {\cancel{7}\times 100} \\\\
+&= \dfrac {317} {100} \\\\
+                              &= 3.17 \ \text{metres}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3.17 \ \text{metres}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out $11 + 39 \div 13 - 5 \times 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: Using BIDMAS
+,
+
+$
+\begin{aligned}
+&= 11 + 39 \div 13 - 5 \times 3 \\\\
+&= 11 + 3 - 5\times 3 \\\\
+&= 11 + 3 - 15 \\\\
+&= 14 -15\\\\
+&=-1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
+
+$
+\begin{aligned}
+&= 11 + 39 \div 13 - 5 \times 3 \\\\
+&= 11 + 3 - 5\times 3 \\\\
+&= 11 + 3 - 15 \\\\
+&= 14 -15\\\\
+&=-1
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$-1$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$67\%$ of all pencils manufactured are never used up.
+
+In a bulk pack of $3490$ pencils, how many will not be used up?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of pencils never used up}          &= 67 \% \times 3490 \\\\
+                                                &= \dfrac {67} {100} \times 3490 \\\\
+                                                &= \dfrac {67 \times 3490} {100} \\\\
+                                                &= \dfrac {233830} {100} \\\\
+                                                &= 2338.3 \\\\
+\text{Rounding down to nearest whole number}    &= 2338 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2338$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Number of pencils never used up}          &= 67 \% \times 3490 \\\\
+                                                &= \dfrac {67} {100} \times 3490 \\\\
+                                                &= \dfrac {67 \times 3490} {100} \\\\
+                                                &= \dfrac {233830} {100} \\\\
+                                                &= 2338.3 \\\\
+\text{Rounding down to nearest whole number}    &= 2338 \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2338$
 </code></pre>
 </div>
 </div>

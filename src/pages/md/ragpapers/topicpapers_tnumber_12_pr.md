@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-pr"
 title: "TopicPaper - Number - 12 - PR"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>FEE94A57-39F7-4E68-9F4D-2274BBB339A7</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-14 14:27:34
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -427,6 +427,31 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove extra workings and answers
+
+
+
+remove extra workings
+
+
+
+a: do like ECED2877-3C6B-4FB7-8C76-F0180A1A0C2B, decimal points not written correclty.
+
+
+
+b: multiply sign not in the right place, look for guidelines.
+
+
+
+c: same as part a. decimal point and decimal prompt.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -468,7 +493,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6</p>
 </div>
@@ -482,7 +507,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -716,6 +741,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write bidmas abbreviation wherever required.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -757,7 +791,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>B7F7A1F1-453F-4B7E-AF9B-743C20162512</p>
 </div>
@@ -771,7 +805,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1062,6 +1096,14 @@ $
 
 <h4>Review Comments</h4>
 division question mark it amber
+
+
+
+c: X not in the right place, look at guidelines
+
+
+
+c: X not in the right place, look at guidelines
 </div>
 
 <div class='review'>
@@ -1104,7 +1146,7 @@ division question mark it amber
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>16D15C16-4732-4D23-B040-8F37EB1A5DC3</p>
 </div>
@@ -1118,7 +1160,7 @@ division question mark it amber
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1330,6 +1372,15 @@ TODOANSWER
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write like A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1371,7 +1422,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06</p>
 </div>
@@ -1385,7 +1436,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1680,6 +1731,18 @@ $
 
 <h4>Review Comments</h4>
 mark it amber(div question)
+
+
+
+a: use abbreviate for the decimal prompt instead of text, decimal not written correctly, check how to write in other answers.
+
+
+
+c: X not placeed correctly, fix
+
+
+
+c: X not placeed correctly, fix
 </div>
 
 <div class='review'>
@@ -1722,134 +1785,7 @@ mark it amber(div question)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>D5021FF9-3A58-4AEA-87F5-5DB2612B1138</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:11</p>
-</div>
-<div class='rag'>
-<p>Deepak Agrahari</p>
-</div>
-<div class='rag'>
-<p>rag_da_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find three prime numbers that add up to another prime number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using trial and error,
-
-Prime numbers $= 3, 7, 13$
-
-Let's verify.
-
-$
-\begin{aligned}
-&= 3 + 7 + 13 \\\\
-&= 10 + 13 \\\\
-&= 23
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, 7, 13$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Using trial and error,
-
-Prime numbers $= 3, 7, 13$
-
-Let's verify.
-
-$
-\begin{aligned}
-&= 3 + 7 + 13 \\\\
-&= 10 + 13 \\\\
-&= 23
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3, 7, 13$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' id='FORM-D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D5021FF9-3A58-4AEA-87F5-5DB2612B1138'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>970F2EE0-98DA-45DF-A88C-260A3AC22A4A</p>
 </div>
@@ -1863,7 +1799,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2080,6 +2016,15 @@ $6.0$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write using begin align \approx way. refer 142280BA-7FA3-4D0B-B002-0B6A5B2CCEAE
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2574,7 +2519,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>9913D5D9-28C9-4171-9AC9-76BEBDA4D051</p>
 </div>
@@ -2588,7 +2533,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2952,6 +2897,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+refer 2414B804-D702-4FED-B317-F76BD48DA812, write the operators at the top (before lets verify) using boxes and colours. Do not write colours in begin aligned
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2993,7 +2947,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>480AC0B2-6C51-47B1-9F2D-FB2D3727A855</p>
 </div>
@@ -3007,7 +2961,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3097,21 +3051,15 @@ What is the answer if you apply the rule to the number $30$?
 <div class='workings'>
 <div class='working'>
 
-As per question,
-
 $
 \begin{aligned}
-&=30+12\\\\
-&=42\\\\
-&=42\div 2\\\\
-&=21
+&= (30 + 12) \div 2 \\\\
+&= \dfrac {30 + 12} {2} \\\\
+&= \dfrac {42} {2} \\\\
+&= \dfrac {21 \times 2} {2} \\\\
+&= 21
 \end{aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -3121,30 +3069,19 @@ TODOWORKING
 $21$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=30+12\\\\
-&=42\\\\
-&=42\div 2\\\\
-&=21
+&= (30 + 12) \div 2 \\\\
+&= \dfrac {30 + 12} {2} \\\\
+&= \dfrac {42} {2} \\\\
+&= \dfrac {21 \times 2} {2} \\\\
+&= 21
 \end{aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -3157,16 +3094,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$21$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -3459,10 +3386,9 @@ As per question,
 $
 \begin{aligned}
 \dfrac{N+12}{2} &=N\\\\
-N+12            &=N\times2\\\\
 N+12            &=2N\\\\
 2N-N            &=12\\\\
-N               &=12\\\\
+N               &=12
 \end{aligned}
 $
 
@@ -3494,10 +3420,9 @@ As per question,
 $
 \begin{aligned}
 \dfrac{N+12}{2} &=N\\\\
-N+12            &=N\times2\\\\
 N+12            &=2N\\\\
 2N-N            &=12\\\\
-N               &=12\\\\
+N               &=12
 \end{aligned}
 $
 </code></pre>
@@ -3534,6 +3459,31 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+i have done part a, change part b on the same lines,
+
+
+
+As per the question instead of As per question,
+
+
+
+b: answer is wrong, apply rule twice.
+
+
+
+d: is wrong, rule applied twice
+
+
+
+white space is not used for writing katex, please write clean katex
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3575,7 +3525,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>8EA5D8D5-36F2-42D7-A005-1AE987932EEB</p>
 </div>
@@ -3589,7 +3539,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3895,6 +3845,27 @@ $12\times 4 = 48$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+These are simple question, so can just write answer instead of how its been done, for eg for part a:
+
+
+
+just write
+
+
+
+$4\times 2 = 8$
+
+
+
+change all on those lines
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3932,290 +3903,6 @@ $12\times 4 = 48$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-8EA5D8D5-36F2-42D7-A005-1AE987932EEB'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>974B41CD-4F4F-40A8-9A75-397312C3A65D</p>
-</div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:3:8</p>
-</div>
-<div class='rag'>
-<p>Deepak Agrahari</p>
-</div>
-<div class='rag'>
-<p>rag_da_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Some of the digits are missing in the multiplications below. Find the missing digits and write out the multiplications in the answer box. You may use the same digit more than once. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-%TODOKATEX%
-
-6 
-*
-*
-X
-3 
-*
-4 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-%TODOKATEX%
-
-
-* 
-6
-*
-7
-X
-*
-1
-*
-3 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' id='FORM-974B41CD-4F4F-40A8-9A75-397312C3A65D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-974B41CD-4F4F-40A8-9A75-397312C3A65D'>Initial</p>
 </div>
 </div>
 </li>

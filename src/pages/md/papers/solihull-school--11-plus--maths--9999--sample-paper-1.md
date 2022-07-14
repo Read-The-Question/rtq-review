@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5159,7 +5159,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>9913D5D9-28C9-4171-9AC9-76BEBDA4D051</p>
 </div>
@@ -5173,7 +5173,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5537,6 +5537,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+refer 2414B804-D702-4FED-B317-F76BD48DA812, write the operators at the top (before lets verify) using boxes and colours. Do not write colours in begin aligned
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5900,7 +5909,7 @@ TODOANSWER
 # Section C
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>480AC0B2-6C51-47B1-9F2D-FB2D3727A855</p>
 </div>
@@ -5914,7 +5923,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6004,21 +6013,15 @@ What is the answer if you apply the rule to the number $30$?
 <div class='workings'>
 <div class='working'>
 
-As per question,
-
 $
 \begin{aligned}
-&=30+12\\\\
-&=42\\\\
-&=42\div 2\\\\
-&=21
+&= (30 + 12) \div 2 \\\\
+&= \dfrac {30 + 12} {2} \\\\
+&= \dfrac {42} {2} \\\\
+&= \dfrac {21 \times 2} {2} \\\\
+&= 21
 \end{aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
@@ -6028,30 +6031,19 @@ TODOWORKING
 $21$
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=30+12\\\\
-&=42\\\\
-&=42\div 2\\\\
-&=21
+&= (30 + 12) \div 2 \\\\
+&= \dfrac {30 + 12} {2} \\\\
+&= \dfrac {42} {2} \\\\
+&= \dfrac {21 \times 2} {2} \\\\
+&= 21
 \end{aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -6064,16 +6056,6 @@ $
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$21$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -6366,10 +6348,9 @@ As per question,
 $
 \begin{aligned}
 \dfrac{N+12}{2} &=N\\\\
-N+12            &=N\times2\\\\
 N+12            &=2N\\\\
 2N-N            &=12\\\\
-N               &=12\\\\
+N               &=12
 \end{aligned}
 $
 
@@ -6401,10 +6382,9 @@ As per question,
 $
 \begin{aligned}
 \dfrac{N+12}{2} &=N\\\\
-N+12            &=N\times2\\\\
 N+12            &=2N\\\\
 2N-N            &=12\\\\
-N               &=12\\\\
+N               &=12
 \end{aligned}
 $
 </code></pre>
@@ -6441,6 +6421,31 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+i have done part a, change part b on the same lines,
+
+
+
+As per the question instead of As per question,
+
+
+
+b: answer is wrong, apply rule twice.
+
+
+
+d: is wrong, rule applied twice
+
+
+
+white space is not used for writing katex, please write clean katex
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7324,7 +7329,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>8EA5D8D5-36F2-42D7-A005-1AE987932EEB</p>
 </div>
@@ -7338,7 +7343,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7644,6 +7649,27 @@ $12\times 4 = 48$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+These are simple question, so can just write answer instead of how its been done, for eg for part a:
+
+
+
+just write
+
+
+
+$4\times 2 = 8$
+
+
+
+change all on those lines
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7685,7 +7711,7 @@ $12\times 4 = 48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>974B41CD-4F4F-40A8-9A75-397312C3A65D</p>
 </div>
@@ -7696,10 +7722,10 @@ $12\times 4 = 48$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7929,43 +7955,6 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='974B41CD-4F4F-40A8-9A75-397312C3A65D' id='FORM-974B41CD-4F4F-40A8-9A75-397312C3A65D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-974B41CD-4F4F-40A8-9A75-397312C3A65D'>Initial</p>
-</div>
 </div>
 </li>
 </ul>

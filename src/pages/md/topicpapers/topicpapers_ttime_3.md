@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-3"
 title: "TopicPaper - Time - 3"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3265,7 +3265,7 @@ ad a step between step 1 and step 2:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C85A7D1C-3318-4EEB-988F-C687D36512BB</p>
 </div>
@@ -3279,7 +3279,7 @@ ad a step between step 1 and step 2:
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3299,7 +3299,6 @@ How many minutes are there from $11{:}11$ until $23{:}23$ on the same day?
 $
 \begin{aligned}
 &= 23{:}23 - 11{:}11 \\\\
-&= 12{:}12 \\\\
 &= 12 \ \text{hours} \ 12 \ \text{minutes} \\\\
 &= 12 \times 60 \ \text{minutes} + 12 \ \text{minutes} \\\\
 &= 720 + 12 \\\\
@@ -3323,7 +3322,6 @@ $732 \ \text{minutes}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 23{:}23 - 11{:}11 \\\\
-&= 12{:}12 \\\\
 &= 12 \ \text{hours} \ 12 \ \text{minutes} \\\\
 &= 12 \times 60 \ \text{minutes} + 12 \ \text{minutes} \\\\
 &= 720 + 12 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-blocked"
 title: "TopicPaper - Time - 2 - BLOCKED"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -228,6 +228,90 @@ He will be $0843 - 0835 = 8 \ \text {minutes}$ for registration.
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>464C68A6-30E1-4FB7-9F2A-1F485F1C4F73</p>
+</div>
+<div class='papername'>
+<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Buses leave Halifax to Elland every $9 \ \text{minutes}$. Buses leave Halifax to Sowerby Bridge every $12 \ \text{minutes}$. 
+A bus to Elland and a bus to Sowerby Bridge both leave Halifax at $9 \ \text{am}$. At what time will a bus to Elland and a bus to Sowerby Bridge next leave Halifax at the same time?
+
+- $10.12 \ \text{am}$
+- $09.27 \ \text{am}$
+- $10.48 \ \text{am}$
+- $09.36 \ \text{am}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {time at which both buses leave together again} &= 09.00 \ \text{am} + \text {lowest common multiple of the time intervals} \\\\
+                                                      &= 09.00 \ \text{am} + 36 \ \text{minutes} \\\\
+                                                      &= 09.36 \ \text{am}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+D $=$ $09.36 \ \text{am}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {time at which both buses leave together again} &= 09.00 \ \text{am} + \text {lowest common multiple of the time intervals} \\\\
+                                                      &= 09.00 \ \text{am} + 36 \ \text{minutes} \\\\
+                                                      &= 09.36 \ \text{am}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$09.36 \ \text{am}$
+</code></pre>
+</div>
+</div>
+
 
 </div>
 </li>

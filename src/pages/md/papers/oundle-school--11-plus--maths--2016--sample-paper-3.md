@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-3"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-14 14:23:02
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7C2113F9-AB30-441B-B2AE-B6D84D249E3E</p>
 </div>
@@ -24,10 +24,10 @@ date: 2022-07-14 14:23:02
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_oldpr</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -266,6 +266,7 @@ $21\%$ of $426$
 
 $
 \begin{aligned}
+&= 21\% \text{ of } 426 \\\\
 &= \dfrac {21} {100} \times 426 \\\\
 &= \dfrac {21 \times 426} {100} \\\\
 &= \dfrac {8946} {100} \\\\
@@ -287,6 +288,7 @@ $89.46$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= 21\% \text{ of } 426 \\\\
 &= \dfrac {21} {100} \times 426 \\\\
 &= \dfrac {21 \times 426} {100} \\\\
 &= \dfrac {8946} {100} \\\\
@@ -388,7 +390,9 @@ $
 \begin{aligned}
 &= 2\dfrac {1} {3} \times 3\dfrac {3} {7} \\\\
 &= \dfrac {7} {3} \times \dfrac {24} {7} \\\\
-&= \dfrac{\cancel {7} \times \cancel {3} \times 8} {\cancel {3} \times \cancel{7}} \\\\
+&= \dfrac {7 \times 24} {3 \times 7}  \\\\
+&= \dfrac {7 \times 8 \times 3} {3 \times 7}  \\\\
+&= \dfrac {\cancel{7} \times 8 \times \cancel{3}} {\cancel{3} \times \cancel{7}}  \\\\
 &= 8
 \end{aligned}
 $
@@ -409,7 +413,9 @@ $8$
 \begin{aligned}
 &= 2\dfrac {1} {3} \times 3\dfrac {3} {7} \\\\
 &= \dfrac {7} {3} \times \dfrac {24} {7} \\\\
-&= \dfrac{\cancel {7} \times \cancel {3} \times 8} {\cancel {3} \times \cancel{7}} \\\\
+&= \dfrac {7 \times 24} {3 \times 7}  \\\\
+&= \dfrac {7 \times 8 \times 3} {3 \times 7}  \\\\
+&= \dfrac {\cancel{7} \times 8 \times \cancel{3}} {\cancel{3} \times \cancel{7}}  \\\\
 &= 8
 \end{aligned}
 $
@@ -432,45 +438,36 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-part c align
-
-PArt d delete % in step 1
-
-part e  cancel step missing
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' id='FORM-7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='7C2113F9-AB30-441B-B2AE-B6D84D249E3E' id='FORM-7C2113F9-AB30-441B-B2AE-B6D84D249E3E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1802,7 +1799,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>FF8263CB-765D-4212-B45C-E95A8847AA0A</p>
 </div>
@@ -1813,10 +1810,10 @@ TODOANSWER
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2075,43 +2072,6 @@ Multiply each factor the greater number of times it occurs in steps i) or ii) ab
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='FF8263CB-765D-4212-B45C-E95A8847AA0A' id='FORM-FF8263CB-765D-4212-B45C-E95A8847AA0A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-FF8263CB-765D-4212-B45C-E95A8847AA0A'>Initial</p>
-</div>
 </div>
 </li>
 <li>

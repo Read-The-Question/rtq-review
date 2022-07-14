@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5305,7 +5305,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>5116C593-B84B-4E1A-B0A4-93B1D9786F62</p>
 </div>
@@ -5319,7 +5319,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5504,7 +5504,7 @@ How many seconds behind the winner was the person who came last?
 $
 \begin{aligned}
 &= 1 \ \text{min} \ 25 \ \text{sec} - 1 \ \text{min} \ 13 \ \text{sec} \\\\
-&= 12  \ \text{sec}
+&= 12  \ \text{seconds}
 \end{aligned}
 $
 
@@ -5513,7 +5513,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-&= 12  \ \text{sec}
+$ 12  \ \text{seconds}$
 
 </div>
 </div>
@@ -5523,7 +5523,7 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 1 \ \text{min} \ 25 \ \text{sec} - 1 \ \text{min} \ 13 \ \text{sec} \\\\
-&= 12  \ \text{sec}
+&= 12  \ \text{seconds}
 \end{aligned}
 $
 </code></pre>
@@ -5537,7 +5537,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>&= 12  \ \text{sec}
+<pre class='language-latex'><code class='language-latex'>$ 12  \ \text{seconds}$
 </code></pre>
 </div>
 </div>

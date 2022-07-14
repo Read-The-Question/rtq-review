@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2607,7 +2607,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>FEE94A57-39F7-4E68-9F4D-2274BBB339A7</p>
 </div>
@@ -2621,7 +2621,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3029,6 +3029,31 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove extra workings and answers
+
+
+
+remove extra workings
+
+
+
+a: do like ECED2877-3C6B-4FB7-8C76-F0180A1A0C2B, decimal points not written correclty.
+
+
+
+b: multiply sign not in the right place, look for guidelines.
+
+
+
+c: same as part a. decimal point and decimal prompt.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4612,7 +4637,7 @@ $10 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6</p>
 </div>
@@ -4626,7 +4651,7 @@ $10 \ \text{cm}$
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4860,6 +4885,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write bidmas abbreviation wherever required.
+</div>
 
 <div class='review'>
 <ul class='review'>

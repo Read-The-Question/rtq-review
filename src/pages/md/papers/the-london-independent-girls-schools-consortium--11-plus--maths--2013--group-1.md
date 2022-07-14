@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3410,7 +3410,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0D5CF5E2-BF8D-4E7E-BAA3-D1EF882CC453</p>
 </div>
@@ -3424,7 +3424,7 @@ $
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3451,7 +3451,7 @@ For how long should Claire cook the turkey?
 
 $
 \begin{aligned}
-\text {time she should cook} &= 2.5 \times 50 + 20 \ \text {minutes} \\\\
+\text {Cooking Time}         &= 2.5 \times 50 \ \text {minutes} + 20 \ \text {minutes} \\\\
                              &= 125 + 20 \\\\
                              &= 145 \ \text {minutes} \\\\
                              &= 120 \ \text {minutes} + 25 \ \text {minutes} \\\\
@@ -3473,7 +3473,7 @@ $2 \ \text {hours} \ 25 \ \text {minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {time she should cook} &= 2.5 \times 50 + 20 \ \text {minutes} \\\\
+\text {Cooking Time}         &= 2.5 \times 50 \ \text {minutes} + 20 \ \text {minutes} \\\\
                              &= 125 + 20 \\\\
                              &= 145 \ \text {minutes} \\\\
                              &= 120 \ \text {minutes} + 25 \ \text {minutes} \\\\

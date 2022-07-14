@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4662,7 +4662,7 @@ One million eight hundred eighty two thousand seven hundred
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -4676,7 +4676,7 @@ One million eight hundred eighty two thousand seven hundred
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4805,7 +4805,8 @@ As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {4400} {1760} \\\\
+&= 4400\times\dfrac{1}{1760}\ \text {miles} \\\\
+&= \dfrac{4400}{1760} \\\\
 &= \dfrac {25\times 176} {10\times 176} \\\\
 &= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
 &=\dfrac{25}{10}\\\\
@@ -4830,7 +4831,8 @@ $2.5 \ \text {miles}$
 
 $
 \begin{aligned}
-&= \dfrac {4400} {1760} \\\\
+&= 4400\times\dfrac{1}{1760}\ \text {miles} \\\\
+&= \dfrac{4400}{1760} \\\\
 &= \dfrac {25\times 176} {10\times 176} \\\\
 &= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
 &=\dfrac{25}{10}\\\\
@@ -4870,10 +4872,14 @@ As per the question,
 
 $
 \begin{aligned}
-&= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
-&= \dfrac {2.5 \times 5} {8} \\\\
-&= \dfrac {12.5} {8} \\\\
-&= 1.5625 \ \text {km}
+\because\ 1\ \text{kilometer}&=\dfrac{5}{8}\ \text {miles} \\\\
+\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometer} \\\\
+2.5\times 1 &= 2.5\times\dfrac{8}{5}\ \text {kilometer} \\\\
+&= \dfrac {2.5\times 8} {5} \\\\
+&= \dfrac {20} {5} \\\\
+&= \dfrac {4\times5} {5} \\\\
+&= \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
+&= 4 \ \text {kilometer}
 \end{aligned}
 $
 
@@ -4883,7 +4889,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1.5625 \ \text {km}$
+$4 \ \text {km}$
 
 </div>
 </div>
@@ -4894,10 +4900,14 @@ $1.5625 \ \text {km}$
 
 $
 \begin{aligned}
-&= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
-&= \dfrac {2.5 \times 5} {8} \\\\
-&= \dfrac {12.5} {8} \\\\
-&= 1.5625 \ \text {km}
+\because\ 1\ \text{kilometer}&=\dfrac{5}{8}\ \text {miles} \\\\
+\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometer} \\\\
+2.5\times 1 &= 2.5\times\dfrac{8}{5}\ \text {kilometer} \\\\
+&= \dfrac {2.5\times 8} {5} \\\\
+&= \dfrac {20} {5} \\\\
+&= \dfrac {4\times5} {5} \\\\
+&= \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
+&= 4 \ \text {kilometer}
 \end{aligned}
 $
 
@@ -4912,7 +4922,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1.5625 \ \text {km}$
+<pre class='language-latex'><code class='language-latex'>$4 \ \text {km}$
 </code></pre>
 </div>
 </div>

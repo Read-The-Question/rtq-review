@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdirection-1-notstarted"
 title: "TopicPaper - Direction - 1 - NOTSTARTED"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <ul class='question default-decimal'>
 <li>

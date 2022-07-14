@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1864,7 +1864,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>9DEAFF28-1458-4484-8942-1E3083F1D0E8</p>
 </div>
@@ -1878,7 +1878,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2192,6 +2192,41 @@ $3 \ \text{cm}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+extra TODOWORKING AND TODOANSWER remove that, replace with %empty%, check other answers how it is done
+
+
+
+
+
+
+
+these are word problem, write them in simple word instead of just numbers
+
+
+
+these are word problem, write them in simple word instead of just numbers
+
+
+
+
+
+
+
+Refer 269CAEB1-ECC7-4634-9068-42EF39354F2F on how to write. pseudo code for part 1
+
+
+
+Area = \approx 1570 \ \text{km}^2
+
+    \approx 1570 \ \text{km}^2
+</div>
 
 <div class='review'>
 <ul class='review'>

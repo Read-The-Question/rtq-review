@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1399,7 +1399,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D9B9E901-ED49-4035-81FE-273FD45511EB</p>
 </div>
@@ -1413,7 +1413,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1474,10 +1474,10 @@ $\text{centimetres}$ are there in $70\ \text{mm}$?
 $
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
-&=  7\times10\times\dfrac{1}{10} \\\\
-&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
-&=  7 \ \text {cm}
+&=  {70}\times\dfrac{1}{10}\ \text {centimetres} \\\\
+&=  \dfrac{70}{10} \\\\
+&=  \dfrac{7\cancel{0}}{1\cancel{0}} \\\\
+&=  7 \ \text {centimetres}
 \end{aligned}
 $
 
@@ -1486,7 +1486,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7cm$
+$7 \ \text {centimetres} $
 
 </div>
 </div>
@@ -1496,10 +1496,10 @@ $7cm$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
-&=  7\times10\times\dfrac{1}{10} \\\\
-&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
-&=  7 \ \text {cm}
+&=  {70}\times\dfrac{1}{10}\ \text {centimetres} \\\\
+&=  \dfrac{70}{10} \\\\
+&=  \dfrac{7\cancel{0}}{1\cancel{0}} \\\\
+&=  7 \ \text {centimetres}
 \end{aligned}
 $
 </code></pre>
@@ -1513,7 +1513,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7cm$
+<pre class='language-latex'><code class='language-latex'>$7 \ \text {centimetres} $
 </code></pre>
 </div>
 </div>
@@ -1533,8 +1533,8 @@ $\text{grams}$ are there in $4\ \text{kg}$?
 $
 \begin{aligned}
 &=  4 \ \text {kg} \\\\
-&=  4 \times 1000 \ \text {g} \\\\
-&=  4000 \ \text {g}
+&=  4 \times 1000 \ \text {grams} \\\\
+&=  4000 \ \text {grams}
 \end{aligned}
 $
 
@@ -1543,7 +1543,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4000 \text {g}$
+$4000\ \text {grams}$
 
 </div>
 </div>
@@ -1553,8 +1553,8 @@ $4000 \text {g}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  4 \ \text {kg} \\\\
-&=  4 \times 1000 \ \text {g} \\\\
-&=  4000 \ \text {g}
+&=  4 \times 1000 \ \text {grams} \\\\
+&=  4000 \ \text {grams}
 \end{aligned}
 $
 </code></pre>
@@ -1568,7 +1568,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4000 \text {g}$
+<pre class='language-latex'><code class='language-latex'>$4000\ \text {grams}$
 </code></pre>
 </div>
 </div>
@@ -1587,9 +1587,9 @@ $\text{millilitres}$ are there in $3\ \text{litres}$?
 
 $
 \begin{aligned}
-&=  3 \ l\\\\
-&=  3 \times 1000 \text {ml}\\\\
-&=  3000 \text {ml}
+&=  3 \ \text{litres}\\\\
+&=  3 \times 1000\ \text {millilitres}\\\\
+&=  3000\ \text {millilitres}
 \end{aligned}
 $
 
@@ -1598,7 +1598,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3000\ text {ml}$
+$3000\ \text {millilitres}$
 
 </div>
 </div>
@@ -1607,9 +1607,9 @@ $3000\ text {ml}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=  3 \ l\\\\
-&=  3 \times 1000 \text {ml}\\\\
-&=  3000 \text {ml}
+&=  3 \ \text{litres}\\\\
+&=  3 \times 1000\ \text {millilitres}\\\\
+&=  3000\ \text {millilitres}
 \end{aligned}
 $
 </code></pre>
@@ -1623,7 +1623,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3000\ text {ml}$
+<pre class='language-latex'><code class='language-latex'>$3000\ \text {millilitres}$
 </code></pre>
 </div>
 </div>
@@ -3305,7 +3305,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
@@ -3319,7 +3319,7 @@ $9$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3338,18 +3338,10 @@ A child’s heart beats $80$ times per minute. How many times will it beat betwe
 
 $
 \begin{aligned}
-\text {Time difference}  &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am} \\\\
-                         &= 15 {:} 30 - 8 {:} 30 \\\\
-                         &= 7 \ \text {hours} \\\\
-                         &= 7 \times 60 \ \text {minutes} \\\\
-                         &= 420 \ \text {minutes}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Total heartbeat}  &= \text {(Time difference)} \times 80 \ \text {bpm} \\\\
-                         &= 420 \times 80 \\\\
+\text {Heartbeat rate}   &= 80 \times (3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am})\\\\
+                         &= 80 \times 7 \ \text {hours} \\\\
+                         &= 80 \times 7 \times 60 \ \text {minutes} \\\\
+                         &= 80 \times 420\\\\
                          &= 33600 \ \text {times}
 \end{aligned}
 $
@@ -3359,7 +3351,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$33600$
+$33600 \ \text {times}$
 
 </div>
 </div>
@@ -3368,18 +3360,10 @@ $33600$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Time difference}  &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am} \\\\
-                         &= 15 {:} 30 - 8 {:} 30 \\\\
-                         &= 7 \ \text {hours} \\\\
-                         &= 7 \times 60 \ \text {minutes} \\\\
-                         &= 420 \ \text {minutes}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Total heartbeat}  &= \text {(Time difference)} \times 80 \ \text {bpm} \\\\
-                         &= 420 \times 80 \\\\
+\text {Heartbeat rate}   &= 80 \times (3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am})\\\\
+                         &= 80 \times 7 \ \text {hours} \\\\
+                         &= 80 \times 7 \times 60 \ \text {minutes} \\\\
+                         &= 80 \times 420\\\\
                          &= 33600 \ \text {times}
 \end{aligned}
 $
@@ -3394,7 +3378,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$33600$
+<pre class='language-latex'><code class='language-latex'>$33600 \ \text {times}$
 </code></pre>
 </div>
 </div>

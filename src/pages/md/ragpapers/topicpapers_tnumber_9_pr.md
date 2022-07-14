@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-pr"
 title: "TopicPaper - Number - 9 - PR"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>767A83AB-D696-47B5-958B-CB9F94B0FA06</p>
 </div>
@@ -19,7 +19,7 @@ date: 2022-07-14 14:27:34
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -96,6 +96,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+do it like 212E224E-5582-4831-B6B2-47F9B128497C, add box and colour
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -133,145 +142,6 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-767A83AB-D696-47B5-958B-CB9F94B0FA06'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcc question'>
-<div class='uuid'>
-<p>F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5</p>
-</div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:7</p>
-</div>
-<div class='rag'>
-<p>Deepak Agrahari</p>
-</div>
-<div class='rag'>
-<p>rag_da_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $1+2\times3+4\times5+6$
-
-A: $21$
-
-B: $35$
-
-C: $71$
-
-D: $33$
-
-E: $231$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: Using BIDMAS
-,
-
-$
-\begin {aligned}
-&= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
-&= 1 + 6 + 4 \times 5 + 6 \\\\
-&= 1 + 6 + 20 + 6 \\\\
-&= 7 + 20 + 6 \\\\
-&= 27 + 6 \\\\
-&= 33
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-33
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
-$
-\begin {aligned}
-&= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
-&= 1 + 6 + 4 \times 5 + 6 \\\\
-&= 1 + 6 + 20 + 6 \\\\
-&= 7 + 20 + 6 \\\\
-&= 27 + 6 \\\\
-&= 33
-\end {aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>D</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>33
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' id='FORM-F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-F23E7119-FFB7-4CA6-9DD4-D978EDB0D9F5'>Initial</p>
 </div>
 </div>
 </li>
@@ -416,7 +286,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>07C9B12E-3E52-4065-B971-8A932EE40907</p>
 </div>
@@ -430,7 +300,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -656,6 +526,27 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: + placement is wrong, refer rules, look at addition topic papers
+
+c: write like 654FC6F2-DF8B-40E0-8729-7984D08B8A1D check remainder is written, do not show fraction,
+
+do not write answer in decimal, the answer has to be remainder.
+
+
+
+a: + placement is wrong, refer rules, look at addition topic papers
+
+c: write like 654FC6F2-DF8B-40E0-8729-7984D08B8A1D check remainder is written, do not show fraction,
+
+do not write answer in decimal, the answer has to be remainder.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -697,7 +588,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>75CD6A49-4737-4E11-80CD-36DE5CEA30CC</p>
 </div>
@@ -711,7 +602,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1017,7 +908,7 @@ $
 \begin{aligned}
 &=  85 \div 5 \\\\
 &=  \dfrac {85} {5} \\\\
-&=  \dfrac {17 \times \cancel {5}} {\cancel {5}}
+&=  \dfrac {17 \times \cancel {5}} {\cancel {5}} \\\\
 &=  17
 \end{aligned}
 $
@@ -1027,7 +918,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-17
+$17$
 
 </div>
 </div>
@@ -1038,7 +929,7 @@ $
 \begin{aligned}
 &=  85 \div 5 \\\\
 &=  \dfrac {85} {5} \\\\
-&=  \dfrac {17 \times \cancel {5}} {\cancel {5}}
+&=  \dfrac {17 \times \cancel {5}} {\cancel {5}} \\\\
 &=  17
 \end{aligned}
 $
@@ -1053,7 +944,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>17
+<pre class='language-latex'><code class='language-latex'>$17$
 </code></pre>
 </div>
 </div>
@@ -1061,6 +952,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+c: do not use array way for money, use begin aligned way, convert all to pounds instead of pence, look at some examples of adding pounds and pennies.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1102,7 +1002,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>7BD6412A-AB4F-4E0D-A1D8-63B836E328AB</p>
 </div>
@@ -1116,7 +1016,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1174,7 +1074,7 @@ an odd answer.
 <div class='workings'>
 <div class='working'>
 
-$57, \quad 28$
+$57, 28$
 
 Let's verify
 
@@ -1190,14 +1090,14 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$57, \quad 28$
+$57, 28$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$57, \quad 28$
+<pre class='language-latex'><code class='language-latex'>$57, 28$
 
 Let's verify
 
@@ -1218,7 +1118,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$57, \quad 28$
+<pre class='language-latex'><code class='language-latex'>$57, 28$
 </code></pre>
 </div>
 </div>
@@ -1235,21 +1135,21 @@ The largest possible answer.
 <div class='workings'>
 <div class='working'>
 
-$75, \quad 82$
+$75, 82$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$75, \quad 82$
+$75, 82$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$75, \quad 82$
+<pre class='language-latex'><code class='language-latex'>$75, 82$
 </code></pre>
 </div>
 </div>
@@ -1261,7 +1161,7 @@ $75, \quad 82$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$75, \quad 82$
+<pre class='language-latex'><code class='language-latex'>$75, 82$
 </code></pre>
 </div>
 </div>
@@ -1269,6 +1169,15 @@ $75, \quad 82$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write these answer similar to BA83C340-2093-4114-9461-69921AFDBC47
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1502,7 +1411,7 @@ $119$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>9DEAFF28-1458-4484-8942-1E3083F1D0E8</p>
 </div>
@@ -1516,7 +1425,7 @@ $119$
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1830,6 +1739,41 @@ $3 \ \text{cm}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+extra TODOWORKING AND TODOANSWER remove that, replace with %empty%, check other answers how it is done
+
+
+
+
+
+
+
+these are word problem, write them in simple word instead of just numbers
+
+
+
+these are word problem, write them in simple word instead of just numbers
+
+
+
+
+
+
+
+Refer 269CAEB1-ECC7-4634-9068-42EF39354F2F on how to write. pseudo code for part 1
+
+
+
+Area = \approx 1570 \ \text{km}^2
+
+    \approx 1570 \ \text{km}^2
+</div>
 
 <div class='review'>
 <ul class='review'>

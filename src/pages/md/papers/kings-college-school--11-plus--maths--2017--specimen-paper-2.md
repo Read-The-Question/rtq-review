@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-2"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 2"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -247,7 +247,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C03B2F52-178B-432A-9547-FE19416A6C67</p>
 </div>
@@ -258,10 +258,10 @@ $
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -278,7 +278,13 @@ Write $\pounds 87$ to the nearest $\pounds 5$.
 <div class='workings'>
 <div class='working'>
 
-$\approx\pounds 85$
+$
+\begin {aligned}
+&= \pounds 87 \\\\
+&  \approx \pounds 85
+\end {aligned}
+$
+
 
 </div>
 </div>
@@ -292,7 +298,13 @@ $\pounds 85$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\approx\pounds 85$
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+&= \pounds 87 \\\\
+&  \approx \pounds 85
+\end {aligned}
+$
+
 </code></pre>
 </div>
 </div>
@@ -313,32 +325,32 @@ $\pounds 85$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' id='FORM-C03B2F52-178B-432A-9547-FE19416A6C67' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='C03B2F52-178B-432A-9547-FE19416A6C67' id='FORM-C03B2F52-178B-432A-9547-FE19416A6C67' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -384,9 +396,9 @@ Write $3284 \ \text{mm}$ in metres.
 $
 \begin {aligned}
 &= 3284 \ \text {mm} \\\\
-&= {3284}\times\dfrac{1} {1000} \ \text {m} \\\\
+&= {3284}\times\dfrac{1} {1000} \ \text {meters} \\\\
 &=\dfrac{3284}{1000}\\\\
-&= 3.284 \ \text {m}
+&= 3.284 \ \text {meters}
 \end {aligned}
 $
 
@@ -395,7 +407,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3.284$ m
+$3.284\ \text{meters}$ 
 
 </div>
 </div>
@@ -405,9 +417,9 @@ $3.284$ m
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 3284 \ \text {mm} \\\\
-&= {3284}\times\dfrac{1} {1000} \ \text {m} \\\\
+&= {3284}\times\dfrac{1} {1000} \ \text {meters} \\\\
 &=\dfrac{3284}{1000}\\\\
-&= 3.284 \ \text {m}
+&= 3.284 \ \text {meters}
 \end {aligned}
 $
 </code></pre>
@@ -421,7 +433,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3.284$ m
+<pre class='language-latex'><code class='language-latex'>$3.284\ \text{meters}$ 
 </code></pre>
 </div>
 </div>
@@ -1256,7 +1268,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>FD93ED24-BEF8-4802-AAED-9BC436001678</p>
 </div>
@@ -1267,10 +1279,10 @@ $
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_g0</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1287,21 +1299,33 @@ Give all numbers which are factors of both $32$ and $24$.
 <div class='workings'>
 <div class='working'>
 
-$2, 4, 8$
+$
+\begin{aligned}
+\text{Factors of 32}  &=1, 2, 3, 4, 6, 9, 12, 18, 24, 36\\\\
+\text{Factors of 24}  &=1, 2, 3, 4, 6, 12, 24\\\\
+\text{Common factors} &=1, 2, 4, 8
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2, 4, 8$
+$1, 2, 4, 8$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$2, 4, 8$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Factors of 32}  &=1, 2, 3, 4, 6, 9, 12, 18, 24, 36\\\\
+\text{Factors of 24}  &=1, 2, 3, 4, 6, 12, 24\\\\
+\text{Common factors} &=1, 2, 4, 8
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1313,62 +1337,41 @@ $2, 4, 8$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2, 4, 8$
+<pre class='language-latex'><code class='language-latex'>$1, 2, 4, 8$
 </code></pre>
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Write this way (with proper katex)
-
-
-
-begin aligned
-
-Factors of 32 = 1, 2 .... \\
-
-Factors of 24 = 1,2 3 \\
-
-Common factors = dfdfasadfs
-
-end aligned
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' id='FORM-FD93ED24-BEF8-4802-AAED-9BC436001678' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='FD93ED24-BEF8-4802-AAED-9BC436001678' id='FORM-FD93ED24-BEF8-4802-AAED-9BC436001678' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

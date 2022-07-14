@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-g2"
 title: "TopicPaper - Number - 12 - G2"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2001,6 +2001,133 @@ $
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-0EA47D0F-679F-42A3-9831-5C25EB7FCE66'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>D5021FF9-3A58-4AEA-87F5-5DB2612B1138</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:11</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
+<p>rag_da_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find three prime numbers that add up to another prime number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using trial and error,
+
+Prime numbers $= 3, 7, 13$
+
+Let's verify.
+
+$
+\begin{aligned}
+&= 3 + 7 + 13 \\\\
+&= 10 + 13 \\\\
+&= 23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3, 7, 13$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Using trial and error,
+
+Prime numbers $= 3, 7, 13$
+
+Let's verify.
+
+$
+\begin{aligned}
+&= 3 + 7 + 13 \\\\
+&= 10 + 13 \\\\
+&= 23
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$3, 7, 13$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' id='FORM-D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D5021FF9-3A58-4AEA-87F5-5DB2612B1138'>Initial</p>
 </div>
 </div>
 </li>

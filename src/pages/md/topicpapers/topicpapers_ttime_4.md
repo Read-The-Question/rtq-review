@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-14 14:27:34
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-14 14:27:34
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -48,18 +48,10 @@ A child’s heart beats $80$ times per minute. How many times will it beat betwe
 
 $
 \begin{aligned}
-\text {Time difference}  &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am} \\\\
-                         &= 15 {:} 30 - 8 {:} 30 \\\\
-                         &= 7 \ \text {hours} \\\\
-                         &= 7 \times 60 \ \text {minutes} \\\\
-                         &= 420 \ \text {minutes}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Total heartbeat}  &= \text {(Time difference)} \times 80 \ \text {bpm} \\\\
-                         &= 420 \times 80 \\\\
+\text {Heartbeat rate}   &= 80 \times (3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am})\\\\
+                         &= 80 \times 7 \ \text {hours} \\\\
+                         &= 80 \times 7 \times 60 \ \text {minutes} \\\\
+                         &= 80 \times 420\\\\
                          &= 33600 \ \text {times}
 \end{aligned}
 $
@@ -69,7 +61,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$33600$
+$33600 \ \text {times}$
 
 </div>
 </div>
@@ -78,18 +70,10 @@ $33600$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Time difference}  &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am} \\\\
-                         &= 15 {:} 30 - 8 {:} 30 \\\\
-                         &= 7 \ \text {hours} \\\\
-                         &= 7 \times 60 \ \text {minutes} \\\\
-                         &= 420 \ \text {minutes}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Total heartbeat}  &= \text {(Time difference)} \times 80 \ \text {bpm} \\\\
-                         &= 420 \times 80 \\\\
+\text {Heartbeat rate}   &= 80 \times (3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am})\\\\
+                         &= 80 \times 7 \ \text {hours} \\\\
+                         &= 80 \times 7 \times 60 \ \text {minutes} \\\\
+                         &= 80 \times 420\\\\
                          &= 33600 \ \text {times}
 \end{aligned}
 $
@@ -104,7 +88,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$33600$
+<pre class='language-latex'><code class='language-latex'>$33600 \ \text {times}$
 </code></pre>
 </div>
 </div>
@@ -460,7 +444,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
@@ -474,7 +458,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -535,8 +519,8 @@ Using the $24 \ \text{hour}$ clock, write the time when the ferry left Dover.
 
 $
 \begin{aligned}
-\text{Time left}    &= 07:45 + 17 \ \text{minutes}\\
-&= 08:02
+\text{Time}    &= 07{:}45 + 17 \ \text{minutes}\\
+&= 08{:}02
 \end{aligned}
 $
 
@@ -554,8 +538,8 @@ $08:02$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time left}    &= 07:45 + 17 \ \text{minutes}\\
-&= 08:02
+\text{Time}    &= 07{:}45 + 17 \ \text{minutes}\\
+&= 08{:}02
 \end{aligned}
 $
 </code></pre>
@@ -589,9 +573,9 @@ take?
 
 $
 \begin{aligned} 
-\text{Time taken} &= \text{Arrival time (Calais)} - \text{Departure time (Dover)} \\\\
-&=  09:11 - 08:02 \\\\
+\text{Time taken} &=  09{:}11 - 08{:}02 \\\\
 &= 1 \ \text{hour} \ 9 \ \text{minutes} \\\\
+&= 1 \times 60 \ \text{minutes} \ 9 \ \text{minutes} \\\\
 &= 60 + 9 \\\\
 &= 69 \ \text{minutes}
 \end{aligned}
@@ -611,9 +595,9 @@ $69 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned} 
-\text{Time taken} &= \text{Arrival time (Calais)} - \text{Departure time (Dover)} \\\\
-&=  09:11 - 08:02 \\\\
+\text{Time taken} &=  09{:}11 - 08{:}02 \\\\
 &= 1 \ \text{hour} \ 9 \ \text{minutes} \\\\
+&= 1 \times 60 \ \text{minutes} \ 9 \ \text{minutes} \\\\
 &= 60 + 9 \\\\
 &= 69 \ \text{minutes}
 \end{aligned}
@@ -648,10 +632,14 @@ How many minutes late did the ferry arrive in Calais?
 
 $
 \begin{aligned}
-\text{Time (Late)} &= \text{Actual arrival(Time)} - \text{(Original departure (Time)} + \text{Travel time)} \\\\
-&= 09:11 - (07:45 + 1 \ \text{hr} \  15 \ \text{mins}) \\\\
-&= 09:00 - 09:11 \\\\
-&=  11 \ \text{mins} \\\\
+\text{Time delayed }  &= 09{:}11 - 07{:}45 - 1 \dfrac {1} {4} \ \text{hour} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \ \text{hour} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \times 60  \ \text{minutes} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times 4} {4}  \ \text{minutes} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times \cancel 4} { \cancel 4}  \ \text{minutes} \\\\                   
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - 15 \ \text{minutes} \\\\                       
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} \ 15 \ \text{minutes} \\\\                    
+                      &=  11 \ \text{minutes}
 \end{aligned}
 $
 
@@ -660,7 +648,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$11 \ \text{ mins}$
+$11 \ \text{ minutes}$
 
 </div>
 </div>
@@ -669,10 +657,14 @@ $11 \ \text{ mins}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time (Late)} &= \text{Actual arrival(Time)} - \text{(Original departure (Time)} + \text{Travel time)} \\\\
-&= 09:11 - (07:45 + 1 \ \text{hr} \  15 \ \text{mins}) \\\\
-&= 09:00 - 09:11 \\\\
-&=  11 \ \text{mins} \\\\
+\text{Time delayed }  &= 09{:}11 - 07{:}45 - 1 \dfrac {1} {4} \ \text{hour} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \ \text{hour} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \times 60  \ \text{minutes} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times 4} {4}  \ \text{minutes} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times \cancel 4} { \cancel 4}  \ \text{minutes} \\\\                   
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - 15 \ \text{minutes} \\\\                       
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} \ 15 \ \text{minutes} \\\\                    
+                      &=  11 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -686,7 +678,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$11 \ \text{ mins}$
+<pre class='language-latex'><code class='language-latex'>$11 \ \text{ minutes}$
 </code></pre>
 </div>
 </div>
@@ -768,7 +760,7 @@ and solve furhter
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
@@ -782,7 +774,7 @@ and solve furhter
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -843,10 +835,10 @@ She starts the swimming stage at $12:45$ pm. If she takes $79\,minutes$ to compl
 
 $
 \begin{aligned}
-\text{ Time (Cycling)} &= \text{Start Time (Swimming)}+ \text{Time taken (Swimming)} \\'\\
-&= 12:45 + 79 \text {mins}  \\\\
-&= 12:45 + 60 + 15 + 4  \\\\
-&= 2:04 \ \text{pm}
+\text{ Started Cycling} &= 12{:}45 + 79 \text{minutes}  \\\\
+                        &= 12{:}45 + 60 + 19 \\\\
+                        &= 12{:}45 + 1 \ \text{hour} \ 19 \text{minutes}  \\\\
+                        &= 2{:}04 \ \text{pm}
 \end{aligned}
 $
 
@@ -855,7 +847,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2:04 \ \text{pm}$
+$2{:}04 \ \text{pm}$
 
 </div>
 </div>
@@ -864,10 +856,10 @@ $2:04 \ \text{pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{ Time (Cycling)} &= \text{Start Time (Swimming)}+ \text{Time taken (Swimming)} \\'\\
-&= 12:45 + 79 \text {mins}  \\\\
-&= 12:45 + 60 + 15 + 4  \\\\
-&= 2:04 \ \text{pm}
+\text{ Started Cycling} &= 12{:}45 + 79 \text{minutes}  \\\\
+                        &= 12{:}45 + 60 + 19 \\\\
+                        &= 12{:}45 + 1 \ \text{hour} \ 19 \text{minutes}  \\\\
+                        &= 2{:}04 \ \text{pm}
 \end{aligned}
 $
 </code></pre>
@@ -881,7 +873,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$2:04 \ \text{pm}$
+<pre class='language-latex'><code class='language-latex'>$2{:}04 \ \text{pm}$
 </code></pre>
 </div>
 </div>
@@ -900,9 +892,10 @@ If she starts the running stage at $4:38\,pm$ work out how long she took in minu
 
 $
 \begin{aligned}
-\text{ Time taken (Cycling)} &= \text{Start Time (running)} -  \text{Start Time (Cycling)} \\\\
-&=  4:38 - 2:04 \\\\
-&=  2:34 \ \text{hr} \\\\
+\text{ Time taken} &=  4{:}38 - 2{:}04 \\\\
+&=  2 \ \text{hours} \ 34 \ \text{minutes} \\\\
+&=  2 \times 60 \ \text{minutes} \ 34 \ \text{minutes} \\\\
+&= 120 + 34 \\\\
 &= 154 \ \text{minutes}
 \end{aligned}
 $
@@ -912,7 +905,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$154 \text{minutes}$
+$154 \ \text{minutes}$
 
 </div>
 </div>
@@ -921,9 +914,10 @@ $154 \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{ Time taken (Cycling)} &= \text{Start Time (running)} -  \text{Start Time (Cycling)} \\\\
-&=  4:38 - 2:04 \\\\
-&=  2:34 \ \text{hr} \\\\
+\text{ Time taken} &=  4{:}38 - 2{:}04 \\\\
+&=  2 \ \text{hours} \ 34 \ \text{minutes} \\\\
+&=  2 \times 60 \ \text{minutes} \ 34 \ \text{minutes} \\\\
+&= 120 + 34 \\\\
 &= 154 \ \text{minutes}
 \end{aligned}
 $
@@ -938,7 +932,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$154 \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$154 \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -957,10 +951,12 @@ If she took 107 minutes on the running stage work out how long she took to compl
 
 $
 \begin{aligned}
-\text{Whole (Triathlon)} &= \text{Time (Swimming)} + \text{Time(Cycling)} + \text{Time (Running)} \\\\
-&=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
-&=  340 \ \text{minutes} \\\\
-&=  5 \  \text{hr} \ \ 40 \ \text{minutes}
+\text{Total Time taken} &=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
+                        &=  340 \ \text{minutes} \\\\
+                        &= \dfrac {340} {60} \ \text{hours} \\\\
+                        &= 5 \dfrac {40} {60} \ \text{hours} \\\\
+                        &= 5 \ \text{hours} + 40 \ \text{minutes} \\\\
+                        &=  5 \  \text{hr} \ \ 40 \ \text{minutes}
 \end{aligned}
 $
 
@@ -969,7 +965,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5 \  \text{hr} \ \ 40 \ \text{minutes}$
+$5 \  \text{hours} \ \ 40 \ \text{minutes}$
 
 </div>
 </div>
@@ -978,10 +974,12 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Whole (Triathlon)} &= \text{Time (Swimming)} + \text{Time(Cycling)} + \text{Time (Running)} \\\\
-&=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
-&=  340 \ \text{minutes} \\\\
-&=  5 \  \text{hr} \ \ 40 \ \text{minutes}
+\text{Total Time taken} &=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
+                        &=  340 \ \text{minutes} \\\\
+                        &= \dfrac {340} {60} \ \text{hours} \\\\
+                        &= 5 \dfrac {40} {60} \ \text{hours} \\\\
+                        &= 5 \ \text{hours} + 40 \ \text{minutes} \\\\
+                        &=  5 \  \text{hr} \ \ 40 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -995,7 +993,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5 \  \text{hr} \ \ 40 \ \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$5 \  \text{hours} \ \ 40 \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -2563,7 +2561,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>19C4B959-6C02-4D22-B36F-6E0A58FE85F7</p>
 </div>
@@ -2577,7 +2575,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2603,12 +2601,8 @@ What time do I get to school?
 
 $
 \begin{aligned}
-\text{Time I reach school} &= \text{Time I leave home} + \text{Time takes to reach school} \\\\
-                           &= 7{:}35 + 42 \ \text{mins} \\\\
-                           &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
-                           &= 7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
-                           &= 8 \ \text{hr} +  17 \ \text{mins} \\\\
-                           &= 8{:}17 \ \text{am}
+&= 7{:}35 + 42 \ \text{minutes} \\\\
+&= 8{:}17 \ \text{am}
 \end{aligned}
 $
 
@@ -2629,12 +2623,8 @@ $8{:}17 \ \text{am}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time I reach school} &= \text{Time I leave home} + \text{Time takes to reach school} \\\\
-                           &= 7{:}35 + 42 \ \text{mins} \\\\
-                           &= 7 \ \text{hr} \ 35 \ \text{mins} + 42 \ \text{mins} \\\\
-                           &= 7 \ \text{hr} \ 60 \ \text{mins} + 17 \ \text{mins} \\\\
-                           &= 8 \ \text{hr} +  17 \ \text{mins} \\\\
-                           &= 8{:}17 \ \text{am}
+&= 7{:}35 + 42 \ \text{minutes} \\\\
+&= 8{:}17 \ \text{am}
 \end{aligned}
 $
 </code></pre>

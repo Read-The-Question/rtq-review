@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-5"
 title: "TopicPaper - Time - 5"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-07-14 14:27:34
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6B7D18F9-34AA-4D46-9CC1-DADAE07E2BCE</p>
 </div>
@@ -29,7 +29,7 @@ date: 2022-07-14 14:27:34
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -142,7 +142,12 @@ She was given a new piano on her $15 \text{th}$ birthday. In which year was this
 <div class='workings'>
 <div class='working'>
 
-$2007$
+$
+\begin{aligned}
+\text{Year she got a new piano}  &= 1 \text{st} \ \text{May} \ 1992 + 15 \ \text{years} \\\\
+                                 &= 1 \text{st} \ \text{May} \ 2007
+\end{aligned}
+$
 
 </div>
 </div>
@@ -156,7 +161,12 @@ $2007$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$2007$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Year she got a new piano}  &= 1 \text{st} \ \text{May} \ 1992 + 15 \ \text{years} \\\\
+                                 &= 1 \text{st} \ \text{May} \ 2007
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -291,7 +301,15 @@ How many minutes slow is clock $B$?
 <div class='workings'>
 <div class='working'>
 
-$ 18 / /text{minutes} $
+
+$
+\begin{aligned}
+\text{Real Time}     &= 07{:}05 - 12 \ \text{minutes} \\\\
+                     &= 06{:}53 \\\\
+\text{Minutes slow}  &= 06{:}53 - 06{:}35 \\\\
+                     &= 18 \ \text{minutes} 
+\end{aligned}
+$
 
 </div>
 </div>
@@ -305,7 +323,15 @@ $ 18 / /text{minutes} $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$ 18 / /text{minutes} $
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+\text{Real Time}     &= 07{:}05 - 12 \ \text{minutes} \\\\
+                     &= 06{:}53 \\\\
+\text{Minutes slow}  &= 06{:}53 - 06{:}35 \\\\
+                     &= 18 \ \text{minutes} 
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -384,7 +410,7 @@ Minutes slow = 06:53 - 06:35
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
 </div>
@@ -398,7 +424,7 @@ Minutes slow = 06:53 - 06:35
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -439,14 +465,9 @@ Over to $4 \ \text{hours}$     $\pounds 5.00$
 
 $
 \begin{aligned}
-\text{Parking Time}           &= 02{:}15 \ \text{pm} - 10{:}30  \ \text{am}  \\\\
-                              &= 3 \ \text{hours} \ 45 \ \text{minutes}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Parking charges}        &= \pounds 1.70
+\text{Parking Time}         &= 02{:}15 \ \text{pm} - 10{:}30  \ \text{am}  \\\\
+                            &= 3 \ \text{hours} \ 45 \ \text{minutes}
+\text{Parking charge}       &= \pounds 1.70
 \end{aligned}
 $
 
@@ -464,14 +485,9 @@ $\pounds 1.70$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Parking Time}           &= 02{:}15 \ \text{pm} - 10{:}30  \ \text{am}  \\\\
-                              &= 3 \ \text{hours} \ 45 \ \text{minutes}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Parking charges}        &= \pounds 1.70
+\text{Parking Time}         &= 02{:}15 \ \text{pm} - 10{:}30  \ \text{am}  \\\\
+                            &= 3 \ \text{hours} \ 45 \ \text{minutes}
+\text{Parking charge}       &= \pounds 1.70
 \end{aligned}
 $
 </code></pre>
@@ -542,7 +558,7 @@ remove s from \"charges\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0A614191-1791-4F03-962B-E2CF656E9B67</p>
 </div>
@@ -556,7 +572,7 @@ remove s from \"charges\"
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -628,10 +644,7 @@ How long does the journey from Sidcot to Wester take?
 $
 \begin{aligned}
 \text{Time taken }           &= 10{:}32 - 08{:}45 \\\\
-                              &= 1 \ \text{hour} \ 47 \ \text{minutes}   \\\\
-                              &= 1 \times 60 \ \text{minutes} + 47  \ \text{minutes} \\\\
-                              &= 60 + 47  \\\\
-                              &= 107  \ \text{minutes}
+                             &= 1 \ \text{hour} \ 47 \ \text{minutes} 
 \end{aligned}
 $
 
@@ -640,7 +653,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$107  \ \text{minutes}$
+$ 1 \ \text{hour} \ 47 \ \text{minutes} $
 
 </div>
 </div>
@@ -650,10 +663,7 @@ $107  \ \text{minutes}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Time taken }           &= 10{:}32 - 08{:}45 \\\\
-                              &= 1 \ \text{hour} \ 47 \ \text{minutes}   \\\\
-                              &= 1 \times 60 \ \text{minutes} + 47  \ \text{minutes} \\\\
-                              &= 60 + 47  \\\\
-                              &= 107  \ \text{minutes}
+                             &= 1 \ \text{hour} \ 47 \ \text{minutes} 
 \end{aligned}
 $
 </code></pre>
@@ -667,7 +677,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$107  \ \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$ 1 \ \text{hour} \ 47 \ \text{minutes} $
 </code></pre>
 </div>
 </div>
@@ -688,14 +698,9 @@ same. What time did I depart from Bunley if I arrive in Wester at $12 14$?
 $
 \begin{aligned}
 \text{Time taken from Bunley to Wester }      &= 10{:}32 - 08{:}00 \\\\
-                                              &= 02{:}32
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time of depart from Bunley}    &= 12{:}14 - 02{:}32 \\\\
-                                     &= 09{:}42
+                                              &=  2 \ \text{hours} \ 32 \ \text{minutes} \\\\
+\text{Time of depart from Bunley}             &= 12{:}14 -  2 \ \text{hours} \ 32 \ \text{minutes}  \\\\
+                                              &= 09{:}42
 \end{aligned}
 $
 
@@ -714,14 +719,9 @@ $09{:}42$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Time taken from Bunley to Wester }      &= 10{:}32 - 08{:}00 \\\\
-                                              &= 02{:}32
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Time of depart from Bunley}    &= 12{:}14 - 02{:}32 \\\\
-                                     &= 09{:}42
+                                              &=  2 \ \text{hours} \ 32 \ \text{minutes} \\\\
+\text{Time of depart from Bunley}             &= 12{:}14 -  2 \ \text{hours} \ 32 \ \text{minutes}  \\\\
+                                              &= 09{:}42
 \end{aligned}
 $
 </code></pre>
@@ -805,7 +805,7 @@ step 3 : replace R.H.S. : 12:14 - 2 hours 32 minutes
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6563C9DA-D275-4231-9D71-242D5FD8FE30</p>
 </div>
@@ -819,7 +819,7 @@ step 3 : replace R.H.S. : 12:14 - 2 hours 32 minutes
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -881,21 +881,77 @@ How long did she spend in a car?
 <div class='workings'>
 <div class='working'>
 
-$ 2 \ \text{hours}$
+Let total travelling time $= a$
+
+Time spent travelling in a car $= \dfrac {a} {2}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time spent in train}                            &=  2  \ \text{hours} \\\\
+\dfrac {1} {2} \ \text{of} \ (a - \dfrac {a} {2})     &=  2 \\\\ 
+\dfrac {1} {2} \times \dfrac {a} {2}                  &=  2 \\\\ 
+\dfrac {a} {2 \times 2}                               &=  2 \\\\ 
+\dfrac {a} {4}                                        &=  2 \\\\ 
+a                                                     &= 2 \times 4 \\\\
+a                                                     &= 8  \ \text{hours}
+\end{aligned}
+$
+ 
+$
+\begin{aligned}
+\text{Total travelling time}                          &=  8  \ \text{hours} \\\\
+\text{Time spent in a car}                            &=  \dfrac {a} {2} \\\\
+                                                      &=  \dfrac {8} {2} \\\\
+                                                      &= \dfrac {4 \times 2} {2} \\\\
+                                                      &= \dfrac {4 \times \cancel 2} {\cancel 2} \\\\
+                                                      &= 4 \ \text{hours}
+\end{aligned}
+$
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$ 2 \ \text{hours}$
+$ 4 \ \text{hours}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$ 2 \ \text{hours}$
+<pre class='language-latex'><code class='language-latex'>Let total travelling time $= a$
+
+Time spent travelling in a car $= \dfrac {a} {2}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time spent in train}                            &=  2  \ \text{hours} \\\\
+\dfrac {1} {2} \ \text{of} \ (a - \dfrac {a} {2})     &=  2 \\\\ 
+\dfrac {1} {2} \times \dfrac {a} {2}                  &=  2 \\\\ 
+\dfrac {a} {2 \times 2}                               &=  2 \\\\ 
+\dfrac {a} {4}                                        &=  2 \\\\ 
+a                                                     &= 2 \times 4 \\\\
+a                                                     &= 8  \ \text{hours}
+\end{aligned}
+$
+ 
+$
+\begin{aligned}
+\text{Total travelling time}                          &=  8  \ \text{hours} \\\\
+\text{Time spent in a car}                            &=  \dfrac {a} {2} \\\\
+                                                      &=  \dfrac {8} {2} \\\\
+                                                      &= \dfrac {4 \times 2} {2} \\\\
+                                                      &= \dfrac {4 \times \cancel 2} {\cancel 2} \\\\
+                                                      &= 4 \ \text{hours}
+\end{aligned}
+$
+
 </code></pre>
 </div>
 </div>
@@ -907,7 +963,7 @@ $ 2 \ \text{hours}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$ 2 \ \text{hours}$
+<pre class='language-latex'><code class='language-latex'>$ 4 \ \text{hours}$
 </code></pre>
 </div>
 </div>
@@ -924,33 +980,27 @@ What was her total travelling time?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Total travel time}    &= \text{Travel time in car} + \text{Travel time in train} \\\\
-                            &= 2 + 2 \\\\ 
-                            &= 4  \ \text{hours}
-\end{aligned}
-$
+
+As per the above answer,
+
+Total travelling time $= 8 \ \text{hours}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4  \ \text{hours}$
+$8  \ \text{hours}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text{Total travel time}    &= \text{Travel time in car} + \text{Travel time in train} \\\\
-                            &= 2 + 2 \\\\ 
-                            &= 4  \ \text{hours}
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>
+As per the above answer,
+
+Total travelling time $= 8 \ \text{hours}$
 </code></pre>
 </div>
 </div>
@@ -962,7 +1012,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4  \ \text{hours}$
+<pre class='language-latex'><code class='language-latex'>$8  \ \text{hours}$
 </code></pre>
 </div>
 </div>
@@ -2466,7 +2516,7 @@ step 1: add a \' between 19 and \text
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>0D5CF5E2-BF8D-4E7E-BAA3-D1EF882CC453</p>
 </div>
@@ -2480,7 +2530,7 @@ step 1: add a \' between 19 and \text
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2507,7 +2557,7 @@ For how long should Claire cook the turkey?
 
 $
 \begin{aligned}
-\text {time she should cook} &= 2.5 \times 50 + 20 \ \text {minutes} \\\\
+\text {Cooking Time}         &= 2.5 \times 50 \ \text {minutes} + 20 \ \text {minutes} \\\\
                              &= 125 + 20 \\\\
                              &= 145 \ \text {minutes} \\\\
                              &= 120 \ \text {minutes} + 25 \ \text {minutes} \\\\
@@ -2529,7 +2579,7 @@ $2 \ \text {hours} \ 25 \ \text {minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {time she should cook} &= 2.5 \times 50 + 20 \ \text {minutes} \\\\
+\text {Cooking Time}         &= 2.5 \times 50 \ \text {minutes} + 20 \ \text {minutes} \\\\
                              &= 125 + 20 \\\\
                              &= 145 \ \text {minutes} \\\\
                              &= 120 \ \text {minutes} + 25 \ \text {minutes} \\\\
@@ -2606,7 +2656,7 @@ write \"minutes\" after 50
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>5116C593-B84B-4E1A-B0A4-93B1D9786F62</p>
 </div>
@@ -2620,7 +2670,7 @@ write \"minutes\" after 50
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2805,7 +2855,7 @@ How many seconds behind the winner was the person who came last?
 $
 \begin{aligned}
 &= 1 \ \text{min} \ 25 \ \text{sec} - 1 \ \text{min} \ 13 \ \text{sec} \\\\
-&= 12  \ \text{sec}
+&= 12  \ \text{seconds}
 \end{aligned}
 $
 
@@ -2814,7 +2864,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-&= 12  \ \text{sec}
+$ 12  \ \text{seconds}$
 
 </div>
 </div>
@@ -2824,7 +2874,7 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 1 \ \text{min} \ 25 \ \text{sec} - 1 \ \text{min} \ 13 \ \text{sec} \\\\
-&= 12  \ \text{sec}
+&= 12  \ \text{seconds}
 \end{aligned}
 $
 </code></pre>
@@ -2838,7 +2888,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>&= 12  \ \text{sec}
+<pre class='language-latex'><code class='language-latex'>$ 12  \ \text{seconds}$
 </code></pre>
 </div>
 </div>

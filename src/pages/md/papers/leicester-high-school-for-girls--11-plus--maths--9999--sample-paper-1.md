@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-14 14:23:02
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>75CD6A49-4737-4E11-80CD-36DE5CEA30CC</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-14 14:23:02
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -333,7 +333,7 @@ $
 \begin{aligned}
 &=  85 \div 5 \\\\
 &=  \dfrac {85} {5} \\\\
-&=  \dfrac {17 \times \cancel {5}} {\cancel {5}}
+&=  \dfrac {17 \times \cancel {5}} {\cancel {5}} \\\\
 &=  17
 \end{aligned}
 $
@@ -343,7 +343,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-17
+$17$
 
 </div>
 </div>
@@ -354,7 +354,7 @@ $
 \begin{aligned}
 &=  85 \div 5 \\\\
 &=  \dfrac {85} {5} \\\\
-&=  \dfrac {17 \times \cancel {5}} {\cancel {5}}
+&=  \dfrac {17 \times \cancel {5}} {\cancel {5}} \\\\
 &=  17
 \end{aligned}
 $
@@ -369,7 +369,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>17
+<pre class='language-latex'><code class='language-latex'>$17$
 </code></pre>
 </div>
 </div>
@@ -377,6 +377,15 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+c: do not use array way for money, use begin aligned way, convert all to pounds instead of pence, look at some examples of adding pounds and pennies.
+</div>
 
 <div class='review'>
 <ul class='review'>

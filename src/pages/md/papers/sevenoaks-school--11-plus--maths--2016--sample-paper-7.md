@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1732,7 +1732,7 @@ Orange juice $= 140 \text { ml}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>D5021FF9-3A58-4AEA-87F5-5DB2612B1138</p>
 </div>
@@ -1743,7 +1743,7 @@ Orange juice $= 140 \text { ml}$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1822,32 +1822,32 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' id='FORM-D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='D5021FF9-3A58-4AEA-87F5-5DB2612B1138' id='FORM-D5021FF9-3A58-4AEA-87F5-5DB2612B1138' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1859,7 +1859,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>970F2EE0-98DA-45DF-A88C-260A3AC22A4A</p>
 </div>
@@ -1873,7 +1873,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2090,6 +2090,15 @@ $6.0$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write using begin align \approx way. refer 142280BA-7FA3-4D0B-B002-0B6A5B2CCEAE
+</div>
 
 <div class='review'>
 <ul class='review'>

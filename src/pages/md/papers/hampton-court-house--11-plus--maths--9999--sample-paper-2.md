@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1525,7 +1525,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4D1AE0C9-6A34-43FA-8225-0C9B3B37F156</p>
 </div>
@@ -1539,7 +1539,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1557,9 +1557,12 @@ What is the **smallest number** that has four different prime factors?
 <div class='working'>
 
 
-$ =2 \times 3 \times 5 \times 7$
-
-$ =210$
+$
+\begin{aligned}
+&=2\times3\times5\times 7\\\\
+&=210
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1574,9 +1577,12 @@ $210$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-$ =2 \times 3 \times 5 \times 7$
-
-$ =210$
+$
+\begin{aligned}
+&=2\times3\times5\times 7\\\\
+&=210
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>

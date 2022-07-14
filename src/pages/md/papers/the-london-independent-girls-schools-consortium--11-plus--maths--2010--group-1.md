@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2438,7 +2438,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>6B7D18F9-34AA-4D46-9CC1-DADAE07E2BCE</p>
 </div>
@@ -2452,7 +2452,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2565,7 +2565,12 @@ She was given a new piano on her $15 \text{th}$ birthday. In which year was this
 <div class='workings'>
 <div class='working'>
 
-$2007$
+$
+\begin{aligned}
+\text{Year she got a new piano}  &= 1 \text{st} \ \text{May} \ 1992 + 15 \ \text{years} \\\\
+                                 &= 1 \text{st} \ \text{May} \ 2007
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2579,7 +2584,12 @@ $2007$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$2007$
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Year she got a new piano}  &= 1 \text{st} \ \text{May} \ 1992 + 15 \ \text{years} \\\\
+                                 &= 1 \text{st} \ \text{May} \ 2007
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -2714,7 +2724,15 @@ How many minutes slow is clock $B$?
 <div class='workings'>
 <div class='working'>
 
-$ 18 / /text{minutes} $
+
+$
+\begin{aligned}
+\text{Real Time}     &= 07{:}05 - 12 \ \text{minutes} \\\\
+                     &= 06{:}53 \\\\
+\text{Minutes slow}  &= 06{:}53 - 06{:}35 \\\\
+                     &= 18 \ \text{minutes} 
+\end{aligned}
+$
 
 </div>
 </div>
@@ -2728,7 +2746,15 @@ $ 18 / /text{minutes} $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$ 18 / /text{minutes} $
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+\text{Real Time}     &= 07{:}05 - 12 \ \text{minutes} \\\\
+                     &= 06{:}53 \\\\
+\text{Minutes slow}  &= 06{:}53 - 06{:}35 \\\\
+                     &= 18 \ \text{minutes} 
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -5555,7 +5581,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD</p>
 </div>
@@ -5566,7 +5592,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5629,21 +5655,35 @@ $1175 - 20 = 21 \times 55 \qquad \phantom{()} \boxed{\phantom{\checkmark}}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+(21 \times 55) + 20 &= 1175 \\\\
+1175 - 20 &= 21 \times 55
+\end{aligned}
+$
+
+Hence the equation is correct.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Correct
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+(21 \times 55) + 20 &= 1175 \\\\
+1175 - 20 &= 21 \times 55
+\end{aligned}
+$
+
+Hence the equation is correct.
 </code></pre>
 </div>
 </div>
@@ -5655,7 +5695,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Correct
 </code></pre>
 </div>
 </div>
@@ -5672,21 +5712,25 @@ $21 \times (55 + 20) = 1175 \qquad \boxed{\phantom{\checkmark}}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The given equation can not be derived from original equation.
+
+Hence, it is incorrect.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Incorrect
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The given equation can not be derived from original equation.
+
+Hence, it is incorrect.
 </code></pre>
 </div>
 </div>
@@ -5698,7 +5742,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Incorrect
 </code></pre>
 </div>
 </div>
@@ -5715,21 +5759,25 @@ $1175 = 20 + (21 \times 55) \qquad \boxed{\phantom{\checkmark}}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Since, both, given equation and the original equation are same.
+
+The given equation is correct.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Correct
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Since, both, given equation and the original equation are same.
+
+The given equation is correct.
 </code></pre>
 </div>
 </div>
@@ -5741,7 +5789,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Correct
 </code></pre>
 </div>
 </div>
@@ -5758,21 +5806,35 @@ $20 = 1175 - (21 \times 55) \qquad \boxed{\phantom{\checkmark}}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+(21 \times 55) + 20 &= 1175 \\\\
+20 &= 1175 - (21 \times 55) \\\\
+\end{aligned}
+$
+
+Hence, equation is correct.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Correct
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+(21 \times 55) + 20 &= 1175 \\\\
+20 &= 1175 - (21 \times 55) \\\\
+\end{aligned}
+$
+
+Hence, equation is correct.
 </code></pre>
 </div>
 </div>
@@ -5784,7 +5846,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Correct
 </code></pre>
 </div>
 </div>
@@ -5801,21 +5863,25 @@ $(21 \times 55) + 21 = 1176 \qquad \boxed{\phantom{\checkmark}}$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+The given equation can not be derived from original equation.
+
+Hence, it is incorrect.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Incorrect
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>The given equation can not be derived from original equation.
+
+Hence, it is incorrect.
 </code></pre>
 </div>
 </div>
@@ -5827,7 +5893,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Incorrect
 </code></pre>
 </div>
 </div>
@@ -5836,6 +5902,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' id='FORM-8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6713,7 +6816,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>08363196-ECCA-4D0C-A83C-C7722F80868A</p>
 </div>
@@ -6724,7 +6827,7 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_notstarted</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6834,21 +6937,21 @@ Find all the factors of $12$, not including $12$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Factors of 12 $= 1, 2, 3, 4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$1, 2, 3, 4$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Factors of 12 $= 1, 2, 3, 4$
 </code></pre>
 </div>
 </div>
@@ -6860,7 +6963,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$1, 2, 3, 4$
 </code></pre>
 </div>
 </div>
@@ -6877,21 +6980,35 @@ Is $12$ a perfect number?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Product of factor of 12}\ &= 1 + 2 + 3 + 4 \\\\
+&= 10 \neq 12 \\\\
+\end{aligned}
+$
+
+12 is not a perfect number
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+12 is not a perfect number
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Product of factor of 12}\ &= 1 + 2 + 3 + 4 \\\\
+&= 10 \neq 12 \\\\
+\end{aligned}
+$
+
+12 is not a perfect number
 </code></pre>
 </div>
 </div>
@@ -6903,7 +7020,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>12 is not a perfect number
 </code></pre>
 </div>
 </div>
@@ -6923,7 +7040,22 @@ There is a perfect number less than $10$. What is it?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+6
+
+Lets Verify
+
+$
+\begin{aligned}
+\text{Factors of 6}\ &= 1, 2, 3 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Sum of factors of 6}\ &= 1 + 2 + 3 \\\\
+&= 6 = 6 \\\\
+\end{aligned}
+$
 
 </div>
 </div>
@@ -6937,7 +7069,22 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>6
+
+Lets Verify
+
+$
+\begin{aligned}
+\text{Factors of 6}\ &= 1, 2, 3 \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Sum of factors of 6}\ &= 1 + 2 + 3 \\\\
+&= 6 = 6 \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6972,21 +7119,21 @@ List the others.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$2, 4, 8, 16, 31, 62, 124, 248$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$2, 4, 8, 16, 31, 62, 124, 248$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$2, 4, 8, 16, 31, 62, 124, 248$
 </code></pre>
 </div>
 </div>
@@ -6998,7 +7145,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$2, 4, 8, 16, 31, 62, 124, 248$
 </code></pre>
 </div>
 </div>
@@ -7007,6 +7154,43 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='08363196-ECCA-4D0C-A83C-C7722F80868A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='08363196-ECCA-4D0C-A83C-C7722F80868A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='08363196-ECCA-4D0C-A83C-C7722F80868A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='08363196-ECCA-4D0C-A83C-C7722F80868A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='08363196-ECCA-4D0C-A83C-C7722F80868A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='08363196-ECCA-4D0C-A83C-C7722F80868A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='08363196-ECCA-4D0C-A83C-C7722F80868A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='08363196-ECCA-4D0C-A83C-C7722F80868A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='08363196-ECCA-4D0C-A83C-C7722F80868A' id='FORM-08363196-ECCA-4D0C-A83C-C7722F80868A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-08363196-ECCA-4D0C-A83C-C7722F80868A'>Initial</p>
+</div>
 </div>
 </li>
 <li>

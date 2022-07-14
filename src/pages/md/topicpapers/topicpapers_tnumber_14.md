@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-14"
 title: "TopicPaper - Number - 14"
-date: 2022-07-14 14:27:34
+date: 2022-07-14 18:15:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2384,7 +2384,7 @@ Prime Number
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D9B9E901-ED49-4035-81FE-273FD45511EB</p>
 </div>
@@ -2398,7 +2398,7 @@ Prime Number
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2459,10 +2459,10 @@ $\text{centimetres}$ are there in $70\ \text{mm}$?
 $
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
-&=  7\times10\times\dfrac{1}{10} \\\\
-&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
-&=  7 \ \text {cm}
+&=  {70}\times\dfrac{1}{10}\ \text {centimetres} \\\\
+&=  \dfrac{70}{10} \\\\
+&=  \dfrac{7\cancel{0}}{1\cancel{0}} \\\\
+&=  7 \ \text {centimetres}
 \end{aligned}
 $
 
@@ -2471,7 +2471,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7cm$
+$7 \ \text {centimetres} $
 
 </div>
 </div>
@@ -2481,10 +2481,10 @@ $7cm$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  70 \ \text {mm} \\\\
-&=  {70}\times\dfrac{1}{10} \text {cm} \\\\
-&=  7\times10\times\dfrac{1}{10} \\\\
-&=  7\times\cancel{10}\times\dfrac{1}{\cancel{10}} \\\\
-&=  7 \ \text {cm}
+&=  {70}\times\dfrac{1}{10}\ \text {centimetres} \\\\
+&=  \dfrac{70}{10} \\\\
+&=  \dfrac{7\cancel{0}}{1\cancel{0}} \\\\
+&=  7 \ \text {centimetres}
 \end{aligned}
 $
 </code></pre>
@@ -2498,7 +2498,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7cm$
+<pre class='language-latex'><code class='language-latex'>$7 \ \text {centimetres} $
 </code></pre>
 </div>
 </div>
@@ -2518,8 +2518,8 @@ $\text{grams}$ are there in $4\ \text{kg}$?
 $
 \begin{aligned}
 &=  4 \ \text {kg} \\\\
-&=  4 \times 1000 \ \text {g} \\\\
-&=  4000 \ \text {g}
+&=  4 \times 1000 \ \text {grams} \\\\
+&=  4000 \ \text {grams}
 \end{aligned}
 $
 
@@ -2528,7 +2528,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4000 \text {g}$
+$4000\ \text {grams}$
 
 </div>
 </div>
@@ -2538,8 +2538,8 @@ $4000 \text {g}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &=  4 \ \text {kg} \\\\
-&=  4 \times 1000 \ \text {g} \\\\
-&=  4000 \ \text {g}
+&=  4 \times 1000 \ \text {grams} \\\\
+&=  4000 \ \text {grams}
 \end{aligned}
 $
 </code></pre>
@@ -2553,7 +2553,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4000 \text {g}$
+<pre class='language-latex'><code class='language-latex'>$4000\ \text {grams}$
 </code></pre>
 </div>
 </div>
@@ -2572,9 +2572,9 @@ $\text{millilitres}$ are there in $3\ \text{litres}$?
 
 $
 \begin{aligned}
-&=  3 \ l\\\\
-&=  3 \times 1000 \text {ml}\\\\
-&=  3000 \text {ml}
+&=  3 \ \text{litres}\\\\
+&=  3 \times 1000\ \text {millilitres}\\\\
+&=  3000\ \text {millilitres}
 \end{aligned}
 $
 
@@ -2583,7 +2583,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3000\ text {ml}$
+$3000\ \text {millilitres}$
 
 </div>
 </div>
@@ -2592,9 +2592,9 @@ $3000\ text {ml}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=  3 \ l\\\\
-&=  3 \times 1000 \text {ml}\\\\
-&=  3000 \text {ml}
+&=  3 \ \text{litres}\\\\
+&=  3 \times 1000\ \text {millilitres}\\\\
+&=  3000\ \text {millilitres}
 \end{aligned}
 $
 </code></pre>
@@ -2608,7 +2608,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3000\ text {ml}$
+<pre class='language-latex'><code class='language-latex'>$3000\ \text {millilitres}$
 </code></pre>
 </div>
 </div>

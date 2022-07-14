@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2179,7 +2179,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FD674F46-633C-4D78-BC2C-5BC52EDE5036</p>
 </div>
@@ -2193,7 +2193,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2225,11 +2225,10 @@ How long did she take to swim all $6$ lengths? Give your answer in minutes and s
 
 $
 \begin{aligned}
-\text {total time} &= 3 \times \text {front crawl} + 3 \times \text {breaststroke} + 6 \ \text {seconds} \\\\
-                   &= 3 \times 24 + 3 \times 60 + 6 \\\\
-                   &= 72 + 120 + 6 \\\\
-                   &= 198 \ \text {seconds} \\\\
-                   &= 3 \ \text {minutes} \ 18 \ \text {seconds}
+\text {Total Time} &= 3 \times 24 + 3 \times 60 + 6 \\\\
+                   &= 72 + 180 + 6 \\\\
+                   &= 258 \ \text {seconds} \\\\
+                   &= 4 \ \text {minutes} \ 18 \ \text {seconds}
 \end{aligned}
 $
 
@@ -2238,7 +2237,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3 \ \text {minutes} \ 18 \ \text {seconds}$
+$4 \ \text {minutes} \ 18 \ \text {seconds}$
 
 </div>
 </div>
@@ -2247,11 +2246,10 @@ $3 \ \text {minutes} \ 18 \ \text {seconds}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {total time} &= 3 \times \text {front crawl} + 3 \times \text {breaststroke} + 6 \ \text {seconds} \\\\
-                   &= 3 \times 24 + 3 \times 60 + 6 \\\\
-                   &= 72 + 120 + 6 \\\\
-                   &= 198 \ \text {seconds} \\\\
-                   &= 3 \ \text {minutes} \ 18 \ \text {seconds}
+\text {Total Time} &= 3 \times 24 + 3 \times 60 + 6 \\\\
+                   &= 72 + 180 + 6 \\\\
+                   &= 258 \ \text {seconds} \\\\
+                   &= 4 \ \text {minutes} \ 18 \ \text {seconds}
 \end{aligned}
 $
 </code></pre>
@@ -2265,7 +2263,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$3 \ \text {minutes} \ 18 \ \text {seconds}$
+<pre class='language-latex'><code class='language-latex'>$4 \ \text {minutes} \ 18 \ \text {seconds}$
 </code></pre>
 </div>
 </div>

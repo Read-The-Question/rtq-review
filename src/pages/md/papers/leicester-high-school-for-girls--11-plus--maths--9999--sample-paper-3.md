@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2779,7 +2779,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>7BD6412A-AB4F-4E0D-A1D8-63B836E328AB</p>
 </div>
@@ -2793,7 +2793,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2851,7 +2851,7 @@ an odd answer.
 <div class='workings'>
 <div class='working'>
 
-$57, \quad 28$
+$57, 28$
 
 Let's verify
 
@@ -2867,14 +2867,14 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$57, \quad 28$
+$57, 28$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$57, \quad 28$
+<pre class='language-latex'><code class='language-latex'>$57, 28$
 
 Let's verify
 
@@ -2895,7 +2895,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$57, \quad 28$
+<pre class='language-latex'><code class='language-latex'>$57, 28$
 </code></pre>
 </div>
 </div>
@@ -2912,21 +2912,21 @@ The largest possible answer.
 <div class='workings'>
 <div class='working'>
 
-$75, \quad 82$
+$75, 82$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$75, \quad 82$
+$75, 82$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$75, \quad 82$
+<pre class='language-latex'><code class='language-latex'>$75, 82$
 </code></pre>
 </div>
 </div>
@@ -2938,7 +2938,7 @@ $75, \quad 82$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$75, \quad 82$
+<pre class='language-latex'><code class='language-latex'>$75, 82$
 </code></pre>
 </div>
 </div>
@@ -2946,6 +2946,15 @@ $75, \quad 82$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write these answer similar to BA83C340-2093-4114-9461-69921AFDBC47
+</div>
 
 <div class='review'>
 <ul class='review'>

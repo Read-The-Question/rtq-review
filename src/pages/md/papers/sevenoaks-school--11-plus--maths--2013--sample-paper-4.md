@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-07-14 14:23:02
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>B7F7A1F1-453F-4B7E-AF9B-743C20162512</p>
 </div>
@@ -27,7 +27,7 @@ date: 2022-07-14 14:23:02
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -318,6 +318,14 @@ $
 
 <h4>Review Comments</h4>
 division question mark it amber
+
+
+
+c: X not in the right place, look at guidelines
+
+
+
+c: X not in the right place, look at guidelines
 </div>
 
 <div class='review'>
@@ -2873,7 +2881,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>16D15C16-4732-4D23-B040-8F37EB1A5DC3</p>
 </div>
@@ -2887,7 +2895,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3099,6 +3107,15 @@ TODOANSWER
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write like A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84
+</div>
 
 <div class='review'>
 <ul class='review'>

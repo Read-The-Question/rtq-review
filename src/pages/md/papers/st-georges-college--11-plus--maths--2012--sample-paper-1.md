@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2179,7 +2179,7 @@ same in blue answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
@@ -2193,7 +2193,7 @@ same in blue answer
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2254,8 +2254,8 @@ Using the $24 \ \text{hour}$ clock, write the time when the ferry left Dover.
 
 $
 \begin{aligned}
-\text{Time left}    &= 07:45 + 17 \ \text{minutes}\\
-&= 08:02
+\text{Time}    &= 07{:}45 + 17 \ \text{minutes}\\
+&= 08{:}02
 \end{aligned}
 $
 
@@ -2273,8 +2273,8 @@ $08:02$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time left}    &= 07:45 + 17 \ \text{minutes}\\
-&= 08:02
+\text{Time}    &= 07{:}45 + 17 \ \text{minutes}\\
+&= 08{:}02
 \end{aligned}
 $
 </code></pre>
@@ -2308,9 +2308,9 @@ take?
 
 $
 \begin{aligned} 
-\text{Time taken} &= \text{Arrival time (Calais)} - \text{Departure time (Dover)} \\\\
-&=  09:11 - 08:02 \\\\
+\text{Time taken} &=  09{:}11 - 08{:}02 \\\\
 &= 1 \ \text{hour} \ 9 \ \text{minutes} \\\\
+&= 1 \times 60 \ \text{minutes} \ 9 \ \text{minutes} \\\\
 &= 60 + 9 \\\\
 &= 69 \ \text{minutes}
 \end{aligned}
@@ -2330,9 +2330,9 @@ $69 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned} 
-\text{Time taken} &= \text{Arrival time (Calais)} - \text{Departure time (Dover)} \\\\
-&=  09:11 - 08:02 \\\\
+\text{Time taken} &=  09{:}11 - 08{:}02 \\\\
 &= 1 \ \text{hour} \ 9 \ \text{minutes} \\\\
+&= 1 \times 60 \ \text{minutes} \ 9 \ \text{minutes} \\\\
 &= 60 + 9 \\\\
 &= 69 \ \text{minutes}
 \end{aligned}
@@ -2367,10 +2367,14 @@ How many minutes late did the ferry arrive in Calais?
 
 $
 \begin{aligned}
-\text{Time (Late)} &= \text{Actual arrival(Time)} - \text{(Original departure (Time)} + \text{Travel time)} \\\\
-&= 09:11 - (07:45 + 1 \ \text{hr} \  15 \ \text{mins}) \\\\
-&= 09:00 - 09:11 \\\\
-&=  11 \ \text{mins} \\\\
+\text{Time delayed }  &= 09{:}11 - 07{:}45 - 1 \dfrac {1} {4} \ \text{hour} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \ \text{hour} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \times 60  \ \text{minutes} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times 4} {4}  \ \text{minutes} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times \cancel 4} { \cancel 4}  \ \text{minutes} \\\\                   
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - 15 \ \text{minutes} \\\\                       
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} \ 15 \ \text{minutes} \\\\                    
+                      &=  11 \ \text{minutes}
 \end{aligned}
 $
 
@@ -2379,7 +2383,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$11 \ \text{ mins}$
+$11 \ \text{ minutes}$
 
 </div>
 </div>
@@ -2388,10 +2392,14 @@ $11 \ \text{ mins}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time (Late)} &= \text{Actual arrival(Time)} - \text{(Original departure (Time)} + \text{Travel time)} \\\\
-&= 09:11 - (07:45 + 1 \ \text{hr} \  15 \ \text{mins}) \\\\
-&= 09:00 - 09:11 \\\\
-&=  11 \ \text{mins} \\\\
+\text{Time delayed }  &= 09{:}11 - 07{:}45 - 1 \dfrac {1} {4} \ \text{hour} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \ \text{hour} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \times 60  \ \text{minutes} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times 4} {4}  \ \text{minutes} \\\\
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times \cancel 4} { \cancel 4}  \ \text{minutes} \\\\                   
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - 15 \ \text{minutes} \\\\                       
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} \ 15 \ \text{minutes} \\\\                    
+                      &=  11 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -2405,7 +2413,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$11 \ \text{ mins}$
+<pre class='language-latex'><code class='language-latex'>$11 \ \text{ minutes}$
 </code></pre>
 </div>
 </div>

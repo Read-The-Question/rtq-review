@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-4"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 4"
-date: 2022-07-14 14:23:02
+date: 2022-07-14 18:11:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3174,7 +3174,7 @@ Other three sides of rectangle are 3cm, 3cm, 8cm.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>16721642-68D6-4CE6-8540-43C600013099</p>
 </div>
@@ -3188,7 +3188,7 @@ Other three sides of rectangle are 3cm, 3cm, 8cm.
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3246,14 +3246,11 @@ $9.47 \times 34.5$
 <div class='workings'>
 <div class='working'>
 
-$9.47 \times 34.5$
-
-After rounding to the nearest whole numbers
-
 $
 \begin{aligned}
-&= 9 \times 34 \\\\
-&= 306 \\\\
+&= 9.47 \times 34.5 \\\\
+& \approx 9 \times 34 \\\\
+&= 306
 \end{aligned}
 $
 
@@ -3269,14 +3266,11 @@ $315$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$9.47 \times 34.5$
-
-After rounding to the nearest whole numbers
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 9 \times 34 \\\\
-&= 306 \\\\
+&= 9.47 \times 34.5 \\\\
+& \approx 9 \times 34 \\\\
+&= 306
 \end{aligned}
 $
 </code></pre>
@@ -3368,6 +3362,19 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove extra workings and answers
+
+
+
+i have done part a, do part b on the same lines.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3709,7 +3716,7 @@ and the answer in section.answers too
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>836169C8-E272-4A22-ACB9-5D73CCEFC167</p>
 </div>
@@ -3720,10 +3727,10 @@ and the answer in section.answers too
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3743,54 +3750,21 @@ tlcm
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= \dfrac {3} {5} \ \text{of} \ 20 \\\\
-&= \dfrac {3} {5} \times 20 \\\\
-&= \dfrac {3 \times 5 \times 4} {5} \\\\
-&= \dfrac {3 \times\cancel{5}\times 4} {\cancel{5}} \\\\
-&= 3\times 4\\\\
-&= 12
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= \dfrac {3} {5} \ \text{of} \ 20 \\\\
-&= \dfrac {3} {5} \times 20 \\\\
-&= \dfrac {3 \times 5 \times 4} {5} \\\\
-&= \dfrac {3 \times\cancel{5}\times 4} {\cancel{5}} \\\\
-&= 3\times 4\\\\
-&= 12
-\end{aligned}
-$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -3802,17 +3776,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -3995,43 +3959,6 @@ $
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='836169C8-E272-4A22-ACB9-5D73CCEFC167' id='FORM-836169C8-E272-4A22-ACB9-5D73CCEFC167' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-836169C8-E272-4A22-ACB9-5D73CCEFC167'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -4185,7 +4112,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9</p>
 </div>
@@ -4199,7 +4126,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4480,6 +4407,15 @@ TODOANSWER
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+why is it in PRCC? no answers given.
+</div>
 
 <div class='review'>
 <ul class='review'>

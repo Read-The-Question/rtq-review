@@ -171,6 +171,14 @@ const IndexPage = ({data}) => {
     });
   }
 
+  const notstartedNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      return slug.startsWith("ragpapers") && slug.includes("-notstarted");
+    });
+  }
+
+
   const restOfNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -178,6 +186,7 @@ const IndexPage = ({data}) => {
       return slug.startsWith("ragpapers") && 
       !(
         (slug.includes("-blocked")) || 
+        (slug.includes("-notstarted")) || 
         (slug.includes("-prcc")) || 
         (slug.includes("-prcr")) || 
         (slug.includes("-prpcr")) ||
@@ -235,6 +244,25 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
+      <h2 style={headingStyles}>
+        TopicPapers - RAG - Not Started
+      </h2>
+
+      <ul style={listStyles}>
+        {notstartedNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+          </li>
+        ))}
+      </ul>
 
       <h2 style={headingStyles}>
         TopicPapers - RAG - PRCC

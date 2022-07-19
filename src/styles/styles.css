@@ -443,18 +443,18 @@ input[type=button], input[type=submit], input[type=reset] {
 
     font-size: 18px;
 
-  }
+}
 
-  input[type=submit] {
+input[type=submit] {
     background-color: #04AA6D;
     /* color: white; */
-  }
+}
 
-  input[type=reset] {
+input[type=reset] {
     background-color: orange;
-  }
+}
 
-  textarea {
+textarea {
     width: 50%;
     height: 150px;
     padding: 20px 20px;
@@ -466,13 +466,52 @@ input[type=button], input[type=submit], input[type=reset] {
 
     font-size: 18px;
 
-  }
+}
   
-  textarea:focus {
+textarea:focus {
     background-color: lightblue;
     border: 3px solid #555;
-  }
+}
 
-  input[type=submit] + input[type=reset] {
+input[type=submit] + input[type=reset] {
       margin-left: 20px;
-  }
+}
+
+.addsubtag, .removesubtag { 
+    border-width: 1px;
+    border-color: olivedrab;
+    border-style: solid;
+
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    /* display: none; */
+}
+
+ul.subtag {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    /* width: 100%; */
+
+    /* border: 1px solid #e7e7e7; */
+    /* background-color: #f3f3f3; */
+  
+}
+
+li.subtag {
+    display: inline;
+    /* padding: 20px; */
+    margin: 20px;
+}
+
+button.subtag {
+    padding: 20px 20px;
+    font-size: 18px;
+
+}
+
+button.subtag.selected {
+    padding: 20px 20px;
+    background-color: #04AA6D;
+}

@@ -1,3 +1,37 @@
+const removeSubTag = (event) => {
+    // console.log(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`)
+    // alert(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`);
+    const btn = event.currentTarget;
+
+    const uuid = btn.dataset.uuid;
+    const rag = btn.dataset.subtag;
+
+    const body = {uuid, rag};
+    console.log(body);
+
+    // const url = 'http://localhost:5000/removesubtag';
+    const url = 'https://read-the-question-20220609.herokuapp.com/subtag';
+
+    submitAsyncRequest(uuid, body, url, 'SUBTAG');
+}
+
+const addSubTag = (event) => {
+    // console.log(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`)
+    // alert(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`);
+    const btn = event.currentTarget;
+
+    const uuid = btn.dataset.uuid;
+    const rag = btn.dataset.subtag;
+
+    const body = {uuid, rag};
+    console.log(body);
+
+    // const url = 'http://localhost:5000/addsubtag';
+    const url = 'https://read-the-question-20220609.herokuapp.com/subtag';
+
+    submitAsyncRequest(uuid, body, url, 'SUBTAG');
+}
+
 const submitReview = (event) => {
     // console.log(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`)
     // alert(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`);
@@ -13,7 +47,7 @@ const submitReview = (event) => {
     // const url = 'http://localhost:5000/rag';
     const url = 'https://read-the-question-20220609.herokuapp.com/rag';
 
-    submitAsyncRequest(uuid, body, url);
+    submitAsyncRequest(uuid, body, url, 'REVIEW');
 }
 
 const submitComment = (event) => {
@@ -36,11 +70,11 @@ const submitComment = (event) => {
     // const url = 'http://localhost:5000/comments';
     const url = 'https://read-the-question-20220609.herokuapp.com/comments';
 
-    submitAsyncRequest(uuid, body, url);
+    submitAsyncRequest(uuid, body, url, 'REVIEW');
 }
 
-async function submitAsyncRequest(uuid, body, url) {
-    const review_status = document.getElementById(`REVIEW-STATUS-${uuid}`);
+async function submitAsyncRequest(uuid, body, url, reviewPrefix) {
+    const review_status = document.getElementById(`${reviewPrefix}-STATUS-${uuid}`);
 
     setStatusWithTimeout(review_status, "Submitting. Please wait ...", "loading", 0);
 
@@ -86,111 +120,4 @@ const setStatusWithTimeout = (element, startState, statusClassName, timer) => {
         }, timer);
     }
 }
-
-// const submitReviewOld = (uuid, sheet, rag) => {
-//     // console.log(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`)
-//     // alert(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`);
-
-//     const body = {uuid, sheet, rag};
-//     console.log(body);
-//     const url = 'https://read-the-question-20220609.herokuapp.com/rag';
-
-//     submitAsyncRequest(uuid, body, url);
-// }
-
-
-// async function submitCommentAsync(uuid, sheet, comment) {
-//     const body = {uuid, sheet, comment};
-//     console.log(uuid);
-//     const review_status = document.getElementById(uuid);
-
-//     setStatusWithTimeout(review_status, "Submitting. Please wait ...", "loading", 0);
-
-//     try {
-//         const response = await fetch(
-//             'https://read-the-question-20220609.herokuapp.com/comments',
-//             {
-//                 method: 'POST',
-//                 body: JSON.stringify(body),
-//                 headers: {
-//                     'Content-Type': 'application/json',
-//                 }
-//             }
-//         );
-            
-
-//         // const response = await fetch(
-//         //     'http://localhost:5000/comments',
-//         //     {
-//         //         method: 'POST',
-//         //         body: JSON.stringify(body),
-//         //         headers: {
-//         //             'Content-Type': 'application/json',
-//         //         }
-//         //     }
-//         // );
-    
-//         if (!response.ok) {
-//             const body = await response.json();
-//             console.log(`HTTP success! ${body}`);
-    
-//             setStatusWithTimeout(review_status, `Error: ${body.reason}`, "error", 3000);
-//             // alert(`HTTP error! status: ${response.status}`);
-//         } else {
-//             // alert(`HTTP success! status: ${response.status}`);
-//             setStatusWithTimeout(review_status, "Success", "success", 3000);
-//         }
-//     } catch(e) {
-//         console.error(e);
-//         setStatusWithTimeout(review_status, `Error: ${e.message}`, "error", 3000);
-//     }
-// }
-
-
-// async function submitReviewAsync(uuid, sheet, rag) {
-//     const body = {uuid, sheet, rag};
-//     console.log(uuid);
-//     const review_status = document.getElementById(uuid);
-
-//     setStatusWithTimeout(review_status, "Submitting. Please wait ...", "loading", 0);
-
-//     try {
-//         const response = await fetch(
-//             'https://read-the-question-20220609.herokuapp.com/rag',
-//             {
-//                 method: 'POST',
-//                 body: JSON.stringify(body),
-//                 headers: {
-//                     'Content-Type': 'application/json',
-//                 }
-//             }
-//         );
-            
-
-//         // const response = await fetch(
-//         //     'http://localhost:5000/rag',
-//         //     {
-//         //         method: 'POST',
-//         //         body: JSON.stringify(body),
-//         //         headers: {
-//         //             'Content-Type': 'application/json',
-//         //         }
-//         //     }
-//         // );
-    
-//         if (!response.ok) {
-//             const body = await response.json();
-//             console.log(`HTTP success! ${body}`);
-    
-//             setStatusWithTimeout(review_status, `Error: ${body.reason}`, "error", 3000);
-//             // alert(`HTTP error! status: ${response.status}`);
-//         } else {
-//             // alert(`HTTP success! status: ${response.status}`);
-//             setStatusWithTimeout(review_status, "Success", "success", 3000);
-//         }
-//     } catch(e) {
-//         console.error(e);
-//         setStatusWithTimeout(review_status, `Error: ${e.message}`, "error", 3000);
-//     }
-// }
 

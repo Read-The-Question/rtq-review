@@ -1,0 +1,263 @@
+---
+slug: "ragpapers/topicpapers-tnumber-4-blocked"
+title: "TopicPaper - Number - 4 - BLOCKED"
+date: 2022-07-20 05:13:34
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>AF9C3C70-A6C3-43E8-B655-896DA47448FB</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='AF9C3C70-A6C3-43E8-B655-896DA47448FB' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-AF9C3C70-A6C3-43E8-B655-896DA47448FB'>Initial</p>
+<div class='question question'>
+
+For this question you can do rough working on the left hand side of the page if required. 
+
+Put answers only in the spaces on the right.
+
+$2.74 \times 10,000 =$ ..................
+
+$13^2 =$ ..................
+
+The square root of $49$ is .................
+
+The cube root of $125$ is ..................
+
+$4^3 =$ ..................
+
+$\dfrac{240}{300}$ in its simplest form is ..................
+
+$25\% of 68 =$ ..................
+
+$43 \times 38 =$ ..................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2.74 \times 10000 \\\\
+&= 27400
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 13^2 \\\\
+&= 13 \times 13 \\\\
+&= 169
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 49 \\\\
+&= \sqrt {49} \\\\
+&= \sqrt {7^2} \\\\
+&= 7
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 125 \\\\
+&= \sqrt [3] {125} \\\\
+&= \sqrt [3] {5^3} \\\\
+&= 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 4^3 \\\\
+&= 64
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= \dfrac {240} {300} \\\\
+&= \dfrac {24 \cancel {0} } {30\cancel {0} } \\\\
+&= \dfrac {24} {3 \times 10} \\\\
+&= \dfrac {8 \times \cancel {3} } {\cancel {3} \times 10} \\\\
+&= \dfrac {8} {10} \\\\
+&= 0.8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 43 \times 38 \\\\
+&= 1634
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27400, 169, 7, 5, 64, 0.8, 1634$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 2.74 \times 10000 \\\\
+&= 27400
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 13^2 \\\\
+&= 13 \times 13 \\\\
+&= 169
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 49 \\\\
+&= \sqrt {49} \\\\
+&= \sqrt {7^2} \\\\
+&= 7
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 125 \\\\
+&= \sqrt [3] {125} \\\\
+&= \sqrt [3] {5^3} \\\\
+&= 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 4^3 \\\\
+&= 64
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= \dfrac {240} {300} \\\\
+&= \dfrac {24 \cancel {0} } {30\cancel {0} } \\\\
+&= \dfrac {24} {3 \times 10} \\\\
+&= \dfrac {8 \times \cancel {3} } {\cancel {3} \times 10} \\\\
+&= \dfrac {8} {10} \\\\
+&= 0.8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 43 \times 38 \\\\
+&= 1634
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$27400, 169, 7, 5, 64, 0.8, 1634$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+</ul>

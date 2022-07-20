@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-20 05:08:03
+date: 2022-07-20 06:22:33
 ---
 <div class='paper'>
 <div class='meta'>
@@ -269,7 +269,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>EBAA41D6-4D72-44C7-ACD8-7C23E483986D</p>
 </div>
@@ -280,7 +280,7 @@ $
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -419,32 +419,32 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' id='FORM-EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='EBAA41D6-4D72-44C7-ACD8-7C23E483986D' id='FORM-EBAA41D6-4D72-44C7-ACD8-7C23E483986D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3991,7 +3991,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>2CE70451-4F92-4D9E-A6C6-97D5F69F38A0</p>
 </div>
@@ -4005,7 +4005,7 @@ $
 <p>rag_am_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4542,6 +4542,39 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+b: remove lets verify, its simple to not show
+
+
+
+c: remove lets verify
+
+
+
+d, e: explain more, similar to tsequence questions
+
+
+
+
+
+
+
+f: remove () in S1
+
+
+
+g: just write numbers, the explanation is not really showing the prime and primes square
+
+
+
+remove extra working and answers in the main question
+</div>
 
 <div class='review'>
 <ul class='review'>

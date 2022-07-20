@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-1"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 1"
-date: 2022-07-20 05:08:03
+date: 2022-07-20 06:22:33
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1204,7 +1204,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>ACA26B1F-A7BD-4600-BA3F-B16189433567</p>
 </div>
@@ -1215,10 +1215,10 @@ $
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1512,7 +1512,7 @@ ${?} - 7 = -2$
 <div class='working'>
 
 $\green
-{5}$
+{5} - 7 = -2$
 
 </div>
 </div>
@@ -1526,7 +1526,7 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\rtq_katex_color_answer{5}$
+<pre class='language-latex'><code class='language-latex'>$\rtq_katex_color_answer{5} - 7 = -2$
 </code></pre>
 </div>
 </div>
@@ -1656,69 +1656,36 @@ $5$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: Do same as b, detailed addition way
-
-
-
-change rtq_katex_color_info to rtq_katex_color_answer for all answers.
-
-
-
-d: is really simple, no need of algebra, just write the answer in colour and underlined, you have done similar question in paper 1 or 2
-
-
-
-a: Plus sign should one to the right. Refer coding guidelines for addition
-
-
-
-New comment: 14 July
-
-
-
-a: Plus sign should one to the right. Refer coding guidelines for addition
-
-
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' id='FORM-ACA26B1F-A7BD-4600-BA3F-B16189433567' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='ACA26B1F-A7BD-4600-BA3F-B16189433567' id='FORM-ACA26B1F-A7BD-4600-BA3F-B16189433567' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

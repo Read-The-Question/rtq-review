@@ -1,11 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g2"
 title: "TopicPaper - Time - 1 - G2"
-<<<<<<< HEAD
-date: 2022-07-19 10:42:23
-=======
-date: 2022-07-20 05:13:34
->>>>>>> 02fb378b9 (Files updated)
+date: 2022-07-20 06:28:31
 ---
 <ul class='question default-decimal'>
 <li>

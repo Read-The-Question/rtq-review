@@ -4,13 +4,13 @@ const removeSubTag = (event) => {
     const btn = event.currentTarget;
 
     const uuid = btn.dataset.uuid;
-    const rag = btn.dataset.subtag;
+    const subtag = btn.dataset.subtag;
 
-    const body = {uuid, rag};
+    const body = {uuid, subtag};
     console.log(body);
 
     // const url = 'http://localhost:5000/removesubtag';
-    const url = 'https://read-the-question-20220609.herokuapp.com/subtag';
+    const url = 'https://read-the-question-20220609.herokuapp.com/removesubtag';
 
     submitAsyncRequest(uuid, body, url, 'SUBTAG');
 }
@@ -21,13 +21,13 @@ const addSubTag = (event) => {
     const btn = event.currentTarget;
 
     const uuid = btn.dataset.uuid;
-    const rag = btn.dataset.subtag;
+    const subtag = btn.dataset.subtag;
 
-    const body = {uuid, rag};
+    const body = {uuid, subtag};
     console.log(body);
 
     // const url = 'http://localhost:5000/addsubtag';
-    const url = 'https://read-the-question-20220609.herokuapp.com/subtag';
+    const url = 'https://read-the-question-20220609.herokuapp.com/addsubtag';
 
     submitAsyncRequest(uuid, body, url, 'SUBTAG');
 }

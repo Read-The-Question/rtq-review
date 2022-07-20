@@ -219,6 +219,11 @@ const IndexPage = ({data}) => {
               </Link>
 
             </span>
+
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -240,6 +245,10 @@ const IndexPage = ({data}) => {
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -260,6 +269,10 @@ const IndexPage = ({data}) => {
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -277,10 +290,14 @@ const IndexPage = ({data}) => {
                 style={linkStyle}
                 to={node.frontmatter.slug}
               >
-                {node.frontmatter.title} {" "}
+                {node.frontmatter.title} {" "} 
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -303,6 +320,10 @@ const IndexPage = ({data}) => {
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -324,6 +345,10 @@ const IndexPage = ({data}) => {
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -344,10 +369,14 @@ const IndexPage = ({data}) => {
                 style={linkStyle}
                 to={node.frontmatter.slug}
               >
-                {node.frontmatter.title} {" "}
+                {node.frontmatter.title} {" "} 
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -366,10 +395,14 @@ const IndexPage = ({data}) => {
                 style={linkStyle}
                 to={node.frontmatter.slug}
               >
-                {node.frontmatter.title} {" "}
+                {node.frontmatter.title} {" "} 
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -386,10 +419,14 @@ const IndexPage = ({data}) => {
                 style={linkStyle}
                 to={node.frontmatter.slug}
               >
-                {node.frontmatter.title} {" "}
+                {node.frontmatter.title} {" "} 
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -406,10 +443,14 @@ const IndexPage = ({data}) => {
                 style={linkStyle}
                 to={node.frontmatter.slug}
               >
-                {node.frontmatter.title} {" "}
+                {node.frontmatter.title} {" "} 
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -426,10 +467,14 @@ const IndexPage = ({data}) => {
                 style={linkStyle}
                 to={node.frontmatter.slug}
               >
-                {node.frontmatter.title} {" "}
+                {node.frontmatter.title} {" "} 
               </Link>
 
             </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
           </li>
         ))}
       </ul>
@@ -446,6 +491,7 @@ query {
         frontmatter {
           title
           slug
+          questions_count
         }
       }
     }

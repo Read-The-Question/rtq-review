@@ -1,12 +1,18 @@
 ---
+<<<<<<< HEAD:src/pages/md/ragpapers/topicpapers_tnumber_8_oldpr_prcc.md
 slug: "ragpapers/topicpapers-tnumber-8-oldpr-prcc"
 title: "TopicPaper - Number - 8 - OLDPR - PRCC"
 date: 2022-07-21 09:04:47
+=======
+slug: "ragpapers/topicpapers-tnumber-8-oldpr-prpcr"
+title: "TopicPaper - Number - 8 - OLDPR - PRPCR"
+date: 2022-07-21 22:35:40
+>>>>>>> 3b1581a8b (Files updated):src/pages/md/ragpapers/topicpapers_tnumber_8_oldpr_prpcr.md
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D</p>
 </div>
@@ -20,7 +26,7 @@ questions_count: "1"
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -380,10 +386,21 @@ $
 
 <h4>Review Comments</h4>
 array please
+
+
+
+part a no working shown, write using begin aligned
+
+
+
+d: &= missing in S1
 </div>
 
 <div class='review'>
 <ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D' onclick='submitReview(event)'>PRCC</button>
+</li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D' onclick='submitReview(event)'>PRG</button>
 </li>
@@ -397,7 +414,7 @@ array please
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D' onclick='submitReview(event)'>PRR</button>

@@ -1,7 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-oldpr"
 title: "TopicPaper - Number - 13 - OLDPR"
+<<<<<<< HEAD
 date: 2022-07-21 09:04:47
+=======
+date: 2022-07-21 22:47:43
+>>>>>>> 3b1581a8b (Files updated)
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -140,9 +144,9 @@ $\Huge \boxed {...}$  Subtract 28 $\Huge \boxed {...}$  Add 19 $\Huge \boxed {63
 <div class='workings'>
 <div class='working'>
 
-Let first space $= a$ 
+Let first missing number $= a$ 
 
-Let second space $= b$
+Let second missing number $= b$
 
 As per the question,
 
@@ -170,9 +174,9 @@ $72, 44$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let first space $= a$ 
+<pre class='language-latex'><code class='language-latex'>Let first missing number $= a$ 
 
-Let second space $= b$
+Let second missing number $= b$
 
 As per the question,
 
@@ -292,6 +296,9 @@ Not written per algebra standards
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -304,7 +311,7 @@ Not written per algebra standards
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRR</button>
@@ -424,45 +431,36 @@ d) $112$ inches
 <div class='workings'>
 <div class='working'>
 
-$120\ \text{cm}\ \text{is nearly the height of a dwarf} $              
-
-$150\ \text{mm}= 15\ \text{cm} \ \text{height is not possible} $ 
-
-$1.8\ \text{m}= 180\ \text{cm} \ \text{is nearly height average height of a man} $
-
-$112\ \text{inches}= 284\ \text{cm} \ \text{height is not possible} $
+$1.8 \ \text{m}$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
 <div class='answer'>
 
-$\text {c)}\ 1.8 \ \text {m}$
+$1.8 \ \text{m}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$120\ \text{cm}\ \text{is nearly the height of a dwarf} $              
-
-$150\ \text{mm}= 15\ \text{cm} \ \text{height is not possible} $ 
-
-$1.8\ \text{m}= 180\ \text{cm} \ \text{is nearly height average height of a man} $
-
-$112\ \text{inches}= 284\ \text{cm} \ \text{height is not possible} $
+<pre class='language-latex'><code class='language-latex'>$1.8 \ \text{m}$
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\text {c)}\ 1.8 \ \text {m}$
+<pre class='language-latex'><code class='language-latex'>$1.8 \ \text{m}$
 </code></pre>
 </div>
 </div>
@@ -492,6 +490,9 @@ Change your blue answer too \"c) 1.8m\"
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='432CB436-BF77-496F-A6D6-C553A73CC616' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='432CB436-BF77-496F-A6D6-C553A73CC616' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -504,7 +505,7 @@ Change your blue answer too \"c) 1.8m\"
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='432CB436-BF77-496F-A6D6-C553A73CC616' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='432CB436-BF77-496F-A6D6-C553A73CC616' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='432CB436-BF77-496F-A6D6-C553A73CC616' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='432CB436-BF77-496F-A6D6-C553A73CC616' onclick='submitReview(event)'>PRR</button>
@@ -770,21 +771,21 @@ These numbers have a special name. What is it?
 <div class='workings'>
 <div class='working'>
 
-$\text {Perfect Squares}$
+Square numbers
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Perfect Squares
+Square numbers
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\text {Perfect Squares}$
+<pre class='language-latex'><code class='language-latex'>Square numbers
 </code></pre>
 </div>
 </div>
@@ -796,7 +797,7 @@ Perfect Squares
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Perfect Squares
+<pre class='language-latex'><code class='language-latex'>Square numbers
 </code></pre>
 </div>
 </div>
@@ -882,6 +883,9 @@ Part D :is correct
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7EDC8D07-F0B7-488E-966B-4C742A083200' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7EDC8D07-F0B7-488E-966B-4C742A083200' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -894,7 +898,7 @@ Part D :is correct
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='7EDC8D07-F0B7-488E-966B-4C742A083200' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7EDC8D07-F0B7-488E-966B-4C742A083200' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='7EDC8D07-F0B7-488E-966B-4C742A083200' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7EDC8D07-F0B7-488E-966B-4C742A083200' onclick='submitReview(event)'>PRR</button>

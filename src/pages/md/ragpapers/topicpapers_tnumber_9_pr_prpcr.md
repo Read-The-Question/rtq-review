@@ -1,13 +1,8 @@
 ---
-slug: "ragpapers/topicpapers-tnumber-9-pr"
-title: "TopicPaper - Number - 9 - PR"
-<<<<<<< HEAD
-date: 2022-07-21 09:04:47
-questions_count: "7"
-=======
+slug: "ragpapers/topicpapers-tnumber-9-pr-prpcr"
+title: "TopicPaper - Number - 9 - PR - PRPCR"
 date: 2022-07-21 22:35:40
 questions_count: "3"
->>>>>>> 3b1581a8b (Files updated)
 ---
 <ul class='question default-decimal'>
 <li>

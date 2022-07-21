@@ -138,6 +138,21 @@ const IndexPage = ({data}) => {
       (
         slug.includes("-prcc") || 
         (slug.includes("-prns"))
+      ) &&
+      !(
+        (slug.includes("-prccrl"))
+      );
+
+    });
+  }
+
+  const prccrlNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      console.log(slug);
+      return slug.startsWith("ragpapers") && 
+      (
+        slug.includes("-prccrl")
       );
     });
   }
@@ -232,7 +247,6 @@ const IndexPage = ({data}) => {
         TopicPapers - RAG - PRCR
       </h2>
 
-      {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
         {prcrNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
@@ -302,6 +316,30 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
+      <h2 style={headingStyles}>
+        TopicPapers - RAG - PRCCRL
+      </h2>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {prccrlNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
 
       <h2 style={headingStyles}>
         TopicPapers - RAG

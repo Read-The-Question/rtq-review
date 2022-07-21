@@ -1,12 +1,18 @@
 ---
+<<<<<<< HEAD:src/pages/md/ragpapers/topicpapers_tnumber_13_g0_prcc.md
 slug: "ragpapers/topicpapers-tnumber-13-g0-prcc"
 title: "TopicPaper - Number - 13 - G0 - PRCC"
 date: 2022-07-21 09:04:47
+=======
+slug: "ragpapers/topicpapers-tnumber-13-g0-prpcr"
+title: "TopicPaper - Number - 13 - G0 - PRPCR"
+date: 2022-07-21 22:47:43
+>>>>>>> 3b1581a8b (Files updated):src/pages/md/ragpapers/topicpapers_tnumber_13_g0_prpcr.md
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -20,7 +26,7 @@ questions_count: "1"
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -143,8 +149,7 @@ $
 \text{Distance}     &= 0.6 \ \text{miles} \\\\
                     &= 0.6 \times 1760 \ \text{yards} \\\\
                     &= \dfrac {6 \times 1760}{10} \\\\
-                    &= \dfrac {6 \times 176 \times 10}{10} \\\\
-                    &= \dfrac {6 \times 176 \times 1\cancel{0}} {1 \cancel{0}} \\\\
+                    &= \dfrac {6 \times 176 \cancel{0}}{1 \cancel{0}} \\\\
                     &= 6 \times 176 \\\\
                     &= 1056 \ \text{yards}
 \end{aligned}
@@ -169,8 +174,7 @@ $1056 \ \text{yards}$
 \text{Distance}     &= 0.6 \ \text{miles} \\\\
                     &= 0.6 \times 1760 \ \text{yards} \\\\
                     &= \dfrac {6 \times 1760}{10} \\\\
-                    &= \dfrac {6 \times 176 \times 10}{10} \\\\
-                    &= \dfrac {6 \times 176 \times 1\cancel{0}} {1 \cancel{0}} \\\\
+                    &= \dfrac {6 \times 176 \cancel{0}}{1 \cancel{0}} \\\\
                     &= 6 \times 176 \\\\
                     &= 1056 \ \text{yards}
 \end{aligned}
@@ -205,16 +209,14 @@ I live $4,400$ yards from Anfield football stadium. How many miles from Anfield 
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&= 4400\times\dfrac{1}{1760}\ \text {miles} \\\\
-&= \dfrac{4400}{1760} \\\\
-&= \dfrac {25\times 176} {10\times 176} \\\\
-&= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
-&=\dfrac{25}{10}\\\\
-&= 2.5 \ \text {miles}
+\text{Distance}     &= 4400 \ \text{yards} \\\\
+                    &= \dfrac{4400}{1760}  \ \text {miles} \\\\
+                    &= \dfrac {44 \times 10 \times 2 \times 5} {44 \times 10 \times 2 \times 2} \\\\
+                    &= \dfrac {\cancel{44} \times 1 \cancel{0} \times \cancel{2} \times 5} {\cancel{44} \times 1 \cancel{0} \times \cancel{2} \times 2} \\\\
+                    &=\dfrac{5}{2}\\\\
+                    &= 2.5 \ \text {miles}
 \end{aligned}
 $
 
@@ -231,16 +233,14 @@ $2.5 \ \text {miles}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 4400\times\dfrac{1}{1760}\ \text {miles} \\\\
-&= \dfrac{4400}{1760} \\\\
-&= \dfrac {25\times 176} {10\times 176} \\\\
-&= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
-&=\dfrac{25}{10}\\\\
-&= 2.5 \ \text {miles}
+\text{Distance}     &= 4400 \ \text{yards} \\\\
+                    &= \dfrac{4400}{1760}  \ \text {miles} \\\\
+                    &= \dfrac {44 \times 10 \times 2 \times 5} {44 \times 10 \times 2 \times 2} \\\\
+                    &= \dfrac {\cancel{44} \times 1 \cancel{0} \times \cancel{2} \times 5} {\cancel{44} \times 1 \cancel{0} \times \cancel{2} \times 2} \\\\
+                    &=\dfrac{5}{2}\\\\
+                    &= 2.5 \ \text {miles}
 \end{aligned}
 $
 
@@ -342,10 +342,17 @@ $
 
 
 I have done part a. Please change part b and c on the same lines.
+
+
+
+change c on the same lines as a.
 </div>
 
 <div class='review'>
 <ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRCC</button>
+</li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRG</button>
 </li>
@@ -359,7 +366,7 @@ I have done part a. Please change part b and c on the same lines.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRR</button>

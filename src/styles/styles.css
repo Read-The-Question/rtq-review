@@ -172,6 +172,12 @@ img {
     background-color: paleturquoise;
 }
 
+.question_envelope.question.rag_prccrl {
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    /* background-color: lightgreen; */
+    background-color: paleturquoise;
+}
+
 .question_envelope.question.rag_prg {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
@@ -374,6 +380,11 @@ button.rag_prr {
 button.rag_prcc {
     padding: 20px 20px;
     background-color: paleturquoise;
+}
+
+button.rag_prccrl {
+    padding: 20px 20px;
+    background-color: orange;
 }
 
 button.rag_prbd {

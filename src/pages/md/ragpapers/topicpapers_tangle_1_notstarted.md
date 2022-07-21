@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-notstarted"
 title: "TopicPaper - Angle - 1 - NOTSTARTED"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

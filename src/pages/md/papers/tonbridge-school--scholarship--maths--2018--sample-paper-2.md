@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2018-sample-paper-2"
 title: "Tonbridge School - Scholarship - Maths - 2018 - Sample Paper 2"
-date: 2022-07-21 08:58:55
+date: 2022-07-21 23:20:38
 questions_count: "7"
 ---
 <div class='paper'>
@@ -436,6 +436,9 @@ TODOANSWER
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -448,7 +451,7 @@ TODOANSWER
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3E76B098-E1E3-44C7-9465-39667894AFEE' onclick='submitReview(event)'>PRR</button>
@@ -1550,6 +1553,9 @@ Radius of the sphere $= 0.4 \ \text {cm}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1562,7 +1568,7 @@ Radius of the sphere $= 0.4 \ \text {cm}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8FE71FBE-741B-44E7-B00C-6618D7E244F9' onclick='submitReview(event)'>PRR</button>

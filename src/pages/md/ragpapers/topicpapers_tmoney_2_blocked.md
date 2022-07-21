@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-blocked"
 title: "TopicPaper - Money - 2 - BLOCKED"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "3"
 ---
 <ul class='question default-decimal'>

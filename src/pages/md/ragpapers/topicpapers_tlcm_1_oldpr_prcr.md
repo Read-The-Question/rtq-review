@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tlcm-1-oldpr-prcr"
 title: "TopicPaper - Lcm - 1 - OLDPR - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -159,6 +159,9 @@ Change blue answer also please.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -171,7 +174,7 @@ Change blue answer also please.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE' onclick='submitReview(event)'>PRR</button>

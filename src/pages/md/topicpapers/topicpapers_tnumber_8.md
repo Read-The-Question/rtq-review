@@ -1,11 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-8"
 title: "TopicPaper - Number - 8"
-<<<<<<< HEAD
-date: 2022-07-21 09:04:47
-=======
-date: 2022-07-21 22:35:40
->>>>>>> 3b1581a8b (Files updated)
+date: 2022-07-21 23:26:54
 questions_count: "40"
 ---
 <div class='paper'>

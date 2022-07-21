@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-2-oldpr-prcr"
 title: "TopicPaper - Ratio - 2 - OLDPR - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -299,6 +299,9 @@ Blue Answer : add \pounds
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -311,7 +314,7 @@ Blue Answer : add \pounds
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRR</button>
@@ -577,6 +580,9 @@ Part B:
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -589,7 +595,7 @@ Part B:
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRR</button>
@@ -895,6 +901,9 @@ Part A : in slack
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -907,7 +916,7 @@ Part A : in slack
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRR</button>
@@ -1213,6 +1222,9 @@ PArt B Star 1.2 Euro = 1 pound solve step by step ..til mixed fraction pound 6 1
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1225,7 +1237,7 @@ PArt B Star 1.2 Euro = 1 pound solve step by step ..til mixed fraction pound 6 1
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRR</button>
@@ -1417,6 +1429,9 @@ then answer. write 8.30 not 8.3
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1429,7 +1444,7 @@ then answer. write 8.30 not 8.3
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRR</button>
@@ -1652,6 +1667,9 @@ and not money pounds !!! in weight so remains \"pounds\" change in blue answer t
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1664,7 +1682,7 @@ and not money pounds !!! in weight so remains \"pounds\" change in blue answer t
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRR</button>
@@ -1842,6 +1860,9 @@ blue answer : 63 girls
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4C42DA9B-C12A-4A7A-B493-F806C22437DB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4C42DA9B-C12A-4A7A-B493-F806C22437DB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1854,7 +1875,7 @@ blue answer : 63 girls
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4C42DA9B-C12A-4A7A-B493-F806C22437DB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4C42DA9B-C12A-4A7A-B493-F806C22437DB' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='4C42DA9B-C12A-4A7A-B493-F806C22437DB' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4C42DA9B-C12A-4A7A-B493-F806C22437DB' onclick='submitReview(event)'>PRR</button>
@@ -2040,6 +2061,9 @@ check COst (make o small) check spacing \\
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1BDA0077-610F-493E-B36C-43C8D0A51441' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1BDA0077-610F-493E-B36C-43C8D0A51441' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2052,7 +2076,7 @@ check COst (make o small) check spacing \\
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='1BDA0077-610F-493E-B36C-43C8D0A51441' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1BDA0077-610F-493E-B36C-43C8D0A51441' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='1BDA0077-610F-493E-B36C-43C8D0A51441' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1BDA0077-610F-493E-B36C-43C8D0A51441' onclick='submitReview(event)'>PRR</button>
@@ -2239,6 +2263,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2251,7 +2278,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRR</button>

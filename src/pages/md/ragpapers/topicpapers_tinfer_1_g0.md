@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-1-g0"
 title: "TopicPaper - Infer - 1 - G0"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -154,6 +154,9 @@ Square number with biggest sum of the digits $= 49$.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='6E9FF898-0A1B-40C2-A5E3-7FA5D07C17D8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='6E9FF898-0A1B-40C2-A5E3-7FA5D07C17D8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -166,7 +169,7 @@ Square number with biggest sum of the digits $= 49$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='6E9FF898-0A1B-40C2-A5E3-7FA5D07C17D8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='6E9FF898-0A1B-40C2-A5E3-7FA5D07C17D8' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='6E9FF898-0A1B-40C2-A5E3-7FA5D07C17D8' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='6E9FF898-0A1B-40C2-A5E3-7FA5D07C17D8' onclick='submitReview(event)'>PRR</button>
@@ -549,6 +552,9 @@ The three letters are $\text {B}$, $\text {E}$, $\text {G}$.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -561,7 +567,7 @@ The three letters are $\text {B}$, $\text {E}$, $\text {G}$.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRR</button>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-oldpr"
 title: "TopicPaper - Algebra - 10 - OLDPR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -349,6 +349,9 @@ a. As per the question, (next line ) Money received by Peter = 2 x Helen = 2 x p
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -361,7 +364,7 @@ a. As per the question, (next line ) Money received by Peter = 2 x Helen = 2 x p
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678' onclick='submitReview(event)'>PRR</button>
@@ -688,6 +691,9 @@ x x 22 = ..... then x will fall and remain on the left side.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2FA424AE-D274-4664-A786-BD0EEF973FF7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2FA424AE-D274-4664-A786-BD0EEF973FF7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -700,7 +706,7 @@ x x 22 = ..... then x will fall and remain on the left side.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2FA424AE-D274-4664-A786-BD0EEF973FF7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2FA424AE-D274-4664-A786-BD0EEF973FF7' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2FA424AE-D274-4664-A786-BD0EEF973FF7' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2FA424AE-D274-4664-A786-BD0EEF973FF7' onclick='submitReview(event)'>PRR</button>
@@ -1039,6 +1045,9 @@ answer is 4 . please change blue answer also
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1051,7 +1060,7 @@ answer is 4 . please change blue answer also
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRR</button>
@@ -1372,6 +1381,9 @@ n = 6
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1384,7 +1396,7 @@ n = 6
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRR</button>

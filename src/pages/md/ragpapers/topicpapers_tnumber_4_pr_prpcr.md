@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-pr-prpcr"
 title: "TopicPaper - Number - 4 - PR - PRPCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -157,6 +157,9 @@ not written correctly, single num / deno, factor and cancellation missing
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='69A680CB-F4B0-45FA-904B-A251C1A240FF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='69A680CB-F4B0-45FA-904B-A251C1A240FF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -169,7 +172,7 @@ not written correctly, single num / deno, factor and cancellation missing
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='69A680CB-F4B0-45FA-904B-A251C1A240FF' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='69A680CB-F4B0-45FA-904B-A251C1A240FF' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='69A680CB-F4B0-45FA-904B-A251C1A240FF' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='69A680CB-F4B0-45FA-904B-A251C1A240FF' onclick='submitReview(event)'>PRR</button>
@@ -782,6 +785,9 @@ remove extra working and answers in the main question
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -794,7 +800,7 @@ remove extra working and answers in the main question
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2CE70451-4F92-4D9E-A6C6-97D5F69F38A0' onclick='submitReview(event)'>PRR</button>
@@ -1192,6 +1198,9 @@ this is not done why is it up for review?
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5DA81E8F-CB8A-4D87-BB80-82B6B5D89B64' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5DA81E8F-CB8A-4D87-BB80-82B6B5D89B64' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1204,7 +1213,7 @@ this is not done why is it up for review?
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5DA81E8F-CB8A-4D87-BB80-82B6B5D89B64' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5DA81E8F-CB8A-4D87-BB80-82B6B5D89B64' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='5DA81E8F-CB8A-4D87-BB80-82B6B5D89B64' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5DA81E8F-CB8A-4D87-BB80-82B6B5D89B64' onclick='submitReview(event)'>PRR</button>

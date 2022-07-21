@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 2"
-date: 2022-07-21 08:58:55
+date: 2022-07-21 23:20:38
 questions_count: "12"
 ---
 <div class='paper'>
@@ -303,6 +303,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -315,7 +318,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRR</button>
@@ -689,6 +692,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -701,7 +707,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRR</button>
@@ -1146,6 +1152,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1158,7 +1167,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6985EE7A-C7F7-4045-AF01-B9B001667366' onclick='submitReview(event)'>PRR</button>
@@ -2715,6 +2724,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2727,7 +2739,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRR</button>
@@ -5142,6 +5154,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -5154,7 +5169,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B283FEE5-8695-4B69-9E3B-FAC317A0C93E' onclick='submitReview(event)'>PRR</button>

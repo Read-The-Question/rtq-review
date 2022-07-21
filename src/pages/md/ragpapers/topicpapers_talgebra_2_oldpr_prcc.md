@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-oldpr-prcc"
 title: "TopicPaper - Algebra - 2 - OLDPR - PRCC"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -198,6 +198,9 @@ Introduce a new answer answer.workings.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -210,7 +213,7 @@ Introduce a new answer answer.workings.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRR</button>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-oldpr"
 title: "TopicPaper - Time - 4 - OLDPR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -169,6 +169,9 @@ and solve further
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -181,7 +184,7 @@ and solve further
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRR</button>
@@ -545,6 +548,9 @@ and solve furhter
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -557,7 +563,7 @@ and solve furhter
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRR</button>
@@ -936,6 +942,9 @@ in section.answer : write hrs and \"hours\"
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -948,7 +957,7 @@ in section.answer : write hrs and \"hours\"
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRR</button>
@@ -1134,6 +1143,9 @@ remove whole katex:
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='19C4B959-6C02-4D22-B36F-6E0A58FE85F7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='19C4B959-6C02-4D22-B36F-6E0A58FE85F7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1146,7 +1158,7 @@ remove whole katex:
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='19C4B959-6C02-4D22-B36F-6E0A58FE85F7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='19C4B959-6C02-4D22-B36F-6E0A58FE85F7' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='19C4B959-6C02-4D22-B36F-6E0A58FE85F7' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='19C4B959-6C02-4D22-B36F-6E0A58FE85F7' onclick='submitReview(event)'>PRR</button>

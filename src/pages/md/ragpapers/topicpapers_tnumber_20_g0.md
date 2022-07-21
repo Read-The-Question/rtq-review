@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-g0"
 title: "TopicPaper - Number - 20 - G0"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -145,6 +145,9 @@ Numbers divisible by $5 = 70$ and $5$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='5F6EBC17-59BB-4241-954E-B94AC553427C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='5F6EBC17-59BB-4241-954E-B94AC553427C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -157,7 +160,7 @@ Numbers divisible by $5 = 70$ and $5$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='5F6EBC17-59BB-4241-954E-B94AC553427C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='5F6EBC17-59BB-4241-954E-B94AC553427C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='5F6EBC17-59BB-4241-954E-B94AC553427C' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='5F6EBC17-59BB-4241-954E-B94AC553427C' onclick='submitReview(event)'>PRR</button>
@@ -446,6 +449,9 @@ $10, 12, 15$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='BB7F6439-4B27-4A19-8711-CED205A8D4F7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='BB7F6439-4B27-4A19-8711-CED205A8D4F7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -458,7 +464,7 @@ $10, 12, 15$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='BB7F6439-4B27-4A19-8711-CED205A8D4F7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='BB7F6439-4B27-4A19-8711-CED205A8D4F7' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='BB7F6439-4B27-4A19-8711-CED205A8D4F7' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='BB7F6439-4B27-4A19-8711-CED205A8D4F7' onclick='submitReview(event)'>PRR</button>

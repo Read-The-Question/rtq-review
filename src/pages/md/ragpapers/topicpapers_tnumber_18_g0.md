@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-18-g0"
 title: "TopicPaper - Number - 18 - G0"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -231,6 +231,9 @@ $\text{litres}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -243,7 +246,7 @@ $\text{litres}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRR</button>
@@ -394,6 +397,9 @@ $48$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -406,7 +412,7 @@ $48$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRR</button>
@@ -702,6 +708,9 @@ $2, 3, 5, 7, 11, 13, 17$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -714,7 +723,7 @@ $2, 3, 5, 7, 11, 13, 17$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRR</button>
@@ -1080,6 +1089,9 @@ Refer tage questions for approved ways of writing algebra answers. topicpapers-t
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='D86093D3-93E9-42B0-AC4D-0FA47EA9C02D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='D86093D3-93E9-42B0-AC4D-0FA47EA9C02D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1092,7 +1104,7 @@ Refer tage questions for approved ways of writing algebra answers. topicpapers-t
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='D86093D3-93E9-42B0-AC4D-0FA47EA9C02D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='D86093D3-93E9-42B0-AC4D-0FA47EA9C02D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='D86093D3-93E9-42B0-AC4D-0FA47EA9C02D' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='D86093D3-93E9-42B0-AC4D-0FA47EA9C02D' onclick='submitReview(event)'>PRR</button>
@@ -1527,6 +1539,9 @@ fix katex for d
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='7BF6A139-A97B-4D72-BD97-EAFA887F9905' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='7BF6A139-A97B-4D72-BD97-EAFA887F9905' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1539,7 +1554,7 @@ fix katex for d
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='7BF6A139-A97B-4D72-BD97-EAFA887F9905' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='7BF6A139-A97B-4D72-BD97-EAFA887F9905' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='7BF6A139-A97B-4D72-BD97-EAFA887F9905' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='7BF6A139-A97B-4D72-BD97-EAFA887F9905' onclick='submitReview(event)'>PRR</button>

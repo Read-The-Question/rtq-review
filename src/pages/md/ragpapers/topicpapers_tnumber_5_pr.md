@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-5-pr"
 title: "TopicPaper - Number - 5 - PR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -132,6 +132,9 @@ $2$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -144,7 +147,7 @@ $2$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D36BB18F-8826-4176-8B3F-39ED15916C0B' onclick='submitReview(event)'>PRR</button>
@@ -305,6 +308,9 @@ It is not a prime number.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='453B0746-B166-4EE0-AEA0-F0AD673F0605' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='453B0746-B166-4EE0-AEA0-F0AD673F0605' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -317,7 +323,7 @@ It is not a prime number.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='453B0746-B166-4EE0-AEA0-F0AD673F0605' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='453B0746-B166-4EE0-AEA0-F0AD673F0605' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='453B0746-B166-4EE0-AEA0-F0AD673F0605' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='453B0746-B166-4EE0-AEA0-F0AD673F0605' onclick='submitReview(event)'>PRR</button>
@@ -478,6 +484,9 @@ It is not a prime number.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8A6F744F-D734-4C43-B480-D72FFCB43B8C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8A6F744F-D734-4C43-B480-D72FFCB43B8C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -490,7 +499,7 @@ It is not a prime number.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8A6F744F-D734-4C43-B480-D72FFCB43B8C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8A6F744F-D734-4C43-B480-D72FFCB43B8C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='8A6F744F-D734-4C43-B480-D72FFCB43B8C' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8A6F744F-D734-4C43-B480-D72FFCB43B8C' onclick='submitReview(event)'>PRR</button>
@@ -651,6 +660,9 @@ It is not a prime number.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5BC3D944-D616-4B3F-BC89-6518B6D2CEBB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5BC3D944-D616-4B3F-BC89-6518B6D2CEBB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -663,7 +675,7 @@ It is not a prime number.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5BC3D944-D616-4B3F-BC89-6518B6D2CEBB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5BC3D944-D616-4B3F-BC89-6518B6D2CEBB' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='5BC3D944-D616-4B3F-BC89-6518B6D2CEBB' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5BC3D944-D616-4B3F-BC89-6518B6D2CEBB' onclick='submitReview(event)'>PRR</button>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-oldpr"
 title: "TopicPaper - Simpleword - 4 - OLDPR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -149,6 +149,9 @@ U took reference from somewhere?? If no, Then change the working to - As per the
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='85AF4A82-D8F4-4C46-A7A4-17F82A02167C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='85AF4A82-D8F4-4C46-A7A4-17F82A02167C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -161,7 +164,7 @@ U took reference from somewhere?? If no, Then change the working to - As per the
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='85AF4A82-D8F4-4C46-A7A4-17F82A02167C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='85AF4A82-D8F4-4C46-A7A4-17F82A02167C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='85AF4A82-D8F4-4C46-A7A4-17F82A02167C' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='85AF4A82-D8F4-4C46-A7A4-17F82A02167C' onclick='submitReview(event)'>PRR</button>
@@ -333,6 +336,9 @@ No need to explain this much. write all in one equation
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -345,7 +351,7 @@ No need to explain this much. write all in one equation
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='344D2219-6B52-4A1E-9CAC-AD845022B342' onclick='submitReview(event)'>PRR</button>

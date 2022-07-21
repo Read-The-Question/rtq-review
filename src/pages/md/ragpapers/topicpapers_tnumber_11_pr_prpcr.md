@@ -1,15 +1,8 @@
 ---
-<<<<<<< HEAD:src/pages/md/ragpapers/topicpapers_tnumber_11_pr_prcc.md
-slug: "ragpapers/topicpapers-tnumber-11-pr-prcc"
-title: "TopicPaper - Number - 11 - PR - PRCC"
-date: 2022-07-21 09:04:47
-questions_count: "7"
-=======
 slug: "ragpapers/topicpapers-tnumber-11-pr-prpcr"
 title: "TopicPaper - Number - 11 - PR - PRPCR"
-date: 2022-07-21 22:35:40
+date: 2022-07-21 23:26:54
 questions_count: "5"
->>>>>>> 3b1581a8b (Files updated):src/pages/md/ragpapers/topicpapers_tnumber_11_pr_prpcr.md
 ---
 <ul class='question default-decimal'>
 <li>

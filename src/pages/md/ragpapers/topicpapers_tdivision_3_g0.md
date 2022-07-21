@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-3-g0"
 title: "TopicPaper - Division - 3 - G0"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -150,6 +150,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -162,7 +165,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRR</button>

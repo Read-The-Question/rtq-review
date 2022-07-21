@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-oldpr"
 title: "TopicPaper - Algebra - 7 - OLDPR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -327,6 +327,9 @@ Refer : 71748A3D-9EB9-407F-BE74-AE1F06A04E99... FOLLOW CODING GUILINES ,, ALIGNM
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3F45652E-B2A7-4662-81DC-7F457C924A10' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3F45652E-B2A7-4662-81DC-7F457C924A10' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -339,7 +342,7 @@ Refer : 71748A3D-9EB9-407F-BE74-AE1F06A04E99... FOLLOW CODING GUILINES ,, ALIGNM
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3F45652E-B2A7-4662-81DC-7F457C924A10' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3F45652E-B2A7-4662-81DC-7F457C924A10' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='3F45652E-B2A7-4662-81DC-7F457C924A10' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3F45652E-B2A7-4662-81DC-7F457C924A10' onclick='submitReview(event)'>PRR</button>

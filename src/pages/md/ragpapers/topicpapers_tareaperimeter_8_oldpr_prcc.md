@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 8 - OLDPR - PRCC"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -203,6 +203,9 @@ rtq_abbr_katex_formula_perimeter_rectangle
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -215,7 +218,7 @@ rtq_abbr_katex_formula_perimeter_rectangle
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRR</button>
@@ -434,6 +437,9 @@ Shaded Area = Area of ABCD - Area of rectangle inside ABCD (there is no T as you
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -446,7 +452,7 @@ Shaded Area = Area of ABCD - Area of rectangle inside ABCD (there is no T as you
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0ED1A149-A02B-476B-8274-BEAC2764D44B' onclick='submitReview(event)'>PRR</button>
@@ -647,6 +653,9 @@ Perimeter of shape = Sum of all sides
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E9FF9787-440D-4FF4-81D1-4D7C427F8BD2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E9FF9787-440D-4FF4-81D1-4D7C427F8BD2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -659,7 +668,7 @@ Perimeter of shape = Sum of all sides
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E9FF9787-440D-4FF4-81D1-4D7C427F8BD2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E9FF9787-440D-4FF4-81D1-4D7C427F8BD2' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E9FF9787-440D-4FF4-81D1-4D7C427F8BD2' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E9FF9787-440D-4FF4-81D1-4D7C427F8BD2' onclick='submitReview(event)'>PRR</button>
@@ -834,6 +843,9 @@ in Step 2 missing \\
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='52D2DD9F-0C37-4A1E-B05E-34549F9806B3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='52D2DD9F-0C37-4A1E-B05E-34549F9806B3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -846,7 +858,7 @@ in Step 2 missing \\
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='52D2DD9F-0C37-4A1E-B05E-34549F9806B3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='52D2DD9F-0C37-4A1E-B05E-34549F9806B3' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='52D2DD9F-0C37-4A1E-B05E-34549F9806B3' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='52D2DD9F-0C37-4A1E-B05E-34549F9806B3' onclick='submitReview(event)'>PRR</button>

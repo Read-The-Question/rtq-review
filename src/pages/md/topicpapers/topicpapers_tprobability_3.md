@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability-3"
 title: "TopicPaper - Probability - 3"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "6"
 ---
 <div class='paper'>
@@ -1305,6 +1305,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1317,7 +1320,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRR</button>

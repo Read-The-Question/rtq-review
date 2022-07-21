@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-pr"
 title: "TopicPaper - Fraction - 6 - PR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -372,6 +372,9 @@ d: write  without aligned
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -384,7 +387,7 @@ d: write  without aligned
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRR</button>
@@ -571,6 +574,9 @@ write rtq_abbr_md_divide_by_fraction_note at the top, look at other questions ho
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -583,7 +589,7 @@ write rtq_abbr_md_divide_by_fraction_note at the top, look at other questions ho
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1B1DF90B-FC6A-477C-BAFC-5D8BC4732FD6' onclick='submitReview(event)'>PRR</button>
@@ -787,6 +793,9 @@ write little bit more descriptive, total squares, shades, fraction, solve like s
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -799,7 +808,7 @@ write little bit more descriptive, total squares, shades, fraction, solve like s
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRR</button>
@@ -1117,6 +1126,9 @@ b: use rtq_abbr_md_add_drawing_starts and explain instead of TODO
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1129,7 +1141,7 @@ b: use rtq_abbr_md_add_drawing_starts and explain instead of TODO
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRR</button>

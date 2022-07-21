@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-3-g0-prcr"
 title: "TopicPaper - Areaperimeter - 3 - G0 - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -477,6 +477,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -489,7 +492,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRR</button>

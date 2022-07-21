@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-oldpr"
 title: "TopicPaper - Time - 2 - OLDPR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -163,6 +163,9 @@ recheck
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C19E035E-6FA3-4F56-B785-07483C6DD4DD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C19E035E-6FA3-4F56-B785-07483C6DD4DD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -175,7 +178,7 @@ recheck
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C19E035E-6FA3-4F56-B785-07483C6DD4DD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C19E035E-6FA3-4F56-B785-07483C6DD4DD' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='C19E035E-6FA3-4F56-B785-07483C6DD4DD' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C19E035E-6FA3-4F56-B785-07483C6DD4DD' onclick='submitReview(event)'>PRR</button>
@@ -347,6 +350,9 @@ step 1 : remove one \ between hour and 38
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='87F66A43-5223-4E50-9A24-6CC4F1EDA93A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='87F66A43-5223-4E50-9A24-6CC4F1EDA93A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -359,7 +365,7 @@ step 1 : remove one \ between hour and 38
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='87F66A43-5223-4E50-9A24-6CC4F1EDA93A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='87F66A43-5223-4E50-9A24-6CC4F1EDA93A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='87F66A43-5223-4E50-9A24-6CC4F1EDA93A' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='87F66A43-5223-4E50-9A24-6CC4F1EDA93A' onclick='submitReview(event)'>PRR</button>

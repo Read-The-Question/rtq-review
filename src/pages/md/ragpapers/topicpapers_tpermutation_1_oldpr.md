@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-1-oldpr"
 title: "TopicPaper - Permutation - 1 - OLDPR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -171,6 +171,9 @@ No. of eggs bought will be = Total siblings x No. of eggs each buys
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -183,7 +186,7 @@ No. of eggs bought will be = Total siblings x No. of eggs each buys
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='54129CC4-C133-47C6-8EE6-B29248C827BD' onclick='submitReview(event)'>PRR</button>

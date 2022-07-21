@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR - PRCC"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -338,6 +338,9 @@ PArt B = Not solved.solve please
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='66489EBB-AF77-436C-8265-5C9A279D0B94' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='66489EBB-AF77-436C-8265-5C9A279D0B94' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -350,7 +353,7 @@ PArt B = Not solved.solve please
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='66489EBB-AF77-436C-8265-5C9A279D0B94' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='66489EBB-AF77-436C-8265-5C9A279D0B94' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='66489EBB-AF77-436C-8265-5C9A279D0B94' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='66489EBB-AF77-436C-8265-5C9A279D0B94' onclick='submitReview(event)'>PRR</button>
@@ -581,6 +584,9 @@ not directly related. thou.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DC8558C2-EE37-46DD-A01E-FF5282A31014' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DC8558C2-EE37-46DD-A01E-FF5282A31014' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -593,7 +599,7 @@ not directly related. thou.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='DC8558C2-EE37-46DD-A01E-FF5282A31014' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DC8558C2-EE37-46DD-A01E-FF5282A31014' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='DC8558C2-EE37-46DD-A01E-FF5282A31014' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='DC8558C2-EE37-46DD-A01E-FF5282A31014' onclick='submitReview(event)'>PRR</button>
@@ -796,6 +802,9 @@ not directly related. thou.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A60ACF29-F74F-4CDB-846D-DE660531F19A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A60ACF29-F74F-4CDB-846D-DE660531F19A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -808,7 +817,7 @@ not directly related. thou.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A60ACF29-F74F-4CDB-846D-DE660531F19A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A60ACF29-F74F-4CDB-846D-DE660531F19A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='A60ACF29-F74F-4CDB-846D-DE660531F19A' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A60ACF29-F74F-4CDB-846D-DE660531F19A' onclick='submitReview(event)'>PRR</button>
@@ -1210,6 +1219,9 @@ Blue answer = 18 Stickers
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='51A3EFEE-AEFC-4035-956A-355C5FB4F3EB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='51A3EFEE-AEFC-4035-956A-355C5FB4F3EB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1222,7 +1234,7 @@ Blue answer = 18 Stickers
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='51A3EFEE-AEFC-4035-956A-355C5FB4F3EB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='51A3EFEE-AEFC-4035-956A-355C5FB4F3EB' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='51A3EFEE-AEFC-4035-956A-355C5FB4F3EB' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='51A3EFEE-AEFC-4035-956A-355C5FB4F3EB' onclick='submitReview(event)'>PRR</button>

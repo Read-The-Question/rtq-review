@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-oldpr"
 title: "TopicPaper - Statistics - 2 - OLDPR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -157,6 +157,9 @@ refer E127726D-DDB2-4A3F-99BF-CFACF66B8527
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2D66279A-3B8B-479F-AC1F-E867CF685CAD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2D66279A-3B8B-479F-AC1F-E867CF685CAD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -169,7 +172,7 @@ refer E127726D-DDB2-4A3F-99BF-CFACF66B8527
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2D66279A-3B8B-479F-AC1F-E867CF685CAD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2D66279A-3B8B-479F-AC1F-E867CF685CAD' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2D66279A-3B8B-479F-AC1F-E867CF685CAD' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2D66279A-3B8B-479F-AC1F-E867CF685CAD' onclick='submitReview(event)'>PRR</button>

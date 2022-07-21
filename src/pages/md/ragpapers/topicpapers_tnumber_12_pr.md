@@ -1,11 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-pr"
 title: "TopicPaper - Number - 12 - PR"
-<<<<<<< HEAD
-date: 2022-07-21 09:04:47
-=======
-date: 2022-07-21 22:35:40
->>>>>>> 3b1581a8b (Files updated)
+date: 2022-07-21 23:26:54
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -115,7 +111,7 @@ $23.1 – 16.7$
 
 ABBR: Remember to line up the decimal points.
 
-
+ 
 $
 \begin{array}{cccccccccccccc}
     &   2  &   3  \ .  &   7 \\
@@ -138,7 +134,7 @@ $40.6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+ 
 $
 \begin{array}{cccccccccccccc}
     &   2  &   3  \ .  &   7 \\
@@ -1436,11 +1432,11 @@ ABBR: Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    &       &     & 2 & 0 & 7 & . & 0 \\
-    &       &   1 & 9 & 8 & 9 & . & 0 \\
-{}+ &       &     &   & 2 & 4 & . & 2 \\
+    &       &     & 2 & 0 & 7  \ . & 0 \\
+    &       &   1 & 9 & 8 & 9  \ . & 0 \\
+{}+ &       &     &   & 2 & 4  \ . & 2 \\
 \hline
-    &       &   2 & 2 & 2 & 0 & . & 2
+    &       &   2 & 2 & 2 & 0  \ . & 2
 \end{array}
 $
 
@@ -1460,11 +1456,11 @@ $2220.2$
 
 $
 \begin{array}{cccccccccccccc}
-    &       &     & 2 & 0 & 7 & . & 0 \\
-    &       &   1 & 9 & 8 & 9 & . & 0 \\
-{}+ &       &     &   & 2 & 4 & . & 2 \\
+    &       &     & 2 & 0 & 7  \ . & 0 \\
+    &       &   1 & 9 & 8 & 9  \ . & 0 \\
+{}+ &       &     &   & 2 & 4  \ . & 2 \\
 \hline
-    &       &   2 & 2 & 2 & 0 & . & 2
+    &       &   2 & 2 & 2 & 0  \ . & 2
 \end{array}
 $
 </code></pre>
@@ -1619,8 +1615,8 @@ $
 \begin{aligned}
 &= 7322 \div 14 \\\\
 &= \dfrac {7322} {14} \\\\
-&= \dfrac {523 \times 14} {14} \\\\
-&= \dfrac{523 \times \cancel{14} } {\cancel{14} } \\\\
+&= \dfrac {523 \times 7 \times 2} {7 \times 2} \\\\
+&= \dfrac {523 \times \cancel{7} \times \cancel{2}} {\cancel{7} \times \cancel{2}} \\\\
 &= 523
 \end{aligned}
 $
@@ -1641,8 +1637,8 @@ $523$
 \begin{aligned}
 &= 7322 \div 14 \\\\
 &= \dfrac {7322} {14} \\\\
-&= \dfrac {523 \times 14} {14} \\\\
-&= \dfrac{523 \times \cancel{14} } {\cancel{14} } \\\\
+&= \dfrac {523 \times 7 \times 2} {7 \times 2} \\\\
+&= \dfrac {523 \times \cancel{7} \times \cancel{2}} {\cancel{7} \times \cancel{2}} \\\\
 &= 523
 \end{aligned}
 $
@@ -1830,13 +1826,12 @@ Write $3.14$ correct to $1$ decimal place.
 <div class='working'>
 
  
-
 $
 \begin{aligned}
+&= 3.14 \\\\
 & \approx 3.1
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -1851,13 +1846,12 @@ $3.1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'> 
-
 $
 \begin{aligned}
+&= 3.14 \\\\
 & \approx 3.1
 \end{aligned}
 $
-
 </code></pre>
 </div>
 </div>
@@ -2036,7 +2030,7 @@ write using begin align \approx way. refer 142280BA-7FA3-4D0B-B002-0B6A5B2CCEAE
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>42D296D1-9C15-4407-8B49-817D8F7E5CB6</p>
 </div>
@@ -2050,7 +2044,7 @@ write using begin align \approx way. refer 142280BA-7FA3-4D0B-B002-0B6A5B2CCEAE
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2216,7 +2210,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>3B57B6A6-82A1-494A-994E-EB4D60BF5539</p>
 </div>
@@ -2230,7 +2224,7 @@ TODOANSWER
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2571,6 +2565,15 @@ TODOANSWER
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+why is this ready for review? there are no answers
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2728,13 +2731,11 @@ $8  \quad 4  \quad 2 = 34$
 <div class='workings'>
 <div class='working'>
 
-Using trial and error,
-
 $8\green
 {\times} 4 \green
 {+} 2 = 34$
 
-Let's verify 
+Let's verify.
 
 $
 \begin{aligned}
@@ -2756,11 +2757,9 @@ $8\times4 +2 = 34$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Using trial and error,
+<pre class='language-latex'><code class='language-latex'>$8\rtq_katex_color_answer{\times} 4 \rtq_katex_color_answer{+} 2 = 34$
 
-$8\rtq_katex_color_answer{\times} 4 \rtq_katex_color_answer{+} 2 = 34$
-
-Let's verify 
+Let's verify.
 
 $
 \begin{aligned}
@@ -2797,13 +2796,11 @@ $24  \quad 2  \quad 8 = 4$
 <div class='workings'>
 <div class='working'>
 
-Using trial and error,
-
 $24\green
 {\div} 4 \green
 {-} 8 = 4$
 
-Let's verify 
+Let's verify.
 
 $
 \begin{aligned}
@@ -2826,11 +2823,9 @@ $24\div 2 -12 = 4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Using trial and error,
+<pre class='language-latex'><code class='language-latex'>$24\rtq_katex_color_answer{\div} 4 \rtq_katex_color_answer{-} 8 = 4$
 
-$24\rtq_katex_color_answer{\div} 4 \rtq_katex_color_answer{-} 8 = 4$
-
-Let's verify 
+Let's verify.
 
 $
 \begin{aligned}
@@ -2868,14 +2863,12 @@ $32  \quad 2  \quad 40  \quad 4 = 74$
 <div class='workings'>
 <div class='working'>
 
-Using trial and error,
-
 $32 \green
 {\times} 2 \green
 {+} 40 \green
 {\div} 4= 4$
 
-Let's verify 
+Let's verify.
 
 $
 \begin{aligned}
@@ -2898,11 +2891,9 @@ $32\times 2 +40\div 4 = 74$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Using trial and error,
+<pre class='language-latex'><code class='language-latex'>$32 \rtq_katex_color_answer{\times} 2 \rtq_katex_color_answer{+} 40 \rtq_katex_color_answer{\div} 4= 4$
 
-$32 \rtq_katex_color_answer{\times} 2 \rtq_katex_color_answer{+} 40 \rtq_katex_color_answer{\div} 4= 4$
-
-Let's verify 
+Let's verify.
 
 $
 \begin{aligned}
@@ -3100,6 +3091,7 @@ $
 &= \dfrac {30 + 12} {2} \\\\
 &= \dfrac {42} {2} \\\\
 &= \dfrac {21 \times 2} {2} \\\\
+&= \dfrac {21 \times \cancel{2}} {\cancel{2}} \\\\
 &= 21
 \end{aligned}
 $
@@ -3122,6 +3114,7 @@ $21$
 &= \dfrac {30 + 12} {2} \\\\
 &= \dfrac {42} {2} \\\\
 &= \dfrac {21 \times 2} {2} \\\\
+&= \dfrac {21 \times \cancel{2}} {\cancel{2}} \\\\
 &= 21
 \end{aligned}
 $
@@ -3153,14 +3146,12 @@ What is the number if you apply the rule twice starting with the number $20$?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&= \dfrac{1}{2} \times (\dfrac{20+12}{2} + 12) \\\\
-&= \dfrac{1}{2} \times (\dfrac{32}{2} + 12) \\\\
+&= \dfrac{1}{2} \times \bigg (\dfrac{20+12}{2} + 12 \bigg ) \\\\
+&= \dfrac{1}{2} \times \bigg (\dfrac{32}{2} + 12 \bigg ) \\\\
 &= \dfrac{1}{2} \times (16+12) \\\\
-&= \dfrac{1}{2} \times 28\\\\
+&= \dfrac{28}{2} \\\\
 &=  14
 \end{aligned}
 $
@@ -3177,14 +3168,12 @@ $14$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac{1}{2} \times (\dfrac{20+12}{2} + 12) \\\\
-&= \dfrac{1}{2} \times (\dfrac{32}{2} + 12) \\\\
+&= \dfrac{1}{2} \times \bigg (\dfrac{20+12}{2} + 12 \bigg ) \\\\
+&= \dfrac{1}{2} \times \bigg (\dfrac{32}{2} + 12 \bigg ) \\\\
 &= \dfrac{1}{2} \times (16+12) \\\\
-&= \dfrac{1}{2} \times 28\\\\
+&= \dfrac{28}{2} \\\\
 &=  14
 \end{aligned}
 $
@@ -3226,7 +3215,7 @@ $
 a+12            &= 15\times2\\\\
 a+12            &= 30\\\\
 a               &= 30-12\\\\
-a               &= 18\\\\
+a               &= 18
 \end{aligned}
 $
 
@@ -3252,7 +3241,7 @@ $
 a+12            &= 15\times2\\\\
 a+12            &= 30\\\\
 a               &= 30-12\\\\
-a               &= 18\\\\
+a               &= 18
 \end{aligned}
 $
 </code></pre>
@@ -3289,14 +3278,15 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{1}{2} \times (\dfrac{a+12}{2} + 12) &= 50\\\\
-\dfrac{a+12}{2} + 12 &= 50 \times 2 \\\\
-\dfrac{a+12}{2} + 12 &= 100 \\\\
-\dfrac{a+12}{2}  &= 100-12 \\\\
-a+12  &= 88 \times 2 \\\\
-a+12  &= 176 \\\\
-a     &= 176-12 \\\\ 
-a     &= 164
+\dfrac{1}{2} \times \bigg (\dfrac{a+12}{2} + 12\bigg )  &= 50\\\\
+\dfrac{a+12}{2} + 12                                    &= 50 \times 2 \\\\
+\dfrac{a+12}{2} + 12                                    &= 100 \\\\
+\dfrac{a+12}{2}                                         &= 100-12 \\\\
+\dfrac{a+12}{2}                                         &= 88 \\\\
+a+12                                                    &= 88 \times 2 \\\\
+a+12                                                    &= 176 \\\\
+a                                                       &= 176-12 \\\\ 
+a                                                       &= 164
 \end{aligned}
 $
 
@@ -3318,14 +3308,15 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac{1}{2} \times (\dfrac{a+12}{2} + 12) &= 50\\\\
-\dfrac{a+12}{2} + 12 &= 50 \times 2 \\\\
-\dfrac{a+12}{2} + 12 &= 100 \\\\
-\dfrac{a+12}{2}  &= 100-12 \\\\
-a+12  &= 88 \times 2 \\\\
-a+12  &= 176 \\\\
-a     &= 176-12 \\\\ 
-a     &= 164
+\dfrac{1}{2} \times \bigg (\dfrac{a+12}{2} + 12\bigg )  &= 50\\\\
+\dfrac{a+12}{2} + 12                                    &= 50 \times 2 \\\\
+\dfrac{a+12}{2} + 12                                    &= 100 \\\\
+\dfrac{a+12}{2}                                         &= 100-12 \\\\
+\dfrac{a+12}{2}                                         &= 88 \\\\
+a+12                                                    &= 88 \times 2 \\\\
+a+12                                                    &= 176 \\\\
+a                                                       &= 176-12 \\\\ 
+a                                                       &= 164
 \end{aligned}
 $
 </code></pre>

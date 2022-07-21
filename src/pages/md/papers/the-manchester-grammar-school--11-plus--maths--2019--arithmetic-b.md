@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic B"
-date: 2022-07-21 08:58:55
+date: 2022-07-21 23:20:38
 questions_count: "11"
 ---
 <div class='paper'>
@@ -742,6 +742,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -754,7 +757,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='FEF8AADE-2D7B-4940-99BD-A18E327E4D0F' onclick='submitReview(event)'>PRR</button>
@@ -1198,6 +1201,9 @@ The original number is $25$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1210,7 +1216,7 @@ The original number is $25$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='DD136C6F-448A-43DA-AEFE-3AF5F79B1533' onclick='submitReview(event)'>PRR</button>

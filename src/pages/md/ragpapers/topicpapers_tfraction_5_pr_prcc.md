@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-pr-prcc"
 title: "TopicPaper - Fraction - 5 - PR - PRCC"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -319,6 +319,9 @@ c: this is wrong, it should 1/6 + 1/3 = 1/2 so 1/2 is not shaded
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='786BE81B-1199-48F3-9C7D-7B52BFE15DCD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='786BE81B-1199-48F3-9C7D-7B52BFE15DCD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -331,7 +334,7 @@ c: this is wrong, it should 1/6 + 1/3 = 1/2 so 1/2 is not shaded
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='786BE81B-1199-48F3-9C7D-7B52BFE15DCD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='786BE81B-1199-48F3-9C7D-7B52BFE15DCD' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='786BE81B-1199-48F3-9C7D-7B52BFE15DCD' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='786BE81B-1199-48F3-9C7D-7B52BFE15DCD' onclick='submitReview(event)'>PRR</button>
@@ -619,6 +622,9 @@ same for part (b)
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -631,7 +637,7 @@ same for part (b)
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRR</button>
@@ -818,6 +824,9 @@ Fraction =
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -830,7 +839,7 @@ Fraction =
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRR</button>
@@ -1243,6 +1252,9 @@ Squares to be shaded = 25% of 16 and then calculate and then show diagram.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1255,7 +1267,7 @@ Squares to be shaded = 25% of 16 and then calculate and then show diagram.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRR</button>
@@ -1558,6 +1570,9 @@ katex broken
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='79914FCA-BAC2-4507-8C7D-01EF4B61E0DC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='79914FCA-BAC2-4507-8C7D-01EF4B61E0DC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1570,7 +1585,7 @@ katex broken
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='79914FCA-BAC2-4507-8C7D-01EF4B61E0DC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='79914FCA-BAC2-4507-8C7D-01EF4B61E0DC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='79914FCA-BAC2-4507-8C7D-01EF4B61E0DC' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='79914FCA-BAC2-4507-8C7D-01EF4B61E0DC' onclick='submitReview(event)'>PRR</button>
@@ -1916,6 +1931,9 @@ the answer is not following the standards for writing algebra answers, please re
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1928,7 +1946,7 @@ the answer is not following the standards for writing algebra answers, please re
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRR</button>
@@ -2110,6 +2128,9 @@ and write 9 x 8 as 8 x 9 (smaller number first do this for every question even n
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0DA91A78-9D3B-401D-88F2-BF5050E8FEF5' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0DA91A78-9D3B-401D-88F2-BF5050E8FEF5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2122,7 +2143,7 @@ and write 9 x 8 as 8 x 9 (smaller number first do this for every question even n
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='0DA91A78-9D3B-401D-88F2-BF5050E8FEF5' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0DA91A78-9D3B-401D-88F2-BF5050E8FEF5' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='0DA91A78-9D3B-401D-88F2-BF5050E8FEF5' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0DA91A78-9D3B-401D-88F2-BF5050E8FEF5' onclick='submitReview(event)'>PRR</button>

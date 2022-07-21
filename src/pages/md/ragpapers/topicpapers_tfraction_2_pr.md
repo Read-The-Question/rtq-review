@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-pr"
 title: "TopicPaper - Fraction - 2 - PR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -267,6 +267,9 @@ change extra square need to be shaded to just \"Extra squares\"
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -279,7 +282,7 @@ change extra square need to be shaded to just \"Extra squares\"
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1579E464-408A-4F61-9DE4-DC7AD956C10A' onclick='submitReview(event)'>PRR</button>
@@ -468,6 +471,9 @@ Replace : \"Area of rectangle that is coloured\" with
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -480,7 +486,7 @@ Replace : \"Area of rectangle that is coloured\" with
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0938745E-D2D2-4329-BECD-D1192F79FC97' onclick='submitReview(event)'>PRR</button>
@@ -692,6 +698,9 @@ and use one katex (combine both katex)
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -704,7 +713,7 @@ and use one katex (combine both katex)
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRR</button>
@@ -1245,6 +1254,9 @@ in s4, cancel 2 0s separately instead of doing it together like its been done.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2480908A-E88D-4D83-B17C-0EAB918EC310' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2480908A-E88D-4D83-B17C-0EAB918EC310' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1257,7 +1269,7 @@ in s4, cancel 2 0s separately instead of doing it together like its been done.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2480908A-E88D-4D83-B17C-0EAB918EC310' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2480908A-E88D-4D83-B17C-0EAB918EC310' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2480908A-E88D-4D83-B17C-0EAB918EC310' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2480908A-E88D-4D83-B17C-0EAB918EC310' onclick='submitReview(event)'>PRR</button>
@@ -1697,6 +1709,9 @@ add a last line outside katex :
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1709,7 +1724,7 @@ add a last line outside katex :
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRR</button>

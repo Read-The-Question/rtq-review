@@ -1,11 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g0"
 title: "TopicPaper - Number - 13 - G0"
-<<<<<<< HEAD
-date: 2022-07-21 09:04:47
-=======
-date: 2022-07-21 22:47:43
->>>>>>> 3b1581a8b (Files updated)
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

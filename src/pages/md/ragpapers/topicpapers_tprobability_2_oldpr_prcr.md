@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-oldpr-prcr"
 title: "TopicPaper - Probability - 2 - OLDPR - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -165,6 +165,9 @@ Probability of choosing red counter = 4 / 6 +4 then step 2 onwards is ok...
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -177,7 +180,7 @@ Probability of choosing red counter = 4 / 6 +4 then step 2 onwards is ok...
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRR</button>

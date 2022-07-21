@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-pr"
 title: "TopicPaper - Number - 15 - PR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -292,6 +292,9 @@ Hence the square root $= 6666666667$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -304,7 +307,7 @@ Hence the square root $= 6666666667$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRR</button>
@@ -638,6 +641,9 @@ mark this question as amber as the division part is not done
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -650,7 +656,7 @@ mark this question as amber as the division part is not done
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='51EF1152-4680-4066-B3A6-9E35EA7048B4' onclick='submitReview(event)'>PRR</button>
@@ -876,6 +882,9 @@ TODOANSWER
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -888,7 +897,7 @@ TODOANSWER
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0DB24821-F222-4AA3-A90B-8A08F41EC2D7' onclick='submitReview(event)'>PRR</button>

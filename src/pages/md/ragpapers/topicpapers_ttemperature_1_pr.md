@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-pr"
 title: "TopicPaper - Temperature - 1 - PR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -485,6 +485,9 @@ for this refer  :  19818B2F-9086-4F00-9201-4F75D3C5194C
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='190C260A-B709-4BC3-B1A5-EB1669D52A22' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='190C260A-B709-4BC3-B1A5-EB1669D52A22' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -497,7 +500,7 @@ for this refer  :  19818B2F-9086-4F00-9201-4F75D3C5194C
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='190C260A-B709-4BC3-B1A5-EB1669D52A22' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='190C260A-B709-4BC3-B1A5-EB1669D52A22' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='190C260A-B709-4BC3-B1A5-EB1669D52A22' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='190C260A-B709-4BC3-B1A5-EB1669D52A22' onclick='submitReview(event)'>PRR</button>
@@ -677,6 +680,9 @@ align &= vertically
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6698C0E8-8C91-401E-A164-C22C25F5E9F7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6698C0E8-8C91-401E-A164-C22C25F5E9F7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -689,7 +695,7 @@ align &= vertically
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6698C0E8-8C91-401E-A164-C22C25F5E9F7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6698C0E8-8C91-401E-A164-C22C25F5E9F7' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='6698C0E8-8C91-401E-A164-C22C25F5E9F7' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6698C0E8-8C91-401E-A164-C22C25F5E9F7' onclick='submitReview(event)'>PRR</button>
@@ -901,6 +907,9 @@ and solve further
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='34B6ABD4-2634-46DE-BC0B-524DA2C850E0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='34B6ABD4-2634-46DE-BC0B-524DA2C850E0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -913,7 +922,7 @@ and solve further
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='34B6ABD4-2634-46DE-BC0B-524DA2C850E0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='34B6ABD4-2634-46DE-BC0B-524DA2C850E0' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='34B6ABD4-2634-46DE-BC0B-524DA2C850E0' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='34B6ABD4-2634-46DE-BC0B-524DA2C850E0' onclick='submitReview(event)'>PRR</button>

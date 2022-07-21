@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-pr"
 title: "TopicPaper - Fraction - 4 - PR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -412,6 +412,9 @@ calculate % for both and show which one is bigger in the summary line.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -424,7 +427,7 @@ calculate % for both and show which one is bigger in the summary line.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRR</button>
@@ -804,6 +807,9 @@ and change the answer in section.answers too
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -816,7 +822,7 @@ and change the answer in section.answers too
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='submitReview(event)'>PRR</button>
@@ -1167,6 +1173,9 @@ R.H.S. replace \"Area of each slab\" with \"Area of a slab\"
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1179,7 +1188,7 @@ R.H.S. replace \"Area of each slab\" with \"Area of a slab\"
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRR</button>

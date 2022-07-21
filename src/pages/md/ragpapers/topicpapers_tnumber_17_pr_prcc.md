@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-pr-prcc"
 title: "TopicPaper - Number - 17 - PR - PRCC"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -446,6 +446,9 @@ d: factors and cancellations are not done correctly.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='997E5915-77AC-41C6-9B42-F5D2F45BAADF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='997E5915-77AC-41C6-9B42-F5D2F45BAADF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -458,7 +461,7 @@ d: factors and cancellations are not done correctly.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='997E5915-77AC-41C6-9B42-F5D2F45BAADF' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='997E5915-77AC-41C6-9B42-F5D2F45BAADF' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='997E5915-77AC-41C6-9B42-F5D2F45BAADF' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='997E5915-77AC-41C6-9B42-F5D2F45BAADF' onclick='submitReview(event)'>PRR</button>
@@ -783,6 +786,9 @@ use approx way, remove extra stuff
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='70C637C3-211B-4628-AEC5-ED449C7FF9B7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='70C637C3-211B-4628-AEC5-ED449C7FF9B7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -795,7 +801,7 @@ use approx way, remove extra stuff
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='70C637C3-211B-4628-AEC5-ED449C7FF9B7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='70C637C3-211B-4628-AEC5-ED449C7FF9B7' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='70C637C3-211B-4628-AEC5-ED449C7FF9B7' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='70C637C3-211B-4628-AEC5-ED449C7FF9B7' onclick='submitReview(event)'>PRR</button>
@@ -1120,6 +1126,9 @@ use approx way, remove extra workings
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AE8EE329-98F7-463D-84ED-5AF0DF696649' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AE8EE329-98F7-463D-84ED-5AF0DF696649' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1132,7 +1141,7 @@ use approx way, remove extra workings
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='AE8EE329-98F7-463D-84ED-5AF0DF696649' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AE8EE329-98F7-463D-84ED-5AF0DF696649' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='AE8EE329-98F7-463D-84ED-5AF0DF696649' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AE8EE329-98F7-463D-84ED-5AF0DF696649' onclick='submitReview(event)'>PRR</button>
@@ -1435,6 +1444,9 @@ units not written correct for space \text
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0018CC1D-A1A0-4EC1-8346-A8802ABE92A7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0018CC1D-A1A0-4EC1-8346-A8802ABE92A7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1447,7 +1459,7 @@ units not written correct for space \text
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='0018CC1D-A1A0-4EC1-8346-A8802ABE92A7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0018CC1D-A1A0-4EC1-8346-A8802ABE92A7' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='0018CC1D-A1A0-4EC1-8346-A8802ABE92A7' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0018CC1D-A1A0-4EC1-8346-A8802ABE92A7' onclick='submitReview(event)'>PRR</button>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-g0"
 title: "TopicPaper - Time - 2 - G0"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -172,6 +172,9 @@ remove step 2
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='4817F67D-F1F2-40D0-8436-A069F847B9C1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='4817F67D-F1F2-40D0-8436-A069F847B9C1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -184,7 +187,7 @@ remove step 2
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='4817F67D-F1F2-40D0-8436-A069F847B9C1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='4817F67D-F1F2-40D0-8436-A069F847B9C1' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='4817F67D-F1F2-40D0-8436-A069F847B9C1' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='4817F67D-F1F2-40D0-8436-A069F847B9C1' onclick='submitReview(event)'>PRR</button>

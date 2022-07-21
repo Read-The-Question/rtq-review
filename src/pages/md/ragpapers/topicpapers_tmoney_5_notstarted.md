@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-5-notstarted"
 title: "TopicPaper - Money - 5 - NOTSTARTED"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

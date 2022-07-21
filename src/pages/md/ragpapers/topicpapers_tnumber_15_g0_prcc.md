@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-g0-prcc"
 title: "TopicPaper - Number - 15 - G0 - PRCC"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -190,6 +190,9 @@ Leave empty line after katex $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='9223B5BC-2F8C-43A9-8FF7-B370A90FF796' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='9223B5BC-2F8C-43A9-8FF7-B370A90FF796' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -202,7 +205,7 @@ Leave empty line after katex $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='9223B5BC-2F8C-43A9-8FF7-B370A90FF796' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='9223B5BC-2F8C-43A9-8FF7-B370A90FF796' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='9223B5BC-2F8C-43A9-8FF7-B370A90FF796' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='9223B5BC-2F8C-43A9-8FF7-B370A90FF796' onclick='submitReview(event)'>PRR</button>
@@ -423,6 +426,9 @@ None of the previous comments are done!!!
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='4AF7B768-CBF8-4E4C-9565-AEB914711765' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='4AF7B768-CBF8-4E4C-9565-AEB914711765' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -435,7 +441,7 @@ None of the previous comments are done!!!
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='4AF7B768-CBF8-4E4C-9565-AEB914711765' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='4AF7B768-CBF8-4E4C-9565-AEB914711765' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='4AF7B768-CBF8-4E4C-9565-AEB914711765' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='4AF7B768-CBF8-4E4C-9565-AEB914711765' onclick='submitReview(event)'>PRR</button>
@@ -750,6 +756,9 @@ Please look and indent the katex properly. Website is ok but written katex is no
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -762,7 +771,7 @@ Please look and indent the katex properly. Website is ok but written katex is no
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRR</button>
@@ -925,6 +934,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -937,7 +949,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRR</button>

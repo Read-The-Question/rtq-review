@@ -1,13 +1,7 @@
 ---
-<<<<<<< HEAD:src/pages/md/ragpapers/topicpapers_tnumber_13_g0_prcc.md
-slug: "ragpapers/topicpapers-tnumber-13-g0-prcc"
-title: "TopicPaper - Number - 13 - G0 - PRCC"
-date: 2022-07-21 09:04:47
-=======
 slug: "ragpapers/topicpapers-tnumber-13-g0-prpcr"
 title: "TopicPaper - Number - 13 - G0 - PRPCR"
-date: 2022-07-21 22:47:43
->>>>>>> 3b1581a8b (Files updated):src/pages/md/ragpapers/topicpapers_tnumber_13_g0_prpcr.md
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

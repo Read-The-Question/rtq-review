@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g0-prcc"
 title: "TopicPaper - Angle - 1 - G0 - PRCC"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -209,6 +209,9 @@ Please change that, as formualas do not capture exterior angle either.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -221,7 +224,7 @@ Please change that, as formualas do not capture exterior angle either.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='6F6B6B48-EC9B-41A8-8A65-09482A6B04A0' onclick='submitReview(event)'>PRR</button>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-4-g0-prcr"
 title: "TopicPaper - Ratio - 4 - G0 - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -166,6 +166,9 @@ Zebras needed $= 27$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='24DFFEAC-422C-47BF-8BEF-FF9CAA88348B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='24DFFEAC-422C-47BF-8BEF-FF9CAA88348B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -178,7 +181,7 @@ Zebras needed $= 27$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='24DFFEAC-422C-47BF-8BEF-FF9CAA88348B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='24DFFEAC-422C-47BF-8BEF-FF9CAA88348B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='24DFFEAC-422C-47BF-8BEF-FF9CAA88348B' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='24DFFEAC-422C-47BF-8BEF-FF9CAA88348B' onclick='submitReview(event)'>PRR</button>
@@ -371,6 +374,9 @@ Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -383,7 +389,7 @@ Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='FAA9D4DD-A49C-481F-AA0D-5E8446EF93DA' onclick='submitReview(event)'>PRR</button>

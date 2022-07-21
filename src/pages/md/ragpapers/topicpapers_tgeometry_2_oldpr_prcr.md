@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgeometry-2-oldpr-prcr"
 title: "TopicPaper - Geometry - 2 - OLDPR - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -228,6 +228,9 @@ Change B same and both the blue answers...
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='23FE15B1-A302-404D-8391-BAB850364409' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='23FE15B1-A302-404D-8391-BAB850364409' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -240,7 +243,7 @@ Change B same and both the blue answers...
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='23FE15B1-A302-404D-8391-BAB850364409' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='23FE15B1-A302-404D-8391-BAB850364409' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='23FE15B1-A302-404D-8391-BAB850364409' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='23FE15B1-A302-404D-8391-BAB850364409' onclick='submitReview(event)'>PRR</button>
@@ -485,6 +488,9 @@ S and C capitals and change in blue answer too and out of katex..
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='79EF7634-1BD6-45D8-9785-D7E23DD4661D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='79EF7634-1BD6-45D8-9785-D7E23DD4661D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -497,7 +503,7 @@ S and C capitals and change in blue answer too and out of katex..
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='79EF7634-1BD6-45D8-9785-D7E23DD4661D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='79EF7634-1BD6-45D8-9785-D7E23DD4661D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='79EF7634-1BD6-45D8-9785-D7E23DD4661D' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='79EF7634-1BD6-45D8-9785-D7E23DD4661D' onclick='submitReview(event)'>PRR</button>
@@ -656,6 +662,9 @@ Out of katex and middle figure is \"Trapezoid\"
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1353944B-C2F8-4241-B1C0-A178453D7462' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1353944B-C2F8-4241-B1C0-A178453D7462' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -668,7 +677,7 @@ Out of katex and middle figure is \"Trapezoid\"
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='1353944B-C2F8-4241-B1C0-A178453D7462' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1353944B-C2F8-4241-B1C0-A178453D7462' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='1353944B-C2F8-4241-B1C0-A178453D7462' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1353944B-C2F8-4241-B1C0-A178453D7462' onclick='submitReview(event)'>PRR</button>
@@ -967,6 +976,9 @@ Rhombus or Parallelogram (change blue answer also)
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C2D737F9-91B0-47F7-90B0-65A55CE61B78' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C2D737F9-91B0-47F7-90B0-65A55CE61B78' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -979,7 +991,7 @@ Rhombus or Parallelogram (change blue answer also)
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C2D737F9-91B0-47F7-90B0-65A55CE61B78' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C2D737F9-91B0-47F7-90B0-65A55CE61B78' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='C2D737F9-91B0-47F7-90B0-65A55CE61B78' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C2D737F9-91B0-47F7-90B0-65A55CE61B78' onclick='submitReview(event)'>PRR</button>

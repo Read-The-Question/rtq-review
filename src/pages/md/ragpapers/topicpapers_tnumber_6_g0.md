@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-g0"
 title: "TopicPaper - Number - 6 - G0"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -147,6 +147,9 @@ There should be some explanation for this question, i will get back to you on th
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='D03EBFAD-8157-4FB7-85A5-50C4D4410D21' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='D03EBFAD-8157-4FB7-85A5-50C4D4410D21' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -159,7 +162,7 @@ There should be some explanation for this question, i will get back to you on th
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='D03EBFAD-8157-4FB7-85A5-50C4D4410D21' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='D03EBFAD-8157-4FB7-85A5-50C4D4410D21' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='D03EBFAD-8157-4FB7-85A5-50C4D4410D21' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='D03EBFAD-8157-4FB7-85A5-50C4D4410D21' onclick='submitReview(event)'>PRR</button>
@@ -359,6 +362,9 @@ The worth of triangle $= 1$ point
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -371,7 +377,7 @@ The worth of triangle $= 1$ point
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRR</button>
@@ -556,6 +562,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='2EBA663D-D618-44C9-A3A5-8A3DDDFE6BA1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='2EBA663D-D618-44C9-A3A5-8A3DDDFE6BA1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -568,7 +577,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='2EBA663D-D618-44C9-A3A5-8A3DDDFE6BA1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='2EBA663D-D618-44C9-A3A5-8A3DDDFE6BA1' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='2EBA663D-D618-44C9-A3A5-8A3DDDFE6BA1' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='2EBA663D-D618-44C9-A3A5-8A3DDDFE6BA1' onclick='submitReview(event)'>PRR</button>

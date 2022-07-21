@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-oldpr"
 title: "TopicPaper - Number - 15 - OLDPR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -510,6 +510,9 @@ S3 onwards, change q \times 3 to 3q
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -522,7 +525,7 @@ S3 onwards, change q \times 3 to 3q
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRR</button>
@@ -799,6 +802,9 @@ This is too verbose, begin aligned is not used correctly
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FC8421CA-91B3-47D9-A6F5-43D083840F7F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FC8421CA-91B3-47D9-A6F5-43D083840F7F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -811,7 +817,7 @@ This is too verbose, begin aligned is not used correctly
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='FC8421CA-91B3-47D9-A6F5-43D083840F7F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FC8421CA-91B3-47D9-A6F5-43D083840F7F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='FC8421CA-91B3-47D9-A6F5-43D083840F7F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FC8421CA-91B3-47D9-A6F5-43D083840F7F' onclick='submitReview(event)'>PRR</button>
@@ -1000,6 +1006,9 @@ Step 4 : \dfrac{53 \times 1\cancel{00}}{10{\cancel{00}}
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1E0CB113-B157-4C80-BF97-74BDBC174E3F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1E0CB113-B157-4C80-BF97-74BDBC174E3F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1012,7 +1021,7 @@ Step 4 : \dfrac{53 \times 1\cancel{00}}{10{\cancel{00}}
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='1E0CB113-B157-4C80-BF97-74BDBC174E3F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1E0CB113-B157-4C80-BF97-74BDBC174E3F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='1E0CB113-B157-4C80-BF97-74BDBC174E3F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1E0CB113-B157-4C80-BF97-74BDBC174E3F' onclick='submitReview(event)'>PRR</button>
@@ -1213,6 +1222,9 @@ No description, not written per standards
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='66123310-D9F1-45C3-86F1-7A120C1FCB10' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='66123310-D9F1-45C3-86F1-7A120C1FCB10' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1225,7 +1237,7 @@ No description, not written per standards
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='66123310-D9F1-45C3-86F1-7A120C1FCB10' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='66123310-D9F1-45C3-86F1-7A120C1FCB10' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='66123310-D9F1-45C3-86F1-7A120C1FCB10' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='66123310-D9F1-45C3-86F1-7A120C1FCB10' onclick='submitReview(event)'>PRR</button>
@@ -1410,6 +1422,9 @@ Not written correctly, change, write as simple word
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F25E82C3-2612-4DD6-9E94-BBA4771C38C6' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F25E82C3-2612-4DD6-9E94-BBA4771C38C6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1422,7 +1437,7 @@ Not written correctly, change, write as simple word
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F25E82C3-2612-4DD6-9E94-BBA4771C38C6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F25E82C3-2612-4DD6-9E94-BBA4771C38C6' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='F25E82C3-2612-4DD6-9E94-BBA4771C38C6' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F25E82C3-2612-4DD6-9E94-BBA4771C38C6' onclick='submitReview(event)'>PRR</button>
@@ -1608,6 +1623,9 @@ step 3: \dfrac{34 \cancel{0}}{100 \cancel{0}}                                   
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='911643A5-7EB3-455D-92E5-DB7CBE6ED079' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='911643A5-7EB3-455D-92E5-DB7CBE6ED079' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1620,7 +1638,7 @@ step 3: \dfrac{34 \cancel{0}}{100 \cancel{0}}                                   
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='911643A5-7EB3-455D-92E5-DB7CBE6ED079' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='911643A5-7EB3-455D-92E5-DB7CBE6ED079' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='911643A5-7EB3-455D-92E5-DB7CBE6ED079' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='911643A5-7EB3-455D-92E5-DB7CBE6ED079' onclick='submitReview(event)'>PRR</button>
@@ -1836,6 +1854,9 @@ Wrong way. Write it similar to D2A86CA4-F12F-428A-A86B-8B322E9D886C.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3CCC8580-4989-4891-ADF4-6BD2F0008C55' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3CCC8580-4989-4891-ADF4-6BD2F0008C55' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1848,7 +1869,7 @@ Wrong way. Write it similar to D2A86CA4-F12F-428A-A86B-8B322E9D886C.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3CCC8580-4989-4891-ADF4-6BD2F0008C55' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3CCC8580-4989-4891-ADF4-6BD2F0008C55' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='3CCC8580-4989-4891-ADF4-6BD2F0008C55' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3CCC8580-4989-4891-ADF4-6BD2F0008C55' onclick='submitReview(event)'>PRR</button>
@@ -2065,6 +2086,9 @@ Wrong way. Write it similar to D2A86CA4-F12F-428A-A86B-8B322E9D886C.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F1897CC8-FE90-4E2E-8BE9-4A13D3D30B54' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F1897CC8-FE90-4E2E-8BE9-4A13D3D30B54' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2077,7 +2101,7 @@ Wrong way. Write it similar to D2A86CA4-F12F-428A-A86B-8B322E9D886C.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F1897CC8-FE90-4E2E-8BE9-4A13D3D30B54' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F1897CC8-FE90-4E2E-8BE9-4A13D3D30B54' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='F1897CC8-FE90-4E2E-8BE9-4A13D3D30B54' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F1897CC8-FE90-4E2E-8BE9-4A13D3D30B54' onclick='submitReview(event)'>PRR</button>

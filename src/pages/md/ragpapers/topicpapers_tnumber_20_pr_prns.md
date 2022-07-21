@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-pr-prns"
 title: "TopicPaper - Number - 20 - PR - PRNS"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -157,6 +157,9 @@ tinfer question
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C20A4A1C-A26D-4559-B8BE-890AC044C5DD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C20A4A1C-A26D-4559-B8BE-890AC044C5DD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -169,7 +172,7 @@ tinfer question
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C20A4A1C-A26D-4559-B8BE-890AC044C5DD' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C20A4A1C-A26D-4559-B8BE-890AC044C5DD' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='C20A4A1C-A26D-4559-B8BE-890AC044C5DD' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C20A4A1C-A26D-4559-B8BE-890AC044C5DD' onclick='submitReview(event)'>PRR</button>

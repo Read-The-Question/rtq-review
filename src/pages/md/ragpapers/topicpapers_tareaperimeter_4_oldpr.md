@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-oldpr"
 title: "TopicPaper - Areaperimeter - 4 - OLDPR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -272,6 +272,9 @@ part b formula ..katex error.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -284,7 +287,7 @@ part b formula ..katex error.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940' onclick='submitReview(event)'>PRR</button>
@@ -483,6 +486,9 @@ Length of path change to  Width of path
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2ED1078E-E436-4DB2-A728-C73E012861C2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2ED1078E-E436-4DB2-A728-C73E012861C2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -495,7 +501,7 @@ Length of path change to  Width of path
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2ED1078E-E436-4DB2-A728-C73E012861C2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2ED1078E-E436-4DB2-A728-C73E012861C2' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2ED1078E-E436-4DB2-A728-C73E012861C2' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2ED1078E-E436-4DB2-A728-C73E012861C2' onclick='submitReview(event)'>PRR</button>

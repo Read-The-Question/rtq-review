@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-oldpr-prcr"
 title: "TopicPaper - Algebra - 5 - OLDPR - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -283,6 +283,9 @@ Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1FC72FAC-44B2-4E36-9646-A48B84FD818F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1FC72FAC-44B2-4E36-9646-A48B84FD818F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -295,7 +298,7 @@ Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='1FC72FAC-44B2-4E36-9646-A48B84FD818F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1FC72FAC-44B2-4E36-9646-A48B84FD818F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='1FC72FAC-44B2-4E36-9646-A48B84FD818F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1FC72FAC-44B2-4E36-9646-A48B84FD818F' onclick='submitReview(event)'>PRR</button>
@@ -504,6 +507,9 @@ Please aligned(&) according to the format and change pound to p inside the katex
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -516,7 +522,7 @@ Please aligned(&) according to the format and change pound to p inside the katex
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828' onclick='submitReview(event)'>PRR</button>
@@ -884,6 +890,9 @@ Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E8C861DF-9822-4FA8-BE0B-C4698C43089C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E8C861DF-9822-4FA8-BE0B-C4698C43089C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -896,7 +905,7 @@ Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E8C861DF-9822-4FA8-BE0B-C4698C43089C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E8C861DF-9822-4FA8-BE0B-C4698C43089C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E8C861DF-9822-4FA8-BE0B-C4698C43089C' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E8C861DF-9822-4FA8-BE0B-C4698C43089C' onclick='submitReview(event)'>PRR</button>

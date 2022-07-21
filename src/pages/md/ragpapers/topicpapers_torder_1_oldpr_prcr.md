@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-oldpr-prcr"
 title: "TopicPaper - Order - 1 - OLDPR - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -177,6 +177,9 @@ Refer : 51D8875F-8112-439E-9983-2C3C35DDC20B.. Alternative solution
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -189,7 +192,7 @@ Refer : 51D8875F-8112-439E-9983-2C3C35DDC20B.. Alternative solution
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815' onclick='submitReview(event)'>PRR</button>
@@ -490,6 +493,9 @@ $0.09 \quad     39\% \quad    \boxed{\rtq_katex_color_answer{0.44}} \quad     \d
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -502,7 +508,7 @@ $0.09 \quad     39\% \quad    \boxed{\rtq_katex_color_answer{0.44}} \quad     \d
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='06BDCF32-BF89-4B8A-BC1E-A2E8493E5AB2' onclick='submitReview(event)'>PRR</button>
@@ -695,6 +701,9 @@ therefore $\dfrac{6}{8}$ is the largest fraction.
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -707,7 +716,7 @@ therefore $\dfrac{6}{8}$ is the largest fraction.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B' onclick='submitReview(event)'>PRR</button>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-2-g2"
 title: "TopicPaper - Percentage - 2 - G2"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -429,6 +429,9 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -441,7 +444,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRR</button>

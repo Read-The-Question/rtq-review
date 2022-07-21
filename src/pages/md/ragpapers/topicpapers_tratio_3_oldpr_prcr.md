@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-oldpr-prcr"
 title: "TopicPaper - Ratio - 3 - OLDPR - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -169,6 +169,9 @@ line 2: give comma after APTQ                                                   
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A62C35C0-E5F1-4D14-9EB3-E17302B61C39' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A62C35C0-E5F1-4D14-9EB3-E17302B61C39' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -181,7 +184,7 @@ line 2: give comma after APTQ                                                   
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A62C35C0-E5F1-4D14-9EB3-E17302B61C39' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A62C35C0-E5F1-4D14-9EB3-E17302B61C39' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='A62C35C0-E5F1-4D14-9EB3-E17302B61C39' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A62C35C0-E5F1-4D14-9EB3-E17302B61C39' onclick='submitReview(event)'>PRR</button>
@@ -398,6 +401,9 @@ LAst sentencce The cost of downloading $5$ aoos $= ....$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='089B56B3-5FE5-42D9-A2A5-5A1136AECEE9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='089B56B3-5FE5-42D9-A2A5-5A1136AECEE9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -410,7 +416,7 @@ LAst sentencce The cost of downloading $5$ aoos $= ....$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='089B56B3-5FE5-42D9-A2A5-5A1136AECEE9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='089B56B3-5FE5-42D9-A2A5-5A1136AECEE9' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='089B56B3-5FE5-42D9-A2A5-5A1136AECEE9' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='089B56B3-5FE5-42D9-A2A5-5A1136AECEE9' onclick='submitReview(event)'>PRR</button>

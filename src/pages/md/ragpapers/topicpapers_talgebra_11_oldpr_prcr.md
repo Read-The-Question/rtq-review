@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-oldpr-prcr"
 title: "TopicPaper - Algebra - 11 - OLDPR - PRCR"
-date: 2022-07-21 09:04:47
+date: 2022-07-21 23:26:54
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -250,6 +250,9 @@ Present the sequence and underline under the missing number... show also (+4)
 <div class='review'>
 <ul class='review'>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -262,7 +265,7 @@ Present the sequence and underline under the missing number... show also (+4)
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRR</button>

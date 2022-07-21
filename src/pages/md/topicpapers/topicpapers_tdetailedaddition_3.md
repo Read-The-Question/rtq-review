@@ -1,7 +1,8 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition-3"
 title: "TopicPaper - Detailedaddition - 3"
-date: 2022-07-20 06:28:31
+date: 2022-07-21 09:04:47
+questions_count: "22"
 ---
 <div class='paper'>
 <div class='meta'>

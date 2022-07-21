@@ -1,7 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-1-g2"
 title: "TopicPaper - Detailedaddition - 1 - G2"
-date: 2022-07-20 06:28:31
+date: 2022-07-21 09:04:47
+questions_count: "40"
 ---
 <ul class='question default-decimal'>
 <li>

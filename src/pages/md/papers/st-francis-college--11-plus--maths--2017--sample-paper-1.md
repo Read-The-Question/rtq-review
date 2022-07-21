@@ -1,7 +1,8 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-20 06:22:33
+date: 2022-07-21 08:58:55
+questions_count: "38"
 ---
 <div class='paper'>
 <div class='meta'>

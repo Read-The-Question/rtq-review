@@ -1,7 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-oldpr-prcc"
 title: "TopicPaper - Algebra - 12 - OLDPR - PRCC"
-date: 2022-07-20 06:28:31
+date: 2022-07-21 09:04:47
+questions_count: "9"
 ---
 <ul class='question default-decimal'>
 <li>

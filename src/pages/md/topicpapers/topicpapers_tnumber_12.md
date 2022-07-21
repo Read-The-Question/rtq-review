@@ -1,7 +1,8 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-07-20 06:28:31
+date: 2022-07-21 09:04:47
+questions_count: "40"
 ---
 <div class='paper'>
 <div class='meta'>

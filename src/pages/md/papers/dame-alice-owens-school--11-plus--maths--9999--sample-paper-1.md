@@ -1,7 +1,8 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-20 06:22:33
+date: 2022-07-21 08:58:55
+questions_count: "50"
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1092,27 +1093,21 @@ If %symbol% represents an even number smaller than $10$ and if %symbol% $< 5$ st
 <div class='workings'>
 <div class='working'>
 
-%symbol% < 10, is a even number and also < 5
-
-Therefore, possible value = 2 
-
+$2$ or $4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-2
+$2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>%symbol% < 10, is a even number and also < 5
-
-Therefore, possible value = 2 
-
+<pre class='language-latex'><code class='language-latex'>$2$ or $4$
 </code></pre>
 </div>
 </div>
@@ -1124,7 +1119,7 @@ Therefore, possible value = 2
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>2
+<pre class='language-latex'><code class='language-latex'>$2$
 </code></pre>
 </div>
 </div>
@@ -1170,7 +1165,7 @@ Therefore, possible value = 2
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9</p>
 </div>
@@ -1181,7 +1176,7 @@ Therefore, possible value = 2
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1263,18 +1258,18 @@ $\dfrac{3}{5} \quad \dfrac{3}{7} \quad  \dfrac{5}{12} \quad \dfrac{8}{15} \quad 
 <div class='workings'>
 <div class='working'>
 
+A fraction will be bigger than $\dfrac{1}{2}$ if twice of its numerator is bigger than the denominator.
+
 Using trial and error,
 
-If twice the numerator is bigger then the denominator then the fraction will be will be bigger than 1/2. So,
 
-| Fraction  |Denominator < $2 \times$ Numerator|
-|:-------:  |:-------------------------------: |
-| $3, 5$    |             Yes                  |
-| $3, 7$    |              No                  |
-| $5, 12$   |              No                  |
-| $8, 15$   |             Yes                  |
-| $11, 15$  |             Yes                  |
-
+| Fraction  |$2 \times$ Numerator|         $> \dfrac{1}{2}$         |
+|:-------:  |:------------------:|:-------------------------------: |
+| $3, 5$    |  $3 \times 2 = 6$  |             Yes                  |
+| $3, 7$    |  $3 \times 2 = 6$  |              No                  |
+| $5, 12$   |  $5 \times 2 = 6$  |              No                  |
+| $8, 15$   |  $8 \times 2 = 6$  |             Yes                  |
+| $11, 15$  |  $11 \times 2 = 6$ |             Yes                  |
 
 
 $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
@@ -1291,18 +1286,18 @@ $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Using trial and error,
+<pre class='language-latex'><code class='language-latex'>A fraction will be bigger than $\dfrac{1}{2}$ if twice of its numerator is bigger than the denominator.
 
-If twice the numerator is bigger then the denominator then the fraction will be will be bigger than 1/2. So,
+Using trial and error,
 
-| Fraction  |Denominator < $2 \times$ Numerator|
-|:-------:  |:-------------------------------: |
-| $3, 5$    |             Yes                  |
-| $3, 7$    |              No                  |
-| $5, 12$   |              No                  |
-| $8, 15$   |             Yes                  |
-| $11, 15$  |             Yes                  |
 
+| Fraction  |$2 \times$ Numerator|         $> \dfrac{1}{2}$         |
+|:-------:  |:------------------:|:-------------------------------: |
+| $3, 5$    |  $3 \times 2 = 6$  |             Yes                  |
+| $3, 7$    |  $3 \times 2 = 6$  |              No                  |
+| $5, 12$   |  $5 \times 2 = 6$  |              No                  |
+| $8, 15$   |  $8 \times 2 = 6$  |             Yes                  |
+| $11, 15$  |  $11 \times 2 = 6$ |             Yes                  |
 
 
 $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
@@ -1326,32 +1321,32 @@ $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' id='FORM-3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' id='FORM-3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,8 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-5"
 title: "TopicPaper - Number - 5"
-date: 2022-07-20 06:28:31
+date: 2022-07-21 09:04:47
+questions_count: "40"
 ---
 <div class='paper'>
 <div class='meta'>
@@ -269,27 +270,21 @@ If %symbol% represents an even number smaller than $10$ and if %symbol% $< 5$ st
 <div class='workings'>
 <div class='working'>
 
-%symbol% < 10, is a even number and also < 5
-
-Therefore, possible value = 2 
-
+$2$ or $4$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-2
+$2$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>%symbol% < 10, is a even number and also < 5
-
-Therefore, possible value = 2 
-
+<pre class='language-latex'><code class='language-latex'>$2$ or $4$
 </code></pre>
 </div>
 </div>
@@ -301,7 +296,7 @@ Therefore, possible value = 2
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>2
+<pre class='language-latex'><code class='language-latex'>$2$
 </code></pre>
 </div>
 </div>
@@ -347,7 +342,7 @@ Therefore, possible value = 2
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9</p>
 </div>
@@ -358,7 +353,7 @@ Therefore, possible value = 2
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -440,18 +435,18 @@ $\dfrac{3}{5} \quad \dfrac{3}{7} \quad  \dfrac{5}{12} \quad \dfrac{8}{15} \quad 
 <div class='workings'>
 <div class='working'>
 
+A fraction will be bigger than $\dfrac{1}{2}$ if twice of its numerator is bigger than the denominator.
+
 Using trial and error,
 
-If twice the numerator is bigger then the denominator then the fraction will be will be bigger than 1/2. So,
 
-| Fraction  |Denominator < $2 \times$ Numerator|
-|:-------:  |:-------------------------------: |
-| $3, 5$    |             Yes                  |
-| $3, 7$    |              No                  |
-| $5, 12$   |              No                  |
-| $8, 15$   |             Yes                  |
-| $11, 15$  |             Yes                  |
-
+| Fraction  |$2 \times$ Numerator|         $> \dfrac{1}{2}$         |
+|:-------:  |:------------------:|:-------------------------------: |
+| $3, 5$    |  $3 \times 2 = 6$  |             Yes                  |
+| $3, 7$    |  $3 \times 2 = 6$  |              No                  |
+| $5, 12$   |  $5 \times 2 = 6$  |              No                  |
+| $8, 15$   |  $8 \times 2 = 6$  |             Yes                  |
+| $11, 15$  |  $11 \times 2 = 6$ |             Yes                  |
 
 
 $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
@@ -468,18 +463,18 @@ $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Using trial and error,
+<pre class='language-latex'><code class='language-latex'>A fraction will be bigger than $\dfrac{1}{2}$ if twice of its numerator is bigger than the denominator.
 
-If twice the numerator is bigger then the denominator then the fraction will be will be bigger than 1/2. So,
+Using trial and error,
 
-| Fraction  |Denominator < $2 \times$ Numerator|
-|:-------:  |:-------------------------------: |
-| $3, 5$    |             Yes                  |
-| $3, 7$    |              No                  |
-| $5, 12$   |              No                  |
-| $8, 15$   |             Yes                  |
-| $11, 15$  |             Yes                  |
 
+| Fraction  |$2 \times$ Numerator|         $> \dfrac{1}{2}$         |
+|:-------:  |:------------------:|:-------------------------------: |
+| $3, 5$    |  $3 \times 2 = 6$  |             Yes                  |
+| $3, 7$    |  $3 \times 2 = 6$  |              No                  |
+| $5, 12$   |  $5 \times 2 = 6$  |              No                  |
+| $8, 15$   |  $8 \times 2 = 6$  |             Yes                  |
+| $11, 15$  |  $11 \times 2 = 6$ |             Yes                  |
 
 
 $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
@@ -503,32 +498,32 @@ $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' id='FORM-3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' id='FORM-3B658BC9-91F0-4BBD-9AD6-73E314CEF7D9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1757,7 +1752,7 @@ $500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>53740286-D3F7-4BF8-A1AE-2920D9B87685</p>
 </div>
@@ -1768,7 +1763,7 @@ $500$
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1851,21 +1846,21 @@ What units would you use to measure the capacity of a cup?
 <div class='workings'>
 <div class='working'>
 
-Millilitres(mL)
+millilitres
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Millilitres(mL)
+millilitres
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Millilitres(mL)
+<pre class='language-latex'><code class='language-latex'>millilitres
 </code></pre>
 </div>
 </div>
@@ -1877,7 +1872,7 @@ Millilitres(mL)
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Millilitres(mL)
+<pre class='language-latex'><code class='language-latex'>millilitres
 </code></pre>
 </div>
 </div>
@@ -1886,32 +1881,32 @@ Millilitres(mL)
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' id='FORM-53740286-D3F7-4BF8-A1AE-2920D9B87685' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='53740286-D3F7-4BF8-A1AE-2920D9B87685' id='FORM-53740286-D3F7-4BF8-A1AE-2920D9B87685' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2787,7 +2782,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F0FE71ED-4E07-4034-BEC9-94598E8AD9A1</p>
 </div>
@@ -2798,7 +2793,7 @@ $60$
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2881,21 +2876,21 @@ What units would you use to measure the capacity of a cup?
 <div class='workings'>
 <div class='working'>
 
-Millilitres(mL)
+millilitres
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Millilitres(mL)
+millilitres
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Millilitres(mL)
+<pre class='language-latex'><code class='language-latex'>millilitres
 </code></pre>
 </div>
 </div>
@@ -2907,7 +2902,7 @@ Millilitres(mL)
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Millilitres(mL)
+<pre class='language-latex'><code class='language-latex'>millilitres
 </code></pre>
 </div>
 </div>
@@ -2916,32 +2911,32 @@ Millilitres(mL)
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' id='FORM-F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' id='FORM-F0FE71ED-4E07-4034-BEC9-94598E8AD9A1' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4149,7 +4144,7 @@ $1237$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>746E3D8E-6976-47B9-82B1-1067A8E0F64F</p>
 </div>
@@ -4160,7 +4155,7 @@ $1237$
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4243,21 +4238,21 @@ What units would you use to measure the volume of a drinks can?
 <div class='workings'>
 <div class='working'>
 
-Millilitres(mL)
+millilitres
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Millilitres(mL)
+millilitres
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Millilitres(mL)
+<pre class='language-latex'><code class='language-latex'>millilitres
 </code></pre>
 </div>
 </div>
@@ -4269,7 +4264,7 @@ Millilitres(mL)
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Millilitres(mL)
+<pre class='language-latex'><code class='language-latex'>millilitres
 </code></pre>
 </div>
 </div>
@@ -4278,32 +4273,32 @@ Millilitres(mL)
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' id='FORM-746E3D8E-6976-47B9-82B1-1067A8E0F64F' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='746E3D8E-6976-47B9-82B1-1067A8E0F64F' id='FORM-746E3D8E-6976-47B9-82B1-1067A8E0F64F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -5033,7 +5028,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B4B8928C-6D9A-4700-AA3D-DEEA64198181</p>
 </div>
@@ -5044,7 +5039,7 @@ $17$
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5173,32 +5168,32 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' id='FORM-B4B8928C-6D9A-4700-AA3D-DEEA64198181' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='B4B8928C-6D9A-4700-AA3D-DEEA64198181' id='FORM-B4B8928C-6D9A-4700-AA3D-DEEA64198181' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -5561,7 +5556,7 @@ Longest length $= 42 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>D1F6CD5F-2133-44D0-B392-978884312CFB</p>
 </div>
@@ -5572,7 +5567,7 @@ Longest length $= 42 \ \text{cm}$
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5655,21 +5650,21 @@ What units would you use to measure the volume of a cup?
 <div class='workings'>
 <div class='working'>
 
-Millilitres(mL)
+millilitres
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Millilitres(mL)
+millilitres
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Millilitres(mL)
+<pre class='language-latex'><code class='language-latex'>millilitres
 </code></pre>
 </div>
 </div>
@@ -5681,7 +5676,7 @@ Millilitres(mL)
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Millilitres(mL)
+<pre class='language-latex'><code class='language-latex'>millilitres
 </code></pre>
 </div>
 </div>
@@ -5690,32 +5685,32 @@ Millilitres(mL)
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' id='FORM-D1F6CD5F-2133-44D0-B392-978884312CFB' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='D1F6CD5F-2133-44D0-B392-978884312CFB' id='FORM-D1F6CD5F-2133-44D0-B392-978884312CFB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

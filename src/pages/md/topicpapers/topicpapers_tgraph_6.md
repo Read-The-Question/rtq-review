@@ -1,7 +1,8 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-6"
 title: "TopicPaper - Graph - 6"
-date: 2022-07-20 06:28:31
+date: 2022-07-21 09:04:47
+questions_count: "10"
 ---
 <div class='paper'>
 <div class='meta'>

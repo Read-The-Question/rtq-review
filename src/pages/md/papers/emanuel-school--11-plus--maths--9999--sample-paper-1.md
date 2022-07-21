@@ -1,7 +1,8 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-20 06:22:33
+date: 2022-07-21 08:58:55
+questions_count: "32"
 ---
 <div class='paper'>
 <div class='meta'>
@@ -6062,7 +6063,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E</p>
 </div>
@@ -6073,10 +6074,10 @@ $
 <p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_am_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6204,11 +6205,6 @@ $576 \times 8 =$
 $
 \begin{aligned}
 &= 576 \times 8 \\\\
-&= \dfrac{576 \times 8 \times 6}{6} \\\\
-&= \dfrac{576 \times 48}{6} \\\\
-&= \dfrac{27648}{6} \\\\
-&= \dfrac{4608 \times 6}{6} \\\\
-&= \dfrac{4608 \times \cancel 6}{ \cancel 6} \\\\
 &= 4608
 \end{aligned}
 $
@@ -6229,11 +6225,6 @@ $4608$
 $
 \begin{aligned}
 &= 576 \times 8 \\\\
-&= \dfrac{576 \times 8 \times 6}{6} \\\\
-&= \dfrac{576 \times 48}{6} \\\\
-&= \dfrac{27648}{6} \\\\
-&= \dfrac{4608 \times 6}{6} \\\\
-&= \dfrac{4608 \times \cancel 6}{ \cancel 6} \\\\
 &= 4608
 \end{aligned}
 $
@@ -6268,11 +6259,10 @@ $576 \times 4 =$
 $
 \begin{aligned}
 &= 576 \times 4 \\\\
-&= \dfrac{576 \times 4 \times 12}{12} \\\\
-&= \dfrac{576 \times 48}{12} \\\\
-&= \dfrac{27648}{12} \\\\
-&= \dfrac{2304 \times 12}{12} \\\\
-&= \dfrac{2304 \times \cancel{12}}{\cancel{12}} \\\\
+&= \dfrac {576 \times 4 \times 10} {10} \\\\
+&= \dfrac {576 \times 40} {10} \\\\
+&= \dfrac {23040} {10} \\\\
+&= \dfrac {2304 \cancel{0}} {1 \cancel{0}} \\\\
 &= 2304
 \end{aligned}
 $
@@ -6292,11 +6282,10 @@ $2304$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 576 \times 4 \\\\
-&= \dfrac{576 \times 4 \times 12}{12} \\\\
-&= \dfrac{576 \times 48}{12} \\\\
-&= \dfrac{27648}{12} \\\\
-&= \dfrac{2304 \times 12}{12} \\\\
-&= \dfrac{2304 \times \cancel{12}}{\cancel{12}} \\\\
+&= \dfrac {576 \times 4 \times 10} {10} \\\\
+&= \dfrac {576 \times 40} {10} \\\\
+&= \dfrac {23040} {10} \\\\
+&= \dfrac {2304 \cancel{0}} {1 \cancel{0}} \\\\
 &= 2304
 \end{aligned}
 $
@@ -6429,45 +6418,36 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-This is not done the right way, just final answers are written, you have done similar questions before. Do the same way 
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' id='FORM-9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' id='FORM-9BAB81F7-34A0-4D19-BDD6-C779CCE2AC6E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

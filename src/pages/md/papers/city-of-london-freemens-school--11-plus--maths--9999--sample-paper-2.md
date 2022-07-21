@@ -1,7 +1,8 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-2"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-20 06:22:33
+date: 2022-07-21 08:58:55
+questions_count: "19"
 ---
 <div class='paper'>
 <div class='meta'>

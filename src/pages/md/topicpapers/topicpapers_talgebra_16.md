@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-16"
 title: "TopicPaper - Algebra - 16"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -156,7 +156,7 @@ $
 \text{Total coins}  &= a + 2a + 4a \\\\
                     &= 7a \\\\
                     &= 7 \times 8 \\\\
-                    &= 56 \ \text{coins} \\\\
+                    &= 56 \ \text{coins}
 \end{aligned}
 $
 
@@ -207,7 +207,7 @@ $
 \text{Total coins}  &= a + 2a + 4a \\\\
                     &= 7a \\\\
                     &= 7 \times 8 \\\\
-                    &= 56 \ \text{coins} \\\\
+                    &= 56 \ \text{coins}
 \end{aligned}
 $
 </code></pre>

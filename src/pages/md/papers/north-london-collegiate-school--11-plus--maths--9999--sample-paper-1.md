@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "42"
 ---
 <div class='paper'>
@@ -3829,7 +3829,7 @@ $
 \text{let dist.} &= x \\\\
 \dfrac{x}{2} + 5 &= x - 10 \\\\ 
 \dfrac{x}{2} &= 15 \\\\
-x &= 30 \\\\ 
+x &= 30
 \end{aligned}
 $
 
@@ -3860,7 +3860,7 @@ TODOANSWER
 \text{let dist.} &= x \\\\
 \dfrac{x}{2} + 5 &= x - 10 \\\\ 
 \dfrac{x}{2} &= 15 \\\\
-x &= 30 \\\\ 
+x &= 30
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdirection-1"
 title: "TopicPaper - Direction - 1"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "13"
 ---
 <div class='paper'>
@@ -1781,7 +1781,7 @@ $
 \begin{aligned}
 & = -40 + 70 - 90 \\\\
 & = 30 -90 \\\\                                 
-& = -60 \ \text{degrees} \\\\
+& = -60 \ \text{degrees}
 \end{aligned}
 $
 
@@ -1819,7 +1819,7 @@ $
 \begin{aligned}
 & = -40 + 70 - 90 \\\\
 & = 30 -90 \\\\                                 
-& = -60 \ \text{degrees} \\\\
+& = -60 \ \text{degrees}
 \end{aligned}
 $
 

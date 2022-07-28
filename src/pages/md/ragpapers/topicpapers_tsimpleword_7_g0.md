@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-7-g0"
 title: "TopicPaper - Simpleword - 7 - G0"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -284,7 +284,7 @@ Which number between $55$ and $65$ can be divided exactly by $9$?
 
 $
 \begin{aligned}
-\text{Multiple of} \ 9 &= 63 \\\\
+\text{Multiple of} \ 9 &= 63
 \end{aligned}
 $
 
@@ -303,7 +303,7 @@ $63$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text{Multiple of} \ 9 &= 63 \\\\
+\text{Multiple of} \ 9 &= 63
 \end{aligned}
 $
 </code></pre>

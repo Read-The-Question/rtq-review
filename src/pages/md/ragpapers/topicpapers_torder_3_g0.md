@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g0"
 title: "TopicPaper - Order - 3 - G0"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -279,7 +279,7 @@ $
 \begin{aligned}
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad \dfrac {2778} {1000} \ \text {km}, \quad 2.708 \ \text {km} \\\\
-&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km}
 \end{aligned}
 $
 
@@ -312,7 +312,7 @@ $
 \begin{aligned}
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad \dfrac {2778} {1000} \ \text {km}, \quad 2.708 \ \text {km} \\\\
-&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km}
 \end{aligned}
 $
 
@@ -859,7 +859,7 @@ In this case, there are more decimals than fractions, so let's convert all the n
 $
 \begin{aligned}
 &= 3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4},  \quad   3.025 \\\\
-&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025 \\\\
+&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025
 \end{aligned}
 $
 
@@ -891,7 +891,7 @@ In this case, there are more decimals than fractions, so let's convert all the n
 $
 \begin{aligned}
 &= 3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4},  \quad   3.025 \\\\
-&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025 \\\\
+&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025
 \end{aligned}
 $
 
@@ -3390,7 +3390,7 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300} \\\\
+&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300}
 \end{aligned}
 $
 
@@ -3437,7 +3437,7 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300} \\\\
+&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300}
 \end{aligned}
 $
 

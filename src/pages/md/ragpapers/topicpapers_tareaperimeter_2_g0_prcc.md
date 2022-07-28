@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g0-prcc"
 title: "TopicPaper - Areaperimeter - 2 - G0 - PRCC"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -2486,7 +2486,7 @@ $
 \begin{aligned}
 \text {Perimeter}   &= 8 \times \text {side} \\\\
                     &= 8 \times 6 \\\\
-                    &= 48 \ \text {cm} \\\\
+                    &= 48 \ \text {cm}
 \end{aligned}
 $
 
@@ -2510,7 +2510,7 @@ $
 \begin{aligned}
 \text {Perimeter}   &= 8 \times \text {side} \\\\
                     &= 8 \times 6 \\\\
-                    &= 48 \ \text {cm} \\\\
+                    &= 48 \ \text {cm}
 \end{aligned}
 $
 </code></pre>

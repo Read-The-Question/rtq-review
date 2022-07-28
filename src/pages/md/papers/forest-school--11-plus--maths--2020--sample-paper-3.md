@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "35"
 ---
 <div class='paper'>
@@ -3848,7 +3848,7 @@ $
                                 &= 12 \\\\
 \text {number of boys who walk} &= \text {number of boys} - \text {boys who don't walk} \\\\
                                 &= 12 - 8 \\\\
-                                &= 4 \\\\
+                                &= 4
 \end{aligned}
 $
 
@@ -3877,7 +3877,7 @@ $\dfrac {4} {23}$
                                 &= 12 \\\\
 \text {number of boys who walk} &= \text {number of boys} - \text {boys who don't walk} \\\\
                                 &= 12 - 8 \\\\
-                                &= 4 \\\\
+                                &= 4
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g0"
 title: "TopicPaper - Percentage - 1 - G0"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -146,7 +146,7 @@ $
 &= \dfrac {5600} {100} \\\\
 &= \dfrac {56 \times 100} {100} \\\\
 &= \dfrac {56 \times \cancel{100}} {\cancel{100}} \\\\
-&= {56} \\\\
+&= {56}
 \end{aligned}
 $
 
@@ -170,7 +170,7 @@ $56$
 &= \dfrac {5600} {100} \\\\
 &= \dfrac {56 \times 100} {100} \\\\
 &= \dfrac {56 \times \cancel{100}} {\cancel{100}} \\\\
-&= {56} \\\\
+&= {56}
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tclock-1-g0"
 title: "TopicPaper - Clock - 1 - G0"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -1114,7 +1114,7 @@ $
 \text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
 &= \dfrac{30 \times 6}{6} \\\\
 &=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree \\\\
+&= 30 \degree
 \end{aligned}
 $
 
@@ -1149,7 +1149,7 @@ $
 \text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
 &= \dfrac{30 \times 6}{6} \\\\
 &=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree \\\\
+&= 30 \degree
 \end{aligned}
 $
 

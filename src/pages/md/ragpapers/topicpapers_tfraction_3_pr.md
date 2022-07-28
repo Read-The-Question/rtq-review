@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-pr"
 title: "TopicPaper - Fraction - 3 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -310,7 +310,7 @@ $
 &= \dfrac{1+2}{2+3} , \quad \dfrac{2+4}{2+3} , \quad \dfrac{1+2}{4+6}, \quad \dfrac{3+4}{2+3}, \quad \dfrac{1+4}{1+3} \\\\
 &= \dfrac{3}{5} , \quad \dfrac{6}{5} , \quad \dfrac{3}{10}, \quad \dfrac{7}{5}, \quad \dfrac{5}{4} \\\\
 &= \dfrac{3 \times 4}{5 \times 4} , \quad \dfrac{6 \times 4}{5 \times 4} , \quad \dfrac{3 \times 2}{10 \times 2}, \quad \dfrac{7 \times 4}{5 \times 4}, \quad \dfrac{5 \times 5}{4 \times 5} \\\\
-&= \dfrac{12}{20} , \quad \dfrac{24}{20} , \quad \dfrac{6}{20}, \quad \dfrac{28}{20}, \quad \dfrac{25}{20} \\\\
+&= \dfrac{12}{20} , \quad \dfrac{24}{20} , \quad \dfrac{6}{20}, \quad \dfrac{28}{20}, \quad \dfrac{25}{20}
 \end{aligned}
 $
 
@@ -335,7 +335,7 @@ $\dfrac{3+4}{2+3}$
 &= \dfrac{1+2}{2+3} , \quad \dfrac{2+4}{2+3} , \quad \dfrac{1+2}{4+6}, \quad \dfrac{3+4}{2+3}, \quad \dfrac{1+4}{1+3} \\\\
 &= \dfrac{3}{5} , \quad \dfrac{6}{5} , \quad \dfrac{3}{10}, \quad \dfrac{7}{5}, \quad \dfrac{5}{4} \\\\
 &= \dfrac{3 \times 4}{5 \times 4} , \quad \dfrac{6 \times 4}{5 \times 4} , \quad \dfrac{3 \times 2}{10 \times 2}, \quad \dfrac{7 \times 4}{5 \times 4}, \quad \dfrac{5 \times 5}{4 \times 5} \\\\
-&= \dfrac{12}{20} , \quad \dfrac{24}{20} , \quad \dfrac{6}{20}, \quad \dfrac{28}{20}, \quad \dfrac{25}{20} \\\\
+&= \dfrac{12}{20} , \quad \dfrac{24}{20} , \quad \dfrac{6}{20}, \quad \dfrac{28}{20}, \quad \dfrac{25}{20}
 \end{aligned}
 $
 
@@ -619,7 +619,7 @@ $
 &= 32 - \dfrac{3 \times 32}{8} \\\\
 &= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
 &= 32 - 12 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 
@@ -642,7 +642,7 @@ $20$
 &= 32 - \dfrac{3 \times 32}{8} \\\\
 &= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
 &= 32 - 12 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "23"
 ---
 <div class='paper'>
@@ -4290,7 +4290,7 @@ $
 \dfrac {1200}{1000}                        &= 1200 \\\\
 \dfrac {12 \cancel {00}} {10 \cancel {00}} &= 1200 \\\\
 \dfrac {12} {10}                           &= 1200 \\\\
-1.2 \text {m}                              &= 1200 \ \text {mm} \\\\
+1.2 \text {m}                              &= 1200 \ \text {mm}
 \end{aligned}
 $
 
@@ -4314,7 +4314,7 @@ $1.2 \text {m}$
 \dfrac {1200}{1000}                        &= 1200 \\\\
 \dfrac {12 \cancel {00}} {10 \cancel {00}} &= 1200 \\\\
 \dfrac {12} {10}                           &= 1200 \\\\
-1.2 \text {m}                              &= 1200 \ \text {mm} \\\\
+1.2 \text {m}                              &= 1200 \ \text {mm}
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-oldpr-prcr"
 title: "TopicPaper - Order - 1 - OLDPR - PRCR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -633,7 +633,7 @@ In this case, there are more decimals than fractions, so let's convert all the n
 $
 \begin{aligned}
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8} \\\\
-&= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
+&= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75
 \end{aligned}
 $
 
@@ -667,7 +667,7 @@ In this case, there are more decimals than fractions, so let's convert all the n
 $
 \begin{aligned}
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8} \\\\
-&= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
+&= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75
 \end{aligned}
 $
 

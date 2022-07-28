@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-oldpr-prcr"
 title: "TopicPaper - Algebra - 9 - OLDPR - PRCR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -1150,7 +1150,7 @@ Let's find how many buses are needed to accomadate $39$ members.
 $
 \begin{aligned}
 &= \dfrac{39} {15} \\\\
-&= 2 \dfrac{9} {15} \\\\
+&= 2 \dfrac{9} {15}
 \end{aligned}
 $
 
@@ -1177,7 +1177,7 @@ Let's find how many buses are needed to accomadate $39$ members.
 $
 \begin{aligned}
 &= \dfrac{39} {15} \\\\
-&= 2 \dfrac{9} {15} \\\\
+&= 2 \dfrac{9} {15}
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "41"
 ---
 <div class='paper'>
@@ -3563,7 +3563,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>5D9766EF-08AE-488D-9646-593722B91E32</p>
 </div>
@@ -3577,7 +3577,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3736,7 +3736,7 @@ $
 \begin{aligned}
 & 40 \times 3 + 6 &= a \\\\
 & 120 + 6 &= a \\\\
-& a &= 126 \\\\
+& a &= 126
 \end{aligned}
 $
 
@@ -3749,7 +3749,7 @@ $
 & 3b &= 54 - 6 \\\\
 & 3b &= 48 \\\\
 & b &= \dfrac{48}{3} \\\\
-& b &= 16 \\\\
+& b &= 16
 \end{aligned}
 $
 
@@ -3781,7 +3781,7 @@ $
 \begin{aligned}
 & 40 \times 3 + 6 &= a \\\\
 & 120 + 6 &= a \\\\
-& a &= 126 \\\\
+& a &= 126
 \end{aligned}
 $
 
@@ -3794,7 +3794,7 @@ $
 & 3b &= 54 - 6 \\\\
 & 3b &= 48 \\\\
 & b &= \dfrac{48}{3} \\\\
-& b &= 16 \\\\
+& b &= 16
 \end{aligned}
 $
 </code></pre>
@@ -3852,14 +3852,14 @@ Let second label $= + b$
 $
 \begin{aligned}
 & a \times 6 + b &= 12 \\\\
-& 6a + b &= 12 \\\\
+& 6a + b &= 12
 \end{aligned}
 $
 
 $
 \begin{aligned}
 & a \times 8 + b &= 20 \\\\
-& 8a + b &= 20 \\\\
+& 8a + b &= 20
 \end{aligned}
 $
 
@@ -3872,7 +3872,7 @@ $
 & 8a - 6a &= 20 - 12 \\\\
 & 2a &= 8 \\\\
 & a &= \dfrac{8}{2} \\\\
-& a &= 4 \\\\
+& a &= 4
 \end{aligned}
 $
 
@@ -3884,7 +3884,7 @@ $
 & 6(4) + b &= 12 \\\\
 & 24 + b &= 12 \\\\
 & b &= 12 - 24 \\\\
-& b &= - 12 \\\\
+& b &= - 12
 \end{aligned}
 $
 
@@ -3902,14 +3902,14 @@ Let second label $= \times b$
 $
 \begin{aligned}
 (6 + a) \times b &= 12 \\\\
-6b + ab &= 12 \\\\
+6b + ab &= 12
 \end{aligned}
 $
 
 $
 \begin{aligned}
 (8 + a) \times b &= 20 \\\\
-8b + ab &= 20 \\\\
+8b + ab &= 20
 \end{aligned}
 $
 
@@ -3921,7 +3921,7 @@ $
 8b - 6b &= 20 - 12 \\\\
 2b &= 8 \\\\
 b &= \dfrac{8}{2} \\\\
-b &= 4 \\\\
+b &= 4
 \end{aligned}
 $
 
@@ -3935,7 +3935,7 @@ $
 4a &= 12 - 24 \\\\
 4a &= -12 \\\\
 a &= \dfrac{-12}{4} \\\\
-a &= -3 \\\\
+a &= -3
 \end{aligned}
 $
 
@@ -3965,14 +3965,14 @@ Let second label $= + b$
 $
 \begin{aligned}
 & a \times 6 + b &= 12 \\\\
-& 6a + b &= 12 \\\\
+& 6a + b &= 12
 \end{aligned}
 $
 
 $
 \begin{aligned}
 & a \times 8 + b &= 20 \\\\
-& 8a + b &= 20 \\\\
+& 8a + b &= 20
 \end{aligned}
 $
 
@@ -3985,7 +3985,7 @@ $
 & 8a - 6a &= 20 - 12 \\\\
 & 2a &= 8 \\\\
 & a &= \dfrac{8}{2} \\\\
-& a &= 4 \\\\
+& a &= 4
 \end{aligned}
 $
 
@@ -3997,7 +3997,7 @@ $
 & 6(4) + b &= 12 \\\\
 & 24 + b &= 12 \\\\
 & b &= 12 - 24 \\\\
-& b &= - 12 \\\\
+& b &= - 12
 \end{aligned}
 $
 
@@ -4015,14 +4015,14 @@ Let second label $= \times b$
 $
 \begin{aligned}
 (6 + a) \times b &= 12 \\\\
-6b + ab &= 12 \\\\
+6b + ab &= 12
 \end{aligned}
 $
 
 $
 \begin{aligned}
 (8 + a) \times b &= 20 \\\\
-8b + ab &= 20 \\\\
+8b + ab &= 20
 \end{aligned}
 $
 
@@ -4034,7 +4034,7 @@ $
 8b - 6b &= 20 - 12 \\\\
 2b &= 8 \\\\
 b &= \dfrac{8}{2} \\\\
-b &= 4 \\\\
+b &= 4
 \end{aligned}
 $
 
@@ -4048,7 +4048,7 @@ $
 4a &= 12 - 24 \\\\
 4a &= -12 \\\\
 a &= \dfrac{-12}{4} \\\\
-a &= -3 \\\\
+a &= -3
 \end{aligned}
 $
 
@@ -5377,7 +5377,7 @@ Mr Cooper spent $\pounds 52.2$ on petrol to drive $600 \ \text{kilometres}$ from
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>971D11AC-9962-4F22-9F9D-6AE4D05EF7CB</p>
 </div>
@@ -5388,7 +5388,7 @@ Mr Cooper spent $\pounds 52.2$ on petrol to drive $600 \ \text{kilometres}$ from
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5468,36 +5468,21 @@ tnumber
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -5509,17 +5494,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -5537,36 +5512,21 @@ Estimate, in centimetres, the length of the line below.
 <div class='workings'>
 <div class='working'>
 
-$5 \text{cm}\ $
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$5 \ \text{cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5 \text{cm}\ $
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5 \ \text{cm}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$5 \text{cm}\ $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$5 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -5578,17 +5538,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5 \text{cm}\ $
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5 \ \text{cm}$
 </code></pre>
 </div>
 </div>
@@ -5612,27 +5562,17 @@ Use this fact to estimate the height of the tree.
 
 $
 \begin{aligned}
-\text{Estimated height}\ &= 1.8\text{m}\ \times 3 \\\\
-&= 5.4\text{m}\ \\\\
+\text{Estimated height}     &\approx 1.8 \times 3 \\\\
+                            &= 5.4 \ \text{metres}
 \end{aligned}
 $
-
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5.4\text{m}\ $
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$5.4 \ \text{metres}$
 
 </div>
 </div>
@@ -5641,15 +5581,10 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Estimated height}\ &= 1.8\text{m}\ \times 3 \\\\
-&= 5.4\text{m}\ \\\\
+\text{Estimated height}     &\approx 1.8 \times 3 \\\\
+                            &= 5.4 \ \text{metres}
 \end{aligned}
 $
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -5661,17 +5596,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5.4\text{m}\ $
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$5.4 \ \text{metres}$
 </code></pre>
 </div>
 </div>
@@ -5683,35 +5608,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' id='FORM-971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' id='FORM-971D11AC-9962-4F22-9F9D-6AE4D05EF7CB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

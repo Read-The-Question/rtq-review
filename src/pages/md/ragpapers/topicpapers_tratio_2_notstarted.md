@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-2-notstarted"
 title: "TopicPaper - Ratio - 2 - NOTSTARTED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "28"
 ---
 <ul class='question default-decimal'>
@@ -2639,7 +2639,7 @@ $
 \begin{aligned}
 \dfrac{a}{b}             &= \dfrac{4}{3} \\\\
 \dfrac{b}{a}             &= \dfrac{3}{4} \\\\
-b                        &= a\dfrac{3}{4} \\\\
+b                        &= a\dfrac{3}{4}
 \end{aligned}
 $
 
@@ -2682,7 +2682,7 @@ $
 \begin{aligned}
 \dfrac{a}{b}             &= \dfrac{4}{3} \\\\
 \dfrac{b}{a}             &= \dfrac{3}{4} \\\\
-b                        &= a\dfrac{3}{4} \\\\
+b                        &= a\dfrac{3}{4}
 \end{aligned}
 $
 
@@ -3666,7 +3666,7 @@ Red &: Blue \\
   3 &: 1 \\\\
 \text {or,}\\\\
 Red  &= \dfrac {3} {4} \\\\
-Blue &= \dfrac {1} {4}\\\\
+Blue &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -3721,7 +3721,7 @@ Red &: Blue \\
   3 &: 1 \\\\
 \text {or,}\\\\
 Red  &= \dfrac {3} {4} \\\\
-Blue &= \dfrac {1} {4}\\\\
+Blue &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -3918,7 +3918,7 @@ $
 \phantom{{0-}} \ \         -\underline{\  3 \ \ \ 4 \ \ \ \ }\\
 \phantom{{ \ \ \ 0 \ 0 \ 0 \ \ \\ 0 }}         {\ \ \ \ 8 \ 5}\\
 \phantom{{0- \ \ }} \ \ \ \ \ \         -\underline{\ 8 \  5 \ \ \ \ }\\
-\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }\\\\
+\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }
 \end{array}
 $
 
@@ -3952,7 +3952,7 @@ $
 \phantom{{0-}} \ \         -\underline{\  3 \ \ \ 4 \ \ \ \ }\\
 \phantom{{ \ \ \ 0 \ 0 \ 0 \ \ \\ 0 }}         {\ \ \ \ 8 \ 5}\\
 \phantom{{0- \ \ }} \ \ \ \ \ \         -\underline{\ 8 \  5 \ \ \ \ }\\
-\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }\\\\
+\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }
 \end{array}
 $
 

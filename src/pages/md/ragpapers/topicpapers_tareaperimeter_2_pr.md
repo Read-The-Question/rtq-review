@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-pr"
 title: "TopicPaper - Areaperimeter - 2 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -3661,7 +3661,7 @@ $
 \dfrac {1200}{1000}                        &= 1200 \\\\
 \dfrac {12 \cancel {00}} {10 \cancel {00}} &= 1200 \\\\
 \dfrac {12} {10}                           &= 1200 \\\\
-1.2 \text {m}                              &= 1200 \ \text {mm} \\\\
+1.2 \text {m}                              &= 1200 \ \text {mm}
 \end{aligned}
 $
 
@@ -3685,7 +3685,7 @@ $1.2 \text {m}$
 \dfrac {1200}{1000}                        &= 1200 \\\\
 \dfrac {12 \cancel {00}} {10 \cancel {00}} &= 1200 \\\\
 \dfrac {12} {10}                           &= 1200 \\\\
-1.2 \text {m}                              &= 1200 \ \text {mm} \\\\
+1.2 \text {m}                              &= 1200 \ \text {mm}
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-7"
 title: "TopicPaper - Number - 7"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -3286,7 +3286,7 @@ $
 &= 1000 \\\\
 &= 100 \times 10 \\\\
 &= 4 \times 25 \times 2 \times 5 \\\\
-&= 8 \times 125 \\\\
+&= 8 \times 125
 \end{aligned}
 $
 
@@ -3307,7 +3307,7 @@ $8 \ \text{and} \ 125$
 &= 1000 \\\\
 &= 100 \times 10 \\\\
 &= 4 \times 25 \times 2 \times 5 \\\\
-&= 8 \times 125 \\\\
+&= 8 \times 125
 \end{aligned}
 $
 </code></pre>
@@ -3344,7 +3344,7 @@ $
 &= 1000000 \\\\
 &= 1000 \times 1000 \\\\
 &= 8 \times 125 \times 8 \times 125 \\\\
-&= 64 \times 15625 \\\\
+&= 64 \times 15625
 \end{aligned}
 $
 
@@ -3365,7 +3365,7 @@ $64 \ \text{and} \ 15625$
 &= 1000000 \\\\
 &= 1000 \times 1000 \\\\
 &= 8 \times 125 \times 8 \times 125 \\\\
-&= 64 \times 15625 \\\\
+&= 64 \times 15625
 \end{aligned}
 $
 </code></pre>

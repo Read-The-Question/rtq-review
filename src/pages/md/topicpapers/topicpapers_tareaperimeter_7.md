@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-7"
 title: "TopicPaper - Areaperimeter - 7"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -737,7 +737,7 @@ As per the question,
 
 $
 \begin{aligned}
-(11 + w) \times w                  &= 60 \\\\
+(11 + w) \times w                  &= 60
 \end{aligned}
 $
 
@@ -786,7 +786,7 @@ As per the question,
 
 $
 \begin{aligned}
-(11 + w) \times w                  &= 60 \\\\
+(11 + w) \times w                  &= 60
 \end{aligned}
 $
 

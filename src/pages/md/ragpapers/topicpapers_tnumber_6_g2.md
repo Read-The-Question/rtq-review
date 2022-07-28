@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-g2"
 title: "TopicPaper - Number - 6 - G2"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "28"
 ---
 <ul class='question default-decimal'>
@@ -5749,7 +5749,7 @@ $
 \text{D}    &= 22 - 10 + (8 \div 4) \\\\
             &= 12 + 2 \\\\
             &= \red
-{14} \neq 5 \\\\
+{14} \neq 5
 \end{aligned}
 $
 
@@ -5784,7 +5784,7 @@ $
             &= \rtq_katex_color_answer{5} \\\\
 \text{D}    &= 22 - 10 + (8 \div 4) \\\\
             &= 12 + 2 \\\\
-            &= \rtq_katex_color_wrong_answer{14} \neq 5 \\\\
+            &= \rtq_katex_color_wrong_answer{14} \neq 5
 \end{aligned}
 $
 </code></pre>

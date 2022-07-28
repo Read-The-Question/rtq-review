@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "30"
 ---
 <div class='paper'>
@@ -1755,7 +1755,7 @@ $
 \begin{aligned}
     \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
     \dfrac {3}{4} & : \dfrac {3 \times 30}{4 \times 30} \\\\
-    \dfrac {3}{4} & : \dfrac {90}{120}                  \\\\
+    \dfrac {3}{4} & : \dfrac {90}{120}
 \end{aligned}
 $
 
@@ -1827,7 +1827,7 @@ $
 \begin{aligned}
     \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
     \dfrac {3}{4} & : \dfrac {3 \times 30}{4 \times 30} \\\\
-    \dfrac {3}{4} & : \dfrac {90}{120}                  \\\\
+    \dfrac {3}{4} & : \dfrac {90}{120}
 \end{aligned}
 $
 
@@ -3382,7 +3382,7 @@ $
 \begin{aligned}
 & = -40 + 70 - 90 \\\\
 & = 30 -90 \\\\                                 
-& = -60 \ \text{degrees} \\\\
+& = -60 \ \text{degrees}
 \end{aligned}
 $
 
@@ -3420,7 +3420,7 @@ $
 \begin{aligned}
 & = -40 + 70 - 90 \\\\
 & = 30 -90 \\\\                                 
-& = -60 \ \text{degrees} \\\\
+& = -60 \ \text{degrees}
 \end{aligned}
 $
 

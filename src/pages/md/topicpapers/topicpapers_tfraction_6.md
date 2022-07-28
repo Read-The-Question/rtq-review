@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-6"
 title: "TopicPaper - Fraction - 6"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -6239,7 +6239,7 @@ $
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9} {18}, \quad \dfrac {10} {15} \\\\
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9} {9 \times 2}, \quad \dfrac {5 \times 2} {5 \times 3} \\\\
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {\cancel {9}} {\cancel {9} \times 2}, \quad \dfrac {\cancel {5} \times 2} {\cancel {5} \times 3} \\\\
-&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {1} {2}, \quad \dfrac {2} {3} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {1} {2}, \quad \dfrac {2} {3}
 \end{aligned}
 $
 
@@ -6264,7 +6264,7 @@ $
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9} {18}, \quad \dfrac {10} {15} \\\\
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9} {9 \times 2}, \quad \dfrac {5 \times 2} {5 \times 3} \\\\
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {\cancel {9}} {\cancel {9} \times 2}, \quad \dfrac {\cancel {5} \times 2} {\cancel {5} \times 3} \\\\
-&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {1} {2}, \quad \dfrac {2} {3} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {1} {2}, \quad \dfrac {2} {3}
 \end{aligned}
 $
 
@@ -7167,7 +7167,7 @@ $
 &= \dfrac {18} {4} + \dfrac {23} {4} \\\\
 &= \dfrac {18 + 23} {4} \\\\
 &= \dfrac {41} {4} \\\\
-&= 10 \dfrac {1} {4} \\\\
+&= 10 \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -7191,7 +7191,7 @@ $10 \dfrac {1} {4}$
 &= \dfrac {18} {4} + \dfrac {23} {4} \\\\
 &= \dfrac {18 + 23} {4} \\\\
 &= \dfrac {41} {4} \\\\
-&= 10 \dfrac {1} {4} \\\\
+&= 10 \dfrac {1} {4}
 \end{aligned}
 $
 </code></pre>
@@ -7910,7 +7910,7 @@ $
 \dfrac {1} {7 - a}                      &= \dfrac {1} {4} \\\\
 7 -a                                    &= 4 \\\\
 a                                       &= 7 - 4 \\\\
-a                                       &= 3 \\\\
+a                                       &= 3
 \end{aligned}
 $
 
@@ -7939,7 +7939,7 @@ $
 \dfrac {1} {7 - a}                      &= \dfrac {1} {4} \\\\
 7 -a                                    &= 4 \\\\
 a                                       &= 7 - 4 \\\\
-a                                       &= 3 \\\\
+a                                       &= 3
 \end{aligned}
 $
 </code></pre>

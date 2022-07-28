@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "18"
 ---
 <div class='paper'>
@@ -2281,7 +2281,7 @@ $
 &= \dfrac {50} {100} \\\\
 &= \dfrac {50} {50 \times 2} \\\\
 &= \dfrac {\cancel{50}} {\cancel{50} \times 2} \\\\
-&= \dfrac {1} {2} \\\\
+&= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -2291,7 +2291,7 @@ $
 &= \dfrac {75} {100} \\\\
 &= \dfrac {5 \times 5 \times 3} {5 \times 5 \times 4} \\\\
 &= \dfrac {\cancel{5} \times \cancel{5} \times 3} {\cancel{5} \times \cancel{5} \times 4} \\\\
-&= \dfrac {3} {4} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -2313,7 +2313,7 @@ $\dfrac {1} {2} \ \ \dfrac {3} {4}$
 &= \dfrac {50} {100} \\\\
 &= \dfrac {50} {50 \times 2} \\\\
 &= \dfrac {\cancel{50}} {\cancel{50} \times 2} \\\\
-&= \dfrac {1} {2} \\\\
+&= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -2323,7 +2323,7 @@ $
 &= \dfrac {75} {100} \\\\
 &= \dfrac {5 \times 5 \times 3} {5 \times 5 \times 4} \\\\
 &= \dfrac {\cancel{5} \times \cancel{5} \times 3} {\cancel{5} \times \cancel{5} \times 4} \\\\
-&= \dfrac {3} {4} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 </code></pre>
@@ -2735,7 +2735,7 @@ $
 \begin{aligned}
 \text{Time Edinburgh arrives at railway station}  &=  13{:}05 + 27 \text{minutes} + 45 \text{minutes} \\\\ 
                                                   &=  13{:}05 + 01{:}12 \\\\
-                                                  &= 14{:}17 \\\\
+                                                  &= 14{:}17
 \end{aligned}
 $
 
@@ -2762,7 +2762,7 @@ $7 \ \text{minutes}$
 \begin{aligned}
 \text{Time Edinburgh arrives at railway station}  &=  13{:}05 + 27 \text{minutes} + 45 \text{minutes} \\\\ 
                                                   &=  13{:}05 + 01{:}12 \\\\
-                                                  &= 14{:}17 \\\\
+                                                  &= 14{:}17
 \end{aligned}
 $
 
@@ -3860,7 +3860,7 @@ In this case, there are more fractions than percentages, so let's convert all th
 $
 \begin{aligned}
 &= 60 \%,  \quad \dfrac {17} {25}, \quad \dfrac {2} {3}, \quad 0.66 \\\\
-&= \dfrac {60} {100},  \quad \dfrac {17} {25}, \quad \dfrac {2} {3}, \quad \dfrac {66} {100} \\\\
+&= \dfrac {60} {100},  \quad \dfrac {17} {25}, \quad \dfrac {2} {3}, \quad \dfrac {66} {100}
 \end{aligned}
 $
 
@@ -3901,7 +3901,7 @@ In this case, there are more fractions than percentages, so let's convert all th
 $
 \begin{aligned}
 &= 60 \%,  \quad \dfrac {17} {25}, \quad \dfrac {2} {3}, \quad 0.66 \\\\
-&= \dfrac {60} {100},  \quad \dfrac {17} {25}, \quad \dfrac {2} {3}, \quad \dfrac {66} {100} \\\\
+&= \dfrac {60} {100},  \quad \dfrac {17} {25}, \quad \dfrac {2} {3}, \quad \dfrac {66} {100}
 \end{aligned}
 $
 

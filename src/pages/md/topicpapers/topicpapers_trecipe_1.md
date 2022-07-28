@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-trecipe-1"
 title: "TopicPaper - Recipe - 1"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "21"
 ---
 <div class='paper'>
@@ -708,7 +708,7 @@ $
 \dfrac {2 \times 2 \times 3} {2} \ \text{people}                        &: \dfrac {2 \times 75 \times 3} {2} \ \text{g flour} \\\\
 \dfrac {\cancel {2} \times 2 \times 3} {\cancel {2}} \ \text{people}    &: \dfrac {\cancel {2} \times 75 \times 3} {\cancel {2}} \ \text{g flour} \\\\
 3 \times 2 \ \text{people}                                              &: 75 \times 3 \ \text{g flour} \\\\
-6 \ \text{people}                                                       &: 225 \ \text{g flour} \\\\
+6 \ \text{people}                                                       &: 225 \ \text{g flour}
 \end{aligned}
 $
 
@@ -734,7 +734,7 @@ $
 \dfrac {2 \times 2 \times 3} {2} \ \text{people}                        &: \dfrac {2 \times 75 \times 3} {2} \ \text{g flour} \\\\
 \dfrac {\cancel {2} \times 2 \times 3} {\cancel {2}} \ \text{people}    &: \dfrac {\cancel {2} \times 75 \times 3} {\cancel {2}} \ \text{g flour} \\\\
 3 \times 2 \ \text{people}                                              &: 75 \times 3 \ \text{g flour} \\\\
-6 \ \text{people}                                                       &: 225 \ \text{g flour} \\\\
+6 \ \text{people}                                                       &: 225 \ \text{g flour}
 \end{aligned}
 $
 </code></pre>

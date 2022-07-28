@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "20"
 ---
 <div class='paper'>
@@ -5397,7 +5397,7 @@ $
                               &= 1 \ \text{hour} 5 \ \text{minutes} \\\\
                               &= 1 \times 60 \ \text{minutes} + 5 \ \text{minutes} \\\\
                               &= 60 + 5 \\\\
-                              &= 65 \ \text{minutes} \\\\
+                              &= 65 \ \text{minutes}
 \end{aligned}
 $
 
@@ -5437,7 +5437,7 @@ $
                               &= 1 \ \text{hour} 5 \ \text{minutes} \\\\
                               &= 1 \times 60 \ \text{minutes} + 5 \ \text{minutes} \\\\
                               &= 60 + 5 \\\\
-                              &= 65 \ \text{minutes} \\\\
+                              &= 65 \ \text{minutes}
 \end{aligned}
 $
 

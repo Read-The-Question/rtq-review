@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-2"
 title: "TopicPaper - Sequence - 2"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -7763,7 +7763,7 @@ $
 \text{First missing number}     &= 21 + 4 \\\\
                                 &= 25 \\\\
 \text{Second missing number}    &= 25 + 4 \\\\
-                                &= 29 \\\\                      
+                                &= 29
 \end{aligned}
 $
 
@@ -7799,7 +7799,7 @@ $
 \text{First missing number}     &= 21 + 4 \\\\
                                 &= 25 \\\\
 \text{Second missing number}    &= 25 + 4 \\\\
-                                &= 29 \\\\                      
+                                &= 29
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-notstarted"
 title: "TopicPaper - Number - 13 - NOTSTARTED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -1528,7 +1528,7 @@ $
 &&&&& 420 &&& \\\\
 &= &&42 &&&&&& 10 \\\\
 &= 2 &&&&21 &&& 5 &&&& 2 \\\\
-&=2  &&&7 &&2 &&5 &&&&2 \\\\
+&=2  &&&7 &&2 &&5 &&&&2
 \end{aligned}
 $
 
@@ -1549,7 +1549,7 @@ $2 \times 7 \times 2 \times 5 \times 2$
 &&&&& 420 &&& \\\\
 &= &&42 &&&&&& 10 \\\\
 &= 2 &&&&21 &&& 5 &&&& 2 \\\\
-&=2  &&&7 &&2 &&5 &&&&2 \\\\
+&=2  &&&7 &&2 &&5 &&&&2
 \end{aligned}
 $
 </code></pre>

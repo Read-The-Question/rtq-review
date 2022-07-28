@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-g0-prcc"
 title: "TopicPaper - Angle - 3 - G0 - PRCC"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -1485,7 +1485,7 @@ $
 χ                   &= 180 - a - b \\\\
 χ                   &= 180 - 70 - 80 \\\\
 χ                   &= 180 - 150 \\\\
-χ                   &= 30 \degree \\\\
+χ                   &= 30 \degree
 \end{aligned}
 $
 
@@ -1531,7 +1531,7 @@ $
 χ                   &= 180 - a - b \\\\
 χ                   &= 180 - 70 - 80 \\\\
 χ                   &= 180 - 150 \\\\
-χ                   &= 30 \degree \\\\
+χ                   &= 30 \degree
 \end{aligned}
 $
 </code></pre>

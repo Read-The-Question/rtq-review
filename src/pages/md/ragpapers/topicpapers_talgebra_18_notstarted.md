@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-18-notstarted"
 title: "TopicPaper - Algebra - 18 - NOTSTARTED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -2462,7 +2462,7 @@ $
 \begin{aligned}
 17 \text{people} : 1 \text{minibus} \\\\
 17 \times 17 \text{people} : 1 \times 17 \text{minibuses} \\\\
-289 \text{people} : 17 \text{minibuses} \\\\
+289 \text{people} : 17 \text{minibuses}
 \end{aligned}
 $
 
@@ -2486,7 +2486,7 @@ $
 \begin{aligned}
 17 \text{people} : 1 \text{minibus} \\\\
 17 \times 17 \text{people} : 1 \times 17 \text{minibuses} \\\\
-289 \text{people} : 17 \text{minibuses} \\\\
+289 \text{people} : 17 \text{minibuses}
 \end{aligned}
 $
 

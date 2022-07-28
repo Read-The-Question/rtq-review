@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "38"
 ---
 <div class='paper'>
@@ -2701,7 +2701,7 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac {400} {1000}, \quad \dfrac {467} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {500} {1000}, \quad \dfrac {550} {1000} \\\\
+&= \dfrac {400} {1000}, \quad \dfrac {467} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {500} {1000}, \quad \dfrac {550} {1000}
 \end{aligned}
 $
 
@@ -2745,7 +2745,7 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac {400} {1000}, \quad \dfrac {467} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {500} {1000}, \quad \dfrac {550} {1000} \\\\
+&= \dfrac {400} {1000}, \quad \dfrac {467} {1000}, \quad \dfrac {480} {1000}, \quad \dfrac {500} {1000}, \quad \dfrac {550} {1000}
 \end{aligned}
 $
 
@@ -5074,7 +5074,7 @@ $10$
 $
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7290 \\\\
+&\approx 7290
 \end {aligned}
 $
 
@@ -5093,7 +5093,7 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7290 \\\\
+&\approx 7290
 \end {aligned}
 $
 </code></pre>
@@ -5127,7 +5127,7 @@ $100$
 $
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7300 \\\\
+&\approx 7300
 \end {aligned}
 $
 
@@ -5146,7 +5146,7 @@ $7300$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7300 \\\\
+&\approx 7300
 \end {aligned}
 $
 </code></pre>
@@ -5180,7 +5180,7 @@ $1000$
 $
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7000 \\\\
+&\approx 7000
 \end {aligned}
 $
 
@@ -5199,7 +5199,7 @@ $7000$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7000 \\\\
+&\approx 7000
 \end {aligned}
 $
 </code></pre>

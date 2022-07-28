@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "33"
 ---
 <div class='paper'>
@@ -716,7 +716,7 @@ Use your answer to part (a) to write down the answer to
 $
 \begins{aligned}
 27 \times 36 &= 972 \\\\
-2.7 \times 3.6 &= 9.72 \\\\
+2.7 \times 3.6 &= 9.72
 \end{aligned}
 $
 
@@ -735,7 +735,7 @@ $9.72$
 <pre class='language-latex'><code class='language-latex'>$
 \begins{aligned}
 27 \times 36 &= 972 \\\\
-2.7 \times 3.6 &= 9.72 \\\\
+2.7 \times 3.6 &= 9.72
 \end{aligned}
 $
 </code></pre>
@@ -4095,7 +4095,7 @@ $
 &&&&& 420 &&& \\\\
 &= &&42 &&&&&& 10 \\\\
 &= 2 &&&&21 &&& 5 &&&& 2 \\\\
-&=2  &&&7 &&2 &&5 &&&&2 \\\\
+&=2  &&&7 &&2 &&5 &&&&2
 \end{aligned}
 $
 
@@ -4116,7 +4116,7 @@ $2 \times 7 \times 2 \times 5 \times 2$
 &&&&& 420 &&& \\\\
 &= &&42 &&&&&& 10 \\\\
 &= 2 &&&&21 &&& 5 &&&& 2 \\\\
-&=2  &&&7 &&2 &&5 &&&&2 \\\\
+&=2  &&&7 &&2 &&5 &&&&2
 \end{aligned}
 $
 </code></pre>
@@ -6501,7 +6501,7 @@ x + y = 30   &&&&&    x - y = 20 \\\\
 x = 30 - y   &&&&&    30 - y - y = 20 \\\\
 x = 30 - y   &&&&&    10 = 2y \\\\
 x = 30 - y   &&&&&    y = 5 \\\\
-x = 25       &&&&&    y = 5 \\\\
+x = 25       &&&&&    y = 5
 \end{aligned}
 $
 
@@ -6526,7 +6526,7 @@ x + y = 30   &&&&&    x - y = 20 \\\\
 x = 30 - y   &&&&&    30 - y - y = 20 \\\\
 x = 30 - y   &&&&&    10 = 2y \\\\
 x = 30 - y   &&&&&    y = 5 \\\\
-x = 25       &&&&&    y = 5 \\\\
+x = 25       &&&&&    y = 5
 \end{aligned}
 $
 </code></pre>

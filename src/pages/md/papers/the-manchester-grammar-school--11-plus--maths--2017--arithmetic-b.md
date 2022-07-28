@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "11"
 ---
 <div class='paper'>
@@ -1140,7 +1140,7 @@ T \times E          &= \dfrac{20} {2} \\\\
 T \times E          &= \dfrac{10 \times 2} {2} \\\\
 T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
 T \times E          &= 10 \\\\
-T \times E          &= 5 \times 2 \\\\
+T \times E          &= 5 \times 2
 \end{aligned}
 $
 
@@ -1181,7 +1181,7 @@ T \times E          &= \dfrac{20} {2} \\\\
 T \times E          &= \dfrac{10 \times 2} {2} \\\\
 T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
 T \times E          &= 10 \\\\
-T \times E          &= 5 \times 2 \\\\
+T \times E          &= 5 \times 2
 \end{aligned}
 $
 
@@ -2115,7 +2115,7 @@ $
 = \dfrac {\cancel{25}\raisebox{0.9em}{5}}{\cancel{10}\raisebox{-0.9em}{2}} \times 6 \\\\
 = \dfrac {5} {\cancel{2}\raisebox{0.9em}{1}} \times {\cancel{6}\raisebox{0.9em}{3}} \\\\
 = 5 \times 3 \\\\
-= 15 \ \text {cm} \\\\
+= 15 \ \text {cm}
 \end{aligned}
 $
 
@@ -2195,7 +2195,7 @@ $
 = \dfrac {\cancel{25}\raisebox{0.9em}{5}}{\cancel{10}\raisebox{-0.9em}{2}} \times 6 \\\\
 = \dfrac {5} {\cancel{2}\raisebox{0.9em}{1}} \times {\cancel{6}\raisebox{0.9em}{3}} \\\\
 = 5 \times 3 \\\\
-= 15 \ \text {cm} \\\\
+= 15 \ \text {cm}
 \end{aligned}
 $
 
@@ -4495,7 +4495,7 @@ $
 &= \dfrac {2}{30} + \dfrac {3}{30}\\\\
 &=\dfrac {5}{30}\\\\
 &=\dfrac {\cancel {5} \raisebox{0.9em}{1}}{\cancel {30} \raisebox{-0.9em}{6}}\\\\
-&= \dfrac {1}{6}\\\\
+&= \dfrac {1}{6}
 \end{aligned}
 $
 
@@ -4548,7 +4548,7 @@ $
 &= \dfrac {2}{30} + \dfrac {3}{30}\\\\
 &=\dfrac {5}{30}\\\\
 &=\dfrac {\cancel {5} \raisebox{0.9em}{1}}{\cancel {30} \raisebox{-0.9em}{6}}\\\\
-&= \dfrac {1}{6}\\\\
+&= \dfrac {1}{6}
 \end{aligned}
 $
 
@@ -4598,7 +4598,7 @@ $
 &= \dfrac {9}{36} + \dfrac {2}{36} + \dfrac {1}{36}\\\\
 &=\dfrac {12}{36}\\\\
 &=\dfrac {\cancel {12} \raisebox{0.9em}{1}}{\cancel {36} \raisebox{-0.9em}{3}}\\\\
-&= \dfrac {1}{3}\\\\
+&= \dfrac {1}{3}
 \end{aligned}
 $
 
@@ -4629,7 +4629,7 @@ $
 &= \dfrac {9}{36} + \dfrac {2}{36} + \dfrac {1}{36}\\\\
 &=\dfrac {12}{36}\\\\
 &=\dfrac {\cancel {12} \raisebox{0.9em}{1}}{\cancel {36} \raisebox{-0.9em}{3}}\\\\
-&= \dfrac {1}{3}\\\\
+&= \dfrac {1}{3}
 \end{aligned}
 $
 
@@ -4675,7 +4675,7 @@ Let's take the missing NEXTA value as \dfrac {1}{x}
 $
 \begin{aligned}
 \dfrac {1}{3} &= \dfrac {1}{18} + \dfrac {1}{6} + \dfrac {1}{x}\\\\
-\dfrac {1}{x} &= \dfrac {1}{3} - \dfrac {1}{18} - \dfrac {1}{6} \\\\
+\dfrac {1}{x} &= \dfrac {1}{3} - \dfrac {1}{18} - \dfrac {1}{6}
 \end{aligned}
 $
 
@@ -4715,7 +4715,7 @@ Let's take the missing NEXTA value as \dfrac {1}{x}
 $
 \begin{aligned}
 \dfrac {1}{3} &= \dfrac {1}{18} + \dfrac {1}{6} + \dfrac {1}{x}\\\\
-\dfrac {1}{x} &= \dfrac {1}{3} - \dfrac {1}{18} - \dfrac {1}{6} \\\\
+\dfrac {1}{x} &= \dfrac {1}{3} - \dfrac {1}{18} - \dfrac {1}{6}
 \end{aligned}
 $
 

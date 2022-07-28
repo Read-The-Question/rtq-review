@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-4"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 4"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "18"
 ---
 <div class='paper'>
@@ -263,7 +263,7 @@ Which number is double $176$?
 $
 \begin{aligned}
 &= 176 \times 2 \\\\
-&=352 \\\\
+&=352
 \end{aligend}
 $
 
@@ -292,7 +292,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 176 \times 2 \\\\
-&=352 \\\\
+&=352
 \end{aligend}
 $
 </code></pre>
@@ -344,7 +344,7 @@ $
 &= \dfrac{ 265}{ 7} \\\\
 &= \dfrac{\cancel 265}{\cancel 7} \\\\
 &= 37 \text{is the quotient} \\\\
-&= 6 \text{is the remainder} \\\\
+&= 6 \text{is the remainder}
 \end{aligned}
 $
 
@@ -376,7 +376,7 @@ TODOANSWER
 &= \dfrac{ 265}{ 7} \\\\
 &= \dfrac{\cancel 265}{\cancel 7} \\\\
 &= 37 \text{is the quotient} \\\\
-&= 6 \text{is the remainder} \\\\
+&= 6 \text{is the remainder}
 \end{aligned}
 $
 </code></pre>
@@ -5619,7 +5619,7 @@ $
 1 \times 24 \\\\
 2 \times 12 \\\\
 3 \times 8 \\\\
-4 \times 6 \\\\
+4 \times 6
 \end{aligned}
 $
 
@@ -5628,7 +5628,7 @@ $1 + 24$ has the maximum value.
 $
 \begin{aligned}
 h  &= 1 \ \text {m} \\\\
-w  &= 24 \ \text {m} \\\\
+w  &= 24 \ \text {m}
 \end{aligned}
 $
 
@@ -5673,7 +5673,7 @@ $
 1 \times 24 \\\\
 2 \times 12 \\\\
 3 \times 8 \\\\
-4 \times 6 \\\\
+4 \times 6
 \end{aligned}
 $
 
@@ -5682,7 +5682,7 @@ $1 + 24$ has the maximum value.
 $
 \begin{aligned}
 h  &= 1 \ \text {m} \\\\
-w  &= 24 \ \text {m} \\\\
+w  &= 24 \ \text {m}
 \end{aligned}
 $
 

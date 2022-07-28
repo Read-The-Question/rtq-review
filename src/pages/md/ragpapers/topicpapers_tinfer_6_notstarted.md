@@ -1,10 +1,365 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-6-notstarted"
 title: "TopicPaper - Infer - 6 - NOTSTARTED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "37"
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>980545D3-7AC4-4EE8-B71B-6456B3D1269C</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:33</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='980545D3-7AC4-4EE8-B71B-6456B3D1269C' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-980545D3-7AC4-4EE8-B71B-6456B3D1269C'>Initial</p>
+<div class='question question'>
+
+The diagram below shows a pattern of numbers.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down the sum of the numbers on the:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+grey squares
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+white squares
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the relationship between the numbers on a grey square and the numbers on the two white squares on either side?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In these patterns, the sum of the numbers on the opposite grey squares is known as the **hoop number**.
+
+In the example above, the hoop number is $87$.
+
+For the example below, the **hoop number** is $133$.
+
+Use this information to complete the diagram.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -7271,7 +7626,7 @@ $
 3 &= 1 + 4 + 0 + y \\\\
   &= 5 + y \\\\
 3 - 5 &= y \\\\
--2 &= y\\\\
+-2 &= y
 \end{aligned}
 $
 
@@ -7308,7 +7663,7 @@ $
 3 &= 1 + 4 + 0 + y \\\\
   &= 5 + y \\\\
 3 - 5 &= y \\\\
--2 &= y\\\\
+-2 &= y
 \end{aligned}
 $
 
@@ -7364,7 +7719,7 @@ $
       &= 6 - 4 + y\\\\
       &= 2 + y\\\\
 3 - 2 &= y\\\\
-    1 &= y\\\\
+    1 &= y
 \end{aligned}
 $
 
@@ -7407,7 +7762,7 @@ $
       &= 6 - 4 + y\\\\
       &= 2 + y\\\\
 3 - 2 &= y\\\\
-    1 &= y\\\\
+    1 &= y
 \end{aligned}
 $
 
@@ -10421,7 +10776,7 @@ $
 \begin{aligned}
 \text {Sum of Counts} & = 15  \\
 \text {Total throws}  &= 36  \\\\
-     \text {Fraction} &= \dfrac{15}{36}\\\\
+     \text {Fraction} &= \dfrac{15}{36}
 \end{aligned}
 $
 
@@ -10482,7 +10837,7 @@ $
 \begin{aligned}
 \text {Sum of Counts} & = 15  \\
 \text {Total throws}  &= 36  \\\\
-     \text {Fraction} &= \dfrac{15}{36}\\\\
+     \text {Fraction} &= \dfrac{15}{36}
 \end{aligned}
 $
 
@@ -12685,7 +13040,7 @@ $
 &= \dfrac {2}{30} + \dfrac {3}{30}\\\\
 &=\dfrac {5}{30}\\\\
 &=\dfrac {\cancel {5} \raisebox{0.9em}{1}}{\cancel {30} \raisebox{-0.9em}{6}}\\\\
-&= \dfrac {1}{6}\\\\
+&= \dfrac {1}{6}
 \end{aligned}
 $
 
@@ -12738,7 +13093,7 @@ $
 &= \dfrac {2}{30} + \dfrac {3}{30}\\\\
 &=\dfrac {5}{30}\\\\
 &=\dfrac {\cancel {5} \raisebox{0.9em}{1}}{\cancel {30} \raisebox{-0.9em}{6}}\\\\
-&= \dfrac {1}{6}\\\\
+&= \dfrac {1}{6}
 \end{aligned}
 $
 
@@ -12788,7 +13143,7 @@ $
 &= \dfrac {9}{36} + \dfrac {2}{36} + \dfrac {1}{36}\\\\
 &=\dfrac {12}{36}\\\\
 &=\dfrac {\cancel {12} \raisebox{0.9em}{1}}{\cancel {36} \raisebox{-0.9em}{3}}\\\\
-&= \dfrac {1}{3}\\\\
+&= \dfrac {1}{3}
 \end{aligned}
 $
 
@@ -12819,7 +13174,7 @@ $
 &= \dfrac {9}{36} + \dfrac {2}{36} + \dfrac {1}{36}\\\\
 &=\dfrac {12}{36}\\\\
 &=\dfrac {\cancel {12} \raisebox{0.9em}{1}}{\cancel {36} \raisebox{-0.9em}{3}}\\\\
-&= \dfrac {1}{3}\\\\
+&= \dfrac {1}{3}
 \end{aligned}
 $
 
@@ -12865,7 +13220,7 @@ Let's take the missing NEXTA value as \dfrac {1}{x}
 $
 \begin{aligned}
 \dfrac {1}{3} &= \dfrac {1}{18} + \dfrac {1}{6} + \dfrac {1}{x}\\\\
-\dfrac {1}{x} &= \dfrac {1}{3} - \dfrac {1}{18} - \dfrac {1}{6} \\\\
+\dfrac {1}{x} &= \dfrac {1}{3} - \dfrac {1}{18} - \dfrac {1}{6}
 \end{aligned}
 $
 
@@ -12905,7 +13260,7 @@ Let's take the missing NEXTA value as \dfrac {1}{x}
 $
 \begin{aligned}
 \dfrac {1}{3} &= \dfrac {1}{18} + \dfrac {1}{6} + \dfrac {1}{x}\\\\
-\dfrac {1}{x} &= \dfrac {1}{3} - \dfrac {1}{18} - \dfrac {1}{6} \\\\
+\dfrac {1}{x} &= \dfrac {1}{3} - \dfrac {1}{18} - \dfrac {1}{6}
 \end{aligned}
 $
 
@@ -14540,318 +14895,6 @@ TODOANSWER
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>D9AB702D-8938-485D-92AD-A2B07C1AFB23</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:21</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D9AB702D-8938-485D-92AD-A2B07C1AFB23' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-D9AB702D-8938-485D-92AD-A2B07C1AFB23'>Initial</p>
-<div class='question question'>
-
-On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg)
- 
-
-$3$ ![missing image](/papers/missing_image.svg)
- $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
-
-$3$ ![missing image](/papers/missing_image.svg)
-  $4$ = $3 + 4 + (3 \times 4) = 19$
-
-And similarly, $2$ ![missing image](/papers/missing_image.svg)
-  $6 = 2 + 6 + (2 \times 6) = 20$ 
-
-Find the values of
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$5$ ![missing image](/papers/missing_image.svg)
-  $7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$5$ ![missing image](/papers/missing_image.svg)
-  $7$ = $5 + 7 + (5 \times 7) = 47$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$47$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$5$ %image%  $7$ = $5 + 7 + (5 \times 7) = 47$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$47$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$0$ ![missing image](/papers/missing_image.svg)
-  $9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$0$ ![missing image](/papers/missing_image.svg)
-  $9$ = $0 + 9 + (0 \times 9) = 9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$0$ %image%  $9$ = $0 + 9 + (0 \times 9) = 9$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-If $χ$ ![missing image](/papers/missing_image.svg)
-  $2 + 23$ find the value of $χ$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-χ ![missing image](/papers/missing_image.svg)
-  2            &= 23 \\\\
-χ + 2 + (χ \times 2)    &= 23 \\\\
-χ + 2 + 2χ              &= 23 \\\\
-3χ + 2                  &= 23 \\\\
-3χ                      &= 23 - 2 \\\\
-3χ                      &= 21 \\\\
-χ                       &= \dfrac {21} {3} \\\\
-χ                       &= \dfrac {3 \times 7} {3} \\\\
-χ                       &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
-χ                       &= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$χ = 7$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
-\begin{aligned}
-χ %image%  2            &= 23 \\\\
-χ + 2 + (χ \times 2)    &= 23 \\\\
-χ + 2 + 2χ              &= 23 \\\\
-3χ + 2                  &= 23 \\\\
-3χ                      &= 23 - 2 \\\\
-3χ                      &= 21 \\\\
-χ                       &= \dfrac {21} {3} \\\\
-χ                       &= \dfrac {3 \times 7} {3} \\\\
-χ                       &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
-χ                       &= 7
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$χ = 7$
 </code></pre>
 </div>
 </div>

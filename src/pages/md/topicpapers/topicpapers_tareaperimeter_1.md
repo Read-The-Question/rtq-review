@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-1"
 title: "TopicPaper - Areaperimeter - 1"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2572,7 +2572,7 @@ $
 \begin{aligned}
  \text{1. } 8 \text{ cm} \times 3 \text{ cm} \\\\
  \text{2. } 4 \text{ cm} \times 6 \text{ cm} \\\\
- \text{3. } 12 \text{ cm} \times 2 \text{ cm} \\\\
+ \text{3. } 12 \text{ cm} \times 2 \text{ cm}
 \end{aligned}
 $
 
@@ -2592,7 +2592,7 @@ $\text{1. } 8 \text{ cm} \times 3 \text{ cm}, \text{2. } 4 \text{ cm} \times 6 \
 \begin{aligned}
  \text{1. } 8 \text{ cm} \times 3 \text{ cm} \\\\
  \text{2. } 4 \text{ cm} \times 6 \text{ cm} \\\\
- \text{3. } 12 \text{ cm} \times 2 \text{ cm} \\\\
+ \text{3. } 12 \text{ cm} \times 2 \text{ cm}
 \end{aligned}
 $
 </code></pre>
@@ -5207,7 +5207,7 @@ $
 \dfrac {1} {2} \times b \times h    &= 32 \\\\
 \dfrac {b \times h} {2}             &= 32 \\\\
 b \times h                          &= 32 \times 2 \\\\
-b \times h                          &= 64 \\\\
+b \times h                          &= 64
 \end{aligned}
 $
 
@@ -5242,7 +5242,7 @@ $
 \dfrac {1} {2} \times b \times h    &= 32 \\\\
 \dfrac {b \times h} {2}             &= 32 \\\\
 b \times h                          &= 32 \times 2 \\\\
-b \times h                          &= 64 \\\\
+b \times h                          &= 64
 \end{aligned}
 $
 
@@ -9039,7 +9039,7 @@ $
 a \times a          &= 81 \\\\
 a^2                 &= 81 \\\\
 a                   &= \sqrt {81} \\\\
-a                   &= 9 \ \text{cm} \\\\
+a                   &= 9 \ \text{cm}
 \end{aligned}
 $
 
@@ -9078,7 +9078,7 @@ $
 a \times a          &= 81 \\\\
 a^2                 &= 81 \\\\
 a                   &= \sqrt {81} \\\\
-a                   &= 9 \ \text{cm} \\\\
+a                   &= 9 \ \text{cm}
 \end{aligned}
 $
 

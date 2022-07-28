@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "37"
 ---
 <div class='paper'>
@@ -1839,7 +1839,7 @@ $
                                         &= \dfrac {15} {5} \\\\
                                         &= \dfrac {3 \times 5} {5} \\\\
                                         &= \dfrac {3 \times \cancel 5} {\cancel 5} \\\\
-                                        &= 3 \\\\
+                                        &= 3
 \end{aligned}
 $
 
@@ -1859,7 +1859,7 @@ $
                                         &= \dfrac {1 \times 3 \times 2 \times 1 \times 60} {5 \times 4 \times 3 \times 2} \\\\
                                         &= \dfrac {3 \times 2 \times 5 \times 4 \times 3} {5 \times 4 \times 3 \times 2} \\\\
                                         &= \dfrac {\cancel 3 \times \cancel 2 \times \cancel 5 \times \cancel 4 \times 3} {\cancel 5 \times \cancel 4 \times \cancel 3 \times \cancel 2} \\\\
-                                        &= 3 \\\\
+                                        &= 3
 \end{aligned}
 $
 
@@ -1900,7 +1900,7 @@ $
                                         &= \dfrac {15} {5} \\\\
                                         &= \dfrac {3 \times 5} {5} \\\\
                                         &= \dfrac {3 \times \cancel 5} {\cancel 5} \\\\
-                                        &= 3 \\\\
+                                        &= 3
 \end{aligned}
 $
 
@@ -1920,7 +1920,7 @@ $
                                         &= \dfrac {1 \times 3 \times 2 \times 1 \times 60} {5 \times 4 \times 3 \times 2} \\\\
                                         &= \dfrac {3 \times 2 \times 5 \times 4 \times 3} {5 \times 4 \times 3 \times 2} \\\\
                                         &= \dfrac {\cancel 3 \times \cancel 2 \times \cancel 5 \times \cancel 4 \times 3} {\cancel 5 \times \cancel 4 \times \cancel 3 \times \cancel 2} \\\\
-                                        &= 3 \\\\
+                                        &= 3
 \end{aligned}
 $
 
@@ -9124,7 +9124,7 @@ $
 2                           &= 8b - 19a \\\\
 8b - 19a                    &= 2 \\\\
 8b                          &= 19a + 2 \\\\
-b                           &= \dfrac {19a + 2} {8} \\\\
+b                           &= \dfrac {19a + 2} {8}
 \end{aligned}
 $
 
@@ -9180,7 +9180,7 @@ $
 2                           &= 8b - 19a \\\\
 8b - 19a                    &= 2 \\\\
 8b                          &= 19a + 2 \\\\
-b                           &= \dfrac {19a + 2} {8} \\\\
+b                           &= \dfrac {19a + 2} {8}
 \end{aligned}
 $
 
@@ -10077,7 +10077,7 @@ $
 $
 \begin{aligned}
 \text{Number of sweets Hareni has}       &= 24 \times 2 \\\\
-                                         &= 48 \\\\
+                                         &= 48
 \end{aligned}
 $
 
@@ -10116,7 +10116,7 @@ $
 $
 \begin{aligned}
 \text{Number of sweets Hareni has}       &= 24 \times 2 \\\\
-                                         &= 48 \\\\
+                                         &= 48
 \end{aligned}
 $
 </code></pre>

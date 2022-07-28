@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "45"
 ---
 <div class='paper'>
@@ -4057,7 +4057,7 @@ Let's first list down other percentages between $75\%$ and $80\%$ and then conve
 
 $
 \begin{aligned}
-&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\% \\\\
+&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\%
 \end{aligned}
 $
 
@@ -4091,7 +4091,7 @@ $
 
 $
 \begin{aligned}
-&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\% \\\\
+&= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\%
 \end{aligned}
 $
 

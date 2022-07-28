@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "31"
 ---
 <div class='paper'>
@@ -8413,7 +8413,7 @@ $
 \begin{aligned}
 b &= 36 \degree \\\\
 x &= 67.5 \degree \\\\
-y &= 33.5 \degree \\\\
+y &= 33.5 \degree
 \end{aligned}
 $
 
@@ -8501,7 +8501,7 @@ $
 \begin{aligned}
 b &= 36 \degree \\\\
 x &= 67.5 \degree \\\\
-y &= 33.5 \degree \\\\
+y &= 33.5 \degree
 \end{aligned}
 $
 </code></pre>

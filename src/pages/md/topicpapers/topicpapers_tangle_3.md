@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-3"
 title: "TopicPaper - Angle - 3"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "25"
 ---
 <div class='paper'>
@@ -4030,7 +4030,7 @@ $
 χ                   &= 180 - a - b \\\\
 χ                   &= 180 - 70 - 80 \\\\
 χ                   &= 180 - 150 \\\\
-χ                   &= 30 \degree \\\\
+χ                   &= 30 \degree
 \end{aligned}
 $
 
@@ -4076,7 +4076,7 @@ $
 χ                   &= 180 - a - b \\\\
 χ                   &= 180 - 70 - 80 \\\\
 χ                   &= 180 - 150 \\\\
-χ                   &= 30 \degree \\\\
+χ                   &= 30 \degree
 \end{aligned}
 $
 </code></pre>

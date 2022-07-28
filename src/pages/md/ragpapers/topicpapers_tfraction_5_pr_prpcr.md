@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-pr-prpcr"
 title: "TopicPaper - Fraction - 5 - PR - PRPCR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -297,7 +297,7 @@ $
 \begin{aligned}
 \text{Area of all faces} \ &= \text{Area of each face} \ \times 6 \\\\
 &= a^2 \ \times 6 \\\\
-&= 6a^2 \\\\
+&= 6a^2
 \end{aligned}
 $
 
@@ -314,7 +314,7 @@ $
 &= \dfrac{\dfrac{4a^2}{3}}{6a^2} \\\\
 &= \dfrac{4a^2}{3 \times 6a^2} \\\\
 &= \dfrac{4 \cancel{a^2}}{18 \cancel{a^2}} \\\\
-&= \dfrac{2}{9} \\\\
+&= \dfrac{2}{9}
 \end{aligned}
 $
 
@@ -348,7 +348,7 @@ $
 \begin{aligned}
 \text{Area of all faces} \ &= \text{Area of each face} \ \times 6 \\\\
 &= a^2 \ \times 6 \\\\
-&= 6a^2 \\\\
+&= 6a^2
 \end{aligned}
 $
 
@@ -365,7 +365,7 @@ $
 &= \dfrac{\dfrac{4a^2}{3}}{6a^2} \\\\
 &= \dfrac{4a^2}{3 \times 6a^2} \\\\
 &= \dfrac{4 \cancel{a^2}}{18 \cancel{a^2}} \\\\
-&= \dfrac{2}{9} \\\\
+&= \dfrac{2}{9}
 \end{aligned}
 $
 </code></pre>

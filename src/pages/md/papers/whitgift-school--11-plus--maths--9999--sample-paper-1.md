@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "33"
 ---
 <div class='paper'>
@@ -3833,7 +3833,7 @@ $
                                     &= a^2 - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4 \times a^2} {4} - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4a^2 - 2a^2 - a^2} {4} \\\\
-\text{Area of shaded region}        &= \dfrac{a^2} {4} \\\\
+\text{Area of shaded region}        &= \dfrac{a^2} {4}
 \end{aligned}
 $
 
@@ -3883,7 +3883,7 @@ $
                                     &= a^2 - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4 \times a^2} {4} - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4a^2 - 2a^2 - a^2} {4} \\\\
-\text{Area of shaded region}        &= \dfrac{a^2} {4} \\\\
+\text{Area of shaded region}        &= \dfrac{a^2} {4}
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "33"
 ---
 <div class='paper'>
@@ -1018,7 +1018,7 @@ $
 &= 8 \times 3 - 10 + 6 \\\\
 &=  24 - 10 + 6 \\\\
 &= 14 + 6 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 
@@ -1041,7 +1041,7 @@ $
 &= 8 \times 3 - 10 + 6 \\\\
 &=  24 - 10 + 6 \\\\
 &= 14 + 6 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 </code></pre>
@@ -1311,7 +1311,7 @@ $
 &= \dfrac {5600} {100} \\\\
 &= \dfrac {56 \times 100} {100} \\\\
 &= \dfrac {56 \times \cancel{100}} {\cancel{100}} \\\\
-&= {56} \\\\
+&= {56}
 \end{aligned}
 $
 
@@ -1335,7 +1335,7 @@ $56$
 &= \dfrac {5600} {100} \\\\
 &= \dfrac {56 \times 100} {100} \\\\
 &= \dfrac {56 \times \cancel{100}} {\cancel{100}} \\\\
-&= {56} \\\\
+&= {56}
 \end{aligned}
 $
 </code></pre>
@@ -3117,7 +3117,7 @@ For how long does she walk altogether?
 $
 \begin{aligned}
 \text{ Total time taken} &=  2 \ \text{hrs} \ \  25 \ \text{mins} +  1 \ \text{hrs} \ \  45 \ \text{mins}  \\\\
-&=  4 \ \text{hrs} \ \ 10 \ \text{mins} \\\\
+&=  4 \ \text{hrs} \ \ 10 \ \text{mins}
 \end{aligned}
 $
 
@@ -3137,7 +3137,7 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 $
 \begin{aligned}
 \text{ Total time taken} &=  2 \ \text{hrs} \ \  25 \ \text{mins} +  1 \ \text{hrs} \ \  45 \ \text{mins}  \\\\
-&=  4 \ \text{hrs} \ \ 10 \ \text{mins} \\\\
+&=  4 \ \text{hrs} \ \ 10 \ \text{mins}
 \end{aligned}
 $
 </code></pre>
@@ -3873,7 +3873,7 @@ $
 \begin{aligned}
 &=  \dfrac{235 \ \text{m}}{7} \\\\
 &=  33.57 \\\\
-&\approx 33.6 \ \text{m}\\\\
+&\approx 33.6 \ \text{m}
 \end{aligned}
 $
 
@@ -3895,7 +3895,7 @@ $
 \begin{aligned}
 &=  \dfrac{235 \ \text{m}}{7} \\\\
 &=  33.57 \\\\
-&\approx 33.6 \ \text{m}\\\\
+&\approx 33.6 \ \text{m}
 \end{aligned}
 $
 </code></pre>
@@ -4065,7 +4065,7 @@ $
 \text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
 &= \dfrac{30 \times 6}{6} \\\\
 &=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree \\\\
+&= 30 \degree
 \end{aligned}
 $
 
@@ -4100,7 +4100,7 @@ $
 \text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
 &= \dfrac{30 \times 6}{6} \\\\
 &=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree \\\\
+&= 30 \degree
 \end{aligned}
 $
 
@@ -7016,7 +7016,7 @@ As per the question,
 $
 \begin{aligned}
 s + b + 2t  &= \pounds 5.80 \\\\
-2s + 2b + t &= \pounds 6.50 \\\\
+2s + 2b + t &= \pounds 6.50
 \end{aligned}
 $
 
@@ -7057,7 +7057,7 @@ As per the question,
 $
 \begin{aligned}
 s + b + 2t  &= \pounds 5.80 \\\\
-2s + 2b + t &= \pounds 6.50 \\\\
+2s + 2b + t &= \pounds 6.50
 \end{aligned}
 $
 

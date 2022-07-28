@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-oldpr"
 title: "TopicPaper - Simpleword - 6 - OLDPR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -300,7 +300,7 @@ $
 \begin{aligned}
 &=  \dfrac{235 \ \text{m}}{7} \\\\
 &=  33.57 \\\\
-&\approx 33.6 \ \text{m}\\\\
+&\approx 33.6 \ \text{m}
 \end{aligned}
 $
 
@@ -322,7 +322,7 @@ $
 \begin{aligned}
 &=  \dfrac{235 \ \text{m}}{7} \\\\
 &=  33.57 \\\\
-&\approx 33.6 \ \text{m}\\\\
+&\approx 33.6 \ \text{m}
 \end{aligned}
 $
 </code></pre>

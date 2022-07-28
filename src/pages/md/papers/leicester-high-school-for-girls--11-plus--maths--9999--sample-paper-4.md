@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "23"
 ---
 <div class='paper'>
@@ -2351,7 +2351,7 @@ $
 \begin{aligned}
 &= \dfrac{1}{9} , \quad \dfrac{1}{10} , \quad \dfrac{4}{9}, \quad \dfrac{1}{2}, \quad \dfrac{1}{100}, \quad \dfrac{1}{8} \\\\
 &= \dfrac{1 \times 200}{9 \times 200} , \quad \dfrac{1 \times 180}{10 \times 180} , \quad \dfrac{4 \times 200}{9 \times 200}, \quad \dfrac{1 \times 900}{2 \times 900}, \quad \dfrac{1 \times 18}{100 \times 18}, \quad \dfrac{1 \times 225}{8 \times 225} \\\\
-&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800} \\\\
+&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800}
 \end{aligned}
 $
 
@@ -2387,7 +2387,7 @@ $
 \begin{aligned}
 &= \dfrac{1}{9} , \quad \dfrac{1}{10} , \quad \dfrac{4}{9}, \quad \dfrac{1}{2}, \quad \dfrac{1}{100}, \quad \dfrac{1}{8} \\\\
 &= \dfrac{1 \times 200}{9 \times 200} , \quad \dfrac{1 \times 180}{10 \times 180} , \quad \dfrac{4 \times 200}{9 \times 200}, \quad \dfrac{1 \times 900}{2 \times 900}, \quad \dfrac{1 \times 18}{100 \times 18}, \quad \dfrac{1 \times 225}{8 \times 225} \\\\
-&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800} \\\\
+&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800}
 \end{aligned}
 $
 
@@ -3155,7 +3155,7 @@ $
 3p - 5p           &= 1 - 14 \\\\
 -2p               &= -13 \\\\
 p                 &= \dfrac {-13} {-2} \\\\
-p                 &= \dfrac {13} {2} \\\\
+p                 &= \dfrac {13} {2}
 \end{aligned}
 $
 
@@ -3177,7 +3177,7 @@ $\dfrac {13} {2}$
 3p - 5p           &= 1 - 14 \\\\
 -2p               &= -13 \\\\
 p                 &= \dfrac {-13} {-2} \\\\
-p                 &= \dfrac {13} {2} \\\\
+p                 &= \dfrac {13} {2}
 \end{aligned}
 $
 </code></pre>

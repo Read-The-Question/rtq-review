@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "36"
 ---
 <div class='paper'>
@@ -413,7 +413,7 @@ In this case, there are more fractions than percentages, so let's convert all th
 $
 \begin{aligned}
 &= 0.43,  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad 44 \% \\\\
-&= \dfrac {43} {100},  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad \dfrac {44} {100} \\\\
+&= \dfrac {43} {100},  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad \dfrac {44} {100}
 \end{aligned}
 $
 
@@ -454,7 +454,7 @@ In this case, there are more fractions than percentages, so let's convert all th
 $
 \begin{aligned}
 &= 0.43,  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad 44 \% \\\\
-&= \dfrac {43} {100},  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad \dfrac {44} {100} \\\\
+&= \dfrac {43} {100},  \quad \dfrac {3} {7}, \quad \dfrac {2} {5}, \quad \dfrac {44} {100}
 \end{aligned}
 $
 
@@ -8843,7 +8843,7 @@ $
 \begin{aligned}
 \text{Red balls}           &= \text{Total balls} - \text {Blue balls} \\\\
                            &= 10 - 1 \\\\
-                           &= 9 \\\\
+                           &= 9
 \end{aligned}
 $
 
@@ -8912,7 +8912,7 @@ $
 \begin{aligned}
 \text{Red balls}           &= \text{Total balls} - \text {Blue balls} \\\\
                            &= 10 - 1 \\\\
-                           &= 9 \\\\
+                           &= 9
 \end{aligned}
 $
 
@@ -9082,7 +9082,7 @@ $
 \text{let height} &= h \\\\
 \text{new height} &= 0.75 \times h \\\\
 0.25 \times h &= (0.75)^x \times h \\\\
-x &= 4 \\\\
+x &= 4
 \end{aligned}
 $
 
@@ -9115,7 +9115,7 @@ $
 \text{let height} &= h \\\\
 \text{new height} &= 0.75 \times h \\\\
 0.25 \times h &= (0.75)^x \times h \\\\
-x &= 4 \\\\
+x &= 4
 \end{aligned}
 $
 </code></pre>

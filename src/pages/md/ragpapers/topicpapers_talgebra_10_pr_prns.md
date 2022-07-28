@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-pr-prns"
 title: "TopicPaper - Algebra - 10 - PR - PRNS"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -2054,7 +2054,7 @@ As per the question,
 $
 \begin {aligned}
 B     &= \dfrac {A} {7} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 
@@ -2087,7 +2087,7 @@ $21$
 $
 \begin {aligned}
 B     &= \dfrac {A} {7} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 
@@ -2462,7 +2462,7 @@ As per the question,
 $
 \begin {aligned}
 B     &= \dfrac {A} {5} \\\\
-B     &= 2 \times C \\\\
+B     &= 2 \times C
 \end {aligned}
 $
 
@@ -2495,7 +2495,7 @@ $10$
 $
 \begin {aligned}
 B     &= \dfrac {A} {5} \\\\
-B     &= 2 \times C \\\\
+B     &= 2 \times C
 \end {aligned}
 $
 
@@ -2868,7 +2868,7 @@ As per the question,
 $
 \begin {aligned}
 B     &= \dfrac {A} {12} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 
@@ -2901,7 +2901,7 @@ $36$
 $
 \begin {aligned}
 B     &= \dfrac {A} {12} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 

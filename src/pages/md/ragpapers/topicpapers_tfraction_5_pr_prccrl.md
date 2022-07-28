@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-pr-prccrl"
 title: "TopicPaper - Fraction - 5 - PR - PRCCRL"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -178,13 +178,13 @@ Given that,
 
 $
 \begin{aligned}
-\text{Right-handed players in Team Alpha} \ &= 7 \\\\
+\text{Right-handed players in Team Alpha} \ &= 7
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Left-handed players in Team Beta} \ &= 2 \\\\
+\text{Left-handed players in Team Beta} \ &= 2
 \end{aligned}
 $
 
@@ -193,7 +193,7 @@ $
 \text{Total left-handed players} \ &= 6 \\\\
 \text{Total left-handed players} &= \text{Left-handed players in Team Beta} + \text{Left-handed players in Team Alpha} \\\\
 2 + \text{Left-handed players in Team Alpha} &= 6 \\\\
-\text{Left-handed players in Team Alpha} &= 4 \\\\
+\text{Left-handed players in Team Alpha} &= 4
 \end{aligned}
 $
 
@@ -201,7 +201,7 @@ $
 \begin{aligned}
 \text{Total players in Team Alpha} \ &= \text{Left-handed players in Team Alpha} + \text{Right-handed players in Team Alpha} \\\\
 \text{Total players in Team Alpha} \ &= 4 + 7 \\\\
-\text{Total players in Team Alpha} \ &= 11 \\\\
+\text{Total players in Team Alpha} \ &= 11
 \end{aligned}
 $
 
@@ -210,7 +210,7 @@ $
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= \text{Total players in Team Beta} \ \\\\
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= 11 \\\\
 2 + \text{Right-handed players in Team Beta} &= 11 \\\\
-\text{Right-handed players in Team Beta} &= 9 \\\\
+\text{Right-handed players in Team Beta} &= 9
 \end{aligned}
 $
 
@@ -218,7 +218,7 @@ $
 \begin{aligned}
 \text{Total players playing} &= \text{Total players in Team Alpha} + \text{Total players in Team Beta} \\\\
 \text{Total players playing} &= 11 + 11 \\\\
-\text{Total players playing} &= 22 \\\\
+\text{Total players playing} &= 22
 \end{aligned}
 $
 
@@ -255,13 +255,13 @@ TODOANSWER
 
 $
 \begin{aligned}
-\text{Right-handed players in Team Alpha} \ &= 7 \\\\
+\text{Right-handed players in Team Alpha} \ &= 7
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Left-handed players in Team Beta} \ &= 2 \\\\
+\text{Left-handed players in Team Beta} \ &= 2
 \end{aligned}
 $
 
@@ -270,7 +270,7 @@ $
 \text{Total left-handed players} \ &= 6 \\\\
 \text{Total left-handed players} &= \text{Left-handed players in Team Beta} + \text{Left-handed players in Team Alpha} \\\\
 2 + \text{Left-handed players in Team Alpha} &= 6 \\\\
-\text{Left-handed players in Team Alpha} &= 4 \\\\
+\text{Left-handed players in Team Alpha} &= 4
 \end{aligned}
 $
 
@@ -278,7 +278,7 @@ $
 \begin{aligned}
 \text{Total players in Team Alpha} \ &= \text{Left-handed players in Team Alpha} + \text{Right-handed players in Team Alpha} \\\\
 \text{Total players in Team Alpha} \ &= 4 + 7 \\\\
-\text{Total players in Team Alpha} \ &= 11 \\\\
+\text{Total players in Team Alpha} \ &= 11
 \end{aligned}
 $
 
@@ -287,7 +287,7 @@ $
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= \text{Total players in Team Beta} \ \\\\
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= 11 \\\\
 2 + \text{Right-handed players in Team Beta} &= 11 \\\\
-\text{Right-handed players in Team Beta} &= 9 \\\\
+\text{Right-handed players in Team Beta} &= 9
 \end{aligned}
 $
 
@@ -295,7 +295,7 @@ $
 \begin{aligned}
 \text{Total players playing} &= \text{Total players in Team Alpha} + \text{Total players in Team Beta} \\\\
 \text{Total players playing} &= 11 + 11 \\\\
-\text{Total players playing} &= 22 \\\\
+\text{Total players playing} &= 22
 \end{aligned}
 $
 </code></pre>
@@ -352,7 +352,7 @@ $
 \begin{aligned}
 &= \dfrac {\text {Left-handed players in Team Alpha} \ } {\text {Total left-handed players} \ } \\\\
 &= \dfrac {4} {6} \\\\
-&= \dfrac {2} {3} \\\\
+&= \dfrac {2} {3}
 \end{aligned}
 $
 
@@ -382,7 +382,7 @@ TODOANSWER
 \begin{aligned}
 &= \dfrac {\text {Left-handed players in Team Alpha} \ } {\text {Total left-handed players} \ } \\\\
 &= \dfrac {4} {6} \\\\
-&= \dfrac {2} {3} \\\\
+&= \dfrac {2} {3}
 \end{aligned}
 $
 </code></pre>
@@ -541,7 +541,7 @@ Calculate this distance.
 $
 \begin{aligned}
 &= 55\text{m}\ \times 18 \\\\
-&= 990\text{m}\ \\\\
+&= 990\text{m}\
 \end{aligned}
 $
 
@@ -570,7 +570,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 55\text{m}\ \times 18 \\\\
-&= 990\text{m}\ \\\\
+&= 990\text{m}\
 \end{aligned}
 $
 </code></pre>
@@ -747,27 +747,27 @@ These are called nested squares. What fraction of this shape is shaded in?
 
 $
 \begin{aligned}
-\text {Let the side of the square} \ &= s \\\\
+\text {Let the side of the square} \ &= s
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Let the area of the square} \ &= a \\\\
-                                     &= s^2 \\\\
+                                     &= s^2
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {Let the side of inner square} \ &= x \\\\
+\text {Let the side of inner square} \ &= x
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Let the area of inner square} \ &= b \\\\
-                                       &= x^2 \\\\
+                                       &= x^2
 \end{aligned}
 $
 
@@ -778,7 +778,7 @@ $
 (\dfrac{s}{2})^2 + (\dfrac{s}{2})^2 &= x^2 \\\\
 \dfrac{s^2}{4} + \dfrac{s^2}{4} &= x^2 \\\\
 \dfrac{s^2}{2} &= x^2 \\\\
-b &= \dfrac{a}{2} \\\\
+b &= \dfrac{a}{2}
 \end{aligned}
 $
 
@@ -789,14 +789,14 @@ Following the similiar pattern,
 $
 \begin{aligned}
 \text {Area of shaded region} \ &= \dfrac{a}{2} - \dfrac{a}{4} + \dfrac{a}{8} - \dfrac{a}{16} + \dfrac{a}{32} \\\\
-&= \dfrac{11a}{32} \\\\
+&= \dfrac{11a}{32}
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Fraction of shaded region over total area} \ &= \dfrac{ \dfrac{11a}{32} }{a} \\\\
-&= \dfrac{11}{32} \\\\
+&= \dfrac{11}{32}
 \end{aligned}
 $
 
@@ -824,27 +824,27 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Let the side of the square} \ &= s \\\\
+\text {Let the side of the square} \ &= s
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Let the area of the square} \ &= a \\\\
-                                     &= s^2 \\\\
+                                     &= s^2
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {Let the side of inner square} \ &= x \\\\
+\text {Let the side of inner square} \ &= x
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Let the area of inner square} \ &= b \\\\
-                                       &= x^2 \\\\
+                                       &= x^2
 \end{aligned}
 $
 
@@ -855,7 +855,7 @@ $
 (\dfrac{s}{2})^2 + (\dfrac{s}{2})^2 &= x^2 \\\\
 \dfrac{s^2}{4} + \dfrac{s^2}{4} &= x^2 \\\\
 \dfrac{s^2}{2} &= x^2 \\\\
-b &= \dfrac{a}{2} \\\\
+b &= \dfrac{a}{2}
 \end{aligned}
 $
 
@@ -866,14 +866,14 @@ Following the similiar pattern,
 $
 \begin{aligned}
 \text {Area of shaded region} \ &= \dfrac{a}{2} - \dfrac{a}{4} + \dfrac{a}{8} - \dfrac{a}{16} + \dfrac{a}{32} \\\\
-&= \dfrac{11a}{32} \\\\
+&= \dfrac{11a}{32}
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Fraction of shaded region over total area} \ &= \dfrac{ \dfrac{11a}{32} }{a} \\\\
-&= \dfrac{11}{32} \\\\
+&= \dfrac{11}{32}
 \end{aligned}
 $
 </code></pre>
@@ -1094,7 +1094,7 @@ $
 \text{Shaded Area} &= 15 \ \text{unit}^2 \\\\
 \text{Fraction Shaded} &= \dfrac{15}{25} \\\\
 &= \dfrac{3 \times \cancel 5}{5 \times \cancel 5} \\\\
-&= \dfrac{3}{5} \\\\
+&= \dfrac{3}{5}
 \end{aligned}
 $
 
@@ -1118,7 +1118,7 @@ $
 \text{Shaded Area} &= 15 \ \text{unit}^2 \\\\
 \text{Fraction Shaded} &= \dfrac{15}{25} \\\\
 &= \dfrac{3 \times \cancel 5}{5 \times \cancel 5} \\\\
-&= \dfrac{3}{5} \\\\
+&= \dfrac{3}{5}
 \end{aligned}
 $
 </code></pre>
@@ -1236,7 +1236,7 @@ $
 \text{Shaded Area} &= 4 \ \text{unit}^2 \\\\
 \text{Fraction Shaded} &= \dfrac{4}{16} \\\\
 &= \dfrac{1 \times \cancel 4}{4 \times \cancel 4} \\\\
-&= \dfrac{1}{4} \\\\
+&= \dfrac{1}{4}
 \end{aligned}
 $
 
@@ -1268,7 +1268,7 @@ $
 \text{Shaded Area} &= 4 \ \text{unit}^2 \\\\
 \text{Fraction Shaded} &= \dfrac{4}{16} \\\\
 &= \dfrac{1 \times \cancel 4}{4 \times \cancel 4} \\\\
-&= \dfrac{1}{4} \\\\
+&= \dfrac{1}{4}
 \end{aligned}
 $
 

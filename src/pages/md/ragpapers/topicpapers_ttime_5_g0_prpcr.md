@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g0-prpcr"
 title: "TopicPaper - Time - 5 - G0 - PRPCR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -1898,7 +1898,7 @@ Let's calculate the total time spent watching TV.
 $
 \begin{aligned}
 \text{Total time}   &= 40 \ \text{min} + 30 \ \text{min} + 1 \ \text{hour} \ 55 \ \text{min} \\\\
-                    &= 3 \ \text{hour} \ 5 \ \text{minutes} \\\\
+                    &= 3 \ \text{hour} \ 5 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1929,7 +1929,7 @@ Let's calculate the total time spent watching TV.
 $
 \begin{aligned}
 \text{Total time}   &= 40 \ \text{min} + 30 \ \text{min} + 1 \ \text{hour} \ 55 \ \text{min} \\\\
-                    &= 3 \ \text{hour} \ 5 \ \text{minutes} \\\\
+                    &= 3 \ \text{hour} \ 5 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>

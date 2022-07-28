@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "22"
 ---
 <div class='paper'>
@@ -4513,7 +4513,7 @@ $
 \begin{aligned}
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad \dfrac {2778} {1000} \ \text {km}, \quad 2.708 \ \text {km} \\\\
-&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km}
 \end{aligned}
 $
 
@@ -4546,7 +4546,7 @@ $
 \begin{aligned}
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad \dfrac {2778} {1000} \ \text {km}, \quad 2.708 \ \text {km} \\\\
-&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km} \\\\
+&= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km}
 \end{aligned}
 $
 
@@ -5260,7 +5260,7 @@ $
 \begin{aligned}
 &=\dfrac{3}{5}     &&&&&&&   &=\dfrac{2}{3} \\\\
 &=\dfrac{3\times 3}{5\times3}    &&&&&&&  &=\dfrac{2\times 5}{3 \times 5} \\\\\
-&=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \\\\\
+&=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \
 \end{aligned}
 $
 
@@ -5293,7 +5293,7 @@ $
 \begin{aligned}
 &=\dfrac{3}{5}     &&&&&&&   &=\dfrac{2}{3} \\\\
 &=\dfrac{3\times 3}{5\times3}    &&&&&&&  &=\dfrac{2\times 5}{3 \times 5} \\\\\
-&=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \\\\\
+&=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \
 \end{aligned}
 $
 

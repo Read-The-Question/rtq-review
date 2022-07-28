@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-10"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 10"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "10"
 ---
 <div class='paper'>
@@ -3757,7 +3757,7 @@ x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
 x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2 \\\\
+x                                                              &= -2
 \end{aligned}
 $
 
@@ -3784,7 +3784,7 @@ x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
 x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2 \\\\
+x                                                              &= -2
 \end{aligned}
 $
 </code></pre>

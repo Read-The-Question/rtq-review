@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "24"
 ---
 <div class='paper'>
@@ -2379,7 +2379,7 @@ b           &=  63 - 19  \\\\
 b           &=  44 \\\\
 a-28        &=  44   \\\\
 a           &=  44 + 28 \\\\
-a           &=  72 \\\\
+a           &=  72
 \end{aligned}
 $
 
@@ -2409,7 +2409,7 @@ b           &=  63 - 19  \\\\
 b           &=  44 \\\\
 a-28        &=  44   \\\\
 a           &=  44 + 28 \\\\
-a           &=  72 \\\\
+a           &=  72
 \end{aligned}
 $
 
@@ -5995,7 +5995,7 @@ As per the question,
 $
 \begin {aligned}
 B     &= \dfrac {A} {7} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 
@@ -6028,7 +6028,7 @@ $21$
 $
 \begin {aligned}
 B     &= \dfrac {A} {7} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 

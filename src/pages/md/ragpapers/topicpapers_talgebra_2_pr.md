@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-pr"
 title: "TopicPaper - Algebra - 2 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -790,7 +790,7 @@ $
                                         &= \dfrac {15} {5} \\\\
                                         &= \dfrac {3 \times 5} {5} \\\\
                                         &= \dfrac {3 \times \cancel 5} {\cancel 5} \\\\
-                                        &= 3 \\\\
+                                        &= 3
 \end{aligned}
 $
 
@@ -810,7 +810,7 @@ $
                                         &= \dfrac {1 \times 3 \times 2 \times 1 \times 60} {5 \times 4 \times 3 \times 2} \\\\
                                         &= \dfrac {3 \times 2 \times 5 \times 4 \times 3} {5 \times 4 \times 3 \times 2} \\\\
                                         &= \dfrac {\cancel 3 \times \cancel 2 \times \cancel 5 \times \cancel 4 \times 3} {\cancel 5 \times \cancel 4 \times \cancel 3 \times \cancel 2} \\\\
-                                        &= 3 \\\\
+                                        &= 3
 \end{aligned}
 $
 
@@ -851,7 +851,7 @@ $
                                         &= \dfrac {15} {5} \\\\
                                         &= \dfrac {3 \times 5} {5} \\\\
                                         &= \dfrac {3 \times \cancel 5} {\cancel 5} \\\\
-                                        &= 3 \\\\
+                                        &= 3
 \end{aligned}
 $
 
@@ -871,7 +871,7 @@ $
                                         &= \dfrac {1 \times 3 \times 2 \times 1 \times 60} {5 \times 4 \times 3 \times 2} \\\\
                                         &= \dfrac {3 \times 2 \times 5 \times 4 \times 3} {5 \times 4 \times 3 \times 2} \\\\
                                         &= \dfrac {\cancel 3 \times \cancel 2 \times \cancel 5 \times \cancel 4 \times 3} {\cancel 5 \times \cancel 4 \times \cancel 3 \times \cancel 2} \\\\
-                                        &= 3 \\\\
+                                        &= 3
 \end{aligned}
 $
 
@@ -2187,7 +2187,7 @@ $
 2                           &= 8b - 19a \\\\
 8b - 19a                    &= 2 \\\\
 8b                          &= 19a + 2 \\\\
-b                           &= \dfrac {19a + 2} {8} \\\\
+b                           &= \dfrac {19a + 2} {8}
 \end{aligned}
 $
 
@@ -2243,7 +2243,7 @@ $
 2                           &= 8b - 19a \\\\
 8b - 19a                    &= 2 \\\\
 8b                          &= 19a + 2 \\\\
-b                           &= \dfrac {19a + 2} {8} \\\\
+b                           &= \dfrac {19a + 2} {8}
 \end{aligned}
 $
 
@@ -2639,7 +2639,7 @@ $
 $
 \begin{aligned}
 \text{Number of sweets Hareni has}       &= 24 \times 2 \\\\
-                                         &= 48 \\\\
+                                         &= 48
 \end{aligned}
 $
 
@@ -2678,7 +2678,7 @@ $
 $
 \begin{aligned}
 \text{Number of sweets Hareni has}       &= 24 \times 2 \\\\
-                                         &= 48 \\\\
+                                         &= 48
 \end{aligned}
 $
 </code></pre>
@@ -3361,7 +3361,7 @@ a + a + a + a + a - 2 + 2 - 1 + 1   &= 100 \\\\
 a                                   &= \dfrac {100} {5} \\\\
 a                                   &= \dfrac {20 \times 5} {5} \\\\
 a                                   &= \dfrac {20 \times \cancel 5} {\cancel 5} \\\\
-a                                   &= 20 \\\\
+a                                   &= 20
 \end{aligned}
 $
 
@@ -3397,7 +3397,7 @@ a + a + a + a + a - 2 + 2 - 1 + 1   &= 100 \\\\
 a                                   &= \dfrac {100} {5} \\\\
 a                                   &= \dfrac {20 \times 5} {5} \\\\
 a                                   &= \dfrac {20 \times \cancel 5} {\cancel 5} \\\\
-a                                   &= 20 \\\\
+a                                   &= 20
 \end{aligned}
 $
 
@@ -4607,7 +4607,7 @@ a + a + a - 1 + 1                   &= 60 \\\\
 a                                   &= \dfrac {60} {3} \\\\
 a                                   &= \dfrac {20 \times 3} {3} \\\\
 a                                   &= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\
-a                                   &= 20 \\\\
+a                                   &= 20
 \end{aligned}
 $
 
@@ -4642,7 +4642,7 @@ a + a + a - 1 + 1                   &= 60 \\\\
 a                                   &= \dfrac {60} {3} \\\\
 a                                   &= \dfrac {20 \times 3} {3} \\\\
 a                                   &= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\
-a                                   &= 20 \\\\
+a                                   &= 20
 \end{aligned}
 $
 
@@ -6008,7 +6008,7 @@ a + a + a - 1 + 1                   &= 60 \\\\
 a                                   &= \dfrac {60} {3} \\\\
 a                                   &= \dfrac {20 \times 3} {3} \\\\
 a                                   &= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\
-a                                   &= 20 \\\\
+a                                   &= 20
 \end{aligned}
 $
 
@@ -6043,7 +6043,7 @@ a + a + a - 1 + 1                   &= 60 \\\\
 a                                   &= \dfrac {60} {3} \\\\
 a                                   &= \dfrac {20 \times 3} {3} \\\\
 a                                   &= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\
-a                                   &= 20 \\\\
+a                                   &= 20
 \end{aligned}
 $
 
@@ -6786,7 +6786,7 @@ $
 \text{Number of pineapple jellies}      &= 30 \times 1 \\\\
                                         &= 30 \\\\
 \text{Number of lemon sours}            &= 30 \times 2 \\\\
-                                        &= 60 \\\\
+                                        &= 60
 \end{aligned}
 $
 
@@ -6804,7 +6804,7 @@ $
 \text{Number of lemon sours packets}            &= \dfrac {60} {20} \\\\
                                                 &= \dfrac {20 \times 3} {20} \\\\
                                                 &= \dfrac {\cancel {20} \times 3} {\cancel {20}} \\\\
-                                                &= 3 \\\\
+                                                &= 3
 \end{aligned}
 $
 
@@ -6831,7 +6831,7 @@ Number of lemon sours packets $= 3$
 \text{Number of pineapple jellies}      &= 30 \times 1 \\\\
                                         &= 30 \\\\
 \text{Number of lemon sours}            &= 30 \times 2 \\\\
-                                        &= 60 \\\\
+                                        &= 60
 \end{aligned}
 $
 
@@ -6849,7 +6849,7 @@ $
 \text{Number of lemon sours packets}            &= \dfrac {60} {20} \\\\
                                                 &= \dfrac {20 \times 3} {20} \\\\
                                                 &= \dfrac {\cancel {20} \times 3} {\cancel {20}} \\\\
-                                                &= 3 \\\\
+                                                &= 3
 \end{aligned}
 $
 </code></pre>
@@ -6893,7 +6893,7 @@ $
 \text{Cost of pineapple jellies}        &= \pounds 1.5 \times 3 \\\\
                                         &= \pounds 4.5 \\\\
 \text{Cost of lemon sours}              &= \pounds 1.6 \times 3 \\\\
-                                        &= \pounds 4.8 \\\\
+                                        &= \pounds 4.8
 \end{aligned}
 $
 
@@ -6925,7 +6925,7 @@ $
 \text{Cost of pineapple jellies}        &= \pounds 1.5 \times 3 \\\\
                                         &= \pounds 4.5 \\\\
 \text{Cost of lemon sours}              &= \pounds 1.6 \times 3 \\\\
-                                        &= \pounds 4.8 \\\\
+                                        &= \pounds 4.8
 \end{aligned}
 $
 

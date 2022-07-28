@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-pr-prns"
 title: "TopicPaper - Areaperimeter - 4 - PR - PRNS"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -1022,7 +1022,7 @@ w                                                               &= \dfrac {48} {
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {32} {2} \\\\
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {2 \times 16} {2} \\\\
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {\cancel {2} \times 16} {\cancel {2}} \\\\
-\dfrac {l^2 + 48} {l}                                           &= 16 \\\\
+\dfrac {l^2 + 48} {l}                                           &= 16
 \end{aligned}
 $
 
@@ -1059,7 +1059,7 @@ w                                                               &= \dfrac {48} {
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {32} {2} \\\\
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {2 \times 16} {2} \\\\
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {\cancel {2} \times 16} {\cancel {2}} \\\\
-\dfrac {l^2 + 48} {l}                                           &= 16 \\\\
+\dfrac {l^2 + 48} {l}                                           &= 16
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "43"
 ---
 <div class='paper'>
@@ -4824,7 +4824,7 @@ $
 \text{We add the remaining two sides to} \  25 \  \text{cm} \\\\
 25  \ \text{cm} + 6 \ \text{cm} &= 31 \ \text{cm} \\\\
 31  \ \text{cm} + 5 \ \text{cm} &= 36 \ \text{cm} \\\\
-\text{The perimeter of this compound shape is }  \ 36 \  \text{cm} \\\\
+\text{The perimeter of this compound shape is }  \ 36 \  \text{cm}
 \end{aligned}
 $
 
@@ -4857,7 +4857,7 @@ $
 \text{We add the remaining two sides to} \  25 \  \text{cm} \\\\
 25  \ \text{cm} + 6 \ \text{cm} &= 31 \ \text{cm} \\\\
 31  \ \text{cm} + 5 \ \text{cm} &= 36 \ \text{cm} \\\\
-\text{The perimeter of this compound shape is }  \ 36 \  \text{cm} \\\\
+\text{The perimeter of this compound shape is }  \ 36 \  \text{cm}
 \end{aligned}
 $
 </code></pre>
@@ -5580,7 +5580,7 @@ $
 5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
 \text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
 \text{Now,} &=12 \times 1.8 \\\\
-&= 21.6 \ \text{hrs} \\\\
+&= 21.6 \ \text{hrs}
 \end{aligned}
 $
 
@@ -5604,7 +5604,7 @@ $21.6 \ \text{hrs}$
 5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
 \text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
 \text{Now,} &=12 \times 1.8 \\\\
-&= 21.6 \ \text{hrs} \\\\
+&= 21.6 \ \text{hrs}
 \end{aligned}
 $
 </code></pre>

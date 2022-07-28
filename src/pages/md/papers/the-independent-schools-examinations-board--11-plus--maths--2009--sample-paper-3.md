@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "16"
 ---
 <div class='paper'>
@@ -5279,13 +5279,13 @@ Given that,
 
 $
 \begin{aligned}
-\text{Right-handed players in Team Alpha} \ &= 7 \\\\
+\text{Right-handed players in Team Alpha} \ &= 7
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Left-handed players in Team Beta} \ &= 2 \\\\
+\text{Left-handed players in Team Beta} \ &= 2
 \end{aligned}
 $
 
@@ -5294,7 +5294,7 @@ $
 \text{Total left-handed players} \ &= 6 \\\\
 \text{Total left-handed players} &= \text{Left-handed players in Team Beta} + \text{Left-handed players in Team Alpha} \\\\
 2 + \text{Left-handed players in Team Alpha} &= 6 \\\\
-\text{Left-handed players in Team Alpha} &= 4 \\\\
+\text{Left-handed players in Team Alpha} &= 4
 \end{aligned}
 $
 
@@ -5302,7 +5302,7 @@ $
 \begin{aligned}
 \text{Total players in Team Alpha} \ &= \text{Left-handed players in Team Alpha} + \text{Right-handed players in Team Alpha} \\\\
 \text{Total players in Team Alpha} \ &= 4 + 7 \\\\
-\text{Total players in Team Alpha} \ &= 11 \\\\
+\text{Total players in Team Alpha} \ &= 11
 \end{aligned}
 $
 
@@ -5311,7 +5311,7 @@ $
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= \text{Total players in Team Beta} \ \\\\
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= 11 \\\\
 2 + \text{Right-handed players in Team Beta} &= 11 \\\\
-\text{Right-handed players in Team Beta} &= 9 \\\\
+\text{Right-handed players in Team Beta} &= 9
 \end{aligned}
 $
 
@@ -5319,7 +5319,7 @@ $
 \begin{aligned}
 \text{Total players playing} &= \text{Total players in Team Alpha} + \text{Total players in Team Beta} \\\\
 \text{Total players playing} &= 11 + 11 \\\\
-\text{Total players playing} &= 22 \\\\
+\text{Total players playing} &= 22
 \end{aligned}
 $
 
@@ -5356,13 +5356,13 @@ TODOANSWER
 
 $
 \begin{aligned}
-\text{Right-handed players in Team Alpha} \ &= 7 \\\\
+\text{Right-handed players in Team Alpha} \ &= 7
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{Left-handed players in Team Beta} \ &= 2 \\\\
+\text{Left-handed players in Team Beta} \ &= 2
 \end{aligned}
 $
 
@@ -5371,7 +5371,7 @@ $
 \text{Total left-handed players} \ &= 6 \\\\
 \text{Total left-handed players} &= \text{Left-handed players in Team Beta} + \text{Left-handed players in Team Alpha} \\\\
 2 + \text{Left-handed players in Team Alpha} &= 6 \\\\
-\text{Left-handed players in Team Alpha} &= 4 \\\\
+\text{Left-handed players in Team Alpha} &= 4
 \end{aligned}
 $
 
@@ -5379,7 +5379,7 @@ $
 \begin{aligned}
 \text{Total players in Team Alpha} \ &= \text{Left-handed players in Team Alpha} + \text{Right-handed players in Team Alpha} \\\\
 \text{Total players in Team Alpha} \ &= 4 + 7 \\\\
-\text{Total players in Team Alpha} \ &= 11 \\\\
+\text{Total players in Team Alpha} \ &= 11
 \end{aligned}
 $
 
@@ -5388,7 +5388,7 @@ $
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= \text{Total players in Team Beta} \ \\\\
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= 11 \\\\
 2 + \text{Right-handed players in Team Beta} &= 11 \\\\
-\text{Right-handed players in Team Beta} &= 9 \\\\
+\text{Right-handed players in Team Beta} &= 9
 \end{aligned}
 $
 
@@ -5396,7 +5396,7 @@ $
 \begin{aligned}
 \text{Total players playing} &= \text{Total players in Team Alpha} + \text{Total players in Team Beta} \\\\
 \text{Total players playing} &= 11 + 11 \\\\
-\text{Total players playing} &= 22 \\\\
+\text{Total players playing} &= 22
 \end{aligned}
 $
 </code></pre>
@@ -5453,7 +5453,7 @@ $
 \begin{aligned}
 &= \dfrac {\text {Left-handed players in Team Alpha} \ } {\text {Total left-handed players} \ } \\\\
 &= \dfrac {4} {6} \\\\
-&= \dfrac {2} {3} \\\\
+&= \dfrac {2} {3}
 \end{aligned}
 $
 
@@ -5483,7 +5483,7 @@ TODOANSWER
 \begin{aligned}
 &= \dfrac {\text {Left-handed players in Team Alpha} \ } {\text {Total left-handed players} \ } \\\\
 &= \dfrac {4} {6} \\\\
-&= \dfrac {2} {3} \\\\
+&= \dfrac {2} {3}
 \end{aligned}
 $
 </code></pre>
@@ -5642,7 +5642,7 @@ Calculate this distance.
 $
 \begin{aligned}
 &= 55\text{m}\ \times 18 \\\\
-&= 990\text{m}\ \\\\
+&= 990\text{m}\
 \end{aligned}
 $
 
@@ -5671,7 +5671,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 55\text{m}\ \times 18 \\\\
-&= 990\text{m}\ \\\\
+&= 990\text{m}\
 \end{aligned}
 $
 </code></pre>

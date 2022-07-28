@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "31"
 ---
 <div class='paper'>
@@ -5851,7 +5851,7 @@ w                                                               &= \dfrac {48} {
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {32} {2} \\\\
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {2 \times 16} {2} \\\\
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {\cancel {2} \times 16} {\cancel {2}} \\\\
-\dfrac {l^2 + 48} {l}                                           &= 16 \\\\
+\dfrac {l^2 + 48} {l}                                           &= 16
 \end{aligned}
 $
 
@@ -5888,7 +5888,7 @@ w                                                               &= \dfrac {48} {
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {32} {2} \\\\
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {2 \times 16} {2} \\\\
 \dfrac {l^2 + 48} {l}                                           &= \dfrac {\cancel {2} \times 16} {\cancel {2}} \\\\
-\dfrac {l^2 + 48} {l}                                           &= 16 \\\\
+\dfrac {l^2 + 48} {l}                                           &= 16
 \end{aligned}
 $
 
@@ -7600,7 +7600,7 @@ $
 \begin{aligned}
 u &= 31 \degree \\\\
 v &= 43 \degree \\\\
-w &= 14 \degree \\\\
+w &= 14 \degree
 \end{aligned}
 $
 
@@ -7693,7 +7693,7 @@ $
 \begin{aligned}
 u &= 31 \degree \\\\
 v &= 43 \degree \\\\
-w &= 14 \degree \\\\
+w &= 14 \degree
 \end{aligned}
 $
 </code></pre>
@@ -8585,7 +8585,7 @@ As per the question,
 $
 \begin {aligned}
 2a + 2b &= 1.50 \\\\
-2a + b  &= 1.10 \\\\
+2a + b  &= 1.10
 \end {aligned}
 $
 
@@ -8644,7 +8644,7 @@ As per the question,
 $
 \begin {aligned}
 2a + 2b &= 1.50 \\\\
-2a + b  &= 1.10 \\\\
+2a + b  &= 1.10
 \end {aligned}
 $
 

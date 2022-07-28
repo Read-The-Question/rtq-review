@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -8306,7 +8306,7 @@ $
 &= \dfrac{12 \ \text{fangos}}{90 \ \text{fangos}} \\\\
 &= \dfrac{2 \times 6}{6 \times 15} \\\\
 &= \dfrac{2 \times \cancel 6}{\cancel 6 \times 15} \\\\
-&= \dfrac {2} {15} \\\\
+&= \dfrac {2} {15}
 \end{aligned}
 $
 
@@ -8331,7 +8331,7 @@ $\dfrac {2} {15}$
 &= \dfrac{12 \ \text{fangos}}{90 \ \text{fangos}} \\\\
 &= \dfrac{2 \times 6}{6 \times 15} \\\\
 &= \dfrac{2 \times \cancel 6}{\cancel 6 \times 15} \\\\
-&= \dfrac {2} {15} \\\\
+&= \dfrac {2} {15}
 \end{aligned}
 $
 </code></pre>
@@ -8366,7 +8366,7 @@ $
 \begin{aligned}
 &= \dfrac {274} {90} \\\\
 &= 3 \ \text {remainder} \ 4 \\\\
-&\approx 3 \\\\
+&\approx 3
 \end{aligned}
 $
 
@@ -8388,7 +8388,7 @@ $18, 8$
 \begin{aligned}
 &= \dfrac {274} {90} \\\\
 &= 3 \ \text {remainder} \ 4 \\\\
-&\approx 3 \\\\
+&\approx 3
 \end{aligned}
 $
 

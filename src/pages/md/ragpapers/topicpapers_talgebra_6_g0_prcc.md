@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-6-g0-prcc"
 title: "TopicPaper - Algebra - 6 - G0 - PRCC"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -943,7 +943,7 @@ $
 a       &= \dfrac {36} {4} \\\\
 a       &= \dfrac {4 \times 9} {4} \\\\
 a       &= \dfrac {\cancel {4} \times 9} {\cancel {4}} \\\\
-a       &= 9 \\\\
+a       &= 9
 \end{aligned}
 $
 
@@ -969,7 +969,7 @@ $
 a       &= \dfrac {36} {4} \\\\
 a       &= \dfrac {4 \times 9} {4} \\\\
 a       &= \dfrac {\cancel {4} \times 9} {\cancel {4}} \\\\
-a       &= 9 \\\\
+a       &= 9
 \end{aligned}
 $
 </code></pre>
@@ -3572,7 +3572,7 @@ $
 3p - 5p           &= 1 - 14 \\\\
 -2p               &= -13 \\\\
 p                 &= \dfrac {-13} {-2} \\\\
-p                 &= \dfrac {13} {2} \\\\
+p                 &= \dfrac {13} {2}
 \end{aligned}
 $
 
@@ -3594,7 +3594,7 @@ $\dfrac {13} {2}$
 3p - 5p           &= 1 - 14 \\\\
 -2p               &= -13 \\\\
 p                 &= \dfrac {-13} {-2} \\\\
-p                 &= \dfrac {13} {2} \\\\
+p                 &= \dfrac {13} {2}
 \end{aligned}
 $
 </code></pre>

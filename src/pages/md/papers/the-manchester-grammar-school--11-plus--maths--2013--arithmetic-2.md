@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "11"
 ---
 <div class='paper'>
@@ -6048,7 +6048,7 @@ $
 \begin{aligned}
 \text {Sum of Counts} & = 15  \\
 \text {Total throws}  &= 36  \\\\
-     \text {Fraction} &= \dfrac{15}{36}\\\\
+     \text {Fraction} &= \dfrac{15}{36}
 \end{aligned}
 $
 
@@ -6109,7 +6109,7 @@ $
 \begin{aligned}
 \text {Sum of Counts} & = 15  \\
 \text {Total throws}  &= 36  \\\\
-     \text {Fraction} &= \dfrac{15}{36}\\\\
+     \text {Fraction} &= \dfrac{15}{36}
 \end{aligned}
 $
 

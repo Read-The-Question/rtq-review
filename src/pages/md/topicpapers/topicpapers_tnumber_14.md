@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-14"
 title: "TopicPaper - Number - 14"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -3906,7 +3906,7 @@ $10$
 $
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7290 \\\\
+&\approx 7290
 \end {aligned}
 $
 
@@ -3925,7 +3925,7 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7290 \\\\
+&\approx 7290
 \end {aligned}
 $
 </code></pre>
@@ -3959,7 +3959,7 @@ $100$
 $
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7300 \\\\
+&\approx 7300
 \end {aligned}
 $
 
@@ -3978,7 +3978,7 @@ $7300$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7300 \\\\
+&\approx 7300
 \end {aligned}
 $
 </code></pre>
@@ -4012,7 +4012,7 @@ $1000$
 $
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7000 \\\\
+&\approx 7000
 \end {aligned}
 $
 
@@ -4031,7 +4031,7 @@ $7000$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 7285 \\\\
-&\approx 7000 \\\\
+&\approx 7000
 \end {aligned}
 $
 </code></pre>
@@ -6069,7 +6069,7 @@ A squared number between $30$ and $40$
 $
 \begin{aligned}
 &= \,6^2\\\\
-&= 36 \\\\
+&= 36
 \end{aligned}
 $
 
@@ -6089,7 +6089,7 @@ $36$
 $
 \begin{aligned}
 &= \,6^2\\\\
-&= 36 \\\\
+&= 36
 \end{aligned}
 $
 </code></pre>
@@ -7338,7 +7338,7 @@ $
 \begin{aligned}
 &= 2 \dfrac {1} {2}, \quad 2 \dfrac {1} {7}, \quad 2 \dfrac {6} {11}, \quad 2 \dfrac {2} {5}, \quad 2 \dfrac {1} {10} \\\\
 &= \dfrac {5} {2}, \quad \dfrac {15} {7}, \quad \dfrac {28} {11}, \quad \dfrac {12} {5}, \quad \dfrac {21} {10} \\\\
-&= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1\\\\
+&= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1
 \end{aligned}
 $
 
@@ -7367,7 +7367,7 @@ $
 \begin{aligned}
 &= 2 \dfrac {1} {2}, \quad 2 \dfrac {1} {7}, \quad 2 \dfrac {6} {11}, \quad 2 \dfrac {2} {5}, \quad 2 \dfrac {1} {10} \\\\
 &= \dfrac {5} {2}, \quad \dfrac {15} {7}, \quad \dfrac {28} {11}, \quad \dfrac {12} {5}, \quad \dfrac {21} {10} \\\\
-&= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1\\\\
+&= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1
 \end{aligned}
 $
 

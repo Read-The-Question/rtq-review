@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1747,7 +1747,7 @@ Multiply the first equation by $3$.
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
-3a + 3b                     &= 171 \\\\
+3a + 3b                     &= 171
 \end{aligned}
 $
 
@@ -1819,7 +1819,7 @@ Multiply the first equation by $3$.
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
-3a + 3b                     &= 171 \\\\
+3a + 3b                     &= 171
 \end{aligned}
 $
 
@@ -2092,7 +2092,7 @@ Use your answer to part (a) to write down the answer to
 $
 \begins{aligned}
 27 \times 36 &= 972 \\\\
-2.7 \times 3.6 &= 9.72 \\\\
+2.7 \times 3.6 &= 9.72
 \end{aligned}
 $
 
@@ -2111,7 +2111,7 @@ $9.72$
 <pre class='language-latex'><code class='language-latex'>$
 \begins{aligned}
 27 \times 36 &= 972 \\\\
-2.7 \times 3.6 &= 9.72 \\\\
+2.7 \times 3.6 &= 9.72
 \end{aligned}
 $
 </code></pre>
@@ -4191,7 +4191,7 @@ $
 &&&&& 420 &&& \\\\
 &= &&42 &&&&&& 10 \\\\
 &= 2 &&&&21 &&& 5 &&&& 2 \\\\
-&=2  &&&7 &&2 &&5 &&&&2 \\\\
+&=2  &&&7 &&2 &&5 &&&&2
 \end{aligned}
 $
 
@@ -4212,7 +4212,7 @@ $2 \times 7 \times 2 \times 5 \times 2$
 &&&&& 420 &&& \\\\
 &= &&42 &&&&&& 10 \\\\
 &= 2 &&&&21 &&& 5 &&&& 2 \\\\
-&=2  &&&7 &&2 &&5 &&&&2 \\\\
+&=2  &&&7 &&2 &&5 &&&&2
 \end{aligned}
 $
 </code></pre>
@@ -8332,7 +8332,7 @@ b           &=  63 - 19  \\\\
 b           &=  44 \\\\
 a-28        &=  44   \\\\
 a           &=  44 + 28 \\\\
-a           &=  72 \\\\
+a           &=  72
 \end{aligned}
 $
 
@@ -8362,7 +8362,7 @@ b           &=  63 - 19  \\\\
 b           &=  44 \\\\
 a-28        &=  44   \\\\
 a           &=  44 + 28 \\\\
-a           &=  72 \\\\
+a           &=  72
 \end{aligned}
 $
 

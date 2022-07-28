@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-15"
 title: "TopicPaper - Number - 15"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -743,7 +743,7 @@ $
 &= 8 \times 3 - 10 + 6 \\\\
 &=  24 - 10 + 6 \\\\
 &= 14 + 6 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 
@@ -766,7 +766,7 @@ $
 &= 8 \times 3 - 10 + 6 \\\\
 &=  24 - 10 + 6 \\\\
 &= 14 + 6 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 </code></pre>
@@ -5802,7 +5802,7 @@ $
 \dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
 \dfrac{37}{10} \times 56 &= 207.2 \\\\
 3.7 \times 56 &= 207.2 \\\\
-207.2 \div 56 &= 3.7 \\\\
+207.2 \div 56 &= 3.7
 \end{aligned}
 $
 
@@ -5824,7 +5824,7 @@ $
 \dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
 \dfrac{37}{10} \times 56 &= 207.2 \\\\
 3.7 \times 56 &= 207.2 \\\\
-207.2 \div 56 &= 3.7 \\\\
+207.2 \div 56 &= 3.7
 \end{aligned}
 $
 </code></pre>

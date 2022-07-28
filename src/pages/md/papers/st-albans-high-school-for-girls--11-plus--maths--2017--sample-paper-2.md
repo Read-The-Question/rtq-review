@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "43"
 ---
 <div class='paper'>
@@ -7382,7 +7382,7 @@ Multiply the first equation by $3$.
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
-3a + 3b                     &= 171 \\\\
+3a + 3b                     &= 171
 \end{aligned}
 $
 
@@ -7454,7 +7454,7 @@ Multiply the first equation by $3$.
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
-3a + 3b                     &= 171 \\\\
+3a + 3b                     &= 171
 \end{aligned}
 $
 

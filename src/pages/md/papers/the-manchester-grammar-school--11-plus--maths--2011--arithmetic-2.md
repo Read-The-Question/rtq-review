@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "13"
 ---
 <div class='paper'>
@@ -2041,7 +2041,7 @@ $
 \begin{aligned}
 \text {Factors of 4}  &= 1, 2, 4 \\\\
 \text {Factors of 9}  &= 1, 3, 9 \\\\
-\text {Factors of 25}  &= 1, 5, 25 \\\\
+\text {Factors of 25}  &= 1, 5, 25
 \end{aligned}
 $
 
@@ -2075,7 +2075,7 @@ $
 \begin{aligned}
 \text {Factors of 4}  &= 1, 2, 4 \\\\
 \text {Factors of 9}  &= 1, 3, 9 \\\\
-\text {Factors of 25}  &= 1, 5, 25 \\\\
+\text {Factors of 25}  &= 1, 5, 25
 \end{aligned}
 $
 </code></pre>
@@ -2124,7 +2124,7 @@ Write down the smallest multiple of $17$ which is greater than $200$.
 $
 \begin{aligned}
 &= 204 \\\\
-&= 17 \times 12 \\\\
+&= 17 \times 12
 \end{aligned}
 $
 
@@ -2153,7 +2153,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 204 \\\\
-&= 17 \times 12 \\\\
+&= 17 \times 12
 \end{aligned}
 $
 </code></pre>
@@ -2282,7 +2282,7 @@ a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
   &= ( \dfrac{2 + 3}{6}) \div 2 \\\\
   &= ( \dfrac{5}{6}) \div 2 \\\\
   &= \dfrac{5}{6 \times 2} \\\\
-a &= \dfrac{5}{12} \\\\
+a &= \dfrac{5}{12}
 \end{aligned}
 $
 
@@ -2320,7 +2320,7 @@ a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
   &= ( \dfrac{2 + 3}{6}) \div 2 \\\\
   &= ( \dfrac{5}{6}) \div 2 \\\\
   &= \dfrac{5}{6 \times 2} \\\\
-a &= \dfrac{5}{12} \\\\
+a &= \dfrac{5}{12}
 \end{aligned}
 $
 
@@ -2374,7 +2374,7 @@ Lets verify
 $
 \begin{aligned}
 &= {21^2} \\\\
-&= 441 \\\\
+&= 441
 \end{aligned}
 $
 
@@ -2408,7 +2408,7 @@ Lets verify
 $
 \begin{aligned}
 &= {21^2} \\\\
-&= 441 \\\\
+&= 441
 \end{aligned}
 $
 

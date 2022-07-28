@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "21"
 ---
 <div class='paper'>

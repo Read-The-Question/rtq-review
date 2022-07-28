@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "34"
 ---
 <div class='paper'>
@@ -2092,7 +2092,7 @@ $
 \dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
 \dfrac{37}{10} \times 56 &= 207.2 \\\\
 3.7 \times 56 &= 207.2 \\\\
-207.2 \div 56 &= 3.7 \\\\
+207.2 \div 56 &= 3.7
 \end{aligned}
 $
 
@@ -2114,7 +2114,7 @@ $
 \dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
 \dfrac{37}{10} \times 56 &= 207.2 \\\\
 3.7 \times 56 &= 207.2 \\\\
-207.2 \div 56 &= 3.7 \\\\
+207.2 \div 56 &= 3.7
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-g0-prcc"
 title: "TopicPaper - Algebra - 5 - G0 - PRCC"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -4043,7 +4043,7 @@ $
 a        &= \dfrac {45} {3} \\\\
 a        &= \dfrac {15 \times 3} {3}  \\\\
 a        &= \dfrac {15 \times \cancel {3}} {\cancel {3}} \\\\
-a        &= 15 \\\\
+a        &= 15
 \end{aligned}
 $
 
@@ -4071,7 +4071,7 @@ $
 a        &= \dfrac {45} {3} \\\\
 a        &= \dfrac {15 \times 3} {3}  \\\\
 a        &= \dfrac {15 \times \cancel {3}} {\cancel {3}} \\\\
-a        &= 15 \\\\
+a        &= 15
 \end{aligned}
 $
 </code></pre>

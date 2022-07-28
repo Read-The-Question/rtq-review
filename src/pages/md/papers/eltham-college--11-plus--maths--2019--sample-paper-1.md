@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "23"
 ---
 <div class='paper'>
@@ -1104,7 +1104,7 @@ $
 \text{D}    &= 22 - 10 + (8 \div 4) \\\\
             &= 12 + 2 \\\\
             &= \red
-{14} \neq 5 \\\\
+{14} \neq 5
 \end{aligned}
 $
 
@@ -1139,7 +1139,7 @@ $
             &= \rtq_katex_color_answer{5} \\\\
 \text{D}    &= 22 - 10 + (8 \div 4) \\\\
             &= 12 + 2 \\\\
-            &= \rtq_katex_color_wrong_answer{14} \neq 5 \\\\
+            &= \rtq_katex_color_wrong_answer{14} \neq 5
 \end{aligned}
 $
 </code></pre>
@@ -1501,7 +1501,7 @@ $
 \text {C.} \quad   24 \times 70 &= 12 \times 35 \\\\
 1680                            &\not = 420 \\\\
 \text {D.} \quad   24 \times 70 &= 48 \times 140 \\\\
-1680                            &\not = 6720 \\\\
+1680                            &\not = 6720
 \end{aligned}
 $
 
@@ -1529,7 +1529,7 @@ $24 \times 70 = 48 \times 35$
 \text {C.} \quad   24 \times 70 &= 12 \times 35 \\\\
 1680                            &\not = 420 \\\\
 \text {D.} \quad   24 \times 70 &= 48 \times 140 \\\\
-1680                            &\not = 6720 \\\\
+1680                            &\not = 6720
 \end{aligned}
 $
 </code></pre>

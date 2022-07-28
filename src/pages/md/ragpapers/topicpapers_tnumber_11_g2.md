@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g2"
 title: "TopicPaper - Number - 11 - G2"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "32"
 ---
 <ul class='question default-decimal'>
@@ -4815,7 +4815,7 @@ Let's first list down other percentages between $90\%$ and $95\%$ and then conve
 
 $
 \begin{aligned}
-&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
+&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\%
 \end{aligned}
 $
 
@@ -4859,7 +4859,7 @@ $0.91 \ \text{or} \ 0.925$
 
 $
 \begin{aligned}
-&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
+&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\%
 \end{aligned}
 $
 

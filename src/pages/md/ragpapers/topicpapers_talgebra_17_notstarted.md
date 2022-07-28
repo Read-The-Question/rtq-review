@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-17-notstarted"
 title: "TopicPaper - Algebra - 17 - NOTSTARTED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -1559,7 +1559,7 @@ $
 \begin{aligned}
 &= \dfrac {27}{54}\\\\
 &= \dfrac{\cancel{27}\raisebox{0.9em}{1}}{\cancel{54}\raisebox{-0.9em}{2}}\\\\
-&= \dfrac {\pounds 1}{2\ \text  {apples}}\\\\
+&= \dfrac {\pounds 1}{2\ \text  {apples}}
 \end{aligned}
 $
 
@@ -1641,7 +1641,7 @@ $
 \begin{aligned}
 &= \dfrac {27}{54}\\\\
 &= \dfrac{\cancel{27}\raisebox{0.9em}{1}}{\cancel{54}\raisebox{-0.9em}{2}}\\\\
-&= \dfrac {\pounds 1}{2\ \text  {apples}}\\\\
+&= \dfrac {\pounds 1}{2\ \text  {apples}}
 \end{aligned}
 $
 
@@ -1787,7 +1787,7 @@ $
 \begin{aligned}
 \quad \cancel{12-21}, \ 15-51, \ \cancel{18-81},\\\\ 
 \cancel{24-42},\ 27-72, \ \cancel{36-63},\\\\
-\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}\\\\
+\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}
 \end{aligned}
 $
 
@@ -1898,7 +1898,7 @@ $
 \begin{aligned}
 \quad \cancel{12-21}, \ 15-51, \ \cancel{18-81},\\\\ 
 \cancel{24-42},\ 27-72, \ \cancel{36-63},\\\\
-\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}\\\\
+\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}
 \end{aligned}
 $
 

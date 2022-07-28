@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-notstarted"
 title: "TopicPaper - Algebra - 12 - NOTSTARTED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -817,7 +817,7 @@ $
 \text {Offer B} &= \dfrac {3a}{4} \\\\
 \text {Offer C} &= \dfrac {2a}{3}  \\\\
 \text {Offer D} &= \dfrac {3a}{4} \\\\
-\text {Offer E} &= \dfrac {2a}{3}  \\\\    
+\text {Offer E} &= \dfrac {2a}{3}
 \end{aligned}
 $
 
@@ -946,7 +946,7 @@ $
 \text {Offer B} &= \dfrac {3a}{4} \\\\
 \text {Offer C} &= \dfrac {2a}{3}  \\\\
 \text {Offer D} &= \dfrac {3a}{4} \\\\
-\text {Offer E} &= \dfrac {2a}{3}  \\\\    
+\text {Offer E} &= \dfrac {2a}{3}
 \end{aligned}
 $
 

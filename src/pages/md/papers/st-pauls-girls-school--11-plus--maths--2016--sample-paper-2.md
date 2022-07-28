@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "35"
 ---
 <div class='paper'>
@@ -1664,7 +1664,7 @@ $
 \begin{aligned}
 &= 2 \dfrac {1} {2}, \quad 2 \dfrac {1} {7}, \quad 2 \dfrac {6} {11}, \quad 2 \dfrac {2} {5}, \quad 2 \dfrac {1} {10} \\\\
 &= \dfrac {5} {2}, \quad \dfrac {15} {7}, \quad \dfrac {28} {11}, \quad \dfrac {12} {5}, \quad \dfrac {21} {10} \\\\
-&= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1\\\\
+&= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1
 \end{aligned}
 $
 
@@ -1693,7 +1693,7 @@ $
 \begin{aligned}
 &= 2 \dfrac {1} {2}, \quad 2 \dfrac {1} {7}, \quad 2 \dfrac {6} {11}, \quad 2 \dfrac {2} {5}, \quad 2 \dfrac {1} {10} \\\\
 &= \dfrac {5} {2}, \quad \dfrac {15} {7}, \quad \dfrac {28} {11}, \quad \dfrac {12} {5}, \quad \dfrac {21} {10} \\\\
-&= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1\\\\
+&= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1
 \end{aligned}
 $
 

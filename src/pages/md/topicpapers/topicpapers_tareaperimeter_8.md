@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-8"
 title: "TopicPaper - Areaperimeter - 8"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "35"
 ---
 <div class='paper'>
@@ -975,7 +975,7 @@ $
                                 &= 1.5 \ \text {m} \\\\
 60 \ \text {Turns}              &= 60 \times 1.5 \\\\
                                 &= 6 \times 15 \\\\
-                                &= 90  \ \text {m} \\\\
+                                &= 90  \ \text {m}
 \end{aligned}
 $
 
@@ -1005,7 +1005,7 @@ $
                                 &= 1.5 \ \text {m} \\\\
 60 \ \text {Turns}              &= 60 \times 1.5 \\\\
                                 &= 6 \times 15 \\\\
-                                &= 90  \ \text {m} \\\\
+                                &= 90  \ \text {m}
 \end{aligned}
 $
 
@@ -1049,7 +1049,7 @@ a             &= 600 \times 1.5 \\\\
 a             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
 a             &= \dfrac {15 \times 400} {15} \\\\
 a             &= \dfrac {\cancel {15} \times 400} {\cancel {15}} \\\\
-a             &= 400 \ \text {Turns}\\\\
+a             &= 400 \ \text {Turns}
 \end{aligned}
 $
 
@@ -1079,7 +1079,7 @@ a             &= 600 \times 1.5 \\\\
 a             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
 a             &= \dfrac {15 \times 400} {15} \\\\
 a             &= \dfrac {\cancel {15} \times 400} {\cancel {15}} \\\\
-a             &= 400 \ \text {Turns}\\\\
+a             &= 400 \ \text {Turns}
 \end{aligned}
 $
 
@@ -1328,7 +1328,7 @@ $
 &= \dfrac {125 \cancel 00}{500 \cancel 00} \\\\
 &= \dfrac {{\cancel{125}\raisebox{0.9em}{5}}}{{\cancel{500}\raisebox{-0.9em}{100}}} \\\\
 &=\dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{100}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
+&=\dfrac {1}{4}
 \end{aligned}
 $
 
@@ -1363,7 +1363,7 @@ $
 &= \dfrac {125 \cancel 00}{500 \cancel 00} \\\\
 &= \dfrac {{\cancel{125}\raisebox{0.9em}{5}}}{{\cancel{500}\raisebox{-0.9em}{100}}} \\\\
 &=\dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{100}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
+&=\dfrac {1}{4}
 \end{aligned}
 $
 
@@ -1410,7 +1410,7 @@ $
 &= \dfrac {50}{200} \\\\
 &= \dfrac {5 \cancel 0}{20 \cancel 0} \\\\
 &= \dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{20}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
+&=\dfrac {1}{4}
 \end{aligned}
 $
 
@@ -1458,7 +1458,7 @@ $
 &= \dfrac {50}{200} \\\\
 &= \dfrac {5 \cancel 0}{20 \cancel 0} \\\\
 &= \dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{20}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
+&=\dfrac {1}{4}
 \end{aligned}
 $
 
@@ -3198,7 +3198,7 @@ $
 = \dfrac {\cancel{25}\raisebox{0.9em}{5}}{\cancel{10}\raisebox{-0.9em}{2}} \times 6 \\\\
 = \dfrac {5} {\cancel{2}\raisebox{0.9em}{1}} \times {\cancel{6}\raisebox{0.9em}{3}} \\\\
 = 5 \times 3 \\\\
-= 15 \ \text {cm} \\\\
+= 15 \ \text {cm}
 \end{aligned}
 $
 
@@ -3278,7 +3278,7 @@ $
 = \dfrac {\cancel{25}\raisebox{0.9em}{5}}{\cancel{10}\raisebox{-0.9em}{2}} \times 6 \\\\
 = \dfrac {5} {\cancel{2}\raisebox{0.9em}{1}} \times {\cancel{6}\raisebox{0.9em}{3}} \\\\
 = 5 \times 3 \\\\
-= 15 \ \text {cm} \\\\
+= 15 \ \text {cm}
 \end{aligned}
 $
 
@@ -9885,7 +9885,7 @@ $
                                     &= a^2 - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4 \times a^2} {4} - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4a^2 - 2a^2 - a^2} {4} \\\\
-\text{Area of shaded region}        &= \dfrac{a^2} {4} \\\\
+\text{Area of shaded region}        &= \dfrac{a^2} {4}
 \end{aligned}
 $
 
@@ -9935,7 +9935,7 @@ $
                                     &= a^2 - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4 \times a^2} {4} - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4a^2 - 2a^2 - a^2} {4} \\\\
-\text{Area of shaded region}        &= \dfrac{a^2} {4} \\\\
+\text{Area of shaded region}        &= \dfrac{a^2} {4}
 \end{aligned}
 $
 

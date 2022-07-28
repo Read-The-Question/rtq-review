@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "24"
 ---
 <div class='paper'>
@@ -2031,7 +2031,7 @@ A squared number between $30$ and $40$
 $
 \begin{aligned}
 &= \,6^2\\\\
-&= 36 \\\\
+&= 36
 \end{aligned}
 $
 
@@ -2051,7 +2051,7 @@ $36$
 $
 \begin{aligned}
 &= \,6^2\\\\
-&= 36 \\\\
+&= 36
 \end{aligned}
 $
 </code></pre>

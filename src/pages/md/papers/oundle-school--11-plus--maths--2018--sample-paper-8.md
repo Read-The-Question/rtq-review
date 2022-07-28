@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-8"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 8"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "12"
 ---
 <div class='paper'>
@@ -3863,7 +3863,7 @@ $
 \begin{aligned}
 &= \dfrac{4}{5} \text{and} \dfrac{8}{9} \\\\
 &= \dfrac{4 \times 9}{5 \times 9} \text{and} \dfrac{8 \times 5}{9 \times 5} \\\\
-&= \dfrac{36}{45} \text{and} \dfrac{40}{45} \\\\
+&= \dfrac{36}{45} \text{and} \dfrac{40}{45}
 \end{aligned}
 $
 
@@ -3883,7 +3883,7 @@ $\dfrac{8}{9}$
 \begin{aligned}
 &= \dfrac{4}{5} \text{and} \dfrac{8}{9} \\\\
 &= \dfrac{4 \times 9}{5 \times 9} \text{and} \dfrac{8 \times 5}{9 \times 5} \\\\
-&= \dfrac{36}{45} \text{and} \dfrac{40}{45} \\\\
+&= \dfrac{36}{45} \text{and} \dfrac{40}{45}
 \end{aligned}
 $
 </code></pre>

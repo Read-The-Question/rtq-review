@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-2"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "25"
 ---
 <div class='paper'>
@@ -3994,7 +3994,7 @@ $
 \text{Decimal} &= \dfrac{1}{4} \\\\
 &= \dfrac{1}{4} \times \dfrac{25}{25} \\\\
 &= \dfrac{25}{100} \\\\
-&= 0.25 \\\\
+&= 0.25
 \end{aligned}
 $
 
@@ -4002,7 +4002,7 @@ $
 \begin{aligned}
 \text{Percentage} &= \dfrac{1}{4} \times 100 \% \\\\
 &= \dfrac{100}{4} \% \\\\
-&= 25\% \\\\
+&= 25\%
 \end{aligned}
 $
 
@@ -4016,14 +4016,14 @@ $
 \begin{aligned}
 \text{Fraction} &= \dfrac{10}{100} \\\\
 &= \dfrac{1 \cancel 0}{10 \cancel 0} \\\\
-&= \dfrac{1}{10} \\\\
+&= \dfrac{1}{10}
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text{Decimal} &= \dfrac{10}{100} \\\\
-&= 0.1 \\\\
+&= 0.1
 \end{aligned}
 $
 
@@ -4037,14 +4037,14 @@ $
 \begin{aligned}
 \text{Fraction} &= 0.85 \times \dfrac{100}{100} \\\\
 &= \dfrac{85}{100} \\\\
-&= \dfrac{17}{20} \\\\
+&= \dfrac{17}{20}
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text{Percentage} &= 0.85 \times 100 \% \\\\
-&= 85 \% \\\\
+&= 85 \%
 \end{aligned}
 $
 
@@ -4086,7 +4086,7 @@ $
 \text{Decimal} &= \dfrac{1}{4} \\\\
 &= \dfrac{1}{4} \times \dfrac{25}{25} \\\\
 &= \dfrac{25}{100} \\\\
-&= 0.25 \\\\
+&= 0.25
 \end{aligned}
 $
 
@@ -4094,7 +4094,7 @@ $
 \begin{aligned}
 \text{Percentage} &= \dfrac{1}{4} \times 100 \% \\\\
 &= \dfrac{100}{4} \% \\\\
-&= 25\% \\\\
+&= 25\%
 \end{aligned}
 $
 
@@ -4108,14 +4108,14 @@ $
 \begin{aligned}
 \text{Fraction} &= \dfrac{10}{100} \\\\
 &= \dfrac{1 \cancel 0}{10 \cancel 0} \\\\
-&= \dfrac{1}{10} \\\\
+&= \dfrac{1}{10}
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text{Decimal} &= \dfrac{10}{100} \\\\
-&= 0.1 \\\\
+&= 0.1
 \end{aligned}
 $
 
@@ -4129,14 +4129,14 @@ $
 \begin{aligned}
 \text{Fraction} &= 0.85 \times \dfrac{100}{100} \\\\
 &= \dfrac{85}{100} \\\\
-&= \dfrac{17}{20} \\\\
+&= \dfrac{17}{20}
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text{Percentage} &= 0.85 \times 100 \% \\\\
-&= 85 \% \\\\
+&= 85 \%
 \end{aligned}
 $
 </code></pre>

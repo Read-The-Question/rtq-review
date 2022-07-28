@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-3-pr-prns"
 title: "TopicPaper - Statistics - 3 - PR - PRNS"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -555,7 +555,7 @@ $
                 &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
                 &= 7 \\\\
 \text {Median}  &= 6 \\\\
-\text {Mode}    &= 5 \\\\
+\text {Mode}    &= 5
 \end {aligned}
 $
 
@@ -579,7 +579,7 @@ $5, 5, 6, 9, 10$
                 &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
                 &= 7 \\\\
 \text {Median}  &= 6 \\\\
-\text {Mode}    &= 5 \\\\
+\text {Mode}    &= 5
 \end {aligned}
 $
 </code></pre>
@@ -618,7 +618,7 @@ $
                 &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
                 &= 7 \\\\
 \text {Median}  &= 6 \\\\
-\text {Mode}    &= 5 \\\\
+\text {Mode}    &= 5
 \end {aligned}
 $
 
@@ -642,7 +642,7 @@ $5, 5, 6, 5, 14$
                 &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
                 &= 7 \\\\
 \text {Median}  &= 6 \\\\
-\text {Mode}    &= 5 \\\\
+\text {Mode}    &= 5
 \end {aligned}
 $
 </code></pre>

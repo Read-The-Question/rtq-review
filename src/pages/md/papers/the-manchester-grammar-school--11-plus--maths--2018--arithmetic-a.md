@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic A"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "20"
 ---
 <div class='paper'>
@@ -2990,7 +2990,7 @@ c + 2b                          &= 450 \\\\
 3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
 2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
 3c + 6b                         &= 1050 \\\\
-4c + 6b                         &= 1600  \\\\   
+4c + 6b                         &= 1600
 \end{aligned}
 $
 
@@ -3097,7 +3097,7 @@ c + 2b                          &= 450 \\\\
 3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
 2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
 3c + 6b                         &= 1050 \\\\
-4c + 6b                         &= 1600  \\\\   
+4c + 6b                         &= 1600
 \end{aligned}
 $
 

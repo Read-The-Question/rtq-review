@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "30"
 ---
 <div class='paper'>
@@ -2292,7 +2292,7 @@ $4  \ \text{\textunderscore \textunderscore \textunderscore}  \ 3 = 60 \ \text{\
 $
 \begin{aligned}
 8 + 2 &= 5 \times 2 \\\\
-10 &= 10 \\\\
+10 &= 10
 \end{aligned}
 $
 
@@ -2302,7 +2302,7 @@ $
 $
 \begin{aligned}
 4 \times 3 &= 60 \div 5 \\\\
-12 &= 12 \\\\
+12 &= 12
 \end{aligned}
 $
 
@@ -2328,7 +2328,7 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 8 + 2 &= 5 \times 2 \\\\
-10 &= 10 \\\\
+10 &= 10
 \end{aligned}
 $
 </code></pre>
@@ -2338,7 +2338,7 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 4 \times 3 &= 60 \div 5 \\\\
-12 &= 12 \\\\
+12 &= 12
 \end{aligned}
 $
 

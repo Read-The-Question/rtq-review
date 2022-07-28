@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-g0-prcr"
 title: "TopicPaper - Probability - 2 - G0 - PRCR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -881,7 +881,7 @@ Let's check the probability of outcomes of Events A, B C and D step by step and 
 $
 \begin{aligned} 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
- \\\\
+
 \end{aligned}
 $
 
@@ -961,7 +961,7 @@ Let's check the probability of outcomes of Events A, B C and D step by step and 
 
 $
 \begin{aligned} 
-rtq_abbr_katex_formula_aligned_probability \\\\
+rtq_abbr_katex_formula_aligned_probability
 \end{aligned}
 $
 

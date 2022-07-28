@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "27"
 ---
 <div class='paper'>
@@ -1958,7 +1958,7 @@ $
          &= 8 \\\\
 5, -3   &= 5 - ( -3 ) \\\\
          &= 5 + 3 \\\\
-         &= 8 \\\\
+         &= 8
 \end{aligned}
 $
 
@@ -1989,7 +1989,7 @@ $
          &= 8 \\\\
 5, -3   &= 5 - ( -3 ) \\\\
          &= 5 + 3 \\\\
-         &= 8 \\\\
+         &= 8
 \end{aligned}
 $
 
@@ -2033,7 +2033,7 @@ $
 -3, 0   &= -3 + 0 \\\\
         &= -3 \\\\
 -4, 1   &= -4 + 1 \\\\
-        &= -3 \\\\
+        &= -3
 \end{aligned}
 $
 
@@ -2062,7 +2062,7 @@ $
 -3, 0   &= -3 + 0 \\\\
         &= -3 \\\\
 -4, 1   &= -4 + 1 \\\\
-        &= -3 \\\\
+        &= -3
 \end{aligned}
 $
 
@@ -3087,7 +3087,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= 0.2, \quad 0.101, \quad 0.11, \quad 0.99, \quad 0.0998, \quad 1.0 \\\\
-&= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0 \\\\
+&= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0
 \end{aligned}
 $
 
@@ -3114,7 +3114,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= 0.2, \quad 0.101, \quad 0.11, \quad 0.99, \quad 0.0998, \quad 1.0 \\\\
-&= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0 \\\\
+&= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0
 \end{aligned}
 $
 
@@ -3629,7 +3629,7 @@ $
 χ                   &= 180 - a - b \\\\
 χ                   &= 180 - 70 - 80 \\\\
 χ                   &= 180 - 150 \\\\
-χ                   &= 30 \degree \\\\
+χ                   &= 30 \degree
 \end{aligned}
 $
 
@@ -3675,7 +3675,7 @@ $
 χ                   &= 180 - a - b \\\\
 χ                   &= 180 - 70 - 80 \\\\
 χ                   &= 180 - 150 \\\\
-χ                   &= 30 \degree \\\\
+χ                   &= 30 \degree
 \end{aligned}
 $
 </code></pre>
@@ -4415,7 +4415,7 @@ $
 A &= 13 + 7 \times 2 \\\\
 &= 13 + 14 \\\\
 &= \red
-{27} \neq 40 \\\\
+{27} \neq 40
 \end{aligned}
 $
 
@@ -4424,7 +4424,7 @@ $
 B &= -3 + 12 \div 3 \\\\
 &= -3 + 4 \\\\
 &= \green
-{1} = 1 \\\\
+{1} = 1
 \end{aligned}
 $
 
@@ -4433,7 +4433,7 @@ $
 C &= 4 \times 5 + 3 \times 2 \\\\
 &= 20 + 6 \\\\
 &= \green
-{26} = 26 \\\\
+{26} = 26
 \end{aligned}
 $
 
@@ -4442,7 +4442,7 @@ $
 D &= 30 \div 3 + 2\\\\
 &= 10 + 2 \\\\
 &= \red
-{12} \neq 6 \\\\
+{12} \neq 6
 \end{aligned}
 $
 
@@ -4451,7 +4451,7 @@ $
 E &= 10 + 5 \times 8 - 3 \\\\
 &= 10 + 40 - 3 \\\\
 &= \green
-{47} \neq 35 \\\\
+{47} \neq 35
 \end{aligned}
 $
 
@@ -4483,7 +4483,7 @@ $
 \begin{aligned}
 A &= 13 + 7 \times 2 \\\\
 &= 13 + 14 \\\\
-&= \rtq_katex_color_wrong_answer{27} \neq 40 \\\\
+&= \rtq_katex_color_wrong_answer{27} \neq 40
 \end{aligned}
 $
 
@@ -4491,7 +4491,7 @@ $
 \begin{aligned}
 B &= -3 + 12 \div 3 \\\\
 &= -3 + 4 \\\\
-&= \rtq_katex_color_answer{1} = 1 \\\\
+&= \rtq_katex_color_answer{1} = 1
 \end{aligned}
 $
 
@@ -4499,7 +4499,7 @@ $
 \begin{aligned}
 C &= 4 \times 5 + 3 \times 2 \\\\
 &= 20 + 6 \\\\
-&= \rtq_katex_color_answer{26} = 26 \\\\
+&= \rtq_katex_color_answer{26} = 26
 \end{aligned}
 $
 
@@ -4507,7 +4507,7 @@ $
 \begin{aligned}
 D &= 30 \div 3 + 2\\\\
 &= 10 + 2 \\\\
-&= \rtq_katex_color_wrong_answer{12} \neq 6 \\\\
+&= \rtq_katex_color_wrong_answer{12} \neq 6
 \end{aligned}
 $
 
@@ -4515,7 +4515,7 @@ $
 \begin{aligned}
 E &= 10 + 5 \times 8 - 3 \\\\
 &= 10 + 40 - 3 \\\\
-&= \rtq_katex_color_answer{47} \neq 35 \\\\
+&= \rtq_katex_color_answer{47} \neq 35
 \end{aligned}
 $
 </code></pre>

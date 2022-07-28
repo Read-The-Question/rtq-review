@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-5"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 5"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "22"
 ---
 <div class='paper'>
@@ -2225,7 +2225,7 @@ x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
 x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
 x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
 x                                    &= \dfrac {15 - 4} {12} \\\\
-x                                    &= \dfrac {11} {12} \\\\
+x                                    &= \dfrac {11} {12}
 \end{aligned}
 $
 
@@ -2249,7 +2249,7 @@ x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
 x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
 x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
 x                                    &= \dfrac {15 - 4} {12} \\\\
-x                                    &= \dfrac {11} {12} \\\\
+x                                    &= \dfrac {11} {12}
 \end{aligned}
 $
 </code></pre>
@@ -4867,7 +4867,7 @@ $
 1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
 1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
 1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
-1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
+1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}
 \end{aligned}
 $
 
@@ -4894,7 +4894,7 @@ $
 1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
 1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
 1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
-1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
+1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}
 \end{aligned}
 $
 </code></pre>
@@ -4938,7 +4938,7 @@ $
 1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
 1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
 1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
-1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
+1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}
 \end{aligned}
 $
 
@@ -4966,7 +4966,7 @@ $
 1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
 1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
 1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
-1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
+1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "23"
 ---
 <div class='paper'>
@@ -6023,7 +6023,7 @@ As per the question,
 $
 \begin {aligned}
 B     &= \dfrac {A} {12} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 
@@ -6056,7 +6056,7 @@ $36$
 $
 \begin {aligned}
 B     &= \dfrac {A} {12} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 

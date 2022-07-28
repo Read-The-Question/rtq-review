@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "20"
 ---
 <div class='paper'>
@@ -1417,7 +1417,7 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300} \\\\
+&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300}
 \end{aligned}
 $
 
@@ -1464,7 +1464,7 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300} \\\\
+&= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300}
 \end{aligned}
 $
 
@@ -1641,7 +1641,7 @@ Let's calculate the total time spent watching TV.
 $
 \begin{aligned}
 \text{Total time}   &= 40 \ \text{min} + 30 \ \text{min} + 1 \ \text{hour} \ 55 \ \text{min} \\\\
-                    &= 3 \ \text{hour} \ 5 \ \text{minutes} \\\\
+                    &= 3 \ \text{hour} \ 5 \ \text{minutes}
 \end{aligned}
 $
 
@@ -1672,7 +1672,7 @@ Let's calculate the total time spent watching TV.
 $
 \begin{aligned}
 \text{Total time}   &= 40 \ \text{min} + 30 \ \text{min} + 1 \ \text{hour} \ 55 \ \text{min} \\\\
-                    &= 3 \ \text{hour} \ 5 \ \text{minutes} \\\\
+                    &= 3 \ \text{hour} \ 5 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>

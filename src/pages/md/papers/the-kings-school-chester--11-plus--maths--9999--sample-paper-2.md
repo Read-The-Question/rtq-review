@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "26"
 ---
 <div class='paper'>
@@ -6170,27 +6170,27 @@ These are called nested squares. What fraction of this shape is shaded in?
 
 $
 \begin{aligned}
-\text {Let the side of the square} \ &= s \\\\
+\text {Let the side of the square} \ &= s
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Let the area of the square} \ &= a \\\\
-                                     &= s^2 \\\\
+                                     &= s^2
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {Let the side of inner square} \ &= x \\\\
+\text {Let the side of inner square} \ &= x
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Let the area of inner square} \ &= b \\\\
-                                       &= x^2 \\\\
+                                       &= x^2
 \end{aligned}
 $
 
@@ -6201,7 +6201,7 @@ $
 (\dfrac{s}{2})^2 + (\dfrac{s}{2})^2 &= x^2 \\\\
 \dfrac{s^2}{4} + \dfrac{s^2}{4} &= x^2 \\\\
 \dfrac{s^2}{2} &= x^2 \\\\
-b &= \dfrac{a}{2} \\\\
+b &= \dfrac{a}{2}
 \end{aligned}
 $
 
@@ -6212,14 +6212,14 @@ Following the similiar pattern,
 $
 \begin{aligned}
 \text {Area of shaded region} \ &= \dfrac{a}{2} - \dfrac{a}{4} + \dfrac{a}{8} - \dfrac{a}{16} + \dfrac{a}{32} \\\\
-&= \dfrac{11a}{32} \\\\
+&= \dfrac{11a}{32}
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Fraction of shaded region over total area} \ &= \dfrac{ \dfrac{11a}{32} }{a} \\\\
-&= \dfrac{11}{32} \\\\
+&= \dfrac{11}{32}
 \end{aligned}
 $
 
@@ -6247,27 +6247,27 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Let the side of the square} \ &= s \\\\
+\text {Let the side of the square} \ &= s
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Let the area of the square} \ &= a \\\\
-                                     &= s^2 \\\\
+                                     &= s^2
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text {Let the side of inner square} \ &= x \\\\
+\text {Let the side of inner square} \ &= x
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Let the area of inner square} \ &= b \\\\
-                                       &= x^2 \\\\
+                                       &= x^2
 \end{aligned}
 $
 
@@ -6278,7 +6278,7 @@ $
 (\dfrac{s}{2})^2 + (\dfrac{s}{2})^2 &= x^2 \\\\
 \dfrac{s^2}{4} + \dfrac{s^2}{4} &= x^2 \\\\
 \dfrac{s^2}{2} &= x^2 \\\\
-b &= \dfrac{a}{2} \\\\
+b &= \dfrac{a}{2}
 \end{aligned}
 $
 
@@ -6289,14 +6289,14 @@ Following the similiar pattern,
 $
 \begin{aligned}
 \text {Area of shaded region} \ &= \dfrac{a}{2} - \dfrac{a}{4} + \dfrac{a}{8} - \dfrac{a}{16} + \dfrac{a}{32} \\\\
-&= \dfrac{11a}{32} \\\\
+&= \dfrac{11a}{32}
 \end{aligned}
 $
 
 $
 \begin{aligned}
 \text {Fraction of shaded region over total area} \ &= \dfrac{ \dfrac{11a}{32} }{a} \\\\
-&= \dfrac{11}{32} \\\\
+&= \dfrac{11}{32}
 \end{aligned}
 $
 </code></pre>

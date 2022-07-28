@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-4"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 4"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "35"
 ---
 <div class='paper'>
@@ -4921,7 +4921,7 @@ $
 \text{Equation,}\\\\
 530 - 5 \times x &= 260 + 5 \times x\\\\
 530 - 260 &= 10 \times x\\\\
-x &= 10 \\\\
+x &= 10
 \end{aligned}
 $
 
@@ -4954,7 +4954,7 @@ TODOANSWER
 \text{Equation,}\\\\
 530 - 5 \times x &= 260 + 5 \times x\\\\
 530 - 260 &= 10 \times x\\\\
-x &= 10 \\\\
+x &= 10
 \end{aligned}
 $
 </code></pre>
@@ -6350,7 +6350,7 @@ Write down an expression in algebra for the number of heads that remain in the f
 $
 \begin{aligned}
 \text{heads} &= x + y + 1 - ( \dfrac{1}{2} \times x ) - ( \dfrac{1}{4} \times y ) \\\\
-&= \dfrac{1}{2} \times x + \dfrac{3}{4} \times y + 1 \\\\
+&= \dfrac{1}{2} \times x + \dfrac{3}{4} \times y + 1
 \end{aligned}
 $
 
@@ -6379,7 +6379,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{heads} &= x + y + 1 - ( \dfrac{1}{2} \times x ) - ( \dfrac{1}{4} \times y ) \\\\
-&= \dfrac{1}{2} \times x + \dfrac{3}{4} \times y + 1 \\\\
+&= \dfrac{1}{2} \times x + \dfrac{3}{4} \times y + 1
 \end{aligned}
 $
 </code></pre>

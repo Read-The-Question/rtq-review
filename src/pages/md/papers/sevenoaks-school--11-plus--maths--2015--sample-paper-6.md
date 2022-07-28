@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "18"
 ---
 <div class='paper'>
@@ -1986,7 +1986,7 @@ Red &: Blue \\
   3 &: 1 \\\\
 \text {or,}\\\\
 Red  &= \dfrac {3} {4} \\\\
-Blue &= \dfrac {1} {4}\\\\
+Blue &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -2041,7 +2041,7 @@ Red &: Blue \\
   3 &: 1 \\\\
 \text {or,}\\\\
 Red  &= \dfrac {3} {4} \\\\
-Blue &= \dfrac {1} {4}\\\\
+Blue &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -2758,7 +2758,7 @@ $
   \text{\textcircled c}  \text{---}
   \text{\textcircled b}  \text{---}
 \maroonC {\text{\textcircled a}  }
-\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
+\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}
 \end{aligned}
 $
 
@@ -2781,7 +2781,7 @@ $
  \maroonC {\text{\textcircled b}  } \text{---}
  \text{\textcircled c}  \text{---}
  \text{\textcircled d}  \text{---}
- \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
+ \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}
 \end{aligned}
 $
 
@@ -2896,7 +2896,7 @@ $
   \text{\textcircled c}  \text{---}
   \text{\textcircled b}  \text{---}
 \maroonC {\text{\textcircled a}  }
-\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
+\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}
 \end{aligned}
 $
 
@@ -2919,7 +2919,7 @@ $
  \maroonC {\text{\textcircled b}  } \text{---}
  \text{\textcircled c}  \text{---}
  \text{\textcircled d}  \text{---}
- \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\\\\
+ \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}
 \end{aligned}
 $
 

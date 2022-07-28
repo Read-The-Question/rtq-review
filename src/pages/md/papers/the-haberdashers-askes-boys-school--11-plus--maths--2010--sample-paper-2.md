@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "30"
 ---
 <div class='paper'>
@@ -3664,7 +3664,7 @@ Let's check the probability of outcomes of Events A, B C and D step by step and 
 $
 \begin{aligned} 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
- \\\\
+
 \end{aligned}
 $
 
@@ -3744,7 +3744,7 @@ Let's check the probability of outcomes of Events A, B C and D step by step and 
 
 $
 \begin{aligned} 
-rtq_abbr_katex_formula_aligned_probability \\\\
+rtq_abbr_katex_formula_aligned_probability
 \end{aligned}
 $
 
@@ -4069,7 +4069,7 @@ $
 \text {Offer B} &= \dfrac {3a}{4} \\\\
 \text {Offer C} &= \dfrac {2a}{3}  \\\\
 \text {Offer D} &= \dfrac {3a}{4} \\\\
-\text {Offer E} &= \dfrac {2a}{3}  \\\\    
+\text {Offer E} &= \dfrac {2a}{3}
 \end{aligned}
 $
 
@@ -4198,7 +4198,7 @@ $
 \text {Offer B} &= \dfrac {3a}{4} \\\\
 \text {Offer C} &= \dfrac {2a}{3}  \\\\
 \text {Offer D} &= \dfrac {3a}{4} \\\\
-\text {Offer E} &= \dfrac {2a}{3}  \\\\    
+\text {Offer E} &= \dfrac {2a}{3}
 \end{aligned}
 $
 
@@ -4558,7 +4558,7 @@ $
 \begin{aligned} 
       & = (1^2 + 2^2 + 3^2 + 4^2) + 5^2 \\\\
       & = 30 + 25                       \\\\
-      & = 55                            \\\\
+      & = 55
 \end{aligned}
 $
 
@@ -4608,7 +4608,7 @@ $
 \begin{aligned} 
       & = (1^2 + 2^2 + 3^2 + 4^2) + 5^2 \\\\
       & = 30 + 25                       \\\\
-      & = 55                            \\\\
+      & = 55
 \end{aligned}
 $
 
@@ -4835,7 +4835,7 @@ $
 \begin{aligned} 
       & = \text {Zoid + Yondo + Xenox} \\\\
       & = 50000 + 40000 + 2500         \\\\
-      & = 92500                        \\\\
+      & = 92500
 \end{aligned}
 $
 
@@ -4859,7 +4859,7 @@ $
 \begin{aligned} 
       & = \text {Zoid + Yondo + Xenox} \\\\
       & = 50000 + 40000 + 2500         \\\\
-      & = 92500                        \\\\
+      & = 92500
 \end{aligned}
 $
 
@@ -5163,7 +5163,7 @@ $
     \text {Thomas} & = \underline {{\text Brasted}}      \\\\
     \text {Henry}  & = \underline {{\text Knockholt}}    \\\\
     \text {Edward} & = \underline {{\text Dunton Green}} \\\\
-    \text {Gordon} & = \underline {{\text Brasted}}      \\\\
+    \text {Gordon} & = \underline {{\text Brasted}}
 \end{aligned}
 $
 
@@ -5215,7 +5215,7 @@ $
     \text {Thomas} & = \underline {{\text Brasted}}      \\\\
     \text {Henry}  & = \underline {{\text Knockholt}}    \\\\
     \text {Edward} & = \underline {{\text Dunton Green}} \\\\
-    \text {Gordon} & = \underline {{\text Brasted}}      \\\\
+    \text {Gordon} & = \underline {{\text Brasted}}
 \end{aligned}
 $
 

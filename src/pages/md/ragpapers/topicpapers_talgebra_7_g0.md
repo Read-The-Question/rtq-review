@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-g0"
 title: "TopicPaper - Algebra - 7 - G0"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "21"
 ---
 <ul class='question default-decimal'>
@@ -1313,7 +1313,7 @@ $
 x                                        &= \dfrac {9} {36} \\\\
 x                                        &= \dfrac {9} {9 \times 4} \\\\
                                          &= \dfrac{\cancel{9}} {\cancel{9} \times 4} \\\\
-                                         &= \dfrac {1} {4} \\\\ 
+                                         &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -1335,7 +1335,7 @@ $\dfrac {1} {4}$
 x                                        &= \dfrac {9} {36} \\\\
 x                                        &= \dfrac {9} {9 \times 4} \\\\
                                          &= \dfrac{\cancel{9}} {\cancel{9} \times 4} \\\\
-                                         &= \dfrac {1} {4} \\\\ 
+                                         &= \dfrac {1} {4}
 \end{aligned}
 $
 </code></pre>

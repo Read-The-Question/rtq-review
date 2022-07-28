@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-g0-prcr"
 title: "TopicPaper - Algebra - 15 - G0 - PRCR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "18"
 ---
 <ul class='question default-decimal'>

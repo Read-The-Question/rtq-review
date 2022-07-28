@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-oldpr-prcr"
 title: "TopicPaper - Order - 2 - OLDPR - PRCR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -107,7 +107,7 @@ $
 \begin{aligned}
 &= \dfrac {7} {10}, \dfrac {13} {20}, \dfrac {2} {3} \\\\
 &= \dfrac {7 \times 6} {10 \times 6}, \quad  \dfrac {13 \times 3} {20 \times 3 }, \quad \dfrac {2 \times 20} {3 \times 20} \\\\
-&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60} \\\\
+&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60}
 \end{aligned}
 $
 
@@ -116,7 +116,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= \dfrac {39} {60}, \quad \dfrac {40} {60}, \quad \dfrac {42} {60}  \\\\
-&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10} \\\\
+&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}
 \end{aligned}
 $
 
@@ -140,7 +140,7 @@ $
 \begin{aligned}
 &= \dfrac {7} {10}, \dfrac {13} {20}, \dfrac {2} {3} \\\\
 &= \dfrac {7 \times 6} {10 \times 6}, \quad  \dfrac {13 \times 3} {20 \times 3 }, \quad \dfrac {2 \times 20} {3 \times 20} \\\\
-&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60} \\\\
+&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60}
 \end{aligned}
 $
 
@@ -149,7 +149,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= \dfrac {39} {60}, \quad \dfrac {40} {60}, \quad \dfrac {42} {60}  \\\\
-&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10} \\\\
+&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}
 \end{aligned}
 $
 </code></pre>

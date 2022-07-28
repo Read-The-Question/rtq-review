@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "36"
 ---
 <div class='paper'>
@@ -5974,7 +5974,7 @@ $
 &= 32 - \dfrac{3 \times 32}{8} \\\\
 &= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
 &= 32 - 12 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 
@@ -5997,7 +5997,7 @@ $20$
 &= 32 - \dfrac{3 \times 32}{8} \\\\
 &= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
 &= 32 - 12 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 </code></pre>

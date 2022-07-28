@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-7-pr-prns"
 title: "TopicPaper - Simpleword - 7 - PR - PRNS"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -1543,7 +1543,7 @@ $
 \begin{aligned}
 &= 10 \times 5 \times 5 \times 8 \\\\
 &= 50 \times 40 \\\\
-&= 2000 \ \text {kg}\\\\
+&= 2000 \ \text {kg}
 \end{aligned}
 $
 
@@ -1572,7 +1572,7 @@ $
 \begin{aligned}
 &= 10 \times 5 \times 5 \times 8 \\\\
 &= 50 \times 40 \\\\
-&= 2000 \ \text {kg}\\\\
+&= 2000 \ \text {kg}
 \end{aligned}
 $
 
@@ -1616,7 +1616,7 @@ $
 \begin{aligned}
 &= 10 \times 8 \times 8 \times 5 \\\\
 &= 80 \times 40 \\\\
-&= 3200 \ \text {kg}\\\\
+&= 3200 \ \text {kg}
 \end{aligned}
 $
 
@@ -1626,7 +1626,7 @@ $
 \begin{aligned}
 &= \text {Load \ } 2 - \text {Load \ } 1 \\\\
 &= 3200 - 2000 \\\\
-&= 1200 \ \text {kg}\\\\
+&= 1200 \ \text {kg}
 \end{aligned}
 $
 
@@ -1655,7 +1655,7 @@ $
 \begin{aligned}
 &= 10 \times 8 \times 8 \times 5 \\\\
 &= 80 \times 40 \\\\
-&= 3200 \ \text {kg}\\\\
+&= 3200 \ \text {kg}
 \end{aligned}
 $
 
@@ -1665,7 +1665,7 @@ $
 \begin{aligned}
 &= \text {Load \ } 2 - \text {Load \ } 1 \\\\
 &= 3200 - 2000 \\\\
-&= 1200 \ \text {kg}\\\\
+&= 1200 \ \text {kg}
 \end{aligned}
 $
 
@@ -1716,7 +1716,7 @@ h^2  &= \dfrac {4860}{10 \times 6} \\\\
      &= \dfrac{{\cancel{486}}\raisebox{0.9em}{81}} {\cancel{6} \raisebox{-0.9em}{1}} \\\\
      &= 81 \\\\
 h^2  &= 9^2 \\\\
-   h &= 9 \ \text {cm} \\\\
+   h &= 9 \ \text {cm}
 \end{aligned}
 $
 
@@ -1749,7 +1749,7 @@ h^2  &= \dfrac {4860}{10 \times 6} \\\\
      &= \dfrac{{\cancel{486}}\raisebox{0.9em}{81}} {\cancel{6} \raisebox{-0.9em}{1}} \\\\
      &= 81 \\\\
 h^2  &= 9^2 \\\\
-   h &= 9 \ \text {cm} \\\\
+   h &= 9 \ \text {cm}
 \end{aligned}
 $
 </code></pre>
@@ -3363,7 +3363,7 @@ $
 1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
 1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
 1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
-1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
+1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}
 \end{aligned}
 $
 
@@ -3390,7 +3390,7 @@ $
 1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
 1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
 1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
-1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
+1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}
 \end{aligned}
 $
 </code></pre>
@@ -3434,7 +3434,7 @@ $
 1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
 1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
 1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
-1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
+1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}
 \end{aligned}
 $
 
@@ -3462,7 +3462,7 @@ $
 1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
 1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
 1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
-1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
+1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttable-1"
 title: "TopicPaper - Table - 1"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -7772,7 +7772,7 @@ $
 \begin{aligned}
 n &= 8 \\\\
 g &= 1 \\\\
-p &= 2 \\\\
+p &= 2
 \end{aligned}
 $
 
@@ -7816,7 +7816,7 @@ $3$ or $2$ combinations for tricks which add up
 $
 \begin{aligned}
 t &= (4 \times 5) + (3 \times 3) + (2 \times 2) \\\\
-n &= 9 \\\\
+n &= 9
 \end{aligned}
 $
 
@@ -7829,7 +7829,7 @@ s &= 8 - 3 \\\\
 s &= 5 \\\\
 t &= (5 \times 5) + (1 \times 3) + (2 \times 2) \\\\
 t &= 25 + 3 + 4\\\\
-t &= 32\\\\
+t &= 32
 \end{aligned}
 $
 
@@ -7873,7 +7873,7 @@ $
 \begin{aligned}
 n &= 8 \\\\
 g &= 1 \\\\
-p &= 2 \\\\
+p &= 2
 \end{aligned}
 $
 
@@ -7917,7 +7917,7 @@ $3$ or $2$ combinations for tricks which add up
 $
 \begin{aligned}
 t &= (4 \times 5) + (3 \times 3) + (2 \times 2) \\\\
-n &= 9 \\\\
+n &= 9
 \end{aligned}
 $
 
@@ -7930,7 +7930,7 @@ s &= 8 - 3 \\\\
 s &= 5 \\\\
 t &= (5 \times 5) + (1 \times 3) + (2 \times 2) \\\\
 t &= 25 + 3 + 4\\\\
-t &= 32\\\\
+t &= 32
 \end{aligned}
 $
 

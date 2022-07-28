@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "59"
 ---
 <div class='paper'>
@@ -1174,7 +1174,7 @@ In this case, there are more decimals than fractions, so let's convert all the n
 $
 \begin{aligned}
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8} \\\\
-&= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
+&= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75
 \end{aligned}
 $
 
@@ -1208,7 +1208,7 @@ In this case, there are more decimals than fractions, so let's convert all the n
 $
 \begin{aligned}
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8} \\\\
-&= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
+&= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75
 \end{aligned}
 $
 
@@ -1380,7 +1380,7 @@ $
 & 3 \times 4 - 2 + 3 = 9 \\\\
 & 3 \times (4 - 2) + 3 \\\\
 & (3 \times (4 - 2)) + 3 \\\\
-& (3 \times (4 - 2)) + 3 \\\\
+& (3 \times (4 - 2)) + 3
 \end{aligned}
 $
 
@@ -1401,7 +1401,7 @@ $ (3 \times (4 - 2)) + 3 = 9$
 & 3 \times 4 - 2 + 3 = 9 \\\\
 & 3 \times (4 - 2) + 3 \\\\
 & (3 \times (4 - 2)) + 3 \\\\
-& (3 \times (4 - 2)) + 3 \\\\
+& (3 \times (4 - 2)) + 3
 \end{aligned}
 $
 </code></pre>
@@ -9330,7 +9330,7 @@ $
 \begin{aligned}
  \text{1. } 8 \text{ cm} \times 3 \text{ cm} \\\\
  \text{2. } 4 \text{ cm} \times 6 \text{ cm} \\\\
- \text{3. } 12 \text{ cm} \times 2 \text{ cm} \\\\
+ \text{3. } 12 \text{ cm} \times 2 \text{ cm}
 \end{aligned}
 $
 
@@ -9350,7 +9350,7 @@ $\text{1. } 8 \text{ cm} \times 3 \text{ cm}, \text{2. } 4 \text{ cm} \times 6 \
 \begin{aligned}
  \text{1. } 8 \text{ cm} \times 3 \text{ cm} \\\\
  \text{2. } 4 \text{ cm} \times 6 \text{ cm} \\\\
- \text{3. } 12 \text{ cm} \times 2 \text{ cm} \\\\
+ \text{3. } 12 \text{ cm} \times 2 \text{ cm}
 \end{aligned}
 $
 </code></pre>
@@ -12431,7 +12431,7 @@ x  + y + 74                             &= 180 \\\\
 74 + y + 74                             &= 180 \\\\
 y + 148                                 &= 180 \\\\
 y                                       &= 180 - 148 \\\\
-y                                       &= 32 \degree \\\\
+y                                       &= 32 \degree
 \end{aligned}
 $
 
@@ -12483,7 +12483,7 @@ x  + y + 74                             &= 180 \\\\
 74 + y + 74                             &= 180 \\\\
 y + 148                                 &= 180 \\\\
 y                                       &= 180 - 148 \\\\
-y                                       &= 32 \degree \\\\
+y                                       &= 32 \degree
 \end{aligned}
 $
 

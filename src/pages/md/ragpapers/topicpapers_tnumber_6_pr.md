@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-pr"
 title: "TopicPaper - Number - 6 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -123,7 +123,7 @@ $
 \begin{aligned}
 \underline 9 \times 11 &= 99 \\\\
 \underline 11 \times 9 &= 99 \\\\
-\underline 33 \times 3 &= 99 \\\\
+\underline 33 \times 3 &= 99
 \end{aligned}
 $
 
@@ -157,7 +157,7 @@ $
 \begin{aligned}
 \underline 9 \times 11 &= 99 \\\\
 \underline 11 \times 9 &= 99 \\\\
-\underline 33 \times 3 &= 99 \\\\
+\underline 33 \times 3 &= 99
 \end{aligned}
 $
 

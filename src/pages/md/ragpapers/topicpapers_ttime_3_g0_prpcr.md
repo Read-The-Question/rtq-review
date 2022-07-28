@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g0-prpcr"
 title: "TopicPaper - Time - 3 - G0 - PRPCR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -722,7 +722,7 @@ Melanie’s father took $1 \ \text{hr} \ 25 \ \text{mins}$ to drive from Peterbo
 $
 \begin{aligned}
 \text {Arrival Time}           &= 11{:}45   + 1 \ \text{hours} \ 25 \ \text {minutes} \\\\
-                               &= 1{:}10 \ \text {pm} \\\\
+                               &= 1{:}10 \ \text {pm}
 \end{aligned}
 $
 
@@ -741,7 +741,7 @@ $1:10 \ \text{pm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Arrival Time}           &= 11{:}45   + 1 \ \text{hours} \ 25 \ \text {minutes} \\\\
-                               &= 1{:}10 \ \text {pm} \\\\
+                               &= 1{:}10 \ \text {pm}
 \end{aligned}
 $
 </code></pre>

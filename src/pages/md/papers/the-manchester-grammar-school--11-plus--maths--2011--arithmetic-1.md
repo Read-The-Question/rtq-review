@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "20"
 ---
 <div class='paper'>
@@ -2647,7 +2647,7 @@ $
 \text{Total coins}  &= a + 2a + 4a \\\\
                     &= 7a \\\\
                     &= 7 \times 8 \\\\
-                    &= 56 \ \text{coins} \\\\
+                    &= 56 \ \text{coins}
 \end{aligned}
 $
 
@@ -2698,7 +2698,7 @@ $
 \text{Total coins}  &= a + 2a + 4a \\\\
                     &= 7a \\\\
                     &= 7 \times 8 \\\\
-                    &= 56 \ \text{coins} \\\\
+                    &= 56 \ \text{coins}
 \end{aligned}
 $
 </code></pre>

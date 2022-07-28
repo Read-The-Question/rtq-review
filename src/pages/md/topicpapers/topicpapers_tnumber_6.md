@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-6"
 title: "TopicPaper - Number - 6"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -4599,7 +4599,7 @@ $
 \begin{aligned}
 \underline 9 \times 11 &= 99 \\\\
 \underline 11 \times 9 &= 99 \\\\
-\underline 33 \times 3 &= 99 \\\\
+\underline 33 \times 3 &= 99
 \end{aligned}
 $
 
@@ -4633,7 +4633,7 @@ $
 \begin{aligned}
 \underline 9 \times 11 &= 99 \\\\
 \underline 11 \times 9 &= 99 \\\\
-\underline 33 \times 3 &= 99 \\\\
+\underline 33 \times 3 &= 99
 \end{aligned}
 $
 
@@ -8559,7 +8559,7 @@ $
 \text{D}    &= 22 - 10 + (8 \div 4) \\\\
             &= 12 + 2 \\\\
             &= \red
-{14} \neq 5 \\\\
+{14} \neq 5
 \end{aligned}
 $
 
@@ -8594,7 +8594,7 @@ $
             &= \rtq_katex_color_answer{5} \\\\
 \text{D}    &= 22 - 10 + (8 \div 4) \\\\
             &= 12 + 2 \\\\
-            &= \rtq_katex_color_wrong_answer{14} \neq 5 \\\\
+            &= \rtq_katex_color_wrong_answer{14} \neq 5
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-8-g0"
 title: "TopicPaper - Algebra - 8 - G0"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "32"
 ---
 <ul class='question default-decimal'>
@@ -2304,7 +2304,7 @@ x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
 x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2 \\\\
+x                                                              &= -2
 \end{aligned}
 $
 
@@ -2331,7 +2331,7 @@ x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
 x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2 \\\\
+x                                                              &= -2
 \end{aligned}
 $
 </code></pre>

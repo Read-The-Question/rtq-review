@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-4"
 title: "TopicPaper - Infer - 4"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -6179,7 +6179,7 @@ $
 \begin{aligned} 
       & = \text {Zoid + Yondo + Xenox} \\\\
       & = 50000 + 40000 + 2500         \\\\
-      & = 92500                        \\\\
+      & = 92500
 \end{aligned}
 $
 
@@ -6203,7 +6203,7 @@ $
 \begin{aligned} 
       & = \text {Zoid + Yondo + Xenox} \\\\
       & = 50000 + 40000 + 2500         \\\\
-      & = 92500                        \\\\
+      & = 92500
 \end{aligned}
 $
 
@@ -6507,7 +6507,7 @@ $
     \text {Thomas} & = \underline {{\text Brasted}}      \\\\
     \text {Henry}  & = \underline {{\text Knockholt}}    \\\\
     \text {Edward} & = \underline {{\text Dunton Green}} \\\\
-    \text {Gordon} & = \underline {{\text Brasted}}      \\\\
+    \text {Gordon} & = \underline {{\text Brasted}}
 \end{aligned}
 $
 
@@ -6559,7 +6559,7 @@ $
     \text {Thomas} & = \underline {{\text Brasted}}      \\\\
     \text {Henry}  & = \underline {{\text Knockholt}}    \\\\
     \text {Edward} & = \underline {{\text Dunton Green}} \\\\
-    \text {Gordon} & = \underline {{\text Brasted}}      \\\\
+    \text {Gordon} & = \underline {{\text Brasted}}
 \end{aligned}
 $
 

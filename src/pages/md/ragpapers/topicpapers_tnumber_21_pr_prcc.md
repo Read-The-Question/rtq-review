@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-pr-prcc"
 title: "TopicPaper - Number - 21 - PR - PRCC"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -112,7 +112,7 @@ As per the question,
 $
 \begin{aligned}
 2a + b &= 35 \\\\
-2b - a &= 15 \\\\
+2b - a &= 15
 \end{aligned}
 $
 
@@ -127,7 +127,7 @@ $
 70 -15          &= 5a \\\\
 5a             &= 55 \\\\
 a               &= \dfrac {55} {5} \\\\
-a               &= 11 \\\\
+a               &= 11
 \end{aligned}
 $
 
@@ -139,7 +139,7 @@ $
 2 \times 11 + b &= 35 \\\\
 22 + b &= 35 \\\\
 b &= 35 - 22 \\\\
-b &= 13 \\\\
+b &= 13
 \end{aligned}
 $
 
@@ -175,7 +175,7 @@ As per the question,
 $
 \begin{aligned}
 2a + b &= 35 \\\\
-2b - a &= 15 \\\\
+2b - a &= 15
 \end{aligned}
 $
 
@@ -190,7 +190,7 @@ $
 70 -15          &= 5a \\\\
 5a             &= 55 \\\\
 a               &= \dfrac {55} {5} \\\\
-a               &= 11 \\\\
+a               &= 11
 \end{aligned}
 $
 
@@ -202,7 +202,7 @@ $
 2 \times 11 + b &= 35 \\\\
 22 + b &= 35 \\\\
 b &= 35 - 22 \\\\
-b &= 13 \\\\
+b &= 13
 \end{aligned}
 $
 
@@ -799,7 +799,7 @@ Lets verify
 $
 \begin{aligned}
 \text{Remainder for} \ 32 \div 5 &= 2 \\\\
-\text{Remainder for} \ 32 \div 7 &= 4 \\\\
+\text{Remainder for} \ 32 \div 7 &= 4
 \end{aligned}
 $
 
@@ -832,7 +832,7 @@ Lets verify
 $
 \begin{aligned}
 \text{Remainder for} \ 32 \div 5 &= 2 \\\\
-\text{Remainder for} \ 32 \div 7 &= 4 \\\\
+\text{Remainder for} \ 32 \div 7 &= 4
 \end{aligned}
 $
 </code></pre>

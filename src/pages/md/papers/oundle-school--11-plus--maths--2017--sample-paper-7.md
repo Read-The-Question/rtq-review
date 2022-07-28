@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "11"
 ---
 <div class='paper'>
@@ -506,7 +506,7 @@ $
                                                 &= \dfrac {67 \times 3490} {100} \\\\
                                                 &= \dfrac {233830} {100} \\\\
                                                 &= 2338.3 \\\\
-\text{Rounding down to nearest whole number}    &= 2338 \\\\
+\text{Rounding down to nearest whole number}    &= 2338
 \end{aligned}
 $
 
@@ -529,7 +529,7 @@ $2338$
                                                 &= \dfrac {67 \times 3490} {100} \\\\
                                                 &= \dfrac {233830} {100} \\\\
                                                 &= 2338.3 \\\\
-\text{Rounding down to nearest whole number}    &= 2338 \\\\
+\text{Rounding down to nearest whole number}    &= 2338
 \end{aligned}
 $
 </code></pre>
@@ -2366,7 +2366,7 @@ $
 \begin{aligned}
 a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
 a                                                           &= \sqrt[3]{9177} \\\\
-a                                                           &= 21 \, \text{approx.} \\\\
+a                                                           &= 21 \, \text{approx.}
 \end{aligned}
 $
 
@@ -2398,7 +2398,7 @@ $
 \begin{aligned}
 a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
 a                                                           &= \sqrt[3]{9177} \\\\
-a                                                           &= 21 \, \text{approx.} \\\\
+a                                                           &= 21 \, \text{approx.}
 \end{aligned}
 $
 

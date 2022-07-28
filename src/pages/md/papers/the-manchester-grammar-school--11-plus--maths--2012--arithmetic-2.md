@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "12"
 ---
 <div class='paper'>
@@ -920,7 +920,7 @@ $
 \begin{aligned}
 &= 10 \times 5 \times 5 \times 8 \\\\
 &= 50 \times 40 \\\\
-&= 2000 \ \text {kg}\\\\
+&= 2000 \ \text {kg}
 \end{aligned}
 $
 
@@ -949,7 +949,7 @@ $
 \begin{aligned}
 &= 10 \times 5 \times 5 \times 8 \\\\
 &= 50 \times 40 \\\\
-&= 2000 \ \text {kg}\\\\
+&= 2000 \ \text {kg}
 \end{aligned}
 $
 
@@ -993,7 +993,7 @@ $
 \begin{aligned}
 &= 10 \times 8 \times 8 \times 5 \\\\
 &= 80 \times 40 \\\\
-&= 3200 \ \text {kg}\\\\
+&= 3200 \ \text {kg}
 \end{aligned}
 $
 
@@ -1003,7 +1003,7 @@ $
 \begin{aligned}
 &= \text {Load \ } 2 - \text {Load \ } 1 \\\\
 &= 3200 - 2000 \\\\
-&= 1200 \ \text {kg}\\\\
+&= 1200 \ \text {kg}
 \end{aligned}
 $
 
@@ -1032,7 +1032,7 @@ $
 \begin{aligned}
 &= 10 \times 8 \times 8 \times 5 \\\\
 &= 80 \times 40 \\\\
-&= 3200 \ \text {kg}\\\\
+&= 3200 \ \text {kg}
 \end{aligned}
 $
 
@@ -1042,7 +1042,7 @@ $
 \begin{aligned}
 &= \text {Load \ } 2 - \text {Load \ } 1 \\\\
 &= 3200 - 2000 \\\\
-&= 1200 \ \text {kg}\\\\
+&= 1200 \ \text {kg}
 \end{aligned}
 $
 
@@ -1093,7 +1093,7 @@ h^2  &= \dfrac {4860}{10 \times 6} \\\\
      &= \dfrac{{\cancel{486}}\raisebox{0.9em}{81}} {\cancel{6} \raisebox{-0.9em}{1}} \\\\
      &= 81 \\\\
 h^2  &= 9^2 \\\\
-   h &= 9 \ \text {cm} \\\\
+   h &= 9 \ \text {cm}
 \end{aligned}
 $
 
@@ -1126,7 +1126,7 @@ h^2  &= \dfrac {4860}{10 \times 6} \\\\
      &= \dfrac{{\cancel{486}}\raisebox{0.9em}{81}} {\cancel{6} \raisebox{-0.9em}{1}} \\\\
      &= 81 \\\\
 h^2  &= 9^2 \\\\
-   h &= 9 \ \text {cm} \\\\
+   h &= 9 \ \text {cm}
 \end{aligned}
 $
 </code></pre>
@@ -1670,7 +1670,7 @@ $
 1l &= 3a \text { \ \ so,} \\\\
 1f &= 2 \ l  \\\\
       &= 2 (3a) \\\\
-      &= 6a \\\\
+      &= 6a
 \end{aligned}
 $
 
@@ -1695,7 +1695,7 @@ $
 1l &= 3a \text { \ \ so,} \\\\
 1f &= 2 \ l  \\\\
       &= 2 (3a) \\\\
-      &= 6a \\\\
+      &= 6a
 \end{aligned}
 $
 
@@ -1732,7 +1732,7 @@ $
 \begin{aligned}
 2f &= 2 \times 2l \\\\
 4l &= 4 \times 3a \\\\
-   &= 12a \\\\
+   &= 12a
 \end{aligned}
 $
 
@@ -1756,7 +1756,7 @@ $
 \begin{aligned}
 2f &= 2 \times 2l \\\\
 4l &= 4 \times 3a \\\\
-   &= 12a \\\\
+   &= 12a
 \end{aligned}
 $
 
@@ -1796,7 +1796,7 @@ $
  3f &= 3 \times 2l \\\\
     &= 6l \\\\
 12a &= 12 \div 3l \\\\
-12a &= 4l \\\\
+12a &= 4l
 \end{aligned}
 $
 
@@ -1807,7 +1807,7 @@ Irfan bought $3f + 12a$. Now let's substitute,
 $
 \begin{aligned}
 &= 6l + 4l \\\\
-&= 10l \\\\
+&= 10l
 \end{aligned}
 $
 
@@ -1831,7 +1831,7 @@ $
  3f &= 3 \times 2l \\\\
     &= 6l \\\\
 12a &= 12 \div 3l \\\\
-12a &= 4l \\\\
+12a &= 4l
 \end{aligned}
 $
 
@@ -1842,7 +1842,7 @@ Irfan bought $3f + 12a$. Now let's substitute,
 $
 \begin{aligned}
 &= 6l + 4l \\\\
-&= 10l \\\\
+&= 10l
 \end{aligned}
 $
 
@@ -1882,7 +1882,7 @@ $
 \begin{aligned}
  6a &= 1f \text {so,} \\\\
 54a &= \dfrac {54}{6} f \\\\
-    &= 9f\\\\
+    &= 9f
 \end{aligned}
 $
 
@@ -1893,7 +1893,7 @@ Now for $1$ loaf he needs $4$ fish.
 $
 \begin{aligned}
 2l &= 1f \\\\
-9f &= 8f + 2l \\\\
+9f &= 8f + 2l
 \end{aligned}
 $
 
@@ -1914,7 +1914,7 @@ As per the question
 $
 \begin{aligned}
 1f &= 6a \\\\
-1l &= 3a \\\\
+1l &= 3a
 \end{aligned}
 $
 
@@ -1924,7 +1924,7 @@ $
    &= 24x + 3x \\\\
    &= 27x \\\\
  x &= \dfrac{54}{27}   \\\\
- x &= 2 \\\\
+ x &= 2
 \end{aligned}
 $
 
@@ -1935,7 +1935,7 @@ $
  \text {loaf} &= x = 2 \\\\
  \text {fish} &= 4x \\\\
               &= 4 \times 2 \\\\
-              &= 8 \\\\
+              &= 8
 \end{aligned}
 $
 
@@ -1964,7 +1964,7 @@ $
 \begin{aligned}
  6a &= 1f \text {so,} \\\\
 54a &= \dfrac {54}{6} f \\\\
-    &= 9f\\\\
+    &= 9f
 \end{aligned}
 $
 
@@ -1975,7 +1975,7 @@ Now for $1$ loaf he needs $4$ fish.
 $
 \begin{aligned}
 2l &= 1f \\\\
-9f &= 8f + 2l \\\\
+9f &= 8f + 2l
 \end{aligned}
 $
 
@@ -1996,7 +1996,7 @@ As per the question
 $
 \begin{aligned}
 1f &= 6a \\\\
-1l &= 3a \\\\
+1l &= 3a
 \end{aligned}
 $
 
@@ -2006,7 +2006,7 @@ $
    &= 24x + 3x \\\\
    &= 27x \\\\
  x &= \dfrac{54}{27}   \\\\
- x &= 2 \\\\
+ x &= 2
 \end{aligned}
 $
 
@@ -2017,7 +2017,7 @@ $
  \text {loaf} &= x = 2 \\\\
  \text {fish} &= 4x \\\\
               &= 4 \times 2 \\\\
-              &= 8 \\\\
+              &= 8
 \end{aligned}
 $
 
@@ -2186,7 +2186,7 @@ $
 \begin{aligned}
 n &= 8 \\\\
 g &= 1 \\\\
-p &= 2 \\\\
+p &= 2
 \end{aligned}
 $
 
@@ -2230,7 +2230,7 @@ $3$ or $2$ combinations for tricks which add up
 $
 \begin{aligned}
 t &= (4 \times 5) + (3 \times 3) + (2 \times 2) \\\\
-n &= 9 \\\\
+n &= 9
 \end{aligned}
 $
 
@@ -2243,7 +2243,7 @@ s &= 8 - 3 \\\\
 s &= 5 \\\\
 t &= (5 \times 5) + (1 \times 3) + (2 \times 2) \\\\
 t &= 25 + 3 + 4\\\\
-t &= 32\\\\
+t &= 32
 \end{aligned}
 $
 
@@ -2287,7 +2287,7 @@ $
 \begin{aligned}
 n &= 8 \\\\
 g &= 1 \\\\
-p &= 2 \\\\
+p &= 2
 \end{aligned}
 $
 
@@ -2331,7 +2331,7 @@ $3$ or $2$ combinations for tricks which add up
 $
 \begin{aligned}
 t &= (4 \times 5) + (3 \times 3) + (2 \times 2) \\\\
-n &= 9 \\\\
+n &= 9
 \end{aligned}
 $
 
@@ -2344,7 +2344,7 @@ s &= 8 - 3 \\\\
 s &= 5 \\\\
 t &= (5 \times 5) + (1 \times 3) + (2 \times 2) \\\\
 t &= 25 + 3 + 4\\\\
-t &= 32\\\\
+t &= 32
 \end{aligned}
 $
 
@@ -3498,7 +3498,7 @@ $
 3 &= 1 + 4 + 0 + y \\\\
   &= 5 + y \\\\
 3 - 5 &= y \\\\
--2 &= y\\\\
+-2 &= y
 \end{aligned}
 $
 
@@ -3535,7 +3535,7 @@ $
 3 &= 1 + 4 + 0 + y \\\\
   &= 5 + y \\\\
 3 - 5 &= y \\\\
--2 &= y\\\\
+-2 &= y
 \end{aligned}
 $
 
@@ -3591,7 +3591,7 @@ $
       &= 6 - 4 + y\\\\
       &= 2 + y\\\\
 3 - 2 &= y\\\\
-    1 &= y\\\\
+    1 &= y
 \end{aligned}
 $
 
@@ -3634,7 +3634,7 @@ $
       &= 6 - 4 + y\\\\
       &= 2 + y\\\\
 3 - 2 &= y\\\\
-    1 &= y\\\\
+    1 &= y
 \end{aligned}
 $
 
@@ -4160,7 +4160,7 @@ $
                                 &= 1.5 \ \text {m} \\\\
 60 \ \text {Turns}              &= 60 \times 1.5 \\\\
                                 &= 6 \times 15 \\\\
-                                &= 90  \ \text {m} \\\\
+                                &= 90  \ \text {m}
 \end{aligned}
 $
 
@@ -4190,7 +4190,7 @@ $
                                 &= 1.5 \ \text {m} \\\\
 60 \ \text {Turns}              &= 60 \times 1.5 \\\\
                                 &= 6 \times 15 \\\\
-                                &= 90  \ \text {m} \\\\
+                                &= 90  \ \text {m}
 \end{aligned}
 $
 
@@ -4234,7 +4234,7 @@ a             &= 600 \times 1.5 \\\\
 a             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
 a             &= \dfrac {15 \times 400} {15} \\\\
 a             &= \dfrac {\cancel {15} \times 400} {\cancel {15}} \\\\
-a             &= 400 \ \text {Turns}\\\\
+a             &= 400 \ \text {Turns}
 \end{aligned}
 $
 
@@ -4264,7 +4264,7 @@ a             &= 600 \times 1.5 \\\\
 a             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
 a             &= \dfrac {15 \times 400} {15} \\\\
 a             &= \dfrac {\cancel {15} \times 400} {\cancel {15}} \\\\
-a             &= 400 \ \text {Turns}\\\\
+a             &= 400 \ \text {Turns}
 \end{aligned}
 $
 
@@ -4513,7 +4513,7 @@ $
 &= \dfrac {125 \cancel 00}{500 \cancel 00} \\\\
 &= \dfrac {{\cancel{125}\raisebox{0.9em}{5}}}{{\cancel{500}\raisebox{-0.9em}{100}}} \\\\
 &=\dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{100}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
+&=\dfrac {1}{4}
 \end{aligned}
 $
 
@@ -4548,7 +4548,7 @@ $
 &= \dfrac {125 \cancel 00}{500 \cancel 00} \\\\
 &= \dfrac {{\cancel{125}\raisebox{0.9em}{5}}}{{\cancel{500}\raisebox{-0.9em}{100}}} \\\\
 &=\dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{100}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
+&=\dfrac {1}{4}
 \end{aligned}
 $
 
@@ -4595,7 +4595,7 @@ $
 &= \dfrac {50}{200} \\\\
 &= \dfrac {5 \cancel 0}{20 \cancel 0} \\\\
 &= \dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{20}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
+&=\dfrac {1}{4}
 \end{aligned}
 $
 
@@ -4643,7 +4643,7 @@ $
 &= \dfrac {50}{200} \\\\
 &= \dfrac {5 \cancel 0}{20 \cancel 0} \\\\
 &= \dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{20}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
+&=\dfrac {1}{4}
 \end{aligned}
 $
 
@@ -5454,7 +5454,7 @@ Point B $(9,8)$ to $A$
 $
 \begin{aligned}
 A &= 1 R, 2 U \\\\
-  &=K-step\\\\
+  &=K-step
 \end{aligned}
 $
 
@@ -5509,7 +5509,7 @@ Point B $(9,8)$ to $A$
 $
 \begin{aligned}
 A &= 1 R, 2 U \\\\
-  &=K-step\\\\
+  &=K-step
 \end{aligned}
 $
 

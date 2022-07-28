@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-g0-prcc"
 title: "TopicPaper - Algebra - 12 - G0 - PRCC"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -156,7 +156,7 @@ As per the question,
 $
 \begin{aligned}
 s + b + 2t  &= \pounds 5.80 \\\\
-2s + 2b + t &= \pounds 6.50 \\\\
+2s + 2b + t &= \pounds 6.50
 \end{aligned}
 $
 
@@ -197,7 +197,7 @@ As per the question,
 $
 \begin{aligned}
 s + b + 2t  &= \pounds 5.80 \\\\
-2s + 2b + t &= \pounds 6.50 \\\\
+2s + 2b + t &= \pounds 6.50
 \end{aligned}
 $
 

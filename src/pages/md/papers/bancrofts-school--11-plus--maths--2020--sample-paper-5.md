@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2020-sample-paper-5"
 title: "Bancrofts School - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "11"
 ---
 <div class='paper'>
@@ -1843,7 +1843,7 @@ $
 a \times a          &= 81 \\\\
 a^2                 &= 81 \\\\
 a                   &= \sqrt {81} \\\\
-a                   &= 9 \ \text{cm} \\\\
+a                   &= 9 \ \text{cm}
 \end{aligned}
 $
 
@@ -1882,7 +1882,7 @@ $
 a \times a          &= 81 \\\\
 a^2                 &= 81 \\\\
 a                   &= \sqrt {81} \\\\
-a                   &= 9 \ \text{cm} \\\\
+a                   &= 9 \ \text{cm}
 \end{aligned}
 $
 

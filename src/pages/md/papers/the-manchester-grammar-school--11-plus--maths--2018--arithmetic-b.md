@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic B"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "11"
 ---
 <div class='paper'>
@@ -341,7 +341,7 @@ Put a circle round **each** of the multiples of $3$.
 
 $
 \begin{array}{ccccccccccccccccc}
-11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19 \\\\
+11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19
 \end{array}
 $
 
@@ -351,7 +351,7 @@ $
 \begin{aligned}
 12 &= 3 \times 4 \\\\
 15 &= 3 \times 5 \\\\
-18 &= 3 \times 6 \\\\
+18 &= 3 \times 6
 \end{aligned}
 $
 
@@ -379,7 +379,7 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{ccccccccccccccccc}
-11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19 \\\\
+11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19
 \end{array}
 $
 
@@ -389,7 +389,7 @@ $
 \begin{aligned}
 12 &= 3 \times 4 \\\\
 15 &= 3 \times 5 \\\\
-18 &= 3 \times 6 \\\\
+18 &= 3 \times 6
 \end{aligned}
 $
 </code></pre>
@@ -437,7 +437,7 @@ Draw a line underneath **each** of the prime numbers.
 
 $
 \begin{array}{ccccccccccccccccc}
-\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19} \\\\
+\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19}
 \end{array}
 $
 
@@ -465,7 +465,7 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{ccccccccccccccccc}
-\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19} \\\\
+\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19}
 \end{array}
 $
 </code></pre>
@@ -513,7 +513,7 @@ Put a **square** round the square number.
 
 $
 \begin{array}{ccccccccccccccccc}
-11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19 \\\\
+11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19
 \end{array}
 $
 
@@ -521,7 +521,7 @@ Lets verify
 
 $
 \begin{aligned}
-16 &= 4^2 \\\\
+16 &= 4^2
 \end{aligned}
 $
 
@@ -549,7 +549,7 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{ccccccccccccccccc}
-11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19 \\\\
+11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19
 \end{array}
 $
 
@@ -557,7 +557,7 @@ Lets verify
 
 $
 \begin{aligned}
-16 &= 4^2 \\\\
+16 &= 4^2
 \end{aligned}
 $
 </code></pre>
@@ -607,7 +607,7 @@ The numbers remained = 14
 
 $
 \begin{aligned}
-\text {Factors of } 14 &= 1, 2, 7, 14 \\\\
+\text {Factors of } 14 &= 1, 2, 7, 14
 \end{aligned}
 $ 
 
@@ -637,7 +637,7 @@ TODOANSWER
 
 $
 \begin{aligned}
-\text {Factors of } 14 &= 1, 2, 7, 14 \\\\
+\text {Factors of } 14 &= 1, 2, 7, 14
 \end{aligned}
 $ 
 </code></pre>

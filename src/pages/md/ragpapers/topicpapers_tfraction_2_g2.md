@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-g2"
 title: "TopicPaper - Fraction - 2 - G2"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "32"
 ---
 <ul class='question default-decimal'>
@@ -6858,7 +6858,7 @@ $
 \begin{aligned}
 &= \dfrac{1}{9} , \quad \dfrac{1}{10} , \quad \dfrac{4}{9}, \quad \dfrac{1}{2}, \quad \dfrac{1}{100}, \quad \dfrac{1}{8} \\\\
 &= \dfrac{1 \times 200}{9 \times 200} , \quad \dfrac{1 \times 180}{10 \times 180} , \quad \dfrac{4 \times 200}{9 \times 200}, \quad \dfrac{1 \times 900}{2 \times 900}, \quad \dfrac{1 \times 18}{100 \times 18}, \quad \dfrac{1 \times 225}{8 \times 225} \\\\
-&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800} \\\\
+&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800}
 \end{aligned}
 $
 
@@ -6894,7 +6894,7 @@ $
 \begin{aligned}
 &= \dfrac{1}{9} , \quad \dfrac{1}{10} , \quad \dfrac{4}{9}, \quad \dfrac{1}{2}, \quad \dfrac{1}{100}, \quad \dfrac{1}{8} \\\\
 &= \dfrac{1 \times 200}{9 \times 200} , \quad \dfrac{1 \times 180}{10 \times 180} , \quad \dfrac{4 \times 200}{9 \times 200}, \quad \dfrac{1 \times 900}{2 \times 900}, \quad \dfrac{1 \times 18}{100 \times 18}, \quad \dfrac{1 \times 225}{8 \times 225} \\\\
-&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800} \\\\
+&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800}
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g2"
 title: "TopicPaper - Age - 1 - G2"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -3839,7 +3839,7 @@ $
                         &= \dfrac {53} {6} \\\\
                         &= 8 \dfrac {5} {6} \ \text {years} \\\\
                         &= 8 \ \text {years} \ \dfrac {5} {6} \times 12 \ \text {months} \\\\
-                        &= 8 \ \text {years } 10 \ \text {months} \\\\
+                        &= 8 \ \text {years } 10 \ \text {months}
 \end{aligned}
 $
 
@@ -3868,7 +3868,7 @@ $8 \ \text {years } 10 \ \text {months}$
                         &= \dfrac {53} {6} \\\\
                         &= 8 \dfrac {5} {6} \ \text {years} \\\\
                         &= 8 \ \text {years} \ \dfrac {5} {6} \times 12 \ \text {months} \\\\
-                        &= 8 \ \text {years } 10 \ \text {months} \\\\
+                        &= 8 \ \text {years } 10 \ \text {months}
 \end{aligned}
 $
 </code></pre>

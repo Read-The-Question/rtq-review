@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-10"
 title: "TopicPaper - Number - 10"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -8752,7 +8752,7 @@ $
                                                 &= \dfrac {67 \times 3490} {100} \\\\
                                                 &= \dfrac {233830} {100} \\\\
                                                 &= 2338.3 \\\\
-\text{Rounding down to nearest whole number}    &= 2338 \\\\
+\text{Rounding down to nearest whole number}    &= 2338
 \end{aligned}
 $
 
@@ -8775,7 +8775,7 @@ $2338$
                                                 &= \dfrac {67 \times 3490} {100} \\\\
                                                 &= \dfrac {233830} {100} \\\\
                                                 &= 2338.3 \\\\
-\text{Rounding down to nearest whole number}    &= 2338 \\\\
+\text{Rounding down to nearest whole number}    &= 2338
 \end{aligned}
 $
 </code></pre>
@@ -8900,7 +8900,7 @@ $
 \begin{aligned}
 a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
 a                                                           &= \sqrt[3]{9177} \\\\
-a                                                           &= 21 \, \text{approx.} \\\\
+a                                                           &= 21 \, \text{approx.}
 \end{aligned}
 $
 
@@ -8932,7 +8932,7 @@ $
 \begin{aligned}
 a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
 a                                                           &= \sqrt[3]{9177} \\\\
-a                                                           &= 21 \, \text{approx.} \\\\
+a                                                           &= 21 \, \text{approx.}
 \end{aligned}
 $
 

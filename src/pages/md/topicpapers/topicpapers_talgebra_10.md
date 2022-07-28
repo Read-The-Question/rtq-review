@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-10"
 title: "TopicPaper - Algebra - 10"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -7664,7 +7664,7 @@ x + y = 30   &&&&&    x - y = 20 \\\\
 x = 30 - y   &&&&&    30 - y - y = 20 \\\\
 x = 30 - y   &&&&&    10 = 2y \\\\
 x = 30 - y   &&&&&    y = 5 \\\\
-x = 25       &&&&&    y = 5 \\\\
+x = 25       &&&&&    y = 5
 \end{aligned}
 $
 
@@ -7689,7 +7689,7 @@ x + y = 30   &&&&&    x - y = 20 \\\\
 x = 30 - y   &&&&&    30 - y - y = 20 \\\\
 x = 30 - y   &&&&&    10 = 2y \\\\
 x = 30 - y   &&&&&    y = 5 \\\\
-x = 25       &&&&&    y = 5 \\\\
+x = 25       &&&&&    y = 5
 \end{aligned}
 $
 </code></pre>
@@ -9552,7 +9552,7 @@ As per the question,
 $
 \begin {aligned}
 B     &= \dfrac {A} {7} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 
@@ -9585,7 +9585,7 @@ $21$
 $
 \begin {aligned}
 B     &= \dfrac {A} {7} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 
@@ -10314,7 +10314,7 @@ As per the question,
 $
 \begin {aligned}
 B     &= \dfrac {A} {5} \\\\
-B     &= 2 \times C \\\\
+B     &= 2 \times C
 \end {aligned}
 $
 
@@ -10347,7 +10347,7 @@ $10$
 $
 \begin {aligned}
 B     &= \dfrac {A} {5} \\\\
-B     &= 2 \times C \\\\
+B     &= 2 \times C
 \end {aligned}
 $
 
@@ -11056,7 +11056,7 @@ As per the question,
 $
 \begin {aligned}
 B     &= \dfrac {A} {12} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 
@@ -11089,7 +11089,7 @@ $36$
 $
 \begin {aligned}
 B     &= \dfrac {A} {12} \\\\
-B     &= 3 \times C \\\\
+B     &= 3 \times C
 \end {aligned}
 $
 

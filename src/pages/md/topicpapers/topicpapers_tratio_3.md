@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-3"
 title: "TopicPaper - Ratio - 3"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -119,7 +119,7 @@ $
 5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
 \text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
 \text{Now,} &=12 \times 1.8 \\\\
-&= 21.6 \ \text{hrs} \\\\
+&= 21.6 \ \text{hrs}
 \end{aligned}
 $
 
@@ -143,7 +143,7 @@ $21.6 \ \text{hrs}$
 5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
 \text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
 \text{Now,} &=12 \times 1.8 \\\\
-&= 21.6 \ \text{hrs} \\\\
+&= 21.6 \ \text{hrs}
 \end{aligned}
 $
 </code></pre>
@@ -698,7 +698,7 @@ $
 \begin{aligned}
     \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
     \dfrac {3}{4} & : \dfrac {3 \times 30}{4 \times 30} \\\\
-    \dfrac {3}{4} & : \dfrac {90}{120}                  \\\\
+    \dfrac {3}{4} & : \dfrac {90}{120}
 \end{aligned}
 $
 
@@ -770,7 +770,7 @@ $
 \begin{aligned}
     \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
     \dfrac {3}{4} & : \dfrac {3 \times 30}{4 \times 30} \\\\
-    \dfrac {3}{4} & : \dfrac {90}{120}                  \\\\
+    \dfrac {3}{4} & : \dfrac {90}{120}
 \end{aligned}
 $
 

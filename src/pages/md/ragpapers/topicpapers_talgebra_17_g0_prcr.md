@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-17-g0-prcr"
 title: "TopicPaper - Algebra - 17 - G0 - PRCR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -159,7 +159,7 @@ c + 2b                          &= 450 \\\\
 3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
 2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
 3c + 6b                         &= 1050 \\\\
-4c + 6b                         &= 1600  \\\\   
+4c + 6b                         &= 1600
 \end{aligned}
 $
 
@@ -266,7 +266,7 @@ c + 2b                          &= 450 \\\\
 3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
 2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
 3c + 6b                         &= 1050 \\\\
-4c + 6b                         &= 1600  \\\\   
+4c + 6b                         &= 1600
 \end{aligned}
 $
 
@@ -3350,7 +3350,7 @@ x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
 x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
 x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
 x                                    &= \dfrac {15 - 4} {12} \\\\
-x                                    &= \dfrac {11} {12} \\\\
+x                                    &= \dfrac {11} {12}
 \end{aligned}
 $
 
@@ -3374,7 +3374,7 @@ x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
 x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
 x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
 x                                    &= \dfrac {15 - 4} {12} \\\\
-x                                    &= \dfrac {11} {12} \\\\
+x                                    &= \dfrac {11} {12}
 \end{aligned}
 $
 </code></pre>

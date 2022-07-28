@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "50"
 ---
 <div class='paper'>
@@ -5866,7 +5866,7 @@ $
 \begin{aligned}
 \text {Perimeter}   &= 8 \times \text {side} \\\\
                     &= 8 \times 6 \\\\
-                    &= 48 \ \text {cm} \\\\
+                    &= 48 \ \text {cm}
 \end{aligned}
 $
 
@@ -5890,7 +5890,7 @@ $
 \begin{aligned}
 \text {Perimeter}   &= 8 \times \text {side} \\\\
                     &= 8 \times 6 \\\\
-                    &= 48 \ \text {cm} \\\\
+                    &= 48 \ \text {cm}
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "15"
 ---
 <div class='paper'>
@@ -2051,7 +2051,7 @@ $
 \begin{aligned}
 A + B     &= 22    \ \text{kg}  \\\\
 B + C     &= 20     \ \text{kg} \\\\
-A + B + C &= 30 \ \text{kg}\\\\
+A + B + C &= 30 \ \text{kg}
 \end{aligned}
 $
 
@@ -2062,7 +2062,7 @@ $
 A + (B + C)  &= 30 \\\\
 A + 20       &= 30 \\\\
 A            &= 30 - 20 \\\\
-A            &= 10 \\\\
+A            &= 10
 \end{aligned}
 $
 
@@ -2108,7 +2108,7 @@ $
 \begin{aligned}
 A + B     &= 22    \ \text{kg}  \\\\
 B + C     &= 20     \ \text{kg} \\\\
-A + B + C &= 30 \ \text{kg}\\\\
+A + B + C &= 30 \ \text{kg}
 \end{aligned}
 $
 
@@ -2119,7 +2119,7 @@ $
 A + (B + C)  &= 30 \\\\
 A + 20       &= 30 \\\\
 A            &= 30 - 20 \\\\
-A            &= 10 \\\\
+A            &= 10
 \end{aligned}
 $
 

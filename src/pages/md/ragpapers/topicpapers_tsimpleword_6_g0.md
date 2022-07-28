@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-g0"
 title: "TopicPaper - Simpleword - 6 - G0"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -107,7 +107,7 @@ For how long does she walk altogether?
 $
 \begin{aligned}
 \text{ Total time taken} &=  2 \ \text{hrs} \ \  25 \ \text{mins} +  1 \ \text{hrs} \ \  45 \ \text{mins}  \\\\
-&=  4 \ \text{hrs} \ \ 10 \ \text{mins} \\\\
+&=  4 \ \text{hrs} \ \ 10 \ \text{mins}
 \end{aligned}
 $
 
@@ -127,7 +127,7 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 $
 \begin{aligned}
 \text{ Total time taken} &=  2 \ \text{hrs} \ \  25 \ \text{mins} +  1 \ \text{hrs} \ \  45 \ \text{mins}  \\\\
-&=  4 \ \text{hrs} \ \ 10 \ \text{mins} \\\\
+&=  4 \ \text{hrs} \ \ 10 \ \text{mins}
 \end{aligned}
 $
 </code></pre>

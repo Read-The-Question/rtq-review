@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "25"
 ---
 <div class='paper'>
@@ -1498,7 +1498,7 @@ Melanie’s father took $1 \ \text{hr} \ 25 \ \text{mins}$ to drive from Peterbo
 $
 \begin{aligned}
 \text {Arrival Time}           &= 11{:}45   + 1 \ \text{hours} \ 25 \ \text {minutes} \\\\
-                               &= 1{:}10 \ \text {pm} \\\\
+                               &= 1{:}10 \ \text {pm}
 \end{aligned}
 $
 
@@ -1517,7 +1517,7 @@ $1:10 \ \text{pm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text {Arrival Time}           &= 11{:}45   + 1 \ \text{hours} \ 25 \ \text {minutes} \\\\
-                               &= 1{:}10 \ \text {pm} \\\\
+                               &= 1{:}10 \ \text {pm}
 \end{aligned}
 $
 </code></pre>
@@ -2575,7 +2575,7 @@ $
 x                                        &= \dfrac {9} {36} \\\\
 x                                        &= \dfrac {9} {9 \times 4} \\\\
                                          &= \dfrac{\cancel{9}} {\cancel{9} \times 4} \\\\
-                                         &= \dfrac {1} {4} \\\\ 
+                                         &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -2597,7 +2597,7 @@ $\dfrac {1} {4}$
 x                                        &= \dfrac {9} {36} \\\\
 x                                        &= \dfrac {9} {9 \times 4} \\\\
                                          &= \dfrac{\cancel{9}} {\cancel{9} \times 4} \\\\
-                                         &= \dfrac {1} {4} \\\\ 
+                                         &= \dfrac {1} {4}
 \end{aligned}
 $
 </code></pre>
@@ -3841,7 +3841,7 @@ l                        &= 2 \times 6 \\\\
 l                        &= 12 \\\\
 area                     &= l \times b \\\\
 area                     &= 12 \times 6 \\\\
-area                     &= 72 \\\\   
+area                     &= 72
 \end{aligned}
 $
 
@@ -3869,7 +3869,7 @@ l                        &= 2 \times 6 \\\\
 l                        &= 12 \\\\
 area                     &= l \times b \\\\
 area                     &= 12 \times 6 \\\\
-area                     &= 72 \\\\   
+area                     &= 72
 \end{aligned}
 $
 </code></pre>

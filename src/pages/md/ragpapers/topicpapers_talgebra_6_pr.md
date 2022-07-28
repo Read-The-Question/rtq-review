@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-6-pr"
 title: "TopicPaper - Algebra - 6 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -2279,7 +2279,7 @@ As per the question,
 $
 \begin {aligned}
 2a + 2b &= 1.50 \\\\
-2a + b  &= 1.10 \\\\
+2a + b  &= 1.10
 \end {aligned}
 $
 
@@ -2338,7 +2338,7 @@ As per the question,
 $
 \begin {aligned}
 2a + 2b &= 1.50 \\\\
-2a + b  &= 1.10 \\\\
+2a + b  &= 1.10
 \end {aligned}
 $
 

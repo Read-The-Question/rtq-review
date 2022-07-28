@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-8"
 title: "TopicPaper - Algebra - 8"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2314,7 +2314,7 @@ x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
 x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2 \\\\
+x                                                              &= -2
 \end{aligned}
 $
 
@@ -2341,7 +2341,7 @@ x- 10                                                          &= 6x \\\\
 x - 6x                                                         &= 10 \\\\
 -5x                                                            &= 10 \\\\
 x                                                              &= -\dfrac{10}{5} \\\\
-x                                                              &= -2 \\\\
+x                                                              &= -2
 \end{aligned}
 $
 </code></pre>

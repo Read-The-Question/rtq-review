@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g2"
 title: "TopicPaper - Number - 13 - G2"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "25"
 ---
 <ul class='question default-decimal'>
@@ -5344,7 +5344,7 @@ b           &=  63 - 19  \\\\
 b           &=  44 \\\\
 a-28        &=  44   \\\\
 a           &=  44 + 28 \\\\
-a           &=  72 \\\\
+a           &=  72
 \end{aligned}
 $
 
@@ -5374,7 +5374,7 @@ b           &=  63 - 19  \\\\
 b           &=  44 \\\\
 a-28        &=  44   \\\\
 a           &=  44 + 28 \\\\
-a           &=  72 \\\\
+a           &=  72
 \end{aligned}
 $
 

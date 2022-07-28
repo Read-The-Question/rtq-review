@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "43"
 ---
 <div class='paper'>
@@ -1206,7 +1206,7 @@ In this case, there are more decimals than fractions, so let's convert all the n
 $
 \begin{aligned}
 &= 3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4},  \quad   3.025 \\\\
-&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025 \\\\
+&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025
 \end{aligned}
 $
 
@@ -1238,7 +1238,7 @@ In this case, there are more decimals than fractions, so let's convert all the n
 $
 \begin{aligned}
 &= 3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4},  \quad   3.025 \\\\
-&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025 \\\\
+&= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025
 \end{aligned}
 $
 
@@ -4824,7 +4824,7 @@ $
 \text{Shaded Area} &= 15 \ \text{unit}^2 \\\\
 \text{Fraction Shaded} &= \dfrac{15}{25} \\\\
 &= \dfrac{3 \times \cancel 5}{5 \times \cancel 5} \\\\
-&= \dfrac{3}{5} \\\\
+&= \dfrac{3}{5}
 \end{aligned}
 $
 
@@ -4848,7 +4848,7 @@ $
 \text{Shaded Area} &= 15 \ \text{unit}^2 \\\\
 \text{Fraction Shaded} &= \dfrac{15}{25} \\\\
 &= \dfrac{3 \times \cancel 5}{5 \times \cancel 5} \\\\
-&= \dfrac{3}{5} \\\\
+&= \dfrac{3}{5}
 \end{aligned}
 $
 </code></pre>
@@ -4966,7 +4966,7 @@ $
 \text{Shaded Area} &= 4 \ \text{unit}^2 \\\\
 \text{Fraction Shaded} &= \dfrac{4}{16} \\\\
 &= \dfrac{1 \times \cancel 4}{4 \times \cancel 4} \\\\
-&= \dfrac{1}{4} \\\\
+&= \dfrac{1}{4}
 \end{aligned}
 $
 
@@ -4998,7 +4998,7 @@ $
 \text{Shaded Area} &= 4 \ \text{unit}^2 \\\\
 \text{Fraction Shaded} &= \dfrac{4}{16} \\\\
 &= \dfrac{1 \times \cancel 4}{4 \times \cancel 4} \\\\
-&= \dfrac{1}{4} \\\\
+&= \dfrac{1}{4}
 \end{aligned}
 $
 

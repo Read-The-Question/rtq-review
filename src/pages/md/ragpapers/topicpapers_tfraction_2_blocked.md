@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-blocked"
 title: "TopicPaper - Fraction - 2 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -444,7 +444,7 @@ $
                                 &= 12 \\\\
 \text {number of boys who walk} &= \text {number of boys} - \text {boys who don't walk} \\\\
                                 &= 12 - 8 \\\\
-                                &= 4 \\\\
+                                &= 4
 \end{aligned}
 $
 
@@ -473,7 +473,7 @@ $\dfrac {4} {23}$
                                 &= 12 \\\\
 \text {number of boys who walk} &= \text {number of boys} - \text {boys who don't walk} \\\\
                                 &= 12 - 8 \\\\
-                                &= 4 \\\\
+                                &= 4
 \end{aligned}
 $
 
@@ -1764,7 +1764,7 @@ $
 &= \dfrac {50} {100} \\\\
 &= \dfrac {50} {50 \times 2} \\\\
 &= \dfrac {\cancel{50}} {\cancel{50} \times 2} \\\\
-&= \dfrac {1} {2} \\\\
+&= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -1774,7 +1774,7 @@ $
 &= \dfrac {75} {100} \\\\
 &= \dfrac {5 \times 5 \times 3} {5 \times 5 \times 4} \\\\
 &= \dfrac {\cancel{5} \times \cancel{5} \times 3} {\cancel{5} \times \cancel{5} \times 4} \\\\
-&= \dfrac {3} {4} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -1796,7 +1796,7 @@ $\dfrac {1} {2} \ \ \dfrac {3} {4}$
 &= \dfrac {50} {100} \\\\
 &= \dfrac {50} {50 \times 2} \\\\
 &= \dfrac {\cancel{50}} {\cancel{50} \times 2} \\\\
-&= \dfrac {1} {2} \\\\
+&= \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -1806,7 +1806,7 @@ $
 &= \dfrac {75} {100} \\\\
 &= \dfrac {5 \times 5 \times 3} {5 \times 5 \times 4} \\\\
 &= \dfrac {\cancel{5} \times \cancel{5} \times 3} {\cancel{5} \times \cancel{5} \times 4} \\\\
-&= \dfrac {3} {4} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 </code></pre>

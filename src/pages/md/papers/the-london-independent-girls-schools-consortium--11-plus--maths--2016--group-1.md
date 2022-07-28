@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "45"
 ---
 <div class='paper'>
@@ -2968,7 +2968,7 @@ $
 (5 + a) \times b &= 4 \\\\
 5b + ab &= 4 \\\\
 (8 + a) \times b &= 10 \\\\
-8b + ab &= 10 \\\\
+8b + ab &= 10
 \end{aligned}
 $
 
@@ -2997,7 +2997,7 @@ $
 2a &= 4 - 10 \\\\
 2a &= -6 \\\\
 a &= \dfrac{-6}{2} \\\\
-a &= -3 \\\\
+a &= -3
 \end{aligned}
 $
 
@@ -3016,7 +3016,7 @@ $
 5 \times a + b &= 4 \\\\
 5a + b &= 4 \\\\
 8 \times a + b &= 10 \\\\
-8a + b &= 10 \\\\
+8a + b &= 10
 \end{aligned}
 $
 
@@ -3029,7 +3029,7 @@ $
 8a - 5a &= 10 - 4 \\\\
 3a &= 6 \\\\
 a &= \dfrac{6}{3} \\\\
-a &= 2 \\\\
+a &= 2
 \end{aligned}
 $
 
@@ -3072,7 +3072,7 @@ $
 (5 + a) \times b &= 4 \\\\
 5b + ab &= 4 \\\\
 (8 + a) \times b &= 10 \\\\
-8b + ab &= 10 \\\\
+8b + ab &= 10
 \end{aligned}
 $
 
@@ -3101,7 +3101,7 @@ $
 2a &= 4 - 10 \\\\
 2a &= -6 \\\\
 a &= \dfrac{-6}{2} \\\\
-a &= -3 \\\\
+a &= -3
 \end{aligned}
 $
 
@@ -3120,7 +3120,7 @@ $
 5 \times a + b &= 4 \\\\
 5a + b &= 4 \\\\
 8 \times a + b &= 10 \\\\
-8a + b &= 10 \\\\
+8a + b &= 10
 \end{aligned}
 $
 
@@ -3133,7 +3133,7 @@ $
 8a - 5a &= 10 - 4 \\\\
 3a &= 6 \\\\
 a &= \dfrac{6}{3} \\\\
-a &= 2 \\\\
+a &= 2
 \end{aligned}
 $
 
@@ -7208,7 +7208,7 @@ $
 &= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
 &= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
 &= 1500 - 1200 \\\\
-&= 300 \text{ml}\ \\\\
+&= 300 \text{ml}\
 \end{aligned}
 $
 
@@ -7229,7 +7229,7 @@ $
 &= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
 &= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
 &= 1500 - 1200 \\\\
-&= 300 \text{ml}\ \\\\
+&= 300 \text{ml}\
 \end{aligned}
 $
 </code></pre>
@@ -7265,7 +7265,7 @@ How many times could Zoya completely fill her jug from these bottles?
 $
 \begin{aligned}
 \text{Total volume Zoya has} &= 5 \times 2 \text{litre} \\\\
-&= 10 \text{litre} \\\\
+&= 10 \text{litre}
 \end{aligned}
 $
 
@@ -7279,7 +7279,7 @@ a \times \dfrac{3}{2} &= 10 \\\\
 a &= \dfrac{10}{\dfrac{3}{2}} \\\\
 a &= 10 \times \dfrac{2}{3} \\\\
 a &= \dfrac{20}{3} \\\\
-a &= 6.66 \\\\
+a &= 6.66
 \end{aligned}
 $
 
@@ -7302,7 +7302,7 @@ $6$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Total volume Zoya has} &= 5 \times 2 \text{litre} \\\\
-&= 10 \text{litre} \\\\
+&= 10 \text{litre}
 \end{aligned}
 $
 
@@ -7316,7 +7316,7 @@ a \times \dfrac{3}{2} &= 10 \\\\
 a &= \dfrac{10}{\dfrac{3}{2}} \\\\
 a &= 10 \times \dfrac{2}{3} \\\\
 a &= \dfrac{20}{3} \\\\
-a &= 6.66 \\\\
+a &= 6.66
 \end{aligned}
 $
 

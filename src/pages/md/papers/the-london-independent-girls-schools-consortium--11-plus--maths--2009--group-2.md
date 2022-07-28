@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "41"
 ---
 <div class='paper'>
@@ -4671,7 +4671,7 @@ As per the question,
 
 $
 \begin{aligned}
-(11 + w) \times w                  &= 60 \\\\
+(11 + w) \times w                  &= 60
 \end{aligned}
 $
 
@@ -4720,7 +4720,7 @@ As per the question,
 
 $
 \begin{aligned}
-(11 + w) \times w                  &= 60 \\\\
+(11 + w) \times w                  &= 60
 \end{aligned}
 $
 
@@ -8216,7 +8216,7 @@ $
 \begin{aligned}
 \text{Area of all faces} \ &= \text{Area of each face} \ \times 6 \\\\
 &= a^2 \ \times 6 \\\\
-&= 6a^2 \\\\
+&= 6a^2
 \end{aligned}
 $
 
@@ -8233,7 +8233,7 @@ $
 &= \dfrac{\dfrac{4a^2}{3}}{6a^2} \\\\
 &= \dfrac{4a^2}{3 \times 6a^2} \\\\
 &= \dfrac{4 \cancel{a^2}}{18 \cancel{a^2}} \\\\
-&= \dfrac{2}{9} \\\\
+&= \dfrac{2}{9}
 \end{aligned}
 $
 
@@ -8267,7 +8267,7 @@ $
 \begin{aligned}
 \text{Area of all faces} \ &= \text{Area of each face} \ \times 6 \\\\
 &= a^2 \ \times 6 \\\\
-&= 6a^2 \\\\
+&= 6a^2
 \end{aligned}
 $
 
@@ -8284,7 +8284,7 @@ $
 &= \dfrac{\dfrac{4a^2}{3}}{6a^2} \\\\
 &= \dfrac{4a^2}{3 \times 6a^2} \\\\
 &= \dfrac{4 \cancel{a^2}}{18 \cancel{a^2}} \\\\
-&= \dfrac{2}{9} \\\\
+&= \dfrac{2}{9}
 \end{aligned}
 $
 </code></pre>

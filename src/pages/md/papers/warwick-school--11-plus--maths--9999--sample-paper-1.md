@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "28"
 ---
 <div class='paper'>
@@ -557,7 +557,7 @@ $
 &= \dfrac {18} {4} + \dfrac {23} {4} \\\\
 &= \dfrac {18 + 23} {4} \\\\
 &= \dfrac {41} {4} \\\\
-&= 10 \dfrac {1} {4} \\\\
+&= 10 \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -581,7 +581,7 @@ $10 \dfrac {1} {4}$
 &= \dfrac {18} {4} + \dfrac {23} {4} \\\\
 &= \dfrac {18 + 23} {4} \\\\
 &= \dfrac {41} {4} \\\\
-&= 10 \dfrac {1} {4} \\\\
+&= 10 \dfrac {1} {4}
 \end{aligned}
 $
 </code></pre>
@@ -5936,7 +5936,7 @@ $
 \dfrac {1} {7 - a}                      &= \dfrac {1} {4} \\\\
 7 -a                                    &= 4 \\\\
 a                                       &= 7 - 4 \\\\
-a                                       &= 3 \\\\
+a                                       &= 3
 \end{aligned}
 $
 
@@ -5965,7 +5965,7 @@ $
 \dfrac {1} {7 - a}                      &= \dfrac {1} {4} \\\\
 7 -a                                    &= 4 \\\\
 a                                       &= 7 - 4 \\\\
-a                                       &= 3 \\\\
+a                                       &= 3
 \end{aligned}
 $
 </code></pre>
@@ -7280,7 +7280,7 @@ $
 \begin{aligned}
 17 \text{people} : 1 \text{minibus} \\\\
 17 \times 17 \text{people} : 1 \times 17 \text{minibuses} \\\\
-289 \text{people} : 17 \text{minibuses} \\\\
+289 \text{people} : 17 \text{minibuses}
 \end{aligned}
 $
 
@@ -7304,7 +7304,7 @@ $
 \begin{aligned}
 17 \text{people} : 1 \text{minibus} \\\\
 17 \times 17 \text{people} : 1 \times 17 \text{minibuses} \\\\
-289 \text{people} : 17 \text{minibuses} \\\\
+289 \text{people} : 17 \text{minibuses}
 \end{aligned}
 $
 
@@ -7556,7 +7556,7 @@ Lets verify
 $
 \begin{aligned}
 \text{Remainder for} \ 32 \div 5 &= 2 \\\\
-\text{Remainder for} \ 32 \div 7 &= 4 \\\\
+\text{Remainder for} \ 32 \div 7 &= 4
 \end{aligned}
 $
 
@@ -7589,7 +7589,7 @@ Lets verify
 $
 \begin{aligned}
 \text{Remainder for} \ 32 \div 5 &= 2 \\\\
-\text{Remainder for} \ 32 \div 7 &= 4 \\\\
+\text{Remainder for} \ 32 \div 7 &= 4
 \end{aligned}
 $
 </code></pre>

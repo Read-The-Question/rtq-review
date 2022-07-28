@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "20"
 ---
 <div class='paper'>
@@ -3221,7 +3221,7 @@ $
 60 \ \text{minutes}     &: 30 \\\\
 1 \ \text{minute}       &: \dfrac{30}{60} \\\\
 30 \ \text{minutes}     &: \dfrac{30 \times 30}{60} \\\\
-30 \ \text{minutes}     &: 15 \degree \\\\
+30 \ \text{minutes}     &: 15 \degree
 \end{aligned}
 $
 
@@ -3267,7 +3267,7 @@ $
 60 \ \text{minutes}     &: 30 \\\\
 1 \ \text{minute}       &: \dfrac{30}{60} \\\\
 30 \ \text{minutes}     &: \dfrac{30 \times 30}{60} \\\\
-30 \ \text{minutes}     &: 15 \degree \\\\
+30 \ \text{minutes}     &: 15 \degree
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "20"
 ---
 <div class='paper'>
@@ -2632,7 +2632,7 @@ $
 a       &= \dfrac {36} {4} \\\\
 a       &= \dfrac {4 \times 9} {4} \\\\
 a       &= \dfrac {\cancel {4} \times 9} {\cancel {4}} \\\\
-a       &= 9 \\\\
+a       &= 9
 \end{aligned}
 $
 
@@ -2658,7 +2658,7 @@ $
 a       &= \dfrac {36} {4} \\\\
 a       &= \dfrac {4 \times 9} {4} \\\\
 a       &= \dfrac {\cancel {4} \times 9} {\cancel {4}} \\\\
-a       &= 9 \\\\
+a       &= 9
 \end{aligned}
 $
 </code></pre>

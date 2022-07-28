@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "TopicPaper - Algebra - 4"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -610,7 +610,7 @@ b^2 + 1                             &= 10 \\\\
 b^2                                 &= 10 - 1 \\\\
 b^2                                 &= 9 \\\\
 b                                   &= \sqrt{9} \\\\
-b                                   &= 3 \\\\
+b                                   &= 3
 \end {aligned}
 $
 
@@ -638,7 +638,7 @@ b^2 + 1                             &= 10 \\\\
 b^2                                 &= 10 - 1 \\\\
 b^2                                 &= 9 \\\\
 b                                   &= \sqrt{9} \\\\
-b                                   &= 3 \\\\
+b                                   &= 3
 \end {aligned}
 $
 </code></pre>
@@ -1413,7 +1413,7 @@ b + e + t &= 35 - 20 \\\\
 b + e + t &= 15 \\\\
 b + e + t + a &= 15 + a \\\\
 b + e + t + a &= 15 + 7 \\\\
-b + e + t + a &= 22 \\\\
+b + e + t + a &= 22
 \end {aligned}
 $
 
@@ -1439,7 +1439,7 @@ b + e + t &= 35 - 20 \\\\
 b + e + t &= 15 \\\\
 b + e + t + a &= 15 + a \\\\
 b + e + t + a &= 15 + 7 \\\\
-b + e + t + a &= 22 \\\\
+b + e + t + a &= 22
 \end {aligned}
 $
 </code></pre>
@@ -1610,7 +1610,7 @@ a &= \dfrac {30 \times \cancel 2} {\cancel 2} \\\\
 a &= 30  \\\\
 \text{Distance from first to the last} &= 8a \\\\
                                        &= 8 \times 30 \\\\
-                                       &= 240 \ \text{m} \\\\ 
+                                       &= 240 \ \text{m}
 \end {aligned}
 $
 
@@ -1639,7 +1639,7 @@ a &= \dfrac {30 \times \cancel 2} {\cancel 2} \\\\
 a &= 30  \\\\
 \text{Distance from first to the last} &= 8a \\\\
                                        &= 8 \times 30 \\\\
-                                       &= 240 \ \text{m} \\\\ 
+                                       &= 240 \ \text{m}
 \end {aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-pr"
 title: "TopicPaper - Number - 17 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -1913,7 +1913,7 @@ $
 \begin{aligned}
 &= 10 \times 4 - 3 \\\\
 &= 40 - 3 \\\\
-&= 37 \\\\
+&= 37
 \end{aligned}
 $
 
@@ -1928,7 +1928,7 @@ $
 4 \times a &= 84 \\\\
 a &= \dfrac{84}{4} \\\\
 a &= \dfrac{21 \times \cancel 4}{\cancel 4} \\\\
-a &= 21 \\\\
+a &= 21
 \end{aligned}
 $
 
@@ -1950,7 +1950,7 @@ $
 \begin{aligned}
 &= 10 \times 4 - 3 \\\\
 &= 40 - 3 \\\\
-&= 37 \\\\
+&= 37
 \end{aligned}
 $
 
@@ -1965,7 +1965,7 @@ $
 4 \times a &= 84 \\\\
 a &= \dfrac{84}{4} \\\\
 a &= \dfrac{21 \times \cancel 4}{\cancel 4} \\\\
-a &= 21 \\\\
+a &= 21
 \end{aligned}
 $
 </code></pre>
@@ -2035,7 +2035,7 @@ $
 7a - 2a &= 52 - 17 \\\\
 5a &= 35 \\\\
 a &= \dfrac{35}{5} \\\\
-a &= 7 \\\\
+a &= 7
 \end{aligned}
 $
 
@@ -2116,7 +2116,7 @@ $
 7a - 2a &= 52 - 17 \\\\
 5a &= 35 \\\\
 a &= \dfrac{35}{5} \\\\
-a &= 7 \\\\
+a &= 7
 \end{aligned}
 $
 
@@ -2820,7 +2820,7 @@ $20 = 1175 - (21 \times 55) \qquad \boxed{\phantom{\checkmark}}$
 $
 \begin{aligned}
 (21 \times 55) + 20 &= 1175 \\\\
-20 &= 1175 - (21 \times 55) \\\\
+20 &= 1175 - (21 \times 55)
 \end{aligned}
 $
 
@@ -2841,7 +2841,7 @@ Correct
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 (21 \times 55) + 20 &= 1175 \\\\
-20 &= 1175 - (21 \times 55) \\\\
+20 &= 1175 - (21 \times 55)
 \end{aligned}
 $
 

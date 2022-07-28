@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "26"
 ---
 <div class='paper'>
@@ -5921,7 +5921,7 @@ a &= \dfrac {30 \times \cancel 2} {\cancel 2} \\\\
 a &= 30  \\\\
 \text{Distance from first to the last} &= 8a \\\\
                                        &= 8 \times 30 \\\\
-                                       &= 240 \ \text{m} \\\\ 
+                                       &= 240 \ \text{m}
 \end {aligned}
 $
 
@@ -5950,7 +5950,7 @@ a &= \dfrac {30 \times \cancel 2} {\cancel 2} \\\\
 a &= 30  \\\\
 \text{Distance from first to the last} &= 8a \\\\
                                        &= 8 \times 30 \\\\
-                                       &= 240 \ \text{m} \\\\ 
+                                       &= 240 \ \text{m}
 \end {aligned}
 $
 </code></pre>

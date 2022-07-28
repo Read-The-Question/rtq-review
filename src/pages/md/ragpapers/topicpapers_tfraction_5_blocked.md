@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-blocked"
 title: "TopicPaper - Fraction - 5 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -772,7 +772,7 @@ $
 \begin{aligned}
 &=\dfrac{3}{5}     &&&&&&&   &=\dfrac{2}{3} \\\\
 &=\dfrac{3\times 3}{5\times3}    &&&&&&&  &=\dfrac{2\times 5}{3 \times 5} \\\\\
-&=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \\\\\
+&=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \
 \end{aligned}
 $
 
@@ -805,7 +805,7 @@ $
 \begin{aligned}
 &=\dfrac{3}{5}     &&&&&&&   &=\dfrac{2}{3} \\\\
 &=\dfrac{3\times 3}{5\times3}    &&&&&&&  &=\dfrac{2\times 5}{3 \times 5} \\\\\
-&=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \\\\\
+&=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \
 \end{aligned}
 $
 

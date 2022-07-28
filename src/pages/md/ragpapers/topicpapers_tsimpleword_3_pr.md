@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-pr"
 title: "TopicPaper - Simpleword - 3 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "11"
 ---
 <ul class='question default-decimal'>

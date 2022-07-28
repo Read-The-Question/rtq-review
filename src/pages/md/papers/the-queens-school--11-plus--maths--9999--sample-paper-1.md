@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "29"
 ---
 <div class='paper'>
@@ -1685,7 +1685,7 @@ $
 5000, 200   &= 5000 \times 200 \\\\
          &= 1000000 \\\\
 50000, 20   &= 50000 \times 20 \\\\
-         &= 1000000 \\\\
+         &= 1000000
 \end{aligned}
 $
 
@@ -1712,7 +1712,7 @@ $
 5000, 200   &= 5000 \times 200 \\\\
          &= 1000000 \\\\
 50000, 20   &= 50000 \times 20 \\\\
-         &= 1000000 \\\\
+         &= 1000000
 \end{aligned}
 $
 

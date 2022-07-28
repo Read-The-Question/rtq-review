@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "27"
 ---
 <div class='paper'>
@@ -153,7 +153,7 @@ Let's find how many buses are needed to accomadate $39$ members.
 $
 \begin{aligned}
 &= \dfrac{39} {15} \\\\
-&= 2 \dfrac{9} {15} \\\\
+&= 2 \dfrac{9} {15}
 \end{aligned}
 $
 
@@ -180,7 +180,7 @@ Let's find how many buses are needed to accomadate $39$ members.
 $
 \begin{aligned}
 &= \dfrac{39} {15} \\\\
-&= 2 \dfrac{9} {15} \\\\
+&= 2 \dfrac{9} {15}
 \end{aligned}
 $
 
@@ -546,7 +546,7 @@ $
 \phantom{{0-}} \ \         -\underline{\  3 \ \ \ 4 \ \ \ \ }\\
 \phantom{{ \ \ \ 0 \ 0 \ 0 \ \ \\ 0 }}         {\ \ \ \ 8 \ 5}\\
 \phantom{{0- \ \ }} \ \ \ \ \ \         -\underline{\ 8 \  5 \ \ \ \ }\\
-\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }\\\\
+\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }
 \end{array}
 $
 
@@ -580,7 +580,7 @@ $
 \phantom{{0-}} \ \         -\underline{\  3 \ \ \ 4 \ \ \ \ }\\
 \phantom{{ \ \ \ 0 \ 0 \ 0 \ \ \\ 0 }}         {\ \ \ \ 8 \ 5}\\
 \phantom{{0- \ \ }} \ \ \ \ \ \         -\underline{\ 8 \  5 \ \ \ \ }\\
-\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }\\\\
+\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }
 \end{array}
 $
 
@@ -1311,7 +1311,7 @@ $
 \begin{aligned}
 &= \dfrac {7} {10}, \dfrac {13} {20}, \dfrac {2} {3} \\\\
 &= \dfrac {7 \times 6} {10 \times 6}, \quad  \dfrac {13 \times 3} {20 \times 3 }, \quad \dfrac {2 \times 20} {3 \times 20} \\\\
-&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60} \\\\
+&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60}
 \end{aligned}
 $
 
@@ -1320,7 +1320,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= \dfrac {39} {60}, \quad \dfrac {40} {60}, \quad \dfrac {42} {60}  \\\\
-&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10} \\\\
+&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}
 \end{aligned}
 $
 
@@ -1344,7 +1344,7 @@ $
 \begin{aligned}
 &= \dfrac {7} {10}, \dfrac {13} {20}, \dfrac {2} {3} \\\\
 &= \dfrac {7 \times 6} {10 \times 6}, \quad  \dfrac {13 \times 3} {20 \times 3 }, \quad \dfrac {2 \times 20} {3 \times 20} \\\\
-&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60} \\\\
+&= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60}
 \end{aligned}
 $
 
@@ -1353,7 +1353,7 @@ Let's put them in ascending order now.
 $
 \begin{aligned}
 &= \dfrac {39} {60}, \quad \dfrac {40} {60}, \quad \dfrac {42} {60}  \\\\
-&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10} \\\\
+&=  \dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}
 \end{aligned}
 $
 </code></pre>

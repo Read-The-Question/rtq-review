@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-6"
 title: "TopicPaper - Algebra - 6"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1405,7 +1405,7 @@ $
 a       &= \dfrac {36} {4} \\\\
 a       &= \dfrac {4 \times 9} {4} \\\\
 a       &= \dfrac {\cancel {4} \times 9} {\cancel {4}} \\\\
-a       &= 9 \\\\
+a       &= 9
 \end{aligned}
 $
 
@@ -1431,7 +1431,7 @@ $
 a       &= \dfrac {36} {4} \\\\
 a       &= \dfrac {4 \times 9} {4} \\\\
 a       &= \dfrac {\cancel {4} \times 9} {\cancel {4}} \\\\
-a       &= 9 \\\\
+a       &= 9
 \end{aligned}
 $
 </code></pre>
@@ -4679,7 +4679,7 @@ $
 3p - 5p           &= 1 - 14 \\\\
 -2p               &= -13 \\\\
 p                 &= \dfrac {-13} {-2} \\\\
-p                 &= \dfrac {13} {2} \\\\
+p                 &= \dfrac {13} {2}
 \end{aligned}
 $
 
@@ -4701,7 +4701,7 @@ $\dfrac {13} {2}$
 3p - 5p           &= 1 - 14 \\\\
 -2p               &= -13 \\\\
 p                 &= \dfrac {-13} {-2} \\\\
-p                 &= \dfrac {13} {2} \\\\
+p                 &= \dfrac {13} {2}
 \end{aligned}
 $
 </code></pre>
@@ -8019,7 +8019,7 @@ As per the question,
 $
 \begin {aligned}
 2a + 2b &= 1.50 \\\\
-2a + b  &= 1.10 \\\\
+2a + b  &= 1.10
 \end {aligned}
 $
 
@@ -8078,7 +8078,7 @@ As per the question,
 $
 \begin {aligned}
 2a + 2b &= 1.50 \\\\
-2a + b  &= 1.10 \\\\
+2a + b  &= 1.10
 \end {aligned}
 $
 

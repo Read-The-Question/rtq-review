@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic A"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "20"
 ---
 <div class='paper'>
@@ -1035,7 +1035,7 @@ $
 &&  \footnotesize{\maroonC{(-9)}}
 &&  \footnotesize{\maroonC{(-6)}}
 &&  \footnotesize{\maroonC{(-3)}}  \\
-101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56\\\\
+101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56
 \end{matrix}
 $
 
@@ -1067,7 +1067,7 @@ $
 &&  \footnotesize{\maroonC{(-9)}}
 &&  \footnotesize{\maroonC{(-6)}}
 &&  \footnotesize{\maroonC{(-3)}}  \\
-101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56\\\\
+101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56
 \end{matrix}
 $
 
@@ -2603,7 +2603,7 @@ $
 \begin{aligned}
 &= \dfrac {27}{54}\\\\
 &= \dfrac{\cancel{27}\raisebox{0.9em}{1}}{\cancel{54}\raisebox{-0.9em}{2}}\\\\
-&= \dfrac {\pounds 1}{2\ \text  {apples}}\\\\
+&= \dfrac {\pounds 1}{2\ \text  {apples}}
 \end{aligned}
 $
 
@@ -2685,7 +2685,7 @@ $
 \begin{aligned}
 &= \dfrac {27}{54}\\\\
 &= \dfrac{\cancel{27}\raisebox{0.9em}{1}}{\cancel{54}\raisebox{-0.9em}{2}}\\\\
-&= \dfrac {\pounds 1}{2\ \text  {apples}}\\\\
+&= \dfrac {\pounds 1}{2\ \text  {apples}}
 \end{aligned}
 $
 
@@ -4022,7 +4022,7 @@ $
 \begin{aligned}
 \quad \cancel{12-21}, \ 15-51, \ \cancel{18-81},\\\\ 
 \cancel{24-42},\ 27-72, \ \cancel{36-63},\\\\
-\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}\\\\
+\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}
 \end{aligned}
 $
 
@@ -4133,7 +4133,7 @@ $
 \begin{aligned}
 \quad \cancel{12-21}, \ 15-51, \ \cancel{18-81},\\\\ 
 \cancel{24-42},\ 27-72, \ \cancel{36-63},\\\\
-\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}\\\\
+\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}
 \end{aligned}
 $
 

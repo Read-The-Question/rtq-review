@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-notstarted"
 title: "TopicPaper - Sequence - 2 - NOTSTARTED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -1738,7 +1738,7 @@ $
 \text{First missing number}     &= 21 + 4 \\\\
                                 &= 25 \\\\
 \text{Second missing number}    &= 25 + 4 \\\\
-                                &= 29 \\\\                      
+                                &= 29
 \end{aligned}
 $
 
@@ -1774,7 +1774,7 @@ $
 \text{First missing number}     &= 21 + 4 \\\\
                                 &= 25 \\\\
 \text{Second missing number}    &= 25 + 4 \\\\
-                                &= 29 \\\\                      
+                                &= 29
 \end{aligned}
 $
 </code></pre>

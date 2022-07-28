@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-5"
 title: "TopicPaper - Algebra - 5"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -388,7 +388,7 @@ As per the question,
 $
 \begin{aligned}
 4a + 3b &= 16.10 \\\\
-2a + b &= 7.50 \\\\
+2a + b &= 7.50
 \end{aligned}
 $
 
@@ -438,7 +438,7 @@ As per the question,
 $
 \begin{aligned}
 4a + 3b &= 16.10 \\\\
-2a + b &= 7.50 \\\\
+2a + b &= 7.50
 \end{aligned}
 $
 
@@ -1505,7 +1505,7 @@ a                              &= \dfrac {72 \times 3} {2} \\\\
 a                              &= \dfrac {2 \times 36 \times 3} {2} \\\\
 a                              &= \dfrac {\cancel 2 \times 36 \times 3} {\cancel 2} \\\\
 a                              &=  36 \times 3 \\\\
-a                              &=  108 \\\\
+a                              &=  108
 \end {aligned}
 $
 
@@ -1545,7 +1545,7 @@ a                              &= \dfrac {72 \times 3} {2} \\\\
 a                              &= \dfrac {2 \times 36 \times 3} {2} \\\\
 a                              &= \dfrac {\cancel 2 \times 36 \times 3} {\cancel 2} \\\\
 a                              &=  36 \times 3 \\\\
-a                              &=  108 \\\\
+a                              &=  108
 \end {aligned}
 $
 
@@ -2963,7 +2963,7 @@ $
                                                         &= \dfrac {a \times 5} {5}  - \dfrac {2a} {5} \\\\
                                                         &= \dfrac {5a} {5}  - \dfrac {2a} {5} \\\\
                                                         &= \dfrac {5a -2a} {5} \\\\
-                                                        &= \dfrac {3a} {5} \\\\
+                                                        &= \dfrac {3a} {5}
 \end{aligned}
 $
 
@@ -3006,7 +3006,7 @@ $
                                                         &= \dfrac {a \times 5} {5}  - \dfrac {2a} {5} \\\\
                                                         &= \dfrac {5a} {5}  - \dfrac {2a} {5} \\\\
                                                         &= \dfrac {5a -2a} {5} \\\\
-                                                        &= \dfrac {3a} {5} \\\\
+                                                        &= \dfrac {3a} {5}
 \end{aligned}
 $
 
@@ -10669,7 +10669,7 @@ $
 a        &= \dfrac {45} {3} \\\\
 a        &= \dfrac {15 \times 3} {3}  \\\\
 a        &= \dfrac {15 \times \cancel {3}} {\cancel {3}} \\\\
-a        &= 15 \\\\
+a        &= 15
 \end{aligned}
 $
 
@@ -10697,7 +10697,7 @@ $
 a        &= \dfrac {45} {3} \\\\
 a        &= \dfrac {15 \times 3} {3}  \\\\
 a        &= \dfrac {15 \times \cancel {3}} {\cancel {3}} \\\\
-a        &= 15 \\\\
+a        &= 15
 \end{aligned}
 $
 </code></pre>

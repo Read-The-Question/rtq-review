@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-pr-prns"
 title: "TopicPaper - Angle - 2 - PR - PRNS"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -463,7 +463,7 @@ $
 \begin{aligned}
 u &= 31 \degree \\\\
 v &= 43 \degree \\\\
-w &= 14 \degree \\\\
+w &= 14 \degree
 \end{aligned}
 $
 
@@ -556,7 +556,7 @@ $
 \begin{aligned}
 u &= 31 \degree \\\\
 v &= 43 \degree \\\\
-w &= 14 \degree \\\\
+w &= 14 \degree
 \end{aligned}
 $
 </code></pre>
@@ -797,7 +797,7 @@ $
 \begin{aligned}
 b &= 36 \degree \\\\
 x &= 67.5 \degree \\\\
-y &= 33.5 \degree \\\\
+y &= 33.5 \degree
 \end{aligned}
 $
 
@@ -885,7 +885,7 @@ $
 \begin{aligned}
 b &= 36 \degree \\\\
 x &= 67.5 \degree \\\\
-y &= 33.5 \degree \\\\
+y &= 33.5 \degree
 \end{aligned}
 $
 </code></pre>

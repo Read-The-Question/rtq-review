@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2134,7 +2134,7 @@ $
 \begin{aligned}
 \text{Total water}       &= 5 \ \text{litres} \\\\
                          &= 5 \times 1000 \ \text{ml} \\\\
-                         &= 5000 \ \text{ml} \\\\
+                         &= 5000 \ \text{ml}
 \end{aligned}
 $
 
@@ -2170,7 +2170,7 @@ $
 \begin{aligned}
 \text{Total water}       &= 5 \ \text{litres} \\\\
                          &= 5 \times 1000 \ \text{ml} \\\\
-                         &= 5000 \ \text{ml} \\\\
+                         &= 5000 \ \text{ml}
 \end{aligned}
 $
 

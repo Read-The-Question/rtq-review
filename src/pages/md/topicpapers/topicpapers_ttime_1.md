@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "TopicPaper - Time - 1"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2410,7 +2410,7 @@ At what time will it finish?
 $
 \begin{aligned}
 &= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
-&= 9{:}20 \ \text{pm} \\\\
+&= 9{:}20 \ \text{pm}
 \end{aligned}
 $
 
@@ -2429,7 +2429,7 @@ $9{:}20 \ \text{pm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
-&= 9{:}20 \ \text{pm} \\\\
+&= 9{:}20 \ \text{pm}
 \end{aligned}
 $
 </code></pre>

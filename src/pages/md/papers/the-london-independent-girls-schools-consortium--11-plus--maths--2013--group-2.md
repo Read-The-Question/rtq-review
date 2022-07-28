@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "38"
 ---
 <div class='paper'>
@@ -5191,7 +5191,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>700724CE-B47C-452E-95FE-72A704D2129A</p>
 </div>
@@ -5205,7 +5205,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10071,7 +10071,7 @@ $
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tinfer
 </li>
 </ul>
 </div>
@@ -10167,7 +10167,7 @@ $
 \begin{aligned}
 &= 13 \times 3 + 7 + 8 \\\\
 &= 39 + 15 \\\\
-&= 54 \\\\
+&= 54
 \end{aligned}
 $
 
@@ -10181,7 +10181,7 @@ $
 48 + a + 6 &= 55 \\\\
 54 + a &= 55 \\\\
 a &= 55 - 54 \\\\
-a &= 1 \\\\
+a &= 1
 \end{aligned}
 $
 
@@ -10200,7 +10200,7 @@ ab &= 21 \\\\
 a \times b &= 1 \times 21 \ \text{Or,}\ \\\\
 a \times b &= 3 \times 7 \ \text{Or,}\ \\\\
 a \times b &= 7 \times 3 \ \text{Or,}\ \\\\
-a \times b &= 21 \times 1 \\\\
+a \times b &= 21 \times 1
 \end{aligned}
 $
 
@@ -10236,7 +10236,7 @@ $
 \begin{aligned}
 &= 13 \times 3 + 7 + 8 \\\\
 &= 39 + 15 \\\\
-&= 54 \\\\
+&= 54
 \end{aligned}
 $
 
@@ -10250,7 +10250,7 @@ $
 48 + a + 6 &= 55 \\\\
 54 + a &= 55 \\\\
 a &= 55 - 54 \\\\
-a &= 1 \\\\
+a &= 1
 \end{aligned}
 $
 
@@ -10269,7 +10269,7 @@ ab &= 21 \\\\
 a \times b &= 1 \times 21 \ \text{Or,}\ \\\\
 a \times b &= 3 \times 7 \ \text{Or,}\ \\\\
 a \times b &= 7 \times 3 \ \text{Or,}\ \\\\
-a \times b &= 21 \times 1 \\\\
+a \times b &= 21 \times 1
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-2"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "16"
 ---
 <div class='paper'>
@@ -6521,7 +6521,7 @@ $
                 &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
                 &= 7 \\\\
 \text {Median}  &= 6 \\\\
-\text {Mode}    &= 5 \\\\
+\text {Mode}    &= 5
 \end {aligned}
 $
 
@@ -6545,7 +6545,7 @@ $5, 5, 6, 9, 10$
                 &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
                 &= 7 \\\\
 \text {Median}  &= 6 \\\\
-\text {Mode}    &= 5 \\\\
+\text {Mode}    &= 5
 \end {aligned}
 $
 </code></pre>
@@ -6584,7 +6584,7 @@ $
                 &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
                 &= 7 \\\\
 \text {Median}  &= 6 \\\\
-\text {Mode}    &= 5 \\\\
+\text {Mode}    &= 5
 \end {aligned}
 $
 
@@ -6608,7 +6608,7 @@ $5, 5, 6, 5, 14$
                 &= \dfrac {\cancel {5} \times 7} {\cancel {5}} \\\\
                 &= 7 \\\\
 \text {Median}  &= 6 \\\\
-\text {Mode}    &= 5 \\\\
+\text {Mode}    &= 5
 \end {aligned}
 $
 </code></pre>

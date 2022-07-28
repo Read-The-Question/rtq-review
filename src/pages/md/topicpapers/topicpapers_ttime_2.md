@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-2"
 title: "TopicPaper - Time - 2"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -8283,7 +8283,7 @@ $
                               &= 1 \ \text{hour} 5 \ \text{minutes} \\\\
                               &= 1 \times 60 \ \text{minutes} + 5 \ \text{minutes} \\\\
                               &= 60 + 5 \\\\
-                              &= 65 \ \text{minutes} \\\\
+                              &= 65 \ \text{minutes}
 \end{aligned}
 $
 
@@ -8323,7 +8323,7 @@ $
                               &= 1 \ \text{hour} 5 \ \text{minutes} \\\\
                               &= 1 \times 60 \ \text{minutes} + 5 \ \text{minutes} \\\\
                               &= 60 + 5 \\\\
-                              &= 65 \ \text{minutes} \\\\
+                              &= 65 \ \text{minutes}
 \end{aligned}
 $
 
@@ -8886,7 +8886,7 @@ $
 \begin{aligned}
 \text{Time Edinburgh arrives at railway station}  &=  13{:}05 + 27 \text{minutes} + 45 \text{minutes} \\\\ 
                                                   &=  13{:}05 + 01{:}12 \\\\
-                                                  &= 14{:}17 \\\\
+                                                  &= 14{:}17
 \end{aligned}
 $
 
@@ -8913,7 +8913,7 @@ $7 \ \text{minutes}$
 \begin{aligned}
 \text{Time Edinburgh arrives at railway station}  &=  13{:}05 + 27 \text{minutes} + 45 \text{minutes} \\\\ 
                                                   &=  13{:}05 + 01{:}12 \\\\
-                                                  &= 14{:}17 \\\\
+                                                  &= 14{:}17
 \end{aligned}
 $
 

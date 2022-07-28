@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2016-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2016 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "9"
 ---
 <div class='paper'>
@@ -120,7 +120,7 @@ As per the question,
 $
 \begin{aligned}
 2a + b &= 35 \\\\
-2b - a &= 15 \\\\
+2b - a &= 15
 \end{aligned}
 $
 
@@ -135,7 +135,7 @@ $
 70 -15          &= 5a \\\\
 5a             &= 55 \\\\
 a               &= \dfrac {55} {5} \\\\
-a               &= 11 \\\\
+a               &= 11
 \end{aligned}
 $
 
@@ -147,7 +147,7 @@ $
 2 \times 11 + b &= 35 \\\\
 22 + b &= 35 \\\\
 b &= 35 - 22 \\\\
-b &= 13 \\\\
+b &= 13
 \end{aligned}
 $
 
@@ -183,7 +183,7 @@ As per the question,
 $
 \begin{aligned}
 2a + b &= 35 \\\\
-2b - a &= 15 \\\\
+2b - a &= 15
 \end{aligned}
 $
 
@@ -198,7 +198,7 @@ $
 70 -15          &= 5a \\\\
 5a             &= 55 \\\\
 a               &= \dfrac {55} {5} \\\\
-a               &= 11 \\\\
+a               &= 11
 \end{aligned}
 $
 
@@ -210,7 +210,7 @@ $
 2 \times 11 + b &= 35 \\\\
 22 + b &= 35 \\\\
 b &= 35 - 22 \\\\
-b &= 13 \\\\
+b &= 13
 \end{aligned}
 $
 

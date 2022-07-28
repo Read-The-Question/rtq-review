@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-blocked"
 title: "TopicPaper - Areaperimeter - 1 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -327,7 +327,7 @@ $
 \begin{aligned}
  \text{1. } 8 \text{ cm} \times 3 \text{ cm} \\\\
  \text{2. } 4 \text{ cm} \times 6 \text{ cm} \\\\
- \text{3. } 12 \text{ cm} \times 2 \text{ cm} \\\\
+ \text{3. } 12 \text{ cm} \times 2 \text{ cm}
 \end{aligned}
 $
 
@@ -347,7 +347,7 @@ $\text{1. } 8 \text{ cm} \times 3 \text{ cm}, \text{2. } 4 \text{ cm} \times 6 \
 \begin{aligned}
  \text{1. } 8 \text{ cm} \times 3 \text{ cm} \\\\
  \text{2. } 4 \text{ cm} \times 6 \text{ cm} \\\\
- \text{3. } 12 \text{ cm} \times 2 \text{ cm} \\\\
+ \text{3. } 12 \text{ cm} \times 2 \text{ cm}
 \end{aligned}
 $
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -9005,7 +9005,7 @@ A^2 - B^2           &= C^3 \\\
 (A + B) \times C    &= C^3 \\\\
 (A + B)             &= \dfrac{C^3}{C} \\\\
 A + B               &= C^2 \\\\
-3 + 1               &= 2^2 \\\\
+3 + 1               &= 2^2
 \end{aligned}
 $
 
@@ -9036,7 +9036,7 @@ A^2 - B^2           &= C^3 \\\
 (A + B) \times C    &= C^3 \\\\
 (A + B)             &= \dfrac{C^3}{C} \\\\
 A + B               &= C^2 \\\\
-3 + 1               &= 2^2 \\\\
+3 + 1               &= 2^2
 \end{aligned}
 $
 

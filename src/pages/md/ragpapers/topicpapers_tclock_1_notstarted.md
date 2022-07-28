@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tclock-1-notstarted"
 title: "TopicPaper - Clock - 1 - NOTSTARTED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -6085,7 +6085,7 @@ $
 60 \ \text{minutes}     &: 30 \\\\
 1 \ \text{minute}       &: \dfrac{30}{60} \\\\
 30 \ \text{minutes}     &: \dfrac{30 \times 30}{60} \\\\
-30 \ \text{minutes}     &: 15 \degree \\\\
+30 \ \text{minutes}     &: 15 \degree
 \end{aligned}
 $
 
@@ -6131,7 +6131,7 @@ $
 60 \ \text{minutes}     &: 30 \\\\
 1 \ \text{minute}       &: \dfrac{30}{60} \\\\
 30 \ \text{minutes}     &: \dfrac{30 \times 30}{60} \\\\
-30 \ \text{minutes}     &: 15 \degree \\\\
+30 \ \text{minutes}     &: 15 \degree
 \end{aligned}
 $
 

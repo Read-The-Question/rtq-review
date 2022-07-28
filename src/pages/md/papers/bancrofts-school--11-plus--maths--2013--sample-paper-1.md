@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "36"
 ---
 <div class='paper'>
@@ -3180,7 +3180,7 @@ At what time will it finish?
 $
 \begin{aligned}
 &= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
-&= 9{:}20 \ \text{pm} \\\\
+&= 9{:}20 \ \text{pm}
 \end{aligned}
 $
 
@@ -3199,7 +3199,7 @@ $9{:}20 \ \text{pm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
-&= 9{:}20 \ \text{pm} \\\\
+&= 9{:}20 \ \text{pm}
 \end{aligned}
 $
 </code></pre>
@@ -8918,7 +8918,7 @@ $
 \dfrac {1} {2} \times b \times h    &= 32 \\\\
 \dfrac {b \times h} {2}             &= 32 \\\\
 b \times h                          &= 32 \times 2 \\\\
-b \times h                          &= 64 \\\\
+b \times h                          &= 64
 \end{aligned}
 $
 
@@ -8953,7 +8953,7 @@ $
 \dfrac {1} {2} \times b \times h    &= 32 \\\\
 \dfrac {b \times h} {2}             &= 32 \\\\
 b \times h                          &= 32 \times 2 \\\\
-b \times h                          &= 64 \\\\
+b \times h                          &= 64
 \end{aligned}
 $
 

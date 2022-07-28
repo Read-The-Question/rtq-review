@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-4"
 title: "TopicPaper - Simpleword - 4"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1551,7 +1551,7 @@ $
 \begin{aligned}
 \text{Red balls}           &= \text{Total balls} - \text {Blue balls} \\\\
                            &= 10 - 1 \\\\
-                           &= 9 \\\\
+                           &= 9
 \end{aligned}
 $
 
@@ -1620,7 +1620,7 @@ $
 \begin{aligned}
 \text{Red balls}           &= \text{Total balls} - \text {Blue balls} \\\\
                            &= 10 - 1 \\\\
-                           &= 9 \\\\
+                           &= 9
 \end{aligned}
 $
 
@@ -5921,7 +5921,7 @@ $
 \begin{aligned}
 \text{First number}                             &= 0 \\\\
 \text{Last number}                              &= 39 \\\\
-\text{Total numbers}                            &= 40 \\\\
+\text{Total numbers}                            &= 40
 \end{aligned}
 $
 
@@ -5956,7 +5956,7 @@ $
 \begin{aligned}
 \text{First number}                             &= 0 \\\\
 \text{Last number}                              &= 39 \\\\
-\text{Total numbers}                            &= 40 \\\\
+\text{Total numbers}                            &= 40
 \end{aligned}
 $
 

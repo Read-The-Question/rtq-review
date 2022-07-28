@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "41"
 ---
 <div class='paper'>
@@ -2615,7 +2615,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>E2763A24-0886-4746-AFC3-EA159E1998DE</p>
 </div>
@@ -2629,7 +2629,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2942,7 +2942,7 @@ $
 \dfrac{3 \times 2}{5 \times 2} & & \dfrac{7\cancel0}{10\cancel0} \\\\
 \dfrac{6}{10} & & \dfrac{7}{10} \\\\
 \dfrac{6}{10} & < & \dfrac{7}{10} \\\\
-\dfrac{3}{5} & < & 70\% \\\\
+\dfrac{3}{5} & < & 70\%
 \end{array}
 $
 
@@ -2976,7 +2976,7 @@ TODOANSWER
 \dfrac{3 \times 2}{5 \times 2} & & \dfrac{7\cancel0}{10\cancel0} \\\\
 \dfrac{6}{10} & & \dfrac{7}{10} \\\\
 \dfrac{6}{10} & < & \dfrac{7}{10} \\\\
-\dfrac{3}{5} & < & 70\% \\\\
+\dfrac{3}{5} & < & 70\%
 \end{array}
 $
 
@@ -3015,6 +3015,19 @@ Therefore, $70\%$ is greater than $\dfrac{3}{5}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a and b: write the calculation on how much to shade, you have done similar in fraction questions
+
+
+
+c: do like other questions for finding the biggest number, not following the template
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3354,7 +3367,7 @@ part (b) : remove \"in Cold city\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>C8640325-25B0-4880-AE2B-96BAE3EBCA9D</p>
 </div>
@@ -3368,7 +3381,7 @@ part (b) : remove \"in Cold city\"
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3593,7 +3606,7 @@ $
 \begin{aligned}
 &= (7 - 3) \times 2 \\\\
 &= 4 \times 2 \\\\
-&= 8 \\\\
+&= 8
 \end{aligned}
 $
 
@@ -3608,7 +3621,7 @@ $
 (a - 3) \times 2 &= 34 \\\\
 a - 3 &= \dfrac{34}{2} \\\\
 a - 3 &= 17 \\\\
-a &= 20 \\\\
+a &= 20
 \end{aligned}
 $
 
@@ -3623,7 +3636,7 @@ $
 (a - 3) \times 2 &= 0 \\\\
 a - 3 &= \dfrac{0}{2} \\\\
 a - 3 &= 0 \\\\
-a &= 3 \\\\
+a &= 3
 \end{aligned}
 $
 
@@ -3657,7 +3670,7 @@ $
 \begin{aligned}
 &= (7 - 3) \times 2 \\\\
 &= 4 \times 2 \\\\
-&= 8 \\\\
+&= 8
 \end{aligned}
 $
 
@@ -3672,7 +3685,7 @@ $
 (a - 3) \times 2 &= 34 \\\\
 a - 3 &= \dfrac{34}{2} \\\\
 a - 3 &= 17 \\\\
-a &= 20 \\\\
+a &= 20
 \end{aligned}
 $
 
@@ -3687,7 +3700,7 @@ $
 (a - 3) \times 2 &= 0 \\\\
 a - 3 &= \dfrac{0}{2} \\\\
 a - 3 &= 0 \\\\
-a &= 3 \\\\
+a &= 3
 \end{aligned}
 $
 </code></pre>
@@ -3746,7 +3759,7 @@ a - 3 &= \dfrac{a}{2} \\\\
 a - \dfrac{a}{2} &= 3 \\\\
 \dfrac{a}{2} &= 3 \\\\
 a &= 3 \times 2 \\\\
-a &= 6 \\\\
+a &= 6
 \end{aligned}
 $
 
@@ -3783,7 +3796,7 @@ a - 3 &= \dfrac{a}{2} \\\\
 a - \dfrac{a}{2} &= 3 \\\\
 \dfrac{a}{2} &= 3 \\\\
 a &= 3 \times 2 \\\\
-a &= 6 \\\\
+a &= 6
 \end{aligned}
 $
 </code></pre>
@@ -3846,7 +3859,7 @@ From Row 1, where $x = 2$,
 $
 \begin{aligned}
 a \times 2 + b &= 6 \\\\
-2a + b &= 6 \\\\
+2a + b &= 6
 \end{aligned}
 $
 
@@ -3855,7 +3868,7 @@ From Row 2, where $x = 4$,
 $
 \begin{aligned}
 a \times 4 + b &= 7 \\\\
-4a + b &= 7 \\\\
+4a + b &= 7
 \end{aligned}
 $
 
@@ -3867,7 +3880,7 @@ $
 4a + (6 - 2a) &= 7 \\\\
 4a - 2a &= 7 - 6 \\\\
 2a &= 1 \\\\
-a &= \dfrac{1}{2} \\\\
+a &= \dfrac{1}{2}
 \end{aligned}
 $
 
@@ -3878,7 +3891,7 @@ $
 2a + b &= 6 \\\\
 2 \times \dfrac{1}{2} + b &= 6 \\\\
 1 + b &= 6 \\\\
-b &= 5 \\\\
+b &= 5
 \end{aligned}
 $
 
@@ -3891,7 +3904,7 @@ $
 &= \dfrac{x}{2} + 5 \\\\
 &= \dfrac{8}{2} + 5 \\\\
 &= 4 + 5 \\\\
-&= 9 = 9 \\\\
+&= 9 = 9
 \end{aligned}
 $
 
@@ -3902,7 +3915,7 @@ $
 &= \dfrac{x}{2} + 5 \\\\
 &= \dfrac{12}{2} + 5 \\\\
 &= 6 + 5 \\\\
-&= 11 = 11 \\\\
+&= 11 = 11
 \end{aligned}
 $
 
@@ -3939,7 +3952,7 @@ From Row 1, where $x = 2$,
 $
 \begin{aligned}
 a \times 2 + b &= 6 \\\\
-2a + b &= 6 \\\\
+2a + b &= 6
 \end{aligned}
 $
 
@@ -3948,7 +3961,7 @@ From Row 2, where $x = 4$,
 $
 \begin{aligned}
 a \times 4 + b &= 7 \\\\
-4a + b &= 7 \\\\
+4a + b &= 7
 \end{aligned}
 $
 
@@ -3960,7 +3973,7 @@ $
 4a + (6 - 2a) &= 7 \\\\
 4a - 2a &= 7 - 6 \\\\
 2a &= 1 \\\\
-a &= \dfrac{1}{2} \\\\
+a &= \dfrac{1}{2}
 \end{aligned}
 $
 
@@ -3971,7 +3984,7 @@ $
 2a + b &= 6 \\\\
 2 \times \dfrac{1}{2} + b &= 6 \\\\
 1 + b &= 6 \\\\
-b &= 5 \\\\
+b &= 5
 \end{aligned}
 $
 
@@ -3984,7 +3997,7 @@ $
 &= \dfrac{x}{2} + 5 \\\\
 &= \dfrac{8}{2} + 5 \\\\
 &= 4 + 5 \\\\
-&= 9 = 9 \\\\
+&= 9 = 9
 \end{aligned}
 $
 
@@ -3995,7 +4008,7 @@ $
 &= \dfrac{x}{2} + 5 \\\\
 &= \dfrac{12}{2} + 5 \\\\
 &= 6 + 5 \\\\
-&= 11 = 11 \\\\
+&= 11 = 11
 \end{aligned}
 $
 
@@ -4391,7 +4404,7 @@ $
                         &= \dfrac {53} {6} \\\\
                         &= 8 \dfrac {5} {6} \ \text {years} \\\\
                         &= 8 \ \text {years} \ \dfrac {5} {6} \times 12 \ \text {months} \\\\
-                        &= 8 \ \text {years } 10 \ \text {months} \\\\
+                        &= 8 \ \text {years } 10 \ \text {months}
 \end{aligned}
 $
 
@@ -4420,7 +4433,7 @@ $8 \ \text {years } 10 \ \text {months}$
                         &= \dfrac {53} {6} \\\\
                         &= 8 \dfrac {5} {6} \ \text {years} \\\\
                         &= 8 \ \text {years} \ \dfrac {5} {6} \times 12 \ \text {months} \\\\
-                        &= 8 \ \text {years } 10 \ \text {months} \\\\
+                        &= 8 \ \text {years } 10 \ \text {months}
 \end{aligned}
 $
 </code></pre>
@@ -5673,7 +5686,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>C64CD9B6-260A-4796-B72F-DA0402DCC350</p>
 </div>
@@ -5687,7 +5700,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>

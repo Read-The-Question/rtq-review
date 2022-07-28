@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-pr-prns"
 title: "TopicPaper - Areaperimeter - 1 - PR - PRNS"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -2435,7 +2435,7 @@ $
 \dfrac {1} {2} \times b \times h    &= 32 \\\\
 \dfrac {b \times h} {2}             &= 32 \\\\
 b \times h                          &= 32 \times 2 \\\\
-b \times h                          &= 64 \\\\
+b \times h                          &= 64
 \end{aligned}
 $
 
@@ -2470,7 +2470,7 @@ $
 \dfrac {1} {2} \times b \times h    &= 32 \\\\
 \dfrac {b \times h} {2}             &= 32 \\\\
 b \times h                          &= 32 \times 2 \\\\
-b \times h                          &= 64 \\\\
+b \times h                          &= 64
 \end{aligned}
 $
 
@@ -5367,7 +5367,7 @@ $
 a \times a          &= 81 \\\\
 a^2                 &= 81 \\\\
 a                   &= \sqrt {81} \\\\
-a                   &= 9 \ \text{cm} \\\\
+a                   &= 9 \ \text{cm}
 \end{aligned}
 $
 
@@ -5406,7 +5406,7 @@ $
 a \times a          &= 81 \\\\
 a^2                 &= 81 \\\\
 a                   &= \sqrt {81} \\\\
-a                   &= 9 \ \text{cm} \\\\
+a                   &= 9 \ \text{cm}
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-5"
 title: "TopicPaper - Graph - 5"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -9388,7 +9388,7 @@ Point B $(9,8)$ to $A$
 $
 \begin{aligned}
 A &= 1 R, 2 U \\\\
-  &=K-step\\\\
+  &=K-step
 \end{aligned}
 $
 
@@ -9443,7 +9443,7 @@ Point B $(9,8)$ to $A$
 $
 \begin{aligned}
 A &= 1 R, 2 U \\\\
-  &=K-step\\\\
+  &=K-step
 \end{aligned}
 $
 

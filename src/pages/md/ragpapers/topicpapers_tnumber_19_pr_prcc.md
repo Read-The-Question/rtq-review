@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-19-pr-prcc"
 title: "TopicPaper - Number - 19 - PR - PRCC"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -170,7 +170,7 @@ $
 6 \times 1 \dfrac {1}{3} &= a \\\\
 6 \times \dfrac {4}{3} &= a \\\\
 \dfrac {24}{3} &= a \\\\
-a &= 8 \\\\
+a &= 8
 \end {aligned}
 $
 
@@ -201,7 +201,7 @@ TODOANSWER
 6 \times 1 \dfrac {1}{3} &= a \\\\
 6 \times \dfrac {4}{3} &= a \\\\
 \dfrac {24}{3} &= a \\\\
-a &= 8 \\\\
+a &= 8
 \end {aligned}
 $
 </code></pre>
@@ -252,7 +252,7 @@ $
 12 \times b &= 15 \\\\
 b &= \dfrac {15} {12} \\\\
 b &= \dfrac {5} {4} \\\\
-b &= 1.25 \\\\
+b &= 1.25
 \end {aligned}
 $
 
@@ -283,7 +283,7 @@ TODOANSWER
 12 \times b &= 15 \\\\
 b &= \dfrac {15} {12} \\\\
 b &= \dfrac {5} {4} \\\\
-b &= 1.25 \\\\
+b &= 1.25
 \end {aligned}
 $
 </code></pre>
@@ -335,7 +335,7 @@ c \times 11 &= 1045 \\\\
 c &= \dfrac {1045} {11} \\\\
 c &= \dfrac {95 \times 11} {11} \\\\
 c &= \dfrac {95 \times \cancel {11}} {\cancel{11}} \\\\
-c &= 95 \\\\
+c &= 95
 \end {aligned}
 $
 
@@ -367,7 +367,7 @@ c \times 11 &= 1045 \\\\
 c &= \dfrac {1045} {11} \\\\
 c &= \dfrac {95 \times 11} {11} \\\\
 c &= \dfrac {95 \times \cancel {11}} {\cancel{11}} \\\\
-c &= 95 \\\\
+c &= 95
 \end {aligned}
 $
 </code></pre>
@@ -418,7 +418,7 @@ $
 0.5 \times d &= 28 \\\\
 \dfrac {d} {2} &= 28 \\\\
 d &= 28 \times 2 \\\\
-b &= 56 \\\\
+b &= 56
 \end {aligned}
 $
 
@@ -449,7 +449,7 @@ TODOANSWER
 0.5 \times d &= 28 \\\\
 \dfrac {d} {2} &= 28 \\\\
 d &= 28 \times 2 \\\\
-b &= 56 \\\\
+b &= 56
 \end {aligned}
 $
 </code></pre>
@@ -503,7 +503,7 @@ e &= \dfrac {24} {100} \div \dfrac {4} {10} \\\\
 e &= \dfrac {24} {100} \times \dfrac {10} {4} \\\\
 e &= \dfrac {24} {10\cancel{0}} \times \dfrac {\cancel{10}} {4} \\\\
 e &= \dfrac {6} {10} \\\\
-e &= 0.6 \\\\
+e &= 0.6
 \end {aligned}
 $
 
@@ -537,7 +537,7 @@ e &= \dfrac {24} {100} \div \dfrac {4} {10} \\\\
 e &= \dfrac {24} {100} \times \dfrac {10} {4} \\\\
 e &= \dfrac {24} {10\cancel{0}} \times \dfrac {\cancel{10}} {4} \\\\
 e &= \dfrac {6} {10} \\\\
-e &= 0.6 \\\\
+e &= 0.6
 \end {aligned}
 $
 </code></pre>
@@ -783,7 +783,7 @@ $
 \begin{aligned}
 \text {Factors of 4}  &= 1, 2, 4 \\\\
 \text {Factors of 9}  &= 1, 3, 9 \\\\
-\text {Factors of 25}  &= 1, 5, 25 \\\\
+\text {Factors of 25}  &= 1, 5, 25
 \end{aligned}
 $
 
@@ -817,7 +817,7 @@ $
 \begin{aligned}
 \text {Factors of 4}  &= 1, 2, 4 \\\\
 \text {Factors of 9}  &= 1, 3, 9 \\\\
-\text {Factors of 25}  &= 1, 5, 25 \\\\
+\text {Factors of 25}  &= 1, 5, 25
 \end{aligned}
 $
 </code></pre>
@@ -866,7 +866,7 @@ Write down the smallest multiple of $17$ which is greater than $200$.
 $
 \begin{aligned}
 &= 204 \\\\
-&= 17 \times 12 \\\\
+&= 17 \times 12
 \end{aligned}
 $
 
@@ -895,7 +895,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 204 \\\\
-&= 17 \times 12 \\\\
+&= 17 \times 12
 \end{aligned}
 $
 </code></pre>
@@ -1024,7 +1024,7 @@ a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
   &= ( \dfrac{2 + 3}{6}) \div 2 \\\\
   &= ( \dfrac{5}{6}) \div 2 \\\\
   &= \dfrac{5}{6 \times 2} \\\\
-a &= \dfrac{5}{12} \\\\
+a &= \dfrac{5}{12}
 \end{aligned}
 $
 
@@ -1062,7 +1062,7 @@ a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
   &= ( \dfrac{2 + 3}{6}) \div 2 \\\\
   &= ( \dfrac{5}{6}) \div 2 \\\\
   &= \dfrac{5}{6 \times 2} \\\\
-a &= \dfrac{5}{12} \\\\
+a &= \dfrac{5}{12}
 \end{aligned}
 $
 
@@ -1116,7 +1116,7 @@ Lets verify
 $
 \begin{aligned}
 &= {21^2} \\\\
-&= 441 \\\\
+&= 441
 \end{aligned}
 $
 
@@ -1150,7 +1150,7 @@ Lets verify
 $
 \begin{aligned}
 &= {21^2} \\\\
-&= 441 \\\\
+&= 441
 \end{aligned}
 $
 
@@ -1376,7 +1376,7 @@ T \times E          &= \dfrac{20} {2} \\\\
 T \times E          &= \dfrac{10 \times 2} {2} \\\\
 T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
 T \times E          &= 10 \\\\
-T \times E          &= 5 \times 2 \\\\
+T \times E          &= 5 \times 2
 \end{aligned}
 $
 
@@ -1417,7 +1417,7 @@ T \times E          &= \dfrac{20} {2} \\\\
 T \times E          &= \dfrac{10 \times 2} {2} \\\\
 T \times E          &= \dfrac{10 \times \cancel {2}} {\cancel {2}} \\\\
 T \times E          &= 10 \\\\
-T \times E          &= 5 \times 2 \\\\
+T \times E          &= 5 \times 2
 \end{aligned}
 $
 

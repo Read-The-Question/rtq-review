@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-pr"
 title: "TopicPaper - Angle - 1 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -124,7 +124,7 @@ x  + y + 74                             &= 180 \\\\
 74 + y + 74                             &= 180 \\\\
 y + 148                                 &= 180 \\\\
 y                                       &= 180 - 148 \\\\
-y                                       &= 32 \degree \\\\
+y                                       &= 32 \degree
 \end{aligned}
 $
 
@@ -176,7 +176,7 @@ x  + y + 74                             &= 180 \\\\
 74 + y + 74                             &= 180 \\\\
 y + 148                                 &= 180 \\\\
 y                                       &= 180 - 148 \\\\
-y                                       &= 32 \degree \\\\
+y                                       &= 32 \degree
 \end{aligned}
 $
 

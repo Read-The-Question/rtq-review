@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-blocked"
 title: "TopicPaper - Number - 1 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -246,7 +246,7 @@ $
 & 3 \times 4 - 2 + 3 = 9 \\\\
 & 3 \times (4 - 2) + 3 \\\\
 & (3 \times (4 - 2)) + 3 \\\\
-& (3 \times (4 - 2)) + 3 \\\\
+& (3 \times (4 - 2)) + 3
 \end{aligned}
 $
 
@@ -267,7 +267,7 @@ $ (3 \times (4 - 2)) + 3 = 9$
 & 3 \times 4 - 2 + 3 = 9 \\\\
 & 3 \times (4 - 2) + 3 \\\\
 & (3 \times (4 - 2)) + 3 \\\\
-& (3 \times (4 - 2)) + 3 \\\\
+& (3 \times (4 - 2)) + 3
 \end{aligned}
 $
 </code></pre>

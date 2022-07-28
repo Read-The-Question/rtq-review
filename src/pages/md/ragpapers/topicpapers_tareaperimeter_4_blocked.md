@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-blocked"
 title: "TopicPaper - Areaperimeter - 4 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -264,7 +264,7 @@ l                        &= 2 \times 6 \\\\
 l                        &= 12 \\\\
 area                     &= l \times b \\\\
 area                     &= 12 \times 6 \\\\
-area                     &= 72 \\\\   
+area                     &= 72
 \end{aligned}
 $
 
@@ -292,7 +292,7 @@ l                        &= 2 \times 6 \\\\
 l                        &= 12 \\\\
 area                     &= l \times b \\\\
 area                     &= 12 \times 6 \\\\
-area                     &= 72 \\\\   
+area                     &= 72
 \end{aligned}
 $
 </code></pre>

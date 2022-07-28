@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-7"
 title: "TopicPaper - Algebra - 7"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -486,7 +486,7 @@ $
 \text{let height} &= h \\\\
 \text{new height} &= 0.75 \times h \\\\
 0.25 \times h &= (0.75)^x \times h \\\\
-x &= 4 \\\\
+x &= 4
 \end{aligned}
 $
 
@@ -519,7 +519,7 @@ $
 \text{let height} &= h \\\\
 \text{new height} &= 0.75 \times h \\\\
 0.25 \times h &= (0.75)^x \times h \\\\
-x &= 4 \\\\
+x &= 4
 \end{aligned}
 $
 </code></pre>
@@ -1043,7 +1043,7 @@ $
 \text{Equation,}\\\\
 530 - 5 \times x &= 260 + 5 \times x\\\\
 530 - 260 &= 10 \times x\\\\
-x &= 10 \\\\
+x &= 10
 \end{aligned}
 $
 
@@ -1076,7 +1076,7 @@ TODOANSWER
 \text{Equation,}\\\\
 530 - 5 \times x &= 260 + 5 \times x\\\\
 530 - 260 &= 10 \times x\\\\
-x &= 10 \\\\
+x &= 10
 \end{aligned}
 $
 </code></pre>
@@ -1580,7 +1580,7 @@ Write down an expression in algebra for the number of heads that remain in the f
 $
 \begin{aligned}
 \text{heads} &= x + y + 1 - ( \dfrac{1}{2} \times x ) - ( \dfrac{1}{4} \times y ) \\\\
-&= \dfrac{1}{2} \times x + \dfrac{3}{4} \times y + 1 \\\\
+&= \dfrac{1}{2} \times x + \dfrac{3}{4} \times y + 1
 \end{aligned}
 $
 
@@ -1609,7 +1609,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{heads} &= x + y + 1 - ( \dfrac{1}{2} \times x ) - ( \dfrac{1}{4} \times y ) \\\\
-&= \dfrac{1}{2} \times x + \dfrac{3}{4} \times y + 1 \\\\
+&= \dfrac{1}{2} \times x + \dfrac{3}{4} \times y + 1
 \end{aligned}
 $
 </code></pre>
@@ -2560,7 +2560,7 @@ $
 \text{let dist.} &= x \\\\
 \dfrac{x}{2} + 5 &= x - 10 \\\\ 
 \dfrac{x}{2} &= 15 \\\\
-x &= 30 \\\\ 
+x &= 30
 \end{aligned}
 $
 
@@ -2591,7 +2591,7 @@ TODOANSWER
 \text{let dist.} &= x \\\\
 \dfrac{x}{2} + 5 &= x - 10 \\\\ 
 \dfrac{x}{2} &= 15 \\\\
-x &= 30 \\\\ 
+x &= 30
 \end{aligned}
 $
 </code></pre>
@@ -4116,7 +4116,7 @@ $
 x                                        &= \dfrac {9} {36} \\\\
 x                                        &= \dfrac {9} {9 \times 4} \\\\
                                          &= \dfrac{\cancel{9}} {\cancel{9} \times 4} \\\\
-                                         &= \dfrac {1} {4} \\\\ 
+                                         &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -4138,7 +4138,7 @@ $\dfrac {1} {4}$
 x                                        &= \dfrac {9} {36} \\\\
 x                                        &= \dfrac {9} {9 \times 4} \\\\
                                          &= \dfrac{\cancel{9}} {\cancel{9} \times 4} \\\\
-                                         &= \dfrac {1} {4} \\\\ 
+                                         &= \dfrac {1} {4}
 \end{aligned}
 $
 </code></pre>

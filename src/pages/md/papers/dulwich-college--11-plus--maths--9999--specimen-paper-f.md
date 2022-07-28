@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-f"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper F"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "26"
 ---
 <div class='paper'>
@@ -1396,7 +1396,7 @@ $
 \begin{aligned}
 \underline 9 \times 11 &= 99 \\\\
 \underline 11 \times 9 &= 99 \\\\
-\underline 33 \times 3 &= 99 \\\\
+\underline 33 \times 3 &= 99
 \end{aligned}
 $
 
@@ -1430,7 +1430,7 @@ $
 \begin{aligned}
 \underline 9 \times 11 &= 99 \\\\
 \underline 11 \times 9 &= 99 \\\\
-\underline 33 \times 3 &= 99 \\\\
+\underline 33 \times 3 &= 99
 \end{aligned}
 $
 
@@ -5732,7 +5732,7 @@ b + e + t &= 35 - 20 \\\\
 b + e + t &= 15 \\\\
 b + e + t + a &= 15 + a \\\\
 b + e + t + a &= 15 + 7 \\\\
-b + e + t + a &= 22 \\\\
+b + e + t + a &= 22
 \end {aligned}
 $
 
@@ -5758,7 +5758,7 @@ b + e + t &= 35 - 20 \\\\
 b + e + t &= 15 \\\\
 b + e + t + a &= 15 + a \\\\
 b + e + t + a &= 15 + 7 \\\\
-b + e + t + a &= 22 \\\\
+b + e + t + a &= 22
 \end {aligned}
 $
 </code></pre>

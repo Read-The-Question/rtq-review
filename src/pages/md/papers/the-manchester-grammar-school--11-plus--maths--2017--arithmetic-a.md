@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic A"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "20"
 ---
 <div class='paper'>
@@ -458,7 +458,7 @@ $
 \begin{aligned}
 23 \times 10 = 230\\
 23 \ \times  9 = 207\\
-23 \ \times  8 = 184\\\\
+23 \ \times  8 = 184
 \end{aligned}
 $
 
@@ -470,7 +470,7 @@ $
 \phantom{)}              - \underline{1 \ 8 \ 4 \ \ \ }\\
 \phantom{23)-}                            2 \ 0\ 7\\\
 \phantom{)-}                  -\underline{2 \ 0\ 7}\\
-\phantom{23)-207}                               {0}\\\\
+\phantom{23)-207}                               {0}
 \end{array}
 $
 
@@ -491,7 +491,7 @@ $89$
 \begin{aligned}
 23 \times 10 = 230\\
 23 \ \times  9 = 207\\
-23 \ \times  8 = 184\\\\
+23 \ \times  8 = 184
 \end{aligned}
 $
 
@@ -503,7 +503,7 @@ $
 \phantom{)}              - \underline{1 \ 8 \ 4 \ \ \ }\\
 \phantom{23)-}                            2 \ 0\ 7\\\
 \phantom{)-}                  -\underline{2 \ 0\ 7}\\
-\phantom{23)-207}                               {0}\\\\
+\phantom{23)-207}                               {0}
 \end{array}
 $
 

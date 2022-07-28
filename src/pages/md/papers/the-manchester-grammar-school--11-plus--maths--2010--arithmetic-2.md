@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 2"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "12"
 ---
 <div class='paper'>
@@ -1801,7 +1801,7 @@ $
 6 \times 1 \dfrac {1}{3} &= a \\\\
 6 \times \dfrac {4}{3} &= a \\\\
 \dfrac {24}{3} &= a \\\\
-a &= 8 \\\\
+a &= 8
 \end {aligned}
 $
 
@@ -1832,7 +1832,7 @@ TODOANSWER
 6 \times 1 \dfrac {1}{3} &= a \\\\
 6 \times \dfrac {4}{3} &= a \\\\
 \dfrac {24}{3} &= a \\\\
-a &= 8 \\\\
+a &= 8
 \end {aligned}
 $
 </code></pre>
@@ -1883,7 +1883,7 @@ $
 12 \times b &= 15 \\\\
 b &= \dfrac {15} {12} \\\\
 b &= \dfrac {5} {4} \\\\
-b &= 1.25 \\\\
+b &= 1.25
 \end {aligned}
 $
 
@@ -1914,7 +1914,7 @@ TODOANSWER
 12 \times b &= 15 \\\\
 b &= \dfrac {15} {12} \\\\
 b &= \dfrac {5} {4} \\\\
-b &= 1.25 \\\\
+b &= 1.25
 \end {aligned}
 $
 </code></pre>
@@ -1966,7 +1966,7 @@ c \times 11 &= 1045 \\\\
 c &= \dfrac {1045} {11} \\\\
 c &= \dfrac {95 \times 11} {11} \\\\
 c &= \dfrac {95 \times \cancel {11}} {\cancel{11}} \\\\
-c &= 95 \\\\
+c &= 95
 \end {aligned}
 $
 
@@ -1998,7 +1998,7 @@ c \times 11 &= 1045 \\\\
 c &= \dfrac {1045} {11} \\\\
 c &= \dfrac {95 \times 11} {11} \\\\
 c &= \dfrac {95 \times \cancel {11}} {\cancel{11}} \\\\
-c &= 95 \\\\
+c &= 95
 \end {aligned}
 $
 </code></pre>
@@ -2049,7 +2049,7 @@ $
 0.5 \times d &= 28 \\\\
 \dfrac {d} {2} &= 28 \\\\
 d &= 28 \times 2 \\\\
-b &= 56 \\\\
+b &= 56
 \end {aligned}
 $
 
@@ -2080,7 +2080,7 @@ TODOANSWER
 0.5 \times d &= 28 \\\\
 \dfrac {d} {2} &= 28 \\\\
 d &= 28 \times 2 \\\\
-b &= 56 \\\\
+b &= 56
 \end {aligned}
 $
 </code></pre>
@@ -2134,7 +2134,7 @@ e &= \dfrac {24} {100} \div \dfrac {4} {10} \\\\
 e &= \dfrac {24} {100} \times \dfrac {10} {4} \\\\
 e &= \dfrac {24} {10\cancel{0}} \times \dfrac {\cancel{10}} {4} \\\\
 e &= \dfrac {6} {10} \\\\
-e &= 0.6 \\\\
+e &= 0.6
 \end {aligned}
 $
 
@@ -2168,7 +2168,7 @@ e &= \dfrac {24} {100} \div \dfrac {4} {10} \\\\
 e &= \dfrac {24} {100} \times \dfrac {10} {4} \\\\
 e &= \dfrac {24} {10\cancel{0}} \times \dfrac {\cancel{10}} {4} \\\\
 e &= \dfrac {6} {10} \\\\
-e &= 0.6 \\\\
+e &= 0.6
 \end {aligned}
 $
 </code></pre>

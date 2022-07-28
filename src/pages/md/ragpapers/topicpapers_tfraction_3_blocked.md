@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-blocked"
 title: "TopicPaper - Fraction - 3 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -992,7 +992,7 @@ $
 \begin{aligned}
 &= \dfrac{4}{5} \text{and} \dfrac{8}{9} \\\\
 &= \dfrac{4 \times 9}{5 \times 9} \text{and} \dfrac{8 \times 5}{9 \times 5} \\\\
-&= \dfrac{36}{45} \text{and} \dfrac{40}{45} \\\\
+&= \dfrac{36}{45} \text{and} \dfrac{40}{45}
 \end{aligned}
 $
 
@@ -1012,7 +1012,7 @@ $\dfrac{8}{9}$
 \begin{aligned}
 &= \dfrac{4}{5} \text{and} \dfrac{8}{9} \\\\
 &= \dfrac{4 \times 9}{5 \times 9} \text{and} \dfrac{8 \times 5}{9 \times 5} \\\\
-&= \dfrac{36}{45} \text{and} \dfrac{40}{45} \\\\
+&= \dfrac{36}{45} \text{and} \dfrac{40}{45}
 \end{aligned}
 $
 </code></pre>

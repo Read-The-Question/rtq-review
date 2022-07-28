@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-pr"
 title: "TopicPaper - Areaperimeter - 6 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -3075,7 +3075,7 @@ $
 1 \times 24 \\\\
 2 \times 12 \\\\
 3 \times 8 \\\\
-4 \times 6 \\\\
+4 \times 6
 \end{aligned}
 $
 
@@ -3084,7 +3084,7 @@ $1 + 24$ has the maximum value.
 $
 \begin{aligned}
 h  &= 1 \ \text {m} \\\\
-w  &= 24 \ \text {m} \\\\
+w  &= 24 \ \text {m}
 \end{aligned}
 $
 
@@ -3129,7 +3129,7 @@ $
 1 \times 24 \\\\
 2 \times 12 \\\\
 3 \times 8 \\\\
-4 \times 6 \\\\
+4 \times 6
 \end{aligned}
 $
 
@@ -3138,7 +3138,7 @@ $1 + 24$ has the maximum value.
 $
 \begin{aligned}
 h  &= 1 \ \text {m} \\\\
-w  &= 24 \ \text {m} \\\\
+w  &= 24 \ \text {m}
 \end{aligned}
 $
 

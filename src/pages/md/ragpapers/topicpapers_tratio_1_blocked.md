@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-1-blocked"
 title: "TopicPaper - Ratio - 1 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -109,7 +109,7 @@ $
 20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
 20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
 20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 50 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 50 \ \text {days}
 \end{aligned}
 $
 
@@ -138,7 +138,7 @@ $50 \ \text{days}$
 20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
 20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
 20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
-20 \ \text {cut/day}                                                  &: 50 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 50 \ \text {days}
 \end{aligned}
 $
 

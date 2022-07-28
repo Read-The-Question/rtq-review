@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-12"
 title: "TopicPaper - Algebra - 12"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -166,7 +166,7 @@ As per the question,
 $
 \begin{aligned}
 s + b + 2t  &= \pounds 5.80 \\\\
-2s + 2b + t &= \pounds 6.50 \\\\
+2s + 2b + t &= \pounds 6.50
 \end{aligned}
 $
 
@@ -207,7 +207,7 @@ As per the question,
 $
 \begin{aligned}
 s + b + 2t  &= \pounds 5.80 \\\\
-2s + 2b + t &= \pounds 6.50 \\\\
+2s + 2b + t &= \pounds 6.50
 \end{aligned}
 $
 
@@ -5093,7 +5093,7 @@ $
 \text {Offer B} &= \dfrac {3a}{4} \\\\
 \text {Offer C} &= \dfrac {2a}{3}  \\\\
 \text {Offer D} &= \dfrac {3a}{4} \\\\
-\text {Offer E} &= \dfrac {2a}{3}  \\\\    
+\text {Offer E} &= \dfrac {2a}{3}
 \end{aligned}
 $
 
@@ -5222,7 +5222,7 @@ $
 \text {Offer B} &= \dfrac {3a}{4} \\\\
 \text {Offer C} &= \dfrac {2a}{3}  \\\\
 \text {Offer D} &= \dfrac {3a}{4} \\\\
-\text {Offer E} &= \dfrac {2a}{3}  \\\\    
+\text {Offer E} &= \dfrac {2a}{3}
 \end{aligned}
 $
 

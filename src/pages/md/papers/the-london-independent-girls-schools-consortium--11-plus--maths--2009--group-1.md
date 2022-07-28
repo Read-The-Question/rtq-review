@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "37"
 ---
 <div class='paper'>
@@ -1394,7 +1394,7 @@ Which number between $55$ and $65$ can be divided exactly by $9$?
 
 $
 \begin{aligned}
-\text{Multiple of} \ 9 &= 63 \\\\
+\text{Multiple of} \ 9 &= 63
 \end{aligned}
 $
 
@@ -1413,7 +1413,7 @@ $63$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text{Multiple of} \ 9 &= 63 \\\\
+\text{Multiple of} \ 9 &= 63
 \end{aligned}
 $
 </code></pre>
@@ -2396,7 +2396,7 @@ $
 \begin{aligned}
 &= 10 \times 4 - 3 \\\\
 &= 40 - 3 \\\\
-&= 37 \\\\
+&= 37
 \end{aligned}
 $
 
@@ -2411,7 +2411,7 @@ $
 4 \times a &= 84 \\\\
 a &= \dfrac{84}{4} \\\\
 a &= \dfrac{21 \times \cancel 4}{\cancel 4} \\\\
-a &= 21 \\\\
+a &= 21
 \end{aligned}
 $
 
@@ -2433,7 +2433,7 @@ $
 \begin{aligned}
 &= 10 \times 4 - 3 \\\\
 &= 40 - 3 \\\\
-&= 37 \\\\
+&= 37
 \end{aligned}
 $
 
@@ -2448,7 +2448,7 @@ $
 4 \times a &= 84 \\\\
 a &= \dfrac{84}{4} \\\\
 a &= \dfrac{21 \times \cancel 4}{\cancel 4} \\\\
-a &= 21 \\\\
+a &= 21
 \end{aligned}
 $
 </code></pre>
@@ -2518,7 +2518,7 @@ $
 7a - 2a &= 52 - 17 \\\\
 5a &= 35 \\\\
 a &= \dfrac{35}{5} \\\\
-a &= 7 \\\\
+a &= 7
 \end{aligned}
 $
 
@@ -2599,7 +2599,7 @@ $
 7a - 2a &= 52 - 17 \\\\
 5a &= 35 \\\\
 a &= \dfrac{35}{5} \\\\
-a &= 7 \\\\
+a &= 7
 \end{aligned}
 $
 

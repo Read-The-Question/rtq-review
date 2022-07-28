@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-5"
 title: "TopicPaper - Sequence - 5"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1412,7 +1412,7 @@ $
 \begin{aligned} 
       & = (1^2 + 2^2 + 3^2 + 4^2) + 5^2 \\\\
       & = 30 + 25                       \\\\
-      & = 55                            \\\\
+      & = 55
 \end{aligned}
 $
 
@@ -1462,7 +1462,7 @@ $
 \begin{aligned} 
       & = (1^2 + 2^2 + 3^2 + 4^2) + 5^2 \\\\
       & = 30 + 25                       \\\\
-      & = 55                            \\\\
+      & = 55
 \end{aligned}
 $
 

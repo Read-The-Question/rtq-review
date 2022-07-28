@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-blocked"
 title: "TopicPaper - Number - 13 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -122,7 +122,7 @@ Multiply the first equation by $3$.
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
-3a + 3b                     &= 171 \\\\
+3a + 3b                     &= 171
 \end{aligned}
 $
 
@@ -194,7 +194,7 @@ Multiply the first equation by $3$.
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
-3a + 3b                     &= 171 \\\\
+3a + 3b                     &= 171
 \end{aligned}
 $
 
@@ -467,7 +467,7 @@ Use your answer to part (a) to write down the answer to
 $
 \begins{aligned}
 27 \times 36 &= 972 \\\\
-2.7 \times 3.6 &= 9.72 \\\\
+2.7 \times 3.6 &= 9.72
 \end{aligned}
 $
 
@@ -486,7 +486,7 @@ $9.72$
 <pre class='language-latex'><code class='language-latex'>$
 \begins{aligned}
 27 \times 36 &= 972 \\\\
-2.7 \times 3.6 &= 9.72 \\\\
+2.7 \times 3.6 &= 9.72
 \end{aligned}
 $
 </code></pre>

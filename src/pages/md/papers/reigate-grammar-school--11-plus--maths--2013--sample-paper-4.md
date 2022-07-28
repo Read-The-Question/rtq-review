@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "45"
 ---
 <div class='paper'>
@@ -2973,7 +2973,7 @@ $
 &= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
 &= \dfrac {65} {100} , \quad 0.605 , \quad \dfrac {3 \times 2} {5 \times 2} \\\\
 &= 0.65 , \quad 0.605 , \quad \dfrac {6} {10} \\\\
-&= 0.65 , \quad 0.605 , \quad 0.6 \\\\
+&= 0.65 , \quad 0.605 , \quad 0.6
 \end{aligned}
 $
 
@@ -3004,7 +3004,7 @@ $
 &= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
 &= \dfrac {65} {100} , \quad \dfrac {605} {1000} , \quad \dfrac {3} {5} \\\\
 &= \dfrac {65 \times 10} {100 \times 10} , \quad \dfrac {605} {1000} , \quad \dfrac {3 \times 200} {5 \times 200} \\\\
-&= \dfrac {650} {1000} , \quad \dfrac {605} {1000} , \quad \dfrac {600} {1000} \\\\
+&= \dfrac {650} {1000} , \quad \dfrac {605} {1000} , \quad \dfrac {600} {1000}
 \end{aligned}
 $
 
@@ -3044,7 +3044,7 @@ $
 &= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
 &= \dfrac {65} {100} , \quad 0.605 , \quad \dfrac {3 \times 2} {5 \times 2} \\\\
 &= 0.65 , \quad 0.605 , \quad \dfrac {6} {10} \\\\
-&= 0.65 , \quad 0.605 , \quad 0.6 \\\\
+&= 0.65 , \quad 0.605 , \quad 0.6
 \end{aligned}
 $
 
@@ -3075,7 +3075,7 @@ $
 &= 65\% , \quad 0.605 , \quad \dfrac {3} {5} \\\\
 &= \dfrac {65} {100} , \quad \dfrac {605} {1000} , \quad \dfrac {3} {5} \\\\
 &= \dfrac {65 \times 10} {100 \times 10} , \quad \dfrac {605} {1000} , \quad \dfrac {3 \times 200} {5 \times 200} \\\\
-&= \dfrac {650} {1000} , \quad \dfrac {605} {1000} , \quad \dfrac {600} {1000} \\\\
+&= \dfrac {650} {1000} , \quad \dfrac {605} {1000} , \quad \dfrac {600} {1000}
 \end{aligned}
 $
 
@@ -4358,7 +4358,7 @@ Let's first list down other percentages between $90\%$ and $95\%$ and then conve
 
 $
 \begin{aligned}
-&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
+&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\%
 \end{aligned}
 $
 
@@ -4402,7 +4402,7 @@ $0.91 \ \text{or} \ 0.925$
 
 $
 \begin{aligned}
-&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\% \\\\
+&= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\%
 \end{aligned}
 $
 
@@ -10582,7 +10582,7 @@ $
 &= \dfrac{1+2}{2+3} , \quad \dfrac{2+4}{2+3} , \quad \dfrac{1+2}{4+6}, \quad \dfrac{3+4}{2+3}, \quad \dfrac{1+4}{1+3} \\\\
 &= \dfrac{3}{5} , \quad \dfrac{6}{5} , \quad \dfrac{3}{10}, \quad \dfrac{7}{5}, \quad \dfrac{5}{4} \\\\
 &= \dfrac{3 \times 4}{5 \times 4} , \quad \dfrac{6 \times 4}{5 \times 4} , \quad \dfrac{3 \times 2}{10 \times 2}, \quad \dfrac{7 \times 4}{5 \times 4}, \quad \dfrac{5 \times 5}{4 \times 5} \\\\
-&= \dfrac{12}{20} , \quad \dfrac{24}{20} , \quad \dfrac{6}{20}, \quad \dfrac{28}{20}, \quad \dfrac{25}{20} \\\\
+&= \dfrac{12}{20} , \quad \dfrac{24}{20} , \quad \dfrac{6}{20}, \quad \dfrac{28}{20}, \quad \dfrac{25}{20}
 \end{aligned}
 $
 
@@ -10607,7 +10607,7 @@ $\dfrac{3+4}{2+3}$
 &= \dfrac{1+2}{2+3} , \quad \dfrac{2+4}{2+3} , \quad \dfrac{1+2}{4+6}, \quad \dfrac{3+4}{2+3}, \quad \dfrac{1+4}{1+3} \\\\
 &= \dfrac{3}{5} , \quad \dfrac{6}{5} , \quad \dfrac{3}{10}, \quad \dfrac{7}{5}, \quad \dfrac{5}{4} \\\\
 &= \dfrac{3 \times 4}{5 \times 4} , \quad \dfrac{6 \times 4}{5 \times 4} , \quad \dfrac{3 \times 2}{10 \times 2}, \quad \dfrac{7 \times 4}{5 \times 4}, \quad \dfrac{5 \times 5}{4 \times 5} \\\\
-&= \dfrac{12}{20} , \quad \dfrac{24}{20} , \quad \dfrac{6}{20}, \quad \dfrac{28}{20}, \quad \dfrac{25}{20} \\\\
+&= \dfrac{12}{20} , \quad \dfrac{24}{20} , \quad \dfrac{6}{20}, \quad \dfrac{28}{20}, \quad \dfrac{25}{20}
 \end{aligned}
 $
 
@@ -10938,7 +10938,7 @@ $
 \begin{aligned}
 \text{First number}                             &= 0 \\\\
 \text{Last number}                              &= 39 \\\\
-\text{Total numbers}                            &= 40 \\\\
+\text{Total numbers}                            &= 40
 \end{aligned}
 $
 
@@ -10973,7 +10973,7 @@ $
 \begin{aligned}
 \text{First number}                             &= 0 \\\\
 \text{Last number}                              &= 39 \\\\
-\text{Total numbers}                            &= 40 \\\\
+\text{Total numbers}                            &= 40
 \end{aligned}
 $
 

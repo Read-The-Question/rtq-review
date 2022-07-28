@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-pr"
 title: "TopicPaper - Number - 16 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -204,7 +204,7 @@ TODOWORKING
 $
 \begin{aligned}
 10! &= 10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
-&= 3628800 \\\\
+&= 3628800
 \end{aligned}
 $
 
@@ -234,7 +234,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 10! &= 10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
-&= 3628800 \\\\
+&= 3628800
 \end{aligned}
 $
 </code></pre>
@@ -281,7 +281,7 @@ $
 \dfrac{100!}{98!} &= \dfrac{100 \times 99 \times 98!}{98!} \\\\
 &= \dfrac{100 \times 99 \times \cancel{98!}}{\cancel{98!}} \\\\
 &= 100 \times 99 \\\\
-&= 9,900 \\\\
+&= 9,900
 \end{aligned}
 $
 
@@ -312,7 +312,7 @@ TODOANSWER
 \dfrac{100!}{98!} &= \dfrac{100 \times 99 \times 98!}{98!} \\\\
 &= \dfrac{100 \times 99 \times \cancel{98!}}{\cancel{98!}} \\\\
 &= 100 \times 99 \\\\
-&= 9,900 \\\\
+&= 9,900
 \end{aligned}
 $
 </code></pre>
@@ -908,7 +908,7 @@ $4  \ \text{\textunderscore \textunderscore \textunderscore}  \ 3 = 60 \ \text{\
 $
 \begin{aligned}
 8 + 2 &= 5 \times 2 \\\\
-10 &= 10 \\\\
+10 &= 10
 \end{aligned}
 $
 
@@ -918,7 +918,7 @@ $
 $
 \begin{aligned}
 4 \times 3 &= 60 \div 5 \\\\
-12 &= 12 \\\\
+12 &= 12
 \end{aligned}
 $
 
@@ -944,7 +944,7 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 8 + 2 &= 5 \times 2 \\\\
-10 &= 10 \\\\
+10 &= 10
 \end{aligned}
 $
 </code></pre>
@@ -954,7 +954,7 @@ $
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 4 \times 3 &= 60 \div 5 \\\\
-12 &= 12 \\\\
+12 &= 12
 \end{aligned}
 $
 
@@ -1449,7 +1449,7 @@ $
 \begin{aligned}
 &= 12 + (-8) \\\\
 &= 12 - 8 \\\\
-&= 4 \\\\
+&= 4
 \end{aligned}
 $
 
@@ -1482,7 +1482,7 @@ $
 \begin{aligned}
 &= 12 + (-8) \\\\
 &= 12 - 8 \\\\
-&= 4 \\\\
+&= 4
 \end{aligned}
 $
 
@@ -1742,7 +1742,7 @@ $
 &=8 - (7)   \\\\
 &= 1         \\\\
 &= \text{L.H.S} \\\\
-\text {L.H.S} &= \text {R.H.S} \\\\
+\text {L.H.S} &= \text {R.H.S}
 \end{aligned}
 $
 
@@ -1776,7 +1776,7 @@ $
 &=8 - (7)   \\\\
 &= 1         \\\\
 &= \text{L.H.S} \\\\
-\text {L.H.S} &= \text {R.H.S} \\\\
+\text {L.H.S} &= \text {R.H.S}
 \end{aligned}
 $
 </code></pre>
@@ -1832,7 +1832,7 @@ $
 &= 12 - 12        \\\\   
 &= 0               \\\\
 &= \text {L.H.S} \\\\
-\text {L.H.S} &= \text {R.H.S} \\\\
+\text {L.H.S} &= \text {R.H.S}
 \end{aligned}
 $
 
@@ -1868,7 +1868,7 @@ $
 &= 12 - 12        \\\\   
 &= 0               \\\\
 &= \text {L.H.S} \\\\
-\text {L.H.S} &= \text {R.H.S} \\\\
+\text {L.H.S} &= \text {R.H.S}
 \end{aligned}
 $
 </code></pre>
@@ -3024,7 +3024,7 @@ Which number is double $176$?
 $
 \begin{aligned}
 &= 176 \times 2 \\\\
-&=352 \\\\
+&=352
 \end{aligend}
 $
 
@@ -3053,7 +3053,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 176 \times 2 \\\\
-&=352 \\\\
+&=352
 \end{aligend}
 $
 </code></pre>
@@ -3105,7 +3105,7 @@ $
 &= \dfrac{ 265}{ 7} \\\\
 &= \dfrac{\cancel 265}{\cancel 7} \\\\
 &= 37 \text{is the quotient} \\\\
-&= 6 \text{is the remainder} \\\\
+&= 6 \text{is the remainder}
 \end{aligned}
 $
 
@@ -3137,7 +3137,7 @@ TODOANSWER
 &= \dfrac{ 265}{ 7} \\\\
 &= \dfrac{\cancel 265}{\cancel 7} \\\\
 &= 37 \text{is the quotient} \\\\
-&= 6 \text{is the remainder} \\\\
+&= 6 \text{is the remainder}
 \end{aligned}
 $
 </code></pre>

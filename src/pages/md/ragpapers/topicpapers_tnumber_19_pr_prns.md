@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-19-pr-prns"
 title: "TopicPaper - Number - 19 - PR - PRNS"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -306,7 +306,7 @@ $
 (5 + a) \times b &= 4 \\\\
 5b + ab &= 4 \\\\
 (8 + a) \times b &= 10 \\\\
-8b + ab &= 10 \\\\
+8b + ab &= 10
 \end{aligned}
 $
 
@@ -335,7 +335,7 @@ $
 2a &= 4 - 10 \\\\
 2a &= -6 \\\\
 a &= \dfrac{-6}{2} \\\\
-a &= -3 \\\\
+a &= -3
 \end{aligned}
 $
 
@@ -354,7 +354,7 @@ $
 5 \times a + b &= 4 \\\\
 5a + b &= 4 \\\\
 8 \times a + b &= 10 \\\\
-8a + b &= 10 \\\\
+8a + b &= 10
 \end{aligned}
 $
 
@@ -367,7 +367,7 @@ $
 8a - 5a &= 10 - 4 \\\\
 3a &= 6 \\\\
 a &= \dfrac{6}{3} \\\\
-a &= 2 \\\\
+a &= 2
 \end{aligned}
 $
 
@@ -410,7 +410,7 @@ $
 (5 + a) \times b &= 4 \\\\
 5b + ab &= 4 \\\\
 (8 + a) \times b &= 10 \\\\
-8b + ab &= 10 \\\\
+8b + ab &= 10
 \end{aligned}
 $
 
@@ -439,7 +439,7 @@ $
 2a &= 4 - 10 \\\\
 2a &= -6 \\\\
 a &= \dfrac{-6}{2} \\\\
-a &= -3 \\\\
+a &= -3
 \end{aligned}
 $
 
@@ -458,7 +458,7 @@ $
 5 \times a + b &= 4 \\\\
 5a + b &= 4 \\\\
 8 \times a + b &= 10 \\\\
-8a + b &= 10 \\\\
+8a + b &= 10
 \end{aligned}
 $
 
@@ -471,7 +471,7 @@ $
 8a - 5a &= 10 - 4 \\\\
 3a &= 6 \\\\
 a &= \dfrac{6}{3} \\\\
-a &= 2 \\\\
+a &= 2
 \end{aligned}
 $
 
@@ -892,7 +892,7 @@ $
 &= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
 &= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
 &= 1500 - 1200 \\\\
-&= 300 \text{ml}\ \\\\
+&= 300 \text{ml}\
 \end{aligned}
 $
 
@@ -913,7 +913,7 @@ $
 &= 1.5 \text{liter}\ - 150 \text{ml}\ \times 8 \\\\
 &= (1.5 \times 1000) \text{ml}\ - 150 \text{ml}\ \times 8 \\\\
 &= 1500 - 1200 \\\\
-&= 300 \text{ml}\ \\\\
+&= 300 \text{ml}\
 \end{aligned}
 $
 </code></pre>
@@ -949,7 +949,7 @@ How many times could Zoya completely fill her jug from these bottles?
 $
 \begin{aligned}
 \text{Total volume Zoya has} &= 5 \times 2 \text{litre} \\\\
-&= 10 \text{litre} \\\\
+&= 10 \text{litre}
 \end{aligned}
 $
 
@@ -963,7 +963,7 @@ a \times \dfrac{3}{2} &= 10 \\\\
 a &= \dfrac{10}{\dfrac{3}{2}} \\\\
 a &= 10 \times \dfrac{2}{3} \\\\
 a &= \dfrac{20}{3} \\\\
-a &= 6.66 \\\\
+a &= 6.66
 \end{aligned}
 $
 
@@ -986,7 +986,7 @@ $6$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Total volume Zoya has} &= 5 \times 2 \text{litre} \\\\
-&= 10 \text{litre} \\\\
+&= 10 \text{litre}
 \end{aligned}
 $
 
@@ -1000,7 +1000,7 @@ a \times \dfrac{3}{2} &= 10 \\\\
 a &= \dfrac{10}{\dfrac{3}{2}} \\\\
 a &= 10 \times \dfrac{2}{3} \\\\
 a &= \dfrac{20}{3} \\\\
-a &= 6.66 \\\\
+a &= 6.66
 \end{aligned}
 $
 
@@ -1181,7 +1181,7 @@ $
 &= 3.5 \ \text{pounds} \\\\
 &= (3.5 \div 2.2) \ \text{kg} \\\\
 &= 1.59 \ \text{kg} \\\\
-&= 1.5 \ \text{kg} \ \text{(approx.)} \\\\
+&= 1.5 \ \text{kg} \ \text{(approx.)}
 \end{aligned}
 $
 
@@ -1214,7 +1214,7 @@ TODOANSWER
 &= 3.5 \ \text{pounds} \\\\
 &= (3.5 \div 2.2) \ \text{kg} \\\\
 &= 1.59 \ \text{kg} \\\\
-&= 1.5 \ \text{kg} \ \text{(approx.)} \\\\
+&= 1.5 \ \text{kg} \ \text{(approx.)}
 \end{aligned}
 $
 </code></pre>

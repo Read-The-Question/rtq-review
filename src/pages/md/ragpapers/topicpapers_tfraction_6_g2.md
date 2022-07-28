@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-g2"
 title: "TopicPaper - Fraction - 6 - G2"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "36"
 ---
 <ul class='question default-decimal'>
@@ -6600,7 +6600,7 @@ $
 &= \dfrac {18} {4} + \dfrac {23} {4} \\\\
 &= \dfrac {18 + 23} {4} \\\\
 &= \dfrac {41} {4} \\\\
-&= 10 \dfrac {1} {4} \\\\
+&= 10 \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -6624,7 +6624,7 @@ $10 \dfrac {1} {4}$
 &= \dfrac {18} {4} + \dfrac {23} {4} \\\\
 &= \dfrac {18 + 23} {4} \\\\
 &= \dfrac {41} {4} \\\\
-&= 10 \dfrac {1} {4} \\\\
+&= 10 \dfrac {1} {4}
 \end{aligned}
 $
 </code></pre>

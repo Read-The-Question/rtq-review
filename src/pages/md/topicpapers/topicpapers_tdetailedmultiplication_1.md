@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-1"
 title: "TopicPaper - Detailedmultiplication - 1"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -5213,7 +5213,7 @@ $
 \text {C.} \quad   24 \times 70 &= 12 \times 35 \\\\
 1680                            &\not = 420 \\\\
 \text {D.} \quad   24 \times 70 &= 48 \times 140 \\\\
-1680                            &\not = 6720 \\\\
+1680                            &\not = 6720
 \end{aligned}
 $
 
@@ -5241,7 +5241,7 @@ $24 \times 70 = 48 \times 35$
 \text {C.} \quad   24 \times 70 &= 12 \times 35 \\\\
 1680                            &\not = 420 \\\\
 \text {D.} \quad   24 \times 70 &= 48 \times 140 \\\\
-1680                            &\not = 6720 \\\\
+1680                            &\not = 6720
 \end{aligned}
 $
 </code></pre>

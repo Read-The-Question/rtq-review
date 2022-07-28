@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tclock-1"
 title: "TopicPaper - Clock - 1"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "33"
 ---
 <div class='paper'>
@@ -5769,7 +5769,7 @@ $
 \text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
 &= \dfrac{30 \times 6}{6} \\\\
 &=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree \\\\
+&= 30 \degree
 \end{aligned}
 $
 
@@ -5804,7 +5804,7 @@ $
 \text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
 &= \dfrac{30 \times 6}{6} \\\\
 &=  \dfrac{30 \times\cancel 6}{ \cancel 6} \\\\
-&= 30 \degree \\\\
+&= 30 \degree
 \end{aligned}
 $
 
@@ -7565,7 +7565,7 @@ $
 60 \ \text{minutes}     &: 30 \\\\
 1 \ \text{minute}       &: \dfrac{30}{60} \\\\
 30 \ \text{minutes}     &: \dfrac{30 \times 30}{60} \\\\
-30 \ \text{minutes}     &: 15 \degree \\\\
+30 \ \text{minutes}     &: 15 \degree
 \end{aligned}
 $
 
@@ -7611,7 +7611,7 @@ $
 60 \ \text{minutes}     &: 30 \\\\
 1 \ \text{minute}       &: \dfrac{30}{60} \\\\
 30 \ \text{minutes}     &: \dfrac{30 \times 30}{60} \\\\
-30 \ \text{minutes}     &: 15 \degree \\\\
+30 \ \text{minutes}     &: 15 \degree
 \end{aligned}
 $
 

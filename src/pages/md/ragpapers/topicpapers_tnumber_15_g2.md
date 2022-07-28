@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-g2"
 title: "TopicPaper - Number - 15 - G2"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "28"
 ---
 <ul class='question default-decimal'>
@@ -733,7 +733,7 @@ $
 &= 8 \times 3 - 10 + 6 \\\\
 &=  24 - 10 + 6 \\\\
 &= 14 + 6 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 
@@ -756,7 +756,7 @@ $
 &= 8 \times 3 - 10 + 6 \\\\
 &=  24 - 10 + 6 \\\\
 &= 14 + 6 \\\\
-&= 20 \\\\
+&= 20
 \end{aligned}
 $
 </code></pre>

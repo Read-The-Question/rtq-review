@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-3-notstarted"
 title: "TopicPaper - Division - 3 - NOTSTARTED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "22"
 ---
 <ul class='question default-decimal'>
@@ -2625,7 +2625,7 @@ $
 \begin{aligned}
 23 \times 10 = 230\\
 23 \ \times  9 = 207\\
-23 \ \times  8 = 184\\\\
+23 \ \times  8 = 184
 \end{aligned}
 $
 
@@ -2637,7 +2637,7 @@ $
 \phantom{)}              - \underline{1 \ 8 \ 4 \ \ \ }\\
 \phantom{23)-}                            2 \ 0\ 7\\\
 \phantom{)-}                  -\underline{2 \ 0\ 7}\\
-\phantom{23)-207}                               {0}\\\\
+\phantom{23)-207}                               {0}
 \end{array}
 $
 
@@ -2658,7 +2658,7 @@ $89$
 \begin{aligned}
 23 \times 10 = 230\\
 23 \ \times  9 = 207\\
-23 \ \times  8 = 184\\\\
+23 \ \times  8 = 184
 \end{aligned}
 $
 
@@ -2670,7 +2670,7 @@ $
 \phantom{)}              - \underline{1 \ 8 \ 4 \ \ \ }\\
 \phantom{23)-}                            2 \ 0\ 7\\\
 \phantom{)-}                  -\underline{2 \ 0\ 7}\\
-\phantom{23)-207}                               {0}\\\\
+\phantom{23)-207}                               {0}
 \end{array}
 $
 

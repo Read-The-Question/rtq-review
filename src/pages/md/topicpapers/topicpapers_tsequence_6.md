@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-6"
 title: "TopicPaper - Sequence - 6"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "22"
 ---
 <div class='paper'>
@@ -2862,7 +2862,7 @@ $
 &&  \footnotesize{\maroonC{(-9)}}
 &&  \footnotesize{\maroonC{(-6)}}
 &&  \footnotesize{\maroonC{(-3)}}  \\
-101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56\\\\
+101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56
 \end{matrix}
 $
 
@@ -2894,7 +2894,7 @@ $
 &&  \footnotesize{\maroonC{(-9)}}
 &&  \footnotesize{\maroonC{(-6)}}
 &&  \footnotesize{\maroonC{(-3)}}  \\
-101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56\\\\
+101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56
 \end{matrix}
 $
 

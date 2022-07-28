@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-blocked"
 title: "TopicPaper - Areaperimeter - 6 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -387,7 +387,7 @@ $
 \text{We add the remaining two sides to} \  25 \  \text{cm} \\\\
 25  \ \text{cm} + 6 \ \text{cm} &= 31 \ \text{cm} \\\\
 31  \ \text{cm} + 5 \ \text{cm} &= 36 \ \text{cm} \\\\
-\text{The perimeter of this compound shape is }  \ 36 \  \text{cm} \\\\
+\text{The perimeter of this compound shape is }  \ 36 \  \text{cm}
 \end{aligned}
 $
 
@@ -420,7 +420,7 @@ $
 \text{We add the remaining two sides to} \  25 \  \text{cm} \\\\
 25  \ \text{cm} + 6 \ \text{cm} &= 31 \ \text{cm} \\\\
 31  \ \text{cm} + 5 \ \text{cm} &= 36 \ \text{cm} \\\\
-\text{The perimeter of this compound shape is }  \ 36 \  \text{cm} \\\\
+\text{The perimeter of this compound shape is }  \ 36 \  \text{cm}
 \end{aligned}
 $
 </code></pre>

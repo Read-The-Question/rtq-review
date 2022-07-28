@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-pr"
 title: "TopicPaper - Number - 20 - PR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -360,7 +360,7 @@ Put a circle round **each** of the multiples of $3$.
 
 $
 \begin{array}{ccccccccccccccccc}
-11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19 \\\\
+11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19
 \end{array}
 $
 
@@ -370,7 +370,7 @@ $
 \begin{aligned}
 12 &= 3 \times 4 \\\\
 15 &= 3 \times 5 \\\\
-18 &= 3 \times 6 \\\\
+18 &= 3 \times 6
 \end{aligned}
 $
 
@@ -398,7 +398,7 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{ccccccccccccccccc}
-11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19 \\\\
+11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19
 \end{array}
 $
 
@@ -408,7 +408,7 @@ $
 \begin{aligned}
 12 &= 3 \times 4 \\\\
 15 &= 3 \times 5 \\\\
-18 &= 3 \times 6 \\\\
+18 &= 3 \times 6
 \end{aligned}
 $
 </code></pre>
@@ -456,7 +456,7 @@ Draw a line underneath **each** of the prime numbers.
 
 $
 \begin{array}{ccccccccccccccccc}
-\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19} \\\\
+\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19}
 \end{array}
 $
 
@@ -484,7 +484,7 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{ccccccccccccccccc}
-\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19} \\\\
+\underline{11} & 12 & \underline{13} & 14 & 15 & 16 & \underline{17} & 18 & \underline{19}
 \end{array}
 $
 </code></pre>
@@ -532,7 +532,7 @@ Put a **square** round the square number.
 
 $
 \begin{array}{ccccccccccccccccc}
-11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19 \\\\
+11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19
 \end{array}
 $
 
@@ -540,7 +540,7 @@ Lets verify
 
 $
 \begin{aligned}
-16 &= 4^2 \\\\
+16 &= 4^2
 \end{aligned}
 $
 
@@ -568,7 +568,7 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{array}{ccccccccccccccccc}
-11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19 \\\\
+11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19
 \end{array}
 $
 
@@ -576,7 +576,7 @@ Lets verify
 
 $
 \begin{aligned}
-16 &= 4^2 \\\\
+16 &= 4^2
 \end{aligned}
 $
 </code></pre>
@@ -626,7 +626,7 @@ The numbers remained = 14
 
 $
 \begin{aligned}
-\text {Factors of } 14 &= 1, 2, 7, 14 \\\\
+\text {Factors of } 14 &= 1, 2, 7, 14
 \end{aligned}
 $ 
 
@@ -656,7 +656,7 @@ TODOANSWER
 
 $
 \begin{aligned}
-\text {Factors of } 14 &= 1, 2, 7, 14 \\\\
+\text {Factors of } 14 &= 1, 2, 7, 14
 \end{aligned}
 $ 
 </code></pre>
@@ -846,7 +846,7 @@ $
 A &= 13 + 7 \times 2 \\\\
 &= 13 + 14 \\\\
 &= \red
-{27} \neq 40 \\\\
+{27} \neq 40
 \end{aligned}
 $
 
@@ -855,7 +855,7 @@ $
 B &= -3 + 12 \div 3 \\\\
 &= -3 + 4 \\\\
 &= \green
-{1} = 1 \\\\
+{1} = 1
 \end{aligned}
 $
 
@@ -864,7 +864,7 @@ $
 C &= 4 \times 5 + 3 \times 2 \\\\
 &= 20 + 6 \\\\
 &= \green
-{26} = 26 \\\\
+{26} = 26
 \end{aligned}
 $
 
@@ -873,7 +873,7 @@ $
 D &= 30 \div 3 + 2\\\\
 &= 10 + 2 \\\\
 &= \red
-{12} \neq 6 \\\\
+{12} \neq 6
 \end{aligned}
 $
 
@@ -882,7 +882,7 @@ $
 E &= 10 + 5 \times 8 - 3 \\\\
 &= 10 + 40 - 3 \\\\
 &= \green
-{47} \neq 35 \\\\
+{47} \neq 35
 \end{aligned}
 $
 
@@ -914,7 +914,7 @@ $
 \begin{aligned}
 A &= 13 + 7 \times 2 \\\\
 &= 13 + 14 \\\\
-&= \rtq_katex_color_wrong_answer{27} \neq 40 \\\\
+&= \rtq_katex_color_wrong_answer{27} \neq 40
 \end{aligned}
 $
 
@@ -922,7 +922,7 @@ $
 \begin{aligned}
 B &= -3 + 12 \div 3 \\\\
 &= -3 + 4 \\\\
-&= \rtq_katex_color_answer{1} = 1 \\\\
+&= \rtq_katex_color_answer{1} = 1
 \end{aligned}
 $
 
@@ -930,7 +930,7 @@ $
 \begin{aligned}
 C &= 4 \times 5 + 3 \times 2 \\\\
 &= 20 + 6 \\\\
-&= \rtq_katex_color_answer{26} = 26 \\\\
+&= \rtq_katex_color_answer{26} = 26
 \end{aligned}
 $
 
@@ -938,7 +938,7 @@ $
 \begin{aligned}
 D &= 30 \div 3 + 2\\\\
 &= 10 + 2 \\\\
-&= \rtq_katex_color_wrong_answer{12} \neq 6 \\\\
+&= \rtq_katex_color_wrong_answer{12} \neq 6
 \end{aligned}
 $
 
@@ -946,7 +946,7 @@ $
 \begin{aligned}
 E &= 10 + 5 \times 8 - 3 \\\\
 &= 10 + 40 - 3 \\\\
-&= \rtq_katex_color_answer{47} \neq 35 \\\\
+&= \rtq_katex_color_answer{47} \neq 35
 \end{aligned}
 $
 </code></pre>

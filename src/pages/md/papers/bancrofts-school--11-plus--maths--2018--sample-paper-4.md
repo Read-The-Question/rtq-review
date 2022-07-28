@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "37"
 ---
 <div class='paper'>
@@ -1867,7 +1867,7 @@ a + a + a - 1 + 1                   &= 60 \\\\
 a                                   &= \dfrac {60} {3} \\\\
 a                                   &= \dfrac {20 \times 3} {3} \\\\
 a                                   &= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\
-a                                   &= 20 \\\\
+a                                   &= 20
 \end{aligned}
 $
 
@@ -1902,7 +1902,7 @@ a + a + a - 1 + 1                   &= 60 \\\\
 a                                   &= \dfrac {60} {3} \\\\
 a                                   &= \dfrac {20 \times 3} {3} \\\\
 a                                   &= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\
-a                                   &= 20 \\\\
+a                                   &= 20
 \end{aligned}
 $
 

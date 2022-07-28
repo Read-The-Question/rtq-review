@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-6"
 title: "TopicPaper - Areaperimeter - 6"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1043,7 +1043,7 @@ $
 \text{We add the remaining two sides to} \  25 \  \text{cm} \\\\
 25  \ \text{cm} + 6 \ \text{cm} &= 31 \ \text{cm} \\\\
 31  \ \text{cm} + 5 \ \text{cm} &= 36 \ \text{cm} \\\\
-\text{The perimeter of this compound shape is }  \ 36 \  \text{cm} \\\\
+\text{The perimeter of this compound shape is }  \ 36 \  \text{cm}
 \end{aligned}
 $
 
@@ -1076,7 +1076,7 @@ $
 \text{We add the remaining two sides to} \  25 \  \text{cm} \\\\
 25  \ \text{cm} + 6 \ \text{cm} &= 31 \ \text{cm} \\\\
 31  \ \text{cm} + 5 \ \text{cm} &= 36 \ \text{cm} \\\\
-\text{The perimeter of this compound shape is }  \ 36 \  \text{cm} \\\\
+\text{The perimeter of this compound shape is }  \ 36 \  \text{cm}
 \end{aligned}
 $
 </code></pre>
@@ -8618,7 +8618,7 @@ $
 1 \times 24 \\\\
 2 \times 12 \\\\
 3 \times 8 \\\\
-4 \times 6 \\\\
+4 \times 6
 \end{aligned}
 $
 
@@ -8627,7 +8627,7 @@ $1 + 24$ has the maximum value.
 $
 \begin{aligned}
 h  &= 1 \ \text {m} \\\\
-w  &= 24 \ \text {m} \\\\
+w  &= 24 \ \text {m}
 \end{aligned}
 $
 
@@ -8672,7 +8672,7 @@ $
 1 \times 24 \\\\
 2 \times 12 \\\\
 3 \times 8 \\\\
-4 \times 6 \\\\
+4 \times 6
 \end{aligned}
 $
 
@@ -8681,7 +8681,7 @@ $1 + 24$ has the maximum value.
 $
 \begin{aligned}
 h  &= 1 \ \text {m} \\\\
-w  &= 24 \ \text {m} \\\\
+w  &= 24 \ \text {m}
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "32"
 ---
 <div class='paper'>
@@ -5007,7 +5007,7 @@ $
                                                     &= \dfrac {10} {\dfrac {1} {2} \times 1 \times 1} \\\\
                                                     &= \dfrac {10} {\dfrac {1} {2}} \\\\
                                                     &= 10 \times 2 \\\\
-                                                    &= 20 \\\\
+                                                    &= 20
 \end{aligned}
 $
 
@@ -5033,7 +5033,7 @@ $
                                                     &= \dfrac {10} {\dfrac {1} {2} \times 1 \times 1} \\\\
                                                     &= \dfrac {10} {\dfrac {1} {2}} \\\\
                                                     &= 10 \times 2 \\\\
-                                                    &= 20 \\\\
+                                                    &= 20
 \end{aligned}
 $
 </code></pre>
@@ -8992,7 +8992,7 @@ $
 &= 1000 \\\\
 &= 100 \times 10 \\\\
 &= 4 \times 25 \times 2 \times 5 \\\\
-&= 8 \times 125 \\\\
+&= 8 \times 125
 \end{aligned}
 $
 
@@ -9013,7 +9013,7 @@ $8 \ \text{and} \ 125$
 &= 1000 \\\\
 &= 100 \times 10 \\\\
 &= 4 \times 25 \times 2 \times 5 \\\\
-&= 8 \times 125 \\\\
+&= 8 \times 125
 \end{aligned}
 $
 </code></pre>
@@ -9050,7 +9050,7 @@ $
 &= 1000000 \\\\
 &= 1000 \times 1000 \\\\
 &= 8 \times 125 \times 8 \times 125 \\\\
-&= 64 \times 15625 \\\\
+&= 64 \times 15625
 \end{aligned}
 $
 
@@ -9071,7 +9071,7 @@ $64 \ \text{and} \ 15625$
 &= 1000000 \\\\
 &= 1000 \times 1000 \\\\
 &= 8 \times 125 \times 8 \times 125 \\\\
-&= 64 \times 15625 \\\\
+&= 64 \times 15625
 \end{aligned}
 $
 </code></pre>

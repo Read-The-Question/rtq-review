@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-oldpr"
 title: "TopicPaper - Number - 21 - OLDPR"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -112,7 +112,7 @@ $
 5000, 200   &= 5000 \times 200 \\\\
          &= 1000000 \\\\
 50000, 20   &= 50000 \times 20 \\\\
-         &= 1000000 \\\\
+         &= 1000000
 \end{aligned}
 $
 
@@ -139,7 +139,7 @@ $
 5000, 200   &= 5000 \times 200 \\\\
          &= 1000000 \\\\
 50000, 20   &= 50000 \times 20 \\\\
-         &= 1000000 \\\\
+         &= 1000000
 \end{aligned}
 $
 
@@ -664,7 +664,7 @@ $
 &= \dfrac {1467} {100} \times \dfrac {76} {10} \\\\
 &= \dfrac {1467 \times 76} {1000} \\\\
 &= \dfrac {111492} {1000} \\\\
-&= 111.492 \\\\
+&= 111.492
 \end{aligned}
 $
 
@@ -686,7 +686,7 @@ $111.492$
 &= \dfrac {1467} {100} \times \dfrac {76} {10} \\\\
 &= \dfrac {1467 \times 76} {1000} \\\\
 &= \dfrac {111492} {1000} \\\\
-&= 111.492 \\\\
+&= 111.492
 \end{aligned}
 $
 </code></pre>
@@ -722,7 +722,7 @@ $
 1467 \times 76 &= 111492 \\\\
 \dfrac {1467} {100} \times 76 &= \dfrac {111492} {100} \\\\
 14.67 \times 76 &= 1114.92 \\\\
-1114.92 \div 76 &= 14.67 \\\\
+1114.92 \div 76 &= 14.67
 \end{aligned}
 $
 
@@ -743,7 +743,7 @@ $14.67$
 1467 \times 76 &= 111492 \\\\
 \dfrac {1467} {100} \times 76 &= \dfrac {111492} {100} \\\\
 14.67 \times 76 &= 1114.92 \\\\
-1114.92 \div 76 &= 14.67 \\\\
+1114.92 \div 76 &= 14.67
 \end{aligned}
 $
 </code></pre>
@@ -779,7 +779,7 @@ $
 1467 \times 76 &= 111492 \\\\
 1467 \times \dfrac {76} {100} \times 100 &= {111492} \\\\
 146700 \times 0.76 &= 111492 \\\\
-111492 \div 0.76 &= 146700 \\\\
+111492 \div 0.76 &= 146700
 \end{aligned}
 $
 
@@ -800,7 +800,7 @@ $146700$
 1467 \times 76 &= 111492 \\\\
 1467 \times \dfrac {76} {100} \times 100 &= {111492} \\\\
 146700 \times 0.76 &= 111492 \\\\
-111492 \div 0.76 &= 146700 \\\\
+111492 \div 0.76 &= 146700
 \end{aligned}
 $
 </code></pre>
@@ -1015,7 +1015,7 @@ $5!$ is a quick way of writing what?
 
 $
 \begin{aligned}
-5! &= 5 \times 4 \times 3 \times 2 \times 1 \\\\
+5! &= 5 \times 4 \times 3 \times 2 \times 1
 \end{aligned}
 $
 
@@ -1033,7 +1033,7 @@ $5 \times 4 \times 3 \times 2 \times 1$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-5! &= 5 \times 4 \times 3 \times 2 \times 1 \\\\
+5! &= 5 \times 4 \times 3 \times 2 \times 1
 \end{aligned}
 $
 </code></pre>
@@ -1109,7 +1109,7 @@ $
 \begin{aligned}
 &= 5! \\\\
 &= 5 \times 4 \times 3 \times 2 \times 1 \\\\
-&= 120 \\\\
+&= 120
 \end{aligned}
 $
 
@@ -1129,7 +1129,7 @@ $120$
 \begin{aligned}
 &= 5! \\\\
 &= 5 \times 4 \times 3 \times 2 \times 1 \\\\
-&= 120 \\\\
+&= 120
 \end{aligned}
 $
 </code></pre>
@@ -1466,7 +1466,7 @@ n!      &= \dfrac {13!} {13} \\\\
 n!      &= \dfrac {13 \times 12!} {13} \\\\
 n!      &= \dfrac {\cancel {13} \times 12!} {\cancel {13}} \\\\
 n!      &= 12! \\\\
-n       &= 12 \\\\
+n       &= 12
 \end{aligned}
 $
 
@@ -1488,7 +1488,7 @@ n!      &= \dfrac {13!} {13} \\\\
 n!      &= \dfrac {13 \times 12!} {13} \\\\
 n!      &= \dfrac {\cancel {13} \times 12!} {\cancel {13}} \\\\
 n!      &= 12! \\\\
-n       &= 12 \\\\
+n       &= 12
 \end{aligned}
 $
 </code></pre>

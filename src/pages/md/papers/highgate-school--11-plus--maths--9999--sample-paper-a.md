@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "4"
 ---
 <div class='paper'>
@@ -1976,7 +1976,7 @@ As per the question,
 $
 \begin{aligned}
 4a + 3b &= 16.10 \\\\
-2a + b &= 7.50 \\\\
+2a + b &= 7.50
 \end{aligned}
 $
 
@@ -2026,7 +2026,7 @@ As per the question,
 $
 \begin{aligned}
 4a + 3b &= 16.10 \\\\
-2a + b &= 7.50 \\\\
+2a + b &= 7.50
 \end{aligned}
 $
 

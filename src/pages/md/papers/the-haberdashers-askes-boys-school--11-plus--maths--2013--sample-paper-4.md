@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "30"
 ---
 <div class='paper'>
@@ -6119,7 +6119,7 @@ TODOWORKING
 $
 \begin{aligned}
 10! &= 10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
-&= 3628800 \\\\
+&= 3628800
 \end{aligned}
 $
 
@@ -6149,7 +6149,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 10! &= 10 \times 9 \times 8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 \\\\
-&= 3628800 \\\\
+&= 3628800
 \end{aligned}
 $
 </code></pre>
@@ -6196,7 +6196,7 @@ $
 \dfrac{100!}{98!} &= \dfrac{100 \times 99 \times 98!}{98!} \\\\
 &= \dfrac{100 \times 99 \times \cancel{98!}}{\cancel{98!}} \\\\
 &= 100 \times 99 \\\\
-&= 9,900 \\\\
+&= 9,900
 \end{aligned}
 $
 
@@ -6227,7 +6227,7 @@ TODOANSWER
 \dfrac{100!}{98!} &= \dfrac{100 \times 99 \times 98!}{98!} \\\\
 &= \dfrac{100 \times 99 \times \cancel{98!}}{\cancel{98!}} \\\\
 &= 100 \times 99 \\\\
-&= 9,900 \\\\
+&= 9,900
 \end{aligned}
 $
 </code></pre>

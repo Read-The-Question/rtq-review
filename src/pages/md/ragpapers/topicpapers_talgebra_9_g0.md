@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-g0"
 title: "TopicPaper - Algebra - 9 - G0"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -271,7 +271,7 @@ b^{2} - 7b + 4b - 28                                               &= 0 \\\\
 b(b - 7) + 4(b - 7)                                                &= 0 \\\\
 (b - 7) \times (b + 4)                                             &= 0 \\\\
 b                                                                  &= 7 \\\\
-b                                                                  &= -4 \\\\
+b                                                                  &= -4
 \end{aligned}
 $
 
@@ -298,7 +298,7 @@ b^{2} - 7b + 4b - 28                                               &= 0 \\\\
 b(b - 7) + 4(b - 7)                                                &= 0 \\\\
 (b - 7) \times (b + 4)                                             &= 0 \\\\
 b                                                                  &= 7 \\\\
-b                                                                  &= -4 \\\\
+b                                                                  &= -4
 \end{aligned}
 $
 </code></pre>
@@ -3722,7 +3722,7 @@ $
 \begin{aligned}
 A + B     &= 22    \ \text{kg}  \\\\
 B + C     &= 20     \ \text{kg} \\\\
-A + B + C &= 30 \ \text{kg}\\\\
+A + B + C &= 30 \ \text{kg}
 \end{aligned}
 $
 
@@ -3733,7 +3733,7 @@ $
 A + (B + C)  &= 30 \\\\
 A + 20       &= 30 \\\\
 A            &= 30 - 20 \\\\
-A            &= 10 \\\\
+A            &= 10
 \end{aligned}
 $
 
@@ -3779,7 +3779,7 @@ $
 \begin{aligned}
 A + B     &= 22    \ \text{kg}  \\\\
 B + C     &= 20     \ \text{kg} \\\\
-A + B + C &= 30 \ \text{kg}\\\\
+A + B + C &= 30 \ \text{kg}
 \end{aligned}
 $
 
@@ -3790,7 +3790,7 @@ $
 A + (B + C)  &= 30 \\\\
 A + 20       &= 30 \\\\
 A            &= 30 - 20 \\\\
-A            &= 10 \\\\
+A            &= 10
 \end{aligned}
 $
 

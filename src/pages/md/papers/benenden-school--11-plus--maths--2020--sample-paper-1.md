@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-1"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "21"
 ---
 <div class='paper'>
@@ -5644,7 +5644,7 @@ $
 \text{Number of pineapple jellies}      &= 30 \times 1 \\\\
                                         &= 30 \\\\
 \text{Number of lemon sours}            &= 30 \times 2 \\\\
-                                        &= 60 \\\\
+                                        &= 60
 \end{aligned}
 $
 
@@ -5662,7 +5662,7 @@ $
 \text{Number of lemon sours packets}            &= \dfrac {60} {20} \\\\
                                                 &= \dfrac {20 \times 3} {20} \\\\
                                                 &= \dfrac {\cancel {20} \times 3} {\cancel {20}} \\\\
-                                                &= 3 \\\\
+                                                &= 3
 \end{aligned}
 $
 
@@ -5689,7 +5689,7 @@ Number of lemon sours packets $= 3$
 \text{Number of pineapple jellies}      &= 30 \times 1 \\\\
                                         &= 30 \\\\
 \text{Number of lemon sours}            &= 30 \times 2 \\\\
-                                        &= 60 \\\\
+                                        &= 60
 \end{aligned}
 $
 
@@ -5707,7 +5707,7 @@ $
 \text{Number of lemon sours packets}            &= \dfrac {60} {20} \\\\
                                                 &= \dfrac {20 \times 3} {20} \\\\
                                                 &= \dfrac {\cancel {20} \times 3} {\cancel {20}} \\\\
-                                                &= 3 \\\\
+                                                &= 3
 \end{aligned}
 $
 </code></pre>
@@ -5751,7 +5751,7 @@ $
 \text{Cost of pineapple jellies}        &= \pounds 1.5 \times 3 \\\\
                                         &= \pounds 4.5 \\\\
 \text{Cost of lemon sours}              &= \pounds 1.6 \times 3 \\\\
-                                        &= \pounds 4.8 \\\\
+                                        &= \pounds 4.8
 \end{aligned}
 $
 
@@ -5783,7 +5783,7 @@ $
 \text{Cost of pineapple jellies}        &= \pounds 1.5 \times 3 \\\\
                                         &= \pounds 4.5 \\\\
 \text{Cost of lemon sours}              &= \pounds 1.6 \times 3 \\\\
-                                        &= \pounds 4.8 \\\\
+                                        &= \pounds 4.8
 \end{aligned}
 $
 

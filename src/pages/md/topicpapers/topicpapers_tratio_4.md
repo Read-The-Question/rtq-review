@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-4"
 title: "TopicPaper - Ratio - 4"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "13"
 ---
 <div class='paper'>
@@ -119,7 +119,7 @@ $
 1l &= 3a \text { \ \ so,} \\\\
 1f &= 2 \ l  \\\\
       &= 2 (3a) \\\\
-      &= 6a \\\\
+      &= 6a
 \end{aligned}
 $
 
@@ -144,7 +144,7 @@ $
 1l &= 3a \text { \ \ so,} \\\\
 1f &= 2 \ l  \\\\
       &= 2 (3a) \\\\
-      &= 6a \\\\
+      &= 6a
 \end{aligned}
 $
 
@@ -181,7 +181,7 @@ $
 \begin{aligned}
 2f &= 2 \times 2l \\\\
 4l &= 4 \times 3a \\\\
-   &= 12a \\\\
+   &= 12a
 \end{aligned}
 $
 
@@ -205,7 +205,7 @@ $
 \begin{aligned}
 2f &= 2 \times 2l \\\\
 4l &= 4 \times 3a \\\\
-   &= 12a \\\\
+   &= 12a
 \end{aligned}
 $
 
@@ -245,7 +245,7 @@ $
  3f &= 3 \times 2l \\\\
     &= 6l \\\\
 12a &= 12 \div 3l \\\\
-12a &= 4l \\\\
+12a &= 4l
 \end{aligned}
 $
 
@@ -256,7 +256,7 @@ Irfan bought $3f + 12a$. Now let's substitute,
 $
 \begin{aligned}
 &= 6l + 4l \\\\
-&= 10l \\\\
+&= 10l
 \end{aligned}
 $
 
@@ -280,7 +280,7 @@ $
  3f &= 3 \times 2l \\\\
     &= 6l \\\\
 12a &= 12 \div 3l \\\\
-12a &= 4l \\\\
+12a &= 4l
 \end{aligned}
 $
 
@@ -291,7 +291,7 @@ Irfan bought $3f + 12a$. Now let's substitute,
 $
 \begin{aligned}
 &= 6l + 4l \\\\
-&= 10l \\\\
+&= 10l
 \end{aligned}
 $
 
@@ -331,7 +331,7 @@ $
 \begin{aligned}
  6a &= 1f \text {so,} \\\\
 54a &= \dfrac {54}{6} f \\\\
-    &= 9f\\\\
+    &= 9f
 \end{aligned}
 $
 
@@ -342,7 +342,7 @@ Now for $1$ loaf he needs $4$ fish.
 $
 \begin{aligned}
 2l &= 1f \\\\
-9f &= 8f + 2l \\\\
+9f &= 8f + 2l
 \end{aligned}
 $
 
@@ -363,7 +363,7 @@ As per the question
 $
 \begin{aligned}
 1f &= 6a \\\\
-1l &= 3a \\\\
+1l &= 3a
 \end{aligned}
 $
 
@@ -373,7 +373,7 @@ $
    &= 24x + 3x \\\\
    &= 27x \\\\
  x &= \dfrac{54}{27}   \\\\
- x &= 2 \\\\
+ x &= 2
 \end{aligned}
 $
 
@@ -384,7 +384,7 @@ $
  \text {loaf} &= x = 2 \\\\
  \text {fish} &= 4x \\\\
               &= 4 \times 2 \\\\
-              &= 8 \\\\
+              &= 8
 \end{aligned}
 $
 
@@ -413,7 +413,7 @@ $
 \begin{aligned}
  6a &= 1f \text {so,} \\\\
 54a &= \dfrac {54}{6} f \\\\
-    &= 9f\\\\
+    &= 9f
 \end{aligned}
 $
 
@@ -424,7 +424,7 @@ Now for $1$ loaf he needs $4$ fish.
 $
 \begin{aligned}
 2l &= 1f \\\\
-9f &= 8f + 2l \\\\
+9f &= 8f + 2l
 \end{aligned}
 $
 
@@ -445,7 +445,7 @@ As per the question
 $
 \begin{aligned}
 1f &= 6a \\\\
-1l &= 3a \\\\
+1l &= 3a
 \end{aligned}
 $
 
@@ -455,7 +455,7 @@ $
    &= 24x + 3x \\\\
    &= 27x \\\\
  x &= \dfrac{54}{27}   \\\\
- x &= 2 \\\\
+ x &= 2
 \end{aligned}
 $
 
@@ -466,7 +466,7 @@ $
  \text {loaf} &= x = 2 \\\\
  \text {fish} &= 4x \\\\
               &= 4 \times 2 \\\\
-              &= 8 \\\\
+              &= 8
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-blocked"
 title: "TopicPaper - Areaperimeter - 8 - BLOCKED"
-date: 2022-07-28 17:51:11
+date: 2022-07-28 22:19:26
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -113,7 +113,7 @@ $
                                     &= a^2 - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4 \times a^2} {4} - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4a^2 - 2a^2 - a^2} {4} \\\\
-\text{Area of shaded region}        &= \dfrac{a^2} {4} \\\\
+\text{Area of shaded region}        &= \dfrac{a^2} {4}
 \end{aligned}
 $
 
@@ -163,7 +163,7 @@ $
                                     &= a^2 - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4 \times a^2} {4} - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4a^2 - 2a^2 - a^2} {4} \\\\
-\text{Area of shaded region}        &= \dfrac{a^2} {4} \\\\
+\text{Area of shaded region}        &= \dfrac{a^2} {4}
 \end{aligned}
 $
 

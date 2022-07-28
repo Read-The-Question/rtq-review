@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-07-28 17:44:19
+date: 2022-07-28 22:13:11
 questions_count: "44"
 ---
 <div class='paper'>
@@ -7866,7 +7866,7 @@ $20 = 1175 - (21 \times 55) \qquad \boxed{\phantom{\checkmark}}$
 $
 \begin{aligned}
 (21 \times 55) + 20 &= 1175 \\\\
-20 &= 1175 - (21 \times 55) \\\\
+20 &= 1175 - (21 \times 55)
 \end{aligned}
 $
 
@@ -7887,7 +7887,7 @@ Correct
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 (21 \times 55) + 20 &= 1175 \\\\
-20 &= 1175 - (21 \times 55) \\\\
+20 &= 1175 - (21 \times 55)
 \end{aligned}
 $
 

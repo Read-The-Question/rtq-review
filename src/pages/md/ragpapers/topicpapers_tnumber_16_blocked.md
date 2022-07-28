@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-blocked"
 title: "TopicPaper - Number - 16 - BLOCKED"
-date: 2022-07-21 23:26:54
-questions_count: "4"
+date: 2022-07-28 17:51:11
+questions_count: "6"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -774,6 +774,416 @@ $13$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p>Mahesh Madiraju</p>
+</div>
+<div class='rag'>
+<p>rag_mm_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tstatistics
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='0EE87929-F2CC-4426-8FA5-C13CAE3A2777' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-0EE87929-F2CC-4426-8FA5-C13CAE3A2777'>Initial</p>
+<div class='question question'>
+
+Bert and Chrissy are very good at maths and enjoy 'think of a number problems'.
+
+Bert asks Chrissy to think of a number, double it and add $5$.
+
+She says that the result is $33$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What was the number she thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Chrissy think of $=a$,
+
+$
+\begin{aligned}
+2a + 5 &= 33 \\\\
+2a     &= 33 - 5 \\\\
+2a     &= 28 \\\\
+a      &= \dfrac {28} {2} \\\\
+a      &= \dfrac {14 \times 2} {2} \\\\
+a      &= \dfrac {14 \times \cancel {2} } {\cancel {2} } \\\\
+a      &= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the number Chrissy think of $=a$,
+
+$
+\begin{aligned}
+2a + 5 &= 33 \\\\
+2a     &= 33 - 5 \\\\
+2a     &= 28 \\\\
+a      &= \dfrac {28} {2} \\\\
+a      &= \dfrac {14 \times 2} {2} \\\\
+a      &= \dfrac {14 \times \cancel {2} } {\cancel {2} } \\\\
+a      &= 14
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$14$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Chrissy wants Bert to guess her favourite number.
+
+She asks him to write down $5$ numbers.
+
+He chooses $4 \quad 7 \quad 2 \quad 19$ and $8$
+
+Chrissy looks at the numbers and tells him that her favourite number is equal to the mean of the numbers, minus $7$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the mean of Bert's numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Mean} &= \dfrac { \text {sum of all the numbers} } { \text {total numbers} } \\\\
+             &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
+             &= \dfrac {40} {5} \\\\
+             &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Mean} &= \dfrac { \text {sum of all the numbers} } { \text {total numbers} } \\\\
+             &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
+             &= \dfrac {40} {5} \\\\
+             &= 8
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$8$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is Chrissy's favourite number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Chrissy's favourite number} &= \text{mean-7} \\\\
+                                   &= 8 - 7 \\\\
+                                   &= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Chrissy's favourite number} &= \text{mean-7} \\\\
+                                   &= 8 - 7 \\\\
+                                   &= 1
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Circle any of the words below which describe Chrissy's favourite number.
+
+**prime number** $\quad$  **square number** $\quad$  **cube number**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {square}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {square}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\text {square}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {square}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>ADEAD8D0-2747-44BF-901C-F26BADA4C02C</p>
@@ -1232,6 +1642,388 @@ $
 </div>
 </li>
 </ul>
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>E4217FA5-8FD3-4C35-9B50-472281B6B580</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:1:6</p>
+</div>
+<div class='rag'>
+<p>Mahesh Madiraju</p>
+</div>
+<div class='rag'>
+<p>rag_mm_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-E4217FA5-8FD3-4C35-9B50-472281B6B580'>Initial</p>
+<div class='question question'>
+
+Belinda has $60$ coloured counters. One third of them are red.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many red counters does she have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Red counters} &= \dfrac {1} {3} \times 60 \\\\
+                     &= \dfrac {60} {3} \\\\
+                     &= \dfrac {20 \times 3} {3} \\\\
+                     &= \dfrac {20 \times \cancel {3} } {\cancel {3} } \\\\
+                     &= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Red counters} &= \dfrac {1} {3} \times 60 \\\\
+                     &= \dfrac {60} {3} \\\\
+                     &= \dfrac {20 \times 3} {3} \\\\
+                     &= \dfrac {20 \times \cancel {3} } {\cancel {3} } \\\\
+                     &= 20
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$20$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$25\%$ of her counters are blue.
+
+How many blue counters does she have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Blue counters} &= 25 \% \ \text {of} \ 60 \\\\
+                      &= \dfrac {25 \times 60} {100} \\\\
+                      &= \dfrac {25 \times 4 \times 15} {25 \times 4} \\\\
+                      &= \dfrac {\cancel{25} \times \cancel{4} \times 15} {\cancel{25} \times \cancel{4}} \\\\
+                      &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Blue counters} &= 25 \% \ \text {of} \ 60 \\\\
+                      &= \dfrac {25 \times 60} {100} \\\\
+                      &= \dfrac {25 \times 4 \times 15} {25 \times 4} \\\\
+                      &= \dfrac {\cancel{25} \times \cancel{4} \times 15} {\cancel{25} \times \cancel{4}} \\\\
+                      &= 15
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The rest of the counters are green.
+
+How many more green counters than blue counters are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Green counters}       &= 60 - 15 - 20 \\\\
+                            &= 25 \\\\
+\text{Difference }          &= 25 - 15 \\\\
+                            &= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Green counters}       &= 60 - 15 - 20 \\\\
+                            &= 25 \\\\
+\text{Difference }          &= 25 - 15 \\\\
+                            &= 10
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'></code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$30$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Belinda puts her $60$ counters into a bag and picks one at random.
+
+On the probability scale below, mark the following probabilities with the letters shown:
+
+-   the probability that the counter is red
+
+-   the probability that the counter is yellow
+
+-   the probability that the counter is **not** blue
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\text {A- certain} \\\\
+\text {B- impossible} \\\\
+\text {C- even chance}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+\text {A- certain} \\\\
+\text {B- impossible} \\\\
+\text {C- even chance}
+$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\text {A- certain} \\\\
+\text {B- impossible} \\\\
+\text {C- even chance}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$
+\text {A- certain} \\\\
+\text {B- impossible} \\\\
+\text {C- even chance}
+$
+</code></pre>
+</div>
+</div>
+
 </div>
 </li>
 </ul>

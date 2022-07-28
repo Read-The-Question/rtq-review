@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-07-21 23:26:54
+date: 2022-07-28 17:51:11
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1896,7 +1896,7 @@ Missing number = 0.627 - (0.6+0.02)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>DFD8D8D5-83F1-4AA0-B9E2-0ED508142867</p>
 </div>
@@ -1910,7 +1910,7 @@ Missing number = 0.627 - (0.6+0.02)
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5371,7 +5371,7 @@ last sentence :  My original number = 5
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E04A5D82-8409-45E4-B659-1A199BE3C232</p>
 </div>
@@ -5382,7 +5382,7 @@ last sentence :  My original number = 5
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5466,69 +5466,62 @@ How many coins are there altogether if there is $\pounds 4.90$ in the money box?
 <div class='workings'>
 <div class='working'>
 
-Let the count of coins of each denomination $= c$
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+
+Let the total number of coins $= c$
 
 As per the question,
 
 $
 \begin{aligned}
-5 \times c + 10 \times c + 20 \times c  &= 490 \\\\
-5c + 10c + 20c                          &= 490 \\\\
-35c                                     &= 490 \\\\
-c                                       &= \dfrac {490} {35} \\\\
-c                                       &= \dfrac {2 \times 7 \times 7 \times 5} {7 \times 5} \\\\
-c                                       &= \dfrac {2 \times 7 \times \cancel{7} \times \cancel{5}} {\cancel{7} \times \cancel{5}} \\\\
-c                                       &= 2 \times 7
-c                                       &= 14
+\dfrac {c} {3} \times 5 \text {p} + \dfrac {c} {3} \times 10 \text {p} + \dfrac {c} {3} \times 20 \text {p}     &= \pounds 4.90 \\\\
+\dfrac {5c} {3} + \dfrac {10c} {3} + \dfrac {20c} {3}                                                           &= 490 \text {p} \\\\
+\dfrac {5c + 10c + 20c} {3}                                                                                     &= 490 \\\\
+35c                                                                                                             &= 490 \times 3 \\\\
+c                                                                                                               &= \dfrac {490 \times 3} {35} \\\\
+c                                                                                                               &= \dfrac {14 \times 35 \times 3} {35} \\\\
+c                                                                                                               &= \dfrac {14 \times \cancel {35} \times 3} {\cancel {35}} \\\\
+c                                                                                                               &= 14 \times 3 \\\\
+c                                                                                                               &= 42
 \end{aligned}
 $
 
-There are $14$ coins of each type and $3$ different types of coins.
-
-$
-\begin{aligned}
-\text{Total coins} &=  14 \times 3  \\\\
-&= 42 \ \text{coins}
-\end{aligned}
-$
+Total number of coins $= 42$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$42 \ \text{coins}$
+$42$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the count of coins of each denomination $= c$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
+
+Let the total number of coins $= c$
 
 As per the question,
 
 $
 \begin{aligned}
-5 \times c + 10 \times c + 20 \times c  &= 490 \\\\
-5c + 10c + 20c                          &= 490 \\\\
-35c                                     &= 490 \\\\
-c                                       &= \dfrac {490} {35} \\\\
-c                                       &= \dfrac {2 \times 7 \times 7 \times 5} {7 \times 5} \\\\
-c                                       &= \dfrac {2 \times 7 \times \cancel{7} \times \cancel{5}} {\cancel{7} \times \cancel{5}} \\\\
-c                                       &= 2 \times 7
-c                                       &= 14
+\dfrac {c} {3} \times 5 \text {p} + \dfrac {c} {3} \times 10 \text {p} + \dfrac {c} {3} \times 20 \text {p}     &= \pounds 4.90 \\\\
+\dfrac {5c} {3} + \dfrac {10c} {3} + \dfrac {20c} {3}                                                           &= 490 \text {p} \\\\
+\dfrac {5c + 10c + 20c} {3}                                                                                     &= 490 \\\\
+35c                                                                                                             &= 490 \times 3 \\\\
+c                                                                                                               &= \dfrac {490 \times 3} {35} \\\\
+c                                                                                                               &= \dfrac {14 \times 35 \times 3} {35} \\\\
+c                                                                                                               &= \dfrac {14 \times \cancel {35} \times 3} {\cancel {35}} \\\\
+c                                                                                                               &= 14 \times 3 \\\\
+c                                                                                                               &= 42
 \end{aligned}
 $
 
-There are $14$ coins of each type and $3$ different types of coins.
-
-$
-\begin{aligned}
-\text{Total coins} &=  14 \times 3  \\\\
-&= 42 \ \text{coins}
-\end{aligned}
-$
+Total number of coins $= 42$
 </code></pre>
 </div>
 </div>
@@ -5540,12 +5533,52 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$42 \ \text{coins}$
+<pre class='language-latex'><code class='language-latex'>$42$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='E04A5D82-8409-45E4-B659-1A199BE3C232' id='FORM-E04A5D82-8409-45E4-B659-1A199BE3C232' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E04A5D82-8409-45E4-B659-1A199BE3C232'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5927,7 +5960,7 @@ change \"x\" into a
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BD661B8E-C952-4FE7-B2A9-FBC925EF303A</p>
 </div>
@@ -5938,7 +5971,7 @@ change \"x\" into a
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6063,11 +6096,11 @@ As per the question,
 
 $
 \begin{aligned}
-&= \text{Moos in 3 quacks} + \text{Moos in 1 oink} \\\\
-&= 3 \times 3 + 1 \times 13 \ \text{quacks} \\\\
-&= 9 + 1 \times 13 \times 3 \\\\
+&= 3 \ \text {quacks} + 1 \ \text {oink} \\\\
+&= 3 \ \text {quacks} + 13 \ \text {quacks} \\\\
+&= 3 \times 3 \ \text {moos} + 3 \times 13 \ \text {moos} \\\\
 &= 9 + 39 \\\\
-&= 48 \ \text{Moos}
+&= 48 \ \text {moos}
 \end{aligned}
 $
 
@@ -6076,7 +6109,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$48 \ \text{Moos}$
+$48 \ \text{moos}$
 
 </div>
 </div>
@@ -6087,11 +6120,11 @@ $48 \ \text{Moos}$
 
 $
 \begin{aligned}
-&= \text{Moos in 3 quacks} + \text{Moos in 1 oink} \\\\
-&= 3 \times 3 + 1 \times 13 \ \text{quacks} \\\\
-&= 9 + 1 \times 13 \times 3 \\\\
+&= 3 \ \text {quacks} + 1 \ \text {oink} \\\\
+&= 3 \ \text {quacks} + 13 \ \text {quacks} \\\\
+&= 3 \times 3 \ \text {moos} + 3 \times 13 \ \text {moos} \\\\
 &= 9 + 39 \\\\
-&= 48 \ \text{Moos}
+&= 48 \ \text {moos}
 \end{aligned}
 $
 </code></pre>
@@ -6105,7 +6138,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$48 \ \text{Moos}$
+<pre class='language-latex'><code class='language-latex'>$48 \ \text{moos}$
 </code></pre>
 </div>
 </div>
@@ -6124,22 +6157,19 @@ What fraction of an oink does $9$ moos represent?
 
 $
 \begin{aligned}
-\text{Fraction of oink} &= \dfrac{\text{Number of moos Given}} {\text{Total number of moos}} \\\\
-                        &= \dfrac{9}{13 \times 3} \\\\
-                        &= \dfrac{3 \times 3}{13 \times 3} \\\\
-                        &= \dfrac{3 \times \cancel{3}}{13 \times \cancel{3}} \\\\
-                        &= \dfrac{3}{13}
+1 \ \text {quack}           &= \dfrac {1} {13} \ \text {oink} \\\\
+3 \ \text {moos}            &= \dfrac {1} {13} \ \text {oink} \\\\
+3 \times 3 \ \text {moos}   &= 3 \times \dfrac {1} {13} \ \text {oink} \\\\
+9 \ \text {moos}            &= \dfrac {3} {13} \ \text {oink}
 \end{aligned}
 $
-
-Fraction of 9 moos of an oink $=\dfrac{3}{13}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{3}{13}$
+$\dfrac {3} {13}$
 
 </div>
 </div>
@@ -6148,15 +6178,12 @@ $\dfrac{3}{13}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Fraction of oink} &= \dfrac{\text{Number of moos Given}} {\text{Total number of moos}} \\\\
-                        &= \dfrac{9}{13 \times 3} \\\\
-                        &= \dfrac{3 \times 3}{13 \times 3} \\\\
-                        &= \dfrac{3 \times \cancel{3}}{13 \times \cancel{3}} \\\\
-                        &= \dfrac{3}{13}
+1 \ \text {quack}           &= \dfrac {1} {13} \ \text {oink} \\\\
+3 \ \text {moos}            &= \dfrac {1} {13} \ \text {oink} \\\\
+3 \times 3 \ \text {moos}   &= 3 \times \dfrac {1} {13} \ \text {oink} \\\\
+9 \ \text {moos}            &= \dfrac {3} {13} \ \text {oink}
 \end{aligned}
 $
-
-Fraction of 9 moos of an oink $=\dfrac{3}{13}$
 </code></pre>
 </div>
 </div>
@@ -6168,7 +6195,7 @@ Fraction of 9 moos of an oink $=\dfrac{3}{13}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{13}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {3} {13}$
 </code></pre>
 </div>
 </div>
@@ -6242,6 +6269,46 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='BD661B8E-C952-4FE7-B2A9-FBC925EF303A' id='FORM-BD661B8E-C952-4FE7-B2A9-FBC925EF303A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BD661B8E-C952-4FE7-B2A9-FBC925EF303A'>Initial</p>
+</div>
 </div>
 </li>
 <li>

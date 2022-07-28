@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "37"
 ---
 <div class='paper'>
@@ -2252,7 +2252,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>0853FBBB-940A-4691-92D6-7B9F1BBF25A1</p>
 </div>
@@ -2266,7 +2266,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5232,7 +5232,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>29315613-031C-43A5-881D-8518DC15DE73</p>
 </div>
@@ -5243,10 +5243,10 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5330,7 +5330,7 @@ $
 \begin{aligned}
 \text{Total triangles}  &= 16   \\\\
 \text{Shaded}           &= 3    \\\\
-\text{Fraction shaded}  &= \dfrac {3} {16}  \\\\
+\text{Fraction shaded}  &= \dfrac {3} {16}
 \end{aligned}
 $
 
@@ -5350,7 +5350,7 @@ $\dfrac {3} {16}$
 \begin{aligned}
 \text{Total triangles}  &= 16   \\\\
 \text{Shaded}           &= 3    \\\\
-\text{Fraction shaded}  &= \dfrac {3} {16}  \\\\
+\text{Fraction shaded}  &= \dfrac {3} {16}
 \end{aligned}
 $
 </code></pre>
@@ -5369,60 +5369,39 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-write without aligned, just write the fraction in katex.
-
-
-
-write more descriptive answer
-
-
-
-Total triangles = 
-
-Shaded= 
-
-Fraction = 
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' id='FORM-29315613-031C-43A5-881D-8518DC15DE73' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='29315613-031C-43A5-881D-8518DC15DE73' id='FORM-29315613-031C-43A5-881D-8518DC15DE73' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -5434,7 +5413,7 @@ Fraction =
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>53A18DD8-A817-44D1-8683-1D5560365CFA</p>
 </div>
@@ -5448,7 +5427,7 @@ Fraction =
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5569,6 +5548,15 @@ rtq_abbr_md_add_drawing_ends
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+show how many triangles we need to shade to get 3/8, you have done similar questions earlier with the calculation shown.
+</div>
 
 <div class='review'>
 <ul class='review'>

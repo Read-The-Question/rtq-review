@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "38"
 ---
 <div class='paper'>
@@ -7944,7 +7944,7 @@ Area of full shape = 2 x (Area of 1/2 Triangle) (fit your calculations according
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_blocked rag_prg question'>
 <div class='uuid'>
 <p>84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78</p>
 </div>
@@ -7955,10 +7955,10 @@ Area of full shape = 2 x (Area of 1/2 Triangle) (fit your calculations according
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g1</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prg</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8207,46 +8207,6 @@ $
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' id='FORM-84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78'>Initial</p>
-</div>
 </div>
 </li>
 <li>

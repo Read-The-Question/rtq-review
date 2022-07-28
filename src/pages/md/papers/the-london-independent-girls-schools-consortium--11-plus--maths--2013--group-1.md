@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "40"
 ---
 <div class='paper'>
@@ -6194,7 +6194,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>17995AB1-E22E-4926-84D3-68BD6CB44645</p>
 </div>
@@ -6208,7 +6208,7 @@ TODOANSWER
 <p>rag_mm_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6415,6 +6415,15 @@ $\text{litres}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+just write md, no need for katex \text
+</div>
 
 <div class='review'>
 <ul class='review'>

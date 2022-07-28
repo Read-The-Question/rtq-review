@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "21"
 ---
 <div class='paper'>
@@ -1645,7 +1645,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>6975D4C4-7A3B-4AE4-968A-13F66593DA85</p>
 </div>
@@ -1656,10 +1656,10 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1739,27 +1739,33 @@ What fraction of the shape shown has been shaded?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Area of parallelogram} = \text{base} \times \text{height}$
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
 
 
-As per the diagram,
 
-Assuming height and width of boxes to be 1 cm
+Show the shaded part in 2 parts so we can add them separately to calculate the shaded part
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 $
 \begin{aligned}
-\text {Height}                 &= 6 \\\\
-\text {Length}                 &= 5 \\\\
-\text {Width}                  &= 2 \\\\
-\text {Area}                   &= \dfrac {5 + 2} {2} \times 6 \\\\
-                               &= \dfrac {7\times 6}{2}  \\\\
-                               &= \dfrac {7 \times \cancel{2} \times 3}{\cancel {2}} \\\\  
-                               &= 21 \ \text {cm}^ 2 \\\\
-\text{Total Area}              &= 36 \text{cm}^2 \\\\
-\text{Fraction of Area Shaded} &= \dfrac{21}{30} \\\\
-                               &= \dfrac{\cancel{3} \times 7}{\cancel{3} \times{12}} \\\\
-                               &= \dfrac{7}{12}
-\end{aligned}        
+\text{Total boxes}      &= 6 \times 6 \\\\
+                        &= 36 \\\\
+\text{Shaded boxes}     &= 2 \times 6 + \dfrac{1}{2} \times 3 \times 6 \\\\
+                        &= 12 + \dfrac{3 \times 6}{2} \\\\
+                        &= 12 + \dfrac{3 \times 3 \times 2}{2} \\\\
+                        &= 12 + \dfrac{3 \times 3 \times \cancel{2}}{\cancel{2}} \\\\
+                        &= 12 + 9  \\\\
+                        &= 21  \\\\
+\text{Fraction shaded}  &= \dfrac{21}{36} \\\\
+                        &= \dfrac{3 \times 7}{3 \times 12} \\\\
+                        &= \dfrac{\cancel{3} \times 7}{\cancel{3} \times 12} \\\\
+                        &= \dfrac{7}{12}
+\end{aligned}
 $
 
 </div>
@@ -1774,26 +1780,27 @@ $\dfrac {7} {12}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_parallelogram_expanded
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 
-As per the diagram,
+Show the shaded part in 2 parts so we can add them separately to calculate the shaded part
 
-Assuming height and width of boxes to be 1 cm
+rtq_abbr_md_add_drawing_ends
 
 $
 \begin{aligned}
-\text {Height}                 &= 6 \\\\
-\text {Length}                 &= 5 \\\\
-\text {Width}                  &= 2 \\\\
-\text {Area}                   &= \dfrac {5 + 2} {2} \times 6 \\\\
-                               &= \dfrac {7\times 6}{2}  \\\\
-                               &= \dfrac {7 \times \cancel{2} \times 3}{\cancel {2}} \\\\  
-                               &= 21 \ \text {cm}^ 2 \\\\
-\text{Total Area}              &= 36 \text{cm}^2 \\\\
-\text{Fraction of Area Shaded} &= \dfrac{21}{30} \\\\
-                               &= \dfrac{\cancel{3} \times 7}{\cancel{3} \times{12}} \\\\
-                               &= \dfrac{7}{12}
-\end{aligned}        
+\text{Total boxes}      &= 6 \times 6 \\\\
+                        &= 36 \\\\
+\text{Shaded boxes}     &= 2 \times 6 + \dfrac{1}{2} \times 3 \times 6 \\\\
+                        &= 12 + \dfrac{3 \times 6}{2} \\\\
+                        &= 12 + \dfrac{3 \times 3 \times 2}{2} \\\\
+                        &= 12 + \dfrac{3 \times 3 \times \cancel{2}}{\cancel{2}} \\\\
+                        &= 12 + 9  \\\\
+                        &= 21  \\\\
+\text{Fraction shaded}  &= \dfrac{21}{36} \\\\
+                        &= \dfrac{3 \times 7}{3 \times 12} \\\\
+                        &= \dfrac{\cancel{3} \times 7}{\cancel{3} \times 12} \\\\
+                        &= \dfrac{7}{12}
+\end{aligned}
 $
 </code></pre>
 </div>
@@ -1811,48 +1818,39 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-write little bit more descriptive, total squares, shades, fraction, solve like simple word
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' id='FORM-6975D4C4-7A3B-4AE4-968A-13F66593DA85' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='6975D4C4-7A3B-4AE4-968A-13F66593DA85' id='FORM-6975D4C4-7A3B-4AE4-968A-13F66593DA85' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

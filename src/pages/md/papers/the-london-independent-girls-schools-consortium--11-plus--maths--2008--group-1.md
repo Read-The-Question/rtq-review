@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "43"
 ---
 <div class='paper'>
@@ -1895,7 +1895,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>E258ACB8-5491-4DFA-800B-58FEA66CFEB0</p>
 </div>
@@ -1906,7 +1906,7 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1993,36 +1993,53 @@ addition  subtraction  multiplication
 <div class='workings'>
 <div class='working'>
 
-Addition
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+%waffles%
+
+</div>
+<div class='workings'>
+<div class='working'>
 
 $
 \begin{array}{ccccccccccccccc}
-       &     5    & \boxed 6 &     4    \\\\
-{} +   & \boxed 3 &     7    & \boxed 0 \\\\
+       &     5    & \boxed 6 &     4    \\
+{} +   & \boxed 3 &     7    & \boxed 0 \\
 \hline
-       &     9    &     3    &     4    \\\\
-\end{array}
-$
-
-Subtraction
-
-$
-\begin{array}{ccccccccccccccc}
-       & \boxed 9 &     7    & \boxed 1 \\\\
-{} -   &     5    & \boxed 3 &     8    \\\\
-\hline
-       &     4    &     3    &     3    \\\\
-\end{array}
-$
-
-Multiplication
-
-$
-\begin{array}{ccccccccccccccc}
-       & \boxed 1 &     3    & \boxed 9 \\\\
-{} -   &          &          &     7    \\\\
-\hline
-       &     9    & \boxed 7 &     3    \\\\
+       &     9    &     3    &     4    \\
 \end{array}
 $
 
@@ -2031,47 +2048,19 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$
-3, 6, 4 \\\\
-9, 3, 1 \\\\
-1, 7, 9 \\\\
-$
+$3, 6, 0$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Addition
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{array}{ccccccccccccccc}
-       &     5    & \boxed 6 &     4    \\\\
-{} +   & \boxed 3 &     7    & \boxed 0 \\\\
+       &     5    & \boxed 6 &     4    \\
+{} +   & \boxed 3 &     7    & \boxed 0 \\
 \hline
-       &     9    &     3    &     4    \\\\
-\end{array}
-$
-
-Subtraction
-
-$
-\begin{array}{ccccccccccccccc}
-       & \boxed 9 &     7    & \boxed 1 \\\\
-{} -   &     5    & \boxed 3 &     8    \\\\
-\hline
-       &     4    &     3    &     3    \\\\
-\end{array}
-$
-
-Multiplication
-
-$
-\begin{array}{ccccccccccccccc}
-       & \boxed 1 &     3    & \boxed 9 \\\\
-{} -   &          &          &     7    \\\\
-\hline
-       &     9    & \boxed 7 &     3    \\\\
+       &     9    &     3    &     4    \\
 \end{array}
 $
 </code></pre>
@@ -2085,48 +2074,161 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$
-3, 6, 4 \\\\
-9, 3, 1 \\\\
-1, 7, 9 \\\\
-$
+<pre class='language-latex'><code class='language-latex'>$3, 6, 0$
 </code></pre>
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+%waffles%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{ccccccccccccccc}
+       & \boxed 9 &     7    & \boxed 1 \\
+{} -   &     5    & \boxed 3 &     8    \\
+\hline
+       &     4    &     3    &     3    \\
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, 3, 1$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{ccccccccccccccc}
+       & \boxed 9 &     7    & \boxed 1 \\
+{} -   &     5    & \boxed 3 &     8    \\
+\hline
+       &     4    &     3    &     3    \\
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$9, 3, 1$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+%waffles%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{ccccccccccccccc}
+            & \boxed 1 &     3    & \boxed 9 \\
+{} \times   &          &          &     7    \\
+\hline
+            &     9    & \boxed 7 &     3    \\
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1, 7, 9$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{array}{ccccccccccccccc}
+            & \boxed 1 &     3    & \boxed 9 \\
+{} \times   &          &          &     7    \\
+\hline
+            &     9    & \boxed 7 &     3    \\
+\end{array}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1, 7, 9$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' id='FORM-E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='E258ACB8-5491-4DFA-800B-58FEA66CFEB0' id='FORM-E258ACB8-5491-4DFA-800B-58FEA66CFEB0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3824,7 +3926,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2094CB63-4A8B-4A7D-935F-06B130312908</p>
 </div>
@@ -3835,10 +3937,10 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4060,62 +4162,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-add section.answers section in primary question section 
-
-and replace TODOANSWER and TODOWORKING with %empty%
-
-for this refer : 0BC6DC5C-B1B3-4EBE-AC5C-839914A2772E
-
-
-
-part (a): add L.H.S. : \"\text {Fraction}\"
-
-R.H.S : p and t capital in \"purple\" and \"total\"
-
-
-
-same for part (b)
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' id='FORM-2094CB63-4A8B-4A7D-935F-06B130312908' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='2094CB63-4A8B-4A7D-935F-06B130312908' id='FORM-2094CB63-4A8B-4A7D-935F-06B130312908' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4602,7 +4681,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>18967D95-EFEA-48D8-9267-57C845CCC339</p>
 </div>
@@ -4616,7 +4695,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-peterborough-school-11-plus-maths-9999-sample-paper-1"
 title: "The Peterborough School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "20"
 ---
 <div class='paper'>
@@ -1005,7 +1005,7 @@ Odd one out : $\dfrac {3} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B312B8A5-E0AD-4546-B70A-03DA93E314AC</p>
 </div>
@@ -1016,10 +1016,10 @@ Odd one out : $\dfrac {3} {5}$
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1099,21 +1099,21 @@ tdraw
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1125,7 +1125,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1222,22 +1222,21 @@ Shade $\frac {2} {3}$ of this shape.
 $
 \begin{aligned}
 \text{Total number of small triangles}    &= 9 \\\\
-\text{2/3 of this shape}                  &= 9 \times \dfrac{2}{3} \\\\
-                                          &= \dfrac{9 \times 2}{3} \\\\
-                                          &= \dfrac{\cancel{3} \times 3 \times 2}{\cancel{3}} \\\\
+\text{Two-third of this shape}            &= \dfrac{2}{3} \times 9 \\\\
+                                          &= \dfrac{2 \times 9}{3} \\\\
+                                          &= \dfrac{2 \times 3 \times 3}{3} \\\\
+                                          &= \dfrac{2 \times 3 \times \cancel{3}}{\cancel{3}} \\\\
+                                          &= 2 \times 3  \\\\
                                           &= 6
 \end{aligned}
 $
-
-We will shade 6 triangles
-
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-We will shade 6 triangles
+$6$
 
 </div>
 </div>
@@ -1253,15 +1252,14 @@ rtq_abbr_md_add_drawing_ends
 $
 \begin{aligned}
 \text{Total number of small triangles}    &= 9 \\\\
-\text{2/3 of this shape}                  &= 9 \times \dfrac{2}{3} \\\\
-                                          &= \dfrac{9 \times 2}{3} \\\\
-                                          &= \dfrac{\cancel{3} \times 3 \times 2}{\cancel{3}} \\\\
+\text{Two-third of this shape}            &= \dfrac{2}{3} \times 9 \\\\
+                                          &= \dfrac{2 \times 9}{3} \\\\
+                                          &= \dfrac{2 \times 3 \times 3}{3} \\\\
+                                          &= \dfrac{2 \times 3 \times \cancel{3}}{\cancel{3}} \\\\
+                                          &= 2 \times 3  \\\\
                                           &= 6
 \end{aligned}
 $
-
-We will shade 6 triangles
-
 </code></pre>
 </div>
 </div>
@@ -1273,7 +1271,7 @@ We will shade 6 triangles
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>We will shade 6 triangles
+<pre class='language-latex'><code class='language-latex'>$6$
 </code></pre>
 </div>
 </div>
@@ -1281,52 +1279,39 @@ We will shade 6 triangles
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a. write little bit more descriptive, total squares, shades, fraction, solve like simple word
-
-
-
-b: use rtq_abbr_md_add_drawing_starts and explain instead of TODO
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' id='FORM-B312B8A5-E0AD-4546-B70A-03DA93E314AC' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='B312B8A5-E0AD-4546-B70A-03DA93E314AC' id='FORM-B312B8A5-E0AD-4546-B70A-03DA93E314AC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

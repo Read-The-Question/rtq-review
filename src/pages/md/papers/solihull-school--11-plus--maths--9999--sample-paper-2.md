@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "24"
 ---
 <div class='paper'>
@@ -6826,7 +6826,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>268985CE-D916-46A3-B493-68415348A63C</p>
 </div>
@@ -6840,7 +6840,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6962,6 +6962,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+this is wrong btw, 1001 is the closest
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -7413,7 +7422,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>67963BA0-C06F-4161-8F38-66A34F3EC3EB</p>
 </div>
@@ -7424,7 +7433,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

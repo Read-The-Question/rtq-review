@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-1"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "26"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "26"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>997E5915-77AC-41C6-9B42-F5D2F45BAADF</p>
 </div>
@@ -28,7 +28,7 @@ questions_count: "26"
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -428,27 +428,23 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-mark it as amber (4th part div question)
 
 
 
-a b c katex broken
+
+a: rtq_abbr_md_decimal_point_alignment_note missing
 
 
 
-d: use decimal abbreviation prompt
+b: same as a
 
 
 
-write s2 as 
+c: change \\ to \
 
 
 
-= 110 \div 2 / 10
-
-
-
-d: factors and cancellations are not done correctly.
+remove extra working 
 </div>
 
 <div class='review'>
@@ -1202,7 +1198,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>70C637C3-211B-4628-AEC5-ED449C7FF9B7</p>
 </div>
@@ -1216,7 +1212,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1497,6 +1493,10 @@ TODOANSWER
 
 
 use approx way, remove extra stuff
+
+
+
+still not correct, write original values and then approximate, for eg 142280BA-7FA3-4D0B-B002-0B6A5B2CCEAE
 </div>
 
 <div class='review'>

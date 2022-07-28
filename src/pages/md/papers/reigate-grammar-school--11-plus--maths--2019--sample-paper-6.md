@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "36"
 ---
 <div class='paper'>
@@ -5770,7 +5770,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>C957490D-C2D2-48AD-80EA-F4EAAF92A7A1</p>
 </div>
@@ -5784,7 +5784,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5970,9 +5970,9 @@ How many students favourite colour is NOT Blue?
 $
 \begin{aligned}
 \text{Not blue} &= \text{Total students} - \text{Favourite colour blue} \\\\
-&= 32 - (\dfrac{3}{8} \times 32) \\\\
-&= 32 - (\dfrac{3 \times 32}{8}) \\\\
-&= 32 - (\dfrac{3 \times 4 \times \cancel 8}{\cancel 8}) \\\\
+&= 32 - \dfrac{3}{8} \times 32 \\\\
+&= 32 - \dfrac{3 \times 32}{8} \\\\
+&= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
 &= 32 - 12 \\\\
 &= 20 \\\\
 \end{aligned}
@@ -5993,9 +5993,9 @@ $20$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Not blue} &= \text{Total students} - \text{Favourite colour blue} \\\\
-&= 32 - (\dfrac{3}{8} \times 32) \\\\
-&= 32 - (\dfrac{3 \times 32}{8}) \\\\
-&= 32 - (\dfrac{3 \times 4 \times \cancel 8}{\cancel 8}) \\\\
+&= 32 - \dfrac{3}{8} \times 32 \\\\
+&= 32 - \dfrac{3 \times 32}{8} \\\\
+&= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
 &= 32 - 12 \\\\
 &= 20 \\\\
 \end{aligned}

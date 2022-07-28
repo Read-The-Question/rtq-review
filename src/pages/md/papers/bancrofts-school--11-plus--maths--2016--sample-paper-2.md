@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "37"
 ---
 <div class='paper'>
@@ -2295,7 +2295,7 @@ same for step 3 : 9a
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>28865942-DDBF-4A71-90B1-D1CE4D728421</p>
 </div>
@@ -2309,7 +2309,7 @@ same for step 3 : 9a
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>

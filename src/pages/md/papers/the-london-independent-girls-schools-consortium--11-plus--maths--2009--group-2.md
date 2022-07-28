@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "41"
 ---
 <div class='paper'>
@@ -8113,7 +8113,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>D5BB3C02-1F2E-4924-93A5-458B27B8F317</p>
 </div>
@@ -8127,7 +8127,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8318,6 +8318,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+use abbreviation to write the formula for surface area of cube at the top, same for rectange and then just show the direct fraction calculation, drop begin aligned 1 and 2, refer some area perimeter questions for reference.
+</div>
 
 <div class='review'>
 <ul class='review'>

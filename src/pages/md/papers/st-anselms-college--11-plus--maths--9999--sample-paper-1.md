@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "24"
 ---
 <div class='paper'>
@@ -5799,7 +5799,7 @@ b: answer is wrong, has to be square number 15 has 1 as a factor too,
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>EE517412-3A90-4259-8284-D1CA5B14FECF</p>
 </div>
@@ -5810,7 +5810,7 @@ b: answer is wrong, has to be square number 15 has 1 as a factor too,
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5990,7 +5990,26 @@ How many times bigger than Number $C$ is Number $A$?
 <div class='workings'>
 <div class='working'>
 
-$21$
+As per the question,
+
+$
+\begin {aligned}
+B     &= \dfrac {A} {7} \\\\
+B     &= 3 \times C \\\\
+\end {aligned}
+$
+
+Using the above two equations we get,
+
+$
+\begin {aligned}
+\dfrac {A} {7}    &= 3 \times C \\\\
+A                 &= 7 \times 3 \times C \\\\
+A                 &= 21 \times C
+\end {aligned}
+$
+
+Number $A$ is $21$ times bigger than Number $C$.
 
 </div>
 </div>
@@ -6004,7 +6023,26 @@ $21$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$21$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+B     &= \dfrac {A} {7} \\\\
+B     &= 3 \times C \\\\
+\end {aligned}
+$
+
+Using the above two equations we get,
+
+$
+\begin {aligned}
+\dfrac {A} {7}    &= 3 \times C \\\\
+A                 &= 7 \times 3 \times C \\\\
+A                 &= 21 \times C
+\end {aligned}
+$
+
+Number $A$ is $21$ times bigger than Number $C$.
 </code></pre>
 </div>
 </div>
@@ -6033,21 +6071,35 @@ What fraction of Number $B$ is Number $C$?
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {1}{3}$
+As per the question,
+
+$
+\begin {aligned}
+3 \times C  &= B \\\\
+C           &= \dfrac {B} {3}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1}{3}$
+$\dfrac {B} {3}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1}{3}$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+3 \times C  &= B \\\\
+C           &= \dfrac {B} {3}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6059,7 +6111,7 @@ $\dfrac {1}{3}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1}{3}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {B} {3}$
 </code></pre>
 </div>
 </div>
@@ -6112,6 +6164,46 @@ $2, 14, 42$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='EE517412-3A90-4259-8284-D1CA5B14FECF' id='FORM-EE517412-3A90-4259-8284-D1CA5B14FECF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EE517412-3A90-4259-8284-D1CA5B14FECF'>Initial</p>
+</div>
 </div>
 </li>
 <li>

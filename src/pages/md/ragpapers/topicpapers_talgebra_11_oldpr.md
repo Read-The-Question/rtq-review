@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-oldpr"
 title: "TopicPaper - Algebra - 11 - OLDPR"
-date: 2022-07-21 23:26:54
+date: 2022-07-28 17:51:11
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -1488,7 +1488,7 @@ Missing number = 0.627 - (0.6+0.02)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>DFD8D8D5-83F1-4AA0-B9E2-0ED508142867</p>
 </div>
@@ -1502,7 +1502,7 @@ Missing number = 0.627 - (0.6+0.02)
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

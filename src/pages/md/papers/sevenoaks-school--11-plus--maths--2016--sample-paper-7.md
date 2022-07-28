@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "27"
 ---
 <div class='paper'>
@@ -2544,7 +2544,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>970F2EE0-98DA-45DF-A88C-260A3AC22A4A</p>
 </div>
@@ -2558,7 +2558,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2648,13 +2648,12 @@ Write $3.14$ correct to $1$ decimal place.
 <div class='working'>
 
  
-
 $
 \begin{aligned}
+&= 3.14 \\\\
 & \approx 3.1
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -2669,13 +2668,12 @@ $3.1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'> 
-
 $
 \begin{aligned}
+&= 3.14 \\\\
 & \approx 3.1
 \end{aligned}
 $
-
 </code></pre>
 </div>
 </div>
@@ -2809,6 +2807,10 @@ $
 
 
 write using begin align \approx way. refer 142280BA-7FA3-4D0B-B002-0B6A5B2CCEAE
+
+
+
+i fixed part a: fix rest of them in similar way.
 </div>
 
 <div class='review'>

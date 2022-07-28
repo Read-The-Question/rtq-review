@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "46"
 ---
 <div class='paper'>
@@ -7733,7 +7733,7 @@ part (c) : add a l.H.S :
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>61BBB217-3B14-4521-9FBE-3800F9FD9D24</p>
 </div>
@@ -7744,10 +7744,10 @@ part (c) : add a l.H.S :
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7830,21 +7830,21 @@ The diagram below shows information about the girls in Year $6$ who play in the 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7856,7 +7856,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7969,13 +7969,12 @@ What percentage of the girls play in the hockey team but not in the netball team
 
 $
 \begin{aligned}
-\text{Total Girls}                           &= 25  \\\\
-\text{Girls who play hockey but not netball} &=  7  \\\\
-\text{Percent of girls}                      &=  \dfrac {7} {25} \times 100 \\\\
-                                             &= \dfrac {7 \times 100} {25} \\\\
-                                             &= \dfrac {7 \times 4 \times 25} {25} \\\\
-                                             &= 7 \times 4 \\\\
-                                             &= 28\%
+\text{Percentage of girls}                  &=  \dfrac {7} {25} \times 100 \\\\
+                                            &= \dfrac {7 \times 100} {25} \\\\
+                                            &= \dfrac {7 \times 4 \times 25} {25} \\\\
+                                            &= \dfrac {7 \times 4 \times \cancel{25}} {\cancel{25}} \\\\
+                                            &= 7 \times 4 \\\\
+                                            &= 28\%
 \end{aligned}
 $
 
@@ -7993,13 +7992,12 @@ $28\%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total Girls}                           &= 25  \\\\
-\text{Girls who play hockey but not netball} &=  7  \\\\
-\text{Percent of girls}                      &=  \dfrac {7} {25} \times 100 \\\\
-                                             &= \dfrac {7 \times 100} {25} \\\\
-                                             &= \dfrac {7 \times 4 \times 25} {25} \\\\
-                                             &= 7 \times 4 \\\\
-                                             &= 28\%
+\text{Percentage of girls}                  &=  \dfrac {7} {25} \times 100 \\\\
+                                            &= \dfrac {7 \times 100} {25} \\\\
+                                            &= \dfrac {7 \times 4 \times 25} {25} \\\\
+                                            &= \dfrac {7 \times 4 \times \cancel{25}} {\cancel{25}} \\\\
+                                            &= 7 \times 4 \\\\
+                                            &= 28\%
 \end{aligned}
 $
 </code></pre>
@@ -8030,9 +8028,7 @@ What fraction of the girls who play netball also play hockey?
 <div class='workings'>
 <div class='working'>
 
-$
-&= \dfrac {9} {25}
-$
+$\dfrac {9} {25}$
 
 </div>
 </div>
@@ -8046,9 +8042,7 @@ $\dfrac {9} {25}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-&= \dfrac {9} {25}
-$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {9} {25}$
 </code></pre>
 </div>
 </div>
@@ -8068,66 +8062,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-too much text, reduce
-
-Write first letter of the sentence in uppercase
-
-
-
-
-
-
-
-a: remove RHS text in S1, just write numbers
-
-
-
-c: write as simple word with LHS text, drop s1, no need for \"of\" statement
-
-
-
-d: write  without aligned
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' id='FORM-61BBB217-3B14-4521-9FBE-3800F9FD9D24' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='61BBB217-3B14-4521-9FBE-3800F9FD9D24' id='FORM-61BBB217-3B14-4521-9FBE-3800F9FD9D24' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

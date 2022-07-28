@@ -1,10 +1,388 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-pr-prns"
 title: "TopicPaper - Areaperimeter - 7 - PR - PRNS"
-date: 2022-07-21 23:26:54
-questions_count: "12"
+date: 2022-07-28 17:51:11
+questions_count: "13"
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>E4F1979A-9454-4E74-9A1B-1CC9A60608F7</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:31</p>
+</div>
+<div class='rag'>
+<p>Naman Pant</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-E4F1979A-9454-4E74-9A1B-1CC9A60608F7'>Initial</p>
+<div class='question question'>
+
+
+Nine identical squares are glued together to form the figure.
+
+![missing image](/papers/missing_image.svg)
+
+
+The perimeter of the figure is $160\ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the length of the side of each small square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the side $= a$
+
+Number of sides included in the shape $= 16$
+
+As per the diagram,
+
+$
+\begin{aligned}
+16 \times a             &= 160 \\\\
+16a                     &= 160 \\\\
+a                       &= \dfrac {160} {16} \\\\
+a                       &= \dfrac {16 \times 10} {16} \\\\
+a                       &= \dfrac {\cancel {16} \times 10} {\cancel {16}} \\\\
+a                       &= 10 \ \text {cm}
+\end{aligned}
+$
+
+Length of the side of each small square $= 10 \ \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text {cm}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the length of the side $= a$
+
+Number of sides included in the shape $= 16$
+
+As per the diagram,
+
+$
+\begin{aligned}
+16 \times a             &= 160 \\\\
+16a                     &= 160 \\\\
+a                       &= \dfrac {160} {16} \\\\
+a                       &= \dfrac {16 \times 10} {16} \\\\
+a                       &= \dfrac {\cancel {16} \times 10} {\cancel {16}} \\\\
+a                       &= 10 \ \text {cm}
+\end{aligned}
+$
+
+Length of the side of each small square $= 10 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10 \ \text {cm}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the area of each small square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of a square}            &= 10 \times 10 \\\\
+                                    &= 100 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \ \text {cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of a square}            &= 10 \times 10 \\\\
+                                    &= 100 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$100 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the area of the whole figure.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area}                        &= \text {Number of squares} \times \text {Area of a square} \\\\
+                                    &= 9 \times (10 \times 10) \\\\
+                                    &= 9 \times 100 \\\\
+                                    &= 900 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$900 \ \text {cm}^2$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area}                        &= \text {Number of squares} \times \text {Area of a square} \\\\
+                                    &= 9 \times (10 \times 10) \\\\
+                                    &= 9 \times 100 \\\\
+                                    &= 900 \ \text {cm}^2
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$900 \ \text {cm}^2$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='E4F1979A-9454-4E74-9A1B-1CC9A60608F7' id='FORM-E4F1979A-9454-4E74-9A1B-1CC9A60608F7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E4F1979A-9454-4E74-9A1B-1CC9A60608F7'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>

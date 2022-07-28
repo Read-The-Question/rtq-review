@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "34"
 ---
 <div class='paper'>
@@ -1096,7 +1096,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C</p>
 </div>
@@ -1107,10 +1107,10 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g0</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1289,6 +1289,8 @@ $\boxed{\phantom{4920}} \div 100 = 0.279$
 
 Let the missing value $=a$
 
+As per the question,
+
 $
 \begin{aligned}
 a\div 100 &= 0.279 \\\\
@@ -1311,6 +1313,8 @@ $27.9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -1339,82 +1343,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-The answer is correct, but the written katex is not aligned properly? Can you please ensure you are following coding guidelines and fix the written katex accordingly?
-
-
-
-b: katex is not aligned properly in the code, please have a look at coding guidelines and clean this code.
-
-
-
-The review comment for b is still not done, can you please see the written katex and how it is not written with proper spacing etc as per the coding guidelines?
-
-
-
-Following is an example of good spacing used
-
-
-
-\begin{aligned}
-
-&= \dfrac {2} {5} + \dfrac {3} {8} \\
-
-&= \dfrac {2 \times 8} {5 \times 8} + \dfrac {3 \times 5} {8 \times 5} \\
-
-&= \dfrac{ 16} {40} + \dfrac {15} {40} \\
-
-&= \dfrac {16 + 15} {40} \\
-
-&= \dfrac {31} {40}
-
-\end{aligned}
-
-
-
-
-
-Please look and indent the katex properly. Website is ok but written katex is not written cleanly.
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' id='FORM-603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' id='FORM-603D7E1B-0EE4-415D-8F3E-C6D0D768DB1C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1875,7 +1836,7 @@ refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>51EF1152-4680-4066-B3A6-9E35EA7048B4</p>
 </div>
@@ -1889,7 +1850,7 @@ refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2013,7 +1974,7 @@ $
 &= 37 \times 10 \times 56 \times 10 \\\\
 &= 37 \times 56 \times 100 \\\\
 &= 2072 \times 100 \\\\
-&= 207200 \\\\
+&= 207200
 \end{aligned}
 $   
 
@@ -2035,7 +1996,7 @@ $207200$
 &= 37 \times 10 \times 56 \times 10 \\\\
 &= 37 \times 56 \times 100 \\\\
 &= 2072 \times 100 \\\\
-&= 207200 \\\\
+&= 207200
 \end{aligned}
 $   
 </code></pre>
@@ -2072,7 +2033,7 @@ $
 &= (37 + 1) \times 56 \\\\
 &= 37 \times 56 + 56 \times 1 \\\\
 &= 2720 + 56 \\\\
-&= 2776 \\\\
+&= 2776
 \end{aligned}
 $
 
@@ -2094,7 +2055,7 @@ $2776$
 &= (37 + 1) \times 56 \\\\
 &= 37 \times 56 + 56 \times 1 \\\\
 &= 2720 + 56 \\\\
-&= 2776 \\\\
+&= 2776
 \end{aligned}
 $
 </code></pre>
@@ -2179,6 +2140,10 @@ $
 
 <h4>Review Comments</h4>
 mark this question as amber as the division part is not done
+
+
+
+part c not written the right way, do not write lhs = rhs way, write similar to a b and simplify to use the given answer
 </div>
 
 <div class='review'>

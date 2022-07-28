@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "16"
 ---
 <div class='paper'>
@@ -547,7 +547,7 @@ $51$ is the first number in the pattern which is greater than $48$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>68CB7B73-86D8-4C13-9AD6-25E68ADB0A8B</p>
 </div>
@@ -561,7 +561,7 @@ $51$ is the first number in the pattern which is greater than $48$.
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -910,6 +910,33 @@ $60 \pounds$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: change to One thousand
+
+
+
+b: write \approx way
+
+
+
+c: is wrong, write in simple word way and should it not be 1000* 16?
+
+
+
+part 2 no working shown, write using simple word and approx
+
+
+
+Cost of 1983 tickets = 1983 * 16
+
+                     \approx 2000 * 16 and then solve
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2067,7 +2094,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>E4217FA5-8FD3-4C35-9B50-472281B6B580</p>
 </div>
@@ -2078,10 +2105,10 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2207,11 +2234,11 @@ How many red counters does she have?
 
 $
 \begin{aligned}
-&= \dfrac {1} {3} \times 60 \\\\
-&= \dfrac {60} {3} \\\\
-&= \dfrac {20 \times 3} {3} \\\\
-&= \dfrac {20 \times \cancel {3} } {\cancel {3} } \\\\
-&= 20
+\text {Red counters} &= \dfrac {1} {3} \times 60 \\\\
+                     &= \dfrac {60} {3} \\\\
+                     &= \dfrac {20 \times 3} {3} \\\\
+                     &= \dfrac {20 \times \cancel {3} } {\cancel {3} } \\\\
+                     &= 20
 \end{aligned}
 $
 
@@ -2229,11 +2256,11 @@ $20$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {1} {3} \times 60 \\\\
-&= \dfrac {60} {3} \\\\
-&= \dfrac {20 \times 3} {3} \\\\
-&= \dfrac {20 \times \cancel {3} } {\cancel {3} } \\\\
-&= 20
+\text {Red counters} &= \dfrac {1} {3} \times 60 \\\\
+                     &= \dfrac {60} {3} \\\\
+                     &= \dfrac {20 \times 3} {3} \\\\
+                     &= \dfrac {20 \times \cancel {3} } {\cancel {3} } \\\\
+                     &= 20
 \end{aligned}
 $
 </code></pre>
@@ -2270,9 +2297,8 @@ $
 \begin{aligned}
 \text {Blue counters} &= 25 \% \ \text {of} \ 60 \\\\
                       &= \dfrac {25 \times 60} {100} \\\\
-                      &= \dfrac {25 \times 6 \cancel 0} {10 \cancel 0} \\\\
-                      &= \dfrac {5 \times 5 \times 3\times 2} {5 \times 2} \\\\
-                      &= \dfrac {5 \times \cancel 5 \times 3 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
+                      &= \dfrac {25 \times 4 \times 15} {25 \times 4} \\\\
+                      &= \dfrac {\cancel{25} \times \cancel{4} \times 15} {\cancel{25} \times \cancel{4}} \\\\
                       &= 15
 \end{aligned}
 $
@@ -2293,9 +2319,8 @@ $15$
 \begin{aligned}
 \text {Blue counters} &= 25 \% \ \text {of} \ 60 \\\\
                       &= \dfrac {25 \times 60} {100} \\\\
-                      &= \dfrac {25 \times 6 \cancel 0} {10 \cancel 0} \\\\
-                      &= \dfrac {5 \times 5 \times 3\times 2} {5 \times 2} \\\\
-                      &= \dfrac {5 \times \cancel 5 \times 3 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
+                      &= \dfrac {25 \times 4 \times 15} {25 \times 4} \\\\
+                      &= \dfrac {\cancel{25} \times \cancel{4} \times 15} {\cancel{25} \times \cancel{4}} \\\\
                       &= 15
 \end{aligned}
 $
@@ -2331,17 +2356,10 @@ How many more green counters than blue counters are there?
 
 $
 \begin{aligned}
-\text{Counters (Green)} &= \text{Total counters - Counters (Blue)}
-                        &= 60 - 15 \\\\
-                        &= 45
-\end{aligned}
-$
-
-So,
-$
-\begin{aligned}
-&= 45 - 15 \\\\
-&= 30
+\text{Green counters}       &= 60 - 15 - 20 \\\\
+                            &= 25 \\\\
+\text{Difference }          &= 25 - 15 \\\\
+                            &= 10
 \end{aligned}
 $
 
@@ -2359,17 +2377,10 @@ $30$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Counters (Green)} &= \text{Total counters - Counters (Blue)}
-                        &= 60 - 15 \\\\
-                        &= 45
-\end{aligned}
-$
-
-So,
-$
-\begin{aligned}
-&= 45 - 15 \\\\
-&= 30
+\text{Green counters}       &= 60 - 15 - 20 \\\\
+                            &= 25 \\\\
+\text{Difference }          &= 25 - 15 \\\\
+                            &= 10
 \end{aligned}
 $
 </code></pre>
@@ -2461,62 +2472,7 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-Do the following changes and mark the status PRR
-
-
-
-PArt A : show the working
-
-PArt B : Spacing : of60 , Blue counters = ....... after 2nd step. change 25 x 4 x 15/ 4 x 25 then cancel
-
-PArt c : Counters (Green) = Total counters - Counters (Blue)
-
-tehn solve ... no So, 
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='E4217FA5-8FD3-4C35-9B50-472281B6B580' id='FORM-E4217FA5-8FD3-4C35-9B50-472281B6B580' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E4217FA5-8FD3-4C35-9B50-472281B6B580'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -4180,7 +4136,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>815D7E74-0B4C-4E99-99F9-117582F86F67</p>
 </div>
@@ -4194,7 +4150,7 @@ TODOANSWER
 <p>rag_mm_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4423,6 +4379,41 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: 
+
+
+
+= 7 inch
+
+= 7 * 2.5 cm and then solve
+
+
+
+
+
+
+
+b: drop rtq_abbr_md_unit_no_dot_note
+
+
+
+b: write original question first
+
+
+
+= 70 inches
+
+= 70 * 2.5 cm 
+
+= ... 
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5116,7 +5107,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1</p>
 </div>
@@ -5130,7 +5121,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>

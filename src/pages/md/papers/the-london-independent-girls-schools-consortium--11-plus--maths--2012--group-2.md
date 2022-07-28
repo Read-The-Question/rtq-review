@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "41"
 ---
 <div class='paper'>
@@ -7688,7 +7688,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>5235BF01-DA75-4C84-A7A7-3B17AAB007EB</p>
 </div>
@@ -7699,10 +7699,10 @@ TODOANSWER
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7890,33 +7890,35 @@ How many more people liked Dorothy than the Scarecrow?
 <div class='workings'>
 <div class='working'>
 
-Let total number of people $=a$
+Let the total number of people $=a$
 
 Number of people that liked scarecrow $=\dfrac{a}{8}$
 
-Number of people that liked Dorothy $=24$
+As per the question,
 
 $
 \begin{aligned}
-\dfrac {4} {8} \ \text {of} \ a               &= 24 \\\\
-\dfrac {4} {8} \times a                       &= 24 \\\\
-a                                             &= 24 \times \dfrac {8} {4} \\\\
-                                              &= \dfrac {24 \times 8} {4} \\\\
-                                              &= \dfrac {24 \times 2 \times \cancel{4}} {\cancel{4}} \\\\
-                                              &= 48
+\dfrac {4} {8} \ \text {of} \ a                 &= 24 \\\\
+\dfrac {4} {8} \times a                         &= 24 \\\\
+a                                               &= \dfrac {24 \times 8} {4} \\\\
+a                                               &= \dfrac {24 \times 4 \times 2} {4} \\\\
+a                                               &= \dfrac {24 \times \cancel{4} \times 2} {\cancel{4}} \\\\
+a                                               &= 24 \times  2 \\\\
+a                                               &= 48
 \end{aligned}
 $
 
-Let's find the people that liked Dorothy than the Scarecrow
+Total number of people $= 48$
 
 $
 \begin{aligned}
-\text {Number of people that liked Dorothy than the Scarecrow} &= \text{Number of people that liked Dorothy} - \text {Number of people that like Scarecrow} \\\\
-                                                               &= 24 - \dfrac {1} {8} \times 48 \\\\
-                                                               &= 24 - \dfrac {48} {8} \\\\
-                                                               &= 24 - \dfrac {6 \times \cancel{8}} {\cancel{8}} \\\\
-                                                               &= 24 - 6 \\\\
-                                                               &= 18
+\text{People that liked scarecrow}              &= \dfrac{a}{8} \\\\
+                                                &= \dfrac{48}{8} \\\\
+                                                &= \dfrac {6 \times 8} {8} \\\\
+                                                &= \dfrac {6 \times \cancel{8}} {\cancel{8}} \\\\
+                                                &= 6 \\\\
+\text {Difference}                              &= 24 - 6 \\\\
+                                                &= 18
 \end{aligned}
 $
 
@@ -7932,33 +7934,35 @@ $18$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let total number of people $=a$
+<pre class='language-latex'><code class='language-latex'>Let the total number of people $=a$
 
 Number of people that liked scarecrow $=\dfrac{a}{8}$
 
-Number of people that liked Dorothy $=24$
+As per the question,
 
 $
 \begin{aligned}
-\dfrac {4} {8} \ \text {of} \ a               &= 24 \\\\
-\dfrac {4} {8} \times a                       &= 24 \\\\
-a                                             &= 24 \times \dfrac {8} {4} \\\\
-                                              &= \dfrac {24 \times 8} {4} \\\\
-                                              &= \dfrac {24 \times 2 \times \cancel{4}} {\cancel{4}} \\\\
-                                              &= 48
+\dfrac {4} {8} \ \text {of} \ a                 &= 24 \\\\
+\dfrac {4} {8} \times a                         &= 24 \\\\
+a                                               &= \dfrac {24 \times 8} {4} \\\\
+a                                               &= \dfrac {24 \times 4 \times 2} {4} \\\\
+a                                               &= \dfrac {24 \times \cancel{4} \times 2} {\cancel{4}} \\\\
+a                                               &= 24 \times  2 \\\\
+a                                               &= 48
 \end{aligned}
 $
 
-Let's find the people that liked Dorothy than the Scarecrow
+Total number of people $= 48$
 
 $
 \begin{aligned}
-\text {Number of people that liked Dorothy than the Scarecrow} &= \text{Number of people that liked Dorothy} - \text {Number of people that like Scarecrow} \\\\
-                                                               &= 24 - \dfrac {1} {8} \times 48 \\\\
-                                                               &= 24 - \dfrac {48} {8} \\\\
-                                                               &= 24 - \dfrac {6 \times \cancel{8}} {\cancel{8}} \\\\
-                                                               &= 24 - 6 \\\\
-                                                               &= 18
+\text{People that liked scarecrow}              &= \dfrac{a}{8} \\\\
+                                                &= \dfrac{48}{8} \\\\
+                                                &= \dfrac {6 \times 8} {8} \\\\
+                                                &= \dfrac {6 \times \cancel{8}} {\cancel{8}} \\\\
+                                                &= 6 \\\\
+\text {Difference}                              &= 24 - 6 \\\\
+                                                &= 18
 \end{aligned}
 $
 </code></pre>
@@ -7980,64 +7984,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: Change \"Percentage of the people that liked Toto best\" to \"% people liked Toto\"
-
-
-
-b: we do not use x use variable a instead.
-
-
-
-the answer is not following the standards for writing algebra answers, please refer age g2 to see sample and rewrite
-
-
-
-b: we do not use x use variable a instead.
-
-
-
-the answer is not following the standards for writing algebra answers, please refer age g2 to see sample and rewrite
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' id='FORM-5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='5235BF01-DA75-4C84-A7A7-3B17AAB007EB' id='FORM-5235BF01-DA75-4C84-A7A7-3B17AAB007EB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2014-sample-paper-5"
 title: "Sevenoaks School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "18"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "18"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06</p>
 </div>
@@ -25,10 +25,10 @@ questions_count: "18"
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -122,11 +122,11 @@ ABBR: Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    &       &     & 2 & 0 & 7 & . & 0 \\
-    &       &   1 & 9 & 8 & 9 & . & 0 \\
-{}+ &       &     &   & 2 & 4 & . & 2 \\
+    &       &     & 2 & 0 & 7  \ . & 0 \\
+    &       &   1 & 9 & 8 & 9  \ . & 0 \\
+{}+ &       &     &   & 2 & 4  \ . & 2 \\
 \hline
-    &       &   2 & 2 & 2 & 0 & . & 2
+    &       &   2 & 2 & 2 & 0  \ . & 2
 \end{array}
 $
 
@@ -146,11 +146,11 @@ $2220.2$
 
 $
 \begin{array}{cccccccccccccc}
-    &       &     & 2 & 0 & 7 & . & 0 \\
-    &       &   1 & 9 & 8 & 9 & . & 0 \\
-{}+ &       &     &   & 2 & 4 & . & 2 \\
+    &       &     & 2 & 0 & 7  \ . & 0 \\
+    &       &   1 & 9 & 8 & 9  \ . & 0 \\
+{}+ &       &     &   & 2 & 4  \ . & 2 \\
 \hline
-    &       &   2 & 2 & 2 & 0 & . & 2
+    &       &   2 & 2 & 2 & 0  \ . & 2
 \end{array}
 $
 </code></pre>
@@ -305,8 +305,8 @@ $
 \begin{aligned}
 &= 7322 \div 14 \\\\
 &= \dfrac {7322} {14} \\\\
-&= \dfrac {523 \times 14} {14} \\\\
-&= \dfrac{523 \times \cancel{14} } {\cancel{14} } \\\\
+&= \dfrac {523 \times 7 \times 2} {7 \times 2} \\\\
+&= \dfrac {523 \times \cancel{7} \times \cancel{2}} {\cancel{7} \times \cancel{2}} \\\\
 &= 523
 \end{aligned}
 $
@@ -327,8 +327,8 @@ $523$
 \begin{aligned}
 &= 7322 \div 14 \\\\
 &= \dfrac {7322} {14} \\\\
-&= \dfrac {523 \times 14} {14} \\\\
-&= \dfrac{523 \times \cancel{14} } {\cancel{14} } \\\\
+&= \dfrac {523 \times 7 \times 2} {7 \times 2} \\\\
+&= \dfrac {523 \times \cancel{7} \times \cancel{2}} {\cancel{7} \times \cancel{2}} \\\\
 &= 523
 \end{aligned}
 $
@@ -351,56 +351,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-mark it amber(div question)
-
-
-
-a: use abbreviate for the decimal prompt instead of text, decimal not written correctly, check how to write in other answers.
-
-
-
-c: X not placeed correctly, fix
-
-
-
-c: X not placeed correctly, fix
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' id='FORM-7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' id='FORM-7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

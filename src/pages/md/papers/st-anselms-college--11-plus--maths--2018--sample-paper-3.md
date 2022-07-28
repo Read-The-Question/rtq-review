@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "22"
 ---
 <div class='paper'>
@@ -3954,7 +3954,7 @@ $Yes$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>75CDCC16-17B1-4305-B233-5DF5C29AE401</p>
 </div>
@@ -3965,10 +3965,10 @@ $Yes$
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4157,7 +4157,7 @@ $
 \text{Shaded boxes}         &= 4 \\\\
 \text{Percentage shaded}    &= \dfrac{4}{10} \times 100 \\\\
                             &= \dfrac{4 \times 100}{10} \\\\
-                            &= \dfrac{4 \times 10\cancel{0}}{\cancel{10}} \\\\
+                            &= \dfrac{4 \times 10\cancel{0}}{1\cancel{0}} \\\\
                             &= 40 \%
 \end{aligned}
 $
@@ -4180,7 +4180,7 @@ $ 40 \%$
 \text{Shaded boxes}         &= 4 \\\\
 \text{Percentage shaded}    &= \dfrac{4}{10} \times 100 \\\\
                             &= \dfrac{4 \times 100}{10} \\\\
-                            &= \dfrac{4 \times 10\cancel{0}}{\cancel{10}} \\\\
+                            &= \dfrac{4 \times 10\cancel{0}}{1\cancel{0}} \\\\
                             &= 40 \%
 \end{aligned}
 $
@@ -4206,7 +4206,7 @@ $
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Which of the two shapes below has a greater percentage?
+Which of the two shapes below has a greater percentage shaded? Explain how you know.
 
 ![missing image](/papers/missing_image.svg)
 
@@ -4215,95 +4215,59 @@ Which of the two shapes below has a greater percentage?
 <div class='workings'>
 <div class='working'>
 
-Shape A
-
-The shaded area is 1/4 of the total area
-
 $
 \begin{aligned}
-\text{Percentage of area shaded} &= \dfrac{1}{4} \times 100 \\\\
-                                 &= \dfrac{100}{4} \\\\
-                                 &= \dfrac{\cancel{4} \times 25}{\cancel{4}} \\\\
-                                 &= 25 \%
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Shape B
-
-There are 9 complete boxes and 8 half boxes in the complete figure
-
-There are 2 complete boxes and 2 half boxes in shaded figure
-
-$
-\begin{aligned}
-\text{Total boxes}                  &= 9 + \dfrac{1}{2} \times 8 \\\\
+\text{\% area shaded for Shape A}   &= \dfrac{1}{4} \times 100 \\\\
+                                    &= \dfrac{100}{4} \\\\
+                                    &= \dfrac{\cancel{4} \times 25}{\cancel{4}} \\\\
+                                    &= 25 \% \\\\
+\text{Total boxes for Shape B}      &= 9 + \dfrac{1}{2} \times 8 \\\\
                                     &= 9 + \dfrac{\cancel{2} \times 4}{\cancel{2}}   \\\\
                                     &= 9 + 4    \\\\
                                     &= 13     \\\\
-\text{Shaded boxes}                 &= 2 + \dfrac{1}{2} \times 2 \\\\
+\text{Shaded boxes for Shape B}     &= 2 + \dfrac{1}{2} \times 2 \\\\
                                     &= 2 + 1    \\\\
                                     &= 3        \\\\
-\text{Percentage of area shaded}    &= \dfrac{3}{13} \times 100 \\\\
-                                    &= \dfrac{100}{13} \\\\
-                                    &= 7.69 \%
+\text{\% area shaded for Shape B}   &= \dfrac{3}{13} \times 100 \\\\
+                                    &= \dfrac{300}{13} \\\\
+                                    &\approx 23 \%
 \end{aligned}
 $
 
-Shape A has a greater percentage
+Shape A has a greater percentage shaded.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Shape A has a greater percentage
+Shape A
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Shape A
-
-The shaded area is 1/4 of the total area
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Percentage of area shaded} &= \dfrac{1}{4} \times 100 \\\\
-                                 &= \dfrac{100}{4} \\\\
-                                 &= \dfrac{\cancel{4} \times 25}{\cancel{4}} \\\\
-                                 &= 25 \%
-\end{aligned}
-$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Shape B
-
-There are 9 complete boxes and 8 half boxes in the complete figure
-
-There are 2 complete boxes and 2 half boxes in shaded figure
-
-$
-\begin{aligned}
-\text{Total boxes}                  &= 9 + \dfrac{1}{2} \times 8 \\\\
+\text{\% area shaded for Shape A}   &= \dfrac{1}{4} \times 100 \\\\
+                                    &= \dfrac{100}{4} \\\\
+                                    &= \dfrac{\cancel{4} \times 25}{\cancel{4}} \\\\
+                                    &= 25 \% \\\\
+\text{Total boxes for Shape B}      &= 9 + \dfrac{1}{2} \times 8 \\\\
                                     &= 9 + \dfrac{\cancel{2} \times 4}{\cancel{2}}   \\\\
                                     &= 9 + 4    \\\\
                                     &= 13     \\\\
-\text{Shaded boxes}                 &= 2 + \dfrac{1}{2} \times 2 \\\\
+\text{Shaded boxes for Shape B}     &= 2 + \dfrac{1}{2} \times 2 \\\\
                                     &= 2 + 1    \\\\
                                     &= 3        \\\\
-\text{Percentage of area shaded}    &= \dfrac{3}{13} \times 100 \\\\
-                                    &= \dfrac{100}{13} \\\\
-                                    &= 7.69 \%
+\text{\% area shaded for Shape B}   &= \dfrac{3}{13} \times 100 \\\\
+                                    &= \dfrac{300}{13} \\\\
+                                    &\approx 23 \%
 \end{aligned}
 $
 
-Shape A has a greater percentage
+Shape A has a greater percentage shaded.
 </code></pre>
 </div>
 </div>
@@ -4315,7 +4279,7 @@ Shape A has a greater percentage
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Shape A has a greater percentage
+<pre class='language-latex'><code class='language-latex'>Shape A
 </code></pre>
 </div>
 </div>
@@ -4323,72 +4287,39 @@ Shape A has a greater percentage
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: write more descriptive answr
-
-
-
-Total boxes = 6
-
-Shaded = 2
-
-Fraction = 2 /6 and then solve, all in one aligned
-
-
-
-same for b
-
-
-
-show working factors cancellation
-
-
-
-c: is not done right
-
-
-
-calculate % for both and show which one is bigger in the summary line. 
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' id='FORM-75CDCC16-17B1-4305-B233-5DF5C29AE401' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='75CDCC16-17B1-4305-B233-5DF5C29AE401' id='FORM-75CDCC16-17B1-4305-B233-5DF5C29AE401' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

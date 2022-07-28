@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-blocked"
 title: "TopicPaper - Number - 17 - BLOCKED"
-date: 2022-07-21 23:26:54
-questions_count: "5"
+date: 2022-07-28 17:51:11
+questions_count: "6"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -767,6 +767,136 @@ $50 \text{ cm}$
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>A87AA655-D5C6-4729-987B-172DBA858D1D</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:42</p>
+</div>
+<div class='rag'>
+<p>Mahesh Madiraju</p>
+</div>
+<div class='rag'>
+<p>rag_mm_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='A87AA655-D5C6-4729-987B-172DBA858D1D' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-A87AA655-D5C6-4729-987B-172DBA858D1D'>Initial</p>
+<div class='question question'>
+
+Find the smallest number which leaves a remainder of $1$ when divided by $5$ or $6$ or $7$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1$
+
+$1$ is the smallest number that leaves remainder $1$ when divided by $5$ or $6$ or $7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$1$
+
+$1$ is the smallest number that leaves remainder $1$ when divided by $5$ or $6$ or $7$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$1$
+</code></pre>
+</div>
+</div>
+
 
 </div>
 </li>

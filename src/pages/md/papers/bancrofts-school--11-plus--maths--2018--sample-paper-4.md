@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "37"
 ---
 <div class='paper'>
@@ -2394,7 +2394,7 @@ Smallest angle $= 35 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3</p>
 </div>
@@ -2405,10 +2405,10 @@ Smallest angle $= 35 \degree$
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2485,21 +2485,21 @@ tfraction
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2511,7 +2511,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2535,7 +2535,7 @@ For the three fractions in the table above, write down
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2554,7 +2554,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2571,17 +2571,17 @@ the largest fraction
 
 Let's make the denominator the same for all the fractions.
 
-LCM for $4, \quad 3 \ \text{and} \ 10 = 60$
+LCM for $4, 3$ and $10 = 60$
 
 $
 \begin{aligned}
 &= \dfrac{3}{4} , \quad \dfrac{2}{3} , \quad \dfrac{7}{10} \\\\
 &= \dfrac{3 \times 15}{4 \times 15} , \quad \dfrac{2 \times 20}{3 \times 20} , \quad \dfrac{7 \times 6}{10 \times 6} \\\\
-&= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60} \\\\
+&= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60}
 \end{aligned}
 $
 
-The largest fraction is $= \dfrac{3}{4}$
+Largest fraction $= \dfrac{3}{4}$
 
 </div>
 </div>
@@ -2597,17 +2597,17 @@ $\dfrac{3}{4}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the fractions.
 
-LCM for $4, \quad 3 \ \text{and} \ 10 = 60$
+LCM for $4, 3$ and $10 = 60$
 
 $
 \begin{aligned}
 &= \dfrac{3}{4} , \quad \dfrac{2}{3} , \quad \dfrac{7}{10} \\\\
 &= \dfrac{3 \times 15}{4 \times 15} , \quad \dfrac{2 \times 20}{3 \times 20} , \quad \dfrac{7 \times 6}{10 \times 6} \\\\
-&= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60} \\\\
+&= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60}
 \end{aligned}
 $
 
-The largest fraction is $= \dfrac{3}{4}$
+Largest fraction $= \dfrac{3}{4}$
 </code></pre>
 </div>
 </div>
@@ -2636,7 +2636,7 @@ the smallest fraction
 <div class='workings'>
 <div class='working'>
 
-The smallest fraction is $= \dfrac{2}{3}$
+$\dfrac{2}{3}$
 
 </div>
 </div>
@@ -2650,7 +2650,7 @@ $\dfrac{2}{3}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>The smallest fraction is $= \dfrac{2}{3}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac{2}{3}$
 </code></pre>
 </div>
 </div>
@@ -2734,48 +2734,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-No answer
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' id='FORM-3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' id='FORM-3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

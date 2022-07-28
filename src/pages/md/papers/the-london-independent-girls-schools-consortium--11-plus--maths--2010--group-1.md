@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "44"
 ---
 <div class='paper'>
@@ -1843,7 +1843,7 @@ make in into 1 answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B3CD0A36-BE2D-4EB4-845F-D4413E955B1F</p>
 </div>
@@ -1854,10 +1854,10 @@ make in into 1 answer
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g0</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2018,20 +2018,17 @@ $9 \ \boxed{\phantom{555}} \ 4 = 25\ \boxed{\phantom{555}} \  5$
 
 $9 \ \boxed{-} \ 4 = 25\ \boxed{\div} \  5$
 
-Lets verify,
+Lets verify.
 
 $
 \begin{aligned}
-\text{LHS}\ &= 9 - 4 \\\\
-&= 5 \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{RHS} &= 25 \div 5 \\\\
-&= \dfrac{5 \times \cancel 5}{\cancel 5} \\\\
-&= 5
+\text{Left}       &= 9 - 4 \\\\
+                  &= 5 \\\\
+\text{Right}      &= 25 \div 5 \\\\
+                  &= \dfrac{25}{5} \\\\
+                  &= \dfrac{5 \times 5}{5} \\\\
+                  &= \dfrac{5 \times \cancel 5}{\cancel 5} \\\\
+                  &= 5
 \end{aligned}
 $
 
@@ -2049,20 +2046,17 @@ $-, \div$
 
 <pre class='language-latex'><code class='language-latex'>$9 \ \boxed{-} \ 4 = 25\ \boxed{\div} \  5$
 
-Lets verify,
+Lets verify.
 
 $
 \begin{aligned}
-\text{LHS}\ &= 9 - 4 \\\\
-&= 5 \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{RHS} &= 25 \div 5 \\\\
-&= \dfrac{5 \times \cancel 5}{\cancel 5} \\\\
-&= 5
+\text{Left}       &= 9 - 4 \\\\
+                  &= 5 \\\\
+\text{Right}      &= 25 \div 5 \\\\
+                  &= \dfrac{25}{5} \\\\
+                  &= \dfrac{5 \times 5}{5} \\\\
+                  &= \dfrac{5 \times \cancel 5}{\cancel 5} \\\\
+                  &= 5
 \end{aligned}
 $
 </code></pre>
@@ -2095,18 +2089,12 @@ $8 \ \boxed{\phantom{555}} \ 4 \ \boxed{\phantom{555}} \ 3 = 7$
 
 $8 \ \boxed{-} \ 4 \ \boxed{+} \ 3 = 7$
 
-Lets verify,
+Lets verify.
 
 $
 \begin{aligned}
-\text{LHS}\ &= 8 - 4 + 3 \\\\
-&= 7 \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{RHS} &= 7 \\\\
+&= 8 - 4 + 3 \\\\
+&= 7
 \end{aligned}
 $
 
@@ -2124,18 +2112,12 @@ $-, +$
 
 <pre class='language-latex'><code class='language-latex'>$8 \ \boxed{-} \ 4 \ \boxed{+} \ 3 = 7$
 
-Lets verify,
+Lets verify.
 
 $
 \begin{aligned}
-\text{LHS}\ &= 8 - 4 + 3 \\\\
-&= 7 \\\\
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{RHS} &= 7 \\\\
+&= 8 - 4 + 3 \\\\
+&= 7
 \end{aligned}
 $
 </code></pre>
@@ -2212,13 +2194,16 @@ $32 \div ( 10 - \boxed{\phantom{5555}}) = 4$
 
 Let the missing number $= a$
 
+As per the question,
+
 $
 \begin{aligned}
-32 \div (10 - a) &= 4 \\\\
-10 - a &= \dfrac{32}{4} \\\\
-10 - a &= 8 \\\\
-a &= 10 - 8 \\\\
-a &= 2 \\\\
+32 \div (10 - a)        &= 4 \\\\
+\dfrac{32}{10 - a}      &= 4 \\\\
+10 - a                  &= \dfrac{32}{4} \\\\
+10 - a                  &= 8 \\\\
+a                       &= 10 - 8 \\\\
+a                       &= 2
 \end{aligned}
 $
 
@@ -2236,13 +2221,16 @@ $2$
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
 
+As per the question,
+
 $
 \begin{aligned}
-32 \div (10 - a) &= 4 \\\\
-10 - a &= \dfrac{32}{4} \\\\
-10 - a &= 8 \\\\
-a &= 10 - 8 \\\\
-a &= 2 \\\\
+32 \div (10 - a)        &= 4 \\\\
+\dfrac{32}{10 - a}      &= 4 \\\\
+10 - a                  &= \dfrac{32}{4} \\\\
+10 - a                  &= 8 \\\\
+a                       &= 10 - 8 \\\\
+a                       &= 2
 \end{aligned}
 $
 </code></pre>
@@ -2328,56 +2316,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a.1 Do using Lets verify way.
-
-a.2 Do using Lets verify way.
-
-
-
-b.1. use algebra and do, look for similar questions in tnumber g2, ask if not sure,
-
-b.2. Show box, do similar to 212E224E-5582-4831-B6B2-47F9B128497C
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' id='FORM-B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' id='FORM-B3CD0A36-BE2D-4EB4-845F-D4413E955B1F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4747,7 +4718,7 @@ $50 \text{ cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2F7A1B11-0659-49F6-BD2C-6F4144FB59D3</p>
 </div>
@@ -4758,10 +4729,10 @@ $50 \text{ cm}$
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4838,21 +4809,21 @@ tfraction
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4864,7 +4835,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4885,9 +4856,10 @@ What percentage of the circle is shaded?
 $
 \begin{aligned}
 \text{Total divisions}      &= 12   \\\\
-\text{The divisions shaded} &= 3    \\\\
+\text{Divisions shaded}     &= 3    \\\\
 \text{Percentage shaded}    &= \dfrac {3} {12} \times 100 \\\\
                             &= \dfrac {3 \times 100} {12} \\\\
+                            &= \dfrac {3 \times 4 \times 25} {3 \times 4} \\\\
                             &= \dfrac {\cancel{3} \times \cancel{4} \times 25} {\cancel{3} \times \cancel{4}} \\\\
                             &= 25 \%
 \end{aligned}
@@ -4908,9 +4880,10 @@ $25 \%$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Total divisions}      &= 12   \\\\
-\text{The divisions shaded} &= 3    \\\\
+\text{Divisions shaded}     &= 3    \\\\
 \text{Percentage shaded}    &= \dfrac {3} {12} \times 100 \\\\
                             &= \dfrac {3 \times 100} {12} \\\\
+                            &= \dfrac {3 \times 4 \times 25} {3 \times 4} \\\\
                             &= \dfrac {\cancel{3} \times \cancel{4} \times 25} {\cancel{3} \times \cancel{4}} \\\\
                             &= 25 \%
 \end{aligned}
@@ -4957,8 +4930,6 @@ and on the points where the triangle touch the middle horizontal line*
 *ABBR: TODO:: Add drawing ends.*
 
 
-The triangle is now split into 16 equal parts
-
 $
 \begin{aligned}
 \text{Total parts}      &= 16 \\\\
@@ -4983,8 +4954,6 @@ $\dfrac {3} {16}$
 *TODO::Draw the figure with a verticle line in middle of the figure 
 and on the points where the triangle touch the middle horizontal line*
 rtq_abbr_md_add_drawing_ends
-
-The triangle is now split into 16 equal parts
 
 $
 \begin{aligned}
@@ -5038,7 +5007,6 @@ $
 \begin{aligned}
 \text{Total squares}        &= 16   \\\\
 \text{Squares to be shaded} &= 25\% \ \text{of} \ 16 \\\\
-                            &= 25\% \times 16 \\\\
                             &= \dfrac {25} {100} \times 16 \\\\
                             &= \dfrac {25 \times 16} {100} \\\\
                             &= \dfrac {25 \times 4 \times 4} {25 \times 4} \\\\
@@ -5047,14 +5015,12 @@ $
 \end{aligned}
 $
 
-We will shade 4 squares.
-
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$4$
 
 </div>
 </div>
@@ -5069,7 +5035,6 @@ $
 \begin{aligned}
 \text{Total squares}        &= 16   \\\\
 \text{Squares to be shaded} &= 25\% \ \text{of} \ 16 \\\\
-                            &= 25\% \times 16 \\\\
                             &= \dfrac {25} {100} \times 16 \\\\
                             &= \dfrac {25 \times 16} {100} \\\\
                             &= \dfrac {25 \times 4 \times 4} {25 \times 4} \\\\
@@ -5077,8 +5042,6 @@ $
                             &= 4
 \end{aligned}
 $
-
-We will shade 4 squares.
 </code></pre>
 </div>
 </div>
@@ -5090,7 +5053,7 @@ We will shade 4 squares.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$4$
 </code></pre>
 </div>
 </div>
@@ -5098,72 +5061,39 @@ We will shade 4 squares.
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-a: same comments as 29315613-031C-43A5-881D-8518DC15DE73, write more descriptive, solve as simple word with some lhs text
-
-
-
-a: find % not fraction
-
-
-
-b write rtq_abbr_md_add_drawing_starts on what needs to be done.
-
-
-
-c: rtq_abbr_md_add_drawing_starts use that look at other usages on what to be done.
-
-
-
-b: write like summary view, same comments as 29315613-031C-43A5-881D-8518DC15DE73
-
-
-
-c: write as simple word
-
-
-
-Squares to be shaded = 25% of 16 and then calculate and then show diagram.
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' id='FORM-2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' id='FORM-2F7A1B11-0659-49F6-BD2C-6F4144FB59D3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -6241,7 +6171,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>0018CC1D-A1A0-4EC1-8346-A8802ABE92A7</p>
 </div>
@@ -6255,7 +6185,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7648,7 +7578,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>8C3BA95A-FBC8-4745-95AC-4F2CED45F7CD</p>
 </div>
@@ -7662,7 +7592,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9426,7 +9356,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>08363196-ECCA-4D0C-A83C-C7722F80868A</p>
 </div>
@@ -9440,7 +9370,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9652,12 +9582,12 @@ Is $12$ a perfect number?
 
 $
 \begin{aligned}
-\text{Product of factor of 12}\ &= 1 + 2 + 3 + 4 \\\\
-&= 10 \neq 12 \\\\
+\text{Sum of factors of 12}   &= 1 + 2 + 3 + 4 \\\\
+                              &= 10 \neq 12
 \end{aligned}
 $
 
-12 is not a perfect number
+12 is not a perfect number.
 
 </div>
 </div>
@@ -9673,12 +9603,12 @@ $
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Product of factor of 12}\ &= 1 + 2 + 3 + 4 \\\\
-&= 10 \neq 12 \\\\
+\text{Sum of factors of 12}   &= 1 + 2 + 3 + 4 \\\\
+                              &= 10 \neq 12
 \end{aligned}
 $
 
-12 is not a perfect number
+12 is not a perfect number.
 </code></pre>
 </div>
 </div>
@@ -9710,20 +9640,15 @@ There is a perfect number less than $10$. What is it?
 <div class='workings'>
 <div class='working'>
 
-6
+$6$
 
-Lets Verify
-
-$
-\begin{aligned}
-\text{Factors of 6}\ &= 1, 2, 3 \\\\
-\end{aligned}
-$
+Let's verify.
 
 $
 \begin{aligned}
-\text{Sum of factors of 6}\ &= 1 + 2 + 3 \\\\
-&= 6 = 6 \\\\
+\text{Factors of 6}           &= 1, 2, 3 \\\\
+\text{Sum of factors of 6}    &= 1 + 2 + 3 \\\\
+                              &= 6
 \end{aligned}
 $
 
@@ -9739,20 +9664,15 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>6
+<pre class='language-latex'><code class='language-latex'>$6$
 
-Lets Verify
-
-$
-\begin{aligned}
-\text{Factors of 6}\ &= 1, 2, 3 \\\\
-\end{aligned}
-$
+Let's verify.
 
 $
 \begin{aligned}
-\text{Sum of factors of 6}\ &= 1 + 2 + 3 \\\\
-&= 6 = 6 \\\\
+\text{Factors of 6}           &= 1, 2, 3 \\\\
+\text{Sum of factors of 6}    &= 1 + 2 + 3 \\\\
+                              &= 6
 \end{aligned}
 $
 </code></pre>

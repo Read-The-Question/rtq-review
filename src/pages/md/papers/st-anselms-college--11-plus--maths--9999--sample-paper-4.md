@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "23"
 ---
 <div class='paper'>
@@ -5829,7 +5829,7 @@ Prime Number
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335</p>
 </div>
@@ -5840,7 +5840,7 @@ Prime Number
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5961,30 +5961,36 @@ What fraction of Number A is Number B?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= \dfrac {1} {12}
-\end{aligned}
-$
+As per the question,
 
+$
+\begin {aligned}
+A           &= 12 \times B \\\\
+B \times 12 &= A \\\\
+B           &= \dfrac {A} {12}
+\end {aligned}
+$
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {12}$
+$\dfrac {A} {12}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= \dfrac {1} {12}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
 $
-</code></pre>
+\begin {aligned}
+A           &= 12 \times B \\\\
+B \times 12 &= A \\\\
+B           &= \dfrac {A} {12}
+\end {aligned}
+$</code></pre>
 </div>
 </div>
 <div class='answers'>
@@ -5995,7 +6001,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {12}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {A} {12}$
 </code></pre>
 </div>
 </div>
@@ -6012,31 +6018,59 @@ How many times bigger than Number C is Number A?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
-\begin{aligned}
-&= 12 \times 3 \\\\
-&= 36 \  \text{times}
-\end{aligned}
+\begin {aligned}
+B     &= \dfrac {A} {12} \\\\
+B     &= 3 \times C \\\\
+\end {aligned}
 $
+
+Using the above two equations we get,
+
+$
+\begin {aligned}
+\dfrac {A} {12}   &= 3 \times C \\\\
+A                 &= 12 \times 3 \times C \\\\
+A                 &= 36 \times C
+\end {aligned}
+$
+
+Number $A$ is $36$ times bigger than Number $C$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$36 \  \text{times}$
+$36$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-&= 12 \times 3 \\\\
-&= 36 \  \text{times}
-\end{aligned}
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
 $
+\begin {aligned}
+B     &= \dfrac {A} {12} \\\\
+B     &= 3 \times C \\\\
+\end {aligned}
+$
+
+Using the above two equations we get,
+
+$
+\begin {aligned}
+\dfrac {A} {12}   &= 3 \times C \\\\
+A                 &= 12 \times 3 \times C \\\\
+A                 &= 36 \times C
+\end {aligned}
+$
+
+Number $A$ is $36$ times bigger than Number $C$.
 </code></pre>
 </div>
 </div>
@@ -6048,7 +6082,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$36 \  \text{times}$
+<pre class='language-latex'><code class='language-latex'>$36$
 </code></pre>
 </div>
 </div>
@@ -6065,21 +6099,35 @@ What fraction of Number B is Number C?
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {1} {3}$
+As per the question,
+
+$
+\begin {aligned}
+3 \times C  &= B \\\\
+C           &= \dfrac {B} {3}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {3}$
+$\dfrac {B} {3}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {3}$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
+\begin {aligned}
+3 \times C  &= B \\\\
+C           &= \dfrac {B} {3}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6091,7 +6139,7 @@ $\dfrac {1} {3}$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {3}$
+<pre class='language-latex'><code class='language-latex'>$\dfrac {B} {3}$
 </code></pre>
 </div>
 </div>
@@ -6144,6 +6192,46 @@ $2, 24, 72$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' id='FORM-1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335'>Initial</p>
+</div>
 </div>
 </li>
 <li>

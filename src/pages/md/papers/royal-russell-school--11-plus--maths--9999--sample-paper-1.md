@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "25"
 ---
 <div class='paper'>
@@ -2892,7 +2892,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>FEE94A57-39F7-4E68-9F4D-2274BBB339A7</p>
 </div>
@@ -2903,10 +2903,10 @@ $
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2997,7 +2997,7 @@ $23.1 – 16.7$
 
 ABBR: Remember to line up the decimal points.
 
-
+ 
 $
 \begin{array}{cccccccccccccc}
     &   2  &   3  \ .  &   7 \\
@@ -3020,7 +3020,7 @@ $40.6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+ 
 $
 \begin{array}{cccccccccccccc}
     &   2  &   3  \ .  &   7 \\
@@ -3230,64 +3230,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-remove extra workings and answers
-
-
-
-remove extra workings
-
-
-
-a: do like ECED2877-3C6B-4FB7-8C76-F0180A1A0C2B, decimal points not written correclty.
-
-
-
-b: multiply sign not in the right place, look for guidelines.
-
-
-
-c: same as part a. decimal point and decimal prompt.
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' id='FORM-FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='FEE94A57-39F7-4E68-9F4D-2274BBB339A7' id='FORM-FEE94A57-39F7-4E68-9F4D-2274BBB339A7' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -5270,7 +5245,7 @@ $10 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6</p>
 </div>
@@ -5281,10 +5256,10 @@ $10 \ \text{cm}$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5484,48 +5459,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-write bidmas abbreviation wherever required.
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' id='FORM-97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' id='FORM-97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

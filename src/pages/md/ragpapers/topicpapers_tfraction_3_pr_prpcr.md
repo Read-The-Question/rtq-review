@@ -1,222 +1,12 @@
 ---
-slug: "ragpapers/topicpapers-tfraction-3-pr-prcc"
-title: "TopicPaper - Fraction - 3 - PR - PRCC"
-date: 2022-07-21 23:26:54
-questions_count: "5"
+slug: "ragpapers/topicpapers-tfraction-3-pr-prpcr"
+title: "TopicPaper - Fraction - 3 - PR - PRPCR"
+date: 2022-07-28 17:51:11
+questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
-<div class='uuid'>
-<p>D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:14</p>
-</div>
-<div class='rag'>
-<p>Mahesh Madiraju</p>
-</div>
-<div class='rag'>
-<p>rag_mm_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945'>Initial</p>
-<div class='question question'>
-
-The contents of part of a wardrobe are shown in the pie chart below:
-
-![missing image](/papers/missing_image.svg)
-
-
-What fraction, in its simplest form, of **Footwear** are boots? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Fraction of Boots}       &= \dfrac {\text {Boots}} {\text {Total Footwear}} \\\\
-                                &= \dfrac {9} {63+9}    \\\\
-                                &= \dfrac {9} {72}      \\\\
-                                &= \dfrac {\cancel{9}} {8 \times \cancel{9}}    \\\\
-                                &= \dfrac {1} {8}   
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {8}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\text {Fraction of Boots}       &= \dfrac {\text {Boots}} {\text {Total Footwear}} \\\\
-                                &= \dfrac {9} {63+9}    \\\\
-                                &= \dfrac {9} {72}      \\\\
-                                &= \dfrac {\cancel{9}} {8 \times \cancel{9}}    \\\\
-                                &= \dfrac {1} {8}   
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {8}$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove whole katex:
-
-replace it with :
-
-Fraction of Boots = 9/63+9
-
-                  = 9/72
-
-                  = 9/8 x 9
-
-and solve further....
-
-
-
-and the answer in section.answers too
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' id='FORM-D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D6E1FA30-6550-4FDE-A5F4-BCFFED7E0945'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>9F3349DA-53D7-4B90-AF97-44661D4FDBE4</p>
 </div>
@@ -230,7 +20,7 @@ and the answer in section.answers too
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -422,7 +212,7 @@ part (a)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>82754E73-D876-45A7-8AA1-76C9E05BCE77</p>
 </div>
@@ -436,7 +226,7 @@ part (a)
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -625,7 +415,7 @@ part (a)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>C957490D-C2D2-48AD-80EA-F4EAAF92A7A1</p>
 </div>
@@ -639,7 +429,7 @@ part (a)
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -825,9 +615,9 @@ How many students favourite colour is NOT Blue?
 $
 \begin{aligned}
 \text{Not blue} &= \text{Total students} - \text{Favourite colour blue} \\\\
-&= 32 - (\dfrac{3}{8} \times 32) \\\\
-&= 32 - (\dfrac{3 \times 32}{8}) \\\\
-&= 32 - (\dfrac{3 \times 4 \times \cancel 8}{\cancel 8}) \\\\
+&= 32 - \dfrac{3}{8} \times 32 \\\\
+&= 32 - \dfrac{3 \times 32}{8} \\\\
+&= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
 &= 32 - 12 \\\\
 &= 20 \\\\
 \end{aligned}
@@ -848,9 +638,9 @@ $20$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Not blue} &= \text{Total students} - \text{Favourite colour blue} \\\\
-&= 32 - (\dfrac{3}{8} \times 32) \\\\
-&= 32 - (\dfrac{3 \times 32}{8}) \\\\
-&= 32 - (\dfrac{3 \times 4 \times \cancel 8}{\cancel 8}) \\\\
+&= 32 - \dfrac{3}{8} \times 32 \\\\
+&= 32 - \dfrac{3 \times 32}{8} \\\\
+&= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
 &= 32 - 12 \\\\
 &= 20 \\\\
 \end{aligned}
@@ -939,227 +729,6 @@ Not blue = Total students - Favourite colour blue
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-C957490D-C2D2-48AD-80EA-F4EAAF92A7A1'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcc question'>
-<div class='uuid'>
-<p>00594CC4-DB7B-458D-945E-CC2A6F291884</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:6</p>
-</div>
-<div class='rag'>
-<p>Mahesh Madiraju</p>
-</div>
-<div class='rag'>
-<p>rag_mm_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-00594CC4-DB7B-458D-945E-CC2A6F291884'>Initial</p>
-<div class='question question'>
-
-What fraction of $2.4 \ \text{litres}$ is $400 \ \text{ml}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: It is really important to use the right units in calculations and convert where required
-
-
-Let the fraction $=x$.
-
-$
-\begin{aligned}
-x \ \text{of}\ 2.4 \ \text{litres}         &= 400 \ \text{ml} \\\\
-x \times 2400 \ \text{ml}                  &= 400 \ \text{ml} \\\\
-x                                          &= \dfrac {400} {2400} \\\\
-x                                          &= \dfrac {400} {400 \times 6} \\\\
-x                                          &= \dfrac {\cancel{400}} {\cancel{400} \times 6} \\\\
-x                                          &= \dfrac {1} {6}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {6}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
-
-Let the fraction $=x$.
-
-$
-\begin{aligned}
-x \ \text{of}\ 2.4 \ \text{litres}         &= 400 \ \text{ml} \\\\
-x \times 2400 \ \text{ml}                  &= 400 \ \text{ml} \\\\
-x                                          &= \dfrac {400} {2400} \\\\
-x                                          &= \dfrac {400} {400 \times 6} \\\\
-x                                          &= \dfrac {\cancel{400}} {\cancel{400} \times 6} \\\\
-x                                          &= \dfrac {1} {6}
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {6}$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-add the unitprompt for unit conversion in first line 
-
-remove \"be\" and . from first line 
-
-
-
-Step 1 : replace : 
-
-x \ \text {of} \ 2.4 \ \text {litres} &= 400 \ \text {ml} \\
-
-Step 2 : replace : 
-
-x \times 2400 \ \text {ml} &= 400 \ \text {ml} \\
-
-remove step 3
-
-write x in L.H.S. from step 4 to the last step
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='00594CC4-DB7B-458D-945E-CC2A6F291884' id='FORM-00594CC4-DB7B-458D-945E-CC2A6F291884' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-00594CC4-DB7B-458D-945E-CC2A6F291884'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "38"
 ---
 <div class='paper'>
@@ -973,7 +973,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prccrl question'>
 <div class='uuid'>
 <p>20A45DB5-153C-4BAE-BAB2-5E40D2045B0E</p>
 </div>
@@ -987,7 +987,7 @@ $
 <p>rag_mm_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-2-g2"
 title: "TopicPaper - Temperature - 2 - G2"
-date: 2022-07-21 23:26:54
+date: 2022-07-28 17:51:11
 questions_count: "3"
 ---
 <ul class='question default-decimal'>

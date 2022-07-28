@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "37"
 ---
 <div class='paper'>
@@ -4779,7 +4779,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>173A89D2-2138-4943-AFAE-53768C9E5BC0</p>
 </div>
@@ -4790,15 +4790,15 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tfraction
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -4938,18 +4938,20 @@ Each slab measures $\dfrac{1}{2}$ metre by $\dfrac{1}{2}$ metre. What is the are
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
 ABBR: It is really important to use the right units in calculations and convert where required
 
 
 $
 \begin{aligned}
-\text{Area of one slab}         &= \text{Length} \times \text{Width} \\\\
-                                &= \dfrac{1}{2} \ \text{m} \times \dfrac{1}{2} \ \text{m} \\\\
-                                &= \dfrac{1}{2} \times 100 \ \text{cm} \times \dfrac{1}{2} \times 100 \ \text{cm} \\\\
+\text{Area of one slab}         &= \dfrac{1}{2} \ \text{m} \times \dfrac{1}{2} \ \text{m} \\\\
+                                &= \dfrac{100}{2} \ \text{cm} \times \dfrac{100}{2} \ \text{cm} \\\\
                                 &= \dfrac{100 \times 100}{2 \times 2} \\\\
-                                &= \dfrac{100 \times 25 \times 4}{4} \\\\
-                                &= \dfrac{100 \times 25 \times \cancel{4}}{\cancel{4}} \\\\
-                                &= 100 \times 25 \\\\
+                                &= \dfrac{50 \times 2 \times 50 \times 2}{2 \times 2} \\\\
+                                &= \dfrac{50 \times \cancel{2} \times 50 \times \cancel{2}}{\cancel{2} \times \cancel{2}} \\\\
+                                &= 50 \times 50 \\\\
                                 &= 2500 \ \text{cm}^2 
 \end{aligned}
 $
@@ -4966,17 +4968,18 @@ $2500 \ \text{cm}^2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
+
+rtq_abbr_md_unit_no_dot_note
 
 $
 \begin{aligned}
-\text{Area of one slab}         &= \text{Length} \times \text{Width} \\\\
-                                &= \dfrac{1}{2} \ \text{m} \times \dfrac{1}{2} \ \text{m} \\\\
-                                &= \dfrac{1}{2} \times 100 \ \text{cm} \times \dfrac{1}{2} \times 100 \ \text{cm} \\\\
+\text{Area of one slab}         &= \dfrac{1}{2} \ \text{m} \times \dfrac{1}{2} \ \text{m} \\\\
+                                &= \dfrac{100}{2} \ \text{cm} \times \dfrac{100}{2} \ \text{cm} \\\\
                                 &= \dfrac{100 \times 100}{2 \times 2} \\\\
-                                &= \dfrac{100 \times 25 \times 4}{4} \\\\
-                                &= \dfrac{100 \times 25 \times \cancel{4}}{\cancel{4}} \\\\
-                                &= 100 \times 25 \\\\
+                                &= \dfrac{50 \times 2 \times 50 \times 2}{2 \times 2} \\\\
+                                &= \dfrac{50 \times \cancel{2} \times 50 \times \cancel{2}}{\cancel{2} \times \cancel{2}} \\\\
+                                &= 50 \times 50 \\\\
                                 &= 2500 \ \text{cm}^2 
 \end{aligned}
 $
@@ -5054,86 +5057,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-remove \"TODOSUBQUESTION\" from part (a) question
-
-part (a): remove line : \"As per the question\"
-
-replace L.H.S. with just \"Fraction\"
-
-
-
-part (b) : remove b) from question 
-
-add line 1: add the unitprompt for unit conversion
-
-l and w capital in \"length\" and \"width\"
-
-remove all steps down from step 2
-
-replace step 2 : 1/2 m x 1/2 m
-
-add step 3 : 1/2 x 100 cm x 1/2 x 100 cm
-
-add step 4: 100 x 100 / 2 x 2
-
-and solve further.. 
-
-
-
-part (c) : remove c) from the question
-
-
-
-remove line 1 and 2
-
-Step 1 : L.H.S. replace the statement with :
-
-\"Area needs to be cemented\"
-
-R.H.S. replace \"Area of each slab\" with \"Area of a slab\"
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' id='FORM-173A89D2-2138-4943-AFAE-53768C9E5BC0' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='173A89D2-2138-4943-AFAE-53768C9E5BC0' id='FORM-173A89D2-2138-4943-AFAE-53768C9E5BC0' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -5145,7 +5101,7 @@ R.H.S. replace \"Area of each slab\" with \"Area of a slab\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>E5F2C5B2-DCB1-433F-8448-979453D41F68</p>
 </div>
@@ -5156,7 +5112,7 @@ R.H.S. replace \"Area of each slab\" with \"Area of a slab\"
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5287,8 +5243,6 @@ $44448889 = \ldots \times \ldots$
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $44448889 = 6667 \times 6667$
 
 </div>
@@ -5303,9 +5257,7 @@ $44448889 = 6667 \times 6667$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$44448889 = 6667 \times 6667$
+<pre class='language-latex'><code class='language-latex'>$44448889 = 6667 \times 6667$
 </code></pre>
 </div>
 </div>
@@ -5334,29 +5286,21 @@ What will be the tenth number in the list?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-The tenth number would contain ten $4s$, nine $8s$ and one $9$
-
-The tenth number $=44444444448888888889$
+$44444444448888888889$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
- $44444444448888888889$
+$44444444448888888889$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-The tenth number would contain ten $4s$, nine $8s$ and one $9$
-
-The tenth number $=44444444448888888889$
+<pre class='language-latex'><code class='language-latex'>$44444444448888888889$
 </code></pre>
 </div>
 </div>
@@ -5368,7 +5312,7 @@ The tenth number $=44444444448888888889$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'> $44444444448888888889$
+<pre class='language-latex'><code class='language-latex'>$44444444448888888889$
 </code></pre>
 </div>
 </div>
@@ -5385,11 +5329,7 @@ What will be the square root of this number?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-$44444444448888888889 = 6666666667 \times 6666666667$
-
-Hence the square root $= 6666666667$
+$6666666667$
 
 </div>
 </div>
@@ -5403,11 +5343,7 @@ $6666666667$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$44444444448888888889 = 6666666667 \times 6666666667$
-
-Hence the square root $= 6666666667$
+<pre class='language-latex'><code class='language-latex'>$6666666667$
 </code></pre>
 </div>
 </div>
@@ -5431,35 +5367,35 @@ Hence the square root $= 6666666667$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' id='FORM-E5F2C5B2-DCB1-433F-8448-979453D41F68' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='E5F2C5B2-DCB1-433F-8448-979453D41F68' id='FORM-E5F2C5B2-DCB1-433F-8448-979453D41F68' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvenn-1"
 title: "TopicPaper - Venn - 1"
-date: 2022-07-21 23:26:54
+date: 2022-07-28 17:51:11
 questions_count: "36"
 ---
 <div class='paper'>

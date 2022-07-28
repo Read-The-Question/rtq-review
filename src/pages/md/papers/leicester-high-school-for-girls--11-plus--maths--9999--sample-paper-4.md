@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "23"
 ---
 <div class='paper'>
@@ -2204,7 +2204,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>946F4B92-263D-41EA-A4C5-DB28CEF5EF01</p>
 </div>
@@ -2215,10 +2215,10 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2298,21 +2298,21 @@ tpercentage
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2324,7 +2324,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2345,7 +2345,7 @@ $\Box\:\:\dfrac{1}{10}\:\:\:\Box\:\:\dfrac{4}{9}\:\:\:\Box\:\:\dfrac{1}{2}\:\:\:
 
 Let's make the denominator the same for all the fractions.
 
-LCM for $10, \quad 9, \quad 2, \quad 100, \ \text{and} \ 8 = 1800$
+LCM for $10, 9,  2, 100, 8 = 1800$
 
 $
 \begin{aligned}
@@ -2355,16 +2355,12 @@ $
 \end{aligned}
 $
 
-Let's arrange them in ascending order
-
 $
 \begin{aligned}
-&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800} \\\\
-&= \dfrac{18}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{200}{1800}, \quad \dfrac{225}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}
+\text{Fractions smaller} &= \dfrac{180}{1800}, \quad \dfrac{18}{1800} \\\\
+                         &= \dfrac {1} {10},   \quad  \dfrac {1} {100}
 \end{aligned}
 $
-
-Fractions less than $\dfrac {1} {9}$ are $\dfrac {1} {10}$ and $\dfrac {1} {100}$.
 
 </div>
 </div>
@@ -2385,7 +2381,7 @@ $\dfrac {1} {100}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the fractions.
 
-LCM for $10, \quad 9, \quad 2, \quad 100, \ \text{and} \ 8 = 1800$
+LCM for $10, 9,  2, 100, 8 = 1800$
 
 $
 \begin{aligned}
@@ -2395,16 +2391,12 @@ $
 \end{aligned}
 $
 
-Let's arrange them in ascending order
-
 $
 \begin{aligned}
-&= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800} \\\\
-&= \dfrac{18}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{200}{1800}, \quad \dfrac{225}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}
+\text{Fractions smaller} &= \dfrac{180}{1800}, \quad \dfrac{18}{1800} \\\\
+                         &= \dfrac {1} {10},   \quad  \dfrac {1} {100}
 \end{aligned}
 $
-
-Fractions less than $\dfrac {1} {9}$ are $\dfrac {1} {10}$ and $\dfrac {1} {100}$.
 </code></pre>
 </div>
 </div>
@@ -2457,10 +2449,9 @@ $\Box\:\:19\%$
 
 $
 \begin{aligned}
-&= \dfrac {1} {9} \ \text {of} \ 100 \\\\
-&= \dfrac {1 \times 100}{9} \\\\
-&= \dfrac {100} {9} \\\\
-&= 11\%
+&= \dfrac {1} {9} \times 100 \\\\
+&= \dfrac {100}{9} \\\\
+&\approx 11\%
 \end{aligned}
 $
 
@@ -2478,10 +2469,9 @@ $11\%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \dfrac {1} {9} \ \text {of} \ 100 \\\\
-&= \dfrac {1 \times 100}{9} \\\\
-&= \dfrac {100} {9} \\\\
-&= 11\%
+&= \dfrac {1} {9} \times 100 \\\\
+&= \dfrac {100}{9} \\\\
+&\approx 11\%
 \end{aligned}
 $
 </code></pre>
@@ -2514,18 +2504,20 @@ $\dfrac{1} {9}$ is half of ................
 <div class='workings'>
 <div class='working'>
 
-Let the number $=x$.
+Let the number $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\dfrac {1} {2} \ \text {of} \ x &= \dfrac {1} {9} \\\\
-\dfrac {1} {2} \times x         &= \dfrac {1} {9} \\\\
-x                               &= \dfrac {1} {9} \times 2 \\\\
-x                               &= \dfrac {2} {9}
+\dfrac {1} {2} \ \text {of} \ a &= \dfrac {1} {9} \\\\
+\dfrac {1} {2} \times a         &= \dfrac {1} {9} \\\\
+a                               &= \dfrac {2} {9}
 \end{aligned}
 $
 
-$\dfrac{1}{9}$ is half of $\dfrac{2}{9}$
+
+Numbers $= \dfrac{2}{9}$
 
 </div>
 </div>
@@ -2539,18 +2531,20 @@ $\dfrac {2} {9}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $=x$.
+<pre class='language-latex'><code class='language-latex'>Let the number $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-\dfrac {1} {2} \ \text {of} \ x &= \dfrac {1} {9} \\\\
-\dfrac {1} {2} \times x         &= \dfrac {1} {9} \\\\
-x                               &= \dfrac {1} {9} \times 2 \\\\
-x                               &= \dfrac {2} {9}
+\dfrac {1} {2} \ \text {of} \ a &= \dfrac {1} {9} \\\\
+\dfrac {1} {2} \times a         &= \dfrac {1} {9} \\\\
+a                               &= \dfrac {2} {9}
 \end{aligned}
 $
 
-$\dfrac{1}{9}$ is half of $\dfrac{2}{9}$
+
+Numbers $= \dfrac{2}{9}$
 </code></pre>
 </div>
 </div>
@@ -2570,84 +2564,39 @@ $\dfrac{1}{9}$ is half of $\dfrac{2}{9}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-part (a): dont convert into decimals instead make the denominator same for all the fractions and compare.
-
-Refer : 08B1E66C-FF3D-48A4-BFAF-45DB9CBFC815
-
-for working.
-
-in section.answer: 
-
-write both answer separately , for this refer :
-
-19818B2F-9086-4F00-9201-4F75D3C5194C
-
-
-
-part (b): 
-
-Step 1: add a \' before and after \"\text{of}\"
-
-add a Step 2: 1/9 x 100
-
-
-
-part (c):
-
-remove \"be\" from \"Let the number be\"
-
-remove Step 1
-
-step 2 : add a \' before and after \"\text {of}\"
-
-last step : write x in L.H.S. 
-
-
-
-add a last line outside katex :
-
-\"1/9 is half of 2/9\"
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' id='FORM-946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='946F4B92-263D-41EA-A4C5-DB28CEF5EF01' id='FORM-946F4B92-263D-41EA-A4C5-DB28CEF5EF01' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

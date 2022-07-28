@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-blocked"
 title: "TopicPaper - Fraction - 4 - BLOCKED"
-date: 2022-07-21 23:26:54
-questions_count: "7"
+date: 2022-07-28 17:51:11
+questions_count: "9"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1250,6 +1250,582 @@ TODOANSWER
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prg question'>
+<div class='uuid'>
+<p>84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78</p>
+</div>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:32</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prg</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78'>Initial</p>
+<div class='question question'>
+
+Emily carried a survey and asked her friends what their favourite flavour of crisps is. She drew a pie chart of her results
+
+%chart% 
+
+</div>
+
+
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of her friends liked cheese and onion the best?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction}     &= \dfrac {3} {12} \\\\
+                    &= \dfrac {3} {3 \times 4} \\\\
+                    &= \dfrac {\cancel{3}} {\cancel{3} \times 4} \\\\
+                    &= \dfrac {1} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {4}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Fraction}     &= \dfrac {3} {12} \\\\
+                    &= \dfrac {3} {3 \times 4} \\\\
+                    &= \dfrac {\cancel{3}} {\cancel{3} \times 4} \\\\
+                    &= \dfrac {1} {4}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {4}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+If $6$ of her friends liked prawn cocktail best, how many of her friends said salt and vinegar were their favourite flavour?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5 \times 3 \\\\
+&= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 5 \times 3 \\\\
+&= 15
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$15$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many of Emily’s friends took part in the survey?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12 \times 3 \\\\
+&= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 12 \times 3 \\\\
+&= 36
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$12$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>FE32E051-0F48-40A7-BF59-E3A509ED27DF</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:9</p>
+</div>
+<div class='rag'>
+<p>Mahesh Madiraju</p>
+</div>
+<div class='rag'>
+<p>rag_mm_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-FE32E051-0F48-40A7-BF59-E3A509ED27DF'>Initial</p>
+<div class='question question'>
+
+There are $6$ fangos in a rango and $15$ rangos in a bango.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Alex has $9$ rangos and $4$ fangos. Barbara has $7$ rangos and $3$ fangos. How many fangos do they both have in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total fangos} &= \text {Alex's fangos} + \text {Barbara's fangos} \\\\
+                     &= (9 \times 6 + 4) + (7 \times 6 + 3) \\\\
+                     &= (54 + 4) + (42 + 3) \\\\
+                     &= 58 + 45 \\\\
+                     &= 103 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$103$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Total fangos} &= \text {Alex's fangos} + \text {Barbara's fangos} \\\\
+                     &= (9 \times 6 + 4) + (7 \times 6 + 3) \\\\
+                     &= (54 + 4) + (42 + 3) \\\\
+                     &= 58 + 45 \\\\
+                     &= 103 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$103$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of a bango do $12$ fangos represent?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \ \text{bango} &= 15 \ \text{rangos} \\\\
+1 \ \text{bango} &= 15 \times 6 \ \text{fangos} \\\\
+1 \ \text{bango} &= 90 \ \text{fangos} \\\\
+\text{Fraction} &= \dfrac{12 \ \text{fangos}}{1 \ \text{bango}} \\\\
+&= \dfrac{12 \ \text{fangos}}{90 \ \text{fangos}} \\\\
+&= \dfrac{2 \times 6}{6 \times 15} \\\\
+&= \dfrac{2 \times \cancel 6}{\cancel 6 \times 15} \\\\
+&= \dfrac {2} {15} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {15}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+1 \ \text{bango} &= 15 \ \text{rangos} \\\\
+1 \ \text{bango} &= 15 \times 6 \ \text{fangos} \\\\
+1 \ \text{bango} &= 90 \ \text{fangos} \\\\
+\text{Fraction} &= \dfrac{12 \ \text{fangos}}{1 \ \text{bango}} \\\\
+&= \dfrac{12 \ \text{fangos}}{90 \ \text{fangos}} \\\\
+&= \dfrac{2 \times 6}{6 \times 15} \\\\
+&= \dfrac{2 \times \cancel 6}{\cancel 6 \times 15} \\\\
+&= \dfrac {2} {15} \\\\
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {15}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many whole bangos are there in $274$ fangos? How many fangos are left over?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {274} {90} \\\\
+&= 3 \ \text {remainder} \ 4 \\\\
+&\approx 3 \\\\
+\end{aligned}
+$
+
+$18$ whole bangos are there in $274$ fangos and $8$ fangos are left over.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18, 8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {274} {90} \\\\
+&= 3 \ \text {remainder} \ 4 \\\\
+&\approx 3 \\\\
+\end{aligned}
+$
+
+$18$ whole bangos are there in $274$ fangos and $8$ fangos are left over.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18, 8$
 </code></pre>
 </div>
 </div>

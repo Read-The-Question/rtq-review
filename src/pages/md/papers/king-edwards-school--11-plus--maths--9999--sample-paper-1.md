@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-21 23:20:38
+date: 2022-07-28 17:44:19
 questions_count: "14"
 ---
 <div class='paper'>
@@ -1943,7 +1943,7 @@ $
 # Section C
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>93596AA4-0BF2-47C9-9E88-D4F6D681CC5E</p>
 </div>
@@ -1954,10 +1954,10 @@ $
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2036,22 +2036,21 @@ What fraction of the **whole** figure is shaded?
 <div class='workings'>
 <div class='working'>
 
-Let area of one traingle be $=1$ unit.
+Let the area of one traingle $= a$
 
 $
 \begin{aligned}
-\text {Area of whole figure}    &= 1 + 1 - \dfrac {4} {9} \\\\
-                                &= 2 - \dfrac {4} {9} \\\\
-                                &= \dfrac {2 \times 9} {9} - \dfrac {4} {9} \\\\
-                                &= \dfrac {18} {9} - \dfrac {4} {9} \\\\
-                                &= \dfrac {18 - 4} {9} \\\\
-                                &= \dfrac {14} {9} \\\\
-\text {Fraction shaded}         &= \text {Shaded region} \div \text {Area of whole figure} \\\\
-                                &= \dfrac {4} {9} \div \dfrac {14} {9} \\\\
-                                &= \dfrac {4} {9} \times \dfrac {9} {14} \\\\
-                                &= \dfrac {4 \times 9} {9 \times 14} \\\\
-                                &= \dfrac {2 \times 2 \times 9} {9 \times 2 \times 7} \\\\
-                                &= \dfrac {\cancel{2} \times 2 \times \cancel{9}} {\cancel{9} \times \cancel{2} \times 7} \\\\
+\text {Area of the figure}      &= a + a - \dfrac {4} {9} \times a \\\\
+                                &= 2a - \dfrac {4a} {9} \\\\
+                                &= \dfrac {2a \times 9} {9} - \dfrac {4a} {9} \\\\
+                                &= \dfrac {18a} {9} - \dfrac {4a} {9} \\\\
+                                &= \dfrac {18a - 4a} {9} \\\\
+                                &= \dfrac {14a} {9} \\\\
+\text {Fraction shaded}         &= \dfrac {4a} {9} \div \dfrac {14a} {9} \\\\
+                                &= \dfrac {4a} {9} \times \dfrac {9} {14a} \\\\
+                                &= \dfrac {4a \times 9} {9 \times 14a} \\\\
+                                &= \dfrac {2 \times 2  \times a \times 9} {9 \times 2 \times 7 \times a } \\\\
+                                &= \dfrac {\cancel{2} \times 2 \times \cancel{a} \times \cancel{9}} {\cancel{9} \times \cancel{2} \times 7 \times \cancel{a} } \\\\
                                 &= \dfrac {2} {7}
 \end{aligned}
 $
@@ -2068,22 +2067,21 @@ $\dfrac {2} {7}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let area of one traingle be $=1$ unit.
+<pre class='language-latex'><code class='language-latex'>Let the area of one traingle $= a$
 
 $
 \begin{aligned}
-\text {Area of whole figure}    &= 1 + 1 - \dfrac {4} {9} \\\\
-                                &= 2 - \dfrac {4} {9} \\\\
-                                &= \dfrac {2 \times 9} {9} - \dfrac {4} {9} \\\\
-                                &= \dfrac {18} {9} - \dfrac {4} {9} \\\\
-                                &= \dfrac {18 - 4} {9} \\\\
-                                &= \dfrac {14} {9} \\\\
-\text {Fraction shaded}         &= \text {Shaded region} \div \text {Area of whole figure} \\\\
-                                &= \dfrac {4} {9} \div \dfrac {14} {9} \\\\
-                                &= \dfrac {4} {9} \times \dfrac {9} {14} \\\\
-                                &= \dfrac {4 \times 9} {9 \times 14} \\\\
-                                &= \dfrac {2 \times 2 \times 9} {9 \times 2 \times 7} \\\\
-                                &= \dfrac {\cancel{2} \times 2 \times \cancel{9}} {\cancel{9} \times \cancel{2} \times 7} \\\\
+\text {Area of the figure}      &= a + a - \dfrac {4} {9} \times a \\\\
+                                &= 2a - \dfrac {4a} {9} \\\\
+                                &= \dfrac {2a \times 9} {9} - \dfrac {4a} {9} \\\\
+                                &= \dfrac {18a} {9} - \dfrac {4a} {9} \\\\
+                                &= \dfrac {18a - 4a} {9} \\\\
+                                &= \dfrac {14a} {9} \\\\
+\text {Fraction shaded}         &= \dfrac {4a} {9} \div \dfrac {14a} {9} \\\\
+                                &= \dfrac {4a} {9} \times \dfrac {9} {14a} \\\\
+                                &= \dfrac {4a \times 9} {9 \times 14a} \\\\
+                                &= \dfrac {2 \times 2  \times a \times 9} {9 \times 2 \times 7 \times a } \\\\
+                                &= \dfrac {\cancel{2} \times 2 \times \cancel{a} \times \cancel{9}} {\cancel{9} \times \cancel{2} \times 7 \times \cancel{a} } \\\\
                                 &= \dfrac {2} {7}
 \end{aligned}
 $
@@ -2103,62 +2101,39 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-first katex : 
-
-a capital in \"area of whole figure\"
-
-second katex :
-
-Replace \"fraction\" with \"Fraction shaded\" : f capital
-
-s capital in \"shaded region\" , a capital in \"area of whole figure\"
-
-Note : Every First word first character must be in capital
-
-
-
-and use one katex (combine both katex)
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' id='FORM-93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' id='FORM-93596AA4-0BF2-47C9-9E88-D4F6D681CC5E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability-3"
 title: "TopicPaper - Probability - 3"
-date: 2022-07-21 23:26:54
+date: 2022-07-28 17:51:11
 questions_count: "6"
 ---
 <div class='paper'>

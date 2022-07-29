@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-28 22:13:11
+date: 2022-07-29 11:57:52
 questions_count: "23"
 ---
 <div class='paper'>
@@ -953,7 +953,7 @@ $64.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>9A21B777-4815-48B4-8EBE-0799D0C7C977</p>
 </div>
@@ -964,10 +964,10 @@ $64.9$
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_oldpr</p>
+<p>rag_da_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1143,11 +1143,8 @@ Goodison Park is a further $1200\,m$ from my house. How many **kilometres** is G
 $
 \begin{aligned}
 &= 1200 \ \text{metres} \\\\
-&= 1200\times\dfrac {1}{1000}\ \text{km} \\\\
-&=dfrac{1200}{1000}\\\\
-&= \dfrac {12 \cancel{00} } {10 \cancel{00} } \\\\
-&= \dfrac {12} {10} \\\\
-&= 1.2 \ \text{km}
+&= \dfrac{1200}{1000}  \ \text{kilometres} \\\\
+&= 1.2 \ \text{kilometres}
 \end{aligned}
 $
 
@@ -1166,11 +1163,8 @@ $1.2 \ \text{km}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 1200 \ \text{metres} \\\\
-&= 1200\times\dfrac {1}{1000}\ \text{km} \\\\
-&=dfrac{1200}{1000}\\\\
-&= \dfrac {12 \cancel{00} } {10 \cancel{00} } \\\\
-&= \dfrac {12} {10} \\\\
-&= 1.2 \ \text{km}
+&= \dfrac{1200}{1000}  \ \text{kilometres} \\\\
+&= 1.2 \ \text{kilometres}
 \end{aligned}
 $
 </code></pre>
@@ -1203,13 +1197,11 @@ A kilometre is $\dfrac {5} {8}$  of a mile. How many miles away from Goodison Pa
 
 $
 \begin{aligned}
-1 km              &=  \dfrac {5} {8} mile \\\\
-1 \times 1.2 km   &=  \dfrac {5} {8} \times 1.2 \ \text{km} \\\\
-                  &=  \dfrac {5 \times 1.2} {8} \\\\
-                  &=  \dfrac {5 \times 0.6 \times 2} {2 \times 4} \\\\
-                  &=  \dfrac {5 \times 0.6 \times \cancel{2}} {\cancel{2} \times 4} \\\\
-                  &=  \dfrac {3} {4} \\\\
-                  &=  0.75 \ \text{miles}
+\text{Distance}     &= 1.2 \ \text{km} \\\\
+                    &= 1.2 \times \dfrac {5} {8} \ \text{mile} \\\\
+                    &= \dfrac {5 \times 1.2} {8} \\\\
+                    &= \dfrac {6} {8} \\\\
+                    &= 0.75 \ \text{miles}
 \end{aligned}
 $
 
@@ -1227,13 +1219,11 @@ $0.75 \ \text{miles}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 km              &=  \dfrac {5} {8} mile \\\\
-1 \times 1.2 km   &=  \dfrac {5} {8} \times 1.2 \ \text{km} \\\\
-                  &=  \dfrac {5 \times 1.2} {8} \\\\
-                  &=  \dfrac {5 \times 0.6 \times 2} {2 \times 4} \\\\
-                  &=  \dfrac {5 \times 0.6 \times \cancel{2}} {\cancel{2} \times 4} \\\\
-                  &=  \dfrac {3} {4} \\\\
-                  &=  0.75 \ \text{miles}
+\text{Distance}     &= 1.2 \ \text{km} \\\\
+                    &= 1.2 \times \dfrac {5} {8} \ \text{mile} \\\\
+                    &= \dfrac {5 \times 1.2} {8} \\\\
+                    &= \dfrac {6} {8} \\\\
+                    &= 0.75 \ \text{miles}
 \end{aligned}
 $
 </code></pre>
@@ -1255,52 +1245,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Refer to the corrections done in similar question in previous paper. 
-
-for Part c (extra) As per the question,
-
-1 km = ...mile
-
-1 x 1.2 km = ....  x 1.2.. solve further as you did.
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' id='FORM-9A21B777-4815-48B4-8EBE-0799D0C7C977' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='9A21B777-4815-48B4-8EBE-0799D0C7C977' id='FORM-9A21B777-4815-48B4-8EBE-0799D0C7C977' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

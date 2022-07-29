@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-07-28 22:13:11
+date: 2022-07-29 11:57:52
 questions_count: "17"
 ---
 <div class='paper'>
@@ -4555,7 +4555,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>9BEAAA43-A79C-4097-81BF-27BD5C510042</p>
 </div>
@@ -4569,7 +4569,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5019,6 +5019,35 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+b: first calculate time for travel and then use that (within the same begin aligned), ask if not clear
+
+
+
+c: add am
+
+
+
+d: add am
+
+
+
+e: space missing before 47 in s2
+
+
+
+e: should it not one more 10 minutes (for the morning time)?
+
+
+
+f: is the calculation right? not accounted for 1/10 increase too
+</div>
 
 <div class='review'>
 <ul class='review'>

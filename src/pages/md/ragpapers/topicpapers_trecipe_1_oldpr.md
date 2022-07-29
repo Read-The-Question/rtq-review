@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-trecipe-1-oldpr"
 title: "TopicPaper - Recipe - 1 - OLDPR"
-date: 2022-07-28 22:19:26
+date: 2022-07-29 12:03:07
 questions_count: "2"
 ---
 <ul class='question default-decimal'>

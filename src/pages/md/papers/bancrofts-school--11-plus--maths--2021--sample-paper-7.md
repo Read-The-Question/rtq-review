@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-07-28 22:13:11
+date: 2022-07-29 11:57:52
 questions_count: "38"
 ---
 <div class='paper'>
@@ -1240,7 +1240,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>654FC6F2-DF8B-40E0-8729-7984D08B8A1D</p>
 </div>
@@ -1251,10 +1251,10 @@ TODOANSWER
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_pr</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1460,12 +1460,12 @@ During the $12$ weeks of term, how many days did he arrive late?
 <div class='workings'>
 <div class='working'>
 
-Number of days that have 's' in their name $= 3$
 
 $
 \begin{aligned}
-\text {Number of days he arrive late } &= 12 \times 3 \\\\
-                                       &=36
+\text{Count of days that have 's'}  &= 3 \\\\
+\text {Days he arrive late }        &= 12 \times 3 \\\\
+                                    &= 36
 \end{aligned}
 $
 
@@ -1482,12 +1482,12 @@ $36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Number of days that have 's' in their name $= 3$
-
+<pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text {Number of days he arrive late } &= 12 \times 3 \\\\
-                                       &=36
+\text{Count of days that have 's'}  &= 3 \\\\
+\text {Days he arrive late }        &= 12 \times 3 \\\\
+                                    &= 36
 \end{aligned}
 $
 
@@ -1522,25 +1522,23 @@ How much money does he have left?
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin {aligned}
-\text {Money spent} &= 25 \% \ \text {of } \pounds 120 +  10 \% \ \text {of } \pounds (120 - 25 \% \ \text {of } \pounds 120) \\\\
-                    &= \dfrac {25} {100} \times 120 + \dfrac {10} {100} \times (120 - \dfrac {25} {100} \times 120)\\\\
-                    &= \dfrac {25 \times 120} {100} + \dfrac {10} {10 \times 10} \times (120 - \dfrac {25 \times 120} {100}) \\\\
-                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} + \dfrac {\cancel 10} {\cancel 10 \times 10} \times (120 - \dfrac {25 \times 30 \times 4} {25 \times 4} ) \\\\
-                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} + \dfrac {1} {10} \times (120 - \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4}) \\\\
-                    &= 30 + \dfrac {1} {10} \times  (120 - 30) \\\\
-                    &= 30 + \dfrac {1} {10} \times 80  \\\\
-                    &= 30 + \dfrac {8 \times 10} {10}  \\\\
-                    &= 30 + \dfrac {8 \times \cancel {10}} {\cancel {10}}  \\\\
-                    &= 30 + 8 \\\\
-                    &= 38 \\\\
-\text {Money left}  &= 120 - 38 \\\\
-                    &= \pounds 72
+\text {Money spent on Xbox} &= 25 \% \ \text {of } 120 \\\\
+                            &= \dfrac {25} {100} \times 120 \\\\
+                            &= \dfrac {25 \times 120} {100} \\\\
+                            &= \dfrac {25 \times 30 \times 4} {25 \times 4} \\\\
+                            &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} \\\\
+                            &= \pounds  30 \\\\
+\text {Money spent on DVD}  &= 10 \% \ \text {of } (120 - 90) \\\\
+                            &= \dfrac {10} {100} \times 90 \\\\
+                            &= \dfrac {10 \times 90} {100} \\\\
+                            &= \dfrac {1\cancel{0} \times 9\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+                            &= \pounds 9 \\\\
+\text {Money left}          &= 120 - 30 - 9 \\\\
+                            &= \pounds 71
 \end {aligned}
 $
-
 
 </div>
 </div>
@@ -1554,25 +1552,23 @@ $\pounds 72$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {Money spent} &= 25 \% \ \text {of } \pounds 120 +  10 \% \ \text {of } \pounds (120 - 25 \% \ \text {of } \pounds 120) \\\\
-                    &= \dfrac {25} {100} \times 120 + \dfrac {10} {100} \times (120 - \dfrac {25} {100} \times 120)\\\\
-                    &= \dfrac {25 \times 120} {100} + \dfrac {10} {10 \times 10} \times (120 - \dfrac {25 \times 120} {100}) \\\\
-                    &= \dfrac {25 \times 30 \times 4} {25 \times 4} + \dfrac {\cancel 10} {\cancel 10 \times 10} \times (120 - \dfrac {25 \times 30 \times 4} {25 \times 4} ) \\\\
-                    &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} + \dfrac {1} {10} \times (120 - \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4}) \\\\
-                    &= 30 + \dfrac {1} {10} \times  (120 - 30) \\\\
-                    &= 30 + \dfrac {1} {10} \times 80  \\\\
-                    &= 30 + \dfrac {8 \times 10} {10}  \\\\
-                    &= 30 + \dfrac {8 \times \cancel {10}} {\cancel {10}}  \\\\
-                    &= 30 + 8 \\\\
-                    &= 38 \\\\
-\text {Money left}  &= 120 - 38 \\\\
-                    &= \pounds 72
+\text {Money spent on Xbox} &= 25 \% \ \text {of } 120 \\\\
+                            &= \dfrac {25} {100} \times 120 \\\\
+                            &= \dfrac {25 \times 120} {100} \\\\
+                            &= \dfrac {25 \times 30 \times 4} {25 \times 4} \\\\
+                            &= \dfrac { \cancel 25 \times 30 \times \cancel 4} {\cancel 25 \times \cancel 4} \\\\
+                            &= \pounds  30 \\\\
+\text {Money spent on DVD}  &= 10 \% \ \text {of } (120 - 90) \\\\
+                            &= \dfrac {10} {100} \times 90 \\\\
+                            &= \dfrac {10 \times 90} {100} \\\\
+                            &= \dfrac {1\cancel{0} \times 9\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+                            &= \pounds 9 \\\\
+\text {Money left}          &= 120 - 30 - 9 \\\\
+                            &= \pounds 71
 \end {aligned}
 $
-
 </code></pre>
 </div>
 </div>
@@ -1592,76 +1588,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-part (a) : replace step 2 :
-
-&= 14 \ \text {remainder} \ 7
-
-replace step 3 :
-
-&\approx 15
-
-
-
-part (b) : write \"= 3\" inside $$
-
-
-
-part (c) : remove line 1 and line 2
-
-remove both katex 
-
-replace with :
-
-Money spent = 25% of £120 + 10% of £(120 − (25% of £120))
-
-and solve further
-
-in the same katex add another line : 
-
-Money left = 120 - ...
-
- and solve further
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' id='FORM-654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='654FC6F2-DF8B-40E0-8729-7984D08B8A1D' id='FORM-654FC6F2-DF8B-40E0-8729-7984D08B8A1D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -8178,7 +8137,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g1 rag_prpcr question'>
 <div class='uuid'>
 <p>257E214E-1AF1-4AA0-BA88-C9EF4A5F41A8</p>
 </div>
@@ -8192,7 +8151,7 @@ TODOANSWER
 <p>rag_ss_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>

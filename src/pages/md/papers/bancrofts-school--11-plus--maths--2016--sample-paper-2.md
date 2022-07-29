@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-07-28 22:13:11
+date: 2022-07-29 11:57:52
 questions_count: "37"
 ---
 <div class='paper'>
@@ -2051,7 +2051,7 @@ Number of peanuts left in the morning $= 12$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>36053732-A8EE-4973-8B6C-1D0E4290AC4D</p>
 </div>
@@ -2062,10 +2062,10 @@ Number of peanuts left in the morning $= 12$.
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2147,7 +2147,7 @@ How long (in hours and minutes) did he send on his Xbox on Saturday?
 <div class='workings'>
 <div class='working'>
 
-Let the time spend playing on each weekday be $= a$
+Let the time spent playing each weekday $= a$
 
 Time spent playing on weekend $= 2a$
 
@@ -2161,13 +2161,17 @@ $
 a                                &= \dfrac {12} {9} \\\\
 a                                &= \dfrac {3 \times 4} {3 \times 3} \\\\
 a                                &= \dfrac {\cancel{3} \times 4} {\cancel{3} \times 3} \\\\
-a                                &= \dfrac {4} {3} \\\\
-a                                &= 1 \dfrac {1} {3} \ \text {hours} \\\\
-a                                &= 1 \ \text {hour} \ \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
-a                                &= 1 \ \text {hour} \ \dfrac {60} {3} \ \text {minutes} \\\\
-a                                &= 1 \ \text {hour} \ \dfrac {3 \times 20} {3} \ \text {minutes} \\\\
-a                                &= 1 \ \text {hour} \ \dfrac {\cancel{3} \times 20} {\cancel{3}} \ \text {minutes} \\\\
-a                                &= 1 \ \text {hour} \ \ 20 \ \text {minutes}
+a                                &= \dfrac {4} {3} \ \text {hours}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Time spent on saturday}    &= 2a  \\\\
+                                 &= 2 \times \dfrac {4} {3} \\\\
+                                 &= \dfrac {8} {3} \\\\
+                                 &= 2 \dfrac {2} {3} \ \text {hours} \\\\
+                                 &= 2 \ \text {hours } 40 \ \text {minutes}
 \end{aligned}
 $
 
@@ -2176,14 +2180,14 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \ \text {hour} \ \ 20 \ \text {minutes}$
+$2 \ \text {hours } 40 \ \text {minutes}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the time spend playing on each weekday be $= a$
+<pre class='language-latex'><code class='language-latex'>Let the time spent playing each weekday $= a$
 
 Time spent playing on weekend $= 2a$
 
@@ -2197,13 +2201,17 @@ $
 a                                &= \dfrac {12} {9} \\\\
 a                                &= \dfrac {3 \times 4} {3 \times 3} \\\\
 a                                &= \dfrac {\cancel{3} \times 4} {\cancel{3} \times 3} \\\\
-a                                &= \dfrac {4} {3} \\\\
-a                                &= 1 \dfrac {1} {3} \ \text {hours} \\\\
-a                                &= 1 \ \text {hour} \ \dfrac {1} {3} \times 60 \ \text {minutes} \\\\
-a                                &= 1 \ \text {hour} \ \dfrac {60} {3} \ \text {minutes} \\\\
-a                                &= 1 \ \text {hour} \ \dfrac {3 \times 20} {3} \ \text {minutes} \\\\
-a                                &= 1 \ \text {hour} \ \dfrac {\cancel{3} \times 20} {\cancel{3}} \ \text {minutes} \\\\
-a                                &= 1 \ \text {hour} \ \ 20 \ \text {minutes}
+a                                &= \dfrac {4} {3} \ \text {hours}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Time spent on saturday}    &= 2a  \\\\
+                                 &= 2 \times \dfrac {4} {3} \\\\
+                                 &= \dfrac {8} {3} \\\\
+                                 &= 2 \dfrac {2} {3} \ \text {hours} \\\\
+                                 &= 2 \ \text {hours } 40 \ \text {minutes}
 \end{aligned}
 $
 </code></pre>
@@ -2217,73 +2225,44 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1 \ \text {hour} \ \ 20 \ \text {minutes}$
+<pre class='language-latex'><code class='language-latex'>$2 \ \text {hours } 40 \ \text {minutes}$
 </code></pre>
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-replace first line : 
-
-\"Let the time spent playing on each weekday = a\"
-
-(**dont use x read coding guidelines) 
-
-add a 2nd line outside katex:
-
-\"Time spent playing on weekend = 2a\"
-
-add a 3rd line : \"As per the question,\"
-
-
-
-step 1 : replace L.H.S with : \"5 \times a + 2 \times 2a\"
-
-remove hours from first step
-
-step 2 : dont write 5 x a or 4 x a just write 5a  or 4a 
-
-same for step 3 : 9a
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' id='FORM-36053732-A8EE-4973-8B6C-1D0E4290AC4D' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='36053732-A8EE-4973-8B6C-1D0E4290AC4D' id='FORM-36053732-A8EE-4973-8B6C-1D0E4290AC4D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

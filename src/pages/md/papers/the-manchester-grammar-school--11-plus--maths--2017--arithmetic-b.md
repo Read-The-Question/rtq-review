@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B"
-date: 2022-07-28 22:13:11
+date: 2022-07-29 11:57:52
 questions_count: "11"
 ---
 <div class='paper'>
@@ -14,7 +14,7 @@ questions_count: "11"
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4</p>
 </div>
@@ -25,10 +25,10 @@ questions_count: "11"
 <p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g0</p>
+<p>rag_mm_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -123,12 +123,9 @@ $17 \times 18 \times 38 =$
 
 $
 \begin{aligned}
-&=17 \times 18 \times 38 \\\\
-&=\dfrac{5814}{19} \times 38 \\\\
-&=\dfrac{5814\times38}{19}\\\\
-&=\dfrac{5814\times19\times2}{19}\\\\
-&=\dfrac{5814\times\cancel{19}\times2}{\cancel{19}}\\\\
-&=5814\times2 \\\\
+&= 17 \times 18 \times 38 \\\\
+&= 17 \times 18 \times 19 \times 2 \\\\
+&= 5814 \times2 \\\\
 &= 11628
 \end{aligned}
 $
@@ -147,12 +144,9 @@ $11628$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=17 \times 18 \times 38 \\\\
-&=\dfrac{5814}{19} \times 38 \\\\
-&=\dfrac{5814\times38}{19}\\\\
-&=\dfrac{5814\times19\times2}{19}\\\\
-&=\dfrac{5814\times\cancel{19}\times2}{\cancel{19}}\\\\
-&=5814\times2 \\\\
+&= 17 \times 18 \times 38 \\\\
+&= 17 \times 18 \times 19 \times 2 \\\\
+&= 5814 \times2 \\\\
 &= 11628
 \end{aligned}
 $
@@ -186,12 +180,10 @@ $9 \times 19 \times 34 =$
 
 $
 \begin{aligned}
-&=9 \times 19 \times 34 \\\\
-&=9 \times 19 \times 17\times 2 \\\\
-&=9\times\dfrac{5814}{18}\times2 \\\\
-&=\dfrac{9\times5814\times2}{18}\\\\
-&=\dfrac{9\times5814\times2}{9\times2}\\\\
-&=\dfrac{\cancel9\times5814\times\cancel2}{\cancel9\times\cancel2}\\\\
+&= 9 \times 19 \times 34 \\\\
+&= 9 \times 19 \times 17 \times 2 \\\\
+&= 17 \times 9 \times 2 \times 19 \\\\
+&= 17 \times 18 \times 19 \\\\
 &= 5814
 \end{aligned}
 $
@@ -211,12 +203,10 @@ $5814$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=9 \times 19 \times 34 \\\\
-&=9 \times 19 \times 17\times 2 \\\\
-&=9\times\dfrac{5814}{18}\times2 \\\\
-&=\dfrac{9\times5814\times2}{18}\\\\
-&=\dfrac{9\times5814\times2}{9\times2}\\\\
-&=\dfrac{\cancel9\times5814\times\cancel2}{\cancel9\times\cancel2}\\\\
+&= 9 \times 19 \times 34 \\\\
+&= 9 \times 19 \times 17 \times 2 \\\\
+&= 17 \times 9 \times 2 \times 19 \\\\
+&= 17 \times 18 \times 19 \\\\
 &= 5814
 \end{aligned}
 $
@@ -312,7 +302,7 @@ $
 \begin{aligned}
 &=5814 \div 51 \div 38\\\\
 &=\dfrac{5814}{51\times38}\\\\
-&=\dfrac{17\times18\times19}{3\times17\times2\times19} \\\\
+&=\dfrac{17\times18\times19}{51\times38} \\\\
 &=\dfrac{17\times3\times3\times2\times19}{3\times17\times2\times19} \\\\
 &=\dfrac{\cancel{17}\times\cancel{3}\times3\times\cancel{2}\times\cancel{19}}{\cancel{3}\times\cancel{17}\times\cancel{2}\times\cancel{19}} \\\\
 &=3
@@ -335,7 +325,7 @@ $3$
 \begin{aligned}
 &=5814 \div 51 \div 38\\\\
 &=\dfrac{5814}{51\times38}\\\\
-&=\dfrac{17\times18\times19}{3\times17\times2\times19} \\\\
+&=\dfrac{17\times18\times19}{51\times38} \\\\
 &=\dfrac{17\times3\times3\times2\times19}{3\times17\times2\times19} \\\\
 &=\dfrac{\cancel{17}\times\cancel{3}\times3\times\cancel{2}\times\cancel{19}}{\cancel{3}\times\cancel{17}\times\cancel{2}\times\cancel{19}} \\\\
 &=3
@@ -364,35 +354,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' id='FORM-FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' id='FORM-FEC7EFA9-AEE9-4E4E-B8B8-3FD0CD75A9F4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1015,7 +1005,7 @@ Esthopia won 10 medals each of Gold, Silver and Bronze.
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tinfer
 </li>
 </ul>
 </div>

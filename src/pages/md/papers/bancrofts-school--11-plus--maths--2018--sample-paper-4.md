@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-07-28 22:13:11
+date: 2022-07-29 11:57:52
 questions_count: "37"
 ---
 <div class='paper'>
@@ -4475,7 +4475,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B88B1815-76F6-4987-A529-A31EC2A3A231</p>
 </div>
@@ -4486,10 +4486,10 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_pr</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4566,36 +4566,21 @@ ttime
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4607,17 +4592,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -4638,8 +4613,8 @@ At what time will it be cooked?
 
 $
 \begin{aligned}
-&= 11{:}40 \ \text{am} + 1 \ \text{hours } 45 \ \text{minutes} \\\\
-&= 1{:}25 \ \text{pm} 
+\text{Time} &= 11{:}40 \ \text{am} + 1 \ \text{hours } 45 \ \text{minutes} \\\\
+            &= 1{:}25 \ \text{pm} 
 \end{aligned}
 $
 
@@ -4651,19 +4626,14 @@ $
 $1{:}25 \ \text{pm}$ 
 
 </div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 11{:}40 \ \text{am} + 1 \ \text{hours } 45 \ \text{minutes} \\\\
-&= 1{:}25 \ \text{pm} 
+\text{Time} &= 11{:}40 \ \text{am} + 1 \ \text{hours } 45 \ \text{minutes} \\\\
+            &= 1{:}25 \ \text{pm} 
 \end{aligned}
 $
 </code></pre>
@@ -4680,16 +4650,6 @@ $
 <pre class='language-latex'><code class='language-latex'>$1{:}25 \ \text{pm}$ 
 </code></pre>
 </div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 </div>
 
 </div>
@@ -4703,7 +4663,6 @@ How many minutes are there from $11.11$ util $23.23$ on the same day?
 </div>
 <div class='workings'>
 <div class='working'>
-
 
 $
 \begin{aligned}
@@ -4727,8 +4686,7 @@ $732 \text { minutes}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 23{:}23 - 11{:}11 \\\\
 &= 12 \text{ hours} \ 12 \text{ minutes} \\\\
@@ -4770,12 +4728,12 @@ What age will he be on his next birthday?
 
 $
 \begin{aligned}
-\text {Archie's current age}              &= 20 \text{ years} \ 20 \text{ months}  \ 20 \text{ weeks} \ 20 \text{ days} \\\\
-                                          &= 20 \text{ years} \ 20 \text{ months} \ 22 \text{ weeks} \ 6 \text{ days} \\\\
-                                          &= 20 \text{ years} \ 25 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
-                                          &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
-\text {Archie's age on his next birthday} &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} + 1 \text{ year} \\\\
-                                          &= 23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} 
+\text {Archie's current age}              &= 20 \text{ years} + 20 \text{ months} + 20 \text{ weeks} + 20 \text{ days} \\\\
+                                          &= 20 \text{ years} + 20 \text{ months} + 22 \text{ weeks} + 6  \text{ days} \\\\
+                                          &= 20 \text{ years} + 25 \text{ months} + 2  \text{ weeks} + 6  \text{ days} \\\\
+                                          &= 22 \text{ years}, 1 \text{ month}, 2 \text{ weeks}, 6 \text{ days} \\\\
+\text {Archie's age on his next birthday} &= 22 \text{ years}, 1 \text{ month}, 2 \text{ weeks}, 6 \text{ days} + 1 \text{ year} \\\\
+                                          &= 23 \text{ years}, 1 \text{ month}, 2 \text{ weeks}, 6 \text{ days} 
 \end{aligned}
 $
 
@@ -4784,7 +4742,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} $
+$23 \text{ years}, 1 \text{ month}, 2 \text{ weeks}, 6 \text{ days}$
 
 </div>
 </div>
@@ -4794,12 +4752,12 @@ $23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} $
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
-\text {Archie's current age}              &= 20 \text{ years} \ 20 \text{ months}  \ 20 \text{ weeks} \ 20 \text{ days} \\\\
-                                          &= 20 \text{ years} \ 20 \text{ months} \ 22 \text{ weeks} \ 6 \text{ days} \\\\
-                                          &= 20 \text{ years} \ 25 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
-                                          &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} \\\\
-\text {Archie's age on his next birthday} &= 22 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} + 1 \text{ year} \\\\
-                                          &= 23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} 
+\text {Archie's current age}              &= 20 \text{ years} + 20 \text{ months} + 20 \text{ weeks} + 20 \text{ days} \\\\
+                                          &= 20 \text{ years} + 20 \text{ months} + 22 \text{ weeks} + 6  \text{ days} \\\\
+                                          &= 20 \text{ years} + 25 \text{ months} + 2  \text{ weeks} + 6  \text{ days} \\\\
+                                          &= 22 \text{ years}, 1 \text{ month}, 2 \text{ weeks}, 6 \text{ days} \\\\
+\text {Archie's age on his next birthday} &= 22 \text{ years}, 1 \text{ month}, 2 \text{ weeks}, 6 \text{ days} + 1 \text{ year} \\\\
+                                          &= 23 \text{ years}, 1 \text{ month}, 2 \text{ weeks}, 6 \text{ days} 
 \end{aligned}
 $
 </code></pre>
@@ -4813,7 +4771,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$23 \text{ years} \ 1 \text{ months} \ 2 \text{ weeks} \ 6 \text{ days} $
+<pre class='language-latex'><code class='language-latex'>$23 \text{ years}, 1 \text{ month}, 2 \text{ weeks}, 6 \text{ days}$
 </code></pre>
 </div>
 </div>
@@ -4832,17 +4790,14 @@ On what date will the baby be $400$ days old?
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-&= 1 \text{st February } 2017 + 400 \ \text{ days} \\\\
-&= 1 \text{st February } 2017 + 365 \ \text{ days} + 28 \ \text{ days} + 7 \ \text{ days}  \\\\
-&= 1 \text{st February } 2017 + 1 \  \text{year} + 1 \ \text{month} + 7 \ \text{ days}  \\\\
-&= 8 \text{th March } 2018
+\text{Date}     &= 1 \text{st February } 2017 + 400 \ \text{ days} \\\\
+                &= 1 \text{st February } 2017 + 365 \ \text{ days} + 28 \ \text{ days} + 7 \ \text{ days}  \\\\
+                &= 1 \text{st February } 2017 + 1 \  \text{year} + 1 \ \text{month} + 7 \ \text{ days}  \\\\
+                &= 8 \text{th March } 2018
 \end{aligned}
-$ 
-
-
+$
 
 </div>
 </div>
@@ -4856,17 +4811,14 @@ $8 \text{th March } 2018$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 1 \text{st February } 2017 + 400 \ \text{ days} \\\\
-&= 1 \text{st February } 2017 + 365 \ \text{ days} + 28 \ \text{ days} + 7 \ \text{ days}  \\\\
-&= 1 \text{st February } 2017 + 1 \  \text{year} + 1 \ \text{month} + 7 \ \text{ days}  \\\\
-&= 8 \text{th March } 2018
+\text{Date}     &= 1 \text{st February } 2017 + 400 \ \text{ days} \\\\
+                &= 1 \text{st February } 2017 + 365 \ \text{ days} + 28 \ \text{ days} + 7 \ \text{ days}  \\\\
+                &= 1 \text{st February } 2017 + 1 \  \text{year} + 1 \ \text{month} + 7 \ \text{ days}  \\\\
+                &= 8 \text{th March } 2018
 \end{aligned}
-$ 
-
-
+$
 </code></pre>
 </div>
 </div>
@@ -4886,78 +4838,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-part (b) : remove line 1 and line 2
-
-remove step 2
-
-step 3 : add a \' between hours and 12
-
-step 5 : add one more \' in the end of the line
-
-part (c) : remove line 1
-
-you forgot weeks solve again, 
-
-try solving from right side: first convert days to weeks , then weeks to months , then months to years,
-
-dont use commas just use space instead
-
-dont use 2 katex , combine both katex
-
-his age on next birthday will be not + 1 year
-
-
-
-part (d) : reomve line 1
-
-add a step 2 :
-
-1st .... + 365 days + 28 days + 7 days
-
-step 3 : 
-
-1st..... + 1 year + 1 month + 7 days
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' id='FORM-B88B1815-76F6-4987-A529-A31EC2A3A231' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='B88B1815-76F6-4987-A529-A31EC2A3A231' id='FORM-B88B1815-76F6-4987-A529-A31EC2A3A231' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

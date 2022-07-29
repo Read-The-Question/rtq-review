@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-g2"
 title: "TopicPaper - Sequence - 1 - G2"
-date: 2022-07-28 22:19:26
+date: 2022-07-29 12:03:07
 questions_count: "8"
 ---
 <ul class='question default-decimal'>

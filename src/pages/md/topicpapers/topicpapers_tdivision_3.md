@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdivision-3"
 title: "TopicPaper - Division - 3"
-date: 2022-07-28 22:19:26
+date: 2022-07-29 12:03:07
 questions_count: "26"
 ---
 <div class='paper'>

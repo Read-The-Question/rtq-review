@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-1"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-07-28 22:13:11
+date: 2022-07-29 11:57:52
 questions_count: "21"
 ---
 <div class='paper'>
@@ -4749,7 +4749,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>912EEF9E-A307-43EB-9A90-8C39BBD20ABB</p>
 </div>
@@ -4763,7 +4763,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5052,6 +5052,10 @@ Tuesday
 
 
 part (c) : answer wrong : must be 2000
+
+
+
+write approx question using \approx, search for \approx to find sample answers
 </div>
 
 <div class='review'>

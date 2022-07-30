@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-1"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "26"
 ---
 <div class='paper'>
@@ -5647,7 +5647,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>1DCA5CF8-602D-4B6F-B7A6-AD5141CE338F</p>
 </div>
@@ -5661,7 +5661,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5787,6 +5787,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+drop s2
+</div>
 
 <div class='review'>
 <ul class='review'>

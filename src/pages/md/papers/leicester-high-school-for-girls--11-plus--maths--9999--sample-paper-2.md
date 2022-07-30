@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "20"
 ---
 <div class='paper'>
@@ -5242,7 +5242,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>50A8111D-2155-47C7-AF9B-5D5BCAD56C7E</p>
 </div>
@@ -5256,7 +5256,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5567,6 +5567,23 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+remove extra workings / answers
+
+
+
+a: fix space around text
+
+
+
+a: drop 01:05 for train 2 . do not write hours and minutes like that 
+</div>
 
 <div class='review'>
 <ul class='review'>

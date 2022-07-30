@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "32"
 ---
 <div class='paper'>
@@ -1906,7 +1906,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>A20253DA-6F06-46F2-A737-C228987D5A92</p>
 </div>
@@ -1920,7 +1920,7 @@ TODOANSWER
 <p>rag_wf_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2042,6 +2042,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+change lhs to \"Latest time\", use {:} instead of :
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "18"
 ---
 <div class='paper'>
@@ -2346,7 +2346,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C4BDB22C-A0D6-415B-B9A9-0956601BABF2</p>
 </div>
@@ -2357,7 +2357,7 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_pr</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2443,36 +2443,21 @@ The table shows part of the railway timetable from Edinburgh to St Andrews. Some
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2484,17 +2469,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -2564,39 +2539,20 @@ Complete the times in the boxes in the table above for the stopping train that l
 
 $
 \begin{aligned}
-\text{Arrival time at Haymarket}   &= 15{:}34 + ( 14{:}06 - 13{:}43 ) \\\\
-                                   &= 15{:}34 + 00{:}23 \\\\
-                                   &= 15{:}57
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Arrival time at Kircaldy}   &= 15{:}34 + ( 14{:}18 - 13{:}43 ) \\\\
-                                  &= 15{:}34 + 00{:}35 \\\\
-                                  &= 16{:}09
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Arrival time at Ladybank}    &= 15{:}34 + ( 14{:}23 - 13{:}43 ) \\\\
-                                   &= 15{:}34 + 00{:}40 \\\\
-                                   &= 16{:}14
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Arrival time at st Andrews}   &= 15{:}34 + ( 14{:}38 - 13{:}43 ) \\\\
-                                    &= 15{:}34 + 00{:}55 \\\\
+\text{Arrival time at Haymarket}    &= 15{:}34 + ( 14{:}06 - 13{:}43 ) \\\\
+                                    &= 15{:}34 + 23 \text{ minutes} \\\\
+                                    &= 15{:}57 \\\\
+\text{Arrival time at Kircaldy}     &= 15{:}34 + ( 14{:}18 - 13{:}43 ) \\\\
+                                    &= 15{:}34 + 35 \text{ minutes} \\\\
+                                    &= 16{:}09 \\\\
+\text{Arrival time at Ladybank}     &= 15{:}34 + ( 14{:}23 - 13{:}43 ) \\\\
+                                    &= 15{:}34 + 40 \text{ minutes} \\\\
+                                    &= 16{:}14 \\\\
+\text{Arrival time at St Andrews}   &= 15{:}34 + ( 14{:}38 - 13{:}43 ) \\\\
+                                    &= 15{:}34 + 55 \text{ minutes} \\\\
                                     &= 16{:}29
 \end{aligned}
 $
-
-
-$ 15{:}57 , 16{:}09 , 16{:}14, 16{:}29 $
-
 
 </div>
 </div>
@@ -2612,39 +2568,20 @@ $ 15{:}57 , 16{:}09 , 16{:}14, 16{:}29 $
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Arrival time at Haymarket}   &= 15{:}34 + ( 14{:}06 - 13{:}43 ) \\\\
-                                   &= 15{:}34 + 00{:}23 \\\\
-                                   &= 15{:}57
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Arrival time at Kircaldy}   &= 15{:}34 + ( 14{:}18 - 13{:}43 ) \\\\
-                                  &= 15{:}34 + 00{:}35 \\\\
-                                  &= 16{:}09
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Arrival time at Ladybank}    &= 15{:}34 + ( 14{:}23 - 13{:}43 ) \\\\
-                                   &= 15{:}34 + 00{:}40 \\\\
-                                   &= 16{:}14
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Arrival time at st Andrews}   &= 15{:}34 + ( 14{:}38 - 13{:}43 ) \\\\
-                                    &= 15{:}34 + 00{:}55 \\\\
+\text{Arrival time at Haymarket}    &= 15{:}34 + ( 14{:}06 - 13{:}43 ) \\\\
+                                    &= 15{:}34 + 23 \text{ minutes} \\\\
+                                    &= 15{:}57 \\\\
+\text{Arrival time at Kircaldy}     &= 15{:}34 + ( 14{:}18 - 13{:}43 ) \\\\
+                                    &= 15{:}34 + 35 \text{ minutes} \\\\
+                                    &= 16{:}09 \\\\
+\text{Arrival time at Ladybank}     &= 15{:}34 + ( 14{:}23 - 13{:}43 ) \\\\
+                                    &= 15{:}34 + 40 \text{ minutes} \\\\
+                                    &= 16{:}14 \\\\
+\text{Arrival time at St Andrews}   &= 15{:}34 + ( 14{:}38 - 13{:}43 ) \\\\
+                                    &= 15{:}34 + 55 \text{ minutes} \\\\
                                     &= 16{:}29
 \end{aligned}
 $
-
-
-$ 15{:}57 , 16{:}09 , 16{:}14, 16{:}29 $
-
 </code></pre>
 </div>
 </div>
@@ -2675,10 +2612,12 @@ How much longer does the stopping train take than the express train for the jour
 
 $
 \begin{aligned}
-\text{More time taken}  &= \text{Time taken by stopping train} - \text{Time taken by express train} \\\\ 
-                        &= (14{:}38 - 13{:}43 ) - ( 14{:}02 - 13{:}18 ) \\\\
-                        &= 00{:}55 - 00{:}44 \\\\
-                        &= 11 \ \text{minutes}
+\text{Time taken by express train}  &= 14{:}02 - 13{:}18 \\\\
+                                    &= 44 \ \text{minutes} \\\\
+\text{Time taken by stopping train} &= 14{:}38 - 13{:}43 \\\\
+                                    &= 55 \ \text{minutes} \\\\
+\text{Extra time}                   &= 55 - 44 \\\\
+                                    &= 11 \ \text{minutes}
 \end{aligned}
 $
 
@@ -2696,10 +2635,12 @@ $ 11 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{More time taken}  &= \text{Time taken by stopping train} - \text{Time taken by express train} \\\\ 
-                        &= (14{:}38 - 13{:}43 ) - ( 14{:}02 - 13{:}18 ) \\\\
-                        &= 00{:}55 - 00{:}44 \\\\
-                        &= 11 \ \text{minutes}
+\text{Time taken by express train}  &= 14{:}02 - 13{:}18 \\\\
+                                    &= 44 \ \text{minutes} \\\\
+\text{Time taken by stopping train} &= 14{:}38 - 13{:}43 \\\\
+                                    &= 55 \ \text{minutes} \\\\
+\text{Extra time}                   &= 55 - 44 \\\\
+                                    &= 11 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -2733,16 +2674,11 @@ It then takes him $45 \ \text{minutes}$ to get to Edinburgh railway station. How
 
 $
 \begin{aligned}
-\text{Time Edinburgh arrives at railway station}  &=  13{:}05 + 27 \text{minutes} + 45 \text{minutes} \\\\ 
-                                                  &=  13{:}05 + 01{:}12 \\\\
-                                                  &= 14{:}17
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Waiting time}  &=  14{:}24 - 14{:}17 \\\\
-                     &= 7 \ \text{minutes}
+\text{Arrival time at station}  &=  13{:}05 + 27 \text{ minutes} + 45 \text{ minutes} \\\\ 
+                                &=  13{:}05 + 1 \text{ hour } 12 \text{ minutes} \\\\
+                                &=  14{:}17 \\\\
+\text{Waiting time}             &=  14{:}24 - 14{:}17 \\\\
+                                &=  7 \ \text{minutes}
 \end{aligned}
 $
 
@@ -2760,16 +2696,11 @@ $7 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time Edinburgh arrives at railway station}  &=  13{:}05 + 27 \text{minutes} + 45 \text{minutes} \\\\ 
-                                                  &=  13{:}05 + 01{:}12 \\\\
-                                                  &= 14{:}17
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Waiting time}  &=  14{:}24 - 14{:}17 \\\\
-                     &= 7 \ \text{minutes}
+\text{Arrival time at station}  &=  13{:}05 + 27 \text{ minutes} + 45 \text{ minutes} \\\\ 
+                                &=  13{:}05 + 1 \text{ hour } 12 \text{ minutes} \\\\
+                                &=  14{:}17 \\\\
+\text{Waiting time}             &=  14{:}24 - 14{:}17 \\\\
+                                &=  7 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -2795,35 +2726,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' id='FORM-C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='C4BDB22C-A0D6-415B-B9A9-0956601BABF2' id='FORM-C4BDB22C-A0D6-415B-B9A9-0956601BABF2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4277,7 +4208,7 @@ First number $= 1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g1 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7A398F6B-C825-4D14-888B-7DE1673A5240</p>
 </div>
@@ -4288,7 +4219,7 @@ First number $= 1$
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g1</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4426,35 +4357,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' id='FORM-7A398F6B-C825-4D14-888B-7DE1673A5240' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' id='FORM-7A398F6B-C825-4D14-888B-7DE1673A5240' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

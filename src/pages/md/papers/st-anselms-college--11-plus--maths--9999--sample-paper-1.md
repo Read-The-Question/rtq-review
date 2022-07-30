@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "24"
 ---
 <div class='paper'>
@@ -308,7 +308,7 @@ $text {Two hundred ninety-nine million seven hundred ninety-two thousand four hu
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2DBF88C6-85FD-4AFC-A919-346128B7AE6F</p>
 </div>
@@ -319,7 +319,7 @@ $text {Two hundred ninety-nine million seven hundred ninety-two thousand four hu
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_pr</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -402,36 +402,21 @@ Look at the bus timetable below.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -443,17 +428,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -468,21 +443,21 @@ I need to catch a bus from Wallasey Central Library to arrive at Upton Village b
 <div class='workings'>
 <div class='working'>
 
-$ 10\text{A bus at } 10{:}45$
+$\text{10A}$ bus at $10{:}45 \ \text{am}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$ 10\text{A bus at } 10{:}45 $
+$\text{10A}$ bus at $10{:}45 \ \text{am}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$ 10\text{A bus at } 10{:}45$
+<pre class='language-latex'><code class='language-latex'>$\text{10A}$ bus at $10{:}45 \ \text{am}$
 </code></pre>
 </div>
 </div>
@@ -494,7 +469,7 @@ $ 10\text{A bus at } 10{:}45 $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$ 10\text{A bus at } 10{:}45 $
+<pre class='language-latex'><code class='language-latex'>$\text{10A}$ bus at $10{:}45 \ \text{am}$
 </code></pre>
 </div>
 </div>
@@ -513,7 +488,7 @@ How many minutes does the 10A’s journey from New Brighton to Noctorum take?
 
 $
 \begin {aligned}
-\text {Time Taken}     &= 10{:}34 - 09{:}39 \\\\
+\text {Time taken}     &= 10{:}34 - 09{:}39 \\\\
                        &= 55 \ \text{minutes}
 \end {aligned}
 $
@@ -532,7 +507,7 @@ $55 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {Time Taken}     &= 10{:}34 - 09{:}39 \\\\
+\text {Time taken}     &= 10{:}34 - 09{:}39 \\\\
                        &= 55 \ \text{minutes}
 \end {aligned}
 $
@@ -559,35 +534,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' id='FORM-2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='2DBF88C6-85FD-4AFC-A919-346128B7AE6F' id='FORM-2DBF88C6-85FD-4AFC-A919-346128B7AE6F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

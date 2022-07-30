@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "31"
 ---
 <div class='paper'>
@@ -703,7 +703,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>FBA0759C-897A-43DA-B30F-45535D9B82AC</p>
 </div>
@@ -714,7 +714,7 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_pr</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -796,8 +796,9 @@ How many seconds are there in $8 \ \text{minutes}$?
 
 $
 \begin{aligned}
-&= 8 \times 60 \\\\
-&= 480 \ \text{ seconds }
+&= 8 \ \text{minutes} \\\\
+&= 8 \times 60 \ \text{seconds} \\\\
+&= 480 \ \text{seconds}
 \end{aligned}
 $
 
@@ -806,7 +807,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$480 \ \text{ seconds }$
+$480 \ \text{seconds}$
 
 </div>
 </div>
@@ -815,8 +816,9 @@ $480 \ \text{ seconds }$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 8 \times 60 \\\\
-&= 480 \ \text{ seconds }
+&= 8 \ \text{minutes} \\\\
+&= 8 \times 60 \ \text{seconds} \\\\
+&= 480 \ \text{seconds}
 \end{aligned}
 $
 </code></pre>
@@ -830,7 +832,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$480 \ \text{ seconds }$
+<pre class='language-latex'><code class='language-latex'>$480 \ \text{seconds}$
 </code></pre>
 </div>
 </div>
@@ -839,35 +841,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' id='FORM-FBA0759C-897A-43DA-B30F-45535D9B82AC' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='FBA0759C-897A-43DA-B30F-45535D9B82AC' id='FORM-FBA0759C-897A-43DA-B30F-45535D9B82AC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1809,7 +1811,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>6706DEBD-210D-4CFE-8AFB-1AA7E39ACD32</p>
 </div>
@@ -1823,7 +1825,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1941,6 +1943,23 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write original question first, show factors and cancellation
+
+
+
+= 329 days
+
+= 329/7 weeks
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3028,7 +3047,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>6600A0C0-CEAE-4BC5-A600-7F98F7F3604B</p>
 </div>
@@ -3042,7 +3061,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3170,6 +3189,15 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+s1: write am
+</div>
 
 <div class='review'>
 <ul class='review'>

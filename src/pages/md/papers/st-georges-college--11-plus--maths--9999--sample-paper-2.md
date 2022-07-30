@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "24"
 ---
 <div class='paper'>
@@ -2985,7 +2985,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
@@ -2996,10 +2996,10 @@ $
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_oldpr</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3120,10 +3120,9 @@ She starts the swimming stage at $12:45$ pm. If she takes $79\,minutes$ to compl
 
 $
 \begin{aligned}
-\text{ Started Cycling} &= 12{:}45 + 79 \text{minutes}  \\\\
-                        &= 12{:}45 + 60 + 19 \\\\
-                        &= 12{:}45 + 1 \ \text{hour} \ 19 \text{minutes}  \\\\
-                        &= 2{:}04 \ \text{pm}
+\text{Cycling start time}   &= 12{:}45 \ \text{pm} + 79 \ \text{minutes}  \\\\
+                            &= 12{:}45 \ \text{pm} + 1 \ \text{hour } 19 \ \text{minutes}  \\\\
+                            &=  2{:}04 \ \text{pm}
 \end{aligned}
 $
 
@@ -3141,10 +3140,9 @@ $2{:}04 \ \text{pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{ Started Cycling} &= 12{:}45 + 79 \text{minutes}  \\\\
-                        &= 12{:}45 + 60 + 19 \\\\
-                        &= 12{:}45 + 1 \ \text{hour} \ 19 \text{minutes}  \\\\
-                        &= 2{:}04 \ \text{pm}
+\text{Cycling start time}   &= 12{:}45 \ \text{pm} + 79 \ \text{minutes}  \\\\
+                            &= 12{:}45 \ \text{pm} + 1 \ \text{hour } 19 \ \text{minutes}  \\\\
+                            &=  2{:}04 \ \text{pm}
 \end{aligned}
 $
 </code></pre>
@@ -3177,11 +3175,11 @@ If she starts the running stage at $4:38\,pm$ work out how long she took in minu
 
 $
 \begin{aligned}
-\text{ Time taken} &=  4{:}38 - 2{:}04 \\\\
-&=  2 \ \text{hours} \ 34 \ \text{minutes} \\\\
-&=  2 \times 60 \ \text{minutes} \ 34 \ \text{minutes} \\\\
-&= 120 + 34 \\\\
-&= 154 \ \text{minutes}
+\text{Time taken}   &= 4{:}38 \ \text{pm} - 2{:}04 \ \text{pm} \\\\
+                    &= 2 \ \text{hours} \ 34 \ \text{minutes} \\\\
+                    &= 2 \times 60 \ \text{minutes} + 34 \ \text{minutes} \\\\
+                    &= 120 + 34 \\\\
+                    &= 154 \ \text{minutes}
 \end{aligned}
 $
 
@@ -3199,11 +3197,11 @@ $154 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{ Time taken} &=  4{:}38 - 2{:}04 \\\\
-&=  2 \ \text{hours} \ 34 \ \text{minutes} \\\\
-&=  2 \times 60 \ \text{minutes} \ 34 \ \text{minutes} \\\\
-&= 120 + 34 \\\\
-&= 154 \ \text{minutes}
+\text{Time taken}   &= 4{:}38 \ \text{pm} - 2{:}04 \ \text{pm} \\\\
+                    &= 2 \ \text{hours} \ 34 \ \text{minutes} \\\\
+                    &= 2 \times 60 \ \text{minutes} + 34 \ \text{minutes} \\\\
+                    &= 120 + 34 \\\\
+                    &= 154 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -3236,12 +3234,11 @@ If she took 107 minutes on the running stage work out how long she took to compl
 
 $
 \begin{aligned}
-\text{Total Time taken} &=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
+\text{Total time taken} &=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
                         &=  340 \ \text{minutes} \\\\
                         &= \dfrac {340} {60} \ \text{hours} \\\\
                         &= 5 \dfrac {40} {60} \ \text{hours} \\\\
-                        &= 5 \ \text{hours} + 40 \ \text{minutes} \\\\
-                        &=  5 \  \text{hr} \ \ 40 \ \text{minutes}
+                        &= 5 \ \text{hours } 40 \ \text{minutes}
 \end{aligned}
 $
 
@@ -3250,7 +3247,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5 \  \text{hours} \ \ 40 \ \text{minutes}$
+$5 \  \text{hours} \ 40 \ \text{minutes}$
 
 </div>
 </div>
@@ -3259,12 +3256,11 @@ $5 \  \text{hours} \ \ 40 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total Time taken} &=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
+\text{Total time taken} &=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
                         &=  340 \ \text{minutes} \\\\
                         &= \dfrac {340} {60} \ \text{hours} \\\\
                         &= 5 \dfrac {40} {60} \ \text{hours} \\\\
-                        &= 5 \ \text{hours} + 40 \ \text{minutes} \\\\
-                        &=  5 \  \text{hr} \ \ 40 \ \text{minutes}
+                        &= 5 \ \text{hours } 40 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -3278,7 +3274,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5 \  \text{hours} \ \ 40 \ \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$5 \  \text{hours} \ 40 \ \text{minutes}$
 </code></pre>
 </div>
 </div>
@@ -3286,88 +3282,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-part (a) : replace L.H.S : \"Started cycling\"
-
-remove R.H.S. from step 1
-
-write : inside {} 
-
-add a \' before mins
-
-and write mins as \"minutes\"
-
-replace step 3 as : 12:45 + 1 hour 19 minutes
-
-
-
-part (b): remove cycling from L.H.S. 
-
- and remove R.H.S. from step 1
-
-replace step 3 : 2 hours ... minutes
-
-in section.answer : add a \' between 154 and \text
-
-
-
-part (c) : replace L.H.S. with : \"Total Time taken\"
-
-remove R.H.S. from step 1
-
-replace from step 4 : 
-
-= 340 / 60 hours
-
-= 5 40/60 hours
-
-= 5 hours + 40 minutes
-
-= 5 hours 40 minutes  
-
-
-
-in section.answer : write hrs and \"hours\"
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' id='FORM-2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' id='FORM-2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

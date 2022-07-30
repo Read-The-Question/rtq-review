@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "30"
 ---
 <div class='paper'>
@@ -1982,7 +1982,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>853DE9ED-C8E9-4497-A4CE-70A8E172C5B2</p>
 </div>
@@ -1993,10 +1993,10 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pr</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2085,7 +2085,7 @@ E: $2:56 \ \text{am}$
 
 $
 \begin{aligned}
-&= 7{:}19 - 1 \ \text{hour} \ 32 \ \text{minutes} \\\\
+&= 7{:}19  \ \text{pm} - 1 \ \text{hour} \ 32 \ \text{minutes} \\\\
 &= 5{:}47 \ \text {pm}
 \end{aligned}
 $
@@ -2098,7 +2098,7 @@ $
 </div>
 <div class='answer'>
 
-$5:47 \ \text {pm}$
+$5{:}47 \ \text {pm}$
 
 </div>
 </div>
@@ -2107,7 +2107,7 @@ $5:47 \ \text {pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 7{:}19 - 1 \ \text{hour} \ 32 \ \text{minutes} \\\\
+&= 7{:}19  \ \text{pm} - 1 \ \text{hour} \ 32 \ \text{minutes} \\\\
 &= 5{:}47 \ \text {pm}
 \end{aligned}
 $
@@ -2122,63 +2122,44 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5:47 \ \text {pm}$
+<pre class='language-latex'><code class='language-latex'>$5{:}47 \ \text {pm}$
 </code></pre>
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-write : inside {}
-
-remove pm from step 1
-
-add a \' between hour and 32
-
-in section.answer :
-
-remove C from key 
-
-write C in option
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' id='FORM-853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' id='FORM-853DE9ED-C8E9-4497-A4CE-70A8E172C5B2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -6857,7 +6838,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>D2ED6ADF-D6AC-4723-B76D-2011EF29EBEB</p>
 </div>
@@ -6871,7 +6852,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7136,6 +7117,15 @@ When will our watches next show the same, **correct** time?
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+katex broken
+</div>
 
 <div class='review'>
 <ul class='review'>

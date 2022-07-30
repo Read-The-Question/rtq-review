@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "38"
 ---
 <div class='paper'>
@@ -4350,7 +4350,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
@@ -4361,10 +4361,10 @@ $9$
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_oldpr</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4443,11 +4443,12 @@ A child’s heart beats $80$ times per minute. How many times will it beat betwe
 
 $
 \begin{aligned}
-\text {Heartbeat rate}   &= 80 \times (3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am})\\\\
-                         &= 80 \times 7 \ \text {hours} \\\\
-                         &= 80 \times 7 \times 60 \ \text {minutes} \\\\
-                         &= 80 \times 420\\\\
-                         &= 33600 \ \text {times}
+\text {Total time}       &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am}\\\\
+                         &= 7 \ \text {hours} \\\\
+                         &= 7 \times 60 \ \text {minutes} \\\\
+                         &= 420 \ \text {minutes} \\\\
+\text {Heartbeat count}  &= 80 \times 420 \\\\
+                         &= 33600
 \end{aligned}
 $
 
@@ -4456,7 +4457,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$33600 \ \text {times}$
+$33600$
 
 </div>
 </div>
@@ -4465,11 +4466,12 @@ $33600 \ \text {times}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Heartbeat rate}   &= 80 \times (3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am})\\\\
-                         &= 80 \times 7 \ \text {hours} \\\\
-                         &= 80 \times 7 \times 60 \ \text {minutes} \\\\
-                         &= 80 \times 420\\\\
-                         &= 33600 \ \text {times}
+\text {Total time}       &= 3 {:} 30 \ \text {pm} - 8 {:} 30 \ \text {am}\\\\
+                         &= 7 \ \text {hours} \\\\
+                         &= 7 \times 60 \ \text {minutes} \\\\
+                         &= 420 \ \text {minutes} \\\\
+\text {Heartbeat count}  &= 80 \times 420 \\\\
+                         &= 33600
 \end{aligned}
 $
 </code></pre>
@@ -4483,65 +4485,44 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$33600 \ \text {times}$
+<pre class='language-latex'><code class='language-latex'>$33600$
 </code></pre>
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-remove both katex
-
-replace with :
-
-Heartbeat rate = 80 x (3:30 pm - 8:30 am)
-
-               = 80 x 7 hours
-
-               = 80 x 7 x 60 minutes
-
-               = 80 x 420
-
-and solve further
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' id='FORM-D2A168A8-050D-4654-AE7A-C46CC8C46289' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='D2A168A8-050D-4654-AE7A-C46CC8C46289' id='FORM-D2A168A8-050D-4654-AE7A-C46CC8C46289' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -8210,7 +8191,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>879DB97C-9455-4A27-9352-B2A48176B546</p>
 </div>
@@ -8224,7 +8205,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8415,7 +8396,7 @@ Mrs Jones arrives at Derby station at $11{:}10$. How long does she have to wait 
 
 $
 \begin{aligned}
-\text{Waiting Time}           &= 11{:}44 - 11{:}10 \\\\
+\text{Waiting time}           &= 11{:}44 - 11{:}10 \\\\
                               &= 34  \ \text{minutes}
 \end{aligned}
 $
@@ -8434,7 +8415,7 @@ $34  \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Waiting Time}           &= 11{:}44 - 11{:}10 \\\\
+\text{Waiting time}           &= 11{:}44 - 11{:}10 \\\\
                               &= 34  \ \text{minutes}
 \end{aligned}
 $
@@ -8518,6 +8499,19 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+c: remove s2
+
+
+
+b: is wrong? should it not be 11.23 - 11.10?
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "25"
 ---
 <div class='paper'>
@@ -3056,7 +3056,7 @@ same in blue answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
@@ -3067,10 +3067,10 @@ same in blue answer
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_oldpr</p>
+<p>rag_ss_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3191,7 +3191,7 @@ Using the $24 \ \text{hour}$ clock, write the time when the ferry left Dover.
 
 $
 \begin{aligned}
-\text{Time}    &= 07{:}45 + 17 \ \text{minutes}\\
+\text{Time}    &= 07{:}45 + 17 \ \text{minutes} \\\\
 &= 08{:}02
 \end{aligned}
 $
@@ -3201,7 +3201,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$08:02$
+$08{:}02$
 
 </div>
 </div>
@@ -3210,7 +3210,7 @@ $08:02$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time}    &= 07{:}45 + 17 \ \text{minutes}\\
+\text{Time}    &= 07{:}45 + 17 \ \text{minutes} \\\\
 &= 08{:}02
 \end{aligned}
 $
@@ -3225,7 +3225,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$08:02$
+<pre class='language-latex'><code class='language-latex'>$08{:}02$
 </code></pre>
 </div>
 </div>
@@ -3305,12 +3305,7 @@ How many minutes late did the ferry arrive in Calais?
 $
 \begin{aligned}
 \text{Time delayed }  &= 09{:}11 - 07{:}45 - 1 \dfrac {1} {4} \ \text{hour} \\\\
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \ \text{hour} \\\\
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \times 60  \ \text{minutes} \\\\
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times 4} {4}  \ \text{minutes} \\\\
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times \cancel 4} { \cancel 4}  \ \text{minutes} \\\\                   
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - 15 \ \text{minutes} \\\\                       
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} \ 15 \ \text{minutes} \\\\                    
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} \ 15 \ \text{minutes} \\\\
                       &=  11 \ \text{minutes}
 \end{aligned}
 $
@@ -3330,12 +3325,7 @@ $11 \ \text{ minutes}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Time delayed }  &= 09{:}11 - 07{:}45 - 1 \dfrac {1} {4} \ \text{hour} \\\\
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \ \text{hour} \\\\
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {1} {4} \times 60  \ \text{minutes} \\\\
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times 4} {4}  \ \text{minutes} \\\\
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - \dfrac {15 \times \cancel 4} { \cancel 4}  \ \text{minutes} \\\\                   
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} - 15 \ \text{minutes} \\\\                       
-                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} \ 15 \ \text{minutes} \\\\                    
+                      &= 1 \ \text{hour} \  26 \ \text{minutes} - 1 \ \text{hour} \ 15 \ \text{minutes} \\\\
                       &=  11 \ \text{minutes}
 \end{aligned}
 $
@@ -3358,72 +3348,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-for all : write : inside {}
-
-part (a) : replace L.H.S. with :\"Time\"
-
-part (b) : step 1 : remove R.H.S.
-
-step 4 : write it as 1 x 60 minutes +....
-
-add a step 5 : 60 + 9
-
-
-
-part (c) : replace L.H.S. : \"Time delayed\"
-
-remove R.H.S from step 1
-
-remove all the steps from step 2
-
-= 09:11 - 07:45 - 1 1/4 hours
-
-= 1 hour 26 minutes - 1 hour + 1/4 hour
-
-= 1 hour 26 minutes - 1 hour + 1/4 x 60 minutes
-
-and solve furhter
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' id='FORM-500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' id='FORM-500D6CC3-AAFB-40E5-9B8D-A47C45EC3613' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

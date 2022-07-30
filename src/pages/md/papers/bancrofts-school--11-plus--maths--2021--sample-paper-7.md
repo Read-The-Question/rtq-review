@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "38"
 ---
 <div class='paper'>
@@ -3024,7 +3024,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>92900B3E-B695-40CA-A45F-B8FC384C3A0B</p>
 </div>
@@ -3035,7 +3035,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

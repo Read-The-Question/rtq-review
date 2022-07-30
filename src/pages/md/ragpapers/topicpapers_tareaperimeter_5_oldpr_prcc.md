@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR - PRCC"
-date: 2022-07-29 12:03:07
+date: 2022-07-29 20:06:43
 questions_count: "14"
 ---
 <ul class='question default-decimal'>

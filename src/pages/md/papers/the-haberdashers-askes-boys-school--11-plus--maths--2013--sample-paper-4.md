@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "30"
 ---
 <div class='paper'>
@@ -2010,7 +2010,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>ACB903AE-471B-4194-A0AE-FF8761C03567</p>
 </div>
@@ -2024,7 +2024,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2138,6 +2138,15 @@ $10{:}30$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+write what needs to be done using rtq_abbr_md_add_drawing_starts, refer other similar answers.
+</div>
 
 <div class='review'>
 <ul class='review'>

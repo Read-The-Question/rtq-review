@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "35"
 ---
 <div class='paper'>
@@ -4674,7 +4674,7 @@ After step 3 calculated wrong . you changed the x to + . So solve again. answer 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>5524FAA7-FB72-4F72-9E44-56391F23074B</p>
 </div>
@@ -4688,7 +4688,7 @@ After step 3 calculated wrong . you changed the x to + . So solve again. answer 
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>

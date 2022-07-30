@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "19"
 ---
 <div class='paper'>
@@ -2749,7 +2749,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>62DF5910-9061-4E08-BCF5-479012916B35</p>
 </div>
@@ -2763,7 +2763,7 @@ $
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2970,24 +2970,25 @@ Anja needs to be at a very important meeting in Newcastle at $15 \ 00$. Which tr
 <div class='workings'>
 <div class='working'>
 
-Anja needs to take 10{:}30 train from London. 
-If she takes the 11{:}30 train she will reach Newcastle just 2 minutes before the meeting.
+As per the timetable, Anja should take $10{:}30$ train from London to avoid being late.
+
+If she takes the $11{:}30$ train, she will reach Newcastle just $2 \text{ minutes}$ before the meeting.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Anja needs to take 10{:}30 train from London. 
-If she takes the 11{:}30 train she will reach Newcastle just 2 minutes before the meeting.
+$10{:}30$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Anja needs to take 10{:}30 train from London. 
-If she takes the 11{:}30 train she will reach Newcastle just 2 minutes before the meeting.
+<pre class='language-latex'><code class='language-latex'>As per the timetable, Anja should take $10{:}30$ train from London to avoid being late.
+
+If she takes the $11{:}30$ train, she will reach Newcastle just $2 \text{ minutes}$ before the meeting.
 </code></pre>
 </div>
 </div>
@@ -2999,8 +3000,7 @@ If she takes the 11{:}30 train she will reach Newcastle just 2 minutes before th
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Anja needs to take 10{:}30 train from London. 
-If she takes the 11{:}30 train she will reach Newcastle just 2 minutes before the meeting.
+<pre class='language-latex'><code class='language-latex'>$10{:}30$
 </code></pre>
 </div>
 </div>
@@ -3008,6 +3008,19 @@ If she takes the 11{:}30 train she will reach Newcastle just 2 minutes before th
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a: drop s2
+
+
+
+b: wrap numbers in $$
+</div>
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-g0-prcr"
 title: "TopicPaper - Ratio - 3 - G0 - PRCR"
-date: 2022-07-29 12:03:07
+date: 2022-07-29 20:06:43
 questions_count: "12"
 ---
 <ul class='question default-decimal'>

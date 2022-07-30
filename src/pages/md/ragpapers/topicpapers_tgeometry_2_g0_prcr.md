@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgeometry-2-g0-prcr"
 title: "TopicPaper - Geometry - 2 - G0 - PRCR"
-date: 2022-07-29 12:03:07
+date: 2022-07-29 20:06:43
 questions_count: "8"
 ---
 <ul class='question default-decimal'>

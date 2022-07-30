@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-pr"
 title: "TopicPaper - Angle - 1 - PR"
-date: 2022-07-29 12:03:07
+date: 2022-07-29 20:06:43
 questions_count: "9"
 ---
 <ul class='question default-decimal'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g0"
 title: "TopicPaper - Time - 3 - G0"
-date: 2022-07-29 12:03:07
+date: 2022-07-29 20:06:43
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -914,7 +914,7 @@ You have to catch the bus after school. Buses leave school at $15.55$ and $16.35
 
 $
 \begin{aligned}
-\text{Waiting Time} &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
+\text{Waiting time} &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
                     &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
                     &= 36 \ \text{minutes}
 \end{aligned}
@@ -934,7 +934,7 @@ $36 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Waiting Time} &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
+\text{Waiting time} &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
                     &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
                     &= 36 \ \text{minutes}
 \end{aligned}

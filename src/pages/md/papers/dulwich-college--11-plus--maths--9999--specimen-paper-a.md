@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "23"
 ---
 <div class='paper'>
@@ -4820,7 +4820,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB</p>
 </div>
@@ -4834,7 +4834,7 @@ TODOANSWER
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5035,6 +5035,14 @@ Mark the grid below to show the time "a quarter to ten in the evening"
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+
+Add the diagram with the following details
+
 $
 \begin{array}{cccccccccccccc}
 &   32   &   16   &   8   &   4  &  2 & 1  \\
@@ -5042,6 +5050,10 @@ $
 &   1   &   0   &   1   &   1  &  0 & 1  \\
 \end{array}
 $
+
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
@@ -5055,13 +5067,19 @@ $21{:}45$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+
+Add the diagram with the following details
+
+$
 \begin{array}{cccccccccccccc}
 &   32   &   16   &   8   &   4  &  2 & 1  \\
 &   0   &   1   &   0   &   1  &  0 & 1  \\
 &   1   &   0   &   1   &   1  &  0 & 1  \\
 \end{array}
 $
+
+rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>
 </div>
@@ -5097,11 +5115,10 @@ Calculate how long it is between the times displayed on watch A and watch B belo
 
 $
 \begin{aligned}
-\text{Difference}           &= 20{:}22 - 11{:}37 \\\\
-                            &= 08{:}45 \\\\
-                            &= 8 \times 60 \ \text{minutes} + 45  \ \text{minutes} \\\\
-                            &= 480 + 45  \\\\
-                            &= 525 \ \text{minutes}
+\text{Watch A}           &= 20{:}22 \\\\
+\text{Watch B}           &= 11{:}37 \\\\
+\text{Difference}        &= 20{:}22 - 11{:}37 \\\\
+                         &= 8 \ \text{hours } 45 \ \text{minutes}
 \end{aligned}
 $
 
@@ -5110,7 +5127,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$525 \ \text{minutes}$
+$8 \ \text{hours } 45 \ \text{minutes}$
 
 </div>
 </div>
@@ -5119,11 +5136,10 @@ $525 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Difference}           &= 20{:}22 - 11{:}37 \\\\
-                            &= 08{:}45 \\\\
-                            &= 8 \times 60 \ \text{minutes} + 45  \ \text{minutes} \\\\
-                            &= 480 + 45  \\\\
-                            &= 525 \ \text{minutes}
+\text{Watch A}           &= 20{:}22 \\\\
+\text{Watch B}           &= 11{:}37 \\\\
+\text{Difference}        &= 20{:}22 - 11{:}37 \\\\
+                         &= 8 \ \text{hours } 45 \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -5137,7 +5153,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$525 \ \text{minutes}$
+<pre class='language-latex'><code class='language-latex'>$8 \ \text{hours } 45 \ \text{minutes}$
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "30"
 ---
 <div class='paper'>
@@ -2642,7 +2642,7 @@ extra working and answers
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prccrl question'>
 <div class='uuid'>
 <p>7B74815D-732E-4E67-B878-86DB82735EBA</p>
 </div>
@@ -2656,7 +2656,7 @@ extra working and answers
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prccrl</p>
 </div>
 <div class='topics'>
 <ul>

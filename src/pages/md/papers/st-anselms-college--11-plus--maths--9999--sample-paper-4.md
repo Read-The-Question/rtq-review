@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-07-29 11:57:52
+date: 2022-07-29 19:59:28
 questions_count: "23"
 ---
 <div class='paper'>
@@ -346,7 +346,7 @@ Seven million six hundred ninety two thousand twenty four square kilometres
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>859119D0-ADB7-4497-9158-E311225C2126</p>
 </div>
@@ -360,7 +360,7 @@ Seven million six hundred ninety two thousand twenty four square kilometres
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>

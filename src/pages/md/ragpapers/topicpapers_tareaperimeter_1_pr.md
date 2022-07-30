@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-pr"
 title: "TopicPaper - Areaperimeter - 1 - PR"
-date: 2022-07-29 12:03:07
+date: 2022-07-29 20:06:43
 questions_count: "19"
 ---
 <ul class='question default-decimal'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g2"
 title: "TopicPaper - Time - 1 - G2"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "29"
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -196,10 +196,10 @@ $
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2674,10 +2674,10 @@ $
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:17</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3487,10 +3487,10 @@ $
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:6</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4245,10 +4245,10 @@ $
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4427,10 +4427,10 @@ $
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4626,10 +4626,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4809,10 +4809,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4991,10 +4991,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:28</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5174,10 +5174,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5359,10 +5359,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5706,10 +5706,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:1:32</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5891,10 +5891,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:28</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6074,10 +6074,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:30</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

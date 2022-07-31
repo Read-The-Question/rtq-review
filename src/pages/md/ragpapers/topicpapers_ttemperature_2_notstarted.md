@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-2-notstarted"
 title: "TopicPaper - Temperature - 2 - NOTSTARTED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:1</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

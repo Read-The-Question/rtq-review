@@ -1,8 +1,8 @@
 ---
 slug: "topicpapers/topicpapers-torder-3"
 title: "TopicPaper - Order - 3"
-date: 2022-07-29 20:06:43
-questions_count: "32"
+date: 2022-07-31 17:43:09
+questions_count: "33"
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5081,6 +5081,245 @@ The number in the middle $= \dfrac{2}{3}$
 
 <p class='review_status initial' id='REVIEW-STATUS-51948298-6710-4968-BC7A-6F04A5AA66B1'>Initial</p>
 </div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>AD502CB4-2E22-4698-9006-B92D0D53A2AF</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:4</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='AD502CB4-2E22-4698-9006-B92D0D53A2AF' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-AD502CB4-2E22-4698-9006-B92D0D53A2AF'>Initial</p>
+<div class='question question'>
+
+In which of the following are the terms NOT getting bigger?
+
+
+**A.** $\frac{1} {5},0.25,\frac{3}{5},0.5$   
+
+**B.** $\frac{3}{5},0.7,\frac{4} {5},1.5$   
+
+**C.** $\frac{2}{5},0.5,\frac{7} {10},0.9$
+
+**D.** $\frac{3}{5},0.5,\frac{7} {10},0.9$   
+
+**E.** $\frac{2}{5},1.5,\frac{10} {5},2.3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+Let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+\text{A} &= \dfrac{1}{5}, \quad 0.25, \quad \dfrac{3}{10}, \quad 0.5 \\\\
+  &= \dfrac{1 \times 2}{5 \times 2}, \quad 0.25, \quad 0.3, \quad 0.5 \\\\
+  &= \dfrac{2}{10}, \quad 0.25, \quad 0.3, \quad 0.5 \\\\
+  &= 0.2 < \quad 0.25 < \quad 0.3 < \quad 0.5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{B} &= \dfrac{3}{5}, \quad 0.7, \quad \dfrac{4}{5}, \quad 1.5 \\\\
+  &= \dfrac{3 \times 2}{5 \times 2}, \quad 0.7, \quad \dfrac{4 \times 2}{5 \times 2}, \quad 1.5 \\\\
+  &= \dfrac{6}{10}, \quad 0.7, \quad \dfrac{8}{10}, \quad 1.5 \\\\
+  &= 0.6 < \quad 0.7 < \quad 0.8 < \quad 1.5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{C} &= \dfrac{2}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
+  &= \dfrac{2 \times 2}{5 \times 2}, \quad 0.5, \quad 0,7, \quad 0.9 \\\\
+  &= \dfrac{4}{10}, \quad 0.5, \quad 0,7, \quad 0.9 \\\\
+  &= 0.4 < \quad 0.5 < \quad 0.7 < \quad 0.9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{D} &= \dfrac{3}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
+  &= \dfrac{3 \times 2}{5 \times 2}, \quad 0.5, \quad 0.7, \quad 0.9 \\\\
+  &= \dfrac{6}{10}, \quad 0.5, \quad 0.7, \quad 0.9 \\\\
+  &= 0.6 > \quad 0.5 < \quad 0.7 < \quad 0.9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{E} &= \dfrac{2}{5}, \quad 1.5, \quad \dfrac{10}{5}, \quad 2.3 \\\\
+  &= \dfrac{2 \times 2}{5 \times 2}, \quad 1.5, \quad \dfrac{2 \times 5}{5}, \quad 2.3 \\\\
+  &= \dfrac{4}{10}, \quad 1.5, \quad \dfrac{\cancel {2} \times 5}{\cancel 5}, \quad 2.3 \\\\
+  &= 0.4 < \quad 1.5 < \quad 2 < \quad 2.3
+\end{aligned}
+$
+
+In A, B, C and E the terms are getting bigger.
+
+In D the terms are not getting bigger as $0.6 > \quad 0.5$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{D}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+Let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+\text{A} &= \dfrac{1}{5}, \quad 0.25, \quad \dfrac{3}{10}, \quad 0.5 \\\\
+  &= \dfrac{1 \times 2}{5 \times 2}, \quad 0.25, \quad 0.3, \quad 0.5 \\\\
+  &= \dfrac{2}{10}, \quad 0.25, \quad 0.3, \quad 0.5 \\\\
+  &= 0.2 < \quad 0.25 < \quad 0.3 < \quad 0.5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{B} &= \dfrac{3}{5}, \quad 0.7, \quad \dfrac{4}{5}, \quad 1.5 \\\\
+  &= \dfrac{3 \times 2}{5 \times 2}, \quad 0.7, \quad \dfrac{4 \times 2}{5 \times 2}, \quad 1.5 \\\\
+  &= \dfrac{6}{10}, \quad 0.7, \quad \dfrac{8}{10}, \quad 1.5 \\\\
+  &= 0.6 < \quad 0.7 < \quad 0.8 < \quad 1.5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{C} &= \dfrac{2}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
+  &= \dfrac{2 \times 2}{5 \times 2}, \quad 0.5, \quad 0,7, \quad 0.9 \\\\
+  &= \dfrac{4}{10}, \quad 0.5, \quad 0,7, \quad 0.9 \\\\
+  &= 0.4 < \quad 0.5 < \quad 0.7 < \quad 0.9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{D} &= \dfrac{3}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
+  &= \dfrac{3 \times 2}{5 \times 2}, \quad 0.5, \quad 0.7, \quad 0.9 \\\\
+  &= \dfrac{6}{10}, \quad 0.5, \quad 0.7, \quad 0.9 \\\\
+  &= 0.6 > \quad 0.5 < \quad 0.7 < \quad 0.9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{E} &= \dfrac{2}{5}, \quad 1.5, \quad \dfrac{10}{5}, \quad 2.3 \\\\
+  &= \dfrac{2 \times 2}{5 \times 2}, \quad 1.5, \quad \dfrac{2 \times 5}{5}, \quad 2.3 \\\\
+  &= \dfrac{4}{10}, \quad 1.5, \quad \dfrac{\cancel {2} \times 5}{\cancel 5}, \quad 2.3 \\\\
+  &= 0.4 < \quad 1.5 < \quad 2 < \quad 2.3
+\end{aligned}
+$
+
+In A, B, C and E the terms are getting bigger.
+
+In D the terms are not getting bigger as $0.6 > \quad 0.5$.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text{D}$
+</code></pre>
+</div>
+</div>
+
+
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "30"
 ---
 <div class='paper'>
@@ -2284,7 +2284,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E0A78854-701F-451E-8B91-1F4FE8B4DACB</p>
 </div>
@@ -2292,10 +2292,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2594,10 +2594,10 @@ The number nearest to the value of $6.9201 \times \sqrt{\smash[b]{26}} = 35$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3869,10 +3869,10 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5452,10 +5452,10 @@ The least number of boys in the class who are both right-handed and wear glasses
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

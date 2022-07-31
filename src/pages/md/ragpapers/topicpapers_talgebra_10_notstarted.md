@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-notstarted"
 title: "TopicPaper - Algebra - 10 - NOTSTARTED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "3"
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -143,10 +143,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:23</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -274,10 +274,10 @@ TODOANSWER
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:31</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

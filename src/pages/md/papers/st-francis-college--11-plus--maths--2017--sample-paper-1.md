@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "38"
 ---
 <div class='paper'>
@@ -1969,10 +1969,10 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2303,10 +2303,10 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -4358,10 +4358,10 @@ $9$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4542,10 +4542,10 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -7726,10 +7726,10 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -7925,7 +7925,7 @@ Area of full shape = 2 x (Area of 1/2 Triangle) (fit your calculations according
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prg question'>
+<div class='question_envelope rag_notstarted rag_prg question'>
 <div class='uuid'>
 <p>84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78</p>
 </div>
@@ -7933,10 +7933,10 @@ Area of full shape = 2 x (Area of 1/2 Triangle) (fit your calculations according
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prg</p>
@@ -8762,10 +8762,10 @@ $
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g0-prpcr"
 title: "TopicPaper - Temperature - 1 - G0 - PRPCR"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "5"
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -209,10 +209,10 @@ and solve further
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -509,10 +509,10 @@ step 1 : add line before katex:
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -704,10 +704,10 @@ remove step 2
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:4</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -1010,10 +1010,10 @@ remove step 2 and step 3
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2018-sample-paper-2"
 title: "Tonbridge School - Scholarship - Maths - 2018 - Sample Paper 2"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "7"
 ---
 <div class='paper'>
@@ -848,10 +848,10 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1593,7 +1593,7 @@ Radius of the sphere $= 0.4 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C3637EB3-06AC-44BA-B12B-9EC4A9565D76</p>
 </div>
@@ -1601,10 +1601,10 @@ Radius of the sphere $= 0.4 \ \text {cm}$
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_prbd</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "16"
 ---
 <div class='paper'>
@@ -555,10 +555,10 @@ $51$ is the first number in the pattern which is greater than $48$.
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -2102,10 +2102,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>
@@ -2484,10 +2484,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2918,7 +2918,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>79C9163C-A4D6-4C83-870C-4A5426B23C1E</p>
 </div>
@@ -2926,10 +2926,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_prbd</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4144,10 +4144,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -5115,10 +5115,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prccrl</p>

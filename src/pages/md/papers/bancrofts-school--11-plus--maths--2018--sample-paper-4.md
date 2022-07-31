@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "37"
 ---
 <div class='paper'>
@@ -721,10 +721,10 @@ $
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2402,10 +2402,10 @@ Smallest angle $= 35 \degree$
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3483,10 +3483,10 @@ $
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3821,10 +3821,10 @@ $
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4010,10 +4010,10 @@ $
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4302,10 +4302,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4483,10 +4483,10 @@ $
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7262,10 +7262,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7961,10 +7961,10 @@ Number of $5$ seated tables $= 4$
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>

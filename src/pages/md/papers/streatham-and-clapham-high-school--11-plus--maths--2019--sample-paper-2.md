@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "43"
 ---
 <div class='paper'>
@@ -620,10 +620,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1163,10 +1163,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2218,10 +2218,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2420,10 +2420,10 @@ CHECK WORKING (126÷n=9......126/n = 9.....126 = 9xn.... then the 9n = 126 step)
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3139,10 +3139,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4888,10 +4888,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5094,10 +5094,10 @@ $= 4.272$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -5296,10 +5296,10 @@ Write As per the question
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6400,10 +6400,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7403,10 +7403,10 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -7841,10 +7841,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8636,10 +8636,10 @@ Perimeter of the shape remain same after removing tile $5$.
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

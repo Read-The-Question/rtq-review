@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-6-notstarted"
 title: "TopicPaper - Sequence - 6 - NOTSTARTED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "5"
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -594,10 +594,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -771,10 +771,10 @@ The first three digist number in the sequence will be $107$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -979,10 +979,10 @@ The first negative number in the sequence = $-1$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

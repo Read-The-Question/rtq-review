@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "45"
 ---
 <div class='paper'>
@@ -2076,7 +2076,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>968EE108-F6FB-4476-B6DF-7B810890B1BC</p>
 </div>
@@ -2084,10 +2084,10 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2095,7 +2095,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -3395,7 +3395,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6</p>
 </div>
@@ -3403,10 +3403,10 @@ $
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4256,10 +4256,10 @@ $
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8135,10 +8135,10 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>

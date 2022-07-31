@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "40"
 ---
 <div class='paper'>
@@ -242,7 +242,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>21511D1A-FF15-4A6C-BE70-80AD295DC47B</p>
 </div>
@@ -250,10 +250,10 @@ $
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_prbd</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2399,7 +2399,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
 </div>
@@ -2410,7 +2410,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3712,7 +3712,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
 </div>
@@ -3723,7 +3723,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4313,7 +4313,7 @@ Other two angles $= 42 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C4397B4E-BA18-4B0D-A072-7C5F9C2B0637</p>
 </div>
@@ -4324,7 +4324,7 @@ Other two angles $= 42 \degree$
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5755,7 +5755,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
 </div>
@@ -5766,7 +5766,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9795,7 +9795,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A9712DDD-B6B1-40F8-80F2-D8628FB0991D</p>
 </div>
@@ -9806,7 +9806,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -10301,7 +10301,7 @@ show working for y = 30 ... y = 180/6......
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A0A77D60-5EEA-4032-8189-BBF34C693D13</p>
 </div>
@@ -10309,10 +10309,10 @@ show working for y = 30 ... y = 180/6......
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:26</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_prbd</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

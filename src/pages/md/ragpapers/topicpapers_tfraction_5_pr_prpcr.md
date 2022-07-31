@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-pr-prpcr"
 title: "TopicPaper - Fraction - 5 - PR - PRPCR"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "3"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -202,10 +202,10 @@ show how many triangles we need to shade to get 3/8, you have done similar quest
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:39</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -460,10 +460,10 @@ use abbreviation to write the formula for surface area of cube at the top, same 
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>

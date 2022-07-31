@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-oldpr-prcr"
 title: "TopicPaper - Algebra - 15 - OLDPR - PRCR"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "4"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_oldpr</p>
+<p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -401,10 +401,10 @@ Not solved : solve please. same like before parts.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_oldpr</p>
+<p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -691,10 +691,10 @@ refer 0A0A949A-4315-41A1-A28D-C39E8F6FC5E9 part b . but keep boxed.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_oldpr</p>
+<p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -897,10 +897,10 @@ Wrong answer . refer 3ACC56E9-45C3-48B3-BD78-324451DE6879, change blue answer al
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_oldpr</p>
+<p>rag_am_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

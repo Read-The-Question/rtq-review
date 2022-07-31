@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "23"
 ---
 <div class='paper'>
@@ -993,10 +993,10 @@ $
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1396,7 +1396,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1F8FCC2E-7969-46DC-AD0C-AA18C14714DA</p>
 </div>
@@ -1404,10 +1404,10 @@ $
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1415,7 +1415,7 @@ $
 <div class='topics'>
 <ul>
 <li>
-tdetailedmultiplication
+tnumber
 </li>
 </ul>
 </div>
@@ -2012,10 +2012,10 @@ The answer that could not be possible $= 25 \times 4$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2754,10 +2754,10 @@ The number I was thinking of $= 5$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3743,10 +3743,10 @@ TODOANSWER
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4321,10 +4321,10 @@ DONE Last line = 9 (not is 9)
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

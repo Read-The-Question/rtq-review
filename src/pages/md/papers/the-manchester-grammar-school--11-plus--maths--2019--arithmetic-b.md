@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic B"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "11"
 ---
 <div class='paper'>
@@ -22,10 +22,10 @@ questions_count: "11"
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2994,10 +2994,10 @@ $\dfrac {1}{2}$ of $1$ sec is $0.5$ secs.
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

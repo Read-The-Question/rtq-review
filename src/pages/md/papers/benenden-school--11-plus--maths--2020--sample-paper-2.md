@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "17"
 ---
 <div class='paper'>
@@ -632,10 +632,10 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4247,7 +4247,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4DFDE872-CA9D-4835-9FCF-E33BB1673E98</p>
 </div>
@@ -4258,7 +4258,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

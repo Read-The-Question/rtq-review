@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-6"
 title: "TopicPaper - Sequence - 6"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "22"
 ---
 <div class='paper'>
@@ -428,10 +428,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -692,10 +692,10 @@ Smallest common number $= 27$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2044,10 +2044,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3099,10 +3099,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4511,10 +4511,10 @@ $
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:28</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

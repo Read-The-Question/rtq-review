@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-1-oldpr"
 title: "TopicPaper - Speed - 1 - OLDPR"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "2"
 ---
 <ul class='question default-decimal'>

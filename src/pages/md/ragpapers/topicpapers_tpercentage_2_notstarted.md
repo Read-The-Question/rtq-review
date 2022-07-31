@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-2-notstarted"
 title: "TopicPaper - Percentage - 2 - NOTSTARTED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "2"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -143,10 +143,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "26"
 ---
 <div class='paper'>
@@ -22,10 +22,10 @@ questions_count: "26"
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1916,10 +1916,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5625,7 +5625,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prbd question'>
 <div class='uuid'>
 <p>54CAAF21-5640-4453-94EA-660CB9EDE5B7</p>
 </div>
@@ -5633,10 +5633,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>
@@ -7272,7 +7272,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C86CCE8C-C5E9-488B-8AF1-0291B3C4DD65</p>
 </div>
@@ -7280,10 +7280,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7291,7 +7291,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tdetailedsubtraction
+tnumber
 </li>
 </ul>
 </div>

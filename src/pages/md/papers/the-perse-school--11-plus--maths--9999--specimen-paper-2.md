@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-2"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 2"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "25"
 ---
 <div class='paper'>
@@ -188,10 +188,10 @@ $63401$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1378,10 +1378,10 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_mm_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1764,10 +1764,10 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g0</p>
+<p>rag_da_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3888,10 +3888,10 @@ LAst sentence : The missing number = 4
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4187,10 +4187,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4764,10 +4764,10 @@ Change your bleu answer also.
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

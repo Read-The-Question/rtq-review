@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "13"
 ---
 <div class='paper'>
@@ -749,10 +749,10 @@ $
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

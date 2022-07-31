@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-oldpr"
 title: "TopicPaper - Number - 20 - OLDPR"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "2"
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_mm_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -246,10 +246,10 @@ This is not done per comments??? please look at how the other one is written usi
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:9</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_mm_oldpr</p>
+<p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

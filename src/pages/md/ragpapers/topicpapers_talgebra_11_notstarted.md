@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-notstarted"
 title: "TopicPaper - Algebra - 11 - NOTSTARTED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "8"
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:3:3</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -312,10 +312,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -463,10 +463,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:5</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -620,10 +620,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:9</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -774,10 +774,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:10</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1041,10 +1041,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:3:1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1582,10 +1582,10 @@ A,B and C would be $3,1 \ \text{and} \ 2$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:3:2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2148,10 +2148,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:3:5</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

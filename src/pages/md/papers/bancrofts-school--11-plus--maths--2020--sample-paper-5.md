@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2020-sample-paper-5"
 title: "Bancrofts School - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "11"
 ---
 <div class='paper'>
@@ -2346,7 +2346,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prbd question'>
 <div class='uuid'>
 <p>4AE454C7-A1FE-4AA5-81F3-60BA4730C49F</p>
 </div>
@@ -2354,10 +2354,10 @@ $
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>
@@ -2366,9 +2366,6 @@ $
 <ul>
 <li>
 tfraction
-</li>
-<li>
-tdraw
 </li>
 </ul>
 </div>
@@ -3535,10 +3532,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>

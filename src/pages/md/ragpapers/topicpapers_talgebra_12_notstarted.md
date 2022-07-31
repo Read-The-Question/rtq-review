@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-notstarted"
 title: "TopicPaper - Algebra - 12 - NOTSTARTED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "16"
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:15</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -171,10 +171,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -618,10 +618,10 @@ The lowest weight Josephine need to put on $=8.6 \ \text{kg}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -989,10 +989,10 @@ $\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for m
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1165,10 +1165,10 @@ Delius paid $\pounds 4$. So, all four friends paid $\pounds 4$ each.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1464,10 +1464,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1752,10 +1752,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:11</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1891,10 +1891,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:16</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2044,10 +2044,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2199,10 +2199,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:9</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2354,10 +2354,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2645,10 +2645,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2801,10 +2801,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3094,10 +3094,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:30</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3260,10 +3260,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:23</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3419,10 +3419,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:25</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

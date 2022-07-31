@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "23"
 ---
 <div class='paper'>
@@ -941,10 +941,10 @@ $
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1551,10 +1551,10 @@ $
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1710,10 +1710,10 @@ TODOANSWER
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2096,10 +2096,10 @@ $
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2255,10 +2255,10 @@ TODOANSWER
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2759,10 +2759,10 @@ same in alternative solution too...
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3981,10 +3981,10 @@ Largest possible product $= 105$
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

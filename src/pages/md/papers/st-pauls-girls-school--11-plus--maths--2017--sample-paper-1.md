@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "31"
 ---
 <div class='paper'>
@@ -329,10 +329,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1316,10 +1316,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1488,10 +1488,10 @@ $42$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1915,7 +1915,7 @@ change your answer accoridngly...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>D315CB50-201F-44CC-B34C-D567BD5B3098</p>
 </div>
@@ -1923,10 +1923,10 @@ change your answer accoridngly...
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2009,24 +2009,14 @@ On $1 \text{st}$ December $2008$ my grandmother was $80$ years old. Her daughter
 <div class='workings'>
 <div class='working'>
 
-Grandmother's age on $1 \text {st}$ December $2008 = 80 \ \text {years}$
-
-Her daughter's on $1 \text {st}$ December $1996 = 40 \ \text {years}$
-
-As per the question,
-
 $
 \begin {aligned}
-\text {Daughter’s date of birth}    &= 1 \ \text {st December} \ 1996 - 40 \ \text {years} \\\\
-                                    &= 1 \ \text {st December} \ 1956 
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Grandmother's age on her daughter's birth}   &= 80 - (1 \ \text {st December} \ 2008 - 1 \ \text {st December} \ 1956) \\\\
-                                                    &= 80 - 52 \\\\
-                                                    &= 28 \ \text {years}
+\text {Grandmother's date of birth}             &= 1 \text {st December} \ 2008 - 80 \ \text {years} \\\\
+                                                &= 1 \text {st December} \ 1928 \\\\
+\text {Daughter’s date of birth}                &= 1 \text {st December} \ 1996 - 40 \ \text {years} \\\\
+                                                &= 1 \text {st December} \ 1956 \\\\
+\text {Grandmother's age at daughter's birth}   &= 1 \text {st December} \ 1956 - 1 \text {st December} \ 1928 \\\\
+                                                &= 28 \ \text {years}
 \end {aligned}
 $
 
@@ -2042,24 +2032,14 @@ $28 \ \text{years}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Grandmother's age on $1 \text {st}$ December $2008 = 80 \ \text {years}$
-
-Her daughter's on $1 \text {st}$ December $1996 = 40 \ \text {years}$
-
-As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {Daughter’s date of birth}    &= 1 \ \text {st December} \ 1996 - 40 \ \text {years} \\\\
-                                    &= 1 \ \text {st December} \ 1956 
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Grandmother's age on her daughter's birth}   &= 80 - (1 \ \text {st December} \ 2008 - 1 \ \text {st December} \ 1956) \\\\
-                                                    &= 80 - 52 \\\\
-                                                    &= 28 \ \text {years}
+\text {Grandmother's date of birth}             &= 1 \text {st December} \ 2008 - 80 \ \text {years} \\\\
+                                                &= 1 \text {st December} \ 1928 \\\\
+\text {Daughter’s date of birth}                &= 1 \text {st December} \ 1996 - 40 \ \text {years} \\\\
+                                                &= 1 \text {st December} \ 1956 \\\\
+\text {Grandmother's age at daughter's birth}   &= 1 \text {st December} \ 1956 - 1 \text {st December} \ 1928 \\\\
+                                                &= 28 \ \text {years}
 \end {aligned}
 $
 </code></pre>
@@ -2082,35 +2062,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' id='FORM-D315CB50-201F-44CC-B34C-D567BD5B3098' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' id='FORM-D315CB50-201F-44CC-B34C-D567BD5B3098' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2517,10 +2497,10 @@ check COst (make o small) check spacing \\
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2903,10 +2883,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3286,10 +3266,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3488,10 +3468,10 @@ Number of coins on the table $= 24$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4267,10 +4247,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4621,10 +4601,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5037,10 +5017,10 @@ Missing length $= 10 \ \text {cm}$.
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5191,10 +5171,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5462,10 +5442,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6003,10 +5983,10 @@ A,B and C would be $3,1 \ \text{and} \ 2$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7322,10 +7302,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-g2"
 title: "TopicPaper - Fraction - 1 - G2"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "34"
 ---
 <ul class='question default-decimal'>
@@ -2720,10 +2720,10 @@ $
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3294,10 +3294,10 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

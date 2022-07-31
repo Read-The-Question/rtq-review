@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2018-sample-paper-3"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "45"
 ---
 <div class='paper'>
@@ -198,10 +198,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1519,10 +1519,10 @@ $323.27$
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2443,10 +2443,10 @@ Length of the side of the square is $12 \ \text {cm}$.
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2987,10 +2987,10 @@ The longest length $= 52 \ \text{cm}$.
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3804,10 +3804,10 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4356,10 +4356,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5441,10 +5441,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Uday Pandey</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_up_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7465,10 +7465,10 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_am_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7645,10 +7645,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

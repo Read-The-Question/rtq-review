@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-oldpr-prcr"
 title: "TopicPaper - Algebra - 12 - OLDPR - PRCR"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

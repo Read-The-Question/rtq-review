@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-notstarted"
 title: "TopicPaper - Areaperimeter - 8 - NOTSTARTED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "9"
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:6</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -441,10 +441,10 @@ Length is $15 \ \text {cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -803,10 +803,10 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:2</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2357,10 +2357,10 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

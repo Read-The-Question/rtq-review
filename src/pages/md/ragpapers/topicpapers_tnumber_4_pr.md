@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-pr"
 title: "TopicPaper - Number - 4 - PR"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "3"
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:24</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -205,10 +205,10 @@ not written correctly, single num / deno, factor and cancellation missing
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>
@@ -833,10 +833,10 @@ remove extra working and answers in the main question
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_pr</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prpcr</p>

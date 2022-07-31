@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-6-blocked"
 title: "TopicPaper - Sequence - 6 - BLOCKED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "13"
 ---
 <ul class='question default-decimal'>

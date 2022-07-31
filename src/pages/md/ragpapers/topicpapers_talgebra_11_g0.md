@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-g0"
 title: "TopicPaper - Algebra - 11 - G0"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "4"
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -206,10 +206,10 @@ Cost of $4$ packets of crisps and $3$ drinks $= \pounds 2.60$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:35</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -412,10 +412,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:8</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -688,10 +688,10 @@ $
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

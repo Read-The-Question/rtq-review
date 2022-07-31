@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-2"
 title: "TopicPaper - Percentage - 2"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "6"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "6"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -153,10 +153,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -307,10 +307,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -491,10 +491,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -675,10 +675,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

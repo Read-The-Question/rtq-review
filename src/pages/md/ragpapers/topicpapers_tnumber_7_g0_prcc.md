@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-g0-prcc"
 title: "TopicPaper - Number - 7 - G0 - PRCC"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "2"
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -298,10 +298,10 @@ $
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_an_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

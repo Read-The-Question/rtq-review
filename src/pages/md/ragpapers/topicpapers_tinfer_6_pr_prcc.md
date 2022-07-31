@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-6-pr-prcc"
 title: "TopicPaper - Infer - 6 - PR - PRCC"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "1"
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:1:4</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

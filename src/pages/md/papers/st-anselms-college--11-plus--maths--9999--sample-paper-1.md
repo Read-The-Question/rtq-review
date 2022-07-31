@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "24"
 ---
 <div class='paper'>
@@ -316,10 +316,10 @@ $text {Two hundred ninety-nine million seven hundred ninety-two thousand four hu
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Sonam</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ss_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1299,10 +1299,10 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2215,10 +2215,10 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5037,10 +5037,10 @@ There are 82 blue counters in the bag.
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5782,10 +5782,10 @@ b: answer is wrong, has to be square number 15 has 1 as a factor too,
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6182,7 +6182,7 @@ $2, 14, 42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2B0AEF72-F769-4481-8C2F-34147267D61E</p>
 </div>
@@ -6190,10 +6190,10 @@ $2, 14, 42$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6291,10 +6291,9 @@ As per the question,
 $
 \begin {aligned}
 2 \times (a + 3)                                        &= 2 \dfrac {1} {2} \times a + 3 \\\\
-2a + 6                                                  &= \dfrac {5} {2} \times a + 3 \\\\
 2a + 6                                                  &= \dfrac {5a} {2} + 3 \\\\
 2a - \dfrac {5a} {2}                                    &= 3 - 6 \\\\
-\dfrac {2a \times 2} {1 \times 2} - \dfrac {5a} {2}     &= -3 \\\\
+\dfrac {2a \times 2} {2} - \dfrac {5a} {2}              &= -3 \\\\
 \dfrac {4a} {2} - \dfrac {5a} {2}                       &= -3 \\\\
 \dfrac {4a - 5a} {2}                                    &= -3 \\\\
 {}- \dfrac {a} {2}                                      &= -3 \\\\
@@ -6305,9 +6304,7 @@ a                                                       &= 6 \ \text {years}
 \end {aligned}
 $
 
-Anna’s age in $2006$ $= 6 \ \text {years}$
-
-Let's find the age of the three girls in $2009$,
+Let's find the age of the three girls in $2009$.
 
 $
 \begin {aligned}
@@ -6359,10 +6356,9 @@ As per the question,
 $
 \begin {aligned}
 2 \times (a + 3)                                        &= 2 \dfrac {1} {2} \times a + 3 \\\\
-2a + 6                                                  &= \dfrac {5} {2} \times a + 3 \\\\
 2a + 6                                                  &= \dfrac {5a} {2} + 3 \\\\
 2a - \dfrac {5a} {2}                                    &= 3 - 6 \\\\
-\dfrac {2a \times 2} {1 \times 2} - \dfrac {5a} {2}     &= -3 \\\\
+\dfrac {2a \times 2} {2} - \dfrac {5a} {2}              &= -3 \\\\
 \dfrac {4a} {2} - \dfrac {5a} {2}                       &= -3 \\\\
 \dfrac {4a - 5a} {2}                                    &= -3 \\\\
 {}- \dfrac {a} {2}                                      &= -3 \\\\
@@ -6373,9 +6369,7 @@ a                                                       &= 6 \ \text {years}
 \end {aligned}
 $
 
-Anna’s age in $2006$ $= 6 \ \text {years}$
-
-Let's find the age of the three girls in $2009$,
+Let's find the age of the three girls in $2009$.
 
 $
 \begin {aligned}
@@ -6433,35 +6427,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' id='FORM-2B0AEF72-F769-4481-8C2F-34147267D61E' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' id='FORM-2B0AEF72-F769-4481-8C2F-34147267D61E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

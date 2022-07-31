@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2014-sample-paper-5"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "30"
 ---
 <div class='paper'>
@@ -1784,10 +1784,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2474,7 +2474,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4</p>
 </div>
@@ -2482,10 +2482,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2569,22 +2569,14 @@ Hermione was $7$ years ago?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin {aligned}
 \text {Mother's age}    &= 12 \times \text {Hermione's age} \ 7 \ \text {years ago} \\\\
-                        &= 12 \times 11 -  \\\\
+                        &= 12 \times (11 - 7) \\\\
                         &= 12 \times 4 \\\\
-                        &= 48 \ \text {years}
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Hermione's age}  &= \text {Mother's age} - \text {Difference between their ages} \\\\
-                        &= 48 - (43 - 11) \\\\
-                        &= 48 - 32 \\\\
+                        &= 48 \ \text {years} \\\\
+\text {Hermione's age}  &= 11 + (48 - 43) \\\\
+                        &= 11 + 5 \\\\
                         &= 16 \ \text {years}
 \end {aligned}
 $
@@ -2601,22 +2593,14 @@ $16 \ \text {years}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Mother's age}    &= 12 \times \text {Hermione's age} \ 7 \ \text {years ago} \\\\
-                        &= 12 \times 11 -  \\\\
+                        &= 12 \times (11 - 7) \\\\
                         &= 12 \times 4 \\\\
-                        &= 48 \ \text {years}
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Hermione's age}  &= \text {Mother's age} - \text {Difference between their ages} \\\\
-                        &= 48 - (43 - 11) \\\\
-                        &= 48 - 32 \\\\
+                        &= 48 \ \text {years} \\\\
+\text {Hermione's age}  &= 11 + (48 - 43) \\\\
+                        &= 11 + 5 \\\\
                         &= 16 \ \text {years}
 \end {aligned}
 $
@@ -2640,35 +2624,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' id='FORM-5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' id='FORM-5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2688,10 +2672,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2841,10 +2825,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2996,10 +2980,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5595,10 +5579,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6180,10 +6164,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-12"
 title: "TopicPaper - Algebra - 12"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -453,10 +453,10 @@ Cost of a cup of tea $= \pounds 1.70$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -656,10 +656,10 @@ CALL ARAVIND
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -858,10 +858,10 @@ CHECK WORKING (126÷n=9......126/n = 9.....126 = 9xn.... then the 9n = 126 step)
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1068,10 +1068,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:25</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1270,10 +1270,10 @@ Write As per the question
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:9</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1509,10 +1509,10 @@ Follow coding guilines.. no need to put L and S in text..  too many correction, 
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:11</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_as_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1727,10 +1727,10 @@ Number of helpers $= 8$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:15</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1884,10 +1884,10 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2100,10 +2100,10 @@ step 1: bring out of katex and make it line 1 as: Let the missing number be $=a$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2308,10 +2308,10 @@ Wrong format -                                                                  
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2495,10 +2495,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2853,10 +2853,10 @@ $
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3126,10 +3126,10 @@ refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3328,10 +3328,10 @@ start katex with
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3632,10 +3632,10 @@ Cost of the drink $= \pounds 2$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3826,10 +3826,10 @@ George's marks $= 24$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4230,10 +4230,10 @@ The smallest number of crates needed in total to store $110$ cartons of milk $= 
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4447,10 +4447,10 @@ Number of sweets Ravi got $= 12$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4894,10 +4894,10 @@ The lowest weight Josephine need to put on $=8.6 \ \text{kg}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5265,10 +5265,10 @@ $\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for m
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:26</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5441,10 +5441,10 @@ Delius paid $\pounds 4$. So, all four friends paid $\pounds 4$ each.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:15</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5872,10 +5872,10 @@ $\text{One orange and five apples}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:21</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6160,10 +6160,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:11</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6299,10 +6299,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:16</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6452,10 +6452,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:17</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6607,10 +6607,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6828,10 +6828,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:9</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6983,10 +6983,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:21</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7274,10 +7274,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:11</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7430,10 +7430,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:18</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7723,10 +7723,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:30</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7889,10 +7889,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_oldpr</p>
+<p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -8174,10 +8174,10 @@ a x b = 6 x 8 = 48
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:16</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -8386,10 +8386,10 @@ The number that Sam thought of $= 15$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:23</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8545,10 +8545,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:25</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_notstarted</p>
+<p>rag_as_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8841,10 +8841,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:5</p>
 </div>
 <div class='rag'>
-<p>Ayushi Mishra</p>
+<p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_am_g0</p>
+<p>rag_as_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

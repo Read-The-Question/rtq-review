@@ -1,8 +1,8 @@
 ---
 slug: "topicpapers/topicpapers-tratio-4"
 title: "TopicPaper - Ratio - 4"
-date: 2022-07-29 20:06:43
-questions_count: "13"
+date: 2022-07-31 17:43:09
+questions_count: "15"
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,6 +15,347 @@ questions_count: "13"
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288'>Initial</p>
+<div class='question question'>
+
+To bake 2 cakes, Jo uses
+
+| Quantity          | Ingredients         |
+|-------------------|---------------------|
+| $300 \ \text{g}$  | flour               |
+| $8$               | egss                |
+| $7$               | tablespoons of milk |
+| $38 \ \text{g}$   | coconut             |
+| $1.4 \ \text{ml}$ | vanilla essence     |
+
+Write down the amounts she needs for $5$ cakes 
+
+| Quantity   | Ingredients         |
+|------------|---------------------|
+|            | flour               |
+|            | egss                |
+|            | tablespoons of milk |
+|            | coconut             |
+|            | vanilla essence     |
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+| Quantity          | Ingredients         |
+|-------------------|---------------------|
+| $150 \ \text{g}$  | flour               |
+| $4$               | egss                |
+| $3.5$             | tablespoons of milk |
+| $19 \ \text{g}$   | coconut             |
+| $0.7 \ \text{ml}$ | vanilla essence     |
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>| Quantity          | Ingredients         |
+|-------------------|---------------------|
+| $150 \ \text{g}$  | flour               |
+| $4$               | egss                |
+| $3.5$             | tablespoons of milk |
+| $19 \ \text{g}$   | coconut             |
+| $0.7 \ \text{ml}$ | vanilla essence     |
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>8F20C671-EFDE-4929-8A63-E6C396CD2106</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:16</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='8F20C671-EFDE-4929-8A63-E6C396CD2106' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-8F20C671-EFDE-4929-8A63-E6C396CD2106'>Initial</p>
+<div class='question question'>
+
+A red light flashes four times a minute and a green light flashes six times a minute. If both lights start flashing at the same instant, how many times do they flash at the same instant in one hour including the first and the last time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the interval at which green and red light flashes.
+
+$
+\begin{aligned}
+4 \text{ red flashes }  &: 1 \ \text{minute} \\\\
+4 \text{ red flashes }  &: 60 \ \text{seconds} \\\\
+1 \text{ red flash }    &: \dfrac {60}{4} \ \text{seconds} \\\\
+1 \text{ red flash }    &: 15 \ \text{seconds} \\\\
+6 \text{ green flashes }    &: 1 \ \text{minute} \\\\
+6 \text{ green flashes }    &: 60 \ \text{seconds} \\\\
+1 \text{ green flash }      &: \dfrac {60}{6} \ \text{seconds} \\\\
+1 \text{ green flash }      &: 10 \ \text{seconds}
+\end{aligned}
+$
+
+
+The interval at the which both the light will flash together will be the LCM of their respective intervals.
+LCM of $10 \ \text{and} \ 15 = 30$.
+
+Both the lights will flash together every $30$ seconds i.e. $2$ times every minute.
+
+Now let's find the number of times they flash together in $1$ hour (including the start and then end time)
+
+$
+\begin{aligned}
+&= 2 \times 60 + 1 \\\\
+&= 120 + 1 \\\\
+&= 121
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$121$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let's find the interval at which green and red light flashes.
+
+$
+\begin{aligned}
+4 \text{ red flashes }  &: 1 \ \text{minute} \\\\
+4 \text{ red flashes }  &: 60 \ \text{seconds} \\\\
+1 \text{ red flash }    &: \dfrac {60}{4} \ \text{seconds} \\\\
+1 \text{ red flash }    &: 15 \ \text{seconds} \\\\
+6 \text{ green flashes }    &: 1 \ \text{minute} \\\\
+6 \text{ green flashes }    &: 60 \ \text{seconds} \\\\
+1 \text{ green flash }      &: \dfrac {60}{6} \ \text{seconds} \\\\
+1 \text{ green flash }      &: 10 \ \text{seconds}
+\end{aligned}
+$
+
+
+The interval at the which both the light will flash together will be the LCM of their respective intervals.
+LCM of $10 \ \text{and} \ 15 = 30$.
+
+Both the lights will flash together every $30$ seconds i.e. $2$ times every minute.
+
+Now let's find the number of times they flash together in $1$ hour (including the start and then end time)
+
+$
+\begin{aligned}
+&= 2 \times 60 + 1 \\\\
+&= 120 + 1 \\\\
+&= 121
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$121$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>

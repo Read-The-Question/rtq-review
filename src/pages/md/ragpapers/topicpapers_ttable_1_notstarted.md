@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttable-1-notstarted"
 title: "TopicPaper - Table - 1 - NOTSTARTED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "38"
 ---
 <ul class='question default-decimal'>
@@ -2306,6 +2306,273 @@ TODOANSWER
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='uuid'>
+<p>96D522A9-D090-405A-8EAA-4F13137334B7</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3:1:21</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='96D522A9-D090-405A-8EAA-4F13137334B7' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-96D522A9-D090-405A-8EAA-4F13137334B7'>Initial</p>
+<div class='question question'>
+
+Complete the table showing whether pupils walk to school or not and answer the questions below.
+
+
+<!--
+        ,Walk   ,Don’t walk     ,Total
+Girls   ,$6$    ,               ,$11$
+Boys    ,       ,$8$            ,
+Total   ,       ,               ,$23$
+-->
+
+|           | Walk     | Don’t walk     | Total     |
+|:-----:    |:----:    |:----------:    |:-----:    |
+| Girls     |  $6$     |                |  $11$     |
+|  Boys     |          |     $8$        |           |
+| Total     |          |                |  $23$     |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of the pupils are boys who walk to school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {number of boys}          &= \text {Total pupils} - \text {number of girls} \\\\
+                                &= 23 - 11 \\\\
+                                &= 12 \\\\
+\text {number of boys who walk} &= \text {number of boys} - \text {boys who don't walk} \\\\
+                                &= 12 - 8 \\\\
+                                &= 4
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {fraction of boys who walk to school} &= \dfrac {4} {23}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {23}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {number of boys}          &= \text {Total pupils} - \text {number of girls} \\\\
+                                &= 23 - 11 \\\\
+                                &= 12 \\\\
+\text {number of boys who walk} &= \text {number of boys} - \text {boys who don't walk} \\\\
+                                &= 12 - 8 \\\\
+                                &= 4
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {fraction of boys who walk to school} &= \dfrac {4} {23}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {4} {23}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of the girls don’t walk to school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {fraction of the who girls don’t walk to school} &= \dfrac {11 - 6} {23} \\\\
+                                                       &= \dfrac {5} {23}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {23}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {fraction of the who girls don’t walk to school} &= \dfrac {11 - 6} {23} \\\\
+                                                       &= \dfrac {5} {23}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {5} {23}$
 </code></pre>
 </div>
 </div>
@@ -9366,445 +9633,6 @@ TODOANSWER
 </div>
 </div>
 
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>AE46F128-2775-4636-BF19-455F903C2CC3</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:1:5</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttable
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='AE46F128-2775-4636-BF19-455F903C2CC3' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-AE46F128-2775-4636-BF19-455F903C2CC3'>Initial</p>
-<div class='question question'>
-
-The table below shows four different makes of car each with four different engine sizes, in litres, and the Insurance Group for each. For example a Hissan $1.5$ car is in Insurance Group B.
-
-<!--
-                ,Car type   ,Skoyota    ,Hissan     ,Foxhall    ,Jagley
-Engine size     ,           ,           ,           ,
-$1.1$           ,           ,A          ,A          ,A          ,-
-$1.2$           ,           ,A          ,A          ,B          ,-
-$1.5$           ,           ,B          ,B          ,B          ,C
-$1.9$           ,           ,-          ,C          ,B          ,D
--->
-
-|                 | Car type     | Skoyota     | Hissan     | Foxhall     | Jagley     |
-|:-----------:    |:--------:    |:-------:    |:------:    |:-------:    |:------:    |
-| Engine size     |              |             |            |             |            |
-|    $1.1$        |              |    A        |    A       |    A        |    -       |
-|    $1.2$        |              |    A        |    A       |    B        |    -       |
-|    $1.5$        |              |    B        |    B       |    B        |    C       |
-|    $1.9$        |              |    -        |    C       |    B        |    D       |
-
-The second table shows the monthly insurance payment paid by drivers of different age bands for each of the insurance groups, so a person aged $37$ would be in the age band $21 - 45$ and so would pay $\pounds 105$ each month for a car in Insurance group C.
-
-
-<!--
-                    ,Age band       ,Under 21       ,21 - 45        ,Over 45
-Insurance Group     ,               ,               ,               ,
-A                   ,               ,$\pounds 90$   ,$\pounds 80$   ,$\pounds 70$
-B                   ,               ,$\pounds 110$  ,$\pounds 95$   ,$\pounds 85$
-C                   ,               ,$\pounds 122$  ,$\pounds 105$  ,$\pounds 98$
-D                   ,               ,$\pounds 190$  ,$\pounds 160$  ,$\pounds 170$
--->
-
-|                     | Age band     |    Under 21       |    21 - 45        |    Over 45        |
-|:---------------:    |:--------:    |:-------------:    |:-------------:    |:-------------:    |
-| Insurance Group     |              |                   |                   |                   |
-|        A            |              |  $\pounds 90$     |  $\pounds 80$     |  $\pounds 70$     |
-|        B            |              | $\pounds 110$     |  $\pounds 95$     |  $\pounds 85$     |
-|        C            |              | $\pounds 122$     | $\pounds 105$     |  $\pounds 98$     |
-|        D            |              | $\pounds 190$     | $\pounds 160$     | $\pounds 170$     |
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much will a $19$ year old pay for a Foxhall $1.5$ car each month?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Refer to Table $1$ Column: Foxhall Row: Engine $1.5$ size
-
-Foxhall $1.5$ belongs to Group $B$
-
-for Insurance amount Refer to Table $2$ Column: Under $21$ Row: $B$
-
-Under $21$, with Insurance Group $B$ pays $\pounds 110$ insurance per month. 
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 110$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Refer to Table $1$ Column: Foxhall Row: Engine $1.5$ size
-
-Foxhall $1.5$ belongs to Group $B$
-
-for Insurance amount Refer to Table $2$ Column: Under $21$ Row: $B$
-
-Under $21$, with Insurance Group $B$ pays $\pounds 110$ insurance per month. 
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 110$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-A $30$ year old pays $\pounds 95$ for a Hissan car. What is the engine size of their car, in litres?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Refer to Table $2$ Column: Under $21 - 45$ and find which Insurance Group $\pounds 95$ belongs to.
-
-Under  $21 - 45$ $\pounds 95$ payment belongs to Insurance Group $B$
-
-to find the Engine size refer to Table $1$ Column: Hissan, find $B$ and then the respective Row for Engine size $1.5$
-
-Hissan with Insurance Group $B$ belongs to Engine size $1.5$ litres
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.5 \ \text {ltrs}$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Refer to Table $2$ Column: Under $21 - 45$ and find which Insurance Group $\pounds 95$ belongs to.
-
-Under  $21 - 45$ $\pounds 95$ payment belongs to Insurance Group $B$
-
-to find the Engine size refer to Table $1$ Column: Hissan, find $B$ and then the respective Row for Engine size $1.5$
-
-Hissan with Insurance Group $B$ belongs to Engine size $1.5$ litres
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1.5 \ \text {ltrs}$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much would a $50$ year old person **save** each month by using a $1.1$ Hissan car rather than a $1.9$ Hissan car?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1.1$ Hissan car belongs to Insurance Group $A$
-
-A $50$ year old pays $\pounds 70$ under Insurance Group $A$
-
-$1.9$ Hissan car belongs to Insurance Group $B$ 
-
-A $50$ year old pays $\pounds 98$ under Insurance Group $B$
-
-Savings per year by using a $1.1$  instead of $1.9$  Engine Hissan car:
-
-$\pounds 98 - \pounds 70 = \pounds 28$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 28$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>$1.1$ Hissan car belongs to Insurance Group $A$
-
-A $50$ year old pays $\pounds 70$ under Insurance Group $A$
-
-$1.9$ Hissan car belongs to Insurance Group $B$ 
-
-A $50$ year old pays $\pounds 98$ under Insurance Group $B$
-
-Savings per year by using a $1.1$  instead of $1.9$  Engine Hissan car:
-
-$\pounds 98 - \pounds 70 = \pounds 28$
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 28$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-If a 32 year old pays $\pounds 95$ for a Skoyota car, what would a $20$ year old pay for a Jagley car with the same size engine?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Refer to : Column $\text {Under} \ 21 -45$, $\pounds 95$ to find the Insurance Group
-
-$\quad \pounds 95$ belongs to Insurance Group $B$
-
-Now refer to: column Skoyota, Insurance Group $B$ to find the Engine size.
-
-Group $B$ belongs to Engine size $1.5$
-
-Same size Jagley belongs to Insurance Group $C$
-
-Now refer again to Table $2$ column Under $20$ and then Row Insurance Group $C$ to find the amount.
-
-Under $21$, Insurance Group $C$ pays $\pounds 122$ per month
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 122$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Refer to : Column $\text {Under} \ 21 -45$, $\pounds 95$ to find the Insurance Group
-
-$\quad \pounds 95$ belongs to Insurance Group $B$
-
-Now refer to: column Skoyota, Insurance Group $B$ to find the Engine size.
-
-Group $B$ belongs to Engine size $1.5$
-
-Same size Jagley belongs to Insurance Group $C$
-
-Now refer again to Table $2$ column Under $20$ and then Row Insurance Group $C$ to find the amount.
-
-Under $21$, Insurance Group $C$ pays $\pounds 122$ per month
-
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 122$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 
 </div>
 </li>

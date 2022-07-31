@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgeometry-3"
 title: "TopicPaper - Geometry - 3"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "37"
 ---
 <div class='paper'>

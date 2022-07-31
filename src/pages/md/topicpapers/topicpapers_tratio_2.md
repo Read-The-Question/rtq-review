@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-2"
 title: "TopicPaper - Ratio - 2"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "40"
 ---
 <div class='paper'>
@@ -8518,6 +8518,316 @@ blue answer : 63 girls
 </div>
 </li>
 <li>
+<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='uuid'>
+<p>FE32E051-0F48-40A7-BF59-E3A509ED27DF</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:9</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FE32E051-0F48-40A7-BF59-E3A509ED27DF' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-FE32E051-0F48-40A7-BF59-E3A509ED27DF'>Initial</p>
+<div class='question question'>
+
+There are $6$ fangos in a rango and $15$ rangos in a bango.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Alex has $9$ rangos and $4$ fangos. Barbara has $7$ rangos and $3$ fangos. How many fangos do they both have in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total fangos} &= \text {Alex's fangos} + \text {Barbara's fangos} \\\\
+                     &= (9 \times 6 + 4) + (7 \times 6 + 3) \\\\
+                     &= (54 + 4) + (42 + 3) \\\\
+                     &= 58 + 45 \\\\
+                     &= 103 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$103$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Total fangos} &= \text {Alex's fangos} + \text {Barbara's fangos} \\\\
+                     &= (9 \times 6 + 4) + (7 \times 6 + 3) \\\\
+                     &= (54 + 4) + (42 + 3) \\\\
+                     &= 58 + 45 \\\\
+                     &= 103 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$103$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of a bango do $12$ fangos represent?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \ \text{bango} &= 15 \ \text{rangos} \\\\
+1 \ \text{bango} &= 15 \times 6 \ \text{fangos} \\\\
+1 \ \text{bango} &= 90 \ \text{fangos} \\\\
+\text{Fraction} &= \dfrac{12 \ \text{fangos}}{1 \ \text{bango}} \\\\
+&= \dfrac{12 \ \text{fangos}}{90 \ \text{fangos}} \\\\
+&= \dfrac{2 \times 6}{6 \times 15} \\\\
+&= \dfrac{2 \times \cancel 6}{\cancel 6 \times 15} \\\\
+&= \dfrac {2} {15}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {15}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+1 \ \text{bango} &= 15 \ \text{rangos} \\\\
+1 \ \text{bango} &= 15 \times 6 \ \text{fangos} \\\\
+1 \ \text{bango} &= 90 \ \text{fangos} \\\\
+\text{Fraction} &= \dfrac{12 \ \text{fangos}}{1 \ \text{bango}} \\\\
+&= \dfrac{12 \ \text{fangos}}{90 \ \text{fangos}} \\\\
+&= \dfrac{2 \times 6}{6 \times 15} \\\\
+&= \dfrac{2 \times \cancel 6}{\cancel 6 \times 15} \\\\
+&= \dfrac {2} {15}
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {2} {15}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many whole bangos are there in $274$ fangos? How many fangos are left over?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {274} {90} \\\\
+&= 3 \ \text {remainder} \ 4 \\\\
+&\approx 3
+\end{aligned}
+$
+
+$18$ whole bangos are there in $274$ fangos and $8$ fangos are left over.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18, 8$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \dfrac {274} {90} \\\\
+&= 3 \ \text {remainder} \ 4 \\\\
+&\approx 3
+\end{aligned}
+$
+
+$18$ whole bangos are there in $274$ fangos and $8$ fangos are left over.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$18, 8$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D7E4878B-A2D4-4A97-97AD-C9FAC3289EA2</p>
@@ -10141,208 +10451,6 @@ TODOANSWER
 </li>
 </ul>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>36415844-5CC2-4E29-9E67-F5B06F9F9D26</p>
-</div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:6</p>
-</div>
-<div class='rag'>
-<p>Waffles Woof</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-36415844-5CC2-4E29-9E67-F5B06F9F9D26'>Initial</p>
-<div class='question question'>
-
-Eleven pencils cost $\pounds 4.95$. How much would seven pencils cost?
-
-- $\pounds 3.50$
-- $\pounds 3.20$
-- $\pounds 4.00$
-- $\pounds 3.15$
-- $\pounds 4.15$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Cost of} \  11 \  \text{pencils}  &=  \pounds 4.95 \\\\
-\text{Cost of} \ 1  \ \text{pencils}  &=  4.95 \div 11 \\\\
-&=  \dfrac{4.95}{11} \\\\
-&=  0.45 \\\\
-\text{Cost of} \  7  \ \text{pencils}  &= 0.45 \times 7
-&=  \pounds 3.15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$\pounds 3.15$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
-\begin{aligned}
-\text{Cost of} \  11 \  \text{pencils}  &=  \pounds 4.95 \\\\
-\text{Cost of} \ 1  \ \text{pencils}  &=  4.95 \div 11 \\\\
-&=  \dfrac{4.95}{11} \\\\
-&=  0.45 \\\\
-\text{Cost of} \  7  \ \text{pencils}  &= 0.45 \times 7
-&=  \pounds 3.15
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>D</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 3.15$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-1.) Cost of...not The cost of, 2.) 0.45 not 0.0.45, 3.) write &= \pounds 3.15 in last line, 4.) in the answer its 3.15 not 3.156
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='36415844-5CC2-4E29-9E67-F5B06F9F9D26' id='FORM-36415844-5CC2-4E29-9E67-F5B06F9F9D26' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-36415844-5CC2-4E29-9E67-F5B06F9F9D26'>Initial</p>
-</div>
 </div>
 </li>
 </ul>

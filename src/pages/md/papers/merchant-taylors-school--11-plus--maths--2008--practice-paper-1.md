@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "31"
 ---
 <div class='paper'>
@@ -4614,10 +4614,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6850,10 +6850,10 @@ part (a): step 3 : = 1 x 60 minutes + 30 minutes
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
-<p>Deepak Agrahari</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_da_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7754,7 +7754,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>12BD4A22-072D-4543-95F1-81147B89584D</p>
 </div>
@@ -7765,7 +7765,7 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7944,15 +7944,32 @@ What will the temperature be by $0400 \ \text{hrs}$?
 <div class='workings'>
 <div class='working'>
 
-As per the question, the temperature rose for $6 \text{ hrs } (1800 \text{ hrs } - 1200 \text{ hrs})$ and then it fell for next $10 \text{ hrs } (0400 \text{ hrs }- 1800 \text{ hrs})$.
-
-Using that,
+Let the rate of fall of the temperature $= a$
 
 $
 \begin{aligned}
-\text{Temperature at 0400 hrs} &= 3 + 6 \times 1.5 - 10 \times 3 \\\\
-                               &= 3 + 9 - 30 \\\\
-                               &= -18 \degree \text{C}
+\text{Temperature at 1800 hrs}  &= 3 + 1.5 \times 6 \\\\
+                                &= 3 + 9 \\\\
+                                &= 12 \degree \text{C}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+12 - 6 \times a                 &= -3 \\\\
+6a                              &= 12 + 3 \\\\
+6a                              &= 15 \\\\
+a                               &= \dfrac {15}{6} \\\\
+a                               &= \dfrac {5 \times 3}{2 \times 3} \\\\
+a                               &= \dfrac {5 \times \cancel{3}}{2 \times \cancel{3}} \\\\
+a                               &= \dfrac {5}{2} \\\\
+a                               &= 2.5 \degree \text{C} \\\\
+\text{Temperature at 0400 hrs}  &= -3 - 4 \times a \\\\
+                                &= -3 -4 \times 2.5 \\\\
+                                &= -3 -10 \\\\
+                                &= -13 \degree \text{C}
 \end{aligned}
 $
 
@@ -7961,22 +7978,39 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-18 \degree \text{C}$
+$-13 \degree \text{C}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question, the temperature rose for $6 \text{ hrs } (1800 \text{ hrs } - 1200 \text{ hrs})$ and then it fell for next $10 \text{ hrs } (0400 \text{ hrs }- 1800 \text{ hrs})$.
-
-Using that,
+<pre class='language-latex'><code class='language-latex'>Let the rate of fall of the temperature $= a$
 
 $
 \begin{aligned}
-\text{Temperature at 0400 hrs} &= 3 + 6 \times 1.5 - 10 \times 3 \\\\
-                               &= 3 + 9 - 30 \\\\
-                               &= -18 \degree \text{C}
+\text{Temperature at 1800 hrs}  &= 3 + 1.5 \times 6 \\\\
+                                &= 3 + 9 \\\\
+                                &= 12 \degree \text{C}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+12 - 6 \times a                 &= -3 \\\\
+6a                              &= 12 + 3 \\\\
+6a                              &= 15 \\\\
+a                               &= \dfrac {15}{6} \\\\
+a                               &= \dfrac {5 \times 3}{2 \times 3} \\\\
+a                               &= \dfrac {5 \times \cancel{3}}{2 \times \cancel{3}} \\\\
+a                               &= \dfrac {5}{2} \\\\
+a                               &= 2.5 \degree \text{C} \\\\
+\text{Temperature at 0400 hrs}  &= -3 - 4 \times a \\\\
+                                &= -3 -4 \times 2.5 \\\\
+                                &= -3 -10 \\\\
+                                &= -13 \degree \text{C}
 \end{aligned}
 $
 </code></pre>
@@ -7990,7 +8024,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$-18 \degree \text{C}$
+<pre class='language-latex'><code class='language-latex'>$-13 \degree \text{C}$
 </code></pre>
 </div>
 </div>
@@ -7999,6 +8033,46 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='12BD4A22-072D-4543-95F1-81147B89584D' id='FORM-12BD4A22-072D-4543-95F1-81147B89584D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-12BD4A22-072D-4543-95F1-81147B89584D'>Initial</p>
+</div>
 </div>
 </li>
 <li>

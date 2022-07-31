@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2020-sample-paper-6"
 title: "Bancrofts School - 11 Plus - Maths - 2020 - Sample Paper 6"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "37"
 ---
 <div class='paper'>
@@ -756,10 +756,10 @@ This is not detailed way, detailed way means using array similar to what you hav
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1150,10 +1150,10 @@ This is not detailed way, detailed way means using array similar to what you hav
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7152,10 +7152,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7847,10 +7847,10 @@ Number of $5$ seated tables $= 4$
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>

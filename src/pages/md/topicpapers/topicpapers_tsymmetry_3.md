@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsymmetry-3"
 title: "TopicPaper - Symmetry - 3"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "8"
 ---
 <div class='paper'>

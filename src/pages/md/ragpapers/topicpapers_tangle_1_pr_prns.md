@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-pr-prns"
 title: "TopicPaper - Angle - 1 - PR - PRNS"
-date: 2022-07-29 20:06:43
-questions_count: "9"
+date: 2022-07-31 17:43:09
+questions_count: "10"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -687,6 +687,317 @@ Smallest angle $= 35 \degree$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-7D88A99B-2884-41F7-AFBF-593C0094BC10'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>80C8870A-6B9B-4FB9-A4D8-B4E543D84510</p>
+</div>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:19</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-80C8870A-6B9B-4FB9-A4D8-B4E543D84510'>Initial</p>
+<div class='question question'>
+
+(The drawing is NOT to scale)
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the missing angle $x \degree$. Explain how you did it.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 44 + 70     &= 180 \\\\
+x + 114         &= 180 \\\\
+x               &= 180 - 144 \\\\
+x               &= 36 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \degree$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 44 + 70     &= 180 \\\\
+x + 114         &= 180 \\\\
+x               &= 180 - 144 \\\\
+x               &= 36 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$36 \degree$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What type of triangle is this?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Triangle has three different angles and none of its sides are equal in length.
+
+Therefore, it is a Scalene triangle.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Scalene triangle
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Triangle has three different angles and none of its sides are equal in length.
+
+Therefore, it is a Scalene triangle.
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>Scalene triangle
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='80C8870A-6B9B-4FB9-A4D8-B4E543D84510' id='FORM-80C8870A-6B9B-4FB9-A4D8-B4E543D84510' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-80C8870A-6B9B-4FB9-A4D8-B4E543D84510'>Initial</p>
 </div>
 </div>
 </li>

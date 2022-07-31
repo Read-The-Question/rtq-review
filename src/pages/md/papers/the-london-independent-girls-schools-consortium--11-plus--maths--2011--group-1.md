@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 1"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "42"
 ---
 <div class='paper'>
@@ -4010,10 +4010,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5846,10 +5846,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8641,7 +8641,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>32D7B1B8-95FC-485F-98B5-0433C85B6ACB</p>
 </div>
@@ -8649,10 +8649,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>Abhay Kandpal</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8790,11 +8790,10 @@ As per the question,
 $
 \begin {aligned}
 a + \dfrac {a} {2} + 2a                                                                 &= 21 \\\\
-\dfrac {a \times 2} {1 \times 2} + \dfrac {a} {2} + \dfrac {2a \times 2} {1 \times 2}   &= 21 \\\\
+\dfrac {2 \times a} {2} + \dfrac {a} {2} + \dfrac {2 \times 2a } {2}                    &= 21 \\\\
 \dfrac {2a} {2} + \dfrac {a} {2} + \dfrac {4a} {2}                                      &= 21 \\\\
 \dfrac {2a + a + 4a} {2}                                                                &= 21 \\\\
 \dfrac {7a} {2}                                                                         &= 21 \\\\
-7a                                                                                      &= 21 \times 2 \\\\
 a                                                                                       &= \dfrac {21 \times 2} {7} \\\\
 a                                                                                       &= \dfrac {7 \times 3 \times 2} {7} \\\\
 a                                                                                       &= \dfrac {\cancel {7} \times 3 \times 2} {\cancel {7}} \\\\
@@ -8802,8 +8801,6 @@ a                                                                               
 a                                                                                       &= 6 \ \text {years}
 \end {aligned}
 $
-
-Anna’s age $= 6 \ \text {years}$
 
 $
 \begin {aligned}
@@ -8836,11 +8833,10 @@ As per the question,
 $
 \begin {aligned}
 a + \dfrac {a} {2} + 2a                                                                 &= 21 \\\\
-\dfrac {a \times 2} {1 \times 2} + \dfrac {a} {2} + \dfrac {2a \times 2} {1 \times 2}   &= 21 \\\\
+\dfrac {2 \times a} {2} + \dfrac {a} {2} + \dfrac {2 \times 2a } {2}                    &= 21 \\\\
 \dfrac {2a} {2} + \dfrac {a} {2} + \dfrac {4a} {2}                                      &= 21 \\\\
 \dfrac {2a + a + 4a} {2}                                                                &= 21 \\\\
 \dfrac {7a} {2}                                                                         &= 21 \\\\
-7a                                                                                      &= 21 \times 2 \\\\
 a                                                                                       &= \dfrac {21 \times 2} {7} \\\\
 a                                                                                       &= \dfrac {7 \times 3 \times 2} {7} \\\\
 a                                                                                       &= \dfrac {\cancel {7} \times 3 \times 2} {\cancel {7}} \\\\
@@ -8848,8 +8844,6 @@ a                                                                               
 a                                                                                       &= 6 \ \text {years}
 \end {aligned}
 $
-
-Anna’s age $= 6 \ \text {years}$
 
 $
 \begin {aligned}
@@ -8893,34 +8887,35 @@ How tall is Davina?
 <div class='workings'>
 <div class='working'>
 
-Let Preetesh's height $= a$
+Let Preetesh's height $= p$
 
-Let Davina's height $= b$
+Let Davina's height $= d$
 
-Let Alicia's height $= c$
+Let Alicia's height $= a$
 
-As per the question,
+As per the equation,
 
 $
 \begin {aligned}
-a - b   &= b - c \\\\
-a + c   &= b + b \\\\
-a + c   &= 2b
+p - d           &= d - a \\\\
+p + a           &= d + d \\\\
+p + a           &= 2d       & (1) \\\\
+p + a + d       &= 300      & (2)
 \end {aligned}
 $
 
-Using this we get,
+
+Let's substitute from equation $(1)$ into  equation $(2)$. Using that we get,
 
 $
 \begin {aligned}
-a + b + c   &= 300 \ \text {cm} \\\\
-a + c + b   &= 300 \\\\
-2b + b      &= 300 \\\\
-3b          &= 300 \\\\
-b           &= \dfrac {300} {3} \\\\
-b           &= \dfrac {3 \times 100} {3} \\\\
-b           &= \dfrac {\cancel {3} \times 100} {\cancel {3}} \\\\
-b           &= 100 \ \text {cm}
+(p + a) + d &= 300 \\\\
+2d + d      &= 300 \\\\
+3d          &= 300 \\\\
+d           &= \dfrac {300} {3} \\\\
+d           &= \dfrac {3 \times 100} {3} \\\\
+d           &= \dfrac {\cancel {3} \times 100} {\cancel {3}} \\\\
+d           &= 100 \ \text {cm}
 \end {aligned}
 $
 
@@ -8938,34 +8933,35 @@ $100 \ \text {cm}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let Preetesh's height $= a$
+<pre class='language-latex'><code class='language-latex'>Let Preetesh's height $= p$
 
-Let Davina's height $= b$
+Let Davina's height $= d$
 
-Let Alicia's height $= c$
+Let Alicia's height $= a$
 
-As per the question,
+As per the equation,
 
 $
 \begin {aligned}
-a - b   &= b - c \\\\
-a + c   &= b + b \\\\
-a + c   &= 2b
+p - d           &= d - a \\\\
+p + a           &= d + d \\\\
+p + a           &= 2d       & (1) \\\\
+p + a + d       &= 300      & (2)
 \end {aligned}
 $
 
-Using this we get,
+
+Let's substitute from equation $(1)$ into  equation $(2)$. Using that we get,
 
 $
 \begin {aligned}
-a + b + c   &= 300 \ \text {cm} \\\\
-a + c + b   &= 300 \\\\
-2b + b      &= 300 \\\\
-3b          &= 300 \\\\
-b           &= \dfrac {300} {3} \\\\
-b           &= \dfrac {3 \times 100} {3} \\\\
-b           &= \dfrac {\cancel {3} \times 100} {\cancel {3}} \\\\
-b           &= 100 \ \text {cm}
+(p + a) + d &= 300 \\\\
+2d + d      &= 300 \\\\
+3d          &= 300 \\\\
+d           &= \dfrac {300} {3} \\\\
+d           &= \dfrac {3 \times 100} {3} \\\\
+d           &= \dfrac {\cancel {3} \times 100} {\cancel {3}} \\\\
+d           &= 100 \ \text {cm}
 \end {aligned}
 $
 
@@ -8993,35 +8989,35 @@ Davina's height $= 100 \ \text {cm}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' id='FORM-32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' id='FORM-32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -9306,10 +9302,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_mm_blocked</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>

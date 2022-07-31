@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-g0"
 title: "TopicPaper - Algebra - 15 - G0"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "18"
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -200,10 +200,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -390,10 +390,10 @@ Number of boxes Farmer Andrew can completely fill $= 52$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -764,10 +764,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1081,10 +1081,10 @@ Cost of cheaper book $= \pounds 3.95$.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:33</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1293,10 +1293,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1483,10 +1483,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1681,10 +1681,10 @@ Ground coffee costs $\pounds 2.900$ more than coffee beans.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1871,10 +1871,10 @@ Sandy needs $14$ pizzas to feed $35$ people.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2086,10 +2086,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2273,10 +2273,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2558,10 +2558,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2871,10 +2871,10 @@ There are $24$ biscuits in the box.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3072,10 +3072,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3262,10 +3262,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_an_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3483,10 +3483,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3833,10 +3833,10 @@ Cost of a bull $= \pounds 400$.
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4035,10 +4035,10 @@ Length of the baby crocodile last week $= 25 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2016-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2016 - Sample Paper 1"
-date: 2022-07-29 19:59:28
+date: 2022-07-31 17:37:41
 questions_count: "9"
 ---
 <div class='paper'>
@@ -22,10 +22,10 @@ questions_count: "9"
 <p>tonbridge-school--scholarship--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>Mahesh Madiraju</p>
+<p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_mm_pr</p>
+<p>rag_da_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>

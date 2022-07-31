@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-4-blocked"
 title: "TopicPaper - Infer - 4 - BLOCKED"
-date: 2022-07-29 20:06:43
+date: 2022-07-31 17:43:09
 questions_count: "1"
 ---
 <ul class='question default-decimal'>

@@ -1,10 +1,349 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-blocked"
 title: "TopicPaper - Number - 14 - BLOCKED"
-date: 2022-07-29 20:06:43
-questions_count: "4"
+date: 2022-07-31 17:43:09
+questions_count: "6"
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:2</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379'>Initial</p>
+<div class='question question'>
+
+The speed of light is more accurately given as $299,792,458$ metres per second. Write this speed of light in words. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$text {Two hundred ninety-nine million seven hundred ninety-two thousand four hundred fifth eighty metres per second}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$text {Two hundred ninety-nine million seven hundred ninety-two thousand four hundred fifth eighty metres per second}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$text {Two hundred ninety-nine million seven hundred ninety-two thousand four hundred fifth eighty metres per second}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$text {Two hundred ninety-nine million seven hundred ninety-two thousand four hundred fifth eighty metres per second}$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>6AEE5338-7773-4E3C-8419-E6912AC9D023</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>Waffles Woof</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='6AEE5338-7773-4E3C-8419-E6912AC9D023' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-6AEE5338-7773-4E3C-8419-E6912AC9D023'>Initial</p>
+<div class='question question'>
+
+Write the following numbers in words
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$13 060 125$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Thirteen million sixty thousand one hundred twenty five}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Thirteen million sixty thousand one hundred twenty five}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\text {Thirteen million sixty thousand one hundred twenty five}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {Thirteen million sixty thousand one hundred twenty five}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$52 070$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Fifty-two thousand and seventy}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Fifty-two thousand and seventy}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$\text {Fifty-two thousand and seventy}$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\text {Fifty-two thousand and seventy}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

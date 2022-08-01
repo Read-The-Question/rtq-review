@@ -2,6 +2,7 @@
 slug: hello
 title: hello
 date: 2019-05-04 09:09:30
+questions_count: "40"
 ---
 Hello md $a^2 + b^2 = c^2$
 

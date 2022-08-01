@@ -1,8 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-07-31 17:43:09
-questions_count: "40"
+date: 2022-07-31 21:40:31
 ---
 <div class='paper'>
 <div class='meta'>
@@ -39,66 +38,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B'>Initial</p>
 <div class='question question'>
 
 %empty%
@@ -259,9 +198,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -274,7 +210,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B' onclick='submitReview(event)'>PRR</button>
@@ -322,66 +258,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-61B03D89-9853-44BC-9E53-E103CF15A454'>Initial</p>
 <div class='question question'>
 
 Work out $\dfrac{4}{5} + \dfrac{7}{10}$ then write your answer as a mixed number.
@@ -449,9 +325,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -464,7 +337,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='61B03D89-9853-44BC-9E53-E103CF15A454' onclick='submitReview(event)'>PRR</button>
@@ -512,66 +385,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-03CC1319-A88C-42CD-88A6-FC0FF7A59D9F'>Initial</p>
 <div class='question question'>
 
 What fraction is $\dfrac{2}{3}$ of $\dfrac{3}{4}$?
@@ -633,9 +446,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -648,7 +458,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='03CC1319-A88C-42CD-88A6-FC0FF7A59D9F' onclick='submitReview(event)'>PRR</button>
@@ -696,66 +506,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-A1071962-E86A-4F64-8561-62B747B80144'>Initial</p>
 <div class='question question'>
 
 Work out 
@@ -932,9 +682,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -947,7 +694,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='A1071962-E86A-4F64-8561-62B747B80144' onclick='submitReview(event)'>PRR</button>
@@ -995,66 +742,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-DF2452BE-A907-4F55-9C53-1A472B3B035D'>Initial</p>
 <div class='question question'>
 
 Which of these fractions is equal to $0.8$?
@@ -1123,9 +810,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1138,7 +822,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='DF2452BE-A907-4F55-9C53-1A472B3B035D' onclick='submitReview(event)'>PRR</button>
@@ -1186,66 +870,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-D435E1EA-B8F7-4683-AB3B-08D02CBDF31E'>Initial</p>
 <div class='question question'>
 
 %empty%
@@ -1530,9 +1154,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1545,7 +1166,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRR</button>
@@ -1593,66 +1214,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-76567C03-AF5A-4917-9FAE-4EAFF191E689'>Initial</p>
 <div class='question question'>
 
 Which of these fractions is equal to $0.3$?
@@ -1715,9 +1276,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -1730,7 +1288,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='76567C03-AF5A-4917-9FAE-4EAFF191E689' onclick='submitReview(event)'>PRR</button>
@@ -1778,66 +1336,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-9489B793-7526-44D8-9AA6-E5A36F2F7C5C'>Initial</p>
 <div class='question question'>
 
 %empty%
@@ -2122,9 +1620,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2137,7 +1632,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRR</button>
@@ -2185,66 +1680,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-943C4E11-3100-4607-BBF6-D6938AFB1B28'>Initial</p>
 <div class='question question'>
 
 %empty%
@@ -2424,9 +1859,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2439,7 +1871,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRR</button>
@@ -2464,7 +1896,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prccrl question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>28865942-DDBF-4A71-90B1-D1CE4D728421</p>
 </div>
@@ -2472,13 +1904,13 @@ $
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_an_pr</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prccrl</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2493,66 +1925,6 @@ tdraw
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-28865942-DDBF-4A71-90B1-D1CE4D728421'>Initial</p>
 <div class='question question'>
 
 %empty%
@@ -2889,9 +2261,6 @@ Broken toml
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -2904,7 +2273,7 @@ Broken toml
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='28865942-DDBF-4A71-90B1-D1CE4D728421' onclick='submitReview(event)'>PRR</button>
@@ -2952,66 +2321,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-9D6B112A-1BBE-440D-9968-5629612AF55B'>Initial</p>
 <div class='question question'>
 
 In this questions, give your answers as fractions in their simplest form.
@@ -3147,9 +2456,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -3162,7 +2468,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRR</button>
@@ -3187,7 +2493,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3</p>
 </div>
@@ -3195,13 +2501,13 @@ $
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3210,66 +2516,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3'>Initial</p>
 <div class='question question'>
 
 %empty%
@@ -3278,21 +2524,21 @@ tfraction
 <div class='workings'>
 <div class='working'>
 
-%empty%
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+TODOANSWER
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -3304,7 +2550,7 @@ tfraction
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -3328,7 +2574,7 @@ For the three fractions in the table above, write down
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+TODOANSWER
 
 </div>
 </div>
@@ -3347,7 +2593,7 @@ For the three fractions in the table above, write down
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -3364,17 +2610,17 @@ the largest fraction
 
 Let's make the denominator the same for all the fractions.
 
-LCM for $4, 3$ and $10 = 60$
+LCM for $4, \quad 3 \ \text{and} \ 10 = 60$
 
 $
 \begin{aligned}
 &= \dfrac{3}{4} , \quad \dfrac{2}{3} , \quad \dfrac{7}{10} \\\\
 &= \dfrac{3 \times 15}{4 \times 15} , \quad \dfrac{2 \times 20}{3 \times 20} , \quad \dfrac{7 \times 6}{10 \times 6} \\\\
-&= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60}
+&= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60} \\\\
 \end{aligned}
 $
 
-Largest fraction $= \dfrac{3}{4}$
+The largest fraction is $= \dfrac{3}{4}$
 
 </div>
 </div>
@@ -3390,17 +2636,17 @@ $\dfrac{3}{4}$
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the fractions.
 
-LCM for $4, 3$ and $10 = 60$
+LCM for $4, \quad 3 \ \text{and} \ 10 = 60$
 
 $
 \begin{aligned}
 &= \dfrac{3}{4} , \quad \dfrac{2}{3} , \quad \dfrac{7}{10} \\\\
 &= \dfrac{3 \times 15}{4 \times 15} , \quad \dfrac{2 \times 20}{3 \times 20} , \quad \dfrac{7 \times 6}{10 \times 6} \\\\
-&= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60}
+&= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60} \\\\
 \end{aligned}
 $
 
-Largest fraction $= \dfrac{3}{4}$
+The largest fraction is $= \dfrac{3}{4}$
 </code></pre>
 </div>
 </div>
@@ -3429,7 +2675,7 @@ the smallest fraction
 <div class='workings'>
 <div class='working'>
 
-$\dfrac{2}{3}$
+The smallest fraction is $= \dfrac{2}{3}$
 
 </div>
 </div>
@@ -3443,7 +2689,7 @@ $\dfrac{2}{3}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac{2}{3}$
+<pre class='language-latex'><code class='language-latex'>The smallest fraction is $= \dfrac{2}{3}$
 </code></pre>
 </div>
 </div>
@@ -3527,39 +2773,45 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+No answer
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G2' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' id='FORM-3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='PR' data-uuid='3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' id='FORM-3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3571,7 +2823,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>4AE454C7-A1FE-4AA5-81F3-60BA4730C49F</p>
 </div>
@@ -3579,10 +2831,10 @@ $
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:7</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>
@@ -3592,68 +2844,11 @@ $
 <li>
 tfraction
 </li>
+<li>
+tdraw
+</li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='4AE454C7-A1FE-4AA5-81F3-60BA4730C49F' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-4AE454C7-A1FE-4AA5-81F3-60BA4730C49F'>Initial</p>
 <div class='question question'>
 
 Calculate the fraction of the following shapes that are shaded.
@@ -3901,66 +3096,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3'>Initial</p>
 <div class='question question'>
 
 On consecutive days you eat $\dfrac{1}{3}$ and $\dfrac{1}{6}$ of a lasagne. 
@@ -4028,9 +3163,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4043,7 +3175,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3' onclick='submitReview(event)'>PRR</button>
@@ -4068,7 +3200,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8</p>
 </div>
@@ -4076,13 +3208,13 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Mahesh Madiraju</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4091,66 +3223,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8'>Initial</p>
 <div class='question question'>
 
 Look at the following diagram.
@@ -4164,21 +3236,21 @@ What fraction of the outer square is represented by
 <div class='workings'>
 <div class='working'>
 
-%empty%
+TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+TODOANSWER
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
 </div>
@@ -4190,7 +3262,7 @@ What fraction of the outer square is represented by
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
 </code></pre>
 </div>
 </div>
@@ -4205,7 +3277,9 @@ $A$?
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {1} {4}$
+$
+\dfrac {1} {4}
+$
 
 </div>
 </div>
@@ -4219,7 +3293,9 @@ $\dfrac {1} {4}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {4}$
+<pre class='language-latex'><code class='language-latex'>$
+\dfrac {1} {4}
+$
 </code></pre>
 </div>
 </div>
@@ -4248,13 +3324,11 @@ $A + B$?
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
-
 $
 \begin{aligned}
 F     &= \dfrac {1} {8} \\\\
 B     &= \dfrac {1} {2} - \dfrac {1} {8} \\\\
-      &= \dfrac {4} {2 \times 4} - \dfrac {1} {8} \\\\
+      &= \dfrac {4} {2 \times 4} - \dfrac {1} {8} \\\
       &= \dfrac {4} {8} - \dfrac {1} {8} \\\\
       &= \dfrac {4 - 1} {8} \\\\
       &= \dfrac {3} {8} \\\\
@@ -4278,13 +3352,11 @@ $\dfrac {5} {8}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the diagram,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 F     &= \dfrac {1} {8} \\\\
 B     &= \dfrac {1} {2} - \dfrac {1} {8} \\\\
-      &= \dfrac {4} {2 \times 4} - \dfrac {1} {8} \\\\
+      &= \dfrac {4} {2 \times 4} - \dfrac {1} {8} \\\
       &= \dfrac {4} {8} - \dfrac {1} {8} \\\\
       &= \dfrac {4 - 1} {8} \\\\
       &= \dfrac {3} {8} \\\\
@@ -4366,7 +3438,18 @@ $D$?
 <div class='workings'>
 <div class='working'>
 
-$\dfrac {1} {16}$
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
+
+$
+\begin{aligned}
+D + E &= \dfrac {1} {8} \\\\
+D     &= \dfrac {1} {8} \div 2 \\\\
+      &= \dfrac {1} {8} \times \dfrac {1} {2} \\\\
+      &= \dfrac {1} {8 \times 2} \\\\
+      &= \dfrac {1} {16}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4380,7 +3463,17 @@ $\dfrac {1} {16}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$\dfrac {1} {16}$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
+
+$
+\begin{aligned}
+D + E &= \dfrac {1} {8} \\\\
+D     &= \dfrac {1} {8} \div 2 \\\\
+      &= \dfrac {1} {8} \times \dfrac {1} {2} \\\\
+      &= \dfrac {1} {8 \times 2} \\\\
+      &= \dfrac {1} {16}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -4409,8 +3502,6 @@ $B + F + E + D$?
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
-
 $
 \begin{aligned}
 F+E+D       &= \dfrac {1}{4} \\\\
@@ -4435,9 +3526,7 @@ $\dfrac {5} {8}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the diagram,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 F+E+D       &= \dfrac {1}{4} \\\\
 B           &= \dfrac {3}{8} \\\\
@@ -4467,39 +3556,73 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+do not use begin aligned where not required
+
+
+
+a: write just $1/4$
+
+
+
+
+
+b: write f = 1 /8 then write b = 1/2 - 1/8 then a + b 
+
+
+
+
+
+d: write division at the top, instead of in the middle, and do calculation in one begin aligned.
+
+
+
+a: Do not write =
+
+
+
+d: write lhs d = same as b
+
+
+
+e: same as b
+</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G2' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' id='FORM-3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='PR' data-uuid='3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' id='FORM-3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4534,66 +3657,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-058B4392-6B5D-44A5-ACE4-51F653406441'>Initial</p>
 <div class='question question'>
 
 Calculate: 
@@ -4766,9 +3829,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -4781,7 +3841,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='058B4392-6B5D-44A5-ACE4-51F653406441' onclick='submitReview(event)'>PRR</button>
@@ -4829,66 +3889,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E'>Initial</p>
 <div class='question question'>
 
 You are given two numbers $0.35$ and $\dfrac{5}{8}$
@@ -5116,9 +4116,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -5131,7 +4128,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='submitReview(event)'>PRR</button>
@@ -5179,66 +4176,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-62E0F078-7FB5-44EC-BC99-CC28C10BCB5C'>Initial</p>
 <div class='question question'>
 
 Work out the following subtraction, giving your final answer as a mixed number in its lowest terms:
@@ -5304,9 +4241,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -5319,7 +4253,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='submitReview(event)'>PRR</button>
@@ -5367,66 +4301,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-808FAEC9-4B00-478E-8303-8F93C22B2CF3'>Initial</p>
 <div class='question question'>
 
 Find two-fifths of three hundred and twenty.
@@ -5490,9 +4364,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -5505,7 +4376,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='808FAEC9-4B00-478E-8303-8F93C22B2CF3' onclick='submitReview(event)'>PRR</button>
@@ -5553,66 +4424,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-DE45D210-6CFF-44A8-8BF2-A7AB019EE549'>Initial</p>
 <div class='question question'>
 
 Simplify the following
@@ -5680,9 +4491,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -5695,7 +4503,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='DE45D210-6CFF-44A8-8BF2-A7AB019EE549' onclick='submitReview(event)'>PRR</button>
@@ -5743,66 +4551,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-3F78446A-189F-4A34-981D-45191F1D3768'>Initial</p>
 <div class='question question'>
 
 Simplify the folloqwing:
@@ -5867,9 +4615,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -5882,7 +4627,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='3F78446A-189F-4A34-981D-45191F1D3768' onclick='submitReview(event)'>PRR</button>
@@ -5930,66 +4675,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-72C59585-EC33-41D5-9631-E7F5A7E0158B'>Initial</p>
 <div class='question question'>
 
 $3 \dfrac{1}{3} + 1 \dfrac{9}{20} =$
@@ -6061,9 +4746,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -6076,7 +4758,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='72C59585-EC33-41D5-9631-E7F5A7E0158B' onclick='submitReview(event)'>PRR</button>
@@ -6124,66 +4806,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-1EEEA032-210A-436A-8BB3-E73A8E6AAA51'>Initial</p>
 <div class='question question'>
 
 %format% Simplify the following: 3 30
@@ -6249,9 +4871,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -6264,7 +4883,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='1EEEA032-210A-436A-8BB3-E73A8E6AAA51' onclick='submitReview(event)'>PRR</button>
@@ -6312,66 +4931,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C'>Initial</p>
 <div class='question question'>
 
 %format% Simplify the following: 8 32
@@ -6437,9 +4996,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -6452,7 +5008,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C' onclick='submitReview(event)'>PRR</button>
@@ -6500,66 +5056,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-1F02583C-62DE-41D0-94CE-10909D755CAE'>Initial</p>
 <div class='question question'>
 
 %format% 3 1 3 + 1 9 20 =
@@ -6631,9 +5127,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -6646,7 +5139,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='1F02583C-62DE-41D0-94CE-10909D755CAE' onclick='submitReview(event)'>PRR</button>
@@ -6671,7 +5164,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>65688ECE-F658-464B-830E-A58D425C3DCF</p>
 </div>
@@ -6679,10 +5172,10 @@ $
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:1:20</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6694,66 +5187,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-65688ECE-F658-464B-830E-A58D425C3DCF'>Initial</p>
 <div class='question question'>
 
 Even though the method of cancelling shown below is incorrect, the student has got the correct answer by chance. Can you find a similar fraction which will cancel down to give $\dfrac{2}{5}$?
@@ -6825,7 +5258,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>B24A40C7-A2EB-46D8-9E64-2F701D48B7E1</p>
 </div>
@@ -6833,10 +5266,10 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prbd</p>
@@ -6848,66 +5281,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-B24A40C7-A2EB-46D8-9E64-2F701D48B7E1'>Initial</p>
 <div class='question question'>
 
 %empty%
@@ -7140,7 +5513,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>724517C5-450C-400E-8D62-81DD6270A1E8</p>
 </div>
@@ -7148,10 +5521,10 @@ $
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7161,68 +5534,11 @@ $
 <li>
 tfraction
 </li>
+<li>
+tdraw
+</li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='724517C5-450C-400E-8D62-81DD6270A1E8' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-724517C5-450C-400E-8D62-81DD6270A1E8'>Initial</p>
 <div class='question question'>
 
 Shade in $\dfrac{3}{5}$ of this shape
@@ -7317,66 +5633,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-FA07A720-D1E4-4527-953B-6F2BE26C4F2E'>Initial</p>
 <div class='question question'>
 
 What is $\dfrac{1}{2}$ of $\dfrac{4}{5}$ of $35$? 
@@ -7440,9 +5696,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -7455,7 +5708,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='FA07A720-D1E4-4527-953B-6F2BE26C4F2E' onclick='submitReview(event)'>PRR</button>
@@ -7480,7 +5733,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>DC86C66C-E58D-4ADC-8C65-42A99B583CEC</p>
 </div>
@@ -7488,10 +5741,10 @@ $
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:2:11</p>
 </div>
 <div class='rag'>
-<p>Anushka Srivastava</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7503,66 +5756,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-DC86C66C-E58D-4ADC-8C65-42A99B583CEC'>Initial</p>
 <div class='question question'>
 
 This diagram shows a regular hexagon.
@@ -7659,66 +5852,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-1C823272-E371-4E16-B0B1-DCFDB64A4ADF'>Initial</p>
 <div class='question question'>
 
 Work out
@@ -7780,9 +5913,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -7795,7 +5925,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='1C823272-E371-4E16-B0B1-DCFDB64A4ADF' onclick='submitReview(event)'>PRR</button>
@@ -7843,66 +5973,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-FF3E51F2-06D2-40A3-93F2-BC83DD8C2835'>Initial</p>
 <div class='question question'>
 
 Work out
@@ -7968,9 +6038,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -7983,7 +6050,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='FF3E51F2-06D2-40A3-93F2-BC83DD8C2835' onclick='submitReview(event)'>PRR</button>
@@ -8031,66 +6098,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-62EBBCE2-9848-414A-BC40-2347F24A0383'>Initial</p>
 <div class='question question'>
 
 How many quarters are there in $3 \dfrac{1}{2}$?
@@ -8152,9 +6159,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -8167,7 +6171,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='62EBBCE2-9848-414A-BC40-2347F24A0383' onclick='submitReview(event)'>PRR</button>
@@ -8215,66 +6219,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-C625F0D2-40A1-40A7-8F67-17E21612BD81'>Initial</p>
 <div class='question question'>
 
 Which fraction is $\dfrac {28} {35}$ equivalent to?
@@ -8332,9 +6276,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -8347,7 +6288,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='C625F0D2-40A1-40A7-8F67-17E21612BD81' onclick='submitReview(event)'>PRR</button>
@@ -8395,66 +6336,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-CAB14175-FD8C-4B4B-8845-6C9DD350BC9F'>Initial</p>
 <div class='question question'>
 
 What fraction of an hour is $5$ minutes?
@@ -8512,9 +6393,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -8527,7 +6405,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='CAB14175-FD8C-4B4B-8845-6C9DD350BC9F' onclick='submitReview(event)'>PRR</button>
@@ -8575,66 +6453,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-744C2018-EF2B-4DE6-BB19-3D288E88E4DE'>Initial</p>
 <div class='question question'>
 
 Which fraction is $\dfrac {28} {35}$ equivalent to?
@@ -8692,9 +6510,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -8707,7 +6522,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='744C2018-EF2B-4DE6-BB19-3D288E88E4DE' onclick='submitReview(event)'>PRR</button>
@@ -8755,66 +6570,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-49429AE6-0143-4CCB-BB81-78DE7CA4E8F7'>Initial</p>
 <div class='question question'>
 
 Which fraction is $\dfrac {42} {63}$ equivalent to?
@@ -8872,9 +6627,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -8887,7 +6639,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='49429AE6-0143-4CCB-BB81-78DE7CA4E8F7' onclick='submitReview(event)'>PRR</button>
@@ -8935,66 +6687,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-55815068-841C-40AD-BCEE-2DE99DEED918'>Initial</p>
 <div class='question question'>
 
 Which fraction is $\dfrac {28} {35}$ equivalent to?
@@ -9052,9 +6744,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -9067,7 +6756,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='55815068-841C-40AD-BCEE-2DE99DEED918' onclick='submitReview(event)'>PRR</button>
@@ -9115,66 +6804,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-D4559394-AFCF-4BDC-8C79-DDD8C89D76E3'>Initial</p>
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
@@ -9221,9 +6850,6 @@ $\dfrac {4} {6}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -9236,7 +6862,7 @@ $\dfrac {4} {6}$
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D4559394-AFCF-4BDC-8C79-DDD8C89D76E3' onclick='submitReview(event)'>PRR</button>
@@ -9284,66 +6910,6 @@ tfraction
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-19C91008-84E1-48B4-A95A-6E08266DDF33'>Initial</p>
 <div class='question question'>
 
 What is $1.9$ as a fraction?
@@ -9399,9 +6965,6 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
@@ -9414,7 +6977,7 @@ $
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='19C91008-84E1-48B4-A95A-6E08266DDF33' onclick='submitReview(event)'>PRR</button>

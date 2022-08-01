@@ -1,12 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g0"
 title: "TopicPaper - Number - 13 - G0"
-date: 2022-07-31 17:43:09
-questions_count: "1"
+date: 2022-07-31 21:40:31
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -20,7 +19,7 @@ questions_count: "1"
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -29,66 +28,6 @@ tnumber
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-ECD6D154-2FDF-4C15-B956-FEE5AE1462E4'>Initial</p>
 <div class='question question'>
 
 I live $0.6$ miles from Goodison Park football stadium. There are $1760$ yards in a mile. 
@@ -143,7 +82,8 @@ $
 \text{Distance}     &= 0.6 \ \text{miles} \\\\
                     &= 0.6 \times 1760 \ \text{yards} \\\\
                     &= \dfrac {6 \times 1760}{10} \\\\
-                    &= \dfrac {6 \times 176 \cancel{0}}{1 \cancel{0}} \\\\
+                    &= \dfrac {6 \times 176 \times 10}{10} \\\\
+                    &= \dfrac {6 \times 176 \times 1\cancel{0}} {1 \cancel{0}} \\\\
                     &= 6 \times 176 \\\\
                     &= 1056 \ \text{yards}
 \end{aligned}
@@ -168,7 +108,8 @@ $1056 \ \text{yards}$
 \text{Distance}     &= 0.6 \ \text{miles} \\\\
                     &= 0.6 \times 1760 \ \text{yards} \\\\
                     &= \dfrac {6 \times 1760}{10} \\\\
-                    &= \dfrac {6 \times 176 \cancel{0}}{1 \cancel{0}} \\\\
+                    &= \dfrac {6 \times 176 \times 10}{10} \\\\
+                    &= \dfrac {6 \times 176 \times 1\cancel{0}} {1 \cancel{0}} \\\\
                     &= 6 \times 176 \\\\
                     &= 1056 \ \text{yards}
 \end{aligned}
@@ -203,14 +144,16 @@ I live $4,400$ yards from Anfield football stadium. How many miles from Anfield 
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Distance}     &= 4400 \ \text{yards} \\\\
-                    &= \dfrac{4400}{1760}  \ \text {miles} \\\\
-                    &= \dfrac {44 \times 10 \times 2 \times 5} {44 \times 10 \times 2 \times 2} \\\\
-                    &= \dfrac {\cancel{44} \times 1 \cancel{0} \times \cancel{2} \times 5} {\cancel{44} \times 1 \cancel{0} \times \cancel{2} \times 2} \\\\
-                    &=\dfrac{5}{2}\\\\
-                    &= 2.5 \ \text {miles}
+&= 4400\times\dfrac{1}{1760}\ \text {miles} \\\\
+&= \dfrac{4400}{1760} \\\\
+&= \dfrac {25\times 176} {10\times 176} \\\\
+&= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
+&=\dfrac{25}{10}\\\\
+&= 2.5 \ \text {miles}
 \end{aligned}
 $
 
@@ -227,14 +170,16 @@ $2.5 \ \text {miles}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>As per the question,
+
+$
 \begin{aligned}
-\text{Distance}     &= 4400 \ \text{yards} \\\\
-                    &= \dfrac{4400}{1760}  \ \text {miles} \\\\
-                    &= \dfrac {44 \times 10 \times 2 \times 5} {44 \times 10 \times 2 \times 2} \\\\
-                    &= \dfrac {\cancel{44} \times 1 \cancel{0} \times \cancel{2} \times 5} {\cancel{44} \times 1 \cancel{0} \times \cancel{2} \times 2} \\\\
-                    &=\dfrac{5}{2}\\\\
-                    &= 2.5 \ \text {miles}
+&= 4400\times\dfrac{1}{1760}\ \text {miles} \\\\
+&= \dfrac{4400}{1760} \\\\
+&= \dfrac {25\times 176} {10\times 176} \\\\
+&= \dfrac {25\times\cancel {176}} {10\times\cancel{176}} \\\\
+&=\dfrac{25}{10}\\\\
+&= 2.5 \ \text {miles}
 \end{aligned}
 $
 
@@ -336,17 +281,10 @@ $
 
 
 I have done part a. Please change part b and c on the same lines.
-
-
-
-change c on the same lines as a.
 </div>
 
 <div class='review'>
 <ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRCC</button>
-</li>
 <li class='review'>
 <button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRG</button>
 </li>
@@ -360,7 +298,7 @@ change c on the same lines as a.
 <button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRR</button>

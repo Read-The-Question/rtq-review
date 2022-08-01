@@ -1,8 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-blocked"
 title: "TopicPaper - Areaperimeter - 8 - BLOCKED"
-date: 2022-07-31 17:43:09
-questions_count: "1"
+date: 2022-07-31 21:40:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -29,66 +28,6 @@ tareaperimeter
 </li>
 </ul>
 </div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='F66494CC-21E4-467E-8FDE-DF463E2439E5' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-F66494CC-21E4-467E-8FDE-DF463E2439E5'>Initial</p>
 <div class='question question'>
 
 What fraction of the whole square below is the shaded area?
@@ -113,7 +52,7 @@ $
                                     &= a^2 - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4 \times a^2} {4} - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4a^2 - 2a^2 - a^2} {4} \\\\
-\text{Area of shaded region}        &= \dfrac{a^2} {4}
+\text{Area of shaded region}        &= \dfrac{a^2} {4} \\\\
 \end{aligned}
 $
 
@@ -163,7 +102,7 @@ $
                                     &= a^2 - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4 \times a^2} {4} - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
                                     &= \dfrac{4a^2 - 2a^2 - a^2} {4} \\\\
-\text{Area of shaded region}        &= \dfrac{a^2} {4}
+\text{Area of shaded region}        &= \dfrac{a^2} {4} \\\\
 \end{aligned}
 $
 

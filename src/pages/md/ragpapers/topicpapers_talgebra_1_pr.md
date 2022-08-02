@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-pr"
 title: "TopicPaper - Algebra - 1 - PR"
-date: 2022-08-01 10:54:20
-questions_count: "12"
+date: 2022-08-01 21:41:58
+questions_count: "9"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>F2F1A365-9B27-4327-9C11-647F071C0FCD</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "12"
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -171,6 +171,27 @@ Number of bags of crisps inside the box $= 40$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+
+
+
+
+Write the \"Total weight of bags...\" line, into multiple lines using \begin{aligned} and \end{aligned} with conversion shown properly.
+
+Do something like this:
+
+= 1kg \\
+
+= 1 \times 1000 \ \text{grams} \\
+
+= 1000 \ \text{grams}
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -215,552 +236,7 @@ Number of bags of crisps inside the box $= 40$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>ECF79888-F466-480C-80F9-F7FBEF06F5ED</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:18</p>
-</div>
-<div class='rag'>
-<p>Md Rameez</p>
-</div>
-<div class='rag'>
-<p>rag_mr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-ECF79888-F466-480C-80F9-F7FBEF06F5ED'>Initial</p>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The **perimeter** of a regular hexagon is $\bold{42a + 18}$.
-Write an expression for the lengths of one of its sides.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of one of its sides $= l$
-
-As per the question,
-
-$
-\begin{aligned}
-6 \times l                      &= 42a + 18 \\\\
-l                               &= \dfrac {42a + 18} {6} \\\\
-l                               &= \dfrac {42a} {6} + \dfrac {18} {6} \\\\
-l                               &= \dfrac {6 \times 7a} {6} + \dfrac {6 \times 3} {6} \\\\
-l                               &= \dfrac {\cancel 6 \times 7a} {\cancel 6} + \dfrac {\cancel 6 \times 3} {\cancel 6} \\\\
-l                               &= 7a + 3
-\end{aligned}
-$
-
-Expression for the length of one of its sides $= 7a + 3$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7a + 3$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the length of one of its sides $= l$
-
-As per the question,
-
-$
-\begin{aligned}
-6 \times l                      &= 42a + 18 \\\\
-l                               &= \dfrac {42a + 18} {6} \\\\
-l                               &= \dfrac {42a} {6} + \dfrac {18} {6} \\\\
-l                               &= \dfrac {6 \times 7a} {6} + \dfrac {6 \times 3} {6} \\\\
-l                               &= \dfrac {\cancel 6 \times 7a} {\cancel 6} + \dfrac {\cancel 6 \times 3} {\cancel 6} \\\\
-l                               &= 7a + 3
-\end{aligned}
-$
-
-Expression for the length of one of its sides $= 7a + 3$.
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$7a + 3$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The **perimeter** of a different regular polygon is $\bold{75b - 20}$.
-The length of one of its sides is $\bold{15b - 4}$.
-How many sides does the regular polygon have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of sides $= s$
-
-As per the question,
-
-$
-\begin{aligned}
-s \times (15b - 4)              &= 75b - 20 \\\\
-s                               &= \dfrac {75b - 20} {15b - 4} \\\\
-s                               &= \dfrac {5 \times 15b - 5 \times 4} {15b - 4} \\\\
-s                               &= \dfrac {5 \times (15b - 4)} {15b - 4} \\\\
-s                               &= \dfrac {5 \times \cancel {(15b - 4)}} {\cancel {15b - 4}} \\\\
-s                               &= 5
-\end{aligned}
-$
-
-Number of sides of the polygon $= 5$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number of sides $= s$
-
-As per the question,
-
-$
-\begin{aligned}
-s \times (15b - 4)              &= 75b - 20 \\\\
-s                               &= \dfrac {75b - 20} {15b - 4} \\\\
-s                               &= \dfrac {5 \times 15b - 5 \times 4} {15b - 4} \\\\
-s                               &= \dfrac {5 \times (15b - 4)} {15b - 4} \\\\
-s                               &= \dfrac {5 \times \cancel {(15b - 4)}} {\cancel {15b - 4}} \\\\
-s                               &= 5
-\end{aligned}
-$
-
-Number of sides of the polygon $= 5$.
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='ECF79888-F466-480C-80F9-F7FBEF06F5ED' id='FORM-ECF79888-F466-480C-80F9-F7FBEF06F5ED' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-ECF79888-F466-480C-80F9-F7FBEF06F5ED'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>8961258B-C4E5-4FED-89CA-D366F6304F54</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:20</p>
-</div>
-<div class='rag'>
-<p>Md Rameez</p>
-</div>
-<div class='rag'>
-<p>rag_mr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-8961258B-C4E5-4FED-89CA-D366F6304F54'>Initial</p>
-<div class='question question'>
-
-Small egg boxes can hold six eggs. How many egg boxes are needed to hold $50$ eggs?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of egg boxes needed $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 6                          &= 50 \\\\
-a                                   &= \dfrac {50} {6} \\\\
-a                                   &= \dfrac {25 \times 2} {3 \times 2} \\\\
-a                                   &= \dfrac {25 \times \cancel 2} {3 \times \cancel 2} \\\\
-a                                   &= \dfrac {25} {3} \\\\
-a                                   &= 8 \dfrac {1} {3} \\\\
-a                                   &= 9
-\end{aligned}
-$
-
-Number of egg boxes needed $= 9$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number of egg boxes needed $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 6                          &= 50 \\\\
-a                                   &= \dfrac {50} {6} \\\\
-a                                   &= \dfrac {25 \times 2} {3 \times 2} \\\\
-a                                   &= \dfrac {25 \times \cancel 2} {3 \times \cancel 2} \\\\
-a                                   &= \dfrac {25} {3} \\\\
-a                                   &= 8 \dfrac {1} {3} \\\\
-a                                   &= 9
-\end{aligned}
-$
-
-Number of egg boxes needed $= 9$.
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='8961258B-C4E5-4FED-89CA-D366F6304F54' id='FORM-8961258B-C4E5-4FED-89CA-D366F6304F54' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-8961258B-C4E5-4FED-89CA-D366F6304F54'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>B1B9C7A4-30E0-4823-87AE-54149E9DBA84</p>
 </div>
@@ -774,7 +250,7 @@ Number of egg boxes needed $= 9$.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -945,6 +421,25 @@ The change from $\pounds 5$, when you buy $5$ pens $= 500 - 5m \ \text{pence}$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write only the final answers into the answer section.
+
+for eg;
+
+Total cost of $5$ rulers and $5$ pens $= 5 (k + m) \ \text{pence}$.  ==> $= 5 (k + m) \ \text{pence}$ 
+
+
+
+In case of any doubt ping me on slack.
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -989,7 +484,7 @@ The change from $\pounds 5$, when you buy $5$ pens $= 500 - 5m \ \text{pence}$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>B69E6255-458B-48F4-BE35-F45C3F505D00</p>
 </div>
@@ -1003,7 +498,7 @@ The change from $\pounds 5$, when you buy $5$ pens $= 500 - 5m \ \text{pence}$.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1146,6 +641,15 @@ The height of the pile of $5$ boxes $= 90 \ \text{cm}$.
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove the last line \"The height of the pile of 55 boxes = 90 \ \text{cm}=90 cm.\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1190,7 +694,7 @@ The height of the pile of $5$ boxes $= 90 \ \text{cm}$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>84822D8F-EA5C-49F0-97FB-8F065EFA3D25</p>
 </div>
@@ -1204,7 +708,7 @@ The height of the pile of $5$ boxes $= 90 \ \text{cm}$.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1490,6 +994,21 @@ The smallest possible value of k $= 5$.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a)
+
+Show the cancelation for 6/2
+
+3*2 / 2 ==> 3
+
+Remove the last line \"The value of y = 3.\"
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1534,7 +1053,7 @@ The smallest possible value of k $= 5$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>49AD1A8F-44C5-4AA8-8600-14F8B353DC88</p>
 </div>
@@ -1548,7 +1067,7 @@ The smallest possible value of k $= 5$.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1824,6 +1343,47 @@ Number of bags needed to buy $= 25$.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) 
+
+i) Length of icicle at the start of the day $= 2.14 \ \text{m} = 214 \ \text{cm}$
+
+Do the above conversion in multiple lines using \begin{aligned} and \end{aligned}.
+
+For eg;
+
+\begin{aligned}
+
+\text {Length of icicle at the start of the day} &= 2.14 \ \text{m} \\
+
+&= 2.14 \times 100 \ \text{cm} \\
+
+&= 214 \ \text{cm}
+
+\end{aligned}
+
+
+
+ii) remove \"\text {cm}\" from the below line
+
+\text{Length of icicle melted}          &= 214 - 87 \ \text{cm} \\
+
+
+
+iii) Remove the last line in both part a) and b). It is redundant to write the same thing twice. 
+
+Keep this in mind in future also.
+
+
+
+Ping me into slack if you dont understand anything in the above comment.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1868,220 +1428,7 @@ Number of bags needed to buy $= 25$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>738FBD72-02B9-485B-8F54-23F0D0ED5D80</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:26</p>
-</div>
-<div class='rag'>
-<p>Md Rameez</p>
-</div>
-<div class='rag'>
-<p>rag_mr_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-738FBD72-02B9-485B-8F54-23F0D0ED5D80'>Initial</p>
-<div class='question question'>
-
-What $5$-digit number has the following features:
-
-If we put the numeral $1$ at the beginning, we get a number three times smaller than if we put the numeral $1$ at the end of the number?
-
-In other words, if you think the answer is the number $34567$, then you want the number $134567$ to be one third of $345671$, 
-but it isn’t, so what’s the number? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-The number by putting $1$ at the beginning $= 100000 + a$
-
-The number by putting $1$ at the end $= 1 + 10a$
-
-As per the question,
-
-$
-\begin{aligned}
-1 + 10a                       &= 3 \times ( 100000 + a ) \\\\
-1 + 10a                       &= 300000 + 3a \\\\
-10a - 3a                      &= 300000 - 1 \\\\
-7a                            &= 299999 \\\\
-a                             &= \dfrac {299999} {7} \\\\
-a                             &= \dfrac {42857 \times 7} {7} \\\\
-a                             &= \dfrac {42857 \times \cancel 7} {\cancel 7} \\\\
-a                             &= 42857
-\end{aligned}
-$
-
-The required $5$-digit number $= 42857$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42857$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
-The number by putting $1$ at the beginning $= 100000 + a$
-
-The number by putting $1$ at the end $= 1 + 10a$
-
-As per the question,
-
-$
-\begin{aligned}
-1 + 10a                       &= 3 \times ( 100000 + a ) \\\\
-1 + 10a                       &= 300000 + 3a \\\\
-10a - 3a                      &= 300000 - 1 \\\\
-7a                            &= 299999 \\\\
-a                             &= \dfrac {299999} {7} \\\\
-a                             &= \dfrac {42857 \times 7} {7} \\\\
-a                             &= \dfrac {42857 \times \cancel 7} {\cancel 7} \\\\
-a                             &= 42857
-\end{aligned}
-$
-
-The required $5$-digit number $= 42857$.
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$42857$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='738FBD72-02B9-485B-8F54-23F0D0ED5D80' id='FORM-738FBD72-02B9-485B-8F54-23F0D0ED5D80' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-738FBD72-02B9-485B-8F54-23F0D0ED5D80'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>4DB6221C-968F-4194-8EA8-F75DD9FDEBE2</p>
 </div>
@@ -2095,7 +1442,7 @@ The required $5$-digit number $= 42857$.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2400,6 +1747,27 @@ Required number $= 6$.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a)
+
+i) Remove \"then the\" from the second line and just write \"Second number $= a + 3$\"
+
+ii)Show the cancelation for 24/2
+
+==> 12 * 2 / 2
+
+==> cancel 2 both on numerator and denominator
+
+then write the final answer.
+
+iii) Put both \"The first number\" and \"The second number\" inside one begin-end{aligned} katex.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2444,7 +1812,7 @@ Required number $= 6$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>A7879165-EAE0-4869-9FB1-0CA2600DB446</p>
 </div>
@@ -2458,7 +1826,7 @@ Required number $= 6$.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2693,6 +2061,17 @@ Value of a club $= 7$.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove the \"value of a club\" part and write only $7$ into the answer section.
+
+ 
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2737,7 +2116,7 @@ Value of a club $= 7$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>B1C64F6A-081A-4555-A7F5-0374D76EA86A</p>
 </div>
@@ -2751,7 +2130,7 @@ Value of a club $= 7$.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3126,6 +2505,31 @@ The three whole numbers $= 9, 10, 11$.
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a)
+
+Remove \"As per the...\" line
+
+Also remove last line \"The value of ...\"
+
+
+
+Part b)
+
+Consecutive missing:
+
+write Let the seven *consecutive* numbers in first line
+
+Part c)
+
+Same mistake as part b)
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3170,7 +2574,7 @@ The three whole numbers $= 9, 10, 11$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>87DD43D2-0743-438D-822B-510F1C7AB73E</p>
 </div>
@@ -3184,7 +2588,7 @@ The three whole numbers $= 9, 10, 11$.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3612,6 +3016,33 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b) Add missing line after 
+
+&= 4 \ \text{clinks} + 3 \ \text{tinkles} \\
+
+Missing line:
+
+&= 4 \times  \text{tinkles} + 3 \ \text{tinkles} \\
+
+
+
+Do the above everywhere the conversion is shown directly.
+
+In case of any doubt ping me on slack.
+
+
+
+ii) Remove the tinkles in below line.
+
+&= (27 - 17) \ \text{tinkles} \\
+</div>
 
 <div class='review'>
 <ul class='review'>

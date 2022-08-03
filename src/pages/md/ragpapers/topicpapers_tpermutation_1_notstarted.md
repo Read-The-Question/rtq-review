@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-1-notstarted"
 title: "TopicPaper - Permutation - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "33"
 ---
 <ul class='question default-decimal'>
@@ -7013,18 +7013,18 @@ $90$
 
 <pre class='language-latex'><code class='language-latex'>
 Total colours availble for the left side is $10$.
-
+<emptyline>
 Right side will have $1$ option less than left side.
-
+<emptyline>
 Colours remaining for right side = total colours $- 1$ option
-
+<emptyline>
 $= 10 - 1 = 9$
-
+<emptyline>
 
 Flags = Total colours $\times$ Total colors remaining  
-
+<emptyline>
 So, 
-
+<emptyline>
 $
 \begin{aligned}
 \text {Flags} &= 10 \times (10-1) \\
@@ -7032,7 +7032,7 @@ $
               &= 90 
 \end{aligned}
 $
-
+<emptyline>
 
 A total of $90$ flags are possible with $10$ colours to choose from. 
 </code></pre>
@@ -7106,11 +7106,11 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total Colours \times [Left Colours - 1] = Flags 
-
+<emptyline>
 Flags = 12
-
+<emptyline>
 Let's take total colours as $x$
-
+<emptyline>
 $
 \begin{aligned}
 x \times (x -1 ) = 12
@@ -7121,18 +7121,18 @@ x = 4
 x = - 3
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute
-
+<emptyline>
 $
 \begin{aligned}
 4 \times (4 -1 ) = 12
 4 \times 3 = 12
 \end{aligned}
 $
-
+<emptyline>
 $x = 4$
-
+<emptyline>
 There are total of $4$ colors 
 </code></pre>
 </div>
@@ -7199,11 +7199,11 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Flags with $1$ Colour 
-
+<emptyline>
 $=6 Colours \times 1 = 6$
-
+<emptyline>
 Flags with $2$ Colours 
-
+<emptyline>
 $
 \begin{aligned}
 = 6 Colours \times (6 - 1) \\
@@ -7211,16 +7211,16 @@ $
 = 30
 \end{aligned}
 $
-
+<emptyline>
 Total flags
-
+<emptyline>
 $= (1$ colour $+ 2$ colour) Flags
 $= 6 + 30$ 
-
+<emptyline>
 $= 36$ Flags
+<emptyline>
 
-
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7288,18 +7288,18 @@ $810$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A flag may have $3$ colours.
-
+<emptyline>
 Total Flags = Total colours $\times$ (Total $- 1$) \times (Total $- 1$)
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total colour options $=10$
-
+<emptyline>
 Let's substitute as above,
-
+<emptyline>
 Total Flags 
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times (10- 1) \times (10 - 1) \\
@@ -7308,9 +7308,9 @@ $
 &= 810
 \end{aligned}
 $
-
+<emptyline>
 $810$ different flags are possible with $10$ colours.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7374,25 +7374,25 @@ $810$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A flag may have $3$ colours.
-
+<emptyline>
 Total Flags = Total colours $\times$ (Total $- 1$) $\times$ (Total $- 1$)
-
+<emptyline>
 Total Flags $=150$
-
+<emptyline>
 Let's substitute as above,
-
+<emptyline>
 Total Flags 
-
+<emptyline>
 $
 \begin{aligned}
 150 &= x \times (x- 1) \times (x - 1) \\
 \end{aligned}
 $
-
+<emptyline>
 $810$ different flags are possible with $10$ colours.
+<emptyline>
 
-
-
+<emptyline>
 </code></pre>
 </div>
 </div>

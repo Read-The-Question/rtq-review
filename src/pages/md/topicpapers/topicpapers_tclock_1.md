@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tclock-1"
 title: "TopicPaper - Clock - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "33"
 ---
 <div class='paper'>
@@ -1064,9 +1064,9 @@ $45 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The hand of a clock moves by $30 \degree$ for every one unit covered.
-
+<emptyline>
 So the hour hand move by $30 \degree$ between $8 \ \text{am}$ and $9{:}00 \ \text{am}$ and another $15 \degree$ for $9{:}30 \ \text{am}$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {The hour hand moved by}  &= 30 + 15 \\\\
@@ -1248,9 +1248,9 @@ $165 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The hand of a clock moves by $30 \degree$ for every one unit covered.
-
+<emptyline>
 So the hour hand move by $30 \times 5 = 150 \degree$ between $6 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {The hour hand moved by}  &= 150 + 15 \\\\
@@ -1434,7 +1434,7 @@ $30 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total angles for the complete round in a clock $= 360 \degree$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Angle between every hour}    &= \dfrac {360} {12} \\\\
@@ -1443,7 +1443,7 @@ $
                                     &= 30 \degree
 \end {aligned}
 $
-
+<emptyline>
 The angle the hours of a clock make between each other at $7{:}30$ is $30 \degree$.
 </code></pre>
 </div>
@@ -1620,9 +1620,9 @@ $255 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The hand of a clock moves by $30 \degree$ for every one unit covered.
-
+<emptyline>
 So the hour hand move by $30 \times 8 = 240 \degree$ between $3 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {The hour hand moved by}  &= 240 + 15 \\\\
@@ -5794,11 +5794,11 @@ $150 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 In the clock from $12$ to $12$ it was $360 \degree$
-
+<emptyline>
 In the clock from $12$ to $6$ it was $180 \degree$
-
+<emptyline>
 $
 \begin{aligned}
 \text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
@@ -5807,7 +5807,7 @@ $
 &= 30 \degree
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\
@@ -6802,9 +6802,9 @@ $30 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know the angle between every two units is equal.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Angle between 9 a.m. and 10 a.m.}    &= \dfrac {90} {3} \\\\
@@ -6867,11 +6867,11 @@ $15 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know the angle between every unit is equal.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 The time is equal to $30$ minutes which is half an hour. Using that we get,
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {30} {2} \\\\
@@ -6932,11 +6932,11 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know the angle between every hour is equal.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 The time is equal to $2$ hours and $20$ minutes. Using that we get,
-
+<emptyline>
 $
 \begin {aligned}
 &= 60 +  \\\\
@@ -7596,15 +7596,15 @@ $105$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's revise few facts about clock hands.
-
+<emptyline>
 - A minute clock hand moves $360 \degree$ in $1 \ \text{hour}$
 - A hour clock hand moves $30 \degree$ in $1 \ \text{hour}$
 - The angle between each hour number on the clock is $30 \degree$
-
+<emptyline>
 At $2{:}30$, the minute hand will be exactly on hour number $6$ but the hour hand will have moved a little ahead from $2$ and it will be somewhere between $2$ and $3$.
-
+<emptyline>
 Let's calculate the angle moved by hour hand.
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text{hour}         &: 30 \degree \\\\
@@ -7614,11 +7614,11 @@ $
 30 \ \text{minutes}     &: 15 \degree
 \end{aligned}
 $
-
+<emptyline>
 The angle between hands is the angle between number $2$ and $6$ minus the angle travelled by hour hand in $30$ minutes.
-
+<emptyline>
 Let's calculate the angle between the hands.
-
+<emptyline>
 $
 \begin{aligned}
 &= 30 \times 4 - 15 \\\\
@@ -7626,7 +7626,7 @@ $
 &= 105 \degree
 \end{aligned}
 $
-
+<emptyline>
 The smaller angle is $= 105 \degree$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-pr-prns"
 title: "TopicPaper - Simpleword - 4 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -245,7 +245,7 @@ $\pounds 20$
                        &= 100
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Worth} &= 100 \times 20 \text{p} \\\\
@@ -318,7 +318,7 @@ $268 \ \text{g}$
                        &= 20
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total weight} &= 20 \times 13.4 \ \text{g} \\\\
@@ -1861,7 +1861,7 @@ $23$
 &\approx 23
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2431,7 +2431,7 @@ $75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}\
 \text{marks set-1} &= 20 \% \ \text{of} \ 10 \\\\ 
@@ -2456,7 +2456,7 @@ $
 &= 75
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

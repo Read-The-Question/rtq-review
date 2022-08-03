@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -156,13 +156,13 @@ $51 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the third angle of the triangle $=a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 83 + a + 58  &= 180 \\\\
@@ -171,9 +171,9 @@ a            &= 180 - 141 \\\\
 a            &= 39 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $x$.
-
+<emptyline>
 $
 \begin{aligned}
 x + 39 + 90  &= 180 \\\\
@@ -333,36 +333,21 @@ Accurately measure the angles below with a protractor
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -374,17 +359,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -400,21 +375,11 @@ TODOANSWER
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -424,26 +389,11 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>
 </code></pre>
 </div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -540,10 +490,10 @@ TODOANSWER
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -697,11 +647,11 @@ $46 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know, the sum of a right angle is $90 \degree$.
-
+<emptyline>
 Let the missing angle $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 a + 44 	               			&= 90 \\\\
@@ -709,7 +659,7 @@ a                              	&= 90 - 44 \\\\
 a                              	&= 46 \degree
 \end {aligned}
 $
-
+<emptyline>
 Missing angle $= 46 \degree$
 </code></pre>
 </div>
@@ -771,11 +721,11 @@ $65 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the missing angle $= b$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 b + 48 + 67    		&= 180 \\\\
@@ -784,7 +734,7 @@ b              		&= 180 - 115 \\\\
 b              		&= 65 \degree
 \end {aligned}
 $
-
+<emptyline>
 Missing angle $= 65 \degree$
 </code></pre>
 </div>
@@ -842,9 +792,9 @@ $60 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 d + 140 + 160 		&= 360 \\\\
@@ -933,10 +883,10 @@ Line 3 : We know, the sum of a right angle is 90°.
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1019,18 +969,8 @@ Explain why it is **not possible** for a quadrilateral to have **exactly** three
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -1043,23 +983,8 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -1084,10 +1009,10 @@ TODOANSWER
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:13</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1241,9 +1166,9 @@ $84 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 76 + 87 + 113 						  &= 360 \\\\
@@ -1309,9 +1234,9 @@ $118 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_quadrilateral
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 b + 101 + 74 + 67 						  &= 360 \\\\
@@ -1377,9 +1302,9 @@ $57 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 c + 69 + 54  				 &= 180 \\\\
@@ -1445,9 +1370,9 @@ $79 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 d + 63 + 38  				 &= 180 \\\\
@@ -1515,11 +1440,11 @@ $38 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram, the triangle is an isosceles triangle. 
-
+<emptyline>
 We know that angles opposite the equal side are always equal.
-
+<emptyline>
 $
 \begin{aligned}
 e + (2 \times 71)    &= 180 \\\\
@@ -1759,7 +1684,7 @@ Obtuse angle $= A$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The acute angle is $B$.
-
+<emptyline>
 The obtuse angle is $A$.
 </code></pre>
 </div>
@@ -1885,10 +1810,10 @@ $90 \degree$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2047,7 +1972,7 @@ Acute angle
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Angle smaller than $90 \degree$ is called acute angle.
-
+<emptyline>
 Angle A is actue angle.
 </code></pre>
 </div>
@@ -2155,7 +2080,7 @@ $75 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AD0C8D7F-7AC9-4EB5-911B-9421F973123A</p>
 </div>
@@ -2163,10 +2088,10 @@ $75 \degree$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:23</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2307,12 +2232,12 @@ b                         &= 120 \degree
 \end{aligned}
 $
 
-$j$ and $b$ are opposite angles of a parallelogram.
+$j$ and $b$ are opposite angles of a parallelogram. So,
 
 $
 \begin{aligned}
-\text {Therefore,} \ j &= b \\\\
-                    j &= 120 \degree
+j   &= b \\\\
+j   &= 120 \degree
 \end{aligned}
 $
 
@@ -2329,27 +2254,27 @@ $120 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 *TODO:: Add an image with points marked as E F at which the line is intersecting the parallelogram. and also mark the angles of CEFB.*
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_quadrilateral
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 ABBR: $\text {Alternate interior angles are equal when two parallel lines are cut by a transversal}$.
-
+<emptyline>
 ABBR: $\text{Opposite angles of a parallelogram are equal}$.
-
+<emptyline>
 Let the other two angles of quadrilateral CEFB $= a, \ b$
-
+<emptyline>
 As per the daiagram,
-
+<emptyline>
 $h = 80 \degree$
-
+<emptyline>
 Let's use the value of $h$ to find $a$.
-
+<emptyline>
 $
 \begin{aligned}
 h + a              &= 180 \\\\
@@ -2358,9 +2283,9 @@ a                  &= 180 - 80 \\\\
 a                  &= 100 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $b$.
-
+<emptyline>
 $
 \begin{aligned}
 a + 80 + 60 + b           &= 360 \\\\
@@ -2370,13 +2295,13 @@ b                         &= 360 - 240 \\\\
 b                         &= 120 \degree
 \end{aligned}
 $
-
-$j$ and $b$ are opposite angles of a parallelogram.
-
+<emptyline>
+$j$ and $b$ are opposite angles of a parallelogram. So,
+<emptyline>
 $
 \begin{aligned}
-\text {Therefore,} \ j &= b \\\\
-                    j &= 120 \degree
+j   &= b \\\\
+j   &= 120 \degree
 \end{aligned}
 $
 </code></pre>
@@ -2396,10 +2321,50 @@ $
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='AD0C8D7F-7AC9-4EB5-911B-9421F973123A' id='FORM-AD0C8D7F-7AC9-4EB5-911B-9421F973123A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AD0C8D7F-7AC9-4EB5-911B-9421F973123A'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
 </div>
@@ -2407,10 +2372,10 @@ $
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2548,14 +2513,19 @@ $
 
 $c$ and $d$ are vertically opposite angles.
 
-Hence $d = 28 \degree$
+Hence, $d = 28 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$50 \degree, \ 130 \degree$
+a $=$ $50 \degree, \ 130 \degree$
+
+</div>
+<div class='answer'>
+
+b $=$ $130 \degree$
 
 </div>
 <div class='answer'>
@@ -2573,11 +2543,11 @@ $d$ $=$ $28 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 100 + 30 &= 180 \\\\
@@ -2586,11 +2556,11 @@ a            &= 180 - 130 \\\\
 a            &= 50 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $b$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + b        &= 180 \\\\
@@ -2604,9 +2574,9 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 c + 62 + 90  &= 180 \\\\
@@ -2615,10 +2585,10 @@ c            &= 180 - 152 \\\\
 c            &= 28 \degree
 \end{aligned}
 $
-
+<emptyline>
 $c$ and $d$ are vertically opposite angles.
-
-Hence $d = 28 \degree$
+<emptyline>
+Hence, $d = 28 \degree$
 </code></pre>
 </div>
 </div>
@@ -2627,10 +2597,20 @@ Hence $d = 28 \degree$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>a</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>$50 \degree, \ 130 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>b</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$130 \degree$
 </code></pre>
 </div>
 <div class='answercodeblock'>
@@ -2655,7 +2635,56 @@ Hence $d = 28 \degree$
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+Part (b) :
+
+align &= 
+
+last line write d and 48 inside $$ and 
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' id='FORM-D14EA30C-684C-4254-A3CF-C93663F3D76A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D14EA30C-684C-4254-A3CF-C93663F3D76A'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2667,10 +2696,10 @@ Hence $d = 28 \degree$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2853,21 +2882,21 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 *TODO:: Add an image with vertex marked at angle v as H and the angle marked beside v as a.*
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 ABBR: $\text {Exterior angle of a triangle is equal to the sum of the two interior opposite angles}$.
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the angle in the triangle FGH $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 v + 64      &= 107 \\\\
@@ -2875,11 +2904,11 @@ v           &= 107 - 64 \\\\
 v           &= 43 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $v$ to find $a$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + v + 90          &= 180 \\\\
@@ -2889,11 +2918,11 @@ a                   &= 180 - 133 \\\\
 a                   &= 47 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $w$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 w + a       &= 61 \\\\
@@ -2902,11 +2931,11 @@ w           &= 61 - 47 \\\\
 w           &= 14 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $w$ to find $u$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 u + 61      &= w + 64 \\\\
@@ -3000,10 +3029,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3182,17 +3211,17 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 *TODO:: Add the second figure with vertices marked ABCD. The bigger triangle should be ABC and smaller one ADC.*
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 ABBR: $\text {Alternate interior angles are equal when two parallel lines are cut by a transversal}$.
-
+<emptyline>
 As per the first diagram,
-
+<emptyline>
 $
 \begin{aligned}
 b + b + 108     &= 180 \\\\
@@ -3205,11 +3234,11 @@ b               &= \dfrac {36 \times \cancel {2}} {\cancel {2}} \\\\
 b               &= 36 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let the third angle in triangle ABC $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 48 + 34 + 53        &= 180 \\\\
@@ -3218,9 +3247,9 @@ a                       &= 180 - 135 \\\\
 a                       &= 45 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $x$.
-
+<emptyline>
 $
 \begin{aligned}
 x + x + a               &= 180 \\\\
@@ -3231,11 +3260,11 @@ x                       &= \dfrac {135} {2} \\\\
 x                       &= 67.5 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $x$ and $a$ to find $y$.
-
+<emptyline>
 As per the diagram, in triangle ADC
-
+<emptyline>
 $
 \begin{aligned}
 x + a + y + 34               &= 180 \\\\
@@ -3564,11 +3593,11 @@ $70 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As the triangle is an isosceles triangle, the third angle is also $= x$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 40 + x  &= 180 \\\\
@@ -3635,9 +3664,9 @@ $110 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's use the value of $x$ from above to find $y$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + y  &= 180 \\\\
@@ -3712,7 +3741,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
 </div>
@@ -3720,10 +3749,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3885,7 +3914,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$47 \degree, \ 123 \degree$
+x $=$ $47 \degree$
+
+</div>
+<div class='answer'>
+
+y $=$ $123 \degree$
 
 </div>
 </div>
@@ -3893,13 +3927,13 @@ $47 \degree, \ 123 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_quadrilateral
-
+<emptyline>
 As per the daigram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 133 &= 180 \\\\
@@ -3907,9 +3941,9 @@ x       &= 180 - 133 \\\\
 x       &= 47 \degree
 \end{aligned}
 $
-
+<emptyline>
 As per the daigram,
-
+<emptyline>
 $
 \begin{aligned}
 47 + 90 + y + 100 &= 360 \\\\
@@ -3926,10 +3960,20 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>x</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$47 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$47 \degree, \ 123 \degree$
+<pre class='language-latex'><code class='language-latex'>y</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$123 \degree$
 </code></pre>
 </div>
 </div>
@@ -3989,7 +4033,7 @@ $t = r = 66 \degree$
 
 Similarly,
 
-u will be equal to s.
+$u$ will be equal to $s$
 
 As we know, the sum of a complete angle is $360 \degree$. So,
 
@@ -4007,14 +4051,39 @@ s                &= 114 \degree
 \end{aligned}
 $
 
-$\text {s} = \text {u} = 114 \degree$
+$s = u = 114 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \degree$
+p $=$ $132 \degree$
+
+</div>
+<div class='answer'>
+
+q $=$ $66 \degree$
+
+</div>
+<div class='answer'>
+
+r $=$ $66 \degree$
+
+</div>
+<div class='answer'>
+
+s $=$ $114 \degree$
+
+</div>
+<div class='answer'>
+
+t $=$ $66 \degree$
+
+</div>
+<div class='answer'>
+
+u $=$ $114 \degree$
 
 </div>
 </div>
@@ -4022,11 +4091,11 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 p + 48  &= 180 \\\\
@@ -4034,11 +4103,11 @@ p       &= 180 - 48 \\\\
 p       &= 132 \degree
 \end{aligned}
 $
-
+<emptyline>
 As it is an isosceles triangle, angle $r= q$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 q + 48 + r  &= 180 \\\\
@@ -4050,19 +4119,19 @@ q           &= \dfrac {66 \times \cancel {2}} {\cancel {2}} \\\\
 q           &= 66 \degree
 \end{aligned}
 $
-
+<emptyline>
 $r = q = 66 \degree$
-
+<emptyline>
 As $r$ and $t$ are opposite angles,
-
+<emptyline>
 $t = r = 66 \degree$
-
+<emptyline>
 Similarly,
-
-u will be equal to s.
-
+<emptyline>
+$u$ will be equal to $s$
+<emptyline>
 As we know, the sum of a complete angle is $360 \degree$. So,
-
+<emptyline>
 $
 \begin{aligned}
 u + r + s + t    &= 360 \\\\
@@ -4076,8 +4145,8 @@ s                &= \dfrac {114 \times \cancel {2}} {\cancel {2}} \\\\
 s                &= 114 \degree
 \end{aligned}
 $
-
-$\text {s} = \text {u} = 114 \degree$
+<emptyline>
+$s = u = 114 \degree$
 </code></pre>
 </div>
 </div>
@@ -4086,10 +4155,60 @@ $\text {s} = \text {u} = 114 \degree$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>p</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$132 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \degree$
+<pre class='language-latex'><code class='language-latex'>q</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$66 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>r</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$66 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>s</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$114 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>t</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$66 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>u</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$114 \degree$
 </code></pre>
 </div>
 </div>
@@ -4098,6 +4217,46 @@ $\text {s} = \text {u} = 114 \degree$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' id='FORM-01546D3D-3C3F-4170-93D2-BAF39200375E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-01546D3D-3C3F-4170-93D2-BAF39200375E'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4232,13 +4391,13 @@ $42 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the missing angle $= a$
-
+<emptyline>
 As the triangle is an isosceles triangle, the third angle is also $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 96      &= 180  \\\\
@@ -4251,7 +4410,7 @@ a               &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
 a               &= 42 \degree
 \end{aligned}
 $
-
+<emptyline>
 Other two angles $= 42 \degree$
 </code></pre>
 </div>
@@ -4313,7 +4472,7 @@ Other two angles $= 42 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C4397B4E-BA18-4B0D-A072-7C5F9C2B0637</p>
 </div>
@@ -4321,10 +4480,10 @@ Other two angles $= 42 \degree$
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4416,6 +4575,8 @@ ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 Let the third angle of first triangle $= a$
 
+Let the third angle of second triangle $= b$
+
 $
 \begin{aligned}
 a + 115 + 35    &= 180 \\\\
@@ -4424,8 +4585,6 @@ a               &= 180 - 150 \\\\
 a               &= 30 \degree
 \end{aligned}
 $
-
-Let the third angle of second triangle $= b$
 
 $
 \begin{aligned}
@@ -4451,9 +4610,11 @@ $20 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the third angle of first triangle $= a$
-
+<emptyline>
+Let the third angle of second triangle $= b$
+<emptyline>
 $
 \begin{aligned}
 a + 115 + 35    &= 180 \\\\
@@ -4462,9 +4623,7 @@ a               &= 180 - 150 \\\\
 a               &= 30 \degree
 \end{aligned}
 $
-
-Let the third angle of second triangle $= b$
-
+<emptyline>
 $
 \begin{aligned}
 b + 85 + 75     &= 180 \\\\
@@ -4473,7 +4632,7 @@ b               &= 180 - 160 \\\\
 b               &= 20 \degree
 \end{aligned}
 $
-
+<emptyline>
 Last angle in the list $= 20 \degree$
 </code></pre>
 </div>
@@ -4492,6 +4651,46 @@ Last angle in the list $= 20 \degree$
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' id='FORM-C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C4397B4E-BA18-4B0D-A072-7C5F9C2B0637'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4503,10 +4702,10 @@ Last angle in the list $= 20 \degree$
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:7</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -4622,9 +4821,9 @@ $75 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4x  + 5x + 45                    &= 180 \\\\
@@ -4827,9 +5026,9 @@ $55 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 90 + 35 + x      &= 180 \\\\
@@ -5020,9 +5219,9 @@ $75 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_quadrilateral
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 110 + 100 + 75 + x             &= 360 \\\\
@@ -5213,9 +5412,9 @@ $40 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 80 + 60 + x               &= 180 \\\\
@@ -5410,13 +5609,13 @@ $60 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_md_angles_of_an_equilateral_triangle
-
+<emptyline>
 Let the angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + a              &= 180 \degree \\\\
@@ -5427,7 +5626,7 @@ a                      &= \dfrac {\cancel{3} \times 60} {\cancel{3}} \\\\
 a                      &= 60 \degree
 \end{aligned}
 $
-
+<emptyline>
 Angle $= 60 \degree$
 </code></pre>
 </div>
@@ -5650,15 +5849,15 @@ $b$ $=$ $15 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 *TODO:: Add an image with vertices marked ABCD$*
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 In triangle $ABD$, as per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 2a + a + 90     &= 180 \\\\
@@ -5670,9 +5869,9 @@ a               &= \dfrac {30 \times \cancel{3}} { \cancel{3}} \\\\
 a               &= 30 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use value of $a$ in triangle ABC.
-
+<emptyline>
 $
 \begin{aligned}
 (b + 2a) + b + 90     	&= 180 \\\\
@@ -5755,7 +5954,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
 </div>
@@ -5763,10 +5962,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5861,8 +6060,9 @@ Angle $a$ and $b$ are two alternate interior angles.
 $
 \begin{aligned}
 a           &= 31 \degree \\\\
+b           &= a + 35 \degree \\\\
 b           &= 31 \degree + 35 \degree \\\\
-            &= 66 \degree
+b           &= 66 \degree
 \end{aligned}
 $
 
@@ -5871,12 +6071,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$
-\begin{aligned}
-a &= 31 \degree \\
-b &= 66 \degree
-\end{aligned}
-$
+a $=$ $31 \degree$
+
+</div>
+<div class='answer'>
+
+b $=$ $66 \degree$
 
 </div>
 </div>
@@ -5884,16 +6084,17 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know, if two parallel lines are cut by a transversal, then the alternate interior angles are equal. So,
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 Angle $a$ and $b$ are two alternate interior angles.
-
+<emptyline>
 $
 \begin{aligned}
 a           &= 31 \degree \\\\
+b           &= a + 35 \degree \\\\
 b           &= 31 \degree + 35 \degree \\\\
-            &= 66 \degree
+b           &= 66 \degree
 \end{aligned}
 $
 </code></pre>
@@ -5904,20 +6105,65 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>a</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$31 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-a &= 31 \degree \\
-b &= 66 \degree
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>b</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$66 \degree$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' id='FORM-71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-71BF2B3D-3BE5-4C50-B05E-2EC50982167D'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6086,9 +6332,9 @@ $30 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 2x + x + 5x + 4x                &= 360 \\\\
@@ -6160,9 +6406,9 @@ $36 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 2x + (x + 32) + 40 			&= 180 \degree \\\\
@@ -6247,10 +6493,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:14</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -6419,11 +6665,11 @@ $30 \degree , 110 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 80 + 70  &= 180 \\\\
@@ -6432,11 +6678,11 @@ a            &= 180 - 150 \\\\
 a            &= 30 \degree
 \end {aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $b$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 b + 70  &= 180 \\\\
@@ -6498,9 +6744,9 @@ $105 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 c + 75  &= 180 \\\\
@@ -6644,10 +6890,10 @@ In blue answer
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:10</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -6779,11 +7025,11 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 y + 84 + 52                     &= 180 \\\\
@@ -6792,9 +7038,9 @@ y                               &= 180 - 136 \\\\
 y                               &= 44 \degree
 \end {aligned}
 $
-
+<emptyline>
 Let's use the value of $y$ to find $x$.
-
+<emptyline>
 $
 \begin {aligned}
 x + y                   &= 180 \\\\
@@ -7035,11 +7281,11 @@ $140 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 b                                             &= 2c \\\\
@@ -7056,9 +7302,9 @@ b                                             &= 2 \times 20 \\\\
 b                                             &= 40 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $b$ to find $d$.
-
+<emptyline>
 $
 \begin{aligned}
 b + d                                         &= 180 \\\\
@@ -7256,13 +7502,13 @@ $150 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_equilateral_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_rectangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 90 + 60 + 60 + a                               &= 360 \\\\
@@ -7338,10 +7584,10 @@ $
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:29</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7455,11 +7701,11 @@ $110 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the third angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 30 + 40     &= 180 \\\\ 
@@ -7468,7 +7714,7 @@ a               &= 180 - 70 \\\\
 a               &= 110 \degree
 \end{aligned}
 $
-
+<emptyline>
 Third angle $= 110 \degree$
 </code></pre>
 </div>
@@ -7538,10 +7784,10 @@ Third angle $= 110 \degree$
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7676,13 +7922,13 @@ $150\degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_quadrilateral
-
+<emptyline>
 Let third angle $=x$
-
+<emptyline>
 Fourth angle $= 5x$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 90 + 90 + x + 5x  &= 360 \\\\
@@ -7695,9 +7941,9 @@ x                 &= \dfrac {\cancel {6} \times 30} {\cancel {6}} \\\\
 x                 &= 30 \degree
 \end{aligned}
 $
-
+<emptyline>
 $\text {Third angle} = 30 \degree$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Fourth angle}      &= 5x \\\\
@@ -7705,7 +7951,7 @@ $
                           &= 150 \degree
 \end{aligned}
 $
-
+<emptyline>
 Largest angle $= 150 \degree$ 
 </code></pre>
 </div>
@@ -7958,9 +8204,9 @@ $C$ $=$ $90 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 A                        &= B \\\\
@@ -8061,9 +8307,9 @@ $90 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x + x + x + 90  &= 360 \\\\
@@ -8516,9 +8762,9 @@ $45 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 135 + a                 &=  180 \\\\
@@ -8582,9 +8828,9 @@ $96 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 174 + e + 90    &=  360 \\\\
@@ -8663,11 +8909,11 @@ $73 \degree, 107 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 62 + 45 + f &= 180 \\\\
@@ -8676,9 +8922,9 @@ f           &= 180 - 107 \\\\
 f           &= 73 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $f$ to find $g$.
-
+<emptyline>
 $
 \begin{aligned}
 f + g     &=  180 \\\\
@@ -8873,9 +9119,9 @@ $58 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 32 + 90   &= 180  \\\\
@@ -9088,15 +9334,15 @@ $56 \degree$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add an image with showing vertically opposite angles being equal *
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_md_formula_vertically_opposite_angles
-
+<emptyline>
 As the triangle is an isosceles triangle, the third angle is also $= x$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + x + 68      &= 180  \\\\
@@ -9302,9 +9548,9 @@ $85 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 43 + 52     &= 180  \\\\
@@ -9381,10 +9627,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -9511,13 +9757,13 @@ $190 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>*TODO:: Problem statement should be corrected, sum of angles instead of difference.*
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_quadrilateral
-
+<emptyline>
 Let the sum of other two angles be $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s + 95 + 75 &= 360 \\\\
@@ -9526,7 +9772,7 @@ s           &= 360 - 170 \\\\
 s           &= 190 \degree
 \end{aligned}
 $
-
+<emptyline>
 Sum of the other two angles $= 190 \degree$
 </code></pre>
 </div>
@@ -9725,9 +9971,9 @@ $136 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line 
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 44 + a     &= 180  \\\\
@@ -9795,7 +10041,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A9712DDD-B6B1-40F8-80F2-D8628FB0991D</p>
 </div>
@@ -9803,10 +10049,10 @@ $
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9894,29 +10140,30 @@ Work out the size of the angle marked $x$.
 <div class='workings'>
 <div class='working'>
 
-According to question,
+As per the question,
 
-angle of each side of the square$=90\degree$
+Angle of each side of the square $= 90 \degree$
 
-angle of each side of the equilateral triangle$=60\degree$
+Angle of each side of the equilateral triangle $=60  \degree$
 
-let the remaining angle  $=y$
+Let the remaining angle $= y$
 
 $
 \begin{aligned}
-y + 80\degree = 180\degree \\\\
-y = 180\degree - 80\degree \\\\
-y= 100\degree
+y + 80          &= 180 \\\\
+y               &= 180 - 80 \\\\
+y               &= 100 \degree
 \end{aligned}
 $
 
-As we know sum of a quadrilateral $=360\degree$
+As we know sum of a quadrilateral $= 360 \degree$
 
 $
 \begin{aligned}
-x + 60\degree + 100\degree +90\degree =360 \degree \\\\
-x + 250\degree = 360\degree \\\\
-x = 110\degree
+x + 60 + 100 +90  &= 360 \\\\
+x + 250           &= 360 \\\\
+x                 &= 360 - 250 \\\\
+x                 &= 110 \degree
 \end{aligned}
 $
 
@@ -9925,36 +10172,37 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$110\degree$
+$110 \degree$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>According to question,
-
-angle of each side of the square$=90\degree$
-
-angle of each side of the equilateral triangle$=60\degree$
-
-let the remaining angle  $=y$
-
+<pre class='language-latex'><code class='language-latex'>As per the question,
+<emptyline>
+Angle of each side of the square $= 90 \degree$
+<emptyline>
+Angle of each side of the equilateral triangle $=60  \degree$
+<emptyline>
+Let the remaining angle $= y$
+<emptyline>
 $
 \begin{aligned}
-y + 80\degree = 180\degree \\\\
-y = 180\degree - 80\degree \\\\
-y= 100\degree
+y + 80          &= 180 \\\\
+y               &= 180 - 80 \\\\
+y               &= 100 \degree
 \end{aligned}
 $
-
-As we know sum of a quadrilateral $=360\degree$
-
+<emptyline>
+As we know sum of a quadrilateral $= 360 \degree$
+<emptyline>
 $
 \begin{aligned}
-x + 60\degree + 100\degree +90\degree =360 \degree \\\\
-x + 250\degree = 360\degree \\\\
-x = 110\degree
+x + 60 + 100 +90  &= 360 \\\\
+x + 250           &= 360 \\\\
+x                 &= 360 - 250 \\\\
+x                 &= 110 \degree
 \end{aligned}
 $
 </code></pre>
@@ -9968,12 +10216,57 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$110\degree$
+<pre class='language-latex'><code class='language-latex'>$110 \degree$
 </code></pre>
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+call uday for the format
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A9712DDD-B6B1-40F8-80F2-D8628FB0991D' id='FORM-A9712DDD-B6B1-40F8-80F2-D8628FB0991D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A9712DDD-B6B1-40F8-80F2-D8628FB0991D'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -9985,10 +10278,10 @@ $
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -10140,7 +10433,7 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x - 1 &= 4 \\\\
@@ -10210,9 +10503,9 @@ $30 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 y + 2y + 3y &= 180 \degree \\\\
@@ -10413,18 +10706,8 @@ the angles in a triangle add up to $180 \degree$
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -10437,23 +10720,8 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>TODOWORKING
 </code></pre>
 </div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-6-pr"
 title: "TopicPaper - Infer - 6 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -194,15 +194,15 @@ T \times E          &= 10 \\\\
 T \times E          &= 5 \times 2
 \end{aligned}
 $
-
+<emptyline>
 So,
-
+<emptyline>
 T = $5$
-
+<emptyline>
 E = $2$
-
+<emptyline>
 Lets verify,
-
+<emptyline>
 $
 \begin{aligned}
 &= T \times E \times E \\\\
@@ -371,7 +371,7 @@ $504$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>FOAL and LOAF contain the same alphabets. LOAF is an anagram of FOAL
-
+<emptyline>
 So, LOAF = $504$
 </code></pre>
 </div>

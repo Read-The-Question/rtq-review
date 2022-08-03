@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgeometry-1-oldpr"
 title: "TopicPaper - Geometry - 1 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -128,7 +128,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>** TODO: Add diagrams to show all lines of symmetry **
-
+<emptyline>
 $4$
 </code></pre>
 </div>
@@ -519,7 +519,7 @@ A $=$ $\text{a trapezium}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>** TODO: Add the complete diagram **
-
+<emptyline>
 a trapezium
 </code></pre>
 </div>

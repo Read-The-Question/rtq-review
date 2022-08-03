@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-2-g0-prcc"
 title: "TopicPaper - Simpleword - 2 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "30"
 ---
 <ul class='question default-decimal'>
@@ -321,7 +321,7 @@ $39$
                         &= \dfrac {22} {2} - 5
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total sweets}    &= \text {No. of sweets (Alison + Bhavini + Catherine)} \\\\
@@ -619,9 +619,9 @@ $192$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 25 \% \ \text{of} \ a       &= 48 \\\\
@@ -688,9 +688,9 @@ $49, 25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Two square numbers $= 49, 25$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 49 + 25 \\\\
@@ -751,9 +751,9 @@ $11, 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Two prime numbers $= 11, 2$
-
+<emptyline>
 Let's begin.
-
+<emptyline>
 $
 \begin{aligned}
 &= 11 + 2 \\\\

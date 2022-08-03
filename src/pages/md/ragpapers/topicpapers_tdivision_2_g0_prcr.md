@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-2-g0-prcr"
 title: "TopicPaper - Division - 2 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -125,9 +125,9 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 800 \div a               &= 20 \\\\

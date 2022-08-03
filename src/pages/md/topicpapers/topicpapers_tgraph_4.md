@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-4"
 title: "TopicPaper - Graph - 4"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -541,7 +541,7 @@ $26$
                       &= 26
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -587,7 +587,7 @@ $\text {Ford}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Mode is a value that appears most frequently in a data set.
-
+<emptyline>
 Vehicle type Ford is the most frequently parked with total of 9 vehicles.
 </code></pre>
 </div>
@@ -828,7 +828,7 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the chart,
-
+<emptyline>
 No. of white cards that passed the gate = $13$ 
 </code></pre>
 </div>
@@ -930,7 +930,7 @@ $\text {White}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Mode is a value that appears most frequently in a data set.
-
+<emptyline>
 White Car is the most frequently parked with total of 13 cars. 
 </code></pre>
 </div>
@@ -1529,7 +1529,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the bar chart,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Crisp - Biscuits} &= 15 - 7 \\\\
@@ -1586,7 +1586,7 @@ $52$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the bar chart,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total friends} &= 5 + 7 + 14 + 15 + 11 \\\\
@@ -4280,7 +4280,7 @@ She travelled altogether $= 60 \ \text{miles}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>For such questions, it will be easier to write down the route taken.
-
+<emptyline>
 
 $
 \begin{matrix}
@@ -4293,7 +4293,7 @@ $
 &&  \footnotesize{\maroonC{(+10)}} \\
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
       & = 10 + 9 + 18 + 13 + 10         \\\\
@@ -4301,7 +4301,7 @@ $
       & = 60 \ \text{miles}                               
 \end{aligned}
 $
-
+<emptyline>
 She travelled altogether $= 60 \ \text{miles}$
 </code></pre>
 </div>
@@ -10338,7 +10338,7 @@ $
 &= 20
 \end{aligned}
 $
-
+<emptyline>
 Red,
 $
 \begin{aligned}
@@ -10349,7 +10349,7 @@ $
 &= 10
 \end{aligned}
 $
-
+<emptyline>
 Not blue,
 $
 \begin{aligned}

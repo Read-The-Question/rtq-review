@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-17"
 title: "TopicPaper - Number - 17"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -374,7 +374,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>E4217FA5-8FD3-4C35-9B50-472281B6B580</p>
 </div>
@@ -388,7 +388,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -756,7 +756,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>815D7E74-0B4C-4E99-99F9-117582F86F67</p>
 </div>
@@ -770,7 +770,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -849,39 +849,10 @@ You are told that $1 \ \text{inch} = 2.5 \ \text{centimetres}$
 Use this information to write:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -895,8 +866,9 @@ $7 \ \text{inches}$ in centimetres
 
 $
 \begin{aligned}
-&= 7 \times 2.5 \\\\
-&= 17.5 \ \text{cm}
+&= 7 \ \text{inches} \\\\
+&= 7 \times 2.5 \ \text{centimeters} \\\\
+&= 17.5 \ \text{centimeters}
 \end{aligned}
 $
 
@@ -905,7 +877,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$17.5 \ \text{cm}$
+$17.5 \ \text{centimeters}$
 
 </div>
 </div>
@@ -914,8 +886,9 @@ $17.5 \ \text{cm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 7 \times 2.5 \\\\
-&= 17.5 \ \text{cm}
+&= 7 \ \text{inches} \\\\
+&= 7 \times 2.5 \ \text{centimeters} \\\\
+&= 17.5 \ \text{centimeters}
 \end{aligned}
 $
 </code></pre>
@@ -929,7 +902,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$17.5 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$17.5 \ \text{centimeters}$
 </code></pre>
 </div>
 </div>
@@ -946,15 +919,13 @@ $70  \ \text{inches}$ in metres
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-
-
 $
 \begin{aligned}
-&= 70 \times 2.5 \ \text {cm} \\\\
-&= 70 \times \dfrac {2.5} {100} \ \text {m} \\\\
+&= 70 \ \text{inches} \\\\
+&= 70 \times 2.5 \ \text {centimeters} \\\\
+&= 70 \times \dfrac {2.5} {100} \ \text {meters} \\\\
 &= 70 \times 0.025 \\\\
-&= 0.175 \ \text {m}
+&= 0.175 \ \text {meters}
 \end{aligned}
 $
 
@@ -963,21 +934,20 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.175 \ \text{m}$
+$0.175 \ \text{meters}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 70 \times 2.5 \ \text {cm} \\\\
-&= 70 \times \dfrac {2.5} {100} \ \text {m} \\\\
+&= 70 \ \text{inches} \\\\
+&= 70 \times 2.5 \ \text {centimeters} \\\\
+&= 70 \times \dfrac {2.5} {100} \ \text {meters} \\\\
 &= 70 \times 0.025 \\\\
-&= 0.175 \ \text {m}
+&= 0.175 \ \text {meters}
 \end{aligned}
 $
 </code></pre>
@@ -991,7 +961,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0.175 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$0.175 \ \text{meters}$
 </code></pre>
 </div>
 </div>
@@ -2130,9 +2100,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$6$
-
+<emptyline>
 Lets verify,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {2} \times (1 + 2 + 3 + 6) \\\\
@@ -6070,7 +6040,7 @@ $211$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin {array}{cccccccccccccc}
          &           &     8     &     4    &     4 \\
@@ -6082,11 +6052,11 @@ $
    2     &     1     &     1     &     0    &     0
 \end {array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= 211$
 </code></pre>
 </div>
@@ -9056,7 +9026,7 @@ $2.38 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
-
+<emptyline>
 $
 \begin{aligned}
 &= 2.7 \ \text{m} - 32 \ \text{cm} \\\\
@@ -9482,7 +9452,7 @@ $37 \\\\ 21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Number IN $= 10$
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times 4 - 3 \\\\
@@ -9490,11 +9460,11 @@ $
 &= 37
 \end{aligned}
 $
-
+<emptyline>
 Number OUT $= 81$
-
+<emptyline>
 Let input number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a - 3 &= 81 \\\\
@@ -9621,31 +9591,31 @@ $\text{Multipy by}\ 7 \ \text{then add}\ 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the rule $= \text{Multiply by}\ a \ \text{then add}\ b$
-
+<emptyline>
 Input $= 2$
-
+<emptyline>
 Output $= 17$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + b &= 17 \\\\
 2a + b &= 17
 \end{aligned}
 $
-
+<emptyline>
 Input $= 7$
-
+<emptyline>
 Output $= 52$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 7 + b &= 52 \\\\
 7a + b &= 52
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for $a$
-
+<emptyline>
 $
 \begin{aligned}
 7a + b &= 52 \\\\
@@ -9656,9 +9626,9 @@ a &= \dfrac{35}{5} \\\\
 a &= 7
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for $b$
-
+<emptyline>
 $
 \begin{aligned}
 2a + b &= 17 \\\\
@@ -9668,9 +9638,9 @@ b &= 17 - 14 \\\\
 b &= 3 \\\
 \end{aligned}
 $
-
+<emptyline>
 Lets verify,
-
+<emptyline>
 $
 \begin{aligned}
 &= 9 \times 7 + 3 \\\\
@@ -9678,7 +9648,7 @@ $
 &= \green {66} = 66 \\\
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times 7 + 3 \\\\
@@ -9686,7 +9656,7 @@ $
 &= \green {73} = 73 \\\
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the rule $= \text{Multipy by}\ 7 \ \text{then add}\ 3$
 </code></pre>
 </div>
@@ -10989,7 +10959,7 @@ $1.009$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the difference between the number and $1$.
-
+<emptyline>
 | Number   |     Difference       |
 |:--------:|:--------------------:|
 |   $1.1$  |  $1.1 - 1 = 0.1$   |
@@ -10997,9 +10967,9 @@ $1.009$
 |  $1.009$ | $1.009 - 1 = 0.009$  |
 |  $0.99$  |  $1 - 0.99 = 0.01$   |
 |  $1.01$  |  $1.01 - 1 = 0.01$   |
-
+<emptyline>
 From the calculation above, the smallest difference is $0.009$.
-
+<emptyline>
 Number closest in value $= 1.009$
 </code></pre>
 </div>
@@ -11263,9 +11233,9 @@ $-, \div$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$9 \ \boxed{-} \ 4 = 25\ \boxed{\div} \  5$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Left}       &= 9 - 4 \\\\
@@ -11329,9 +11299,9 @@ $-, +$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$8 \ \boxed{-} \ 4 \ \boxed{+} \ 3 = 7$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 - 4 + 3 \\\\
@@ -11438,9 +11408,9 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 32 \div (10 - a)        &= 4 \\\\

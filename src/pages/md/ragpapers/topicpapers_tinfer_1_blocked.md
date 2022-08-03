@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-1-blocked"
 title: "TopicPaper - Infer - 1 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -133,15 +133,15 @@ $50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 There are $100$ numbers in the series.
-
+<emptyline>
 These $100$ numbers can be paired, so that there are $50$ pairs.
-
+<emptyline>
 $(100 - 99) + (98 - 97) + (96 - 95) + \ldots$ and so on $\ldots + (2 - 1)$.
-
+<emptyline>
 The result of each pair is 1 and since there are 50 pairs. So,
-
+<emptyline>
 $
 \begin {aligned} 
 \text {Final answer}    &= 1 \times 50 \\\\

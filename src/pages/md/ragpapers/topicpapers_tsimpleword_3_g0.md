@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-g0"
 title: "TopicPaper - Simpleword - 3 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "23"
 ---
 <ul class='question default-decimal'>
@@ -799,9 +799,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= 789456132$
-
+<emptyline>
 The second number $= 789456123$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Difference}   &= 789456132 - 789456123 \\\\
@@ -1213,7 +1213,7 @@ $\dfrac {1} {6}$
                     &= \dfrac {2} {4}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Matilda gets} &= \dfrac {1} {3} \times \dfrac {2} {4} \\\\
@@ -1404,9 +1404,9 @@ $7.7 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>No. of daffodils $= 8$
-
+<emptyline>
 No. of gaps between daffodils $= 7$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Length of the row}   &= 7 \times 1.1 \ \text {m} \\\\\
@@ -1609,7 +1609,7 @@ $4$
                             &= 8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of locusts on 8th day}                     &= 100 - 8 \times 12 \\\\
@@ -1812,7 +1812,7 @@ $\dfrac {2} {7}$
                                                 &= 6 \ \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of elephant left}                &= \dfrac {6} {21} \\\\
@@ -2177,9 +2177,9 @@ $2, 5, 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Three prime numbers $= 2, 5, 11$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin {aligned}
 &= 2 \times 5 \times 11 \\\\
@@ -3318,7 +3318,7 @@ $- 1$
                                            &= 20
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Required Number}      &= \dfrac {2} {5} \times 20 \\\\
@@ -3329,7 +3329,7 @@ $
                             &= 8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{So the number} &= - 9 + 8 \\\\
@@ -4724,7 +4724,7 @@ $6, \ 0.67 \ \text{cm}$
                         &= 6
 \end{aligned}
 $
-
+<emptyline>
 Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 </code></pre>
 </div>

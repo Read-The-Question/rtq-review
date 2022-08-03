@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-3-notstarted"
 title: "TopicPaper - Division - 3 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "22"
 ---
 <ul class='question default-decimal'>
@@ -2661,7 +2661,7 @@ $89$
 23 \ \times  8 = 184
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{array}{l}
 \phantom{2 \ 3) 2 \ 0 \ }{\ 8 \ 9}\\
@@ -2673,7 +2673,7 @@ $
 \phantom{23)-207}                               {0}
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

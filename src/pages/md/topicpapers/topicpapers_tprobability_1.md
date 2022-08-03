@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability-1"
 title: "TopicPaper - Probability - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -131,7 +131,7 @@ $0.92$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_probability_always_one_note
-
+<emptyline>
 $
 \begin {aligned} 
 \text {Probability of not raining}    &= 1 - \text {Probability of raining tomorrow} \\\\
@@ -522,7 +522,7 @@ $\text {Equally likely}$
                                         &= \dfrac {1} {2}
 \end {aligned}
 $
-
+<emptyline>
 It is equally likely to get Heads or Tails fifth time.
 </code></pre>
 </div>
@@ -1900,9 +1900,9 @@ $\text {Bag B}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the probability for each bag of getting an apple,
-
+<emptyline>
 For bag A:
-
+<emptyline>
 $
 \begin {aligned}
 \text {Probability of getting an apple} &= \dfrac {\text {Favourable outcomes}} {\text {Total possible outcomes}} \\\\
@@ -1910,9 +1910,9 @@ $
                                         &= \dfrac {2} {9}
 \end {aligned}
 $
-
+<emptyline>
 For bag B:
-
+<emptyline>
 $
 \begin {aligned}
 \text {Probability of getting an apple} &= \dfrac {\text {Favourable outcomes}} {\text {Total possible outcomes}} \\\\
@@ -1923,9 +1923,9 @@ $
                                         &= \dfrac {1} {3}
 \end {aligned}
 $
-
+<emptyline>
 For bag C:
-
+<emptyline>
 $
 \begin {aligned}
 \text {Probability of getting an apple} &= \dfrac {\text {Favourable outcomes}} {\text {Total possible outcomes}} \\\\
@@ -1933,9 +1933,9 @@ $
                                         &= \dfrac {3} {13}
 \end {aligned}
 $
-
+<emptyline>
 For bag D:
-
+<emptyline>
 $
 \begin {aligned}
 \text {Probability of getting an apple} &= \dfrac {\text {Favourable outcomes}} {\text {Total possible outcomes}} \\\\
@@ -1943,19 +1943,19 @@ $
                                         &= \dfrac {5} {18}
 \end {aligned}
 $
-
+<emptyline>
 Now let's arrange the above calcuations in ascending order:
-
+<emptyline>
 $\text {Bag A}, \quad \text {Bag B}, \quad \text {Bag C}, \quad \text {Bag D}$
-
+<emptyline>
 $\dfrac {2} {9}, \quad \dfrac {1} {3}, \quad \dfrac {3} {13}, \quad \dfrac {5} {18}$
-
+<emptyline>
 $\dfrac {2 \times 26} {9 \times 26}, \quad \dfrac {1 \times 78} {3 \times 78}, \quad \dfrac {3 \times 18} {13 \times 18}, \quad \dfrac {5 \times 13} {18 \times 13}$
-
+<emptyline>
 $\dfrac {52} {234}, \quad \dfrac {78} {234}, \quad \dfrac {54} {234}, \quad \dfrac {65} {234}$
-
+<emptyline>
 $\dfrac {52} {234}, \quad \dfrac {54} {234}, \quad \dfrac {65} {234}, \quad \dfrac {78} {234}$
-
+<emptyline>
 Hence, Bag B has the highest probability of getting an apple.
 </code></pre>
 </div>
@@ -2002,7 +2002,7 @@ $\text {Bag A}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the above calcuations,
-
+<emptyline>
 Bag A has the least probability of getting an apple.
 </code></pre>
 </div>
@@ -3139,7 +3139,7 @@ $\text {False}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Probability of getting a red marble}     &= \dfrac {\text {Favourable outcomes}} {\text {Total possible outcomes}} \\\\
@@ -3153,7 +3153,7 @@ $
                                                 &= \dfrac {3} {16}
 \end {aligned}
 $
-
+<emptyline>
 The probability of getting a red marble is more than blue marble.
 </code></pre>
 </div>
@@ -3217,7 +3217,7 @@ $\text {Equally likely}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Probability of getting a yellow marble}      &= \dfrac {\text {Favourable outcomes}} {\text {Total possible outcomes}} \\\\
@@ -3234,7 +3234,7 @@ $
                                                     &= \dfrac {1} {2}
 \end {aligned}
 $
-
+<emptyline>
 The probability of getting a yellow marble is equally likely as getting a non-yellow marble.
 </code></pre>
 </div>
@@ -3293,7 +3293,7 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of marbles}   &= \text {All three different colour marbles} + \text {Two marbles of highest probability} \\\\ 
@@ -3918,7 +3918,7 @@ $6$
                                         &= 6
 \end {aligned}
 $
-
+<emptyline>
 It is likely to roll the number $3$ $6$ times out of $36$ repeats.
 </code></pre>
 </div>
@@ -5187,14 +5187,14 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>I will have equal outcome if both pen and pencils are in equal amount in the pencil case. So,
-
+<emptyline>
 $
 \begin {aligned}
 &= 6 - 2 \\\\
 &= 4
 \end {aligned}
 $
-
+<emptyline>
 I should add $4$ pens to the original pencil case so that it is equally likely to select a pen or a pencil.
 </code></pre>
 </div>
@@ -6214,9 +6214,9 @@ $\dfrac {4} {15}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 Total cards with D left after one card is removed $4 - 1 = 3$ 
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
@@ -6408,9 +6408,9 @@ $\dfrac {2} {15}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 Total cards with D left after one card is removed $3 - 1 = 2$ 
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
@@ -6786,9 +6786,9 @@ $\dfrac {1} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 Total cards with D left after one card is removed $2 - 1 = 1$ 
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
@@ -7775,7 +7775,7 @@ $\dfrac {5} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**NOT** selecting a red pencil is same as selecting a blue or green pencil instead.
-
+<emptyline>
 $
 \begin {aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
@@ -10051,7 +10051,7 @@ $\dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Even numbers in a dice $= 2, 4, 6$
-
+<emptyline>
 $
 \begin {aligned}
 \text {Probability of getting an even number}   &= \dfrac {\text {Favourable outcomes}} {\text {Total possible outcomes}} \\\\
@@ -10170,7 +10170,7 @@ $20$
                                     &= 20 
 \end {aligned}
 $
-
+<emptyline>
 It is expected $2$ or $3$ would occur $20$ times.
 </code></pre>
 </div>
@@ -10219,9 +10219,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Possible ways in which I can get a total of $7$:
-
+<emptyline>
 $(1,6), (2,5), (3,4), (4, 3), (5, 2), (6, 1)$
-
+<emptyline>
 In $6$ different ways I can get a total of $7$
 </code></pre>
 </div>

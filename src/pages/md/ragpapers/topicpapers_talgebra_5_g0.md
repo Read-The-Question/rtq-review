@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-g0"
 title: "TopicPaper - Algebra - 5 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -139,13 +139,13 @@ $48$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the total students $= a$
-
+<emptyline>
 Number of boys $= \dfrac {2} {5} a$.
-
+<emptyline>
 Number of girls $= \dfrac {3} {5} a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {3} {5} a                  &= 72 \\\\
@@ -344,9 +344,9 @@ $63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of checked shirts sold $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 7 a &= 72 \\\\
@@ -541,9 +541,9 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a - 12} {2} + 15   &= 37 \\\\
@@ -759,7 +759,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 5 \times n + 3  &= 88 \\\\
@@ -772,7 +772,7 @@ n               &= \dfrac {17 \times \cancel {5}} {\cancel {5}} \\\\
 n               &= 17
 \end {aligned}
 $
-
+<emptyline>
 Number of marbles in each bag $= 17$.
 </code></pre>
 </div>
@@ -991,7 +991,7 @@ $\pounds 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of a pack of balloons} &= \text {Cost of a balloon pump and four packs of balloons} - \text {Cost of a balloon pump and three packs of balloons} \\\\
@@ -1065,7 +1065,7 @@ $\pounds 19$
                               &= \pounds 3
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of a balloon pump and eight packs of balloons} &= \text {Cost of a balloon pump} + 8 \times \text {Cost of a pack of balloons} \\\\
@@ -1272,9 +1272,9 @@ $3 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the space between the planks (in $\text{cm}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 14 \times 4 + 3 \times a &= 65 \\\\
@@ -1287,7 +1287,7 @@ a                        &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
 a                        &= 3 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 The space between the planks $= 3 cm$
 </code></pre>
 </div>
@@ -1493,7 +1493,7 @@ $20$
     &   2         &   2          &   2          &   2         &    2
 \end{array}
 $
-
+<emptyline>
 $
 \begin{aligned}
 P &= 5 \\\\
@@ -1503,7 +1503,7 @@ S &= 1 \\\\
 T &= 8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 P + Q + S + T &= 5 + 6 + 1 + 8 \\\\
@@ -1712,11 +1712,11 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let number of correct answers $= a$.
-
+<emptyline>
 and let number of incorrect answers $= b$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total number of questions Rex answered}  &= a + b + 1 \\\\
@@ -1736,7 +1736,7 @@ a                                               &= \dfrac {19 \times \cancel {6}
 a                                               &= 19
 \end {aligned}
 $
-
+<emptyline>
 Number of correct answers $= 19$.
 </code></pre>
 </div>
@@ -1914,9 +1914,9 @@ $111$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a - 45                              &= 66 \\\\
@@ -2115,13 +2115,13 @@ $46$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Bill’s father age $= a$
-
+<emptyline>
 Bill’s son age $= a - 50$
-
+<emptyline>
 Bill’s age $= 2 \times (a - 50)$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + (a - 50) + 2 \times (a - 50)                                         &= 142 \\\\
@@ -2139,7 +2139,7 @@ a                                                                        &= 73 \
                                                                          &= 46
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3246,9 +3246,9 @@ $400$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 60 \% \ \text {of} \ a               &=  240 \\\\
@@ -3260,7 +3260,7 @@ a                                    &=  4 \times 100 \\\\
 a                                    &=  400
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3456,9 +3456,9 @@ $112$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {2} \times a                                                  &=  8 + \dfrac {3} {7} \times a \\\\
@@ -3674,9 +3674,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the five numbers $n, \ n + 2, \ n + 4, \ n + 6, \ n + 8$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 n + n + 2 + n + 4 + n + 6 + n + 8 &= 85 \\\\
@@ -3689,7 +3689,7 @@ n                                 &= \dfrac {13 \times \cancel {5}} {\cancel {5}
 n                                 &= 13
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Largest number} &= n + 8 \\\\
@@ -3918,9 +3918,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times a - 11   &= 17 \\\\
@@ -3989,9 +3989,9 @@ $52$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (a - 11)  &= 82 \\\\
@@ -4060,9 +4060,9 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 45 - a   &= 2 \times a \\\\
@@ -4274,9 +4274,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 24 - a          &= 2 \times a \\\\
@@ -4482,9 +4482,9 @@ $99$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {3} \times a   &=  66 \\\\
@@ -4690,9 +4690,9 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {3} \times a                                                  &= 3 + \dfrac {3} {5} \times a \\\\
@@ -4902,9 +4902,9 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 70 - 3 \times a                                        &= \dfrac {1} {2} \times a \\\\

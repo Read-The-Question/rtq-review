@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-3-g0"
 title: "TopicPaper - Probability - 3 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -122,7 +122,7 @@ $\dfrac {11} {20}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**NOT** selecting a red disc is same as selecting a blue or yellow disc instead.
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
@@ -349,7 +349,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Green counters} &= \text{Total counters} - \text{Red counters} - \text{Yellow counters} \\\\

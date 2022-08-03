@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-pr"
 title: "TopicPaper - Areaperimeter - 6 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -147,23 +147,23 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 *TODO: Add the explanation to count the sides in the shape.*
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 Total number of sides in the shape $= 18$
-
+<emptyline>
 Number of sides after removing tile $1 = 16$
-
+<emptyline>
 Number of sides after removing tile $2 = 16$
-
+<emptyline>
 Number of sides after removing tile $3 = 20$
-
+<emptyline>
 Number of sides after removing tile $4 = 16$
-
+<emptyline>
 Number of sides after removing tile $5 = 18$
-
+<emptyline>
 Perimeter of the shape remain same after removing tile $5$.
 </code></pre>
 </div>
@@ -378,13 +378,13 @@ $6 \ \text {cm}, \ 4 \ \text {cm}, \ 8 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of first edge of cuboid $= l$
-
+<emptyline>
 Let the length of second edge of cuboid $= w$
-
+<emptyline>
 Let the length of third edge cuboid $= h$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 l \times w                                      &= 24 \\\\
@@ -418,7 +418,7 @@ h                                               &= \dfrac {\cancel {6} \times 8}
 h                                               &= 8 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the edges of the cuboid are $6 \ \text {cm}, \ 4 \ \text {cm}, \ 8 \ \text {cm}$.
 </code></pre>
 </div>
@@ -676,11 +676,11 @@ $40$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
 The lawn measurement is given in $\text{metres}$ while the strip measurement is given in $\text{cm}$.
-
+<emptyline>
 Let's convert the lawn measurements into $\text{cm}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total strips required}           &= \dfrac {\text {Width of lawn}} {\text {Width of strips}} \\\\
@@ -744,7 +744,7 @@ $1200 \ \text {metres}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Distance walked}                 &= \text {Number of strips} \times 30 \\\\
@@ -818,11 +818,11 @@ $50 \ \text {minutes}$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
 The lawnmower speed is given in $\text{metres per minute}$ while the mower turn speed is given in $\text{seconds}$.
-
+<emptyline>
 Let's convert the lawnmower speed into $\text{meters per seconds}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Time taken to mow the lawn}          &= \text {(Number of strips)} \times 1 \ \text {min} + \text {(Number of strips - 1)} \times 15 \ \text {sec} + 15 \ \text {sec} \\\\
@@ -1090,9 +1090,9 @@ $160 \ \text {km}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Area of Whasham}      &= 20 \times 8 \\\\
@@ -1159,9 +1159,9 @@ $55 \ \text {km} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Area}                 &= \text {Land} - \text {Water} - \text {Forest} \\\\
@@ -1170,7 +1170,7 @@ $
                              &= 55 \ \text {km} ^ 2
 \end {aligned}
 $
-
+<emptyline>
 Area of land which consists of mountain but no forest $= 55 \ \text {km}^2$
 </code></pre>
 </div>
@@ -1230,11 +1230,11 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of people}     &= \text {People in mountainous land} + \text {People in forested land} - \text {Total people} \\\\
@@ -1242,7 +1242,7 @@ $
                              &= 8
 \end {aligned}
 $
-
+<emptyline>
 $8$ people live in the region which is both mountainous and forested.
 </code></pre>
 </div>
@@ -1440,14 +1440,14 @@ $100$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
 The patio measurement is given in $\text{meters}$ while the stone measurement is given in $\text{cm}$.
-
+<emptyline>
 Let's convert the patio measurements into $\text{cm}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of stones} &= \dfrac {\text{Area of the patio}} {\text{Area of a stone}} \\\\
@@ -1520,7 +1520,7 @@ $\pounds 37.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of panels}            &= 3 \times \dfrac {\text {Length of a side}} {\text {Length of a panel}} \\\\
@@ -1786,9 +1786,9 @@ $10 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \beign{aligned}
 \text {Area}            &= \dfrac {1} {2} \times 5 \times 4 \\\\
@@ -1870,9 +1870,9 @@ $24 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As, per the diagram,
-
+<emptyline>
 $
 \beign{aligned}
 \text {Area}            &= \dfrac {1} {2} \times 8 \times 6 \\\\
@@ -1962,11 +1962,11 @@ $4.8 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 Let the length of the arrow $= h$
-
+<emptyline>
 As, per the diagram,
-
+<emptyline>
 $
 \beign{aligned}
 \dfrac {1} {2} \times 10 \times h        &= \dfrac {1} {2} \times 8 \times 6 \\\\
@@ -1980,7 +1980,7 @@ h                                        &= \dfrac {24} {5} \\\\
 h                                        &= 4.8 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the arrow $= 4.8 \ \text {cm}$
 </code></pre>
 </div>
@@ -2257,9 +2257,9 @@ $12 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}                &= 2 \times (8 + 2) \\\\
@@ -2323,9 +2323,9 @@ $16\ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area} &= 8 \times 2 \\\\
@@ -2396,9 +2396,9 @@ $9 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of new pen $= l$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 3 + l + 3               &= 15 \\\\
@@ -2470,9 +2470,9 @@ $5 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of side $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + a               &= 15 \\\\
@@ -2483,7 +2483,7 @@ a                       &= \dfrac {\cancel {3} \times 5} {\cancel {3}} \\\\
 a                       &= 5 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Each side should be $5 \ \text {cm}$ long.
 </code></pre>
 </div>
@@ -2537,7 +2537,7 @@ $\pounds 180$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total cost}          &= \text {Cost of 1 \ \text {metre} fence } \times \text {Total fence} \\\\
@@ -2908,13 +2908,13 @@ $12 \ \text {m}, \ 28 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the rectangle A $= w$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 6 \times w              &= 24 \\\\
@@ -2925,9 +2925,9 @@ w                       &= \dfrac {\cancel {6} \times 4} {\cancel {6}} \\\\
 w                       &= 4 \ \text {m}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the perimeter of the rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}               &= 2 \times (6 + 4) \\\\
@@ -2940,13 +2940,13 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the height of the rectangle B $= h$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 h \times 3              &= 24 \\\\
@@ -2957,9 +2957,9 @@ h                       &= \dfrac {\cancel {3} \times 8} {\cancel {3}} \\\\
 h                       &= 8 \ \text {m}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the perimeter of the rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}               &= 2 \times (8 + 3) \\\\
@@ -2972,13 +2972,13 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the rectangle A $= w$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times w              &= 24 \\\\
@@ -2989,9 +2989,9 @@ w                       &= \dfrac {\cancel {2} \times 12} {\cancel {2}} \\\\
 w                       &= 12 \ \text {m}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the perimeter of the rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}               &= 2 \times (12 + 2) \\\\
@@ -3105,25 +3105,25 @@ $1 \ \text {m}, \ 24 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the width of the rectangle $= w$
-
+<emptyline>
 Let the height of the rectangle $= h$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 l \times h          &= 24
 \end{aligned}
 $
-
+<emptyline>
 We need to find the factor pairs of 24 with maximum sum to find a rectangle with area $24 \ \text {m}^2$ which has larger perimeter.
-
+<emptyline>
 Factor Pairs of $24$
-
+<emptyline>
 $
 \begin{aligned}
 1 \times 24 \\\\
@@ -3132,18 +3132,18 @@ $
 4 \times 6
 \end{aligned}
 $
-
+<emptyline>
 $1 + 24$ has the maximum value.
-
+<emptyline>
 $
 \begin{aligned}
 h  &= 1 \ \text {m} \\\\
 w  &= 24 \ \text {m}
 \end{aligned}
 $
-
+<emptyline>
 Height $= 1 \ \text {m}$
-
+<emptyline>
 Width $= 24 \ \text {m}$
 </code></pre>
 </div>
@@ -3330,7 +3330,7 @@ $120$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total posts}         &= \dfrac {\text {Length of fence}} {\text {Length for a post}} \\\\
@@ -3595,13 +3595,13 @@ $68 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the calculations for the sides of the shape which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter}        &= 15 + 12 + 2 + 7 + 6 + 7 + 7 + 12 \\\\
@@ -3676,15 +3676,15 @@ $145 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram divided into three rectangle with the calculations for the parts of the path which do not have measurements shown*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into three rectangles.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= \text {Rectangle 1} + \text {Rectangle 2} + \text {Rectangle 3} \\\\
@@ -3958,13 +3958,13 @@ $75 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram divided into two rectangles with the calculations for the parts of the path which do not have measurements shown*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into two rectangles.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= \text{Rectangle 1} + \text{Rectangle 2} \\\\
@@ -4031,9 +4031,9 @@ $28 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>*TODO: Add an explanation to count the number of side*
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}           &= \text {Number of sides} \times \text {Length of a side} \\\\
@@ -4245,13 +4245,13 @@ $20 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the length of the rectangle $= l$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 l \times 4          &= 24 \\\\
@@ -4262,9 +4262,9 @@ l                   &= \dfrac {\cancel {4} \times 6} {\cancel {4}} \\\\
 l                   &= 6 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the perimeter of the rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}       &= 2 \times (6 + 4) \\\\
@@ -4473,15 +4473,15 @@ $16 \ \text{units}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram divided into rectangle and triangle with the calculations for the parts of the shape which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into a triangle and a rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= \text{Area of the triangle} + \text{Area of the rectangle} \\\\
@@ -4722,7 +4722,7 @@ $x = 2 \ \text {cm} \ , y = 6 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 4 + x + 2           &= 8 \\\\
@@ -4792,9 +4792,9 @@ $52 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}       &= 2 + 2 + 2 + 6 + 4 + 14 + 4 + 6 + 2 + 2 + 2 + 6 \\\\
@@ -4866,13 +4866,13 @@ $72 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram divided into three rectangles the calculations for the sides of the shape which do not have measurements shown*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into three rectangles.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= \text{Rectangle 1} + \text{Rectangle 2} + \text {Rectangle 3} \\\\

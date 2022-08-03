@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-5"
 title: "TopicPaper - Simpleword - 5"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -167,9 +167,9 @@ $\pounds 190.12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Cost of 28 calculators $= \pounds 6.79 \times 28$
-
+<emptyline>
 $= \pounds 190.12$
 </code></pre>
 </div>
@@ -233,7 +233,7 @@ $
                                    &\approx{12}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -659,7 +659,7 @@ $32 \ \text {boxes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 12 \ \text {eggs}   &= 1 \ \text {box} \\\\
@@ -670,7 +670,7 @@ $
                     &= 32 \dfrac {5} {12}
 \end {aligned}
 $
-
+<emptyline>
 $32$ boxes can be filled.
 </code></pre>
 </div>
@@ -1485,7 +1485,7 @@ $
 &= 4480
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1758,7 +1758,7 @@ $7462$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The largest answer will only be possible when the two numbers are $91$ and $82$. So,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Largest possible product}  &= 91 \times 82 \\\\
@@ -1984,7 +1984,7 @@ $\pounds 31.32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'> 
-
+<emptyline>
 $
 \begin{aligned}
 \text{Each month}&= \dfrac {\pounds 375.84} {12} \\\\
@@ -2050,7 +2050,7 @@ $\pounds 1879.20$
 &= \pounds 1879.20                                                  
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2346,9 +2346,9 @@ $280$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total stickers $= 400$
-
+<emptyline>
 As per the question, Mark sticks 70 \% of his stickers in his book. 
-
+<emptyline>
 $
 \begin{aligned}
 &= 70 \% \ \text{of} \ 400 \\\\
@@ -2359,7 +2359,7 @@ $
 &= 280
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2417,9 +2417,9 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total stickers $= 400$
-
+<emptyline>
 Mark gives away $5 \%$ of his stickers.
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 \% \ \text{of} \ 400 \\\\
@@ -2430,7 +2430,7 @@ $
 &= 20
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2759,7 +2759,7 @@ $640$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\text{Average goals} = \dfrac{\text{Total goals}}{\text{No. of matches}}$
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -3589,7 +3589,7 @@ $\dfrac {1} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Fraction wearing glasses}          &= 3 \times \dfrac {1}{9} \\\\
@@ -3599,7 +3599,7 @@ $
                                           &= \dfrac {1} {3}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4085,11 +4085,11 @@ $7$
 
 <pre class='language-latex'><code class='language-latex'>
 Factors of $28 = 1, \ 2, \ 4, \ \bold{7}, \ 14, \ 28 $
-
+<emptyline>
 Factors of $21 =  1, \ 3, \ \bold{7}, \ 21$
-
+<emptyline>
 Factor of 28 and 21 bigger than 1 $= 7$ 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4321,19 +4321,19 @@ Smallest $= 2002$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know,
-
+<emptyline>
 The biggest single digit prime number $= 7$
-
+<emptyline>
 The smallest single digit prime number $= 2$
-
+<emptyline>
 The biggest single digit $= 9$
-
+<emptyline>
 The smallest single digit $= 0$
-
+<emptyline>
 Largest 4 digit number $= 7997$
-
+<emptyline>
 Smallest 4 digit number $= 2002$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4894,7 +4894,7 @@ $64$
 & = 64 
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -5250,7 +5250,7 @@ $
 &= 104 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5643,7 +5643,7 @@ $220$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>According to the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Not Coffee Crèmes}  &= 250 - 12 \ \% \ \text{of} \ 250 \\\\
@@ -6068,7 +6068,7 @@ $5$
                                    &\approx 5
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7072,11 +7072,11 @@ No
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Cost of each child seat = $\pounds 3$
-
+<emptyline>
 Cost of each Adult seat = $\pounds 7$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{let number of child seats = x} \\
@@ -7570,7 +7570,7 @@ $2375 \text{grams}$
 
 <pre class='language-latex'><code class='language-latex'>
 mass of one sheet $= 4.75 \  \text{grams}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Let mass} &= a \\\\
@@ -7632,7 +7632,7 @@ $2.3475 \ \text{kilograms}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
   1  \ \text{grams} & = \dfrac{1}{1000}  \ \text{kilograms}  \\\\
@@ -7640,7 +7640,7 @@ $
                        & = 2.375   \ \text{grams} 
 \end{aligned}
 $
-
+<emptyline>
 $2375 \ \text{grams} = 2.3475 \ \text{kilograms}$
 </code></pre>
 </div>
@@ -7894,7 +7894,7 @@ $
 &= 9072
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8153,7 +8153,7 @@ $42 \ \text{Toffees}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 12 \ \text {Chocolates}     &= 7 \ \text {Toffees} \\\\
@@ -8302,7 +8302,7 @@ $60 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total Width}&= 30 \ \text{cm} + 1.5 \ \text{m} + 150 \ \text{mm} \\\\
@@ -8515,7 +8515,7 @@ $\pounds 14000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total earning}    &= \text {Number of matches} \times \pounds 500 \times  + \text {Number of goals} \times \pounds 100 \\\\
@@ -8763,7 +8763,7 @@ $
 &= \pounds 40
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9251,14 +9251,14 @@ $72$
 
 <pre class='language-latex'><code class='language-latex'>
 Let's find multiples of $8 \times 3$ that have $2$ at the end
-
+<emptyline>
 $
 \begin{aligned}
 &= 24, 48, 72, .... \\\\
 &= 72
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9471,7 +9471,7 @@ $
 &\approx{27}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9881,7 +9881,7 @@ $45, 53$
 
 <pre class='language-latex'><code class='language-latex'>
 $2385$ ends with $5$. So, it must either be divisible by $45$ or $55$.
-
+<emptyline>
 $45 \times 53 = 2385$
 </code></pre>
 </div>
@@ -10068,7 +10068,7 @@ $
                                 &= 27
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

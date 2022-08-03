@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-oldpr"
 title: "TopicPaper - Number - 12 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prccrl question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prccrl</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -200,9 +200,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Factors of $24 = 1, 2, 3, 4, 6, 8, \bold {12}, 24$
-
+<emptyline>
 Factors of $36 = 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36$
-
+<emptyline>
 The largest common factors of $24$ and $36 = 12$
 </code></pre>
 </div>

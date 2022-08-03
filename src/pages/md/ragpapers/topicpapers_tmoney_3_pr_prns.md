@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-pr-prns"
 title: "TopicPaper - Money - 3 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -223,7 +223,7 @@ $\pounds 120$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the answer above,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 20 \times 6 \\\\
@@ -458,7 +458,7 @@ $\pounds 2.76$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times 56 \text {p} \\\\
@@ -1106,7 +1106,7 @@ $\pounds 4.40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of} \ 2 \ \text {sandwiches and} \ 5 \ \text {cups of coffee}   &= 2 \times \pounds 1.80 + 5 \times 80 \text {p} \\\\

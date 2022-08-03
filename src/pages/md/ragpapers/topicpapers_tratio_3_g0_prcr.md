@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-g0-prcr"
 title: "TopicPaper - Ratio - 3 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "12"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -194,10 +194,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -477,16 +477,16 @@ $295 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 The measurement is given in multiple units and answer has to be in centimetres.
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text {feet}   & = 30 \ \text {cm} \\\\
 1 \ \text {inches} & = 2.5 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 & = 9 \ \text{feet} \ 10 \ \text{inches} \\\\
@@ -566,10 +566,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -674,9 +674,9 @@ $\pounds 4.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know that, one dozen $= 12$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of 18 eggs}  &= \dfrac {18 \times \pounds 2.8} {12} \\\\
@@ -752,10 +752,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1000,7 +1000,7 @@ $15000 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question mass of ten calculators $= 1500 \ \text{g}$.Using that we get,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Mass of 100 calculators} &= 1500 \times 10 \\\\
@@ -1189,10 +1189,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1476,10 +1476,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1660,10 +1660,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1846,10 +1846,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1970,13 +1970,13 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of turns $= t$
-
+<emptyline>
 A turns $= 5 t$
-
+<emptyline>
 B turns $= 2 t$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Disc A turns} &= 45 \\\\
@@ -1984,9 +1984,9 @@ $
                     &= 5 t
 \end{aligned}
 $
-
+<emptyline>
 $t = 9$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of times B turns} &= 2 \times 9 \\\\
@@ -2061,10 +2061,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2243,10 +2243,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2396,7 +2396,7 @@ $49 \ \text {pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of one Doggy Chew}    &= \pounds 3.43 \div 7 \\\\
@@ -2462,7 +2462,7 @@ $\pounds 13.14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of two packets of Doggy Chew}    &= 3.43 \times 2 \\\\
@@ -2542,10 +2542,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2662,7 +2662,7 @@ $\pounds 52.2$
                                             &= \pounds 52.2
 \end{aligned}
 $
-
+<emptyline>
 Mr Cooper spent $\pounds 52.2$ on petrol to drive $600 \ \text{kilometres}$ from Oxford to Glasgow.
 </code></pre>
 </div>
@@ -2732,10 +2732,10 @@ Mr Cooper spent $\pounds 52.2$ on petrol to drive $600 \ \text{kilometres}$ from
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2845,7 +2845,7 @@ $600 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. The distance is given in kilometres, but the answer has to be in metres.
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text{cm}               &: 2 \ \text{km} \\\\
@@ -2857,7 +2857,7 @@ $
 3 \ \text{mm}               &: 600 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 Distance on the ground $= 600 \ \text{m}$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-pr-prpcr"
 title: "TopicPaper - Number - 4 - PR - PRPCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -423,9 +423,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$27$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 27 &= 3 \times 3 \times 3  \\\\
@@ -486,16 +486,16 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$25$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 25 &= 5 \times 5 \\\\
    &= 5^2
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -645,9 +645,9 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$28$
-
+<emptyline>
 $\text{Let's verify.}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Factors} &= (1, 2, 4, 7, 14) \\\\
@@ -716,9 +716,9 @@ $25, 27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$25, 27$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 25 &= 5 \times 5 \\\\
@@ -727,7 +727,7 @@ $
    &= 3^3
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -991,7 +991,7 @@ $
 &= 877400
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

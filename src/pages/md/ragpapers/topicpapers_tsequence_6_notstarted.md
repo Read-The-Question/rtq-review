@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-6-notstarted"
 title: "TopicPaper - Sequence - 6 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -182,46 +182,46 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can easily be solved by counting the first few numbers from each sequence.
-
+<emptyline>
 Geraint counts up in fours, so
-
+<emptyline>
 $3, \quad 7, \quad 11, \quad 15, \quad 19, \quad 23, \quad 27, \quad 31, \quad \ldots$
-
+<emptyline>
 David counts up in sevens, so
-
+<emptyline>
 $6, \quad 13, \quad 20, \quad 27, \quad \ldots$
-
+<emptyline>
 Smallest common number $= 27$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>INFER_DESCRIPTION_STARTS Needs more work to simplify INFER_DESCRIPTION_ENDS
-
+<emptyline>
 We found the common term quite easily in the above solution. 
 But if the common term happens to be further down in the list, the above 
 approach may require more effort to find the common term. 
-
+<emptyline>
 Let's try to solve the problem in a more formal (but longer) way.
-
+<emptyline>
 The difference between each consecutive term is constant for both the lists and hence these 
 are arithmetic sequences. The formula of an arithmetic sequence whose 
 first term is $a$, common difference is $d$ and $n$ is any term number is given as:
-
+<emptyline>
 $a + d(n-1)$
-
+<emptyline>
 Let's find the formula for the two sequences.
-
+<emptyline>
 Geraint counts up in fours, starting with $3$. Hence,
-
+<emptyline>
 First sequence $= 3 + 4(m - 1)$
-
+<emptyline>
 David counts up in sevens, starting with $6$. Hence,
-
+<emptyline>
 Second sequence $= 6 + 7(n - 1)$
-
+<emptyline>
 Now we can find the smallest common term between the two sequences.
-
+<emptyline>
 $
 \begin{aligned}
 3 + 4(m - 1)        &= 6 + 7(n - 1) \\\\
@@ -232,12 +232,12 @@ $
 m                   &= \dfrac{7n} { 4}
 \end{aligned}
 $
-
+<emptyline>
 We can see from the above equation, that the smallest integral value for $m$ will be when $n = 4$.
 In other words, the first common element between the two sequences will be for $n = 4$.
-
+<emptyline>
 substituting value for $n = 4$,
-
+<emptyline>
 $
 \begin{aligned}
 &= 6 + 7(n - 1) \\\\
@@ -248,7 +248,7 @@ $
 &= 27
 \end{aligned}
 $
-
+<emptyline>
 Smallest common number $= 27$
 </code></pre>
 </div>
@@ -473,9 +473,9 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>
 If the number in first sequence is added with the number below to its right in the second sequence, the answers is the next number on the above sequence. 
-
+<emptyline>
 Start with $3 + 1$ then $1 + 5 \ldots$
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -718,9 +718,9 @@ $107$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The difference between the terms is increasing by 1 more than the difference between the previous numbers. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\maroonC{(+1)}} 
@@ -730,18 +730,18 @@ $
 2,  &&    3,  &&    5,  &&   8,  &&   12
 \end{matrix}
 $
-
+<emptyline>
 Or it can also written as 
-
+<emptyline>
 $2 + (1+2+3+4) =12$
-
+<emptyline>
 So,
-
+<emptyline>
 $2 + (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9) \\
 = 2 + 45 = 47$
-
+<emptyline>
 $47 + (10 + 11 + 12 + 13 + 14) = 45 + 60  = 107$
-
+<emptyline>
 The first three digist number in the sequence will be $107$
 </code></pre>
 </div>
@@ -914,9 +914,9 @@ $-1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 The difference between the terms is $11$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(1000-11 \times 1)}}  
@@ -925,11 +925,11 @@ $
 1000,  &&    989,  &&  978,  &&   967 \ldots
 \end{matrix}
 $
-
+<emptyline>
 As the sequence goes on decreasing in the multiples of 11,
-
+<emptyline>
 Let the first negative number in the sequence be $1000 - 11a$
-
+<emptyline>
 $
 \begin{aligned}
 1000 - 11a              &< 0 \\\\
@@ -940,7 +940,7 @@ a                       &> 90.90 \\\\
 a                       &= 91 
 \end{aligned}
 $
-
+<emptyline>
 The first negative number in the sequence = $1000 - 11a$
 $
 \begin{aligned}
@@ -949,7 +949,7 @@ $
 &= -1
 \end{aligned}
 $
-
+<emptyline>
 The first negative number in the sequence = $-1$
 </code></pre>
 </div>

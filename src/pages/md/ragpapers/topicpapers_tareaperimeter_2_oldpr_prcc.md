@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 2 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -150,13 +150,13 @@ $24 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the length of a side of the square (in $\text{cm}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a \times a          &= 9 \\\\
@@ -165,9 +165,9 @@ a                   &= \sqrt {9} \\\\
 a                   &= 3 \ \text{cm}
 \end {aligned}
 $
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Length of the rectangle (in cm)}  &= 3 \times a \\\\
@@ -417,13 +417,13 @@ $64 \ \text {cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the length of the side of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 4 \times a                       &= 32 \\\\
@@ -433,9 +433,9 @@ a                                &= \dfrac {8 \times \cancel {4}} {\cancel {4}} 
 a                                &= 8 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Let's find the area of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}                     &= 8 \times 8 \\\\
@@ -525,15 +525,15 @@ $48 \ \text {cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the width of the rectangle $= w$
-
+<emptyline>
 Length of the rectangle $= 3w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 2 \times (3w + w)                           &= 32 \\\\
@@ -545,7 +545,7 @@ w                                           &= \dfrac {4 \times \cancel {8}} {\c
 w                                           &= 4 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Width}       &= 4 \ \text {cm} \\\\
@@ -554,9 +554,9 @@ $
                     &= 12 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}                                &= 12 \times 4 \\\\
@@ -791,15 +791,15 @@ $96$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_unit_note
-
+<emptyline>
 The floor measurement is given in meters and tile measurement is in centimetres.
-
+<emptyline>
 Let's convert all the measurements into meters.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of tiles needed}  &= \dfrac {\text {Area of the floor}} {\text {Area of a tile}} \\\\

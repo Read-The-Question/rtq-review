@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-g0-prcc"
 title: "TopicPaper - Areaperimeter - 8 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -155,19 +155,19 @@ $34 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the rectangle in ($\text{cm}$) $= a$
-
+<emptyline>
 Length of the rectangle in ($\text{cm}$) $= a +1$
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 $a \times (a + 1) = 72$
-
+<emptyline>
 *Note: rtq_abbr_md_quadratic_note*
-
+<emptyline>
 $
 \begin{aligned}
 a \times (a + 1)    &= 72 \\\\
@@ -180,9 +180,9 @@ a                   &= 8 \ \text{cm} \\\\
                     &= 10 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the perimeter of the rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter}    &= 2 \times (8 + 9) \\\\
@@ -377,11 +377,11 @@ $48 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the length of the second rectangle $= l$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 l \times 7  &= 28 \times 12 \\\\
@@ -392,7 +392,7 @@ l           &= 4 \times 12 \\\\
 l           &= 48 \ \text{cm}
 \end{aligned}  
 $
-
+<emptyline>
 Length of the second rectangle $= 48 \ \text{cm}$
 </code></pre>
 </div>
@@ -629,16 +629,16 @@ $42 \ \text {cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the given diagram with missing sides calculated.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter} &= 6 + 13 + 2 + 5 + 2 + 2 + 2 + 4 + 4 + 2 \\\\
                   &= 42 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Perimeter of letter F $= 42 \ \text {cm}$
 </code></pre>
 </div>
@@ -707,11 +707,11 @@ $38 \ \text {cm} ^ 2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the given diagram divided into 3 rectangles with missing sides calculated.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question, the shape can be divided into three rectangles
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total Area}      &= \text {Rectangle 1} + \text {Rectangle 2} + \text {Rectangle 3} \\\\
@@ -924,15 +924,15 @@ $60 \ \text{cm}^{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the rectangle (in $\text{cm}$) $= a$
-
+<emptyline>
 Length of the rectangle $= a + 4$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (a + (a + 4))    &= 32 \\\\
@@ -1152,13 +1152,13 @@ $48 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the length of the shaded left bottom rectangle (in $\text{cm}$) $= a$
-
+<emptyline>
 Length of the shaded right top rectangle (in $\text{cm}$) $= 14 - a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times a  &= 4 \times (14 - a) \\\\
@@ -1171,7 +1171,7 @@ a           &= \dfrac {\cancel {7} \times 8} {\cancel{7}} \\\\
 a           &= 8 \ \text{cm}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total shaded area}    &= 2 \times (3 \times 8) \\\\
@@ -1383,15 +1383,15 @@ $6 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle
-
+<emptyline>
 Let the length of the school hall (in m) $= l$
-
+<emptyline>
 Let the width of the school hall (in m) $= w$
-
+<emptyline>
 Let the height of the school hall (in m) $= h$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 l \times h                              &= 150 \\\\
@@ -1411,7 +1411,7 @@ h                                       &= \sqrt {36} \\\\
 h                                       &= 6 \ \text {m}
 \end{aligned}
 $
-
+<emptyline>
 Height of the school hall (in m) $= 6  \ \text {m}$
 </code></pre>
 </div>
@@ -1657,11 +1657,11 @@ $40 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add the diagram of pattern with outer side $10 \ \text {cm}$ and inner sides $4 \ \text {cm}$.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Side of the outer square}        &= \text {length of the rectangle + width of the rectangle} \\\\
@@ -1739,11 +1739,11 @@ $16 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add the diagram of pattern with outer side $10 \ \text {cm}$ and inner sides $4 \ \text {cm}$.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Side of square in the middle}            &= \text {length of rectangle} - \text {width of rectangle} \\\\
@@ -1958,11 +1958,11 @@ $36 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add the diagram of new shape with measurement of all sides shown with the help of given two shapes.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of shape}       &= 6 + 6 + 11 + 6 + 3 + 4 \\\\
@@ -2180,11 +2180,11 @@ $40 \ \text{cm}^2$
 *TODO:: Add the diagram with inner rectangle's length $5 \ \text {m}$ and width $8 \ \text {m}$ shown.
 Also show the measurement of border.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Length of the pond}  &= 11 - 2 \times 1.5 \\\\
@@ -2195,7 +2195,7 @@ $
                             &= 5 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of the pond}     &= 8 \times 5 \\\\
@@ -2391,9 +2391,9 @@ $24.9 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of shaded regions}       &= \text{Area of left triangle} + \text{Area of right triangle} \\\\
@@ -2608,17 +2608,17 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 The rectangle measurement is given in metres while the triangle measurement is given in cm.
-
+<emptyline>
 Let's convert the rectangle measurements into $\text{cm}$.
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the rectangle}} {\text{Area of a triangle}} \\\\
@@ -2846,13 +2846,13 @@ $28 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of rectangle $= w \ \text{m}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (7 + w)        &= 32 \\\\
@@ -2865,16 +2865,16 @@ w                       &= \dfrac{\cancel{2} \times 9} {\cancel{2}} \\\\
 w                       &= 9 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Base of the triangle}    &= 17 - 9 \\\\
                                 &= 8 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of the triangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}             &= \dfrac{1} {2} \times 8 \times 7 \\\\
@@ -3083,11 +3083,11 @@ $\pounds 74.1$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add the diagram with inner rectangle's length $5 \ \text {m}$ and width $7 \ \text {m}$ shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of gravel path}  &= \text{Total Area} - \text{Area of grass lawn} \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-3"
 title: "TopicPaper - Detailedmultiplication - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -5082,7 +5082,7 @@ $4.23$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin {array}{cccccccccccccc}
          &     2     &     3     &     5 \\
@@ -5094,11 +5094,11 @@ $
    4     &     2     &     3     &     0
 \end {array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is three.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= 4.23$
 </code></pre>
 </div>
@@ -5474,7 +5474,7 @@ $3.872$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
             &   2   &   4    &    2 \\
@@ -5486,11 +5486,11 @@ $
 3           &   8   &   7    &    2
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is three.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 $= 3.872$
 </code></pre>
 </div>
@@ -5671,7 +5671,7 @@ $171900$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first multiply the numbers ignoring the zeroes.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
             &       5       & 7     & 3     \\
@@ -5680,9 +5680,9 @@ $
         1   &       7       & 1     & 9     
 \end{array}
 $
-
+<emptyline>
 Let's account for the two zeroes now.
-
+<emptyline>
 $= 171900$
 </code></pre>
 </div>
@@ -6050,7 +6050,7 @@ $1641000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first multiply the numbers ignoring the zeroes.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
         &   5   &   4   &   7 \\
@@ -6059,9 +6059,9 @@ $
     1   &   6   &   4   &   1
 \end{array}
 $
-
+<emptyline>
 Let's account for the three zeroes now.
-
+<emptyline>
 $= 1641000$
 </code></pre>
 </div>

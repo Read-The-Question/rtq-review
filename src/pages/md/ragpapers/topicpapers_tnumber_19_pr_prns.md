@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-19-pr-prns"
 title: "TopicPaper - Number - 19 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -122,7 +122,7 @@ $2.9 \ \text{inches}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Length of the pencil}  &= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
@@ -442,9 +442,9 @@ $6$
 &= 10 \text{litre}
 \end{aligned}
 $
-
+<emptyline>
 Let number of times jug can be filled $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 1.5 &= 10 \\\\
@@ -456,9 +456,9 @@ a &= \dfrac{20}{3} \\\\
 a &= 6.66
 \end{aligned}
 $
-
+<emptyline>
 Since the jug had to be completely filled,
-
+<emptyline>
 Total times $= 6$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-5"
 title: "TopicPaper - Fraction - 5"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -780,19 +780,19 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Given that,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Right-handed players in Team Alpha} \ &= 7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Left-handed players in Team Beta} \ &= 2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total left-handed players} \ &= 6 \\\\
@@ -801,7 +801,7 @@ $
 \text{Left-handed players in Team Alpha} &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total players in Team Alpha} \ &= \text{Left-handed players in Team Alpha} + \text{Right-handed players in Team Alpha} \\\\
@@ -809,7 +809,7 @@ $
 \text{Total players in Team Alpha} \ &= 11
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= \text{Total players in Team Beta} \ \\\\
@@ -818,7 +818,7 @@ $
 \text{Right-handed players in Team Beta} &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total players playing} &= \text{Total players in Team Alpha} + \text{Total players in Team Beta} \\\\
@@ -1003,7 +1003,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{array}{lllllll}
                     & \text{RH} \ & \text{LH} \ & \text{total} \ \\
@@ -1564,7 +1564,7 @@ $\dfrac {8} {12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>495D061F-FEDA-4E8C-AC46-B7FC73202FAC</p>
 </div>
@@ -1575,10 +1575,10 @@ $\dfrac {8} {12}$
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1655,21 +1655,21 @@ tfraction
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1681,7 +1681,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1696,21 +1696,21 @@ Two identical rectangles are divided into $15$ equal squares.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1722,7 +1722,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -1739,21 +1739,21 @@ Shade $\dfrac{3}{5}$ of this rectangle:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Out of 15 squares, 9 squares have to be shaded.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Out of 15 squares, 9 squares have to be shaded.
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Out of 15 squares, 9 squares have to be shaded.
 </code></pre>
 </div>
 </div>
@@ -1765,7 +1765,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Out of 15 squares, 9 squares have to be shaded.
 </code></pre>
 </div>
 </div>
@@ -1785,21 +1785,21 @@ Shade $\dfrac{2}{3}$ of this rectangle:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Out of 15 squares, 10 squares have to be shaded.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Out of 15 squares, 10 squares have to be shaded.
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Out of 15 squares, 10 squares have to be shaded.
 </code></pre>
 </div>
 </div>
@@ -1811,7 +1811,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Out of 15 squares, 10 squares have to be shaded.
 </code></pre>
 </div>
 </div>
@@ -1869,7 +1869,7 @@ $\dfrac{2}{3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>when we take LCM of both fraction we will get
-
+<emptyline>
 $
 \begin{aligned}
 &=\dfrac{3}{5}     &&&&&&&   &=\dfrac{2}{3} \\\\
@@ -1877,12 +1877,12 @@ $
 &=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \
 \end{aligned}
 $
-
+<emptyline>
 So,
 $
 \dfrac{2}{3} > \dfrac{3}{5}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1949,7 +1949,7 @@ $\dfrac{9}{15} \quad \dfrac{10}{15} \quad \dfrac{12}{15} \quad \dfrac{13}{15} \q
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -1959,9 +1959,9 @@ $
 \dfrac{20}{15} \quad \dfrac{10}{15} \quad \dfrac{12}{15} \quad \dfrac{13}{15} \quad \dfrac{9}{15} 
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{9}{15} \quad \dfrac{10}{15} \quad \dfrac{12}{15} \quad \dfrac{13}{15} \quad \dfrac{20}{15} 
@@ -1987,6 +1987,46 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='495D061F-FEDA-4E8C-AC46-B7FC73202FAC' id='FORM-495D061F-FEDA-4E8C-AC46-B7FC73202FAC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-495D061F-FEDA-4E8C-AC46-B7FC73202FAC'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2284,7 +2324,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5FA09A55-094D-4CB0-83D9-A30CEC5F4740</p>
 </div>
@@ -2295,7 +2335,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2380,36 +2420,21 @@ Match the fraction to the correct place on the number line. One has been done fo
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\dfrac{1}{4}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac{1}{4}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{4}$
 </code></pre>
 </div>
 </div>
@@ -2421,22 +2446,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{4}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='5FA09A55-094D-4CB0-83D9-A30CEC5F4740' id='FORM-5FA09A55-094D-4CB0-83D9-A30CEC5F4740' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5FA09A55-094D-4CB0-83D9-A30CEC5F4740'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2616,29 +2671,29 @@ TODOANSWER
 \text {Let the side of the square} \ &= s
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Let the area of the square} \ &= a \\\\
                                      &= s^2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Let the side of inner square} \ &= x
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Let the area of inner square} \ &= b \\\\
                                        &= x^2
 \end{aligned}
 $
-
+<emptyline>
 By pythogoras theorem,
-
+<emptyline>
 $
 \begin{aligned}
 (\dfrac{s}{2})^2 + (\dfrac{s}{2})^2 &= x^2 \\\\
@@ -2647,18 +2702,18 @@ $
 b &= \dfrac{a}{2}
 \end{aligned}
 $
-
+<emptyline>
 Area of inner square $= \dfrac{a}{2}$
-
+<emptyline>
 Following the similiar pattern,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of shaded region} \ &= \dfrac{a}{2} - \dfrac{a}{4} + \dfrac{a}{8} - \dfrac{a}{16} + \dfrac{a}{32} \\\\
 &= \dfrac{11a}{32}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Fraction of shaded region over total area} \ &= \dfrac{ \dfrac{11a}{32} }{a} \\\\
@@ -3366,7 +3421,7 @@ $\dfrac{3}{5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>On examining,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of Shape} &= 25 \ \text{unit}^2 \\\\
@@ -3432,9 +3487,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 Shade $12$ triangles from the figure
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>
@@ -3510,7 +3565,7 @@ Shape B has a greater fraction shaded than A.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>On examining,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of Shape A} &= 10 \ \text{unit}^2 \\\\
@@ -3526,7 +3581,7 @@ $
 &= \dfrac{1}{4}
 \end{aligned}
 $
-
+<emptyline>
 Shape B has a greater fraction shaded than A.
 </code></pre>
 </div>
@@ -3891,7 +3946,7 @@ $\dfrac{2}{3}$
 
 <pre class='language-latex'><code class='language-latex'>  
 There are $60 \ \text{seconds}$ in a minute, so
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{40}{60} \\\\
@@ -4476,9 +4531,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of edge of cube $= a$
-
+<emptyline>
 As the cube has six faces,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of all faces} \ &= \text{Area of each face} \ \times 6 \\\\
@@ -4486,14 +4541,14 @@ $
 &= 6a^2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of black region} \ &= 4 \times (\dfrac{a}{3} \times a) \\\\
 &= \dfrac{4a^2}{3}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of black region} &= \dfrac{\text{Area of black region}\ }{\text{Area of all faces}\ } \\\\
@@ -5009,7 +5064,7 @@ $\dfrac {3} {16}$
 *TODO::Draw the figure with a verticle line in middle of the figure 
 and on the points where the triangle touch the middle horizontal line*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total parts}      &= 16 \\\\
@@ -5085,7 +5140,7 @@ $4$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Shade any 4 squares on the figure
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total squares}        &= 16   \\\\
@@ -5575,7 +5630,7 @@ $0.4, \dfrac {3} {8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac {1} {4} = 0.25$
-
+<emptyline>
 | Number            |  Decimal          |  $> 0.25$    |
 |:-------:          |:-----------------:|:------------:|
 | $0.2$             | $0.2$             | No           |
@@ -5583,10 +5638,10 @@ $0.4, \dfrac {3} {8}$
 | $0.4$             | $0.4$             | Yes          |
 | $\dfrac{3}{8}$    | $0.375$           | Yes          |
 | $0.027$           | $0.027$           | No           |
-
+<emptyline>
 
 Based on the calculation above,
-
+<emptyline>
 Numbers more than $\dfrac {1} {4} = 0.4, \dfrac {3} {8}$
 </code></pre>
 </div>
@@ -5879,7 +5934,7 @@ $10$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Shade 10 boxes in the given figure* 
 rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total boxes}              &= 25 \\\\
@@ -6944,11 +6999,11 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of people $=a$
-
+<emptyline>
 Number of people that liked scarecrow $=\dfrac{a}{8}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {4} {8} \ \text {of} \ a                 &= 24 \\\\
@@ -6960,9 +7015,9 @@ a                                               &= 24 \times  2 \\\\
 a                                               &= 48
 \end{aligned}
 $
-
+<emptyline>
 Total number of people $= 48$
-
+<emptyline>
 $
 \begin{aligned}
 \text{People that liked scarecrow}              &= \dfrac{a}{8} \\\\
@@ -7409,7 +7464,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB</p>
 </div>
@@ -7420,7 +7475,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7506,36 +7561,21 @@ tdraw
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7547,17 +7587,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7575,36 +7605,21 @@ Shade $75\%$ of this regular octagon.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+Out of 8 triangles, 6 triangles have to be shaded.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Out of 8 triangles, 6 triangles have to be shaded.
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Out of 8 triangles, 6 triangles have to be shaded.
 </code></pre>
 </div>
 </div>
@@ -7616,17 +7631,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Out of 8 triangles, 6 triangles have to be shaded.
 </code></pre>
 </div>
 </div>
@@ -7646,36 +7651,21 @@ Shade $\dfrac{5}{8}$ of this regular octagon.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+Out of 8 triangles, 5 triangles have to be shaded.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Out of 8 triangles, 5 triangles have to be shaded.
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Out of 8 triangles, 5 triangles have to be shaded.
 </code></pre>
 </div>
 </div>
@@ -7687,17 +7677,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Out of 8 triangles, 5 triangles have to be shaded.
 </code></pre>
 </div>
 </div>
@@ -7716,36 +7696,37 @@ Give a reason for your answer.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 75\% or \dfrac{5}{8} \\\\
+&= \dfrac{75}{100} or \dfrac{5}{8} \\\\
+&= \dfrac{25 \times 3}{25 \times 4} or \dfrac{5}{8} \\\\
+&= \dfrac{\cancel{25} \times 3}{\cancel{25} \times 4} or \dfrac{5}{8} \\\\
+&= \dfrac{3}{4} is greater than \dfrac{5}{8}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$75\%$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= 75\% or \dfrac{5}{8} \\\\
+&= \dfrac{75}{100} or \dfrac{5}{8} \\\\
+&= \dfrac{25 \times 3}{25 \times 4} or \dfrac{5}{8} \\\\
+&= \dfrac{\cancel{25} \times 3}{\cancel{25} \times 4} or \dfrac{5}{8} \\\\
+&= \dfrac{3}{4} is greater than \dfrac{5}{8}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -7757,17 +7738,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$75\%$
 </code></pre>
 </div>
 </div>
@@ -7776,6 +7747,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' id='FORM-49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -7965,7 +7976,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>937A6461-7022-4489-B148-36A947FCAD60</p>
 </div>
@@ -7976,7 +7987,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8059,21 +8070,21 @@ Shade $\dfrac{3}{7}$ of the shape below.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Out of 14, 3 big triangles and 3 small triangles have to be shaded.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Out of 14, 3 big triangles and 3 small triangles have to be shaded.
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Out of 14, 3 big triangles and 3 small triangles have to be shaded.
 </code></pre>
 </div>
 </div>
@@ -8085,12 +8096,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Out of 14, 3 big triangles and 3 small triangles have to be shaded.
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='937A6461-7022-4489-B148-36A947FCAD60' id='FORM-937A6461-7022-4489-B148-36A947FCAD60' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-937A6461-7022-4489-B148-36A947FCAD60'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -8569,7 +8620,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
 </div>
@@ -8580,7 +8631,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8691,16 +8742,16 @@ $\dfrac {5} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac {1} {2} = 0.5$
-
+<emptyline>
 Let's convert all the numbers into decimal.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
 &= 0.2, \quad 0.42, \quad 0.55, \quad 0.63
 \end {aligned}
 $
-
+<emptyline>
 $\dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
 </code></pre>
 </div>
@@ -8718,7 +8769,52 @@ $\dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+IN THE SECOND LINE OF BEGIN ALIGNED ===> \dfrac 0.63 CHANGE IT
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' id='FORM-E2EDC047-57E7-441B-AAAF-8D7D1FE11E33' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E2EDC047-57E7-441B-AAAF-8D7D1FE11E33'>Initial</p>
+</div>
 </div>
 </li>
 <li>

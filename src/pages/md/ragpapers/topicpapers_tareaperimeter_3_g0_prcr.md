@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-3-g0-prcr"
 title: "TopicPaper - Areaperimeter - 3 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -184,13 +184,13 @@ $123 \ \text {m} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Area of flower bed can be divided into left and top portion.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of lawn} &= \text {Area of garden} - \text {Area of flower bed} - \text {Area of patio} \\\\
@@ -260,9 +260,9 @@ $\pounds 20.40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If the price is reduced by $15 \%$, cost for the flower pots will be $100 - 15 = 85 \%$ of the total cost.
-
+<emptyline>
 Using this we get,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Mr Green spend}   &= 85 \% \ \text {of} \ \text {Total cost of flower pots} \\\\
@@ -340,13 +340,13 @@ The number of paving stones needed is $=$ $240$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 The patio measurements is given in metres while the paving stones measurement is given in cm.
-
+<emptyline>
 Let's convert the wall measurements into $\text{cm}$.
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of paving stones}  &= \dfrac {\text {Area of the patio} } {\text {Area of a paving stones} } \\\\
@@ -431,9 +431,9 @@ The total cost is $=$ $\pounds 360$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Sacks needed for $1 \ \text {m} ^ 2 = \dfrac {3} {4}$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total sacks needed}  &= \dfrac {3} {4} \times 60 \\\\
@@ -444,9 +444,9 @@ $
                             &= 45
 \end {aligned}
 $
-
+<emptyline>
 There is an offer for every four sacks get fifth free so for $45$ sacks number of sacks free $\dfrac {45} {5} = 9$. Using this we get,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}      &= (45 - 9) \times 10 \\\\

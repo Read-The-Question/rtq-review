@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-g2"
 title: "TopicPaper - Fraction - 5 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -1969,7 +1969,7 @@ $\dfrac{2}{3}$
 
 <pre class='language-latex'><code class='language-latex'>  
 There are $60 \ \text{seconds}$ in a minute, so
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{40}{60} \\\\
@@ -2641,7 +2641,7 @@ $\dfrac {3} {16}$
 *TODO::Draw the figure with a verticle line in middle of the figure 
 and on the points where the triangle touch the middle horizontal line*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total parts}      &= 16 \\\\
@@ -2717,7 +2717,7 @@ $4$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Shade any 4 squares on the figure
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total squares}        &= 16   \\\\
@@ -3207,7 +3207,7 @@ $0.4, \dfrac {3} {8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac {1} {4} = 0.25$
-
+<emptyline>
 | Number            |  Decimal          |  $> 0.25$    |
 |:-------:          |:-----------------:|:------------:|
 | $0.2$             | $0.2$             | No           |
@@ -3215,10 +3215,10 @@ $0.4, \dfrac {3} {8}$
 | $0.4$             | $0.4$             | Yes          |
 | $\dfrac{3}{8}$    | $0.375$           | Yes          |
 | $0.027$           | $0.027$           | No           |
-
+<emptyline>
 
 Based on the calculation above,
-
+<emptyline>
 Numbers more than $\dfrac {1} {4} = 0.4, \dfrac {3} {8}$
 </code></pre>
 </div>
@@ -3511,7 +3511,7 @@ $10$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Shade 10 boxes in the given figure* 
 rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total boxes}              &= 25 \\\\
@@ -4576,11 +4576,11 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of people $=a$
-
+<emptyline>
 Number of people that liked scarecrow $=\dfrac{a}{8}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {4} {8} \ \text {of} \ a                 &= 24 \\\\
@@ -4592,9 +4592,9 @@ a                                               &= 24 \times  2 \\\\
 a                                               &= 48
 \end{aligned}
 $
-
+<emptyline>
 Total number of people $= 48$
-
+<emptyline>
 $
 \begin{aligned}
 \text{People that liked scarecrow}              &= \dfrac{a}{8} \\\\

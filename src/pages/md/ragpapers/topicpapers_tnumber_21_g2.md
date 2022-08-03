@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-g2"
 title: "TopicPaper - Number - 21 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -162,7 +162,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= 18 - (9 - 7) \\\\
@@ -222,7 +222,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= (18 - 9) - 7 \\\\
@@ -282,7 +282,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= (80 \div 20) \div 4 \\\\
@@ -342,7 +342,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= 80 \div (20 \div 4) \\\\
@@ -683,7 +683,7 @@ $107.12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   8   &   7 \ .  &   3   &   2 \\
@@ -751,7 +751,7 @@ $4.32$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
             &   5   &   4 \\
@@ -760,9 +760,9 @@ $
 4           &   3   &   2
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two. Let's account for the decimal point now.
-
+<emptyline>
 $= 4.32$
 </code></pre>
 </div>
@@ -959,9 +959,9 @@ $2743$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Two pairs are $=1917, 3954$ and $3008, 2863$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1917 + 3954 \\\\
@@ -970,7 +970,7 @@ $
 &= 5871
 \end{aligned}
 $
-
+<emptyline>
 Odd one $= 2743$
 </code></pre>
 </div>
@@ -1317,7 +1317,7 @@ $1996$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2000 - 12 + 20 - 12 \\\\
@@ -1538,7 +1538,7 @@ D
             &= \rtq_katex_color_answer{5905}
 \end{aligned}
 $
-
+<emptyline>
 Correct statement $= \text{D}$
 </code></pre>
 </div>
@@ -1866,7 +1866,7 @@ $
 &= 35
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1921,7 +1921,7 @@ $3$
 &= 3
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2994,7 +2994,7 @@ $7420$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first multiply the numbers ignoring the zeroes.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
         &   3   &   7   &   1 \\
@@ -3003,7 +3003,7 @@ $
         &   7   &   4   &   2
 \end{array}
 $
-
+<emptyline>
 Let's account for the one zero now $= 7420$
 </code></pre>
 </div>
@@ -3816,7 +3816,7 @@ $18.87$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &       &   1 \ .   &   7   &   0 \\
@@ -4011,14 +4011,14 @@ $\dfrac {8} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {5} {7}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {7} {8}, \quad \dfrac {8} {9}, \quad \dfrac {7} {10} \\\\
 &= 0.714, \quad 0.666, \quad 0.6, \quad 0.875, \quad 0.888, \quad 0.7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction closest to } 1   &= 0.888 \\\\
@@ -4428,7 +4428,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 + 5 \times 3 - 2 \\\\
@@ -4484,9 +4484,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$= 3 \times 2^2$
-
+<emptyline>
 $= 3 \times 4$
-
+<emptyline>
 $= 12$
 </code></pre>
 </div>

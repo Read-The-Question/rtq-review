@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-3-notstarted"
 title: "TopicPaper - Infer - 3 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "38"
 ---
 <ul class='question default-decimal'>
@@ -4455,30 +4455,30 @@ $24$
 
 <pre class='language-latex'><code class='language-latex'>
 A pyramid with a square base has $8$ edges. $4$ edges to the square and $4$ where the triangles meet each other. 
-
+<emptyline>
 A triangle has $3$ edges.
-
+<emptyline>
 No. of corners cut off at base $= 4$ corners
-
+<emptyline>
 Every corner that is cut off at base results into a new triangle edges.
-
+<emptyline>
 Total edges at base 
-
+<emptyline>
 = Old edges + ($4$ corners $\times 3$ triangle edges)
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 + (4 \times 3) \\
 &= 4 + 12
 \end{aligned}
 $
-
+<emptyline>
 Now let's look at the top. When the tip is cut it results into a square top, as in the picture.
-
+<emptyline>
 Total edges at top 
-
+<emptyline>
 = Old edges + ($1$ corner $\times 4$ edges of the new square)
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 + (1 \times 4) \\
@@ -4486,17 +4486,17 @@ $
 &= 8
 \end{aligned}
 $
-
+<emptyline>
 
 Total edges = new edges at base + new edges at tip 
-
+<emptyline>
 $
 \begin{aligned}
 &= 16 + 8
 &= 24
 \end{aligned}
 $
-
+<emptyline>
 The resulting shape will result in $24$ edges.
 </code></pre>
 </div>
@@ -4754,7 +4754,7 @@ Point D
 
 <pre class='language-latex'><code class='language-latex'>
 **Fixed at point A**
-
+<emptyline>
 $
 \begin{aligned}
 \text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
@@ -4774,10 +4774,10 @@ $
 \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}
 \end{aligned}
 $
-
+<emptyline>
 
 **Fixed at point B**
-
+<emptyline>
 $
 \begin{aligned}
 \text{\textcircled {}} \text{---}
@@ -4797,10 +4797,10 @@ $
  \text{\textcircled e}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}  \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}
 \end{aligned}
 $
-
+<emptyline>
 
 **Fixed at point E**
-
+<emptyline>
 $
 \begin{aligned}
 \text{\textcircled {}} \text{---}
@@ -4819,12 +4819,12 @@ $
  \text{\textcircled a} \\ 
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 
 **Now, Let's find which point finishes in the same position as it was at the start.**
-
+<emptyline>
 $
 \begin{aligned}
 \text{\textcircled {}} \text{---}\text{\textcircled {}} \text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}}\text{---}\text{\textcircled {}} \text{---}
@@ -4875,7 +4875,7 @@ $
  \text{\textcircled a} \\ 
 \end{aligned}
 $
-
+<emptyline>
 it can be observed that the **point D** finishes in the same position as it was at the start.
 </code></pre>
 </div>
@@ -5122,14 +5122,14 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 Let's put the figures in an euqation form.
-
+<emptyline>
 triangle = t
 square = s
 hexagon = h
 circle = c
-
+<emptyline>
 $
 \begin{aligned}
 2t + 2s    &= 28  \quad (1)\\
@@ -5142,13 +5142,13 @@ $
 2c + t + s &= 22  \quad (8)\\
 \end{aligned}
 $
-
+<emptyline>
 To find the total of equation (5), $c$ $p$ and $t$ needs to be solved.
-
+<emptyline>
 Refer to equation (1) $2t + 2s = 28$
-
+<emptyline>
 This equation can be reduced with a commmon denominator $2$.
-
+<emptyline>
 $
 \begin{aligned}
 2t + 2s = 28\\
@@ -5156,9 +5156,9 @@ $
 t + s = 14
 \end{aligned}
 $
-
+<emptyline>
 Same way, equation (2) can be reduced with the commmon denominator $2$
-
+<emptyline>
 $
 \begin{aligned}
 2s + 2h = 30\\
@@ -5166,9 +5166,9 @@ $
 s + h = 15
 \end{aligned}
 $
-
+<emptyline>
 Now let's refer equation (7) $2c + h + s = 23$ and substitute $s + h$
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -5180,9 +5180,9 @@ c =  8 \div 2 \\
 c = 4
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute the value of $c$ in equation (3) $3c + t = 18$
-
+<emptyline>
 $
 \begin{aligned}
 3c + t = 18\\
@@ -5192,9 +5192,9 @@ t = 18 - 12 \\
 t= 6
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute the value of $t$ in equation (4) $3c + s = 20$
-
+<emptyline>
 $
 \begin{aligned}
 3c + s = 20\\
@@ -5204,7 +5204,7 @@ s = 20 - 12 \\
 s= 8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 s + h &= 15 \\
@@ -5212,11 +5212,11 @@ s + h &= 15 \\
       &= 7
 \end{aligned}
 $
-
+<emptyline>
 So, equation (5) $2c + h + t = ??$\\
-
+<emptyline>
 $(2 \times 4) + 7 + 6 = 21$
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -5231,7 +5231,7 @@ $
 \text {So,} \\
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \circleddash + \circleddash + \Leftrightarrow + \triangle &= 41 - 20\\
@@ -7825,13 +7825,13 @@ $-4, -1, 5$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the first empty box  $=x$
-
+<emptyline>
 second empty box $=y$
-
+<emptyline>
 and third empty box $=z$
-
+<emptyline>
 For value of z,
-
+<emptyline>
 $
 \begin{aligned}
 -7 + \text {z} = -3 \\\\
@@ -7839,18 +7839,18 @@ $
 \text {z} = 5
 \end{aligned}
 $
-
+<emptyline>
 For value of y,
-
+<emptyline>
 $
 \begin{aligned}
 \text {y} = 6 - 7 \\\\
 \text {y} = -1 
 \end{aligned}
 $
-
+<emptyline>
 For value of x,
-
+<emptyline>
 $
 \begin{aligned}
 \text {x} = -3 - 1 \\\\
@@ -8041,7 +8041,7 @@ $7^2+3 = 7^5$
 
 <pre class='language-latex'><code class='language-latex'>
 According to table ,
-
+<emptyline>
 $
 \begin{aligned}
 49 \times 343 = 16807 \\\\
@@ -8104,7 +8104,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>According to table ,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {5764801} {823543} \\\\
@@ -8169,7 +8169,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>According to table ,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {117649} {2401} \\\\
@@ -8785,14 +8785,14 @@ $72$
    = 2 \times 3 \times 2 \times 3
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 24 = 8 \times 3 \\\\
    = 2 \times 2 \times 2 \times 3
 \end{aligned}
 $
-
+<emptyline>
 LCM 
 $
 &= 2 \times 2 \times 2 \times 3 \times 3 \\\\

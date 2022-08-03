@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-1-g0-prcr"
 title: "TopicPaper - Infer - 1 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -123,7 +123,7 @@ $49$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's list all $2$-digit square numbers and the sum of their digits.
-
+<emptyline>
 | Square Numbers   |Digits Sum     |
 |:----------------:|:-------------:|
 | $16$             | $1 + 6 = 7$   |
@@ -132,7 +132,7 @@ $49$
 | $49$             | $4 + 9 = 13$  |
 | $64$             | $6 + 4 = 10$  |
 | $81$             | $8 + 1 = 9$   |
-
+<emptyline>
 Square number with biggest sum of the digits $= 49$.
 </code></pre>
 </div>
@@ -429,7 +429,7 @@ $\text {DOG}, \quad \text {CATS}, \quad \text {BIRD}, \quad \text {FISH}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, let's find the product first. 
-
+<emptyline>
 $
 \begin{aligned}
 \text {DOG}     &= 4 \times 15 \times 7 \\\\
@@ -442,9 +442,9 @@ $
                 &= 1296
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 420, \quad 1140, \quad 1296, \quad 8208 \\\\
@@ -513,9 +513,9 @@ $\text {B}, \text {E}, \text {G}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the letter $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {BAG} + a &= \text {GALA} \\\\
@@ -527,7 +527,7 @@ a               &= \text {GALA} - \text {BAG} \\\\
                 &= \text {BEG}
 \end{aligned}
 $
-
+<emptyline>
 The three letters are $\text {B}$, $\text {E}$, $\text {G}$.
 </code></pre>
 </div>

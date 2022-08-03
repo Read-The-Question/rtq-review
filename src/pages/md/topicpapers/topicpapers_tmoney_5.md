@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-5"
 title: "TopicPaper - Money - 5"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <div class='paper'>
@@ -502,7 +502,7 @@ $35$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of plants}     &= \dfrac {\text{Total money}} {\text{Cost of a plant}} \\\\
@@ -732,7 +732,7 @@ $\pounds 26.40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 4 \times 3.85 + 2 \times 5.50 \\\\
@@ -791,7 +791,7 @@ $\pounds 13.60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Change received}     &= 2 \times 20 - 26.40 \\\\
@@ -1367,7 +1367,7 @@ $\pounds 1.89$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 2 \times 53 \text {p} + 3 \times 27 \text {p} + \pounds 1.24 \\\\
@@ -1936,7 +1936,7 @@ $\pounds 4.72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent}     &= 7 \times 73 \text {p} + 9 \times \pounds 1.13 \\\\
@@ -2122,7 +2122,7 @@ $\pounds 1.85$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 &= \pounds 1.28 + 57 \text {p} \\\\
@@ -2305,7 +2305,7 @@ $\pounds 0.71$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 &= \pounds 1.28 - 57 \text {p} \\\\
@@ -2489,7 +2489,7 @@ $5 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Percentage}  &= \dfrac {15} {300} \times 100 \\\\
@@ -2800,7 +2800,7 @@ $6 \ \text {oranges}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 
 $
 \begin {aligned}

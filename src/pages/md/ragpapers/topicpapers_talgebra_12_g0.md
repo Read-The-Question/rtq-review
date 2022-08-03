@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-g0"
 title: "TopicPaper - Algebra - 12 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -187,22 +187,22 @@ $\pounds 4.10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a pack of sandwiches $= s$
-
+<emptyline>
 Let the cost of a biscuit $= b$
-
+<emptyline>
 Let the cost of a cup of tea $= t$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s + b + 2t  &= \pounds 5.80 \\\\
 2s + 2b + t &= \pounds 6.50
 \end{aligned}
 $
-
+<emptyline>
 We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
-
+<emptyline>
 $
 \begin{aligned}
 s + b + 2t + 2s + 2b + t    &= 5.80 + 6.50 \\\\
@@ -212,7 +212,7 @@ s + b + t                   &= \dfrac {12.30} {3} \\\\
 s + b + t                   &= \pounds 4.10
 \end{aligned}
 $
-
+<emptyline>
 Cost of $1$ pack of sandwiches, $1$ biscuit and $1$ cup of tea $= \pounds 4.10$
 </code></pre>
 </div>
@@ -275,23 +275,23 @@ $\pounds 2.40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the above answer,
-
+<emptyline>
 $
 \begin{aligned}
 2s + 2b + t  &= \pounds 6.50 \\\\
 s + b + t    &= \pounds 4.10 
 \end{aligned}
 $
-
+<emptyline>
 We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
-
+<emptyline>
 $
 \begin{aligned}
 2s + 2b + t - s - b - t     &= 6.50 - 4.10 \\\\
 s + b                       &= \pounds 2.40
 \end{aligned}
 $
-
+<emptyline>
 Cost of $1$ pack of sandwiches and $1$ biscuit $= \pounds 2.40$
 </code></pre>
 </div>
@@ -354,23 +354,23 @@ $\pounds 1.70$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the above answers,
-
+<emptyline>
 $
 \begin{aligned}
 s + b + 2t  &= \pounds 5.80 \\\\
 s + b + t   &= \pounds 4.10
 \end{aligned}
 $
-
+<emptyline>
 We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
-
+<emptyline>
 $
 \begin{aligned}
 s + b + 2t - s - b - t  &= 5.80 - 4.10 \\\\
 t                       &= \pounds 1.70
 \end{aligned}
 $
-
+<emptyline>
 Cost of a cup of tea $= \pounds 1.70$
 </code></pre>
 </div>
@@ -1006,13 +1006,13 @@ Drink $=$ $\pounds 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a burger $= b$
-
+<emptyline>
 Let the cost of chips $= c$
-
+<emptyline>
 Let the cost of a drink $= d$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Tom paid}    &= \pounds 8 \\\\
@@ -1023,18 +1023,18 @@ b + c               &= 8 \\\\
 b + d               &= 8.50
 \end{aligned}
 $
-
+<emptyline>
 Using the above two equations we get,
-
+<emptyline>
 $
 \begin{aligned} 
 2b + d - b - d  &= 15 - 8.50 \\\\
 b               &= \pounds 6.50
 \end{aligned}
 $
-
+<emptyline>
 Cost of the burger $= \pounds 6.50$
-
+<emptyline>
 $
 \begin {aligned}
 b + c       &= 8 \\\\
@@ -1043,9 +1043,9 @@ c           &= 8 - 6.50 \\\\
 c           &= \pounds 1.50
 \end {aligned}
 $
-
+<emptyline>
 Cost of the chips $= \pounds 1.50$
-
+<emptyline>
 $
 \begin {aligned}
 b + d       &= 8.50 \\\\
@@ -1054,7 +1054,7 @@ d           &= 8.50 - 6.50 \\\\
 d           &= \pounds 2
 \end {aligned}
 $
-
+<emptyline>
 Cost of the drink $= \pounds 2$
 </code></pre>
 </div>
@@ -1256,11 +1256,11 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let George's marks $= a$
-
+<emptyline>
 Freddie's marks $= a + 37$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 37      &= 61 \\\\
@@ -1268,7 +1268,7 @@ a           &= 61 - 37 \\\\
 a           &= 24
 \end{aligned}
 $
-
+<emptyline>
 George's marks $= 24$
 </code></pre>
 </div>
@@ -1454,9 +1454,9 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 41 - 2a         &= 3 \\\\
@@ -1470,7 +1470,7 @@ a               &= \dfrac {\cancel {2} \times 19} {\cancel {2}} \\\\
 a               &= 19
 \end{aligned}
 $
-
+<emptyline>
 The number $= 19$
 </code></pre>
 </div>
@@ -1665,13 +1665,13 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sweets Ravi got $= a$
-
+<emptyline>
 Number of sweets Harsha got $= 2a$
-
+<emptyline>
 Number of sweets Harpreet got $= \dfrac {a} {2}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 2a + \dfrac {a} {2}     &= 42 \\\\
@@ -1687,7 +1687,7 @@ a                                                                               
 a                                                                                       &= 12
 \end{aligned}
 $
-
+<emptyline>
 Number of sweets Ravi got $= 12$
 </code></pre>
 </div>
@@ -1883,9 +1883,9 @@ $\pounds 32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of an adult ticket $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of a children ticket}           &= \text {Cost of an adult ticket} - 25 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
@@ -2105,9 +2105,9 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number that Sam thought of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {(5a -12)}{3} + 17                                    &= 38 \\\\
@@ -2120,7 +2120,7 @@ $
 a                                                            &= 15
 \end{aligned}
 $
-
+<emptyline>
 The number that Sam thought of $= 15$
 </code></pre>
 </div>
@@ -2343,7 +2343,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 $
 \begin{aligned}
 8 + 4a   &= 36 \\\\
@@ -2354,7 +2354,7 @@ a        &= \dfrac {4 \times 7} {4} \\\\
 a        &= \dfrac {\cancel{4} \times 7} {\cancel{4}} \\\\
 a        &=  7
 \end{aligned}
-
+<emptyline>
 Missing number $=7$
 $
 </code></pre>
@@ -2411,7 +2411,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 $
 \begin{aligned}
 5 \times (4 - a) &= 15 \\\\
@@ -2420,7 +2420,7 @@ $
 a                &= 1
 \end{aligned}
 $
-
+<emptyline>
 Missing number $=1$
 </code></pre>
 </div>
@@ -2476,7 +2476,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 $
 \begin{aligned}
 10 - (5 + a) &= -3 \\\\
@@ -2485,7 +2485,7 @@ a            &= 13 - 5 \\\\
 a            &= 8
 \end{aligned}
 $
-
+<emptyline>
 Missing number $=8$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-oldpr"
 title: "TopicPaper - Profit - 1 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -172,11 +172,11 @@ $\text{Shop C} = \pounds 820$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the cheapest price of $2$ chairs from each shop.
-
+<emptyline>
 **Shop A**
-
+<emptyline>
 If the price is reduced by $30 \%$, then the sale price will be $100 - 30 = 70 \%$ of the original price. Using that, we get
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of } 2 \text{ chairs from Shop A}     &= 600 + 70\% \times 600 \\\\
@@ -188,11 +188,11 @@ $
                                                 &= \pounds 1020
 \end{aligned}
 $
-
+<emptyline>
 **Shop B**
-
+<emptyline>
 If the price is reduced by $\dfrac{1}{5}$, then the sale price will be $1 - \dfrac{1}{5} = \dfrac{4}{5}$ of the original price. Using that, we get
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of } 2 \text{ chairs from Shop B}     &= 550 + \dfrac{4}{5} \times 550 \\\\
@@ -204,17 +204,17 @@ $
                                                 &= \pounds 990
 \end{aligned}
 $
-
+<emptyline>
 **Shop C**
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of } 2 \text{ chairs from Shop C}     &= \pounds 820
 \end{aligned}
 $
-
+<emptyline>
 Using the calculation above,
-
+<emptyline>
 Shop where the price is the cheapest $= \text{Shop C} = \pounds 820$
 </code></pre>
 </div>
@@ -401,13 +401,13 @@ $\pounds 290$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Cost of Seesaws in Jan $2010 = \pounds 200$
-
+<emptyline>
 Percentage of increase in price in $2011 = 45 \%$ 
-
+<emptyline>
 Let's Calculate how much a seesaw cost in January $2011$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Price of seesaw in} \ 2011         &= \ \text{Price of seesaw in} \ 2010 + \ \text{Price increased} \\\\
@@ -418,7 +418,7 @@ $
                                           &= \pounds 290
 \end{aligned}
 $
-
+<emptyline>
 In January $2011$ A seesaw cost is $\pounds 290$ 
 </code></pre>
 </div>
@@ -820,9 +820,9 @@ $\pounds 120.00$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Let's calculate discount price
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Discount price}   &=  \text{Cost of new mobile} \times \text{Discount Percentage} \\\\
@@ -834,9 +834,9 @@ $
                         &=  \pounds 30
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate amount Alex have to pay
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Amount Alex have to pay}     &= \text{Cost of new mobile} - \text{Discount price} \\\\
@@ -844,7 +844,7 @@ $
                                    &= \pounds 120.00
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

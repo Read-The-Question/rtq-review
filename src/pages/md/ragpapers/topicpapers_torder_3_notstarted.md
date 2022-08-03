@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-notstarted"
 title: "TopicPaper - Order - 3 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -636,9 +636,9 @@ $\text{D}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 Let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 \text{A} &= \dfrac{1}{5}, \quad 0.25, \quad \dfrac{3}{10}, \quad 0.5 \\\\
@@ -647,7 +647,7 @@ $
   &= 0.2 < \quad 0.25 < \quad 0.3 < \quad 0.5
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{B} &= \dfrac{3}{5}, \quad 0.7, \quad \dfrac{4}{5}, \quad 1.5 \\\\
@@ -656,7 +656,7 @@ $
   &= 0.6 < \quad 0.7 < \quad 0.8 < \quad 1.5
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{C} &= \dfrac{2}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
@@ -665,7 +665,7 @@ $
   &= 0.4 < \quad 0.5 < \quad 0.7 < \quad 0.9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{D} &= \dfrac{3}{5}, \quad 0.5, \quad \dfrac{7}{10}, \quad 0.9 \\\\
@@ -674,7 +674,7 @@ $
   &= 0.6 > \quad 0.5 < \quad 0.7 < \quad 0.9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{E} &= \dfrac{2}{5}, \quad 1.5, \quad \dfrac{10}{5}, \quad 2.3 \\\\
@@ -683,9 +683,9 @@ $
   &= 0.4 < \quad 1.5 < \quad 2 < \quad 2.3
 \end{aligned}
 $
-
+<emptyline>
 In A, B, C and E the terms are getting bigger.
-
+<emptyline>
 In D the terms are not getting bigger as $0.6 > \quad 0.5$.
 </code></pre>
 </div>

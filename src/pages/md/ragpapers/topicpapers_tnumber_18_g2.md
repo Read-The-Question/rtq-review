@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-18-g2"
 title: "TopicPaper - Number - 18 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "23"
 ---
 <ul class='question default-decimal'>
@@ -642,14 +642,14 @@ $8 \dfrac {1} {20}, \quad 8.05$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \dfrac {1} {20} \quad \dfrac {17} {2} \quad 8.1 \quad 8.05 \quad \dfrac {1} {5} \\\\
 &= 8.05 \quad 8.5 \quad 8.1 \quad 8.05 \quad 0.2
 \end{aligned}
 $
-
+<emptyline>
 Equal numbers $= 8 \dfrac {1} {20}, \quad 8.05$
 </code></pre>
 </div>
@@ -1104,7 +1104,7 @@ $1.006$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the difference between the number and $1$.
-
+<emptyline>
 | Number   |     Difference      |
 |:--------:|:-------------------:|
 |  $0.993$ | $1 - 0.993 = 0.007$ |
@@ -1112,9 +1112,9 @@ $1.006$
 |  $1.1$   | $1.1 - 1 = 0.1$     |
 |  $0.94$  | $1 - 0.94 = 0.06$   |
 |  $0.99$  | $1 - 0.99 = 0.01$   |
-
+<emptyline>
 From the calculation above, the smallest difference is $0.006$.
-
+<emptyline>
 Number closest in value $= 1.006$
 </code></pre>
 </div>
@@ -1466,16 +1466,16 @@ $0.06, \ 0.09$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$0.06, \ 0.09$
-
+<emptyline>
 Let's verify it.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.06 + 0.09 \\\\
 &= 0.15
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2881,9 +2881,9 @@ $8, 14, 21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$8, 14, 21$
-
+<emptyline>
 Let's verify it.
-
+<emptyline>
 $
 \begin{aligned}
 &=  8 + 14 + 21 \\\\
@@ -3112,9 +3112,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a + 8  &= 44 \\\\
@@ -3181,9 +3181,9 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times (5 - a)    &= 12 \\\\
@@ -3250,9 +3250,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 40 \div a         &= 4 ^ 2 \div 2 \\\\
@@ -3485,7 +3485,7 @@ $83330$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 130 \times 641             \\\\
@@ -3608,7 +3608,7 @@ $14743$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 23 \times 641 \\\\
@@ -4825,7 +4825,7 @@ $140.4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &=7.84 \times 18 \\\\
@@ -5046,7 +5046,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$14$
-
+<emptyline>
 Factors $= 1, 2, 7, 14$
 </code></pre>
 </div>

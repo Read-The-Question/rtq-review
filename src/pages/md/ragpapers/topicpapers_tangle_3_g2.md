@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-g2"
 title: "TopicPaper - Angle - 3 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -147,13 +147,13 @@ $100 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the second angle $= a$
-
+<emptyline>
 Third angle $= 2a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 2a + 30     &= 180  \\\\
@@ -167,7 +167,7 @@ a               &= \dfrac {50 \times \cancel{3}}{\cancel{3}}   \\\\
 a               &= 50 \degree
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Second angle}    &= 50 \degree \\\\
@@ -176,7 +176,7 @@ $
                         &= 100 \degree
 \end{aligned}
 $
-
+<emptyline>
 Largest angle $= 100 \degree$ 
 </code></pre>
 </div>

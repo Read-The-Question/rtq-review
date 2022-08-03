@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-pr-prns"
 title: "TopicPaper - Number - 4 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -165,10 +165,10 @@ $5.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Value of each interval = $0.2$
-
+<emptyline>
 
 Therefore, Arrow is pointing at = $5.2$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -577,7 +577,7 @@ $49$
 474
 484
 494
-
+<emptyline>
 Total = 49
 </code></pre>
 </div>
@@ -722,7 +722,7 @@ $49$
 474
 484
 494
-
+<emptyline>
 Total = 49
 </code></pre>
 </div>

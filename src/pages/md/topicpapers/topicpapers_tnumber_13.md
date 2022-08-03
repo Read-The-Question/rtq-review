@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -197,7 +197,7 @@ $\dfrac{9} {12}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first reduce the fraction by listing and canceling the common factors, 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {9}{12},  \quad \dfrac {8}{9},  \quad   \dfrac {14}{18},  \quad   \dfrac {50}{60} \\\\
@@ -206,11 +206,11 @@ $
 &= \dfrac {3} {4},  \quad \dfrac {8} {9},  \quad   \dfrac {7} {9},  \quad   \dfrac {5} {6}
 \end{aligned}
 $
-
+<emptyline>
 To compare, let's make the denominator the same for all the fractions.
-
+<emptyline>
 LCM for $4, 9 \text{and} 6 = 36$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4}, \quad \dfrac{8}{9}, \quad \dfrac{7}{9}, \quad\dfrac{5}{6} \\\\
@@ -218,16 +218,16 @@ $
 &= \dfrac{27}{36}, \quad \dfrac{32}{36}, \quad \dfrac{28}{36}, \quad\dfrac{30}{36}
 \end{aligned}
 $
-
+<emptyline>
 Let's arrange the fractions in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{27}{36}, \quad \dfrac{28}{36}, \quad \dfrac{30}{36} \quad\dfrac{32}{36} \\\\
 &= \dfrac{9}{12}, \quad \dfrac{14}{18}, \quad \dfrac{50}{60}, \quad \dfrac{8}{9}
 \end{aligned}
 $
-
+<emptyline>
 The smallest fraction $ =\dfrac{9} {12}$
 </code></pre>
 </div>
@@ -304,7 +304,7 @@ $\dfrac{8} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first reduce the fraction by listing and canceling the common factors, 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {9}{12},  \quad \dfrac {8}{9},  \quad   \dfrac {14}{18},  \quad   \dfrac {50}{60} \\\\
@@ -313,11 +313,11 @@ $
 &= \dfrac {3} {4},  \quad \dfrac {8} {9},  \quad   \dfrac {7} {9},  \quad   \dfrac {5} {6}
 \end{aligned}
 $
-
+<emptyline>
 To compare, let's make the denominator the same for all the fractions.
-
+<emptyline>
 LCM for $4, 9 \text{and} 6 = 36$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4}, \quad \dfrac{8}{9}, \quad \dfrac{7}{9}, \quad\dfrac{5}{6} \\\\
@@ -325,16 +325,16 @@ $
 &= \dfrac{27}{36}, \quad \dfrac{32}{36}, \quad \dfrac{28}{36}, \quad\dfrac{30}{36}
 \end{aligned}
 $
-
+<emptyline>
 Let's arrange the fractions in descending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{32}{36}, \quad \dfrac{30}{36}, \quad \dfrac{28}{36} \quad\dfrac{27}{36} \\\\
 &= \dfrac{8}{9}, \quad \dfrac{50}{60}, \quad \dfrac{14}{18}, \quad \dfrac{9}{12}
 \end{aligned}
 $
-
+<emptyline>
 The biggest fraction $ =\dfrac{8} {9}$
 </code></pre>
 </div>
@@ -515,7 +515,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1 + 2 \times 3 \\\\
@@ -576,7 +576,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 + 7 - 2 \times 4 \\\\
@@ -637,7 +637,7 @@ $7.48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   1   &   1 \ .   &   9   &   0 \\
@@ -710,7 +710,7 @@ $3.99$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
             &   2   &   1 \\
@@ -722,11 +722,11 @@ $
 3           &   9   &   9
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 $= 3.99$
 </code></pre>
 </div>
@@ -854,7 +854,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1A52194D-4989-4E38-AA11-8AA68DFBCC41</p>
 </div>
@@ -868,7 +868,7 @@ $
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -954,39 +954,10 @@ When we multiply $5$ by itself the answer is $25$. We call $5$ the square root o
 Write down the square roots of
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
@@ -1227,7 +1198,7 @@ $2 , 3$
 |:------:   |:----------------: |
 |   $2$     | $2 \times 2 = 4$  |
 |   $3$     | $3 \times 3 = 9$  |
-
+<emptyline>
 The square root of $6$ is in between $2, 3$.
 </code></pre>
 </div>
@@ -1259,13 +1230,12 @@ The square root of $84$ is between $\text{\textunderscore \textunderscore \textu
 <div class='working'>
 
 
-ii. The square root of $84$ is between $\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$
+| Number    |      Square       |
+|:------:   |:----------------: |
+|   $9$     | $9 \times 9 = 81$  |
+|   $10$     | $10 \times 10 = 100$  |
 
-$9 \times 9 = 81$
-
-$10 \times 10 = 100$
-
-The square root of $84$ is in between $9 , 10$
+The square root of $84$ is in between $9, 10$.
 
 </div>
 </div>
@@ -1280,13 +1250,12 @@ $9 , 10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-ii. The square root of $84$ is between $\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$
-
-$9 \times 9 = 81$
-
-$10 \times 10 = 100$
-
-The square root of $84$ is in between $9 , 10$
+| Number    |      Square       |
+|:------:   |:----------------: |
+|   $9$     | $9 \times 9 = 81$  |
+|   $10$     | $10 \times 10 = 100$  |
+<emptyline>
+The square root of $84$ is in between $9, 10$.
 </code></pre>
 </div>
 </div>
@@ -1316,13 +1285,12 @@ The square root of $801$ is between $\text{\textunderscore \textunderscore \text
 <div class='workings'>
 <div class='working'>
 
-iii. The square root of $801$ is between $\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$
+| Number    |      Square       |
+|:------:   |:----------------: |
+|   $28$     | $28 \times 28 = 784$  |
+|   $29$     | $29 \times 29 = 841$  |
 
-$28 \times 28 = 784$
-
-$29 \times 29 = 841$
-
-The square root of $801$ is in between $28 , 29$
+The square root of $6$ is in between $28, 29$.
 
 </div>
 </div>
@@ -1336,13 +1304,12 @@ $28 , 29$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>iii. The square root of $801$ is between $\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$
-
-$28 \times 28 = 784$
-
-$29 \times 29 = 841$
-
-The square root of $801$ is in between $28 , 29$
+<pre class='language-latex'><code class='language-latex'>| Number    |      Square       |
+|:------:   |:----------------: |
+|   $28$     | $28 \times 28 = 784$  |
+|   $29$     | $29 \times 29 = 841$  |
+<emptyline>
+The square root of $6$ is in between $28, 29$.
 </code></pre>
 </div>
 </div>
@@ -1418,7 +1385,7 @@ i have done part 1 for b, please do 2 and 3 on the same lines.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prccrl question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>268985CE-D916-46A3-B493-68415348A63C</p>
 </div>
@@ -1432,7 +1399,7 @@ i have done part 1 for b, please do 2 and 3 on the same lines.
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prccrl</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1511,9 +1478,9 @@ Which multiple of $11$ is nearest to $1000$?
 
 $
 \begin{aligned}
-&=11\times9\times10\\\\
-&=99\times10\\\\
-&=990
+&= 11\times13\times7\\\\
+&= 143\times17\\\\
+&= 1001
 \end{aligned}
 $
 
@@ -1532,12 +1499,12 @@ $990$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=11\times9\times10\\\\
-&=99\times10\\\\
-&=990
+&= 11\times13\times7\\\\
+&= 143\times17\\\\
+&= 1001
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3924,31 +3891,31 @@ $40 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of gap $=a$
-
+<emptyline>
 Let the length of the post $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 a + b                    &= 57 \\\\
 2a + 3b                  &= 131
 \end{aligned}
 $
-
+<emptyline>
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
+<emptyline>
 Multiply the first equation by $3$.
-
+<emptyline>
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
 3a + 3b                     &= 171
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from this new equation to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 3a + 3b - (2a + 3b)       &= 171 - 131 \\\\
@@ -3957,16 +3924,16 @@ $
 a                         &= 40 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 The length of the each gap is $= 40 \ \text{cm}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternative Solution,
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 57 \ \text{cm} + 57 \ \text{cm}  + \ \text{Post}     &= 131 \ \text{cm} \\\\
@@ -3974,7 +3941,7 @@ $
                                                      &= 17 \ \text{cm}
 \end {aligned} 
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text{Width of gap}                                  &= 57 \ \text{cm} - \text{Width of post} \\\\
@@ -4175,7 +4142,7 @@ $486$
 
 <pre class='language-latex'><code class='language-latex'>
 As we know,
-
+<emptyline>
 $
 \begin{aligned}
 27 \times 36 &= 972 \\\\
@@ -5190,7 +5157,7 @@ Y
 &= \text {Y}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5374,7 +5341,7 @@ $27.23$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &=  28.30 - 1.64 + 0.57 \\\\
@@ -7372,7 +7339,7 @@ $1.881$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.871 - 0.39 + 1.4 \\\\
@@ -8041,7 +8008,7 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 21 \times 6 + 9 \times 6   &= a \times 6       \\\\
@@ -8108,7 +8075,7 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$ 
-
+<emptyline>
 $
 \begin{aligned}
 17 \times 14 + 16 \times 7                &=  a \times 7 + a \times 7                       \\\\
@@ -8521,7 +8488,7 @@ One million eight hundred eighty two thousand seven hundred
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -8535,7 +8502,7 @@ One million eight hundred eighty two thousand seven hundred
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8609,39 +8576,10 @@ tnumber
 I live $0.6$ miles from Goodison Park football stadium. There are $1760$ yards in a mile. 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -8688,7 +8626,7 @@ $1056 \ \text{yards}$
                     &= 1056 \ \text{yards}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -8752,7 +8690,7 @@ $2.5 \ \text {miles}$
                     &= 2.5 \ \text {miles}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8785,14 +8723,14 @@ As per the question,
 
 $
 \begin{aligned}
-\because\ 1\ \text{kilometer}&=\dfrac{5}{8}\ \text {miles} \\\\
-\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometer} \\\\
-2.5\times 1 &= 2.5\times\dfrac{8}{5}\ \text {kilometer} \\\\
-&= \dfrac {2.5\times 8} {5} \\\\
-&= \dfrac {20} {5} \\\\
-&= \dfrac {4\times5} {5} \\\\
-&= \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
-&= 4 \ \text {kilometer}
+\because\ 1\ \text{kilometers}&=\dfrac{5}{8}\ \text {miles} \\\\
+\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometers} \\\\
+2.5\times 1 & = 2.5\times\dfrac{8}{5}\ \text {kilometers} \\\\
+& = \dfrac {2.5\times 8} {5} \\\\
+& = \dfrac {20} {5} \\\\
+& = \dfrac {4\times5} {5} \\\\
+& = \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
+& = 4 \ \text {kilometers}
 \end{aligned}
 $
 
@@ -8802,7 +8740,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4 \ \text {km}$
+$4 \ \text {kilometers}$
 
 </div>
 </div>
@@ -8810,20 +8748,20 @@ $4 \ \text {km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
-\because\ 1\ \text{kilometer}&=\dfrac{5}{8}\ \text {miles} \\\\
-\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometer} \\\\
-2.5\times 1 &= 2.5\times\dfrac{8}{5}\ \text {kilometer} \\\\
-&= \dfrac {2.5\times 8} {5} \\\\
-&= \dfrac {20} {5} \\\\
-&= \dfrac {4\times5} {5} \\\\
-&= \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
-&= 4 \ \text {kilometer}
+\because\ 1\ \text{kilometers}&=\dfrac{5}{8}\ \text {miles} \\\\
+\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometers} \\\\
+2.5\times 1 & = 2.5\times\dfrac{8}{5}\ \text {kilometers} \\\\
+& = \dfrac {2.5\times 8} {5} \\\\
+& = \dfrac {20} {5} \\\\
+& = \dfrac {4\times5} {5} \\\\
+& = \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
+& = 4 \ \text {kilometers}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8835,7 +8773,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4 \ \text {km}$
+<pre class='language-latex'><code class='language-latex'>$4 \ \text {kilometers}$
 </code></pre>
 </div>
 </div>
@@ -9063,7 +9001,7 @@ $780$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the table,
-
+<emptyline>
 $
 \begin{aligned}
 &= 12 \times 65  \\\\
@@ -9126,7 +9064,7 @@ $1300$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the table,
-
+<emptyline>
 $
 \begin{aligned}
 &= 20 \times 65 \\\\
@@ -9190,7 +9128,7 @@ $0.7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the table,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4.55}{6.5} \\\\

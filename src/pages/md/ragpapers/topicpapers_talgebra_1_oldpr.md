@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-oldpr"
 title: "TopicPaper - Algebra - 1 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>56B40B8C-468B-4A69-83E1-B687C31C142F</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "4"
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -140,14 +140,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total cost} &= 2 \times \text{Adult} + 4 \times \text{Child}  \\\\
-                  &= 2 \times \pounds 6.25 + 4 \times \pounds 2.50 \\\\
-                  &= 12.5 + 10 \\\\
-                  &= \pounds 22.50
+\text {Total cost} &= 2 \times \text {Adult} + 4 \times \text {Child}  \\\\
+                   &= 2 \times 6.25 + 4 \times 2.50 \\\\
+                   &= 12.5 + 10 \\\\
+                   &= \pounds 22.50
 \end{aligned}
 $
-
-The cost for $2$ adults and $4$ children to visit the theme park $= \pounds 22.50$
 
 </div>
 </div>
@@ -162,17 +160,15 @@ $\pounds 22.50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
-\text{Total cost} &= 2 \times \text{Adult} + 4 \times \text{Child}  \\\\
-                  &= 2 \times \pounds 6.25 + 4 \times \pounds 2.50 \\\\
-                  &= 12.5 + 10 \\\\
-                  &= \pounds 22.50
+\text {Total cost} &= 2 \times \text {Adult} + 4 \times \text {Child}  \\\\
+                   &= 2 \times 6.25 + 4 \times 2.50 \\\\
+                   &= 12.5 + 10 \\\\
+                   &= \pounds 22.50
 \end{aligned}
 $
-
-The cost for $2$ adults and $4$ children to visit the theme park $= \pounds 22.50$
 </code></pre>
 </div>
 </div>
@@ -222,6 +218,8 @@ $
 3c                            &= 44 - 20 \\\\
 3c                            &= 24 \\\\
 c                             &= \dfrac {24} {3} \\\\
+c                             &= \dfrac {3 \times 8} {3} \\\\
+c                             &= \dfrac {\cancel 3 \times 8} {\cancel 3} \\\\
 c                             &= 8
 \end{aligned}
 $
@@ -241,9 +239,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of children $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times 5 + c \times 3       &= 44 \\\\
@@ -251,10 +249,12 @@ $
 3c                            &= 44 - 20 \\\\
 3c                            &= 24 \\\\
 c                             &= \dfrac {24} {3} \\\\
+c                             &= \dfrac {3 \times 8} {3} \\\\
+c                             &= \dfrac {\cancel 3 \times 8} {\cancel 3} \\\\
 c                             &= 8
 \end{aligned}
 $
-
+<emptyline>
 Number of children $= 8$
 </code></pre>
 </div>
@@ -444,16 +444,18 @@ How many of pupils in $7$S are boys with brown hair?
 <div class='workings'>
 <div class='working'>
 
+Let the number of boys $= a$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Number of boys}     &= \dfrac {2} {3} \times 24 \\\\
-                          &= \dfrac {2 \times 24} {3} \\\\
-                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
-                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
-                          &= 2 \times 8 \\\\
-                          &= 16
+\text{Number of boys}      &= \dfrac {2} {3} \times 24 \\\\
+a                          &= \dfrac {2 \times 24} {3} \\\\
+a                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
+a                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+a                          &= 2 \times 8 \\\\
+a                          &= 16
 \end{aligned}
 $
 
@@ -477,19 +479,21 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>Let the number of boys $= a$
+<emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
-\text{Number of boys}     &= \dfrac {2} {3} \times 24 \\\\
-                          &= \dfrac {2 \times 24} {3} \\\\
-                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
-                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
-                          &= 2 \times 8 \\\\
-                          &= 16
+\text{Number of boys}      &= \dfrac {2} {3} \times 24 \\\\
+a                          &= \dfrac {2 \times 24} {3} \\\\
+a                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
+a                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+a                          &= 2 \times 8 \\\\
+a                          &= 16
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Boys with brown hair}       &= \dfrac {1} {2} \times a\\\\
@@ -517,6 +521,22 @@ $
 
 <h4>Review Comments</h4>
 \text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\    DELETE RED ONE
+
+
+
+Add a line at the starting
+
+\"Let the number of boys = a\"
+
+
+
+then change the \"Number of boys = 2/3 * 24\"
+
+to \"a = 2/3 * 24\"
+
+(solve further)
+
+
 </div>
 
 <div class='review'>
@@ -562,7 +582,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7125F2EC-250C-48A5-96EC-68872015C687</p>
 </div>
@@ -576,7 +596,7 @@ $
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -675,13 +695,11 @@ $
 \begin{aligned}
 \text{Number of glasses} &= \dfrac {\text{Total Water in cooler}} {\text{Water in a glass}} \\\\
                          &= \dfrac {5000} {200} \\\\
-                         &= \dfrac {50\cancel{0}\cancel{0}} {2\cancel{0}\cancel{0}} \\\\
-                         &= \dfrac {50} {2} \\\\
+                         &= \dfrac {200 \times 25} {200} \\\\
+                         &= \dfrac {\cancel {200} \times 25} {\cancel {200}} \\\\
                          &= 25
 \end{aligned}
 $
-
-Number of glasses of water $= 25$
 
 </div>
 </div>
@@ -696,7 +714,7 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total water}       &= 5 \ \text{litres} \\\\
@@ -704,20 +722,18 @@ $
                          &= 5000 \ \text{ml}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of glasses} &= \dfrac {\text{Total Water in cooler}} {\text{Water in a glass}} \\\\
                          &= \dfrac {5000} {200} \\\\
-                         &= \dfrac {50\cancel{0}\cancel{0}} {2\cancel{0}\cancel{0}} \\\\
-                         &= \dfrac {50} {2} \\\\
+                         &= \dfrac {200 \times 25} {200} \\\\
+                         &= \dfrac {\cancel {200} \times 25} {\cancel {200}} \\\\
                          &= 25
 \end{aligned}
 $
-
-Number of glasses of water $= 25$
 </code></pre>
 </div>
 </div>
@@ -797,7 +813,7 @@ ii) Remove the last line: \"Number of glasses of water $= 25$\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>734F4C9F-BA17-40EC-BE44-F910FF8517D0</p>
 </div>
@@ -811,7 +827,7 @@ ii) Remove the last line: \"Number of glasses of water $= 25$\"
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1056,12 +1072,12 @@ $
 
 | Expression           |        $x = -4$           |        $x = 4$          | Equal or not |
 |----------------------|---------------------------|-------------------------|--------------|
-| $y = 2x$             | y = 2 \times -4 = -8      | y = 2 \times 4 = 8      |     No       |
-| $y = 2 + x$          | y = 2 + (-4) = -2         | y = 2 + 4 = 6           |     No       |
-| $y = x ^2$           | y = (-4) ^ 2 = 16         | y = 4 ^ 2 = 16          |     Yes      |
-| $y = \dfrac {x} {2}$ | y = \dfrac {-4} {2} = -2  | y = \dfrac {4} {2} = 2  |     No       |
+| $y = 2x$             | $y = 2 \times -4 = -8$    | $y = 2 \times 4 = 8$    |     No       |
+| $y = 2 + x$          | $y = 2 + (-4) = -2$       | $y = 2 + 4 = 6$         |     No       |
+| $y = x ^ 2$          | $y = (-4) ^ 2 = 16$       | $y = 4 ^ 2 = 16$        |     Yes      |
+| $y = \dfrac {x} {2}$ | $y = \dfrac {-4} {2} = -2$| $y = \dfrac {4} {2} = 2$|     No       |
 
-$y = x ^ 2$ gives the same value if $y$ for both $x = 4$ and $x = -4$.
+$y = x ^ 2$ gives the same value of $y$ for both $x = 4$ and $x = -4$.
 
 </div>
 </div>
@@ -1077,12 +1093,12 @@ $y = x ^ 2$
 
 <pre class='language-latex'><code class='language-latex'>| Expression           |        $x = -4$           |        $x = 4$          | Equal or not |
 |----------------------|---------------------------|-------------------------|--------------|
-| $y = 2x$             | y = 2 \times -4 = -8      | y = 2 \times 4 = 8      |     No       |
-| $y = 2 + x$          | y = 2 + (-4) = -2         | y = 2 + 4 = 6           |     No       |
-| $y = x ^2$           | y = (-4) ^ 2 = 16         | y = 4 ^ 2 = 16          |     Yes      |
-| $y = \dfrac {x} {2}$ | y = \dfrac {-4} {2} = -2  | y = \dfrac {4} {2} = 2  |     No       |
-
-$y = x ^ 2$ gives the same value if $y$ for both $x = 4$ and $x = -4$.
+| $y = 2x$             | $y = 2 \times -4 = -8$    | $y = 2 \times 4 = 8$    |     No       |
+| $y = 2 + x$          | $y = 2 + (-4) = -2$       | $y = 2 + 4 = 6$         |     No       |
+| $y = x ^ 2$          | $y = (-4) ^ 2 = 16$       | $y = 4 ^ 2 = 16$        |     Yes      |
+| $y = \dfrac {x} {2}$ | $y = \dfrac {-4} {2} = -2$| $y = \dfrac {4} {2} = 2$|     No       |
+<emptyline>
+$y = x ^ 2$ gives the same value of $y$ for both $x = 4$ and $x = -4$.
 </code></pre>
 </div>
 </div>

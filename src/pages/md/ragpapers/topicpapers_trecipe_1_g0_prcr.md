@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-trecipe-1-g0-prcr"
 title: "TopicPaper - Recipe - 1 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "3"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -172,7 +172,7 @@ $540 \ \text{g}$ flour
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 12  \text{ cupcakes}                 &: 180 \ \text{g flour} \\\\
@@ -235,7 +235,7 @@ $60$ cupcakes
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 12  \text{ cupcakes}                 &: 200 \ \text{g caster sugar} \\\\
@@ -315,10 +315,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -576,13 +576,13 @@ $345 \ \text{grams}, \ 345 \ \text{grams} , \ 345 \ \text{grams}, \ 6$
                       &= 345 \ \text{grams}
 \end{aligned}
 $
-
+<emptyline>
 Similarly
-
+<emptyline>
 Butter required $= 345 \ \text{grams}$
-
+<emptyline>
 Sugar required $= 345 \ \text{grams}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Eggs required}  &= 4 \times \dfrac {3} {2} \\\\
@@ -728,10 +728,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1055,9 +1055,9 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
                         &= 210 \ \text{grams}
 \end{aligned}
 $
-
+<emptyline>
 Similarly Porridge oats required $= 210 \ \text{grams}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Black pepper required} &= \dfrac {9} {6} \times 10 \\\\
@@ -1068,7 +1068,7 @@ $
                              &= 15 \ \text{twists}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Olive oil required} &= \dfrac {9} {6} \times 80 \\\\

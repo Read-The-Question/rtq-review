@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-pr-prns"
 title: "TopicPaper - Number - 7 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -309,9 +309,9 @@ $45 \times 56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$45 \times 56$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{A} &= 34 \times 45 \\\\
@@ -541,9 +541,9 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ 27 + \rtq_katex_color_answer{64} = 91$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 27 + 64 \\\\
@@ -603,9 +603,9 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ 58 - \rtq_katex_color_answer{19} = 39$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 58-19 \\\\
@@ -665,9 +665,9 @@ $52$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ \rtq_katex_color_answer{52} \times 7 = 364$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 52 \times 7 \\\\
@@ -727,9 +727,9 @@ $138$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$161 - \rtq_katex_color_answer{138} = 23$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 161 - 138 \\\\
@@ -1096,9 +1096,9 @@ $5 \text{th May} 2020$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5 \text{th May} 2020$
-
+<emptyline>
 Lets verfy.
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 \text{th May} 2020 \\\\

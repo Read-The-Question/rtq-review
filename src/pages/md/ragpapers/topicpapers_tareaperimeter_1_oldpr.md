@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-oldpr"
 title: "TopicPaper - Areaperimeter - 1 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -135,9 +135,9 @@ $8 \ \text{mm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (10 + t)                          &= 36 \\\\
@@ -352,11 +352,11 @@ $32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of the square garden (in $\text{m}$) $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s \times s                          &= 81 \\\\
@@ -365,11 +365,11 @@ s                                   &= \sqrt{81} \\\\
 s                                   &= 9 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 ** INFER_DESCRIPTION_STARTS The $4$ corners will be counted twice, so ensure we account for that in the final calculation INFER_DESCRIPTION_ENDS **
-
+<emptyline>
 *Note: The $4$ corners will be counted twice, so ensure we account for that in the final calculation.*
-
+<emptyline>
 $
 \begin{aligned}
 \text{Tree height after second year}    &= 4 \times 9 - 4 \\\\
@@ -789,11 +789,11 @@ $3 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 Let the height of the second triangle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {1} {2} \times 8 \ \times a        &= \dfrac {1} {2} \times 6 \ \times 4 \\\\
@@ -805,7 +805,7 @@ a                                         &= \dfrac {3 \times \cancel {8} \times
 a                                         &= 3 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Triangle is $3 \ \text{cm}$ tall.
 </code></pre>
 </div>

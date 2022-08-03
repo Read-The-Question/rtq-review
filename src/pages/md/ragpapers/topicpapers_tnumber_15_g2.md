@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-g2"
 title: "TopicPaper - Number - 15 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "27"
 ---
 <ul class='question default-decimal'>
@@ -294,7 +294,7 @@ $5.7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1.1 \times (4.5 + 2.5) - 2 \\\\
@@ -1107,7 +1107,7 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \times 3 - 10 + 6 \\\\
@@ -1170,7 +1170,7 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{72}{9} \\\\
@@ -1400,7 +1400,7 @@ $1237 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
@@ -1464,7 +1464,7 @@ $6160 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 6.3 \ \text{km} - 140 \ \text{m} \\\\
@@ -2266,21 +2266,21 @@ $1, 2, 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s * t           &= 10 \\\\
 s ^ 2 + 3t      &= 10
 \end{aligned}
 $
-
+<emptyline>
 
 We can easily infer the values by using trial and error.
-
+<emptyline>
 A quick check shows that $1, 3$ and $2, 2$ meets the criteria above.
-
+<emptyline>
 Let's verify for $1, 3$.
-
+<emptyline>
 $
 \begin{aligned}
 &= s ^ 2 + 3t \\\\
@@ -2289,9 +2289,9 @@ $
 &= 10
 \end{aligned}
 $
-
+<emptyline>
 Let's verify for $2, 2$.
-
+<emptyline>
 $
 \begin{aligned}
 &= s ^ 2 + 3t \\\\
@@ -2300,7 +2300,7 @@ $
 &= 10
 \end{aligned}
 $
-
+<emptyline>
 Possible values for $s = 1, 2, 3$
 </code></pre>
 </div>
@@ -2528,7 +2528,7 @@ $5, 8, 20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Factors of $40 = 1, 2, 4, 5, 8, 10, 20, 40$
-
+<emptyline>
 Numbers in the list $= 5, 8, 20$
 </code></pre>
 </div>
@@ -2583,7 +2583,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>From the list, the multiples of $3 = 9, 12, 18$
-
+<emptyline>
 Count $= 3$
 </code></pre>
 </div>
@@ -3158,7 +3158,7 @@ $4.272$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &    7   &   1   &   2 \\
@@ -3167,11 +3167,11 @@ $
 4      &    2   &   7   &   2
 \end{array}\\\\
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is three.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= 4.272$
 </code></pre>
 </div>
@@ -3917,7 +3917,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers between $20$ and $30 =  23, 29$
-
+<emptyline>
 Count $= 2$
 </code></pre>
 </div>
@@ -4113,7 +4113,7 @@ $8.32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
                       & 3     & 2     \\
@@ -4125,11 +4125,11 @@ $
                 8     & 3     & 2     \\
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $ = 8.32$
 </code></pre>
 </div>
@@ -4521,7 +4521,7 @@ $25, 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question and options given,
-
+<emptyline>
 $
 \begin{aligned}
 \text{A} &= 33 \times 67 \\\\
@@ -4536,9 +4536,9 @@ $
          &= \rtq_katex_color_wrong_answer{99} \neq 100
 \end{aligned}
 $
-
+<emptyline>
 Both options C and D multiply to $100$. But niether of the numbers should have digit $0$.
-
+<emptyline>
 Answer $= $ Option C
 </code></pre>
 </div>
@@ -4740,7 +4740,7 @@ $125, 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question and options given,
-
+<emptyline>
 $
 \begin{aligned}
 \text{A} &= 100 \times 10 \\\\
@@ -4755,9 +4755,9 @@ $
          &= \rtq_katex_color_wrong_answer{350} \neq 1000
 \end{aligned}
 $
-
+<emptyline>
 Both options C and A multiply to $1000$. But Since, niether of the numbers should have digit $0$.
-
+<emptyline>
 Answer $= $ Option C
 </code></pre>
 </div>
@@ -5036,9 +5036,9 @@ $27.9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a\div 100 &= 0.279 \\\\
@@ -6035,7 +6035,7 @@ $0.392$
 &= 0.392
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

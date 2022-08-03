@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-g0-prcc"
 title: "TopicPaper - Areaperimeter - 7 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -151,15 +151,15 @@ $20 \ \text{cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the side of the square $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times s                 &= 8 \\\\
@@ -169,7 +169,7 @@ s                          &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
 s                          &= 2 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of one square} &= 2 \times 2 \\\\
@@ -383,11 +383,11 @@ $48 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of square tile $= s$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 7 \times (s \times s)    &= 63 \\\\
@@ -400,9 +400,9 @@ s                        &= \sqrt 9 \\\\
 s                        &= 3 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 *TODO: add a description to count all the sides which add upto perimeter*
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of the shape} &= 16 \times s \\\\
@@ -604,9 +604,9 @@ $198 \ \text{cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Length of the card}      &= 15 + 2 \times 3 \\\\
@@ -825,9 +825,9 @@ $8 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_triangle
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter of the square}     &= 4 \times \text {Sides} \\\\
@@ -835,9 +835,9 @@ $
                                     &= 36 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter of the triangle}   &= 36 \\\\
@@ -1047,13 +1047,13 @@ $135$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 The wall measurement is given in feet while the tile measurement is given in inches.
-
+<emptyline>
 Let's convert the wall measurements into inches.
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
@@ -1255,11 +1255,11 @@ $34 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 As per the diagram, 
-
+<emptyline>
 *TODO: add the explanation to count the number of faces in the diagram.*
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of 1 face}      &=  1 \times 1 \ \text{cm}^2  \\\\
@@ -1267,7 +1267,7 @@ $
                             &=  34 \ \text{cm}^2
 \end{aligned}
 $
-
+<emptyline>
 Area covered with paint $= 34 \ \text{cm}^2$
 </code></pre>
 </div>

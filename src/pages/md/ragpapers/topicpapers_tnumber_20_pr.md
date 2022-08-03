@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-pr"
 title: "TopicPaper - Number - 20 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -532,14 +532,14 @@ $58$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We can figure out if a number multiplied by itself ends in $4$ just by multiplying the unit digit of the number to itself.
-
+<emptyline>
 |      Number       | Unit Digit    |       Answer          | Ends with $4$   |
 |:----------------: |:----------:   |:-----------------:    | :--------------:|
 | $2 \underline 6$  |     $6$       | $6 \times 6 = 36$     |       No        |
 | $4 \underline 4$  |     $4$       | $4 \times 4 = 16$     |       No        |
 | $5 \underline 8$  |     $8$       | $8 \times 8 = 64$     |       Yes       |
 | $7 \underline 3$  |     $3$       | $3 \times 3 = 9$      |       No        |
-
+<emptyline>
 From the table above, the answer is $58$ as it has $4$ in its unit place.
 </code></pre>
 </div>
@@ -810,9 +810,9 @@ TODOANSWER
 11 & \boxed{12} & 13 & 14 & \boxed{15} & 16 & 17 & \boxed{18} & 19
 \end{array}
 $
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 12 &= 3 \times 4 \\\\
@@ -980,9 +980,9 @@ TODOANSWER
 11 & 12 & 13 & 14 & 15 & \boxed{16} & 17 & 18 & 19
 \end{array}
 $
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 16 &= 4^2
@@ -1062,7 +1062,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The numbers remained = 14
-
+<emptyline>
 $
 \begin{aligned}
 \text {Factors of } 14 &= 1, 2, 7, 14
@@ -1318,7 +1318,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 A &= 13 + 7 \times 2 \\\\
@@ -1326,7 +1326,7 @@ A &= 13 + 7 \times 2 \\\\
 &= \rtq_katex_color_wrong_answer{27} \neq 40
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 B &= -3 + 12 \div 3 \\\\
@@ -1334,7 +1334,7 @@ B &= -3 + 12 \div 3 \\\\
 &= \rtq_katex_color_answer{1} = 1
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 C &= 4 \times 5 + 3 \times 2 \\\\
@@ -1342,7 +1342,7 @@ C &= 4 \times 5 + 3 \times 2 \\\\
 &= \rtq_katex_color_answer{26} = 26
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 D &= 30 \div 3 + 2\\\\
@@ -1350,7 +1350,7 @@ D &= 30 \div 3 + 2\\\\
 &= \rtq_katex_color_wrong_answer{12} \neq 6
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 E &= 10 + 5 \times 8 - 3 \\\\

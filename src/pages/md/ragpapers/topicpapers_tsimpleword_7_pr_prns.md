@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-7-pr-prns"
 title: "TopicPaper - Simpleword - 7 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -1561,13 +1561,13 @@ $2000 \ \text {kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>In position $1$ 
-
+<emptyline>
 height = $5 \ \text {cm}$
-
+<emptyline>
 width  = $8 \ \text {cm}$
-
+<emptyline>
 Load in positon $1$
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times 5 \times 5 \times 8 \\\\
@@ -1575,7 +1575,7 @@ $
 &= 2000 \ \text {kg}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1644,13 +1644,13 @@ $1200 \ \text {kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find the load in position $2$.
-
+<emptyline>
 In position $2$ 
-
+<emptyline>
 height = $8 \ \text {cm}$
-
+<emptyline>
 width  = $5 \ \text {cm}$
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times 8 \times 8 \times 5 \\\\
@@ -1658,9 +1658,9 @@ $
 &= 3200 \ \text {kg}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the difference in the loads between the two positions
-
+<emptyline>
 $
 \begin{aligned}
 &= \text {Load \ } 2 - \text {Load \ } 1 \\\\
@@ -1668,7 +1668,7 @@ $
 &= 1200 \ \text {kg}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1734,11 +1734,11 @@ $9 \ \text {cm}$
 
 <pre class='language-latex'><code class='language-latex'>
 Width $= 6 \text {cm}$
-
+<emptyline>
 Load $= 4860 \ \text {kg}$
-
+<emptyline>
 Let's find the height $h$ of the beam.
-
+<emptyline>
 $
 \begin{aligned}
 4860 &= 10 \times h \times h \times 6 \\\\
@@ -3380,7 +3380,7 @@ $0.0008 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 200 \ \text {sheets}                                   & \ratio \dfrac {16}{10} \ \text {cm}                                    \\\\
@@ -3451,7 +3451,7 @@ $0.008 \ \text{mm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                               \\\\
@@ -4139,7 +4139,7 @@ $
 144 \text{biscuits}             : 12 \text{packets}
 \end{aligned}
 $
-
+<emptyline>
 To get $144$ biscuits you need to buy $12$ packets. 
 To get $148$ biscuits you need to buy atleast $12 + 1 = 13$ packets.
 </code></pre>

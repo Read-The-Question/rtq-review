@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-pr-prns"
 title: "TopicPaper - Number - 20 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -532,14 +532,14 @@ $58$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We can figure out if a number multiplied by itself ends in $4$ just by multiplying the unit digit of the number to itself.
-
+<emptyline>
 |      Number       | Unit Digit    |       Answer          | Ends with $4$   |
 |:----------------: |:----------:   |:-----------------:    | :--------------:|
 | $2 \underline 6$  |     $6$       | $6 \times 6 = 36$     |       No        |
 | $4 \underline 4$  |     $4$       | $4 \times 4 = 16$     |       No        |
 | $5 \underline 8$  |     $8$       | $8 \times 8 = 64$     |       Yes       |
 | $7 \underline 3$  |     $3$       | $3 \times 3 = 9$      |       No        |
-
+<emptyline>
 From the table above, the answer is $58$ as it has $4$ in its unit place.
 </code></pre>
 </div>

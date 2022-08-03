@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvolume-1"
 title: "TopicPaper - Volume - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -304,21 +304,21 @@ $250 \ \text{milliliters}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Lets convert all units of volume into milliliters,
-
+<emptyline>
 | Container |             Conversion                 |   in millilitres  |
 |-----------|----------------------------------------|-------------------|
 |    A      |    750 millilitres                     |   750 millilitres |
 |    B      |    0.5 \times 1000 = 500 millilitres   |   500 millilitres |
-
+<emptyline>
 Container A holds the greater amount.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Difference}  &= 750 \ \text {milliliters} - 500 \ \text {millilitres} \\\\
                     &= 250 \ \text {milliliters}
 \end {aligned}
 $
-
+<emptyline>
 Container A holds $250 \ \text {milliliters}$ more than container B.
 </code></pre>
 </div>
@@ -2308,7 +2308,7 @@ $240 \ \text {cm} ^ 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Volume of a cuboid}    &= \text {length} \times \text {width} \times \text {height} \\\\
@@ -2374,7 +2374,7 @@ $24 \ \text {cm} ^ 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram, we can divide the shape into a cube and a cuboid.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Volume of the shape}  &= \text {Volume of cube} + \text {Volume of cuboid} \\\\
@@ -2604,7 +2604,7 @@ $1000 \ \text{cm}^{3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 rtq_abbr_katex_formula_aligned_volume_cuboid \\\\
@@ -2675,7 +2675,7 @@ $8$
                        &= 8
 \end{aligned}
 $
-
+<emptyline>
 Number of cubes that can be packed into the rectangular box in part a) $= 8$
 </code></pre>
 </div>
@@ -3665,9 +3665,9 @@ $74$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_volume_cuboid
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of ice cream blocks}    &= \dfrac {\text {Volume of the cool box}} {\text {Volume of a ice cream block}} \\\\
@@ -3884,25 +3884,25 @@ $150, 200\text{cm}^3$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the volume of big box  be V ,
-
+<emptyline>
 $
 \begin{aligned}
 V &= 6\text{cm} \times 10 \text{cm} \times 20 \text{cm} \\\\
 V &= 1200 \text{cm}^3
 \end{aligned}
 $
-
+<emptyline>
 Let the volume of small box be v,
-
+<emptyline>
 $
 \begin{aligned}
 V &= 2\text{cm} \times 2 \text{cm} \times 2 \text{cm} \\\\
 V &= 8 \text{cm}^3
 \end{aligned}
 $
-
+<emptyline>
 Let the number of small boxes fit into big box be N,
-
+<emptyline>
 $
 \begin{aligned}
 N &= \dfrac {V} {v} \\\\
@@ -3912,7 +3912,7 @@ N &= \dfrac {\cancel {8} \times 150 } {\cancel {8} } \\\\\
 N &= 150
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 1200 - 1 \ \text{litre} \\\\\
@@ -4524,7 +4524,7 @@ $125 \ \text{cm} ^ 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin {aligned} 
 \text {Volume of a cube}  &= \text {side} ^ 3 \\\\
@@ -4613,11 +4613,11 @@ $2.5 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Volume of cuboid $=$ length $\times$ width $\times$ height.
-
+<emptyline>
 Let the height of the cuboid $= h$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Volume of cuboid}  &= \text {Volume of cube} \\\\
@@ -5288,7 +5288,7 @@ $480$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Volume = length $\times$ width $\times$ height
-
+<emptyline>
 $
 \begin{aligned}
 \text{Maximum number of blocks}                                                    &= \dfrac {\text{Volume of case}} {\text{Volume of brick}} \\\\
@@ -5504,7 +5504,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of blocks}         &= \dfrac{\text{Volume of container}}{\text{Volume of block}} \\\\
@@ -5712,7 +5712,7 @@ $9 \ \text{m}^3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{volume of cuboid} &= \text{length} \times \text{width} \times \text{height} \\\\
@@ -5720,7 +5720,7 @@ $
 &=  36 \ \text{m}^3
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{volume of cube} &= \text{Volume} &= \text{side} ^ { 3 } \\\\
@@ -5728,7 +5728,7 @@ $
 &=  27 \ \text{m}^3
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{The difference in volumes of the two boxes}&= \text{volume of cuboid} \  -  \ \text{volume of cube} \\\\
@@ -6029,7 +6029,7 @@ $4 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let height of the cuboid $=a $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Volume}                          &=  \text {length} \times \text {width} \times \text{height} \\\\
@@ -6040,7 +6040,7 @@ $
 \text {a}                               &=  4 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Height of the cuboid $=  4 \ \text {cm}$.
 </code></pre>
 </div>
@@ -8008,7 +8008,7 @@ $100$ bricks
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we can see that the units are the same, so no units conversion is required.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of bricks} &= \dfrac { \text{Volume of box} } { \text{Volume of a brick} } \\\\
@@ -8019,7 +8019,7 @@ $
                         &= 100
 \end{aligned}
 $
-
+<emptyline>
 Number of bricks $= 100$
 </code></pre>
 </div>
@@ -9220,7 +9220,7 @@ $30 \text{cm}^3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \text{Volume}       &= \text{length} \times \text{width} \times \text{height} \\\\
                     &= 5 \times 3 \times 2 \\\\

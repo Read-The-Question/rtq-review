@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-22"
 title: "TopicPaper - Number - 22"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <div class='paper'>
@@ -428,7 +428,7 @@ $8.40 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \div 8       &= 1.05 \ \text{cm} \\\\
@@ -436,7 +436,7 @@ a              &= 1.05 \times 8 \\\\
 a              &= 8.40 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 The missing number $= 8.40 \ \text{cm}$
 </code></pre>
 </div>

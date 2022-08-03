@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttable-2"
 title: "TopicPaper - Table - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <div class='paper'>
@@ -236,13 +236,13 @@ $\pounds 110$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Refer to Table $1$ Column: Foxhall Row: Engine $1.5$ size
-
+<emptyline>
 Foxhall $1.5$ belongs to Group $B$
-
+<emptyline>
 for Insurance amount Refer to Table $2$ Column: Under $21$ Row: $B$
-
+<emptyline>
 Under $21$, with Insurance Group $B$ pays $\pounds 110$ insurance per month. 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -292,11 +292,11 @@ $1.5 \ \text {ltrs}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Refer to Table $2$ Column: Under $21 - 45$ and find which Insurance Group $\pounds 95$ belongs to.
-
+<emptyline>
 Under  $21 - 45$ $\pounds 95$ payment belongs to Insurance Group $B$
-
+<emptyline>
 to find the Engine size refer to Table $1$ Column: Hissan, find $B$ and then the respective Row for Engine size $1.5$
-
+<emptyline>
 Hissan with Insurance Group $B$ belongs to Engine size $1.5$ litres
 </code></pre>
 </div>
@@ -352,17 +352,17 @@ $\pounds 28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1.1$ Hissan car belongs to Insurance Group $A$
-
+<emptyline>
 A $50$ year old pays $\pounds 70$ under Insurance Group $A$
-
+<emptyline>
 $1.9$ Hissan car belongs to Insurance Group $B$ 
-
+<emptyline>
 A $50$ year old pays $\pounds 98$ under Insurance Group $B$
-
+<emptyline>
 Savings per year by using a $1.1$  instead of $1.9$  Engine Hissan car:
-
+<emptyline>
 $\pounds 98 - \pounds 70 = \pounds 28$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -419,19 +419,19 @@ $\pounds 122$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Refer to : Column $\text {Under} \ 21 -45$, $\pounds 95$ to find the Insurance Group
-
+<emptyline>
 $\quad \pounds 95$ belongs to Insurance Group $B$
-
+<emptyline>
 Now refer to: column Skoyota, Insurance Group $B$ to find the Engine size.
-
+<emptyline>
 Group $B$ belongs to Engine size $1.5$
-
+<emptyline>
 Same size Jagley belongs to Insurance Group $C$
-
+<emptyline>
 Now refer again to Table $2$ column Under $20$ and then Row Insurance Group $C$ to find the amount.
-
+<emptyline>
 Under $21$, Insurance Group $C$ pays $\pounds 122$ per month
-
+<emptyline>
 </code></pre>
 </div>
 </div>

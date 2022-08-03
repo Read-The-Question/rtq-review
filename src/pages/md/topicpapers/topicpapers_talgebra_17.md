@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-17"
 title: "TopicPaper - Algebra - 17"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -215,26 +215,26 @@ $100  \ \text {calories}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the calories provided by the cake (in calories) $= c$
-
+<emptyline>
 Let the calories provided by the biscuit (in calories) $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 c + 2b      &= 450 \\\\
 2c + 3b     &= 800         
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
 But which one should we eliminate? 
-
+<emptyline>
 If we look at the question again, we only need the 
 calories provided by the biscuit, so let's eliminate $c$ so we can directly calculate the value for $b$.
-
+<emptyline>
 Multiply the first equation by $2$.
-
+<emptyline>
 $
 \begin{aligned}
 c + 2b                          &= 450 \\\\
@@ -242,9 +242,9 @@ c + 2b                          &= 450 \\\\
 2c + 4b                         &= 900
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 2c + 4b                 &= 900 \\\\
@@ -254,21 +254,21 @@ $
 b                       &= 100  \ \text {calories}
 \end{aligned}
 $
-
+<emptyline>
 Calories provided by the biscuit $= 100  \ \text {calories}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>What if we eliminate $b$ instead?
-
+<emptyline>
 This approach is less efficient as we will have to calculate one extra value to get the answer.
-
+<emptyline>
 Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 The LCM of $2$ and $3$ is $6$.
 Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $b$ the same.
-
+<emptyline>
 $
 \begin{aligned} 
 c + 2b                          &= 450 \\\\
@@ -279,9 +279,9 @@ c + 2b                          &= 450 \\\\
 4c + 6b                         &= 1600
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 3c + 6b                 &= 1350 \\\\
@@ -291,11 +291,11 @@ $
 c                       &= 250 \ \text {calories}
 \end{aligned}
 $
-
+<emptyline>
 Calories provided by the cake $= 250 \ \text {calories}$. 
-
+<emptyline>
 Let's substitute the value of $c$ in one of the initial equations to find the calories provided by the biscuit.
-
+<emptyline>
 $
 \begin{aligned} 
 c + 2b                          &= 450 \\\\
@@ -306,7 +306,7 @@ b                               &= \dfrac{200}{2} \\\\
 b                               &=  100  \ \text {calories}
 \end{aligned}
 $
-
+<emptyline>
 Calories provided by the biscuit $= 100  \ \text {calories}$
 </code></pre>
 </div>
@@ -521,16 +521,16 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of $5 \text{p}$ coins $= a$. Then,
-
+<emptyline>
 Number of $10 \text{p}$ coins $= 2a$
-
+<emptyline>
 Number of $20 \text{p}$ coins $= 4a$
-
+<emptyline>
 rtq_abbr_md_unit_note.
 The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}  
 5 \times a + 10 \times 2a + 20 \times 4a    &= \pounds 15.75 \\\\
@@ -543,11 +543,11 @@ a                                           &= \dfrac {\cancel{21} \times \cance
 a                                           &= 15
 \end{aligned}
 $
-
+<emptyline>
 Number of $5 \ \text{p}$ coins $= 15$
-
+<emptyline>
 Let's find the number of $20 \ \text{p}$ coins.
-
+<emptyline>
 $
 \begin {aligned}
 20 \ \text{p} \text{ coins}   &= 4a \\\\
@@ -555,7 +555,7 @@ $
                               &= 60
 \end {aligned}
 $
-
+<emptyline>
 Number of $20 \ \text{p}$ coins $= 60$
 </code></pre>
 </div>
@@ -2135,7 +2135,7 @@ $60000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
-
+<emptyline>
 $
 \begin {aligned}
 4060800                     &= 4000000 + a + 800 \\\\
@@ -2143,7 +2143,7 @@ $
 a                           &= 60000
 \end {aligned}
 $
-
+<emptyline>
 The missing number is $= 60000$.
 </code></pre>
 </div>
@@ -2327,9 +2327,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number that John thought is $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4a + 3    &= 35 \\\\
@@ -2341,7 +2341,7 @@ a         &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
 a         &= 8
 \end {aligned}
 $
-
+<emptyline>
 The number that John thought $= 8$.
 </code></pre>
 </div>
@@ -2578,13 +2578,13 @@ $50p$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total apples = $60$
-
+<emptyline>
 Bad apples = $\dfrac {1}{10}$ of total apples. 
-
+<emptyline>
 Let's find how many bad apples are there.
-
+<emptyline>
 No. of bad apples is:  
-
+<emptyline>
 $
 \begin{aligned}
 &= 60 \times \dfrac {1}{10}  \\\\
@@ -2593,47 +2593,47 @@ $
 &= {6} \text{ apples}\\
 \end{aligned}
 $
-
+<emptyline>
 There are $6$ bad apples.
-
+<emptyline>
 
 Let's find number of good apples
-
+<emptyline>
 $
 \begin{aligned}
 &= 60 - 6 \\
 &= 54  \text{ apples}\\
 \end{aligned}
 $
-
+<emptyline>
 There are $54$ good apples.
-
+<emptyline>
 Now let's figure out the selling price.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Cost price $= \pounds 12$
 Profit     $= \pounds 15$
-
+<emptyline>
 Selling price - Cost Price = Profit
-
+<emptyline>
 $\quad \text {or,}$
-
+<emptyline>
 Selling price = Profit + Cost price
-
+<emptyline>
 $
 \begin{aligned} 
 &= 15 + 12 \\
 &= \pounds 27\\  
 \end{aligned}
 $
-
+<emptyline>
 He sold $54$ good apples, earned $\pounds 27$ and spend $\pounds 12$ to buy it.
-
+<emptyline>
 Let's calculate the selling price of each apple.
-
+<emptyline>
 $\text{Selling price of good apples} = \dfrac {\text{money earned}} {\text{no. of apples sold}}$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {27}{54}\\\\
@@ -2641,11 +2641,11 @@ $
 &= \dfrac {\pounds 1}{2\ \text  {apples}}
 \end{aligned}
 $
-
+<emptyline>
 For $\pounds 1$ he sells $2$ apples.
-
+<emptyline>
 So his selling price for $1$ apples is $50$ pence. 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2877,32 +2877,32 @@ $45p$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a bottle of water (in pence) $= w$
-
+<emptyline>
 Let the cost of a bag of fruit (in pence) $= f$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 The cost is given in pounds and pence. Let's convert all the costs into pence.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2w + 3f      &= 255 \\\\
 w - f        &= 15
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 But which one should we eliminate? 
-
+<emptyline>
 If we look at the question again, we only need the 
-
+<emptyline>
 cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
-
+<emptyline>
 Multiply the second equation by $2$.
-
+<emptyline>
 $
 \begin{aligned}
 w - f                           &= 15 \\\\
@@ -2910,9 +2910,9 @@ w \times 2 - f  \times 2        &= 15 \times 2 \\\\
 2w - 2f                         &= 30
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 2w + 3f             &= 255 \\\\
@@ -2924,20 +2924,20 @@ f                   &= \dfrac{225}{5} \\\\
 f                   &= 45 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bag of fruit $= 45 \ \text {pence}$.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>What if we eliminate $f$ instead?
-
+<emptyline>
 This approach is less efficient as we will have to calculate one extra value to get the answer.
-
+<emptyline>
 Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 Multiply the second equation by $3$.
-
+<emptyline>
 $
 \begin{aligned} 
 w - f                           &= 15 \\\\
@@ -2945,9 +2945,9 @@ w \times 3 - f  \times 3        &= 15 \times 3 \\\\
 3w - 3f                         &= 45
 \end{aligned}
 $
-
+<emptyline>
 Add second equation to the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 2w + 3f                 &= 255 \\\\
@@ -2959,11 +2959,11 @@ w                       &= \dfrac{300}{5} \\\\
 w                       &= 60 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bottle of water $= 60 \ \text{pence}$. 
-
+<emptyline>
 Let's substitute the value of $w$ in one of the initial equations to find the cost of a bag of fruit.
-
+<emptyline>
 $
 \begin{aligned} 
 w - f               &= 15 \\\\
@@ -2973,7 +2973,7 @@ w - f               &= 15 \\\\
 f                   &= 45 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bag of fruit $= 45 \ \text {pence}$
 </code></pre>
 </div>
@@ -3163,11 +3163,11 @@ $8 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of the base (in $\text{cm}$) $= a$
-
+<emptyline>
 rtq_abbr_katex_formula_volume_cuboid
-
+<emptyline>
 As per the question, the two boxes have the same volume. Using that we get,
-
+<emptyline>
 $
 \begin{aligned}
 10 \times a \times a    &= 4 \times 5 \times 32 \\\\
@@ -3180,7 +3180,7 @@ a                       &= \sqrt{64} \\\\
 a                       &= 8 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the base $= 8 \ \text{cm}$
 </code></pre>
 </div>
@@ -3447,26 +3447,26 @@ $72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 original no. = a number between $11$ and $99$ ($2$ digits)
-
+<emptyline>
 original no.  $>$ new number
-
+<emptyline>
 the original no., the new number and $\dfrac {1}{3}$
 are all multiples of $3$
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Trial and error method
-
+<emptyline>
 $12$ is the smallest $2$ digit number which is a multiple of $3$
-
+<emptyline>
 certain combinations can be ruled out as the reverse is not near to $\dfrac {1}{3}$ of the original number
-
+<emptyline>
 possible combinations:
-
+<emptyline>
 $
 \begin{aligned}
 \quad \cancel{12-21}, \ 15-51, \ \cancel{18-81},\\\\ 
@@ -3474,51 +3474,51 @@ $
 \cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}
 \end{aligned}
 $
-
+<emptyline>
 Let's try combination $1$ : $15$ and $51$ 
-
+<emptyline>
 original number = $51$
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {51}{3}  &= 17\\
 17 + 3          &= 20 \text{ (wrong)}\\
 \end{aligned}
 $
-
+<emptyline>
 Let's try combination $2$ : $27$ and $72$ 
-
+<emptyline>
 original number = $72$
 So reverse no. is,
-
+<emptyline>
 $
 \begin{aligned}
 &=\dfrac {72}{3}+3\\
 &= 27\\
 \end{aligned}
 $
-
+<emptyline>
 $27$ and 472$ is the right combination. So $72$ is the original number.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the two digit number be $xy$
-
+<emptyline>
 $x$ in the tenth place and $y$ in the unit place.
-
+<emptyline>
 The original no. $= 10x + y$
-
+<emptyline>
 The swapped no.  $= 10y + x$
-
+<emptyline>
 As per the question, the new number is $3$ more than $\dfrac {1}{3}$ of the original number. 
-
+<emptyline>
 The swapped no. $= 3 + \dfrac {(10y + x)}{3}$
-
+<emptyline>
 i.e.  $= 10y + x = 3 + \dfrac {(10y + x)}{3}$
-
+<emptyline>
 Let's solve
-
+<emptyline>
 $
 \begin{aligned}
 3 + \dfrac{(10x + y)}{3} &= 10y + x \\\\
@@ -3530,12 +3530,12 @@ $
                  7x -29y &= -9 \\
 \end{aligned}
 $
-
+<emptyline>
 
 The values $x$ and $y$ are between $0$ to $9$
-
+<emptyline>
 On substituting the only possibility that matches
-
+<emptyline>
 $
 \begin{aligned}
  x &= 7 \\
@@ -3726,16 +3726,16 @@ $570 \ \text {units}$
 
 <pre class='language-latex'><code class='language-latex'>
 January reading = $6045$ 
-
+<emptyline>
 October reading = $5475$ 
-
+<emptyline>
 $
 \begin {aligned}
 &= 6045 - 5475 \\\\
 &= 570
 \end {aligned}
 $
-
+<emptyline>
 $570$ units of gas has Andrew used in the three month period from October to January.
 </code></pre>
 </div>
@@ -3791,7 +3791,7 @@ $\pounds 276.60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total amount for three months}   &= 3 \times \text {Fixed amount for each month} + 570 \times \text {Cost of a unit} \\\\
@@ -3858,7 +3858,7 @@ $\pounds 290.43$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Final Bill}      &= \text {Total bill} + \text {VAT} \\\\
@@ -4152,7 +4152,7 @@ $53$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$125$ As the unit place is $5$ the original number is a multiple of $5$. So,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 \times 5 \\\\
@@ -4162,7 +4162,7 @@ $
 &= 5^3
 \end{aligned}
 $
-
+<emptyline>
 $125$ is a blast of $53$
 </code></pre>
 </div>
@@ -4228,16 +4228,16 @@ $42$
                         &= 16
 \end {aligned}
 $
-
+<emptyline>
 Let's find the another number with the Blast of 16.
-
+<emptyline>
 $
 \begin{aligned}
 16   &= 4 \times 4 \\\\
 16   &= 4 ^ 2
 \end{aligned}
 $
-
+<emptyline>
 $16$ is also a blast of $42$
 </code></pre>
 </div>
@@ -4306,18 +4306,18 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's frist find $9$ is a blast of which two digit number,
-
+<emptyline>
 $
 \begin {aligned}
 9       &= 3 \times 3 \\\\
 9       &= 3^2
 \end {aligned}
 $
-
+<emptyline>
 $9$ is a blast of $32$
-
+<emptyline>
 Now, we need to find $32$ is a blast of which two digit number to find our original number,
-
+<emptyline>
 $
 \begin {aligned}
 32      &= 8 \times 4 \\\\
@@ -4326,9 +4326,9 @@ $
 32      &= 2^5
 \end {aligned}
 $
-
+<emptyline>
 $32$ is a blast of $25$
-
+<emptyline>
 The original number is $25$
 </code></pre>
 </div>
@@ -4585,9 +4585,9 @@ $3 \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 To find out the height of the plant after five months, we should know the height of plant at the end of first, second, third and fourth month.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Height of the plant at the end of the first month}       &= 1 \ \text {m} \\\\
@@ -4625,7 +4625,7 @@ $
                                                                 &= 3 \ \text {m}
 \end {aligned}
 $
-
+<emptyline>
 The plant will be $3 \ \text {m}$ tall after five months.
 </code></pre>
 </div>
@@ -4757,16 +4757,16 @@ $4 \ \text {m}$
         &= 6 \ \text {metres}
 \end{aligned}
 $
-
+<emptyline>
 Total growth from end of first months to end of fifth month
-
+<emptyline>
 $
 \begin{aligned}
 &= 6 \ \text {m} - 2 \text {m} \\
 &= 4 \ \text {m}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4990,7 +4990,7 @@ W &= 3 \times 0.5 \times 0.5 \times 2 \\
   &= 1.5 \text {g}\\
 \end {aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -5054,9 +5054,9 @@ $
                 4 &= D
 \end {aligned}
 $
-
+<emptyline>
 Density of the forearm is $5$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5126,9 +5126,9 @@ $
                  3 &= R
 \end {aligned}
 $
-
+<emptyline>
 Radius of a thigh bone is $3 \text {cm}$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -5347,7 +5347,7 @@ $
 &= 101 \\
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5861,11 +5861,11 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing digits = $a , b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $a34 + b97 = 631$
-
+<emptyline>
 $
 \begin{array}
     &   a       &   3   &   4 \\
@@ -5874,11 +5874,11 @@ $
     & (a+b+1)   &   3   &   1
 \end{array}
 $
-
+<emptyline>
 Comparing the digits, $a + b + 1 = 6$
 $a + b = 6 - 1$
 $a + b = 5$
-
+<emptyline>
 The set of digits $a ,b$ can be = $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 </code></pre>
 </div>
@@ -6105,9 +6105,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (8 + a)\times 7     &= 91 \\\\
@@ -6304,9 +6304,9 @@ $5, 7, 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know, a number is a multiple of $5$ if it has $0$ or $5$ at its units place. 
-
+<emptyline>
 As the last digit in $385$ is $5$ , it is divisible by $5$ .
-
+<emptyline>
 $
 \begin{aligned}
 &= 385 \\\\
@@ -6314,7 +6314,7 @@ $
 &= 5 \times 7 \times 11
 \end{aligned}
 $
-
+<emptyline>
 The required numbers are = $5, 7, 11$
 </code></pre>
 </div>
@@ -6542,7 +6542,7 @@ $\pounds 100$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Charge per n people} \pounds C    &= 3n +40 \\\\
@@ -6881,9 +6881,9 @@ $\text{The missing numbers are :} 39, 187, 112, 10, 112$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 17 + a                  &= 56 \\\\
@@ -6891,9 +6891,9 @@ a                       &= 56 - 17 \\\\
 a                       &= 39
 \end{aligned}
 $
-
+<emptyline>
 Let the missing number $=b$
-
+<emptyline>
 $
 \begin{aligned}
 131 - b                 &= 56 \\\\
@@ -6901,11 +6901,11 @@ b                       &= 131 - 56 \\\\
 b                       &= 75
 \end{aligned}
 $
-
+<emptyline>
 Let the missing number $=c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 50 \% \ \text{of} \ c                                   &= 56 \\\\
@@ -6917,11 +6917,11 @@ c                                                       &= 56 \times 2 \\\\
 c                                                       &= 112
 \end{aligned}
 $
-
+<emptyline>
 Let the missing number $=d$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 560 \div d              &= 56 \\\\
@@ -6931,11 +6931,11 @@ d                       &= \dfrac {\cancel {56} \times 10} {\cancel {56}}  \\\\
 d                       &= 10
 \end{aligned}
 $
-
+<emptyline>
 Let the missing number $=e$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {2} \times e                                 &= 56 \\\\
@@ -7090,7 +7090,7 @@ $\pounds 2.08$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Bottles needed}    &= 17 \\\\
@@ -7098,9 +7098,9 @@ $
                           &= 3 \times 5 \ \text {pack} + 1 \times 2 \ \text {pack}
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the amount of money he needs to spend.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Smallest amount he spends}        &= 3 \times \text {Cost of 5 packs} + 1 \times \text {Cost of 2 packs} \\\\
@@ -7331,9 +7331,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {8 + 3 + 9 + a} {4}              &= 6 \\\\
@@ -7344,7 +7344,7 @@ a                                       &= 24 - 20 \\\\
 a                                       &= 4
 \end{aligned}
 $
-
+<emptyline>
 The missing number $= 4$
 </code></pre>
 </div>
@@ -7535,11 +7535,11 @@ $568$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 On planet Zog, all numbers are written in reverse order.
-
+<emptyline>
 So,
-
+<emptyline>
 $
 \begin{aligned}
 &= 729 - 26 \\\\
@@ -7547,7 +7547,7 @@ $
 &= 865
 \end{aligned}
 $
-
+<emptyline>
 $865$ will be also written in reverse order $= 568$
 </code></pre>
 </div>
@@ -7755,9 +7755,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a^3 &=  2 \times 256 \\\\
@@ -7768,7 +7768,7 @@ a^3 &= 8^3 \\\\
 a   &= 8
 \end{aligned}
 $
-
+<emptyline>
 The number in the missing box $= 8$
 </code></pre>
 </div>
@@ -8020,7 +8020,7 @@ $30$
                                         &= 30
 \end{aligned} 
 $
-
+<emptyline>
 Missing number $= 30$
 </code></pre>
 </div>
@@ -8079,7 +8079,7 @@ $352$
                                    &= 352
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 352$
 </code></pre>
 </div>
@@ -8268,9 +8268,9 @@ $14 \ \text {years}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let my age $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {My age} + \text {Brother's age}      &= \text {Total age} \\\\
@@ -8284,7 +8284,7 @@ a                                           &= \dfrac {\cancel {2} \times 14} {\
 a                                           &= 14
 \end{aligned}
 $
-
+<emptyline>
 I am $ = 14 \ \text {years old}$
 </code></pre>
 </div>
@@ -8484,9 +8484,9 @@ $3 \ \text{kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of empty bucket $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Weight of empty bucket} + \dfrac {\text {Weight of water}} {2} &= 12 \\\\
@@ -8767,15 +8767,15 @@ $64 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the distance from B to C $= d \ \text{cm}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Distance from A to B $= 4d \ \text{cm}$
-
+<emptyline>
 Total distance, A to C $= 80 \ \text{cm}$
-
+<emptyline>
 AB + BC = AC
-
+<emptyline>
 $
 \begin{aligned}
 4d + d                                  &= 80 \ \text{cm} \\\\
@@ -8786,9 +8786,9 @@ d                                       &= \dfrac {\cancel {5} \times 16} {\canc
 d                                       &= 16 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Distance B to C $= 16 \ \text{cm}$
-
+<emptyline>
 Distance from A to B $= 4d$
 $
 \begin{aligned}
@@ -8796,7 +8796,7 @@ $
 &= 64 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Distance from A to B $= 64 \ \text {cm}$
 </code></pre>
 </div>
@@ -9790,9 +9790,9 @@ $\dfrac{1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weekly pension of granddad $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Pension spent on friday}          &= \dfrac {a} {4} \\\\
@@ -9806,7 +9806,7 @@ $
                                         &= \dfrac {a} {4}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Pension left}                     &= a - \dfrac {a} {4} - \dfrac {a} {4} \\\\
@@ -10169,13 +10169,13 @@ $34$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of Fred $=a$
-
+<emptyline>
 Let the weight of Gary $=b$
-
+<emptyline>
 Let the weight of Harry $=c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + b                       &= 12 + c \\\\
@@ -10365,9 +10365,9 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Marbles Alen had initially $= 67$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\\\
@@ -10576,9 +10576,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Total number of chocolates in the box $= 30$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of white chocolates}  &= \dfrac {1} {6} \times 30 \\\\
@@ -10588,7 +10588,7 @@ $
                                     &= 5
 \end{aligned}
 $
-
+<emptyline>
 Number of white chocolates $= 5$
 </code></pre>
 </div>
@@ -10646,18 +10646,18 @@ $\dfrac {1} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Number of milk chocolates $= 10$
-
+<emptyline>
 Fraction of milk chocolates $= \dfrac {10} {30}$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
 &= \dfrac {1} {3}
 \end{aligned}
 $
-
+<emptyline>
 Fraction of milk chocolates $= \dfrac {1} {3}$
 </code></pre>
 </div>

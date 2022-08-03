@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g0"
 title: "TopicPaper - Temperature - 1 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8A17957B-1662-4775-ABE7-2482551AF10F</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "5"
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -105,8 +105,9 @@ cities?
 
 $
 \begin{aligned}
-\text {Difference}   &= 23 - 12 \\\\
-                     &= 11 \degree \text{C}
+\text {Difference}   &= 23 - (- 12) \\\\
+                     &= 23 + 12 \\\\
+                     &= 35 \degree \text{C}
 \end{aligned}
 $
 
@@ -115,7 +116,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$11\degree \text{C}$
+$35\degree \text{C}$
 
 </div>
 </div>
@@ -124,8 +125,9 @@ $11\degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Difference}   &= 23 - 12 \\\\
-                     &= 11 \degree \text{C}
+\text {Difference}   &= 23 - (- 12) \\\\
+                     &= 23 + 12 \\\\
+                     &= 35 \degree \text{C}
 \end{aligned}
 $
 </code></pre>
@@ -139,7 +141,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$11\degree \text{C}$
+<pre class='language-latex'><code class='language-latex'>$35\degree \text{C}$
 </code></pre>
 </div>
 </div>
@@ -201,7 +203,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>051F2794-DFF8-4792-8C27-24EC80D9363E</p>
 </div>
@@ -215,7 +217,7 @@ and solve further
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -337,6 +339,8 @@ On average, how much warmer is London than Moscow?
 <div class='working'>
 
 
+As per the table,
+
 $
 \begin{aligned}
 \text{Difference} &= 7 - (-4) \\\\
@@ -358,6 +362,8 @@ $11 \degree \text{C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
+As per the table,
+<emptyline>
 $
 \begin{aligned}
 \text{Difference} &= 7 - (-4) \\\\
@@ -396,6 +402,7 @@ What was the temperature that day?
 <div class='workings'>
 <div class='working'>
 
+As per the table,
 
 $
 \begin{aligned}
@@ -417,7 +424,8 @@ $-7 \degree \text{C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>As per the table,
+<emptyline>
 $
 \begin{aligned}
 \text{ Temperature that day} &= 12 - 19 \\\\
@@ -501,7 +509,7 @@ step 1 : add line before katex:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
 </div>
@@ -515,7 +523,7 @@ step 1 : add line before katex:
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -596,9 +604,8 @@ What is the temperature in Exeter?
 
 $
 \begin{aligned}
-\text {The temperature in Exeter}   &= 12 + (-7) \\\\
-                                    &= 12 - 7 \\\\
-                                    &= 5 \degree \text {C}
+\text {Temperature in Exeter}   &= -7 + 12 \\\\
+                                &= 5 \degree \text {C}
 \end{aligned}
 $
 
@@ -616,9 +623,8 @@ $5 \degree \text {C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {The temperature in Exeter}   &= 12 + (-7) \\\\
-                                    &= 12 - 7 \\\\
-                                    &= 5 \degree \text {C}
+\text {Temperature in Exeter}   &= -7 + 12 \\\\
+                                &= 5 \degree \text {C}
 \end{aligned}
 $
 </code></pre>
@@ -696,7 +702,7 @@ remove step 2
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -710,7 +716,7 @@ remove step 2
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -863,7 +869,7 @@ $24 \degree \text {C}$
                    &= 24 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -897,9 +903,7 @@ What was the temperature outside the window at $10 \ \text{p.m.}$?
 
 $
 \begin{aligned}
-\text {Temperature outside} &= -3 - (2) \\\\
-                            &= -3 - 2 \\\\
-                            &= -5 \\\\
+\text {Temperature outside} &= -3 - 2 \\\\
                             &= -5 \degree \text {C}
 \end{aligned}
 $
@@ -920,13 +924,11 @@ $-5 \degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Temperature outside} &= -3 - (2) \\\\
-                            &= -3 - 2 \\\\
-                            &= -5 \\\\
+\text {Temperature outside} &= -3 - 2 \\\\
                             &= -5 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -1002,7 +1004,7 @@ remove step 2 and step 3
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3C6BCAEF-2EAE-44E1-B652-80E960F07578</p>
 </div>
@@ -1016,7 +1018,7 @@ remove step 2 and step 3
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1198,7 +1200,7 @@ What was the temperature in Cold City on Christmas Day?
 
 $
 \begin{aligned}
-\text {Temperature in Cold city on Christmas day} &= - 12 + 5 \\\\
+\text {Temperature on Christmas day}              &= - 12 + 5 \\\\
                                                   &= -7 \degree \text{C}
 \end{aligned}
 $
@@ -1217,7 +1219,7 @@ $-7 \degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Temperature in Cold city on Christmas day} &= - 12 + 5 \\\\
+\text {Temperature on Christmas day}              &= - 12 + 5 \\\\
                                                   &= -7 \degree \text{C}
 \end{aligned}
 $

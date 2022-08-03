@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1123,7 +1123,7 @@ $
                                   &= 3 \degree \text{C}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1237,7 +1237,7 @@ $2 \degree \text{C}$
                                             &= 2 \degree \text{C}                       
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1299,7 +1299,7 @@ Cooler $=$ $6 \text{ am}$
                                  &= -3 \degree \text{C}
 \end{aligned}
 $
-
+<emptyline>
 Temperature at $6 \text {am}$ was cooler.
 </code></pre>
 </div>
@@ -3024,7 +3024,7 @@ Liverpool
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Liverpool
-
+<emptyline>
 $
 \begin{aligned}
 \text{Temperature Rise}     &= 7 - (-4) \\\\
@@ -3083,7 +3083,7 @@ Bristol & York
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Bristol & York
-
+<emptyline>
 $
 \begin{aligned}
 \text{Difference}       &= \text{Bristol} - \text{York} \\\\
@@ -3919,7 +3919,7 @@ $-13 \degree \text{C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the rate of fall of the temperature $= a$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Temperature at 1800 hrs}  &= 3 + 1.5 \times 6 \\\\
@@ -3927,9 +3927,9 @@ $
                                 &= 12 \degree \text{C}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 12 - 6 \times a                 &= -3 \\\\
@@ -4216,7 +4216,7 @@ $\pounds 30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sarina has} &= -40 + 70 \\\\
@@ -4487,7 +4487,7 @@ $7 \degree \text {C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the table,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference}  &= 4 - (-3) \\\\
@@ -4960,7 +4960,7 @@ $4 \degree \text{C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Temperature in London}                        &= \dfrac {-4 + 12 } {2} \\\\
@@ -5154,7 +5154,7 @@ $
                                                                         &= 19 \degree \text{C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -5897,7 +5897,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8A17957B-1662-4775-ABE7-2482551AF10F</p>
 </div>
@@ -5911,7 +5911,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5996,8 +5996,9 @@ cities?
 
 $
 \begin{aligned}
-\text {Difference}   &= 23 - 12 \\\\
-                     &= 11 \degree \text{C}
+\text {Difference}   &= 23 - (- 12) \\\\
+                     &= 23 + 12 \\\\
+                     &= 35 \degree \text{C}
 \end{aligned}
 $
 
@@ -6006,7 +6007,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$11\degree \text{C}$
+$35\degree \text{C}$
 
 </div>
 </div>
@@ -6015,8 +6016,9 @@ $11\degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Difference}   &= 23 - 12 \\\\
-                     &= 11 \degree \text{C}
+\text {Difference}   &= 23 - (- 12) \\\\
+                     &= 23 + 12 \\\\
+                     &= 35 \degree \text{C}
 \end{aligned}
 $
 </code></pre>
@@ -6030,7 +6032,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$11\degree \text{C}$
+<pre class='language-latex'><code class='language-latex'>$35\degree \text{C}$
 </code></pre>
 </div>
 </div>
@@ -6092,7 +6094,7 @@ and solve further
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>051F2794-DFF8-4792-8C27-24EC80D9363E</p>
 </div>
@@ -6106,7 +6108,7 @@ and solve further
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6228,6 +6230,8 @@ On average, how much warmer is London than Moscow?
 <div class='working'>
 
 
+As per the table,
+
 $
 \begin{aligned}
 \text{Difference} &= 7 - (-4) \\\\
@@ -6249,6 +6253,8 @@ $11 \degree \text{C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
+As per the table,
+<emptyline>
 $
 \begin{aligned}
 \text{Difference} &= 7 - (-4) \\\\
@@ -6287,6 +6293,7 @@ What was the temperature that day?
 <div class='workings'>
 <div class='working'>
 
+As per the table,
 
 $
 \begin{aligned}
@@ -6308,7 +6315,8 @@ $-7 \degree \text{C}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>As per the table,
+<emptyline>
 $
 \begin{aligned}
 \text{ Temperature that day} &= 12 - 19 \\\\
@@ -6392,7 +6400,7 @@ step 1 : add line before katex:
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
 </div>
@@ -6406,7 +6414,7 @@ step 1 : add line before katex:
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6487,9 +6495,8 @@ What is the temperature in Exeter?
 
 $
 \begin{aligned}
-\text {The temperature in Exeter}   &= 12 + (-7) \\\\
-                                    &= 12 - 7 \\\\
-                                    &= 5 \degree \text {C}
+\text {Temperature in Exeter}   &= -7 + 12 \\\\
+                                &= 5 \degree \text {C}
 \end{aligned}
 $
 
@@ -6507,9 +6514,8 @@ $5 \degree \text {C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {The temperature in Exeter}   &= 12 + (-7) \\\\
-                                    &= 12 - 7 \\\\
-                                    &= 5 \degree \text {C}
+\text {Temperature in Exeter}   &= -7 + 12 \\\\
+                                &= 5 \degree \text {C}
 \end{aligned}
 $
 </code></pre>
@@ -6953,7 +6959,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -6967,7 +6973,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7120,7 +7126,7 @@ $24 \degree \text {C}$
                    &= 24 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -7154,9 +7160,7 @@ What was the temperature outside the window at $10 \ \text{p.m.}$?
 
 $
 \begin{aligned}
-\text {Temperature outside} &= -3 - (2) \\\\
-                            &= -3 - 2 \\\\
-                            &= -5 \\\\
+\text {Temperature outside} &= -3 - 2 \\\\
                             &= -5 \degree \text {C}
 \end{aligned}
 $
@@ -7177,13 +7181,11 @@ $-5 \degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Temperature outside} &= -3 - (2) \\\\
-                            &= -3 - 2 \\\\
-                            &= -5 \\\\
+\text {Temperature outside} &= -3 - 2 \\\\
                             &= -5 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -8398,7 +8400,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3C6BCAEF-2EAE-44E1-B652-80E960F07578</p>
 </div>
@@ -8412,7 +8414,7 @@ TODOANSWER
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8594,7 +8596,7 @@ What was the temperature in Cold City on Christmas Day?
 
 $
 \begin{aligned}
-\text {Temperature in Cold city on Christmas day} &= - 12 + 5 \\\\
+\text {Temperature on Christmas day}              &= - 12 + 5 \\\\
                                                   &= -7 \degree \text{C}
 \end{aligned}
 $
@@ -8613,7 +8615,7 @@ $-7 \degree \text{C}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Temperature in Cold city on Christmas day} &= - 12 + 5 \\\\
+\text {Temperature on Christmas day}              &= - 12 + 5 \\\\
                                                   &= -7 \degree \text{C}
 \end{aligned}
 $
@@ -8858,7 +8860,7 @@ $14 \degree \text {C}$
                                    &= 14 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -9143,7 +9145,7 @@ $20 \degree \text {C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference}  &= 17 - (- 3) \\\\
@@ -9151,7 +9153,7 @@ $
                     &= 20 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -9654,7 +9656,7 @@ $18 \degree \text {C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference}  &= 4 - (- 14) \\\\
@@ -9662,7 +9664,7 @@ $
                     &= 18 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -10075,9 +10077,9 @@ $96$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Flossie chirps (in $1 \ \text{minute}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 18                          &= (a - 40) \div 7 + 10 \\\\
@@ -10090,7 +10092,7 @@ a                           &= 56 + 40 \\\\
 a                           &= 96
 \end{aligned}
 $
-
+<emptyline>
 Flossie chirps (in $1 \ \text{minute}$) $= 96$
 </code></pre>
 </div>
@@ -10155,7 +10157,7 @@ Flossie chirps (in $1 \ \text{minute}$) $= 96$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>E592B839-3586-4113-B545-AA957E39B399</p>
 </div>
@@ -10166,7 +10168,7 @@ Flossie chirps (in $1 \ \text{minute}$) $= 96$
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -10292,21 +10294,31 @@ What was the temperature on Tuesday morning?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Temperature on Tuesday morning} &= -4 - 6 \\\\
+                                      &= -10 \degree \text{C}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$-10 \degree \text{C}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Temperature on Tuesday morning} &= -4 - 6 \\\\
+                                      &= -10 \degree \text{C}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -10318,7 +10330,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$-10 \degree \text{C}$
 </code></pre>
 </div>
 </div>
@@ -10337,21 +10349,33 @@ How many degrees warmer was it on Wednesday than on Monday?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Difference}                     &= 5 - (-4) \\\\
+                                      &= 5 + 4 \\\\
+                                      &= 9 \degree \text{C}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$9 \degree \text{C}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Difference}                     &= 5 - (-4) \\\\
+                                      &= 5 + 4 \\\\
+                                      &= 9 \degree \text{C}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -10363,7 +10387,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$9 \degree \text{C}$
 </code></pre>
 </div>
 </div>
@@ -10372,6 +10396,46 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='E592B839-3586-4113-B545-AA957E39B399' id='FORM-E592B839-3586-4113-B545-AA957E39B399' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E592B839-3586-4113-B545-AA957E39B399'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

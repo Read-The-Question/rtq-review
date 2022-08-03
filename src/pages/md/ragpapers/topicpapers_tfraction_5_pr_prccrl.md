@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-pr-prccrl"
 title: "TopicPaper - Fraction - 5 - PR - PRCCRL"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -252,19 +252,19 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Given that,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Right-handed players in Team Alpha} \ &= 7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Left-handed players in Team Beta} \ &= 2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total left-handed players} \ &= 6 \\\\
@@ -273,7 +273,7 @@ $
 \text{Left-handed players in Team Alpha} &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total players in Team Alpha} \ &= \text{Left-handed players in Team Alpha} + \text{Right-handed players in Team Alpha} \\\\
@@ -281,7 +281,7 @@ $
 \text{Total players in Team Alpha} \ &= 11
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Left-handed players in Team Beta} + \text{Right-handed players in Team Beta} &= \text{Total players in Team Beta} \ \\\\
@@ -290,7 +290,7 @@ $
 \text{Right-handed players in Team Beta} &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total players playing} &= \text{Total players in Team Alpha} + \text{Total players in Team Beta} \\\\
@@ -475,7 +475,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{array}{lllllll}
                     & \text{RH} \ & \text{LH} \ & \text{total} \ \\
@@ -827,29 +827,29 @@ TODOANSWER
 \text {Let the side of the square} \ &= s
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Let the area of the square} \ &= a \\\\
                                      &= s^2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Let the side of inner square} \ &= x
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Let the area of inner square} \ &= b \\\\
                                        &= x^2
 \end{aligned}
 $
-
+<emptyline>
 By pythogoras theorem,
-
+<emptyline>
 $
 \begin{aligned}
 (\dfrac{s}{2})^2 + (\dfrac{s}{2})^2 &= x^2 \\\\
@@ -858,18 +858,18 @@ $
 b &= \dfrac{a}{2}
 \end{aligned}
 $
-
+<emptyline>
 Area of inner square $= \dfrac{a}{2}$
-
+<emptyline>
 Following the similiar pattern,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of shaded region} \ &= \dfrac{a}{2} - \dfrac{a}{4} + \dfrac{a}{8} - \dfrac{a}{16} + \dfrac{a}{32} \\\\
 &= \dfrac{11a}{32}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Fraction of shaded region over total area} \ &= \dfrac{ \dfrac{11a}{32} }{a} \\\\
@@ -1111,7 +1111,7 @@ $\dfrac{3}{5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>On examining,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of Shape} &= 25 \ \text{unit}^2 \\\\
@@ -1177,9 +1177,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 Shade $12$ triangles from the figure
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>
@@ -1255,7 +1255,7 @@ Shape B has a greater fraction shaded than A.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>On examining,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of Shape A} &= 10 \ \text{unit}^2 \\\\
@@ -1271,7 +1271,7 @@ $
 &= \dfrac{1}{4}
 \end{aligned}
 $
-
+<emptyline>
 Shape B has a greater fraction shaded than A.
 </code></pre>
 </div>

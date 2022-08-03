@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-blocked"
 title: "TopicPaper - Number - 13 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -187,7 +187,7 @@ $\dfrac{9} {12}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first reduce the fraction by listing and canceling the common factors, 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {9}{12},  \quad \dfrac {8}{9},  \quad   \dfrac {14}{18},  \quad   \dfrac {50}{60} \\\\
@@ -196,11 +196,11 @@ $
 &= \dfrac {3} {4},  \quad \dfrac {8} {9},  \quad   \dfrac {7} {9},  \quad   \dfrac {5} {6}
 \end{aligned}
 $
-
+<emptyline>
 To compare, let's make the denominator the same for all the fractions.
-
+<emptyline>
 LCM for $4, 9 \text{and} 6 = 36$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4}, \quad \dfrac{8}{9}, \quad \dfrac{7}{9}, \quad\dfrac{5}{6} \\\\
@@ -208,16 +208,16 @@ $
 &= \dfrac{27}{36}, \quad \dfrac{32}{36}, \quad \dfrac{28}{36}, \quad\dfrac{30}{36}
 \end{aligned}
 $
-
+<emptyline>
 Let's arrange the fractions in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{27}{36}, \quad \dfrac{28}{36}, \quad \dfrac{30}{36} \quad\dfrac{32}{36} \\\\
 &= \dfrac{9}{12}, \quad \dfrac{14}{18}, \quad \dfrac{50}{60}, \quad \dfrac{8}{9}
 \end{aligned}
 $
-
+<emptyline>
 The smallest fraction $ =\dfrac{9} {12}$
 </code></pre>
 </div>
@@ -294,7 +294,7 @@ $\dfrac{8} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first reduce the fraction by listing and canceling the common factors, 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {9}{12},  \quad \dfrac {8}{9},  \quad   \dfrac {14}{18},  \quad   \dfrac {50}{60} \\\\
@@ -303,11 +303,11 @@ $
 &= \dfrac {3} {4},  \quad \dfrac {8} {9},  \quad   \dfrac {7} {9},  \quad   \dfrac {5} {6}
 \end{aligned}
 $
-
+<emptyline>
 To compare, let's make the denominator the same for all the fractions.
-
+<emptyline>
 LCM for $4, 9 \text{and} 6 = 36$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4}, \quad \dfrac{8}{9}, \quad \dfrac{7}{9}, \quad\dfrac{5}{6} \\\\
@@ -315,16 +315,16 @@ $
 &= \dfrac{27}{36}, \quad \dfrac{32}{36}, \quad \dfrac{28}{36}, \quad\dfrac{30}{36}
 \end{aligned}
 $
-
+<emptyline>
 Let's arrange the fractions in descending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{32}{36}, \quad \dfrac{30}{36}, \quad \dfrac{28}{36} \quad\dfrac{27}{36} \\\\
 &= \dfrac{8}{9}, \quad \dfrac{50}{60}, \quad \dfrac{14}{18}, \quad \dfrac{9}{12}
 \end{aligned}
 $
-
+<emptyline>
 The biggest fraction $ =\dfrac{8} {9}$
 </code></pre>
 </div>
@@ -518,31 +518,31 @@ $40 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of gap $=a$
-
+<emptyline>
 Let the length of the post $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 a + b                    &= 57 \\\\
 2a + 3b                  &= 131
 \end{aligned}
 $
-
+<emptyline>
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
+<emptyline>
 Multiply the first equation by $3$.
-
+<emptyline>
 $
 \begin{aligned} 
 3(a + b)                    &= 3 \times 57 \\\\
 3a + 3b                     &= 171
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from this new equation to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 3a + 3b - (2a + 3b)       &= 171 - 131 \\\\
@@ -551,16 +551,16 @@ $
 a                         &= 40 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 The length of the each gap is $= 40 \ \text{cm}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternative Solution,
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 57 \ \text{cm} + 57 \ \text{cm}  + \ \text{Post}     &= 131 \ \text{cm} \\\\
@@ -568,7 +568,7 @@ $
                                                      &= 17 \ \text{cm}
 \end {aligned} 
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text{Width of gap}                                  &= 57 \ \text{cm} - \text{Width of post} \\\\
@@ -769,7 +769,7 @@ $486$
 
 <pre class='language-latex'><code class='language-latex'>
 As we know,
-
+<emptyline>
 $
 \begin{aligned}
 27 \times 36 &= 972 \\\\

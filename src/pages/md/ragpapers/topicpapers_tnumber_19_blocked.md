@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-19-blocked"
 title: "TopicPaper - Number - 19 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -294,9 +294,9 @@ $\pounds 2.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 Let's convert pounds to pence.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total amount} &= \pounds 4 \\\\
@@ -304,9 +304,9 @@ $
 &= 400 \text{p}
 \end{aligned}
 $
-
+<emptyline>
 Rodger pays back $30 \%$. So,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Amount paid} &= 30\% \text{ of } 400 \\\\
@@ -315,9 +315,9 @@ $
 &= 120  \text{p} 
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the amount Rodger still owes Neil.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Amount owed} &= 400 - 120 \\\\
@@ -331,10 +331,10 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Can we do better than the previous solution? 
-
+<emptyline>
 If Rodger has paid back $30\%$ of the money, he still has $70\%$ to pay. 
 So we can directly calculate the amount owed and save on calculating the amount paid as well.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Amount owed} &= 70\% \text{ of } 400 \\\\

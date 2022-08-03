@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-13-oldpr"
 title: "TopicPaper - Algebra - 13 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -134,27 +134,27 @@ $3, 12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the two numbers $= a$ and $b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times b          &= 36 \\\\
 a + b               &= 15
 \end{aligned}
 $
-
+<emptyline>
 We can easily infer the values by using trial and error.
-
+<emptyline>
 
 Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
-
+<emptyline>
 | Numbers   |  Multiplication  |  Sum  |
 |:-------:  |:---------------: |:----: |
 | $1, 36$   | $36$             | $37$  |
 | $2, 18$   | $36$             | $20$  |
 | $3, 12$   | $36$             | $15$  |
-
+<emptyline>
 A quick check shows that $3$ and $12$ meets all the criteria above.
 </code></pre>
 </div>
@@ -351,28 +351,28 @@ $4, 9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the two numbers $= a$ and $b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times b          &= 36 \\\\
 a - b                 &= 5
 \end{aligned}
 $
-
+<emptyline>
 We can easily infer the values by using trial and error.
-
+<emptyline>
 
 Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
-
+<emptyline>
 | Numbers   |  Multiplication  |  Difference  |
 |:-------:  |:----------------:|:------------:|
 | $36, 1$   | $36$             | $35$         |
 | $18, 2$   | $36$             | $16$         |
 | $12, 3$   | $36$             | $9$          |
 | $9, 4$    | $36$             | $5$          |
-
+<emptyline>
 
 A quick check shows that $9$ and $4$ meets the criteria above.
 </code></pre>
@@ -780,22 +780,22 @@ $25, 15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 a + b      &= 40   \\\\
 a - b      &= 10         
 \end{aligned}
 $
-
+<emptyline>
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 a + b - (a - b)     &= 40 - 10 \\\\
@@ -805,9 +805,9 @@ b                   &= \dfrac {30} {2} \\\\
 b                   &= 15
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute the value of $b$ in one of the initial equations.
-
+<emptyline>
 $
 \begin{aligned} 
 a + b                          &= 40  \\\\
@@ -816,9 +816,9 @@ a                              &= 40 - 15 \\\\
 a                              &= 25
 \end{aligned}
 $
-
+<emptyline>
 First number $= 25$
-
+<emptyline>
 Second number $= 15$
 </code></pre>
 </div>

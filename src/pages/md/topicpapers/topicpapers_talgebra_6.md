@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-6"
 title: "TopicPaper - Algebra - 6"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -154,11 +154,11 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let one number $= a$
-
+<emptyline>
 Other number $= \dfrac {a} {2}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times a + \dfrac {a} {2}                         &= 160 \\\\
@@ -405,11 +405,11 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number boys $= b$
-
+<emptyline>
 Number of girls $= b + 8$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 b + b + 8 &= 26 \\\\
@@ -422,7 +422,7 @@ b         &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
 b         &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of girls} &= b + 8 \\\\
@@ -503,11 +503,11 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number boys $= b$
-
+<emptyline>
 Number of girls $= \dfrac {3b} {4}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 b + \dfrac { 3b} {4}                                 &= 28 \\\\
@@ -522,7 +522,7 @@ b                                                    &= 4 \times 4 \\\\
 b                                                    &= 16
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of girls} &= \dfrac {3b} {4} \\\\
@@ -599,13 +599,13 @@ $\dfrac {1} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of pupils in the class  $= a$
-
+<emptyline>
 Number of girls $= \dfrac {5a} {9}$
-
+<emptyline>
 Number of boys $= \dfrac {4a} {9}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {5} \ \text{of} \ \dfrac {5a} {9}                &= 3 \\\\
@@ -846,9 +846,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times a + 15  &= 39 \\\\
@@ -917,9 +917,9 @@ $-2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times (a + 15)  &= 39 \\\\
@@ -989,9 +989,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 71 - 3 \times a                               &= 1 + 2 \times a \\\\
@@ -1188,9 +1188,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times a + 7   &= 25 \\\\
@@ -1422,9 +1422,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a &= 36 \\\\
@@ -1487,9 +1487,9 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a - 13  &= 32 \\\\
@@ -1714,7 +1714,7 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Leena brought}  &= 28 - 13 \\\\
@@ -1771,7 +1771,7 @@ $78$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total tokens}  &= 28 + (28 - 13) + (28 + 7) \\\\
@@ -2502,9 +2502,9 @@ $800 \ \text{pages}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let copies of the leaflet printed $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned} 
 30 + \dfrac {a} {100} \times 10                              &= 110 \\\\
@@ -2984,7 +2984,7 @@ $\pounds 1500$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of the materials} &= 25 \% \ \text {of} \  6000 \\\\
@@ -3696,7 +3696,7 @@ My number could be odd or even
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Factors of 20 $= 1 \ 2 \ 4 \ 5 \ 10 \ 20 $
-
+<emptyline>
 My number could be odd or even
 </code></pre>
 </div>
@@ -3939,7 +3939,7 @@ $18, 32, 36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text{First expression} &= 3 k \\\\
@@ -3947,9 +3947,9 @@ $
 &= 18
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 $
 \begin{aligned}
 \text{Second expression} &= 4(k + 2) \\\\
@@ -3958,9 +3958,9 @@ $
 &= 32
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 $
 \begin{aligned}
 \text{Third expression} &= k ^ 2 \\\\
@@ -4040,7 +4040,7 @@ $-30, -32, 100$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text{First expression} &= 3 k \\\\
@@ -4048,9 +4048,9 @@ $
 &= - 30
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 $
 \begin{aligned}
 \text{Second expression} &= 4(k + 2) \\\\
@@ -4059,9 +4059,9 @@ $
 &= - 32
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 $
 \begin{aligned}
 \text{Third expression} &= k ^ 2 \\\\
@@ -5020,7 +5020,7 @@ $146$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the equation,
-
+<emptyline>
 $
 \begin {aligned}
 y &= 3x − 4 \\\\
@@ -5029,7 +5029,7 @@ y &= 150 - 4 \\\\
 y &= 146
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5088,7 +5088,7 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the equation,
-
+<emptyline>
 $
 \begin {aligned}
 y  &= 3x − 4 \\\\
@@ -5799,7 +5799,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text{Percentage of the cost that goes to retailers} &= \dfrac{5} {2.50 \times 100} \times 100 \\\\
@@ -6197,9 +6197,9 @@ pens $=$ $4$
                                          &= \pounds 12.20
 \end{aligned}
 $
-
+<emptyline>
 Let number of pens James bought $=4$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of pencils James bought}   &= \dfrac {12.20 - 4 \times 1.25} {0.8} \\\\
@@ -6210,9 +6210,9 @@ $
                                          &= 9
 \end{aligned}
 $
-
+<emptyline>
 James bought $9$ pencils and $4$ pens.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6407,9 +6407,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 3 - 6   &= 15 \\\\
@@ -7011,9 +7011,9 @@ $26 \ \text {computers}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of computer she sells $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 10000 + 100a &= 12600 \\\\
@@ -7652,9 +7652,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing term $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \div 3 - 1 &= 8 \\\\
@@ -7847,9 +7847,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of books be $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 + 1 - 4 + a &= 5 \\\\
@@ -8070,20 +8070,20 @@ $\pounds 2.65$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let cost of packets of crisps $= a$
-
+<emptyline>
 Let cost of drink $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 2a + 2b &= 1.50 \\\\
 2a + b  &= 1.10
 \end {aligned}
 $
-
+<emptyline>
 Let's substitute b from the first equation to reduce it to just one variable.
-
+<emptyline>
 $
 \begin {aligned}
 2a + 2(1.10 - 2a) &= 1.50 \\\\
@@ -8101,11 +8101,11 @@ b &= 1.10 - 0.70 \\\\
 b &= 0.40
 \end {aligned}
 $
-
+<emptyline>
 Cost of packet of crisps $= \pounds 0.35$
-
+<emptyline>
 Cost of drink $= \pounds 0.40$
-
+<emptyline>
 $
 \begin {aligned}
 \text{Cost of 3 packets of crisps and 4 drinks } &= 3a + 4b \\\\
@@ -8114,7 +8114,7 @@ $
                                                  &= \pounds 2.65
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8293,7 +8293,7 @@ $\pounds 81$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of each bicycle}          &= \dfrac {79 + 80 + 84 } {3} \\\\
@@ -8715,9 +8715,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + 11 &= 29 \\\\
@@ -8788,9 +8788,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a \times 5 + 11) \div 2 &= 28 \\\\
@@ -8861,9 +8861,9 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number they both start with $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + 11     &= (a \times 5 + 11) \div 2 \\\\
@@ -9143,20 +9143,20 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let number of dogs $= a$
-
+<emptyline>
 Let number of kennels $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a &= 3b + 2 \\\\
 a &= 4(b - 1)                           
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute a from the first equation to reduce it to just one variable.
-
+<emptyline>
 $
 \begin{aligned}
 4(b - 1) &= 3b + 2 \\\\
@@ -9169,9 +9169,9 @@ a        &= 18 + 2 \\\\
 a        &= 20                       
 \end{aligned}
 $
-
+<emptyline>
 Number of dogs $= 20$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9218,9 +9218,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per previous question,
-
+<emptyline>
 Number of kennels $= 6$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9740,44 +9740,44 @@ p \ \Psi \ q     &= 20 \\\\
 (p + 1) \times q &= 20
 \end{aligned}
 $
-
+<emptyline>
 Possible values $=$
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 4 \quad \text{and} \quad q = 5 \\\\
 p       &= 3 \quad \text{and} \quad q = 5
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 5 \quad \text{and} \quad q = 4 \\\\
 p       &= 4 \quad \text{and} \quad q = 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 10 \quad \text{and} \quad q = 2 \\\\
 p       &= 9 \quad \text{and} \quad q = 2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 2 \quad \text{and} \quad q = 10 \\\\
 p       &= 1 \quad \text{and} \quad q = 10
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 20 \quad \text{and} \quad q = 1 \\\\
 p       &= 19 \quad \text{and} \quad q = 1
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 1 \quad \text{and} \quad q = 20 \\\\
@@ -10065,16 +10065,16 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the day be $n$th day
-
+<emptyline>
 $
 \begin{aligned}
 \text{Day on which there are less than 2000 leaves} &= \dfrac {400000} {2^n} \\\\
                                                     &= \dfrac {2000 \times 200} {2^n}
 \end{aligned}
 $
-
+<emptyline>
 Since $2^8 = 256$
-
+<emptyline>
 Hence $n = 8$
 </code></pre>
 </div>
@@ -10286,20 +10286,20 @@ Number of horses $=$ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let number of people $= a$
-
+<emptyline>
 Let number of horses $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + b   &= 12 \\\\
 2a + 4b &= 34
 \end {aligned}
 $
-
+<emptyline>
 Let's substitute b from the first equation to reduce it to just one variable.
-
+<emptyline>
 $
 \begin {aligned}
 2(12 - b) + 4b        &= 34 \\\\
@@ -10316,11 +10316,11 @@ a                     &= 12 - 5 \\\\
 a                     &= 7
 \end {aligned}
 $
-
+<emptyline>
 Number of people $= 7$
-
+<emptyline>
 Number of horses $= 5$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -10699,13 +10699,13 @@ $600 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the chocolate with Beth $= a$
-
+<emptyline>
 Chocolate with Ali $= 6 a$
-
+<emptyline>
 Chocolate with Carl $= 2 a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Chocolate with Beth} &= \dfrac {\text {Chocolate with Carl}} {2} \\\\
@@ -10715,7 +10715,7 @@ a                          &= \dfrac {100 \times \cancel {2}} {\cancel {2}} \\\\
 a                          &= 100 \ \text{g}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Chocolate with Ali}  &= 6 \times a \\\\
@@ -11251,9 +11251,9 @@ $120$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let number of pupils in year 8 $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {4} \ \text{of} \ a &= 30 \\\\
@@ -11262,9 +11262,9 @@ a                              &= 30 \times 4 \\\
 a                              &= 120
 \end{aligned}
 $
-
+<emptyline>
 Number of pupils in year 8 $= 120$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -11317,7 +11317,7 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the pie chart,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Pupils who chose green or blue} &= \dfrac {1} {2} \ \text{of} \ 120 \\\\

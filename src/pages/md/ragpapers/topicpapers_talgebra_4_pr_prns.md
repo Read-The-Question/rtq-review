@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-4-pr-prns"
 title: "TopicPaper - Algebra - 4 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -1106,9 +1106,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the numbers on cards $= p, \ h, \ a, \ b, \ l, \ e, \ t$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + l + p + h + a + b + e + t &= 35 \\\\
@@ -1118,7 +1118,7 @@ a &= 35 - 28 \\\\
 a &= 7 
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1191,7 +1191,7 @@ $22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + l + p + h + a + b + e + t &= 35 \\\\
@@ -1388,9 +1388,9 @@ $240 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the space (in meters) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 2a &= 60 \\\\
@@ -1590,9 +1590,9 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of side $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 5 + x + x + x + x + x + 3x + 5 + 2x &= 40 \\\\
@@ -1789,24 +1789,24 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the Anastasia's number $= a$
-
+<emptyline>
 Barry's number $= 2a$
-
+<emptyline>
 Charlie's number $= 6a$
-
+<emptyline>
 Damien's number $= 36a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 &= \sqrt{36a} \\\\
 &= 6 \sqrt{a}
 \end {aligned}
 $
-
+<emptyline>
 $\text{Smallest possible value of a} = 1$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1984,7 +1984,7 @@ $500$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text{New adult fleas} &= 50 \times 10 \\\\
@@ -2180,11 +2180,11 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of cards Alan has $= a$
-
+<emptyline>
 Number of cards Bob has $= a + 15$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + 15 + 25 &= 3a \\\\
@@ -2197,7 +2197,7 @@ a &= \dfrac {20 \times \cancel 2} {\cancel 2} \\\\
 a &= 20
 \end {aligned}
 $
-
+<emptyline>
 Number of cards Alan has $= 20$
 </code></pre>
 </div>
@@ -2384,9 +2384,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of  easter eggs fit in each crate $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 5a + 12 + 3a + 19 &= 103 \\\\
@@ -2584,9 +2584,9 @@ Sunday
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the days after it become taller than two metres $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 4 \times 2^n &>200 \\\\
@@ -2597,9 +2597,9 @@ $
 n       &= 6 
 \end {aligned}
 $
-
+<emptyline>
 The day it become taller than two metres $= \text{Monday} + 6 \ \text{days} = \text{Sunday}$ 
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -2780,9 +2780,9 @@ Jonathan has made a mistake since $38$ is not a perfect square.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Jonathan thinks $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a^2 + 9 &= 47 \\\\
@@ -2790,7 +2790,7 @@ a^2 &= 47 - 9 \\\\
 a^2 &= 38 
 \end {aligned}
 $
-
+<emptyline>
 Jonathan has made a mistake since $38$ is not a perfect square.
 </code></pre>
 </div>

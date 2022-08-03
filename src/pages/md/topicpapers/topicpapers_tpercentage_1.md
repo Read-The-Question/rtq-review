@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -940,7 +940,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AF607754-EAF8-425B-8E8A-1816DE1BE986</p>
 </div>
@@ -951,7 +951,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1036,21 +1036,58 @@ $\dfrac{6}{8} \quad 34 \quad \% 0.75 \quad \dfrac{75}{100} \quad \dfrac{3}{4} \q
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+Let's convert all the numbers into percentages.
+
+$
+\begin{aligned}
+&= \dfrac{6}{8}, \quad 34,  \quad 0.75, \quad \dfrac {75} {100}, \quad \dfrac {3} {4}, \quad 0.34, \quad 0.3 \\\\
+&= \dfrac{6}{8} \times 100, \quad 34 \times 100,  \quad 0.75 \times 100, \quad \dfrac {75} {100} \times 100, \quad \dfrac {3} {4} \times 100, \quad 0.34 \times 100, \quad 0.3 \times 100 \\\\
+&= 0.75 \times 100, \quad 3400 \%, \quad 75 \%, \quad 75 \%, \quad 0.75 \times 100, \quad 34 \%, \quad 30 \% \\\\\
+&= 75 \%, \quad 3400 \%, \quad 75 \%, \quad 75 \%, \quad 75 \%, \quad 34 \%, \quad 30 \%
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac {6}{8}$
+
+</div>
+<div class='answer'>
+
+$0.75$
+
+</div>
+<div class='answer'>
+
+$\dfrac {75} {100}$
+
+</div>
+<div class='answer'>
+
+$\dfrac {3} {4}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
+<emptyline>
+Let's convert all the numbers into percentages.
+<emptyline>
+$
+\begin{aligned}
+&= \dfrac{6}{8}, \quad 34,  \quad 0.75, \quad \dfrac {75} {100}, \quad \dfrac {3} {4}, \quad 0.34, \quad 0.3 \\\\
+&= \dfrac{6}{8} \times 100, \quad 34 \times 100,  \quad 0.75 \times 100, \quad \dfrac {75} {100} \times 100, \quad \dfrac {3} {4} \times 100, \quad 0.34 \times 100, \quad 0.3 \times 100 \\\\
+&= 0.75 \times 100, \quad 3400 \%, \quad 75 \%, \quad 75 \%, \quad 0.75 \times 100, \quad 34 \%, \quad 30 \% \\\\\
+&= 75 \%, \quad 3400 \%, \quad 75 \%, \quad 75 \%, \quad 75 \%, \quad 34 \%, \quad 30 \%
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1062,12 +1099,82 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac {6}{8}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$0.75$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {75} {100}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$\dfrac {3} {4}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='AF607754-EAF8-425B-8E8A-1816DE1BE986' id='FORM-AF607754-EAF8-425B-8E8A-1816DE1BE986' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AF607754-EAF8-425B-8E8A-1816DE1BE986'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2009,9 +2116,9 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a} {100} \times 52             &= 13 \\\\
@@ -2021,7 +2128,7 @@ a                                      &= \dfrac {\cancel{13} \times \cancel{4} 
 a                                      &= 25
 \end{aligned}
 $
-
+<emptyline>
 Number $= 25$
 </code></pre>
 </div>
@@ -2081,9 +2188,9 @@ $400$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {15} {100} \times a             &= 60 \\\\
@@ -2094,7 +2201,7 @@ a                                      &= 4 \times 100 \\\\
 a                                      &= 400
 \end{aligned}
 $
-
+<emptyline>
 Number $= 400$
 </code></pre>
 </div>
@@ -2670,7 +2777,7 @@ $30\% \text{ of } \ 30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
-
+<emptyline>
 $
 \begin{aligned}
 \text{First value}      &= 50\% \text{ of }  10 \\\\
@@ -2695,9 +2802,9 @@ $
                         &= 8
 \end{aligned}
 $
-
+<emptyline>
 Using the calculation above,
-
+<emptyline>
 Biggest value $= 30 \% \text{ of } 30$
 </code></pre>
 </div>
@@ -2879,7 +2986,7 @@ $60 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Percentage shaded}   &= \dfrac {3} 5 \times 100 \\\\
@@ -6359,7 +6466,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>4856BEAB-6A07-4C28-8CA2-6773788E9F82</p>
 </div>
@@ -6373,7 +6480,7 @@ $
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6452,6 +6559,7 @@ Calculate $60\%$ of $765$
 
 $
 \begin{aligned}
+&= 60 \% \ \text {of} \ 765 \\\\
 &= \dfrac{60}{100} \times 765 \\\\
 &= \dfrac{60 \times 765}{100} \\\\
 &= \dfrac{45900}{100} \\\\
@@ -6474,6 +6582,7 @@ $459$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= 60 \% \ \text {of} \ 765 \\\\
 &= \dfrac{60}{100} \times 765 \\\\
 &= \dfrac{60 \times 765}{100} \\\\
 &= \dfrac{45900}{100} \\\\
@@ -6558,7 +6667,7 @@ Change the [[sections.questions.answers]] (now onwards referred to as blue answe
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1F54DF7F-1E4E-4CDC-A7A2-5D50C56188C5</p>
 </div>
@@ -6572,7 +6681,7 @@ Change the [[sections.questions.answers]] (now onwards referred to as blue answe
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6658,16 +6767,16 @@ As per the question,
 $
 \begin{aligned}
 \text {Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
-\text {Hebe score}            &= 60\% \ \text{of} \ 60 - 30 \\\\
+                              &= 60\% \ \text{of} \ 60 - 30 \\\\
                               &= \dfrac {60} {100} \times 60 - 30 \\\\
                               &= \dfrac {60 \times 60} {100} - 30 \\\\
                               &= \dfrac {6 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} -30 \\\\
-                              &=36 - 30 \\\\
+                              &= 36 - 30 \\\\
                               &= 6
 \end{aligned}
 $
 
-Marks that Hebe scored more than Emily $=6$
+Marks that Hebe scored more than Emily $= 6$
 
 </div>
 </div>
@@ -6682,20 +6791,20 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
-\text {Hebe score}            &= 60\% \ \text{of} \ 60 - 30 \\\\
+                              &= 60\% \ \text{of} \ 60 - 30 \\\\
                               &= \dfrac {60} {100} \times 60 - 30 \\\\
                               &= \dfrac {60 \times 60} {100} - 30 \\\\
                               &= \dfrac {6 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} -30 \\\\
-                              &=36 - 30 \\\\
+                              &= 36 - 30 \\\\
                               &= 6
 \end{aligned}
 $
-
-Marks that Hebe scored more than Emily $=6$
+<emptyline>
+Marks that Hebe scored more than Emily $= 6$
 </code></pre>
 </div>
 </div>
@@ -6773,7 +6882,7 @@ Marks that Hebe scored more than Emily $=6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>007B2641-042F-43E0-8E20-0BE481209612</p>
 </div>
@@ -6787,7 +6896,7 @@ Marks that Hebe scored more than Emily $=6$
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6866,13 +6975,13 @@ What number is $40\%$ of $75$?
 
 $
 \begin{aligned}
-&= 40\%$ \ \text{of} \ 75 \\\\
+&= 40\% \ \text{of} \ 75 \\\\
 &= \dfrac {40} {100} \times 75 \\\\
 &= \dfrac {40 \times 75} {100} \\\\
 &= \dfrac {4 \times 10 \times 3 \times 25} {4 \times 25} \\\\
 &= \dfrac {\cancel{4} \times 10 \times 3 \times \cancel{25}} {\cancel{4} \times \cancel{25}} \\\\
 &= 10 \times 3 \\\\
-&= 30 
+&= 30
 \end{aligned}
 $
 
@@ -6890,13 +6999,13 @@ $30$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 40\%$ \ \text{of} \ 75 \\\\
+&= 40\% \ \text{of} \ 75 \\\\
 &= \dfrac {40} {100} \times 75 \\\\
 &= \dfrac {40 \times 75} {100} \\\\
 &= \dfrac {4 \times 10 \times 3 \times 25} {4 \times 25} \\\\
 &= \dfrac {\cancel{4} \times 10 \times 3 \times \cancel{25}} {\cancel{4} \times \cancel{25}} \\\\
 &= 10 \times 3 \\\\
-&= 30 
+&= 30
 \end{aligned}
 $
 </code></pre>
@@ -6964,7 +7073,7 @@ stpe  1 = 40% od 75
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>C35C7538-5250-4091-9E22-93D8F8122AC5</p>
 </div>
@@ -6975,7 +7084,7 @@ stpe  1 = 40% od 75
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7057,9 +7166,10 @@ Calculate $11\%$ of $32600$.
 
 $
 \begin{aligned}
+&= 11 \% \ \text {of} \ 32600 \\\\
 &= \dfrac{11}{100} \times 32600 \\\\
 &= \dfrac{11 \times 32600}{100} \\\\
-&= \dfrac{11 \times 326\cancel{00}}{1\cancel{00}} \\\\
+&= \dfrac{11 \times 326 \cancel{00}}{1 \cancel{00}} \\\\
 &= 11 \times 326 \\\\
 &= 3586
 \end{aligned}
@@ -7079,9 +7189,10 @@ $3586$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= 11 \% \ \text {of} \ 32600 \\\\
 &= \dfrac{11}{100} \times 32600 \\\\
 &= \dfrac{11 \times 32600}{100} \\\\
-&= \dfrac{11 \times 326\cancel{00}}{1\cancel{00}} \\\\
+&= \dfrac{11 \times 326 \cancel{00}}{1 \cancel{00}} \\\\
 &= 11 \times 326 \\\\
 &= 3586
 \end{aligned}
@@ -7103,10 +7214,50 @@ $
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='C35C7538-5250-4091-9E22-93D8F8122AC5' id='FORM-C35C7538-5250-4091-9E22-93D8F8122AC5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C35C7538-5250-4091-9E22-93D8F8122AC5'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>3FA521CB-71B5-46C2-9B7C-6CE326C735EF</p>
 </div>
@@ -7117,7 +7268,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7208,8 +7359,13 @@ Number of shaded boxes $= 17$
 
 $
 \begin{aligned}
-\text{Percentage of shaded grid}    &= \dfrac{\text{Shaded boxes}}{\text{Total boxes}} \\\\
-                                    &= \dfrac{17}{25}
+\text{Percentage of shaded grid}    &= \dfrac{\text{Shaded boxes}}{\text{Total boxes}} \times 100 \\\\
+                                    &= \dfrac{17}{25} \times 100 \\\\
+                                    &= \dfrac {17 \times 100} {25} \\\\
+                                    &= \dfrac {17 \times 4 \times 25} {25} \\\\
+                                    &= \dfrac {17 \times 4 \times \cancel {25}} {\cancel {25}} \\\\
+                                    &= 17 \times 4 \\\\
+                                    &= 68 \%
 \en{aligned}
 $
 
@@ -7218,7 +7374,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{17}{25}$
+$68 \%$
 
 </div>
 </div>
@@ -7226,15 +7382,20 @@ $\dfrac{17}{25}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Total number of boxes $=25$
-
+<emptyline>
 Number of shaded boxes $= 17$
-
+<emptyline>
 $
 \begin{aligned}
-\text{Percentage of shaded grid}    &= \dfrac{\text{Shaded boxes}}{\text{Total boxes}} \\\\
-                                    &= \dfrac{17}{25}
+\text{Percentage of shaded grid}    &= \dfrac{\text{Shaded boxes}}{\text{Total boxes}} \times 100 \\\\
+                                    &= \dfrac{17}{25} \times 100 \\\\
+                                    &= \dfrac {17 \times 100} {25} \\\\
+                                    &= \dfrac {17 \times 4 \times 25} {25} \\\\
+                                    &= \dfrac {17 \times 4 \times \cancel {25}} {\cancel {25}} \\\\
+                                    &= 17 \times 4 \\\\
+                                    &= 68 \%
 \en{aligned}
 $
 </code></pre>
@@ -7248,16 +7409,56 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\dfrac{17}{25}$
+<pre class='language-latex'><code class='language-latex'>$68 \%$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='3FA521CB-71B5-46C2-9B7C-6CE326C735EF' id='FORM-3FA521CB-71B5-46C2-9B7C-6CE326C735EF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3FA521CB-71B5-46C2-9B7C-6CE326C735EF'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>951CBD50-7F78-4C31-A0CE-F1A79F52C7B4</p>
 </div>
@@ -7271,7 +7472,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7391,13 +7592,12 @@ Find $35 \%$ of $160$
 
 $
 \begin{aligned}
-&= 35 \% \ \text{of} \ 160  \\\\
+&= 35 \% \ \text{of} \ 160 \\\\
 &= \dfrac {35} {100} \times 160 \\\\
 &= \dfrac {35 \times 160} {100} \\\\
 &= \dfrac {5600} {100} \\\\
-&= \dfrac {56 \times 100} {100} \\\\
-&= \dfrac {56 \times \cancel{100}} {\cancel{100}} \\\\
-&= {56}
+&= \dfrac {56 \cancel{00}} {1 \cancel{00}} \\\\
+&= 56
 \end{aligned}
 $
 
@@ -7415,13 +7615,12 @@ $56$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 35 \% \ \text{of} \ 160  \\\\
+&= 35 \% \ \text{of} \ 160 \\\\
 &= \dfrac {35} {100} \times 160 \\\\
 &= \dfrac {35 \times 160} {100} \\\\
 &= \dfrac {5600} {100} \\\\
-&= \dfrac {56 \times 100} {100} \\\\
-&= \dfrac {56 \times \cancel{100}} {\cancel{100}} \\\\
-&= {56}
+&= \dfrac {56 \cancel{00}} {1 \cancel{00}} \\\\
+&= 56
 \end{aligned}
 $
 </code></pre>
@@ -7487,7 +7686,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6</p>
 </div>
@@ -7501,7 +7700,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7585,14 +7784,11 @@ What is $0.78$ as a percentage?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&=  0.78 \times \dfrac {100}{100} \\\\
-&=  (0.78 \times 100) \times \dfrac{1}{100} \\\\
-&=  \dfrac {78}{100} \\\\
-&=  78\%
+&= 0.78 \\\\
+&= 0.78 \times 100 \\\\
+&= 78 \%
 \end{aligned}
 $
 
@@ -7604,21 +7800,18 @@ $
 </div>
 <div class='answer'>
 
-$78\%$
+$78 \%$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=  0.78 \times \dfrac {100}{100} \\\\
-&=  (0.78 \times 100) \times \dfrac{1}{100} \\\\
-&=  \dfrac {78}{100} \\\\
-&=  78\%
+&= 0.78 \\\\
+&= 0.78 \times 100 \\\\
+&= 78 \%
 \end{aligned}
 $
 </code></pre>
@@ -7632,7 +7825,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$78\%$
+<pre class='language-latex'><code class='language-latex'>$78 \%$
 </code></pre>
 </div>
 </div>
@@ -7681,7 +7874,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>E03AFD46-F8E5-4DA8-9B71-1BF8355CF385</p>
 </div>
@@ -7695,7 +7888,7 @@ $
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7778,18 +7971,16 @@ Find $30 \%$ of $120$
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-&=   30\% \ \text{of} \ 120 \\\\
-&=   \dfrac{30}{100} \times 120 \\\\
-&=   \dfrac{30 \times 120}{100} \\\\
-&=   \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
-&=   3  \times 12  \\\\
-&=   36
+&= 30 \% \ \text{of} \ 120 \\\\
+&= \dfrac{30}{100} \times 120 \\\\
+&= \dfrac{30 \times 120}{100} \\\\
+&= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+&= 3 \times 12  \\\\
+&= 36
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -7806,18 +7997,16 @@ $36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=   30\% \ \text{of} \ 120 \\\\
-&=   \dfrac{30}{100} \times 120 \\\\
-&=   \dfrac{30 \times 120}{100} \\\\
-&=   \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
-&=   3  \times 12  \\\\
-&=   36
+&= 30 \% \ \text{of} \ 120 \\\\
+&= \dfrac{30}{100} \times 120 \\\\
+&= \dfrac{30 \times 120}{100} \\\\
+&= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+&= 3 \times 12  \\\\
+&= 36
 \end{aligned}
 $
-
 </code></pre>
 </div>
 </div>
@@ -7883,7 +8072,7 @@ from step 4: change  (dont multiply if we can cancel anything)                  
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>535CC06F-08C9-458B-B841-4C448F5D0876</p>
 </div>
@@ -7897,7 +8086,7 @@ from step 4: change  (dont multiply if we can cancel anything)                  
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7982,13 +8171,12 @@ Write three-fifths as a percentage.
 
 $
 \begin{aligned}
-&= \text{three-fifths as a percentage} \\\\
-&= \dfrac{3}{5} \times 100 \% \\\\
+&= \dfrac{3}{5} \times 100 \\\\
 &= \dfrac{3 \times 100}{5} \\\\
 &= \dfrac{3 \times 20 \times 5}{5} \\\\
-&= \dfrac{3 \times 20 \times \cancel{5}}{\cancel{5}} \\\\
+&= \dfrac{3 \times 20 \times \cancel{5}} {\cancel{5}} \\\\
 &= 3 \times 20 \\\\
-&= 60\%
+&= 60 \%
 \end{aligned}
 $
 
@@ -8009,13 +8197,12 @@ $60 \%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \text{three-fifths as a percentage} \\\\
-&= \dfrac{3}{5} \times 100 \% \\\\
+&= \dfrac{3}{5} \times 100 \\\\
 &= \dfrac{3 \times 100}{5} \\\\
 &= \dfrac{3 \times 20 \times 5}{5} \\\\
-&= \dfrac{3 \times 20 \times \cancel{5}}{\cancel{5}} \\\\
+&= \dfrac{3 \times 20 \times \cancel{5}} {\cancel{5}} \\\\
 &= 3 \times 20 \\\\
-&= 60\%
+&= 60 \%
 \end{aligned}
 $
 </code></pre>
@@ -8083,7 +8270,7 @@ change: \dfrac{3}{5} \times \dfrac{20}{20}                                      
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C82E5C30-82DD-4D11-B4AF-0C2607D4E161</p>
 </div>
@@ -8097,7 +8284,7 @@ change: \dfrac{3}{5} \times \dfrac{20}{20}                                      
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8174,20 +8361,20 @@ What is the difference between $20 \%$ of $90$ and $90 \%$ of $20$?
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+Let's calculate the first value,
 
 $
 \begin{aligned}
 &= 20 \% \ \text {of} \ 90 \\\\
 &= \dfrac {20} {100} \times 90 \\\\
 &= \dfrac {20 \times 90} {100} \\\\
-&= \dfrac {20 \times 5 \times 18} {20 \times 5} \\\\
-&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {20} \times \cancel {5}} \\\\
+&= \dfrac {20 \times 5 \times 18} {5 \times 20} \\\\
+&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {5} \times \cancel {20}} \\\\
 &= 18
 \end{aligned}
 $
 
-Let's calculate the second value.
+Let's calculate the second value,
 
 $
 \begin{aligned}
@@ -8204,9 +8391,8 @@ Using the calculation above,
 
 $
 \begin{aligned}
-&= \text {first value} - \text {second value} \\\\
-&= 18 - 18 \\\\
-&= 0
+\text {Difference}  &= 18 - 18 \\\\
+                    &= 0
 \end{aligned}
 $
 
@@ -8222,21 +8408,21 @@ $0$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
-
+<pre class='language-latex'><code class='language-latex'>Let's calculate the first value,
+<emptyline>
 $
 \begin{aligned}
 &= 20 \% \ \text {of} \ 90 \\\\
 &= \dfrac {20} {100} \times 90 \\\\
 &= \dfrac {20 \times 90} {100} \\\\
-&= \dfrac {20 \times 5 \times 18} {20 \times 5} \\\\
-&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {20} \times \cancel {5}} \\\\
+&= \dfrac {20 \times 5 \times 18} {5 \times 20} \\\\
+&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {5} \times \cancel {20}} \\\\
 &= 18
 \end{aligned}
 $
-
-Let's calculate the second value.
-
+<emptyline>
+Let's calculate the second value,
+<emptyline>
 $
 \begin{aligned}
 &= 90 \% \ \text {of} \ 20 \\\\
@@ -8247,14 +8433,13 @@ $
 &= 18
 \end{aligned}
 $
-
+<emptyline>
 Using the calculation above,
-
+<emptyline>
 $
 \begin{aligned}
-&= \text {first value} - \text {second value} \\\\
-&= 18 - 18 \\\\
-&= 0
+\text {Difference}  &= 18 - 18 \\\\
+                    &= 0
 \end{aligned}
 $
 </code></pre>
@@ -8633,7 +8818,7 @@ $20 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Percentage red sweets}       &= \dfrac {4} {16 + 4} \ \times \ 100 \\\\

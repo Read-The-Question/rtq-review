@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-oldpr"
 title: "TopicPaper - Number - 14 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7EDC8D07-F0B7-488E-966B-4C742A083200</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -95,39 +95,10 @@ Look at the list of numbers below.
 $6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\, 53 \,\,\,\, 169$  
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -161,7 +132,7 @@ $49, 169$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The square numbers have an odd numbers of factors.
-
+<emptyline>
 $
 \begin{aligned}
 49  &= 7^2 \\\\
@@ -198,7 +169,8 @@ Give another example of a number with an odd number of factors.
 
 $
 \begin{aligned}
-15 &= 3\times 5
+&= 15 \\\\ 
+&= 3\times 5
 \end{aligned}
 $
 
@@ -216,7 +188,8 @@ $15$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-15 &= 3\times 5
+&= 15 \\\\ 
+&= 3\times 5
 \end{aligned}
 $
 </code></pre>

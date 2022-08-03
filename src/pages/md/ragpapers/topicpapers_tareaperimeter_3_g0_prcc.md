@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-3-g0-prcc"
 title: "TopicPaper - Areaperimeter - 3 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -155,11 +155,11 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add a diagram to show three rectangles along with the measurements*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total Area}  &= \text {Rectangle 1 + Rectangle 2 + Rectangle 3} \\\\
@@ -168,7 +168,7 @@ $
                     &= 158 \ \text {cm}^2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter} &= \text {Sum of all the sides} \\\\
@@ -361,7 +361,7 @@ $58 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}   &= \text {Sum of all sides} \\\\ 
@@ -594,9 +594,9 @@ $160 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of square} &= 4 \times 40 \\\\
@@ -668,11 +668,11 @@ $196 \ \text {cm} ^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the length of shaded inner square $= l$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {l}       &= 40 - (2 \times 13) \\\\
@@ -680,9 +680,9 @@ $
 \text {l}       &= 14
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $l$ to find area of shaded inner square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}           &= 14 \times 14 \\\\
@@ -895,15 +895,15 @@ $50 \ \text{cm} ^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the width of the rectangle $= a$
-
+<emptyline>
 Length of the rectangle $= 2a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (2a + a)                         &= 30 \\\\
@@ -915,11 +915,11 @@ a                                         &= \dfrac {5 \times \cancel {6}} {\can
 a                                         &= 5 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Width of the rectangle $= 5 \ \text {cm}$
-
+<emptyline>
 Length of the rectangle $= 10 \ \text {cm}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of the rectangle}        &= 5 \times 10 \\\\
@@ -1142,33 +1142,33 @@ $4 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, 
-
+<emptyline>
 Length $= 8 \ \text{m}$
-
+<emptyline>
 Width  $= 20 \ \text{m}$
-
+<emptyline>
 
 To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
-
+<emptyline>
 Let's find the highest common factor of $8$ and $20$.
-
+<emptyline>
 Factors of $8 = 1, 2, \bold 4, 8$
-
+<emptyline>
 Factors of $20 = 1, 2, \bold 4, 5, 20$
-
+<emptyline>
 The highest common factor of $8$ and $20=4$.
-
+<emptyline>
 So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternative solution
-
+<emptyline>
 As per the question,
-
+<emptyline>
 LCM of 8 and 20 $= 40$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
@@ -1386,11 +1386,11 @@ $54 \ \text{m}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the given diagram divided into three rectangles with measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the diagram, the shape can be divided into three rectangles
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of the shape}                  &= \text{Perimeter of 3 rectangles} - \text{4 Overlapping width} \\\\
@@ -1603,9 +1603,9 @@ $12.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter}                               &= 3(x +1) + 2(x - 2) + 4x \\\\
@@ -1837,9 +1837,9 @@ $10 \text{cm}^{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}                        &= 5 \times 2 \\\\
@@ -1904,9 +1904,9 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of triangles}                          &= \dfrac {\text {Area of rectangle}} {\text {Area of triangle}}  \\\\
@@ -2120,23 +2120,23 @@ $40 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the original length $= l$.
-
+<emptyline>
 Let the original width $= w$.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of original rectangle}              &= 2 \times (l + w)
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Increased length $= l + 10$
-
+<emptyline>
 Increased width $= w + 10$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of increased rectangle}    &= 2 \times (l + 10 + w + 10) \\\\
@@ -2145,7 +2145,7 @@ $
                                             &= \text {Perimeter of original rectangle} + 40
 \end{aligned}
 $
-
+<emptyline>
 The perimeter is increased by $40$.
 </code></pre>
 </div>
@@ -2346,26 +2346,26 @@ $80 \ \text {cm} ^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the length of the rectangle $= l$
-
+<emptyline>
 Let the width of the rectangle $= w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of rectanlge}   &= 20 \\\\
 l \times w                  &= 20 \ \text {cm}^2
 \end{aligned}
 $
-
+<emptyline>
 After sides are doubled,
-
+<emptyline>
 New length $= 2 \times l$
-
+<emptyline>
 New width $= 2 \times w$
-
+<emptyline>
 $
 \begin{aligned}
 \text {New area}    &= (2 \times l) \times (2 \times w) \\\\
@@ -2572,13 +2572,13 @@ Area $=$ $48 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter}    &= 9 + (10 - 6) + (9 - 2) + 6 + 2 + 10 \\\\
@@ -2788,11 +2788,11 @@ $86 \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_circle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of square}                   &= 20 \times 20 \\\\
@@ -3016,15 +3016,15 @@ $48 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the rectangle $= a$
-
+<emptyline>
 Length $= 2a$
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 $
 \begin {aligned}
 2a \times a                     &= 128 \\\\
@@ -3037,16 +3037,16 @@ a                               &= \sqrt {64} \\\\
 a                               &= 8 \ \text{cm}
 \end {aligned}
 $
-
+<emptyline>
 Width of the rectangle $= 8 \ \text {cm}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Length of the rectangle}  &= 2 \times 8 \\\\
                                 &= 16 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter}               &= 2 \times (16 + 8) \\\\
@@ -3239,11 +3239,11 @@ $7.4 \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 rtq_abbr_md_unit_note
-
+<emptyline>
 Let's convert all the lenghts into meters.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter of the shape}  &= 80 \ \text {cm} + 1.6 \text {m} + (1.8 \text {m} - 80 \ \text {cm}) + 30 \ \text {cm} + 1.8 \text {m} + (1.6 \text {m} + 30 \ \text {cm}) \\\\
@@ -3446,11 +3446,11 @@ $292 \ \text {cm}^2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add a diagram the given shape divided into two rectangles.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into two rectangle
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total Area}        &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
@@ -3646,9 +3646,9 @@ $24 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of cross shape tile} &= \text {Perimeter of the big square} - 8 \times \text {Corner squares} \\\\
@@ -3711,7 +3711,7 @@ $48 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter} &= 3 \times \text{Perimeter of tile} - 4 \times \text{Common side between tiles} \\\\
@@ -3774,7 +3774,7 @@ $132 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of 10 tiles} &= 10 \times \text{Perimeter of tile} - 18 \times \text{Common side between tiles} \\\\
@@ -3967,9 +3967,9 @@ $12.90 \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter}                 &= 2 \times (4.65 + 1.8) \\\\
@@ -4165,11 +4165,11 @@ $144 \ \text {cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 As the radius of circle is $6 \ \text {cm}$, the length of a side of the square must be at least $12 \ \text {cm}$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Area of a square}  &= 12 \times 12 \\\\

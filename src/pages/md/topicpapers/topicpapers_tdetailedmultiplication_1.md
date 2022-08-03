@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-1"
 title: "TopicPaper - Detailedmultiplication - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -676,9 +676,9 @@ $0$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Any number when multiplied with zero is zero. 
-
+<emptyline>
 Using that we get,
-
+<emptyline>
 $
 \begin {aligned}
 &= 5 \times 4 \times 3 \times 2 \times 1 \times 0 \\\\
@@ -1980,9 +1980,9 @@ $704$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 26 \times 37    &= a + 258 \\\\
@@ -2362,7 +2362,7 @@ $17.28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &    2   &   1   &   6 \\
@@ -2371,11 +2371,11 @@ $
 1      &    7   &   2   &   8
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 $= 17.28$
 </code></pre>
 </div>
@@ -3364,7 +3364,7 @@ $44.22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
           &   4   &   0   &   2 \\
@@ -3376,11 +3376,11 @@ $
 4         &   4   &   2   &   2
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 $= 44.22$
 </code></pre>
 </div>
@@ -4846,13 +4846,13 @@ $0.006$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $2 \times 3 = 6$
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is three.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= 0.006$
 </code></pre>
 </div>

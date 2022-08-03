@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-18-pr-prpcr"
 title: "TopicPaper - Number - 18 - PR - PRPCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -575,7 +575,7 @@ $
                               &= 10 \neq 12
 \end{aligned}
 $
-
+<emptyline>
 12 is not a perfect number.
 </code></pre>
 </div>
@@ -633,9 +633,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$6$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Factors of 6}           &= 1, 2, 3 \\\\
@@ -1119,7 +1119,7 @@ TODOANSWER
 \dfrac{3}{5} & < & 70\%
 \end{array}
 $
-
+<emptyline>
 Therefore, $70\%$ is greater than $\dfrac{3}{5}$
 </code></pre>
 </div>
@@ -1327,9 +1327,9 @@ $31$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We can easily infer the number by using trial and error.
-
+<emptyline>
 $31$
-
+<emptyline>
 On reversing $31$, $13$ is also a prime.
 </code></pre>
 </div>

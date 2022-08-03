@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-oldpr"
 title: "TopicPaper - Time - 2 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -105,7 +105,7 @@ $70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{se
 $
 \begin {aligned}
 \text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
-                    &= 89 - 20 \\\\
+                    &= 89 - 18 \\\\
                     &= 71 \ \text {seconds}
 \end {aligned}
 $
@@ -128,7 +128,7 @@ $71 \ \text {seconds}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
-                    &= 89 - 20 \\\\
+                    &= 89 - 18 \\\\
                     &= 71 \ \text {seconds}
 \end {aligned}
 $
@@ -203,7 +203,7 @@ recheck
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>87F66A43-5223-4E50-9A24-6CC4F1EDA93A</p>
 </div>
@@ -217,7 +217,7 @@ recheck
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -296,7 +296,7 @@ A train leaves Waterloo at $11.35$ and arrives in Portsmouth after one hour and 
 
 $
 \begin{aligned}
-\text{Trains arrives in Portsmouth}               &= 11{:}35 + 1 \ \text{hour} \ \ 38 \ \text{minutes} \\\\
+\text{Arrival Time}                               &= 11{:}35 + 1 \ \text{hour} \ 38 \ \text{minutes} \\\\
                                                   &= 13{:}13
 \end{aligned}
 $
@@ -315,7 +315,7 @@ $13{:}13$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Trains arrives in Portsmouth}               &= 11{:}35 + 1 \ \text{hour} \ \ 38 \ \text{minutes} \\\\
+\text{Arrival Time}                               &= 11{:}35 + 1 \ \text{hour} \ 38 \ \text{minutes} \\\\
                                                   &= 13{:}13
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g1"
 title: "TopicPaper - Time - 4 - G1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -128,7 +128,7 @@ $
 &= \text {April} \ 2\text{nd} \ \text {Thursday}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>

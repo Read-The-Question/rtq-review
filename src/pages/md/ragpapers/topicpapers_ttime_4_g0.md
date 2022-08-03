@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g0"
 title: "TopicPaper - Time - 4 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -158,7 +158,7 @@ $\underline {{\text {Jonathan is wrong because I can manage making a coffee in a
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Jonathan is wrong because I can manage making a coffee in a machine and toasting the breast in a toaster as a parallel task. 
-
+<emptyline>
 The coffee making takes $2 \ \text{minutes}$, which I can do while my bread is getting toasted in the toaster, which takes $3 \ \text{minutes}$. 
 </code></pre>
 </div>
@@ -213,7 +213,7 @@ $4 \ \text{minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The shortest time taken by me to prepare my breakfast is,
-
+<emptyline>
 $
 \begin{aligned}
       & = \text {Brown the toast in toaster + Butter the toast} \\\\
@@ -221,7 +221,7 @@ $
       & = 4 \ \text{minutes}                               
 \end{aligned}
 $
-
+<emptyline>
 The shortest time taken by me to prepare my breakfast is $=4 \ \text{minutes}$
 </code></pre>
 </div>
@@ -697,7 +697,7 @@ $11{:}11, \ 08{:}08$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Least glow $= 11{:}11$
-
+<emptyline>
 Greatest glow $= 08{:}08$
 </code></pre>
 </div>

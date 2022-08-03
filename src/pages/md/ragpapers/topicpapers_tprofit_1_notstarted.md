@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-notstarted"
 title: "TopicPaper - Profit - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -1912,15 +1912,15 @@ $\pounds 30000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'> $\dfrac{ \text {Parts}} {\text {Whole}} \times 100 \%  =$ Percentage
-
+<emptyline>
 Whole = $\pounds 25000$ 
-
+<emptyline>
 Percentage $=120 \%$
-
+<emptyline>
 Let's substitute and find $Part$ taken as $x$, which is the actual selling price of the car.
-
+<emptyline>
 $\dfrac {x} {25000} \times 100 = 120 \% $
-
+<emptyline>
 $
 \begin{aligned}
 x &= \dfrac {120 \times 25000}{100} \\\\
@@ -1931,9 +1931,9 @@ x &= \dfrac {120 \times 25000}{100} \\\\
   &= \pounds 30000
 \end{aligned}
 $
-
+<emptyline>
 The selling price of the car was $\pounds 30000$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2083,7 +2083,7 @@ $\pounds 54$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Amount to which Bill sold to Tom $= \pounds 120$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Amount to which Tom  returned}            &= 30\% \ \text{of} \ \pounds 120 \\\\
@@ -2093,9 +2093,9 @@ $
                                                 &= 3 \times 12 \\\\
 \text{Amount to which Tom  returned}            &= \pounds 36
 \end{aligned}
-
+<emptyline>
 Amount to which Bill sold the amount to Jack $= \pounds 90$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Profit on final sale}         &= \text{Selling price} - \text{Cost price} \\\\

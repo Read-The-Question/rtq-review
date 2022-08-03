@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-pr-prns"
 title: "TopicPaper - Simpleword - 3 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -515,7 +515,7 @@ b
 |  $4 \times 8 \times 3$  |   $96$  |
 |  $7 \times 5 \times 3$  |  $105$  |
 |  $7 \times 2 \times 6$  |   $84$  |
-
+<emptyline>
 Largest possible product $= 105$
 </code></pre>
 </div>
@@ -730,14 +730,14 @@ $19{:}50$
                                             &= 18{:}55
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Duration of Natalia journey}      &= 20{:}10 - 18{:}55 \\\\
                                         &= 75 \ \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Duration of Sara journey}      &= \dfrac {\text{Duration of Natalia journey}} {3} \\\\
@@ -747,7 +747,7 @@ $
                                      &= 25 \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time when sara arrive at destination}     &= 19{:}25 + 25 \ \text{min} \\\\
@@ -941,7 +941,7 @@ $55 \ \text{min}$
                             &= 100 \ \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time spent on doing homework}           &= (100 - 25 - 20) \ \text{min} \\\\
@@ -1412,7 +1412,7 @@ $\dfrac {7} {20}$
                                                     &= 35 \ \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of film shot inside The Manor House} &= \dfrac {35} {100} \\\\
@@ -1770,7 +1770,7 @@ D
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers between $30$ and $50$ $= 31, 37, 41, 43, 47$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sum of numbers}               &= 31 + 37 + 41 + 43 + 47 \\\\
@@ -2911,7 +2911,7 @@ Number of spare pencils $= 20$
                                         &= 15
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of spare pencils}         &= 15 \times 24 - 340\\\\

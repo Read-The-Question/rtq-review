@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g2"
 title: "TopicPaper - Time - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -127,7 +127,7 @@ $1953$
                             &= 1953 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1060,9 +1060,9 @@ $68 \ \text {miles/hour}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_formula_speed
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. The time is calculated in minutes, but the final speed has to be in miles per hour.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Speed}    &= \dfrac {170 \ \text {miles}} {150 \ \text {minutes}} \\\\
@@ -2384,11 +2384,11 @@ $2 \ \text {hours } 40 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the time spent playing each weekday $= a$
-
+<emptyline>
 Time spent playing on weekend $= 2a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 5 \times a + 2 \times 2a         &= 12  \\\\
@@ -2400,7 +2400,7 @@ a                                &= \dfrac {\cancel{3} \times 4} {\cancel{3} \ti
 a                                &= \dfrac {4} {3} \ \text {hours}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time spent on saturday}    &= 2a  \\\\
@@ -3729,7 +3729,7 @@ $
                                     &= 36
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4548,9 +4548,9 @@ $18 \text{hours}$
 | SAT                | 9 Till 5        |
 | SUN                | 1 Till 5        |
 | WEDS and FRI       | 2 Till 5        |
-
+<emptyline>
 Let's calculate the total hours it is open in each week.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total hours}   &= \text {Sat} + \text {Sun} + \text {Wed} + \text {Fri} \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-oldpr-prcr"
 title: "TopicPaper - Order - 2 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -133,9 +133,9 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $10, 20, 3 = 60$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {7} {10}, \dfrac {13} {20}, \dfrac {2} {3} \\\\
@@ -143,9 +143,9 @@ $
 &= \dfrac {42} {60}, \dfrac {39} {60}, \dfrac {40} {60}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {39} {60}, \quad \dfrac {40} {60}, \quad \dfrac {42} {60}  \\\\
@@ -1105,7 +1105,7 @@ $9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's put them in ascending order.
-
+<emptyline>
 $
 \begin{aligned}
 &= 9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7
@@ -1482,9 +1482,9 @@ $\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $4, 5, 10, 20 = 20$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {4}, \quad \dfrac {3} {5}, \quad \dfrac {9} {10},  \quad\dfrac {17} {20} \\\\
@@ -1492,9 +1492,9 @@ $
 &= \dfrac {15} {20}, \quad \dfrac {12} {20}, \quad \dfrac {18} {20} , \quad\dfrac {17} {20}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {12} {20} < \quad  \dfrac {15} {20} < \quad \dfrac {17}{20} < \quad \dfrac {18} {20} \\\\

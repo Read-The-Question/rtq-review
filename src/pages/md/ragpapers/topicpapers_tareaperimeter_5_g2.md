@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-g2"
 title: "TopicPaper - Areaperimeter - 5 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -196,9 +196,9 @@ $2500 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of one slab}         &= \dfrac{1}{2} \ \text{m} \times \dfrac{1}{2} \ \text{m} \\\\

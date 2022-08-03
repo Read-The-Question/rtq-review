@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-blocked"
 title: "TopicPaper - Simpleword - 3 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -180,7 +180,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of glasses $=g$
-
+<emptyline>
 $
 \begin{aligned}
 225 \text{ml} \times \text {g}  &= 1.8 \text{litres} \\\\

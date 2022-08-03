@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g0-prcc"
 title: "TopicPaper - Areaperimeter - 2 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -185,7 +185,7 @@ $8 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Top missing length}  &= 5 + 2 + 5 \\\\
@@ -197,7 +197,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Side missing length} &= 8 \ \text {cm}
@@ -267,9 +267,9 @@ $44 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter of the T shape}  &= 2 \times 3 + 5 \times 2 + 8 \times 2 + 12 \\\\
@@ -346,11 +346,11 @@ $40 \ \text {cm} ^ 2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: add a diagram to show 2 rectangles along with the measurements.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into two rectangles
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total Area}           &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
@@ -577,11 +577,11 @@ Area $=$ $14 \ \text {cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}   &= 2 \times (7 + 2) \\\\
@@ -813,9 +813,9 @@ $28 \ \text {cm}^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_parallelogram_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Height}                 &= 4 \\\\
@@ -1058,11 +1058,11 @@ $A = 14 \ \text{cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}                                                   &= 2 \times (7 + 2) \\\\
@@ -1290,9 +1290,9 @@ $28 \ \text {cm}^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_parallelogram_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Height}                 &= 4 \\\\
@@ -1531,9 +1531,9 @@ $14.8 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{ Perimeter}   &= 3 + 5.8 + 6 \\\\
@@ -1594,9 +1594,9 @@ $7.5 \text { cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}        &= \dfrac {1} {2} \times 3 \times 5 \\\\
@@ -1822,15 +1822,15 @@ $55 \ \text{ cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the width (in cm) $= a$
-
+<emptyline>
 Length $= 6 + a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (a + (6 + a))         &= 32 \\\\
@@ -1843,9 +1843,9 @@ a                              &= \dfrac {5 \times \cancel {4} } {\cancel {4} } 
 a                              &= 5 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of the rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}  &= 5 \times (6 + 5) \\\\
@@ -2097,11 +2097,11 @@ $460 \ \text {m}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add a diagram with missing sides calculated.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {The mouse walked}  &= 70 + 75 + (130 - 70) + 25 + 130 + (75 + 25) \\\\
@@ -2308,9 +2308,9 @@ $12 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}   &= 3 + 4 + 5 \\\\
@@ -2503,9 +2503,9 @@ $48 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_regular_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}   &= 8 \times \text {side} \\\\
@@ -2706,7 +2706,7 @@ $80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of slabs}  &= \dfrac {\text{Area of the garden}} {\text{Area of a slab}} \\\\
@@ -2909,9 +2909,9 @@ $3 a + 2 b$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter}   &= a + a + a + b + b \\\\
@@ -3159,11 +3159,11 @@ $20 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the width of the tile (in $\text{cm}$) $= w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 w \times w        &= 400 \\\\
@@ -3246,11 +3246,11 @@ $60 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the length of the tile (in $\text{cm}$) $= l$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of four rectangular tiles}      &= 12 \times 400 \ \text{cm} ^2 \\\\
@@ -3261,9 +3261,9 @@ $
                                             &= 1200 \ \text {cm} ^2
 \end{aligned}
 $
-
+<emptyline>
 Let's use this area to find $l$.
-
+<emptyline>
 $
 \begin{aligned}
 l \times w      &= 1200 \\\\
@@ -3335,11 +3335,11 @@ $1.6 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_rectangle_expanded
-
+<emptyline>
 Let the perimeter of the tile (in $\text{cm}$) $= p$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 p   &= 2 \times (60 + 20) \\\\
@@ -3350,7 +3350,7 @@ p   &= \dfrac {160} {100} \\\\
 p   &= 1.6 \ \text {m}
 \end{aligned}
 $
-
+<emptyline>
 Perimeter of one tile (in metres) $= 1.6$
 </code></pre>
 </div>
@@ -3564,11 +3564,11 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add a diagram to show two rectangles along with the measurements*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into two rectangles
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total Area} &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
@@ -3577,7 +3577,7 @@ $
                    &= 102 \ \text {cm}^2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total Perimeter} &= \text {Sum of all the sides} \\\\
@@ -3801,9 +3801,9 @@ $2 (h + w)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_rectangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $\text {Perimeter} = 2 (h + w)$
 </code></pre>
 </div>
@@ -3868,15 +3868,15 @@ $32 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Factors of $55 = 1, 5, 11, 55$
-
+<emptyline>
 $5$ and $11$ are prime numbers.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter}   &= 2 \times (5 + 11) \\\\

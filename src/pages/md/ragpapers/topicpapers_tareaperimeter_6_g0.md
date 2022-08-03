@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-g0"
 title: "TopicPaper - Areaperimeter - 6 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -141,9 +141,9 @@ $50 \ \text{cm}^{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_trapezium_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}                 &= \dfrac {8+12} {2}\times 5\\\\
@@ -388,11 +388,11 @@ $3 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the width of the field $= w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 8 \times w                 &= 24 \\\\
@@ -402,7 +402,7 @@ w                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
 w                          &= 3 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 Width of the rectangle field $= 3 \ \text{m}$
 </code></pre>
 </div>
@@ -458,9 +458,9 @@ $22 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}                &= 2 \times (8 + 3) \\\\
@@ -536,11 +536,11 @@ $6 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the length $= l$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (4 + l)                 &= 20 \\\\
@@ -606,9 +606,9 @@ $24 \ \text {m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area} &= 4 \times 6 \\\\
@@ -669,7 +669,7 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>*TODO: Add explanation, not sure how to go about this one.*
-
+<emptyline>
 $10 \ \text{and} 5,7 \ \text{and} 8$
 </code></pre>
 </div>
@@ -881,13 +881,13 @@ $80 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the square $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 9 \times s ^ 2  &= 144 \\\\
@@ -899,11 +899,11 @@ s               &= \sqrt {16} \\\\
 s               &= 4 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 *TODO: Add a description on counting all the sides of the shape which makes the perimeter*.
-
+<emptyline>
 Let's find the perimeter of the shape.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter} &= 20 \times 4 \\\\

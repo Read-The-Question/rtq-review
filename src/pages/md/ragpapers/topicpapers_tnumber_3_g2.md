@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-g2"
 title: "TopicPaper - Number - 3 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -959,7 +959,7 @@ $\pounds 2.13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {6} \text{ of } \pounds 12.78\\\\
@@ -2825,7 +2825,7 @@ $42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \times 4 + 5 \times 6 \\\\

@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-g0"
 title: "TopicPaper - Number - 12 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prccrl question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>211838E2-E95A-47E2-855F-B9E96DAB6F7D</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prccrl</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -94,39 +94,10 @@ tnumber
 Insert an inequality sign $<$ or $>$ to make the following statements correct:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -174,25 +145,25 @@ $\dfrac {6} {10} \quad  <  \quad \dfrac {3} {4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's simplify the left hand side value.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {6} {10} \\\\
 &= 0.6
 \end {aligned}
 $
-
+<emptyline>
 Let's simplify the right hand side value.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {3} {4} \\\\
 &= 0.75
 \end {aligned}
 $
-
+<emptyline>
 Using the simplification above,
-
+<emptyline>
 $\dfrac {6} {10} \quad \boxed{\rtq_katex_color_answer{<}}  \quad  \dfrac {3} {4}$
 </code></pre>
 </div>
@@ -227,7 +198,7 @@ Let's simplify the left hand side value.
 $
 \begin {aligned}
 &= \dfrac {8} {7} \\\\
-&= 1.4
+&\approx 1.4
 \end {aligned}
 $
 
@@ -236,7 +207,7 @@ Let's simplify the right hand side value.
 $
 \begin {aligned}
 &= \dfrac {11} {13} \\\\
-&= 0.84
+&\approx 0.84
 \end {aligned}
 $
 
@@ -258,25 +229,25 @@ $\dfrac {8} {7} \quad  >  \quad \dfrac {11} {13}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's simplify the left hand side value.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {8} {7} \\\\
-&= 1.4
+&\approx 1.4
 \end {aligned}
 $
-
+<emptyline>
 Let's simplify the right hand side value.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {11} {13} \\\\
-&= 0.84
+&\approx 0.84
 \end {aligned}
 $
-
+<emptyline>
 Using the simplification above,
-
+<emptyline>
 $\dfrac {8} {7} \quad \boxed{\rtq_katex_color_answer{>}}  \quad  \dfrac {11} {13}$
 </code></pre>
 </div>

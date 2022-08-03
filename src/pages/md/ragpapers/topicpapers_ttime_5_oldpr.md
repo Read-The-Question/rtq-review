@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-oldpr"
 title: "TopicPaper - Time - 5 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2ECD1434-C766-49F8-BD0F-76B2F1255AD9</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -202,7 +202,7 @@ At what time does train $2$ arrive at Raymar?
 
 $
 \begin {aligned}
-\text {Arrival time for train 2}  &= 14 {:} 51 + 2 \ \text {hours} \ 19 \text {minutes} \\\\
+\text {Arrival Time}              &= 14 {:} 51 + 2 \ \text {hours} \ 19 \ \text {minutes} \\\\
                                   &= 17 {:} 10
 \end {aligned}
 $
@@ -221,7 +221,7 @@ $17 {:} 10$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {Arrival time for train 2}  &= 14 {:} 51 + 2 \ \text {hours} \ 19 \text {minutes} \\\\
+\text {Arrival Time}              &= 14 {:} 51 + 2 \ \text {hours} \ 19 \ \text {minutes} \\\\
                                   &= 17 {:} 10
 \end {aligned}
 $
@@ -299,7 +299,7 @@ step 1: add a \' between 19 and \text
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>0EFEAB67-5E19-4D70-9808-049CC51102F6</p>
 </div>
@@ -313,7 +313,7 @@ step 1: add a \' between 19 and \text
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -396,9 +396,9 @@ At what time does the concert end?
 
 $
 \begin {aligned} 
-\text {End time of concert}  &= 2 {:} 45 \ \text {p.m.} + (2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes}) \\\\
-                             &= 2 {:} 45 \ \text {p.m.} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
-                             &= 5 {:} 33 \ \text {p.m.}
+&= 2 {:} 45 \ \text {pm} + 2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes} \\\\
+&= 2 {:} 45 \ \text {pm} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
+&= 5 {:} 33 \ \text {pm}
 \end {aligned}
 $
 
@@ -407,7 +407,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5 {:} 33 \ \text {p.m.}$
+$5 {:} 33 \ \text {pm}$
 
 </div>
 </div>
@@ -416,9 +416,9 @@ $5 {:} 33 \ \text {p.m.}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned} 
-\text {End time of concert}  &= 2 {:} 45 \ \text {p.m.} + (2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes}) \\\\
-                             &= 2 {:} 45 \ \text {p.m.} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
-                             &= 5 {:} 33 \ \text {p.m.}
+&= 2 {:} 45 \ \text {pm} + 2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes} \\\\
+&= 2 {:} 45 \ \text {pm} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
+&= 5 {:} 33 \ \text {pm}
 \end {aligned}
 $
 </code></pre>
@@ -432,7 +432,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5 {:} 33 \ \text {p.m.}$
+<pre class='language-latex'><code class='language-latex'>$5 {:} 33 \ \text {pm}$
 </code></pre>
 </div>
 </div>
@@ -502,7 +502,7 @@ remove L.H.S.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>43446268-ADB0-4C0A-8C8B-BD6F377D2D08</p>
 </div>
@@ -516,7 +516,7 @@ remove L.H.S.
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -597,9 +597,7 @@ At what time did Georgie reach school?
 
 $
 \begin {aligned}  
-\text {Time Georgie reach school}  &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
-                                   &= 7 {:} 55 + 5 + 40 \\\\
-                                   &= 8 {:} 00 + 40 \\\\
+\text {Arrival Time}               &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
                                    &= 8 {:} 40 \ \text {a.m.}
 \end {aligned}
 $
@@ -618,9 +616,7 @@ $8 {:} 40 \ \text {a.m.}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}  
-\text {Time Georgie reach school}  &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
-                                   &= 7 {:} 55 + 5 + 40 \\\\
-                                   &= 8 {:} 00 + 40 \\\\
+\text {Arrival Time}               &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
                                    &= 8 {:} 40 \ \text {a.m.}
 \end {aligned}
 $

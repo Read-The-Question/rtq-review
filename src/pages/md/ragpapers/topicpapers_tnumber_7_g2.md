@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-g2"
 title: "TopicPaper - Number - 7 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -496,7 +496,7 @@ $101$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (999 - 99 + 9) \div 9 \\\\
@@ -695,7 +695,7 @@ $9$
 \text{Count}                &= 9
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -881,7 +881,7 @@ $1999$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 19 + 99 + 19 \times 99 \\\\
@@ -1094,7 +1094,7 @@ $9 \times 6 + 73 = 96 + 7 \times 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 \text {A. First value }    &= 4 \times 5 + 67 \\\\
@@ -2629,9 +2629,9 @@ $24, 44$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$44, 24$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin {aligned}
 &= 44 - 24 \\\\
@@ -3518,9 +3518,9 @@ $0.142$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the other number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1}{2} \times (0.11 + a)     &= 0.126 \\\\
@@ -3530,7 +3530,7 @@ a                                    &= 0.252 - 0.11 \\\\
 a                                    &= 0.142
 \end{aligned}
 $
-
+<emptyline>
 Other number $= 0.142$
 </code></pre>
 </div>
@@ -3720,7 +3720,7 @@ $
 &= 210
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4362,13 +4362,13 @@ $0.06$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $2 \times 3 = 6$
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= 0.06$
 </code></pre>
 </div>
@@ -4892,7 +4892,7 @@ $5600$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the above method,
-
+<emptyline>
 $
 \begin{aligned}
 &= 83 ^ {2} - 17 ^ {2} \\\\
@@ -5603,7 +5603,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers $= 23, 29$
-
+<emptyline>
 Count $= 2$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-3"
 title: "TopicPaper - Sequence - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -491,9 +491,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding together the last two terms. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(0 + 0)} }
@@ -507,7 +507,7 @@ $
 0, && 1,  &&  1, &&  2, &&  3, &&  5,  &&   8,  &&  13,  && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Missing number}       &= 8 + 13 \\\\
@@ -651,7 +651,7 @@ $987$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Sixteenth Fibonacci number}  &= \text {Fourteenth Fibonacci number} + \text {Fifteenth Fibonacci number} \\\\
@@ -990,9 +990,9 @@ $26$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The difference between the terms is increasing by $1$ more than the difference between the previous numbers. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(+3)}}
@@ -1003,7 +1003,7 @@ $
 1,  &&    4,  &&  8,  &&   13,  &&   19,   &&   \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Missing number}      &= 19 + 7 \\\\
@@ -1079,9 +1079,9 @@ $32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(\times 2)}} 
@@ -1092,7 +1092,7 @@ $
 1,  &&    2,  &&  4,  &&   8,  &&   16,   &&   \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Missing number}      &= 16 \times 2 \\\\
@@ -1168,9 +1168,9 @@ $75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The difference between the terms is decreasing in the sequence of natural odd numbers. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(-1)}}
@@ -1181,7 +1181,7 @@ $
 100,  &&    99,  &&  96,  &&   91,  &&   84,   &&   \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Missing number}      &= 84 - 9 \\\\
@@ -1257,9 +1257,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The difference between the previous two terms is next number in the sequence. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(-34)}}
@@ -1270,7 +1270,7 @@ $
 89,  &&    55,  &&  34,  &&   21,  &&   13,   &&   \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Missing number}      &= 13 - 5 \\\\
@@ -1393,9 +1393,9 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 It is a sequence of cube numbers.
-
+<emptyline>
 $
 \begin{matrix}
     \footnotesize{\rtq_katex_color_info{(1^3)}}
@@ -1407,7 +1407,7 @@ $
 1,  &&    8,  &&  27,  &&  \ldots ,  &&   125,   &&   216
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Missing number}   &= 4^3 \\\\
@@ -2067,7 +2067,7 @@ $\dfrac {20} {32}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin{matrix}
     \footnotesize{\rtq_katex_color_info{( \dfrac {5} {8} \times \dfrac{1} {1} )}}
@@ -2077,7 +2077,7 @@ $
 \dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Missing number}       &= \dfrac {5} {8} \times \dfrac{4} {4} \\\\
@@ -2287,9 +2287,9 @@ $22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(+3)}}
@@ -2301,7 +2301,7 @@ $
 10, && 13, && 16, && \ldots,&& \ldots, && 25, && 28
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 16 + 3 \\\\
@@ -2400,9 +2400,9 @@ $-6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $7$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(-7)}}
@@ -2415,7 +2415,7 @@ $
 29, && 22, && 15, && 8, && \ldots, && \ldots, && -13, && -20
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 8 - 7 \\\\
@@ -2514,9 +2514,9 @@ $-32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{\times (-2)}}
@@ -2529,7 +2529,7 @@ $
 1, && -2, && 4, && -8, && \ldots, && \ldots, && 64, && -128
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}    &= -8 \times -2 \\\\
@@ -3297,9 +3297,9 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-3)} }
@@ -3311,7 +3311,7 @@ $
 28, && 25, && 22, && \ldots, && \ldots, && 13, && 10
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 22 - 3 \\\\
@@ -3410,9 +3410,9 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The difference between every pair of consecutive terms is increasing by 1. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+1)} }
@@ -3425,7 +3425,7 @@ $
 3, && 4, && 6, && 9, && 13, && \ldots, && \ldots, && 31
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 13 + 5 \\\\
@@ -3522,9 +3522,9 @@ $80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {\times (-2)} }
@@ -3536,7 +3536,7 @@ $
 5, && -10, && 20, && \ldots, && \ldots, && -160, &&-320
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 20 \times (-2) \\\\
@@ -4384,9 +4384,9 @@ $42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $7$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+7)} }
@@ -4397,7 +4397,7 @@ $
 7, && 14, && 21, && 28, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 28 + 7 \\\\
@@ -4492,9 +4492,9 @@ $96$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(\times 2)} }
@@ -4505,7 +4505,7 @@ $
 3, && 6, && 12, && 24, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 24 \times 2 \\\\
@@ -4598,7 +4598,7 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-9)} }
@@ -4609,7 +4609,7 @@ $
 50, && 41, && 33, && 26, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 26 - 6 \\\\
@@ -4833,7 +4833,7 @@ $36$
                &= 25
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Line 5} &= 5 \times 5 + 11 \\\\
@@ -5263,9 +5263,9 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+3)} }
@@ -5276,7 +5276,7 @@ $
 3, && 6, && 9, && 12, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 12 + 3 \\\\
@@ -5371,9 +5371,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $5$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+5)} }
@@ -5384,7 +5384,7 @@ $
 2, && 7, && 12, && 17, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 17 + 5 \\\\
@@ -5481,9 +5481,9 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 It is a sequence of square numbers.
-
+<emptyline>
 $
 \begin{matrix}
     \footnotesize {\rtq_katex_color_info {(1 ^ 2)} }
@@ -5495,7 +5495,7 @@ $
 1, && 4, && 9, && 16, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 5 ^ 2 \\\\
@@ -5590,7 +5590,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-6)} }
@@ -5602,7 +5602,7 @@ $
 29, && 23, && 18, && 14, && 11, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 11 - 2 \\\\
@@ -6192,9 +6192,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(+4)}}
@@ -6206,7 +6206,7 @@ $
 3,  &&  7,  &&  11,  &&  15,  &&  19,  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 19 + 4 \\\\
@@ -6301,9 +6301,9 @@ $96$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(\times 2)}} 
@@ -6314,7 +6314,7 @@ $
 3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 24 \times 2 \\\\
@@ -6409,7 +6409,7 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(+2)}}
@@ -6421,7 +6421,7 @@ $
 3,  &&  5,  &&  9,  &&  15,  &&  23,  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 23 + 10 \\\\
@@ -6688,9 +6688,9 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+3)} }
@@ -6702,7 +6702,7 @@ $
 10, && 13, && 16, && 19, && 22, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 22 + 3 \\\\
@@ -6797,7 +6797,7 @@ $39$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-1)} }
@@ -6809,7 +6809,7 @@ $
 60, && 59, && 57, && 54, && 50, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 50 - 5 \\\\
@@ -6905,7 +6905,7 @@ $5040$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(\times 2)} }
@@ -6917,7 +6917,7 @@ $
 1, && 2, && 6, && 24, && 120, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 120 \times 6 \\\\
@@ -6926,7 +6926,7 @@ $
                                   &= 5040
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7140,9 +7140,9 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $7$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+7)} }
@@ -7153,7 +7153,7 @@ $
 5, && 12, && 19, && 26, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 26 + 7 \\\\
@@ -7248,9 +7248,9 @@ $-4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-3)} }
@@ -7261,7 +7261,7 @@ $
 11, && 8, && 5, && 2, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 2 - 3 \\\\
@@ -7356,9 +7356,9 @@ $486$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(\times 3)} }
@@ -7369,7 +7369,7 @@ $
 2, && 6, && 18, && 54, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 54 \times 3 \\\\
@@ -7624,9 +7624,9 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $2$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+2)} }
@@ -7637,7 +7637,7 @@ $
 7, && 9, && 11, && 13, && 15, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Missing number} &= 15 + 2 \\\\
@@ -7711,9 +7711,9 @@ $-17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $4$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-4)} }
@@ -7723,7 +7723,7 @@ $
 -1, && -5, && -9, && -13, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Missing number} &= -13 - 4 \\\\
@@ -7800,9 +7800,9 @@ $125$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 It is a sequence of cube numbers.
-
+<emptyline>
 $
 \begin{matrix}
     \footnotesize {\rtq_katex_color_info {(1 ^ 3)} }
@@ -7813,7 +7813,7 @@ $
 1, && 8, && 27, && 64, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Missing number} &= 5 ^ 3 \\\\
@@ -8064,9 +8064,9 @@ $35$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $6$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+6)} }
@@ -8077,7 +8077,7 @@ $
 5, && 11, && 17, && 23, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 23 + 6 \\\\
@@ -8172,9 +8172,9 @@ $-5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-3)} }
@@ -8185,7 +8185,7 @@ $
 10, && 7, && 4, && 1, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 1 - 3 \\\\
@@ -8280,9 +8280,9 @@ $2048$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by multiplying the previous term by $4$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(\times 4)} }
@@ -8293,7 +8293,7 @@ $
 2, && 8, && 32, && 128, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 128 \times 4 \\\\
@@ -8553,9 +8553,9 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-3)} }
@@ -8565,7 +8565,7 @@ $
 37, && 34, && 31, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 31 - 3 \\\\
@@ -8658,9 +8658,9 @@ $0.05$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(\div 2)} }
@@ -8670,7 +8670,7 @@ $
 0.8, && 0.4, && 0.2, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 0.2 \div 2 \\\\
@@ -8765,9 +8765,9 @@ $243$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(\times 3)} }
@@ -8778,7 +8778,7 @@ $
 1, && 3, && 9, && 27 && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 27 \times 3 \\\\
@@ -9915,9 +9915,9 @@ $34$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $6$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info { (+6)} }
@@ -9928,7 +9928,7 @@ $
 4, && 10, && 16, && 22, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}     &= 22 + 6 \\\\
@@ -10023,9 +10023,9 @@ $243$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info { (\times 3) } }
@@ -10036,7 +10036,7 @@ $
 1, && 3, && 9, && 27, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First Missing number}     &= 27 \times 3 \\\\
@@ -10131,9 +10131,9 @@ $-13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $5$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info { (-5) } }
@@ -10144,7 +10144,7 @@ $
 12, && 7, && 2, && - 3, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First Missing number}     &= -3 - 5 \\\\
@@ -10243,9 +10243,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding together the last two terms. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(0 + 1)} }
@@ -10258,7 +10258,7 @@ $
 1, && 1, && 2, && 3, && 5, && 8, && \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 5 + 8 \\\\
@@ -10736,9 +10736,9 @@ $-19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info {(- 3)}}  
@@ -10749,7 +10749,7 @@ $
 -4,  &&    -7,  &&  -10,  &&   -13,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First Missing number}     &= - 13 - 3 \\\\
@@ -10844,9 +10844,9 @@ $-2.4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $2.1$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info { (-2.1)} }  
@@ -10857,7 +10857,7 @@ $
 8.1,  &&    6,  &&  3.9,  &&   1.8,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First Missing number}     &= 1.8 - 2.1 \\\\
@@ -10954,9 +10954,9 @@ $57$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $12$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info { (+12)} }   
@@ -10968,7 +10968,7 @@ $
 -15,  &&    -3,  &&  9,  &&   21,  &&   33,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First Missing number}     &= 33 + 12 \\\\
@@ -11065,7 +11065,7 @@ $1094$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info { (+ 3 ^ 0)} }   
@@ -11078,7 +11078,7 @@ $
 1,  &&    2,  &&  5,  &&   14,  &&   41,  &&  122,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First Missing number}     &= 122 + 243 \\\\
@@ -11456,7 +11456,7 @@ $50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(+3)}}
@@ -11468,7 +11468,7 @@ $
 2,  &&    5,  &&   7,  &&   12,  &&  19,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}     &= 19 + 12 \\\\
@@ -11563,7 +11563,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(-19)}}
@@ -11575,7 +11575,7 @@ $
 100,  &&    81,  &&   64,  &&   49,  &&  36,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}     &= 36 - 11 \\\\
@@ -12424,9 +12424,9 @@ $-2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(-3)}}
@@ -12437,7 +12437,7 @@ $
 13,  &&    10,  &&   7,  &&   4,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}     &= 4 - 3 \\\\
@@ -12532,7 +12532,7 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(+4)}}
@@ -12544,7 +12544,7 @@ $
 2,  &&    6,  &&   12,  &&   20,  &&   30,  &&  \ldots,  &&   \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}     &= 30 + 12 \\\\
@@ -12977,7 +12977,7 @@ $34$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(+3)}}
@@ -12989,7 +12989,7 @@ $
 1,  &&    4,  &&   8,  &&   13,  &&  19,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}     &= 19 + 7 \\\\
@@ -13088,9 +13088,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding together the last two terms. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(0 + 1)} }
@@ -13103,7 +13103,7 @@ $
 1,  &&  1, &&  2, &&  3, &&  5, &&  8,  &&  \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 5 + 8 \\\\
@@ -13367,7 +13367,7 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(+4)}}
@@ -13379,7 +13379,7 @@ $
 2,  &&    6,  &&  12,  &&   20,  &&  30,  &&  \ldots, && \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}       &= 30 + 12 \\\\
@@ -13478,7 +13478,7 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(+3)}}
@@ -13491,7 +13491,7 @@ $
 1,  &&    4,  &&  9,  &&   16,  &&  25,  &&  36,  &&  \ldots, && \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}       &= 36 + 13 \\\\
@@ -14065,18 +14065,18 @@ The $100$th symbol is $=$ &
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>After oberserving the pattern, the first symbol is &, second is f and third is =. This pattern is repeating in a set of 3.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {100} {3} \\\\
 &= 33 \dfrac {1} {3}
 \end{aligned}
 $
-
+<emptyline>
 As the remainder is $1$, The symbol in the first position is going to repeat in the $100$th position.
-
+<emptyline>
 The $100$th symbol is $=$ &
 </code></pre>
 </div>
@@ -14279,9 +14279,9 @@ $-6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $4$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(-4)}}
@@ -14292,7 +14292,7 @@ $
 14,  &&    10,  &&  6,  &&   2,  &&   \ldots, && \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}       &= 2 - 4 \\\\
@@ -14510,7 +14510,7 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(+3)}}
@@ -14521,7 +14521,7 @@ $
 1,  &&    4,  &&  9,  &&   16,  &&   \ldots, && \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}       &= 16 + 9 \\\\
@@ -14739,7 +14739,7 @@ $37$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(+3)}}
@@ -14750,7 +14750,7 @@ $
 2,  &&    5,  &&  10,  &&   17,  &&   \ldots, && \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}       &= 17 + 9 \\\\
@@ -14968,7 +14968,7 @@ $-40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize{\rtq_katex_color_info{(-3)}}
@@ -14979,7 +14979,7 @@ $
 1,  &&    -2,  &&  4,  &&   -8,  &&   \ldots, && \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}       &= -8 + 31 \\\\

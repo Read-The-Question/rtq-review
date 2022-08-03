@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-1-notstarted"
 title: "TopicPaper - Graph - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -7525,7 +7525,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Children that have more than two cousins} &= 5 + 3 \\\\
@@ -7583,7 +7583,7 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cousins} &= 3 + 6 + 8 + 5 + 3 \\\\

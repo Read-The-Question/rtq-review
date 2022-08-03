@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-pr-prcc"
 title: "TopicPaper - Time - 5 - PR - PRCC"
-date: 2022-08-01 21:41:58
-questions_count: "7"
+date: 2022-08-03 14:15:25
+questions_count: "8"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -314,6 +314,215 @@ and solve further...
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-6B7D18F9-34AA-4D46-9CC1-DADAE07E2BCE'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prcc question'>
+<div class='uuid'>
+<p>21940B64-6F2A-4A2C-BA44-8B9664CEAEAB</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Sonam</p>
+</div>
+<div class='rag'>
+<p>rag_ss_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-21940B64-6F2A-4A2C-BA44-8B9664CEAEAB'>Initial</p>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+Clock $A$ is $12 \ \text{minutes}$ fast.
+
+
+How many minutes slow is clock $B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+\text{Real Time}     &= 07{:}05 - 12 \ \text{minutes} \\\\
+                     &= 06{:}53 \\\\
+\text{Minutes slow}  &= 06{:}53 - 06{:}35 \\\\
+                     &= 18 \ \text{minutes} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$ 18 \ \text{minutes} $
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>
+$
+\begin{aligned}
+\text{Real Time}     &= 07{:}05 - 12 \ \text{minutes} \\\\
+                     &= 06{:}53 \\\\
+\text{Minutes slow}  &= 06{:}53 - 06{:}35 \\\\
+                     &= 18 \ \text{minutes} 
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$ 18 \ \text{minutes} $
+</code></pre>
+</div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+show working
+
+remove the line
+
+start katex
+
+Real Time    = 07:10 - 12 minutes
+
+             = 06:53
+
+Minutes slow = 06:53 - 06:35
+
+             = 18 minutes 
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' id='FORM-21940B64-6F2A-4A2C-BA44-8B9664CEAEAB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-21940B64-6F2A-4A2C-BA44-8B9664CEAEAB'>Initial</p>
 </div>
 </div>
 </li>
@@ -1018,11 +1227,11 @@ $ 4 \ \text{hours}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let total travelling time $= a$
-
+<emptyline>
 Time spent travelling in a car $= \dfrac {a} {2}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time spent in train}                            &=  2  \ \text{hours} \\\\
@@ -1034,7 +1243,7 @@ a                                                     &= 2 \times 4 \\\\
 a                                                     &= 8  \ \text{hours}
 \end{aligned}
 $
- 
+<emptyline>
 $
 \begin{aligned}
 \text{Total travelling time}                          &=  8  \ \text{hours} \\\\
@@ -1045,7 +1254,7 @@ $
                                                       &= 4 \ \text{hours}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1093,7 +1302,7 @@ $8  \ \text{hours}$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the above answer,
-
+<emptyline>
 Total travelling time $= 8 \ \text{hours}$
 </code></pre>
 </div>
@@ -2015,9 +2224,9 @@ $Friday$
                            &= 11{:}10
 \end{aligned}
 $
-
+<emptyline>
 Day Bill arrived Sri Lanka $= \text {Friday}$
-
+<emptyline>
 </code></pre>
 </div>
 </div>

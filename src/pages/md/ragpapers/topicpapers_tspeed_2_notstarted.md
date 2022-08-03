@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-2-notstarted"
 title: "TopicPaper - Speed - 2 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -2145,13 +2145,13 @@ $36 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 A = 8
-
+<emptyline>
 t = 3 sec
-
+<emptyline>
 Let's substitute the values in the given formula and find distance $d$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {8 \times 3 \times 3}{2} \\\\
@@ -2160,7 +2160,7 @@ $
 &= 36 \ \text {metres} \\
 \end{aligned}
 $
-
+<emptyline>
 Distance is $36 \ \text {metres}$
 </code></pre>
 </div>
@@ -2233,7 +2233,7 @@ $144000 \ \text {m}$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 A &= 20 \\
@@ -2242,11 +2242,11 @@ t &= 2 \ \text {min} \\
   &= 120 \ \text {sec} \\
 \end{aligned}
 $
-
+<emptyline>
 Let's convert mins in seconds assuming that rockets travel distances $= 120 \ \text {sec}$
-
+<emptyline>
 Let's substitute the values in the given formula and find distance $d$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {20 \times 120 \times 120}{2} \\\\
@@ -2257,7 +2257,7 @@ $
 &= 144000 \ \text {metres}\\
 \end{aligned}
 $
-
+<emptyline>
 Distance is $144000 \ \text {metres}$
 </code></pre>
 </div>
@@ -2324,15 +2324,15 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 d = 270 m
-
+<emptyline>
 t = 6 secs
-
+<emptyline>
 $A = \dfrac {d \times 2)} {t \times t}$
-
+<emptyline>
 Let's substitute the values in the given formula and find the rate $A$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {270 \times 2}{6 \times 6} \\\\
@@ -2344,7 +2344,7 @@ $
 &= 15 \\
 \end{aligned}
 $
-
+<emptyline>
 Rate of acceleration $A$ is $15$
 </code></pre>
 </div>
@@ -2411,16 +2411,16 @@ $5 \ \text {secs}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 d = 50 m
 A = 4
-
+<emptyline>
 $d = A \times t^2 \div 2$
-
+<emptyline>
 $t^2 = \dfrac { d \times 2)} {A}$
-
+<emptyline>
 Let's substitute the values in the given formula and find the time taken $t$
-
+<emptyline>
 $
 \begin{aligned}
 t^2 &= \dfrac {50 \times 2}{4} \\\\
@@ -2431,7 +2431,7 @@ t^2 &= 5^2 \\
   t &= 5 \ \text {secs} \\
 \end{aligned}
 $
-
+<emptyline>
 Time taken $t$ is $5$ seconds.
 </code></pre>
 </div>
@@ -3218,13 +3218,13 @@ $1.5 \text {miles}$
 
 <pre class='language-latex'><code class='language-latex'>
 As per question ball travels in 
-
+<emptyline>
 $1$ hour = $90$ miles 
-
+<emptyline>
 $1$ hour = $60$ minutes so,
-
+<emptyline>
 In $1$ minute the ball will travel
- 
+<emptyline>
 $
 \begin{aligned}
 1 \ \text {min} &= \dfrac {90}{60} \\\\
@@ -3232,7 +3232,7 @@ $
       &= 1.5 \ \text {miles}
 \end {aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -3351,11 +3351,11 @@ $2640 \ \text {yards}$
 
 <pre class='language-latex'><code class='language-latex'>
 As per answer (a) the in $1$ minute the ball travelled $1.5$ miles
-
+<emptyline>
 As per question, $1$ mile = $1760$ yards 
-
+<emptyline>
 Let's convert the miles into yards
-
+<emptyline>
 $
 \begin{aligned}
 1.5 \text{miles} &= 1.5 \times 1760 \\
@@ -3363,7 +3363,7 @@ $
           &= 15 \times 176 \\
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
                      &     & 1    & 7     & 6  \\
@@ -3375,13 +3375,13 @@ $
                      & 2   & 6    & 4     & 0  \\
 \end{array}
 $
-
+<emptyline>
 $
 \begin{aligned}
 1.5 \ \text{miles} &= 2640 \ \text{yards} \\
 \end {aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -3389,7 +3389,7 @@ $
 
 <pre class='language-latex'><code class='language-latex'>
 The long version.
-
+<emptyline>
 $
 \begin{aligned}
   1 \ \text {mile} &= 1760 \ \text {yards} \\
@@ -3397,7 +3397,7 @@ $
                    &= 9 \times 176 \times 100 \\
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
                      &     & 1    & 7     & 6  \\
@@ -3406,7 +3406,7 @@ $
                      & 1   & 5    & 8     & 4  \\
 \end{array}
 $
-
+<emptyline>
 $
 \begin{aligned}
 90 \ \text {miles} &= 9 \times 176 \times 100 \\
@@ -3414,7 +3414,7 @@ $
                    &= 158400 \ \text {yards} \\ 
 \end {aligned}
 $
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -3489,9 +3489,9 @@ $
                 &= 44 \ \text {yards}
 \end {aligned}
 $
-
+<emptyline>
 In $1 \ \text{sec}$ the ball travels $44 \ \text {yards}$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3544,13 +3544,13 @@ $0.5$ secs
 
 <pre class='language-latex'><code class='language-latex'>
 $22 = \dfrac {44}{2}$
-
+<emptyline>
 So, time taken for $22 \ \text {yards}$ is also $\dfrac {1}{2}$ of $44 \ \text {yards}$
-
+<emptyline>
 As per the answer (c) above, the ball travels $44 \ \text {yards}$in $1 \ \text {sec}$. 
-
+<emptyline>
 $\dfrac {1}{2}$ of $1$ sec is $0.5$ secs.
-
+<emptyline>
 </code></pre>
 </div>
 </div>

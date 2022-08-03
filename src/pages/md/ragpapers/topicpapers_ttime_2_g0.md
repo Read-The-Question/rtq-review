@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-g0"
 title: "TopicPaper - Time - 2 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -130,9 +130,9 @@ $40 \ \text {miles/hour}$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_formula_speed
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. The time is calculated in minutes, but the final speed has to be in miles per hour.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Speed}    &= \dfrac {120 \ \text {miles}} {3 \ \text {hour}} \\\\

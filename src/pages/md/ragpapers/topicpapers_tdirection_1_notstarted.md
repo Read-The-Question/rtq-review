@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdirection-1-notstarted"
 title: "TopicPaper - Direction - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -1398,9 +1398,9 @@ Angle $= 60\ \text{degrees}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>An anticlockwise movement is +ve (positive) and a clockwise movement is -ve(negative).
-
+<emptyline>
 As per the question, I turn
-
+<emptyline>
 $
 \begin{aligned}
 & = -40 + 70 - 90 \\\\
@@ -1408,15 +1408,15 @@ $
 & = -60 \ \text{degrees}
 \end{aligned}
 $
-
+<emptyline>
 $-60 \ \text{degrees}$ is negative, so a clockwise movement.
-
+<emptyline>
 As my first turn was in clockwise direction, to return to my original position I need to turn in
-
+<emptyline>
 Direction $=  \text{anticlockwise}$ 
-
+<emptyline>
 Angle $= 60\ \text{degrees}$ 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1568,7 +1568,7 @@ South
 
 <pre class='language-latex'><code class='language-latex'>
 If I face West and turn
-
+<emptyline>
 $
 \begin{aligned}
       & = 270 \ \text{degrees \ clockwise}    \\\\
@@ -1576,7 +1576,7 @@ $
       & = 90 \text {(North)} + 90 \text {(East)} + 90 \text {(South)} 
 \end{aligned}
 $
-
+<emptyline>
 If I face West and turn $270 \ \text{degrees}$ clockwise the direction I am now facing = South.
 </code></pre>
 </div>

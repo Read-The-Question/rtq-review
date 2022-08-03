@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-pr"
 title: "TopicPaper - Statistics - 2 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>8A3A60E3-7C10-4664-B274-7B804943A163</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "7"
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -97,6 +97,9 @@ The mean (average) of seven numbers is $9$. One number is removed and the mean i
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 Let the number $= a$
 
 $
@@ -127,8 +130,10 @@ $3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+Let the number $= a$
+<emptyline>
 $
 \begin {aligned}
 \text {Total of six numbers}    &= 6 \times \text {Mean of six numbers} \\\\
@@ -142,7 +147,7 @@ a                               &= 63 - 60 \\\\
 a                               &= 3
 \end {aligned}
 $
-
+<emptyline>
 The number is $= 3$
 </code></pre>
 </div>
@@ -204,7 +209,7 @@ The number is $= 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>CF68CF7E-AF94-4947-B7CC-2F6917DF45D1</p>
 </div>
@@ -218,7 +223,7 @@ The number is $= 3$
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -296,6 +301,9 @@ Calculate the mean of all of the numbers together.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 As per the question,
 
 $
@@ -324,8 +332,10 @@ $16$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+As per the question,
+<emptyline>
 $
 \begin {aligned}
 \text {Total of five numbers}   &= 5 \times 28 \\\\
@@ -399,7 +409,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C13366B7-1912-4AFB-AE12-C9B9B0A7D064</p>
 </div>
@@ -413,7 +423,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -535,15 +545,13 @@ Write down the **mode** of her homework marks.
 
 As per the question,
 
-$
-\begin {aligned}
-\text {Number of occurrence of} \ 1     &= 1 \\\\
-\text {Number of occurrence of} \ 2     &= 1 \\\\
-\text {Number of occurrence of} \ 3     &= 1 \\\\
-\text {Number of occurrence of} \ 4     &= 3 \\\\
-\text {Number of occurrence of} \ 5     &= 4
-\end {aligned}
-$
+| Number    | Count     |
+|:------:   |:-----:    |
+|   $1$     |    $1$    |
+|   $2$     |    $1$    |
+|   $3$     |    $1$    |
+|   $4$     |    $3$    |
+|   $5$     |    $4$    |
 
 Mode $= 5$
 
@@ -560,17 +568,15 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
-\begin {aligned}
-\text {Number of occurrence of} \ 1     &= 1 \\\\
-\text {Number of occurrence of} \ 2     &= 1 \\\\
-\text {Number of occurrence of} \ 3     &= 1 \\\\
-\text {Number of occurrence of} \ 4     &= 3 \\\\
-\text {Number of occurrence of} \ 5     &= 4
-\end {aligned}
-$
-
+<emptyline>
+| Number    | Count     |
+|:------:   |:-----:    |
+|   $1$     |    $1$    |
+|   $2$     |    $1$    |
+|   $3$     |    $1$    |
+|   $4$     |    $3$    |
+|   $5$     |    $4$    |
+<emptyline>
 Mode $= 5$
 </code></pre>
 </div>
@@ -600,6 +606,9 @@ Work out her **mean** homework mark.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 As per the question,
 
 $
@@ -622,8 +631,10 @@ $3.8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+As per the question,
+<emptyline>
 $
 \begin {aligned}
 \text {Mean}    &= \dfrac {4 + 5 + 5 + 5 + 4 + 3 + 2 + 1 + 4 + 5} {10} \\\\
@@ -847,7 +858,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the table,
-
+<emptyline>
 She scored full marks $2$ times.
 </code></pre>
 </div>
@@ -894,7 +905,7 @@ $0$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the table,
-
+<emptyline>
 She scored $7$ out of $10$ $0$ times.
 </code></pre>
 </div>
@@ -926,15 +937,13 @@ Which score was the mode?
 
 As per the question,
 
-$
-\begin {aligned}
-\text {Number of occurrence of} \ 6     &= 1 \\\\
-\text {Number of occurrence of} \ 7     &= 0 \\\\
-\text {Number of occurrence of} \ 8     &= 4 \\\\
-\text {Number of occurrence of} \ 9     &= 5 \\\\
-\text {Number of occurrence of} \ 10    &= 2
-\end {aligned}
-$
+| Number    | Count     |
+|:------:   |:-----:    |
+|   $6$     |    $1$    |
+|   $7$     |    $0$    |
+|   $8$     |    $4$    |
+|   $9$     |    $5$    |
+|   $10$    |    $2$    |
 
 Mode $= 9$
 
@@ -951,17 +960,15 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
-\begin {aligned}
-\text {Number of occurrence of} \ 6     &= 1 \\\\
-\text {Number of occurrence of} \ 7     &= 0 \\\\
-\text {Number of occurrence of} \ 8     &= 4 \\\\
-\text {Number of occurrence of} \ 9     &= 5 \\\\
-\text {Number of occurrence of} \ 10    &= 2
-\end {aligned}
-$
-
+<emptyline>
+| Number    | Count     |
+|:------:   |:-----:    |
+|   $6$     |    $1$    |
+|   $7$     |    $0$    |
+|   $8$     |    $4$    |
+|   $9$     |    $5$    |
+|   $10$    |    $2$    |
+<emptyline>
 Mode $= 9$
 </code></pre>
 </div>
@@ -1026,7 +1033,7 @@ Mode $= 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A610AD4E-7CB2-4B29-B735-4CF67DAD86DF</p>
 </div>
@@ -1040,7 +1047,7 @@ Mode $= 9$
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1163,15 +1170,13 @@ What is the mode?
 
 As per the question,
 
-$
-\begin {aligned}
-\text {Number of occurrence of} \ \pounds 1     &= 6 \\\\
-\text {Number of occurrence of} \ \pounds 2     &= 8 \\\\
-\text {Number of occurrence of} \ \pounds 3     &= 5 \\\\
-\text {Number of occurrence of} \ \pounds 4     &= 2 \\\\
-\text {Number of occurrence of} \ \pounds 5     &= 3
-\end {aligned}
-$
+|     Number        | Count     |
+|    :------:       |:-----:    |
+|   $\pounds 1$     |    $6$    |
+|   $\pounds 2$     |    $8$    |
+|   $\pounds 3$     |    $5$    |
+|   $\pounds 4$     |    $2$    |
+|   $\pounds 5$     |    $3$    |
 
 Mode $= \pounds 2$
 
@@ -1188,17 +1193,15 @@ $\pounds 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
-\begin {aligned}
-\text {Number of occurrence of} \ \pounds 1     &= 6 \\\\
-\text {Number of occurrence of} \ \pounds 2     &= 8 \\\\
-\text {Number of occurrence of} \ \pounds 3     &= 5 \\\\
-\text {Number of occurrence of} \ \pounds 4     &= 2 \\\\
-\text {Number of occurrence of} \ \pounds 5     &= 3
-\end {aligned}
-$
-
+<emptyline>
+|     Number        | Count     |
+|    :------:       |:-----:    |
+|   $\pounds 1$     |    $6$    |
+|   $\pounds 2$     |    $8$    |
+|   $\pounds 3$     |    $5$    |
+|   $\pounds 4$     |    $2$    |
+|   $\pounds 5$     |    $3$    |
+<emptyline>
 Mode $= \pounds 2$
 </code></pre>
 </div>
@@ -1250,7 +1253,7 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of children}  &= 5 + 2 + 3 \\\\
@@ -1308,7 +1311,7 @@ $\pounds 60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total amount}    &= 6 \times 1 + 8 \times 2 + 5 \times 3 + 2 \times 4 + 3 \times 5 \\\\
@@ -1346,21 +1349,53 @@ Calculate the angle of the sector which represents the children who have $\pound
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Total angle}    &= 360 \degree \\\\
+\text{Fraction}       &= \dfrac {\text{Children with \pounds 1}} {\text{Total children}} \\\\
+                      &= \dfrac {6} {6 + 8 + 5 + 2 + 3} \\\\
+                      &= \dfrac {6} {24} \\\\
+                      &= \dfrac {6} {4 \times 6} \\\\
+                      &= \dfrac {\cancel 6} {4 \times \cancel 6} \\\\
+                      &= \dfrac {1} {4} \\\\
+\text{Angle of \pounds 1 part} &= \text{Fraction} \times \text{Total angle} \\\\
+                              &= \dfrac {1} {4} \times 360 \degree \\\\
+                              &= \dfrac {1 \times 360} {4} \\\\
+                              &= \dfrac {4 \times 90} {4} \\\\
+                              &= \dfrac {\cancel 4 \times 90} {\cancel 4} \\\\
+                              &= 90 \degree \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$90 \degree$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text{Total angle}    &= 360 \degree \\\\
+\text{Fraction}       &= \dfrac {\text{Children with \pounds 1}} {\text{Total children}} \\\\
+                      &= \dfrac {6} {6 + 8 + 5 + 2 + 3} \\\\
+                      &= \dfrac {6} {24} \\\\
+                      &= \dfrac {6} {4 \times 6} \\\\
+                      &= \dfrac {\cancel 6} {4 \times \cancel 6} \\\\
+                      &= \dfrac {1} {4} \\\\
+\text{Angle of \pounds 1 part} &= \text{Fraction} \times \text{Total angle} \\\\
+                              &= \dfrac {1} {4} \times 360 \degree \\\\
+                              &= \dfrac {1 \times 360} {4} \\\\
+                              &= \dfrac {4 \times 90} {4} \\\\
+                              &= \dfrac {\cancel 4 \times 90} {\cancel 4} \\\\
+                              &= 90 \degree \\\\
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -1372,7 +1407,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$90 \degree$
 </code></pre>
 </div>
 </div>
@@ -1424,7 +1459,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>FF90761B-9593-49B4-BF81-F14D298B7142</p>
 </div>
@@ -1438,7 +1473,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1565,6 +1600,9 @@ Explain why the **median** of the three numbers is $\bold{\text{10}}$.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 As per the question,
 
 $
@@ -1577,17 +1615,14 @@ $
 \end {aligned}
 $
 
-Let's arrange the numbers in ascending order:
+ABBR: If there is an odd number of numbers, the median is the middle number. If there is an even count of numbers, the median is the average of the middle two numbers.
 
-$9, \quad 10, \quad 11$
 
 $
 \begin {aligned}
-\text {Median}  &= \dfrac {3 + 1} {2} \\\\
-                &= \dfrac {4} {2} \\\\
-                &= \dfrac {2 \times 2} {2} \\\\
-                &= \dfrac {\cancel {2} \times 2} {\cancel {2}} \\\\
-                &= 2 \ \text {nd term}
+\text {Numbers}  &= 9, 11, 10 \\\\
+\text {Ordered Numbers}  &= 9, \maroonC
+{10}, 11 \\\\
 \end {aligned}
 $
 
@@ -1598,15 +1633,17 @@ Median $= 10$
 <div class='answers'>
 <div class='answer'>
 
-%empty%
+$10$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+As per the question,
+<emptyline>
 $
 \begin {aligned}
 \text {Mean}    &= \dfrac {9 + 11 + 10} {3} \\\\
@@ -1616,21 +1653,16 @@ $
                 &= 10
 \end {aligned}
 $
-
-Let's arrange the numbers in ascending order:
-
-$9, \quad 10, \quad 11$
-
+<emptyline>
+rtq_abbr_md_statistics_formula_median
+<emptyline>
 $
 \begin {aligned}
-\text {Median}  &= \dfrac {3 + 1} {2} \\\\
-                &= \dfrac {4} {2} \\\\
-                &= \dfrac {2 \times 2} {2} \\\\
-                &= \dfrac {\cancel {2} \times 2} {\cancel {2}} \\\\
-                &= 2 \ \text {nd term}
+\text {Numbers}  &= 9, 11, 10 \\\\
+\text {Ordered Numbers}  &= 9, \rtq_katex_color_info{10}, 11 \\\\
 \end {aligned}
 $
-
+<emptyline>
 Median $= 10$
 </code></pre>
 </div>
@@ -1643,7 +1675,7 @@ Median $= 10$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
+<pre class='language-latex'><code class='language-latex'>$10$
 </code></pre>
 </div>
 </div>
@@ -1670,6 +1702,39 @@ Give an example.
 <div class='workings'>
 <div class='working'>
 
+8, 9, 11, 12
+
+Lets verify,
+
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
+$
+\begin{aligned}
+\text{Mean}     &= \dfrac {8 + 9 + 11 + 12} {4} \\\\
+                &= \dfrac {40} {4} \\\\
+                &= \dfrac {4 \times 10} {4} \\\\
+                &= \dfrac {\cancel 4 \times 10} {\cancel 4} \\\\
+                &= \green
+{10} \\\\
+\end{aligned}
+$
+
+ABBR: If there is an odd number of numbers, the median is the middle number. If there is an even count of numbers, the median is the average of the middle two numbers.
+
+
+$
+\begin{aligned}
+\text{Numbers}           &= \dfrac {8, 9, 11, 12} {4} \\\\
+\text{Ordered Numbers}   &= \dfrac {8, 9, 11, 12} {4} \\\\
+\text{Median}            &= \dfrac {9 + 11} {2} \\\\
+                         &= \dfrac {20} {2} \\\\
+                         &= \dfrac {2 \times 10} {2} \\\\
+                         &= \dfrac {\cancel 2 \times 10} {\cancel 2} \\\\
+                         &= \green
+{10} \\\\
+\end{aligned}
+$
 
 
 </div>
@@ -1677,14 +1742,43 @@ Give an example.
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$8, 9, 11, 12$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
+<pre class='language-latex'><code class='language-latex'>8, 9, 11, 12
+<emptyline>
+Lets verify,
+<emptyline>
+rtq_abbr_md_statistics_formula_mean
+<emptyline>
+$
+\begin{aligned}
+\text{Mean}     &= \dfrac {8 + 9 + 11 + 12} {4} \\\\
+                &= \dfrac {40} {4} \\\\
+                &= \dfrac {4 \times 10} {4} \\\\
+                &= \dfrac {\cancel 4 \times 10} {\cancel 4} \\\\
+                &= \rtq_katex_color_answer{10} \\\\
+\end{aligned}
+$
+<emptyline>
+rtq_abbr_md_statistics_formula_median
+<emptyline>
+$
+\begin{aligned}
+\text{Numbers}           &= \dfrac {8, 9, 11, 12} {4} \\\\
+\text{Ordered Numbers}   &= \dfrac {8, 9, 11, 12} {4} \\\\
+\text{Median}            &= \dfrac {9 + 11} {2} \\\\
+                         &= \dfrac {20} {2} \\\\
+                         &= \dfrac {2 \times 10} {2} \\\\
+                         &= \dfrac {\cancel 2 \times 10} {\cancel 2} \\\\
+                         &= \rtq_katex_color_answer{10} \\\\
+\end{aligned}
+$
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1696,7 +1790,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$8, 9, 11, 12$
 </code></pre>
 </div>
 </div>
@@ -1748,7 +1842,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>483CBF07-27DB-4BD1-9271-687589FF5D62</p>
 </div>
@@ -1762,7 +1856,7 @@ TODOANSWER
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1847,6 +1941,9 @@ What are the four numbers?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 Let the first number $= a$
 
 Let the second number $= b$
@@ -1859,14 +1956,20 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Total of two numbers}    &= 3 \times 2 \\\\
-a + b                           &= 6 \\\\
-\text {Total of three numbers}  &= 5 \times 3 \\\\
-a + b + c                       &= 15 \\\\
-\text {Total of four numbers}   &= 7 \times 4 \\\\
-15 + d                          &= 28 \\\\
-d                               &= 28 - 15 \\\\
-d                               &= 13
+\dfrac {\text{Total of two numbers}} {2}    &= 3 \\\\
+\dfrac {a + b} {2}                          &= 3 \\\\
+\text {a + b}                               &= 3 \times 2 \\\\
+a + b                                       &= 6 \\\\
+\dfrac {\text{Total of three numbers}} {3}  &= 3 \\\\
+\dfrac {a + b + c} {3}                      &= 3 \\\\
+\text {a + b + c}                           &= 5 \times 3 \\\\
+a + b + c                                   &= 15 \\\\
+\dfrac {\text{Total of four numbers}} {4}   &= 3 \\\\
+\dfrac {a + b + c + d} {4}                  &= 3 \\\\
+\text {a + b + c + d}                       &= 7 \times 4 \\\\
+15 + d                                      &= 28 \\\\
+d                                           &= 28 - 15 \\\\
+d                                           &= 13
 \end {aligned}
 $
 
@@ -1892,53 +1995,46 @@ First number $= 1$
 <div class='answers'>
 <div class='answer'>
 
-$13$
-
-</div>
-<div class='answer'>
-
-$9$
-
-</div>
-<div class='answer'>
-
-$5$
-
-</div>
-<div class='answer'>
-
-$1$
+$1, 5, 9, 13$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+Let the first number $= a$
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 Let the third number $= c$
-
+<emptyline>
 Let the fourth number $= d$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
-\text {Total of two numbers}    &= 3 \times 2 \\\\
-a + b                           &= 6 \\\\
-\text {Total of three numbers}  &= 5 \times 3 \\\\
-a + b + c                       &= 15 \\\\
-\text {Total of four numbers}   &= 7 \times 4 \\\\
-15 + d                          &= 28 \\\\
-d                               &= 28 - 15 \\\\
-d                               &= 13
+\dfrac {\text{Total of two numbers}} {2}    &= 3 \\\\
+\dfrac {a + b} {2}                          &= 3 \\\\
+\text {a + b}                               &= 3 \times 2 \\\\
+a + b                                       &= 6 \\\\
+\dfrac {\text{Total of three numbers}} {3}  &= 3 \\\\
+\dfrac {a + b + c} {3}                      &= 3 \\\\
+\text {a + b + c}                           &= 5 \times 3 \\\\
+a + b + c                                   &= 15 \\\\
+\dfrac {\text{Total of four numbers}} {4}   &= 3 \\\\
+\dfrac {a + b + c + d} {4}                  &= 3 \\\\
+\text {a + b + c + d}                       &= 7 \times 4 \\\\
+15 + d                                      &= 28 \\\\
+d                                           &= 28 - 15 \\\\
+d                                           &= 13
 \end {aligned}
 $
-
+<emptyline>
 Fourth number $= 13$
-
+<emptyline>
 $
 \begin {aligned}
 a + b + c       &= 15 \\\\
@@ -1947,11 +2043,11 @@ c               &= 15 - 6 \\\\
 c               &= 9
 \end {aligned}
 $
-
+<emptyline>
 Third number $= 9$
-
+<emptyline>
 Second number $= 5$
-
+<emptyline>
 First number $= 1$
 </code></pre>
 </div>
@@ -1964,37 +2060,7 @@ First number $= 1$
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$13$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5$
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$1$
+<pre class='language-latex'><code class='language-latex'>$1, 5, 9, 13$
 </code></pre>
 </div>
 </div>

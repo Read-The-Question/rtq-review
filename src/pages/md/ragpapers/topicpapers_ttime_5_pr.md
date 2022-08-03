@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-pr"
 title: "TopicPaper - Time - 5 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "23"
 ---
 <ul class='question default-decimal'>
@@ -318,7 +318,7 @@ and solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>21940B64-6F2A-4A2C-BA44-8B9664CEAEAB</p>
 </div>
@@ -332,7 +332,7 @@ and solve further...
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -430,7 +430,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ 18 / /text{minutes} $
+$ 18 \ \text{minutes} $
 
 </div>
 </div>
@@ -457,7 +457,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$ 18 / /text{minutes} $
+<pre class='language-latex'><code class='language-latex'>$ 18 \ \text{minutes} $
 </code></pre>
 </div>
 </div>
@@ -1227,11 +1227,11 @@ $ 4 \ \text{hours}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let total travelling time $= a$
-
+<emptyline>
 Time spent travelling in a car $= \dfrac {a} {2}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time spent in train}                            &=  2  \ \text{hours} \\\\
@@ -1243,7 +1243,7 @@ a                                                     &= 2 \times 4 \\\\
 a                                                     &= 8  \ \text{hours}
 \end{aligned}
 $
- 
+<emptyline>
 $
 \begin{aligned}
 \text{Total travelling time}                          &=  8  \ \text{hours} \\\\
@@ -1254,7 +1254,7 @@ $
                                                       &= 4 \ \text{hours}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1302,7 +1302,7 @@ $8  \ \text{hours}$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the above answer,
-
+<emptyline>
 Total travelling time $= 8 \ \text{hours}$
 </code></pre>
 </div>
@@ -2580,9 +2580,9 @@ $Friday$
                            &= 11{:}10
 \end{aligned}
 $
-
+<emptyline>
 Day Bill arrived Sri Lanka $= \text {Friday}$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3013,21 +3013,21 @@ $ \text{Train} \ 3 \ \text{takes the longest}$
                                 &= 1 \ \text{hour} \ 19 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by train} \ 2  &= 12{:}40 - 11{:}30 \\\\
                                 &= 1 \ \text{hour} \ 10 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by train} \ 3  &= 13{:}45 - 12{:}15 \\\\
                                 &= 1 \ \text{hour} \ 30 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $ \text{Train} \ 3 \ \text{takes the longest}$
 </code></pre>
 </div>
@@ -4106,52 +4106,52 @@ $4\ \text{hrs} \ 2 \ \text{min}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$21{:}10$
-
+<emptyline>
 Following digits are needed $0, 1, 1$ and $2$
-
+<emptyline>
 With $2100$ hours no other combination is impossible
-
+<emptyline>
 With $2200$ hours no combination is possible
-
+<emptyline>
 With $2300$ hours no combination is possible
-
+<emptyline>
 With $0000$ hours no combination is possible
-
+<emptyline>
 With $0100$ hours it's possible as it already has $0$ and $1$
-
+<emptyline>
 Next time all the four digits $(0, 1, 1, 1)$ shows together is when it is 
-
+<emptyline>
 $01{:}12$ hours
-
+<emptyline>
 Let's find how long it will take from $21{:}10$ to $01{:}12$
-
+<emptyline>
 $01{:}12 - 21{:}10 =4\ \text{hrs} \ 2 \ \text{min}$
-
+<emptyline>
 
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$21{:}10$
-
+<emptyline>
 Following digits are needed $0, 1, 1$ and $2$
-
+<emptyline>
 With $2100$ hours no other combination is impossible
-
+<emptyline>
 With $2200$ hours no combination is possible
-
+<emptyline>
 With $2300$ hours no combination is possible
-
+<emptyline>
 With $0000$ hours no combination is possible
-
+<emptyline>
 With $0100$ hours it's possible as it already has $0$ and $1$
-
+<emptyline>
 Next time all the four digits $(0, 1, 1, 1)$ shows together is when it is 
-
+<emptyline>
 $01{:}12$ hours
-
+<emptyline>
 Let's find how long it will take from $21{:}10$ to $01{:}12$
-
+<emptyline>
 $01{:}12 - 21{:}10 =4\ \text{hrs} \ 2 \ \text{min}$
 </code></pre>
 </div>

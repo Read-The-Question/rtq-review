@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-oldpr"
 title: "TopicPaper - Number - 13 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1A52194D-4989-4E38-AA11-8AA68DFBCC41</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -106,39 +106,10 @@ When we multiply $5$ by itself the answer is $25$. We call $5$ the square root o
 Write down the square roots of
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
@@ -379,7 +350,7 @@ $2 , 3$
 |:------:   |:----------------: |
 |   $2$     | $2 \times 2 = 4$  |
 |   $3$     | $3 \times 3 = 9$  |
-
+<emptyline>
 The square root of $6$ is in between $2, 3$.
 </code></pre>
 </div>
@@ -411,13 +382,12 @@ The square root of $84$ is between $\text{\textunderscore \textunderscore \textu
 <div class='working'>
 
 
-ii. The square root of $84$ is between $\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$
+| Number    |      Square       |
+|:------:   |:----------------: |
+|   $9$     | $9 \times 9 = 81$  |
+|   $10$     | $10 \times 10 = 100$  |
 
-$9 \times 9 = 81$
-
-$10 \times 10 = 100$
-
-The square root of $84$ is in between $9 , 10$
+The square root of $84$ is in between $9, 10$.
 
 </div>
 </div>
@@ -432,13 +402,12 @@ $9 , 10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-ii. The square root of $84$ is between $\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$
-
-$9 \times 9 = 81$
-
-$10 \times 10 = 100$
-
-The square root of $84$ is in between $9 , 10$
+| Number    |      Square       |
+|:------:   |:----------------: |
+|   $9$     | $9 \times 9 = 81$  |
+|   $10$     | $10 \times 10 = 100$  |
+<emptyline>
+The square root of $84$ is in between $9, 10$.
 </code></pre>
 </div>
 </div>
@@ -468,13 +437,12 @@ The square root of $801$ is between $\text{\textunderscore \textunderscore \text
 <div class='workings'>
 <div class='working'>
 
-iii. The square root of $801$ is between $\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$
+| Number    |      Square       |
+|:------:   |:----------------: |
+|   $28$     | $28 \times 28 = 784$  |
+|   $29$     | $29 \times 29 = 841$  |
 
-$28 \times 28 = 784$
-
-$29 \times 29 = 841$
-
-The square root of $801$ is in between $28 , 29$
+The square root of $6$ is in between $28, 29$.
 
 </div>
 </div>
@@ -488,13 +456,12 @@ $28 , 29$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>iii. The square root of $801$ is between $\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$
-
-$28 \times 28 = 784$
-
-$29 \times 29 = 841$
-
-The square root of $801$ is in between $28 , 29$
+<pre class='language-latex'><code class='language-latex'>| Number    |      Square       |
+|:------:   |:----------------: |
+|   $28$     | $28 \times 28 = 784$  |
+|   $29$     | $29 \times 29 = 841$  |
+<emptyline>
+The square root of $6$ is in between $28, 29$.
 </code></pre>
 </div>
 </div>

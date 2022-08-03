@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdivision-3"
 title: "TopicPaper - Division - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "26"
 ---
 <div class='paper'>
@@ -2913,7 +2913,7 @@ $89$
 23 \ \times  8 = 184
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{array}{l}
 \phantom{2 \ 3) 2 \ 0 \ }{\ 8 \ 9}\\
@@ -2925,7 +2925,7 @@ $
 \phantom{23)-207}                               {0}
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3401,11 +3401,11 @@ $C$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1+8+1+7+1 = 18$ is divisible by $3$. $18171$ is divisible by $3$.
-
+<emptyline>
 $4+4+4+8+1 = 21$ is divisible by $3$. $44481$ is divisible by $3$.
-
+<emptyline>
 $3+8+5+0+1 = 17$ is NOT divisible by $3$. $38501$ is NOT divisible by $3$.
-
+<emptyline>
 $5+7+0+6+0 = 18$ is divisible by $3$. $57060$ is divisible by $3$.
 </code></pre>
 </div>
@@ -3586,7 +3586,7 @@ $89$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per question, 
-
+<emptyline>
 $
 \begin{aligned}
 6764 \div 89             &= 76 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-5"
 title: "TopicPaper - Graph - 5"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -9322,17 +9322,17 @@ $(4,3)$
 
 <pre class='language-latex'><code class='language-latex'>
 $K$-step : 1 R 2 U
-
+<emptyline>
 $T$-step : 3 R 1 U
-
+<emptyline>
 
 | 1R  | 1R  | 3R    | 1U    |
 |-----|-----|-------|-------|
 | →   | →   | →     | ↑     |
 | A→1 | A→1 | (4,2) | (4,3) |
+<emptyline>
 
-
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9419,40 +9419,40 @@ $T$-step : $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $K$-step : 1 R 2 U
-
+<emptyline>
 $T$-step : 3 R 1 U
-
+<emptyline>
 Let's get from A to Point B $(9,8)$
-
+<emptyline>
 It's known from answer above that 
-
+<emptyline>
 $1 \ K$-step  and $1$ $T$-step $= (4,3)$
-
+<emptyline>
 So repeating the step will get us at 
-
+<emptyline>
 $4 \times 2$ and  $3 \times 2)$
-
+<emptyline>
 $= (8,6)$
-
+<emptyline>
 Point B $(9,8)$ to $A$
-
+<emptyline>
 (9 -8 R ) (8 - 6 U) 
-
+<emptyline>
 $
 \begin{aligned}
 A &= 1 R, 2 U \\\\
   &=K-step
 \end{aligned}
 $
-
+<emptyline>
 So, total steps needed
-
+<emptyline>
 $K$-step : $3$
-
+<emptyline>
 $T$-step : $2$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9533,7 +9533,7 @@ $(2, 4)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>one $K$-step and two $T$-steps
-
+<emptyline>
 $
 \begin{aligned}
 T-step :& 3 \ R \ 1 \ U \times 2 \\
@@ -9541,23 +9541,23 @@ T-step :& 6 \ R \ 2 \ U \\
 K-step :& 1 \ R \ 2 \ U \\
 \end{aligned}
 $
-
+<emptyline>
 Total-steps $: 7 \ R \ 4 \ U$
-
+<emptyline>
 From Point $B$ to $C$, we need to trace back the steps. As such the
-
+<emptyline>
 Total-steps $: 7 \ R \ 4 \ U$
-
+<emptyline>
 will be
-
+<emptyline>
 Total-steps $:& 7 \ L \ 4 \ D$
-
+<emptyline>
 Point B $(9,8)$ to $C$
-
+<emptyline>
 (9 -7 R) (8 - 4 D) 
-
+<emptyline>
 $C = (2, 4)$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9618,21 +9618,21 @@ $(10, 10)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$U$-step $: 3 \ L \ 1 \ D$
-
+<emptyline>
 $K$-step $: 1 \ R \ 2 \ U$
-
+<emptyline>
 $T$-step $: 3 \ R \ 1 \ U$
-
+<emptyline>
 A $U$-step is the reverse of a $T$-step
-
+<emptyline>
 So, only $K$-step has to be followed.
-
+<emptyline>
 Point B $(9,8)$ to $D$
-
+<emptyline>
 (9 + 1 R) (8 + 2 U) 
-
+<emptyline>
 $D = (10, 10)$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9800,13 +9800,13 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The graph shows on y-axis the total score after each round.
-
+<emptyline>
 Every cross plotted on the graph is the total score after that round.
-
+<emptyline>
 The points she scored in each round is the difference between the plotted crosses.
-
+<emptyline>
 Round $6 -$ Round $5 =$ Score of Round $6$
-
+<emptyline>
 
 $
 \def\arraystretch{1.5}
@@ -9883,7 +9883,7 @@ $13$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the graph, the $1$st cross is on ($1, 13$)
-
+<emptyline>
 Claire scored $13$ points.
 </code></pre>
 </div>
@@ -9942,9 +9942,9 @@ $11$
 
 <pre class='language-latex'><code class='language-latex'>
 The $4$th cross on the graph is on (4,56) and the $3$rd cross is on (3,45)
-
+<emptyline>
 So, 
-
+<emptyline>
 $
 begin{aligned}
 &Round 4 - 3 \\
@@ -9952,7 +9952,7 @@ begin{aligned}
 &= 11
 end{aligned}
 $
-
+<emptyline>
 Claire scored $11$ points in Round $4$.
 </code></pre>
 </div>
@@ -10011,9 +10011,9 @@ $2$
 
 <pre class='language-latex'><code class='language-latex'>
 The $1$st cross on the graph is on (1,13) and the $2$nd cross is on (3,45)
-
+<emptyline>
 So, 
-
+<emptyline>
 $
 begin{aligned}
 Round 2 - 1 \\
@@ -10021,7 +10021,7 @@ Round 2 - 1 \\
 &= 17
 end{aligned}
 $
-
+<emptyline>
 Round $2$ was Claire's most successful round with $17$ points.
 </code></pre>
 </div>
@@ -10074,11 +10074,11 @@ $Same$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Claire's final score was $70$ 
-
+<emptyline>
 Let's assume a straight line on the graph i.e., (0, 70). 
-
+<emptyline>
 Nigel's graph havign a single straight line will also have the same scores like Claire's.
-
+<emptyline>
 i.e., (0,70)
 </code></pre>
 </div>
@@ -11748,7 +11748,7 @@ $400$ Cards
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$400$ Cards
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -11811,11 +11811,11 @@ $5p$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $200$ cards cost $\pounds 10$
-
+<emptyline>
 Cost of :
-
+<emptyline>
 $
 \begin{aligned}
 200 \ \text {cards} &= \pounds 10 \\
@@ -11827,9 +11827,9 @@ $
                     &= 5p
 \end{aligned}
 $
-
+<emptyline>
 Cost of $1$ card is $5p$ if a lot of $200$ cards are ordered.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -11875,7 +11875,7 @@ $\pounds 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>At $0$ card the total cost is $\pounds 4$
-
+<emptyline>
 So, fixed cost $=\pounds 4$
 </code></pre>
 </div>
@@ -11951,11 +11951,11 @@ $3p$
 
 <pre class='language-latex'><code class='language-latex'>
 Total cost = Fixed cost + cost of cards
-
+<emptyline>
 Let's take cost per cards as $c$
-
+<emptyline>
 As per graph,
-
+<emptyline>
 $
 \begin{aligned}
 100 \ \text {cards} &= \pounds 7 \\
@@ -11964,9 +11964,9 @@ $
         c &= \pounds 3    \\
 \end{aligned}
 $
-
+<emptyline>
 Cost of printing $100$ cards is $\pounds 3$
-
+<emptyline>
 $
 \begin{aligned}
 100 \ \text {cards} &= \pounds 3 \\
@@ -11976,9 +11976,9 @@ $
                   &= 3p
 \end{aligned}
 $
-
+<emptyline>
 Cost of printing $1$ card without fixed costs is $3p$.
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -12120,23 +12120,23 @@ $200$ cards
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total cost of printing $500$ cards is $\pounds 16$
-
+<emptyline>
 Cost of cards = Total cost - Fixed cost
-
+<emptyline>
 Cost of $500$ cards 
-
+<emptyline>
 $= \pounds 16 - \pounds 6$ 
-
+<emptyline>
 Cost of $500$ cars without fixed costs is $\pounds 10$
-
+<emptyline>
 From answer (c) its known that $200$ small business cards costed $\pounds 10$
-
+<emptyline>
 So, cost of $500$ business cards 
-
+<emptyline>
 $= 200$ small business cards 
-
+<emptyline>
 $= \pounds 10$
-
+<emptyline>
 </code></pre>
 </div>
 </div>

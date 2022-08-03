@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-16"
 title: "TopicPaper - Algebra - 16"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B7F28045-5B69-4DBE-903E-2067CBEB11BA</p>
 </div>
@@ -30,7 +30,7 @@ questions_count: "40"
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -120,7 +120,7 @@ How many coins do I have?
 <div class='workings'>
 <div class='working'>
 
-Let the number of $20 \text{p}$ coins $= a$. Then, as per the question, 
+Let the number of $20 \text{p}$ coins $= a$.
 
 $10 \text{p}$ coins $= 2a$
 
@@ -145,8 +145,8 @@ $
 20a + 20a + 20a                             &= 480 \\\\
 60a                                         &= 480 \\\\
 a                                           &= \dfrac {480} {60} \\\\
-a                                           &= \dfrac {60 \times 8} {60} \\\\
-a                                           &= \dfrac {\cancel{60} \times 8} {\cancel{60}} \\\\
+a                                           &= \dfrac {2 \times 2 \times 3 \times 5 \times 8} {2 \times 2 \times 3 \times 5} \\\\
+a                                           &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 3 \times \cancel 5 \times 8} {\cancel 2 \times \cancel 2 \times \cancel 3 \times \cancel 5} \\\\
 a                                           &= 8
 \end{aligned}
 $
@@ -172,14 +172,14 @@ $56$ coins
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the number of $20 \text{p}$ coins $= a$. Then, as per the question, 
-
+<pre class='language-latex'><code class='language-latex'>Let the number of $20 \text{p}$ coins $= a$.
+<emptyline>
 $10 \text{p}$ coins $= 2a$
-
+<emptyline>
 $5 \text{p}$ coins $= 4a$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. Let's convert the total amount into pence.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total amount} &= \pounds 4.80\\\\
@@ -187,21 +187,21 @@ $
                     &= 480 \text{p}
 \end{aligned}
 $
-
+<emptyline>
 Using that we get,
-
+<emptyline>
 $
 \begin{aligned}
 20 \times a + 10 \times 2a + 5 \times 4a    &= 480\\\\
 20a + 20a + 20a                             &= 480 \\\\
 60a                                         &= 480 \\\\
 a                                           &= \dfrac {480} {60} \\\\
-a                                           &= \dfrac {60 \times 8} {60} \\\\
-a                                           &= \dfrac {\cancel{60} \times 8} {\cancel{60}} \\\\
+a                                           &= \dfrac {2 \times 2 \times 3 \times 5 \times 8} {2 \times 2 \times 3 \times 5} \\\\
+a                                           &= \dfrac {\cancel 2 \times \cancel 2 \times \cancel 3 \times \cancel 5 \times 8} {\cancel 2 \times \cancel 2 \times \cancel 3 \times \cancel 5} \\\\
 a                                           &= 8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total coins}  &= a + 2a + 4a \\\\
@@ -270,7 +270,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3006214B-FA8B-4235-885A-996FE8877264</p>
 </div>
@@ -284,7 +284,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -365,7 +365,7 @@ What position is he in the queue if there are $7$ more people ahead of him than 
 
 Let the number of people behind Irfan $= a$
 
-Then, as per the question, the number of people ahead of Irfan $= a + 7$
+The number of people ahead of Irfan $= a + 7$
 
 So, *People ahead* $+$ *Irfan* $+$ *People behind* $= 24$
 
@@ -402,13 +402,13 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of people behind Irfan $= a$
-
-Then, as per the question, the number of people ahead of Irfan $= a + 7$
-
+<emptyline>
+The number of people ahead of Irfan $= a + 7$
+<emptyline>
 So, *People ahead* $+$ *Irfan* $+$ *People behind* $= 24$
-
+<emptyline>
 Putting this into an equation, we get
-
+<emptyline>
 $
 \begin{aligned}
 (a + 7) + 1 + a     &= 24 \\\\
@@ -420,11 +420,11 @@ a                   &= \dfrac {16} {2} \\\\
 a                   &= 8
 \end{aligned}
 $
-
+<emptyline>
 Number of people behind Irfan $= 8$. So,
-
+<emptyline>
 Irfan's position $= 24 - 8 = 16$
-
+<emptyline>
 Irfan is $16 \text{th}$ in the queue.
 </code></pre>
 </div>
@@ -486,7 +486,7 @@ Irfan is $16 \text{th}$ in the queue.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BFE40D96-8522-4C51-9255-AA907949965E</p>
 </div>
@@ -500,7 +500,7 @@ Irfan is $16 \text{th}$ in the queue.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -689,25 +689,25 @@ $\pounds 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a CD in pounds $= c$
-
+<emptyline>
 Let the cost of a DVD in pounds $= d$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 3c + 2d &= 43 \\\\
 2c + 3d &= 47
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 But which one should we eliminate? If we look at the question again, we only need the 
 cost for a CD, so let's eliminate $d$ so we can directly calculate the value for $c$.
-
+<emptyline>
 The LCM of $2$ and $3$ is $6$. Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $d$ the same.
-
+<emptyline>
 $
 \begin{aligned} 
 3 \times 3c + 3 \times 2d   &= 3 \times 43  \\\\
@@ -716,9 +716,9 @@ $
 4c + 6d                     &= 94
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned} 
 9c + 6d - (4c + 6d) &= 129 - 94 \\\\
@@ -730,20 +730,20 @@ c                   &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
 c                   &= 7
 \end{aligned}
 $
-
+<emptyline>
 Cost of a CD $= \pounds 7$.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>What if we eliminate $c$ instead?
-
+<emptyline>
 This approach is less efficient as we will have to calculate one extra value to get the answer.
-
+<emptyline>
 Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 The LCM of $2$ and $3$ is $6$. Multiply the first equation by $2$ and the second equation by $3$ to make the coeifficent of $c$ the same.
-
+<emptyline>
 $
 \begin{aligned} 
 2 \times 3c + 2 \times 2d   &= 2 \times 43 \\\\
@@ -752,9 +752,9 @@ $
 6c + 9d                     &= 141
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned} 
 6c + 9d - (6c + 4d)     &= 141 - 86 \\\\
@@ -766,11 +766,11 @@ d                       &= \dfrac {11 \times \cancel{5}} {\cancel{5}} \\\\
 d                       &= 11
 \end{aligned}
 $
-
+<emptyline>
 Cost of a DVD $= \pounds 11$. 
-
+<emptyline>
 Let's substitute the value of $d$ in one of the initial equations to find the cost of a CD.
-
+<emptyline>
 $
 \begin{aligned} 
 3c + 2d             &= 43 \\\\
@@ -784,7 +784,7 @@ c                   &= \dfrac {7 \times \cancel{3}} {\cancel{3}} \\\\
 c                   &= 7
 \end{aligned}
 $
-
+<emptyline>
 Cost of a CD $= \pounds 7$.
 </code></pre>
 </div>
@@ -846,7 +846,7 @@ Cost of a CD $= \pounds 7$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7E7878A4-808C-4404-8B60-2FB05E498D2D</p>
 </div>
@@ -860,7 +860,7 @@ Cost of a CD $= \pounds 7$.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -989,15 +989,15 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the count of $10 \text {p}$ coins $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Count of $20 \text {p}$ coins $= 2c$
-
+<emptyline>
 rtq_abbr_md_unit_note
-
+<emptyline>
 Let's convert the total amount into pence.
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Total Amount}     &=  \pounds 2 \\\\
@@ -1005,9 +1005,9 @@ $
                         &=  200 \text{p}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 10 \times c + 20 \times 2c      &= 200 \\\\
@@ -1079,7 +1079,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6E6B11E1-CFDF-43B5-9CF2-E7E17FFE2599</p>
 </div>
@@ -1093,7 +1093,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1174,10 +1174,11 @@ Let the count of rulers $= r$
 
 As per the question,
 
+Number of Pencil + Number of Ruler $= 52$
+
 $
 \begin{aligned} 
-\text {Number of Pencil + Number of Ruler} &= 52 \\\\
-r + (r + 8)                                &= 52 \\\\
+r + (r + 8)                                 \\\\
 2r + 8                                     &= 52 \\\\
 2r                                         &= 52 - 8 \\\\
 2r                                         &= 44 \\\\
@@ -1201,13 +1202,14 @@ $22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the count of rulers $= r$
-
+<emptyline>
 As per the question,
-
+<emptyline>
+Number of Pencil + Number of Ruler $= 52$
+<emptyline>
 $
 \begin{aligned} 
-\text {Number of Pencil + Number of Ruler} &= 52 \\\\
-r + (r + 8)                                &= 52 \\\\
+r + (r + 8)                                 \\\\
 2r + 8                                     &= 52 \\\\
 2r                                         &= 52 - 8 \\\\
 2r                                         &= 44 \\\\
@@ -1277,7 +1279,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>521214EB-CA81-4E61-8F79-5E1BF8007C95</p>
 </div>
@@ -1291,7 +1293,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1406,15 +1408,15 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the tens digit for the number $= a$
-
+<emptyline>
 Let the unit digit for the number $= b$
-
+<emptyline>
 Value of the original number $= 10a + b$
-
+<emptyline>
 When the digits are reversed, the value of the reversed number $= 10b + a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (10a + b)- (10b + a)    &= 36 \\\\
@@ -1425,7 +1427,7 @@ a - b                   &= \dfrac {36}{9} \\\\
 a - b                   &= 4
 \end{aligned}
 $
-
+<emptyline>
 The difference between the two digits in her original number is $= 4$
 </code></pre>
 </div>
@@ -1487,7 +1489,7 @@ The difference between the two digits in her original number is $= 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3ACC56E9-45C3-48B3-BD78-324451DE6879</p>
 </div>
@@ -1501,7 +1503,7 @@ The difference between the two digits in her original number is $= 4$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1607,9 +1609,9 @@ $42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number that Neil thought of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {a} {2} - 9      &= 12 \\\\
@@ -1619,7 +1621,7 @@ a                       &= 21 \times 2 \\\\
 a                       &= 42
 \end {aligned}
 $
-
+<emptyline>
 The number that Neil thought of $= 42$.
 </code></pre>
 </div>
@@ -1681,7 +1683,7 @@ The number that Neil thought of $= 42$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1A6AB009-2F49-47AF-BA34-6312AA658C67</p>
 </div>
@@ -1695,7 +1697,7 @@ The number that Neil thought of $= 42$.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1812,13 +1814,13 @@ $100 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the left over wire (in $\text {cm}$) $= w$.
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. The wire measurement are given in multiple units.
-
+<emptyline>
 Let's convert all the measurements into $\text{cm}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w                                               &= 5 \ \text {metre} \\\\
@@ -1831,7 +1833,7 @@ w                                                                               
 w                                                                                                           &= 100 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 The left over wire length is = $100\ \text {cm}$.
 </code></pre>
 </div>
@@ -2087,11 +2089,11 @@ $\pounds 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take the shirts as = $x$
-
+<emptyline>
 Let's take the tops   as = $y$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {(Equation 1)} \quad 2x + 3y &= \pounds 29\\\           
@@ -2100,9 +2102,9 @@ $
 y &= 19 - 3x\\
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute $y$ in equation 1 
-
+<emptyline>
 $
 \begin{aligned}
          29 &= 2x + 3(19- 3x) \\
@@ -2114,9 +2116,9 @@ $
           x &= 4\\
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute $x$ in equation $2$ to find the cost a top $y$
-
+<emptyline>
 $
 \begin{aligned}
          y  &= 19 - 3x\\
@@ -2125,18 +2127,18 @@ $
          y  &= \pounds 7\\
 \end{aligned}
 $
-
+<emptyline>
 The cost of a top is $\pounds 7$.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take the shirts as = $x$
-
+<emptyline>
 Let's take the tops   as = $y$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {(Equation 1)} \quad 2x + 3y &= \pounds 29\\\           
@@ -2145,9 +2147,9 @@ $
 y &= 19 - 3x\\
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute $y$ in equation 1 
-
+<emptyline>
 $
 \begin{aligned}
          29 &= 2x + 3(19- 3x) \\
@@ -2159,9 +2161,9 @@ $
           x &= 4\\
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute $x$ in equation $2$ to find the cost a top $y$
-
+<emptyline>
 $
 \begin{aligned}
          y  &= 19 - 3x\\
@@ -2170,7 +2172,7 @@ $
          y  &= \pounds 7\\
 \end{aligned}
 $
-
+<emptyline>
 The cost of a top is $\pounds 7$.
 </code></pre>
 </div>
@@ -2322,11 +2324,11 @@ $24 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of the second cuboid (in $\text{cm}$) $= l$
-
+<emptyline>
 rtq_abbr_katex_formula_volume_cuboid
-
+<emptyline>
 As per the question, the two weights have the same volume. Using that we get,
-
+<emptyline>
 $
 \begin{aligned}
 10 \times 12 \times l   &=20 \times 16 \times 9 \\\\
@@ -2337,7 +2339,7 @@ l                       &= 2 \times 4 \times 3 \\\\
 l                       &= 24 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the second cuboid $= 24 \ \text{cm}$
 </code></pre>
 </div>
@@ -2399,7 +2401,7 @@ Length of the second cuboid $= 24 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
 </div>
@@ -2413,7 +2415,7 @@ Length of the second cuboid $= 24 \ \text{cm}$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2543,11 +2545,11 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the count of coins of each denomination $= c$.
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. Let's convert the total amount into pence.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 10 \times c + 20 \times c + 50 \times c + 100 \times c   &= \pounds 7.20 \\\\
@@ -2559,9 +2561,9 @@ c                                                        &= \dfrac {\cancel{180}
 c                                                        &= 4
 \end{aligned}
 $ 
-
+<emptyline>
 There are $4$ coins of each type and $4$ different types of coins.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total coins}   &=  4 \times 4 \\\\
@@ -2812,9 +2814,9 @@ $59$
 <pre class='language-latex'><code class='language-latex'>
 Let's take the total number of pencils as $x$
 and the leftover pencils as $y$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x \div 2 \text{ \ friends} &= 1 \text{\ pencil is remainder}\\
@@ -2824,52 +2826,52 @@ x \div 5 \text{ \ friends} &= 4 \text{\ pencil is remainder}\\
 x \div 6 \text{ \ friends} &= 5 \text{\ pencil is remainder}\\
 \end{aligned}
 $
-
+<emptyline>
 If a number is divided by $2$ and has a remainder of $1$ then it is an odd numbers
-
+<emptyline>
 Also known is if a number is divided by $5$ then it will have $0$ or $5$ at its units place. The
-
+<emptyline>
 As per the question, when Alison divides her pencils between $5$ friends she is left with $4$ as remainder.
 i.e., The number being looked for will have either $4$ or $9$ $(4 + 0) \text{or} \ (5 + 4)$ at the unit place:
-
+<emptyline>
 As $4$ is not an odd number, it can be ruled out
-
+<emptyline>
 So it can be derived that the total number of pencils has $9$ at its units place.
-
+<emptyline>
 Let's solve further using trial and error, 
-
+<emptyline>
 The options are: 9, 19, 29, 39, 49, 59, 69,....
-
+<emptyline>
 Leave out division by $5$ as all the options will give a remainder $4$. 
-
+<emptyline>
 Let's take 
 Quotient  = Q
 Remainder = R
-
+<emptyline>
 $9$ (too small)(ruled out)
-
+<emptyline>
 $19 \div 6 = Q \  3 \ R \ 1$ (as per question R is $5$)  (ruled out)
-
+<emptyline>
 $29 \div 6 = Q \  4 \ R \ 5$ (right)
-
+<emptyline>
 $29 \div 4 = Q \  7 \ R \ 1$ (as per question R is 3) (ruled out)
-
+<emptyline>
 $39 \div 3 = Q \ 13$ (as per question R is 2) (ruled out)
-
+<emptyline>
 $49 \div 6 = Q \  8 \ R \ 1$ (as per question R is 5)  (ruled out)
-
+<emptyline>
 $59 \div 6 = Q \  9 \ R \ 4$
-
+<emptyline>
 $59 \div 5 = Q \ 11 \ R \ 4$
-
+<emptyline>
 $59 \div 4 = Q \ 14 \ R \ 3$
-
+<emptyline>
 $59 \div 3 = Q \ 19 \ R \ 2$
-
+<emptyline>
 $59 \div 2 = Q \ 19 \ R \ 1$
-
+<emptyline>
 The total numbers of pencils are $59$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3074,7 +3076,7 @@ $6 - 2 + 5 - 5 + 7 = 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$6 - 2 + 5 - 5 + 7 = 11$
-
+<emptyline>
 $11$ is a multiple of $11$ so $62557$ is divisible by $11$. 
 </code></pre>
 </div>
@@ -3121,7 +3123,7 @@ No
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1 - 3 + 8 - 2 + 5 - 1 = 8$
-
+<emptyline>
 $8$ is not a multiple of $11$ so $138251$ is not divisible by $11$ and will have a remainder.
 </code></pre>
 </div>
@@ -3176,7 +3178,7 @@ $n = 6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$74n130$
-
+<emptyline>
 $
 \begin{aligned}
     11 &= 7 - 4 + n - 1 + 3 - 0 \\ 
@@ -3185,7 +3187,7 @@ $
      6 &= n \\
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3255,9 +3257,9 @@ b = $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$83a4b9$
-
+<emptyline>
 As per question $b = 3a$
-
+<emptyline>
 $
 \begin{aligned}
 &=8 - 3 + a - 4 + b - 9  \\
@@ -3265,7 +3267,7 @@ $
 &=4a - 8 \\
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 4a &= 8 \\
@@ -3275,7 +3277,7 @@ $
    &= 3 \times 2 \\
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3478,9 +3480,9 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $3\ (.)\ 4$
-
+<emptyline>
 $
 \begin{aligned}
 &= (5 \times 3) + 4\\
@@ -3488,7 +3490,7 @@ $
 &= 19
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -3541,7 +3543,7 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5\ (.)\ 3$
-
+<emptyline>
 $
 \begin{aligned}
 &= (5 \times 5) + 3\\
@@ -3604,7 +3606,7 @@ $m = 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$m\ (.)\ 2 = 37$
-
+<emptyline>
 $
 \begin{aligned}
            37 &= 5 \times m + 2\\
@@ -3672,7 +3674,7 @@ $N = 9$
 
 <pre class='language-latex'><code class='language-latex'>
 $n\ (.)\ 4 = 8\ (.)\ n$
-
+<emptyline>
 $
 \begin{aligned}
   5 \times n + 4 &= 5 \times 8 + n \\
@@ -3905,15 +3907,15 @@ $30 \ \text{m/s}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$S^2 = 20 \times d$ where 
-
+<emptyline>
 $S^2 = S \times S$
-
+<emptyline>
 Speed ($S$) of the ball in $\text{m/s}$
-
+<emptyline>
 Distance ($d$) in $\text{m}$
-
+<emptyline>
 Let's substitute
-
+<emptyline>
 $
 \begin{aligned}
   d &= 45 \ \text{m} \\
@@ -3925,9 +3927,9 @@ S^2 &= 20 \times 45 \\
   S &= 30
 \end{aligned}
 $
-
+<emptyline>
 The speed of the ball is $30 \ \text{m/s}$ when it has dropped 45m.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3991,11 +3993,11 @@ $80 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$S^2 = 20 \times d$ where 
-
+<emptyline>
 $S^2 = S \times S$
-
+<emptyline>
 Let's substitute
-
+<emptyline>
 $
 \begin{aligned}
    S &= 40 \ \text{m/s} \\
@@ -4008,9 +4010,9 @@ $
    d &= 80 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 The ball has fallen $80 \ \text{m}$ when the speed is $40 \ \text{m/s}$.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4090,13 +4092,13 @@ $
               &= 80  \ \text{m/s}
 \end{aligned}
 $
-
+<emptyline>
 $S^2 = 20 \times d$ where 
-
+<emptyline>
 $S^2 = S \times S$
-
+<emptyline>
 Let's substitute
-
+<emptyline>
 $
 \begin{aligned}
    S &= 80 \ \text{m/s} \\
@@ -4109,9 +4111,9 @@ $
    d &= 240 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 The ball has to fall $240 \ \text{m}$ to be travelling at twice the speed than speed in (b).
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4323,11 +4325,11 @@ $\pounds 348$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Cost of an adult ticket $ \ a = \pounds 15$
-
+<emptyline>
 Cost of a child ticket $ \ b = \pounds 4$
-
+<emptyline>
 Total cost = (No. of adults $\times$ a) + (No. of children Adults $\times$ b) 
-
+<emptyline>
 $
 \begin{aligned}
 &= (20 \times 15) + (12 \times 4) \\
@@ -4335,9 +4337,9 @@ $
 &= \pounds 348
 \end{aligned}
 $
-
+<emptyline>
 The total cost of $20$ adults and $12$ children tickets is $\pounds 348$.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4440,9 +4442,9 @@ $
 \text {Cost of a child ticket} \ b &= \pounds 3 \\
 \end{aligned}
 $
-
+<emptyline>
 Total cost of children tickets = (No. of children $\ \times \ b$)
-
+<emptyline>
 $
 \begin{aligned}
 &= 16 \times \pounds 3 \\
@@ -4450,28 +4452,28 @@ $
 &= \pounds 48 \\
 \end{aligned}
 $
-
+<emptyline>
 Total costs of children tickets is $\pounds 48$
-
+<emptyline>
 Total cost of adult and children tickets is $\pounds 408$ 
-
+<emptyline>
 Total cost of adult tickets
-
+<emptyline>
 $\quad =$ Total cost - Total cost of children tickets
-
+<emptyline>
 $
 \begin{aligned}
 &= 408 - 48 \\
 &= 360 
 \end{aligned}
 $
-
+<emptyline>
 Total cost of adult tickets is $\pounds 360$
-
+<emptyline>
 Let's take the cost of one adult ticket as $a$.
-
+<emptyline>
 As per question, No. of adults is $30$ 
-
+<emptyline>
 $
 \begin{aligned}
              360 &= 30 \times a   \\\\
@@ -4483,7 +4485,7 @@ $
                a &= \pounds 12 \\
 \end{aligned}
 $
-
+<emptyline>
 One adult ticket costs $\pounds 12$.
 </code></pre>
 </div>
@@ -4565,7 +4567,7 @@ $\pounds 4$
 
 <pre class='language-latex'><code class='language-latex'>
 As per question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text {No. of adults}          &= 50 \\
@@ -4573,17 +4575,17 @@ $
 \text {Total cost of tickets}  &= \pounds 760 \\
 \end{aligned}
 $
-
+<emptyline>
 Let's take the cost of a child ticket as $c$.
-
+<emptyline>
 Cost of an adult ticket is $3 \times x$. 
-
+<emptyline>
 Total cost = Total cost adults + total cost children.
-
+<emptyline>
 Total cost of adult ticket = No. of adults $\times$ cost of an adult ticket.
-
+<emptyline>
 Total cost of children's ticket = No. of children $\times$ cost of a child ticket.
-
+<emptyline>
 $
 \begin{aligned}
                                 760 &= (50 \times 3x) + (40 \times x) \\
@@ -4596,9 +4598,9 @@ $
                          \pounds 4  &= x
 \end{aligned}
 $
-
+<emptyline>
 Cost of an adult ticket is $\pounds 4$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -4694,7 +4696,7 @@ $\pounds 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text {No. of adults}          &= 25 \\
@@ -4702,17 +4704,17 @@ $
 \text {Total cost of tickets}  &= \pounds 370 \\
 \end{aligned}
 $
-
+<emptyline>
 Let's take the cost of an adult ticket as $a$.
-
+<emptyline>
 Cost of a child ticket is $a - 6$. 
-
+<emptyline>
 Total cost = Total cost adults + total cost children.
-
+<emptyline>
 Total cost of child ticket = No. of children $\times$ cost of a child ticket.
-
+<emptyline>
 Total cost of an adult ticket = No. of adults $\times$ cost of an adult ticket.
-
+<emptyline>
 $
 \begin{aligned}
          (25 \times a) + 30 (a - 6) &= 370 \\
@@ -4727,13 +4729,13 @@ $
                                   a &= \pounds 10 \\
 \end{aligned}
 $
-
+<emptyline>
 Cost of an adult ticket is $\pounds 10$
-
+<emptyline>
 Let's calculate the cost of a child ticket.
-
+<emptyline>
 Cost of a child ticket is $a - 6$. 
-
+<emptyline>
 $
 \begin{aligned}
 &= (a - 6) \\
@@ -4742,7 +4744,7 @@ $
 &= \pounds 4 \\
 \end{aligned}
 $
-
+<emptyline>
 Cost of a child ticket is $\pounds 4$. 
 </code></pre>
 </div>
@@ -4767,7 +4769,7 @@ Cost of a child ticket is $\pounds 4$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BF5B5BD3-287F-4180-939C-D53BE202DA6C</p>
 </div>
@@ -4781,7 +4783,7 @@ Cost of a child ticket is $\pounds 4$.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4895,11 +4897,11 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of pigs $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Let's equate food consumed to the count of animals, we get
-
+<emptyline>
 $
 \begin{aligned} 
 30 \times 8 + a \times 6    &= 360 \\\\
@@ -4912,7 +4914,7 @@ a                           &= \dfrac {20 \times \cancel{6}} {\cancel{6}} \\\\
 a                           &= 20
 \end{aligned}
 $
-
+<emptyline>
 Number of pigs $= 20$
 </code></pre>
 </div>
@@ -4974,7 +4976,7 @@ Number of pigs $= 20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>625257F8-46C4-4F5F-9DF6-C451EA995331</p>
 </div>
@@ -4988,7 +4990,7 @@ Number of pigs $= 20$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5129,17 +5131,17 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the shortest piece (in $\text{cm}$) $= a$
-
+<emptyline>
 Then as per the question,
-
+<emptyline>
 Middle piece (in $\text{cm}$) $= a + 70$
-
+<emptyline>
 Largest piece (in $\text{cm}$) $= a + 70 + 40$
-
+<emptyline>
 rtq_abbr_md_unit_note
 The pole measurement is given in metres while the measurement of the pieces are given in cms.
 Let's convert the total length into $\text{cm}$.
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Total length}     &=  6  \ \text{metre} \\\\
@@ -5147,9 +5149,9 @@ $
                         &=  600 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Equating the pole to pieces we get,
-
+<emptyline>
 $
 \begin{aligned} 
 a + (a + 70) + (a + 70 + 40)    &= 600 \\\\
@@ -5161,11 +5163,11 @@ a + a + 70 + a + 70 + 40        &= 600 \\\\
 a                               &= 140 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 The shortest piece $= 120$ cm.
-
+<emptyline>
 let's calculate the largest piece.
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Largest piece}   &= a + 70 + 40 \\\\
@@ -5233,7 +5235,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E32C98B2-7C2C-406F-AEAC-A4AECCE46113</p>
 </div>
@@ -5247,7 +5249,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5362,11 +5364,11 @@ $24 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a chocolate biscuit (in pence) $= a$
-
+<emptyline>
 Cost of a bag of crisps (in pence) $= a + 4$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 2 \times (a + 4) + 5 \times a   &= \pounds 1.76  \\\\
@@ -5381,7 +5383,7 @@ a                               &= \dfrac {24 \times \cancel{7}}{\cancel{7}}  \\
 a                               &= 24 \text{p}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a chocolate biscuit $= 24 \text{p}$
 </code></pre>
 </div>
@@ -6445,13 +6447,13 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>TODOWORKING
-
+<emptyline>
 Factors of $10$ are: $\text {\textunderscore \textunderscore \textunderscore}$
-
+<emptyline>
 Factors of 15 are: $\text {\textunderscore \textunderscore \textunderscore}$
-
+<emptyline>
 So common factors are: $\text {\textunderscore \textunderscore \textunderscore}$
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -7257,7 +7259,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A31A6436-9C6D-4A0E-B943-F8626DF8E8C7</p>
 </div>
@@ -7271,7 +7273,7 @@ TODOANSWER
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7383,11 +7385,11 @@ $\pounds 50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the original cost of the coat (in $\pounds$) $= c$
-
+<emptyline>
 If the price is reduced by $20 \%$, then the sale price would be $100 - 20 = 80 \%$ of the original price.
-
+<emptyline>
 Let's use this to calculate the original price.
-
+<emptyline>
 $
 \begin{aligned}
 80 \% \text{ of } c               &= 40 \\\\
@@ -7398,7 +7400,7 @@ c                                 &= \dfrac {\cancel{40} \times \cancel{2} \time
 c                                 &= \pounds 50 
 \end{aligned}
 $
-
+<emptyline>
 Original price $= \pounds 50$
 </code></pre>
 </div>
@@ -7668,26 +7670,26 @@ $30 \ \text{pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a bag of sweets (in $\text{pence}$) $= s$
-
+<emptyline>
 Let the cost of a can of drink (in $\text{pence}$) $= d$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. Let's convert both the costs into pence.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 3s + 5d &= 490 \\\\
 s + 3d &= 270
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
 But which one should we eliminate? If we look at the question again, we only need the 
 cost for a bag of sweets, so let's eliminate $d$ so we can directly calculate the value for $s$.
-
+<emptyline>
 The LCM of $5$ and $3$ is $15$. Multiply the first equation by $3$ and the second equation by $5$ to make the coeifficent of $d$ the same.
-
+<emptyline>
 $
 \begin{aligned} 
 3 \times 3s + 3 \times 5d   &= 3 \times 490 \\\\
@@ -7696,9 +7698,9 @@ $
 5s + 15d                    &= 1350
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned} 
 9s + 15d -(5s + 15d)               &= 1470 - 1350 \\\\
@@ -7708,29 +7710,29 @@ s                                  &= \dfrac{120}{4} \\\\
 s                                  &= 30 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bag of sweets $= 30 \ \text{pence}$.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>What if we eliminate $s$ instead?
-
+<emptyline>
 This approach is less efficient as we will have to calculate one extra value to get the answer.
-
+<emptyline>
 Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 Multiply the second equation by $3$.
-
+<emptyline>
 $
 \begin{aligned} 
 3 \times s + 3 \times 3d   &= 3 \times 270 \\\\
 3s + 9d                     &= 810
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned} 
 3s + 5d                     &= 490 \\\\
@@ -7742,11 +7744,11 @@ d                           &= \dfrac {320} {4} \\\\
 d                           &= 80  \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a can of drink $= 80  \ \text{pence}$. 
-
+<emptyline>
 Let's substitute the value of $d$ in one of the initial equations to find the cost of a bag of sweets.
-
+<emptyline>
 $
 \begin{aligned} 
 3s + 5d             &= 490 \\\\
@@ -7758,7 +7760,7 @@ s                   &= \dfrac {90} {3}\\\\
 s                   &= 30 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bag of sweets $= 30 \ \text{pence}$.
 </code></pre>
 </div>
@@ -7780,7 +7782,7 @@ Cost of a bag of sweets $= 30 \ \text{pence}$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E2B23658-50CC-43B0-813D-B11A7DDE570B</p>
 </div>
@@ -7794,7 +7796,7 @@ Cost of a bag of sweets $= 30 \ \text{pence}$.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7913,9 +7915,9 @@ $130 \ \text {grams}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight for the largest apple (in $\text{grams}$) $= a$
-
+<emptyline>
 $\text{Average weight} = \dfrac {\text{Total Weight}} {\text{Total Apples}}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Mean weight of } 2 \text{ apples}     &= 70 \\\\
@@ -7923,9 +7925,9 @@ $
                                             &= 140  \ \text {grams}
 \end{aligned}
 $
-
+<emptyline>
 Using the average weight for $3$ apples, we get
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a + 140} {3}    &= 90  \\\\
@@ -8119,9 +8121,9 @@ $129$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number immediately before $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 
 $
 \begin{aligned} 
@@ -8319,9 +8321,9 @@ $\text{February } 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of days it takes the plant to reach a height of $11 \ \text{cm}$ $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 6 + 0.2 \times a    &= 11 \\\\
@@ -8333,7 +8335,7 @@ a                   &= \dfrac {50} {2} \\\\
 a                   &= 25 \ \text{days}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Date when height is reached}          &= \text{January } 19  + 25 \ \text{days} \\\\
@@ -9607,7 +9609,7 @@ $4.5 \ \text {kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of the fifth parcel (in kg) $= w$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Average weight}           &= \dfrac {\text{Weight of all the parcels}} {\text{Total parcels}} \\\\
@@ -9619,7 +9621,7 @@ w                               &= 18.5 - 14  \\\\
 w                               &= 4.5  \ \text{kg}
 \end{aligned}
 $
-
+<emptyline>
 Weight of the fifth parcel $= 4.5 \ \text {kg}$ 
 </code></pre>
 </div>
@@ -9810,9 +9812,9 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the original number $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a}{7}   &= 68 \\\\
@@ -9820,11 +9822,11 @@ a               &= 68 \times 7 \\\\
 a               &= 476
 \end{aligned}
 $
-
+<emptyline>
 Original number is $= 476$
-
+<emptyline>
 Let's find the actual answer Aidan should have got.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {476} {17} \\\\
@@ -10036,13 +10038,13 @@ $1200 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the width of the rectangle (in $\text {cm}$) $= w$
-
+<emptyline>
 Then as per the question, length of the rectangle $= 3w$
-
+<emptyline>
 $\text {Perimeter} = 2 \times (\text {length} + \text {width})$
-
+<emptyline>
 Equating the perimeter to length and width we get,
-
+<emptyline>
 $
 \begin {aligned}
 2 \times (3w + w)   &= 160 \\\\
@@ -10052,7 +10054,7 @@ w                   &= \dfrac {160} {8} \\\\
 w                   &= 20 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Area}         &= \text {length} \times \text {width} \\\\
@@ -10061,7 +10063,7 @@ $
                      &= 60 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Area}         &= \text {length} \times \text {width} \\\\
@@ -10302,35 +10304,35 @@ $\pounds 2.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of an apple (in pence) $= a$
-
+<emptyline>
 Let the cost of an orange (in pence) $= b$
-
+<emptyline>
 rtq_abbr_md_unit_note
 Let's convert all the costs into pence.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 5b + 2a &= 340 \\\\
 3b + a  &= 200
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 
 Multiply the second equation by $2$.
-
+<emptyline>
 $
 \begin{aligned} 
 2 \times 3b + 2 \times a &= 2 \times 200 \\\\
 6b + 2a                  &= 400
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second below to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned} 
 5b + 2a                 &= 340 \\\\
@@ -10340,11 +10342,11 @@ $
 b                       &= 60 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of an orange $= 60 \ \text{pence}$.
-
+<emptyline>
 Let's substitute the value of $b$ in one of the initial equations to find the cost of an apple.
-
+<emptyline>
 $
 \begin{aligned} 
 3b + a           &= 200 \\\\
@@ -10354,7 +10356,7 @@ a                &= 200 - 180 \\\\
 a                &= 20 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 
 $
 \begin{aligned} 
@@ -10553,17 +10555,17 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can easily be inferred by using trial and error.
-
+<emptyline>
 **pro-add**$(8) = 72$ and we are looking a bigger number $210$, so let's start with a slightly bigger number.
-
+<emptyline>
 | Number    |         pro-added                 |
 |:------:   |:-------------------------:        |
 |  $12$     | $12 \times 12 + 12 = \red{156}$   |
 |  $13$     | $13 \times 13 + 13 = \red{182}$   |
 |  $14$     | $14 \times 14 + 14 = \green{210}$ |
-
+<emptyline>
 A quick check shows that $14$ meets the criteria above.
-
+<emptyline>
 Number $= 14$
 </code></pre>
 </div>
@@ -10815,13 +10817,13 @@ $\pounds 1.60$
                                                      &= 10
 \end{aligned}
 $
-
+<emptyline>
 Let the starting fare $= a$
-
+<emptyline>
 QMC = $80$ pence
-
+<emptyline>
 Total fare = starting charge + (quarter miles $\times 80p$)
-
+<emptyline>
 $
 \begin{aligned}
 \pounds 9.60 &= a + (10 \times 80p) \\\\
@@ -10912,11 +10914,11 @@ $40 \text{p}$
                                                     &= 25
 \end{aligned}
 $
-
+<emptyline>
 Total fare = starting charge + (quarter miles $\times$ QMC)
-
+<emptyline>
 Let the QMC $= q$
-
+<emptyline>
 $
 \begin{aligned}
 \pounds 12.20    &= \pounds 2.20 + (25 \times q) \\\\
@@ -11218,15 +11220,15 @@ $\pounds 720$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take a portion of :
-
+<emptyline>
 chips costing $\pounds 1.50$ as $x$
 fish costing $\pounds 3.50$as $y$
 pie costing $\pounds 2.00$as $z$
-
+<emptyline>
 Lets find the total income that evening when they sold.
-
+<emptyline>
 Cost of 80 lots of fish and chips 
-
+<emptyline>
 $
 \begin{aligned}
 &= 80 \times (x + y) \\
@@ -11235,9 +11237,9 @@ $
 &= \pounds 400 \\
 \end{aligned}
 $
-
+<emptyline>
 Cost of 70 lots of pie and chips 
-
+<emptyline>
 $
 \begin{aligned}
 &= 70 \times (z + y) \\
@@ -11248,9 +11250,9 @@ $
 &= \pounds 245 \\
 \end{aligned}
 $
-
+<emptyline>
 Cost of 50 lots of chips 
-
+<emptyline>
 $
 \begin{aligned}
 &= 50 \times x \\
@@ -11260,9 +11262,9 @@ $
 &= \pounds 75 \\
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the total income by adding all the earnings of the day.
-
+<emptyline>
 $
 \begin{aligned}
 &= \pounds 400 + \pounds 245 + \pounds 75 \\
@@ -11333,9 +11335,9 @@ $\pounds 324$
 
 <pre class='language-latex'><code class='language-latex'>
 To find the Cost price of the owner, add all the cost price of foods purchased. 
-
+<emptyline>
 i.e., cost of potatoes + fish + pies.
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -11346,7 +11348,7 @@ $
 &= \pounds 324 \\
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -11415,20 +11417,20 @@ $\pounds 446$
 
 <pre class='language-latex'><code class='language-latex'>
 $4 \ \text{pm}$ to $11 \ \text{pm}$ = $7 \ \text{hours}$
-
+<emptyline>
 Cost of $2$ Staff at $\pounds 8$ per hour
-
+<emptyline>
 $= 7 \times 2 \times \pounds 8$  
-
+<emptyline>
 $= \pounds 112$
-
+<emptyline>
 
 Total Expenses for the evening
-
+<emptyline>
 = Cost of food purchased + Cost of staff + other materials 
-
+<emptyline>
 Let's substitute the values
-
+<emptyline>
 $
 \begin{aligned}
 &= \pounds 324 + \pounds 112 + \pounds 10 \\
@@ -11488,14 +11490,14 @@ $\pounds 274$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Profit 
-
+<emptyline>
 $
 \begin{aligned}
 &=  \pounds 720 - \pounds 446 \\
 &= \pounds 274 \\
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -11654,9 +11656,9 @@ $35$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times \dfrac{3} {7} &= 18 \\\\
@@ -11668,9 +11670,9 @@ a                      &= 6 \times 7 \\\\
 a                      &= 42
 \end{aligned}
 $
-
+<emptyline>
 Now let's find $\dfrac {5} {6}$ of the number.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {5} {6} \times 42 \\\\
@@ -11876,17 +11878,17 @@ $43$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's state the facts first for reference.
-
+<emptyline>
 - Anna skipped $3$ questions. So attempted questions $= 50 - 3 = 47$.
 - Marks scored for correct answer $= 4$
 - Marks deducted for wrong answer $= 1$
-
+<emptyline>
 Let the number of questions Anna answered correctly $= a$
-
+<emptyline>
 So, the number of incorrect questions $= 47 - a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Marks scored} - \text{Marks deducted} &= 168 \\\\
@@ -11901,7 +11903,7 @@ a                                           &= \dfrac {43 \times \cancel {5}} {\
 a                                           &= 43
 \end{aligned}
 $
-
+<emptyline>
 Questions Anna answered correctly $= 43$
 </code></pre>
 </div>
@@ -12063,13 +12065,13 @@ $\pounds 144$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Emily's collection (in $\pounds$) $= a$. Then,
-
+<emptyline>
 David's collection $= 3a$
-
+<emptyline>
 Chloe's collection $= 6a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}  
 74 + 86 + 6a + 3a + a   &= 400 \\\\
@@ -12080,11 +12082,11 @@ a                       &= \dfrac {240} {10} \\\\
 a                       &= \pounds 24
 \end{aligned}
 $
-
+<emptyline>
 Emily's collection $= \pounds 24$
-
+<emptyline>
 Let's find Chloe's collection.
-
+<emptyline>
 $
 \begin{aligned}  
 \text{Chloe's collection} &= 6a \\\\

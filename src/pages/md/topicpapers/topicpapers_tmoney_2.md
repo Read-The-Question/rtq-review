@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-2"
 title: "TopicPaper - Money - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -133,7 +133,7 @@ $\pounds 4.54$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned} 
 \text {Money spent}             &= 7 \times 78 \\\\
@@ -513,7 +513,7 @@ $85 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of 12 cans}                 &= 12 \times 65 \\\\
@@ -704,7 +704,7 @@ $135 \ \text {pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of 15 packets}  &= 15 \times 35 \\\\
@@ -1194,11 +1194,11 @@ $\pounds 26$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Miguel has (in $\pounds$) $= a$
-
+<emptyline>
 Jon has (in $\pounds$) $= a + 0.3 \times a = 1.3a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 1.3a                        &= 46 \\\\
@@ -1562,7 +1562,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FB46428B-2F3D-4896-AB84-0165582FAD90</p>
 </div>
@@ -1570,10 +1570,10 @@ $
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1687,7 +1687,7 @@ $(4.65 \div 15) \times 19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of 15 pens}                                 &= \pounds 4.65 \\\\
@@ -2379,7 +2379,7 @@ $\pounds 5.06$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 1 \dfrac {1} {2} \times 64 + 4 \times 35 + 6 \times 43 \\\\
@@ -2666,7 +2666,7 @@ $\pounds 4.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If the charity spends $60 \%$ on equipments, then the donation not spent is $100 - 60 = 40 \%$.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Donation not spent}   &= 40 \% \ \text {of} \ \pounds 12 \\\\
@@ -2871,7 +2871,7 @@ $\pounds 36.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total cost}   &= 8 \times (\pounds 6 - \dfrac {1} {4} \times \pounds 6) + \dfrac {1} {2} \times 30 \text {p} \\\\
@@ -2947,7 +2947,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>587B8A90-626D-4702-8677-57FD78D2E7DD</p>
 </div>
@@ -2955,10 +2955,10 @@ $
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3070,7 +3070,7 @@ $\pounds 64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total cost}  &= 4 \times \pounds 16 \\\\
@@ -3216,7 +3216,7 @@ $\pounds 4.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times 75 + 3 \times 95 \\\\
@@ -3418,7 +3418,7 @@ $4 \ \text {litre can}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the cost per litre for three cans,
-
+<emptyline>
 $
 \begin {aligned}
 \text {First can}   &= \dfrac {15} {2} \\\\
@@ -3429,9 +3429,9 @@ $
                     &= \pounds 6.25
 \end {aligned}
 $
-
+<emptyline>
 Using the calculation above,
-
+<emptyline>
 Best value $= 4 \ \text {litre can}$
 </code></pre>
 </div>
@@ -3649,7 +3649,7 @@ $€425121$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Each person received}    &= \dfrac {€1275363} {3} \\\\
@@ -3953,7 +3953,7 @@ $20 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cookies she can buy}   &= \dfrac {\pounds 10} {70 \text {p}} \\\\
@@ -3961,9 +3961,9 @@ $
                                     &= 14.28
 \end {aligned}
 $
-
+<emptyline>
 She can buy $14$ cookies with $\pounds 10$ note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Change received}     &= \pounds 10 - 14 \times 70 \text {p} \\\\
@@ -4320,7 +4320,7 @@ $33 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent}                   &= \pounds 20 - \pounds 14.72 \\\\
@@ -4421,11 +4421,11 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let total number of slices $= a$.
-
+<emptyline>
 Number of slices Donald bought $= \dfrac {a} {3}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of slices Alisha bought}                                      &= 3 \\\\
@@ -4442,9 +4442,9 @@ a                                                                           &= 3
 a                                                                           &= 27
 \end {aligned}
 $
-
+<emptyline>
 Total number of slices $= 27$
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of slices Donald bought}  &= \dfrac {a} {3} \\\\
@@ -4454,14 +4454,14 @@ $
                                         &= 9
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Difference}  &= 9 - 3 \\\\
                     &= 6
 \end {aligned}
 $
-
+<emptyline>
 Donald bought $6$ slices more than Alisha.
 </code></pre>
 </div>
@@ -4538,11 +4538,11 @@ $\pounds 3.60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a pork chop $= a$
-
+<emptyline>
 Cost of a lamb chop $= 3a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times 3a + 2 \times a    &= \pounds 9.60 \\\\
@@ -4552,9 +4552,9 @@ a                           &= \dfrac {9.60} {8} \\\\
 a                           &= \pounds 1.20
 \end{aligned}
 $
-
+<emptyline>
 Cost of a pork chop $= \pounds 1.20$
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of a lamb chop} &= 3 \times 1.20 \\\\
@@ -4794,7 +4794,7 @@ $\pounds 2.14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent} &= 17 \times 8 + 6 \times 13 \\\\
@@ -4888,7 +4888,7 @@ $2.66 \text {p}$
                                     &\approx 68
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money left}  &= \pounds 3.20 - \dfrac {68} {12} \times 56 \text {p} \\\\
@@ -5036,11 +5036,11 @@ $\pounds 0.144$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let a cucumber cost (in $\pounds$) $= a$
-
+<emptyline>
 Giant mushroom cost (in $\pounds$) $= \dfrac {3a} {5}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 12a         &= \pounds 3.60 \\\\
@@ -5050,7 +5050,7 @@ a           &= \dfrac {\cancel {12} \times 0.03} {\cancel {12}} \\\\
 a           &= \pounds 0.03
 \end {aligned}
 $
-
+<emptyline>
 A cucumber cost $= \pounds 0.03$
 $
 \begin {aligned}
@@ -5126,9 +5126,9 @@ $\dfrac {5a} {6}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the original stock has vegetables $= a$
- 
+<emptyline>
 Asha sold on Monday $= \dfrac {a} {2}$
-
+<emptyline>
 $
 \begin {aligned}
 \text {Asha sold on Tuesday}        &= \dfrac {1} {3} \ \text {of} \ (a - \dfrac {a} {2}) \\\\
@@ -5629,11 +5629,11 @@ $40 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a bag (in \text {pence}) $= a$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 3a  &= \pounds 2 - 80 \text {p} \\\\
@@ -5645,7 +5645,7 @@ a   &= \dfrac {\cancel {3} \times 40} {\cancel {3}} \\\\
 a   &= 40 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 Cost of a bag $= 40 \text {p}$
 </code></pre>
 </div>
@@ -5707,7 +5707,7 @@ Cost of a bag $= 40 \text {p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8B578477-6F19-43DE-B59B-70CEB333815B</p>
 </div>
@@ -5715,10 +5715,10 @@ Cost of a bag $= 40 \text {p}$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5845,9 +5845,9 @@ $988$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 Let's convert the total amount into pence.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total amount}  &= \pounds 10 \\\\
@@ -5855,11 +5855,11 @@ $
                      &= 1000\text{p}
 \end{aligned}
 $
-
+<emptyline>
 Cost of each stamp $= 26\text{p}$
-
+<emptyline>
 Total stamps can be brought
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1000} {26} \\\\
@@ -5867,9 +5867,9 @@ $
 &=  38
 \end{aligned}
 $
-
+<emptyline>
 Total amount spent
-
+<emptyline>
 $
 \begin{aligned}
 &= 38 \times 26 \\\\
@@ -5896,7 +5896,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>07349E26-31E6-4C19-BD31-C474DED3D3BF</p>
 </div>
@@ -5907,7 +5907,7 @@ $
 <p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5991,36 +5991,33 @@ How much has she been given after $8$ days?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Money given}     &= 2 ^ {9 - 1} \\\\
+                        &= 2 ^ 8 \\\\
+                        &= 256 \text {p}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$256 \text {p}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {Money given}     &= 2 ^ {9 - 1} \\\\
+                        &= 2 ^ 8 \\\\
+                        &= 256 \text {p}
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6032,22 +6029,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$256 \text {p}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='07349E26-31E6-4C19-BD31-C474DED3D3BF' id='FORM-07349E26-31E6-4C19-BD31-C474DED3D3BF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-07349E26-31E6-4C19-BD31-C474DED3D3BF'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6171,7 +6198,7 @@ $\pounds 5.02$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times \pounds 1.09 + 62 \text {p} \\\\
@@ -6407,7 +6434,7 @@ $\pounds 3.70$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent} &= 20 \text {p} + 3 \times 30 \text {p} + \pounds 2.60 \\\\
@@ -6474,7 +6501,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of times} &= \dfrac {\pounds 5 - (20 \text {p} + \pounds 2.60)} {30 \text {p}} \\\\
@@ -6484,7 +6511,7 @@ $
                         &= 7.33
 \end {aligned}
 $
-
+<emptyline>
 Anna can visit $7$ times a side show.
 </code></pre>
 </div>
@@ -7080,7 +7107,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>602A25EA-3F09-4E4D-AD48-86213F4C779E</p>
 </div>
@@ -7088,10 +7115,10 @@ $
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7173,36 +7200,29 @@ Bella changes $\pounds 24$ into dinars. How many dinars does she have?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the graph,
 
-</div>
-<div class='working'>
+$\pounds 24 = 60 \ \text {dinars}$
 
-TODOWORKING
+Bella have $= 60 \ \text {dinars}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$60 \ \text {dinars}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>As per the graph,
+<emptyline>
+$\pounds 24 = 60 \ \text {dinars}$
+<emptyline>
+Bella have $= 60 \ \text {dinars}$
 </code></pre>
 </div>
 </div>
@@ -7214,26 +7234,56 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$60 \ \text {dinars}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='602A25EA-3F09-4E4D-AD48-86213F4C779E' id='FORM-602A25EA-3F09-4E4D-AD48-86213F4C779E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-602A25EA-3F09-4E4D-AD48-86213F4C779E'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>F087861E-7B4A-4054-A722-84CCF3ADEC07</p>
 </div>
@@ -7241,10 +7291,10 @@ TODOANSWER
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7324,36 +7374,29 @@ Charlotte changes $60$ dinars into pounds. How many pounds does she have?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the graph,
 
-</div>
-<div class='working'>
+$60 \ \text {dinars} = \pounds 24$
 
-TODOWORKING
+Charlotte have $= \pounds 24$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 24$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>As per the graph,
+<emptyline>
+$60 \ \text {dinars} = \pounds 24$
+<emptyline>
+Charlotte have $= \pounds 24$
 </code></pre>
 </div>
 </div>
@@ -7365,26 +7408,56 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\pounds 24$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='F087861E-7B4A-4054-A722-84CCF3ADEC07' id='FORM-F087861E-7B4A-4054-A722-84CCF3ADEC07' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F087861E-7B4A-4054-A722-84CCF3ADEC07'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8C561D00-80A3-4646-9C8F-236A70562757</p>
 </div>
@@ -7392,10 +7465,10 @@ TODOANSWER
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7475,36 +7548,51 @@ Deirdre has $\pounds  300$ that she wants to turn into dinars. How many dinars w
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using above answers,
 
-</div>
-<div class='working'>
+$
+\begin {aligned}
+\pounds 24  &= 60 \ \text {dinars} \\\\
+\pounds 1   &= \dfrac {60} {24} \ \text {dinars} \\\\
+\pounds 300 &= \dfrac {60} {24} \times 300 \text {dinars} \\\\
+\pounds 300 &= \dfrac {60 \times 300} {24} \\\\
+\pounds 300 &= \dfrac {6 \times 10 \times 4 \times 75} {6 \times 4} \\\\
+\pounds 300 &= \dfrac {\cancel {6} \times 10 \times \cancel {4} \times 75} {\cancel {6} \times \cancel {4}} \\\\
+\pounds 300 &= 10 \times 75 \\\\
+\pounds 300 &= 750 \ \text {dinars}
+\end {aligned}
+$
 
-TODOWORKING
+Deirdre received $= 750 \ \text {dinars}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$750 \ \text {dinars}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using above answers,
+<emptyline>
+$
+\begin {aligned}
+\pounds 24  &= 60 \ \text {dinars} \\\\
+\pounds 1   &= \dfrac {60} {24} \ \text {dinars} \\\\
+\pounds 300 &= \dfrac {60} {24} \times 300 \text {dinars} \\\\
+\pounds 300 &= \dfrac {60 \times 300} {24} \\\\
+\pounds 300 &= \dfrac {6 \times 10 \times 4 \times 75} {6 \times 4} \\\\
+\pounds 300 &= \dfrac {\cancel {6} \times 10 \times \cancel {4} \times 75} {\cancel {6} \times \cancel {4}} \\\\
+\pounds 300 &= 10 \times 75 \\\\
+\pounds 300 &= 750 \ \text {dinars}
+\end {aligned}
+$
+<emptyline>
+Deirdre received $= 750 \ \text {dinars}$
 </code></pre>
 </div>
 </div>
@@ -7516,22 +7604,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$750 \ \text {dinars}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8C561D00-80A3-4646-9C8F-236A70562757' id='FORM-8C561D00-80A3-4646-9C8F-236A70562757' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8C561D00-80A3-4646-9C8F-236A70562757'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -7747,7 +7865,7 @@ $\pounds 15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the answer above,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money he had}    &= 5.04 + 9.96 \\\\
@@ -8256,7 +8374,7 @@ $30 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent}     &= 3 \times 65 + 5 \times 55 \\\\
@@ -8847,7 +8965,7 @@ $\pounds 4.91$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times 65 + 3 \times 83 \\\\
@@ -9213,7 +9331,7 @@ $\pounds 3.63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 7 \times 55 + 4 \times 63 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-blocked"
 title: "TopicPaper - Number - 21 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -529,7 +529,7 @@ $10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
 &= 69
 \end{aligned}
 $
-
+<emptyline>
 $10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
 </code></pre>
 </div>
@@ -590,7 +590,7 @@ $12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
 &= 30
 \end{aligned}
 $
-
+<emptyline>
 $12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
 </code></pre>
 </div>
@@ -655,7 +655,7 @@ $30 \div 3 + 2 = 6$        $\boxed {\times}$
 &= 12 \ \cancel {=} \ 6
 \end{aligned}
 $
-
+<emptyline>
 $30 \div 3 + 2 = 6$        $\boxed {\times}$
 </code></pre>
 </div>
@@ -720,7 +720,7 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 &= 0
 \end{aligned}
 $
-
+<emptyline>
 $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 </code></pre>
 </div>
@@ -903,7 +903,7 @@ $14.43$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   9 \ .   &   8   &   3 \\
@@ -965,7 +965,7 @@ $13.19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   1   &   5 \ .   &   4   &   0 \\
@@ -1036,7 +1036,7 @@ $29.2$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
         &       &   7   &   3 \\
@@ -1045,13 +1045,13 @@ $
         &   2   &   9   &   2
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is one.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 = 29.2 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1111,7 +1111,7 @@ $0.78$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first divide the numbers ignoring the decimal points.
-
+<emptyline>
 $
 \begin{aligned}
 &= 4.68 \div 6 \\\\
@@ -1121,11 +1121,11 @@ $
 &= 78
 \end{aligned}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 $= 0.78$
 </code></pre>
 </div>

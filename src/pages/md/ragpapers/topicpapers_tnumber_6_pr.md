@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-pr"
 title: "TopicPaper - Number - 6 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -565,11 +565,11 @@ $9, 11, 33$
 66                                   & \boxed{\rtq_katex_color_answer{11}}  & \quad 18     & \quad 48                           
 \end{matrix}
 $
+<emptyline>
 
-
-
+<emptyline>
 Let's verify
-
+<emptyline>
 $
 \begin{aligned}
 \underline 9 \times 11 &= 99 \\\\
@@ -577,7 +577,7 @@ $
 \underline 33 \times 3 &= 99
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -2181,7 +2181,7 @@ $27$
 &= 72 
 \end{aligned}
 $
-
+<emptyline>
 $72$ written backward $= 27$
 </code></pre>
 </div>
@@ -2238,9 +2238,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$42$ backwards = $24$
-
+<emptyline>
 let the number = a
-
+<emptyline>
 $
 \begin{aligned}
 4 \times \text a &= 24 \\\\
@@ -2302,9 +2302,9 @@ $7, 5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$53$ backwards = $35$
-
+<emptyline>
 let the numbers= a, b
-
+<emptyline>
 $
 \begin{aligned}
 \text a \times \text b &= 35 \\\\
@@ -2694,9 +2694,9 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$24$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1 \times 2 \times 3 \times 4 \\\\

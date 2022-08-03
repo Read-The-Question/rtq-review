@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-notstarted"
 title: "TopicPaper - Algebra - 16 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -200,11 +200,11 @@ $\pounds 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take the shirts as = $x$
-
+<emptyline>
 Let's take the tops   as = $y$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {(Equation 1)} \quad 2x + 3y &= \pounds 29\\\           
@@ -213,9 +213,9 @@ $
 y &= 19 - 3x\\
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute $y$ in equation 1 
-
+<emptyline>
 $
 \begin{aligned}
          29 &= 2x + 3(19- 3x) \\
@@ -227,9 +227,9 @@ $
           x &= 4\\
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute $x$ in equation $2$ to find the cost a top $y$
-
+<emptyline>
 $
 \begin{aligned}
          y  &= 19 - 3x\\
@@ -238,18 +238,18 @@ $
          y  &= \pounds 7\\
 \end{aligned}
 $
-
+<emptyline>
 The cost of a top is $\pounds 7$.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take the shirts as = $x$
-
+<emptyline>
 Let's take the tops   as = $y$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {(Equation 1)} \quad 2x + 3y &= \pounds 29\\\           
@@ -258,9 +258,9 @@ $
 y &= 19 - 3x\\
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute $y$ in equation 1 
-
+<emptyline>
 $
 \begin{aligned}
          29 &= 2x + 3(19- 3x) \\
@@ -272,9 +272,9 @@ $
           x &= 4\\
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute $x$ in equation $2$ to find the cost a top $y$
-
+<emptyline>
 $
 \begin{aligned}
          y  &= 19 - 3x\\
@@ -283,7 +283,7 @@ $
          y  &= \pounds 7\\
 \end{aligned}
 $
-
+<emptyline>
 The cost of a top is $\pounds 7$.
 </code></pre>
 </div>
@@ -489,9 +489,9 @@ $59$
 <pre class='language-latex'><code class='language-latex'>
 Let's take the total number of pencils as $x$
 and the leftover pencils as $y$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x \div 2 \text{ \ friends} &= 1 \text{\ pencil is remainder}\\
@@ -501,52 +501,52 @@ x \div 5 \text{ \ friends} &= 4 \text{\ pencil is remainder}\\
 x \div 6 \text{ \ friends} &= 5 \text{\ pencil is remainder}\\
 \end{aligned}
 $
-
+<emptyline>
 If a number is divided by $2$ and has a remainder of $1$ then it is an odd numbers
-
+<emptyline>
 Also known is if a number is divided by $5$ then it will have $0$ or $5$ at its units place. The
-
+<emptyline>
 As per the question, when Alison divides her pencils between $5$ friends she is left with $4$ as remainder.
 i.e., The number being looked for will have either $4$ or $9$ $(4 + 0) \text{or} \ (5 + 4)$ at the unit place:
-
+<emptyline>
 As $4$ is not an odd number, it can be ruled out
-
+<emptyline>
 So it can be derived that the total number of pencils has $9$ at its units place.
-
+<emptyline>
 Let's solve further using trial and error, 
-
+<emptyline>
 The options are: 9, 19, 29, 39, 49, 59, 69,....
-
+<emptyline>
 Leave out division by $5$ as all the options will give a remainder $4$. 
-
+<emptyline>
 Let's take 
 Quotient  = Q
 Remainder = R
-
+<emptyline>
 $9$ (too small)(ruled out)
-
+<emptyline>
 $19 \div 6 = Q \  3 \ R \ 1$ (as per question R is $5$)  (ruled out)
-
+<emptyline>
 $29 \div 6 = Q \  4 \ R \ 5$ (right)
-
+<emptyline>
 $29 \div 4 = Q \  7 \ R \ 1$ (as per question R is 3) (ruled out)
-
+<emptyline>
 $39 \div 3 = Q \ 13$ (as per question R is 2) (ruled out)
-
+<emptyline>
 $49 \div 6 = Q \  8 \ R \ 1$ (as per question R is 5)  (ruled out)
-
+<emptyline>
 $59 \div 6 = Q \  9 \ R \ 4$
-
+<emptyline>
 $59 \div 5 = Q \ 11 \ R \ 4$
-
+<emptyline>
 $59 \div 4 = Q \ 14 \ R \ 3$
-
+<emptyline>
 $59 \div 3 = Q \ 19 \ R \ 2$
-
+<emptyline>
 $59 \div 2 = Q \ 19 \ R \ 1$
-
+<emptyline>
 The total numbers of pencils are $59$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -751,7 +751,7 @@ $6 - 2 + 5 - 5 + 7 = 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$6 - 2 + 5 - 5 + 7 = 11$
-
+<emptyline>
 $11$ is a multiple of $11$ so $62557$ is divisible by $11$. 
 </code></pre>
 </div>
@@ -798,7 +798,7 @@ No
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1 - 3 + 8 - 2 + 5 - 1 = 8$
-
+<emptyline>
 $8$ is not a multiple of $11$ so $138251$ is not divisible by $11$ and will have a remainder.
 </code></pre>
 </div>
@@ -853,7 +853,7 @@ $n = 6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$74n130$
-
+<emptyline>
 $
 \begin{aligned}
     11 &= 7 - 4 + n - 1 + 3 - 0 \\ 
@@ -862,7 +862,7 @@ $
      6 &= n \\
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -932,9 +932,9 @@ b = $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$83a4b9$
-
+<emptyline>
 As per question $b = 3a$
-
+<emptyline>
 $
 \begin{aligned}
 &=8 - 3 + a - 4 + b - 9  \\
@@ -942,7 +942,7 @@ $
 &=4a - 8 \\
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 4a &= 8 \\
@@ -952,7 +952,7 @@ $
    &= 3 \times 2 \\
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1155,9 +1155,9 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $3\ (.)\ 4$
-
+<emptyline>
 $
 \begin{aligned}
 &= (5 \times 3) + 4\\
@@ -1165,7 +1165,7 @@ $
 &= 19
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -1218,7 +1218,7 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5\ (.)\ 3$
-
+<emptyline>
 $
 \begin{aligned}
 &= (5 \times 5) + 3\\
@@ -1281,7 +1281,7 @@ $m = 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$m\ (.)\ 2 = 37$
-
+<emptyline>
 $
 \begin{aligned}
            37 &= 5 \times m + 2\\
@@ -1349,7 +1349,7 @@ $N = 9$
 
 <pre class='language-latex'><code class='language-latex'>
 $n\ (.)\ 4 = 8\ (.)\ n$
-
+<emptyline>
 $
 \begin{aligned}
   5 \times n + 4 &= 5 \times 8 + n \\
@@ -1582,15 +1582,15 @@ $30 \ \text{m/s}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$S^2 = 20 \times d$ where 
-
+<emptyline>
 $S^2 = S \times S$
-
+<emptyline>
 Speed ($S$) of the ball in $\text{m/s}$
-
+<emptyline>
 Distance ($d$) in $\text{m}$
-
+<emptyline>
 Let's substitute
-
+<emptyline>
 $
 \begin{aligned}
   d &= 45 \ \text{m} \\
@@ -1602,9 +1602,9 @@ S^2 &= 20 \times 45 \\
   S &= 30
 \end{aligned}
 $
-
+<emptyline>
 The speed of the ball is $30 \ \text{m/s}$ when it has dropped 45m.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1668,11 +1668,11 @@ $80 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$S^2 = 20 \times d$ where 
-
+<emptyline>
 $S^2 = S \times S$
-
+<emptyline>
 Let's substitute
-
+<emptyline>
 $
 \begin{aligned}
    S &= 40 \ \text{m/s} \\
@@ -1685,9 +1685,9 @@ $
    d &= 80 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 The ball has fallen $80 \ \text{m}$ when the speed is $40 \ \text{m/s}$.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1767,13 +1767,13 @@ $
               &= 80  \ \text{m/s}
 \end{aligned}
 $
-
+<emptyline>
 $S^2 = 20 \times d$ where 
-
+<emptyline>
 $S^2 = S \times S$
-
+<emptyline>
 Let's substitute
-
+<emptyline>
 $
 \begin{aligned}
    S &= 80 \ \text{m/s} \\
@@ -1786,9 +1786,9 @@ $
    d &= 240 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 The ball has to fall $240 \ \text{m}$ to be travelling at twice the speed than speed in (b).
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2000,11 +2000,11 @@ $\pounds 348$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Cost of an adult ticket $ \ a = \pounds 15$
-
+<emptyline>
 Cost of a child ticket $ \ b = \pounds 4$
-
+<emptyline>
 Total cost = (No. of adults $\times$ a) + (No. of children Adults $\times$ b) 
-
+<emptyline>
 $
 \begin{aligned}
 &= (20 \times 15) + (12 \times 4) \\
@@ -2012,9 +2012,9 @@ $
 &= \pounds 348
 \end{aligned}
 $
-
+<emptyline>
 The total cost of $20$ adults and $12$ children tickets is $\pounds 348$.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2117,9 +2117,9 @@ $
 \text {Cost of a child ticket} \ b &= \pounds 3 \\
 \end{aligned}
 $
-
+<emptyline>
 Total cost of children tickets = (No. of children $\ \times \ b$)
-
+<emptyline>
 $
 \begin{aligned}
 &= 16 \times \pounds 3 \\
@@ -2127,28 +2127,28 @@ $
 &= \pounds 48 \\
 \end{aligned}
 $
-
+<emptyline>
 Total costs of children tickets is $\pounds 48$
-
+<emptyline>
 Total cost of adult and children tickets is $\pounds 408$ 
-
+<emptyline>
 Total cost of adult tickets
-
+<emptyline>
 $\quad =$ Total cost - Total cost of children tickets
-
+<emptyline>
 $
 \begin{aligned}
 &= 408 - 48 \\
 &= 360 
 \end{aligned}
 $
-
+<emptyline>
 Total cost of adult tickets is $\pounds 360$
-
+<emptyline>
 Let's take the cost of one adult ticket as $a$.
-
+<emptyline>
 As per question, No. of adults is $30$ 
-
+<emptyline>
 $
 \begin{aligned}
              360 &= 30 \times a   \\\\
@@ -2160,7 +2160,7 @@ $
                a &= \pounds 12 \\
 \end{aligned}
 $
-
+<emptyline>
 One adult ticket costs $\pounds 12$.
 </code></pre>
 </div>
@@ -2242,7 +2242,7 @@ $\pounds 4$
 
 <pre class='language-latex'><code class='language-latex'>
 As per question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text {No. of adults}          &= 50 \\
@@ -2250,17 +2250,17 @@ $
 \text {Total cost of tickets}  &= \pounds 760 \\
 \end{aligned}
 $
-
+<emptyline>
 Let's take the cost of a child ticket as $c$.
-
+<emptyline>
 Cost of an adult ticket is $3 \times x$. 
-
+<emptyline>
 Total cost = Total cost adults + total cost children.
-
+<emptyline>
 Total cost of adult ticket = No. of adults $\times$ cost of an adult ticket.
-
+<emptyline>
 Total cost of children's ticket = No. of children $\times$ cost of a child ticket.
-
+<emptyline>
 $
 \begin{aligned}
                                 760 &= (50 \times 3x) + (40 \times x) \\
@@ -2273,9 +2273,9 @@ $
                          \pounds 4  &= x
 \end{aligned}
 $
-
+<emptyline>
 Cost of an adult ticket is $\pounds 4$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -2371,7 +2371,7 @@ $\pounds 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text {No. of adults}          &= 25 \\
@@ -2379,17 +2379,17 @@ $
 \text {Total cost of tickets}  &= \pounds 370 \\
 \end{aligned}
 $
-
+<emptyline>
 Let's take the cost of an adult ticket as $a$.
-
+<emptyline>
 Cost of a child ticket is $a - 6$. 
-
+<emptyline>
 Total cost = Total cost adults + total cost children.
-
+<emptyline>
 Total cost of child ticket = No. of children $\times$ cost of a child ticket.
-
+<emptyline>
 Total cost of an adult ticket = No. of adults $\times$ cost of an adult ticket.
-
+<emptyline>
 $
 \begin{aligned}
          (25 \times a) + 30 (a - 6) &= 370 \\
@@ -2404,13 +2404,13 @@ $
                                   a &= \pounds 10 \\
 \end{aligned}
 $
-
+<emptyline>
 Cost of an adult ticket is $\pounds 10$
-
+<emptyline>
 Let's calculate the cost of a child ticket.
-
+<emptyline>
 Cost of a child ticket is $a - 6$. 
-
+<emptyline>
 $
 \begin{aligned}
 &= (a - 6) \\
@@ -2419,7 +2419,7 @@ $
 &= \pounds 4 \\
 \end{aligned}
 $
-
+<emptyline>
 Cost of a child ticket is $\pounds 4$. 
 </code></pre>
 </div>
@@ -3446,13 +3446,13 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>TODOWORKING
-
+<emptyline>
 Factors of $10$ are: $\text {\textunderscore \textunderscore \textunderscore}$
-
+<emptyline>
 Factors of 15 are: $\text {\textunderscore \textunderscore \textunderscore}$
-
+<emptyline>
 So common factors are: $\text {\textunderscore \textunderscore \textunderscore}$
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -5568,15 +5568,15 @@ $\pounds 720$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take a portion of :
-
+<emptyline>
 chips costing $\pounds 1.50$ as $x$
 fish costing $\pounds 3.50$as $y$
 pie costing $\pounds 2.00$as $z$
-
+<emptyline>
 Lets find the total income that evening when they sold.
-
+<emptyline>
 Cost of 80 lots of fish and chips 
-
+<emptyline>
 $
 \begin{aligned}
 &= 80 \times (x + y) \\
@@ -5585,9 +5585,9 @@ $
 &= \pounds 400 \\
 \end{aligned}
 $
-
+<emptyline>
 Cost of 70 lots of pie and chips 
-
+<emptyline>
 $
 \begin{aligned}
 &= 70 \times (z + y) \\
@@ -5598,9 +5598,9 @@ $
 &= \pounds 245 \\
 \end{aligned}
 $
-
+<emptyline>
 Cost of 50 lots of chips 
-
+<emptyline>
 $
 \begin{aligned}
 &= 50 \times x \\
@@ -5610,9 +5610,9 @@ $
 &= \pounds 75 \\
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the total income by adding all the earnings of the day.
-
+<emptyline>
 $
 \begin{aligned}
 &= \pounds 400 + \pounds 245 + \pounds 75 \\
@@ -5683,9 +5683,9 @@ $\pounds 324$
 
 <pre class='language-latex'><code class='language-latex'>
 To find the Cost price of the owner, add all the cost price of foods purchased. 
-
+<emptyline>
 i.e., cost of potatoes + fish + pies.
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -5696,7 +5696,7 @@ $
 &= \pounds 324 \\
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -5765,20 +5765,20 @@ $\pounds 446$
 
 <pre class='language-latex'><code class='language-latex'>
 $4 \ \text{pm}$ to $11 \ \text{pm}$ = $7 \ \text{hours}$
-
+<emptyline>
 Cost of $2$ Staff at $\pounds 8$ per hour
-
+<emptyline>
 $= 7 \times 2 \times \pounds 8$  
-
+<emptyline>
 $= \pounds 112$
-
+<emptyline>
 
 Total Expenses for the evening
-
+<emptyline>
 = Cost of food purchased + Cost of staff + other materials 
-
+<emptyline>
 Let's substitute the values
-
+<emptyline>
 $
 \begin{aligned}
 &= \pounds 324 + \pounds 112 + \pounds 10 \\
@@ -5838,14 +5838,14 @@ $\pounds 274$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Profit 
-
+<emptyline>
 $
 \begin{aligned}
 &=  \pounds 720 - \pounds 446 \\
 &= \pounds 274 \\
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>

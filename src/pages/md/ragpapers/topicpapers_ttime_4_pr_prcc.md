@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-pr-prcc"
 title: "TopicPaper - Time - 4 - PR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -697,7 +697,7 @@ Draw the hour and minute hands on this clock to show the time $22{:}30$.
 rtq_abbr_md_add_drawing_starts
 *TODO:: Add a clock with hour hand between 10 and 11 and minutes hand on 6.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 </code></pre>
 </div>
 </div>

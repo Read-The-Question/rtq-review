@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-pr-prns"
 title: "TopicPaper - Sequence - 2 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -139,9 +139,9 @@ $45.25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $0.90$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+0.90)} }
@@ -151,7 +151,7 @@ $
 1.15,  &&   2.05,  &&  2.95, &&  3.85, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 50 \ \text {th number}  &= 1.15 + 49 \times 0.90 \\\\
@@ -352,9 +352,9 @@ $47.70$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $0.90$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+0.95)} }
@@ -364,7 +364,7 @@ $
 1.15,  &&   2.10,  &&  3.05, &&  4, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 50 \ \text {th number}  &= 1.15 + 49 \times 0.95 \\\\
@@ -553,7 +553,7 @@ $850$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Fifth number}    &= 94 \times 3 + 1 \\\\
@@ -757,9 +757,9 @@ $10.05$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $0.18$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+0.18)} }
@@ -769,7 +769,7 @@ $
 1.23,  &&   1.41,  &&  1.59, &&  1.77, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 50 \ \text {th number}  &= 1.23 + 49 \times 0.18 \\\\
@@ -970,9 +970,9 @@ $95.20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $0.95$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+0.95)} }
@@ -982,7 +982,7 @@ $
 1.15,  &&   2.10,  &&  3.05, &&  4, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 100 \ \text {th number}  &= 1.15 + 99 \times 0.95 \\\\
@@ -1184,9 +1184,9 @@ $136$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+3)} }
@@ -1196,7 +1196,7 @@ $
 10,  &&   13,  &&  16, &&  19, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 40 \ \text {th number}  &= 19 + 39 \times 3 \\\\
@@ -1449,9 +1449,9 @@ $43$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $7$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+7)} }
@@ -1463,7 +1463,7 @@ $
 1,  &&   8,  &&  15, &&  22, &&  29,  &&  \ldots,  && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}    &= 29 + 7 \\\\
@@ -1561,7 +1561,7 @@ $31$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+2)} }
@@ -1573,7 +1573,7 @@ $
 4,  &&   6,  &&  9, &&  13, &&  18,  &&  \ldots, && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}    &= 18 + 6 \\\\
@@ -1673,9 +1673,9 @@ $1.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(\div 2)} }
@@ -1687,7 +1687,7 @@ $
 96,  &&   48,  &&  24, &&  12, &&  6,  &&  \ldots,  && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}    &= 6 \div 2 \\\\
@@ -1787,7 +1787,7 @@ $76$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(+1)} }
@@ -1800,7 +1800,7 @@ $
 3,  &&   4,  &&  7, &&  11, &&  18,  &&  29,  &&  \ldots,  && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}    &= 29 + 18 \\\\
@@ -2056,7 +2056,7 @@ $23$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(\times 2 - 7)}}
@@ -2066,7 +2066,7 @@ $
 8,  &&    9,  &&  11,  &&   15,  && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Missing number}  &= 15 \times 2 - 7 \\\\
@@ -2145,7 +2145,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(\times 2 - 7)}}
@@ -2155,7 +2155,7 @@ $
 \ldots,  &&    17,  &&  27,  &&   47,  && 87
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Missing number}  &= (17 + 7) \div 2 \\\\
@@ -2399,7 +2399,7 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 6 \ \text {th triangle number}  &= 1 + 2 + 3 + 4 + 5 + 6 \\\\
@@ -2468,7 +2468,7 @@ $10301$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 201 \ \text {st triangle number}    &= 10100 + 201 \\\\

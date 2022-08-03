@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-2"
 title: "TopicPaper - Time - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -498,9 +498,9 @@ $40 \ \text {miles/hour}$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_formula_speed
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. The time is calculated in minutes, but the final speed has to be in miles per hour.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Speed}    &= \dfrac {120 \ \text {miles}} {3 \ \text {hour}} \\\\
@@ -1013,9 +1013,9 @@ $21{:}45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 Add the diagram with the following details
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
 &   32   &   16   &   8   &   4  &  2 & 1  \\
@@ -1023,7 +1023,7 @@ $
 &   1   &   0   &   1   &   1  &  0 & 1  \\
 \end{array}
 $
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>
@@ -1430,7 +1430,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7108AA2C-B831-419E-BE02-D136ECF3569E</p>
 </div>
@@ -1438,10 +1438,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1604,19 +1604,19 @@ $0827$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 John takes time to reach station $= 8 \ \text{minutes}$
-
+<emptyline>
 John leaves home at $0805$.
-
+<emptyline>
 John will reach station at $0805 + 8 = 0813$
-
+<emptyline>
 John will get his next train at $0816$
-
+<emptyline>
 The train reaches West Dulwich station at $0821$
-
+<emptyline>
 John takes to reach at his form room $= 6 \ \text {minutes}$
-
+<emptyline>
 John will reach at his form room at $0821 + 6 = 0827$
 </code></pre>
 </div>
@@ -1678,21 +1678,21 @@ $8 \ \text{minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 The $0809$ train is cancelled.
-
+<emptyline>
 The next train is at $0832$
-
+<emptyline>
 As shown in the table,
-
+<emptyline>
 The train will reach West Dulwich at $0837$
-
+<emptyline>
 As we know John takes $6 \ \ text{minutes}$ to reach his form room.
-
+<emptyline>
 therefore,
-
+<emptyline>
 He will reach at $0837 + 6 = 0843$
-
+<emptyline>
 He will be $0843 - 0835 = 8 \ \text {minutes}$ for registration.
 </code></pre>
 </div>
@@ -1717,7 +1717,7 @@ He will be $0843 - 0835 = 8 \ \text {minutes}$ for registration.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8E108740-2478-40E2-ABCE-FF63FCF35DC7</p>
 </div>
@@ -1728,10 +1728,10 @@ He will be $0843 - 0835 = 8 \ \text {minutes}$ for registration.
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3551,7 +3551,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>464C68A6-30E1-4FB7-9F2A-1F485F1C4F73</p>
 </div>
@@ -3559,13 +3559,13 @@ $
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4206,7 +4206,7 @@ $10{:}30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the timetable, Anja should take $10{:}30$ train from London to avoid being late.
-
+<emptyline>
 If she takes the $11{:}30$ train, she will reach Newcastle just $2$ minutes before the meeting.
 </code></pre>
 </div>
@@ -5250,7 +5250,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
 </div>
@@ -5264,7 +5264,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5349,7 +5349,7 @@ $70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{se
 $
 \begin {aligned}
 \text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
-                    &= 89 - 20 \\\\
+                    &= 89 - 18 \\\\
                     &= 71 \ \text {seconds}
 \end {aligned}
 $
@@ -5372,7 +5372,7 @@ $71 \ \text {seconds}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 \text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
-                    &= 89 - 20 \\\\
+                    &= 89 - 18 \\\\
                     &= 71 \ \text {seconds}
 \end {aligned}
 $
@@ -6331,7 +6331,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>87F66A43-5223-4E50-9A24-6CC4F1EDA93A</p>
 </div>
@@ -6345,7 +6345,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6424,7 +6424,7 @@ A train leaves Waterloo at $11.35$ and arrives in Portsmouth after one hour and 
 
 $
 \begin{aligned}
-\text{Trains arrives in Portsmouth}               &= 11{:}35 + 1 \ \text{hour} \ \ 38 \ \text{minutes} \\\\
+\text{Arrival Time}                               &= 11{:}35 + 1 \ \text{hour} \ 38 \ \text{minutes} \\\\
                                                   &= 13{:}13
 \end{aligned}
 $
@@ -6443,7 +6443,7 @@ $13{:}13$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Trains arrives in Portsmouth}               &= 11{:}35 + 1 \ \text{hour} \ \ 38 \ \text{minutes} \\\\
+\text{Arrival Time}                               &= 11{:}35 + 1 \ \text{hour} \ 38 \ \text{minutes} \\\\
                                                   &= 13{:}13
 \end{aligned}
 $
@@ -8237,7 +8237,7 @@ Train 2
                               &= 53 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by Train 2}  &= 17{:}25 - 16{:}20 \\\\
@@ -8247,16 +8247,16 @@ $
                               &= 65 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by Train 3}  &= 18{:}03 - 17{:}07 \\\\
                               &= 56 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $\text {Train 2 is slowest}$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8354,7 +8354,7 @@ $56 \ \text{minutes}$
                    &= 56 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9044,7 +9044,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7C315FF4-DCE5-464B-AACC-96D15E4B1B6B</p>
 </div>
@@ -9052,10 +9052,10 @@ $
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

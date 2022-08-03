@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-g0-prcc"
 title: "TopicPaper - Simpleword - 1 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "21"
 ---
 <ul class='question default-decimal'>
@@ -1208,7 +1208,7 @@ $\text {Hannah}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the percentage score for both.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Freya's score}      &= \dfrac {16} {20} \times 100 \\\\
@@ -1220,7 +1220,7 @@ $
 \text {Hannah's score}     &= 85 \%
 \end {aligned}
 $
-
+<emptyline>
 From the calculation above, Hannah did better than Freya.
 </code></pre>
 </div>
@@ -2137,7 +2137,7 @@ $2 \dfrac {1} {2} \ \text{jugs of water required}$
                      &= 800 \ \text{ml}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{One half jug} &= \dfrac {400} {2} \\\\
@@ -2146,7 +2146,7 @@ $
                     &= 200 \ \text{ml}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total} &= 800 + 200 \\\\
@@ -3227,7 +3227,7 @@ $12 \%$
 &= 12.5 \%
 \end {aligned}
 $
-
+<emptyline>
 The best answer is $= 12 \%$.
 </code></pre>
 </div>
@@ -3451,7 +3451,7 @@ $€ 600$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \pounds 100             &= € 120 \\\\
@@ -3510,7 +3510,7 @@ $\pounds 250$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the above answer,
-
+<emptyline>
 $
 \begin {aligned}
 \pounds 500                 &= € 600 \\\\
@@ -3584,9 +3584,9 @@ $\text {Bruno}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert pounds into euros to compare them.
-
+<emptyline>
 As per the above answers,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Bruno has}   &= \pounds 600 \\\\
@@ -3595,7 +3595,7 @@ $
                     &= € 720
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Difference}  &= \text {Bruno} - \text {Marie} \\\\
@@ -3603,9 +3603,9 @@ $
                     &= € 20
 \end {aligned}
 $
-
+<emptyline>
 Bruno $\pounds 600$ > Marie $ € 700$
-
+<emptyline>
 Bruno has $€ 20$ more than Marie.
 </code></pre>
 </div>
@@ -4261,11 +4261,11 @@ $90 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
-
+<emptyline>
 Total number of multiples of $10 = 10$.
-
+<emptyline>
 So numbers that are not multiples of $10 = 100 - 10 = 90$.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\

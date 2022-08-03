@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-g0-prcr"
 title: "TopicPaper - Areaperimeter - 8 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -136,11 +136,11 @@ $150 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
-
+<emptyline>
 Let the side of the cube (in $\text{cm}$) $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 3a      &= 15 \\\\
@@ -148,7 +148,7 @@ a       &= \dfrac {15} {3} \\\\
 a       &= 5 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Surface area}  &= 6 \times a \times a \\\\

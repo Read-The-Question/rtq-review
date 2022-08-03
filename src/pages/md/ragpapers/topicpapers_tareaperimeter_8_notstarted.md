@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-notstarted"
 title: "TopicPaper - Areaperimeter - 8 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -167,7 +167,7 @@ $17.5 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Length} &= 2.5 \times 7 \\\\
@@ -344,22 +344,22 @@ $15 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The face of the block is a rectangle. So,
-
+<emptyline>
 Perimeter of a rectangle 
 = $2 (length \times width)$
 = $42 \text {cm}$
-
+<emptyline>
 Let's take length as $l$ and width as $w$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of the rectangle} &= 2 \times (length \times width) \\\\
 42                                &= 
 \end{aligned}
 $ 
-
+<emptyline>
 As per question length is $2.5 \times width$
-
+<emptyline>
 $
 \begin{aligned}
               21 &= (2.5 \times w) \times w \\
@@ -370,9 +370,9 @@ $
 w &= \dfrac {210}{35} \\
 \end{aligned}
 $
-
+<emptyline>
 Let's use the canceling method and cancel with $7$
-
+<emptyline>
 $
 \begin{aligned}
 w &= \dfrac {\cancel{210}\raisebox{0.9em}{30}}{\cancel{35}\raisebox{-0.9em}{5}} \\\\
@@ -380,11 +380,11 @@ w &= \dfrac {\cancel{30}\raisebox{0.9em}{6}}{\cancel{5}\raisebox{-0.9em}{1}} \\\
 w &= 6 \text   {cm} \\
 \end{aligned}
 $
-
+<emptyline>
 Width is 6 cm. So,
-
+<emptyline>
 Length 
-
+<emptyline>
 $
 \begin{aligned}
 = 2.5 \times width \\
@@ -394,10 +394,10 @@ $
 = 15 \text {cm}  \\
 \end{aligned}
 $
-
+<emptyline>
 
 Or,
-
+<emptyline>
 $
 \begin{aligned}
 = 2.5 \times 6 \\\\
@@ -408,7 +408,7 @@ $
 = 15 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Length is $15 \ \text {cm}$
 </code></pre>
 </div>

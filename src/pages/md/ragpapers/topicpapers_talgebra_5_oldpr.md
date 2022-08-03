@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-oldpr"
 title: "TopicPaper - Algebra - 5 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -168,9 +168,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number I am thinking of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 9                         &= 36 \\\\
@@ -180,7 +180,7 @@ a                                  &= \dfrac {4 \times \cancel{9}} {\cancel{9}} 
 a                                  &= 4
 \end{aligned}
 $
-
+<emptyline>
 The number I was thinking of $= 4$
 </code></pre>
 </div>
@@ -241,9 +241,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 6 - 5 &= 37 \\\\
@@ -458,9 +458,9 @@ $36 \text{ coins}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the count of coins of each denomination $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times c + 5 \times c &= \pounds 1.26 \\\\
@@ -473,9 +473,9 @@ c                       &= \dfrac {18 \times \cancel{7}} { \cancel{7} } \\\\
 c                       &= 18
 \end{aligned}
 $
-
+<emptyline>
 There are $18$ coins of each type and $2$ different types of coins.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total coins}   &=  18 \times 2  \\\\
@@ -708,9 +708,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Robin thinks of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 3 - 13               &= 11 \\\\
@@ -777,9 +777,9 @@ $98$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Ros thinks of $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 91 - b + 19                            &= 12 \\\\
@@ -847,9 +847,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Neetha thinks of $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 84 - (c \times 5) &= c \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsymmetry-2"
 title: "TopicPaper - Symmetry - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2347,11 +2347,11 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A line of symmetry is a line that cuts a shape exactly in half. If you fold along the middle then both halves match exactly.
-
+<emptyline>
 M, A,  T,  H, and I : If you fold vertically, along the middle of  these alphabets, both halves would match exactly. 
-
+<emptyline>
 E C : If you fold horizontally along the middle line of these alphabets, both halves would match exactly. 
-
+<emptyline>
 There is only $1$ letter $S$ in **MATHEMATICS** that do not have any lines of symmetry.
 </code></pre>
 </div>

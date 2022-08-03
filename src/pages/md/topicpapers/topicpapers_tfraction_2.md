@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -276,7 +276,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>54F14BD1-9891-460E-AADD-7CA13489DC77</p>
 </div>
@@ -287,7 +287,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -404,6 +404,46 @@ $\dfrac {1} {2}$
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='54F14BD1-9891-460E-AADD-7CA13489DC77' id='FORM-54F14BD1-9891-460E-AADD-7CA13489DC77' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-54F14BD1-9891-460E-AADD-7CA13489DC77'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -591,7 +631,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>54CAAF21-5640-4453-94EA-660CB9EDE5B7</p>
 </div>
@@ -605,7 +645,7 @@ $
 <p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1712,9 +1752,9 @@ $\dfrac {13} {27}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the inner and outer rectangle*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 $
 \begin{aligned}
 \text {Fraction coloured}       &= \dfrac {\text {Area of outer rectangle} - \text {Area of inner rectangle}} {\text {Area of inner rectangle}} \\\\
@@ -1905,7 +1945,7 @@ three quarters
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for both, so we can compare them.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {2} {3}, \quad \dfrac {3} {4} \\\\
@@ -1915,7 +1955,7 @@ $
 &= \dfrac {2} {3}  <  \dfrac {3} {4} 
 \end{aligned}
 $
-
+<emptyline>
 As per the calculation above, three quarters is greater than two thirds.
 </code></pre>
 </div>
@@ -2590,7 +2630,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {2} {5} \div  \dfrac {4} {10} \\\\
@@ -4690,7 +4730,7 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>When the numerator is 20
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4} {5} \\\\
@@ -4698,9 +4738,9 @@ $
 &= \dfrac {20} {25}
 \end{aligned}
 $
-
+<emptyline>
 When the denominator is 20
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4} {5} \\\\
@@ -5701,7 +5741,7 @@ $\dfrac {2} {7}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the area of one traingle $= a$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the figure}      &= a + a - \dfrac {4} {9} \times a \\\\
@@ -6354,7 +6394,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9D4AAB0C-13C4-481F-B671-A752B18754B0</p>
 </div>
@@ -6368,7 +6408,7 @@ $
 <p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7413,7 +7453,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Shade 8 boxes given in the question*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total boxes}              &= 12 \\\\
@@ -7786,9 +7826,9 @@ $\dfrac {1} {100}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the fractions.
-
+<emptyline>
 LCM for $10, 9,  2, 100, 8 = 1800$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{1}{9} , \quad \dfrac{1}{10} , \quad \dfrac{4}{9}, \quad \dfrac{1}{2}, \quad \dfrac{1}{100}, \quad \dfrac{1}{8} \\\\
@@ -7796,7 +7836,7 @@ $
 &= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fractions smaller} &= \dfrac{180}{1800}, \quad \dfrac{18}{1800} \\\\
@@ -7938,9 +7978,9 @@ $\dfrac {2} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {2} \ \text {of} \ a &= \dfrac {1} {9} \\\\
@@ -7948,7 +7988,7 @@ $
 a                               &= \dfrac {2} {9}
 \end{aligned}
 $
-
+<emptyline>
 
 Numbers $= \dfrac{2}{9}$
 </code></pre>
@@ -8496,7 +8536,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5797CE1A-0696-49CB-A444-FE9B9FFE110D</p>
 </div>
@@ -8510,7 +8550,7 @@ $
 <p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8631,7 +8671,7 @@ $\dfrac {1} {2} \ \ \dfrac {3} {4}$
 &= \dfrac {1} {2}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.75 \\\\

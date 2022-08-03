@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-3-blocked"
 title: "TopicPaper - Infer - 3 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -123,9 +123,9 @@ $3 \ \text{and} \ 0$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>LCM of $3, \ 5, \ 7 = 105$
-
+<emptyline>
 Multiplying the LCM by 6 to make it greater than 600 $= 105 \times 6 = 630
-
+<emptyline>
 $The last  two digits are $= 3 \ \text{and} \ 0$
 two digits$
 </code></pre>

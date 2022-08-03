@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-notstarted"
 title: "TopicPaper - Ratio - 3 - NOTSTARTED"
-date: 2022-08-01 21:41:58
-questions_count: "24"
+date: 2022-08-03 14:15:25
+questions_count: "25"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,10 +14,10 @@ questions_count: "24"
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -164,10 +164,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -325,13 +325,13 @@ $\pounds 1.20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
-
+<emptyline>
 $1 \ \text{kg} = 1000 \ \text{grams}$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
     750                                   & : 90 \text{p}                                                                     \\\\
@@ -347,9 +347,9 @@ $
     1000 \ \text {gram}                   & : \pounds 1.20                                                                    
 \end{aligned}
 $
-
+<emptyline>
 $1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -357,11 +357,11 @@ $1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_unit_note
 The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
-
+<emptyline>
 $1 \ \text{kg} = 1000 \ \text{grams}$ 
-
+<emptyline>
 This can be solved using ratios.
-
+<emptyline>
 $
 \begin{aligned}
     750 \text{g}    & : 1000 \text{g}    \\\\
@@ -370,9 +370,9 @@ $
     3               & : 4                
 \end{aligned}
 $
-
+<emptyline>
 Let's take the cost of $1 \ \text{kg}$ = $a$ 
-
+<emptyline>
 $
 \begin{aligned}
     \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
@@ -380,9 +380,9 @@ $
     \dfrac {3}{4} & : \dfrac {90}{120}
 \end{aligned}
 $
-
+<emptyline>
 $1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -411,10 +411,10 @@ $1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -563,10 +563,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -670,7 +670,7 @@ $\pounds23.95$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of 1 lesson} &= \dfrac {167.65} {7} \\\\
@@ -707,10 +707,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1068,10 +1068,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1222,10 +1222,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1510,10 +1510,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1923,10 +1923,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2108,20 +2108,20 @@ $4cups$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>According to question ,
-
+<emptyline>
 flour needed for 12 scones  $=2cups$
-
+<emptyline>
 flour needed for 1 scones
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{2}{12} \\\\
 &= \dfrac{1}{6}
 \end{aligned}
 $
-
+<emptyline>
 flour needed for 24 scones
-
+<emptyline>
 $
 &= \dfrac{1}{6} \times 24 \\\\
 &= 4
@@ -2188,20 +2188,20 @@ $2.5 teaspoon$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>According to question ,
-
+<emptyline>
 salt needed for 12 scones  $=\dfrac{1}{2} teaspoon salts$
-
+<emptyline>
 flour needed for 1 scones
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{1}{2\times 12} \\\\
 &= \dfrac{1}{24}
 \end{aligned}
 $
-
+<emptyline>
 flour needed for 60 scones
-
+<emptyline>
 $
 &= \dfrac{1}{24} \times 60 \\\\
 &= \dfrac{5}{2} \\\\
@@ -2418,10 +2418,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2636,10 +2636,10 @@ $23.33 \ \text {litres}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2789,7 +2789,7 @@ $\pounds 72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total cost}   &= 18 \times \dfrac {12} {3} \\\\
@@ -2855,9 +2855,9 @@ $\pounds 16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Cost of 4 kilograms of oranges
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 \times \dfrac {12} {3} \\\\
@@ -2959,10 +2959,10 @@ $
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3115,10 +3115,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3339,10 +3339,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3492,7 +3492,7 @@ $45 \ \text{years}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{May's age}    &= 14 \ \text{years} \\\\
@@ -3566,7 +3566,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of one marble}  &= \dfrac {7.50} {5} \\\\
@@ -3575,7 +3575,7 @@ $
                             &= \pounds 1.50
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of marbles}   &= \dfrac {\text {Total amount}} {\text {Cost of one marble}} \\\\
@@ -3618,10 +3618,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3757,10 +3757,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:41</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3976,10 +3976,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4133,10 +4133,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4349,10 +4349,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4607,10 +4607,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4823,10 +4823,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5135,10 +5135,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5400,10 +5400,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5663,7 +5663,7 @@ $100 \ \text {bags}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Mass of 1 tea bag}                              &= \text {Mass of 250 tea leaves} + \text {Mass of tissue} \\\\
@@ -5714,10 +5714,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:44</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5834,6 +5834,374 @@ TODOANSWER
 </div>
 </div>
 
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>250A1C8B-2326-4F1A-B3AB-023EF672A3F8</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:17</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
+<p>rag_mr_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='250A1C8B-2326-4F1A-B3AB-023EF672A3F8' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-250A1C8B-2326-4F1A-B3AB-023EF672A3F8'>Initial</p>
+<div class='question question'>
+
+The information on a pack of ‘*Salmon pasta*’ is shown in the table.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many grams of protein are in $100 \ \text{g}$ of ‘*Salmon pasta*’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\begin {aligned}
+10 \ \text {g}
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text {g}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>\begin {aligned}
+10 \ \text {g}
+\end{aligned}
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$10 \ \text {g}$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What percentage of the ‘*Salmon pasta*’ is carbohydrate?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {percentage of the carbohydrate in Salmon pasta }              &= \dfrac {15} {10+15+5+2+0.2} \times 100 \\\\
+                                                                     &= \dfrac {15} {32.2} \times 100 \\\\
+                                                                     &= 0.458 \times 100  \\\\
+                                                                     &= 45.8 \\\\
+                                                                     &= 45.8 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45.8 \% $
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin {aligned}
+\text {percentage of the carbohydrate in Salmon pasta }              &= \dfrac {15} {10+15+5+2+0.2} \times 100 \\\\
+                                                                     &= \dfrac {15} {32.2} \times 100 \\\\
+                                                                     &= 0.458 \times 100  \\\\
+                                                                     &= 45.8 \\\\
+                                                                     &= 45.8 \%
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$45.8 \% $
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The mass of the fibre in a pack of ‘*Salmon pasta*’ is $7 \ \text{grams}$.
+
+What is the mass of ‘*Salmon pasta*’ in the whole pack?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\begin {aligned}
+2 \ \text {g}
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {g}$
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>\begin {aligned}
+2 \ \text {g}
+\end{aligned}
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$2 \ \text {g}$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What will be the mass of fat in a pack of ‘*Salmon pasta*’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 
 </div>
 </li>

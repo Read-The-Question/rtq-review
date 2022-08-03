@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-g2"
 title: "TopicPaper - Fraction - 6 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "34"
 ---
 <ul class='question default-decimal'>
@@ -307,7 +307,7 @@ $4 \dfrac{1}{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned} 
 &= 22 \dfrac{1}{2} \div 5 \\\\ 
@@ -1605,7 +1605,7 @@ $3\dfrac{1}{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 17 \dfrac{1}{2} \div 5 \\\\
@@ -1977,7 +1977,7 @@ $\dfrac{3}{8}$
 
 <pre class='language-latex'><code class='language-latex'>  
 There are $24 \ \text{hours}$ in a day, so
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {9} {24} \\\\
@@ -3088,7 +3088,7 @@ $1 \dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \dfrac {3} {4} \div 2 \dfrac {1} {2} \\\\
@@ -4419,11 +4419,11 @@ $\dfrac {7} {12}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 Show the shaded part in 2 parts so we can add them separately to calculate the shaded part
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total boxes}      &= 6 \times 6 \\\\
@@ -5214,11 +5214,11 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 *TODO:: Shade 6 triangles in the figure*
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total number of small triangles}    &= 9 \\\\
@@ -5637,7 +5637,7 @@ $2\dfrac{2} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{4} {5} \div \dfrac {3} {10} \\\\

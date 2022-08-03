@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-g0"
 title: "TopicPaper - Algebra - 1 - G0"
-date: 2022-08-01 21:41:58
-questions_count: "11"
+date: 2022-08-03 14:15:25
+questions_count: "10"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F57C9C9-F2AD-4B34-BB50-53249F45FAE3</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "11"
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -108,9 +108,12 @@ $p - 71$
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
 <div class='answer'>
 
-c
+$p - 71$
 
 </div>
 </div>
@@ -123,13 +126,13 @@ c
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>c
+<pre class='language-latex'><code class='language-latex'>$p - 71$
 </code></pre>
 </div>
 </div>
@@ -189,7 +192,7 @@ Write C (Uppercase) into the option.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3B389935-2713-4E79-B41A-797356ED47C0</p>
 </div>
@@ -203,7 +206,7 @@ Write C (Uppercase) into the option.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -333,7 +336,7 @@ $
 \dfrac {a + 5} { 2}    &= 6 \\\\
 a + 5                  &= 6 \times 2 \\\\
 a + 5                  &= 12 \\\\
-a                      &= 12 - 5\\\\
+a                      &= 12 - 5 \\\\
 a                      &= 7
 \end{aligned}
 $
@@ -353,19 +356,19 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a + 5} { 2}    &= 6 \\\\
 a + 5                  &= 6 \times 2 \\\\
 a + 5                  &= 12 \\\\
-a                      &= 12 - 5\\\\
+a                      &= 12 - 5 \\\\
 a                      &= 7
 \end{aligned}
 $
-
+<emptyline>
 The number I am thinking of $= 7$
 </code></pre>
 </div>
@@ -403,6 +406,8 @@ $
 5x             &= 43 + 7 \\\\
 5x             &= 50 \\\\
 x              &= \dfrac {50} {5} \\\\
+x              &= \dfrac {5 \times 10} {5} \\\\
+x              &= \dfrac {\cancel 5 \times 10} {\cancel 5} \\\\
 x              &= 10
 \end{aligned}
 $
@@ -425,6 +430,8 @@ $10$
 5x             &= 43 + 7 \\\\
 5x             &= 50 \\\\
 x              &= \dfrac {50} {5} \\\\
+x              &= \dfrac {5 \times 10} {5} \\\\
+x              &= \dfrac {\cancel 5 \times 10} {\cancel 5} \\\\
 x              &= 10
 \end{aligned}
 $
@@ -506,7 +513,7 @@ Part b) show the cancelation for 50/10 using factorization method
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C6F4AD83-598E-4D8C-8FE2-F30239151865</p>
 </div>
@@ -520,7 +527,7 @@ Part b) show the cancelation for 50/10 using factorization method
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -601,11 +608,9 @@ How many students studied Spanish?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
-\begin {aligned}
-\text{Students (Spanish)}       &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+\begin{aligned}
+\text {Students (Spanish)}      &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
                                 &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
                                 &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
                                 &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
@@ -613,10 +618,8 @@ $
                                 &=  180 -  2 \times 36 - 45 \\\\
                                 &=  180 -  72 - 45 \\\\
                                 &=  63
-\end {aligned}
+\end{aligned}
 $
-
-Number of students who studied Spanish $= 63$
 
 </div>
 </div>
@@ -630,11 +633,9 @@ $63$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
-\begin {aligned}
-\text{Students (Spanish)}       &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Students (Spanish)}      &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
                                 &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
                                 &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
                                 &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
@@ -642,10 +643,8 @@ $
                                 &=  180 -  2 \times 36 - 45 \\\\
                                 &=  180 -  72 - 45 \\\\
                                 &=  63
-\end {aligned}
+\end{aligned}
 $
-
-Number of students who studied Spanish $= 63$
 </code></pre>
 </div>
 </div>
@@ -669,23 +668,13 @@ Number of students who studied Spanish $= 63$
 
 
 
-1. Remove extra space 
-
-\begin {aligned}  ==> \begin{aligned}
-
-Do the same for end {aligned}.
+Remove \"As per the....\"
 
 
 
-2. Add space between \text and {}
+Instead of \"Students(Spanish)\" write \"Spanish student\"
 
-\text{Students (Spanish)}  ==> \text {Students (Spanish)}
-
-
-
-Remove: As per the question,
-
-Remove last line: Number of students who stud....
+do this wherever required.
 </div>
 
 <div class='review'>
@@ -731,7 +720,7 @@ Remove last line: Number of students who stud....
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>36F489C8-4D43-443D-8436-ED8F6DD25EB8</p>
 </div>
@@ -745,7 +734,7 @@ Remove last line: Number of students who stud....
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -831,31 +820,33 @@ How many cookies did they need to sell to reach their target?
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required
-.
+
 
 $
-\begin {aligned}
-\text{Total amount}     &= \pounds 200 \\\\
-                        &= 200 \times 100 \text{p} \\\\
-                        &= 20000 \text{p}
-\end {aligned}
+\begin{aligned}
+\text {Total amount}     &= \pounds 200 \\\\
+                        &= 200 \times 100 \text {p} \\\\
+                        &= 20000 \text {p}
+\end{aligned}
 $
 
 $
-\begin {aligned}
-\text {Cost of each cookie}              &= 10 \text{p} \\\\
-\text {Sale Price for each cookie}       &= 50 \text{p} \\\\
+\begin{aligned}
+\text {Cost of each cookie}              &= 10 \text {p} \\\\
+\text {Sale Price for each cookie}       &= 50 \text {p} \\\\
 \text {Profit per cookie}                &= 50 - 10 \\\\
-                                         &= 40 \text{p}
-\end {aligned}
+                                         &= 40 \text {p}
+\end{aligned}
 $
 
 $
-\begin {aligned}
-\text {Number of cookies needed}             &= \dfrac {\text{Total target}} {\text{Profit per cookie}} \\\\
+\begin{aligned}
+\text {Number of cookies needed}             &= \dfrac {\text {Total target}} {\text {Profit per cookie}} \\\\
                                              &= \dfrac {20000} {40} \\\\
+                                             &= \dfrac {40 \times 500} {40} \\\\
+                                             &= \dfrac {\cancel {40} \times 500} {\cancel {40}} \\\\
                                              &= 500
-\end {aligned}
+\end{aligned}
 $
 
 </div>
@@ -872,6 +863,8 @@ $
 (50 - 10) \times c              &= 20000 \\\\
 40c                             &= 20000 \\\\
 c                               &= \dfrac {20000} {40} \\\\
+c                               &= \dfrac {40 \times 500} {40} \\\\
+c                               &= \dfrac {\cancel {40} \times 500} {\cancel {40}} \\\\
 c                               &= 500
 \end {aligned}
 $
@@ -890,51 +883,55 @@ $500$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
+<emptyline>
 $
-\begin {aligned}
-\text{Total amount}     &= \pounds 200 \\\\
-                        &= 200 \times 100 \text{p} \\\\
-                        &= 20000 \text{p}
-\end {aligned}
+\begin{aligned}
+\text {Total amount}     &= \pounds 200 \\\\
+                        &= 200 \times 100 \text {p} \\\\
+                        &= 20000 \text {p}
+\end{aligned}
 $
-
+<emptyline>
 $
-\begin {aligned}
-\text {Cost of each cookie}              &= 10 \text{p} \\\\
-\text {Sale Price for each cookie}       &= 50 \text{p} \\\\
+\begin{aligned}
+\text {Cost of each cookie}              &= 10 \text {p} \\\\
+\text {Sale Price for each cookie}       &= 50 \text {p} \\\\
 \text {Profit per cookie}                &= 50 - 10 \\\\
-                                         &= 40 \text{p}
-\end {aligned}
+                                         &= 40 \text {p}
+\end{aligned}
 $
-
+<emptyline>
 $
-\begin {aligned}
-\text {Number of cookies needed}             &= \dfrac {\text{Total target}} {\text{Profit per cookie}} \\\\
+\begin{aligned}
+\text {Number of cookies needed}             &= \dfrac {\text {Total target}} {\text {Profit per cookie}} \\\\
                                              &= \dfrac {20000} {40} \\\\
+                                             &= \dfrac {40 \times 500} {40} \\\\
+                                             &= \dfrac {\cancel {40} \times 500} {\cancel {40}} \\\\
                                              &= 500
-\end {aligned}
+\end{aligned}
 $
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternate solution.
-
+<emptyline>
 Let the number of cookies $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (50 - 10) \times c              &= 20000 \\\\
 40c                             &= 20000 \\\\
 c                               &= \dfrac {20000} {40} \\\\
+c                               &= \dfrac {40 \times 500} {40} \\\\
+c                               &= \dfrac {\cancel {40} \times 500} {\cancel {40}} \\\\
 c                               &= 500
 \end {aligned}
 $
-
+<emptyline>
 Number of cookies needed $= 500$.
 </code></pre>
 </div>
@@ -1027,7 +1024,7 @@ Do the same for alternate solution also.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>91D59936-06F2-4B60-9E45-CE6157C7CD5F</p>
 </div>
@@ -1041,7 +1038,7 @@ Do the same for alternate solution also.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1194,9 +1191,9 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 (a + 6) \times 2            &= 46 \\\\
@@ -1208,7 +1205,7 @@ a                           &= 23 - 6 \\\\
 a                           &= 17
 \end {aligned}
 $
-
+<emptyline>
 The number I am thinking of $= 17$
 </code></pre>
 </div>
@@ -1246,6 +1243,8 @@ $
 9x          &= 37 + 17 \\\\
 9x          &= 54 \\\\
 x           &= \dfrac {54} {9} \\\\
+x           &= \dfrac {9 \times 6} {9} \\\\
+x           &= \dfrac {\cancel 9 \times 6} {\cancel 9} \\\\
 x           &= 6
 \end{aligned}
 $
@@ -1268,6 +1267,8 @@ $6$
 9x          &= 37 + 17 \\\\
 9x          &= 54 \\\\
 x           &= \dfrac {54} {9} \\\\
+x           &= \dfrac {9 \times 6} {9} \\\\
+x           &= \dfrac {\cancel 9 \times 6} {\cancel 9} \\\\
 x           &= 6
 \end{aligned}
 $
@@ -1349,245 +1350,6 @@ cancel 9 on both numerator and denominator, then show the final answer
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
-<p>EED93740-E026-4C7A-A7F1-CCA71D506BCC</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:8</p>
-</div>
-<div class='rag'>
-<p>Md Rameez</p>
-</div>
-<div class='rag'>
-<p>rag_mr_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-EED93740-E026-4C7A-A7F1-CCA71D506BCC'>Initial</p>
-<div class='question question'>
-
-George had a bag full of $24$ apples.
-
--  He gave half of them to his Granny to make an apple pie.
--  He gave two thirds of what was left to his friends and then put the rest in the fruit bowl.
-
-How many did he put in the fruit bowl?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If George gave $\dfrac {1} {2}$ to his Granny, then he is left with $1 - \dfrac {1} {2} = \dfrac {1} {2}$ of the apples. Using that, we get
-
-$
-\begin {aligned}
-\text {Apples left}     &= \dfrac {1} {2} \times 24 \\\\
-                        &= 12
-\end {aligned}
-$
-
-If George gave $\dfrac {2} {3}$ to his friends, then he is left with $1 - \dfrac {2} {3} = \dfrac {1} {3}$ of the remaining apples. Using that, we get
-
-$
-\begin {aligned}
-\text {Apples left in the fruit bowl}     &= \dfrac {1} {3} \times 12 \\\\
-                                          &= 4
-\end {aligned}
-$
-
-Number of apples left in his fruit bowl $= 4$
-
-</div>
-<div class='working'>
-
-Alternate solution.
-
-$
-\begin {aligned}
-\text {Apples left in the fruit bowl} &= 24 \times \dfrac {1} {2} \times \dfrac {1} {3} \\\\
-                                      &= \dfrac {24} {2 \times 3} \\\\
-                                      &= \dfrac {24} {6} \\\\
-                                      &= 4
-\end {aligned}
-$
-
-Number of apples left in the fruit bowl $= 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>If George gave $\dfrac {1} {2}$ to his Granny, then he is left with $1 - \dfrac {1} {2} = \dfrac {1} {2}$ of the apples. Using that, we get
-
-$
-\begin {aligned}
-\text {Apples left}     &= \dfrac {1} {2} \times 24 \\\\
-                        &= 12
-\end {aligned}
-$
-
-If George gave $\dfrac {2} {3}$ to his friends, then he is left with $1 - \dfrac {2} {3} = \dfrac {1} {3}$ of the remaining apples. Using that, we get
-
-$
-\begin {aligned}
-\text {Apples left in the fruit bowl}     &= \dfrac {1} {3} \times 12 \\\\
-                                          &= 4
-\end {aligned}
-$
-
-Number of apples left in his fruit bowl $= 4$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Alternate solution.
-
-$
-\begin {aligned}
-\text {Apples left in the fruit bowl} &= 24 \times \dfrac {1} {2} \times \dfrac {1} {3} \\\\
-                                      &= \dfrac {24} {2 \times 3} \\\\
-                                      &= \dfrac {24} {6} \\\\
-                                      &= 4
-\end {aligned}
-$
-
-Number of apples left in the fruit bowl $= 4$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4$
-</code></pre>
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' id='FORM-EED93740-E026-4C7A-A7F1-CCA71D506BCC' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-EED93740-E026-4C7A-A7F1-CCA71D506BCC'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
-<div class='uuid'>
 <p>FCDA8DA7-63FA-4DE6-B114-DC8D5BBB3D6C</p>
 </div>
 <div class='papername'>
@@ -1600,7 +1362,7 @@ Number of apples left in the fruit bowl $= 4$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1693,9 +1455,12 @@ $
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
 <div class='answer'>
 
-c
+$21$
 
 </div>
 </div>
@@ -1714,13 +1479,13 @@ $
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>c
+<pre class='language-latex'><code class='language-latex'>$21$
 </code></pre>
 </div>
 </div>
@@ -1780,7 +1545,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2E74314D-F920-4315-9637-FCA3246945FC</p>
 </div>
@@ -1794,7 +1559,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1889,9 +1654,12 @@ $
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
 <div class='answer'>
 
-d
+$47$
 
 </div>
 </div>
@@ -1899,7 +1667,7 @@ d
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{My answer}        &= 21 \times 2 + 5 \\\\
@@ -1912,13 +1680,13 @@ $
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>d
+<pre class='language-latex'><code class='language-latex'>$47$
 </code></pre>
 </div>
 </div>
@@ -1978,7 +1746,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6D5C94CF-2D87-4416-AAA2-9227B6C1AC6A</p>
 </div>
@@ -1992,7 +1760,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2080,14 +1848,14 @@ I buy a pen and a pencil for $\pounds 1.10$. The pen costs $50 \text{p}$ more th
 
 Let the price of pencil $= a$ (in pence)
 
-then the price of pen $= a + 50$ (in pence)
+Price of pen $= a + 50$ (in pence)
 
 
 As per the question,
 
 $
 \begin{aligned}
-(a + a + 50) \text{p}   &= 1.1 \times 100 \text{p} \\\\
+(a + a + 50)            &= 1.1 \times 100 \\\\
 2a + 50                 &= 110 \\\\
 2a                      &= 110 - 50 \\\\
 a                       &= \dfrac {60} {2} \\\\
@@ -2099,7 +1867,7 @@ $
 
 $
 \begin{aligned}
-\text {price of pen} &= 50 + a \\\\
+\text {Price of pen} &= 50 + a \\\\
                      &= 50 + 30 \\\\
                      &= 80 \text{p}
 \end{aligned}
@@ -2113,7 +1881,7 @@ $
 </div>
 <div class='answer'>
 
-d
+$80 \text{p}$
 
 </div>
 </div>
@@ -2121,15 +1889,15 @@ d
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the price of pencil $= a$ (in pence)
-
-then the price of pen $= a + 50$ (in pence)
-
+<emptyline>
+Price of pen $= a + 50$ (in pence)
+<emptyline>
 
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
-(a + a + 50) \text{p}   &= 1.1 \times 100 \text{p} \\\\
+(a + a + 50)            &= 1.1 \times 100 \\\\
 2a + 50                 &= 110 \\\\
 2a                      &= 110 - 50 \\\\
 a                       &= \dfrac {60} {2} \\\\
@@ -2138,10 +1906,10 @@ a                       &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
 a                       &= 30 \text{p}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
-\text {price of pen} &= 50 + a \\\\
+\text {Price of pen} &= 50 + a \\\\
                      &= 50 + 30 \\\\
                      &= 80 \text{p}
 \end{aligned}
@@ -2157,7 +1925,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>d
+<pre class='language-latex'><code class='language-latex'>$80 \text{p}$
 </code></pre>
 </div>
 </div>
@@ -2233,7 +2001,7 @@ to
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>71748A3D-9EB9-407F-BE74-AE1F06A04E99</p>
 </div>
@@ -2247,7 +2015,7 @@ to
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2390,7 +2158,7 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 55 + a                              &= 82 \\\\
@@ -2398,7 +2166,7 @@ a                                   &= 82 - 55 \\\\
 a                                   &= 27
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 27$
 </code></pre>
 </div>
@@ -2453,7 +2221,7 @@ $68$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a - 23                              &= 45 \\\\
@@ -2461,7 +2229,7 @@ a                                   &= 45 + 23 \\\\
 a                                   &= 68
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 68$
 </code></pre>
 </div>
@@ -2519,7 +2287,7 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 60 \div a                           &= 12 \\\\
@@ -2530,7 +2298,7 @@ a                                   &= \dfrac {5 \times \cancel{12}} {\cancel{12
 a                                   &= 5
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 5$
 </code></pre>
 </div>
@@ -2587,7 +2355,7 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 32 \times a                         &= 640 \\\\
@@ -2597,7 +2365,7 @@ a                                   &= \dfrac {20 \times \cancel{32}} {\cancel{3
 a                                   &= 20
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 20$
 </code></pre>
 </div>
@@ -2638,8 +2406,6 @@ $
 \end{aligned}
 $
 
-Missing number $= 1$
-
 </div>
 </div>
 <div class='answers'>
@@ -2662,8 +2428,6 @@ $1$
 &= 1
 \end{aligned}
 $
-
-Missing number $= 1$
 </code></pre>
 </div>
 </div>
@@ -2736,7 +2500,7 @@ Remove the last line \"Missing number = 1\" in part e)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A9BB615E-D457-47F6-AF4E-CD7BA00D2171</p>
 </div>
@@ -2750,7 +2514,7 @@ Remove the last line \"Missing number = 1\" in part e)
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2869,19 +2633,15 @@ How many stickers do they each get?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
+\text{Stickers each person will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
                                               &= \dfrac {756} {7} \\\\
                                               &= \dfrac {7 \times 108} {7} \\\\
                                               &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
                                               &= 108
 \end{aligned}
 $
-
-Each person will get $= 108$ stickers
 
 </div>
 </div>
@@ -2895,19 +2655,15 @@ $108$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
+\text{Stickers each person will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
                                               &= \dfrac {756} {7} \\\\
                                               &= \dfrac {7 \times 108} {7} \\\\
                                               &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
                                               &= 108
 \end{aligned}
 $
-
-Each person will get $= 108$ stickers
 </code></pre>
 </div>
 </div>
@@ -2936,8 +2692,6 @@ Today is Emma's $29 \text{th}$ birthday. How many months old is she?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Emma's age in month}                    &= 29 \times 12 \\\\
@@ -2957,9 +2711,7 @@ $348$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Emma's age in month}                    &= 29 \times 12 \\\\
                                               &= 348
@@ -2995,8 +2747,6 @@ How much is that per week?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
@@ -3006,8 +2756,6 @@ $
                                               &= \pounds 14
 \end{aligned}
 $
-
-Amar's travelling cost $= \pounds 14$ per week
 
 </div>
 </div>
@@ -3021,9 +2769,7 @@ $\pounds 14$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
                                               &= \dfrac {630} {45} \\\\
@@ -3032,8 +2778,6 @@ $
                                               &= \pounds 14
 \end{aligned}
 $
-
-Amar's travelling cost $= \pounds 14$ per week
 </code></pre>
 </div>
 </div>

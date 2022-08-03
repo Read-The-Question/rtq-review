@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-2"
 title: "TopicPaper - Number - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -432,7 +432,7 @@ a b and c: you need to do using detailed addition, subtraction and multiplicatio
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>4D14222B-4C3F-48C9-8F72-3BEA18655358</p>
 </div>
@@ -446,7 +446,7 @@ a b and c: you need to do using detailed addition, subtraction and multiplicatio
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -990,7 +990,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 16 \times 2 - 2 \times 4 \\\\
@@ -1181,7 +1181,7 @@ Five Tenths
 | Tens    |  Units | Decimal | Tenths    | Hundredths | Thousandths |
 |:-------:|:------:|:-------:|:---------:|:----------:|:-----------:|
 | $3$     | $2$    | .       | $5$       | $7$        | $9$         |
-
+<emptyline>
 The value of the digit $5$ in the number $32.579$ is 'Five tenths'
 </code></pre>
 </div>
@@ -1676,7 +1676,7 @@ c : comments not done, do detailed way as part a and b.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>2A3DC1F7-671E-4062-B03B-F85B879829A7</p>
 </div>
@@ -1690,7 +1690,7 @@ c : comments not done, do detailed way as part a and b.
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2269,7 +2269,7 @@ $1010$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (9999 - 999 + 99 - 9) \div 9 \\\\
@@ -2334,7 +2334,7 @@ $720$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 20 \% \text { of } (60)^{2} \\\\
@@ -2408,7 +2408,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>A8E58B5A-3EB0-493E-B103-304DCB37CD7C</p>
 </div>
@@ -2422,7 +2422,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3085,9 +3085,9 @@ $502 + 41 = 543$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5\rtq_katex_color_answer{0}2 + 41 = 543$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 502 + 41 \\\\
@@ -3148,9 +3148,9 @@ $1063 + 701 = 1764$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1\rtq_katex_color_answer{0}63 + 7\rtq_katex_color_answer{0}1 = 1764$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1063 + 701 \\\\
@@ -3211,9 +3211,9 @@ $1206, 1440$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$12\rtq_katex_color_answer{0}6 + 234 = 144\rtq_katex_color_answer{0}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1206 + 234 \\\\
@@ -3276,9 +3276,9 @@ $1000, 501$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1\rtq_katex_color_answer{0}\rtq_katex_color_answer{0}\rtq_katex_color_answer{0} - 499 = 5\rtq_katex_color_answer{0}1$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1000 - 499 \\\\
@@ -3340,9 +3340,9 @@ $3002, 1104$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$3\rtq_katex_color_answer{0}\rtq_katex_color_answer{0}2 - 11\rtq_katex_color_answer{0}4 = 1898$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 3002 - 1104 \\\\
@@ -3575,7 +3575,7 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$123 - \underline{\rtq_katex_color_answer{45}} = 78$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4647,7 +4647,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>CF4511CA-E39F-47E2-A905-DD305EB0E624</p>
 </div>
@@ -4661,7 +4661,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4797,7 +4797,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>095B7B30-0EF0-455A-BD27-EEF962E01316</p>
 </div>
@@ -4811,7 +4811,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5382,9 +5382,9 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$0.5 \div \dfrac{1}{2} = \underline{\rtq_katex_color_answer{1}}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.5 \div \dfrac{1}{2} \\\\
@@ -5491,9 +5491,9 @@ $90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{90}} \times 5 \times 10 = 4500$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 90 \times 5 \times 10 \\\\
@@ -5556,9 +5556,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4} of 36 = \underline{\rtq_katex_color_answer{27}}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4} \text { of } 36 = 27 \\\\
@@ -5815,7 +5815,7 @@ $252$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (2018 - 20 + 18) \div 8 \\\\
@@ -6230,7 +6230,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>90E2A5C8-884E-40C1-9D68-7DCB7181345F</p>
 </div>
@@ -6244,7 +6244,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7203,7 +7203,7 @@ $4510$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 7 \times 451 + 2 \times 451 + 451 \\\\
@@ -7867,9 +7867,9 @@ $8, \div $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$8 \div (3 - \dfrac{8}{3}) = 24$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \div (3 - \dfrac{8}{3}) \\\\
@@ -7952,7 +7952,7 @@ write the original answer in color and boxed similar to other such questions.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>17B6FA60-5A61-4A37-9F7F-C2A480CB87D5</p>
 </div>
@@ -7966,7 +7966,7 @@ write the original answer in color and boxed similar to other such questions.
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8486,9 +8486,9 @@ $29$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$2018 - 29 = 1989$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 2018 - 29 \\\\
@@ -8550,9 +8550,9 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$0.5 \div \dfrac{1}{2} = 1$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.5 \div \dfrac{1}{2} \\\\
@@ -8614,9 +8614,9 @@ $26$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$18 + 26 + 23 = 67$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 18 + 26 + 23 \\\\
@@ -8675,9 +8675,9 @@ $90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$90 \times 5 \times 10 = 4500$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 90 \times 5 \times 10 \\\\
@@ -8739,9 +8739,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4} of 36$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4} \text { of } 36  \\\\
@@ -9180,7 +9180,7 @@ $252$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (2018 - 20 + 18) \div 8 \\\\
@@ -9833,9 +9833,9 @@ $\dfrac{3}{4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{3}{4} &= 0.75 \\\\
@@ -9897,9 +9897,9 @@ $\dfrac{2}{3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac{2}{3}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{3}{4} &= 0.75 \\\\
@@ -9907,7 +9907,7 @@ $
 \dfrac{7}{10}&= 0.7
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -10386,7 +10386,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>BB0103D0-CDEE-4C5E-B3D9-85279CE09862</p>
 </div>
@@ -10400,7 +10400,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10850,9 +10850,9 @@ $-,-,+$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>123 - 45 - 67 + 89 = 100 
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 123 - 45 - 67 + 89 \\\\ 
@@ -10919,7 +10919,7 @@ $297$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Number of Boys = a 
-
+<emptyline>
 $
 \begin{aligned} 
 \dfrac{a}{540} &= \dfrac{275}{500} \\\\
@@ -10996,11 +10996,11 @@ $140$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Short Piece = a
-
+<emptyline>
 Middle Piece = 70 + a 
-
+<emptyline>
 Long Piece = 40 + 70 + a 
-
+<emptyline>
 $
 \begin{aligned}
 a + 70 + a + 40 + 70 + a &= 600 \\\\
@@ -11311,7 +11311,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 m * 6            &= 41 \\\\
@@ -11324,7 +11324,7 @@ m                &= \dfrac{\cancel{5} \times 7}{\cancel{5}} \\\\
 m                &= 7
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -11793,7 +11793,7 @@ $124$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 91 + a &= 215 \\\\
@@ -11912,7 +11912,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 25 - a + 17 &= 38 \\\\
@@ -11974,7 +11974,7 @@ $\dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 24 &= 12 \\\\
@@ -12038,7 +12038,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 72 \div 9 &= a \div 3 \\\\
@@ -12336,11 +12336,11 @@ $46$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Second number $= a + 1$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 1               &= 91 \\\\
@@ -12419,9 +12419,9 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (2 \times a - 14) \div 3 &= 8 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-3"
 title: "TopicPaper - Detailedsubtraction - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <div class='paper'>
@@ -675,7 +675,7 @@ $1.47$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   3   \ . &   1   &   9 \\
@@ -1405,7 +1405,7 @@ $4.744$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   5 \ .   &   0   &   3   &   1 \\

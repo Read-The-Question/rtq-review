@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-1-oldpr-prcr"
 title: "TopicPaper - Permutation - 1 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -122,7 +122,7 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total siblings $= 1 + 3 + 4 = 8$
-
+<emptyline>
 $
 \begin{aligned}
 \text{No. of eggs each buys}            &= \text{Total siblings} - \text{Self} \\\\

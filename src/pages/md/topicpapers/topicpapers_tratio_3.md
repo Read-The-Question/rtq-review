@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-3"
 title: "TopicPaper - Ratio - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -142,7 +142,7 @@ $\pounds 3.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of} \  11 \  \text{pencils}  &=  \pounds 4.95 \\\\
@@ -226,10 +226,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -376,10 +376,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -495,9 +495,9 @@ $\pounds 8.75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of} 25 \text{pens}  &= 25 \times \text{The Cost of each pen} \\\\
@@ -579,10 +579,10 @@ line 2: give comma after APTQ                                                   
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -759,10 +759,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -920,13 +920,13 @@ $\pounds 1.20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
-
+<emptyline>
 $1 \ \text{kg} = 1000 \ \text{grams}$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
     750                                   & : 90 \text{p}                                                                     \\\\
@@ -942,9 +942,9 @@ $
     1000 \ \text {gram}                   & : \pounds 1.20                                                                    
 \end{aligned}
 $
-
+<emptyline>
 $1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -952,11 +952,11 @@ $1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_unit_note
 The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
-
+<emptyline>
 $1 \ \text{kg} = 1000 \ \text{grams}$ 
-
+<emptyline>
 This can be solved using ratios.
-
+<emptyline>
 $
 \begin{aligned}
     750 \text{g}    & : 1000 \text{g}    \\\\
@@ -965,9 +965,9 @@ $
     3               & : 4                
 \end{aligned}
 $
-
+<emptyline>
 Let's take the cost of $1 \ \text{kg}$ = $a$ 
-
+<emptyline>
 $
 \begin{aligned}
     \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
@@ -975,9 +975,9 @@ $
     \dfrac {3}{4} & : \dfrac {90}{120}
 \end{aligned}
 $
-
+<emptyline>
 $1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1006,10 +1006,10 @@ $1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1289,16 +1289,16 @@ $295 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 The measurement is given in multiple units and answer has to be in centimetres.
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text {feet}   & = 30 \ \text {cm} \\\\
 1 \ \text {inches} & = 2.5 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 & = 9 \ \text{feet} \ 10 \ \text{inches} \\\\
@@ -1378,10 +1378,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1530,10 +1530,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1638,9 +1638,9 @@ $\pounds 4.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know that, one dozen $= 12$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of 18 eggs}  &= \dfrac {18 \times \pounds 2.8} {12} \\\\
@@ -1716,10 +1716,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1823,7 +1823,7 @@ $\pounds23.95$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of 1 lesson} &= \dfrac {167.65} {7} \\\\
@@ -1860,10 +1860,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2221,10 +2221,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2375,10 +2375,10 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2502,7 +2502,7 @@ $\pounds 14.90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of download five apps}       &= \text{Cost of downloading one app} \times \text{Number of apps} \\\\
@@ -2510,9 +2510,9 @@ $
                                         &= \pounds 2.98 \times 5
 \end{aligned}
 $
-
+<emptyline>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
                  & 2     & 9     & 8     \\
@@ -2522,13 +2522,13 @@ $
 \hline 
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= \pounds 14.90$
-
+<emptyline>
 The cost of download $5$ apps $= \pounds 14.90$
 </code></pre>
 </div>
@@ -2607,10 +2607,10 @@ LAst sentencce The cost of downloading $5$ aoos $= ....$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2895,10 +2895,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3308,10 +3308,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3556,7 +3556,7 @@ $15000 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question mass of ten calculators $= 1500 \ \text{g}$.Using that we get,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Mass of 100 calculators} &= 1500 \times 10 \\\\
@@ -3745,10 +3745,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3930,20 +3930,20 @@ $4cups$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>According to question ,
-
+<emptyline>
 flour needed for 12 scones  $=2cups$
-
+<emptyline>
 flour needed for 1 scones
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{2}{12} \\\\
 &= \dfrac{1}{6}
 \end{aligned}
 $
-
+<emptyline>
 flour needed for 24 scones
-
+<emptyline>
 $
 &= \dfrac{1}{6} \times 24 \\\\
 &= 4
@@ -4010,20 +4010,20 @@ $2.5 teaspoon$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>According to question ,
-
+<emptyline>
 salt needed for 12 scones  $=\dfrac{1}{2} teaspoon salts$
-
+<emptyline>
 flour needed for 1 scones
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{1}{2\times 12} \\\\
 &= \dfrac{1}{24}
 \end{aligned}
 $
-
+<emptyline>
 flour needed for 60 scones
-
+<emptyline>
 $
 &= \dfrac{1}{24} \times 60 \\\\
 &= \dfrac{5}{2} \\\\
@@ -4240,10 +4240,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4527,10 +4527,10 @@ $
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4745,10 +4745,10 @@ $23.33 \ \text {litres}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4898,7 +4898,7 @@ $\pounds 72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total cost}   &= 18 \times \dfrac {12} {3} \\\\
@@ -4964,9 +4964,9 @@ $\pounds 16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Cost of 4 kilograms of oranges
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 \times \dfrac {12} {3} \\\\
@@ -5068,10 +5068,10 @@ $
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5224,10 +5224,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5408,10 +5408,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -5594,10 +5594,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5818,10 +5818,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5971,7 +5971,7 @@ $45 \ \text{years}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{May's age}    &= 14 \ \text{years} \\\\
@@ -6045,7 +6045,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of one marble}  &= \dfrac {7.50} {5} \\\\
@@ -6054,7 +6054,7 @@ $
                             &= \pounds 1.50
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of marbles}   &= \dfrac {\text {Total amount}} {\text {Cost of one marble}} \\\\
@@ -6097,10 +6097,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -6221,13 +6221,13 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of turns $= t$
-
+<emptyline>
 A turns $= 5 t$
-
+<emptyline>
 B turns $= 2 t$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Disc A turns} &= 45 \\\\
@@ -6235,9 +6235,9 @@ $
                     &= 5 t
 \end{aligned}
 $
-
+<emptyline>
 $t = 9$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of times B turns} &= 2 \times 9 \\\\
@@ -6312,10 +6312,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6451,10 +6451,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:41</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6670,10 +6670,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6827,10 +6827,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7009,10 +7009,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7225,10 +7225,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7483,10 +7483,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -7636,7 +7636,7 @@ $49 \ \text {pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of one Doggy Chew}    &= \pounds 3.43 \div 7 \\\\
@@ -7702,7 +7702,7 @@ $\pounds 13.14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of two packets of Doggy Chew}    &= 3.43 \times 2 \\\\
@@ -7782,10 +7782,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7998,10 +7998,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:32</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8310,10 +8310,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:21</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -8430,7 +8430,7 @@ $\pounds 52.2$
                                             &= \pounds 52.2
 \end{aligned}
 $
-
+<emptyline>
 Mr Cooper spent $\pounds 52.2$ on petrol to drive $600 \ \text{kilometres}$ from Oxford to Glasgow.
 </code></pre>
 </div>
@@ -8500,10 +8500,10 @@ Mr Cooper spent $\pounds 52.2$ on petrol to drive $600 \ \text{kilometres}$ from
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8765,10 +8765,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:39</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9028,7 +9028,7 @@ $100 \ \text {bags}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Mass of 1 tea bag}                              &= \text {Mass of 250 tea leaves} + \text {Mass of tissue} \\\\
@@ -9079,10 +9079,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:44</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9203,7 +9203,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>250A1C8B-2326-4F1A-B3AB-023EF672A3F8</p>
 </div>
@@ -9211,10 +9211,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -9579,10 +9579,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -9692,7 +9692,7 @@ $600 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. The distance is given in kilometres, but the answer has to be in metres.
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text{cm}               &: 2 \ \text{km} \\\\
@@ -9704,7 +9704,7 @@ $
 3 \ \text{mm}               &: 600 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 Distance on the ground $= 600 \ \text{m}$
 </code></pre>
 </div>

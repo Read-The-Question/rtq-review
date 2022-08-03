@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-g2"
 title: "TopicPaper - Fraction - 2 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "34"
 ---
 <ul class='question default-decimal'>
@@ -1420,9 +1420,9 @@ $\dfrac {13} {27}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the inner and outer rectangle*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 $
 \begin{aligned}
 \text {Fraction coloured}       &= \dfrac {\text {Area of outer rectangle} - \text {Area of inner rectangle}} {\text {Area of inner rectangle}} \\\\
@@ -1613,7 +1613,7 @@ three quarters
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for both, so we can compare them.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {2} {3}, \quad \dfrac {3} {4} \\\\
@@ -1623,7 +1623,7 @@ $
 &= \dfrac {2} {3}  <  \dfrac {3} {4} 
 \end{aligned}
 $
-
+<emptyline>
 As per the calculation above, three quarters is greater than two thirds.
 </code></pre>
 </div>
@@ -2144,7 +2144,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {2} {5} \div  \dfrac {4} {10} \\\\
@@ -3947,7 +3947,7 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>When the numerator is 20
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4} {5} \\\\
@@ -3955,9 +3955,9 @@ $
 &= \dfrac {20} {25}
 \end{aligned}
 $
-
+<emptyline>
 When the denominator is 20
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4} {5} \\\\
@@ -4958,7 +4958,7 @@ $\dfrac {2} {7}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the area of one traingle $= a$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the figure}      &= a + a - \dfrac {4} {9} \times a \\\\
@@ -6514,7 +6514,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Shade 8 boxes given in the question*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total boxes}              &= 12 \\\\
@@ -6887,9 +6887,9 @@ $\dfrac {1} {100}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the fractions.
-
+<emptyline>
 LCM for $10, 9,  2, 100, 8 = 1800$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{1}{9} , \quad \dfrac{1}{10} , \quad \dfrac{4}{9}, \quad \dfrac{1}{2}, \quad \dfrac{1}{100}, \quad \dfrac{1}{8} \\\\
@@ -6897,7 +6897,7 @@ $
 &= \dfrac{200}{1800} , \quad \dfrac{180}{1800}, \quad \dfrac{800}{1800}, \quad \dfrac{900}{1800}, \quad \dfrac{18}{1800}, \quad \dfrac{225}{1800}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fractions smaller} &= \dfrac{180}{1800}, \quad \dfrac{18}{1800} \\\\
@@ -7039,9 +7039,9 @@ $\dfrac {2} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {2} \ \text {of} \ a &= \dfrac {1} {9} \\\\
@@ -7049,7 +7049,7 @@ $
 a                               &= \dfrac {2} {9}
 \end{aligned}
 $
-
+<emptyline>
 
 Numbers $= \dfrac{2}{9}$
 </code></pre>

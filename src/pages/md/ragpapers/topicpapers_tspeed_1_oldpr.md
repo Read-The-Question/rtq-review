@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-1-oldpr"
 title: "TopicPaper - Speed - 1 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -131,7 +131,7 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Time}    &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
@@ -147,7 +147,7 @@ $
                 &= 3 \ \text {hours} \ 20 \ \text {minutes}
 \end {aligned}
 $
-
+<emptyline>
 The journey took $3 \ \text {hours} \ 20 \ \text {minutes}$.
 </code></pre>
 </div>
@@ -376,7 +376,7 @@ $112 \ \text{km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$  week =  $7$  days.
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Distance run in} \ 4 \ \text{weeks} &= \text{Distance per day} \times \text{Number of days} \\\\
@@ -454,9 +454,9 @@ $
                     &= \dfrac {1} {4} \ \text{hours}
 \end{aligned} 
 $
-
+<emptyline>
 Let's find the speed now
-
+<emptyline>
 $
 \begin{aligned}
 \text{Speed}    &= \dfrac {\text{Distance}} {\text{Time}} \\\\

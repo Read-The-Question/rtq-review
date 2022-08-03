@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-notstarted"
 title: "TopicPaper - Order - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -2386,9 +2386,9 @@ $\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $7, 28, 35, 14 = 140$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {5} {7}, \quad \dfrac {19} {28}, \quad \dfrac {27} {35}, \quad \dfrac {9} {14} \\\\
@@ -2396,9 +2396,9 @@ $
 &= \dfrac {100} {140}, \quad \dfrac {95} {140}, \quad \dfrac {108} {140}, \quad \dfrac {126} {140}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {95} {140}, \quad \dfrac {100} {140}, \quad \dfrac {108} {140}, \quad \dfrac {126} {140} \\\\

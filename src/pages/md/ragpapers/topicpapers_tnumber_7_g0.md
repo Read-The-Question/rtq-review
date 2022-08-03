@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-g0"
 title: "TopicPaper - Number - 7 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AB7057B1-8C72-4023-A583-CA2D1B61CFD9</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "5"
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -128,7 +128,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 |    | Remainder <br>Divided by 2 | Remainder <br>Divided by 3 | Remainder |
 |:--:|:--------------------------:|:--------------------------:|:---------:|
 |  5 |              1             |              2             |  Not same |
@@ -195,7 +195,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>601C328B-929D-4CC4-9443-D89375DA371E</p>
 </div>
@@ -209,7 +209,7 @@ $7$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1011,7 +1011,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5944BAB9-F811-4821-A822-19421386ED7E</p>
 </div>
@@ -1025,7 +1025,7 @@ $
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

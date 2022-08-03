@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpermutation-1"
 title: "TopicPaper - Permutation - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2715,7 +2715,7 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total siblings $= 1 + 3 + 4 = 8$
-
+<emptyline>
 $
 \begin{aligned}
 \text{No. of eggs each buys}            &= \text{Total siblings} - \text{Self} \\\\
@@ -3068,7 +3068,7 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total matches}            &= 4 + 3 + 2 + 1 \\\\
@@ -4955,9 +4955,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find all two-digit numbers that can be made using the digits $3, 4$ and $5$.
-
+<emptyline>
 The possible arrangements are:
-
+<emptyline>
 - $33$
 - $34$
 - $35$
@@ -4967,18 +4967,18 @@ The possible arrangements are:
 - $53$
 - $54$
 - $55$
-
+<emptyline>
 Count $= 9$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We can solve this problem using permutation instead of manually counting all the arrangements.
-
+<emptyline>
 Count of digits that can be used in tens place        $= 3$
-
+<emptyline>
 Count of digits that can be used in unit place        $= 3$
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Total Arrangements}                           &= 3 \times 3 \\\\\
@@ -6987,16 +6987,16 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find all the $3$ digit numbers using $2, 7$ and $9$.
-
+<emptyline>
 The possible arrangements are:
-
+<emptyline>
 - $279$
 - $297$
 - $729$
 - $792$
 - $927$
 - $972$
-
+<emptyline>
 Count $= 6$
 </code></pre>
 </div>
@@ -7669,28 +7669,28 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's try and find all the possible arrangements.
-
+<emptyline>
 If we use all $2$s and one $3$, the possible arrangements are:
-
+<emptyline>
 - $2223$
 - $2232$
 - $2322$
 - $3222$
-
+<emptyline>
 If we use two $2$s and two $3$s, the possible arrangements are:
-
+<emptyline>
 - $2233$
 - $2323$
 - $2332$
 - $3223$
 - $3232$
 - $3322$
-
+<emptyline>
 Total count $= 10$
-
+<emptyline>
 <!--
 Bebs explanation
-
+<emptyline>
 the numbers that we can make which start with 2.
 If the first three digits are 2, the last digit must be 3.
 2223
@@ -7708,7 +7708,7 @@ If the first digit is 3, the options for the last three digits are shown below.
 3222
 3223
 3232
-
+<emptyline>
 answer = 2223, 2233, 2232, 2322, 2323, 2332, 3322, 3222, 3223, 3232
 -->
 </code></pre>
@@ -7900,23 +7900,23 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The two digit numbers with first digit as $4$ are:
-
+<emptyline>
 $
 \begin{matrix}
 40 &  41 &  42 &  43 &  44 \\  
 45 &  46 &  47 &  48 &  49  
 \end{matrix}
 $
-
+<emptyline>
 The two digit numbers with last  digit as $4$ are (ensure you do not count $44$ twice):
-
+<emptyline>
 $
 \begin{matrix}
 14 & 24 & 34 & 54 \\ 
 64 & 74 & 84 & 94
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Count} &= 10 + 8  \\\\
@@ -8142,9 +8142,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find all the $3$ digit numbers that contain at least two $7$s.
-
+<emptyline>
 If we use a $7$ in hundreds and tens place, the possible arrangements are:
-
+<emptyline>
 - $770$
 - $771$
 - $772$
@@ -8154,11 +8154,11 @@ If we use a $7$ in hundreds and tens place, the possible arrangements are:
 - $776$
 - $778$
 - $779$
-
+<emptyline>
 Count $= 9$
-
+<emptyline>
 If we use a $7$ in hundreds and units place, the possible arrangements are:
-
+<emptyline>
 - $707$
 - $717$
 - $727$
@@ -8168,12 +8168,12 @@ If we use a $7$ in hundreds and units place, the possible arrangements are:
 - $767$
 - $787$
 - $797$
-
+<emptyline>
 Count $= 9$
-
+<emptyline>
 
 If we use a $7$ in tens and units place, the possible arrangements are:
-
+<emptyline>
 - $177$
 - $277$
 - $377$
@@ -8183,12 +8183,12 @@ If we use a $7$ in tens and units place, the possible arrangements are:
 - $777$
 - $877$
 - $977$
-
+<emptyline>
 Count $= 9$
-
+<emptyline>
 
 Note: $777$ will occur in every sequence, so we ensure to count it only once.
-
+<emptyline>
 $
 \begin {aligned}
 \text{Total count}   &= 9 + 9 + 9 \\\\
@@ -8483,18 +8483,18 @@ $90$
 
 <pre class='language-latex'><code class='language-latex'>
 Total colours availble for the left side is $10$.
-
+<emptyline>
 Right side will have $1$ option less than left side.
-
+<emptyline>
 Colours remaining for right side = total colours $- 1$ option
-
+<emptyline>
 $= 10 - 1 = 9$
-
+<emptyline>
 
 Flags = Total colours $\times$ Total colors remaining  
-
+<emptyline>
 So, 
-
+<emptyline>
 $
 \begin{aligned}
 \text {Flags} &= 10 \times (10-1) \\
@@ -8502,7 +8502,7 @@ $
               &= 90 
 \end{aligned}
 $
-
+<emptyline>
 
 A total of $90$ flags are possible with $10$ colours to choose from. 
 </code></pre>
@@ -8576,11 +8576,11 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total Colours \times [Left Colours - 1] = Flags 
-
+<emptyline>
 Flags = 12
-
+<emptyline>
 Let's take total colours as $x$
-
+<emptyline>
 $
 \begin{aligned}
 x \times (x -1 ) = 12
@@ -8591,18 +8591,18 @@ x = 4
 x = - 3
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute
-
+<emptyline>
 $
 \begin{aligned}
 4 \times (4 -1 ) = 12
 4 \times 3 = 12
 \end{aligned}
 $
-
+<emptyline>
 $x = 4$
-
+<emptyline>
 There are total of $4$ colors 
 </code></pre>
 </div>
@@ -8669,11 +8669,11 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Flags with $1$ Colour 
-
+<emptyline>
 $=6 Colours \times 1 = 6$
-
+<emptyline>
 Flags with $2$ Colours 
-
+<emptyline>
 $
 \begin{aligned}
 = 6 Colours \times (6 - 1) \\
@@ -8681,16 +8681,16 @@ $
 = 30
 \end{aligned}
 $
-
+<emptyline>
 Total flags
-
+<emptyline>
 $= (1$ colour $+ 2$ colour) Flags
 $= 6 + 30$ 
-
+<emptyline>
 $= 36$ Flags
+<emptyline>
 
-
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8758,18 +8758,18 @@ $810$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A flag may have $3$ colours.
-
+<emptyline>
 Total Flags = Total colours $\times$ (Total $- 1$) \times (Total $- 1$)
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total colour options $=10$
-
+<emptyline>
 Let's substitute as above,
-
+<emptyline>
 Total Flags 
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times (10- 1) \times (10 - 1) \\
@@ -8778,9 +8778,9 @@ $
 &= 810
 \end{aligned}
 $
-
+<emptyline>
 $810$ different flags are possible with $10$ colours.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8844,25 +8844,25 @@ $810$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A flag may have $3$ colours.
-
+<emptyline>
 Total Flags = Total colours $\times$ (Total $- 1$) $\times$ (Total $- 1$)
-
+<emptyline>
 Total Flags $=150$
-
+<emptyline>
 Let's substitute as above,
-
+<emptyline>
 Total Flags 
-
+<emptyline>
 $
 \begin{aligned}
 150 &= x \times (x- 1) \times (x - 1) \\
 \end{aligned}
 $
-
+<emptyline>
 $810$ different flags are possible with $10$ colours.
+<emptyline>
 
-
-
+<emptyline>
 </code></pre>
 </div>
 </div>

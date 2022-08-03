@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-blocked"
 title: "TopicPaper - Order - 2 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -694,21 +694,21 @@ $\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Lets first changes all the numbers into Decimal,
-
+<emptyline>
 $\dfrac {4} {5}$ in Decimal number is $0.8$,
-
+<emptyline>
 $\dfrac {5} {6}$ in Decimal number is $0.84$,
-
+<emptyline>
 $70\%$ in Decimal number is $0.7$,
-
+<emptyline>
 $\dfrac {2} {3}$ in Decimal number is $0.67$,
-
+<emptyline>
 Now, Assembling in Descending order:
-
+<emptyline>
 $0.84 < 0.8 < 0.7 < 0.67 < 0.6$  
-
+<emptyline>
 finally, 
-
+<emptyline>
 $\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad \boxed {\dfrac {2} {3}} \quad \boxed {0.6}$
 </code></pre>
 </div>

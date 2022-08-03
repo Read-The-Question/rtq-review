@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-2-g0"
 title: "TopicPaper - Percentage - 2 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BB8814B0-A089-4B86-80BD-8BE739CA4A8C</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -99,7 +99,7 @@ What is $40 \%$ of $650 \ \text{grams}$?
 
 $
 \begin{aligned}
-&= 40\% \ \text {of}\ 650 \ \text{grams} \\\\
+&= 40 \% \ \text {of} \ 650 \ \text {grams} \\\\
 &= \dfrac {40} {100} \times 650 \\\\
 &= \dfrac {40 \times 650} {100} \\\\
 &= \dfrac {4 \cancel {0} \times 65 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
@@ -122,7 +122,7 @@ $260 \ \text {grams}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 40\% \ \text {of}\ 650 \ \text{grams} \\\\
+&= 40 \% \ \text {of} \ 650 \ \text {grams} \\\\
 &= \dfrac {40} {100} \times 650 \\\\
 &= \dfrac {40 \times 650} {100} \\\\
 &= \dfrac {4 \cancel {0} \times 65 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
@@ -190,7 +190,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>02202C7F-9F7E-46E2-9AD1-6B9D9768E016</p>
 </div>
@@ -204,7 +204,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -283,12 +283,12 @@ What is $30 \%$ of $550 \ \text{cm}^3$?
 
 $
 \begin{aligned}
-&= 30 \% \ \text {of} \ 550 \ \text {cm}^3 \\\\
+&= 30 \% \ \text {of} \ 550 \ \text {cm} ^ 3 \\\\
 &= \dfrac {30} {100} \times 550 \\\\
 &= \dfrac {30 \times 550} {100} \\\\
 &= \dfrac {3 \cancel {0} \times 55 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
 &= 3 \times 55 \\\\
-&= 165 \ \text {cm}^3
+&= 165 \ \text {cm} ^ 3
 \end{aligned}
 $
 
@@ -306,12 +306,12 @@ $165 \ \text {cm} ^ 3$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 30 \% \ \text {of} \ 550 \ \text {cm}^3 \\\\
+&= 30 \% \ \text {of} \ 550 \ \text {cm} ^ 3 \\\\
 &= \dfrac {30} {100} \times 550 \\\\
 &= \dfrac {30 \times 550} {100} \\\\
 &= \dfrac {3 \cancel {0} \times 55 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
 &= 3 \times 55 \\\\
-&= 165 \ \text {cm}^3
+&= 165 \ \text {cm} ^ 3
 \end{aligned}
 $
 </code></pre>
@@ -374,7 +374,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>96DD8910-785D-4B50-83AD-76D577DE0D35</p>
 </div>
@@ -388,7 +388,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -467,7 +467,7 @@ Which is bigger: $20\%$ of $25$ or $25\%$ of $20$?
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+Let's calculate the first value,
 
 $
 \begin{aligned}
@@ -480,7 +480,7 @@ $
 \end{aligned}
 $
 
-Let's calculate the second value.
+Let's calculate the second value,
 
 $
 \begin{aligned}
@@ -493,10 +493,11 @@ $
 \end{aligned}
 $
 
-$20\% \ \text{of} \ 25 = 5$
-$25\% \ \text{of} \ 20 = 5$
+Using the above calcuations,
 
-$\text{Both are equal}$
+$20 \% \ \text{of} \ 25 = 25 \% \ \text{of} \ 20$
+
+Both are equal.
 
 </div>
 </div>
@@ -510,8 +511,8 @@ $\text{Both are equal}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
-
+<pre class='language-latex'><code class='language-latex'>Let's calculate the first value,
+<emptyline>
 $
 \begin{aligned}
 &= 20\% \ \text{of} \ 25 \\\\
@@ -522,9 +523,9 @@ $
 &= 5
 \end{aligned}
 $
-
-Let's calculate the second value.
-
+<emptyline>
+Let's calculate the second value,
+<emptyline>
 $
 \begin{aligned}
 &= 25\% \ \text{of} \ 20 \\\\
@@ -535,11 +536,12 @@ $
 &= 5
 \end{aligned}
 $
-
-$20\% \ \text{of} \ 25 = 5$
-$25\% \ \text{of} \ 20 = 5$
-
-$\text{Both are equal}$
+<emptyline>
+Using the above calcuations,
+<emptyline>
+$20 \% \ \text{of} \ 25 = 25 \% \ \text{of} \ 20$
+<emptyline>
+Both are equal.
 </code></pre>
 </div>
 </div>

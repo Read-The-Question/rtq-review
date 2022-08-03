@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-notstarted"
 title: "TopicPaper - Simpleword - 5 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -1316,11 +1316,11 @@ No
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Cost of each child seat = $\pounds 3$
-
+<emptyline>
 Cost of each Adult seat = $\pounds 7$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{let number of child seats = x} \\
@@ -1588,7 +1588,7 @@ $42 \ \text{Toffees}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 12 \ \text {Chocolates}     &= 7 \ \text {Toffees} \\\\

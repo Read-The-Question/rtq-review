@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g0-prcr"
 title: "TopicPaper - Order - 3 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -305,9 +305,9 @@ $2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 To compare, let's convert all the units to $\text {km}$. 
-
+<emptyline>
 $
 \begin{aligned}
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2778 \ \text {m}, \quad 2.708 \ \text {km} \\\\
@@ -315,9 +315,9 @@ $
 &= 27.8 \ \text {km}, \quad 2.087 \ \text {km}, \quad 2.778 \ \text {km}, \quad 2.708 \ \text {km}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them from smallest to largest.
-
+<emptyline>
 $
 \begin{aligned}
 &= 2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2.778 \ \text {km}, \quad 27.8 \ \text {km} \\\\
@@ -682,16 +682,16 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to decimals
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {5} {8}, \quad \dfrac {2} {3},  \quad \dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {17} {24} \\\\
 &= 0.625, \quad 0.666, \quad 0.5, \quad 0.583, \quad 0.728
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.5, \quad 0.583, \quad 0.626, \quad 0.666, \quad 0.728 \\\\
@@ -885,18 +885,18 @@ $3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4},  \quad   3.025 \\\\
 &= 3.25,  \quad   3.34,  \quad   3.75,  \quad   3.025
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 3.025,  \quad   3.25,  \quad   3.34,  \quad   3.75 \\\\
@@ -1104,27 +1104,27 @@ $\text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfra
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages.
-
+<emptyline>
 In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.7, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad 0.65, \quad \text{five twelfths} \\\\
 &= \dfrac {7} {10}, \quad \dfrac {3} {4}, \quad \dfrac {4} {5},  \quad \dfrac {65} {100}, \quad \dfrac {5} {12}
 \end{aligned}
 $
-
+<emptyline>
 LCM of $10, \ 4, \ 5, \ 100, \ 12 = 300$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {7 \times 30} {10 \times 30}, \quad \dfrac {3 \times 75} {4 \times 75}, \quad \dfrac {4 \times 60} {5 \times 60},  \quad \dfrac {65 \times 3} {100 \times 3}, \quad \dfrac {5 \times 25} {12 \times 25} \\\\
 &= \dfrac {210} {300}, \quad \dfrac {225} {300}, \quad \dfrac {240} {300},  \quad \dfrac {195} {300}, \quad \dfrac {125} {300}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {125} {300}, \quad \dfrac {195} {300}, \quad \dfrac {210} {300},  \quad \dfrac {225} {300}, \quad \dfrac {240} {300} \\\\
@@ -1319,9 +1319,9 @@ $\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 Let's convert all the numbers into fractions.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{2}{3},  \quad \dfrac{3}{5},   \quad \dfrac{29}{45} \\\\
@@ -1329,16 +1329,16 @@ $
 &= \dfrac{30}{45},  \quad \dfrac{27}{45},   \quad \dfrac{29}{45}
 \end{aligned}
 $
-
+<emptyline>
 Now let's put them in ascending order.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{27}{45},  \quad \dfrac{29}{45},   \quad \dfrac{30}{45} \\\\
 &= \dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3} 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1515,13 +1515,13 @@ $0.092$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the Question,
-
+<emptyline>
 $0.54, \quad 0.092, \quad 0.635, \quad 0.3$
-
+<emptyline>
 lets Arrange in ascending order.
-
+<emptyline>
 $0.092, \quad 0.3, \quad 0.54, \quad 0.635$
-
+<emptyline>
 The  smallest number is $= 0.092$. 
 </code></pre>
 </div>
@@ -1710,9 +1710,9 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>LCM of $5, 8, 2 = 40$
-
+<emptyline>
 Let's use the LCM result to make the denominator the same for all the fractions. 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {2} {5}, \quad \dfrac {5} {8}, \quad \dfrac {1} {2} \\\\
@@ -1720,9 +1720,9 @@ $
 &= \dfrac {16} {40}, \quad \dfrac {25} {40}, \quad \dfrac {20} {40}
 \end{aligned}
 $
-
+<emptyline>
 Now let's put them in ascending order.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {16} {40}, \quad \dfrac {20} {40}, \quad \dfrac {25} {40} \\\\
@@ -1926,9 +1926,9 @@ $19.8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The difference between the terms is $0.2$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(+0.2)}} 
@@ -1938,7 +1938,7 @@ $
 \boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Missing number}      &= 20.0 - 0.2 \\\\
@@ -2459,9 +2459,9 @@ $1.05$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's write the numbers in order to find the middle number,
-
+<emptyline>
 $0.905, \quad 1.005, \quad 1.05, \quad 1.095, \quad 1.905$
-
+<emptyline>
 $1.05$ is in middle when the numbers are written in size orders.
 </code></pre>
 </div>
@@ -2638,9 +2638,9 @@ $3.564$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's write the numbers in increasing order to find the middle number,
-
+<emptyline>
 $3.465, \quad 3.546, \quad 3.564, \quad 3.64, \quad 3.654$
-
+<emptyline>
 $3.564$ is in middle when the numbers are written in size orders.
 </code></pre>
 </div>
@@ -2992,19 +2992,19 @@ $\dfrac{3}{4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
+<emptyline>
 $0.77, \quad \dfrac{3}{4}, \quad 0.705, \quad \dfrac{4}{5}, \quad 0.748$
-
+<emptyline>
 $0.77, \quad 0.75, \quad 0.705, \quad 0.8, \quad 0.748$
-
+<emptyline>
 Let's put them in ascending order.
-
+<emptyline>
 $0.705, \quad 0.748, \quad 0.75, \quad 0.77, \quad 0.8$
-
+<emptyline>
 The number in the middle $= 0.75$. 
-
+<emptyline>
 The number in the middle $= \dfrac{3}{4}$.
 </code></pre>
 </div>
@@ -3192,23 +3192,23 @@ $\dfrac {2} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.66, \quad \dfrac {3} {4}, \quad 70\%, \quad \dfrac {2} {3}, \quad \dfrac {6} {10} \\\\
 &= 0.66, \quad 0.75, \quad 0.70, \quad 0.666, \quad 0.60
 \end{aligned}
 $
-
+<emptyline>
 Now let's put them in ascending order.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.60, \quad 0.66, \quad 0.666, \quad  0.70, \quad 0.75 \\\\
 &= \dfrac {6} {10}, \quad 0.66, \quad \dfrac {2} {3}, \quad 70 \%, \quad \dfrac {3} {4}
 \end{aligned}
 $
-
+<emptyline>
 The number in the middle $= \dfrac {2} {3}$.
 </code></pre>
 </div>
@@ -3411,20 +3411,20 @@ $33\%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 In this case, there are more fractions, so let's convert all the numbers into fractions.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad 0.35, \quad 33\% \\\\
 &= \dfrac{3}{10}, \quad \dfrac{1}{3}, \quad \dfrac{1}{4}, \quad \dfrac{35}{100}, \quad \dfrac{33}{100}
 \end{aligned}
 $
-
+<emptyline>
 LCM for $10, 3, 4, 100, 100 = 300$
-
+<emptyline>
 Let's use the LCM result to make the denominator the same for all the fractions. 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3 \times 30}{10 \times 30}, \quad \dfrac{1 \times 100}{3 \times 100}, 
@@ -3432,17 +3432,17 @@ $
 &= \dfrac{90}{300}, \quad \dfrac{100}{300}, \quad \dfrac{75}{300}, \quad \dfrac{105}{300}, \quad \dfrac{99}{300}
 \end{aligned}
 $
-
+<emptyline>
 Now let's put them in ascending order.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{75}{300}, \quad \dfrac{90}{300}, \quad \dfrac{99}{300}, \quad \dfrac{100}{300}, \quad \dfrac{105}{300}
 \end{aligned}
 $
-
+<emptyline>
 The number in the middle $= \dfrac{99}{300}$.
-
+<emptyline>
 The number in the middle $= 33\%$.
 </code></pre>
 </div>
@@ -3632,25 +3632,25 @@ $\dfrac {2} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 Let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.67, \quad 55 \%, \quad \dfrac {3} {5}, \quad \dfrac {7} {10}, \quad \dfrac {2} {3} \\\\
 &= 0.67, \quad 0.55, \quad 0.60, \quad 0.70, \quad 0.666
 \end{aligned}
 $
-
+<emptyline>
 Now let's put them in ascending order.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.55, \quad  0.60, \quad  0.666, \quad  0.67, \quad  0.70 \\\\
 &= 55 \%, \quad \dfrac {3} {5}, \quad \dfrac {2} {3}, \quad 0.67, \quad \dfrac {7} {10}
 \end{aligned}
 $
-
+<emptyline>
 The number in the middle $= \dfrac{2}{3}$
 </code></pre>
 </div>
@@ -3881,16 +3881,16 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's arrange the number in descending order,
-
+<emptyline>
 $
 \begin{aligned}
 8 , \quad   16 , \quad   10 , \quad   12 \\\\
 16 , \quad   12 , \quad   10 , \quad   8
 \end{aligned}
 $
-
+<emptyline>
 To get the largest number, Frank needs to choose highest number as numerstor and lowest number as denominator.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {\text {Highest number}} {\text {Lowest number}} \\\\
@@ -3962,16 +3962,16 @@ $\dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's arrange the number in ascending order,
-
+<emptyline>
 $
 \begin{aligned}
 &8 , \quad   16 , \quad   10 , \quad   12 \\\\
 &8 , \quad   10 , \quad   12 , \quad   16
 \end{aligned}
 $
-
+<emptyline>
 To get the smallest number, Frank needs to choose lowest number as numerator and highest number as denominator.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {\text {Lowest number}} {\text {Highest number}} \\\\
@@ -4056,18 +4056,18 @@ $\dfrac {10} {12}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's arrange the number in ascending order,
-
+<emptyline>
 $
 \begin{aligned}
 &8 , \quad   16 , \quad   10 , \quad   12 \\\\
 &8 , \quad   10 , \quad   12 , \quad   16
 \end{aligned}
 $
-
+<emptyline>
 To get a division result closest to 1, Frank needs to pickup adjacent numbers after arrangement.
-
+<emptyline>
 Let's write all possible cases of fraction for each pick.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {8} {10} , \quad   \dfrac {10} {8} , \quad   \dfrac {10} {12} , \quad   \dfrac {12} {10} , \quad   \dfrac {12} {16}, \quad   \dfrac {16} {12} \\\\
@@ -4077,16 +4077,16 @@ $
 &= 0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33
 \end{aligned}
 $
-
+<emptyline>
 Let's arrange the decimals in ascending order.
-
+<emptyline>
 $
 \begin{aligned}
 0.8 , \quad 1.25 , \quad 0.83 , \quad 1.2 , \quad 0.75 , \quad 1.33 \\\\
 0.75 , \quad 0.8 , \quad 0.83 , \quad 1.2 , \quad 1.25 , \quad 1.33
 \end{aligned}
 $
-
+<emptyline>
 The number that is closest to $1$ = $0.83 = \dfrac {10} {12}$
 </code></pre>
 </div>

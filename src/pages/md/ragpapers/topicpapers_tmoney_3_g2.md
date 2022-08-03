@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g2"
 title: "TopicPaper - Money - 3 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "28"
 ---
 <ul class='question default-decimal'>
@@ -601,7 +601,7 @@ $\pounds 14.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 68 \text {p} + \pounds 3.29 + 5 \times 22 \text {p} + 2 \times 39 \text {p} \\\\
@@ -1509,7 +1509,7 @@ $\pounds 2.88$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent} &= 38  + 59  \\\\
@@ -1923,7 +1923,7 @@ $\pounds 43.75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using answers above,
-
+<emptyline>
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2} \% \ \text{of} \ \pounds 250 \\\\
@@ -2114,7 +2114,7 @@ $\pounds 2.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}         &= 10 \times 45 + 10 \times 27 \\\\
@@ -3415,7 +3415,7 @@ $\pounds 6.20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Josh owe Tina}    &= 3 \times 10 - 23.80 \\\\
@@ -3609,11 +3609,11 @@ $\pounds 27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Fran has (in $\pounds$) $= a$
-
+<emptyline>
 Karen has (in $\pounds$) $= a + 9$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 9           &= 45 \\\\
@@ -3993,7 +3993,7 @@ $\pounds 4.30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 2 \times \pounds 1.50 + 3 \times 90 \text {p} \\\\
@@ -4540,7 +4540,7 @@ $\pounds 7.50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 6 \times \pounds 1.15 + 10 \times 56 \text {p} \\\\
@@ -5004,7 +5004,7 @@ $\pounds 1.48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Change received}     &= \pounds 5 - 8 \times 44 \text {p} \\\\
@@ -5200,7 +5200,7 @@ $\pounds 1 \ \text {and} \ 9 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}         &= 3 \times 12  + 5 \times 11 \\\\
@@ -5396,7 +5396,7 @@ $\pounds 3.28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times 15 + 7 \times 16 \\\\

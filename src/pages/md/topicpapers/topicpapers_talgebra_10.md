@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-10"
 title: "TopicPaper - Algebra - 10"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -176,7 +176,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {x} {24} &= \dfrac {2} {3} \\\\
@@ -242,7 +242,7 @@ $75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {3}    &= \dfrac {50} {y} \\\\
@@ -533,7 +533,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number I started with $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 6 -7                     &= 41 \\\\
@@ -545,7 +545,7 @@ a                                 &= \dfrac{\cancel 6 \times 8} {\cancel 6} \\\\
 a                                 &= 8
 \end{aligned}
 $
-
+<emptyline>
 The number I started with $= 8$
 </code></pre>
 </div>
@@ -775,7 +775,7 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= 32 - 8 \\\\
@@ -837,7 +837,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= 96 \times 8 \\\\
@@ -902,7 +902,7 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \div 8    &= 72 \\\\
@@ -966,7 +966,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 c \div c    &= 144 \\\\
@@ -1033,9 +1033,9 @@ $32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Using BIDMAS
-
+<emptyline>
 $
 \begin{aligned}
 b \times 4 + 4    &= 4 \\\\
@@ -1122,7 +1122,7 @@ Also, write this at the top that means before the \"As per the question line\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>C5744D06-D846-4063-8AB1-9FB5CA4254B1</p>
 </div>
@@ -1136,7 +1136,7 @@ Also, write this at the top that means before the \"As per the question line\"
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1444,6 +1444,23 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b) wrong calculation in the last line 
+
+final answer should be 26.
+
+= 4 + 4 + 9 + 9
+
+= 26
+
+Change the answer into answer section too.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1614,9 +1631,9 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of coins $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {c} {3}                                                              &= \dfrac {c} {4} + 2 \\\\ 
@@ -1629,7 +1646,7 @@ c                                                                           &= 2
 c                                                                           &= 24
 \end{aligned}
 $
-
+<emptyline>
 Number of coins on the table $= 24$
 </code></pre>
 </div>
@@ -2808,7 +2825,7 @@ $\pounds 40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money Peter received}   &= 2 \times \pounds 20 \\\\
@@ -2873,7 +2890,7 @@ $\pounds 96$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money Helen received}   &= \dfrac {60} {2} \\\\
@@ -2950,13 +2967,13 @@ $\pounds 10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the money John received (in $\pounds$) $= a$
-
+<emptyline>
 Money Helen received $= 5a$
-
+<emptyline>
 Money Peter received $= 10a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 5a + 10a      &= \pounds 160 \\\\
@@ -2967,7 +2984,7 @@ a                 &= \dfrac {10 \times \cancel {16}} {\cancel {16}} \\\\
 a                 &= \pounds 10
 \end{aligned}
 $
-
+<emptyline>
 Money John received $= \pounds 10$
 </code></pre>
 </div>
@@ -3186,15 +3203,15 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of people in the party $= a$
-
+<emptyline>
 Number of men in the party $= \dfrac {a} {4}$
-
+<emptyline>
 Number of girls in the party $= \dfrac {a} {2}$
-
+<emptyline>
 Number of women in the party $= \dfrac {a} {6}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5                                                                                            &= a \\\\
@@ -3209,7 +3226,7 @@ a                                                                               
 a                                                                                                                                               &= 60
 \end{aligned}
 $
-
+<emptyline>
 Total number of people $= 60$
 </code></pre>
 </div>
@@ -3288,7 +3305,7 @@ Then solve it accordingly.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
 </div>
@@ -3302,7 +3319,7 @@ Then solve it accordingly.
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3807,9 +3824,9 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {3} {8} \ \text {of} \ a     &= 27 \\\\
@@ -3822,9 +3839,9 @@ a                                   &= 9 \times 8 \\\\
 a                                   &= 72
 \end{aligned}
 $
-
+<emptyline>
 The number $= 72$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {2} \ \text {of} \ a \\\\
@@ -4195,11 +4212,11 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first whole number $= a$
-
+<emptyline>
 Let the second whole number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a \times b  &= 18 \\\\
@@ -4207,9 +4224,9 @@ a - b       &= 7 \\\\
 a           &= 7 + b
 \end {aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
-
+<emptyline>
 $
 \begin {aligned}
 a \times b              &= 18 \\\\
@@ -4224,7 +4241,7 @@ b - 2                   &= 0 \\\\
 b                       &= 2
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {The second whole number}     &= 2 \\\\
@@ -4303,7 +4320,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>62DF8BD0-738E-47AD-992F-53FE32B01AFB</p>
 </div>
@@ -4317,7 +4334,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4458,7 +4475,7 @@ $\pounds 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}      &= \pounds 2 + 2 \times \pounds 3 \\\\
@@ -4524,9 +4541,9 @@ $4 \dfrac {1} {2} \ \text {hours}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the time she hired the boat $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \pounds 2 + a \times \pounds 3      &= \pounds 15.50 \\\\
@@ -4537,7 +4554,7 @@ a                                   &= 4.50 \\\\
 a                                   &= 4 \dfrac {1} {2} \ \text {hours}
 \end {aligned}
 $
-
+<emptyline>
 She hired the boat for $= 4 \dfrac {1} {2} \ \text {hours}$
 </code></pre>
 </div>
@@ -4558,6 +4575,21 @@ She hired the boat for $= 4 \dfrac {1} {2} \ \text {hours}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove the units (\pounds) on the below line (I mean first line of the working)
+
+\text {Total cost}      &= \pounds 2 + 2 \times \pounds 3 \\
+
+
+
+Part b) Same as part a)
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4975,7 +5007,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>D50514BA-0CC0-44FE-B460-B94EC34292B3</p>
 </div>
@@ -4989,7 +5021,7 @@ $
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5098,7 +5130,7 @@ $11 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the time taken (in $\text {minutes$) $= a$
-
+<emptyline>
 $
 \begin {aligned}
 48 \degree \text {C}  - a \times 3 \degree \text {C}  &= 15 \degree \text {C} \\\\
@@ -5113,7 +5145,7 @@ a                                                     &= \dfrac {\cancel {3} \ti
 a                                                     &= 11 \ \text {minutes}
 \end {aligned}
 $
-
+<emptyline>
 Time taken to reach $15 \degree \text {C}$ $= 11 \ \text {minutes}$
 </code></pre>
 </div>
@@ -5131,6 +5163,27 @@ Time taken to reach $15 \degree \text {C}$ $= 11 \ \text {minutes}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+i) Katex broken (} missing)in first line
+
+$\text {minutes$   ==> $\text {minutes}$
+
+
+
+ii) Add \"As per the question,\" after first line
+
+
+
+iii) Remove the line with cancellation of -(minus)
+
+ie just show the next step without minus instead of showing cancellation of -.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -5175,7 +5228,7 @@ Time taken to reach $15 \degree \text {C}$ $= 11 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>54EA2842-2214-4801-9831-C0F64838FEBF</p>
 </div>
@@ -5186,7 +5239,7 @@ Time taken to reach $15 \degree \text {C}$ $= 11 \ \text {minutes}$
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_pr</p>
+<p>rag_as_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5484,35 +5537,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' id='FORM-54EA2842-2214-4801-9831-C0F64838FEBF' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='54EA2842-2214-4801-9831-C0F64838FEBF' id='FORM-54EA2842-2214-4801-9831-C0F64838FEBF' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -6097,13 +6150,13 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of red balloons $= a$
-
+<emptyline>
 Number of green balloons $= 3a$
-
+<emptyline>
 Number of blue balloons $= 6a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 3a + 6a       &= 40 \\\\
@@ -6113,7 +6166,7 @@ a                 &= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
 a                 &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of red balloons}      &= 4 \\\\
@@ -6304,9 +6357,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 9 + 5    &= 50 \\\\
@@ -6318,7 +6371,7 @@ a                 &= \dfrac {5 \times \cancel {9}} {\cancel {9}} \\\\
 a                 &= 5
 \end{aligned}
 $
-
+<emptyline>
 The number $= 5$
 </code></pre>
 </div>
@@ -6380,7 +6433,7 @@ The number $= 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prpcr question'>
 <div class='uuid'>
 <p>CC823911-5E9A-4C67-88F6-2D9DD834D2F5</p>
 </div>
@@ -6394,7 +6447,7 @@ The number $= 5$
 <p>rag_as_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6557,11 +6610,11 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the value of a triangle $= t$
-
+<emptyline>
 Let the value of a square $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 3t + 2s     &= 16 \\\\
@@ -6569,16 +6622,16 @@ $
 s           &= 9 - 2t
 \end {aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
-
+<emptyline>
 $
 \begin {aligned}
 3t + 2s - 2t - s        &= 16 - 9 \\\\
 t + s                   &= 7
 \end {aligned}
 $
-
+<emptyline>
 A triangle $+$ a square $= 7$
 </code></pre>
 </div>
@@ -6662,11 +6715,11 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the value of a triangle $= t$
-
+<emptyline>
 Let the value of a square $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 3t + 2s     &= 16 \\\\
@@ -6674,9 +6727,9 @@ $
 s           &= 9 - 2t
 \end {aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
-
+<emptyline>
 $
 \begin {aligned}
 3t + 2s                       &= 16 \\\\
@@ -6688,7 +6741,7 @@ $
 t                             &= 2
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Value of a triangle}   &= 2 \\\\
@@ -6717,6 +6770,17 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b) Remove the line with the cancellation of -(minus)
+
+ie just show the next step without minus instead of showing cancellation of -.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -6992,7 +7056,7 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Gemma's number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 2 a + 5     &= 23 - a \\\\
@@ -7205,9 +7269,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of horses John buy $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 14      &= 27 - a + 3 \\\\
@@ -7578,7 +7642,7 @@ $\pounds 50$
 
 <pre class='language-latex'><code class='language-latex'>
 Let money Martha has be m and Sally has be s,
-
+<emptyline>
 $
 \begin{aligned}
 m - 10 = 3 \times (s - 20) \\\\
@@ -7587,7 +7651,7 @@ m - 10 = 3s - 60 \\\\
 m =  3s -50
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 m - 15 = 2 \times (s - 20) \\\\
@@ -7595,16 +7659,16 @@ m - 15 = 2s - 40 \\\\
 2s - m = 25 
 \end{aligned}
 $
-
+<emptyline>
 Replacing m in second question
-
+<emptyline>
 $
 \begin{aligned}
 2s - 3s + 50 = 25 \\\\ 
 s = 25 
 \end{aligned}
 $
-
+<emptyline>
 Value of m will be,
 $
 \begin{aligned}
@@ -7613,7 +7677,7 @@ m = 75 - 50 \\\\
 m = 25 
 \end{aligned}
 $
-
+<emptyline>
 Total money both has,
 $
 \begin{aligned}
@@ -7764,7 +7828,7 @@ $25, 5$
 
 <pre class='language-latex'><code class='language-latex'>
 Let two numbers be $x$ and $y$,
-
+<emptyline>
 $
 \begin{aligned}
 x + y = 30   &&&&&    x - y = 20 \\\\
@@ -8045,9 +8109,9 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3a - 8      &= -5 \\\\
@@ -8334,7 +8398,7 @@ $23 \text {year}$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the age of that person be $=x$
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {33 - x} {2} = 5 \\\\
@@ -8343,7 +8407,7 @@ $
                  x  = 23 \text {year}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8574,13 +8638,13 @@ $1800 \text {metres}$
 
 <pre class='language-latex'><code class='language-latex'>
 According to question ,
-
+<emptyline>
 Distance between first and third bus $600 \text {metres}$
-
+<emptyline>
 Distance between first and second bus will be $300 \text {metres}$
-
+<emptyline>
 So, distance between first and last bus will be ,
-
+<emptyline>
 $
 \begin{aligned}
 &= 300 \times 9 \\\\
@@ -8741,18 +8805,18 @@ $10 \text{chickens}, 20 \text{cows}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of chickens $=x$ and number of cows $=y$
-
+<emptyline>
 A farmer has some chickens and some cows .He counted $30$ heads 
-
+<emptyline>
 $ 
 \begin{aligned}
 x + y = 30 \\\\
 x = 30 - y
 \end{aligned}
 $
-
+<emptyline>
 Each chicken  has 2 legs and cow has 4 legs 
-
+<emptyline>
 $
 \begin{aligned}
 2x + 4y = 100 \\\\
@@ -8761,7 +8825,7 @@ x  + 2y = 50 \\\\
 y = 20 \text {cows}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 x = 30 - y \\\\
@@ -8952,9 +9016,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 17 - 19        &= 66 \\\\
@@ -8966,7 +9030,7 @@ a                       &= \dfrac {5 \times \cancel {17}} {\cancel {17}} \\\\
 a                       &= 5
 \end{aligned}
 $
-
+<emptyline>
 The number $= 5$
 </code></pre>
 </div>
@@ -9256,9 +9320,9 @@ $63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=a$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \div 7 -3       &= 6 \\\\
@@ -9268,7 +9332,7 @@ a                 &= 9 \times 7 \\\\
 a                 &= 63
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9327,7 +9391,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (x + 7) \times 8  &= x \times 22 \\\\
@@ -9577,7 +9641,7 @@ $\dfrac {A} {7}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 A           &= 7 \times B \\\\
@@ -9647,16 +9711,16 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 B     &= \dfrac {A} {7} \\\\
 B     &= 3 \times C
 \end {aligned}
 $
-
+<emptyline>
 Using the above two equations we get,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {A} {7}    &= 3 \times C \\\\
@@ -9664,7 +9728,7 @@ A                 &= 7 \times 3 \times C \\\\
 A                 &= 21 \times C
 \end {aligned}
 $
-
+<emptyline>
 Number $A$ is $21$ times bigger than Number $C$.
 </code></pre>
 </div>
@@ -9716,7 +9780,7 @@ $\dfrac {B} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 3 \times C  &= B \\\\
@@ -9830,7 +9894,7 @@ $2, 14, 42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prg question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>E7751CD6-54CE-4BCD-BCD5-9E1364D791B2</p>
 </div>
@@ -9841,10 +9905,10 @@ $2, 14, 42$
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_oldpr</p>
+<p>rag_as_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9996,9 +10060,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 9 - 7    &= 101 \\\\
@@ -10010,7 +10074,7 @@ a                 &= \dfrac {\cancel {9} \times 12} {\cancel {9}} \\\\
 a                 &= 12
 \end{aligned}
 $
-
+<emptyline>
 The number $= 12$
 </code></pre>
 </div>
@@ -10070,7 +10134,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x \times 18 &= (x + 8) \times 6 \\\\
@@ -10083,7 +10147,7 @@ x           &= \dfrac{4 \times \cancel {12} } {\cancel {12} } \\\\
 x           &= 4
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -10103,76 +10167,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-PArt A :
-
-Let the number I think of = a (no comma after that)
-
-do step by step
-
-a x 9 = 101 + 7
-
-a = 108 / 9
-
-a = 12 x 9 / 9
-
-a = cancel
-
-a = 12
-
-Part B:
-
-Please check \"multiply the answer by 6\"
-
-x x 18 &= (x + 8) x 6 
-
-18x = 6x + 48 
-
-solve step by step
-
-x = 4 x 12  / 12
-
- = then cancel 
-
-
-
-answer is 4 . please change blue answer also
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' id='FORM-E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' id='FORM-E7751CD6-54CE-4BCD-BCD5-9E1364D791B2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -10339,7 +10366,7 @@ $\dfrac {A} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 A           &= 5 \times B \\\\
@@ -10409,16 +10436,16 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 B     &= \dfrac {A} {5} \\\\
 B     &= 2 \times C
 \end {aligned}
 $
-
+<emptyline>
 Using the above two equations we get,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {A} {5}    &= 2 \times C \\\\
@@ -10426,7 +10453,7 @@ A                 &= 5 \times 2 \times C \\\\
 A                 &= 10 \times C
 \end {aligned}
 $
-
+<emptyline>
 Number $A$ is $10$ times bigger than Number $C$.
 </code></pre>
 </div>
@@ -10478,7 +10505,7 @@ $\dfrac {B} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 2 \times C  &= B \\\\
@@ -10592,7 +10619,7 @@ $A =$     $B =$     $C =$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>EED677CE-038C-415E-9155-1F7B7166B19B</p>
 </div>
@@ -10603,10 +10630,10 @@ $A =$     $B =$     $C =$
 <p>Arunim Singhal</p>
 </div>
 <div class='rag'>
-<p>rag_as_oldpr</p>
+<p>rag_as_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10753,9 +10780,9 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \div 7 + 9      &= 17 \\\\
@@ -10765,7 +10792,7 @@ a                 &= 8 \times 7 \\\\
 a                 &= 56
 \end{aligned}
 $
-
+<emptyline>
 The number $= 56$
 </code></pre>
 </div>
@@ -10824,7 +10851,7 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 n \times 6  &= (n + 3) \times 4 \\\\
@@ -10857,66 +10884,39 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part A 
-
-Let the number I thought of = a
-
-PArt B
-
-Solve step by step
-
-katex wrong at 2 places..
-
-n x 6 = (n + 3) x 4
-
-6n = 4n + 12
-
-6n - 4n = 12
-
-2n = 12
-
-n = 6 x 2/2
-
-now cancel
-
-n = 6
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' id='FORM-EED677CE-038C-415E-9155-1F7B7166B19B' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='EED677CE-038C-415E-9155-1F7B7166B19B' id='FORM-EED677CE-038C-415E-9155-1F7B7166B19B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -11082,7 +11082,7 @@ $\dfrac {A} {12}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 A           &= 12 \times B \\\\
@@ -11151,16 +11151,16 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 B     &= \dfrac {A} {12} \\\\
 B     &= 3 \times C
 \end {aligned}
 $
-
+<emptyline>
 Using the above two equations we get,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {A} {12}   &= 3 \times C \\\\
@@ -11168,7 +11168,7 @@ A                 &= 12 \times 3 \times C \\\\
 A                 &= 36 \times C
 \end {aligned}
 $
-
+<emptyline>
 Number $A$ is $36$ times bigger than Number $C$.
 </code></pre>
 </div>
@@ -11220,7 +11220,7 @@ $\dfrac {B} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 3 \times C  &= B \\\\

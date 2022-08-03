@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-g0"
 title: "TopicPaper - Algebra - 7 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "21"
 ---
 <ul class='question default-decimal'>
@@ -1040,11 +1040,11 @@ $120$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of pages $=a$
-
+<emptyline>
 rtq_abbr_md_unit_note. Let's convert pounds in pence.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times a + 75 \text{p} &= \pounds 4.35 \\\\
@@ -1272,7 +1272,7 @@ $100000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=x$ 
-
+<emptyline>
 $
 \begin{aligned}
 x                               &= \dfrac {349000} {3.49} \\\\
@@ -1721,7 +1721,7 @@ a = 2,b = 12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>For $a =10$,
-
+<emptyline>
 $
 \begin{aligned}
 3a + 2b                             &= 30 \\\\
@@ -1732,9 +1732,9 @@ $
 b                                   &= 0
 \end{aligned}
 $
-
+<emptyline>
 For $a= 2$,
-
+<emptyline>
 $
 \begin{aligned}
 3a + 2b                             &= 30 \\\\
@@ -1943,9 +1943,9 @@ $p = 575, q= 425$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$p = 150 + q$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 p + q         &= 1000 \\\\
@@ -1959,7 +1959,7 @@ q             &= \dfrac {425 \times \cancel {2}} {\cancel {2}} \\\\
 q             &= 425
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 p  &= 150 + q \\\\
@@ -2384,7 +2384,7 @@ $200$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$ 
-
+<emptyline>
 $
 \begin{aligned}
 28 \times a &= 5600 \\\\
@@ -2447,7 +2447,7 @@ $2000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$ 
-
+<emptyline>
 $
 \begin{aligned}
 2.8 \times a &= 5600 \\\\
@@ -2513,7 +2513,7 @@ $\dfrac {1} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$ 
-
+<emptyline>
 $
 \begin{aligned}
 5600 \div a           &= 28000 \\\\
@@ -3141,7 +3141,7 @@ $52$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$ 
-
+<emptyline>
 $
 \begin{aligned}
 x - 15                  &= 37 \\\\
@@ -3206,7 +3206,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$ 
-
+<emptyline>
 $
 \begin{aligned}
 x \times 6 - 9                      &= 33 \\\\
@@ -3274,7 +3274,7 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$ 
-
+<emptyline>
 $
 \begin{aligned}
 2x + 15                         &= 3 \\\\
@@ -3506,7 +3506,7 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 2100 \times a &= 84000 \\\\
@@ -3570,7 +3570,7 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 2.1 \times a &= 84 \\\\
@@ -3634,7 +3634,7 @@ $0.4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 8.4 \div a &= 21 \\\\
@@ -4192,9 +4192,9 @@ $-43$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 5) \div 2                  &= -19 \\\\
@@ -4266,9 +4266,9 @@ $100$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 a + \dfrac{a} {2}                                &= 250 \\\\
@@ -4344,9 +4344,9 @@ $+ 4, \ -4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 18 + 2(a ^ 2)                   &= 50 \\\\
@@ -4420,9 +4420,9 @@ $16.25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {3 a} {10} - \dfrac {90 a} {500}                      &= 1.95 \\\\
@@ -4823,7 +4823,7 @@ $a=12, b=0 \\ a=3, b=12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let $a =12$
-
+<emptyline>
 $
 \begin{aligned}
 4 \times 12 + 3b                                &= 48 \\\\
@@ -4832,9 +4832,9 @@ $
 b                                               &= 0
 \end{aligned}
 $
-
+<emptyline>
 Let $a =3$
-
+<emptyline>
 $
 \begin{aligned}
 4 \times 3 + 3b                                 &= 48 \\\\
@@ -5029,7 +5029,7 @@ $35,42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the potatoes in small sack $= x$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Potatoes in large sack}                       &= x + 20 \% \times x \\\\
@@ -5655,9 +5655,9 @@ $52$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x - 15                                                  &= 37 \\\\
@@ -5720,9 +5720,9 @@ $42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x \times 6 - 9                                      &= 33 \\\\
@@ -5786,9 +5786,9 @@ $-6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x \times 2 + 15                                         &= 3 \\\\

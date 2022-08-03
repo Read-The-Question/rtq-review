@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-g0"
 title: "TopicPaper - Sequence - 3 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -127,18 +127,18 @@ The $100$th symbol is $=$ &
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>After oberserving the pattern, the first symbol is &, second is f and third is =. This pattern is repeating in a set of 3.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {100} {3} \\\\
 &= 33 \dfrac {1} {3}
 \end{aligned}
 $
-
+<emptyline>
 As the remainder is $1$, The symbol in the first position is going to repeat in the $100$th position.
-
+<emptyline>
 The $100$th symbol is $=$ &
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-pr-prns"
 title: "TopicPaper - Simpleword - 5 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -329,7 +329,7 @@ $
 &= 104 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

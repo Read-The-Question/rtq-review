@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-10"
 title: "TopicPaper - Number - 10"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -880,9 +880,9 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$30$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times 15 \\\\
@@ -1363,9 +1363,9 @@ $\dfrac {9} {25}, \quad 0.371, \quad 38 \%,  \quad \dfrac {2} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 Let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {9} {25}, \quad 0.371,  \quad \dfrac {2} {5},  \quad 38 \% \\\\
@@ -1374,9 +1374,9 @@ $
 &= 0.36, \quad 0.371,  \quad 0.4,  \quad 0.38
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.36, \quad 0.371, \quad 0.38, \quad 0.4 \\\\
@@ -1631,7 +1631,7 @@ $-20$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3.75^2 - 11.63 \times 2.87\\\\
@@ -1916,7 +1916,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>836169C8-E272-4A22-ACB9-5D73CCEFC167</p>
 </div>
@@ -1930,7 +1930,7 @@ $17$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2095,7 +2095,7 @@ TODOANSWER
 &=6
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2222,7 +2222,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9</p>
 </div>
@@ -2236,7 +2236,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2623,7 +2623,7 @@ $=3 \times 2^3$
 &= 24
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 &= 2 \times 3^2 \\\\
@@ -2631,7 +2631,7 @@ $
 &= 18
 \end{aligned}
 $
-
+<emptyline>
 Larger number $=3 \times 2^3$
 </code></pre>
 </div>
@@ -3175,7 +3175,7 @@ $\dfrac{4}{5}, \dfrac{3}{8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert all fractions into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{1}{3} \\\\
@@ -3184,7 +3184,7 @@ $
 &= 0.25, 0.222, 0.039, 0.80, 0.375
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Larger numbers}   &= 0.80, 0.375\\\\
@@ -4705,7 +4705,7 @@ $-8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 + 7 - 9 + 3 - 14 \\\\
@@ -4766,7 +4766,7 @@ $-450$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 9 \times (-5)^2 \times 2 \times (-1) \\\\
@@ -4994,9 +4994,9 @@ $(3 \times 6 ) \div (2 + 1) = 6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$(3 \times 6 ) \div (2 + 1) = 6$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= (3 \times 6 ) \div (2 + 1) \\\\
@@ -5058,9 +5058,9 @@ $(8 \times 5) - 6 \times (1 + 4) = 10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$(8 \times 5) - 6 \times (1 + 4) = 10$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= (8 \times 5) - 6 \times (1 + 4) \\\\
@@ -6724,7 +6724,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>FF8263CB-765D-4212-B45C-E95A8847AA0A</p>
 </div>
@@ -6738,7 +6738,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6918,17 +6918,17 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Find the prime factorization of 357
-
+<emptyline>
 = $3\times7\times17$
-
+<emptyline>
 Find the prime factorization of 255
-
+<emptyline>
 = $3\times5\times17$
-
+<emptyline>
 To find the GCF, multiply all the prime factors common to both numbers:
-
+<emptyline>
 = $3\times 17$
-
+<emptyline>
 = $51$
 </code></pre>
 </div>
@@ -7010,17 +7010,17 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Find the prime factorization of 357
-
+<emptyline>
 = $3\times7\times17$
-
+<emptyline>
 Find the prime factorization of 255
-
+<emptyline>
 = $3\times5\times17$
-
+<emptyline>
 Multiply each factor the greater number of times it occurs in steps i) or ii) above to find the LCM:
-
+<emptyline>
 = $3\times5\times7\times 17$
-
+<emptyline>
 = $1785$
 </code></pre>
 </div>
@@ -7495,7 +7495,7 @@ $123456, \ 654321$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Smallest $= 123456$
-
+<emptyline>
 Largest $= 654321$
 </code></pre>
 </div>
@@ -7765,7 +7765,7 @@ $- 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 6 + 7 - 9 + 3 - 12 - 2 \\\\
@@ -7829,7 +7829,7 @@ $39$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 9 + 11 \times 3 - 12 \div 4 \\\\
@@ -8058,9 +8058,9 @@ $((9 \times 5) \div (2 + 1))$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$(9 \times 5) \div (2 + 1) = 15$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= (9 \times 5) \div (2 + 1) \\\\
@@ -8121,9 +8121,9 @@ $((3 \times  7) - (6 \times (4 - 3)))$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$(3 \times  7) - (6 \times (4 - 3)) = 15$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= (3 \times 7 ) - (6 \times  (4 - 3)) \\\\
@@ -8733,7 +8733,7 @@ $-8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1 - 2 - 3 - 4 \\\\
@@ -8794,7 +8794,7 @@ $5.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 + 3 \div 2 - 1 \\\\
@@ -8856,7 +8856,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 - (3 - (2 - 1)) \\\\
@@ -8928,7 +8928,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>154CF3A5-8DE7-4C0B-BB62-B260198A6014</p>
 </div>
@@ -8942,7 +8942,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9373,7 +9373,7 @@ $-1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 11 + 39 \div 13 - 5 \times 3 \\\\
@@ -9595,7 +9595,7 @@ $63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number be a, so consecutive odd numbers will be a + 2 and a + 4
-
+<emptyline>
 $
 \begin{aligned}
 a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
@@ -9603,15 +9603,15 @@ a                                                           &= \sqrt[3]{9177} \\
 a                                                           &= 21 \, \text{approx.}
 \end{aligned}
 $
-
+<emptyline>
 |    Numbers     |  Product  |
 |----------------|-----------|
 | $17, 19, 21$   |  $6783$   |
 | $19, 21, 23$   |  $9177$   |
 | $21, 23, 25$   |  $12075$  |
-
+<emptyline>
 So the numbers are $= 19 , 21 , 23$
-
+<emptyline>
 Sum of these numbers are $= 19 + 21 + 23 = 63$
 </code></pre>
 </div>
@@ -9788,7 +9788,7 @@ $-1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= -1 + 0 \\\\
@@ -9846,7 +9846,7 @@ $0$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 0 \times 2 \\\\
@@ -9905,7 +9905,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 - 3 \times 0 \\\\
@@ -9965,7 +9965,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 + 0 \div 2 \\\\
@@ -10025,7 +10025,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= -1 \times 3 + 3 \times 2 \\\\
@@ -10086,7 +10086,7 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 - 5 \div 5 + 5 \\\\
@@ -10149,7 +10149,7 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 - (3 - 3 \times 3) \\\\
@@ -10212,7 +10212,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 12 \div 4 \div 3 \times 2 \\\\
@@ -10276,7 +10276,7 @@ $-\dfrac{1} {6}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1 \div 2 - 4 \div 6 \\\\
@@ -11032,7 +11032,7 @@ $-3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -11091,7 +11091,7 @@ $0$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas, 
-
+<emptyline>
 $
 \begin{aligned}
 &= 0 \times 4 \\\\
@@ -11150,7 +11150,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 - 3 \times 0 \\\\
@@ -11210,7 +11210,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 + 0 \div 4 \\\\
@@ -11271,7 +11271,7 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= -1 \times 4 + 3 \times 5 \\\\
@@ -11333,7 +11333,7 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 7 - 7 \div 7 + 7 \\\\
@@ -11562,9 +11562,9 @@ $(9 \times 5) \div (2 + 1)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$(9 \times 5) \div (2 + 1) = 15$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= (9 \times 5) \div (2 + 1) \\\\
@@ -11625,9 +11625,9 @@ $(3 \times (7 - 6) \times 4) + 3 = 15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$(3 \times  7) - (6 \times (4 - 3)) = 15$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= (3 \times 7 ) - (6 \times  (4 - 3)) \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-notstarted"
 title: "TopicPaper - Order - 2 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -130,7 +130,7 @@ $9,\: \: \: 16,\: \: \: 25,\: \: \: 27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare we can convert all numbers into integers.
-
+<emptyline>
 $
 \begin{aligned}
 &=5^2,\: \: \: 3^2,\: \: \: 3^3,\: \: \: 2^4 \\\\
@@ -138,9 +138,9 @@ $
 &= 25,\: \: \: 9,\: \: \: 27,\: \: \: 16 
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 9,\: \: \: 16,\: \: \: 25,\: \: \: 27
@@ -1424,9 +1424,9 @@ $1.023, \quad 1.032, \quad 1.2, \quad 1.203, \quad 1.23, \quad 1.302, \quad 1.32
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages.
-
+<emptyline>
 In this case, all are in decimals. Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1.23 \quad 1.023 \quad 1.203 \quad 1.032 \quad 1.2 \quad 1.32 \quad 1.302 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-18-notstarted"
 title: "TopicPaper - Algebra - 18 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -1847,17 +1847,17 @@ $15 \text{rounds}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved using ratios.
-
+<emptyline>
 $
 \begin{aligned}
 1 \text{round} : \dfrac {1} {4} \text{mile} \\\\
 1 \text{round} : 0.25 \text{miles} \\\\
 1 \times 15 \text{rounds} : 0.25 \times 15 \text{miles} \\\\
 15 \text{rounds} : 3.75 \text{miles}
-
+<emptyline>
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2481,7 +2481,7 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved using ratios.
-
+<emptyline>
 $
 \begin{aligned}
 17 \text{people} : 1 \text{minibus} \\\\
@@ -2489,7 +2489,7 @@ $
 289 \text{people} : 17 \text{minibuses}
 \end{aligned}
 $
-
+<emptyline>
 Buses required to carry $300$ people = $17 + 1 = 18$
 </code></pre>
 </div>
@@ -2601,15 +2601,15 @@ $80m + 15t$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Cost per $1$ minibus = $\pounds 80$
-
+<emptyline>
 Cost per 'm' minibuses = $\pounds 80 \times m = 80m$
-
+<emptyline>
 Cost per $1$ ticket = $\pounds 15$
-
+<emptyline>
 Cost per 't' tickets = $\pounds 15 \times t = 15t$
-
+<emptyline>
 Total cost C = $80m + 15t$
 </code></pre>
 </div>

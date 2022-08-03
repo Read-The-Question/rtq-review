@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-pr-prccrl"
 title: "TopicPaper - Number - 17 - PR - PRCCRL"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -182,7 +182,7 @@ $37 \\\\ 21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Number IN $= 10$
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times 4 - 3 \\\\
@@ -190,11 +190,11 @@ $
 &= 37
 \end{aligned}
 $
-
+<emptyline>
 Number OUT $= 81$
-
+<emptyline>
 Let input number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a - 3 &= 81 \\\\
@@ -321,31 +321,31 @@ $\text{Multipy by}\ 7 \ \text{then add}\ 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the rule $= \text{Multiply by}\ a \ \text{then add}\ b$
-
+<emptyline>
 Input $= 2$
-
+<emptyline>
 Output $= 17$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + b &= 17 \\\\
 2a + b &= 17
 \end{aligned}
 $
-
+<emptyline>
 Input $= 7$
-
+<emptyline>
 Output $= 52$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 7 + b &= 52 \\\\
 7a + b &= 52
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for $a$
-
+<emptyline>
 $
 \begin{aligned}
 7a + b &= 52 \\\\
@@ -356,9 +356,9 @@ a &= \dfrac{35}{5} \\\\
 a &= 7
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for $b$
-
+<emptyline>
 $
 \begin{aligned}
 2a + b &= 17 \\\\
@@ -368,9 +368,9 @@ b &= 17 - 14 \\\\
 b &= 3 \\\
 \end{aligned}
 $
-
+<emptyline>
 Lets verify,
-
+<emptyline>
 $
 \begin{aligned}
 &= 9 \times 7 + 3 \\\\
@@ -378,7 +378,7 @@ $
 &= \green {66} = 66 \\\
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times 7 + 3 \\\\
@@ -386,7 +386,7 @@ $
 &= \green {73} = 73 \\\
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the rule $= \text{Multipy by}\ 7 \ \text{then add}\ 3$
 </code></pre>
 </div>

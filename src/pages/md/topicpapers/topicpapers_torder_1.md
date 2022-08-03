@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-1"
 title: "TopicPaper - Order - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -143,9 +143,9 @@ $65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4}, \quad 65\%,  \quad \dfrac{14}{20} \\\\
@@ -153,9 +153,9 @@ $
 &= \dfrac{75}{100}, \quad \dfrac{65}{100},  \quad \dfrac{70}{100}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{65}{100}< \quad \dfrac{70}{100}<  \quad \dfrac{75}{100} \\\\
@@ -449,7 +449,7 @@ $15\%$ of $\pounds 300\  \quad <  \quad  20\%$ of $\pounds 240$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
-
+<emptyline>
 $
 \begin{aligned}
 &= 15\% \text{of} \pounds 300 \\\\
@@ -460,9 +460,9 @@ $
 &= \pounds 45
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the second value.
-
+<emptyline>
 $
 \begin{aligned}
 &= 20\% \text{of} \pounds 240 \\\\
@@ -473,9 +473,9 @@ $
 &= \pounds 48
 \end{aligned}
 $
-
+<emptyline>
 Using the calculation above,
-
+<emptyline>
 $15\%$ of $\pounds 300\  \quad \boxed{\rtq_katex_color_answer{<}}  \quad  20\%$ of $\pounds 240$
 </code></pre>
 </div>
@@ -549,7 +549,7 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {2} {5} \text{ of } \pounds 40 \\\\
@@ -560,9 +560,9 @@ $
 &= \pounds 16
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the second value.
-
+<emptyline>
 $
 \begin{aligned}
 &= 25\% \text{ of } \pounds 64 \\\\
@@ -573,9 +573,9 @@ $
 &= \pounds 16
 \end{aligned}
 $
-
+<emptyline>
 Using the calculation above,
-
+<emptyline>
 $\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\rtq_katex_color_answer{=}}  \quad 25\%$ of $\pounds 64$
 </code></pre>
 </div>
@@ -891,7 +891,7 @@ $0.44$
 &= 0.09 \quad     0.39 \quad    0.44 \quad     0.4 \\\
 \end{aligned}
 $
-
+<emptyline>
 $0.09 \quad     39\% \quad    \boxed{\rtq_katex_color_answer{0.44}} \quad     \dfrac{2}{5}$
 </code></pre>
 </div>
@@ -1083,9 +1083,9 @@ $\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $5, 18, 10, 20 = 180$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {9} {10} \quad\dfrac {14} {20} \\\\
@@ -1093,9 +1093,9 @@ $
 &= \dfrac {108} {180}, \quad \dfrac {120} {180}, \quad \dfrac{162} {180} \quad\dfrac {126} {180}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {108} {180}, \quad \dfrac {120} {180}, \quad  \dfrac {126} {180}, \quad \dfrac {162} {180} \\\\
@@ -1403,7 +1403,7 @@ $\dfrac{1}{8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>These are all unit fractions. The smallest unit fraction is the one which has the biggest denominator.
-
+<emptyline>
 $\dfrac{1}{5} \quad \dfrac{1}{6} \quad \dfrac{1}{7} \quad  \boxed{\rtq_katex_color_answer{\dfrac{1}{8}}}$
 </code></pre>
 </div>
@@ -1656,7 +1656,7 @@ $20 \%$ of $\pounds 75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate both the values.
-
+<emptyline>
 $
 \begin {aligned}
 \text {First amount}     &= 25 \% \ \text{of} \ \pounds 64 \\\\
@@ -1673,7 +1673,7 @@ $
                          &= \pounds 15
 \end {aligned}
 $
-
+<emptyline>
 From the calculation above, $20 \%$ of $\pounds 75$ is cheaper.
 </code></pre>
 </div>
@@ -1862,16 +1862,16 @@ $\dfrac {5} {6}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{2}{3}, \quad \dfrac{3}{4}, \quad  \dfrac{3}{5}, \quad  \dfrac{5}{6} \\\\
 &= 0.66, \quad 0.75, \quad 0.6, \quad 0.83
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.6, \quad  0.66, \quad 0.75, \quad   0.83 \\\\
@@ -2066,25 +2066,25 @@ $\dfrac{6}{8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8} \\\\
 &= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &=0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8}
 \end{aligned}
 $
-
+<emptyline>
 therefore $\dfrac{6}{8}$ is the largest fraction.
 </code></pre>
 </div>
@@ -2440,9 +2440,9 @@ $3.55, \quad 5.35, \quad 5.53, \quad 35.5, \quad 53.5, \quad 55.3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$3.55, \quad 53.5, \quad 35.5, \quad 5.35, \quad 55.3, \quad 5.53$
-
+<emptyline>
 Let's put them in ascending order now,
-
+<emptyline>
 $3.55 < \quad 5.35 < \quad 5.53 < \quad 35.5 < \quad 53.5 < \quad 55.3$
 </code></pre>
 </div>
@@ -3797,18 +3797,18 @@ $\dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 In this case, there are more fractions than percentages and decimals, so let's convert all the numbers into fractions.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {5} {6}, \quad 0.5, \quad \dfrac {5} {12}, \quad 75 \%, \quad \dfrac {1} {3} \\\\
 &= \dfrac {5} {6}, \quad \dfrac {5} {10}, \quad \dfrac {5} {12}, \quad \dfrac {75} {100}, \quad \dfrac {1} {3}
 \end{aligned}
 $
-
+<emptyline>
 LCM of $6, \ 10, \ 12, \ 100, \ 3 = 300$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {5} {6}, \quad \dfrac {5} {10}, \quad \dfrac {5} {12}, \quad \dfrac {75} {100}, \quad \dfrac {1} {3} \\\\
@@ -3816,9 +3816,9 @@ $
 &= \dfrac {250} {300} , \quad \dfrac {150} {300}, \quad \dfrac {125} {300}, \quad \dfrac {225} {300}, \quad \dfrac {100} {300}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {100} {300} , \quad \dfrac {125} {300}, \quad \dfrac {150} {300}, \quad \dfrac {225} {300}, \quad \dfrac {250} {300} \\\\
@@ -4615,9 +4615,9 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $3, 6, 12 = 12$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {2} {3}, \quad \dfrac {5} {6}, \quad \dfrac {7} {12} \\\\
@@ -4625,9 +4625,9 @@ $
 &= \dfrac {8} {12}, \quad \dfrac {10} {12}, \quad \dfrac {7} {12}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {7} {12}, \quad \dfrac {8} {12}, \quad \dfrac {10} {12} \\\\
@@ -4828,9 +4828,9 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $3, 6, 12 = 12$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {2} {3}, \quad \dfrac {5} {6}, \quad \dfrac {7} {12} \\\\
@@ -4838,9 +4838,9 @@ $
 &= \dfrac {8} {12}, \quad \dfrac {10} {12}, \quad \dfrac {7} {12}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {7} {12}, \quad \dfrac {8} {12}, \quad \dfrac {10} {12} \\\\
@@ -5226,9 +5226,9 @@ $0.7, \quad 0.77, \quad 7.07, \quad 7.7$
 &= 0.77, \quad 0.70, \quad 7.70, \quad 7.07
 \end {aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin {aligned}
 &= 0.70 < \quad 0.77 < \quad 7.07 < \quad 7.70 \\\\
@@ -5581,7 +5581,7 @@ $\text {DOG}, \quad \text {BIRD}, \quad \text {FISH}, \quad \text {CATS}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, let's find the sum first. 
-
+<emptyline>
 $
 \begin{aligned}
 \text {DOG}     &= 4 + 15 + 7 \\\\
@@ -5594,9 +5594,9 @@ $
                 &= 33
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 26, \quad 33, \quad 42, \quad 43 \\\\
@@ -5664,9 +5664,9 @@ $\text {E}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the division $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a   &= \text {JET} \div \text {BAD} \\\\
@@ -5678,7 +5678,7 @@ a   &= \text {JET} \div \text {BAD} \\\\
     &= 5
 \end{aligned}
 $
-
+<emptyline>
 The letter is $\text {E}$
 </code></pre>
 </div>
@@ -5949,9 +5949,9 @@ $\dfrac {8} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $4, 6, 9, 3 = 36$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {4}, \quad \dfrac {5} {6}, \quad \dfrac {8} {9}, \quad \dfrac {2}{3} \\\\
@@ -5959,7 +5959,7 @@ $
 &= \dfrac {27} {36}, \quad \dfrac{30} {36}, \quad \dfrac {32} {36}, \quad \dfrac {24} {36}
 \end{aligned}
 $
-
+<emptyline>
 $\dfrac {32} {36} = \dfrac {8} {9}$ is the biggest.
 </code></pre>
 </div>
@@ -6029,7 +6029,7 @@ $\dfrac {1} {3} \ \text {of} \ 17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, let's convert all the numbers to fractions. 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {4} \ \text {of} \ 21, \quad 50 \% \ \text {of} \ 11,  \quad \dfrac {1} {3} \ \text {of} \ 17 \\\\
@@ -6038,11 +6038,11 @@ $
 &= \dfrac {21} {4}, \quad \dfrac {11} {2},  \quad \dfrac {17} {3}
 \end{aligned}
 $
-
+<emptyline>
 Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $2, 4, 3 = 12$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {21} {4}, \quad \dfrac {11} {2}, \quad \dfrac {17} {3} \\\\
@@ -6050,7 +6050,7 @@ $
 &= \dfrac {63} {12}, \quad \dfrac {66} {12}, \quad \dfrac {68} {12}
 \end{aligned}
 $
-
+<emptyline>
 $\dfrac {68} {12} = \dfrac {17} {3} = \dfrac {1} {3} \ \text {of} \ 17$ is the biggest.
 </code></pre>
 </div>
@@ -6237,7 +6237,7 @@ $42 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, let's convert all the units to $\text {cm}$. 
-
+<emptyline>
 $
 \begin{aligned}
 &= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
@@ -6245,9 +6245,9 @@ $
 &= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 14.7 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 The longest length $= 42 \ \text{cm}$.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6429,7 +6429,7 @@ $42 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, let's convert all the units to $\text{cm}$. 
-
+<emptyline>
 $
 \begin{aligned}
 &= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
@@ -6437,7 +6437,7 @@ $
 &= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 14.7 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 The longest length $= 42 \ \text{cm}$.
 </code></pre>
 </div>
@@ -6620,7 +6620,7 @@ $52 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, let's can convert all the units to $\text {cm}$. 
-
+<emptyline>
 $
 \begin{aligned}
 &= 157 \ \text{mm}, \quad 52 \ \text{cm}, \quad 0.451 \ \text{m}, \quad 43 \ \text{cm}, \quad 0.5  \ \text{m} \\\\
@@ -6628,7 +6628,7 @@ $
 &= 15.7 \ \text{cm}, \quad 52 \ \text{cm}, \quad 45.1 \ \text{cm}, \quad 43 \ \text{cm}, \quad 50  \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 The longest length $= 52 \ \text{cm}$.
 </code></pre>
 </div>
@@ -6985,9 +6985,9 @@ $\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $2, 4, 8 = 8$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {2}, \quad \dfrac {1} {4}, \quad \dfrac {1} {8}, \quad \dfrac {3} {4}, \quad \dfrac {3} {8} \\\\
@@ -6995,9 +6995,9 @@ $
 &= \dfrac {4} {8}, \quad \dfrac {2} {8}, \quad \dfrac {1} {8}, \quad \dfrac {6} {8}, \quad \dfrac {3} {8}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {6} {8}, \quad \dfrac {4} {8}, \quad \dfrac {3} {8}, \quad \dfrac {2} {8}, \quad \dfrac {1} {8} \\\\
@@ -7189,7 +7189,7 @@ $\dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {10}, \quad \dfrac {1} {5}, \quad \dfrac {3} {2}, \quad \dfrac {1} {20}, \quad \dfrac {1} {4} \\\\
@@ -7197,9 +7197,9 @@ $
 &= \dfrac {6} {20}, \quad \dfrac {4} {20}, \quad \dfrac {30} {20}, \quad \dfrac {1} {20}, \quad \dfrac {5} {20}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {20}, \quad \dfrac {4} {20}, \quad \dfrac {5} {20}, \quad \dfrac {6} {20}, \quad \dfrac {30} {20} \\\\
@@ -7394,9 +7394,9 @@ $\dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals, or percentage.
-
+<emptyline>
 In this case, converting in percentages will be more convenient.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {3}, \quad 0.305, \quad 35 \%, \quad \dfrac {3} {10} \\\\
@@ -7405,9 +7405,9 @@ $
 &= 33.33 \%, \quad 30.5 \%, \quad 35 \%, \quad 30 \%
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 30 \%, \quad 30.5 \%, \quad 33.33 \%, \quad 35 \% \\\\
@@ -7653,9 +7653,9 @@ $\dfrac {7} {10}$
 \dfrac {7} {10}     &= \dfrac {7} {10}
 \end{aligned}
 $
-
+<emptyline>
 Using this we get,
-
+<emptyline>
 $\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \rtq_katex_color_answer {\dfrac {7} {10}} }$
 </code></pre>
 </div>
@@ -7712,7 +7712,7 @@ $\dfrac {1} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, let's make the denominator of all the fractions equal. 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {4}, \qquad \dfrac {1} {5}, \qquad \dfrac {5} {16}, \qquad \dfrac {1} {3} \\\\
@@ -7720,7 +7720,7 @@ $
 &= \dfrac {60} {240}, \qquad \dfrac {48} {240}, \qquad \dfrac {75} {240}, \qquad \dfrac {80} {240}
 \end{aligned}
 $
-
+<emptyline>
 The smallest fraction $= \dfrac {48} {240} = \dfrac {1} {5}$.
 </code></pre>
 </div>
@@ -7777,7 +7777,7 @@ $\dfrac {7} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, let's make the denominator of all the fractions equal. 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {2} {3}, \qquad \dfrac {7} {9}, \qquad \dfrac {17} {27}, \qquad \dfrac {1} {2} \\\\
@@ -7785,7 +7785,7 @@ $
 &= \dfrac {36} {54}, \qquad \dfrac {42} {54}, \qquad \dfrac {34} {54}, \qquad \dfrac {27} {54}
 \end{aligned}
 $
-
+<emptyline>
 The largest fraction $= \dfrac {42} {54} = \dfrac {7} {9}$.
 </code></pre>
 </div>
@@ -8179,7 +8179,7 @@ $\dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If two or more fraction has common numerator then fraction with larger denominator is the smallest.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {2} , \quad \dfrac {3} {5} , \quad \dfrac{4} {7} , \quad \dfrac {5} {9} \\\\
@@ -8187,27 +8187,27 @@ $
 &= \dfrac {60} {120} , \quad \dfrac {60} {100} , \quad \dfrac {60} {105} , \quad \dfrac {60} {108}
 \end{aligned}
 $
-
+<emptyline>
 Let's arrange them in increasing order of size.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {60} {120}< \quad \dfrac {60} {108}< \quad \dfrac {60}{105}< \quad \dfrac {60} {100} \\\\
 &= \dfrac {1} {2}< \quad \dfrac {5} {9}< \quad \dfrac {4} {7}< \quad \dfrac {3} {5}
 \end{aligned}
 $
-
+<emptyline>
 The smallest fraction is $= \dfrac {1} {2}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternative Solution
-
+<emptyline>
 Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $2, 5, 7, 9 = 630$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {2} , \quad \dfrac {3} {5} , \quad \dfrac{4} {7} , \quad \dfrac {5} {9} \\\\
@@ -8215,16 +8215,16 @@ $
 &= \dfrac {315} {630} , \quad \dfrac {378} {630} , \quad \dfrac {360} {630} , \quad \dfrac {350} {630}
 \end{aligned}
 $
-
+<emptyline>
 Let's arrange them in increasing order of size.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {315} {630}< \quad \dfrac {350} {630}< \quad \dfrac {360} {630}< \quad \dfrac {378} {630} \\\\
 &= \dfrac {1} {2}< \quad \dfrac {5} {9}< \quad \dfrac {4} {7}< \quad \dfrac {3} {5}
 \end{aligned}
 $
-
+<emptyline>
 The smallest fraction is $= \dfrac {1} {2}$
 </code></pre>
 </div>
@@ -8504,7 +8504,7 @@ $\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} 
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {2},  \quad \dfrac {2} {3},  \quad \dfrac {2} {5},  \quad \dfrac {3} {4} \\\\
@@ -8512,9 +8512,9 @@ $
 &= \dfrac {30} {60},  \quad \dfrac {40} {60},  \quad \dfrac {24} {60},  \quad \dfrac {45} {60}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {24} {60},  \quad \dfrac {30} {60},  \quad \dfrac {40} {60},  \quad \dfrac {45} {60} \\\\
@@ -9441,16 +9441,16 @@ $1 \ \text{m} \ 6 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1423 \ \text{mm}, 
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the units the same for all the numbers, so we can compare them.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1 \ \text{m} \ 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm} \\\\
 &= 143 \ \text {cm}, \quad 140 \ \text {cm}, \quad  106  \ \text {cm}, \quad  142.3  \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 106 \ \text {cm}, \quad 140 \ \text {cm}, \quad  142.3  \ \text {cm}, \quad  143  \ \text {cm} \\\\
@@ -10000,9 +10000,9 @@ $\dfrac {19} {28}, \quad \dfrac {5} {7}, \quad \dfrac {27} {35}, \quad \dfrac {9
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM for $7, 28, 35, 14 = 140$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {5} {7}, \quad \dfrac {19} {28}, \quad \dfrac {27} {35}, \quad \dfrac {9} {14} \\\\
@@ -10010,9 +10010,9 @@ $
 &= \dfrac {100} {140}, \quad \dfrac {95} {140}, \quad \dfrac {108} {140}, \quad \dfrac {126} {140}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {95} {140}, \quad \dfrac {100} {140}, \quad \dfrac {108} {140}, \quad \dfrac {126} {140} \\\\

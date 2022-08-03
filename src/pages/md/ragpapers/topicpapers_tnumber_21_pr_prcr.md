@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-pr-prcr"
 title: "TopicPaper - Number - 21 - PR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -297,9 +297,9 @@ $42008 \\\\ 957992$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The number $= 42008$
-
+<emptyline>
 $1000000 - 42008 = 957992$
-
+<emptyline>
 This number is $957992$ less than one million.
 </code></pre>
 </div>

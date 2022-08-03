@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-g0"
 title: "TopicPaper - Simpleword - 6 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -519,7 +519,7 @@ $
 & = 34 \ \text {passengers}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -701,7 +701,7 @@ $23$
                                         & = 23
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -921,7 +921,7 @@ $42 \ \text {years}$
                            & = 42 \ \text {years}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -976,7 +976,7 @@ $2523 \ \text{feet}$
                          &= 2523 \ \text{feet}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1157,15 +1157,15 @@ $24 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved by finding the LCM of $8$ and $6$
-
+<emptyline>
 Let's first find LCM for $8$ and $6$ by listing multiples. The smallest number that is a multiple of two numbers is the LCM
-
+<emptyline>
 Multiple of $8 = 8, 16, 24, 32, 40, \ldots$
-
+<emptyline>
 Multiple of $6 = 6, 12, 18, 24, 30, \ldots$
-
+<emptyline>
 The LCM of $8$ and $6$ is the smallest number that is a multiple of both numbers $=24$.
-
+<emptyline>
 The shortest length that this rope could be $= 24 \ \text{cm}$
 </code></pre>
 </div>
@@ -1342,7 +1342,7 @@ $\pounds 46200$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total earning} &= 23450 + 23450 - 700 \\\\
@@ -1524,7 +1524,7 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total Boxes} &= \dfrac {75} {4} \\\\
@@ -2366,7 +2366,7 @@ $
 &= 76
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

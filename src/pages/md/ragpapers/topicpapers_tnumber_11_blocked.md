@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-blocked"
 title: "TopicPaper - Number - 11 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>72BEEC51-1902-4C41-BF4A-69B97ED5D4A7</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -358,7 +358,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_lcm_note
-
+<emptyline>
 LCM of $2$, $3$ and $4 = 12$.
 </code></pre>
 </div>
@@ -514,15 +514,15 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first list down other percentages between $75\%$ and $80\%$ and then convert the same into decimal.
-
+<emptyline>
 $
 \begin{aligned}
 &= 75 \%, \quad \underline{76\%}, \quad \underline{77\%}, \quad \underline{78\%}, \quad \underline{79\%}, \quad 80\%
 \end{aligned}
 $
-
+<emptyline>
 Let's convert 76\% into decimal.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {76} {100}\\\\

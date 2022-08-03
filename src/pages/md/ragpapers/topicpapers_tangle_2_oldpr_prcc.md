@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-oldpr-prcc"
 title: "TopicPaper - Angle - 2 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "7"
 <p>kent-college--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -171,11 +171,11 @@ $46 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know, the sum of a right angle is $90 \degree$.
-
+<emptyline>
 Let the missing angle $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 a + 44 	               			&= 90 \\\\
@@ -183,7 +183,7 @@ a                              	&= 90 - 44 \\\\
 a                              	&= 46 \degree
 \end {aligned}
 $
-
+<emptyline>
 Missing angle $= 46 \degree$
 </code></pre>
 </div>
@@ -245,11 +245,11 @@ $65 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the missing angle $= b$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 b + 48 + 67    		&= 180 \\\\
@@ -258,7 +258,7 @@ b              		&= 180 - 115 \\\\
 b              		&= 65 \degree
 \end {aligned}
 $
-
+<emptyline>
 Missing angle $= 65 \degree$
 </code></pre>
 </div>
@@ -316,9 +316,9 @@ $60 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 d + 140 + 160 		&= 360 \\\\
@@ -407,10 +407,10 @@ Line 3 : We know, the sum of a right angle is 90°.
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:13</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -564,9 +564,9 @@ $84 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 76 + 87 + 113 						  &= 360 \\\\
@@ -632,9 +632,9 @@ $118 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_quadrilateral
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 b + 101 + 74 + 67 						  &= 360 \\\\
@@ -700,9 +700,9 @@ $57 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 c + 69 + 54  				 &= 180 \\\\
@@ -768,9 +768,9 @@ $79 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 d + 63 + 38  				 &= 180 \\\\
@@ -838,11 +838,11 @@ $38 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram, the triangle is an isosceles triangle. 
-
+<emptyline>
 We know that angles opposite the equal side are always equal.
-
+<emptyline>
 $
 \begin{aligned}
 e + (2 \times 71)    &= 180 \\\\
@@ -927,10 +927,10 @@ Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. 
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:1:7</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1046,9 +1046,9 @@ $75 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4x  + 5x + 45                    &= 180 \\\\
@@ -1136,10 +1136,10 @@ Write the line sum of angle = 180 .. search the line from website....wording req
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:14</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1308,11 +1308,11 @@ $30 \degree , 110 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 80 + 70  &= 180 \\\\
@@ -1321,11 +1321,11 @@ a            &= 180 - 150 \\\\
 a            &= 30 \degree
 \end {aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $b$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 b + 70  &= 180 \\\\
@@ -1387,9 +1387,9 @@ $105 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 c + 75  &= 180 \\\\
@@ -1533,10 +1533,10 @@ In blue answer
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:10</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1668,11 +1668,11 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 y + 84 + 52                     &= 180 \\\\
@@ -1681,9 +1681,9 @@ y                               &= 180 - 136 \\\\
 y                               &= 44 \degree
 \end {aligned}
 $
-
+<emptyline>
 Let's use the value of $y$ to find $x$.
-
+<emptyline>
 $
 \begin {aligned}
 x + y                   &= 180 \\\\
@@ -1786,10 +1786,10 @@ y =44°
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1916,13 +1916,13 @@ $190 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>*TODO:: Problem statement should be corrected, sum of angles instead of difference.*
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_quadrilateral
-
+<emptyline>
 Let the sum of other two angles be $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s + 95 + 75 &= 360 \\\\
@@ -1931,7 +1931,7 @@ s           &= 360 - 170 \\\\
 s           &= 190 \degree
 \end{aligned}
 $
-
+<emptyline>
 Sum of the other two angles $= 190 \degree$
 </code></pre>
 </div>
@@ -2006,10 +2006,10 @@ CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:27</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -2161,7 +2161,7 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x - 1 &= 4 \\\\
@@ -2231,9 +2231,9 @@ $30 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 y + 2y + 3y &= 180 \degree \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-17-notstarted"
 title: "TopicPaper - Algebra - 17 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -1581,13 +1581,13 @@ $50p$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total apples = $60$
-
+<emptyline>
 Bad apples = $\dfrac {1}{10}$ of total apples. 
-
+<emptyline>
 Let's find how many bad apples are there.
-
+<emptyline>
 No. of bad apples is:  
-
+<emptyline>
 $
 \begin{aligned}
 &= 60 \times \dfrac {1}{10}  \\\\
@@ -1596,47 +1596,47 @@ $
 &= {6} \text{ apples}\\
 \end{aligned}
 $
-
+<emptyline>
 There are $6$ bad apples.
-
+<emptyline>
 
 Let's find number of good apples
-
+<emptyline>
 $
 \begin{aligned}
 &= 60 - 6 \\
 &= 54  \text{ apples}\\
 \end{aligned}
 $
-
+<emptyline>
 There are $54$ good apples.
-
+<emptyline>
 Now let's figure out the selling price.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Cost price $= \pounds 12$
 Profit     $= \pounds 15$
-
+<emptyline>
 Selling price - Cost Price = Profit
-
+<emptyline>
 $\quad \text {or,}$
-
+<emptyline>
 Selling price = Profit + Cost price
-
+<emptyline>
 $
 \begin{aligned} 
 &= 15 + 12 \\
 &= \pounds 27\\  
 \end{aligned}
 $
-
+<emptyline>
 He sold $54$ good apples, earned $\pounds 27$ and spend $\pounds 12$ to buy it.
-
+<emptyline>
 Let's calculate the selling price of each apple.
-
+<emptyline>
 $\text{Selling price of good apples} = \dfrac {\text{money earned}} {\text{no. of apples sold}}$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {27}{54}\\\\
@@ -1644,11 +1644,11 @@ $
 &= \dfrac {\pounds 1}{2\ \text  {apples}}
 \end{aligned}
 $
-
+<emptyline>
 For $\pounds 1$ he sells $2$ apples.
-
+<emptyline>
 So his selling price for $1$ apples is $50$ pence. 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1874,26 +1874,26 @@ $72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 original no. = a number between $11$ and $99$ ($2$ digits)
-
+<emptyline>
 original no.  $>$ new number
-
+<emptyline>
 the original no., the new number and $\dfrac {1}{3}$
 are all multiples of $3$
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Trial and error method
-
+<emptyline>
 $12$ is the smallest $2$ digit number which is a multiple of $3$
-
+<emptyline>
 certain combinations can be ruled out as the reverse is not near to $\dfrac {1}{3}$ of the original number
-
+<emptyline>
 possible combinations:
-
+<emptyline>
 $
 \begin{aligned}
 \quad \cancel{12-21}, \ 15-51, \ \cancel{18-81},\\\\ 
@@ -1901,51 +1901,51 @@ $
 \cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}
 \end{aligned}
 $
-
+<emptyline>
 Let's try combination $1$ : $15$ and $51$ 
-
+<emptyline>
 original number = $51$
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {51}{3}  &= 17\\
 17 + 3          &= 20 \text{ (wrong)}\\
 \end{aligned}
 $
-
+<emptyline>
 Let's try combination $2$ : $27$ and $72$ 
-
+<emptyline>
 original number = $72$
 So reverse no. is,
-
+<emptyline>
 $
 \begin{aligned}
 &=\dfrac {72}{3}+3\\
 &= 27\\
 \end{aligned}
 $
-
+<emptyline>
 $27$ and 472$ is the right combination. So $72$ is the original number.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the two digit number be $xy$
-
+<emptyline>
 $x$ in the tenth place and $y$ in the unit place.
-
+<emptyline>
 The original no. $= 10x + y$
-
+<emptyline>
 The swapped no.  $= 10y + x$
-
+<emptyline>
 As per the question, the new number is $3$ more than $\dfrac {1}{3}$ of the original number. 
-
+<emptyline>
 The swapped no. $= 3 + \dfrac {(10y + x)}{3}$
-
+<emptyline>
 i.e.  $= 10y + x = 3 + \dfrac {(10y + x)}{3}$
-
+<emptyline>
 Let's solve
-
+<emptyline>
 $
 \begin{aligned}
 3 + \dfrac{(10x + y)}{3} &= 10y + x \\\\
@@ -1957,12 +1957,12 @@ $
                  7x -29y &= -9 \\
 \end{aligned}
 $
-
+<emptyline>
 
 The values $x$ and $y$ are between $0$ to $9$
-
+<emptyline>
 On substituting the only possibility that matches
-
+<emptyline>
 $
 \begin{aligned}
  x &= 7 \\
@@ -2183,9 +2183,9 @@ $3 \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 To find out the height of the plant after five months, we should know the height of plant at the end of first, second, third and fourth month.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Height of the plant at the end of the first month}       &= 1 \ \text {m} \\\\
@@ -2223,7 +2223,7 @@ $
                                                                 &= 3 \ \text {m}
 \end {aligned}
 $
-
+<emptyline>
 The plant will be $3 \ \text {m}$ tall after five months.
 </code></pre>
 </div>
@@ -2355,16 +2355,16 @@ $4 \ \text {m}$
         &= 6 \ \text {metres}
 \end{aligned}
 $
-
+<emptyline>
 Total growth from end of first months to end of fifth month
-
+<emptyline>
 $
 \begin{aligned}
 &= 6 \ \text {m} - 2 \text {m} \\
 &= 4 \ \text {m}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2588,7 +2588,7 @@ W &= 3 \times 0.5 \times 0.5 \times 2 \\
   &= 1.5 \text {g}\\
 \end {aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -2652,9 +2652,9 @@ $
                 4 &= D
 \end {aligned}
 $
-
+<emptyline>
 Density of the forearm is $5$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2724,9 +2724,9 @@ $
                  3 &= R
 \end {aligned}
 $
-
+<emptyline>
 Radius of a thigh bone is $3 \text {cm}$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -2945,7 +2945,7 @@ $
 &= 101 \\
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3459,11 +3459,11 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing digits = $a , b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $a34 + b97 = 631$
-
+<emptyline>
 $
 \begin{array}
     &   a       &   3   &   4 \\
@@ -3472,11 +3472,11 @@ $
     & (a+b+1)   &   3   &   1
 \end{array}
 $
-
+<emptyline>
 Comparing the digits, $a + b + 1 = 6$
 $a + b = 6 - 1$
 $a + b = 5$
-
+<emptyline>
 The set of digits $a ,b$ can be = $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 </code></pre>
 </div>
@@ -3669,9 +3669,9 @@ $\text{The missing numbers are :} 39, 187, 112, 10, 112$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 17 + a                  &= 56 \\\\
@@ -3679,9 +3679,9 @@ a                       &= 56 - 17 \\\\
 a                       &= 39
 \end{aligned}
 $
-
+<emptyline>
 Let the missing number $=b$
-
+<emptyline>
 $
 \begin{aligned}
 131 - b                 &= 56 \\\\
@@ -3689,11 +3689,11 @@ b                       &= 131 - 56 \\\\
 b                       &= 75
 \end{aligned}
 $
-
+<emptyline>
 Let the missing number $=c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 50 \% \ \text{of} \ c                                   &= 56 \\\\
@@ -3705,11 +3705,11 @@ c                                                       &= 56 \times 2 \\\\
 c                                                       &= 112
 \end{aligned}
 $
-
+<emptyline>
 Let the missing number $=d$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 560 \div d              &= 56 \\\\
@@ -3719,11 +3719,11 @@ d                       &= \dfrac {\cancel {56} \times 10} {\cancel {56}}  \\\\
 d                       &= 10
 \end{aligned}
 $
-
+<emptyline>
 Let the missing number $=e$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {2} \times e                                 &= 56 \\\\
@@ -3932,15 +3932,15 @@ $64 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the distance from B to C $= d \ \text{cm}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Distance from A to B $= 4d \ \text{cm}$
-
+<emptyline>
 Total distance, A to C $= 80 \ \text{cm}$
-
+<emptyline>
 AB + BC = AC
-
+<emptyline>
 $
 \begin{aligned}
 4d + d                                  &= 80 \ \text{cm} \\\\
@@ -3951,9 +3951,9 @@ d                                       &= \dfrac {\cancel {5} \times 16} {\canc
 d                                       &= 16 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Distance B to C $= 16 \ \text{cm}$
-
+<emptyline>
 Distance from A to B $= 4d$
 $
 \begin{aligned}
@@ -3961,7 +3961,7 @@ $
 &= 64 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Distance from A to B $= 64 \ \text {cm}$
 </code></pre>
 </div>

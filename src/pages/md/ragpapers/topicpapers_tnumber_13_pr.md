@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-pr"
 title: "TopicPaper - Number - 13 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prccrl question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>268985CE-D916-46A3-B493-68415348A63C</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prccrl</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -99,9 +99,9 @@ Which multiple of $11$ is nearest to $1000$?
 
 $
 \begin{aligned}
-&=11\times9\times10\\\\
-&=99\times10\\\\
-&=990
+&= 11\times13\times7\\\\
+&= 143\times17\\\\
+&= 1001
 \end{aligned}
 $
 
@@ -120,12 +120,12 @@ $990$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=11\times9\times10\\\\
-&=99\times10\\\\
-&=990
+&= 11\times13\times7\\\\
+&= 143\times17\\\\
+&= 1001
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

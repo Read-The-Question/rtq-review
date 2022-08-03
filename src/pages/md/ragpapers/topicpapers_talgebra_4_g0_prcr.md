@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-4-g0-prcr"
 title: "TopicPaper - Algebra - 4 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -134,11 +134,11 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of matches they won $= a$
-
+<emptyline>
 Number of matches they lost $= 3a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -150,7 +150,7 @@ a             &= \dfrac {6 \times \cancel {4}} {\cancel {4}} \\\\
 a             &= 6
 \end{aligned}
 $
-
+<emptyline>
 The number of matches they won $= 6$
 </code></pre>
 </div>
@@ -362,9 +362,9 @@ $84$
                                                 &= 72
 \end{aligned}
 $
-
+<emptyline>
 If One-third of the girls are writing with pen, then the number of girls writing with pencil will be $1 - \dfrac {1} {3} = \dfrac {2} {3}$. Using that we get,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of pupils writing with pencil}   &= \dfrac {3} {4} \times 48 + \dfrac {2} {3} \times 72 \\\\

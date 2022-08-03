@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-4"
 title: "TopicPaper - Simpleword - 4"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -527,9 +527,9 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of weeks $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 ^ a \times 100 &= 100000 \\\\
@@ -538,12 +538,12 @@ $
 2 ^ a            &= 1000
 \end{aligned}
 $
-
+<emptyline>
 | a    |   Value of 2 ^ a |
 |:----:|:----------------:|
 | $9$  |       $512$      |
 | $10$ |       $1024$     |
-
+<emptyline>
 $a = 10$
 </code></pre>
 </div>
@@ -1208,7 +1208,7 @@ $\pounds 20$
                        &= 100
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Worth} &= 100 \times 20 \text{p} \\\\
@@ -1281,7 +1281,7 @@ $268 \ \text{g}$
                        &= 20
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total weight} &= 20 \times 13.4 \ \text{g} \\\\
@@ -1575,9 +1575,9 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of red balls removed $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {49 - b} {50 - b}                                             &= \dfrac {90} {100} \\\\
@@ -1601,11 +1601,11 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternate solution.
-
+<emptyline>
 Let the total number of balls after red balls removed $= a$
-
+<emptyline>
 Number of blue balls,
-
+<emptyline>
 $
 \begin{aligned}
 10 \% \ \text{of} \ a            &= 1 \\\\
@@ -1615,7 +1615,7 @@ a                            &= \dfrac {10 \cancel 0} {1 \cancel 0} \\\\
 a                            &= 10
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Red balls}           &= \text{Total balls} - \text {Blue balls} \\\\
@@ -1623,7 +1623,7 @@ $
                            &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Red balls removed}   &= 49 - 9 \\\\
@@ -1810,7 +1810,7 @@ $600 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of basketball $= b$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Weight of the basketball}                  &= 300 + \dfrac {1} {2} \times b \\\\
@@ -2049,7 +2049,7 @@ $17$
                                   &= 16.66
 \end{aligned}
 $
-
+<emptyline>
 17 boxes are required for 100 eggs
 </code></pre>
 </div>
@@ -3619,7 +3619,7 @@ $- 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>According to BIDMAS
-
+<emptyline>
 $
 \begin{aligned}
 &= 13 + 54 \div 6 - 5 \times 7 \\\\
@@ -5018,7 +5018,7 @@ $5570$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, tickets sold
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total ticket sold }    &= 2140 + (2140 - 320) + (2140 - 320 - 210) \\\\                                                                 
@@ -5027,7 +5027,7 @@ $
                              &= 5570
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5951,7 +5951,7 @@ $780$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{First number}                             &= 0 \\\\
@@ -5959,9 +5959,9 @@ $
 \text{Total numbers}                            &= 40
 \end{aligned}
 $
-
+<emptyline>
 Let's find the sum of  first 40 whole numbers.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {\text{Total numbers}} {2} \times (\text{First term + Last term}) \\\\
@@ -6510,7 +6510,7 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total spots} &= 1 + 2 + 3 + 4 + 5 + 6 \\\\
@@ -6522,7 +6522,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know, opposite sides of a dice always add up to 7.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total spots}                                 &= \dfrac {6} {2} \times 7 \\\\
@@ -7700,14 +7700,14 @@ $576$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Maximum passengers} &= 18 \times 32 \\\\
 &= 576
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7906,7 +7906,7 @@ $23$
 &\approx 23
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8138,9 +8138,9 @@ $315 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If the height is increased by $10\%$ then new height will be $100 + 10 = 110\%$ of the orginal price.
-
+<emptyline>
 Using this to get
-
+<emptyline>
 $
 \begin{aligned}
 \text{New Height}  &= 150  + 110 \% \text { of} \ 150 \\\\
@@ -8661,11 +8661,11 @@ $17$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the cabinets holding 646 DVDs $= a$,
-
+<emptyline>
 38 DVDs hold by one display cabinet,
-
+<emptyline>
 So,
-
+<emptyline>
 $
 \begin{aligned}
 a &= \dfrac {646} {38} \\\\
@@ -8829,7 +8829,7 @@ $75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}\
 \text{marks set-1} &= 20 \% \ \text{of} \ 10 \\\\ 
@@ -8854,7 +8854,7 @@ $
 &= 75
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9235,7 +9235,7 @@ $65 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Overall score} &= \dfrac {10} {100} \times 10 + \dfrac {70} {100} \times 20 + \dfrac {80} {100} \times 30 \\\\
@@ -9810,7 +9810,7 @@ $
 &= 1325 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

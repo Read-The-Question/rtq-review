@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-g2"
 title: "TopicPaper - Number - 2 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -308,7 +308,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 16 \times 2 - 2 \times 4 \\\\
@@ -713,7 +713,7 @@ $1010$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (9999 - 999 + 99 - 9) \div 9 \\\\
@@ -778,7 +778,7 @@ $720$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 20 \% \text { of } (60)^{2} \\\\
@@ -1591,7 +1591,7 @@ $252$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (2018 - 20 + 18) \div 8 \\\\
@@ -2126,7 +2126,7 @@ $252$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (2018 - 20 + 18) \div 8 \\\\
@@ -2872,7 +2872,7 @@ $124$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 91 + a &= 215 \\\\
@@ -2991,7 +2991,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 25 - a + 17 &= 38 \\\\
@@ -3053,7 +3053,7 @@ $\dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 24 &= 12 \\\\
@@ -3117,7 +3117,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 72 \div 9 &= a \div 3 \\\\
@@ -3415,11 +3415,11 @@ $46$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Second number $= a + 1$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 1               &= 91 \\\\
@@ -3498,9 +3498,9 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (2 \times a - 14) \div 3 &= 8 \\\\

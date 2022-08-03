@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-3"
 title: "TopicPaper - Statistics - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "30"
 ---
 <div class='paper'>
@@ -1345,9 +1345,9 @@ Mode $=$ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_median
-
+<emptyline>
 Let's arrange the pages read in ascending order.
-
+<emptyline>
 $
 \begin {aligned}
 \text{Numbers}              &= 6, \quad 2, \quad 5, \quad 13, \quad 5, \quad 10 \\\\
@@ -1357,10 +1357,10 @@ $
                             &= 5.5
 \end {aligned}
 $
-
+<emptyline>
 
 Let's look for the value that occurs the most.
-
+<emptyline>
 | Number    | Count     |
 |:------:   |:-----:    |
 |   $2$     |    $1$    |
@@ -1368,7 +1368,7 @@ Let's look for the value that occurs the most.
 |   $6$     |    $1$    |
 |   $10$    |    $1$    |
 |   $13$    |    $1$    |
-
+<emptyline>
 
 Mode $= 5$
 </code></pre>
@@ -1450,37 +1450,29 @@ What is their median age exactly $1$ year later?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin {aligned}
-\text {Total age of 3 children}     &= 3 \times 10 \\\\
-                                    &= 30 \\\\
-\text {Median age after 1 year}     &= \dfrac {30 + 3} {3} \\\\
-                                    &= \dfrac {33} {3} \\\\
-                                    &= 11
-\end {aligned}
-$
+Let the ages are $= a, 10, b$
+
+Ages after $1 \ \text{year} = a + 1, 11, b + 1$
+
+Median $= 11 \ \text{years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$11$
+$11 \ \text{years}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin {aligned}
-\text {Total age of 3 children}     &= 3 \times 10 \\\\
-                                    &= 30 \\\\
-\text {Median age after 1 year}     &= \dfrac {30 + 3} {3} \\\\
-                                    &= \dfrac {33} {3} \\\\
-                                    &= 11
-\end {aligned}
-$
+<pre class='language-latex'><code class='language-latex'>Let the ages are $= a, 10, b$
+<emptyline>
+Ages after $1 \ \text{year} = a + 1, 11, b + 1$
+<emptyline>
+Median $= 11 \ \text{years}$
 </code></pre>
 </div>
 </div>
@@ -1492,7 +1484,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$11$
+<pre class='language-latex'><code class='language-latex'>$11 \ \text{years}$
 </code></pre>
 </div>
 </div>
@@ -1557,6 +1549,12 @@ What are the two numbers?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
+ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
+
+
 Let the first number $= a$
 
 Let the second number $= b$
@@ -1613,12 +1611,16 @@ $15$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+rtq_abbr_md_statistics_formula_range
+<emptyline>
+Let the first number $= a$
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {a + b} {2}      &= 12 \\\\
@@ -1627,9 +1629,9 @@ a + b                   &= 24 & (1) \\\\
 b - a                   &= 6  & (2)
 \end {aligned}
 $
-
+<emptyline>
 Let's use elimination to reduce it to just one variable. Add the two equations to eliminate $a$.
-
+<emptyline>
 $
 \begin {aligned}
 a + b                   &= 24 \\\\
@@ -1640,9 +1642,9 @@ b                       &= \dfrac {30} {2} \\\\
 b                       &= 15
 \end {aligned}
 $
-
+<emptyline>
 Let's substitute the value of $b$ in one of the initial equations to find the value of $a$.
-
+<emptyline>
 $
 \begin{aligned}
 a + b                       &= 24  \\\\
@@ -5516,7 +5518,7 @@ $17$
                                 &= 17
 \end{aligned}
 $
-
+<emptyline>
 Janet’s average marks are $= 17$.
 </code></pre>
 </div>
@@ -6144,7 +6146,7 @@ $44 \ \text{kg}$
 \text{Total mass of girls}  &= 6 \times 40  \ \text{kg}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Average mass}     &= \dfrac {\text{Total mass}} {\text{Total children}} \\\\
@@ -6156,7 +6158,7 @@ $
                         &= 44  \ \text{kg}
 \end{aligned}
 $
-
+<emptyline>
 Average mass of the children $= 44 \ \text{kg}$
 </code></pre>
 </div>
@@ -6544,7 +6546,7 @@ $11\ \text {mm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the rainfall for Tuesday, Wednesday and Thursday (in mm) $= r$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Average rainfall for } 5 \text{ days}  &= \dfrac {\text{Total Rainfall}} {\text{Total days}} \\\\
@@ -6556,11 +6558,11 @@ r                                            &= 60 - 27\\\\
 r                                            &= 33  \ \text{mm}
 \end{aligned}
 $
-
+<emptyline>
 Total rainfall for Tuesday, Wednesday and Thursday $= 33  \ \text{mm}$
-
+<emptyline>
 Let's find the average rainfall for the other $3$ days now.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Average rainfall for } 3 \text{ days}     &= \dfrac {\text{Total Rainfall }} {\text{Total days}} \\\\
@@ -6756,7 +6758,7 @@ $5.4 \ \text{m}$
                         &= 5.4  \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 Mean Length $= 5.4 \ \text{m}$
 </code></pre>
 </div>
@@ -6996,34 +6998,34 @@ $1.27m$
 
 <pre class='language-latex'><code class='language-latex'>
 As per questions the average height of three boys is  $1.29$
-
+<emptyline>
 So total height of three boys is,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1.29 \times 3 \\
 &= 3.87 \\
 \end{aligned}
 $
-
+<emptyline>
 Total height of four boys is $1.29 \times 3$ + Stephen's height.
-
+<emptyline>
 $
 \begin{aligned}
         &= 3.87 + 1.21\\
         &= 5.08\\
 \end{aligned}
 $
-
+<emptyline>
 New average = $\dfrac {\text{Total height of 4 boys}}{\text{Total boys}}$
-
+<emptyline>
 $
 \begin{aligned}
 &=\dfrac {5.08}{4}\\
 &= 1.27 \text{metres} \\
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -7091,17 +7093,17 @@ $1.34m$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The total height of $4$ boys from above answer is $5.08$
-
+<emptyline>
 Let's take the Nigel's height as $x$
-
+<emptyline>
 The total height of $6$ boys 
-
+<emptyline>
 $= 5.08$ + Richard + Nigel
-
+<emptyline>
 $= 5.08 + 1.26 + x$
-
+<emptyline>
 Average = $\dfrac {\text{Total height of 6 boys}}{\text{Total number of boys}}$
-
+<emptyline>
 $
 \begin{aligned}
            1.28  &=  \dfrac {5.08 + 1.26 + x}{6} \\\\
@@ -7111,7 +7113,7 @@ $
 1.34 \ \text{metres}&= x \\
 \end{aligned}
 $
-
+<emptyline>
 
 Nigels height is $1.34 \ \text{metres}$
 </code></pre>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-19-pr"
 title: "TopicPaper - Number - 19 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -176,29 +176,29 @@ $\times 0.5, + 1.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input $= x$
-
+<emptyline>
 Let the rule $= a \times x + b$
-
+<emptyline>
 From Row 1, where $x = -1$
-
+<emptyline>
 $
 \begin{aligned}
 a \times -1 + b &= 1 \\\\
 b - a &= 1
 \end{aligned}
 $
-
+<emptyline>
 From Row 2, where $x = 0$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 0 + b &= 1.5 \\\\
 b &= 1.5
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\',
-
+<emptyline>
 $
 \begin{aligned}
 b - a &= 1 \\\\
@@ -206,13 +206,13 @@ b - a &= 1 \\\\
 a &= 0.5
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the rule $= 0.5 \times x + 1.5$
-
+<emptyline>
 Lets verify,
-
+<emptyline>
 From Row 3, where $x = 2$
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.5 \times 2 + 1.5 \\\\
@@ -220,9 +220,9 @@ $
 &= 2.5 = 2.5
 \end{aligned}
 $
-
+<emptyline>
 From Row 4, where $x = 5$
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.5 \times 5 + 1.5 \\\\
@@ -230,7 +230,7 @@ $
 &= 4 = 4
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the labels are **$\times 0.5$** , **$+ 1.5$**
 </code></pre>
 </div>
@@ -504,21 +504,21 @@ $
 &= 1
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 121 &= 1 + 2 + 1 \\\\
 &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 144 &= 1 + 4 + 4 \\\\
 &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 196 &= 1 + 9 + 6 &= 16 \\\\
@@ -526,14 +526,14 @@ $
 &= 7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 225 &= 2 + 2 + 5 \\\\
 &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 256 &= 2 + 5 + 6 &= 13 \\\\
@@ -541,7 +541,7 @@ $
 &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 289 &= 2 + 8 + 9 &= 19 \\\\
@@ -1068,9 +1068,9 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 7) \times 4        &= 120 \\\\
@@ -1223,11 +1223,11 @@ $-3 \ \text{then}\ \times 2 \\\\ \text{Or,}\ \times 2 \ \text{then}\ - 6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**Rule 1**
-
+<emptyline>
 Let first label $= + a$
-
+<emptyline>
 Let second label $= \times b$
-
+<emptyline>
 $
 \begin{aligned}
 (5 + a) \times b &= 4 \\\\
@@ -1236,9 +1236,9 @@ $
 8b + ab &= 10
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'b\'
-
+<emptyline>
 $
 \begin{aligned}
 8b + ab &= 10 \\\\
@@ -1251,9 +1251,9 @@ b &= \dfrac{2 \times \cancel 3}{\cancel 3} \\\\
 b &= 2
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\'
-
+<emptyline>
 $
 \begin{aligned}
 5b + ab &= 4 \\\\
@@ -1265,17 +1265,17 @@ a &= \dfrac{-6}{2} \\\\
 a &= -3
 \end{aligned}
 $
-
+<emptyline>
 Therefore,
-
+<emptyline>
 The rule $= - 3 \ \text{then}\ \times 2$
-
+<emptyline>
 **Rule 2**
-
+<emptyline>
 Let first label $= \times a$
-
+<emptyline>
 Let second label $= + b$
-
+<emptyline>
 $
 \begin{aligned}
 5 \times a + b &= 4 \\\\
@@ -1284,9 +1284,9 @@ $
 8a + b &= 10
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\'
-
+<emptyline>
 $
 \begin{aligned}
 8a + b &= 10 \\\\
@@ -1297,9 +1297,9 @@ a &= \dfrac{6}{3} \\\\
 a &= 2
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'b\'
-
+<emptyline>
 $
 \begin{aligned}
 5a + b &= 4 \\\\
@@ -1309,9 +1309,9 @@ b &= 4 - 10 \\\\
 b &= -6
 \end{aligned}
 $
-
+<emptyline>
 Therefore,
-
+<emptyline>
 The rule $= \times 2 \ \text{then}\ - 6$
 </code></pre>
 </div>
@@ -1492,7 +1492,7 @@ $2.9 \ \text{inches}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Length of the pencil}  &= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
@@ -1812,9 +1812,9 @@ $6$
 &= 10 \text{litre}
 \end{aligned}
 $
-
+<emptyline>
 Let number of times jug can be filled $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 1.5 &= 10 \\\\
@@ -1826,9 +1826,9 @@ a &= \dfrac{20}{3} \\\\
 a &= 6.66
 \end{aligned}
 $
-
+<emptyline>
 Since the jug had to be completely filled,
-
+<emptyline>
 Total times $= 6$
 </code></pre>
 </div>
@@ -3462,9 +3462,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>4, 9, 25 ...
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 \text {Factors of 4}  &= 1, 2, 4 \\\\
@@ -3620,7 +3620,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>97
-
+<emptyline>
 97 is the only prime number between 90 and 100
 </code></pre>
 </div>
@@ -3704,7 +3704,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number between $\dfrac{1}{3}$ and $\dfrac{1}{2}$ = $a$
-
+<emptyline>
 $
 \begin{aligned}
 a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
@@ -3717,7 +3717,7 @@ a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
 a &= \dfrac{5}{12}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -3796,16 +3796,16 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>21
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 &= {21^2} \\\\
 &= 441
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>

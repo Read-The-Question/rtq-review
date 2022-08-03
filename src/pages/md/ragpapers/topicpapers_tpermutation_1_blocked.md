@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-1-blocked"
 title: "TopicPaper - Permutation - 1 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -119,7 +119,7 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total matches}            &= 4 + 3 + 2 + 1 \\\\
@@ -283,9 +283,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find all two-digit numbers that can be made using the digits $3, 4$ and $5$.
-
+<emptyline>
 The possible arrangements are:
-
+<emptyline>
 - $33$
 - $34$
 - $35$
@@ -295,18 +295,18 @@ The possible arrangements are:
 - $53$
 - $54$
 - $55$
-
+<emptyline>
 Count $= 9$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We can solve this problem using permutation instead of manually counting all the arrangements.
-
+<emptyline>
 Count of digits that can be used in tens place        $= 3$
-
+<emptyline>
 Count of digits that can be used in unit place        $= 3$
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Total Arrangements}                           &= 3 \times 3 \\\\\

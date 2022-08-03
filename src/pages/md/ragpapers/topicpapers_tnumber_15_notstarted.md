@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-notstarted"
 title: "TopicPaper - Number - 15 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -477,7 +477,7 @@ $\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\boxed{7} + \boxed{1} \boxed{8} = \boxed{2} \boxed{5}$
-
+<emptyline>
 $\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
 </code></pre>
 </div>
@@ -609,7 +609,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Perfect square between $190$ and $200 = 196$
-
+<emptyline>
 $14 \times 14 = 196$
 </code></pre>
 </div>
@@ -757,7 +757,7 @@ $84$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>29826990-7CF3-48F9-A4E1-518D0B0296D5</p>
 </div>
@@ -771,7 +771,7 @@ $84$
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -877,7 +877,7 @@ $1 \ \text{and} 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take the whole number (with missing digits) $=a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 7  &=  896 \\\\ 
@@ -887,7 +887,7 @@ a           &=  \dfrac {128 \times \cancel{7}} {\cancel{7}} \\\\
 a           &=  128
 \end{aligned}
 $
-
+<emptyline>
 The missing digits are $1 \ \text{and} 8$.
 </code></pre>
 </div>

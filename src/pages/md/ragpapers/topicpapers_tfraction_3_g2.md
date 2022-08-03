@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-g2"
 title: "TopicPaper - Fraction - 3 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "28"
 ---
 <ul class='question default-decimal'>
@@ -2105,7 +2105,7 @@ $160$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using our previous answer
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4} {7} \ \text{of} \ 280 \\\\
@@ -3430,7 +3430,7 @@ $\dfrac {3} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {8} \div \dfrac {1} {4} \\\\
@@ -4444,7 +4444,7 @@ $\dfrac {9} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'> rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {4} \div \dfrac {1} {6} \\\\
@@ -5278,7 +5278,7 @@ $\dfrac {6} {7}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {7} \div \dfrac {1} {2} \\\\
@@ -6465,7 +6465,7 @@ $\dfrac {44} {45}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4} {9} \div \dfrac {5} {11} \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-3"
 title: "TopicPaper - Simpleword - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -331,7 +331,7 @@ $1.75 \text{kg}$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 The quantity of sugar is given in grams and the packet is given in kilograms.
-
+<emptyline>
 $
 \begin{aligned}
 1 \text {kg}  &= 1000 \text {g} \\\\
@@ -339,7 +339,7 @@ $
 &= 0.75 \text {kg}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 & 2.5 - 0.75 \\\\
@@ -1148,9 +1148,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= 789456132$
-
+<emptyline>
 The second number $= 789456123$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Difference}   &= 789456132 - 789456123 \\\\
@@ -1551,7 +1551,7 @@ b
 |  $4 \times 8 \times 3$  |   $96$  |
 |  $7 \times 5 \times 3$  |  $105$  |
 |  $7 \times 2 \times 6$  |   $84$  |
-
+<emptyline>
 Largest possible product $= 105$
 </code></pre>
 </div>
@@ -1953,7 +1953,7 @@ $\dfrac {1} {6}$
                     &= \dfrac {2} {4}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Matilda gets} &= \dfrac {1} {3} \times \dfrac {2} {4} \\\\
@@ -2144,9 +2144,9 @@ $7.7 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>No. of daffodils $= 8$
-
+<emptyline>
 No. of gaps between daffodils $= 7$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Length of the row}   &= 7 \times 1.1 \ \text {m} \\\\\
@@ -2349,7 +2349,7 @@ $4$
                             &= 8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of locusts on 8th day}                     &= 100 - 8 \times 12 \\\\
@@ -2852,7 +2852,7 @@ $\dfrac {2} {7}$
                                                 &= 6 \ \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of elephant left}                &= \dfrac {6} {21} \\\\
@@ -3217,9 +3217,9 @@ $2, 5, 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Three prime numbers $= 2, 5, 11$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin {aligned}
 &= 2 \times 5 \times 11 \\\\
@@ -3970,14 +3970,14 @@ $19{:}50$
                                             &= 18{:}55
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Duration of Natalia journey}      &= 20{:}10 - 18{:}55 \\\\
                                         &= 75 \ \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Duration of Sara journey}      &= \dfrac {\text{Duration of Natalia journey}} {3} \\\\
@@ -3987,7 +3987,7 @@ $
                                      &= 25 \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time when sara arrive at destination}     &= 19{:}25 + 25 \ \text{min} \\\\
@@ -4181,7 +4181,7 @@ $55 \ \text{min}$
                             &= 100 \ \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time spent on doing homework}           &= (100 - 25 - 20) \ \text{min} \\\\
@@ -5291,7 +5291,7 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of people sitting at the table with five bars $= a$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Fraction per person at the table with 4 bars}                    &= \text {Fraction per person at the table with 5 bars} \\\\
@@ -5518,7 +5518,7 @@ $- 1$
                                            &= 20
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Required Number}      &= \dfrac {2} {5} \times 20 \\\\
@@ -5529,7 +5529,7 @@ $
                             &= 8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{So the number} &= - 9 + 8 \\\\
@@ -6002,7 +6002,7 @@ $\dfrac {7} {20}$
                                                     &= 35 \ \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of film shot inside The Manor House} &= \dfrac {35} {100} \\\\
@@ -6360,7 +6360,7 @@ D
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers between $30$ and $50$ $= 31, 37, 41, 43, 47$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sum of numbers}               &= 31 + 37 + 41 + 43 + 47 \\\\
@@ -8869,7 +8869,7 @@ Number of spare pencils $= 20$
                                         &= 15
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of spare pencils}         &= 15 \times 24 - 340\\\\
@@ -9070,7 +9070,7 @@ $6, \ 0.67 \ \text{cm}$
                         &= 6
 \end{aligned}
 $
-
+<emptyline>
 Remaining length $= \dfrac{2} {3} \ \text{cm} = 0.67 \ \text{cm}$
 </code></pre>
 </div>
@@ -9306,7 +9306,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of glasses $=g$
-
+<emptyline>
 $
 \begin{aligned}
 225 \text{ml} \times \text {g}  &= 1.8 \text{litres} \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-blocked"
 title: "TopicPaper - Algebra - 12 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -135,7 +135,7 @@ $49$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{The divisiblitys of} \ 7 \ \text{where there is no remainder} &= 7,14,21,28,35,42,49,56,\dots  \\\\
@@ -309,20 +309,20 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A large crate = 12 cartons of milk
-
+<emptyline>
 A small crate = 4 cartons of milk
-
+<emptyline>
 Available crates = 5 large + 20 small
-
+<emptyline>
 Total milk cartons = 110
-
+<emptyline>
 To have smallest crate count, we need to use maximum available large crates i.e., $5$ crates first and 
 then calculate the number of smaller crates needed for the rest of the milk cartons. 
-
+<emptyline>
 Let's take the count of small crates as = $s$
-
+<emptyline>
 $(5 \ \text {crates} \times 12 \ \text {cartons}) + ( s \times 4) = 110 \ \text {cartons}$ 
-
+<emptyline>
 $
 \begin{aligned}
 60  + s \times 4 & = 110 \\\\
@@ -336,15 +336,15 @@ s                & = 12 + \dfrac {1}{2} \\\\
 s                & = 12 + \dfrac {1} {2} \ \text {crates}
 \end{aligned}
 $
-
+<emptyline>
 We have to use a full crate so $\dfrac {1} {2}$ crate $=  1$ extra crate.
-
+<emptyline>
 $12 + 1 \ \text {crates} = 13 \$ crates
-
+<emptyline>
 Let's find the smallest number of crates in total to store $110$ cartons of milk.
-
+<emptyline>
 $5$ large crates $+ 13$ small crates $= 18$ crates
-
+<emptyline>
 The smallest number of crates needed in total to store $110$ cartons of milk $= 18$ crates.
 </code></pre>
 </div>

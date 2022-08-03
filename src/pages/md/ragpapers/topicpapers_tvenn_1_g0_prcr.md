@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tvenn-1-g0-prcr"
 title: "TopicPaper - Venn - 1 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -125,7 +125,7 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cars neither blue nor red}              &= \text{Total cars - Blue cars - Red cars}  \\\\

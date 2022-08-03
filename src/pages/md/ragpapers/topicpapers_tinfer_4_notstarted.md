@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-4-notstarted"
 title: "TopicPaper - Infer - 4 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "39"
 ---
 <ul class='question default-decimal'>
@@ -734,7 +734,7 @@ $32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$31 \times 31 = 961$
-
+<emptyline>
 $32 \times 32 = 1024$
 </code></pre>
 </div>
@@ -6005,11 +6005,11 @@ $50000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, Amir hit one target which is a Zoid.
-
+<emptyline>
 "Zoid" scores fifty thousand.
-
+<emptyline>
 So, Amir's score is $50000$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6070,9 +6070,9 @@ $
       & = 92500
 \end{aligned}
 $
-
+<emptyline>
 Bens total score $92500$ in words is \underline {\text {Ninety two thousand and five hundred}}.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6133,7 +6133,7 @@ $85500$
       & = 85500                                                
 \end{aligned}
 $
-
+<emptyline>
 Catherine's total score is $85500$
 </code></pre>
 </div>
@@ -6199,21 +6199,21 @@ We need only one option.
 
 <pre class='language-latex'><code class='language-latex'>
 The only possible combination of targets for four shots to achieve $95000$ points is :
-
+<emptyline>
 $1$ Zoid $+ 1$ Yondo and $2$ Xenox (but not in a row). 
-
+<emptyline>
 It is important to note that if Debbie hits two Xenox **in a row** then only she gets the bonus points. 
-
+<emptyline>
 Possible options
-
+<emptyline>
 |  First Shot |  Zoid | Yondo | Xenon | Xenon | Xenon | Xenon |
 |:-----------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | Second Shot | Xenon | Xenon | Yondo |  Zoid |  Zoid | Yondo |
 |  Third Shot | Yondo |  Zoid | Xenon | Xenon | Yondo |  Zoid |
 | Fourth Shot | Xenon | Xenon |  Zoid | Yondo | Xenon | Xenon |
-
+<emptyline>
 We need only one option.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6391,33 +6391,33 @@ $
 
 <pre class='language-latex'><code class='language-latex'>
 As per the question, no one gets out at either Sevenoaks or Westerham. So we can ignore these stations.
-
+<emptyline>
 It helps to draw a table for such questions. 
-
+<emptyline>
 |           | Thomas | Henry | Edward | Gordon |
 |-----------|:------:|:-----:|:------:|:------:|
 |  Brasted  |    x   |       |        |    x   |
 |   Dunton  |    x   |   x   |    x   |        |
 | Knockholt |        |   x   |        |    x   |
-
+<emptyline>
 
 We can see from the table that:
-
+<emptyline>
 Edward can only get down at Dunton Green.
-
+<emptyline>
 Now we are left with: 
-
+<emptyline>
 |           | Thomas | Henry | Gordon |
 |-----------|:------:|:-----:|:------:|
 |  Brasted  |    x   |       |    x   |
 | Knockholt |        |   x   |    x   |
-
+<emptyline>
 Henry can only get down at Knockholt.
-
+<emptyline>
 As per the question, only one person gets out at Knockholt and one at Dunton Green.
-
+<emptyline>
 So, Thomas and Gordon can only get down at Brasted.
-
+<emptyline>
 $
 \begin{aligned} 
     \text {Thomas} & = \underline {{\text Brasted}}      \\\\
@@ -6426,7 +6426,7 @@ $
     \text {Gordon} & = \underline {{\text Brasted}}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -6694,7 +6694,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
       & = \dfrac {3 + 9}{2} \times 4                       \\\\
@@ -6705,7 +6705,7 @@ $
       & = 24                                               
 \end{aligned}
 $
-
+<emptyline>
 The average of $3$ and $9$ by $4 = 24$
 </code></pre>
 </div>
@@ -6763,7 +6763,7 @@ $150$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
       & = \dfrac {20 + 40}{2} \times 5                       \\\\
@@ -6774,7 +6774,7 @@ $
       & = 150                                               
 \end{aligned}
 $
-
+<emptyline>
 The average of $20$ and $40$ by $5 = 150$
 </code></pre>
 </div>
@@ -6883,7 +6883,7 @@ $1400$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$143 + 162 + 181 + 200 + 219 + 238 + 257$
-
+<emptyline>
 $
 \begin{aligned}
     First number     & = 143 \\\\
@@ -6891,7 +6891,7 @@ $
     Count of numbers & = 7   
 \end{aligned}
 $
-
+<emptyline>
 $ 
 \begin{aligned}
       & = \dfrac {143 + 257}{2} \times 7                    \\\\
@@ -6970,11 +6970,11 @@ $450$
 
 <pre class='language-latex'><code class='language-latex'>
 $2, 6, 10, 14, 18$
-
+<emptyline>
 The difference between consecutive numbers is $4$.
-
+<emptyline>
 $2, 6, 10, 14, 18, 22, 26, 30, 34, 38, 42, 46, 50, 54, 58$
-
+<emptyline>
 $
 \begin{aligned}
     First number     & = 2 \\\\
@@ -6982,7 +6982,7 @@ $
     Count of numbers & = 15   
 \end{aligned}
 $
-
+<emptyline>
 $ 
 \begin{aligned}
       & = \dfrac {2 + 58}{2} \times 15                      \\\\
@@ -7185,7 +7185,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$13$ (base $5$)
-
+<emptyline>
 $ 
 \begin{aligned} 
       & = 1 \times 5 + 3 \times 1 \\\\                   
@@ -7193,7 +7193,7 @@ $
       & = 8                       
 \end{aligned}
 $
-
+<emptyline>
 $13$ (base $5$) $= \underline{8}$ (base $10$)
 </code></pre>
 </div>
@@ -7252,7 +7252,7 @@ $96$
 
 <pre class='language-latex'><code class='language-latex'>
 $341$ (base $5$) 
-
+<emptyline>
 $ 
 \begin{aligned} 
       & = 3 \times 25 + 4 \times 5 + 1 \times 1 \\\\                   
@@ -7260,9 +7260,9 @@ $
       & = 96                                    
 \end{aligned}
 $
-
+<emptyline>
 $341$ (base $5$) $= \underline{96}$ (base $10$)
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7327,9 +7327,9 @@ $32$
 
 <pre class='language-latex'><code class='language-latex'>
 $17$ (base $10$) 
-
+<emptyline>
 In base $5$, only the digits $0, 1, 2, 3$ and $4$ are used.
-
+<emptyline>
 $ 
 \begin{aligned} 
       & = 15 + 2                  \\\\                   
@@ -7337,9 +7337,9 @@ $
       & = 32                      
 \end{aligned}
 $
-
+<emptyline>
 $17$ (base $10$) $= \underline{32}$ (base $5$)
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7395,9 +7395,9 @@ $414$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$109$ (base $10$) 
-
+<emptyline>
 In base $5$, only the digits $0, 1, 2, 3$ and $4$ are used.
-
+<emptyline>
 $ 
 \begin{aligned} 
       & = 100 + 5 + 4 \\\\                   
@@ -7405,7 +7405,7 @@ $
       & = 414                                    
 \end{aligned}
 $
-
+<emptyline>
 $109$ (base $10$) $= \underline{414}$ (base $5$)
 </code></pre>
 </div>

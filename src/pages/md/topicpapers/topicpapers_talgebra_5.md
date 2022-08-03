@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-5"
 title: "TopicPaper - Algebra - 5"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -179,7 +179,7 @@ $198$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of adults} &= 55 \% \ \text {of} \ 360 \\\\
@@ -248,7 +248,7 @@ $80 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Percentage of boys}    &= \dfrac {\text {Number of boys}} {\text {Total pupils}} \times 100 \\\\
@@ -326,9 +326,9 @@ $\pounds 1.20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of bus ticket a year ago (in pounds) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + \dfrac {50} {100} \times a &= 1.80 \\\\
@@ -430,20 +430,20 @@ $\pounds 3.20 , \pounds 1.10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a calculator (in pounds) $= a$
-
+<emptyline>
 Let the cost of a protractor (in pounds) $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4a + 3b &= 16.10 \\\\
 2a + b &= 7.50
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute b from the first equation to reduce it to just one variable.
-
+<emptyline>
 $
 \begin{aligned}
 4a + 3(7.50 - 2a) &= 16.10 \\\\
@@ -462,9 +462,9 @@ b &= 7.50 - 6.40 \\\\
 b &= 1.10
 \end{aligned}
 $
-
+<emptyline>
 The cost of a calculator (in pounds) $= 3.20$
-
+<emptyline>
 The cost of a protractor (in pounds) $= 1.10$
 </code></pre>
 </div>
@@ -532,9 +532,9 @@ $2500$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total population of Numbertown $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {3} {5} \times \dfrac {1} {3} \times a &= 500 \\\\
@@ -791,7 +791,7 @@ $\pounds 12.6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money spent} &= 7.50 \times 4 + 3.20 \times 3 \\\\
@@ -853,7 +853,7 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Tanks needed} &= \dfrac {193} {13} \\\\
@@ -916,9 +916,9 @@ $96$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Number of chicks $= 8 \times 5 = 40$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total wings}  &= 8 \times 2 + 40 \times 2 \\\\
@@ -999,9 +999,9 @@ $ \pounds 42 $
 
 <pre class='language-latex'><code class='language-latex'>
 Let the cost of a dog lead $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text{ Cost of a cat bowl} &= \dfrac {72} {3} \\\\
@@ -1010,7 +1010,7 @@ $
                          &= \pounds 24
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 4a &= 7 \times 24 \\\\
@@ -1021,9 +1021,9 @@ a  &= \dfrac {42 \times \cancel 4} {\cancel 4} \\\\
 a  &= 42
 \end {aligned}
 $
-
+<emptyline>
 The cost of a dog lead $= \pounds 42 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1079,7 +1079,7 @@ $\pounds 1.19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text{ Cost of 1 stick insect} &= \dfrac {17.85} {20 - 5} \\\\
@@ -1349,9 +1349,9 @@ $600$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of runners $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{1} {6} \ \text{of} \ a &= 120 \\\\
@@ -1360,7 +1360,7 @@ a                             &= 120 \times 6 \\\\
 a                             &= 720
 \end{aligned}
 $
-
+<emptyline>
 $
 begin{aligned}
 \text{Number of children running} &= \dfrac{5} {6} \ \text{of} \ 720 \\\\
@@ -1441,11 +1441,11 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let number of rides Amy goes to $= a$
-
+<emptyline>
 Number of rides Peter goes to $= 4a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 7 + 3 \times 2 + 3 \times 2 + 1.5 \times a + 1.5 \times 4a &= 34 \\\\
@@ -1459,9 +1459,9 @@ a                                                          &= \dfrac {\cancel {7
 a                                                          &= 2
 \end {aligned}
 $
-
+<emptyline>
 Number of rides Peter goes to $= 4a = 4 \times 2 = 8 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1534,9 +1534,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of watches $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {2} {3} \ \text{of} \ a &= 72 \\\\
@@ -1548,7 +1548,7 @@ a                              &=  36 \times 3 \\\\
 a                              &=  108
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text{Number of watches sold on the second day} &= \dfrac {1} {4} \ \text{of} \ ( 108 - 72) \\\\
@@ -1559,7 +1559,7 @@ $
                                                 &= 9
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1636,12 +1636,12 @@ $\dfrac {3} {17} $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let area of rectangle A $= a$
-
+<emptyline>
 Area of rectangle B $= 7a$
-
+<emptyline>
 
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text{New area of rectangle B} &= \dfrac {2} {3} \ \text{of} \ 7a \\\\
@@ -1649,7 +1649,7 @@ $
                                &= \dfrac {14a} {3}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text{Fraction of the remaining shape shaded} &= \dfrac {a} {a + \dfrac {14a} {3}} \\\\
@@ -1662,7 +1662,7 @@ $
                                               &= \dfrac {3} {17}                    
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1927,12 +1927,12 @@ $232$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let number of blue sweets $= a$
-
+<emptyline>
 Number of red sweets $= a + 8$
-
+<emptyline>
 
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a &= 30 \ \% \ \text{of} \ 600 \\\\
@@ -1944,7 +1944,7 @@ a &= 30 \times 6  \\\\
 a &= 180
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text{Number of green sweets} &= 600 - a - a - 8 \\\\
@@ -1954,7 +1954,7 @@ $
                               &=232
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2021,9 +2021,9 @@ $ \pounds 70$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of toy car before sale $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a - 40 \ \% \ \text{of} \ a                         &= 42 \\\\
@@ -2039,9 +2039,9 @@ a                                                  &= 7 \times 10 \\\\
 a                                                  &= 70
 \end {aligned}
 $
-
+<emptyline>
 The cost of toy car before sale $= \pounds 70$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2097,7 +2097,7 @@ $60 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Percentage of Fido's sausages that were lamb} &= \dfrac{24} {24 + 16} \times 100 \\\\
@@ -2200,20 +2200,20 @@ Truffle $=$ $\pounds 0.95$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let a chocolate frog cost $= a$
-
+<emptyline>
 Let a truffle cost $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 6a + 5b &= 9.55 \\\\
 3a + 3b &= 5.25 
 \end {aligned}
 $
-
+<emptyline>
 Let's substitute a from the first equation to reduce it to just one variable.
-
+<emptyline>
 $
 \begin {aligned}
 2 \times (5.25 - 3b) + 5b        &= 9.55 \\\\
@@ -2232,10 +2232,10 @@ a                                &= \dfrac {0.8 \times \cancel 3} {\cancel 3} \\
 a                                &= 0.8
 \end {aligned}
 $
-
+<emptyline>
 
 Cost of a chocolate frog $= \pounds 0.8$
-
+<emptyline>
 Cost of a truffle $= \pounds 0.95$
 </code></pre>
 </div>
@@ -2324,11 +2324,11 @@ $81 \ \text{ml} $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let white paint used $= a$
-
+<emptyline>
 Red paint used $= 3a $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 180 - 3a - a &= \dfrac{2} {5} \ \text{of} \ 180 \\\\
@@ -2346,9 +2346,9 @@ a            &= \dfrac {\cancel 4 \times 27} {\cancel 4}  \\\\
 a            &= 27
 \end {aligned}
 $
-
+<emptyline>
 Red paint used $= 3a = 3 \times 27 = 81 \ \text{ml} $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -2600,7 +2600,7 @@ $49$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of people who bought choc ice} &= 35 \% \ \text{of} \ 140 \\\\
@@ -2667,7 +2667,7 @@ $20 \% $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Percentage of customers who bought ice lolly} &= \dfrac {86} {430} \times 100 \\\\
@@ -2741,9 +2741,9 @@ $140 \ \text{pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of can of cola before sale $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a - 30 \% \ \text{of} \ a                         &= 98 \\\\
@@ -2857,21 +2857,21 @@ Sherbet dib-dab $=$ $ \pounds 0.36 $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of jelly worm $= a$.
-
+<emptyline>
 Let the cost of sherbet dib-dab $= b$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 5a + 7b &= 3.37 \\\\
 5a + 2b &= 1.57
 \end {aligned}
 $
-
+<emptyline>
 
 Let's substitute 5a from the first equation to reduce it to just one variable.
-
+<emptyline>
 
 $
 \begin {aligned}
@@ -2884,7 +2884,7 @@ b              &= \dfrac {0.36 \times \cancel 5} {\cancel 5} \\\\
 b              &= 0.36
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 5a + 2b &= 1.57 \\\\
@@ -2898,11 +2898,11 @@ a                  &= \dfrac {\cancel 5 \times 0.17} {\cancel 5} \\\\
 a                  &= 0.17
 \end {aligned}
 $
-
+<emptyline>
 The cost of jelly worm $= \pounds 0.17 $.
-
+<emptyline>
 Let the cost of sherbet dib-dab $=  \pounds 0.36 $.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2995,11 +2995,11 @@ $\pounds 825$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total money he made $= a$
-
+<emptyline>
 Money was made from selling ice cream $= \dfrac {2} {5} a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{ Money made from selling sweets and fizzy drinks} &= a - \dfrac {2} {5} a \\\\
@@ -3009,7 +3009,7 @@ $
                                                         &= \dfrac {3a} {5}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {3} \times \dfrac {3a} {5} &= 330 \\\\
@@ -3022,7 +3022,7 @@ a                                     &= 165 \times 5 \\\\
 a                                     &= \pounds 825
 \end{aligned}
 $
-
+<emptyline>
 The total money he made $= \pounds 825$
 </code></pre>
 </div>
@@ -3208,9 +3208,9 @@ $81 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the height it was originally dropped from (in cm) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {a} {3^2}            &= 9 \\\\
@@ -3412,7 +3412,7 @@ $
 &= 1.99 \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3613,22 +3613,22 @@ $= \pounds 0.81$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let cost of one apple (in pounds) $= a$
-
+<emptyline>
 Let cost of one orange (in pounds) $= b$
-
+<emptyline>
 Let cost of one banana (in pounds) $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4a + 2b       &= 1.54 \\\\
 2b + 4c       &= 1.70
 \end{aligned}
 $
-
+<emptyline>
 Let’s add all the equations.
-
+<emptyline>
 $
 \begin{aligned}
 4a + 2b + 2b + 4c &= 1.54 + 1.70 \\\\
@@ -3640,9 +3640,9 @@ a + b + c &= \dfrac {\cancel 4 \times 0.81} {\cancel 4} \\\\
 a + b + c &= 0.81 
 \end{aligned}
 $
-
+<emptyline>
 The cost of one apple, one orange and one banana $= \pounds 0.81$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3836,13 +3836,13 @@ $48$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the total students $= a$
-
+<emptyline>
 Number of boys $= \dfrac {2} {5} a$.
-
+<emptyline>
 Number of girls $= \dfrac {3} {5} a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {3} {5} a                  &= 72 \\\\
@@ -4047,11 +4047,11 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let each boy gets (in pence) $= a$
-
+<emptyline>
 Each girl gets (in pence) $= 2a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 7 \times 2a + 4a      &= 90 \\\\
@@ -4063,11 +4063,11 @@ a &= \dfrac {\cancel {18} \times 5} {\cancel {18}} \\\\
 a &= 5
 \end{aligned}
 $
-
+<emptyline>
 Each boy gets $= 5 \ \text{pence}$
-
+<emptyline>
 Each girl gets $= 2 \times 5 = 10 \ \text{pence}$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4250,9 +4250,9 @@ $63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of checked shirts sold $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 7 a &= 72 \\\\
@@ -4447,9 +4447,9 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a - 12} {2} + 15   &= 37 \\\\
@@ -4860,7 +4860,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 5 \times n + 3  &= 88 \\\\
@@ -4873,7 +4873,7 @@ n               &= \dfrac {17 \times \cancel {5}} {\cancel {5}} \\\\
 n               &= 17
 \end {aligned}
 $
-
+<emptyline>
 Number of marbles in each bag $= 17$.
 </code></pre>
 </div>
@@ -5092,7 +5092,7 @@ $\pounds 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of a pack of balloons} &= \text {Cost of a balloon pump and four packs of balloons} - \text {Cost of a balloon pump and three packs of balloons} \\\\
@@ -5166,7 +5166,7 @@ $\pounds 19$
                               &= \pounds 3
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of a balloon pump and eight packs of balloons} &= \text {Cost of a balloon pump} + 8 \times \text {Cost of a pack of balloons} \\\\
@@ -5373,9 +5373,9 @@ $3 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the space between the planks (in $\text{cm}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 14 \times 4 + 3 \times a &= 65 \\\\
@@ -5388,7 +5388,7 @@ a                        &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
 a                        &= 3 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 The space between the planks $= 3 cm$
 </code></pre>
 </div>
@@ -5903,7 +5903,7 @@ $20$
     &   2         &   2          &   2          &   2         &    2
 \end{array}
 $
-
+<emptyline>
 $
 \begin{aligned}
 P &= 5 \\\\
@@ -5913,7 +5913,7 @@ S &= 1 \\\\
 T &= 8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 P + Q + S + T &= 5 + 6 + 1 + 8 \\\\
@@ -6122,11 +6122,11 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let number of correct answers $= a$.
-
+<emptyline>
 and let number of incorrect answers $= b$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total number of questions Rex answered}  &= a + b + 1 \\\\
@@ -6146,7 +6146,7 @@ a                                               &= \dfrac {19 \times \cancel {6}
 a                                               &= 19
 \end {aligned}
 $
-
+<emptyline>
 Number of correct answers $= 19$.
 </code></pre>
 </div>
@@ -6324,9 +6324,9 @@ $111$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a - 45                              &= 66 \\\\
@@ -6525,13 +6525,13 @@ $46$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Bill’s father age $= a$
-
+<emptyline>
 Bill’s son age $= a - 50$
-
+<emptyline>
 Bill’s age $= 2 \times (a - 50)$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + (a - 50) + 2 \times (a - 50)                                         &= 142 \\\\
@@ -6549,7 +6549,7 @@ a                                                                        &= 73 \
                                                                          &= 46
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7684,9 +7684,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number I am thinking of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 9                         &= 36 \\\\
@@ -7696,7 +7696,7 @@ a                                  &= \dfrac {4 \times \cancel{9}} {\cancel{9}} 
 a                                  &= 4
 \end{aligned}
 $
-
+<emptyline>
 The number I was thinking of $= 4$
 </code></pre>
 </div>
@@ -7757,9 +7757,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 6 - 5 &= 37 \\\\
@@ -7974,9 +7974,9 @@ $36 \text{ coins}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the count of coins of each denomination $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times c + 5 \times c &= \pounds 1.26 \\\\
@@ -7989,9 +7989,9 @@ c                       &= \dfrac {18 \times \cancel{7}} { \cancel{7} } \\\\
 c                       &= 18
 \end{aligned}
 $
-
+<emptyline>
 There are $18$ coins of each type and $2$ different types of coins.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total coins}   &=  18 \times 2  \\\\
@@ -8198,9 +8198,9 @@ $144$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {3} {4} \times a &= a - 36 \\\\
@@ -8625,9 +8625,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Robin thinks of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 3 - 13               &= 11 \\\\
@@ -8694,9 +8694,9 @@ $98$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Ros thinks of $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 91 - b + 19                            &= 12 \\\\
@@ -8764,9 +8764,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Neetha thinks of $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 84 - (c \times 5) &= c \\\\
@@ -9407,9 +9407,9 @@ $400$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 60 \% \ \text {of} \ a               &=  240 \\\\
@@ -9421,7 +9421,7 @@ a                                    &=  4 \times 100 \\\\
 a                                    &=  400
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9617,9 +9617,9 @@ $112$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {2} \times a                                                  &=  8 + \dfrac {3} {7} \times a \\\\
@@ -9835,9 +9835,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the five numbers $n, \ n + 2, \ n + 4, \ n + 6, \ n + 8$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 n + n + 2 + n + 4 + n + 6 + n + 8 &= 85 \\\\
@@ -9850,7 +9850,7 @@ n                                 &= \dfrac {13 \times \cancel {5}} {\cancel {5}
 n                                 &= 13
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Largest number} &= n + 8 \\\\
@@ -10050,11 +10050,11 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let one number $= a$
-
+<emptyline>
 Other number $= 3 a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times 3 a + a &= 140 \\\\
@@ -10250,9 +10250,9 @@ $3, \ 5, \ 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the three numbers $= a, \ a + 2, \ a + 4$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 2 + a + 4 &= 15 \\\\
@@ -10265,7 +10265,7 @@ a                 &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
 a                 &= 3
 \end{aligned}
 $
-
+<emptyline>
 Three numbers $= 3, \ 5, \ 7$
 </code></pre>
 </div>
@@ -10315,11 +10315,11 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the ages of Jenny and her brothers $= a, \ b, \ c$ respectively.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 The possible values of $= a, \ b, \ c$ are $= 11, \ 2, \ 2$  and $= 9, \ 4, \ 2$ 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -10544,9 +10544,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times a - 11   &= 17 \\\\
@@ -10615,9 +10615,9 @@ $52$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (a - 11)  &= 82 \\\\
@@ -10686,9 +10686,9 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 45 - a   &= 2 \times a \\\\
@@ -10900,9 +10900,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 24 - a          &= 2 \times a \\\\
@@ -11108,9 +11108,9 @@ $99$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {3} \times a   &=  66 \\\\
@@ -11316,9 +11316,9 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {3} \times a                                                  &= 3 + \dfrac {3} {5} \times a \\\\
@@ -11526,9 +11526,9 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the three odd numbers $= n, \ n + 2, \ n + 6$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 n + n + 2 + n + 6 &= 23 \\\\
@@ -11541,9 +11541,9 @@ n                 &= \dfrac {5 \times \cancel 3} {\cancel 3} \\\\
 n                 &= 5
 \end{aligned}
 $
-
+<emptyline>
 Smallest possible value of the largest of the three numbers $= n + 6 = 5 + 6 = 11$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -11740,9 +11740,9 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 70 - 3 \times a                                        &= \dfrac {1} {2} \times a \\\\

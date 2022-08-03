@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-blocked"
 title: "TopicPaper - Simpleword - 6 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -152,13 +152,13 @@ $49$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 The given pattern follow an arthemetic progression 
-
+<emptyline>
 $6$ matches increase $1$ on next one
-
+<emptyline>
 $ a = 1 , n = 7 , d = 2 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{The arthemetic progression} \\\\

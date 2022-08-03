@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-g0-prcr"
 title: "TopicPaper - Profit - 1 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -141,11 +141,11 @@ Deal A
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Original price $= \pounds 260$
-
+<emptyline>
 Let's look at Deal A. 
-
+<emptyline>
 If the price is reduced by $25 \%$, then the sale price will be $100 - 25 = 75 \%$ of the original price. Using that, we get
-
+<emptyline>
 $
 \begin{aligned}
 \text{Deal A}     &= 75 \% \ \text{of} \ 260 \\\\
@@ -157,9 +157,9 @@ $
                   &= \pounds 195
 \end{aligned}
 $
-
+<emptyline>
 Deal B $= \pounds 205$
-
+<emptyline>
 
 From the above calcuation, we can see that Deal A is better than Deal B.
 </code></pre>
@@ -563,7 +563,7 @@ $\dfrac {1} {4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Since one-quarter is $\dfrac {1} {4}$, so lets expand 25 \%
-
+<emptyline>
 $
 \begin{aligned}
 &= 25 \% \\\\
@@ -573,7 +573,7 @@ $
 &= \dfrac {1} {4}
 \end{aligned}
 $
-
+<emptyline>
 Hence 25 \% is equal to \dfrac {1} {4}
 </code></pre>
 </div>
@@ -1051,7 +1051,7 @@ $\pounds 38250$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If the price is reduced by $15 \%$, then the new price will be $100 - 15 = 85 \%$ of the original price. Using that, we get
-
+<emptyline>
 $
 \begin{aligned}
 \text{New value}     &= 85 \% \ \text{of} \ 45000 \\\\
@@ -1611,7 +1611,7 @@ $\pounds 450$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If the price is reduced by $35 \%$, then the sale price will be $100 - 35 = 65 \%$ of the original price. Using that we get,
-
+<emptyline>
 $
 \begin {aligned}
 \text {New price}   &= 65 \% \ \text {of} \ \pounds 12000 \\\\
@@ -1622,16 +1622,16 @@ $
                     &= \pounds 7800
 \end {aligned}
 $
-
+<emptyline>
 The new price for the car $= 7800$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money she needs}   &= 7800 - 7350 \\\\
                           &= \pounds 450
 \end {aligned}
 $
-
+<emptyline>
 Monique needs $\pounds 450$ more to buy the car.
 </code></pre>
 </div>
@@ -2006,7 +2006,7 @@ $210$
 \text{Price at store Q}                                   &= 230 - 10 \% 200\\\\
                                                           &= 230 - 20 \\\\
                                                           &= 210
-                                            
+<emptyline>
 \end{aligned}
 $
 </code></pre>
@@ -2229,7 +2229,7 @@ $\pounds 390$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Sale price of Tv}  &= \text {Normal Price} - \text {Discount} \\\\
@@ -2300,9 +2300,9 @@ $\pounds 400$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let normal price $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 35\% \ \text{of} \ a         &= \pounds 140 \\\\
@@ -2374,9 +2374,9 @@ $\pounds 1193.4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the normal price of $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $ 
 \begin {aligned}
 \text {Normal price }   &= \text {Sale price} + \text {Discount} \\\\
@@ -2577,11 +2577,11 @@ $\pounds 75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the original price $= p$
-
+<emptyline>
 Sale price $= 80 \%$ of the original price.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 80\% \text{ of } p              &= 60 \\\\
@@ -2804,9 +2804,9 @@ $\pounds 25.50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
-
+<emptyline>
 Let's use this to calculate the sale price.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sale price}               &= 85\% \text{ of } \pounds 30\\\\
@@ -2817,7 +2817,7 @@ $
                                 &= \pounds 25.50
 \end{aligned}
 $
-
+<emptyline>
 Sale price $= \pounds 25.50$
 </code></pre>
 </div>
@@ -2825,7 +2825,7 @@ Sale price $= \pounds 25.50$
 
 <pre class='language-latex'><code class='language-latex'>We can also calculate the reduction in the price first and use that to calculate 
 the final sale price. This approach involves little extra work though.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Original price}           &= \pounds 30 \\\\
@@ -2838,7 +2838,7 @@ $
                                 &= \pounds 4.50
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sale price}               &= \text{Original price} - \text{Reduction on price} \\\\
@@ -2846,7 +2846,7 @@ $
                                 &= \pounds 25.50
 \end{aligned}
 $
-
+<emptyline>
 Sale price $= \pounds 25.50$
 </code></pre>
 </div>

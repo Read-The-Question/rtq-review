@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-blocked"
 title: "TopicPaper - Simpleword - 5 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -166,7 +166,7 @@ $32 \ \text {boxes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 12 \ \text {eggs}   &= 1 \ \text {box} \\\\
@@ -177,7 +177,7 @@ $
                     &= 32 \dfrac {5} {12}
 \end {aligned}
 $
-
+<emptyline>
 $32$ boxes can be filled.
 </code></pre>
 </div>

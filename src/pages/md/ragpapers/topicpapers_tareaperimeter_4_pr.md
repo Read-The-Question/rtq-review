@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-pr"
 title: "TopicPaper - Areaperimeter - 4 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -171,9 +171,9 @@ $144 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of garden}              &= 8 \times 18 \\\\
@@ -237,9 +237,9 @@ $24 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of rose plot}               &= \dfrac {1} {2} \times 6 \times 8 \\\\
@@ -305,9 +305,9 @@ $84 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Shaded lawn area}                &= \text {Area of whole garden} - \text {Area of rose plot} - \text {Area of patio} \\\\
@@ -589,13 +589,13 @@ $104 \ \text {cm} ^ 2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show th diagram divided into a rectangle and triangle along with the measurements.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into a rectangle and a triangle
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total Area}           &= \text {Rectangle} + \text {Triangle} \\\\
@@ -682,7 +682,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>All possible pairs in which we can colour two parts of the flag.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Red}     &, \text {Blue} \\\\
@@ -945,13 +945,13 @@ $16 \ \text{cm}, 8 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the length of rectangle $= a$
-
+<emptyline>
 Width $= \dfrac {1} {2} \times a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (a + \dfrac {1} {2} \times a)                                  &= 48 \\\\
@@ -968,9 +968,9 @@ a                                                                       &= \dfra
 a                                                                       &= 16 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Length $= 16 \ \text{cm}$
-
+<emptyline>
 Width $= 8 \ \text{cm}$
 </code></pre>
 </div>
@@ -1040,14 +1040,14 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the length of the rectangle $= l$
 Let the width of the rectangle $= w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 l \times w                                                      &= 48 \\\\
@@ -1062,7 +1062,7 @@ w                                                               &= \dfrac {48} {
 \dfrac {l^2 + 48} {l}                                           &= 16
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1127,11 +1127,11 @@ $6 \ \text{cm}, \ 12 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of rectangle $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Width $= 2 \times a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2a  &= 72 \\\\
@@ -1144,9 +1144,9 @@ a            &= \sqrt {36} \\\\
 a            &= 6 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Length $=6 \ \text{ cm}$
-
+<emptyline>
 Width $=12 \ \text{ cm}$
 </code></pre>
 </div>
@@ -1376,9 +1376,9 @@ $236 \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cuboid
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total surface area} &= 2 \times (8 \times 5 + 8 \times 6 + 6 \times 5) \\\\
@@ -1448,11 +1448,11 @@ $12 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the new height $= h$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 h \times 8      &= 2 \times (6 \times 8) \\\\
@@ -1463,7 +1463,7 @@ h               &= 2 \times 6 \\\\
 h               &= 12 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 The new height is $12 \ \text {cm}$.
 </code></pre>
 </div>
@@ -1670,15 +1670,15 @@ $296 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let width of the rectangle $= w$
-
+<emptyline>
 Let side of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 50 \times w             &= 70 \times 70 \\\\
@@ -1689,9 +1689,9 @@ w                       &= \dfrac {\cancel {50} \times 98} {\cancel {50}} \\\\
 w                       &= 98 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the perimeter of the rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}           &= 2 \times (50 + 98) \\\\
@@ -1890,13 +1890,13 @@ E
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 *TODO: Add the explanation to count the sides in the shape.*
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 Number of sides in the shape    $= 18$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of sides after removing A}        &= 16 \\\\
@@ -1906,7 +1906,7 @@ $
 \text {Number of sides after removing E}        &= 18 
 \end{aligned}
 $
-
+<emptyline>
 Perimeter of the shape remain same after removing tile E.
 </code></pre>
 </div>
@@ -2145,11 +2145,11 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_trapezium_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of Tiles}     &= \dfrac {\text {Area of shape}} {\text {Area of a tile}} \\\\
@@ -2166,13 +2166,13 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the second diagram divided into two rectangles and one triangle along with the measurements.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into two rectangles and one triangle
 $
 \begin{aligned}
@@ -2399,13 +2399,13 @@ $72 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the rectangle $= w$
-
+<emptyline>
 Length of the rectangle $= 2w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (w + 2w)           &= 36 \\\\
@@ -2420,9 +2420,9 @@ w                           &= 6 \ \text {cm} \\\\
                             &= 12 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of the rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}            &= 6 \times 12 \\\\
@@ -2625,11 +2625,11 @@ $98 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the television $= w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {21} {w}                                     &= \dfrac {3} {4} \\\\

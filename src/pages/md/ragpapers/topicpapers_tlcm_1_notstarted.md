@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tlcm-1-notstarted"
 title: "TopicPaper - Lcm - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -1083,48 +1083,48 @@ $11$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the question all buses start at = $4.00 \ \text{pm}$
-
+<emptyline>
 Bus $42$ stops every $6$  minutes : use multiples of  $6$
-
+<emptyline>
 Let's workout the total buses that stop between $4.20$ and $4.50$ 
-
+<emptyline>
 Bus $42:$
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
 \text {Starts} &: 4:06 & 4:12 & 4:18\\
 \text {Between}&: 4:24 & 4:30 & 4:36 & 4:42 & 4:48 \\
 \end{array}
 $
-
+<emptyline>
 No. of Buses $= 5$ 
-
+<emptyline>
 Bus $43$ stops every $8$ minutes :use multiples of $8$
-
+<emptyline>
 Bus $43:$
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
 \text {Starts} &: 4:08 & 4:16 \\
 \text {Between}&: 4:24 & 4:32 & 4:40 & 4:48 \\
 \end{array}
 $
-
+<emptyline>
 No. of Buses $= 4$ 
-
+<emptyline>
 Bus $45$ stops every $15$ minutes :use multiples of $15$
-
+<emptyline>
 Bus $45:$
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
 \text {Starts} &: 4:00 & 4:15\\
 \text {Between}&: 4:30 & 4:45 \\
 \end{array}
 $
-
+<emptyline>
 No. of Buses $= 2$ 
-
+<emptyline>
 $5 + 4 + 2 =11$ buses stop between $4:20 \ \text{pm}$ and $4:50 \ \text{pm}$
 </code></pre>
 </div>

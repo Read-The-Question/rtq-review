@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-oldpr-prcc"
 title: "TopicPaper - Algebra - 2 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -98,11 +98,11 @@ How many rabbits weigh the same as six guinea pigs?
 <div class='workings'>
 <div class='working'>
 
-Let the weight of a rabbit $= r$.
+Let the weight of a rabbit $= r$
 
-Let the weight of a cat $= c$.
+Let the weight of a cat $= c$
 
-Let the weight of a guinea pig $= p$.
+Let the weight of a guinea pig $= p$
 
 As per the question,
 
@@ -124,6 +124,26 @@ $
 $
 
 Number of rabbits that weigh the same as six guinea pigs $= 4$ rabbits.
+
+</div>
+<div class='working'>
+
+Let the weight of a rabbit $= r$
+
+Let the weight of a cat $= c$
+
+Let the weight of a guinea pig $= p$
+
+As per the question,
+
+$
+\begin {aligned}
+4 r      &= 3 c \\\\
+         &= 2 c + 1 c \\\\
+         &= 4 p + 2 p \\\\
+         &= 6 p
+\end {aligned}
+$
 
 </div>
 </div>
@@ -137,22 +157,22 @@ $4$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the weight of a rabbit $= r$.
-
-Let the weight of a cat $= c$.
-
-Let the weight of a guinea pig $= p$.
-
+<pre class='language-latex'><code class='language-latex'>Let the weight of a rabbit $= r$
+<emptyline>
+Let the weight of a cat $= c$
+<emptyline>
+Let the weight of a guinea pig $= p$
+<emptyline>
 As per the question,
-
+<emptyline>
 $3 c = 4 r$
-
+<emptyline>
 $2 c = 4 p$
-
+<emptyline>
 Or,
-
+<emptyline>
 $1 c = 2 p$  So, 
-
+<emptyline>
 $
 \begin {aligned}
 4 r      &= 3 c \\\\
@@ -161,8 +181,28 @@ $
          &= 6 p
 \end {aligned}
 $
-
+<emptyline>
 Number of rabbits that weigh the same as six guinea pigs $= 4$ rabbits.
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Let the weight of a rabbit $= r$
+<emptyline>
+Let the weight of a cat $= c$
+<emptyline>
+Let the weight of a guinea pig $= p$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin {aligned}
+4 r      &= 3 c \\\\
+         &= 2 c + 1 c \\\\
+         &= 4 p + 2 p \\\\
+         &= 6 p
+\end {aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -193,6 +233,10 @@ Introduce a new answer answer.workings.
 = 4 p + 2 p 
 
 = 6 p
+
+
+
+Remove full stop(.) from the end of all first three lines.
 </div>
 
 <div class='review'>

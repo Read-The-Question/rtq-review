@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-g0"
 title: "TopicPaper - Number - 15 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4AF7B768-CBF8-4E4C-9565-AEB914711765</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -103,22 +103,25 @@ Find the value of $59.9 + 28.6$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+
+ABBR: Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
-     &    5   &   9 &  .   &   9   \\
-{}+  &    2   &   8 &  .   &   6   \\
+    &   5  &  9 \ .   &   9 \\
+{}+ &   2  &  8 \ .   &   6 \\
 \hline
-     &    8   &   8 &  .   &   5   
+    &   8  &  8 \ .   &   5
 \end{array}
 $
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='option'>
-<p>D</p>
+<p>d</p>
 </div>
 <div class='answer'>
 
@@ -129,22 +132,24 @@ $88.5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Remember to line up the decimal points.
-
+<pre class='language-latex'><code class='language-latex'>
+rtq_abbr_md_decimal_point_alignment_note
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
-     &    5   &   9 &  .   &   9   \\
-{}+  &    2   &   8 &  .   &   6   \\
+    &   5  &  9 \ .   &   9 \\
+{}+ &   2  &  8 \ .   &   6 \\
 \hline
-     &    8   &   8 &  .   &   5   
+    &   8  &  8 \ .   &   5
 \end{array}
 $
+<emptyline>
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>D</code></pre>
+<pre class='language-latex'><code class='language-latex'>d</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>

@@ -1,217 +1,10 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-oldpr"
 title: "TopicPaper - Algebra - 11 - OLDPR"
-date: 2022-08-01 21:41:58
-questions_count: "18"
+date: 2022-08-03 14:15:25
+questions_count: "14"
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>B40C9067-5309-4BDD-A6D3-04C7A850101A</p>
-</div>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:31</p>
-</div>
-<div class='rag'>
-<p>Arunim Singhal</p>
-</div>
-<div class='rag'>
-<p>rag_as_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-B40C9067-5309-4BDD-A6D3-04C7A850101A'>Initial</p>
-<div class='question question'>
-
-I think of a number, multiply it by $2$ and subtract $5$. The answer is $11$. What is my number? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 2 - 5    &= 11 \\\\
-2a                &= 11 + 5 \\\\
-2a                &= 16 \\\\
-a                 &= \dfrac {16} {2} \\\\
-a                 &= \dfrac {2 \times 8} {2} \\\\
-a                 &= \dfrac {\cancel {2} \times 8} {\cancel {2}} \\\\
-a                 &= 8
-\end{aligned}
-$
-
-The number $= 8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 2 - 5    &= 11 \\\\
-2a                &= 11 + 5 \\\\
-2a                &= 16 \\\\
-a                 &= \dfrac {16} {2} \\\\
-a                 &= \dfrac {2 \times 8} {2} \\\\
-a                 &= \dfrac {\cancel {2} \times 8} {\cancel {2}} \\\\
-a                 &= 8
-\end{aligned}
-$
-
-The number $= 8$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$8$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-As per the figure, the shape is divided into two equal triangles. 
-
-Then start katex
-
-Area of full shape = 2 x (Area of 1/2 Triangle) (fit your calculations accordingly)
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='B40C9067-5309-4BDD-A6D3-04C7A850101A' id='FORM-B40C9067-5309-4BDD-A6D3-04C7A850101A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B40C9067-5309-4BDD-A6D3-04C7A850101A'>Initial</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
@@ -357,20 +150,20 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the larger number $= a$
-
+<emptyline>
 Let the smaller number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + b &= 32 \\\\
 a - b &= 6 
 \end{aligned}
 $
-
+<emptyline>
 Adding the above two equations we get,
-
+<emptyline>
 $
 \begin {aligned}
 a + b + a - b &= 32 + 6 \\\\
@@ -381,7 +174,7 @@ a             &= \dfrac{\cancel {2} \times 19} {\cancel {2}} \\\\
 a             &= 19
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Larger number}   &= 19 \\\\
@@ -962,9 +755,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 7 + 8  &= 71 \\\\
@@ -1176,9 +969,9 @@ $8 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the height of the triangle $= h$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Area}                        &= 24 \ \text {cm}^2 \\\\
@@ -1192,7 +985,7 @@ h                                   &= 4 \times 2 \\\\
 h                                   &= 8 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Height of the triangle $= 8 \ \text {cm}$
 </code></pre>
 </div>
@@ -1265,509 +1058,6 @@ height = ..... use space before cm and that in \text{cm}
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-714A3922-27FE-4977-8C4F-8B64886AF8C2'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>7D2466F0-AE57-429A-BA31-12DECBC77D48</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:7</p>
-</div>
-<div class='rag'>
-<p>Arunim Singhal</p>
-</div>
-<div class='rag'>
-<p>rag_as_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-7D2466F0-AE57-429A-BA31-12DECBC77D48'>Initial</p>
-<div class='question question'>
-
-Write in the missing number to make this correct:
-
-$0.627 = 0.6 + 0.02 + \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-0.627       &= 0.60 + 0.02 + a \\\\
-0.627       &= 0.62 + a \\\\
-a           &= 0.627 - 0.620 \\\\
-a           &= 0.007
-\end{aligned}
-$
-
-The missing number $= 0.007$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.007$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-0.627       &= 0.60 + 0.02 + a \\\\
-0.627       &= 0.62 + a \\\\
-a           &= 0.627 - 0.620 \\\\
-a           &= 0.007
-\end{aligned}
-$
-
-The missing number $= 0.007$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0.007$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Solved wrong
-
-Start katex
-
-Put in one katex and use & and aligned...check your katex properly.. \\
-
-repeat question,
-
-then 
-
-0.627 = 0.6 + 0.02 + Missing number
-
-Missing number = 0.627 - (0.6+0.02)
-
-= 0.627 - 0.62
-
-= 0.007
-
-
-
-
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='7D2466F0-AE57-429A-BA31-12DECBC77D48' id='FORM-7D2466F0-AE57-429A-BA31-12DECBC77D48' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-7D2466F0-AE57-429A-BA31-12DECBC77D48'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>DFD8D8D5-83F1-4AA0-B9E2-0ED508142867</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:11</p>
-</div>
-<div class='rag'>
-<p>Arunim Singhal</p>
-</div>
-<div class='rag'>
-<p>rag_as_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-DFD8D8D5-83F1-4AA0-B9E2-0ED508142867'>Initial</p>
-<div class='question question'>
-
-Halid makes a sequence of $5$ numbers. The first number is $2$. The last number is $18$. 
-His rule is to add the same amount each time.
-
-Write in the missing numbers:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same.
-
-Let take the amount $= a$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
-{(+a)}}
-&&  \footnotesize {\maroonC
-{(+a)}}
-&&  \footnotesize {\maroonC
-{(+a)}}
-&&  \footnotesize {\maroonC
-{(+a)}} \\
-2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
-\end{matrix}
-$
-
-$
-\begin{aligned}
-2 + 4a      &= 18 \\\\
-4a          &= 18 - 2 \\\\
-4a          &= 16 \\\\
-a           &= \dfrac {4 \times 4} {4} \\\\
-a           &= \dfrac {4 \times \cancel{4}} {\cancel{4}} \\\\
-a           &= 4
-\end{aligned}
-$
-
-The amount Halid adds $= 4$
-
-Hence the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
-{(+4)}}
-&&  \footnotesize {\maroonC
-{(+4)}}
-&&  \footnotesize {\maroonC
-{(+4)}}
-&&  \footnotesize {\maroonC
-{(+4)}} \\
-2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
-\end{matrix}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6, 10, 14$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same.
-
-Let take the amount $= a$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\rtq_katex_color_info{(+a)}}
-&&  \footnotesize {\rtq_katex_color_info{(+a)}}
-&&  \footnotesize {\rtq_katex_color_info{(+a)}}
-&&  \footnotesize {\rtq_katex_color_info{(+a)}} \\
-2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
-\end{matrix}
-$
-
-$
-\begin{aligned}
-2 + 4a      &= 18 \\\\
-4a          &= 18 - 2 \\\\
-4a          &= 16 \\\\
-a           &= \dfrac {4 \times 4} {4} \\\\
-a           &= \dfrac {4 \times \cancel{4}} {\cancel{4}} \\\\
-a           &= 4
-\end{aligned}
-$
-
-The amount Halid adds $= 4$
-
-Hence the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\rtq_katex_color_info{(+4)}}
-&&  \footnotesize {\rtq_katex_color_info{(+4)}}
-&&  \footnotesize {\rtq_katex_color_info{(+4)}}
-&&  \footnotesize {\rtq_katex_color_info{(+4)}} \\
-2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
-\end{matrix}
-$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$6, 10, 14$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-As per the question,
-
-
-
-Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same. 
-
-
-
-Lets take the amount $=a$. Hence......
-
-delete a = 16/4
-
-delete As per the squence.
-
-After a = 4 
-
-The amount Halid adds = 4 
-
-Delete from First missing ..... 14
-
-Instead 
-
-Put a last line. Hence the sequence would be: 
-
-Present the sequence and underline under the missing number... show also (+4)
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' id='FORM-DFD8D8D5-83F1-4AA0-B9E2-0ED508142867' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-DFD8D8D5-83F1-4AA0-B9E2-0ED508142867'>Initial</p>
 </div>
 </div>
 </li>
@@ -1909,11 +1199,11 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of biscuits Julia has $= a$
-
+<emptyline>
 Number of biscuits Alysha has $= a + 2$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 2   &= 14 \\\\
@@ -1925,7 +1215,7 @@ a           &= \dfrac {\cancel {2} \times 6} {\cancel {2}} \\\\
 a           &= 6
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of biscuits Julia has}      &= 6 \\\\
@@ -2022,7 +1312,7 @@ No. of biscuits Alysha has =2 + a (Solve)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>7B74D5EE-ABDD-4862-9E72-635714D53045</p>
 </div>
@@ -2036,7 +1326,7 @@ No. of biscuits Alysha has =2 + a (Solve)
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2150,9 +1440,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 3) \times 5  &= 35 \\\\
@@ -2166,7 +1456,7 @@ a                 &= \dfrac {4 \times \cancel {5}} {\cancel {5}} \\\\
 a                 &= 4
 \end{aligned}
 $
-
+<emptyline>
 Jemma's number $= 4$
 </code></pre>
 </div>
@@ -2190,6 +1480,12 @@ Jemma's number $= 4$
 thinks to thought of.. Let the number Jemma thinks = a
 
 Jemmas number = 4
+
+
+
+First line should be
+
+\"Let the number Jemma thought of = a\"
 </div>
 
 <div class='review'>
@@ -2235,7 +1531,7 @@ Jemmas number = 4
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>786ECD30-5585-4FE5-91C7-28D8FFC8B3AE</p>
 </div>
@@ -2249,7 +1545,7 @@ Jemmas number = 4
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2373,13 +1669,13 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of bananas used $= a$
-
+<emptyline>
 Number of oranges used $= 2a$
-
+<emptyline>
 Number of apples used $= 3a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 2a + 3a &= 24 \\\\
@@ -2390,7 +1686,7 @@ a           &= \dfrac {4 \times \cancel {6}} {\cancel {6}} \\\\
 a           &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of bananas used}      &= 4 \\\\
@@ -2419,6 +1715,18 @@ $
 
 <h4>Review Comments</h4>
 in blue answer : 8 oranges
+
+
+
+In the [[sections.questions.answers]]
+
+answer = 
+
+$8 \ \text{oranges}$
+
+
+
+Add \text{oranges} like above in the answer section.
 </div>
 
 <div class='review'>
@@ -2460,213 +1768,6 @@ in blue answer : 8 oranges
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-786ECD30-5585-4FE5-91C7-28D8FFC8B3AE'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:3</p>
-</div>
-<div class='rag'>
-<p>Arunim Singhal</p>
-</div>
-<div class='rag'>
-<p>rag_as_oldpr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='addsubtag'>
-<h5>ADD: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='addSubTag(event)'>12</button>
-</ul>
-</div>
-<div class='removesubtag'>
-<h5>REMOVE: SUBTAGS</h5>
-<ul class='subtag'>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='1' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>1</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='2' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>2</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='3' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>3</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='4' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>4</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='5' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>5</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='6' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>6</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='7' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>7</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='8' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>8</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='9' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>9</button>
-<li class='subtag'></li>
-<button class='subtag selected' data-subtag='10' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>10</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='11' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>11</button>
-<li class='subtag'></li>
-<button class='subtag' data-subtag='12' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='removeSubTag(event)'>12</button>
-</ul>
-</div>
-
-<p class='review_status initial' id='SUBTAG-STATUS-9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF'>Initial</p>
-<div class='question question'>
-
-I am thinking of a number that when I multiply it by two and divide the result by four, then multiply the result of that by itself, gives me a number that when I subtract four and divide by ten, gives me six. What is the number that I originally thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {\dfrac {a \times 2} {4} \times \dfrac {a \times 2} {4} - 4 } {10}                                           &= 6 \\\\
-\dfrac {2 \times a} {2 \times 2} \times \dfrac {2 \times a} {2 \times 2} - 4                                        &= 6 \times 10 \\\\
-\dfrac {\cancel{2} \times a} {\cancel{2} \times 2} \times \dfrac {\cancel{2} \times a} {\cancel{2} \times 2} - 4    &= 60 \\\\
-\dfrac {a \times a} {2 \times 2}                                                                                    &= 60 + 4 \\\\
-\dfrac {a^2} {4}                                                                                                    &= 64 \\\\
-a^2                                                                                                                 &= 64 \times 4 \\\\
-a^2                                                                                                                 &= 256 \\\\
-a                                                                                                                   &= \sqrt {256} \\\\
-a                                                                                                                   &= 16
-\end{aligned}
-$
-
-The number $= 16$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {\dfrac {a \times 2} {4} \times \dfrac {a \times 2} {4} - 4 } {10}                                           &= 6 \\\\
-\dfrac {2 \times a} {2 \times 2} \times \dfrac {2 \times a} {2 \times 2} - 4                                        &= 6 \times 10 \\\\
-\dfrac {\cancel{2} \times a} {\cancel{2} \times 2} \times \dfrac {\cancel{2} \times a} {\cancel{2} \times 2} - 4    &= 60 \\\\
-\dfrac {a \times a} {2 \times 2}                                                                                    &= 60 + 4 \\\\
-\dfrac {a^2} {4}                                                                                                    &= 64 \\\\
-a^2                                                                                                                 &= 64 \times 4 \\\\
-a^2                                                                                                                 &= 256 \\\\
-a                                                                                                                   &= \sqrt {256} \\\\
-a                                                                                                                   &= 16
-\end{aligned}
-$
-
-The number $= 16$
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$16$
-</code></pre>
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-After step 3 calculated wrong . you changed the x to + . So solve again. answer should be 16
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' id='FORM-9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF'>Initial</p>
 </div>
 </div>
 </li>
@@ -2813,20 +1914,20 @@ $11 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of an apple $= a$
-
+<emptyline>
 Cost of a banana $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 3a + b  &= 32 \text {p} \\\\
 b       &= 32 - 3a
 \end {aligned}
 $
-
+<emptyline>
 Using the above calcuation we get,
-
+<emptyline>
 $
 \begin{aligned}
 6a + b  &= 53 \text {p} \\\\
@@ -2839,7 +1940,7 @@ a               &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
 a               &= 7 \text {p}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of an apple}    &= 7 \text {p} \\\\
@@ -2938,7 +2039,7 @@ after finding a .. then substitute it in one of the equation and get b..
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>D29C2F36-7EB5-46B2-8EF3-61D8FC17FEFD</p>
 </div>
@@ -2952,7 +2053,7 @@ after finding a .. then substitute it in one of the equation and get b..
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3096,9 +2197,9 @@ $91$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + 121     &= 212 \\\\
@@ -3106,7 +2207,7 @@ a           &= 212 - 121 \\\\
 a           &= 91
 \end {aligned}
 $
-
+<emptyline>
 The missing number $= 91$
 </code></pre>
 </div>
@@ -3165,9 +2266,9 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 6 \times b  &= 96 \\\\
@@ -3177,7 +2278,7 @@ b           &= \dfrac {\cancel {6} \times 16} {\cancel {6}} \\\\
 b           &= 16
 \end {aligned}
 $
-
+<emptyline>
 The Missing number $= 16$
 </code></pre>
 </div>
@@ -3234,6 +2335,12 @@ a &= 96/6 solve further..
 
 
 No need to put the repeatation of question in boxed form in answer.workings.
+
+
+
+Part b)
+
+Solve it using the variable name as a instead of b.
 </div>
 
 <div class='review'>
@@ -3279,7 +2386,7 @@ No need to put the repeatation of question in boxed form in answer.workings.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prpcr question'>
 <div class='uuid'>
 <p>E095A1B1-A5D7-4A9A-9C71-AB7E49731549</p>
 </div>
@@ -3293,7 +2400,7 @@ No need to put the repeatation of question in boxed form in answer.workings.
 <p>rag_as_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3403,7 +2510,7 @@ $16 \ \text {seconds}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Time taken by Jess}  &= 18 \ \text {seconds} \\\\
@@ -3432,19 +2539,9 @@ $
 <div class='review-comments'>
 
 <h4>Review Comments</h4>
-Put time take by jess also in katex .
+It is a simple word problem.
 
-add after that Time taken by Jo &= 18 seconds - 6 seconds
-
-Time take by Mary (not Mari) &= Time taken my Jo + 4 seconds
-
-&= 18 - 6 + 4
-
-&= 16 seconds.
-
-
-
-so make changes also in blue answer
+Remove the APTQ (As per...) line.
 </div>
 
 <div class='review'>
@@ -3624,27 +2721,27 @@ $17 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of an apple $= a$
-
+<emptyline>
 Let the cost of an orange $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 2b  &= 48 \text {p} \\\\
 a + b   &= 31 \text {p}
 \end{aligned}
 $
-
+<emptyline>
 Subtracting the above two equations we get,
-
+<emptyline>
 $
 \begin {aligned}
 a + 2b - a - b  &= 48 - 31 \\\\
 b               &= 17 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 Cost of $1$ orange $= 17 \text {p}$
 </code></pre>
 </div>
@@ -3880,22 +2977,22 @@ $\pounds 1.70$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 Let the money Alysha had (in $\pounds$) $= a$
-
+<emptyline>
 Let the money Julia had (in $\pounds$) $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a   &= b + 20 \text {p} \\\\
 a   &= b + \pounds 0.20
 \end {aligned}
 $
-
+<emptyline>
 Using this we get,
-
+<emptyline>
 $
 \begin {aligned}
 a + b           &= \pounds 3.20 \\\\
@@ -3907,7 +3004,7 @@ b               &= \dfrac {3} {2} \\\\
 b               &= \pounds 1.50
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Julia had}   &= \pounds 1.50 \\\\
@@ -4156,9 +3253,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 3 + 6      &= a + 16 \\\\
@@ -4170,7 +3267,7 @@ a                   &= \dfrac {\cancel {2} \times 5} {\cancel {2}} \\\\
 a                   &= 5
 \end{aligned}
 $
-
+<emptyline>
 The number $= 5$
 </code></pre>
 </div>
@@ -4423,34 +3520,34 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $a \times b = 84$
-
+<emptyline>
 $a + b = 20$
-
+<emptyline>
 We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
-
+<emptyline>
 - Both the numbers should be smaller than $20$
 - The product of the $2$ numbers is $84$ 
 - The sum of the $2$ numbers is $20$.
-
+<emptyline>
 Factors of $84 = 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84$
-
+<emptyline>
 Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
-
+<emptyline>
 | Factors   |  Sum  | Numbers $< 20$    |
 |:-------:  |:----: |:---------------:  |
 | $6, 14$   | $20$  |       Yes         |
 | $7, 12$   | $19$  |       Yes         |
-
+<emptyline>
 A quick check shows that $6$ and $14$ meets all the criteria above.
-
+<emptyline>
 *Note: The two equations form a quadratic equation. rtq_abbr_md_quadratic_note*
-
+<emptyline>
 The two numbers which Winston thinks $= 6,14$
 </code></pre>
 </div>
@@ -4521,9 +3618,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the new number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 9 - 15     &= 66 \\\\
@@ -4535,7 +3632,7 @@ a                   &= \dfrac {\cancel{9} \times 9} {\cancel{9}} \\\\
 a                   &= 9
 \end{aligned}
 $
-
+<emptyline>
 The new number $= 9$
 </code></pre>
 </div>

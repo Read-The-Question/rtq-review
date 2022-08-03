@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g2"
 title: "TopicPaper - Angle - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -140,13 +140,13 @@ $42 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the missing angle $= a$
-
+<emptyline>
 As the triangle is an isosceles triangle, the third angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a  + a + 96                             &= 180   \\\\
@@ -159,7 +159,7 @@ a                                       &= \dfrac {42 \times \cancel{2}}{\cancel
 a                                       &= 42  \degree
 \end{aligned}
 $
-
+<emptyline>
 Missing angle $= 42  \degree$
 </code></pre>
 </div>
@@ -348,11 +348,11 @@ $67 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the missing angle $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 90  + 23             &= 180  \\\\
@@ -360,7 +360,7 @@ a                        &= 180 - 90 - 23 \\\\
 a                        &= 67 \degree
 \end{aligned}
 $
-
+<emptyline>
 Missing angle $= 67 \degree$
 </code></pre>
 </div>
@@ -547,11 +547,11 @@ $300 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 The acute angle is approximately $60 \degree$.
-
+<emptyline>
 Using that we get,
-
+<emptyline>
 $
 \begin{aligned}
 r + 60      &= 360 \\\\
@@ -778,21 +778,21 @@ $27 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 *TODO:: Add an image with vertices marked ABCD. The smaller trialge is ABD and the bigger one is ABC.*
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram, the triangle $ABD$ is an isosceles triangle.
-
+<emptyline>
 Let the missing angle $= a$
-
+<emptyline>
 Let the angle in the isosceles triangle $ABD = b$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 b + b + 62      &= 180 \\\\
@@ -803,9 +803,9 @@ b               &= \dfrac {118} {2} \\\\
 b               &= 59 \degree
 \end {aligned}
 $
-
+<emptyline>
 Let's use the value of $b$ in the triangle $ABC$.
-
+<emptyline>
 $
 \begin {aligned}
 b + 32 + 62 + a     &= 180 \\\\
@@ -815,7 +815,7 @@ a                   &= 180 - 153 \\\\
 a                   &= 27 \degree
 \end {aligned}
 $
-
+<emptyline>
 
 Missing angle $= 27 \degree$
 </code></pre>
@@ -1083,9 +1083,9 @@ $135 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 B + 45        &= 180  \\\\
@@ -1281,11 +1281,11 @@ $79 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the third angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 49 + 52 + a    &= 180 \\\\
@@ -1294,7 +1294,7 @@ a              &= 180 - 101 \\\\
 a              &= 79 \degree
 \end{aligned}
 $
-
+<emptyline>
 Third angle $= 79 \degree$
 </code></pre>
 </div>
@@ -1490,11 +1490,11 @@ $48 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the third angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 25 + 107 + a &= 180 \\\\
@@ -1503,7 +1503,7 @@ a            &= 180 - 132 \\\\
 a            &= 48 \degree
 \end{aligned}
 $
-
+<emptyline>
 Third angle $= 48 \degree$
 </code></pre>
 </div>
@@ -1711,11 +1711,11 @@ $y$ $=$ $52 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 104     &= 180   \\\\
@@ -1723,9 +1723,9 @@ x           &= 180  - 104  \\\\
 x           &= 76 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $x$ to find $y$.
-
+<emptyline>
 $
 \begin{aligned}
 x  + y + y              &= 180 \\\\
@@ -1928,7 +1928,7 @@ $60 \ \text {degrees}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Angle}   &= 110 \degree - 50 \degree \\\\
@@ -2141,11 +2141,11 @@ $a = 48 \degree, b = 63 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 132 &= 180 \\\\
@@ -2153,9 +2153,9 @@ a       &= 180 - 132 \\\\
 a       &= 48 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $b$.
-
+<emptyline>
 $
 \begin{aligned}
 a + b + 69                                              &= 180 \\\\
@@ -2353,11 +2353,11 @@ $62 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the missing angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 85 + 33 &= 180 \\\\
@@ -2366,7 +2366,7 @@ a           &= 180 - 118 \\\\
 a           &= 62 \degree
 \end{aligned}
 $
-
+<emptyline>
 Missing angle $= 62 \degree$
 </code></pre>
 </div>
@@ -2570,13 +2570,13 @@ $35 \degree$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add an image with angles inside of the triangle shown *
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 k + (180 - 130) + (180 - 85)    &= 180 \\\\
@@ -2770,11 +2770,11 @@ $43 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the size of the third angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 137      &= 180  \\\\
@@ -2782,7 +2782,7 @@ a            &= 180 - 137  \\\\
 a            &= 43 \degree
 \end{aligned}
 $
-
+<emptyline>
 Third angle $= 43 \degree$
 </code></pre>
 </div>
@@ -2968,11 +2968,11 @@ $131 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the size of the third angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 49       &= 180  \\\\
@@ -2980,7 +2980,7 @@ a            &= 180 - 49  \\\\
 a            &= 131 \degree
 \end{aligned}
 $
-
+<emptyline>
 Third angle $= 131 \degree$
 </code></pre>
 </div>
@@ -3167,11 +3167,11 @@ $122 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the size of the third angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 36 + 22     &= 180  \\\\
@@ -3180,7 +3180,7 @@ a               &= 180 - 58  \\\\
 a               &= 122 \degree
 \end{aligned}
 $
-
+<emptyline>
 Third angle $= 122 \degree$
 </code></pre>
 </div>
@@ -3366,11 +3366,11 @@ $91 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the size of the third angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 89       &= 180  \\\\
@@ -3378,7 +3378,7 @@ a            &= 180 - 89  \\\\
 a            &= 91 \degree
 \end{aligned}
 $
-
+<emptyline>
 Third angle $= 91 \degree$
 </code></pre>
 </div>
@@ -3595,7 +3595,7 @@ $180 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As shown in the figure,
-
+<emptyline>
 $x = 180 \degree$
 </code></pre>
 </div>
@@ -3669,13 +3669,13 @@ $35 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the third angle of the triangle $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 70 &= 180 \\\\
@@ -3683,9 +3683,9 @@ a      &= 180 - 70 \\\\
 a      &= 110 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $y$.
-
+<emptyline>
 $
 \begin{aligned}
 y + y + a   &= 180 \\\\
@@ -3923,9 +3923,9 @@ $72 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 108 &= 180 \\\\
@@ -3992,9 +3992,9 @@ $36 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 y + y + 108 &= 180 \\\\
@@ -4219,15 +4219,15 @@ $64$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add an image with the angles inside the triangle shown as per the value below *
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + (180 - 100) + (360 - 324)              &= 180 \\\\
@@ -4459,9 +4459,9 @@ $91 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 52 + 37     &= 180  \\\\
@@ -4526,9 +4526,9 @@ $111 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 b + 115 + 134   &= 360  \\\\

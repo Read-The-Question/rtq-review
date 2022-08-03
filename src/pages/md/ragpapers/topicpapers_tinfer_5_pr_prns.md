@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-5-pr-prns"
 title: "TopicPaper - Infer - 5 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -185,7 +185,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>From first image,
-
+<emptyline>
 $
 \begin{aligned}
 &= 13 \times 3 + 7 + 8 \\\\
@@ -193,11 +193,11 @@ $
 &= 54
 \end{aligned}
 $
-
+<emptyline>
 From second image,
-
+<emptyline>
 Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 12 \times 4 + a + 6 &= 55 \\\\
@@ -207,13 +207,13 @@ a &= 55 - 54 \\\\
 a &= 1
 \end{aligned}
 $
-
+<emptyline>
 From third image,
-
+<emptyline>
 Let the first missing number $= a$
-
+<emptyline>
 Let the second missing number $= b$
-
+<emptyline>
 $
 \begin{aligned}
 a \times b + 9 + 8 &= 38 \\\\

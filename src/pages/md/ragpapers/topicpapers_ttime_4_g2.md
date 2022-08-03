@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-g2"
 title: "TopicPaper - Time - 4 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -1941,9 +1941,9 @@ $31 \text{st January}$
                             &= 10{:}00
 \end{aligned}
 $
-
+<emptyline>
 Matilda receives the call in Australia at $10{:}00$ on $31 \text{st}$ January.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2018,7 +2018,7 @@ $1 \text{st February}$
                           & = 13{:}00
 \end{aligned}
 $
-
+<emptyline>
 Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 </code></pre>
 </div>
@@ -2216,7 +2216,7 @@ $112 \ \text{minutes}$
                             &= 112  \ \text {minutes}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2399,7 +2399,7 @@ $90 \ \text {hours}$
                       &= 90 \ \text{hours}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-3-oldpr-prcr"
 title: "TopicPaper - Ratio - 3 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "3"
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -132,7 +132,7 @@ $\pounds 3.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of} \  11 \  \text{pencils}  &=  \pounds 4.95 \\\\
@@ -216,10 +216,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -335,9 +335,9 @@ $\pounds 8.75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of} 25 \text{pens}  &= 25 \times \text{The Cost of each pen} \\\\
@@ -419,10 +419,10 @@ line 2: give comma after APTQ                                                   
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -546,7 +546,7 @@ $\pounds 14.90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of download five apps}       &= \text{Cost of downloading one app} \times \text{Number of apps} \\\\
@@ -554,9 +554,9 @@ $
                                         &= \pounds 2.98 \times 5
 \end{aligned}
 $
-
+<emptyline>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
                  & 2     & 9     & 8     \\
@@ -566,13 +566,13 @@ $
 \hline 
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= \pounds 14.90$
-
+<emptyline>
 The cost of download $5$ apps $= \pounds 14.90$
 </code></pre>
 </div>

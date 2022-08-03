@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g0"
 title: "TopicPaper - Angle - 1 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "2"
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:3:3</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -152,11 +152,11 @@ $a = 48 \degree, b = 63 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 132                                                &= 180 \\\\
@@ -164,9 +164,9 @@ a                                                      &= 180 - 32 \\\\
 a                                                      &= 48 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $b$.
-
+<emptyline>
 $
 \begin{aligned}
 a + b + 69                                              &= 180 \\\\
@@ -249,7 +249,7 @@ Please change that, as formualas do not capture exterior angle either.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C2C2B5E4-3444-4E62-A460-C54A7D2EB3FB</p>
 </div>
@@ -257,13 +257,13 @@ Please change that, as formualas do not capture exterior angle either.
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -367,9 +367,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>One complete turn $= 360 \degree$
-
+<emptyline>
 One right angle $=90 \degree$
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total right angles in two turns}     &= \dfrac {360 \times 2} {90} \\\\

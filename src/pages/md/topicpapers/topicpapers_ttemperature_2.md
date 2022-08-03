@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-2"
 title: "TopicPaper - Temperature - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <div class='paper'>
@@ -319,7 +319,7 @@ $21 \degree \text {C}$
                     &= 21 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -586,7 +586,7 @@ $
                   &= 22 \degree\text{C}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -639,7 +639,7 @@ $17 \degree \text{C}$
 \text{Difference} &= 9 - (-8) \\\\
                   &= 17 \degree\text{C}
 \end{aligned}
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -754,7 +754,7 @@ St. Petersburg &9 - (-8) &= 17 \\    \hdashline
 \hline
 \end{array}
 $
-
+<emptyline>
 Munich with $25 \degree$ has the largest difference.
 </code></pre>
 </div>
@@ -1074,7 +1074,7 @@ $
                                          &= -8 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

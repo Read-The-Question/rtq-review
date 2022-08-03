@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tvolume-1-notstarted"
 title: "TopicPaper - Volume - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -2133,25 +2133,25 @@ $150, 200\text{cm}^3$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the volume of big box  be V ,
-
+<emptyline>
 $
 \begin{aligned}
 V &= 6\text{cm} \times 10 \text{cm} \times 20 \text{cm} \\\\
 V &= 1200 \text{cm}^3
 \end{aligned}
 $
-
+<emptyline>
 Let the volume of small box be v,
-
+<emptyline>
 $
 \begin{aligned}
 V &= 2\text{cm} \times 2 \text{cm} \times 2 \text{cm} \\\\
 V &= 8 \text{cm}^3
 \end{aligned}
 $
-
+<emptyline>
 Let the number of small boxes fit into big box be N,
-
+<emptyline>
 $
 \begin{aligned}
 N &= \dfrac {V} {v} \\\\
@@ -2161,7 +2161,7 @@ N &= \dfrac {\cancel {8} \times 150 } {\cancel {8} } \\\\\
 N &= 150
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 1200 - 1 \ \text{litre} \\\\\
@@ -3196,7 +3196,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of blocks}         &= \dfrac{\text{Volume of container}}{\text{Volume of block}} \\\\
@@ -5707,7 +5707,7 @@ $30 \text{cm}^3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \text{Volume}       &= \text{length} \times \text{width} \times \text{height} \\\\
                     &= 5 \times 3 \times 2 \\\\

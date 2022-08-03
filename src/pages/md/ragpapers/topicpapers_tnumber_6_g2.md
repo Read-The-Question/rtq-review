@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-g2"
 title: "TopicPaper - Number - 6 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -123,7 +123,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= 36 \div (9 + 3) \\\\
@@ -2219,7 +2219,7 @@ $70$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= ((7 + 3) \times 11) - (7 + (3 \times 11)) \\\\
@@ -2438,7 +2438,7 @@ $
          &= -8
 \end{aligned}
 $
-
+<emptyline>
 Different Value $= 3 - (7 - 4)$
 </code></pre>
 </div>
@@ -3242,7 +3242,7 @@ $48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= ((4 + 2) \times 13) - (4 + (2 \times 13)) \\\\
@@ -3900,7 +3900,7 @@ $120$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= ((20 + 1) \times 7) - (20 + (1 \times 7)) \\\\
@@ -4751,7 +4751,7 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= 18 - 6 + 7 \\\\
@@ -4818,9 +4818,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 21 - (a \times 3) &= 9 \\\\
@@ -4833,7 +4833,7 @@ a                 &= \dfrac{4 \times \cancel 3}{\cancel 3} \\\\
 a                 &= 4
 \end{aligned}
 $
-
+<emptyline>
 $21 - (\underline{4} \times 3) = 9$
 </code></pre>
 </div>
@@ -4887,7 +4887,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= 16 - (-3) ^2 \\\\
@@ -5370,7 +5370,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 6 - 2 + 3 \times 4 \\\\
@@ -5561,7 +5561,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text{First prime number}           &= 2 \\\\
@@ -5769,7 +5769,7 @@ $(22 - 10 + 8) \div 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 \text{A}    &= 22 - (10 + 8)\div 4 \\\\

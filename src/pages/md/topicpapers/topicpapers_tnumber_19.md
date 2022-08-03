@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-19"
 title: "TopicPaper - Number - 19"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -186,29 +186,29 @@ $\times 0.5, + 1.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input $= x$
-
+<emptyline>
 Let the rule $= a \times x + b$
-
+<emptyline>
 From Row 1, where $x = -1$
-
+<emptyline>
 $
 \begin{aligned}
 a \times -1 + b &= 1 \\\\
 b - a &= 1
 \end{aligned}
 $
-
+<emptyline>
 From Row 2, where $x = 0$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 0 + b &= 1.5 \\\\
 b &= 1.5
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\',
-
+<emptyline>
 $
 \begin{aligned}
 b - a &= 1 \\\\
@@ -216,13 +216,13 @@ b - a &= 1 \\\\
 a &= 0.5
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the rule $= 0.5 \times x + 1.5$
-
+<emptyline>
 Lets verify,
-
+<emptyline>
 From Row 3, where $x = 2$
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.5 \times 2 + 1.5 \\\\
@@ -230,9 +230,9 @@ $
 &= 2.5 = 2.5
 \end{aligned}
 $
-
+<emptyline>
 From Row 4, where $x = 5$
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.5 \times 5 + 1.5 \\\\
@@ -240,7 +240,7 @@ $
 &= 4 = 4
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the labels are **$\times 0.5$** , **$+ 1.5$**
 </code></pre>
 </div>
@@ -1328,21 +1328,21 @@ $
 &= 1
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 121 &= 1 + 2 + 1 \\\\
 &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 144 &= 1 + 4 + 4 \\\\
 &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 196 &= 1 + 9 + 6 &= 16 \\\\
@@ -1350,14 +1350,14 @@ $
 &= 7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 225 &= 2 + 2 + 5 \\\\
 &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 256 &= 2 + 5 + 6 &= 13 \\\\
@@ -1365,7 +1365,7 @@ $
 &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Digital root of} \ 289 &= 2 + 8 + 9 &= 19 \\\\
@@ -2086,9 +2086,9 @@ $29$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 17 + a  &= 23 \times 2 \\\\
@@ -2152,9 +2152,9 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 9 + (5 \times 7)  &= 47 - a \\\\
@@ -2220,9 +2220,9 @@ $\dfrac {1} {4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 16  &= 36 \div 9 \\\\
@@ -2719,7 +2719,7 @@ $7.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin {aligned}
 &= 90 \div 12 \\\\
@@ -2783,7 +2783,7 @@ $37.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin {aligned}
 &= 900 \div 24 \\\\
@@ -3575,9 +3575,9 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 7) \times 4        &= 120 \\\\
@@ -3730,11 +3730,11 @@ $-3 \ \text{then}\ \times 2 \\\\ \text{Or,}\ \times 2 \ \text{then}\ - 6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**Rule 1**
-
+<emptyline>
 Let first label $= + a$
-
+<emptyline>
 Let second label $= \times b$
-
+<emptyline>
 $
 \begin{aligned}
 (5 + a) \times b &= 4 \\\\
@@ -3743,9 +3743,9 @@ $
 8b + ab &= 10
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'b\'
-
+<emptyline>
 $
 \begin{aligned}
 8b + ab &= 10 \\\\
@@ -3758,9 +3758,9 @@ b &= \dfrac{2 \times \cancel 3}{\cancel 3} \\\\
 b &= 2
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\'
-
+<emptyline>
 $
 \begin{aligned}
 5b + ab &= 4 \\\\
@@ -3772,17 +3772,17 @@ a &= \dfrac{-6}{2} \\\\
 a &= -3
 \end{aligned}
 $
-
+<emptyline>
 Therefore,
-
+<emptyline>
 The rule $= - 3 \ \text{then}\ \times 2$
-
+<emptyline>
 **Rule 2**
-
+<emptyline>
 Let first label $= \times a$
-
+<emptyline>
 Let second label $= + b$
-
+<emptyline>
 $
 \begin{aligned}
 5 \times a + b &= 4 \\\\
@@ -3791,9 +3791,9 @@ $
 8a + b &= 10
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\'
-
+<emptyline>
 $
 \begin{aligned}
 8a + b &= 10 \\\\
@@ -3804,9 +3804,9 @@ a &= \dfrac{6}{3} \\\\
 a &= 2
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'b\'
-
+<emptyline>
 $
 \begin{aligned}
 5a + b &= 4 \\\\
@@ -3816,9 +3816,9 @@ b &= 4 - 10 \\\\
 b &= -6
 \end{aligned}
 $
-
+<emptyline>
 Therefore,
-
+<emptyline>
 The rule $= \times 2 \ \text{then}\ - 6$
 </code></pre>
 </div>
@@ -4094,7 +4094,7 @@ $49853$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The 2 numbers close to $50000$ are $49853$ and $51348$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Difference 1}    &= 51348 - 50000 \\\\
@@ -4103,7 +4103,7 @@ $
                         &= 147
 \end {aligned}
 $
-
+<emptyline>
 Nearest number $= 49853$
 </code></pre>
 </div>
@@ -4728,7 +4728,7 @@ $2.9 \ \text{inches}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Length of the pencil}  &= 3.6 \ \text {inches} - 0.7 \ \text {inches} \\\\
@@ -5318,9 +5318,9 @@ $6$
 &= 10 \text{litre}
 \end{aligned}
 $
-
+<emptyline>
 Let number of times jug can be filled $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 1.5 &= 10 \\\\
@@ -5332,9 +5332,9 @@ a &= \dfrac{20}{3} \\\\
 a &= 6.66
 \end{aligned}
 $
-
+<emptyline>
 Since the jug had to be completely filled,
-
+<emptyline>
 Total times $= 6$
 </code></pre>
 </div>
@@ -5516,7 +5516,7 @@ $2916$
 &= 2916
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5703,7 +5703,7 @@ $19 \times 3 \ \quad  \boxed{\green
                         &= 56
 \end{aligned}
 $
-
+<emptyline>
 $19 \times 3 \ \boxed{\rtq_katex_color_answer{>}} \ 28 \times 2$
 </code></pre>
 </div>
@@ -5892,9 +5892,9 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Lisa’s favourite number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times a - 3      &= 19 \\\\
@@ -5906,7 +5906,7 @@ a                   &= \dfrac {11 \times \cancel {2}} {\cancel {2}} \\\\
 a                   &= 11
 \end{aligned}
 $
-
+<emptyline>
 Lisa’s favourite number $= 11$
 </code></pre>
 </div>
@@ -6453,7 +6453,7 @@ $
 &= 5.6950
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -7038,9 +7038,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be inferred by using trial and error.
-
+<emptyline>
 Marks $7$ and $20$ meet the criteria. Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Bella’s marks}       &= 7 \\\\
@@ -7450,7 +7450,7 @@ $51$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= (4 \times 11) - (4 - 11)  \\\\
@@ -7679,9 +7679,9 @@ $\pounds 2.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 Let's convert pounds to pence.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total amount} &= \pounds 4 \\\\
@@ -7689,9 +7689,9 @@ $
 &= 400 \text{p}
 \end{aligned}
 $
-
+<emptyline>
 Rodger pays back $30 \%$. So,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Amount paid} &= 30\% \text{ of } 400 \\\\
@@ -7700,9 +7700,9 @@ $
 &= 120  \text{p} 
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the amount Rodger still owes Neil.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Amount owed} &= 400 - 120 \\\\
@@ -7716,10 +7716,10 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Can we do better than the previous solution? 
-
+<emptyline>
 If Rodger has paid back $30\%$ of the money, he still has $70\%$ to pay. 
 So we can directly calculate the amount owed and save on calculating the amount paid as well.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Amount owed} &= 70\% \text{ of } 400 \\\\
@@ -9443,9 +9443,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>4, 9, 25 ...
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 \text {Factors of 4}  &= 1, 2, 4 \\\\
@@ -9601,7 +9601,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>97
-
+<emptyline>
 97 is the only prime number between 90 and 100
 </code></pre>
 </div>
@@ -9685,7 +9685,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number between $\dfrac{1}{3}$ and $\dfrac{1}{2}$ = $a$
-
+<emptyline>
 $
 \begin{aligned}
 a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
@@ -9698,7 +9698,7 @@ a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
 a &= \dfrac{5}{12}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -9777,16 +9777,16 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>21
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 &= {21^2} \\\\
 &= 441
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -10156,7 +10156,7 @@ $1643.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 5200 \times 0.316 \\\\
@@ -10166,7 +10166,7 @@ $
 &= 1643.2
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -10630,7 +10630,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Factors of $72 = 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72$
-
+<emptyline>
 Total factors $= 12$ 
 </code></pre>
 </div>
@@ -10902,7 +10902,7 @@ $6$
 |:----------------:|:-----------------------------------------------:|
 | $5$              | $5 \times 4 \times 3 \times 2 \times 1 = 120$   |
 | $6$              | $120 \times 6 = 720$                            |
-
+<emptyline>
 $x = 6$
 </code></pre>
 </div>

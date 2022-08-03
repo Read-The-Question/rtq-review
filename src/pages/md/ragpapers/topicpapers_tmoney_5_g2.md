@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-5-g2"
 title: "TopicPaper - Money - 5 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -492,7 +492,7 @@ $35$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of plants}     &= \dfrac {\text{Total money}} {\text{Cost of a plant}} \\\\
@@ -690,7 +690,7 @@ $\pounds 1.89$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 2 \times 53 \text {p} + 3 \times 27 \text {p} + \pounds 1.24 \\\\
@@ -1002,7 +1002,7 @@ $6 \ \text {oranges}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 
 $
 \begin {aligned}

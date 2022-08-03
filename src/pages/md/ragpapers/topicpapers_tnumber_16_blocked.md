@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-blocked"
 title: "TopicPaper - Number - 16 - BLOCKED"
-date: 2022-08-01 21:41:58
-questions_count: "10"
+date: 2022-08-03 14:15:25
+questions_count: "11"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -125,18 +125,18 @@ $35$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$6.9201$ rounded off to nearest whole number $= 7$
-
+<emptyline>
 $\sqrt{\smash[b]{26}} \text { is near to} \  \sqrt{\smash[b]{25}}$
-
+<emptyline>
 $ = \sqrt{\smash[b]{25}} \\\\$
 $ = 5$
-
+<emptyline>
 $6.9201 \times \sqrt{\smash[b]{26}}$ is approximately
-
+<emptyline>
 $=7 \times 5$
-
+<emptyline>
 $=35$
-
+<emptyline>
 The number nearest to the value of $6.9201 \times \sqrt{\smash[b]{26}} = 35$
 </code></pre>
 </div>
@@ -276,17 +276,17 @@ $7325$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A multiple of $5$ will have in unit place $5$
-
+<emptyline>
 Let's arrange rest of the numbers $3, 7$ and $2$ in descending order,
-
+<emptyline>
 $7 > 3 > 2$
-
+<emptyline>
 $7$ at thousands-place
-
+<emptyline>
 $3$ at hundreds-place and 
-
+<emptyline>
 $2$ at tens-place 
-
+<emptyline>
 The largest possible four-digit which is a multiple of $5$, using numbers $5, 3, 7$ and $2 = 7325$
 </code></pre>
 </div>
@@ -552,11 +552,11 @@ $275$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 The gap between every line $= 25$. Using this we get, 
-
+<emptyline>
 $= 200 + 25 + 25 + 25 = 275$
-
+<emptyline>
 The arrow is pointing at $275$. 
 </code></pre>
 </div>
@@ -1106,6 +1106,160 @@ $
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
+<p>DC082ECB-D148-4B24-9DA0-CFEBA40072D2</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:11</p>
+</div>
+<div class='rag'>
+<p>Deepak Agrahari</p>
+</div>
+<div class='rag'>
+<p>rag_da_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='DC082ECB-D148-4B24-9DA0-CFEBA40072D2' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-DC082ECB-D148-4B24-9DA0-CFEBA40072D2'>Initial</p>
+<div class='question question'>
+
+Write down the number that the arrow is pointing to on the scale.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4.65$
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.65$
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$4.65$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>TODOWORKING
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4.65$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
 <p>9A7731E6-A10D-4E1C-BE92-A499746AB9E7</p>
 </div>
 <div class='papername'>
@@ -1481,7 +1635,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
 </div>
@@ -1495,7 +1649,7 @@ $13$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1650,7 +1804,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Chrissy think of $=a$,
-
+<emptyline>
 $
 \begin{aligned}
 2a + 5 &= 33 \\\\
@@ -2061,9 +2215,9 @@ $\text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Mandy's thumb is approximately $\underline {50 \ \text {mm}}$ long.
-
+<emptyline>
 A glass could contain $\underline {250 \ \text {ml}}$ of orange juice.
-
+<emptyline>
 A house could be $\underline {7.5 \ \text {m}}$ tall.
 </code></pre>
 </div>
@@ -2182,7 +2336,7 @@ $5 \ \text {g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the scale,
-
+<emptyline>
 $
 \begin{aligned}
 \text {mass represented by an interval}         &= 10 \ \text {g} \\\\
@@ -2250,7 +2404,7 @@ $230 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the scale,
-
+<emptyline>
 $
 \begin{aligned}
 \text {mass represented by an interval}         &= 25 \ \text {g} \\\\
@@ -2318,7 +2472,7 @@ $2.4 \ \text {kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the scale,
-
+<emptyline>
 $
 \begin{aligned}
 \text {mass represented by an interval}         &= 1 \ \text {kg} \\\\

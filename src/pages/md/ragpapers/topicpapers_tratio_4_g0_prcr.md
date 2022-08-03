@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-4-g0-prcr"
 title: "TopicPaper - Ratio - 4 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "2"
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -130,9 +130,9 @@ $27 \ \text{zebras}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5$ rhinos will balance $6$ zebras and $3$ rhinos. Or $5 - 3 = 2$ rhinos will balance $6$ zebras.
-
+<emptyline>
 Putting this into ratio form we get,
-
+<emptyline>
 $
 \begin{aligned}
 2 \ \text{rhinos}               &: 6 \ \text{zebras} \\\\
@@ -144,7 +144,7 @@ $
 9 \ \text{rhinos}               &: 27 \ \text{zebras}
 \end{aligned}
 $
-
+<emptyline>
 Zebras needed $= 27$
 </code></pre>
 </div>
@@ -214,10 +214,10 @@ Zebras needed $= 27$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -336,15 +336,15 @@ $\pounds 1600$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, 
-
+<emptyline>
 Cost to carpet a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $\pounds 400$
-
+<emptyline>
 Area of a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $2 \times 3 = 6 \text{m}^2$
-
+<emptyline>
 Cost to carpet a room measuring $1\, \text {metres}$ by $1\, \text {metres}$ = $\dfrac{400} {6}$
-
+<emptyline>
 Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\dfrac{400} {6} \times 4 \times 6$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{400} {\cancel {6}} \times 4 \times \cancel {6} \\\\\
@@ -352,7 +352,7 @@ $
 &= \pounds 1600
 \end{aligned}
 $
-
+<emptyline>
 Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\pounds 1600$
 </code></pre>
 </div>

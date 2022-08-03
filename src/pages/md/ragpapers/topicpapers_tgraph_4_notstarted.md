@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-4-notstarted"
 title: "TopicPaper - Graph - 4 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "35"
 ---
 <ul class='question default-decimal'>
@@ -2661,7 +2661,7 @@ She travelled altogether $= 60 \ \text{miles}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>For such questions, it will be easier to write down the route taken.
-
+<emptyline>
 
 $
 \begin{matrix}
@@ -2674,7 +2674,7 @@ $
 &&  \footnotesize{\maroonC{(+10)}} \\
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
       & = 10 + 9 + 18 + 13 + 10         \\\\
@@ -2682,7 +2682,7 @@ $
       & = 60 \ \text{miles}                               
 \end{aligned}
 $
-
+<emptyline>
 She travelled altogether $= 60 \ \text{miles}$
 </code></pre>
 </div>
@@ -8719,7 +8719,7 @@ $
 &= 20
 \end{aligned}
 $
-
+<emptyline>
 Red,
 $
 \begin{aligned}
@@ -8730,7 +8730,7 @@ $
 &= 10
 \end{aligned}
 $
-
+<emptyline>
 Not blue,
 $
 \begin{aligned}

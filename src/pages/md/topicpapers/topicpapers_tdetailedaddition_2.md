@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition-2"
 title: "TopicPaper - Detailedaddition - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -312,7 +312,7 @@ $20.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   0 \ .    &   1   &   1 \\
@@ -497,7 +497,7 @@ $21.01$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   0 \ .    &   1   &   1 \\
@@ -682,7 +682,7 @@ $29.11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   0 \ .    &   1   &   1 \\
@@ -1074,7 +1074,7 @@ $20.09$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   0 \ .    &   0   &   2 \\
@@ -1262,7 +1262,7 @@ $20.72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   0 \ .    &   0   &   2 \\
@@ -1450,7 +1450,7 @@ $27.02$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   0 \ .    &   0   &   2 \\
@@ -1842,7 +1842,7 @@ $20.37$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   0 \ .    &   3   &   0 \\
@@ -2030,7 +2030,7 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   0 \ .    &   3   &   0 \\
@@ -2218,7 +2218,7 @@ $27.3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2   &   0 \ .    &   3   &   0 \\
@@ -3131,7 +3131,7 @@ $20.14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   1   &   9 \ .    &   3   &   0 \\
@@ -7324,7 +7324,7 @@ $0.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
      &    0 \ .    &    4    &    0 \\

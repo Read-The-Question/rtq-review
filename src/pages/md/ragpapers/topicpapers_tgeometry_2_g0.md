@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgeometry-2-g0"
 title: "TopicPaper - Geometry - 2 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -172,20 +172,20 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As shown in the figure,
-
+<emptyline>
 There are total $8$ triangles.
-
+<emptyline>
 In equilateral triangles no. of $60 \degree = 3$.
-
+<emptyline>
 Then,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \times 8 \\\\
 &= 24
 \end{aligned}
 $
-
+<emptyline>
 Total no. of $60 \degree$ $= 24$
 </code></pre>
 </div>
@@ -249,20 +249,20 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know,
-
+<emptyline>
 Every right angled isosceles triangle has $2$ acute angles.
-
+<emptyline>
 And there is total $8$ triangles.
-
+<emptyline>
 Then,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times 8 \\\\
 &= 16
 \end{aligned}
 $
-
+<emptyline>
 Total no. of acute angles $= 16$
 </code></pre>
 </div>
@@ -438,7 +438,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know, an acute angle is an angle that measures between $90 \degree$ and $0 \degree$.
-
+<emptyline>
 As per the diagram, there are $2$ acute angles.
 </code></pre>
 </div>

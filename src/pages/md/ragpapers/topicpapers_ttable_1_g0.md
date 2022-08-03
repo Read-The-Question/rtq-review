@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttable-1-g0"
 title: "TopicPaper - Table - 1 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -128,7 +128,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total girls in the class}               &= 30 - 16 \\\\

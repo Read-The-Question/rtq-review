@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0-prcr"
 title: "TopicPaper - Areaperimeter - 4 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -142,7 +142,7 @@ Height $= 35 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the picture,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Width of the painting}                        &= \text{Total width} - 2 \times \text{Frame height} \\\\
@@ -151,10 +151,10 @@ $
                                                     &= 45 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 
 Let's find the height of the painting.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Height of the painting}                       &= \text{Total height} - 2 \times \text{Frame height} \\\\
@@ -163,9 +163,9 @@ $
                                                     &= 35 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Width $= 45 \ \text{cm}$
-
+<emptyline>
 Height $= 35 \ \text{cm}$
 </code></pre>
 </div>

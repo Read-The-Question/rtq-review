@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-2-g2"
 title: "TopicPaper - Detailedsubtraction - 2 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <ul class='question default-decimal'>
@@ -2374,7 +2374,7 @@ $0.21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   1   &    5 \ .    &    0    &    5 \\
@@ -2750,7 +2750,7 @@ $52.55$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
           &8   &    9 \ .    &    1     &    0 \\
@@ -3300,7 +3300,7 @@ $34$
     &   3   &   4
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5651,7 +5651,7 @@ $2.23$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2 \ .   &   7   &   0 \\
@@ -5841,7 +5841,7 @@ $8760$
     &       8       & 7     & 6      & 0   \\
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

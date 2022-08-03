@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-1-notstarted"
 title: "TopicPaper - Speed - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "31"
 ---
 <ul class='question default-decimal'>
@@ -7602,7 +7602,7 @@ $10 \ \text{miles}$
                         &= 10 \ \text{miles}
 \end{aligned}
 $
-
+<emptyline>
 Shortest distance $= 10 \ \text{miles}$
 </code></pre>
 </div>
@@ -7707,7 +7707,7 @@ $40 \ \text {min}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time Isobel takes}     &= \dfrac {\text{Distance}} {\text{Speed}} \\\\
@@ -7721,7 +7721,7 @@ $
                              &= 40 \ \text {min}
 \end{aligned}
 $
-
+<emptyline>
 The shortest time Isobel will take to complete the journey $= 40 \ \text {min}$ 
 </code></pre>
 </div>
@@ -7813,11 +7813,11 @@ $8 \ \text {min}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If $E$ and $F$ are blocked the shortest new route would be:
-
+<emptyline>
 From $S \ \text {to} \ B \ \text {to} \ C \ \text{to} \ T$ .
-
+<emptyline>
 Let's find the new distance.
-
+<emptyline>
 $
 \begin{aligned} 
 &= S \ \text{to} \ B \ \text{to} \ C \ \text{to} \ T \\\\
@@ -7825,7 +7825,7 @@ $
 &= 12 \ \text {miles}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Speed} &= 15 \ \text {miles per hour \ \ } \\\\
@@ -7833,9 +7833,9 @@ $
 \text {Distance} &= 12 \ \text {miles} 
 \end{aligned}
 $
-
+<emptyline>
 Now let's find the time.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time} & = \dfrac {\text{Distance}} {\text{Speed}} \\\\
@@ -7848,11 +7848,11 @@ $
             & = 48 \ \text {min}                                                                   
 \end{aligned}
 $
-
+<emptyline>
 Let's find the additional minutes by finding the difference in time taken by previous route and the new route.
-
+<emptyline>
 $48 \ \text {min}  - 40 \ \text {min} = 8 \ \text {min} $                                                                  
-
+<emptyline>
 The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min}$ 
 </code></pre>
 </div>

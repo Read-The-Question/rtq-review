@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tage-2"
 title: "TopicPaper - Age - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <div class='paper'>
@@ -154,13 +154,13 @@ $48 \ \text {years}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let father’s age $= a$
-
+<emptyline>
 Daughter's age $= \dfrac {a} {2}$
-
+<emptyline>
 Brother's age $= \dfrac {a} {4}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac {a} {4}                                                     &= 96 \\\\
@@ -177,7 +177,7 @@ a                                                                               
 a                                                                                               		 &= 48 \ \text {years}
 \end{aligned}
 $
-
+<emptyline>
 Father's age $= 48 \ \text {years}$
 </code></pre>
 </div>

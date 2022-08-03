@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-4-blocked"
 title: "TopicPaper - Algebra - 4 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -138,9 +138,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sweets in the jar $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total number of children} \times (\dfrac {1} {16} \ \text {of} \ a)        &= a - (\dfrac {1} {4} \ \text {of} \ a) \\\\
@@ -300,7 +300,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {3} \ \text {of} \ 1 \ \text {bottle}    &= 1 \ \text {day} \\\\
@@ -313,7 +313,7 @@ $
                                                     &= 9 \ \text {days}
 \end{aligned}
 $
-
+<emptyline>
 $6$ bottles will last for $9$ days.
 </code></pre>
 </div>

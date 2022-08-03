@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g2"
 title: "TopicPaper - Money - 2 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "17"
 ---
 <ul class='question default-decimal'>
@@ -123,7 +123,7 @@ $\pounds 4.54$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned} 
 \text {Money spent}             &= 7 \times 78 \\\\
@@ -503,7 +503,7 @@ $85 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of 12 cans}                 &= 12 \times 65 \\\\
@@ -694,7 +694,7 @@ $135 \ \text {pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of 15 packets}  &= 15 \times 35 \\\\
@@ -1184,11 +1184,11 @@ $\pounds 26$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Miguel has (in $\pounds$) $= a$
-
+<emptyline>
 Jon has (in $\pounds$) $= a + 0.3 \times a = 1.3a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 1.3a                        &= 46 \\\\
@@ -1957,7 +1957,7 @@ $\pounds 5.06$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 1 \dfrac {1} {2} \times 64 + 4 \times 35 + 6 \times 43 \\\\
@@ -2244,7 +2244,7 @@ $\pounds 4.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If the charity spends $60 \%$ on equipments, then the donation not spent is $100 - 60 = 40 \%$.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Donation not spent}   &= 40 \% \ \text {of} \ \pounds 12 \\\\
@@ -2436,7 +2436,7 @@ $\pounds 4.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times 75 + 3 \times 95 \\\\
@@ -2922,7 +2922,7 @@ $\pounds 5.02$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times \pounds 1.09 + 62 \text {p} \\\\
@@ -3654,7 +3654,7 @@ $\pounds 4.91$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times 65 + 3 \times 83 \\\\
@@ -3856,7 +3856,7 @@ $\pounds 3.63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 7 \times 55 + 4 \times 63 \\\\

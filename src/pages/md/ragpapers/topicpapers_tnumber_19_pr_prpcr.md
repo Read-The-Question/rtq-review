@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-19-pr-prpcr"
 title: "TopicPaper - Number - 19 - PR - PRPCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -819,9 +819,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>4, 9, 25 ...
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 \text {Factors of 4}  &= 1, 2, 4 \\\\
@@ -977,7 +977,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>97
-
+<emptyline>
 97 is the only prime number between 90 and 100
 </code></pre>
 </div>
@@ -1061,7 +1061,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number between $\dfrac{1}{3}$ and $\dfrac{1}{2}$ = $a$
-
+<emptyline>
 $
 \begin{aligned}
 a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
@@ -1074,7 +1074,7 @@ a &= Average( \dfrac{1}{3}, \dfrac{1}{2} ) \\\\
 a &= \dfrac{5}{12}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -1153,16 +1153,16 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>21
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 &= {21^2} \\\\
 &= 441
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>

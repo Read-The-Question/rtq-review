@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-3"
 title: "TopicPaper - Time - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1692,7 +1692,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4EB55D89-BF4F-47CA-A07F-BC5A04143A7B</p>
 </div>
@@ -1700,10 +1700,10 @@ $
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3538,7 +3538,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
@@ -3552,7 +3552,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3631,10 +3631,9 @@ Josh has to be at work at $8:15 \ \text{am}$. It takes him $15 \ \text{minutes}$
 
 $
 \begin{aligned}
-\text{Time Josh should get up}                                         &= \text{Office time} - (\text{Time to get dressed + Time to eat + Time to drink}) \\\\
-                                                                       &= 8{:}15 \ \text{am} - (15 + 20 + 12) \ \text{minutes} \\\\
-                                                                       &= 8{:}15 \ \text{am} - 47 \ \text{minutes} \\\\
-                                                                       &= 9{:}02 \ \text{am}
+\text{Get up Time}                                                     &= 8{:}15 - (15 + 20 + 12) \ \text{minutes} \\\\
+                                                                       &= 8{:}15 - 47 \ \text{minutes} \\\\
+                                                                       &= 7{:}28 \ \text{am}
 \end{aligned}
 $
 
@@ -3643,7 +3642,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9{:}02 \ \text{am}$
+$7{:}28 \ \text{am}$
 
 </div>
 </div>
@@ -3652,10 +3651,9 @@ $9{:}02 \ \text{am}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time Josh should get up}                                         &= \text{Office time} - (\text{Time to get dressed + Time to eat + Time to drink}) \\\\
-                                                                       &= 8{:}15 \ \text{am} - (15 + 20 + 12) \ \text{minutes} \\\\
-                                                                       &= 8{:}15 \ \text{am} - 47 \ \text{minutes} \\\\
-                                                                       &= 9{:}02 \ \text{am}
+\text{Get up Time}                                                     &= 8{:}15 - (15 + 20 + 12) \ \text{minutes} \\\\
+                                                                       &= 8{:}15 - 47 \ \text{minutes} \\\\
+                                                                       &= 7{:}28 \ \text{am}
 \end{aligned}
 $
 </code></pre>
@@ -3669,7 +3667,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$9{:}02 \ \text{am}$
+<pre class='language-latex'><code class='language-latex'>$7{:}28 \ \text{am}$
 </code></pre>
 </div>
 </div>
@@ -4234,7 +4232,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>CB718008-6C5B-486B-83F4-A32A6530AAA0</p>
 </div>
@@ -4248,7 +4246,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4327,11 +4325,8 @@ My train was scheduled to leave at $17{:}40$ and to arrive at $18{:}20$. However
 
 $
 \begin{aligned}
-\text{Time I Arrived} \ &= \ \text{Times scheduled} + \text{Late} + \text{Time of journey} \\\\
-                        &= 17{:}40 + 5 \ \text{min} + 42 \ \text{min} \\\\
-                        &= 17{:}40 + 47 \ \text{min} \\\\
-                        &= 17{:}40 + (20 + 27) \ \text{min} \\\\
-                        &= 18{:}00 + 27 \ \text{min} \\\\
+\text{Arrival Time}     &= 17{:}40 + 5 \ \text{minutes} + 42 \ \text{minutes} \\\\
+                        &= 17{:}40 + 47 \ \text{minutes} \\\\
                         &= 18{:}27
 \end{aligned}
 $
@@ -4350,11 +4345,8 @@ $18{:}27$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time I Arrived} \ &= \ \text{Times scheduled} + \text{Late} + \text{Time of journey} \\\\
-                        &= 17{:}40 + 5 \ \text{min} + 42 \ \text{min} \\\\
-                        &= 17{:}40 + 47 \ \text{min} \\\\
-                        &= 17{:}40 + (20 + 27) \ \text{min} \\\\
-                        &= 18{:}00 + 27 \ \text{min} \\\\
+\text{Arrival Time}     &= 17{:}40 + 5 \ \text{minutes} + 42 \ \text{minutes} \\\\
+                        &= 17{:}40 + 47 \ \text{minutes} \\\\
                         &= 18{:}27
 \end{aligned}
 $
@@ -4433,7 +4425,7 @@ remove step 4 and step 5
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B436492B-ADE1-4E62-B5CC-10E5C7D215FC</p>
 </div>
@@ -4447,7 +4439,7 @@ remove step 4 and step 5
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4524,14 +4516,13 @@ How many seconds are there in $\dfrac {1} {4} \ \text{of} \ \dfrac {1} {6} \ \te
 <div class='workings'>
 <div class='working'>
 
-We know, $1$ day has $24$ hours, $1$ hour has $60$ minutes and $1$ minute has $60$ seconds. 
 
-$1$ day = $(24 \times 60 \times 60)$ seconds.
 
 $
 \begin{aligned}
 &= \dfrac {1} {4} \ \text {of} \ \dfrac {1} {6} \ \text {of} \ \dfrac {1} {8} \ \text {of} \ 1 \ \text {day} \\\\ 
-&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \times 60 \times 60 \\\\\
+&= \dfrac {1} {4} \times \dfrac {1} {6} \times \dfrac {1} {8} \times 24 \ \text {hours} \\\\
+&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \times 60 \times 60  \ \text {seconds}\\\\\
 &= \dfrac {24 \times 60 \times 60} {4 \times 6 \times 8} \\\\
 &= \dfrac {8 \times 3 \times 4 \times 15 \times 6 \times 10} {4 \times 6 \times 8} \\\\
 &= \dfrac {\cancel {8} \times 3 \times \cancel {4} \times 15 \times \cancel {6} \times 10} {\cancel {4} \times \cancel {6} \times \cancel {8}} \\\\
@@ -4553,14 +4544,13 @@ $450 \ \text {seconds}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>We know, $1$ day has $24$ hours, $1$ hour has $60$ minutes and $1$ minute has $60$ seconds. 
-
-$1$ day = $(24 \times 60 \times 60)$ seconds.
-
+<pre class='language-latex'><code class='language-latex'>
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {4} \ \text {of} \ \dfrac {1} {6} \ \text {of} \ \dfrac {1} {8} \ \text {of} \ 1 \ \text {day} \\\\ 
-&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \times 60 \times 60 \\\\\
+&= \dfrac {1} {4} \times \dfrac {1} {6} \times \dfrac {1} {8} \times 24 \ \text {hours} \\\\
+&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \times 60 \times 60  \ \text {seconds}\\\\\
 &= \dfrac {24 \times 60 \times 60} {4 \times 6 \times 8} \\\\
 &= \dfrac {8 \times 3 \times 4 \times 15 \times 6 \times 10} {4 \times 6 \times 8} \\\\
 &= \dfrac {\cancel {8} \times 3 \times \cancel {4} \times 15 \times \cancel {6} \times 10} {\cancel {4} \times \cancel {6} \times \cancel {8}} \\\\
@@ -4771,7 +4761,7 @@ $732 \ \text{minutes}$
 &= 732 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5499,7 +5489,7 @@ $227  \ \text{minutes}$
                       &= 227  \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -5755,7 +5745,7 @@ write original question in s1
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B44853BC-891D-4E77-9DD5-E6DE752C4B1A</p>
 </div>
@@ -5766,7 +5756,7 @@ write original question in s1
 <p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_ss_notstarted</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5852,36 +5842,41 @@ Draw hands so that the clock below shows a time of $16.30$.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Draw hour hand of the clock between 4 and 5 and minutes hand of the clock at 6.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='answer'>
+![missing image](/papers/missing_image.svg)
 
-TODOANSWER
+
+*TODO:: Draw hour hand of the clock between 4 and 5 and minutes hand of the clock at 6.*
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Draw hour hand of the clock between 4 and 5 and minutes hand of the clock at 6.*
+rtq_abbr_md_add_drawing_ends
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5893,22 +5888,54 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
+*TODO:: Draw hour hand of the clock between 4 and 5 and minutes hand of the clock at 6.*
+rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B44853BC-891D-4E77-9DD5-E6DE752C4B1A' id='FORM-B44853BC-891D-4E77-9DD5-E6DE752C4B1A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B44853BC-891D-4E77-9DD5-E6DE752C4B1A'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -7395,7 +7422,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>AE067221-B6FD-46E9-9DF9-17DEE2A3A824</p>
 </div>
@@ -7403,10 +7430,10 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7561,7 +7588,7 @@ $
 &= 150  \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7618,7 +7645,7 @@ $
 &= 30 \ \text {minutes} 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7896,7 +7923,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>F541C565-A23A-42AB-A949-6DABF9981E5A</p>
 </div>
@@ -7910,7 +7937,7 @@ $
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7989,10 +8016,11 @@ I start watching a film at $7:45\,pm$ and turn the television off at $9:35\,pm$.
 
 $
 \begin{aligned}
-\text{Time left}    &= 9{:}35 \ \text{am} - 7{:}45 \ \text{am} \\\\
-                    &= 1 \ \text{hour} \ 55 \ \text{minutes}   \\\\
-                    &= 60 + 55  \ \text{minutes} \\\\
-                    &= 115  \ \text{minutes}
+\text{Watching Time} &= 9{:}35 - 7{:}45\\\\
+                     &= 1 \ \text{hour} \ 55 \ \text{minutes}   \\\\
+                     &= 1 \times 60 \ \text{minutes} + 55  \ \text{minutes} \\\\
+                     &= 60 + 55 \\\\
+                     &= 115  \ \text{minutes}
 \end{aligned}
 $
 
@@ -8010,10 +8038,11 @@ $115  \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Time left}    &= 9{:}35 \ \text{am} - 7{:}45 \ \text{am} \\\\
-                    &= 1 \ \text{hour} \ 55 \ \text{minutes}   \\\\
-                    &= 60 + 55  \ \text{minutes} \\\\
-                    &= 115  \ \text{minutes}
+\text{Watching Time} &= 9{:}35 - 7{:}45\\\\
+                     &= 1 \ \text{hour} \ 55 \ \text{minutes}   \\\\
+                     &= 1 \times 60 \ \text{minutes} + 55  \ \text{minutes} \\\\
+                     &= 60 + 55 \\\\
+                     &= 115  \ \text{minutes}
 \end{aligned}
 $
 </code></pre>
@@ -8439,7 +8468,7 @@ $ 02{:}00 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
 </div>
@@ -8453,7 +8482,7 @@ $ 02{:}00 \ \text{pm}$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8576,11 +8605,8 @@ For how many hours and minutes was he working?
 
 $
 \begin{aligned}
-\text{Total Working Hours} &= \text{End time - Start time - Break} \\\\
-                           &= 12:50 - 08:15 - (10:35 - 10:15)
-                           &= 12 {:} 50 - 8 {:} 15 - 20 \ \text{minutes} \\\\
-                           &= 4 {:} 35 - 20 mins\ \text{minutes} \\\\
-                           &= 4 {:} 15 \\\\
+\text{Working Hours}       &= 10{:}15 - 8{:}15 + 12{:}50 - 10{:}35 \\\\
+                           &= 2 \ \text{hours} + 2 \ \text{hour} 15 \ \text{minutes} \\\\
                            &= 4 \ \text{hour} 15 \ \text{minutes}
 \end{aligned}
 $
@@ -8599,11 +8625,8 @@ $4 \ \text{hour} 15 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Total Working Hours} &= \text{End time - Start time - Break} \\\\
-                           &= 12:50 - 08:15 - (10:35 - 10:15)
-                           &= 12 {:} 50 - 8 {:} 15 - 20 \ \text{minutes} \\\\
-                           &= 4 {:} 35 - 20 mins\ \text{minutes} \\\\
-                           &= 4 {:} 15 \\\\
+\text{Working Hours}       &= 10{:}15 - 8{:}15 + 12{:}50 - 10{:}35 \\\\
+                           &= 2 \ \text{hours} + 2 \ \text{hour} 15 \ \text{minutes} \\\\
                            &= 4 \ \text{hour} 15 \ \text{minutes}
 \end{aligned}
 $
@@ -8637,14 +8660,14 @@ If he is paid $\pounds 6.00$ for each hour worked, how much will he be paid for 
 
 $
 \begin{aligned}
-\text {Total (Paid)} &= \text{Total Hours worked} \times \text{per hour pay} \\\\
-                     &= 4 \ \text{hours} \ 15 \ \text{ minutes} \times  \pounds 6 \\\\
-                     &= 4 \ \text{hours} \times 6 + \dfrac {1} {4} \times 6 \\\\
-                     &= 24 + 2 \times \dfrac {3} {2} \times 2 \\\\
-                     &= 24 + \dfrac {3 \times \cancel {2} } {2 \times \cancel {2}}  \\\\
+\text {Total amount} &= 4 \ \text{hours} \ 15 \ \text{ minutes} \times  \pounds 6 \\\\
+                     &= (4 \ \text{hours} +   15 \ \text{ minutes} ) \times 6 \\\\
+                     &= (4 \ \text{hours} +   \dfrac {15} {60} \ \text{hours} ) \times 6 \\\\
+                     &= 4 \times 6 + \dfrac {15 \times 6} {60} \\\\
+                     &= 24 + \dfrac {5 \times 3 \times 6} {5 \times 2 \times 6} \\\\
+                     &= 24 + \dfrac {\cancel 5 \times 3 \times \cancel 6} {\cancel 5 \times 2 \times \cancel 6} \\\\
                      &= 24 + \dfrac {3} {2} \\\\
-                     &= 24 + 1 \dfrac {1} {2} \\\\
-                     &= 24 + \pounds 1.50 \\\\
+                     &= 24 + 1.5 \\\\ 
                      &= \pounds 25.5
 \end{aligned}
 $
@@ -8663,14 +8686,14 @@ $\pounds 25.5$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text {Total (Paid)} &= \text{Total Hours worked} \times \text{per hour pay} \\\\
-                     &= 4 \ \text{hours} \ 15 \ \text{ minutes} \times  \pounds 6 \\\\
-                     &= 4 \ \text{hours} \times 6 + \dfrac {1} {4} \times 6 \\\\
-                     &= 24 + 2 \times \dfrac {3} {2} \times 2 \\\\
-                     &= 24 + \dfrac {3 \times \cancel {2} } {2 \times \cancel {2}}  \\\\
+\text {Total amount} &= 4 \ \text{hours} \ 15 \ \text{ minutes} \times  \pounds 6 \\\\
+                     &= (4 \ \text{hours} +   15 \ \text{ minutes} ) \times 6 \\\\
+                     &= (4 \ \text{hours} +   \dfrac {15} {60} \ \text{hours} ) \times 6 \\\\
+                     &= 4 \times 6 + \dfrac {15 \times 6} {60} \\\\
+                     &= 24 + \dfrac {5 \times 3 \times 6} {5 \times 2 \times 6} \\\\
+                     &= 24 + \dfrac {\cancel 5 \times 3 \times \cancel 6} {\cancel 5 \times 2 \times \cancel 6} \\\\
                      &= 24 + \dfrac {3} {2} \\\\
-                     &= 24 + 1 \dfrac {1} {2} \\\\
-                     &= 24 + \pounds 1.50 \\\\
+                     &= 24 + 1.5 \\\\ 
                      &= \pounds 25.5
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-g0"
 title: "TopicPaper - Algebra - 9 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -485,9 +485,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number be $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 5 - 3                                      &= 57 \\\\
@@ -499,7 +499,7 @@ a                                                   &= \dfrac {\cancel{5} \times
 a                                                   &= 12
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -719,9 +719,9 @@ $37$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 56 + a                                              &= 93 \\\\
@@ -729,7 +729,7 @@ a                                                   &= 93 - 56 \\\\
 a                                                   &= 37
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 37$
 </code></pre>
 </div>
@@ -788,9 +788,9 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 182 \div a                                          &= 14 \\\\
@@ -800,7 +800,7 @@ a                                                   &= \dfrac {13 \times \cancel
 a                                                   &= 13
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 13$
 </code></pre>
 </div>
@@ -861,9 +861,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (12 - a) \times 12                                  &= 96 \\\\
@@ -875,7 +875,7 @@ a                                                   &= 12 - 8 \\\\
 a                                                   &= 4
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 4$
 </code></pre>
 </div>
@@ -934,9 +934,9 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {81 - a} {4}                                 &= 9 \\\\
@@ -946,7 +946,7 @@ a                                                   &= 81 - 36 \\\\
 a                                                   &= 45
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 45$
 </code></pre>
 </div>
@@ -1011,7 +1011,7 @@ The missing number is $= 45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B</p>
 </div>
@@ -1025,7 +1025,7 @@ The missing number is $= 45$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1175,9 +1175,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>In a regular pentagon, all sides have the same length.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3x + 5                                              &= 17 \\\\
@@ -1246,9 +1246,9 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>In a regular pentagon, all sides have the same length.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2y - 9                                              &= 17 \\\\
@@ -3772,9 +3772,9 @@ $10, 11, 9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weights of Albert, Brian, Charlie are A, B, C respectivley.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 A + B     &= 22    \ \text{kg}  \\\\
@@ -3782,9 +3782,9 @@ B + C     &= 20     \ \text{kg} \\\\
 A + B + C &= 30 \ \text{kg}\\\\
 \end{aligned}
 $
-
+<emptyline>
 Lets, first find value of A
-
+<emptyline>
 $
 \begin{aligned}
 A + (B + C)  &= 30 \\\\
@@ -3793,9 +3793,9 @@ A            &= 30 - 20 \\\\
 A            &= 10 \\\\
 \end{aligned}
 $
-
+<emptyline>
 Now finding the value of B,
-
+<emptyline>
 $
 \begin{aligned}
 A + B  &= 22 \\\\
@@ -3804,9 +3804,9 @@ B      &= 22 - 10 \\\\
 B      &= 11
 \end{aligned}
 $
-
+<emptyline>
 Finally the value of C is given by,
-
+<emptyline>
 $
 \begin{aligned}
 B + C &= 20 \\\\
@@ -4010,15 +4010,15 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the money Tim received $= a$.
-
+<emptyline>
 According to the question,
-
+<emptyline>
 Money David recieved $= \dfrac {a} {2}$.
-
+<emptyline>
 Money Alison recieved $= \dfrac {a} {3}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total money they recieved}                                                                       &= \pounds 49.50 \\\\
@@ -4033,11 +4033,11 @@ a                                                                               
 a                                                                                                       &= \pounds 27
 \end {aligned}
 $
-
+<emptyline>
 Money Tim received $= \pounds 27$.
-
+<emptyline>
 Money David recieved $= \dfrac {27} {2} = \pounds 13.5$.
-
+<emptyline>
 Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
 </code></pre>
 </div>
@@ -4224,11 +4224,11 @@ $29, 58$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the smaller number $= a$.
-
+<emptyline>
 The larger number $= 2a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 2a  &= 87 \\\\
@@ -4239,9 +4239,9 @@ a       &= \dfrac {29 \times \cancel {3}} {\cancel {3}} \\\\
 a       &= 29
 \end{aligned}
 $
-
+<emptyline>
 Smaller Number $= 29$.
-
+<emptyline>
 Larger number $= 2 \times 29 = 58$.
 </code></pre>
 </div>
@@ -4427,9 +4427,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Dini thought of $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + 10   &= 52 \\\\
@@ -4502,7 +4502,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F</p>
 </div>
@@ -4516,7 +4516,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4672,9 +4672,9 @@ $120 \ \text {ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Cordial needed to make one glasses of squash $=a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 8 \times \text {a}     &= 320 \ \text {ml} \\\\
@@ -4684,16 +4684,16 @@ $
                                                                   &= 40 \ \text {ml}
 \end {aligned}
 $
-
+<emptyline>
 Yasmin need $40 \ \text {ml}$ of cordial to make one glass of squash. So,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cordial needed to make three glasses of squash}   &= 3 \times 40 \ \text {ml} \\\\
                                                          &= 120 \ \text {ml}
 \end {aligned}
 $ 
-
+<emptyline>
 Yasmin need $120 \ \text {ml}$ of cordial to make three glasses of squash.
 </code></pre>
 </div>
@@ -4760,27 +4760,27 @@ $1600 \ \text {ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first find out how much water will it take to make one glass of squash.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Water needed to make one glass of squash $=$ One glass of squash $-$ Cordial needed to make one glass of squash
-
+<emptyline>
 $
 \begin {aligned}
                                                   &= 200 \ \text {ml} - 40 \ \text {ml} \\\\
                                                   &= 160 \ \text {ml}
 \end {aligned}
 $
-
+<emptyline>
 Yasmin need $160 \ \text {ml}$ of water to make one glass of squash. So,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Water needed to make ten glasses of squash}  &= 10 \times 160 \ \text {ml} \\\\
                                                     &= 1600 \ \text {ml}
 \end {aligned}
 $
-
+<emptyline>
 Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
 </code></pre>
 </div>
@@ -4845,7 +4845,7 @@ Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A61865AA-6630-4CE9-83F3-826FE700031F</p>
 </div>
@@ -4859,7 +4859,7 @@ Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4955,9 +4955,9 @@ $2, 3, 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first see prime numbers which are less than $16$ :
-
+<emptyline>
 $2, 3, 5, 7, 11, 13$.
-
+<emptyline>
 As we can see, $2 + 3 + 11 = 16$.
 </code></pre>
 </div>

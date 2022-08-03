@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-g0-prcr"
 title: "TopicPaper - Statistics - 1 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -132,7 +132,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of students absent on Friday $= a$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Mean number of absent students}   &= \dfrac {\text{Total absent students}} {\text{Total days}} \\\\
@@ -144,7 +144,7 @@ a                                       &= 20 - 18 \\\\
 a                                       &= 2
 \end{aligned}
 $
-
+<emptyline>
 Number of students absent on Friday $= 2$
 </code></pre>
 </div>

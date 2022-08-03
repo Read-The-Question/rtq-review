@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-oldpr-prcc"
 title: "TopicPaper - Number - 2 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -129,7 +129,7 @@ Five Tenths
 | Tens    |  Units | Decimal | Tenths    | Hundredths | Thousandths |
 |:-------:|:------:|:-------:|:---------:|:----------:|:-----------:|
 | $3$     | $2$    | .       | $5$       | $7$        | $9$         |
-
+<emptyline>
 The value of the digit $5$ in the number $32.579$ is 'Five tenths'
 </code></pre>
 </div>

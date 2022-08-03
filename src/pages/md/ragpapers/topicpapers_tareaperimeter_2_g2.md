@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g2"
 title: "TopicPaper - Areaperimeter - 2 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -172,9 +172,9 @@ $44 \ \text {m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area Left} &= \text {Area of Rectangle} - \text {Area of Square} \\\\
@@ -233,7 +233,7 @@ $36 \ \text {m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The biggest square that can fit will have a side equal to the width of the rectangle ($6 \ \text{meters}$).
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the square}  &= 6 \times 6 \\\\
@@ -423,9 +423,9 @@ $6 \ \text {cm} ^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area} &= \dfrac{1}{2} \times 4 \times 3 \\\\

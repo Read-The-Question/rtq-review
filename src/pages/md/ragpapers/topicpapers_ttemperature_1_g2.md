@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g2"
 title: "TopicPaper - Temperature - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -953,7 +953,7 @@ $
                                   &= 3 \degree \text{C}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1067,7 +1067,7 @@ $2 \degree \text{C}$
                                             &= 2 \degree \text{C}                       
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1129,7 +1129,7 @@ Cooler $=$ $6 \text{ am}$
                                  &= -3 \degree \text{C}
 \end{aligned}
 $
-
+<emptyline>
 Temperature at $6 \text {am}$ was cooler.
 </code></pre>
 </div>
@@ -2494,7 +2494,7 @@ Liverpool
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Liverpool
-
+<emptyline>
 $
 \begin{aligned}
 \text{Temperature Rise}     &= 7 - (-4) \\\\
@@ -2553,7 +2553,7 @@ Bristol & York
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Bristol & York
-
+<emptyline>
 $
 \begin{aligned}
 \text{Difference}       &= \text{Bristol} - \text{York} \\\\
@@ -3080,7 +3080,7 @@ $-13 \degree \text{C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the rate of fall of the temperature $= a$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Temperature at 1800 hrs}  &= 3 + 1.5 \times 6 \\\\
@@ -3088,9 +3088,9 @@ $
                                 &= 12 \degree \text{C}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 12 - 6 \times a                 &= -3 \\\\
@@ -3377,7 +3377,7 @@ $\pounds 30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sarina has} &= -40 + 70 \\\\
@@ -3648,7 +3648,7 @@ $7 \degree \text {C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the table,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference}  &= 4 - (-3) \\\\
@@ -4121,7 +4121,7 @@ $4 \degree \text{C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Temperature in London}                        &= \dfrac {-4 + 12 } {2} \\\\
@@ -4315,7 +4315,7 @@ $
                                                                         &= 19 \degree \text{C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -5896,7 +5896,7 @@ $14 \degree \text {C}$
                                    &= 14 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -6181,7 +6181,7 @@ $20 \degree \text {C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference}  &= 17 - (- 3) \\\\
@@ -6189,7 +6189,7 @@ $
                     &= 20 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -6471,7 +6471,7 @@ $18 \degree \text {C}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference}  &= 4 - (- 14) \\\\
@@ -6479,7 +6479,7 @@ $
                     &= 18 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -6892,9 +6892,9 @@ $96$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Flossie chirps (in $1 \ \text{minute}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 18                          &= (a - 40) \div 7 + 10 \\\\
@@ -6907,7 +6907,7 @@ a                           &= 56 + 40 \\\\
 a                           &= 96
 \end{aligned}
 $
-
+<emptyline>
 Flossie chirps (in $1 \ \text{minute}$) $= 96$
 </code></pre>
 </div>

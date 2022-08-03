@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-oldpr-prcr"
 title: "TopicPaper - Algebra - 12 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -149,18 +149,18 @@ $6$ and $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number be $a$ and second be $b$.
-
+<emptyline>
 As per question,
-
+<emptyline>
 $
 \begin{aligned}
 a + b      &= 14 \\
 a \times b &= 48
 \end{aligned}
 $
-
+<emptyline>
 Let's find $a$ and $b$.
-
+<emptyline>
 $
 \begin{aligned}
 &= x^2 + 14x + 48 \\\\
@@ -168,13 +168,13 @@ $
 &= (x + 6) (x+ 8)
 \end{aligned}
 $
-
+<emptyline>
 $x = 6$ and $x = 8$
-
+<emptyline>
 the two numbers are $6$ and $8$
-
+<emptyline>
 checking: 
-
+<emptyline>
 $
 \begin{aligned}
 &- a + b   \\   
@@ -185,7 +185,7 @@ $
 &= 48 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

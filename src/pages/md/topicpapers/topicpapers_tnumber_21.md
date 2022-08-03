@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-21"
 title: "TopicPaper - Number - 21"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -172,7 +172,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= 18 - (9 - 7) \\\\
@@ -232,7 +232,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= (18 - 9) - 7 \\\\
@@ -292,7 +292,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= (80 \div 20) \div 4 \\\\
@@ -352,7 +352,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= 80 \div (20 \div 4) \\\\
@@ -693,7 +693,7 @@ $107.12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   8   &   7 \ .  &   3   &   2 \\
@@ -761,7 +761,7 @@ $4.32$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
             &   5   &   4 \\
@@ -770,9 +770,9 @@ $
 4           &   3   &   2
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two. Let's account for the decimal point now.
-
+<emptyline>
 $= 4.32$
 </code></pre>
 </div>
@@ -969,9 +969,9 @@ $2743$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Two pairs are $=1917, 3954$ and $3008, 2863$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1917 + 3954 \\\\
@@ -980,7 +980,7 @@ $
 &= 5871
 \end{aligned}
 $
-
+<emptyline>
 Odd one $= 2743$
 </code></pre>
 </div>
@@ -1488,7 +1488,7 @@ $1996$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2000 - 12 + 20 - 12 \\\\
@@ -2103,7 +2103,7 @@ $10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
 &= 69
 \end{aligned}
 $
-
+<emptyline>
 $10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
 </code></pre>
 </div>
@@ -2164,7 +2164,7 @@ $12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
 &= 30
 \end{aligned}
 $
-
+<emptyline>
 $12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
 </code></pre>
 </div>
@@ -2229,7 +2229,7 @@ $30 \div 3 + 2 = 6$        $\boxed {\times}$
 &= 12 \ \cancel {=} \ 6
 \end{aligned}
 $
-
+<emptyline>
 $30 \div 3 + 2 = 6$        $\boxed {\times}$
 </code></pre>
 </div>
@@ -2294,7 +2294,7 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 &= 0
 \end{aligned}
 $
-
+<emptyline>
 $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 </code></pre>
 </div>
@@ -2471,7 +2471,7 @@ D
             &= \rtq_katex_color_answer{5905}
 \end{aligned}
 $
-
+<emptyline>
 Correct statement $= \text{D}$
 </code></pre>
 </div>
@@ -2799,7 +2799,7 @@ $
 &= 35
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2854,7 +2854,7 @@ $3$
 &= 3
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3530,7 +3530,7 @@ $14.43$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   9 \ .   &   8   &   3 \\
@@ -3592,7 +3592,7 @@ $13.19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   1   &   5 \ .   &   4   &   0 \\
@@ -3663,7 +3663,7 @@ $29.2$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
         &       &   7   &   3 \\
@@ -3672,13 +3672,13 @@ $
         &   2   &   9   &   2
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is one.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 = 29.2 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3738,7 +3738,7 @@ $0.78$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first divide the numbers ignoring the decimal points.
-
+<emptyline>
 $
 \begin{aligned}
 &= 4.68 \div 6 \\\\
@@ -3748,11 +3748,11 @@ $
 &= 78
 \end{aligned}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 $= 0.78$
 </code></pre>
 </div>
@@ -4332,7 +4332,7 @@ $7420$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first multiply the numbers ignoring the zeroes.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
         &   3   &   7   &   1 \\
@@ -4341,7 +4341,7 @@ $
         &   7   &   4   &   2
 \end{array}
 $
-
+<emptyline>
 Let's account for the one zero now $= 7420$
 </code></pre>
 </div>
@@ -5481,7 +5481,7 @@ $18.87$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &       &   1 \ .   &   7   &   0 \\
@@ -5676,9 +5676,9 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5000, 200 \ \text {or} \ 50000, 20$
-
+<emptyline>
 Lets verify it
-
+<emptyline>
 $
 \begin{aligned}
 5000, 200   &= 5000 \times 200 \\\\
@@ -5687,7 +5687,7 @@ $
          &= 1000000
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -5891,14 +5891,14 @@ $\dfrac {8} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {5} {7}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {7} {8}, \quad \dfrac {8} {9}, \quad \dfrac {7} {10} \\\\
 &= 0.714, \quad 0.666, \quad 0.6, \quad 0.875, \quad 0.888, \quad 0.7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction closest to } 1   &= 0.888 \\\\
@@ -6308,7 +6308,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 + 5 \times 3 - 2 \\\\
@@ -6364,9 +6364,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$= 3 \times 2^2$
-
+<emptyline>
 $= 3 \times 4$
-
+<emptyline>
 $= 12$
 </code></pre>
 </div>
@@ -6895,20 +6895,20 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2a + b &= 35 \\\\
 2b - a &= 15
 \end{aligned}
 $
-
+<emptyline>
 First, let's find a
-
+<emptyline>
 $
 \begin{aligned}
 2b - a          &= 15 \\\\
@@ -6921,9 +6921,9 @@ a               &= \dfrac {55} {5} \\\\
 a               &= 11
 \end{aligned}
 $
-
+<emptyline>
 Now, let's find b
-
+<emptyline>
 $
 \begin{aligned}
 2a + b &= 35 \\\\
@@ -6933,7 +6933,7 @@ b &= 35 - 22 \\\\
 b &= 13
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -7385,11 +7385,11 @@ $2.27 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 The measurement is given in meters and centimeteres but the answer has to be in meters.
-
+<emptyline>
 $1 \ \text{m} = 100 \ \text{cm}$
-
+<emptyline>
 $\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
-
+<emptyline>
 $
 \begin{aligned}
 &= 3.7 \ \text{m} + 64 \ \text{cm} - (2 \ \text {m} + 7 \ \text{cm}) \\\\
@@ -9674,7 +9674,7 @@ $56$ Or $64$
 8 \times 8 &= 64
 \end{aligned}
 $
-
+<emptyline>
 A multiple of $8$ between $50$ and $70$ = $56$ Or $64$.
 </code></pre>
 </div>
@@ -9859,11 +9859,11 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>2-digit numbers that are squares $=16, \ 25, \ 36, \ 49, \ 64, \ 81$
-
+<emptyline>
 $25, \ 36, \ 49$ and $81$ are not cube numbers.
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 8^2 &= 64 \\\\
@@ -10091,7 +10091,7 @@ $780$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780              &= 57 \\\\
@@ -10152,7 +10152,7 @@ $44460$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780              &= 57 \\\\
@@ -10215,7 +10215,7 @@ $780$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780                                                          &= 57 \\\\
@@ -10280,7 +10280,7 @@ $44.46$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780              &= 57 \\\\
@@ -10347,7 +10347,7 @@ $4446$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780                                  &= 57 \\\\
@@ -10700,7 +10700,7 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input = $a$
-
+<emptyline>
 $
 \begin{aligned}
 (a - 7) \div 2          &= 3 \\\\
@@ -10764,7 +10764,7 @@ $2n + 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input = $a$
-
+<emptyline>
 $
 \begin{aligned}
 (a - 7) \div 2          &= n \\\\
@@ -10968,9 +10968,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>32
-
+<emptyline>
 Lets verify 
-
+<emptyline>
 $
 \begin{aligned}
 \text{Remainder for} \ 32 \div 5 &= 2 \\\\
@@ -11167,7 +11167,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 18 - 17 + 16 - 15 + 14 - 13 \\\\
@@ -11496,9 +11496,9 @@ $42008 \\\\ 957992$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The number $= 42008$
-
+<emptyline>
 $1000000 - 42008 = 957992$
-
+<emptyline>
 This number is $957992$ less than one million.
 </code></pre>
 </div>

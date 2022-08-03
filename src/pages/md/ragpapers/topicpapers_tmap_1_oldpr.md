@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmap-1-oldpr"
 title: "TopicPaper - Map - 1 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -131,7 +131,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 There are $3$  routes from $B$ to $C$.
 </code></pre>
 </div>
@@ -315,7 +315,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the figure,
-
+<emptyline>
 $8$  routes are there $A$ to $C$, via $B$.
 </code></pre>
 </div>

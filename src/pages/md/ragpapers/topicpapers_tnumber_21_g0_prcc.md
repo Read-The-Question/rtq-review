@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-g0-prcc"
 title: "TopicPaper - Number - 21 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -129,11 +129,11 @@ $2.27 \ \text{m}$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 The measurement is given in meters and centimeteres but the answer has to be in meters.
-
+<emptyline>
 $1 \ \text{m} = 100 \ \text{cm}$
-
+<emptyline>
 $\dfrac {1} {100} \ \text{m} = 1 \ \text{cm}$
-
+<emptyline>
 $
 \begin{aligned}
 &= 3.7 \ \text{m} + 64 \ \text{cm} - (2 \ \text {m} + 7 \ \text{cm}) \\\\
@@ -361,7 +361,7 @@ $780$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780              &= 57 \\\\
@@ -422,7 +422,7 @@ $44460$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780              &= 57 \\\\
@@ -485,7 +485,7 @@ $780$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780                                                          &= 57 \\\\
@@ -550,7 +550,7 @@ $44.46$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780              &= 57 \\\\
@@ -617,7 +617,7 @@ $4446$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 44460 \div 780                                  &= 57 \\\\

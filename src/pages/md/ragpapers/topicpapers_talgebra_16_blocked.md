@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-blocked"
 title: "TopicPaper - Algebra - 16 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -214,26 +214,26 @@ $30 \ \text{pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a bag of sweets (in $\text{pence}$) $= s$
-
+<emptyline>
 Let the cost of a can of drink (in $\text{pence}$) $= d$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. Let's convert both the costs into pence.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 3s + 5d &= 490 \\\\
 s + 3d &= 270
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
 But which one should we eliminate? If we look at the question again, we only need the 
 cost for a bag of sweets, so let's eliminate $d$ so we can directly calculate the value for $s$.
-
+<emptyline>
 The LCM of $5$ and $3$ is $15$. Multiply the first equation by $3$ and the second equation by $5$ to make the coeifficent of $d$ the same.
-
+<emptyline>
 $
 \begin{aligned} 
 3 \times 3s + 3 \times 5d   &= 3 \times 490 \\\\
@@ -242,9 +242,9 @@ $
 5s + 15d                    &= 1350
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned} 
 9s + 15d -(5s + 15d)               &= 1470 - 1350 \\\\
@@ -254,29 +254,29 @@ s                                  &= \dfrac{120}{4} \\\\
 s                                  &= 30 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bag of sweets $= 30 \ \text{pence}$.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>What if we eliminate $s$ instead?
-
+<emptyline>
 This approach is less efficient as we will have to calculate one extra value to get the answer.
-
+<emptyline>
 Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 Multiply the second equation by $3$.
-
+<emptyline>
 $
 \begin{aligned} 
 3 \times s + 3 \times 3d   &= 3 \times 270 \\\\
 3s + 9d                     &= 810
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned} 
 3s + 5d                     &= 490 \\\\
@@ -288,11 +288,11 @@ d                           &= \dfrac {320} {4} \\\\
 d                           &= 80  \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a can of drink $= 80  \ \text{pence}$. 
-
+<emptyline>
 Let's substitute the value of $d$ in one of the initial equations to find the cost of a bag of sweets.
-
+<emptyline>
 $
 \begin{aligned} 
 3s + 5d             &= 490 \\\\
@@ -304,7 +304,7 @@ s                   &= \dfrac {90} {3}\\\\
 s                   &= 30 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bag of sweets $= 30 \ \text{pence}$.
 </code></pre>
 </div>
@@ -461,17 +461,17 @@ $43$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's state the facts first for reference.
-
+<emptyline>
 - Anna skipped $3$ questions. So attempted questions $= 50 - 3 = 47$.
 - Marks scored for correct answer $= 4$
 - Marks deducted for wrong answer $= 1$
-
+<emptyline>
 Let the number of questions Anna answered correctly $= a$
-
+<emptyline>
 So, the number of incorrect questions $= 47 - a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Marks scored} - \text{Marks deducted} &= 168 \\\\
@@ -486,7 +486,7 @@ a                                           &= \dfrac {43 \times \cancel {5}} {\
 a                                           &= 43
 \end{aligned}
 $
-
+<emptyline>
 Questions Anna answered correctly $= 43$
 </code></pre>
 </div>

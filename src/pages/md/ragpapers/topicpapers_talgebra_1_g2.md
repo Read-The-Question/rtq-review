@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-g2"
 title: "TopicPaper - Algebra - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -164,7 +164,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {a} {18} + \dfrac {1} {18}     &= \dfrac {1} {2} \\\\
@@ -230,7 +230,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {a} {24} + \dfrac {1} {3}                       &= \dfrac {1} {2} \\\\

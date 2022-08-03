@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-2-blocked"
 title: "TopicPaper - Permutation - 2 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -119,12 +119,12 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's try and find all the possible arrangements.
-
+<emptyline>
 - $\text{T A H M}$
 - $\text{T A M H}$
 - $\text{T H A M}$
 - $\text{T M A H}$
-
+<emptyline>
 Total count $= 4$
 </code></pre>
 </div>
@@ -295,11 +295,11 @@ $119$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's try and find all the possible arrangements.
-
+<emptyline>
 Let's first count all the numbers between $300$ and $399$.
-
+<emptyline>
 If we use $4$ in the unit place, the possible arrangements are:
-
+<emptyline>
 - $304$
 - $314$
 - $324$
@@ -310,11 +310,11 @@ If we use $4$ in the unit place, the possible arrangements are:
 - $374$
 - $384$
 - $394$
-
+<emptyline>
 Count $= 10$
-
+<emptyline>
 If we use $4$ in the tens place, the possible arrangements are: 
-
+<emptyline>
 - $341$
 - $342$
 - $343$
@@ -323,15 +323,15 @@ If we use $4$ in the tens place, the possible arrangements are:
 - $347$
 - $348$
 - $349$
-
+<emptyline>
 Count $= 9$
-
+<emptyline>
 *Note: $344$ is already accounted for in the first list, so ensure you do not count it again.*
-
+<emptyline>
 Now let's look at all the numbers between $400$ and $499$. As every number in this range will have at least one $4$, so
-
+<emptyline>
 Count between $400$ and $499 = 100$
-
+<emptyline>
 $
 \begin {aligned}
 \text{Total count}   &= 100 + 10 + 9 \\\\
@@ -485,26 +485,26 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Units of electricity used by Smith = $098157$
-
+<emptyline>
 The next time all the digits are different, is by adding units to $098157$
-
+<emptyline>
 $098157 + 1 = 098158$ 
 The digits $8$ is repeated.
-
+<emptyline>
 $098157 + 2 = 098159$
 The digits $9$ is repeated.
-
+<emptyline>
 $098157 + 3 = 098160$
 The digits $0$ is repeated.
-
+<emptyline>
 $098157 + 4 = 098161$
 The digits $1$ is repeated.
-
+<emptyline>
 $098157 + 5 = 098162$
 No digit is repeated. All digits are different.
-
+<emptyline>
 The number of units required to get next time all different digits = $098162 - 098157 = 5$
 </code></pre>
 </div>

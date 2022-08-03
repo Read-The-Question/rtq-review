@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-17-oldpr"
 title: "TopicPaper - Algebra - 17 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -128,9 +128,9 @@ $5, 7, 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know, a number is a multiple of $5$ if it has $0$ or $5$ at its units place. 
-
+<emptyline>
 As the last digit in $385$ is $5$ , it is divisible by $5$ .
-
+<emptyline>
 $
 \begin{aligned}
 &= 385 \\\\
@@ -138,7 +138,7 @@ $
 &= 5 \times 7 \times 11
 \end{aligned}
 $
-
+<emptyline>
 The required numbers are = $5, 7, 11$
 </code></pre>
 </div>
@@ -366,7 +366,7 @@ $\pounds 100$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Charge per n people} \pounds C    &= 3n +40 \\\\
@@ -661,7 +661,7 @@ $\pounds 2.08$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Bottles needed}    &= 17 \\\\
@@ -669,9 +669,9 @@ $
                           &= 3 \times 5 \ \text {pack} + 1 \times 2 \ \text {pack}
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the amount of money he needs to spend.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Smallest amount he spends}        &= 3 \times \text {Cost of 5 packs} + 1 \times \text {Cost of 2 packs} \\\\
@@ -902,9 +902,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {8 + 3 + 9 + a} {4}              &= 6 \\\\
@@ -915,7 +915,7 @@ a                                       &= 24 - 20 \\\\
 a                                       &= 4
 \end{aligned}
 $
-
+<emptyline>
 The missing number $= 4$
 </code></pre>
 </div>
@@ -1106,11 +1106,11 @@ $568$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 On planet Zog, all numbers are written in reverse order.
-
+<emptyline>
 So,
-
+<emptyline>
 $
 \begin{aligned}
 &= 729 - 26 \\\\
@@ -1118,7 +1118,7 @@ $
 &= 865
 \end{aligned}
 $
-
+<emptyline>
 $865$ will be also written in reverse order $= 568$
 </code></pre>
 </div>
@@ -1326,9 +1326,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a^3 &=  2 \times 256 \\\\
@@ -1339,7 +1339,7 @@ a^3 &= 8^3 \\\\
 a   &= 8
 \end{aligned}
 $
-
+<emptyline>
 The number in the missing box $= 8$
 </code></pre>
 </div>
@@ -1550,9 +1550,9 @@ $14 \ \text {years}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let my age $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {My age} + \text {Brother's age}      &= \text {Total age} \\\\
@@ -1566,7 +1566,7 @@ a                                           &= \dfrac {\cancel {2} \times 14} {\
 a                                           &= 14
 \end{aligned}
 $
-
+<emptyline>
 I am $ = 14 \ \text {years old}$
 </code></pre>
 </div>
@@ -1766,9 +1766,9 @@ $3 \ \text{kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of empty bucket $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Weight of empty bucket} + \dfrac {\text {Weight of water}} {2} &= 12 \\\\
@@ -1985,9 +1985,9 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Marbles Alen had initially $= 67$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\\\

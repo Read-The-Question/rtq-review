@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -141,15 +141,15 @@ $50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_unit_note
-
+<emptyline>
 The floor measurement is given in meters and tile measurement is in centimetres.
-
+<emptyline>
 Let's convert the floor measurements into $\text{cm}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of tiles}             &= \dfrac {\text{Area of floor}} {\text{Area of a tile}} \\\\
@@ -389,9 +389,9 @@ $P = 2 (a + b)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 P       &= a + a + b + b \\\\
@@ -663,13 +663,13 @@ $1.96 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a                        &= 5.6 \\\\
@@ -679,10 +679,10 @@ a                                 &= \dfrac {1.4 \times \cancel{4}} {\cancel{4}}
 a                                 &= 1.4 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 
 Let's calculate the area of square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}                        &= 1.4 \times 1.4 \\\\
@@ -918,9 +918,9 @@ $42 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter of the Garden}  &= 5 + (12 - 7) + (9 - 5) + 12 + 9 + 7 \\\\
@@ -1000,11 +1000,11 @@ $83 \ \text {m} ^ 2$
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
 Show the one missing side 7.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into two rectangle
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total area}          &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
@@ -1014,7 +1014,7 @@ $
                             &= 83 \ \text {m} ^ 2
 \end {aligned}
 $
-
+<emptyline>
 Area of the garden is $83 \ \text{m}^2$.
 </code></pre>
 </div>
@@ -1246,9 +1246,9 @@ $19.4 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter}                 &= 2 \times (3.6 + 6.1) \\\\
@@ -1457,9 +1457,9 @@ $18 \ \text {cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}                &= \dfrac {8 \times 4.5} {2} \\\\
@@ -1697,17 +1697,17 @@ $98 \ \text {cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Let the width of the rectangle $= w$
-
+<emptyline>
 Length of the rectangle $= 2w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 2 \times (2w + w)                          &= 42 \\\\
@@ -1719,9 +1719,9 @@ w                                          &= \dfrac {7 \times \cancel {6}} {\ca
 w                                          &= 7 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Let's find the area of the rectangle.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Area}                               &= (2 \times 7) \times 7 \\\\
@@ -1999,9 +1999,9 @@ $46 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter}    &= 2 \times (14 + 9) \\\\
@@ -2065,9 +2065,9 @@ $96 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= 12 \times 8 \\\\
@@ -2147,13 +2147,13 @@ $81 \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a            &= 36\\\\
@@ -2163,9 +2163,9 @@ a                     &= \dfrac {\cancel{4} \times 9} {\cancel{4}} \\\\
 a                     &= 9 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}             &= 9 \times 9 \\\\
@@ -2428,9 +2428,9 @@ $62 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}              &= 2 \times (22 + 9) \\\\
@@ -2513,13 +2513,13 @@ $875 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the length of the rectangle $= l$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (25 + l)                           &= 120 \\\\
@@ -2531,9 +2531,9 @@ l                                           &= 60 - 25 \\\\
 l                                           &= 35 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of the rectangle.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}            &= 25 \times 35 \\\\
@@ -2612,11 +2612,11 @@ $154 \ \text{cm}^2$
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
 Show the two missing side as 3 and 11.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question, the shape can be divided into two rectangles
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total area}               &= \text{Rectangle 1} + \text{Rectangle 2} \\\\
@@ -2698,13 +2698,13 @@ $52 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of square (in cm) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a          &= 169 \\\\
@@ -2713,9 +2713,9 @@ a                   &= \sqrt {169} \\\\
 a                   &= 13 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the perimeter of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter}        &= 4 \times a \\\\
@@ -2978,15 +2978,15 @@ $500$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 The Floor measurement is given in metres while the tile measurement is given in cm.
-
+<emptyline>
 Let's convert the wall measurements into $\text{cm}$.
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
@@ -3186,9 +3186,9 @@ $28.4 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}                &= 4 \times 7.1 \\\\
@@ -3425,9 +3425,9 @@ $1200 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of base}     &= 60 \times 20 \\\\
@@ -3487,9 +3487,9 @@ $36000 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_volume_cuboid
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Max volume of tank}   &= 60 \times 20 \times 30 \\\\
@@ -3565,16 +3565,16 @@ $20 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_volume_cuboid
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
 The height measurement of filled tank will be in $\text{cm}$ while the volume measurement is given in $\text{litre}$.
-
+<emptyline>
 Let's convert the volume measurements into $\text{cm}$.
-
+<emptyline>
 Let the height to which water can be filled (in cm) $= h$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 60 \ \text {cm} \times 20 \ \text {cm} \times h \ \text {cm}    &= 24 \ \text{litres} \\\\
@@ -3587,7 +3587,7 @@ h                                                               &= \dfrac {\canc
 h                                                               &= 20 \ \text{cm} 
 \end{aligned}
 $
-
+<emptyline>
 Sarah can fill the tank upto $20 \ \text{cm}$.
 </code></pre>
 </div>
@@ -3845,9 +3845,9 @@ $9 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of flower-bed}   &= \dfrac {1} {2} \times 6 \times 3 \\\\
@@ -3910,9 +3910,9 @@ $240 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of whole garden} &=  20 \times 12 \\\\
@@ -4198,7 +4198,7 @@ $117 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of shaded triangle}     &= \dfrac {4} {9} \times \text {Area of larger triangle} \\\\

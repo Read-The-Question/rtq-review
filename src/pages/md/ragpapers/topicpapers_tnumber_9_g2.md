@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-g2"
 title: "TopicPaper - Number - 9 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "28"
 ---
 <ul class='question default-decimal'>
@@ -494,7 +494,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin {aligned}
 &= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
@@ -895,7 +895,7 @@ $27 \times 9$
 | $27 \times 9$  | $243$  |
 | $22 \times 11$ | $242$  |
 | $23 \times 10$ | $230$  |
-
+<emptyline>
 Largest answer $= 27 \times 9$
 </code></pre>
 </div>
@@ -4232,9 +4232,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 600 \div a                          &= 50 \\\\
@@ -5155,14 +5155,14 @@ $76 \times 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be inferred by using trial and error.
-
+<emptyline>
 | Possible numbers | Result  |
 |:----------------:|:-------:|
 |  $78 \times  6$  |  $468$  |
 |  $76 \times  8$  |  $608$  |
 |  $87 \times  6$  |  $522$  |
 |  $86 \times  7$  |  $602$  |
-
+<emptyline>
 Largest answer $= 76 \times 8 = 608$
 </code></pre>
 </div>
@@ -7213,9 +7213,9 @@ $4 \times 3 + 2 = 14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$4 \times 3 + 2 = 14$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 \times 3 + 2 \\\\
@@ -7276,9 +7276,9 @@ $(3 + 5) \div (4 - 2) = 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$(3 + 5) \div (4 - 2) = 4$
-
+<emptyline>
 Let's verify 
-
+<emptyline>
 $
 \begin{aligned}
 &= (3 + 5) \div (4 - 2) \\\\

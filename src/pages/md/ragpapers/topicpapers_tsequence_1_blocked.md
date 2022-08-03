@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-blocked"
 title: "TopicPaper - Sequence - 1 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -192,9 +192,9 @@ $47$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $6$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(+6)}}
@@ -206,7 +206,7 @@ $
 11,  &&    17,  &&  23,  &&   29,  &&   35, && \ldots , && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}    &= 35 + 6 \\\\
@@ -306,9 +306,9 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $8$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(-8)}}
@@ -320,7 +320,7 @@ $
 108,  &&    100,  &&  92,  &&   84,  &&   76, && \ldots , && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}    &= 76 - 8 \\\\
@@ -420,9 +420,9 @@ $52$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The difference between the terms is increasing by $2$ more than the difference between the previous numbers. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize{\rtq_katex_color_info{(+3)}}
@@ -434,7 +434,7 @@ $
 4,  &&   7,  &&  12,  &&   19,  &&   28, && \ldots , && \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}    &= 28 + 11 \\\\
@@ -599,9 +599,9 @@ $48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Liam's $50 \text{th}$ number $= a$.
-
+<emptyline>
 Let Louise's $50 \text{th}$ number $= b$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Difference between Liam's 50th number and Louise's 50th number}  &= a - b \\\\
@@ -814,9 +814,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize {\rtq_katex_color_info {(+4)} }
@@ -827,7 +827,7 @@ $
 7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}   &= 19 + 4\\\\
@@ -925,9 +925,9 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize {\rtq_katex_color_info {(\div 2)} }
@@ -938,7 +938,7 @@ $
 96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}   &= 12 \div 2 \\\\
@@ -1036,9 +1036,9 @@ $22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin {matrix}
 &   \footnotesize {\rtq_katex_color_info {(+2)} }
@@ -1049,7 +1049,7 @@ $
 2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {First missing number}   &= 11 + 5\\\\
@@ -1269,7 +1269,7 @@ $114$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Third number in the sequence}     &= (((102 + 2) \div 2) + 1) \times 2 \\\\
@@ -1362,7 +1362,7 @@ $112$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Next number after 108}            &= (((108 + 2) \div 2) + 1) \times 2 \\\\
@@ -1432,7 +1432,7 @@ $130$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{23rd number}                      &= (((122 + 2) \div 2) + 1) \times 2 \\\\
@@ -1597,9 +1597,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $27$ from the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-27)} }
@@ -1609,7 +1609,7 @@ $
 14,  &&    -13,  &&  -40,  &&   -67, && -94
 \end{matrix}
 $
-
+<emptyline>
 Step between successive terms $= 27$
 </code></pre>
 </div>

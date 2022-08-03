@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgeometry-1-g0-prcr"
 title: "TopicPaper - Geometry - 1 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -208,7 +208,7 @@ $192 \ \text{cm}^{3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 rtq_abbr_katex_formula_aligned_volume_cuboid \\\\
@@ -264,7 +264,7 @@ Label both vertices with $*$.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>%image%
-
+<emptyline>
 ** IMAGE_PLACEHOLDER_STARTS Add an image with sides marked IMAGE_PLACEHOLDER_ENDS **
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-g2"
 title: "TopicPaper - Angle - 2 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -146,13 +146,13 @@ $51 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the third angle of the triangle $=a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 83 + a + 58  &= 180 \\\\
@@ -161,9 +161,9 @@ a            &= 180 - 141 \\\\
 a            &= 39 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $x$.
-
+<emptyline>
 $
 \begin{aligned}
 x + 39 + 90  &= 180 \\\\
@@ -395,7 +395,7 @@ Obtuse angle $= A$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The acute angle is $B$.
-
+<emptyline>
 The obtuse angle is $A$.
 </code></pre>
 </div>
@@ -766,11 +766,11 @@ $70 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As the triangle is an isosceles triangle, the third angle is also $= x$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 40 + x  &= 180 \\\\
@@ -837,9 +837,9 @@ $110 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's use the value of $x$ from above to find $y$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + y  &= 180 \\\\
@@ -1045,13 +1045,13 @@ $42 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the missing angle $= a$
-
+<emptyline>
 As the triangle is an isosceles triangle, the third angle is also $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 96      &= 180  \\\\
@@ -1064,7 +1064,7 @@ a               &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
 a               &= 42 \degree
 \end{aligned}
 $
-
+<emptyline>
 Other two angles $= 42 \degree$
 </code></pre>
 </div>
@@ -1249,9 +1249,9 @@ $55 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 90 + 35 + x      &= 180 \\\\
@@ -1442,9 +1442,9 @@ $75 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_quadrilateral
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 110 + 100 + 75 + x             &= 360 \\\\
@@ -1635,9 +1635,9 @@ $40 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 80 + 60 + x               &= 180 \\\\
@@ -1832,13 +1832,13 @@ $60 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_md_angles_of_an_equilateral_triangle
-
+<emptyline>
 Let the angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + a              &= 180 \degree \\\\
@@ -1849,7 +1849,7 @@ a                      &= \dfrac {\cancel{3} \times 60} {\cancel{3}} \\\\
 a                      &= 60 \degree
 \end{aligned}
 $
-
+<emptyline>
 Angle $= 60 \degree$
 </code></pre>
 </div>
@@ -2072,15 +2072,15 @@ $b$ $=$ $15 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 *TODO:: Add an image with vertices marked ABCD$*
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 In triangle $ABD$, as per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 2a + a + 90     &= 180 \\\\
@@ -2092,9 +2092,9 @@ a               &= \dfrac {30 \times \cancel{3}} { \cancel{3}} \\\\
 a               &= 30 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use value of $a$ in triangle ABC.
-
+<emptyline>
 $
 \begin{aligned}
 (b + 2a) + b + 90     	&= 180 \\\\
@@ -2342,9 +2342,9 @@ $30 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 2x + x + 5x + 4x                &= 360 \\\\
@@ -2416,9 +2416,9 @@ $36 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 2x + (x + 32) + 40 			&= 180 \degree \\\\
@@ -2641,11 +2641,11 @@ $140 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 b                                             &= 2c \\\\
@@ -2662,9 +2662,9 @@ b                                             &= 2 \times 20 \\\\
 b                                             &= 40 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $b$ to find $d$.
-
+<emptyline>
 $
 \begin{aligned}
 b + d                                         &= 180 \\\\
@@ -2862,13 +2862,13 @@ $150 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_equilateral_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_rectangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 90 + 60 + 60 + a                               &= 360 \\\\
@@ -3122,9 +3122,9 @@ $C$ $=$ $90 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 A                        &= B \\\\
@@ -3225,9 +3225,9 @@ $90 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x + x + x + 90  &= 360 \\\\
@@ -3680,9 +3680,9 @@ $45 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 135 + a                 &=  180 \\\\
@@ -3746,9 +3746,9 @@ $96 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 174 + e + 90    &=  360 \\\\
@@ -3827,11 +3827,11 @@ $73 \degree, 107 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 62 + 45 + f &= 180 \\\\
@@ -3840,9 +3840,9 @@ f           &= 180 - 107 \\\\
 f           &= 73 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $f$ to find $g$.
-
+<emptyline>
 $
 \begin{aligned}
 f + g     &=  180 \\\\
@@ -4037,9 +4037,9 @@ $58 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 32 + 90   &= 180  \\\\
@@ -4252,15 +4252,15 @@ $56 \degree$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add an image with showing vertically opposite angles being equal *
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_md_formula_vertically_opposite_angles
-
+<emptyline>
 As the triangle is an isosceles triangle, the third angle is also $= x$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + x + 68      &= 180  \\\\
@@ -4466,9 +4466,9 @@ $85 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 43 + 52     &= 180  \\\\
@@ -4669,9 +4669,9 @@ $136 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line 
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 44 + a     &= 180  \\\\

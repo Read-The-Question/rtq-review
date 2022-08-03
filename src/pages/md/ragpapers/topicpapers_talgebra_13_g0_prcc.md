@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-13-g0-prcc"
 title: "TopicPaper - Algebra - 13 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -199,22 +199,22 @@ $7, 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Annie thinks $= a$
-
+<emptyline>
 Let the number Bradley thinks $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 a + b      &= 20 \\\\
 a - b      &= 6         
 \end{aligned}
 $
-
+<emptyline>
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 a + b - (a - b)     &= 20 - 6 \\\\
@@ -224,9 +224,9 @@ b                   &= \dfrac {14} {2} \\\\
 b                   &= 7
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute the value of $b$ in one of the initial equations.
-
+<emptyline>
 $
 \begin{aligned} 
 a + b                          &= 20 \\\\
@@ -235,9 +235,9 @@ a                              &= 20 - 7 \\\\
 a                              &= 13
 \end{aligned}
 $
-
+<emptyline>
 Annie's number $= 13$
-
+<emptyline>
 Bradley's number $= 7$
 </code></pre>
 </div>
@@ -846,13 +846,13 @@ $\pounds 5.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of first rabbit $= r$
-
+<emptyline>
 Cost of second rabbit $= 2 + r$
-
+<emptyline>
 Cost of third rabbit $= (2 + r) - 0.8$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 r + 2 + r + (2 + r) - 0.8 &= 19.70 \\\\
@@ -866,7 +866,7 @@ r                         &= \dfrac {5.5 \times \cancel {3}} {\cancel {3}} \\\\
 r                         &= \pounds 5.5
 \end{aligned}
 $
-
+<emptyline>
 Cost of first rabbit $=\pounds 5.5$
 </code></pre>
 </div>
@@ -1052,9 +1052,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a \times a) \times 3 &= 192 \\\\
@@ -1066,7 +1066,7 @@ a                     &= \sqrt 64 \\\\
 a                     &= 8
 \end{aligned}
 $
-
+<emptyline>
 Starting number $=8$
 </code></pre>
 </div>
@@ -1259,7 +1259,7 @@ $18$
                         &= 30
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of pears}  &= 48 - 30 \\\\
@@ -1454,9 +1454,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of people got on $= p$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 24 - 4 + x + 3 &= 35 \\\\
@@ -1465,9 +1465,9 @@ x              &= 35 - 23 \\\\
 x              &= 12
 \end{aligned}
 $
-
+<emptyline>
 Number of people got on $=12$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1659,11 +1659,11 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of children $= c$
-
+<emptyline>
 Number of dogs $= 3 c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times c + 4 \times 3 c &= 56 \\\\
@@ -1675,7 +1675,7 @@ c                         &= \dfrac {\cancel {14} \times 4} {\cancel {14}} \\\\
 c                         &= 4
 \end{aligned}
 $
-
+<emptyline>
 Jone's children $=4$
 </code></pre>
 </div>
@@ -1860,9 +1860,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question
-
+<emptyline>
 $
 \begin{aligned}
 3a + 8   &= 35 \\\\
@@ -1874,7 +1874,7 @@ a        &= \dfrac {\cancel {3} \times 9} {\cancel {3} } \\\\
 a        &= 9
 \end{aligned}
 $
-
+<emptyline>
 The number $=9$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-1-pr-prns"
 title: "TopicPaper - Graph - 1 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -184,9 +184,9 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let total number of boys $= a$
-
+<emptyline>
 As per the graph,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Boys failed}         &= 15 \\\\
@@ -199,9 +199,9 @@ a                           &= 5 \times 12 \\\\
 a                           &= 60
 \end{aligned}
 $
-
+<emptyline>
 Total number of boys $= 60$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Boys passed}      &= 60 - 15 \\\\
@@ -473,7 +473,7 @@ $\dfrac {1} {4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the pie chart,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Fraction}    &= \dfrac {90} {360} \\\\
@@ -552,9 +552,9 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of people $= a$
-
+<emptyline>
 As per the pie chart,
-
+<emptyline>
 $
 \begin{aligned}
 \text {People owning white car}     &= 5 \\\\
@@ -567,9 +567,9 @@ a                                   &= 5 \times 12 \\\\
 a                                   &= 60
 \end{aligned}
 $
-
+<emptyline>
 Total number of people $= 60$
-
+<emptyline>
 $
 \begin{aligned}
 \text {People owning silver car}    &= \dfrac {180} {360} \times 60 \\\\
@@ -853,7 +853,7 @@ $(4, 4)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Tile} \ 4 \ \text {touches tile} \ 3     &= (3, 3) \\\\
@@ -925,7 +925,7 @@ $(17, 17)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Tile} \ 17 \ \text {touches tile} \ 16     &= (16, 16) \\\\
@@ -1007,7 +1007,7 @@ $\text {Yes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total tiles used}    &= 1^2 + 2^2 + 3^2 \\\\
@@ -1019,7 +1019,7 @@ $
                             &= 16
 \end {aligned}
 $
-
+<emptyline>
 As per the above calcuations, there are enough tiles to make the next square.
 </code></pre>
 </div>
@@ -1246,7 +1246,7 @@ $\dfrac {1} {4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the pie chart,
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {90} {360} \\\\
@@ -1316,9 +1316,9 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of students $= a$
-
+<emptyline>
 As per the pie chart,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {120} {360} \times a     &= 20 \\\\
@@ -1330,7 +1330,7 @@ a                               &= 20 \times 3 \\\\
 a                               &= 60
 \end {aligned}
 $
-
+<emptyline>
 Total numbver of students $= 60$
 </code></pre>
 </div>
@@ -1775,7 +1775,7 @@ $\text {Car} \ B$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 Car $B$ was winning at $3{:}30 \ \text {pm}$
 </code></pre>
 </div>
@@ -1822,7 +1822,7 @@ $\text {Car} \ B$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 Car $B$ was winning at $4{:}15 \ \text {pm}$
 </code></pre>
 </div>
@@ -1874,7 +1874,7 @@ $40 \ \text {km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Distance}    &= 100 - 60 \\\\
@@ -2239,9 +2239,9 @@ $2002$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Years North beat South $= 1999, 2001, 2002$
-
+<emptyline>
 Now let's see the difference in points:
-
+<emptyline>
 $
 \begin {aligned}
 \text {Year} \ 1999     &= 200 - 120 \\\\
@@ -2252,7 +2252,7 @@ $
                         &= 100
 \end {aligned}
 $
-
+<emptyline>
 In year $2002$ North beat South by $100$ points.
 </code></pre>
 </div>
@@ -2310,9 +2310,9 @@ $2000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Years South beat North $= 2000, 2003$
-
+<emptyline>
 Now let's see the difference in points:
-
+<emptyline>
 $
 \begin {aligned}
 \text {Year} \ 2000     &= 180 - 80 \\\\
@@ -2321,7 +2321,7 @@ $
                         &= 70
 \end {aligned}
 $
-
+<emptyline>
 In year $2000$ South beat North by the greatest amount.
 </code></pre>
 </div>
@@ -2632,7 +2632,7 @@ $\dfrac {2} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Fraction of children}    &= \dfrac {240 - 80} {240} \\\\
@@ -2953,7 +2953,7 @@ $4$
                     &= 4
 \end {aligned}
 $
-
+<emptyline>
 Students that prefer fizzy drinks to juice $= 4$
 </code></pre>
 </div>
@@ -3190,11 +3190,11 @@ $(2, 1)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 The x-axis for point A and D is same.
-
+<emptyline>
 Similarly, The y-axis for point C and D are same.
-
+<emptyline>
 Hence, the coordinates of point D $= (2, 1)$
 </code></pre>
 </div>
@@ -3415,7 +3415,7 @@ $3 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Kay was in lead}     &= 5 - 2 \\\\
@@ -3467,7 +3467,7 @@ $600 \ \text {metres and} \ 1200 \ \text {metres}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 After $600 \ \text {metres}$ and $1200 \ \text {metres}$ they level during the race.
 </code></pre>
 </div>
@@ -3731,9 +3731,9 @@ $\text {Science}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per th graph,
-
+<emptyline>
 $\text {Science}$ had the most frequency so,
-
+<emptyline>
 $\text {Science}$ was the most popular subject.
 </code></pre>
 </div>
@@ -3782,9 +3782,9 @@ $\text {English}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 \text {English} is the only subject with a frequency of $4$ so,
-
+<emptyline>
 Four students prefer $\text {English}$.
 </code></pre>
 </div>
@@ -3836,7 +3836,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Difference}  &= 8 - 5 \\\\

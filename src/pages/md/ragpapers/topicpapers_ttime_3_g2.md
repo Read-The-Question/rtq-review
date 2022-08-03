@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g2"
 title: "TopicPaper - Time - 3 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "17"
 ---
 <ul class='question default-decimal'>
@@ -2377,7 +2377,7 @@ $732 \ \text{minutes}$
 &= 732 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

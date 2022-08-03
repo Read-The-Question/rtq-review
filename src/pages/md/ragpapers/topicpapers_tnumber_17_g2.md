@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-g2"
 title: "TopicPaper - Number - 17 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "24"
 ---
 <ul class='question default-decimal'>
@@ -956,9 +956,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$6$
-
+<emptyline>
 Lets verify,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {2} \times (1 + 2 + 3 + 6) \\\\
@@ -2588,7 +2588,7 @@ $211$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin {array}{cccccccccccccc}
          &           &     8     &     4    &     4 \\
@@ -2600,11 +2600,11 @@ $
    2     &     1     &     1     &     0    &     0
 \end {array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= 211$
 </code></pre>
 </div>
@@ -4951,7 +4951,7 @@ $2.38 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. 
-
+<emptyline>
 $
 \begin{aligned}
 &= 2.7 \ \text{m} - 32 \ \text{cm} \\\\
@@ -6001,7 +6001,7 @@ $1.009$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the difference between the number and $1$.
-
+<emptyline>
 | Number   |     Difference       |
 |:--------:|:--------------------:|
 |   $1.1$  |  $1.1 - 1 = 0.1$   |
@@ -6009,9 +6009,9 @@ $1.009$
 |  $1.009$ | $1.009 - 1 = 0.009$  |
 |  $0.99$  |  $1 - 0.99 = 0.01$   |
 |  $1.01$  |  $1.01 - 1 = 0.01$   |
-
+<emptyline>
 From the calculation above, the smallest difference is $0.009$.
-
+<emptyline>
 Number closest in value $= 1.009$
 </code></pre>
 </div>
@@ -6275,9 +6275,9 @@ $-, \div$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$9 \ \boxed{-} \ 4 = 25\ \boxed{\div} \  5$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Left}       &= 9 - 4 \\\\
@@ -6341,9 +6341,9 @@ $-, +$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$8 \ \boxed{-} \ 4 \ \boxed{+} \ 3 = 7$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 - 4 + 3 \\\\
@@ -6450,9 +6450,9 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 32 \div (10 - a)        &= 4 \\\\

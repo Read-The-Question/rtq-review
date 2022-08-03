@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-oldpr"
 title: "TopicPaper - Number - 20 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -146,7 +146,7 @@ $D$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 \text{A}    &= 2 + 5 \times 4 \\\\
@@ -163,7 +163,7 @@ $
             &= \rtq_katex_color_answer{10} \neq 24
 \end{aligned}
 $
-
+<emptyline>
 False statement $= \text{D}$
 </code></pre>
 </div>
@@ -404,9 +404,9 @@ $4, -4 \ \text {or} \ 3, -5 \ \text {or} \ 5, -3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$4, -4 \ \text {or} \ 3, -5 \ \text {or} \ 5, -3$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 4, -4   &= 4 - ( -4 ) \\\\
@@ -420,7 +420,7 @@ $
          &= 8
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -479,9 +479,9 @@ $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
-
+<emptyline>
 Lets verify it
-
+<emptyline>
 $
 \begin{aligned}
 -1, -2  &= -1 + ( -2 ) \\\\
@@ -493,7 +493,7 @@ $
         &= -3
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

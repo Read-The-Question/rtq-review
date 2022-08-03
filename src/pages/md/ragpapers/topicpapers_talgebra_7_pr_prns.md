@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-pr-prns"
 title: "TopicPaper - Algebra - 7 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -2119,7 +2119,7 @@ x &= \dfrac{\cancel 4 \times 24}{\cancel 4} \\\\
 x &= 24 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

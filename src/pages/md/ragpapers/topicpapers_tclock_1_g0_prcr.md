@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tclock-1-g0-prcr"
 title: "TopicPaper - Clock - 1 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -121,9 +121,9 @@ $45 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The hand of a clock moves by $30 \degree$ for every one unit covered.
-
+<emptyline>
 So the hour hand move by $30 \degree$ between $8 \ \text{am}$ and $9{:}00 \ \text{am}$ and another $15 \degree$ for $9{:}30 \ \text{am}$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {The hour hand moved by}  &= 30 + 15 \\\\
@@ -305,9 +305,9 @@ $165 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The hand of a clock moves by $30 \degree$ for every one unit covered.
-
+<emptyline>
 So the hour hand move by $30 \times 5 = 150 \degree$ between $6 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {The hour hand moved by}  &= 150 + 15 \\\\
@@ -491,7 +491,7 @@ $30 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total angles for the complete round in a clock $= 360 \degree$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Angle between every hour}    &= \dfrac {360} {12} \\\\
@@ -500,7 +500,7 @@ $
                                     &= 30 \degree
 \end {aligned}
 $
-
+<emptyline>
 The angle the hours of a clock make between each other at $7{:}30$ is $30 \degree$.
 </code></pre>
 </div>
@@ -677,9 +677,9 @@ $255 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The hand of a clock moves by $30 \degree$ for every one unit covered.
-
+<emptyline>
 So the hour hand move by $30 \times 8 = 240 \degree$ between $3 \ \text{am}$ and $11{:}00 \ \text{am}$ and another $15 \degree$ for $11{:}30 \ \text{am}$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {The hour hand moved by}  &= 240 + 15 \\\\
@@ -1139,11 +1139,11 @@ $150 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 In the clock from $12$ to $12$ it was $360 \degree$
-
+<emptyline>
 In the clock from $12$ to $6$ it was $180 \degree$
-
+<emptyline>
 $
 \begin{aligned}
 \text{So from} \  12 \ \text{to} \  1  &= \dfrac{180}{6} \\\\
@@ -1152,7 +1152,7 @@ $
 &= 30 \degree
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{So, the obtuse angle for} \  5  \ \text{O'clock} &= 30 \times 5 \\\\

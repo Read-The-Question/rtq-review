@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-blocked"
 title: "TopicPaper - Number - 14 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -889,7 +889,7 @@ $\pounds 0.72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
 &= \pounds1.28 - 57 \text{p} \\\
@@ -918,7 +918,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
 </div>
@@ -932,7 +932,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1036,11 +1036,11 @@ $3, 7, 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
-
+<emptyline>
 As the unit digit has $1$, we can rule out $2$ and $5$ .
-
+<emptyline>
 Let's try $3$, $7$ and $11$.
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \times 7 \times 11 \\\\

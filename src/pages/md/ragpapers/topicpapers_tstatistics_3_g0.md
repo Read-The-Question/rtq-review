@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-3-g0"
 title: "TopicPaper - Statistics - 3 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -607,7 +607,7 @@ $17$
                                 &= 17
 \end{aligned}
 $
-
+<emptyline>
 Janet’s average marks are $= 17$.
 </code></pre>
 </div>
@@ -801,7 +801,7 @@ $44 \ \text{kg}$
 \text{Total mass of girls}  &= 6 \times 40  \ \text{kg}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Average mass}     &= \dfrac {\text{Total mass}} {\text{Total children}} \\\\
@@ -813,7 +813,7 @@ $
                         &= 44  \ \text{kg}
 \end{aligned}
 $
-
+<emptyline>
 Average mass of the children $= 44 \ \text{kg}$
 </code></pre>
 </div>
@@ -1201,7 +1201,7 @@ $11\ \text {mm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the rainfall for Tuesday, Wednesday and Thursday (in mm) $= r$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Average rainfall for } 5 \text{ days}  &= \dfrac {\text{Total Rainfall}} {\text{Total days}} \\\\
@@ -1213,11 +1213,11 @@ r                                            &= 60 - 27\\\\
 r                                            &= 33  \ \text{mm}
 \end{aligned}
 $
-
+<emptyline>
 Total rainfall for Tuesday, Wednesday and Thursday $= 33  \ \text{mm}$
-
+<emptyline>
 Let's find the average rainfall for the other $3$ days now.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Average rainfall for } 3 \text{ days}     &= \dfrac {\text{Total Rainfall }} {\text{Total days}} \\\\
@@ -1413,7 +1413,7 @@ $5.4 \ \text{m}$
                         &= 5.4  \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 Mean Length $= 5.4 \ \text{m}$
 </code></pre>
 </div>

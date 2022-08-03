@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-notstarted"
 title: "TopicPaper - Statistics - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -5970,7 +5970,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The mode is the value that appears most frequently in a data set.
-
+<emptyline>
 $7$
 </code></pre>
 </div>
@@ -6844,7 +6844,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the marks in French $=a$,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {35 + a} {6} &= 6.5 \\\\
@@ -7311,7 +7311,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the delay on second Monday is $=a$
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {35 + a} {6} &= 6 \\\\

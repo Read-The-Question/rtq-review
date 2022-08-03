@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-oldpr-prcr"
 title: "TopicPaper - Order - 3 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -130,13 +130,13 @@ $= 0.7098$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Let's arrange the given numbers in ascending order.
-
+<emptyline>
 $0.0073, \quad 0.008, \quad 0.073, \quad 0.7, \quad 0.7098$
-
+<emptyline>
 The  largest value  $= 0.7098$. 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -318,9 +318,9 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$250 \ \text{m} \quad  0.52 \ \text{km}    \quad 0.5 \ \text{km} \quad 2.05 \ \text{km} \quad 502 \ \text{m}$
-
+<emptyline>
 Let's convert them to same units
-
+<emptyline>
 $
 \begin{aligned}
 &= 250 \ \text {m} \quad  520 \ \text {m}    \quad 500 \ \text {m} \quad 2050 \ \text {m} \quad 502 \ \text {m} \\\\
@@ -842,9 +842,9 @@ $0.603$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first arrange the sequence in ascending order.
-
+<emptyline>
 $0.06, \quad 0.4 \quad 0.603 \quad 0.63  \quad 0.64$
-
+<emptyline>
 Hence, it can be observed that $0.603$ is in the middle while arranged in ascending order.
 </code></pre>
 </div>
@@ -1018,9 +1018,9 @@ $0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$0.56 , \quad   0.506 , \quad   0.605 , \quad   0.65 , \quad 0.056$
-
+<emptyline>
 Let's arrange the decimals in ascending order,
-
+<emptyline>
 $0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 </code></pre>
 </div>
@@ -1311,9 +1311,9 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages.
-
+<emptyline>
 In this case, there are more fractions, so let's convert all the numbers into fractions.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.3,                                 \quad \dfrac {8} {25},                      \quad 33\%,                                 \quad \dfrac {1} {3} \\\\
@@ -1322,9 +1322,9 @@ $
 &= \dfrac {90} {300},                   \quad \dfrac {96} {300},                    \quad \dfrac {99} {300},                    \quad \dfrac {100} {300}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $ 
 \begin{aligned}
 &=\dfrac {90} {300},    \quad \dfrac {96} {300},    \quad \dfrac {99} {300},    \quad \dfrac {100} {300} \\\\
@@ -1563,9 +1563,9 @@ $ \text {Largest} = 0.9, \text {Smallest} = \dfrac {1} {100}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages.
-
+<emptyline>
 In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
-
+<emptyline>
 $
 \begin{aligned}
 &\dfrac {4} {5},                     \quad 0.9,                                 \quad 0.1,                                  \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
@@ -1574,15 +1574,15 @@ $
 &\dfrac {80} {100},                  \quad \dfrac {90} {100},                   \quad \dfrac {10} {100},                    \quad \dfrac {1} {100}, \quad \dfrac {20} {100}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $\dfrac {1} {100}, \quad \dfrac {10} {100}, \quad \dfrac{20} {100}, \quad \dfrac {80} {100}, \quad \dfrac{90} {100}$
-
+<emptyline>
 $\dfrac {1} {100}, \quad 0.1, \quad \dfrac{2} {10}, \quad \dfrac {4} {5}, \quad 0.9$
-
+<emptyline>
 Largest number = $0.9$
-
+<emptyline>
 Smallest number = $\dfrac {1} {100}$
 </code></pre>
 </div>
@@ -1647,9 +1647,9 @@ $\text {Largest} = \dfrac {4} {3}, \text {Smallest} =  \dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the numbers, so we can compare them.
-
+<emptyline>
 LCM of $4,2,3,5,1 = 60$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {4} , \quad \dfrac {1} {2} , \quad \dfrac {4} {3} , \quad \dfrac {4} {5} , \quad 1 \\\\
@@ -1657,15 +1657,15 @@ $
 &= \dfrac {45} {60} , \quad \dfrac {30} {60} , \quad \dfrac {80} {60} , \quad \dfrac {48} {60} , \quad \dfrac {60} {60}
 \end{aligned}
 $
-
+<emptyline>
 Lets put them in ascending order now.
-
+<emptyline>
 $= \dfrac {30} {60} , \quad \dfrac {45} {60} , \quad \dfrac {48} {60} , \quad \dfrac {60} {60} , \quad \dfrac {80} {60}$
-
+<emptyline>
 $= \dfrac {1} {2} , \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 1 , \quad \dfrac {4} {3}$
-
+<emptyline>
 Largest number = $\dfrac {4} {3}$
-
+<emptyline>
 Smallest number = $\dfrac {1} {2}$
 </code></pre>
 </div>
@@ -1722,17 +1722,17 @@ $\text {Largest} = 0.84, \text {Smallest} =  0.087$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages.
-
+<emptyline>
 In this case, they all are in decimals.
-
+<emptyline>
 $0.8 , \quad 0.803 , \quad 0.828 , \quad 0.84 , \quad 0.087$
-
+<emptyline>
 Let's put them in ascending order.
-
+<emptyline>
 $0.087 , \quad 0.8 , \quad 0.803 , \quad 0.828 , \quad 0.84$
-
+<emptyline>
 Largest number = $0.84$
-
+<emptyline>
 Smallest number = $0.087$
 </code></pre>
 </div>
@@ -1931,9 +1931,9 @@ $8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} 
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages.
-
+<emptyline>
 In this case, let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4} {5} , \quad 0.82 , \quad 0.802 , \quad 8\% , \quad 9 \ \text {hundredths} , \quad \dfrac {3} {4} \\\\
@@ -1942,9 +1942,9 @@ $
 &= 0.8 , \quad 0.82 , \quad 0.802 , \quad 0.08 , \quad 0.09 , \quad 0.75
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.08 , \quad 0.09 , \quad 0.75 , \quad 0.8 , \quad 0.802 , \quad 0.82 \\\\

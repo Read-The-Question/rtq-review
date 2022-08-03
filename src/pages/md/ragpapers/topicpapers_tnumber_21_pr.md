@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-pr"
 title: "TopicPaper - Number - 21 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -351,20 +351,20 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2a + b &= 35 \\\\
 2b - a &= 15
 \end{aligned}
 $
-
+<emptyline>
 First, let's find a
-
+<emptyline>
 $
 \begin{aligned}
 2b - a          &= 15 \\\\
@@ -377,9 +377,9 @@ a               &= \dfrac {55} {5} \\\\
 a               &= 11
 \end{aligned}
 $
-
+<emptyline>
 Now, let's find b
-
+<emptyline>
 $
 \begin{aligned}
 2a + b &= 35 \\\\
@@ -389,7 +389,7 @@ b &= 35 - 22 \\\\
 b &= 13
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -923,7 +923,7 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input = $a$
-
+<emptyline>
 $
 \begin{aligned}
 (a - 7) \div 2          &= 3 \\\\
@@ -987,7 +987,7 @@ $2n + 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input = $a$
-
+<emptyline>
 $
 \begin{aligned}
 (a - 7) \div 2          &= n \\\\
@@ -1191,9 +1191,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>32
-
+<emptyline>
 Lets verify 
-
+<emptyline>
 $
 \begin{aligned}
 \text{Remainder for} \ 32 \div 5 &= 2 \\\\
@@ -1390,7 +1390,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 18 - 17 + 16 - 15 + 14 - 13 \\\\
@@ -1568,9 +1568,9 @@ $42008 \\\\ 957992$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The number $= 42008$
-
+<emptyline>
 $1000000 - 42008 = 957992$
-
+<emptyline>
 This number is $957992$ less than one million.
 </code></pre>
 </div>

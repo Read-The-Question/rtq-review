@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-3-g0"
 title: "TopicPaper - Number - 3 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -211,7 +211,7 @@ $12$
 \text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
 \end{aligned}
 $
-
+<emptyline>
 The Highest Common Factor of $36$ and $60 = 12$
 </code></pre>
 </div>
@@ -266,9 +266,9 @@ $4, 9, 36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$4, 9, 36$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned} 
 4   &= 2^2 \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-blocked"
 title: "TopicPaper - Number - 8 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -404,9 +404,9 @@ $7, \ 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_sequence_find_difference_note
-
+<emptyline>
 The next term is calculated by subtracting $3$ to the previous term. Hence, the sequence would be:
-
+<emptyline>
 $
 \begin{matrix}
 &   \footnotesize {\rtq_katex_color_info {(-3)} } 
@@ -420,7 +420,7 @@ $
 28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}       &= 10 - 3 \\\\
@@ -608,7 +608,7 @@ $23, 5, 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question
-
+<emptyline>
 $
 \begin{aligned}
 &= 23 + 5 + 2 \\\\
@@ -1420,9 +1420,9 @@ $\pounds 342$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the original price (in $\pounds$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {3} \ \text{of} \ a      &= 114 \\\\
@@ -1431,7 +1431,7 @@ a                                   &= 114 \times 3 \\\\
 a                                   &= \pounds 342
 \end{aligned}
 $
-
+<emptyline>
 Original price $= \pounds 342$
 </code></pre>
 </div>
@@ -1570,7 +1570,7 @@ Hundredths
 |  Units | Decimal | Tenths    | Hundredths | Thousandths |
 |:------:|:-------:|:---------:|:----------:|:-----------:|
 | $0$    | .       | $2$       | $6$        | $4$         |
-
+<emptyline>
 the value of the $6$ in the decimal $0.264$ is Hundredths place
 </code></pre>
 </div>

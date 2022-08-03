@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-notstarted"
 title: "TopicPaper - Statistics - 2 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -495,14 +495,14 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let take total of 7 numbers as $=a$ and new value as $=b$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Old mean} &= 12 \\\\
 \dfrac {a} {7}  &= 12 \\\\
 a               &= 12 \times 7 \\\\
 a               &= 84 \\\\
-
+<emptyline>
 \text{New mean}     &= 11 \\\\
 \dfrac {84 + b} {8} &= 11 \\\\
 84 + b              &= 11 \times 8 \\\\
@@ -510,7 +510,7 @@ a               &= 84 \\\\
 b                   &= 88 - 84 \\\\
 b                   &= 4
 \end{aligned}
-
+<emptyline>
 Therefore, the eigth number $= 4$
 $
 </code></pre>
@@ -5137,29 +5137,29 @@ $116.5 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let dopey's height $=a$,
-
+<emptyline>
 Grumpy's height will $=a+14$,
-
+<emptyline>
 Sum of (all five dwarfs height and twice of dopey's height)
-
+<emptyline>
 $
 \begin{aligned}
 &= 114.5 \times 7 \\\\
 &= 801.75 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 If we subtract dopey's height once and add grumpy's height
-
+<emptyline>
 $
 \begin{aligned}
 &= 801.5 - a + a + 14  \\\\
 &= 815.5
 \end{aligned}
 $
-
+<emptyline>
 Their average height,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {815.5} {7} \\\\
@@ -6238,7 +6238,7 @@ $90\%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Since, mean of jane's mathematics test score is} &=89\% \\\\

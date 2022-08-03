@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-notstarted"
 title: "TopicPaper - Simpleword - 6 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -127,9 +127,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The smallest number of pupils the class could contain could be found by writing the fraction in its simplest form.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{56}{100} \\\\
@@ -138,7 +138,7 @@ $
 &= \dfrac{14}{25}
 \end{aligned}
 $
-
+<emptyline>
 The smallest number of pupils the class could contain $= 14$
 </code></pre>
 </div>

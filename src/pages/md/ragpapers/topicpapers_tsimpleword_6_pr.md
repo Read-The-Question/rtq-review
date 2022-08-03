@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-pr"
 title: "TopicPaper - Simpleword - 6 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -128,7 +128,7 @@ $22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of chocolate biscuits without foil wrappers}  &= 36 - 20 - 9 \\\\
@@ -136,7 +136,7 @@ $
                                                             &= 7
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total chocolate biscuits}    &= 15 + 7 \\\\
@@ -515,7 +515,7 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number people one side of the square table}      &= \dfrac {\text {Total people}} {\text {Number of sides}} \\\\
@@ -921,7 +921,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of cells lit} &= 4 + 4 + 3 + 3 + 4 + 4 + 1 + 1 \\\\
@@ -1318,7 +1318,7 @@ $
 &= \pounds \ 1.64
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -1527,7 +1527,7 @@ $
       & = \pounds 6020                                              
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -1593,9 +1593,9 @@ $
       & = \pounds 790                         
 \end{aligned}
 $
-
+<emptyline>
 The Portomento Bay will be $=\pounds 790 $ more expensive. 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1654,7 +1654,7 @@ $420$
 
 <pre class='language-latex'><code class='language-latex'>
 Online discount $=25 \%$
-
+<emptyline>
 $
 \begin{aligned}
 \text{discount} &= \dfrac{25}{100} \times (320 + 240) \\\\
@@ -1727,22 +1727,22 @@ Holiday Mill
 <pre class='language-latex'><code class='language-latex'>
 Let hotel price for child $= x \\$
 Let hotel price for adult $= y \\$
-
+<emptyline>
 price $= 3 \times y + x$
-
+<emptyline>
 $3 \times y + x = 5550$
-
+<emptyline>
 Using table we get,
-
+<emptyline>
 $
 \begin{aligned}
 \text{y} &= 1550 \\
 \text{x} &= 900
 \end{aligned}
 $
-
+<emptyline>
 They will be staying at Hotel Holiday Mill.
-
+<emptyline>
 </code></pre>
 </div>
 </div>

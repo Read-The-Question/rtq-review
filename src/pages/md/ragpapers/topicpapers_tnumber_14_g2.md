@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-g2"
 title: "TopicPaper - Number - 14 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "27"
 ---
 <ul class='question default-decimal'>
@@ -171,11 +171,11 @@ $72, 44$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let first missing number $= a$ 
-
+<emptyline>
 Let second missing number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 b + 19      &=  63  \\\\
@@ -186,7 +186,7 @@ a           &=  44 + 28 \\\\
 a           &=  72
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -246,11 +246,11 @@ $15, -7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first missing number $= a$
-
+<emptyline>
 Let the second missing number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 17 + a      &=  32  \\\\
@@ -1261,11 +1261,11 @@ $29, 34$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let first space $= a$
-
+<emptyline>
 Let second space $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a          &= 57 - 28  \\\\
@@ -1332,11 +1332,11 @@ $72, 86$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let first space $= a$ 
-
+<emptyline>
 let second space $= b$
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 $
 \begin{aligned}
 53 + a      &=  125  \\\\
@@ -4237,7 +4237,7 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 14 + 8 \div 2 \\\\
@@ -4298,7 +4298,7 @@ $29$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 17 + 3 \times (5 - 1) \\\\
@@ -5524,7 +5524,7 @@ $
  &= \text{Twenty one thousand one hundred seventy one}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -6025,7 +6025,7 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2.4 \times (3.7 +  1.3) \div 2 \\\\
@@ -6387,7 +6387,7 @@ $5.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1.1 \times (1.2 + 1.3) \times 2 \\\\
@@ -6582,7 +6582,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert all the fractions into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}, \quad 2 \dfrac {1} {7}, \quad 2 \dfrac {6} {11}, \quad 2 \dfrac {2} {5}, \quad 2 \dfrac {1} {10} \\\\
@@ -6590,7 +6590,7 @@ $
 &= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Numbers in between}   &= 2.5, \quad 2.55, \quad 2.4 \\\\
@@ -6817,9 +6817,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $ = a $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 6 \times 8 &= 4 \times a\\\\
@@ -6886,9 +6886,9 @@ $90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $ = a $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 12 \times 75 &= 10 \times a \\\\
@@ -7079,7 +7079,7 @@ $\dfrac{2}{3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (2.3 + 3.7) \div 9 \\\\

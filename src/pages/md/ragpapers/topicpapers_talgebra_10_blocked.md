@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-blocked"
 title: "TopicPaper - Algebra - 10 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "8"
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -841,7 +841,7 @@ $\pounds 50$
 
 <pre class='language-latex'><code class='language-latex'>
 Let money Martha has be m and Sally has be s,
-
+<emptyline>
 $
 \begin{aligned}
 m - 10 = 3 \times (s - 20) \\\\
@@ -850,7 +850,7 @@ m - 10 = 3s - 60 \\\\
 m =  3s -50
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 m - 15 = 2 \times (s - 20) \\\\
@@ -858,16 +858,16 @@ m - 15 = 2s - 40 \\\\
 2s - m = 25 
 \end{aligned}
 $
-
+<emptyline>
 Replacing m in second question
-
+<emptyline>
 $
 \begin{aligned}
 2s - 3s + 50 = 25 \\\\ 
 s = 25 
 \end{aligned}
 $
-
+<emptyline>
 Value of m will be,
 $
 \begin{aligned}
@@ -876,7 +876,7 @@ m = 75 - 50 \\\\
 m = 25 
 \end{aligned}
 $
-
+<emptyline>
 Total money both has,
 $
 \begin{aligned}
@@ -1027,7 +1027,7 @@ $25, 5$
 
 <pre class='language-latex'><code class='language-latex'>
 Let two numbers be $x$ and $y$,
-
+<emptyline>
 $
 \begin{aligned}
 x + y = 30   &&&&&    x - y = 20 \\\\
@@ -1273,7 +1273,7 @@ $23 \text {year}$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the age of that person be $=x$
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {33 - x} {2} = 5 \\\\
@@ -1282,7 +1282,7 @@ $
                  x  = 23 \text {year}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1513,13 +1513,13 @@ $1800 \text {metres}$
 
 <pre class='language-latex'><code class='language-latex'>
 According to question ,
-
+<emptyline>
 Distance between first and third bus $600 \text {metres}$
-
+<emptyline>
 Distance between first and second bus will be $300 \text {metres}$
-
+<emptyline>
 So, distance between first and last bus will be ,
-
+<emptyline>
 $
 \begin{aligned}
 &= 300 \times 9 \\\\
@@ -1680,18 +1680,18 @@ $10 \text{chickens}, 20 \text{cows}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of chickens $=x$ and number of cows $=y$
-
+<emptyline>
 A farmer has some chickens and some cows .He counted $30$ heads 
-
+<emptyline>
 $ 
 \begin{aligned}
 x + y = 30 \\\\
 x = 30 - y
 \end{aligned}
 $
-
+<emptyline>
 Each chicken  has 2 legs and cow has 4 legs 
-
+<emptyline>
 $
 \begin{aligned}
 2x + 4y = 100 \\\\
@@ -1700,7 +1700,7 @@ x  + 2y = 50 \\\\
 y = 20 \text {cows}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 x = 30 - y \\\\

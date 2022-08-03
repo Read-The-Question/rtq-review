@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-1-g0"
 title: "TopicPaper - Graph - 1 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -343,9 +343,9 @@ $54$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of students in 6C $= a$
-
+<emptyline>
 As per the pie chart,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{60}{360} \text{ of } a   &= 36 \\\\
@@ -357,9 +357,9 @@ a                               &= 36 \times 6 \\\\
 a                               &= 216
 \end{aligned}
 $
-
+<emptyline>
 Total students $= 216$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Students who chose swimming}  &= \dfrac{90}{360} \times 216 \\\\

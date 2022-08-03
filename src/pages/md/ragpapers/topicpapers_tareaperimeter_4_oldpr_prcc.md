@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 4 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -171,7 +171,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2x + 5                                       &= 21 \\\\
@@ -235,9 +235,9 @@ $105 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_regular_polygon
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter}                       &= 5 \times 21 \\\\
@@ -448,11 +448,11 @@ $92 \ \text{m}^{2}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add the diagram with inner rectangle's length $8 \ \text {m}$ and width $11 \ \text {m}$ shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\

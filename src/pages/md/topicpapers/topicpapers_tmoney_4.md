@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-4"
 title: "TopicPaper - Money - 4"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -907,7 +907,7 @@ $65 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of the packet of sweets}    &= \pounds 10 - \pounds 3.50 - 3 \times 55 \text {p} - \pounds 4.20 \\\\
@@ -1093,7 +1093,7 @@ $\pounds 0.71$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 &= \pounds 1.28 - 57 \text {p} \\\\
@@ -1914,7 +1914,7 @@ $57 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of sugar}       &= \pounds 5.15 - \pounds 3.69 - 89 \text {p} \\\\
@@ -2266,7 +2266,7 @@ $\pounds 0.85$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of a mug}   &= \dfrac {3.50} {5} \\\\
@@ -2475,7 +2475,7 @@ $\pounds 1.33$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the table,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 2 \times 1.49 + 0.69 \\\\
@@ -2545,7 +2545,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B997CEC0-1CE9-4FA7-9498-ABBF735994C3</p>
 </div>
@@ -2553,13 +2553,13 @@ $
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2687,9 +2687,9 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
                         &\approx 181 \ \text {g}
 \end {aligned}
 $
-
+<emptyline>
 Using the calculation above,
-
+<emptyline>
 Better value $= 600 \ \text {g}$ for $\pounds 3$
 </code></pre>
 </div>
@@ -2840,7 +2840,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Count of muffins}    &= \dfrac {\text {Total money}} {\text {Cost of one muffin}} \\\\
@@ -3255,7 +3255,7 @@ $\pounds 2.84$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the table,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= \pounds 0.99 + \pounds 1.20 + \pounds 0.65 \\\\
@@ -3321,11 +3321,11 @@ $\pounds 2, 10 \text {p}, 5 \text {p} \ \text {and} \ 1 \text {p}$
                             &= \pounds 2.16
 \end{aligned}
 $
-
+<emptyline>
 $\pounds 2.16 = \pounds 2 + \pounds 0.10 + \pounds 0.05 + \pounds 0.01$
-
+<emptyline>
 $\pounds 2.16 = \pounds 2 + 10 \text {p} + 5 \text {p} + 1 \text {p}$
-
+<emptyline>
 The coins were $\pounds 2, 10 \text {p}, 5 \text {p} \ \text {and} \ 1 \text {p}$
 </code></pre>
 </div>
@@ -3384,7 +3384,7 @@ $\pounds 3.90$
 &= \pounds 3.90
 \end{aligned}
 $
-
+<emptyline>
 For three sausages, a meat pie and a can of fizzy drink Jon paid $= \pounds 3.90$.
 </code></pre>
 </div>
@@ -3472,47 +3472,47 @@ $2 \ \text {Meat Pie}, 1 \ \text {Cup of Tea}, 1 \ \text {Cups of Coffee}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first find how much did he spend in total.
-
+<emptyline>
 $
 \begin{aligned}
 &= 50 - 44.40 \\\\
 &= \pounds 5.60
 \end{aligned}
 $
-
+<emptyline>
 As per the question, Simon bought four items. He spend in total $\pounds 5.60$
-
+<emptyline>
 As he ordered generously, let's start with the most expensive item from list. 
-
+<emptyline>
 $
 \begin{aligned}
 \text {Meat Pie}  &= 2 \times 2.20 \\\\
                   &= \pounds 4.40
 \end{aligned}
 $
-
+<emptyline>
 Money left, 
-
+<emptyline>
 $
 \begin{aligned}
 &= \pounds 5.60 - \pounds 4.40 \\\\
 &= \pounds 1.20
 \end{aligned}
 $
-
+<emptyline>
 Simon has $\pounds 1.20$ left and he buys two more items. We have to find which two or same items together add up to $\pounds 1.20$.
-
+<emptyline>
 Chips, Burger, Pie, Pasty, Sausage and Frizzy drink are either too costly or two of same items do not add up to $\pounds 1.20$
-
+<emptyline>
 Let's try Tea and Coffe
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.55 + 0.65 \\\\
 &= \pounds 1.20
 \end{aligned}
 $
-
+<emptyline>
 So, Simon ordered $= 2$ Meat Pie, $1$ Cup of Tea and $1$ Cups of Coffee
 </code></pre>
 </div>
@@ -3874,7 +3874,7 @@ $\pounds 660$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 550 + 20 \% \ \text {of} \ 550 \\\\
@@ -3939,7 +3939,7 @@ $\pounds 960$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of the ring excluding VAT}  &= 1200 - 20 \% \ \text {of} \ 1200 \\\\
@@ -4137,7 +4137,7 @@ $\pounds 0.95$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent}     &= 3 \times 85 + 5 \times 30 \\\\
@@ -4208,7 +4208,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3A71DDDC-2D6B-4A59-967F-56DE1212FA0F</p>
 </div>
@@ -4216,10 +4216,10 @@ $
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4507,7 +4507,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>66F3BB48-9E07-49F4-B6BC-D5FF57B45B59</p>
 </div>
@@ -4515,10 +4515,10 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5096,7 +5096,7 @@ $\pounds 2.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent} &= \pounds 1.50 + 65 \text {p} \\\\
@@ -5831,9 +5831,9 @@ $\pounds 5.33$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$ kg $=$ $1000$ g
-
+<emptyline>
 $\pounds 1$  $=$ $100 \text{p}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cheese} &= \dfrac {500} {1000} \ \text{kg} \times 5.30 \\\\
@@ -5841,7 +5841,7 @@ $
               &= \pounds 2.65
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Bananas} &= 6 \times \pounds \dfrac {15} {100} \\\\
@@ -5849,7 +5849,7 @@ $
                &= \pounds 0.9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Chocolate bars} &= 2 \times \pounds \dfrac {56} {100} \\\\
@@ -5857,7 +5857,7 @@ $
                       &= \pounds 1.12
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Change received} &= 10 - (\dfrac {500} {1000} \ \text{kg} \times 5.30 + 6 \times \pounds \dfrac {15} {100} + 2 \times \pounds \dfrac {56} {100}) \\\\
@@ -6453,7 +6453,7 @@ $\pounds 463$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 32 \times 14 + (4 - 3) \times 15 \\\\
@@ -6919,7 +6919,7 @@ $\pounds 25.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}      &= 2 \times 6.50 + 2 \times 3 + 2.20 + 2 \times 1.50 \\\\
@@ -7221,9 +7221,9 @@ $\pounds 8.05$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 2 \times \pounds 2 + 2 \times 90 \text {p} + \dfrac {1} {2} \times \pounds 4.50 \\\\
@@ -7470,7 +7470,7 @@ $\pounds 11.25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference}  &= 5 \times \pounds 5 - (5 \times \pounds 3.50 - 5 \times 75 \text {p}) \\\\
@@ -8138,7 +8138,7 @@ $\pounds 2.78$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= \pounds 1.55 + 67 \text {p} \\\\
@@ -8199,7 +8199,7 @@ $278$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Smallest possible coin can be $1 \ \text{pence}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total number of coins given} &= 100 + 100 + 78 \\\\
@@ -8269,7 +8269,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5F9005A4-253A-4F6B-A77C-60B2BD7ABAE0</p>
 </div>
@@ -8277,10 +8277,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8901,7 +8901,7 @@ $\pounds 67.10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}      &= 780 \times 7 \text {p} + \pounds 12.50 \\\\
@@ -9384,14 +9384,14 @@ $100 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 1 \ \text {g of jam cost}   &= \dfrac {20} {100} \\\\
                             &= 0.20 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 200 \times 0.20 + 10 + 50 \\\\
@@ -9455,9 +9455,9 @@ $25 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of lid}     &= \pounds 1.55 - 350 \times 0.20 \text {p} - 60 \text {p} \\\\
@@ -9535,11 +9535,11 @@ $160 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of lid (in $\text {pence}$) $= a$
-
+<emptyline>
 Cost of jar (in $\text {pence}$) $= 4a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 500 \times 0.20 \text {p} + a + 4a      &= \pounds 3 \\\\
@@ -9552,7 +9552,7 @@ a                                       &= \dfrac {\cancel {5} \times 40} {\canc
 a                                       &= 40 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of lid}     &= 40 \text {p} \\\\
@@ -9629,9 +9629,9 @@ $1000 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of jam (in $\text {pence}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 65 \text {p} + \pounds 2 + a        &= \pounds 4.65 \\\\
@@ -9641,9 +9641,9 @@ a                                   &= 465 - 265 \\\\
 a                                   &= 200 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 Cost of jam $= 200 \text {p}$
-
+<emptyline>
 $
 \begin {aligned}
 \text {Weight of jam} \times 0.20 \text {p}     &= 200 \text {p} \\\\

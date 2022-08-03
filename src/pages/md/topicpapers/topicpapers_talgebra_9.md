@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-9"
 title: "TopicPaper - Algebra - 9"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -495,9 +495,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number be $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 5 - 3                                      &= 57 \\\\
@@ -509,7 +509,7 @@ a                                                   &= \dfrac {\cancel{5} \times
 a                                                   &= 12
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -729,9 +729,9 @@ $37$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 56 + a                                              &= 93 \\\\
@@ -739,7 +739,7 @@ a                                                   &= 93 - 56 \\\\
 a                                                   &= 37
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 37$
 </code></pre>
 </div>
@@ -798,9 +798,9 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 182 \div a                                          &= 14 \\\\
@@ -810,7 +810,7 @@ a                                                   &= \dfrac {13 \times \cancel
 a                                                   &= 13
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 13$
 </code></pre>
 </div>
@@ -871,9 +871,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (12 - a) \times 12                                  &= 96 \\\\
@@ -885,7 +885,7 @@ a                                                   &= 12 - 8 \\\\
 a                                                   &= 4
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 4$
 </code></pre>
 </div>
@@ -944,9 +944,9 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {81 - a} {4}                                 &= 9 \\\\
@@ -956,7 +956,7 @@ a                                                   &= 81 - 36 \\\\
 a                                                   &= 45
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 45$
 </code></pre>
 </div>
@@ -1021,7 +1021,7 @@ The missing number is $= 45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B</p>
 </div>
@@ -1035,7 +1035,7 @@ The missing number is $= 45$
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1185,9 +1185,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>In a regular pentagon, all sides have the same length.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3x + 5                                              &= 17 \\\\
@@ -1256,9 +1256,9 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>In a regular pentagon, all sides have the same length.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2y - 9                                              &= 17 \\\\
@@ -1503,7 +1503,7 @@ TODOANSWER
 &= 40
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -1880,9 +1880,9 @@ $\pounds 32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the money Gary have $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money Martin have} + \text{Money Gary have}       &= \text{Total money} \\\\
@@ -1896,7 +1896,7 @@ a                                                       &= \dfrac {\cancel{2} \t
 a                                                       &= \pounds 19
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money Gary have}                                   &= \pounds 19 \\\\
@@ -4445,13 +4445,13 @@ $\dfrac {a} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of pens be a,
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Fraction of black pens are $\dfrac{a}{2}$
-
+<emptyline>
 Fraction of red pens are $\dfrac{a}{6}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of blue pens are} &= \text{Total Pens} - \text{Black Pens} - \text{Red Pens} \\\\ 
@@ -5354,15 +5354,15 @@ $\dfrac {1} {12}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 water increases its volume by $= \dfrac {1} {11}$,
-
+<emptyline>
 As we all know unit quantity of water the volume of ice would be $= \dfrac {12} {11}$
-
+<emptyline>
 Hence melting ice would lose its volume by $\dfrac {1} {V}$
-
+<emptyline>
 So $\dfrac {12} {11} $ unit of ice shrinks by $\dfrac {1} {11}$ on melting
-
+<emptyline>
 $
 \begin{aligned}
 \text{Volume decreases by}  &= \dfrac {1/11} {12/11} \\\\
@@ -5371,7 +5371,7 @@ $
                             &= \dfrac {1} {12}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5557,13 +5557,13 @@ $11, 12, 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the First number $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Second consecutive number $= a + 1$.
-
+<emptyline>
 Third consecutive number $= a + 2$.
-
+<emptyline>
 $
 \begin {aligned}
 a + (a+1) + (a+2)  &= 36 \\\\
@@ -5576,11 +5576,11 @@ a                  &= \dfrac {\cancel{3} \times 11} {\cancel{3}} \\\\
 a                  &= 11
 \end {aligned}
 $
-
+<emptyline>
 Second consecutive number is $11 + 1 = 12$.
-
+<emptyline>
 Third consecutive number is $12 + 1 = 13$.
-
+<emptyline>
 The three consecutive numbers are $11, 12, 13$.
 </code></pre>
 </div>
@@ -5637,17 +5637,17 @@ $6, 7, 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 We can easily infer the values by using trial and error. Let's find out $3$ numbers which give a product of 336.
-
+<emptyline>
 Factors of $336 = 1, 2, 3, 4, 6, 7, 8, 12, 14, 16, 21, 24, 28, 42, 48, 56, 84, 112, 168, 336$
-
+<emptyline>
 | Factors    | Product   | Consecutive  |
 |:----------:|:--------: |:-----------: |
 | $6, 7, 8$  |   $336$   |    Yes       |
 | $21, 2, 8$ |   $336$   |    No        |
 | $14, 3, 8$ |   $336$   |    No        |
-
+<emptyline>
 A quick check shows that $6$, $7$ and $8$  are the consecutive numbers which gives a product $= 336$.
 </code></pre>
 </div>
@@ -6679,9 +6679,9 @@ $10, 11, 9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weights of Albert, Brian, Charlie are A, B, C respectivley.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 A + B     &= 22    \ \text{kg}  \\\\
@@ -6689,9 +6689,9 @@ B + C     &= 20     \ \text{kg} \\\\
 A + B + C &= 30 \ \text{kg}\\\\
 \end{aligned}
 $
-
+<emptyline>
 Lets, first find value of A
-
+<emptyline>
 $
 \begin{aligned}
 A + (B + C)  &= 30 \\\\
@@ -6700,9 +6700,9 @@ A            &= 30 - 20 \\\\
 A            &= 10 \\\\
 \end{aligned}
 $
-
+<emptyline>
 Now finding the value of B,
-
+<emptyline>
 $
 \begin{aligned}
 A + B  &= 22 \\\\
@@ -6711,9 +6711,9 @@ B      &= 22 - 10 \\\\
 B      &= 11
 \end{aligned}
 $
-
+<emptyline>
 Finally the value of C is given by,
-
+<emptyline>
 $
 \begin{aligned}
 B + C &= 20 \\\\
@@ -6917,15 +6917,15 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the money Tim received $= a$.
-
+<emptyline>
 According to the question,
-
+<emptyline>
 Money David recieved $= \dfrac {a} {2}$.
-
+<emptyline>
 Money Alison recieved $= \dfrac {a} {3}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total money they recieved}                                                                       &= \pounds 49.50 \\\\
@@ -6940,11 +6940,11 @@ a                                                                               
 a                                                                                                       &= \pounds 27
 \end {aligned}
 $
-
+<emptyline>
 Money Tim received $= \pounds 27$.
-
+<emptyline>
 Money David recieved $= \dfrac {27} {2} = \pounds 13.5$.
-
+<emptyline>
 Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
 </code></pre>
 </div>
@@ -7322,11 +7322,11 @@ $29, 58$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the smaller number $= a$.
-
+<emptyline>
 The larger number $= 2a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 2a  &= 87 \\\\
@@ -7337,9 +7337,9 @@ a       &= \dfrac {29 \times \cancel {3}} {\cancel {3}} \\\\
 a       &= 29
 \end{aligned}
 $
-
+<emptyline>
 Smaller Number $= 29$.
-
+<emptyline>
 Larger number $= 2 \times 29 = 58$.
 </code></pre>
 </div>
@@ -7996,13 +7996,13 @@ $\pounds 2.65$ and $\pounds 2.25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of First item as $= a$
-
+<emptyline>
 the cost of 2nd item is $a + 40 \text{p}$ or $a + \pounds 0.40$
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of item} \ 1 + \ \text{Cost of item} \ 2 &= \ \text{Total cost spend} \\\\ 
@@ -8015,11 +8015,11 @@ a                                                 &= \dfrac {4.50} {2} \\\\
 a                                                 &= \pounds 2.25
 \end{aligned}
 $
-
+<emptyline>
 Cost of the Item $1$ is $\pounds 2.25$
-
+<emptyline>
 Let's find cost of the Item $2$.
-
+<emptyline>
 $
 \begin{aligned}
 &= a + \pounds 0.40 \\\\
@@ -8028,7 +8028,7 @@ $
 &= \pounds 2.65
 \end{aligned}
 $
-
+<emptyline>
 Cost of the 2nd item is $\pounds 2.65$
 </code></pre>
 </div>
@@ -8220,7 +8220,7 @@ $20 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Length}(x)         &= \text{Length}(\text{Lower figure}) + \dfrac{1}{3} \times \text{Length}(\text{Upper figure}) \\\\
@@ -8231,7 +8231,7 @@ x                        &= 15 + 5  \\\\
 x                        &= 20 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 The total length of marked $x$ is $20 \ \text {cm}$
 </code></pre>
 </div>
@@ -8519,9 +8519,9 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>
 JJ, MM, CC are all multiples of $11$
-
+<emptyline>
 If you add 3 2.digit numbers as in question then the highest number achieved is 
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &    & 9     & 9  \\
@@ -8531,15 +8531,15 @@ $
        & 2  & 6     & 4
 \end{array}
 $
-
+<emptyline>
 So, the largest value of $J$ can be $2$ or smallest value $1$
-
+<emptyline>
 Now let's consider the Units places.
-
+<emptyline>
 $J + M + C = C$, i.e. $J+M$ must add to $10$, then only $J+M+C$ will result in $C$ at untis place. 
-
+<emptyline>
 Now refer to the Tens places, which has $1$ as carry over from sum of units places and $J + M = 10$ or $J + M$ will have $0$ in unit place.
-
+<emptyline>
 $
 \begin{aligned}
 1 + J + M + C &= M \\
@@ -8547,9 +8547,9 @@ $
 1 + C = M
 \end{aligned}
 $
-
+<emptyline>
 To summarise the assumptions above: 
-
+<emptyline>
 $
 \begin{aligned}
 J = 1 \text {\ or,} \\
@@ -8558,11 +8558,11 @@ J + M & = 10 \\
 1 + C = M
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute our assumptions
-
+<emptyline>
 Assumption J = 1
-
+<emptyline>
 $
 \begin{aligned}
 J + M &= 10 \\
@@ -8574,9 +8574,9 @@ C &= 9 -1 \\
   &= 8
 \end{aligned}
 $
-
+<emptyline>
 If J is $1$, M is $9$ and C is $8$
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &    & 1     & 1  \\
@@ -8586,9 +8586,9 @@ $
        & 1  & 9     & 8
 \end{array}
 $
-
+<emptyline>
 Assumption J = 2
-
+<emptyline>
 $
 \begin{aligned}
 J + M &= 10 \\
@@ -8600,9 +8600,9 @@ C + 1 &= M\\
       &= 7
 \end{aligned}
 $
-
+<emptyline>
 If J is $2$, M is $8$ and C is $7$
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &    & 2     & 2  \\
@@ -8612,7 +8612,7 @@ $
        & 2  & 8     & 7
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8842,18 +8842,18 @@ $3$ minibuses
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Let's find how many buses are needed to accomadate $39$ members.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{39} {15} \\\\
 &= 2 \dfrac{9} {15} \\\\
 \end{aligned}
 $
-
+<emptyline>
 2 full buses and for rest $9$ one more bus
-
+<emptyline>
 So, total of $3$ minibuses are needed for $39$ members.
 </code></pre>
 </div>
@@ -8906,11 +8906,11 @@ $6$ seats
 
 <pre class='language-latex'><code class='language-latex'>
 As per the answer above there were $9$ members in the $3$rd bus.
-
+<emptyline>
 A bus could seat up to $15$ members
-
+<emptyline>
 So, $15 - 9 = 6$
-
+<emptyline>
 There were $6$ spares seats.
 </code></pre>
 </div>
@@ -8977,7 +8977,7 @@ $\pounds 13.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total Expenses}        &= \ \text{Transport cost} + \text{Leisure centre costs} \\\\
@@ -8985,9 +8985,9 @@ $
                              &= \pounds 240
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the money Leftover,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money left}        &= \ \text{Total money collected} - \text{Total Expenses} \\\\
@@ -9189,11 +9189,11 @@ $15$ coins of $10$p and $15$ coins of $50$p
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take the number of coins as $= a$ 
-
+<emptyline>
 As per question,
-
+<emptyline>
 rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 10a + 50a         &= 900 \text{p} \\\\
@@ -9607,9 +9607,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Dini thought of $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + 10   &= 52 \\\\
@@ -9682,7 +9682,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F</p>
 </div>
@@ -9696,7 +9696,7 @@ $
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9852,9 +9852,9 @@ $120 \ \text {ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Cordial needed to make one glasses of squash $=a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 8 \times \text {a}     &= 320 \ \text {ml} \\\\
@@ -9864,16 +9864,16 @@ $
                                                                   &= 40 \ \text {ml}
 \end {aligned}
 $
-
+<emptyline>
 Yasmin need $40 \ \text {ml}$ of cordial to make one glass of squash. So,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cordial needed to make three glasses of squash}   &= 3 \times 40 \ \text {ml} \\\\
                                                          &= 120 \ \text {ml}
 \end {aligned}
 $ 
-
+<emptyline>
 Yasmin need $120 \ \text {ml}$ of cordial to make three glasses of squash.
 </code></pre>
 </div>
@@ -9940,27 +9940,27 @@ $1600 \ \text {ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first find out how much water will it take to make one glass of squash.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Water needed to make one glass of squash $=$ One glass of squash $-$ Cordial needed to make one glass of squash
-
+<emptyline>
 $
 \begin {aligned}
                                                   &= 200 \ \text {ml} - 40 \ \text {ml} \\\\
                                                   &= 160 \ \text {ml}
 \end {aligned}
 $
-
+<emptyline>
 Yasmin need $160 \ \text {ml}$ of water to make one glass of squash. So,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Water needed to make ten glasses of squash}  &= 10 \times 160 \ \text {ml} \\\\
                                                     &= 1600 \ \text {ml}
 \end {aligned}
 $
-
+<emptyline>
 Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
 </code></pre>
 </div>
@@ -10389,7 +10389,7 @@ How many magazines does she buy?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A61865AA-6630-4CE9-83F3-826FE700031F</p>
 </div>
@@ -10403,7 +10403,7 @@ How many magazines does she buy?
 <p>rag_as_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10499,9 +10499,9 @@ $2, 3, 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first see prime numbers which are less than $16$ :
-
+<emptyline>
 $2, 3, 5, 7, 11, 13$.
-
+<emptyline>
 As we can see, $2 + 3 + 11 = 16$.
 </code></pre>
 </div>
@@ -10699,11 +10699,11 @@ $54$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Archie thinks of $= a$
-
+<emptyline>
 Let's first find the number.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {5} {6} \times a  &= 60 \\\\
@@ -10715,9 +10715,9 @@ a                        &= 12 \times 6 \\\\
 a                        &= 72
 \end {aligned}
 $
-
+<emptyline>
 Now, let's find $\dfrac {3} {4}$ of the number.
-
+<emptyline>
 $
 \begin {aligned} 
 &= \dfrac {3} {4} \ \text {of} \ 72 \\\\

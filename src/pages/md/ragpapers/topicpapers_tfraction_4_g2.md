@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-g2"
 title: "TopicPaper - Fraction - 4 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "31"
 ---
 <ul class='question default-decimal'>
@@ -125,7 +125,7 @@ $12 \dfrac {3} {4} \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,  
-
+<emptyline>
 $
 \begin{aligned}
 \text {Left over}                  &= \ \text {Total length} - \text {Length cut off} \\\\
@@ -314,7 +314,7 @@ $\dfrac {7} {8} \ \text{km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Halfway}                           &= \dfrac {\text{Total distance}} {2} \\\\
@@ -884,7 +884,7 @@ $\dfrac {3} {4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {4} \div \dfrac {1} {3} \\\\
@@ -1354,7 +1354,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {3} \div \dfrac {1} {6} \\\\
@@ -2392,7 +2392,7 @@ $\dfrac {3} {7}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {3} {7} + \dfrac {1} {6}    &= \dfrac {25} {42} \\\\
@@ -2457,7 +2457,7 @@ $\dfrac {11} {12} $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {4} {5} \times \dfrac {11} {12} &= \dfrac {11} {15} \\\\
@@ -3294,7 +3294,7 @@ $\dfrac {1} {6}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {6} + \dfrac {1} {2}  &= \dfrac {2} {3} \\\\
@@ -3484,9 +3484,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= x$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {3} \times \text {x}   &= 14 \\\\
@@ -3498,7 +3498,7 @@ $
 \text{x}                          &= 21
 \end{aligned}
 $
-
+<emptyline>
 Number $= 21$
 </code></pre>
 </div>
@@ -3872,7 +3872,7 @@ Shape A
                                     &\approx 23 \%
 \end{aligned}
 $
-
+<emptyline>
 Shape A has a greater percentage shaded.
 </code></pre>
 </div>
@@ -5779,7 +5779,7 @@ $\dfrac {7}{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &=  1\dfrac {2} {3} \div \dfrac {10} {21} \\\\
@@ -6011,9 +6011,9 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{1}{2} \times 20  &= \dfrac {1} {4} \times a \\\\
@@ -6082,9 +6082,9 @@ $150$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {3} {4} \times 100 &= \dfrac {1} {2} \times b \\\\
@@ -6152,9 +6152,9 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{1} {3} \times 60  &= \dfrac {2} {3} \times c \\\\
@@ -6372,11 +6372,11 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing numerator $= a$
-
+<emptyline>
 Let the missing denominator $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a} {12}                     &= \dfrac {12} {18} \\\\
@@ -6387,9 +6387,9 @@ a                                   &= 4 \times 2 \\\\
 a                                   &= 8
 \end{aligned}
 $
-
+<emptyline>
 Numerator $= 8$
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {18} {b}                     &= \dfrac {12} {18} \\\\
@@ -6401,7 +6401,7 @@ b                                   &= 3 \times 9 \\\\
 b                                   &= 27
 \end{aligned}
 $
-
+<emptyline>
 Denominator $= 27$
 </code></pre>
 </div>
@@ -6769,7 +6769,7 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If Freya gives $\dfrac{3}{8}$ of badges away, then she is left with $1- \dfrac{3}{8} = \dfrac{5}{8}$ of badges.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Badges left}      &= \dfrac{5}{8} \times 24 \\\\
@@ -7157,7 +7157,7 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{2}{5} \text{ of } 45 \\\\

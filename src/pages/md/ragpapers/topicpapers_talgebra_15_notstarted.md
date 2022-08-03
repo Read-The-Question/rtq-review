@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-notstarted"
 title: "TopicPaper - Algebra - 15 - NOTSTARTED"
-date: 2022-08-01 21:41:58
-questions_count: "17"
+date: 2022-08-03 14:15:25
+questions_count: "18"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1241,6 +1241,146 @@ TODOANSWER
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>TODOANSWER
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:1:20</p>
+</div>
+<div class='rag'>
+<p>Ayushi Mishra</p>
+</div>
+<div class='rag'>
+<p>rag_am_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6'>Initial</p>
+<div class='question question'>
+
+Agnes is thinking of a number which is:
+
+one more than a multiple of $5$
+
+one less than a prime number
+
+a multiple of $9$
+
+less than $90$
+
+
+What number is Agnes thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$36$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$36$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$36$
 </code></pre>
 </div>
 </div>
@@ -2885,30 +3025,30 @@ Total CDs = 7 + 3
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the count of the expensive CDs $= d$
-
+<emptyline>
 Let the count of the cheaper CDs $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 8d + 5c     &= 71 \\\\
 d           &> c
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and so we need $2$ equations to solve them. 
 Here we have got $2$ equations but the second one is an inequality equation, so we 
 can't use elimination or substitution to solve the equations.
-
+<emptyline>
 This can be solved instead by using trial and error but applying conditions to narrow down options.
-
+<emptyline>
 We know $d > c$, so let's start with the biggest value possible for $d$.
 If $d$ is $9$, that will equate to $8 \times 9 = 72$ and thats more than total spent $71$, so the biggest possible value for $d$ is $8$.
-
+<emptyline>
 
 Let's try for $d = 8$.
-
+<emptyline>
 $
 \begin{aligned}
 8d + 5c             &= 71 \\\\
@@ -2918,11 +3058,11 @@ $
 5c                  &= 7
 \end{aligned}
 $
-
+<emptyline>
 $7$ is not exactly divisible by $5$ and so this value of $d$ is not the solution.
-
+<emptyline>
 Let's try for $d = 7$.
-
+<emptyline>
 $
 \begin{aligned}
 8d + 5c             &= 71 \\\\
@@ -2936,11 +3076,11 @@ c                   &= \dfrac{\cancel{5} \times 3}{\cancel{5}} \\\\
 c                   &= 3
 \end{aligned}
 $
-
+<emptyline>
 For $d = 7$, we have a solution where $c = 3$ and it satisfies the inequality $d > c$ too. So we have our solution.
-
+<emptyline>
 Let's find the total CDs count.
-
+<emptyline>
 $
 \begin{aligned}
 c                    &= 3 \\\\
@@ -2949,10 +3089,10 @@ d                    &= 7 \\\\
                      &= 10
 \end{aligned}
 $
-
+<emptyline>
 <!--
 Bebs explanation
-
+<emptyline>
 We know that the total of the CDs was $\pounds 71. If we name the number of the more expensive CDs a and the cheaper CDs b, we can form an equation.
 8a + 5b = 71
 a > b
@@ -2976,14 +3116,14 @@ We have now discovered that there are either 2 or 7 of the more expensive CDs.
 If there were 2, the cost of them would be $\pounds 16. This would mean that the cost of the cheaper CDs would be $\pounds 71 - $\pounds 16 which is $\pounds 55. There would be 11 of the cheaper CDs.
 However, the questions states that he bought more of the dearer (more expensive) CDs. This means that he bought 7 of the more expensive CDs which would cost $\pounds 56. The cost of the cheaper CDs would be $\pounds 71 - $\pounds 56 which is $\pounds 15. There would be 3 of the cheaper CDs.
 We need to find the total number of the CDs which would be 7 + 3 which is 10 CDs.
-
+<emptyline>
 answer = 10
-
+<emptyline>
 d = 7
 c = 3
-
+<emptyline>
 Total CDs = 7 + 3
-
+<emptyline>
 = 10 CDs 
 -->
 </code></pre>

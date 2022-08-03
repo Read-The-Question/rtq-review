@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-g0-prns"
 title: "TopicPaper - Simpleword - 3 - G0 - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -142,7 +142,7 @@ $4$
                             &= 8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of locusts on 8th day}                     &= 100 - 8 \times 12 \\\\
@@ -345,7 +345,7 @@ $\dfrac {2} {7}$
                                                 &= 6 \ \text{min}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of elephant left}                &= \dfrac {6} {21} \\\\

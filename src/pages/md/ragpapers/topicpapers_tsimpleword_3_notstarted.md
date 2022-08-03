@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-notstarted"
 title: "TopicPaper - Simpleword - 3 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -130,7 +130,7 @@ $1.75 \text{kg}$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
 The quantity of sugar is given in grams and the packet is given in kilograms.
-
+<emptyline>
 $
 \begin{aligned}
 1 \text {kg}  &= 1000 \text {g} \\\\
@@ -138,7 +138,7 @@ $
 &= 0.75 \text {kg}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 & 2.5 - 0.75 \\\\

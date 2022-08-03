@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "TopicPaper - Time - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -137,7 +137,7 @@ $1953$
                             &= 1953 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1070,9 +1070,9 @@ $68 \ \text {miles/hour}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_formula_speed
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. The time is calculated in minutes, but the final speed has to be in miles per hour.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Speed}    &= \dfrac {170 \ \text {miles}} {150 \ \text {minutes}} \\\\
@@ -2257,7 +2257,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>42717D42-3942-4015-AD45-A734CADB14A9</p>
 </div>
@@ -2265,13 +2265,13 @@ $
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2396,8 +2396,8 @@ At what time will it finish?
 
 $
 \begin{aligned}
-&= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
-&= 9{:}20 \ \text{pm}
+\text{Film ends} &= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
+                 &= 9{:}20 \ \text{pm}
 \end{aligned}
 $
 
@@ -2415,8 +2415,8 @@ $9{:}20 \ \text{pm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
-&= 9{:}20 \ \text{pm}
+\text{Film ends} &= 6{:}45  + 2 \ \text{hours } 35 \ \text{minutes} \\\\
+                 &= 9{:}20 \ \text{pm}
 \end{aligned}
 $
 </code></pre>
@@ -2576,7 +2576,78 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+
+
+
+
+part (a) : remove \"pm\" from step 1
+
+part (b) : replace first L.H.S : \"Original Time to leave\"
+
+replace 2nd L.H.S : \"Original Time to Arrive\"
+
+3rd L.H.S. : d capital in \"duration\"
+
+remove \"minutes\" from step 2
+
+
+
+part (c) : replace 1st L.H.S: \"Ratio of their speed\"
+
+l capital in \"laps\"
+
+
+
+add a \' between \text {of} and 18 
+
+
+
+a: write LHS, Finish time = 
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='42717D42-3942-4015-AD45-A734CADB14A9' id='FORM-42717D42-3942-4015-AD45-A734CADB14A9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-42717D42-3942-4015-AD45-A734CADB14A9'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2717,11 +2788,11 @@ $2 \ \text {hours } 40 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the time spent playing each weekday $= a$
-
+<emptyline>
 Time spent playing on weekend $= 2a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 5 \times a + 2 \times 2a         &= 12  \\\\
@@ -2733,7 +2804,7 @@ a                                &= \dfrac {\cancel{3} \times 4} {\cancel{3} \ti
 a                                &= \dfrac {4} {3} \ \text {hours}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time spent on saturday}    &= 2a  \\\\
@@ -4062,7 +4133,7 @@ $
                                     &= 36
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4386,7 +4457,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>92900B3E-B695-40CA-A45F-B8FC384C3A0B</p>
 </div>
@@ -4394,10 +4465,10 @@ $
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4479,36 +4550,27 @@ They both got their hair cut on the same day. How long until this happens again?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using trial and error,
 
-</div>
-<div class='working'>
+Required duration $= 70$ days.
 
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$70 \ \text{days}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Using trial and error,
+<emptyline>
+Required duration $= 70$ days.
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4520,22 +4582,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$70 \ \text{days}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='92900B3E-B695-40CA-A45F-B8FC384C3A0B' id='FORM-92900B3E-B695-40CA-A45F-B8FC384C3A0B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-92900B3E-B695-40CA-A45F-B8FC384C3A0B'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5718,7 +5810,7 @@ f: is the calculation right? not accounted for 1/10 increase too
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>82E53172-BBB9-4193-AC4C-4D206B9D794C</p>
 </div>
@@ -5726,10 +5818,10 @@ f: is the calculation right? not accounted for 1/10 increase too
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5824,10 +5916,10 @@ Find the *total* length of all four films, giving your answer in hours and minut
 
 $
 \begin{aligned}
-&= 143 \text { minutes} + 158 \text { minutes} + 144 \text { minutes} + 135 \text { minutes} \\\\
-&= 580 \text { minutes} \\\\
-&= 9 \times 60 \text { minutes} + 40 \text { minutes} \\\\
-&= 9 \text { hours } 40 \text { minutes}
+\text{Total length} &= 143 \text { minutes} + 158 \text { minutes} + 144 \text { minutes} + 135 \text { minutes} \\\\
+                    &= 580 \text { minutes} \\\\
+                    &= 9 \times 60 \text { minutes} + 40 \text { minutes} \\\\
+                    &= 9 \text { hours } 40 \text { minutes}
 \end{aligned}
 $
 
@@ -5845,10 +5937,10 @@ $9 \text { hours } 40 \text { minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 143 \text { minutes} + 158 \text { minutes} + 144 \text { minutes} + 135 \text { minutes} \\\\
-&= 580 \text { minutes} \\\\
-&= 9 \times 60 \text { minutes} + 40 \text { minutes} \\\\
-&= 9 \text { hours } 40 \text { minutes}
+\text{Total length} &= 143 \text { minutes} + 158 \text { minutes} + 144 \text { minutes} + 135 \text { minutes} \\\\
+                    &= 580 \text { minutes} \\\\
+                    &= 9 \times 60 \text { minutes} + 40 \text { minutes} \\\\
+                    &= 9 \text { hours } 40 \text { minutes}
 \end{aligned}
 $
 </code></pre>
@@ -5867,7 +5959,74 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+@UP : i am suggesting the following changes : but mins / minutes / min. there are many quesions like that ..some use min some use mins. To follow the question or keep a standard.
+
+Here to do the solving or directly 560 = 9 x 60
+
+___________________________________________
+
+Start with We know, 1 hour = 60 minutes
+
+then Total lengthn &= ...+ ... + .. (write mins not minutes.)
+
+= 580 mins
+
+   = 540 mins + 40 mins
+
+= 540/ 60 hours + 40 mins
+
+= 9 x 60 / 60 + 40 mins
+
+= cancel
+
+= 9 hours 40 mins
+
+Blue answer is correct.
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='82E53172-BBB9-4193-AC4C-4D206B9D794C' id='FORM-82E53172-BBB9-4193-AC4C-4D206B9D794C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-82E53172-BBB9-4193-AC4C-4D206B9D794C'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -6535,9 +6694,9 @@ $27 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 The time is given in hours, but the final answer has to be in minutes.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Minutes stayed}  &= 15 \% \ \text {of} \ 3  \\\\
@@ -7463,9 +7622,9 @@ $18 \text{hours}$
 | SAT                | 9 Till 5        |
 | SUN                | 1 Till 5        |
 | WEDS and FRI       | 2 Till 5        |
-
+<emptyline>
 Let's calculate the total hours it is open in each week.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total hours}   &= \text {Sat} + \text {Sun} + \text {Wed} + \text {Fri} \\\\

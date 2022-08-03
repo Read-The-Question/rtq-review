@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-pr"
 title: "TopicPaper - Number - 11 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -952,15 +952,15 @@ $51, 57, 3751$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Number closest to 50
-
+<emptyline>
 $ = 51$
-
+<emptyline>
 Number closest to 60
-
+<emptyline>
 $ = 57$
-
+<emptyline>
 Number closest to 4000
-
+<emptyline>
 $ = 3751$
 </code></pre>
 </div>
@@ -1170,13 +1170,13 @@ $10150$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using our previous answer
-
+<emptyline>
 $2030 \times 20 = 40600$
-
+<emptyline>
 $2030 \times 5 \times 4 = 40600$
-
+<emptyline>
 $2030 \times 5 = \dfrac {40600} {4}$
-
+<emptyline>
 $
 \begin{aligned}
 &= 2030 \times 5 \\\\
@@ -1369,13 +1369,13 @@ $50750$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using our previous answers 
-
+<emptyline>
 $2030 \times 5 = 10150$
-
+<emptyline>
 $2030 \times 5 \times 5 = 10150 \times 5$
-
+<emptyline>
 $2030 \times 25 = 10150 \times 5$
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &   1   &   0   &   1   &   5   &   0 \\
@@ -1946,9 +1946,9 @@ $2+0+1+8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Calculating all options
-
+<emptyline>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 \text{A}    &= 2 + 0 + 1 + 8 \\\\

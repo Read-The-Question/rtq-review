@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-g0-prcr"
 title: "TopicPaper - Probability - 2 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -132,13 +132,13 @@ $105$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the white counters $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Total counters $= 24 + 15 + a$
-
+<emptyline>
 rtq_abbr_katex_formula_aligned_probability
-
+<emptyline>
 $
 \begin{aligned}
 \text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
@@ -149,7 +149,7 @@ a                                                &= 144 - 39 \\\\
 a                                                &= 105
 \end{aligned}
 $
-
+<emptyline>
 There are $105$ white counters in the bag.
 </code></pre>
 </div>
@@ -337,13 +337,13 @@ $82$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the blue counters $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Total counters $= 32 + 14 + a$
-
+<emptyline>
 rtq_abbr_katex_formula_aligned_probability
-
+<emptyline>
 $
 \begin{aligned}
 \text {Probability of choosing a white counter is} &= \dfrac {\text {White counters}} {\text {Total counters}} \\\\
@@ -354,7 +354,7 @@ a                                                  &= 128 - 46 \\\\
 a                                                  &= 82
 \end{aligned}
 $
-
+<emptyline>
 There are 82 blue counters in the bag.
 </code></pre>
 </div>
@@ -955,30 +955,30 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 <pre class='language-latex'><code class='language-latex'>
 If we read the question carefully, similar set of events are repeated and **we have to derive if the phrases are correct for the 
 inter-related statements for all the events**.
-
+<emptyline>
 Let's check the probability of outcomes of Events A, B C and D step by step and draw out interpretation at end.
-
+<emptyline>
 
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability
 \end{aligned}
 $
-
+<emptyline>
 We will compare the possibilties to derive which statement fits which two given events. 
-
+<emptyline>
 |   | Event                 | Favorable Outcome | Total Outcome   |  Probability    |
 |---|-----------------------|-------------------|:---------------:|:---------------:|
 | A | either a $5$ or a $6$ | $5$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
 | B | an even number        | $2, 3$ and $6 = 3$|       $6$       | $\dfrac {3}{6}$ |
 | C | a prime number        | $2, 3$ and $5 = 3$|       $6$       | $\dfrac {3}{6}$ |
 | D | a multiple of $3$     | $3$ and $6 = 2$   |       $6$       | $\dfrac {2}{6}$ |
-
+<emptyline>
 
 Now lets **inspect** the statements.
-
+<emptyline>
 Statement 1 : A $\text{\textunderscore \textunderscore \textunderscore}$ B.
-
+<emptyline>
 $
 \begin{aligned} 
     \text{A}             & : \text{B}             \\\\
@@ -986,13 +986,13 @@ $
     \text{Probability A} & < \text{Probability B} 
 \end{aligned}
 $
-
+<emptyline>
 A $\underline {\text {is less likely to happen than}}$ B.
+<emptyline>
 
-
-
+<emptyline>
 Statement 2 : B $\text{\textunderscore \textunderscore \textunderscore}$ C.
-
+<emptyline>
 $
 \begin{aligned} 
     \text{B}             & : \text{C}             \\\\
@@ -1000,11 +1000,11 @@ $
     \text{Probability B} & < \text{Probability C} 
 \end{aligned}
 $
-
+<emptyline>
 B $\underline {\text {has the same chance of happening as}}$ C.
-
+<emptyline>
 Statement 3 : C $\text{\textunderscore \textunderscore \textunderscore}$ D.
-
+<emptyline>
 $
 \begin{aligned} 
     \text{C}             & : \text{D}             \\\\
@@ -1012,9 +1012,9 @@ $
     \text{Probability C} & < \text{Probability D} 
 \end{aligned}
 $
-
+<emptyline>
 C $\underline {\text {is more likely to happen than}}$ D.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1209,16 +1209,16 @@ $\text {Getting a head with a fair coin}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
                     &= \dfrac {1} {6}
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the second value.
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
@@ -1227,9 +1227,9 @@ rtq_abbr_katex_formula_aligned_probability \\\\
                     &= \dfrac {3} {6}
 \end{aligned}
 $
-
+<emptyline>
 Using the calculation above $\dfrac {3} {6} > \dfrac {1} {6}$.
-
+<emptyline>
 So it is more likely to get a head with a fair coin than rolling a $3$ with an unbiased die with six faces.
 </code></pre>
 </div>
@@ -1410,7 +1410,7 @@ $\dfrac { 11 } {  20 }$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**NOT** selecting a red counter is same as selecting a blue or yellow counter instead.
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\

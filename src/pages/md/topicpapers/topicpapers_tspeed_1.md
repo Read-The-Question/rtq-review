@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tspeed-1"
 title: "TopicPaper - Speed - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -141,7 +141,7 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Time}    &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
@@ -157,7 +157,7 @@ $
                 &= 3 \ \text {hours} \ 20 \ \text {minutes}
 \end {aligned}
 $
-
+<emptyline>
 The journey took $3 \ \text {hours} \ 20 \ \text {minutes}$.
 </code></pre>
 </div>
@@ -2324,7 +2324,7 @@ $45 \ \text {m.p.h}$
                         &= 45 \ \text {m.p.h}
 \end{aligned}
 $
-
+<emptyline>
 My average speed is $= 45 \ \text {m.p.h}$
 </code></pre>
 </div>
@@ -4226,7 +4226,7 @@ $2 \ \text {hours} \ 30 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
@@ -4234,9 +4234,9 @@ $
                                         &= 35 \ \text {km}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the time tourist will take to complete the journey.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
@@ -4520,7 +4520,7 @@ $800 \ \text{kilometres per hour}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Speed of the aeroplane}  &= \dfrac {\text {Distance} } { \text {Time} } \\\\
@@ -6753,9 +6753,9 @@ $6 \ \text{hours}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by Josh}                           &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
@@ -6817,7 +6817,7 @@ $6 \ \text{km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know,  Josh took $6$ hours to finish walking $36$ km.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Remaining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
@@ -7048,9 +7048,9 @@ $4 \ \text{hours}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by Julie}                          &= \dfrac {24 \ \text{km}} {6 \ \text{km per hour}} \\\\
@@ -7112,7 +7112,7 @@ $8 \ \text{km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know,  Julie took $4$ hours to finish walking $24$ km.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Reamining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
@@ -9669,7 +9669,7 @@ $112 \ \text{km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$  week =  $7$  days.
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Distance run in} \ 4 \ \text{weeks} &= \text{Distance per day} \times \text{Number of days} \\\\
@@ -9747,9 +9747,9 @@ $
                     &= \dfrac {1} {4} \ \text{hours}
 \end{aligned} 
 $
-
+<emptyline>
 Let's find the speed now
-
+<emptyline>
 $
 \begin{aligned}
 \text{Speed}    &= \dfrac {\text{Distance}} {\text{Time}} \\\\
@@ -10014,7 +10014,7 @@ $10 \ \text{miles}$
                         &= 10 \ \text{miles}
 \end{aligned}
 $
-
+<emptyline>
 Shortest distance $= 10 \ \text{miles}$
 </code></pre>
 </div>
@@ -10119,7 +10119,7 @@ $40 \ \text {min}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time Isobel takes}     &= \dfrac {\text{Distance}} {\text{Speed}} \\\\
@@ -10133,7 +10133,7 @@ $
                              &= 40 \ \text {min}
 \end{aligned}
 $
-
+<emptyline>
 The shortest time Isobel will take to complete the journey $= 40 \ \text {min}$ 
 </code></pre>
 </div>
@@ -10225,11 +10225,11 @@ $8 \ \text {min}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If $E$ and $F$ are blocked the shortest new route would be:
-
+<emptyline>
 From $S \ \text {to} \ B \ \text {to} \ C \ \text{to} \ T$ .
-
+<emptyline>
 Let's find the new distance.
-
+<emptyline>
 $
 \begin{aligned} 
 &= S \ \text{to} \ B \ \text{to} \ C \ \text{to} \ T \\\\
@@ -10237,7 +10237,7 @@ $
 &= 12 \ \text {miles}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Speed} &= 15 \ \text {miles per hour \ \ } \\\\
@@ -10245,9 +10245,9 @@ $
 \text {Distance} &= 12 \ \text {miles} 
 \end{aligned}
 $
-
+<emptyline>
 Now let's find the time.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time} & = \dfrac {\text{Distance}} {\text{Speed}} \\\\
@@ -10260,11 +10260,11 @@ $
             & = 48 \ \text {min}                                                                   
 \end{aligned}
 $
-
+<emptyline>
 Let's find the additional minutes by finding the difference in time taken by previous route and the new route.
-
+<emptyline>
 $48 \ \text {min}  - 40 \ \text {min} = 8 \ \text {min} $                                                                  
-
+<emptyline>
 The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min}$ 
 </code></pre>
 </div>

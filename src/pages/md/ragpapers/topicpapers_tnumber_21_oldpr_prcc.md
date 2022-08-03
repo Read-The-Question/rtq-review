@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-21-oldpr-prcc"
 title: "TopicPaper - Number - 21 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -131,9 +131,9 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5000, 200 \ \text {or} \ 50000, 20$
-
+<emptyline>
 Lets verify it
-
+<emptyline>
 $
 \begin{aligned}
 5000, 200   &= 5000 \times 200 \\\\
@@ -142,7 +142,7 @@ $
          &= 1000000
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -1740,7 +1740,7 @@ $56$ Or $64$
 8 \times 8 &= 64
 \end{aligned}
 $
-
+<emptyline>
 A multiple of $8$ between $50$ and $70$ = $56$ Or $64$.
 </code></pre>
 </div>
@@ -1925,11 +1925,11 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>2-digit numbers that are squares $=16, \ 25, \ 36, \ 49, \ 64, \ 81$
-
+<emptyline>
 $25, \ 36, \ 49$ and $81$ are not cube numbers.
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 8^2 &= 64 \\\\

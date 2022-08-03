@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -750,7 +750,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>29E53662-4095-436A-85A6-E3A91EB86DAF</p>
 </div>
@@ -764,7 +764,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -856,81 +856,42 @@ ABBR: Using BIDMAS
 
 $
 \begin{aligned}
-&= 2 + 0 \times 1 + 9\\\\
-&= 2 + 0 + 9 \\\\
-&= 2 + 9 \\\\
-&= 11
+\text{a}    &= 2 + 0 \times 1 + 9 \\\\
+            &= 2 + 0 + 9 \\\\
+            &= 11 \\\\
+            &= \green
+{11} \\\\
+\text{b}    &=2 \times 0 + 1 + 9\\\\
+            &= 0 + 1 + 9 \\\\
+            &= \red
+{10} \\\\
+\text{c}    &= 2 + 0 \times 1 \times 9\\\\
+            &= 2 + 0 \times 9 \\\\
+            &= 2 + 0 \\\\
+            &= \red
+{2} \\\\
+\text{d}    &= 2 \times 0 + 1 + 9 \\\\
+            &= 0 + 1 + 9 \\\\
+            &= \red
+{10} \\\\
+\text{e}    &= 2 \times 0 \times 1 \times 9 \\\\
+            &= 0 \times 1 \times 9 \\\\
+            &= 0  \times 9 \\\\
+            &= \red
+{0}
 \end{aligned}
 $
 
-
-
-</div>
-<div class='working'>
-
-ABBR: Using BIDMAS
-,
-
-$
-\begin{aligned}
-&= 2 \times 0 + 1 + 9\\\\
-&= 0 + 1 + 9 \\\\
-&= 1 + 9 \\\\
-&= 10
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-ABBR: Using BIDMAS
-,
-
-$
-\begin{aligned}
-&= 2 + 0\times 1 \times 9\\\\
-&= 2 + 0\times 9 \\\\
-&= 2 + 0 \\\\
-&= 2
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-ABBR: Using BIDMAS
-,
-
-$
-\begin{aligned}
-&= 2 \times 0 + 1 + 9\\\\
-&= 0 + 1 + 9 \\\\
-&= 1 + 9 \\\\
-&= 10
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-ABBR: Using BIDMAS
-,
-
-$
-\begin{aligned}
-&= 2 \times 0\times 1\times 9\\\\
-&= 0\times 1\times 9 \\\\
-&= 0\times 9 \\\\
-&= 0
-\end{aligned}
-$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>a</p>
+</div>
 <div class='answer'>
 
- $\text{Hence the largest number is}11$
+ $2 + 0 \times 1 + 9$
 
 </div>
 </div>
@@ -938,85 +899,42 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
-&= 2 + 0 \times 1 + 9\\\\
-&= 2 + 0 + 9 \\\\
-&= 2 + 9 \\\\
-&= 11
+\text{a}    &= 2 + 0 \times 1 + 9 \\\\
+            &= 2 + 0 + 9 \\\\
+            &= 11 \\\\
+            &= \rtq_katex_color_answer{11} \\\\
+\text{b}    &=2 \times 0 + 1 + 9\\\\
+            &= 0 + 1 + 9 \\\\
+            &= \rtq_katex_color_wrong_answer{10} \\\\
+\text{c}    &= 2 + 0 \times 1 \times 9\\\\
+            &= 2 + 0 \times 9 \\\\
+            &= 2 + 0 \\\\
+            &= \rtq_katex_color_wrong_answer{2} \\\\
+\text{d}    &= 2 \times 0 + 1 + 9 \\\\
+            &= 0 + 1 + 9 \\\\
+            &= \rtq_katex_color_wrong_answer{10} \\\\
+\text{e}    &= 2 \times 0 \times 1 \times 9 \\\\
+            &= 0 \times 1 \times 9 \\\\
+            &= 0  \times 9 \\\\
+            &= \rtq_katex_color_wrong_answer{0}
 \end{aligned}
 $
-
-
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
-$
-\begin{aligned}
-&= 2 \times 0 + 1 + 9\\\\
-&= 0 + 1 + 9 \\\\
-&= 1 + 9 \\\\
-&= 10
-\end{aligned}
-$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
-$
-\begin{aligned}
-&= 2 + 0\times 1 \times 9\\\\
-&= 2 + 0\times 9 \\\\
-&= 2 + 0 \\\\
-&= 2
-\end{aligned}
-$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
-$
-\begin{aligned}
-&= 2 \times 0 + 1 + 9\\\\
-&= 0 + 1 + 9 \\\\
-&= 1 + 9 \\\\
-&= 10
-\end{aligned}
-$
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
-$
-\begin{aligned}
-&= 2 \times 0\times 1\times 9\\\\
-&= 0\times 1\times 9 \\\\
-&= 0\times 9 \\\\
-&= 0
-\end{aligned}
-$
+<emptyline>
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>a</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'> $\text{Hence the largest number is}11$
+<pre class='language-latex'><code class='language-latex'> $2 + 0 \times 1 + 9$
 </code></pre>
 </div>
 </div>
@@ -1193,7 +1111,7 @@ $-4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 - (2 - 5)^2 \\\\
@@ -2303,7 +2221,7 @@ $40.6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
- 
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2  &   3  \ .  &   7 \\
@@ -2428,7 +2346,7 @@ $28.7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
         &   4  \ .  &   1 \\
@@ -2802,17 +2720,17 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>the prime factorization of 25
-
+<emptyline>
 $ = 1\times 5\times 5$
-
+<emptyline>
 the prime factorization of 20
-
+<emptyline>
 $ = 1\times 2\times 3\times 5$
-
+<emptyline>
 To find the HCF, multiply all the prime factors common to both numbers:
-
+<emptyline>
 $ = 1\times5$
-
+<emptyline>
 $ = 5$
 </code></pre>
 </div>
@@ -2880,7 +2798,7 @@ $ 1, 2, 3, 5, 6, 10, 15, 30 $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prcc question'>
 <div class='uuid'>
 <p>97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6</p>
 </div>
@@ -2894,7 +2812,7 @@ $ 1, 2, 3, 5, 6, 10, 15, 30 $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3007,7 +2925,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 & = 10 - 2 \times 3\\\\
@@ -3067,7 +2985,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 & = 4 \times(8 - 2)\\\\
@@ -3253,7 +3171,7 @@ $298$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 56 - 69 + 311 \\\\
@@ -4426,7 +4344,7 @@ $73$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 36 - 89 + 126 \\\\
@@ -4834,7 +4752,7 @@ $51$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 25 - 86 + 112 \\\\
@@ -4901,7 +4819,7 @@ $20000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first multiply the numbers ignoring the zeroes.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &       1       &   2     &   5 \\
@@ -4913,9 +4831,9 @@ $
 2   &       0       &   0     &   0
 \end{array}
 $
-
+<emptyline>
 Let's account for the one zeroes now.
-
+<emptyline>
 $= 20000$
 </code></pre>
 </div>
@@ -5881,16 +5799,16 @@ $0.72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Lets convert the fraction into decimal.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{5}{7} \\\\
 &= 0.71
 \end{aligned}
 $
-
+<emptyline>
 Lets's choose any number between $0.71$ and $0.8$.
-
+<emptyline>
 $= 0.72$
 </code></pre>
 </div>
@@ -6327,7 +6245,7 @@ $2220.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &       &     & 2 & 0 & 7  \ . & 0 \\
@@ -6700,9 +6618,9 @@ $((4 \times 4) + 4) \div 4 = 5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$((4 \times 4) + 4) \div 4 = 5$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= ((4 \times 4) + 4) \div 4 \\\\
@@ -6889,11 +6807,11 @@ $3, 7, 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using trial and error,
-
+<emptyline>
 Prime numbers $= 3, 7, 13$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 + 7 + 13 \\\\
@@ -6961,7 +6879,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>970F2EE0-98DA-45DF-A88C-260A3AC22A4A</p>
 </div>
@@ -6975,7 +6893,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7121,6 +7039,7 @@ Write $0.085$ correct to $2$ decimal places.
 
 $
 \begin{aligned}
+&= 0.085 \\\\
 & \approx 0.09
 \end{aligned}
 $
@@ -7139,6 +7058,7 @@ $0.9$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= 0.085 \\\\
 & \approx 0.09
 \end{aligned}
 $
@@ -7173,9 +7093,11 @@ Write $5.97$ correct to $1$ decimal place.
 
 $
 \begin{aligned}
+&= 5.97 \\\\
 & \approx 6.0
 \end{aligned}
 $
+
 
 
 </div>
@@ -7193,9 +7115,11 @@ $6.0$
 <pre class='language-latex'><code class='language-latex'>
 $
 \begin{aligned}
+&= 5.97 \\\\
 & \approx 6.0
 \end{aligned}
 $
+<emptyline>
 
 </code></pre>
 </div>
@@ -7430,7 +7354,7 @@ $-60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 + 8 \times -7 - 9 \\\\
@@ -7494,7 +7418,7 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (48 \div 8) - (7 - 12) \\\\
@@ -7568,7 +7492,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prccrl question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
 </div>
@@ -7582,7 +7506,7 @@ $
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prccrl</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7762,9 +7686,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Factors of $24 = 1, 2, 3, 4, 6, 8, \bold {12}, 24$
-
+<emptyline>
 Factors of $36 = 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36$
-
+<emptyline>
 The largest common factors of $24$ and $36 = 12$
 </code></pre>
 </div>
@@ -7990,7 +7914,7 @@ $-15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= -3 \times 2 - 9 \\\\
@@ -8107,7 +8031,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 + -4 \times -3 \\\\
@@ -8170,7 +8094,7 @@ $-2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (5 - 11) \div 3 \\\\
@@ -8586,7 +8510,7 @@ $325.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prccrl question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>211838E2-E95A-47E2-855F-B9E96DAB6F7D</p>
 </div>
@@ -8600,7 +8524,7 @@ $325.5$
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prccrl</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8674,39 +8598,10 @@ tnumber
 Insert an inequality sign $<$ or $>$ to make the following statements correct:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -8754,25 +8649,25 @@ $\dfrac {6} {10} \quad  <  \quad \dfrac {3} {4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's simplify the left hand side value.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {6} {10} \\\\
 &= 0.6
 \end {aligned}
 $
-
+<emptyline>
 Let's simplify the right hand side value.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {3} {4} \\\\
 &= 0.75
 \end {aligned}
 $
-
+<emptyline>
 Using the simplification above,
-
+<emptyline>
 $\dfrac {6} {10} \quad \boxed{\rtq_katex_color_answer{<}}  \quad  \dfrac {3} {4}$
 </code></pre>
 </div>
@@ -8807,7 +8702,7 @@ Let's simplify the left hand side value.
 $
 \begin {aligned}
 &= \dfrac {8} {7} \\\\
-&= 1.4
+&\approx 1.4
 \end {aligned}
 $
 
@@ -8816,7 +8711,7 @@ Let's simplify the right hand side value.
 $
 \begin {aligned}
 &= \dfrac {11} {13} \\\\
-&= 0.84
+&\approx 0.84
 \end {aligned}
 $
 
@@ -8838,25 +8733,25 @@ $\dfrac {8} {7} \quad  >  \quad \dfrac {11} {13}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's simplify the left hand side value.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {8} {7} \\\\
-&= 1.4
+&\approx 1.4
 \end {aligned}
 $
-
+<emptyline>
 Let's simplify the right hand side value.
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {11} {13} \\\\
-&= 0.84
+&\approx 0.84
 \end {aligned}
 $
-
+<emptyline>
 Using the simplification above,
-
+<emptyline>
 $\dfrac {8} {7} \quad \boxed{\rtq_katex_color_answer{>}}  \quad  \dfrac {11} {13}$
 </code></pre>
 </div>
@@ -9212,7 +9107,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prccrl question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>42D296D1-9C15-4407-8B49-817D8F7E5CB6</p>
 </div>
@@ -9226,7 +9121,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prccrl</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9392,7 +9287,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>3B57B6A6-82A1-494A-994E-EB4D60BF5539</p>
 </div>
@@ -9403,10 +9298,10 @@ TODOANSWER
 <p>Deepak Agrahari</p>
 </div>
 <div class='rag'>
-<p>rag_da_pr</p>
+<p>rag_da_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9483,21 +9378,11 @@ Label each arrow with the value indicated on the scale.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -9507,26 +9392,11 @@ TODOANSWER
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>
 </code></pre>
 </div>
 </div>
 <div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
@@ -9747,56 +9617,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-
-
-
-
-why is this ready for review? there are no answers
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' onclick='submitReview(event)'>PRG2</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' onclick='submitReview(event)'>PRPCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' onclick='submitReview(event)'>PRCCRL</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='3B57B6A6-82A1-494A-994E-EB4D60BF5539' id='FORM-3B57B6A6-82A1-494A-994E-EB4D60BF5539' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3B57B6A6-82A1-494A-994E-EB4D60BF5539'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -9959,7 +9780,7 @@ $113$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 + 5 \times 21 \\\\
@@ -10019,7 +9840,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 - 5 + 21 \\\\
@@ -10082,7 +9903,7 @@ $-7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 21 \div (5 - 8)             \\\\
@@ -10145,7 +9966,7 @@ $-13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (-8) + (-5)             \\\\
@@ -10205,7 +10026,7 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (-8)^2             \\\\
@@ -10938,9 +10759,9 @@ $8\times4 +2 = 34$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$8\rtq_katex_color_answer{\times} 4 \rtq_katex_color_answer{+} 2 = 34$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \times 4 + 2 \\\\
@@ -11004,9 +10825,9 @@ $24\div 2 -12 = 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$24\rtq_katex_color_answer{\div} 4 \rtq_katex_color_answer{-} 8 = 4$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 24 \div 2 - 8 \\\\
@@ -11072,9 +10893,9 @@ $32\times 2 +40\div 4 = 74$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$32 \rtq_katex_color_answer{\times} 2 \rtq_katex_color_answer{+} 40 \rtq_katex_color_answer{\div} 4= 4$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 32 \times 2 + 40\div 4 \\\\
@@ -11403,9 +11224,9 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the starting number $ = a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{a+12}{2} &= 15\\\\
@@ -11474,9 +11295,9 @@ $164$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the starting number $ = a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{1}{2} \times \bigg (\dfrac{a+12}{2} + 12\bigg )  &= 50\\\\
@@ -11544,7 +11365,7 @@ $12$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{N+12}{2} &= N\\\\
@@ -11893,7 +11714,7 @@ $12\times 4 = 48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>974B41CD-4F4F-40A8-9A75-397312C3A65D</p>
 </div>
@@ -11907,7 +11728,7 @@ $12\times 4 = 48$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

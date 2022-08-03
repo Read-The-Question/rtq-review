@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-7-g0"
 title: "TopicPaper - Simpleword - 7 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -1202,9 +1202,9 @@ $600 \ \text{ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$ litre $= 1000$ ml
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Water taken} &= 1 \ \text{litre} - 400 \ \text{ml} \\\\
@@ -2072,7 +2072,7 @@ $80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of pieces}     &= \dfrac { 1.2 \ \text{kg} } { 15 \ \text{g}} \\\\
@@ -2083,7 +2083,7 @@ $
                             &= 80
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2377,7 +2377,7 @@ $
 &= 4 \ \text {teachers}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2578,7 +2578,7 @@ $
 &= \pounds \ 38.75 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

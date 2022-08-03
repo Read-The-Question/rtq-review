@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "TopicPaper - Algebra - 4"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -154,11 +154,11 @@ $90 \ \text {ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Jane drinks $= a\ \text{ml}$.
-
+<emptyline>
 Juice drunk by Alex $= a + 50 \% \ \text{of} \ x$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 50 \% \ \text{of} \ a                &= 150 \ \text{ml} \\\\
@@ -184,7 +184,7 @@ Juice drunk by Alex &= 60 + 50 \% \times 60 \\\\
 Juice drunk by Alex &= 90 \ \text {ml}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1345,9 +1345,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the numbers on cards $= p, \ h, \ a, \ b, \ l, \ e, \ t$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + l + p + h + a + b + e + t &= 35 \\\\
@@ -1357,7 +1357,7 @@ a &= 35 - 28 \\\\
 a &= 7 
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1430,7 +1430,7 @@ $22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + l + p + h + a + b + e + t &= 35 \\\\
@@ -1627,9 +1627,9 @@ $240 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the space (in meters) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 2a &= 60 \\\\
@@ -1829,9 +1829,9 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of side $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 5 + x + x + x + x + x + 3x + 5 + 2x &= 40 \\\\
@@ -2175,7 +2175,7 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a - 3) \times 3 &= 6 \\\\
@@ -2241,7 +2241,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -2309,7 +2309,7 @@ $\dfrac {9} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -2510,24 +2510,24 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the Anastasia's number $= a$
-
+<emptyline>
 Barry's number $= 2a$
-
+<emptyline>
 Charlie's number $= 6a$
-
+<emptyline>
 Damien's number $= 36a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 &= \sqrt{36a} \\\\
 &= 6 \sqrt{a}
 \end {aligned}
 $
-
+<emptyline>
 $\text{Smallest possible value of a} = 1$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2920,9 +2920,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number I am thinking of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 4 + 3                                  &= 23 \\\\
@@ -2934,7 +2934,7 @@ a                                               &= \dfrac {5 \times \cancel{4}} 
 a                                               &= 5
 \end{aligned}
 $
-
+<emptyline>
 The number I was thinking of $= 5$
 </code></pre>
 </div>
@@ -3134,9 +3134,9 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>After oberserving the pattern, the white tiles are one more than half of the black tiles.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{No. of white tiles}                      &= \dfrac {\text{No. of Black tiles}} {2} + 1 \\\\
@@ -3350,9 +3350,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the original number Kieran thought of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -3368,7 +3368,7 @@ a                                                            &= \dfrac {5 \times
 a                                                            &= 5
 \end{aligned}
 $
-
+<emptyline>
 The original number Kieran thought of $= 5$
 </code></pre>
 </div>
@@ -3579,20 +3579,20 @@ $19 , 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 a + b                    &= 32 \\\\
 a - b                    &= 6
 \end{aligned}
 $
-
+<emptyline>
 Let's find first number. Using equation 1 and 2 we get,
-
+<emptyline>
 $
 \begin{aligned}
 a + a &= 32 + 6  \\\\
@@ -3604,9 +3604,9 @@ a &= \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
 a &= 19
 \end{aligned}
 $
-
+<emptyline>
 Let's find the second number. Using equation 1 we get,
-
+<emptyline>
 
 $
 \begin{aligned} 
@@ -3616,9 +3616,9 @@ b                        &= 32 - 19 \\\\
 b                        &= 13
 \end{aligned}
 $
-
+<emptyline>
 First number $= 19$
-
+<emptyline>
 Second number $= 13$
 </code></pre>
 </div>
@@ -3835,7 +3835,7 @@ $57$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number in the box $= a$
-
+<emptyline>
 $
 \begin{aligned}
 34 + a                                           &= 91 \\\\
@@ -3894,7 +3894,7 @@ $33$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number in the box $= a$
-
+<emptyline>
 $
 \begin{aligned}
 72 - a                                           &= 39 \\\\
@@ -3955,7 +3955,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number in the box $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 7                                       &= 119 \\\\
@@ -4019,7 +4019,7 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number in the box $= a$
-
+<emptyline>
 $
 \begin{aligned}
 448 \div a                                       &= 8 \\\\
@@ -4217,9 +4217,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Sophie thought of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + 8                                      &= 26 \\\\
@@ -4231,7 +4231,7 @@ a                                                   &= \dfrac {9 \times \cancel{
 a                                                   &= 9
 \end{aligned}
 $
-
+<emptyline>
 The number Sophie thought of $= 9$
 </code></pre>
 </div>
@@ -4646,11 +4646,11 @@ $\pounds 0.50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of Megapop (in $\text{pounds}$) $= m$
-
+<emptyline>
 Let the cost of Gigaburger (in $\text{pounds}$) $= g$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 g + 2m                    &= 2.8 \\\\
@@ -4658,20 +4658,20 @@ g + 2m                    &= 2.8 \\\\
 2g + 5m                   &= 6.1
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 Multiply the first equation by $2$.
-
+<emptyline>
 $
 \begin{aligned} 
 2 \times g + 2 \times 2m     &= 2 \times 2.8 \\\\
 2g + 4m                      &= 5.6
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 2g + 5m - (2g + 4m)        &= \pounds 6.1 - \pounds 5.6 \\\\
@@ -4679,20 +4679,20 @@ $
 m                          &= \pounds 0.50
 \end{aligned}
 $
-
+<emptyline>
 Cost of 1 can of Megapop $= \pounds 0.50$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternative solution
-
+<emptyline>
 Let the cost of Megapop (in $\text{pounds}$) $= m$
-
+<emptyline>
 Let the cost of Gigaburger (in $\text{pounds}$) $= g$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 g + 2m                    &= 2.8 \ \ \text {or,} \\\\
@@ -4700,7 +4700,7 @@ g + 2m                    &= 2.8 \ \ \text {or,} \\\\
 2g + 5m                   &= 6.1
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2g & + &   5m   &=\pounds 6.1 \\
@@ -4709,7 +4709,7 @@ $
       &0 &+&   1m   &=\pounds 0.5 \\
 \end{array}
 $
-
+<emptyline>
 $1$ Megapop $= \pounds 0.50$
 </code></pre>
 </div>
@@ -4954,9 +4954,9 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Mayank's number $= a$.
-
+<emptyline>
 As per question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times a + 4 &= 40 \\\\
@@ -4969,7 +4969,7 @@ a              &= \dfrac {\cancel {2} \times 18} {\cancel {2}} \\\\
 a              &= 18
 \end{aligned}
 $
-
+<emptyline>
 Mayank's number $= 18$.
 </code></pre>
 </div>
@@ -5160,9 +5160,9 @@ $9 \ \text {hours}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let hours Chris hired the hall for $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 30 + 10a &= 120 \\\\
@@ -5174,7 +5174,7 @@ a &= \dfrac {9 \times \cancel {10}} {\cancel {10}} \\\\
 a &= 9
 \end{aligned}
 $
-
+<emptyline>
 Hours Chris hired the hall for $= 9$ 
 </code></pre>
 </div>
@@ -5353,7 +5353,7 @@ $500$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text{New adult fleas} &= 50 \times 10 \\\\
@@ -5549,9 +5549,9 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of wobbles $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 5a + 11 \times 6 &= 81 \\\\\
@@ -5564,7 +5564,7 @@ a &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
 a &= 3 
 \end{aligned}
 $
-
+<emptyline>
 The number of wobbles $= 3$
 </code></pre>
 </div>
@@ -5751,9 +5751,9 @@ $32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Theo first thought of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {3} {4} \ \text{of} \ a &= 24 \\\\
@@ -5766,7 +5766,7 @@ a                              &= 8 \times 4 \\\\
 a                              &= 32
 \end{aligned}
 $
-
+<emptyline>
 The number Theo first thought of $= 32$.
 </code></pre>
 </div>
@@ -5968,13 +5968,13 @@ Clare $=$ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sweets Clare get $= a$.
-
+<emptyline>
 Number of sweets Brenda get $= 3a$.
-
+<emptyline>
 Number of sweets Amrit get $= 9a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 3a + 9a     &= 13 \\\\
@@ -5985,13 +5985,13 @@ a               &= \dfrac {\cancel {13}} {\cancel {13}} \\\\
 a               &= 1
 \end{aligned}
 $
-
+<emptyline>
 Number of sweets Clare get $= 1$.
-
+<emptyline>
 Number of sweets Brenda get $= 3 \times 1 = 3$.
-
+<emptyline>
 Number of sweets Amrit get $= 9 \times 1 = 9$..
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6201,11 +6201,11 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of cards Alan has $= a$
-
+<emptyline>
 Number of cards Bob has $= a + 15$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + 15 + 25 &= 3a \\\\
@@ -6218,7 +6218,7 @@ a &= \dfrac {20 \times \cancel 2} {\cancel 2} \\\\
 a &= 20
 \end {aligned}
 $
-
+<emptyline>
 Number of cards Alan has $= 20$
 </code></pre>
 </div>
@@ -6408,9 +6408,9 @@ $16 \ \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of each crayon(in pence) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 5a + 4 \times 22 &= 2 \times 100 -32 \\\\
@@ -6424,9 +6424,9 @@ a &= \dfrac{\cancel 5 \times 16} {\cancel 5} \\\\
 a &= 16
 \end{aligned}
 $
-
+<emptyline>
 The cost of each crayon(in pence) $= 16$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6612,9 +6612,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of  easter eggs fit in each crate $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 5a + 12 + 3a + 19 &= 103 \\\\
@@ -6810,10 +6810,10 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the days bottle last her $= a$
-
+<emptyline>
 
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 10 \times 3 \times a &= 180 \\\\
@@ -6824,7 +6824,7 @@ a &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
 a &= 6
 \end{aligned}
 $
-
+<emptyline>
 The days bottle last her $= 6$.
 </code></pre>
 </div>
@@ -7005,9 +7005,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 23 + a &= 2 \times (8 + a) \\\\
@@ -7016,7 +7016,7 @@ $
 a      &= 7
 \end{aligned}
 $
-
+<emptyline>
 The number $= 7$
 </code></pre>
 </div>
@@ -7332,9 +7332,9 @@ Sunday
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the days after it become taller than two metres $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 4 \times 2^n &>200 \\\\
@@ -7345,9 +7345,9 @@ $
 n       &= 6 
 \end {aligned}
 $
-
+<emptyline>
 The day it become taller than two metres $= \text{Monday} + 6 \ \text{days} = \text{Sunday}$ 
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -7528,9 +7528,9 @@ Jonathan has made a mistake since $38$ is not a perfect square.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Jonathan thinks $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a^2 + 9 &= 47 \\\\
@@ -7538,7 +7538,7 @@ a^2 &= 47 - 9 \\\\
 a^2 &= 38 
 \end {aligned}
 $
-
+<emptyline>
 Jonathan has made a mistake since $38$ is not a perfect square.
 </code></pre>
 </div>
@@ -7726,11 +7726,11 @@ $90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let marks Krishan got $= x$ .
-
+<emptyline>
 Marks Suril got $= 6x$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times x &= 30 \\\\
@@ -7740,9 +7740,9 @@ x          &= \dfrac {\cancel {2} \times 15} {\cancel {2}} \\\\
 x          &= 15
 \end{aligned}
 $
-
+<emptyline>
 Marks Suril got $=6 \times 15 = 90$ marks.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7931,11 +7931,11 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of matches they won $= a$
-
+<emptyline>
 Number of matches they lost $= 3a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -7947,7 +7947,7 @@ a             &= \dfrac {6 \times \cancel {4}} {\cancel {4}} \\\\
 a             &= 6
 \end{aligned}
 $
-
+<emptyline>
 The number of matches they won $= 6$
 </code></pre>
 </div>
@@ -8140,9 +8140,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 36 \div a           &= 4 \\\\
@@ -8152,9 +8152,9 @@ a                   &= \dfrac {\cancel 4 \times 9} {\cancel 4} \\\\
 a                   &= 9
 \end{aligned}
 $
-
+<emptyline>
 The missing number $= 9$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -8357,9 +8357,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sweets in the jar $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total number of children} \times (\dfrac {1} {16} \ \text {of} \ a)        &= a - (\dfrac {1} {4} \ \text {of} \ a) \\\\
@@ -9469,7 +9469,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {3} \ \text {of} \ 1 \ \text {bottle}    &= 1 \ \text {day} \\\\
@@ -9482,7 +9482,7 @@ $
                                                     &= 9 \ \text {days}
 \end{aligned}
 $
-
+<emptyline>
 $6$ bottles will last for $9$ days.
 </code></pre>
 </div>
@@ -9654,9 +9654,9 @@ $84$
                                                 &= 72
 \end{aligned}
 $
-
+<emptyline>
 If One-third of the girls are writing with pen, then the number of girls writing with pencil will be $1 - \dfrac {1} {3} = \dfrac {2} {3}$. Using that we get,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of pupils writing with pencil}   &= \dfrac {3} {4} \times 48 + \dfrac {2} {3} \times 72 \\\\

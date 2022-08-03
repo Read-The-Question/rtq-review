@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-oldpr"
 title: "TopicPaper - Simpleword - 3 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -306,7 +306,7 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of people sitting at the table with five bars $= a$.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Fraction per person at the table with 4 bars}                    &= \text {Fraction per person at the table with 5 bars} \\\\

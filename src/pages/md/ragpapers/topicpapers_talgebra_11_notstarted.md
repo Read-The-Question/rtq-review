@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-notstarted"
 title: "TopicPaper - Algebra - 11 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -426,7 +426,7 @@ $\pounds 49.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Benjamin pay on monday}       &= \pounds 12 + \pounds 1.5 \times (13+12) \\\\
@@ -1241,13 +1241,13 @@ $1 + 3 + 5 + 7 + 9 + 11 = 36 = 6^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the seqyence,
-
+<emptyline>
 Next sequence would be
-
+<emptyline>
 $1 + 3 + 5 + 7  = 16 = 3^2$
-
+<emptyline>
 $1 + 3 + 5 + 7 + 9 = 25 = 5^2$
-
+<emptyline>
 $1 + 3 + 5 + 7 + 9 + 11 = 36 = 6^2$
 </code></pre>
 </div>
@@ -1300,9 +1300,9 @@ $1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 + 23 + 25 = 169 = 13^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$169 = 13 \times 13 = 13^2$
-
+<emptyline>
 The line that contains $169$
-
+<emptyline>
 $1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 + 23 + 25 = 169 = 13^2$
 </code></pre>
 </div>
@@ -1407,9 +1407,9 @@ $31 + 33 + 35 + 37 + 39 + 41 = 216 = 6^3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$13 + 15 + 17 + 19 = 64 = 4^3$
-
+<emptyline>
 $21 + 23 + 25 + 27 + 29 = 125 = 5^3$
-
+<emptyline>
 $31 + 33 + 35 + 37 + 39 + 41 = 216 = 6^3$
 </code></pre>
 </div>
@@ -1462,7 +1462,7 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1000 = 10^3$
-
+<emptyline>
 $10$ numbers are needed to be added.
 </code></pre>
 </div>
@@ -1534,11 +1534,11 @@ $3,1 \ \text{and} \ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $A - B = C$
-
+<emptyline>
 $A^2 - B^2 = C^3$
-
+<emptyline>
 $
 \begin{aligned}
 A^2 - B^2           &= C^3 \\\
@@ -1549,7 +1549,7 @@ A + B               &= C^2 \\\\
 3 + 1               &= 2^2
 \end{aligned}
 $
-
+<emptyline>
 A,B and C would be $3,1 \ \text{and} \ 2$
 </code></pre>
 </div>
@@ -2343,7 +2343,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 &= 3 + 4 \\\\
@@ -2401,7 +2401,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 &= 7 + 8 \\\\
@@ -2460,7 +2460,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 &= 9 + 11 \\\\
@@ -2518,7 +2518,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 &= 7 \times 8 \\\\
@@ -2575,7 +2575,7 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 &= 9 \times 11 \\\\

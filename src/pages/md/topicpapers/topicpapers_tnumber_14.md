@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-14"
 title: "TopicPaper - Number - 14"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -302,7 +302,7 @@ $
 &= 3200 \text {metres}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -365,7 +365,7 @@ $
 &= 2 \text {miles}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -554,11 +554,11 @@ $72, 44$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let first missing number $= a$ 
-
+<emptyline>
 Let second missing number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 b + 19      &=  63  \\\\
@@ -569,7 +569,7 @@ a           &=  44 + 28 \\\\
 a           &=  72
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -629,11 +629,11 @@ $15, -7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first missing number $= a$
-
+<emptyline>
 Let the second missing number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 17 + a      &=  32  \\\\
@@ -1205,7 +1205,7 @@ $1.8 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7EDC8D07-F0B7-488E-966B-4C742A083200</p>
 </div>
@@ -1219,7 +1219,7 @@ $1.8 \ \text{m}$
 <p>rag_da_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1294,39 +1294,10 @@ Look at the list of numbers below.
 $6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\, 53 \,\,\,\, 169$  
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -1360,7 +1331,7 @@ $49, 169$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The square numbers have an odd numbers of factors.
-
+<emptyline>
 $
 \begin{aligned}
 49  &= 7^2 \\\\
@@ -1397,7 +1368,8 @@ Give another example of a number with an odd number of factors.
 
 $
 \begin{aligned}
-15 &= 3\times 5
+&= 15 \\\\ 
+&= 3\times 5
 \end{aligned}
 $
 
@@ -1415,7 +1387,8 @@ $15$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-15 &= 3\times 5
+&= 15 \\\\ 
+&= 3\times 5
 \end{aligned}
 $
 </code></pre>
@@ -2382,11 +2355,11 @@ $29, 34$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let first space $= a$
-
+<emptyline>
 Let second space $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a          &= 57 - 28  \\\\
@@ -2453,11 +2426,11 @@ $72, 86$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let first space $= a$ 
-
+<emptyline>
 let second space $= b$
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 $
 \begin{aligned}
 53 + a      &=  125  \\\\
@@ -5986,7 +5959,7 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 14 + 8 \div 2 \\\\
@@ -6047,7 +6020,7 @@ $29$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 17 + 3 \times (5 - 1) \\\\
@@ -6418,7 +6391,7 @@ $\pounds 0.72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
 &= \pounds1.28 - 57 \text{p} \\\
@@ -7561,7 +7534,7 @@ $
  &= \text{Twenty one thousand one hundred seventy one}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -8062,7 +8035,7 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2.4 \times (3.7 +  1.3) \div 2 \\\\
@@ -8308,7 +8281,7 @@ $0.13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
 </div>
@@ -8322,7 +8295,7 @@ $0.13$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8426,11 +8399,11 @@ $3, 7, 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers $= 2, 3, 5, 7, 11, 13, \ldots$
-
+<emptyline>
 As the unit digit has $1$, we can rule out $2$ and $5$ .
-
+<emptyline>
 Let's try $3$, $7$ and $11$.
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \times 7 \times 11 \\\\
@@ -8900,7 +8873,7 @@ $5.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1.1 \times (1.2 + 1.3) \times 2 \\\\
@@ -9095,7 +9068,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert all the fractions into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}, \quad 2 \dfrac {1} {7}, \quad 2 \dfrac {6} {11}, \quad 2 \dfrac {2} {5}, \quad 2 \dfrac {1} {10} \\\\
@@ -9103,7 +9076,7 @@ $
 &= 2.5 \quad  2.14,  \quad 2.55, \quad 2.4, \quad 2.1
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Numbers in between}   &= 2.5, \quad 2.55, \quad 2.4 \\\\
@@ -9330,9 +9303,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $ = a $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 6 \times 8 &= 4 \times a\\\\
@@ -9399,9 +9372,9 @@ $90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $ = a $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 12 \times 75 &= 10 \times a \\\\
@@ -9592,7 +9565,7 @@ $\dfrac{2}{3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (2.3 + 3.7) \div 9 \\\\

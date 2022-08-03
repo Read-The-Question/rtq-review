@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tvolume-1-g0"
 title: "TopicPaper - Volume - 1 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -162,7 +162,7 @@ $240 \ \text {cm} ^ 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Volume of a cuboid}    &= \text {length} \times \text {width} \times \text {height} \\\\
@@ -228,7 +228,7 @@ $24 \ \text {cm} ^ 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram, we can divide the shape into a cube and a cuboid.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Volume of the shape}  &= \text {Volume of cube} + \text {Volume of cuboid} \\\\
@@ -903,9 +903,9 @@ $74$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_volume_cuboid
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of ice cream blocks}    &= \dfrac {\text {Volume of the cool box}} {\text {Volume of a ice cream block}} \\\\
@@ -1144,7 +1144,7 @@ $4 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let height of the cuboid $=a $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Volume}                          &=  \text {length} \times \text {width} \times \text{height} \\\\
@@ -1155,7 +1155,7 @@ $
 \text {a}                               &=  4 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Height of the cuboid $=  4 \ \text {cm}$.
 </code></pre>
 </div>
@@ -1598,7 +1598,7 @@ $100$ bricks
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we can see that the units are the same, so no units conversion is required.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of bricks} &= \dfrac { \text{Volume of box} } { \text{Volume of a brick} } \\\\
@@ -1609,7 +1609,7 @@ $
                         &= 100
 \end{aligned}
 $
-
+<emptyline>
 Number of bricks $= 100$
 </code></pre>
 </div>

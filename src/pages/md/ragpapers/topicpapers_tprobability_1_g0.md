@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-1-g0"
 title: "TopicPaper - Probability - 1 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -121,7 +121,7 @@ $0.92$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_probability_always_one_note
-
+<emptyline>
 $
 \begin {aligned} 
 \text {Probability of not raining}    &= 1 - \text {Probability of raining tomorrow} \\\\
@@ -479,14 +479,14 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>I will have equal outcome if both pen and pencils are in equal amount in the pencil case. So,
-
+<emptyline>
 $
 \begin {aligned}
 &= 6 - 2 \\\\
 &= 4
 \end {aligned}
 $
-
+<emptyline>
 I should add $4$ pens to the original pencil case so that it is equally likely to select a pen or a pencil.
 </code></pre>
 </div>
@@ -1506,9 +1506,9 @@ $\dfrac {4} {15}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 Total cards with D left after one card is removed $4 - 1 = 3$ 
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
@@ -1700,9 +1700,9 @@ $\dfrac {2} {15}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 Total cards with D left after one card is removed $3 - 1 = 2$ 
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
@@ -2078,9 +2078,9 @@ $\dfrac {1} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the graph,
-
+<emptyline>
 Total cards with D left after one card is removed $2 - 1 = 1$ 
-
+<emptyline>
 $
 \begin{aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\
@@ -2370,7 +2370,7 @@ $\dfrac {5} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**NOT** selecting a red pencil is same as selecting a blue or green pencil instead.
-
+<emptyline>
 $
 \begin {aligned} 
 rtq_abbr_katex_formula_aligned_probability \\\\

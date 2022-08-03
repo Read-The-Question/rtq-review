@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-6"
 title: "TopicPaper - Fraction - 6"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "37"
 ---
 <div class='paper'>
@@ -317,7 +317,7 @@ $4 \dfrac{1}{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned} 
 &= 22 \dfrac{1}{2} \div 5 \\\\ 
@@ -1615,7 +1615,7 @@ $3\dfrac{1}{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 17 \dfrac{1}{2} \div 5 \\\\
@@ -1987,7 +1987,7 @@ $\dfrac{3}{8}$
 
 <pre class='language-latex'><code class='language-latex'>  
 There are $24 \ \text{hours}$ in a day, so
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {9} {24} \\\\
@@ -2242,7 +2242,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>341FE350-6A25-436A-A25E-E7AB9A1C6E15</p>
 </div>
@@ -2253,7 +2253,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2375,7 +2375,7 @@ $\dfrac{1}{12} + \dfrac{1}{6} + \dfrac{1}{4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved by using trial and error.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{1}{12} + \dfrac{1}{6} + \dfrac{1}{4} \\\\
@@ -2405,6 +2405,46 @@ $
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' id='FORM-341FE350-6A25-436A-A25E-E7AB9A1C6E15' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-341FE350-6A25-436A-A25E-E7AB9A1C6E15'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3264,7 +3304,7 @@ $1 \dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \dfrac {3} {4} \div 2 \dfrac {1} {2} \\\\
@@ -4595,11 +4635,11 @@ $\dfrac {7} {12}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 Show the shaded part in 2 parts so we can add them separately to calculate the shaded part
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total boxes}      &= 6 \times 6 \\\\
@@ -5151,7 +5191,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>40063D7A-77F1-4202-9161-7E6E6C22F8EF</p>
 </div>
@@ -5162,7 +5202,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5272,7 +5312,7 @@ $\dfrac {3} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's write all the fractions in their simplified form,
-
+<emptyline>
 $
 \begin{aligned}
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9} {18}, \quad \dfrac {10} {15} \\\\
@@ -5281,7 +5321,7 @@ $
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {1} {2}, \quad \dfrac {2} {3}
 \end{aligned}
 $
-
+<emptyline>
 Odd one out : $\dfrac {3} {5}$
 </code></pre>
 </div>
@@ -5299,7 +5339,52 @@ Odd one out : $\dfrac {3} {5}$
 </div>
 </div>
 
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+REmove line 431 also write only 3/5 in answer
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='40063D7A-77F1-4202-9161-7E6E6C22F8EF' id='FORM-40063D7A-77F1-4202-9161-7E6E6C22F8EF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-40063D7A-77F1-4202-9161-7E6E6C22F8EF'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5542,11 +5627,11 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 *TODO:: Shade 6 triangles in the figure*
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total number of small triangles}    &= 9 \\\\
@@ -5965,7 +6050,7 @@ $2\dfrac{2} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{4} {5} \div \dfrac {3} {10} \\\\
@@ -6574,7 +6659,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A1E3093E-6A93-4CB8-A627-77D10D5C257A</p>
 </div>
@@ -6585,7 +6670,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6793,9 +6878,9 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of green balls to be added = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1 + a} {7 + a}                  &= \dfrac {1} {3} \\\\
@@ -6867,9 +6952,9 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of blue balls to be added = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2 + a} {7 + a}                  &= \dfrac {1} {2} \\\\
@@ -6938,9 +7023,9 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of red balls to be removed = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {7 - a}                      &= 25 \% \\\\
@@ -6972,7 +7057,52 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+Part A : \dfrac {Number of red balls} {Total numbe of balls}  and put them in katex \text
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A1E3093E-6A93-4CB8-A627-77D10D5C257A' id='FORM-A1E3093E-6A93-4CB8-A627-77D10D5C257A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A1E3093E-6A93-4CB8-A627-77D10D5C257A'>Initial</p>
+</div>
 </div>
 </li>
 <li>

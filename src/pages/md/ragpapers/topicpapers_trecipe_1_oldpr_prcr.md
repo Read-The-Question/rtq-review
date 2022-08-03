@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-trecipe-1-oldpr-prcr"
 title: "TopicPaper - Recipe - 1 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "2"
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -182,9 +182,9 @@ $360 \ \text{gm} \ \text{Plain Flour} ,  9 \ \text{Eggs} , 630 \ \text{ml}  \ \t
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Ingredient is needed to make $18$ pancakes = Each ingredient is needed to make $6$ pancakes $\times 3$
-
+<emptyline>
 $
 \begin{aligned}
 \text{The plain flour needed to make 18 pancakes} &= \text{The plain flour used to make 6 Pancakes} \times 3 \\\\
@@ -192,7 +192,7 @@ $
 &=  360 \ \text{gm}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{The Eggs needed to make 18 pancakes} &= \text{The Eggs used to make 6 Pancakes} \times 3 \\\\
@@ -200,7 +200,7 @@ $
 &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{The milk needed to make 18 pancakes} &= \text{The  milk used to make 6 Pancakes} \times 3 \\\\
@@ -298,7 +298,7 @@ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \t
 &= 70 \ \text{ml}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{ingredients required to make 8 pancakes} &= \text{required to make 6 pancakes} + \text{required to make 2 pancakes}  \\\\
@@ -387,10 +387,10 @@ call Aravind
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -586,7 +586,7 @@ $Sugar 160 \ \text{g}, Eggs 4, Butter 213.33 \ \text{g}, Flour 240 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A recipe for making $16$ cupcakes includes the following ingredients:
-
+<emptyline>
 Sugar
 $
 \begin{aligned}
@@ -597,7 +597,7 @@ $
 &= 160 \ \text{g}
 \end{aligned}
 $ 
-
+<emptyline>
 Eggs
 $
 \begin{aligned}
@@ -609,7 +609,7 @@ $
 &= 4 
 \end{aligned}
 $ 
-
+<emptyline>
 Butter
 $
 \begin{aligned}
@@ -621,7 +621,7 @@ $
 &= 213.33 \ \text{g}
 \end{aligned}
 $
-
+<emptyline>
 
 Flour
 $

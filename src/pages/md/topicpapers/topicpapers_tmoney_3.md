@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -409,7 +409,7 @@ $\pounds 120$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the answer above,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 20 \times 6 \\\\
@@ -1273,7 +1273,7 @@ $\pounds 14.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 68 \text {p} + \pounds 3.29 + 5 \times 22 \text {p} + 2 \times 39 \text {p} \\\\
@@ -1857,7 +1857,7 @@ $\pounds 2.76$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times 56 \text {p} \\\\
@@ -2102,7 +2102,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>662D8D5A-FC30-4723-82E2-9B0B4ED1FDE9</p>
 </div>
@@ -2110,10 +2110,10 @@ $
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2383,7 +2383,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C3168C71-1453-467B-B9E0-F3062E77C342</p>
 </div>
@@ -2391,10 +2391,10 @@ TODOANSWER
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3278,7 +3278,7 @@ $\pounds 2.88$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent} &= 38  + 59  \\\\
@@ -3692,7 +3692,7 @@ $\pounds 43.75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using answers above,
-
+<emptyline>
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2} \% \ \text{of} \ \pounds 250 \\\\
@@ -3883,7 +3883,7 @@ $\pounds 2.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}         &= 10 \times 45 + 10 \times 27 \\\\
@@ -5372,7 +5372,7 @@ $\pounds 6.20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Josh owe Tina}    &= 3 \times 10 - 23.80 \\\\
@@ -5566,11 +5566,11 @@ $\pounds 27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Fran has (in $\pounds$) $= a$
-
+<emptyline>
 Karen has (in $\pounds$) $= a + 9$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 9           &= 45 \\\\
@@ -5950,7 +5950,7 @@ $\pounds 4.30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 2 \times \pounds 1.50 + 3 \times 90 \text {p} \\\\
@@ -6236,7 +6236,7 @@ $\pounds 4.40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of} \ 2 \ \text {sandwiches and} \ 5 \ \text {cups of coffee}   &= 2 \times \pounds 1.80 + 5 \times 80 \text {p} \\\\
@@ -6551,7 +6551,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
 </div>
@@ -6559,10 +6559,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6671,11 +6671,11 @@ $22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Total expenditure  $= 6 \times \pounds5.50$
-
+<emptyline>
 $\pounds 33$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Change}                   &=  \text{Total money} -  \text{Total expenditure} - \text{Tip} \\\\
@@ -7003,7 +7003,7 @@ $\pounds 7.50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 6 \times \pounds 1.15 + 10 \times 56 \text {p} \\\\
@@ -7467,7 +7467,7 @@ $\pounds 1.48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Change received}     &= \pounds 5 - 8 \times 44 \text {p} \\\\
@@ -7663,7 +7663,7 @@ $\pounds 1 \ \text {and} \ 9 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}         &= 3 \times 12  + 5 \times 11 \\\\
@@ -7859,7 +7859,7 @@ $\pounds 3.28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 4 \times 15 + 7 \times 16 \\\\
@@ -8629,7 +8629,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>13EB25A7-7018-4055-A4AC-53AE6FFF28FA</p>
 </div>
@@ -8637,10 +8637,10 @@ $
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8852,7 +8852,7 @@ $\pounds 155.1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>74C05D8E-262C-47B1-ABB4-5F06E493406E</p>
 </div>
@@ -8860,13 +8860,13 @@ $\pounds 155.1$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9007,14 +9007,14 @@ $\pounds 55.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total cost}  &= 6 \times \pounds 9.30 \\\\
                     &= \pounds 55.80
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9067,7 +9067,7 @@ $\pounds 53.50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total cost}   &= 3 \times \pounds 9.30 + 4 \times \pounds 6.40 \\\\
@@ -9075,7 +9075,7 @@ $
                     &= \pounds 53.50
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9129,16 +9129,16 @@ $3 \ \text {people}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Maximum number of people that can go to the zoo for $\pounds 30$ are 1 Adult and 2 childrens
-
+<emptyline>
 $
 \begin{aligned}
 &= 6.40 + 6.40 + 9.30 \\\\
 &= \pounds 28.5
 \end{aligned}
 $
-
+<emptyline>
 So there will be 3 people
-
+<emptyline>
 </code></pre>
 </div>
 </div>

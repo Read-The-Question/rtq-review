@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-pr-prccrl"
 title: "TopicPaper - Number - 1 - PR - PRCCRL"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -138,7 +138,7 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 16 \times a &= 480 \\\\
@@ -259,7 +259,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 600 \div a &= 50 \\\\
@@ -494,7 +494,7 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 16 \times a &= 480 \\\\
@@ -615,7 +615,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 600 \div a  &= 50 \\\\

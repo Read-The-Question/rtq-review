@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-2"
 title: "TopicPaper - Detailedmultiplication - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -500,9 +500,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 25 \times a               &= 300 \\\\
@@ -2222,7 +2222,7 @@ $216000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using our previous answer
-
+<emptyline>
 $
 \begin{aligned}
 &= 2400 \times 90 \\\\
@@ -2584,7 +2584,7 @@ $10010$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using our previous answer
-
+<emptyline>
 $
 \begin{aligned}
 &= 2002 \times 5 \\\\\
@@ -2771,7 +2771,7 @@ $30030$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the previous two answers
-
+<emptyline>
 $
 \begin{aligned}
 &= 2002 \times 15 \\\\\
@@ -5008,7 +5008,7 @@ $17.28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
         &        &   6   &   4 \\
@@ -5020,11 +5020,11 @@ $
    1    &   7    &   2   &   8
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 $= 17.28$
 </code></pre>
 </div>
@@ -5209,7 +5209,7 @@ $221.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
         &   3   &   1   &   6 \\
@@ -5218,9 +5218,9 @@ $
 2       &   2   &   1   &   2
 \end{array}
 $
-
+<emptyline>
 The total number of digits after the decimal point is one. Let's account for the decimal point now.
-
+<emptyline>
 $= 221.2$
 </code></pre>
 </div>
@@ -7338,16 +7338,16 @@ $0.4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \times 5 \\\\
 &= 40
 \end{aligned}
 $
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 $= 0.4$
 </code></pre>
 </div>

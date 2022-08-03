@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tlcm-1-g0-prcr"
 title: "TopicPaper - Lcm - 1 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -305,7 +305,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To find the biggest number that divides exactly into $60$, $72$, and $84$, we need to find the highest common factor of the three numbers.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Prime factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
@@ -313,16 +313,16 @@ $
 \text {Prime factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
 \end{aligned}
 $
-
+<emptyline>
 Highest common factor of $60$, $72$ and $84$
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times 2 \times 3 \\\\
 &= 12
 \end{aligned}
 $
-
+<emptyline>
 The biggest number that divides exactly into $60$, $72$, and $84 = 12$
 </code></pre>
 </div>
@@ -492,7 +492,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The smallest number that $2, 3,$ and $8$ all divide into will be the LCM
-
+<emptyline>
 LCM of $2$, $3$ and $8 = 24$
 </code></pre>
 </div>
@@ -680,7 +680,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To find the biggest number that divides exactly into $28$, $84$, and $126$, we need to find the highest common factor of the three numbers.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Prime factors of} \ 28 &= 2 \times \bold {2 \times 7} \\\\
@@ -688,16 +688,16 @@ $
 \text {Prime factors of} \ 126 &= \bold {2} \times 3 \times \bold{7}
 \end{aligned}
 $
-
+<emptyline>
 Highest common factor of $28$, $84$ and $126$
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times 7 \\\\
 &= 14
 \end{aligned}
 $
-
+<emptyline>
 
 The biggest number that divides exactly into $28 , 84$ and $126 = 14$
 </code></pre>
@@ -868,7 +868,7 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>LCM of $3$, $5$ and $12 = 60$
-
+<emptyline>
 The smallest number that $3, 5,$ and $12$ all divide into $= 60$
 </code></pre>
 </div>
@@ -1061,11 +1061,11 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>LCM of $2$ and $5 = 10$
-
+<emptyline>
 Less than $100$ means numbers between $1$ to $99$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number divisible by both 2 and 5}         &= \dfrac {99} {10} \\\\ 
@@ -1078,13 +1078,13 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternative solution
-
+<emptyline>
 LCM of $2$ and $5 = 10$
-
+<emptyline>
 Numbers less than 100 that are both divisible by $2$ and $5$ are numbers with $0$ at unit place.
-
+<emptyline>
 $= 10, \ 20, \ 30, \ 40, \ 50, \ 60, \ 70, \ 80, \ 90$
-
+<emptyline>
 Total count of numbers less than $100$ and both divisible by $2$ and $5 = 9$ 
 </code></pre>
 </div>
@@ -1266,7 +1266,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To find the biggest number that divides exactly into $14$, $35$, and $42$, we need to find the highest common factor of the three numbers.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Prime factors of} \ 14 &= 2 \times \bold{7} \\\\
@@ -1274,11 +1274,11 @@ $
 \text {Prime factors of} \ 42 &= 2 \times 3 \times \bold{7}
 \end{aligned}
 $
-
+<emptyline>
 Highest common factor of $14$, $35$ and $42=7$
-
+<emptyline>
 The biggest number that divides exactly into $14$, $35$, and $42=7$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -1465,7 +1465,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To find the biggest number that divides exactly into $16$, $32$, and $56$, we need to find the highest common factor of the three numbers.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Prime factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
@@ -1473,16 +1473,16 @@ $
 \text {Prime factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
 \end{aligned}
 $
-
+<emptyline>
 Highest common factor of $16$, $32$ and $56$
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times 2 \times 2  \\\\
 &= 8
 \end{aligned}
 $
-
+<emptyline>
 The biggest number that divides exactly into $16$, $32$, and $56=8$
 </code></pre>
 </div>
@@ -1654,9 +1654,9 @@ $144$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The LCM of $8$ and $9$ is $72$. 
-
+<emptyline>
 Now let's find a number that is a multiple of the LCM and is between $140$ and $170$.
-
+<emptyline>
 $72 \times 2 = 144$ is between $140$ and $170$.
 </code></pre>
 </div>
@@ -1826,7 +1826,7 @@ $63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The LCM of $7$ and $9$ is $63$. 
-
+<emptyline>
 $63$ is between $60$ and $70$.
 </code></pre>
 </div>
@@ -2184,18 +2184,18 @@ $90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Let's first find LCM for three numbers. There are no common factors, so the LCM would be 
-
+<emptyline>
 $
 \begin{aligned}
 \text{LCM}              &= 2 \times 3 \times 5 \\\\
                         &= 30
 \end{aligned}
 $
-
+<emptyline>
 Now let's find the largest number that is a multiple of the LCM and is less than $100$.
-
+<emptyline>
 $
 \begin{aligned}
 30 \times 2 &= 60   && \text{less than 100} \\\\
@@ -2203,7 +2203,7 @@ $
 30 \times 4 &= 120  && \text{greater than 100}
 \end{aligned}
 $
-
+<emptyline>
 Largest number $= 90$
 </code></pre>
 </div>
@@ -2389,17 +2389,17 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>It is easier to calculate the numbers divisible by $4$ and $5$ instead of calculating the numbers which are **NOT** divisible.
-
+<emptyline>
 Multiples of $4 = 100 \div 4 = 25$
-
+<emptyline>
 Multiples of $5 = 100 \div 5 = 20$
-
+<emptyline>
 The above calculations will count the numbers which are multiples of both $4$ and $5$ **twice**, so we need to account for that. The LCM of $4$ and $5$ is $20$.
-
+<emptyline>
 Multiples of $20 = 100 \div 20 = 5$
-
+<emptyline>
 So finally, let's calculate the numbers which cannot be exactly divided by $4$  and $5$
-
+<emptyline>
 $
 \begin{aligned}
 &= 100 - (25 + 20 - 5) \\\\

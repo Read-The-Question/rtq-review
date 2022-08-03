@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-18-pr"
 title: "TopicPaper - Number - 18 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -485,7 +485,7 @@ Correct
 1175 - 20 &= 21 \times 55
 \end{aligned}
 $
-
+<emptyline>
 Hence the equation is correct.
 </code></pre>
 </div>
@@ -532,7 +532,7 @@ Incorrect
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The given equation can not be derived from original equation.
-
+<emptyline>
 Hence, it is incorrect.
 </code></pre>
 </div>
@@ -579,7 +579,7 @@ Correct
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Since, both, given equation and the original equation are same.
-
+<emptyline>
 The given equation is correct.
 </code></pre>
 </div>
@@ -636,7 +636,7 @@ Correct
 20 &= 1175 - (21 \times 55)
 \end{aligned}
 $
-
+<emptyline>
 Hence, equation is correct.
 </code></pre>
 </div>
@@ -683,7 +683,7 @@ Incorrect
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The given equation can not be derived from original equation.
-
+<emptyline>
 Hence, it is incorrect.
 </code></pre>
 </div>
@@ -999,7 +999,7 @@ $
                               &= 10 \neq 12
 \end{aligned}
 $
-
+<emptyline>
 12 is not a perfect number.
 </code></pre>
 </div>
@@ -1057,9 +1057,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$6$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Factors of 6}           &= 1, 2, 3 \\\\
@@ -1543,7 +1543,7 @@ TODOANSWER
 \dfrac{3}{5} & < & 70\%
 \end{array}
 $
-
+<emptyline>
 Therefore, $70\%$ is greater than $\dfrac{3}{5}$
 </code></pre>
 </div>
@@ -1932,9 +1932,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**Row 1**
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= (7 - 3) \times 2 \\\\
@@ -1942,13 +1942,13 @@ $
 &= 8
 \end{aligned}
 $
-
+<emptyline>
 **Row 2**
-
+<emptyline>
 Let the input $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a - 3) \times 2 &= 34 \\\\
@@ -1957,13 +1957,13 @@ a - 3 &= 17 \\\\
 a &= 20
 \end{aligned}
 $
-
+<emptyline>
 **Row 3**
-
+<emptyline>
 Let the input $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a - 3) \times 2 &= 0 \\\\
@@ -2055,9 +2055,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input and output $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a - 3) \times 2 &= a \\\\
@@ -2213,29 +2213,29 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the output $= x$
-
+<emptyline>
 Let the rule $= a \times x + b$
-
+<emptyline>
 From Row 1, where $x = 2$,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + b &= 6 \\\\
 2a + b &= 6
 \end{aligned}
 $
-
+<emptyline>
 From Row 2, where $x = 4$,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 4 + b &= 7 \\\\
 4a + b &= 7
 \end{aligned}
 $
-
+<emptyline>
 Lets solve the equations for \' a \'
-
+<emptyline>
 $
 \begin{aligned}
 4a + b &= 7 \\\\
@@ -2245,9 +2245,9 @@ $
 a &= \dfrac{1}{2}
 \end{aligned}
 $
-
+<emptyline>
 Lets solve the equations for \' b \'
-
+<emptyline>
 $
 \begin{aligned}
 2a + b &= 6 \\\\
@@ -2256,11 +2256,11 @@ $
 b &= 5
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the rule $= \dfrac{x}{2} + 5$
-
+<emptyline>
 Lets verify the same for Row 3
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{x}{2} + 5 \\\\
@@ -2269,9 +2269,9 @@ $
 &= 9 = 9
 \end{aligned}
 $
-
+<emptyline>
 Lets verify the same for Row 4
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{x}{2} + 5 \\\\
@@ -2280,7 +2280,7 @@ $
 &= 11 = 11
 \end{aligned}
 $
-
+<emptyline>
 The rule is **Divide the number by 2 and add 5**
 </code></pre>
 </div>
@@ -3112,7 +3112,7 @@ $21, 9, \dfrac{1}{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**Row 1**
-
+<emptyline>
 $
 \begin{aligned}
 &= 6 \times 4 - 3 \\\\
@@ -3120,11 +3120,11 @@ $
 &= 21
 \end{aligned}
 $
-
+<emptyline>
 **Row 2**
-
+<emptyline>
 Let input $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 4 - 3 &= 33 \\\\
@@ -3134,11 +3134,11 @@ a &= \dfrac{36}{4} \\\\
 a &= 9
 \end{aligned}
 $
-
+<emptyline>
 **Row 3**
-
+<emptyline>
 Let input $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 4 - 3 &= -1 \\\\
@@ -3257,29 +3257,29 @@ $\times 2 \ \text{then}\ + 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input $= x$
-
+<emptyline>
 Let the rule $= a \times x + b$
-
+<emptyline>
 From Row 1, where $x = -1$
-
+<emptyline>
 $
 \begin{aligned}
 a \times -1 + b &= 0 \\\\
 b - a &= 0
 \end{aligned}
 $
-
+<emptyline>
 From Row 2, where $x = 0$,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 0 + b &= 2 \\\\
 b &= 2
 \end{aligned}
 $
-
+<emptyline>
 Lets solve the equations for \' a \'
-
+<emptyline>
 $
 \begin{aligned}
 b - a &= 0 \\\\
@@ -3287,11 +3287,11 @@ a &= b \\\\
 a &= 2
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the rule $= 2 \times x + 2$
-
+<emptyline>
 Lets verify the same for Row 3
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times x + 2 \\\\
@@ -3300,9 +3300,9 @@ $
 &= 4 = 4
 \end{aligned}
 $
-
+<emptyline>
 Lets verify the same for Row 4
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times x + 2 \\\\
@@ -3311,7 +3311,7 @@ $
 &= 6 = 6
 \end{aligned}
 $
-
+<emptyline>
 a, b $= 2, 2$
 </code></pre>
 </div>
@@ -3589,7 +3589,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let output $= a$
-
+<emptyline>
 $
 \begin{aligned}
 & 40 \times 3 + 6 &= a \\\\
@@ -3597,9 +3597,9 @@ $
 & a &= 126
 \end{aligned}
 $
-
+<emptyline>
 Let the input $= b$
-
+<emptyline>
 $
 \begin{aligned}
 & b \times 3 + 6 &= 54 \\\\
@@ -3772,25 +3772,25 @@ $+ 4, \times -3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let first label $= \times a$
-
+<emptyline>
 Let second label $= + b$
-
+<emptyline>
 $
 \begin{aligned}
 & a \times 6 + b &= 12 \\\\
 & 6a + b &= 12
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 & a \times 8 + b &= 20 \\\\
 & 8a + b &= 20
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\'
-
+<emptyline>
 $
 \begin{aligned}
 & 8a + b &= 20 \\\\
@@ -3801,9 +3801,9 @@ $
 & a &= 4
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'b\'
-
+<emptyline>
 $
 \begin{aligned}
 & 6a + b &= 12 \\\\
@@ -3813,34 +3813,34 @@ $
 & b &= - 12
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the labels $= \times 4, -12$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Second possible labels
-
+<emptyline>
 Let first label $= + a$
-
+<emptyline>
 Let second label $= \times b$
-
+<emptyline>
 $
 \begin{aligned}
 (6 + a) \times b &= 12 \\\\
 6b + ab &= 12
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (8 + a) \times b &= 20 \\\\
 8b + ab &= 20
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'b\'
-
+<emptyline>
 $
 \begin{aligned}
 8b + (12 - 6b) &= 20 \\\\
@@ -3850,9 +3850,9 @@ b &= \dfrac{8}{2} \\\\
 b &= 4
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\'
-
+<emptyline>
 $
 \begin{aligned}
 (6 + a) \times 4 &= 12 \\\\
@@ -3864,7 +3864,7 @@ a &= \dfrac{-12}{4} \\\\
 a &= -3
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the labels $= + 4, \times -3$
 </code></pre>
 </div>
@@ -4054,9 +4054,9 @@ $31$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We can easily infer the number by using trial and error.
-
+<emptyline>
 $31$
-
+<emptyline>
 On reversing $31$, $13$ is also a prime.
 </code></pre>
 </div>

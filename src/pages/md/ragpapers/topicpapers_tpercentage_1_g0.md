@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g0"
 title: "TopicPaper - Percentage - 1 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>951CBD50-7F78-4C31-A0CE-F1A79F52C7B4</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -140,13 +140,12 @@ Find $35 \%$ of $160$
 
 $
 \begin{aligned}
-&= 35 \% \ \text{of} \ 160  \\\\
+&= 35 \% \ \text{of} \ 160 \\\\
 &= \dfrac {35} {100} \times 160 \\\\
 &= \dfrac {35 \times 160} {100} \\\\
 &= \dfrac {5600} {100} \\\\
-&= \dfrac {56 \times 100} {100} \\\\
-&= \dfrac {56 \times \cancel{100}} {\cancel{100}} \\\\
-&= {56}
+&= \dfrac {56 \cancel{00}} {1 \cancel{00}} \\\\
+&= 56
 \end{aligned}
 $
 
@@ -164,13 +163,12 @@ $56$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 35 \% \ \text{of} \ 160  \\\\
+&= 35 \% \ \text{of} \ 160 \\\\
 &= \dfrac {35} {100} \times 160 \\\\
 &= \dfrac {35 \times 160} {100} \\\\
 &= \dfrac {5600} {100} \\\\
-&= \dfrac {56 \times 100} {100} \\\\
-&= \dfrac {56 \times \cancel{100}} {\cancel{100}} \\\\
-&= {56}
+&= \dfrac {56 \cancel{00}} {1 \cancel{00}} \\\\
+&= 56
 \end{aligned}
 $
 </code></pre>
@@ -236,7 +234,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6</p>
 </div>
@@ -250,7 +248,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -334,14 +332,11 @@ What is $0.78$ as a percentage?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&=  0.78 \times \dfrac {100}{100} \\\\
-&=  (0.78 \times 100) \times \dfrac{1}{100} \\\\
-&=  \dfrac {78}{100} \\\\
-&=  78\%
+&= 0.78 \\\\
+&= 0.78 \times 100 \\\\
+&= 78 \%
 \end{aligned}
 $
 
@@ -353,21 +348,18 @@ $
 </div>
 <div class='answer'>
 
-$78\%$
+$78 \%$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=  0.78 \times \dfrac {100}{100} \\\\
-&=  (0.78 \times 100) \times \dfrac{1}{100} \\\\
-&=  \dfrac {78}{100} \\\\
-&=  78\%
+&= 0.78 \\\\
+&= 0.78 \times 100 \\\\
+&= 78 \%
 \end{aligned}
 $
 </code></pre>
@@ -381,7 +373,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$78\%$
+<pre class='language-latex'><code class='language-latex'>$78 \%$
 </code></pre>
 </div>
 </div>
@@ -430,7 +422,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C82E5C30-82DD-4D11-B4AF-0C2607D4E161</p>
 </div>
@@ -444,7 +436,7 @@ $
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -521,20 +513,20 @@ What is the difference between $20 \%$ of $90$ and $90 \%$ of $20$?
 <div class='workings'>
 <div class='working'>
 
-Let's calculate the first value.
+Let's calculate the first value,
 
 $
 \begin{aligned}
 &= 20 \% \ \text {of} \ 90 \\\\
 &= \dfrac {20} {100} \times 90 \\\\
 &= \dfrac {20 \times 90} {100} \\\\
-&= \dfrac {20 \times 5 \times 18} {20 \times 5} \\\\
-&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {20} \times \cancel {5}} \\\\
+&= \dfrac {20 \times 5 \times 18} {5 \times 20} \\\\
+&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {5} \times \cancel {20}} \\\\
 &= 18
 \end{aligned}
 $
 
-Let's calculate the second value.
+Let's calculate the second value,
 
 $
 \begin{aligned}
@@ -551,9 +543,8 @@ Using the calculation above,
 
 $
 \begin{aligned}
-&= \text {first value} - \text {second value} \\\\
-&= 18 - 18 \\\\
-&= 0
+\text {Difference}  &= 18 - 18 \\\\
+                    &= 0
 \end{aligned}
 $
 
@@ -569,21 +560,21 @@ $0$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
-
+<pre class='language-latex'><code class='language-latex'>Let's calculate the first value,
+<emptyline>
 $
 \begin{aligned}
 &= 20 \% \ \text {of} \ 90 \\\\
 &= \dfrac {20} {100} \times 90 \\\\
 &= \dfrac {20 \times 90} {100} \\\\
-&= \dfrac {20 \times 5 \times 18} {20 \times 5} \\\\
-&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {20} \times \cancel {5}} \\\\
+&= \dfrac {20 \times 5 \times 18} {5 \times 20} \\\\
+&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {5} \times \cancel {20}} \\\\
 &= 18
 \end{aligned}
 $
-
-Let's calculate the second value.
-
+<emptyline>
+Let's calculate the second value,
+<emptyline>
 $
 \begin{aligned}
 &= 90 \% \ \text {of} \ 20 \\\\
@@ -594,14 +585,13 @@ $
 &= 18
 \end{aligned}
 $
-
+<emptyline>
 Using the calculation above,
-
+<emptyline>
 $
 \begin{aligned}
-&= \text {first value} - \text {second value} \\\\
-&= 18 - 18 \\\\
-&= 0
+\text {Difference}  &= 18 - 18 \\\\
+                    &= 0
 \end{aligned}
 $
 </code></pre>

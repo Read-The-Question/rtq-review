@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-g1-prns"
 title: "TopicPaper - Algebra - 1 - G1 - PRNS"
-date: 2022-08-01 21:41:58
-questions_count: "13"
+date: 2022-08-03 14:15:25
+questions_count: "14"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -137,9 +137,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of students in year $4 = a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{2}{5} \times a                          &= 14  \\\\
@@ -151,7 +151,7 @@ a                                              &= \dfrac{14 \times 5}{2} \\\\
                                                &= 35
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total children}   &= 35 \\\\
@@ -377,7 +377,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2a -b \\\\
@@ -439,7 +439,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= c - (a - b) \\\\
@@ -502,7 +502,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3b^2 \\\\
@@ -706,9 +706,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Gino thought of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \bigg(\dfrac{a}{2} + 5 \bigg)^2     &= 121 \\\\
@@ -719,7 +719,7 @@ a                                   &= 2 \times 6 \\\\
 a                                   &= 12 
 \end {aligned}
 $
-
+<emptyline>
 The number that Gino thought of $= 12$.
 </code></pre>
 </div>
@@ -929,9 +929,9 @@ $275 \ \text{grams}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of a small can (in $\text{grams}$) $= w$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total weight} &= 1.25 \ \text{kg}\\\\
@@ -939,9 +939,9 @@ $
                     &= 1250 \ \text{grams}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 425 + 3w              &= 1250  \\\\
@@ -953,7 +953,7 @@ w                     &= \dfrac{275 \times \cancel 3} {\cancel 3}  \\\\
 w                     &= 275 \ \text{grams}
 \end{aligned}
 $
-
+<emptyline>
 Weight of a small can $= 275 \ \text{grams}$
 </code></pre>
 </div>
@@ -1181,33 +1181,33 @@ Cost of a banana $= 50 \ \text{pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of an apple (in $\text{pence}$) $= a$
-
+<emptyline>
 Let the cost of a banana (in $\text{pence}$) $= b$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. Let's convert all the costs into $\text{pence}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 2a + b &=  120 \\\\
 a + 2b &= 135
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 Multiply the second equation by $2$.
-
+<emptyline>
 $
 \begin{aligned} 
 2 \times a + 2 \times 2b     &= 2 \times 135 \\\\
 2a + 4b                      &= 270
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned} 
 2a + 4b - (2a + b)     &= 270 - 120 \\\\
@@ -1217,11 +1217,11 @@ b                      &= \dfrac {150} {3} \\\\
 b                      &= 50 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a banana $= 50 \ \text{pence}$.
-
+<emptyline>
 Let's substitute the value of $b$ in one of the initial equations to find the cost of an apple.
-
+<emptyline>
 $
 \begin{aligned} 
 2a + b     &=  120 \\\\
@@ -1232,7 +1232,7 @@ a          &= \dfrac {70} {2} \\\\
 a          &= 35 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of an apple $= 35 \ \text{pence}$.
 </code></pre>
 </div>
@@ -1786,7 +1786,7 @@ $292.5 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If the height increased by $30 \%$, then the new height will be $100 + 30 = 130 \%$ of the previous height. Using that, we get
-
+<emptyline>
 $
 \begin {aligned}
 \text {Tree height after first year}  &= \dfrac {130} {100} \times 180 \\\\
@@ -1796,9 +1796,9 @@ $
                                       &= 234 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 If the height increased by $25 \%$, then the new height will be $100 + 25 = 125 \%$ of the previous height. Using that, we get
-
+<emptyline>
 $
 \begin {aligned}
 \text {Tree height after second year} &= \dfrac {125} {100} \times 234 \\\\
@@ -1807,14 +1807,14 @@ $
                                       &= 292.5 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Tree height at the end of the second year $= 292.5$ cm.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternate solution.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Tree height after second year}  &= \dfrac {125} {100} \times \dfrac {130} {100} \times 180 \\\\
@@ -1825,7 +1825,7 @@ $
                                        &= 292.5 \ \text{cm}
 \end {aligned}
 $
-
+<emptyline>
 Tree height at the end of the second year $= 292.5$ cm.
 </code></pre>
 </div>
@@ -1883,6 +1883,245 @@ Tree height at the end of the second year $= 292.5$ cm.
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-8697781B-4AFF-4468-AA7D-11AE8E929A4F'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g1 rag_prns question'>
+<div class='uuid'>
+<p>EED93740-E026-4C7A-A7F1-CCA71D506BCC</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:8</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
+<p>rag_mr_g1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-EED93740-E026-4C7A-A7F1-CCA71D506BCC'>Initial</p>
+<div class='question question'>
+
+George had a bag full of $24$ apples.
+
+-  He gave half of them to his Granny to make an apple pie.
+-  He gave two thirds of what was left to his friends and then put the rest in the fruit bowl.
+
+How many did he put in the fruit bowl?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If George gave $\dfrac {1} {2}$ to his Granny, then he is left with $1 - \dfrac {1} {2} = \dfrac {1} {2}$ of the apples. Using that, we get
+
+$
+\begin {aligned}
+\text {Apples left}     &= \dfrac {1} {2} \times 24 \\\\
+                        &= 12
+\end {aligned}
+$
+
+If George gave $\dfrac {2} {3}$ to his friends, then he is left with $1 - \dfrac {2} {3} = \dfrac {1} {3}$ of the remaining apples. Using that, we get
+
+$
+\begin {aligned}
+\text {Apples left in the fruit bowl}     &= \dfrac {1} {3} \times 12 \\\\
+                                          &= 4
+\end {aligned}
+$
+
+Number of apples left in his fruit bowl $= 4$
+
+</div>
+<div class='working'>
+
+Alternate solution.
+
+$
+\begin {aligned}
+\text {Apples left in the fruit bowl} &= 24 \times \dfrac {1} {2} \times \dfrac {1} {3} \\\\
+                                      &= \dfrac {24} {2 \times 3} \\\\
+                                      &= \dfrac {24} {6} \\\\
+                                      &= 4
+\end {aligned}
+$
+
+Number of apples left in the fruit bowl $= 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>If George gave $\dfrac {1} {2}$ to his Granny, then he is left with $1 - \dfrac {1} {2} = \dfrac {1} {2}$ of the apples. Using that, we get
+<emptyline>
+$
+\begin {aligned}
+\text {Apples left}     &= \dfrac {1} {2} \times 24 \\\\
+                        &= 12
+\end {aligned}
+$
+<emptyline>
+If George gave $\dfrac {2} {3}$ to his friends, then he is left with $1 - \dfrac {2} {3} = \dfrac {1} {3}$ of the remaining apples. Using that, we get
+<emptyline>
+$
+\begin {aligned}
+\text {Apples left in the fruit bowl}     &= \dfrac {1} {3} \times 12 \\\\
+                                          &= 4
+\end {aligned}
+$
+<emptyline>
+Number of apples left in his fruit bowl $= 4$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>Alternate solution.
+<emptyline>
+$
+\begin {aligned}
+\text {Apples left in the fruit bowl} &= 24 \times \dfrac {1} {2} \times \dfrac {1} {3} \\\\
+                                      &= \dfrac {24} {2 \times 3} \\\\
+                                      &= \dfrac {24} {6} \\\\
+                                      &= 4
+\end {aligned}
+$
+<emptyline>
+Number of apples left in the fruit bowl $= 4$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$4$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' id='FORM-EED93740-E026-4C7A-A7F1-CCA71D506BCC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EED93740-E026-4C7A-A7F1-CCA71D506BCC'>Initial</p>
 </div>
 </div>
 </li>
@@ -2017,9 +2256,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Emilie thought of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 (a + 2 ) ^ {2} - 4     &= 60 \\\\
@@ -2031,7 +2270,7 @@ a                      &= 8 - 2 \\\\
 a                      &= 6
 \end {aligned}
 $
-
+<emptyline>
 Number that Emilie thought is $= 6$.
 </code></pre>
 </div>
@@ -2623,9 +2862,9 @@ $7a + 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of one of its sides $= l$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 6 \times l                      &= 42a + 18 \\\\
@@ -2636,7 +2875,7 @@ l                               &= \dfrac {\cancel 6 \times 7a} {\cancel 6} + \d
 l                               &= 7a + 3
 \end{aligned}
 $
-
+<emptyline>
 Expression for the length of one of its sides $= 7a + 3$.
 </code></pre>
 </div>
@@ -2698,9 +2937,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sides $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s \times (15b - 4)              &= 75b - 20 \\\\
@@ -2711,7 +2950,7 @@ s                               &= \dfrac {5 \times \cancel {(15b - 4)}} {\cance
 s                               &= 5
 \end{aligned}
 $
-
+<emptyline>
 Number of sides of the polygon $= 5$.
 </code></pre>
 </div>
@@ -2898,9 +3137,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of egg boxes needed $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 6                          &= 50 \\\\
@@ -2912,7 +3151,7 @@ a                                   &= 8 \dfrac {1} {3} \\\\
 a                                   &= 9
 \end{aligned}
 $
-
+<emptyline>
 Number of egg boxes needed $= 9$.
 </code></pre>
 </div>
@@ -3098,9 +3337,9 @@ $3.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3.6 \times a                 &= 1.8 \times 7  \\\\
@@ -3112,7 +3351,7 @@ a                            &= \dfrac {7} {2} \\\\
 a                            &= 3.5
 \end{aligned}
 $
-
+<emptyline>
 The missing number $= 3.5$
 </code></pre>
 </div>
@@ -3306,13 +3545,13 @@ $42857$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 The number by putting $1$ at the beginning $= 100000 + a$
-
+<emptyline>
 The number by putting $1$ at the end $= 1 + 10a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 1 + 10a                       &= 3 \times ( 100000 + a ) \\\\
@@ -3325,7 +3564,7 @@ a                             &= \dfrac {42857 \times \cancel 7} {\cancel 7} \\\
 a                             &= 42857
 \end{aligned}
 $
-
+<emptyline>
 The required $5$-digit number $= 42857$.
 </code></pre>
 </div>

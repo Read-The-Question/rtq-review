@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-2-notstarted"
 title: "TopicPaper - Ratio - 2 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "29"
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -310,10 +310,10 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -609,10 +609,10 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -981,10 +981,10 @@ TODOANSWER
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1337,10 +1337,10 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1625,10 +1625,10 @@ TODOANSWER
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1776,10 +1776,10 @@ $
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1929,10 +1929,10 @@ TODOANSWER
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2087,10 +2087,10 @@ $
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2240,10 +2240,10 @@ TODOANSWER
 <p>oundle-school--11-plus--maths--2018--sample-paper-8:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2393,10 +2393,10 @@ TODOANSWER
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2514,7 +2514,7 @@ x - \dfrac{5x}{3}                                               &= -6 \\\\
 \dfrac{3x - 5x}{3}                                              &= -6 \\\\
 \dfrac{-2x}{3}                                                  &= \dfrac{-6 \times 3}{-2} \\\\ 
 x                                                               &= 9
-
+<emptyline>
 \end{aligned}
 $
 </code></pre>
@@ -2545,10 +2545,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2673,11 +2673,11 @@ $12$
 
 <pre class='language-latex'><code class='language-latex'>
 The blue and red paint are in ratio $4:3$. 
-
+<emptyline>
 Let the amount of blue paint and red paint be a , b litres respectively,
-
+<emptyline>
 First lets write b in terms of a,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{a}{b}             &= \dfrac{4}{3} \\\\
@@ -2685,9 +2685,9 @@ $
 b                        &= a\dfrac{3}{4}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + b                    &= 21 \\\\
@@ -2729,10 +2729,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2880,10 +2880,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3062,12 +3062,12 @@ $15 \text{ litres}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let The amount of blue paint $= a$,
-
+<emptyline>
 The amount of red paint $= b$,
-
+<emptyline>
 
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 12:b            &= 4 : 5 \\\\
@@ -3216,17 +3216,17 @@ $12 \text{ litres}$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the amount of red paint $= a$
-
+<emptyline>
 The amount of blue paint $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + b = 36 \ \text{(equation 1)}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 a : b          &= 4 : 5 \\\\
@@ -3235,9 +3235,9 @@ a : b          &= 4 : 5 \\\\
 b              &= a\dfrac {5} {4} 
 \end{aligned}
 $
-
+<emptyline>
 Substuting b in equation 1
-
+<emptyline>
 $
 \begin{aligned}
 a + b                &= 36 \\\\
@@ -3283,10 +3283,10 @@ $
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3571,10 +3571,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3710,11 +3710,11 @@ $750 \text{ ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>For every 1 portion of blue paint, 3 portions of red paint needs to be mixed to make *Purple Fire* paint 
-
+<emptyline>
 Total Portions $= 3 + 1 = 4$
-
+<emptyline>
 Ratio of red and blue paint in *Purple Fire* paint is 
-
+<emptyline>
 $
 \begin{aligned}
 Red &: Blue \\
@@ -3724,21 +3724,21 @@ Red  &= \dfrac {3} {4} \\\\
 Blue &= \dfrac {1} {4}
 \end{aligned}
 $
-
+<emptyline>
 Total *Purple Fire* paint needed is $1 \text{ litre}$
-
+<emptyline>
 Total Portions 
-
+<emptyline>
 = $4$ 
-
+<emptyline>
 = $1 \text{ litre}$ or $1000 \text{ ml}$
-
+<emptyline>
 Red  $= \dfrac {3} {4}$
-
+<emptyline>
 Red  $\dfrac {3} {4}$ i.e. $3$ Portions of the $1000 \text{ ml}$ is red paint.
-
+<emptyline>
 Let's find how much is that 
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {4} \times 1000 \text{ ml} \\\\
@@ -3748,9 +3748,9 @@ $
 &= 750 \text{ ml}
 \end{aligned}
 $
-
+<emptyline>
 $750 \text{ ml}$ of red paint is needed to make $1 \text{ litre}$ of *Purple Fire*
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3779,10 +3779,10 @@ $750 \text{ ml}$ of red paint is needed to make $1 \text{ litre}$ of *Purple Fir
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:2</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3939,9 +3939,9 @@ $\pounds 1.25$
 
 <pre class='language-latex'><code class='language-latex'>
 Cost of one ticket $= \dfrac {21.25} {17}
-
+<emptyline>
 Dividing by decimals is same as dividing by two whole numbers. Ensure to place the decimal point exactly at the same place as it is at the dividend.
-
+<emptyline>
 $
 \begin{array}{l}
 \phantom{\ 0)0 \ 0\ \ }{\ \ \ 1 \ . \ 2 \ 5}\\
@@ -3955,9 +3955,9 @@ $
 \phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }
 \end{array}
 $
-
+<emptyline>
 Cost of one tickets $= \pounds 1.25$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4021,12 +4021,12 @@ $\pounds 8.75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Cost of seven tickets = cost of one ticket $\times 7$
-
+<emptyline>
 
 Multiplying with decimal points is same as multiplying with two whole numbers. Add up the number of digits after the decimal points int the question and ensure to place the decimal point in the answer going from right to left.
-
+<emptyline>
 $\pounds 1.25 \times 7$
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
            &1     & 2     & 5  \\
@@ -4035,11 +4035,11 @@ $
            &8     &7      &5   \\
 \end{array}
 $
-
+<emptyline>
 Let's put the decimal points. The question has two numbers after the decimal point. So in the answer put the decimal point going right to left after two digits.
-
+<emptyline>
 $\pounds 1.25 \times 7 = \pounds 8.75$
-
+<emptyline>
 Cost of seven tickets is $\pounds 8.75$
 </code></pre>
 </div>
@@ -4072,10 +4072,10 @@ Cost of seven tickets is $\pounds 8.75$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:1:10</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4213,11 +4213,11 @@ $
            2   \ &+& \  7          \ &+ &        6    &= 15 \\
  \end{array}
 $
-
+<emptyline>
 Let's take the quantity of each juice as $x$
-
+<emptyline>
 So,
-
+<emptyline>
 $
 \begin{aligned}
 2x + 7x + 6x &= 300 \\
@@ -4228,11 +4228,11 @@ $
            x &= 20 \ \text {ml}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the volume of Oragne juice.
-
+<emptyline>
 Orange juice 
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -4240,7 +4240,7 @@ $
    &= 140 \text { ml}
 \end{aligned}
 $
-
+<emptyline>
 Orange juice $= 140 \text { ml}$
 </code></pre>
 </div>
@@ -4270,10 +4270,10 @@ Orange juice $= 140 \text { ml}$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4558,10 +4558,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4709,10 +4709,10 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4861,10 +4861,10 @@ TODOANSWER
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5353,10 +5353,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5504,10 +5504,10 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5648,7 +5648,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FE32E051-0F48-40A7-BF59-E3A509ED27DF</p>
 </div>
@@ -5656,13 +5656,13 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:2:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5933,7 +5933,7 @@ $18, 8$
 &\approx 3
 \end{aligned}
 $
-
+<emptyline>
 $18$ whole bangos are there in $274$ fangos and $8$ fangos are left over.
 </code></pre>
 </div>
@@ -5966,10 +5966,10 @@ $18$ whole bangos are there in $274$ fangos and $8$ fangos are left over.
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6254,10 +6254,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6406,9 +6406,9 @@ $521 \ \text{Gammas}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $1$ Alpha $= 20$ Betas and $1$ Beta $= 5$ Gammas
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 \ \text{Alphas} + 6 \ \text{Betas} + 3 \ \text{gammas} \\\
@@ -6483,11 +6483,11 @@ $7 \ \text{Alphas} + 17 \ \text{Betas} + 4 \ \text{Gammas}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $1$ Alpha $= 20$ Betas and $1$ Beta $= 5$ Gammas
-
+<emptyline>
 $789$ Gammas $= \dfrac{789}{20 \times 5}$ Alphas
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{700 + 89}{100} \\\\
@@ -6537,10 +6537,10 @@ $
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:2:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6828,10 +6828,10 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:3:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

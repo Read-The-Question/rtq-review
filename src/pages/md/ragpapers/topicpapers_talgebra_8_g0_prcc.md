@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-8-g0-prcc"
 title: "TopicPaper - Algebra - 8 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "32"
 ---
 <ul class='question default-decimal'>
@@ -501,9 +501,9 @@ $-39$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 5) \div 2                  &= -17 \\\\
@@ -575,9 +575,9 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 a + \dfrac{a} {2}                                &= 90 \\\\
@@ -653,9 +653,9 @@ $+ 7, \ - 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 + 2(a ^ 2)                    &= 100 \\\\
@@ -730,9 +730,9 @@ $-16.25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {90 a} {500} - \dfrac {3 a} {10}                      &= 1.95 \\\\
@@ -2251,9 +2251,9 @@ $-4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$
-
+<emptyline>
 As per the the question,
-
+<emptyline>
 $
 \begin{aligned}
 5x + 8                                           &= 3x \\\\
@@ -2321,9 +2321,9 @@ $-2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$
-
+<emptyline>
 As per the the question,
-
+<emptyline>
 $
 \begin{aligned}
 (x - 10) \div 3                                                &= 2x \\\\
@@ -3238,7 +3238,7 @@ $a=12,b=0 \\
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let $a=12$
-
+<emptyline>
 $
 \begin{aligned}
 3 \times 12 + 2b                                &= 48 \\\\
@@ -3246,9 +3246,9 @@ $
 b                                               &= 0
 \end{aligned}
 $
-
+<emptyline>
 Let $a=4$
-
+<emptyline>
 $
 \begin{aligned}
 3 \times 4 + 2b                                 &= 48 \\\\
@@ -3475,7 +3475,7 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 23 \times a &= 690 \\\\
@@ -3540,7 +3540,7 @@ $3000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 2.3 \times a &= 6900 \\\\
@@ -3605,7 +3605,7 @@ $0.3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 6900 \div a          &= 23000 \\\\
@@ -4692,9 +4692,9 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x - 12                                                          &= 18 \\\\
@@ -4759,9 +4759,9 @@ $-5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x \times 6 - 9                                          &= -39 \\\\
@@ -4828,9 +4828,9 @@ $4.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=x$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 x \times 2 - 12                                                 &= -3 \\\\
@@ -5320,9 +5320,9 @@ $501$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of boys $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{No. of boys}                                              &= \text{Total pupil} - \text{No. of girls} \\\\
@@ -5336,7 +5336,7 @@ b                                                               &= \dfrac {\canc
 b                                                               &= 501
 \end{aligned}
 $
-
+<emptyline>
 Number of boys in the school $= 501$
 </code></pre>
 </div>
@@ -5531,9 +5531,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of children $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total children}                                &= \dfrac {2} {5} \times c + 12 \\\\
@@ -5548,10 +5548,10 @@ c                                                    &= \dfrac {\cancel{3} \time
 c                                                    &= 20
 \end{aligned}
 $
-
+<emptyline>
 
 Let's find the total number of boys.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total number of boys}                     &= 20 - 12 \\\\
@@ -5744,14 +5744,14 @@ $6x + 4y$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of a ruler}                 &= x \ \text{pence} \\\\
 \text{Cost of a pen}                   &= y \ \text{pence} 
 \end{aligned}
 $
-
+<emptyline>
 Cost of  $6$ ruler and $4$ pens $= 6x + 4y$ 
 </code></pre>
 </div>
@@ -5953,11 +5953,11 @@ $24 \ \text{and} \ 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 a + b                    &= 35 \\\\
@@ -5972,9 +5972,9 @@ b                        &= \dfrac {\cancel{2} \times 11} {\cancel{2}} \\\\
 b                        &= 11
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute the value of $b$ in one of the initial equations.
-
+<emptyline>
 $
 \begin{aligned} 
 a + b                    &= 35 \\\\
@@ -5983,9 +5983,9 @@ a                        &= 35 - 11 \\\\
 a                        &= 24
 \end{aligned}
 $
-
+<emptyline>
 First number $= 24$
-
+<emptyline>
 Second number $= 11$
 </code></pre>
 </div>
@@ -6174,26 +6174,26 @@ $4 \ \text{and} \ 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the two numbers $= a$ and $b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + b               &= 11 \\\\
 a \times b          &= 28
 \end{aligned}
 $
-
+<emptyline>
 We can easily infer the values by using trial and error.
-
+<emptyline>
 Factors of $28 = 1, 2, 4, 7, 14, 28$
-
+<emptyline>
 | Numbers   |  Multiplication  |           Sum           |
 |:-------:  |:---------------: |:----------------------: |
 | $1, 28$   |       $28$       | $1 + 28 = 29 \not = 11$ |
 | $2, 14$   |       $28$       | $2 + 14 = 16 \not = 11$ |
 | $4, 7$    |       $28$       | $4 + 7 = 11$            |
-
+<emptyline>
 The two numbers are $= 4 \ \text{and} \ 7$
 </code></pre>
 </div>
@@ -6418,9 +6418,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number that I think of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2a - 5                                                       &= 13 \\\\
@@ -6432,7 +6432,7 @@ a                                                            &= \dfrac {9 \times
 a                                                            &= 9
 \end{aligned}
 $
-
+<emptyline>
 The number I thought of $= 9$
 </code></pre>
 </div>
@@ -6494,9 +6494,9 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the other number I think of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2(a - 5)                                                     &= 16 \\\\
@@ -6509,7 +6509,7 @@ a                                                            &= \dfrac {13 \time
 a                                                            &= 13
 \end{aligned}
 $
-
+<emptyline>
 The other number I thought of $= 13$
 </code></pre>
 </div>
@@ -6569,9 +6569,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the final number I think of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a^{2} - 5                                                &= 31 \\\\
@@ -6582,7 +6582,7 @@ a^{2}                                                    &= 6^{2} \\\\
 a                                                        &= 6
 \end{aligned}
 $
-
+<emptyline>
 The final number I thought of $= 6$
 </code></pre>
 </div>
@@ -6792,22 +6792,22 @@ $12 \ \text{and} \ 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 a - b                    &= 5 \\\\
 a + b                    &= 19
 \end{aligned}
 $
-
+<emptyline>
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
+<emptyline>
 Add the second equation to the first to reduce it to one variable
-
+<emptyline>
 $
 \begin{aligned}
 a - b + a + b            &= 5 + 19 \\\\
@@ -6818,9 +6818,9 @@ a                        &= \dfrac {\cancel{2} \times 12} {\cancel{2}} \\\\
 a                        &= 12
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute the value of $a$ in one of the equations.
-
+<emptyline>
 $
 \begin{aligned} 
 a + b                    &= 19 \\\\
@@ -6829,7 +6829,7 @@ b                        &= 19 - 12 \\\\
 b                        &= 7
 \end{aligned}
 $
-
+<emptyline>
 Two numbers are $= 12, \ 7$
 </code></pre>
 </div>
@@ -7005,7 +7005,7 @@ $75 \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Distance}                                         &= 25 \text{m} \times (4 - 1) \\\\\
@@ -7204,9 +7204,9 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of children $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total children}                                    &= \text{Total girls} + \text{Total boys} \\\\
@@ -7218,11 +7218,11 @@ a - \dfrac {3a} {4}                                      &= 20 \\\\
 a                                                        &= 80
 \end{aligned}
 $
-
+<emptyline>
 The total number of children in the club $= 80$
-
+<emptyline>
 Let's find how many girls are in the club.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total girls}                                       &= 80 - 20 \\\\
@@ -7435,22 +7435,22 @@ $13 \ \text{and} \ 5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 a - b                    &= 8 \\\\
 a + b                    &= 18
 \end{aligned}
 $
-
+<emptyline>
 There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
+<emptyline>
 Add the second equation to the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 a - b + (a - b)          &= 8 + 18 \\\\
@@ -7462,9 +7462,9 @@ a                        &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
 a                        &= 13
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute the value of $a$ in one of the equations.
-
+<emptyline>
 $
 \begin{aligned} 
 a + b                    &= 18 \\\\
@@ -7473,7 +7473,7 @@ b                        &= 18 - 13 \\\\
 b                        &= 5
 \end{aligned}
 $
-
+<emptyline>
 Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
 </code></pre>
 </div>
@@ -7701,9 +7701,9 @@ $8640$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>LCM of $3, \ 4 \ \text{and} \ 5 = 60$
-
+<emptyline>
 Since, Multiplying $60$ with any number will give $0$ at last digit. So, The last digit of the PIN is $0$.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {8700} {60} \\\\
@@ -7712,50 +7712,50 @@ $
 &= 145
 \end{aligned}
 $
-
+<emptyline>
 As the remainder is $0$, Subtracting $60$ from $8700 = 8700 - 60 = 8640$
-
+<emptyline>
 The PIN number is $= 8640$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternative solution
-
+<emptyline>
 We can solve this my trial and error method using divisibility rule.
-
+<emptyline>
 We know,
-
+<emptyline>
 A number is divisible by $5$ if the last digit $0$ or $5$.
-
+<emptyline>
 A number is divisible by $4$ if the last $2$ digits are divisible by $4$.
-
+<emptyline>
 A number is divisible by $3$ if the cross addition is divisible by $3$.
-
+<emptyline>
 Let's look at units place
-
+<emptyline>
 $= 0$ (then only my PIN will be divisible by $4$)
-
+<emptyline>
 Let's look at tens place
-
+<emptyline>
 $\not 1$ (as $10$ is not divisible by $4$)
-
+<emptyline>
 $= 2$ (as $20$ is divisible by $4$)
-
+<emptyline>
 Let's now check if $8620$ is divisible by $3$
-
+<emptyline>
 $= 8 + 6 + 2 + 0 = 16 \not$ divisible by $3$ 
-
+<emptyline>
 The next multiple of $3$ would be $18$
-
+<emptyline>
 $= 8 + 6 + 4 + 0 = 18$ 
-
+<emptyline>
 $18$ is divisible by $3$
-
+<emptyline>
 $40$ is divisible by $4$ and
-
+<emptyline>
 $8640$ has $0$ at unit place, as such divisible by $5$.
-
+<emptyline>
 My PIN number is $8640$
 </code></pre>
 </div>
@@ -7937,7 +7937,7 @@ $804 \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -7949,7 +7949,7 @@ $
 &= 804 \text{m}
 \end{aligned}
 $
-
+<emptyline>
 The distance between the first and the last pole $=804 \text{m}$
 </code></pre>
 </div>
@@ -8136,9 +8136,9 @@ $600 \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of chocolate in the bar $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
@@ -8153,7 +8153,7 @@ a                                                                               
 a                                                                                                           &= 600 \text{g}
 \end{aligned}
 $
-
+<emptyline>
 The bar was having $600$ \text{g} chocolates originally.
 </code></pre>
 </div>
@@ -8335,9 +8335,9 @@ $33$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number I think of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a} {3} + 7                                  &= 18 \\\\
@@ -8347,7 +8347,7 @@ a                                                   &= 11 \times 3 \\\\
 a                                                   &= 33
 \end{aligned}
 $
-
+<emptyline>
 The number I think of $= 33$
 </code></pre>
 </div>
@@ -8568,9 +8568,9 @@ $43$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 35 + a                                              &= 78 \\\\
@@ -8578,7 +8578,7 @@ a                                                   &= 78 - 35 \\\\
 a                                                   &= 43
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 43$
 </code></pre>
 </div>
@@ -8638,9 +8638,9 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 156 \div a                                          &= 12 \\\\
@@ -8651,7 +8651,7 @@ a                                                   &= \dfrac {\cancel{12} \time
 a                                                   &= 13
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 13$
 </code></pre>
 </div>
@@ -8712,9 +8712,9 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (7 - a) \times 13                                   &= 78 \\\\
@@ -8726,7 +8726,7 @@ a                                                   &= 7 - 6 \\\\
 a                                                   &= 1
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 1$
 </code></pre>
 </div>
@@ -8785,9 +8785,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {79 - a} {6}                                 &= 12 \\\\
@@ -8797,7 +8797,7 @@ a                                                   &= 79 - 72 \\\\
 a                                                   &= 7
 \end{aligned}
 $
-
+<emptyline>
 The missing number is $= 7$
 </code></pre>
 </div>
@@ -9026,9 +9026,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>In an equilateral triangle all three sides are equal.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 4x + 5              &= 21 \\\\
@@ -9095,9 +9095,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>In an equilateral triangle all three sides are equal in length.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 3y - 3              &= 21 \\\\
@@ -9294,9 +9294,9 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sweets Martin take $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sweets Martin take}                               &= \text{Total sweets} - \text{Sweets Dai take} \\\\
@@ -9310,7 +9310,7 @@ a                                                       &= \dfrac {\cancel{2} \t
 a                                                       &= 36
 \end{aligned}
 $
-
+<emptyline>
 Number of sweets Martin take $= 36$
 </code></pre>
 </div>
@@ -9492,7 +9492,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find the number of children playing something else.
-
+<emptyline>
 $
 \begin{aligned}
 &= \text{Total children - Playing recorder - Playing triangle}  \\\\
@@ -9504,7 +9504,7 @@ $
 &= 24
 \end{aligned}
 $
-
+<emptyline>
 Number of children playing something else $= 24$
 </code></pre>
 </div>

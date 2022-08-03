@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-17-g0-prcr"
 title: "TopicPaper - Algebra - 17 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -205,26 +205,26 @@ $100  \ \text {calories}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the calories provided by the cake (in calories) $= c$
-
+<emptyline>
 Let the calories provided by the biscuit (in calories) $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 c + 2b      &= 450 \\\\
 2c + 3b     &= 800         
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
 But which one should we eliminate? 
-
+<emptyline>
 If we look at the question again, we only need the 
 calories provided by the biscuit, so let's eliminate $c$ so we can directly calculate the value for $b$.
-
+<emptyline>
 Multiply the first equation by $2$.
-
+<emptyline>
 $
 \begin{aligned}
 c + 2b                          &= 450 \\\\
@@ -232,9 +232,9 @@ c + 2b                          &= 450 \\\\
 2c + 4b                         &= 900
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 2c + 4b                 &= 900 \\\\
@@ -244,21 +244,21 @@ $
 b                       &= 100  \ \text {calories}
 \end{aligned}
 $
-
+<emptyline>
 Calories provided by the biscuit $= 100  \ \text {calories}$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>What if we eliminate $b$ instead?
-
+<emptyline>
 This approach is less efficient as we will have to calculate one extra value to get the answer.
-
+<emptyline>
 Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 The LCM of $2$ and $3$ is $6$.
 Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $b$ the same.
-
+<emptyline>
 $
 \begin{aligned} 
 c + 2b                          &= 450 \\\\
@@ -269,9 +269,9 @@ c + 2b                          &= 450 \\\\
 4c + 6b                         &= 1600
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 3c + 6b                 &= 1350 \\\\
@@ -281,11 +281,11 @@ $
 c                       &= 250 \ \text {calories}
 \end{aligned}
 $
-
+<emptyline>
 Calories provided by the cake $= 250 \ \text {calories}$. 
-
+<emptyline>
 Let's substitute the value of $c$ in one of the initial equations to find the calories provided by the biscuit.
-
+<emptyline>
 $
 \begin{aligned} 
 c + 2b                          &= 450 \\\\
@@ -296,7 +296,7 @@ b                               &= \dfrac{200}{2} \\\\
 b                               &=  100  \ \text {calories}
 \end{aligned}
 $
-
+<emptyline>
 Calories provided by the biscuit $= 100  \ \text {calories}$
 </code></pre>
 </div>
@@ -511,16 +511,16 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of $5 \text{p}$ coins $= a$. Then,
-
+<emptyline>
 Number of $10 \text{p}$ coins $= 2a$
-
+<emptyline>
 Number of $20 \text{p}$ coins $= 4a$
-
+<emptyline>
 rtq_abbr_md_unit_note.
 The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}  
 5 \times a + 10 \times 2a + 20 \times 4a    &= \pounds 15.75 \\\\
@@ -533,11 +533,11 @@ a                                           &= \dfrac {\cancel{21} \times \cance
 a                                           &= 15
 \end{aligned}
 $
-
+<emptyline>
 Number of $5 \ \text{p}$ coins $= 15$
-
+<emptyline>
 Let's find the number of $20 \ \text{p}$ coins.
-
+<emptyline>
 $
 \begin {aligned}
 20 \ \text{p} \text{ coins}   &= 4a \\\\
@@ -545,7 +545,7 @@ $
                               &= 60
 \end {aligned}
 $
-
+<emptyline>
 Number of $20 \ \text{p}$ coins $= 60$
 </code></pre>
 </div>
@@ -725,7 +725,7 @@ $60000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
-
+<emptyline>
 $
 \begin {aligned}
 4060800                     &= 4000000 + a + 800 \\\\
@@ -733,7 +733,7 @@ $
 a                           &= 60000
 \end {aligned}
 $
-
+<emptyline>
 The missing number is $= 60000$.
 </code></pre>
 </div>
@@ -917,9 +917,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number that John thought is $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4a + 3    &= 35 \\\\
@@ -931,7 +931,7 @@ a         &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
 a         &= 8
 \end {aligned}
 $
-
+<emptyline>
 The number that John thought $= 8$.
 </code></pre>
 </div>
@@ -1204,32 +1204,32 @@ $45p$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a bottle of water (in pence) $= w$
-
+<emptyline>
 Let the cost of a bag of fruit (in pence) $= f$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 The cost is given in pounds and pence. Let's convert all the costs into pence.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2w + 3f      &= 255 \\\\
 w - f        &= 15
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 But which one should we eliminate? 
-
+<emptyline>
 If we look at the question again, we only need the 
-
+<emptyline>
 cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
-
+<emptyline>
 Multiply the second equation by $2$.
-
+<emptyline>
 $
 \begin{aligned}
 w - f                           &= 15 \\\\
@@ -1237,9 +1237,9 @@ w \times 2 - f  \times 2        &= 15 \times 2 \\\\
 2w - 2f                         &= 30
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 2w + 3f             &= 255 \\\\
@@ -1251,20 +1251,20 @@ f                   &= \dfrac{225}{5} \\\\
 f                   &= 45 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bag of fruit $= 45 \ \text {pence}$.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>What if we eliminate $f$ instead?
-
+<emptyline>
 This approach is less efficient as we will have to calculate one extra value to get the answer.
-
+<emptyline>
 Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 Multiply the second equation by $3$.
-
+<emptyline>
 $
 \begin{aligned} 
 w - f                           &= 15 \\\\
@@ -1272,9 +1272,9 @@ w \times 3 - f  \times 3        &= 15 \times 3 \\\\
 3w - 3f                         &= 45
 \end{aligned}
 $
-
+<emptyline>
 Add second equation to the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 2w + 3f                 &= 255 \\\\
@@ -1286,11 +1286,11 @@ w                       &= \dfrac{300}{5} \\\\
 w                       &= 60 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bottle of water $= 60 \ \text{pence}$. 
-
+<emptyline>
 Let's substitute the value of $w$ in one of the initial equations to find the cost of a bag of fruit.
-
+<emptyline>
 $
 \begin{aligned} 
 w - f               &= 15 \\\\
@@ -1300,7 +1300,7 @@ w - f               &= 15 \\\\
 f                   &= 45 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bag of fruit $= 45 \ \text {pence}$
 </code></pre>
 </div>
@@ -1490,11 +1490,11 @@ $8 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of the base (in $\text{cm}$) $= a$
-
+<emptyline>
 rtq_abbr_katex_formula_volume_cuboid
-
+<emptyline>
 As per the question, the two boxes have the same volume. Using that we get,
-
+<emptyline>
 $
 \begin{aligned}
 10 \times a \times a    &= 4 \times 5 \times 32 \\\\
@@ -1507,7 +1507,7 @@ a                       &= \sqrt{64} \\\\
 a                       &= 8 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the base $= 8 \ \text{cm}$
 </code></pre>
 </div>
@@ -1731,16 +1731,16 @@ $570 \ \text {units}$
 
 <pre class='language-latex'><code class='language-latex'>
 January reading = $6045$ 
-
+<emptyline>
 October reading = $5475$ 
-
+<emptyline>
 $
 \begin {aligned}
 &= 6045 - 5475 \\\\
 &= 570
 \end {aligned}
 $
-
+<emptyline>
 $570$ units of gas has Andrew used in the three month period from October to January.
 </code></pre>
 </div>
@@ -1796,7 +1796,7 @@ $\pounds 276.60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total amount for three months}   &= 3 \times \text {Fixed amount for each month} + 570 \times \text {Cost of a unit} \\\\
@@ -1863,7 +1863,7 @@ $\pounds 290.43$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Final Bill}      &= \text {Total bill} + \text {VAT} \\\\
@@ -2157,7 +2157,7 @@ $53$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$125$ As the unit place is $5$ the original number is a multiple of $5$. So,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 \times 5 \\\\
@@ -2167,7 +2167,7 @@ $
 &= 5^3
 \end{aligned}
 $
-
+<emptyline>
 $125$ is a blast of $53$
 </code></pre>
 </div>
@@ -2233,16 +2233,16 @@ $42$
                         &= 16
 \end {aligned}
 $
-
+<emptyline>
 Let's find the another number with the Blast of 16.
-
+<emptyline>
 $
 \begin{aligned}
 16   &= 4 \times 4 \\\\
 16   &= 4 ^ 2
 \end{aligned}
 $
-
+<emptyline>
 $16$ is also a blast of $42$
 </code></pre>
 </div>
@@ -2311,18 +2311,18 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's frist find $9$ is a blast of which two digit number,
-
+<emptyline>
 $
 \begin {aligned}
 9       &= 3 \times 3 \\\\
 9       &= 3^2
 \end {aligned}
 $
-
+<emptyline>
 $9$ is a blast of $32$
-
+<emptyline>
 Now, we need to find $32$ is a blast of which two digit number to find our original number,
-
+<emptyline>
 $
 \begin {aligned}
 32      &= 8 \times 4 \\\\
@@ -2331,9 +2331,9 @@ $
 32      &= 2^5
 \end {aligned}
 $
-
+<emptyline>
 $32$ is a blast of $25$
-
+<emptyline>
 The original number is $25$
 </code></pre>
 </div>
@@ -2603,9 +2603,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (8 + a)\times 7     &= 91 \\\\
@@ -2845,7 +2845,7 @@ $30$
                                         &= 30
 \end{aligned} 
 $
-
+<emptyline>
 Missing number $= 30$
 </code></pre>
 </div>
@@ -2904,7 +2904,7 @@ $352$
                                    &= 352
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 352$
 </code></pre>
 </div>
@@ -3578,9 +3578,9 @@ $\dfrac{1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weekly pension of granddad $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Pension spent on friday}          &= \dfrac {a} {4} \\\\
@@ -3594,7 +3594,7 @@ $
                                         &= \dfrac {a} {4}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Pension left}                     &= a - \dfrac {a} {4} - \dfrac {a} {4} \\\\
@@ -3795,13 +3795,13 @@ $34$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of Fred $=a$
-
+<emptyline>
 Let the weight of Gary $=b$
-
+<emptyline>
 Let the weight of Harry $=c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + b                       &= 12 + c \\\\
@@ -3999,9 +3999,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Total number of chocolates in the box $= 30$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of white chocolates}  &= \dfrac {1} {6} \times 30 \\\\
@@ -4011,7 +4011,7 @@ $
                                     &= 5
 \end{aligned}
 $
-
+<emptyline>
 Number of white chocolates $= 5$
 </code></pre>
 </div>
@@ -4069,18 +4069,18 @@ $\dfrac {1} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Number of milk chocolates $= 10$
-
+<emptyline>
 Fraction of milk chocolates $= \dfrac {10} {30}$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
 &= \dfrac {1} {3}
 \end{aligned}
 $
-
+<emptyline>
 Fraction of milk chocolates $= \dfrac {1} {3}$
 </code></pre>
 </div>

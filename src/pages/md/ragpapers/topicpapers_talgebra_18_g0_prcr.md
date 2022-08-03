@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-18-g0-prcr"
 title: "TopicPaper - Algebra - 18 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -411,9 +411,9 @@ $\pounds 51$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total money = $\pounds 68$
-
+<emptyline>
 Money left with Ben = Total money - $\dfrac {1} {4} \ \text{of} \ \pounds 68$
-
+<emptyline>
 $
 \begin{aligned}
 &= 68 - (\dfrac {1} {4} \times 68) \\\\
@@ -424,7 +424,7 @@ $
 &= \pounds 51
 \end{aligned}
 $
-
+<emptyline>
 Money left with Ben $= \pounds 51$
 </code></pre>
 </div>
@@ -619,15 +619,15 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of pupils be $t$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Pupil present = $18$
-
+<emptyline>
 Pupil absent = $\dfrac {2} {5} \ \text{of} \ t$
-
+<emptyline>
 Total pupil = pupil present + pupil absent
-
+<emptyline>
 $
 \begin{aligned}
 t                                                               &= 18 + \dfrac {2} {5} \times t \\\\
@@ -644,7 +644,7 @@ t                                                               &= 6 \times 5 \\
 t                                                               &= 30
 \end{aligned}
 $
-
+<emptyline>
 Total number of pupils in the class = $30$
 </code></pre>
 </div>
@@ -834,9 +834,9 @@ $\pounds 27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the money Edward has = $\pounds a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {3} \times a             &= \pounds 15 \\\\
@@ -844,7 +844,7 @@ a                                   &= 15 \times 3 \\\\
 a                                   &= \pounds 45
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money that Olivia receives}   &= \dfrac {3} {5} \times a \\\\
@@ -1264,7 +1264,7 @@ $\pounds 1.6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 6 \times a                          &= \pounds 9.60 \\\\
@@ -1277,7 +1277,7 @@ a                                   &= \dfrac {9.6} {6} \\\\
 a                                   &= \pounds 1.6
 \end{aligned}
 $
-
+<emptyline>
 The missing number $= \pounds 1.6$
 </code></pre>
 </div>

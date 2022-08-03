@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-pr"
 title: "TopicPaper - Areaperimeter - 5 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -168,14 +168,14 @@ Beeching tiles
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
 The floor measurement is given in $\text{m}$ while the tile measurement is given in $\text{cm}$.
-
+<emptyline>
 Let's convert the floor measurements into $\text{cm}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of Acron tiles}       &= \dfrac {\text {Area of floor}} {\text {Area of a tile}} \\\\
@@ -190,7 +190,7 @@ $
                                     &= \pounds \ 96
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of Beeching tiles}        &= \dfrac {\text {Area of floor}} {\text {Area of a tile}} \\\\
@@ -203,7 +203,7 @@ $
                                         &= \pounds \ 75
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total cost of carpet}            &= \text {Cost per square metre} \times \text {Area of floor} + \text {Fitting cost} \\\\
@@ -213,7 +213,7 @@ $
                                         &= \pounds \ 114
 \end{aligned}
 $
-
+<emptyline>
 Beeching tiles are the cheapest.
 </code></pre>
 </div>
@@ -410,11 +410,11 @@ $= 20 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the side of the small square $= a$
-
+<emptyline>
 Let the side of large square $= b$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + b                   &= 28 \\\\
@@ -429,7 +429,7 @@ b                       &= 28 - a \\\\
                         &= 20 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the side of the large square $= 20 \ \text {cm}$.
 </code></pre>
 </div>
@@ -633,13 +633,13 @@ $1.5 \ \text {cm}^2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with three unshaded triangles marked as 1, 2, and 3 along with the measurements.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Area of the shaded triangle}             &= 4 \times \text {Square} - \text {Triangle 1} - \text {Triangle 2} - \text {Triangle 3} \\\\
@@ -841,9 +841,9 @@ $30000 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the patch with vegetables}       &= \dfrac {2} {3} \times \text {Area of whole patch} \\\\
@@ -1066,13 +1066,13 @@ $45 \ \text {cm} ^ 2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: add a diagram with shaded triangles marked as 1 and 2 along with the measurements.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Unshaded Area}        &= \text {Rectangle} - \text {Triangle 1} - \text {Triangle 2} \\\\
@@ -1278,11 +1278,11 @@ $\dfrac {25} {4} \ \pi$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_circle_pi_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_semicircle_pi_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the shaded region}       &= \text {Area of bigger semi-circle} - \text {Area of smaller circle} \\\\
@@ -1498,13 +1498,13 @@ $72 \ \text {cm} ^ 2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show th diagram divided into a rectangle and triangle along with the measurements.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into a rectangle and a triangle
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total Area}           &= \text {Rectangle} + \text {Triangle} \\\\
@@ -1761,13 +1761,13 @@ $2 \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_volume_cube
-
+<emptyline>
 Let the width of one cube $= w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Number of cubes $= 7$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total Volume}            &= 56 \\\\
@@ -1781,7 +1781,7 @@ w                               &= \sqrt[3] {8} \\\\
 w                               &= 2 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Width of one cube is $2 \ \text {cm}$.
 </code></pre>
 </div>
@@ -1842,9 +1842,9 @@ $144 \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Surface area of one cube}    &= 6 \times 2 \times 2 \\\\
@@ -2082,21 +2082,21 @@ $10 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with three rectangles marked as A, B, and C.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 Let the length of rectangle A $= a$
-
+<emptyline>
 Let the length of rectangle B $= b$
-
+<emptyline>
 Let the missing length $= l$
-
+<emptyline>
 Length of rectangle C $= a + b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 4                                                                  &= 20 \\\\
@@ -2121,7 +2121,7 @@ l                                                                           &= 2
 l                                                                           &= 5 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Missing length $= 10 \ \text {cm}$. 
 </code></pre>
 </div>
@@ -2316,13 +2316,13 @@ $12 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of room $= a$
-
+<emptyline>
 Length of the room $= 2a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (2a + a)                   &= 36 \\\\
@@ -2337,7 +2337,7 @@ a                                   &= 6 \ \text {m} \\\\
                                     &= 12 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -2525,9 +2525,9 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of posts}      &= \dfrac {\text {Perimeter of the field}} {\text{Distance between post}} \\\\
@@ -2733,11 +2733,11 @@ $4 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the width of the room $= w \ \text{m}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of carpet}       &= 60\% \ \text{of Area of the room} \\\\
@@ -2970,7 +2970,7 @@ $(-1,2) \ , (-1,4) \ , (-4,4)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>APTQ,
-
+<emptyline>
 $
 \begin{aligned}
 \text{The coordinates of each vertex of the triangle} \\\\
@@ -3032,9 +3032,9 @@ $3 \ \text{units}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= \dfrac {1} {2} \times 2 \times 3 \\\\ 

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnet-1"
 title: "TopicPaper - Net - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "29"
 ---
 <div class='paper'>
@@ -3613,10 +3613,10 @@ $\text{different} \ \ \boxed{\times}$
 
 <pre class='language-latex'><code class='language-latex'>$\text{same} \ \ \boxed{\checkmark}$
 $\text{different} \ \ \boxed{\times}$
-
+<emptyline>
 $\text{same} \ \ \boxed{\checkmark}$
 $\text{different} \ \ \boxed{\times}$
-
+<emptyline>
 $\text{same} \ \ \boxed{\checkmark}$
 $\text{different} \ \ \boxed{\times}$
 </code></pre>
@@ -3767,7 +3767,7 @@ $U$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 After assuming a cube , and pointing side we get that the opposite side of $M$ is $U$.
 </code></pre>
 </div>

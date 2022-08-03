@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-1-g0-prcr"
 title: "TopicPaper - Speed - 1 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -130,7 +130,7 @@ $45 \ \text {m.p.h}$
                         &= 45 \ \text {m.p.h}
 \end{aligned}
 $
-
+<emptyline>
 My average speed is $= 45 \ \text {m.p.h}$
 </code></pre>
 </div>
@@ -722,7 +722,7 @@ $2 \ \text {hours} \ 30 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Distance from Josham to Moreton} &= \text {(Josham to Langham)} + \text {(Langham to Moreton)} \\\\
@@ -730,9 +730,9 @@ $
                                         &= 35 \ \text {km}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the time tourist will take to complete the journey.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Time} &= \dfrac {\text {Distance}} {\text {Speed}} \\\\
@@ -1016,7 +1016,7 @@ $800 \ \text{kilometres per hour}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Speed of the aeroplane}  &= \dfrac {\text {Distance} } { \text {Time} } \\\\
@@ -1427,9 +1427,9 @@ $6 \ \text{hours}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by Josh}                           &= \dfrac {36 \ \text{km}} {6 \ \text{km per hour}} \\\\
@@ -1491,7 +1491,7 @@ $6 \ \text{km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know,  Josh took $6$ hours to finish walking $36$ km.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Remaining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
@@ -1722,9 +1722,9 @@ $4 \ \text{hours}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by Julie}                          &= \dfrac {24 \ \text{km}} {6 \ \text{km per hour}} \\\\
@@ -1786,7 +1786,7 @@ $8 \ \text{km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know,  Julie took $4$ hours to finish walking $24$ km.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Reamining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\

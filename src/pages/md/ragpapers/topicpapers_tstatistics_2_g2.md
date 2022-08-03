@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-g2"
 title: "TopicPaper - Statistics - 2 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -230,9 +230,9 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_median
-
+<emptyline>
 Let's arrange the runs scored in ascending order.
-
+<emptyline>
 $
 \begin {aligned}
 \text{Runs}           &= 0, 25, 15, 40, 52, 15, 6, 8, 25, 35, 1 \\\\

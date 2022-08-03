@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-g0"
 title: "TopicPaper - Number - 17 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>815D7E74-0B4C-4E99-99F9-117582F86F67</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -99,39 +99,10 @@ You are told that $1 \ \text{inch} = 2.5 \ \text{centimetres}$
 Use this information to write:
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -145,8 +116,9 @@ $7 \ \text{inches}$ in centimetres
 
 $
 \begin{aligned}
-&= 7 \times 2.5 \\\\
-&= 17.5 \ \text{cm}
+&= 7 \ \text{inches} \\\\
+&= 7 \times 2.5 \ \text{centimeters} \\\\
+&= 17.5 \ \text{centimeters}
 \end{aligned}
 $
 
@@ -155,7 +127,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$17.5 \ \text{cm}$
+$17.5 \ \text{centimeters}$
 
 </div>
 </div>
@@ -164,8 +136,9 @@ $17.5 \ \text{cm}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 7 \times 2.5 \\\\
-&= 17.5 \ \text{cm}
+&= 7 \ \text{inches} \\\\
+&= 7 \times 2.5 \ \text{centimeters} \\\\
+&= 17.5 \ \text{centimeters}
 \end{aligned}
 $
 </code></pre>
@@ -179,7 +152,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$17.5 \ \text{cm}$
+<pre class='language-latex'><code class='language-latex'>$17.5 \ \text{centimeters}$
 </code></pre>
 </div>
 </div>
@@ -196,15 +169,13 @@ $70  \ \text{inches}$ in metres
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required
-
-
 $
 \begin{aligned}
-&= 70 \times 2.5 \ \text {cm} \\\\
-&= 70 \times \dfrac {2.5} {100} \ \text {m} \\\\
+&= 70 \ \text{inches} \\\\
+&= 70 \times 2.5 \ \text {centimeters} \\\\
+&= 70 \times \dfrac {2.5} {100} \ \text {meters} \\\\
 &= 70 \times 0.025 \\\\
-&= 0.175 \ \text {m}
+&= 0.175 \ \text {meters}
 \end{aligned}
 $
 
@@ -213,21 +184,20 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.175 \ \text{m}$
+$0.175 \ \text{meters}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 70 \times 2.5 \ \text {cm} \\\\
-&= 70 \times \dfrac {2.5} {100} \ \text {m} \\\\
+&= 70 \ \text{inches} \\\\
+&= 70 \times 2.5 \ \text {centimeters} \\\\
+&= 70 \times \dfrac {2.5} {100} \ \text {meters} \\\\
 &= 70 \times 0.025 \\\\
-&= 0.175 \ \text {m}
+&= 0.175 \ \text {meters}
 \end{aligned}
 $
 </code></pre>
@@ -241,7 +211,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$0.175 \ \text{m}$
+<pre class='language-latex'><code class='language-latex'>$0.175 \ \text{meters}$
 </code></pre>
 </div>
 </div>

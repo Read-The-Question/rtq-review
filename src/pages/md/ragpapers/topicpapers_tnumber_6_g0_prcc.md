@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-g0-prcc"
 title: "TopicPaper - Number - 6 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -142,11 +142,11 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the worth of triangle $= a$
-
+<emptyline>
 Let the worth of circle $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 6 + 4 + 6 + b                                  &= 6 + b + 4 + 4 + a + a \\\\
@@ -159,7 +159,7 @@ a                                              &= \dfrac {2} {2} \\\\
 a                                              &= 1
 \end{aligned}
 $
-
+<emptyline>
 The worth of triangle $= 1$ point
 </code></pre>
 </div>

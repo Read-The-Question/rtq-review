@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-9-pr"
 title: "TopicPaper - Number - 9 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -802,9 +802,9 @@ $2456 \ \text{p}$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_unit_note
-
+<emptyline>
 Let's convert all the costs into pence.
-
+<emptyline>
 $
 \begin{aligned}
 &=\pounds17.23 + \pounds6.58 + 75\text{p}\\\\

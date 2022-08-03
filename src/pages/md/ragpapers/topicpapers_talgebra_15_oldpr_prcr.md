@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-oldpr-prcr"
 title: "TopicPaper - Algebra - 15 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -162,7 +162,7 @@ $7 \times 9 - \boxed{38} = 25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
-
+<emptyline>
 $
 \begin {aligned}
 7 \times 9 - a  &= 25 \\\\
@@ -226,7 +226,7 @@ $64 \div 4 = \boxed{9} + 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= b$.
-
+<emptyline>
 $
 \begin {aligned}
 64 \div 4                                     &= b + 7 \\\\
@@ -295,7 +295,7 @@ $6^2 = 4^2 + (2 \times \boxed{10})$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= c$.
-
+<emptyline>
 $
 \begin {aligned}
 6 ^ 2       &= 4 ^ 2 + (2 \times c) \\\\
@@ -547,7 +547,7 @@ $20.4 \times 100 = \boxed{2040}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
-
+<emptyline>
 $
 \begin{aligned}
 20.4 \times 100  &= a \\\\
@@ -605,7 +605,7 @@ $\boxed{1050} \div 1000 = 1.05$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= b$.
-
+<emptyline>
 $
 \begin {aligned}
 b \div 1000  &= 1.05 \\\\
@@ -810,9 +810,9 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 (a + 4) \times 8  &= 56 \\\\
@@ -1025,17 +1025,17 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Celia’s number $= a$.
-
+<emptyline>
 and let Autumn's number $= b$.
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 $a - b = a$ 
-
+<emptyline>
 which gives, $b = 2a$.
-
+<emptyline>
 Using this, we get 
-
+<emptyline>
 $
 \begin {aligned}
 a \times b   &= 72 \\\\
@@ -1049,7 +1049,7 @@ a            &= \sqrt {36} \\\\
 a            &= 6
 \end {aligned}
 $
-
+<emptyline>
 Autumn's number $= 2 \times 6 = 12$.
 </code></pre>
 </div>

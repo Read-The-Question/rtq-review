@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-oldpr-prcr"
 title: "TopicPaper - Algebra - 14 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -162,7 +162,7 @@ $15 + \boxed{11} = 13 \times 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number in the gap $= a$.
-
+<emptyline>
 $
 \begin{aligned}
 15 + a                                       &= 13 \times 2 \\\\
@@ -224,7 +224,7 @@ $2 + (4 \times 5) = 27 - \boxed{5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number in the gap $= b$.
-
+<emptyline>
 $
 \begin{aligned}
 2 + (4 \times 5)                             &= 27 - b \\\\
@@ -288,7 +288,7 @@ $\boxed{\dfrac {1} {2}} \times 12 =  18 \div 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number in the gap $= c$.
-
+<emptyline>
 $
 \begin{aligned}
 c \times 12  &= 18 \div 3 \\\\
@@ -552,7 +552,7 @@ $23 \times \boxed{2} = 50 - 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$.
-
+<emptyline>
 $
 \begin {aligned}
 23 \times a  &= 50 - 4 \\\\
@@ -619,9 +619,9 @@ $13 = \boxed{12} + (5 - 2^2)$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= b$.
-
+<emptyline>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin {aligned}
 13  &= b + (5 - 2 ^ 2) \\\\
@@ -691,9 +691,9 @@ $72 \div \boxed{4} = 17 - 5 + 6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= c$.
-
+<emptyline>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin {aligned}
 72 \div c        &= 17 - 5 + 6 \\\\
@@ -974,17 +974,17 @@ $18 \ \text {pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of an apple $= a$.
-
+<emptyline>
 Let the cost of an orange $= b$.
-
+<emptyline>
 Let the cost of a pear $= c$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $b + c = 64 \ \text {pence}$.
-
+<emptyline>
 Using this, we get
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}          &= \pounds 2.10 \\\\
@@ -996,7 +996,7 @@ a - b                       &= 210 - 192 \\\\
 a - b                       &= 18 \ \text {pence}
 \end {aligned}
 $
-
+<emptyline>
 An apple cost $18 \ \text {pence}$ more than an orange.
 </code></pre>
 </div>
@@ -1074,15 +1074,15 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of cars $= c$.
-
+<emptyline>
 Let the number of bikes $= b$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $c + b = 27$.
-
+<emptyline>
 Using this, we get 
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total number of wheels} - \text {Total number of vehicles}  &= 78 - 27 \\\\
@@ -1099,7 +1099,7 @@ c                                                                  &= \dfrac {12
 c                                                                  &= 12
 \end {aligned}
 $
-
+<emptyline>
 Mike have to service $12$ cars.
 </code></pre>
 </div>

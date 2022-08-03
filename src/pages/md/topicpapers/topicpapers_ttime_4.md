@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1384,7 +1384,7 @@ $01{:}04 \ \text{pm}$
                        &= 64 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time shown}      &= \text{Actual time} + \text{Time gained} \\\\
@@ -1456,7 +1456,7 @@ $15{:}07 $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the time passed since 12 noon = a
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -1468,14 +1468,14 @@ a        &= (07 {:} 40) \times \dfrac {3} {7} \\\\
 a        &= 03{:}17
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Correct time}    &=  12{:}00 \ \text{pm} + 03{:}17 \\\\
                        &=  15{:}07
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1964,7 +1964,7 @@ $16 \ \text{hours}$
 \text{Time taken to show correct time}  &= 160 \ \text{hours}
 \end{aligned}
 $
-
+<emptyline>
 Time difference between first and second clock = $160 - 144 \ \text{hours}$
                                                = $16 \ \text{hours}$
 </code></pre>
@@ -2500,7 +2500,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E93C167E-C6A3-443C-8E8B-0832FB8A5BB9</p>
 </div>
@@ -2508,10 +2508,10 @@ $
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2616,7 +2616,7 @@ $377$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Aa per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{The difference} &= \text{ present year} - \text{battle year}  \\\\
@@ -2644,7 +2644,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>24E931CE-2E50-4E79-B7A8-54956CD7E71A</p>
 </div>
@@ -2652,10 +2652,10 @@ $
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2811,7 +2811,7 @@ $3 \ \text{hrs} \ \ 55  \ \text{mins}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>APTQ,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time gap between} \ ( 10:32 ) \ \text{and}  \ ( 14:27 )\\\\
@@ -2909,7 +2909,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>420E188E-519C-42A7-A5F9-D5C0C4417ED1</p>
 </div>
@@ -2917,10 +2917,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3059,7 +3059,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>10C36790-C347-40B9-9147-58FE1E31EBEC</p>
 </div>
@@ -3067,10 +3067,10 @@ $
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3724,7 +3724,7 @@ $
 &   \text{Dolphin show}     &   13{:}00   &   13{:}40 
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4139,9 +4139,9 @@ $31 \text{st January}$
                             &= 10{:}00
 \end{aligned}
 $
-
+<emptyline>
 Matilda receives the call in Australia at $10{:}00$ on $31 \text{st}$ January.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4216,7 +4216,7 @@ $1 \text{st February}$
                           & = 13{:}00
 \end{aligned}
 $
-
+<emptyline>
 Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 </code></pre>
 </div>
@@ -4291,7 +4291,7 @@ Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>93C342F0-9B02-467D-85DA-8B6AB128FA9C</p>
 </div>
@@ -4299,10 +4299,10 @@ Penny arrives in Sydney at $13{:}00$ and on $1 \text {st February}$.
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:26</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Sonam</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_ss_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4496,7 +4496,7 @@ $= 36 \ \text {minutes}$
                     &= 36 \ \text {minutes}
 \end{aligned}
 $
-
+<emptyline>
 Time taken by train to travel from Radlett to City is $= 36 \ \text {minutes}$
 </code></pre>
 </div>
@@ -4606,9 +4606,9 @@ $0728$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The train which reaches the City before $0800$ is the train reaching at $0755$.
-
+<emptyline>
 The $0755$ train start at St Albans at $0728$
-
+<emptyline>
 To reach the City no later than eight o'clock, someone should catch from St Albans the train at $0728$ 
 </code></pre>
 </div>
@@ -4680,7 +4680,7 @@ $0719$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per question,
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Check in time}               & = 0855 - 30 \ \text{min} \\\\
@@ -4689,18 +4689,18 @@ $
                                    & = 0815
 \end{aligned}
 $
-
+<emptyline>
 Roweena should reach St Pancras with a train reaching before $0815$.
-
+<emptyline>
 The train reaching St Pancras  before $0815$ is the $0812$ train, starting at St Albans at $0744$ 
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Time taken walking from house to St. Albans} & = 0744 - 25 \ \text{min} \\\\
                                                    & = 0719
 \end{aligned}
 $
-
+<emptyline>
 The latest time that Roweena need to leave her house is $= 0719$.
 </code></pre>
 </div>
@@ -4847,7 +4847,7 @@ $
 &= \text {April} \ 2\text{nd} \ \text {Thursday}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -5032,7 +5032,7 @@ $112 \ \text{minutes}$
                             &= 112  \ \text {minutes}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5462,7 +5462,7 @@ $90 \ \text {hours}$
                       &= 90 \ \text{hours}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5675,7 +5675,7 @@ $\underline {{\text {Jonathan is wrong because I can manage making a coffee in a
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Jonathan is wrong because I can manage making a coffee in a machine and toasting the breast in a toaster as a parallel task. 
-
+<emptyline>
 The coffee making takes $2 \ \text{minutes}$, which I can do while my bread is getting toasted in the toaster, which takes $3 \ \text{minutes}$. 
 </code></pre>
 </div>
@@ -5730,7 +5730,7 @@ $4 \ \text{minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The shortest time taken by me to prepare my breakfast is,
-
+<emptyline>
 $
 \begin{aligned}
       & = \text {Brown the toast in toaster + Butter the toast} \\\\
@@ -5738,7 +5738,7 @@ $
       & = 4 \ \text{minutes}                               
 \end{aligned}
 $
-
+<emptyline>
 The shortest time taken by me to prepare my breakfast is $=4 \ \text{minutes}$
 </code></pre>
 </div>
@@ -5947,7 +5947,7 @@ Draw the hour and minute hands on this clock to show the time $22{:}30$.
 rtq_abbr_md_add_drawing_starts
 *TODO:: Add a clock with hour hand between 10 and 11 and minutes hand on 6.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6860,7 +6860,7 @@ $
 \text{Depart} &   08{:}10   &   09{:}40   &   10{:}15 & {} 
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9100,7 +9100,7 @@ $11{:}11, \ 08{:}08$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Least glow $= 11{:}11$
-
+<emptyline>
 Greatest glow $= 08{:}08$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-oldpr"
 title: "TopicPaper - Simpleword - 1 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -360,7 +360,7 @@ $4, 58$
 |   $4 \times 58$   |    232     |
 |   $4 \times 120$  |    480     |
 |   $23 \times 45$  |    1035    |
-
+<emptyline>
 Required two numbers $= 4, 58$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-pr"
 title: "TopicPaper - Number - 2 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "16"
 ---
 <ul class='question default-decimal'>
@@ -1011,9 +1011,9 @@ $502 + 41 = 543$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5\rtq_katex_color_answer{0}2 + 41 = 543$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 502 + 41 \\\\
@@ -1074,9 +1074,9 @@ $1063 + 701 = 1764$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1\rtq_katex_color_answer{0}63 + 7\rtq_katex_color_answer{0}1 = 1764$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1063 + 701 \\\\
@@ -1137,9 +1137,9 @@ $1206, 1440$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$12\rtq_katex_color_answer{0}6 + 234 = 144\rtq_katex_color_answer{0}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1206 + 234 \\\\
@@ -1202,9 +1202,9 @@ $1000, 501$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1\rtq_katex_color_answer{0}\rtq_katex_color_answer{0}\rtq_katex_color_answer{0} - 499 = 5\rtq_katex_color_answer{0}1$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 1000 - 499 \\\\
@@ -1266,9 +1266,9 @@ $3002, 1104$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$3\rtq_katex_color_answer{0}\rtq_katex_color_answer{0}2 - 11\rtq_katex_color_answer{0}4 = 1898$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 3002 - 1104 \\\\
@@ -1501,7 +1501,7 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$123 - \underline{\rtq_katex_color_answer{45}} = 78$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2420,9 +2420,9 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$0.5 \div \dfrac{1}{2} = \underline{\rtq_katex_color_answer{1}}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.5 \div \dfrac{1}{2} \\\\
@@ -2529,9 +2529,9 @@ $90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{90}} \times 5 \times 10 = 4500$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 90 \times 5 \times 10 \\\\
@@ -2594,9 +2594,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4} of 36 = \underline{\rtq_katex_color_answer{27}}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4} \text { of } 36 = 27 \\\\
@@ -3391,7 +3391,7 @@ $4510$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 7 \times 451 + 2 \times 451 + 451 \\\\
@@ -4055,9 +4055,9 @@ $8, \div $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$8 \div (3 - \dfrac{8}{3}) = 24$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \div (3 - \dfrac{8}{3}) \\\\
@@ -4300,9 +4300,9 @@ $29$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$2018 - 29 = 1989$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 2018 - 29 \\\\
@@ -4364,9 +4364,9 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$0.5 \div \dfrac{1}{2} = 1$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.5 \div \dfrac{1}{2} \\\\
@@ -4428,9 +4428,9 @@ $26$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$18 + 26 + 23 = 67$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 18 + 26 + 23 \\\\
@@ -4489,9 +4489,9 @@ $90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$90 \times 5 \times 10 = 4500$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 90 \times 5 \times 10 \\\\
@@ -4553,9 +4553,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4} of 36$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4} \text { of } 36  \\\\
@@ -5280,9 +5280,9 @@ $\dfrac{3}{4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac{3}{4}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{3}{4} &= 0.75 \\\\
@@ -5344,9 +5344,9 @@ $\dfrac{2}{3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\dfrac{2}{3}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{3}{4} &= 0.75 \\\\
@@ -5354,7 +5354,7 @@ $
 \dfrac{7}{10}&= 0.7
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5654,9 +5654,9 @@ $-,-,+$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>123 - 45 - 67 + 89 = 100 
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 123 - 45 - 67 + 89 \\\\ 
@@ -5723,7 +5723,7 @@ $297$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Number of Boys = a 
-
+<emptyline>
 $
 \begin{aligned} 
 \dfrac{a}{540} &= \dfrac{275}{500} \\\\
@@ -5800,11 +5800,11 @@ $140$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Short Piece = a
-
+<emptyline>
 Middle Piece = 70 + a 
-
+<emptyline>
 Long Piece = 40 + 70 + a 
-
+<emptyline>
 $
 \begin{aligned}
 a + 70 + a + 40 + 70 + a &= 600 \\\\
@@ -6115,7 +6115,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 m * 6            &= 41 \\\\
@@ -6128,7 +6128,7 @@ m                &= \dfrac{\cancel{5} \times 7}{\cancel{5}} \\\\
 m                &= 7
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

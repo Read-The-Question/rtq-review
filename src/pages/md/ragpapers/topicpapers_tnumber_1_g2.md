@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g2"
 title: "TopicPaper - Number - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "35"
 ---
 <ul class='question default-decimal'>
@@ -161,7 +161,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 60 - a  &= 43 \\\\
@@ -222,7 +222,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 40 &= 280 \\\\
@@ -283,7 +283,7 @@ $150$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \div 30 &= 5 \\\\
@@ -342,7 +342,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 -8 + a &= -1 \\\\
@@ -684,7 +684,7 @@ $\dfrac {4} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value = $a$
-
+<emptyline>
 $
 \begin{aligned}
 200 \times a     &= 160 \\\\
@@ -913,7 +913,7 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 13 + 4 \div 2 \\\\
@@ -973,7 +973,7 @@ $-4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 \times 5 - 8 \times 3 \\\\
@@ -1034,7 +1034,7 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (-4 + 7)^3 \\\\
@@ -1642,9 +1642,9 @@ $54$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{54}} + 46 = 100$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 54 + 46 \\\\
@@ -1704,9 +1704,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$9 \times \underline{\rtq_katex_color_answer{12}} = 108$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 9 \times 12 \\\\
@@ -1769,9 +1769,9 @@ $140$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\underline{\rtq_katex_color_answer{140}} \div 20 = 7$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 140 \div 20 \\\\
@@ -1834,9 +1834,9 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$3 - \underline{\rtq_katex_color_answer{11}} = -8$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 - 11 \\\\
@@ -2416,7 +2416,7 @@ Test $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the percentage score for both the tests.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Test } 1       &= \dfrac {60}{80} \times 100 \\\\
@@ -2429,7 +2429,7 @@ $
                      &= 70 \%
 \end{aligned}
 $
-
+<emptyline>
 Ann did better in Test $1$.
 </code></pre>
 </div>
@@ -2937,7 +2937,7 @@ $29$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
- 
+<emptyline>
 $
 \begin{aligned}
 94 - a &= 65 \\\\
@@ -3040,7 +3040,7 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
- 
+<emptyline>
 $
 \begin{aligned}
 a \div 0.5  &= 20 \\\\
@@ -3436,7 +3436,7 @@ $14036$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$14036$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4110,7 +4110,7 @@ $0.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing  number $= a$
- 
+<emptyline>
 $
 \begin{aligned}
 a \times 300  &= 60 \\\\
@@ -4929,9 +4929,9 @@ $80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 5000 + a + 7     &= 5087 \\\\
@@ -5311,7 +5311,7 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 + (3 \times 6 + 4) \div 2 \\\\
@@ -5503,9 +5503,9 @@ $+ + \times$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$4 \ \boxed{+} \ 3 \ \boxed{+} \ 2 \ \boxed{\times} \ 1$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 + 3 + 2 \times 1 \\\\
@@ -6221,7 +6221,7 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &=  5 + 4 \times 2 \\\\
@@ -7099,9 +7099,9 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 82 - 27  &= 5 \times a \\\\
@@ -7291,9 +7291,9 @@ $91$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$91$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Multiply} &= 13 \times 7 \\\\
@@ -7707,7 +7707,7 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$.
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a + 20     &= 180  \\\\
@@ -7771,7 +7771,7 @@ $100$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$.
-
+<emptyline>
 $
 \begin{aligned}
 4 \times 20 + a &= 180  \\\\
@@ -7835,7 +7835,7 @@ $50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$.
-
+<emptyline>
 $
 \begin{aligned}
  4 \times a - 20 &= 180 \\\\
@@ -8511,7 +8511,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 12 - 2 \times 4 + 3 \\\\

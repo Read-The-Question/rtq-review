@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-g0-prcc"
 title: "TopicPaper - Algebra - 15 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -122,9 +122,9 @@ $2080$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{a}{1000}  &= 2.08 \\\\
@@ -314,9 +314,9 @@ $52$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of boxes that can be filled $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -324,7 +324,7 @@ a                                        &= \dfrac {314} {6} \\\\
 a                                        &= 52.33
 \end{aligned}
 $
-
+<emptyline>
 Therefore, number of boxes that can completely filled $= 52$.
 </code></pre>
 </div>
@@ -542,7 +542,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 3 \times 6 + a  &= 25 \\\\
@@ -607,7 +607,7 @@ $31$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -677,7 +677,7 @@ $\dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 7 ^ 2            &= 51 - (a \times 4) \\\\
@@ -917,9 +917,9 @@ $\pounds 1.16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\text {Let the cost of 1 chocolate cookie} = \text{a} $
-
+<emptyline>
 $\text {As per the question,} $
-
+<emptyline>
 $
 \begin{aligned}
 a                                        &= \dfrac {2.61} {9} \\\\
@@ -996,13 +996,13 @@ $\pounds 3.95$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. Let's convert all the units into $\pounds$.
-
+<emptyline>
 Let the cost of one book $= a$.
-
+<emptyline>
 The cost of second book $= a + 60 \ \text {p}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 60 \ \text {p}             &= \pounds 8.50 \\\\
@@ -1014,7 +1014,7 @@ a                                  &= \dfrac {7.90} {2} \\\\
 a                                  &= \pounds 3.95
 \end{aligned}
 $
-
+<emptyline>
 Cost of cheaper book $= \pounds 3.95$.
 </code></pre>
 </div>
@@ -1215,13 +1215,13 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sweets $= a$
-
+<emptyline>
 Number of greens $= \dfrac{a}{4}$
-
+<emptyline>
 Number of reds $= \dfrac{a}{3}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a} {4} + \dfrac {a} {3} + 10                                                                        &= a \\\\
@@ -1237,7 +1237,7 @@ a                                                                               
 a                                                                                                           &= 24
 \end{aligned}
 $
-
+<emptyline>
 Total number of sweets $=24$
 </code></pre>
 </div>
@@ -1417,9 +1417,9 @@ $81$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {3} \times a  &= 27 \\\\
@@ -1630,7 +1630,7 @@ $\pounds 2.900$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of ground coffee = a
-
+<emptyline>
 $
 \begin {aligned}
 a                               &= \dfrac {2.10} {100} \times 250 \\\\
@@ -1640,9 +1640,9 @@ a                               &= \dfrac {2.10}{2} \times 5 \\\\
 a                               &= \pounds 5.250 \\\\
 \end{aligned}
 $
-
+<emptyline>
 Let the cost of coffee beans = b
-
+<emptyline>
 
 $
 \begin {aligned}
@@ -1653,10 +1653,10 @@ b                               &= \dfrac {9.40} {4} \\\\
 b                               &= \pounds 2.350 \\\\
 \end {aligned}
 $
-
+<emptyline>
 
 Difference in cost             $= 5.250 - 2.350 = \pounds 2.900$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1848,9 +1848,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of pizza for one person $=a$
-
+<emptyline>
 So,
-
+<emptyline>
 $
 \begin{aligned}
 a                              &= \dfrac {12} {30} \\\\
@@ -1860,9 +1860,9 @@ a                              &= \dfrac {4}{10} \\\\
 a                              &= 0.4 \\\\
 \end{aligned}
 $
-
+<emptyline>
 Number of pizza to feed 35 people $= 35 a$
-
+<emptyline>
 $
 \begin{aligned}
 &= 35 \times a \\\\
@@ -1870,7 +1870,7 @@ $
 &= 14 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2065,9 +2065,9 @@ $150 \ \text {grams}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the original mass of the chocolate bar $= a \ \text {grams}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {3 a} {5} + 60                                   &= a \\\\
@@ -2084,7 +2084,7 @@ a                                                       &= 30 \times 5 \\\\
 a                                                       &= 150 \ \text {grams}
 \end{aligned}
 $
-
+<emptyline>
 Original mass of chocolate $= 150$
 </code></pre>
 </div>
@@ -2271,7 +2271,7 @@ $\pounds 72.75$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the monthly amount = a 
-
+<emptyline>
 $
 \begin{aligned}
 a                                &= \dfrac {572.50 - 136} {6} \\\\
@@ -2279,7 +2279,7 @@ a                                &= \dfrac {436.5} {6} \\\\
 a                                &= \pounds 72.75
 \end{aligned}
 $
-
+<emptyline>
 Monthly amount $= \pounds 72.25$
 </code></pre>
 </div>
@@ -2497,7 +2497,7 @@ $16700$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the missing number = a
-
+<emptyline>
 $
 \begin{aligned}
 a     &= 16.7 \times 1000 \\\\
@@ -2556,7 +2556,7 @@ $370$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$.
-
+<emptyline>
 $
 \begin{aligned}
 a \div 100          &= 3.7 \\\\
@@ -2797,9 +2797,9 @@ $4$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the number of custard creams = a
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a                                &= \dfrac {1} {3} \times 12 \\\\
@@ -2809,7 +2809,7 @@ a                                &= \dfrac {4 \times \cancel {3}} {\cancel {3}} 
 a                                &= 4
 \end{aligned}
 $
-
+<emptyline>
 Number of custard creams $= 4$.
 </code></pre>
 </div>
@@ -2869,9 +2869,9 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of biscuits  = t
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 t                                     &= 8 + 12 + \dfrac {1} {3} \times 12 \\\\
@@ -2882,7 +2882,7 @@ t                                     &= 20+ 4 \\\\
 t                                     &= 24
 \end{aligned}
 $
-
+<emptyline>
 Total number of biscuits $= 24$
 </code></pre>
 </div>
@@ -3076,13 +3076,13 @@ $150$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total shapes $=$ a 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Number of circles $= \dfrac {45} {3}$.
-
+<emptyline>
 Number of triangles $= 45 \times 2$.
-
+<emptyline>
 $
 \begin{aligned}
 a                        &= 45 + \dfrac {45} {3} + 45 \times 2 \\\\
@@ -3092,7 +3092,7 @@ a                        &= 45 + 15 + 90 \\\\
 a                        &= 150
 \end{aligned}
 $
-
+<emptyline>
 Total shapes $= 150$
 </code></pre>
 </div>
@@ -3272,9 +3272,9 @@ $65$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the mark obtained $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a               &=17 \times 4 - 3 \times 1 \\\\
@@ -3478,9 +3478,9 @@ $20 \ \text{coins}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the count of coins of each denomination $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 c + 2c + 5c + 10c                                        &= 90 \\\\
@@ -3491,7 +3491,7 @@ c                                                        &= \dfrac {5 \times \ca
 c                                                        &= 5
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total coins}     &=  5 \times \text{c} \\\\
@@ -3757,20 +3757,20 @@ $\pounds 400$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a bull (in $\text{\pounds}$) $= b$
-
+<emptyline>
 Let the cost of a cow (in $\text{\pounds}$) $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 b + 3c      &= 1300 \\\\
 4b + 8c     &= 4000         
 \end{aligned}
 $
-
+<emptyline>
 There are two variables, $b$ and $c$. Let's eliminate to reduce it to just one variable. Multiply the first equation by $4$ to eliminate $b$.
-
+<emptyline>
 $
 \begin{aligned} 
 b + 3c                      &= 1300 \\\\
@@ -3778,9 +3778,9 @@ b + 3c                      &= 1300 \\\\
 4b + 12c                    &= 5200
 \end{aligned}
 $
-
+<emptyline>
 Subtract the second equation from the first to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 4b + 12c                    &= 5200 \\\\
@@ -3792,11 +3792,11 @@ c                           &= \dfrac{1200}{4} \\\\
 c                           &= \pounds 300
 \end{aligned}
 $
-
+<emptyline>
 Cost of a cow $= \pounds 300$. 
-
+<emptyline>
 Let's substitute the value of $c$ in one of the initial equations to find the cost of a bull.
-
+<emptyline>
 $
 \begin{aligned} 
 b + 3c                      &= 1300  \\\\
@@ -3806,7 +3806,7 @@ b                           &= 1300 - 900 \\\\
 b                           &= \pounds 400
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bull $= \pounds 400$.
 </code></pre>
 </div>
@@ -3815,14 +3815,14 @@ Cost of a bull $= \pounds 400$.
 <pre class='language-latex'><code class='language-latex'>Can we do better than the previous solution? If we look at the question, we only have to find the cost of a bull. 
 In the previous solution, we first found the cost of a cow and then we used that to find the cost of a bull.
 We can eliminate $c$ instead to directly find the cost of a bull.
-
+<emptyline>
 Let the cost of a bull in pounds $= b$
-
+<emptyline>
 Let the cost of a cow in pounds $= c$
-
+<emptyline>
 Let's eliminate again to reduce it to just one variable $b$. The LCM of $8$ and $3$ is $24$. 
 Multiply the first equation by $8$ and the second equation by $3$ to make the coeifficent of $c$ the same.
-
+<emptyline>
 $
 \begin{aligned} 
 b + 3c                      &= 1300 \\\\
@@ -3833,9 +3833,9 @@ b + 3c                      &= 1300 \\\\
 12b + 24c                   &= 12000
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 8b + 24c                    &= 10400 \\\\
@@ -3847,7 +3847,7 @@ b                           &= \dfrac{1600}{4} \\\\
 b                           &= \pounds 400
 \end{aligned}
 $
-
+<emptyline>
 Cost of a bull $= \pounds 400$. 
 </code></pre>
 </div>
@@ -4034,9 +4034,9 @@ $25 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of the baby crocodile last week $= a$.
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 $
 \begin{aligned}
 a + \dfrac {a} {5}                      &= 30 \\\\
@@ -4049,7 +4049,7 @@ a                                       &= 5 \times  5 \\\\
 a                                       &= 25 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the baby crocodile last week $= 25 \ \text{cm}$
 </code></pre>
 </div>
@@ -4228,14 +4228,14 @@ $42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>All the factors of $20 =  1, 2, 4, 5, 10, 20$.
-
+<emptyline>
 $
 \begin{aligned}
 \ text {Sum}  &= 1 + 2 + 4 + 5 + 10 + 20 \\\\
               &= 42
 \end{aligned}
 $
-
+<emptyline>
 Therefore, Fascum of $20 = 42$
 </code></pre>
 </div>

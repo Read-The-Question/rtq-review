@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdivision-2"
 title: "TopicPaper - Division - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -135,9 +135,9 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 800 \div a               &= 20 \\\\
@@ -3424,7 +3424,7 @@ TODOANSWER
 &= \dfrac{4992}{16}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -3600,7 +3600,7 @@ $2$
 
 <pre class='language-latex'><code class='language-latex'>
 Long Division
-
+<emptyline>
 $
 \begin{array}{l}
 \phantom{\ 0)0 \ 0 \ 0 }{5 \ 0\ \ 7 \ 1}\\
@@ -3614,7 +3614,7 @@ $
 \phantom{{ \ \ \ 0 \ 0 \ 0 \ \ \\ \ \  \ \ }}         {\ \ \ 0\ 2  }\\\
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -3626,7 +3626,7 @@ $
 \overbrace{2}^{\text{Remainder}}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4917,7 +4917,7 @@ $3214$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per question,
-
+<emptyline>
 $
 \begin{aligned}
 &= 9642 \div  3 \\\\
@@ -5673,7 +5673,7 @@ $
       & = 36                                               
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5817,7 +5817,7 @@ $
       & = 38                                               
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

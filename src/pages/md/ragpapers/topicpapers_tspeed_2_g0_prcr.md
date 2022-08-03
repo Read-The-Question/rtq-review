@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tspeed-2-g0-prcr"
 title: "TopicPaper - Speed - 2 - G0 - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -159,11 +159,11 @@ $15 \ \text{km/hour}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
-
+<emptyline>
 Distance $= 3 \ \text{km}$
-
+<emptyline>
 Since Jackie started $30 \ \text{seconds}$ after and finished $30 \  \text{seconds}$ earlier, so,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken}   &= 13 \ \text{minutes} - 30 \text{s} - 30 \text{s} \\\\
@@ -173,9 +173,9 @@ $
                     &= \dfrac {12} {60} \ \text{hours}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the speed now.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Speed}      &= \dfrac {\text{Distance}} {\text{Time}} \\\\
@@ -191,7 +191,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We can also use ratio to find the speed from the distance and time. 
-
+<emptyline>
 $
 \begin{aligned}
 3 \ \text{km}               &: 12 \ \text{minutes} \\\\
@@ -200,7 +200,7 @@ $
 15 \ \text{km}              &: 1 \ \text{hour}
 \end{aligned}
 $
-
+<emptyline>
 $\text{Speed} = 15 \ \text{km/hour}$
 </code></pre>
 </div>
@@ -412,18 +412,18 @@ $30 \ \text{minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. The time taken by Neil is given in minutes while the speed is in  kilometres per hour.
-
+<emptyline>
 Let's convert time taken into hours.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time} &= 20 \ \text{minutes} \\\\
             &= \dfrac {20} { 60} \ \text{hour}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the distance travelled by Neil.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Distance} &= \text{Speed} \times \text{Time} \\\\
@@ -435,9 +435,9 @@ $
                 &= 15  \ \text{km}
 \end{aligned}
 $
-
+<emptyline>
 Now let's find the time take by Stephen to cover the same distance.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time}       &= \dfrac {\text{Distance}} {\text{Speed}} \\\\
@@ -448,7 +448,7 @@ $
                   &= 30 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 Time it took for Stephen $= 30 \ \text{minutes}$
 </code></pre>
 </div>

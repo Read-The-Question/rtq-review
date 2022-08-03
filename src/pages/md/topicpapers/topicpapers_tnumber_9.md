@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-9"
 title: "TopicPaper - Number - 9"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -842,7 +842,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin {aligned}
 &= 1 + 2 \times 3 + 4 \times 5 + 6 \\\\
@@ -910,7 +910,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>1D719402-C0E1-45A3-8C6F-B5F75896007C</p>
 </div>
@@ -924,7 +924,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1041,9 +1041,9 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$17\text{p}$
-
+<emptyline>
 Lets verify
-
+<emptyline>
 $
 \begin{aligned}
 7\text{p}  &= 5 \text{p} \times 2 + 8\text{p} -11\text{p}\\\\
@@ -2041,7 +2041,7 @@ $27 \times 9$
 | $27 \times 9$  | $243$  |
 | $22 \times 11$ | $242$  |
 | $23 \times 10$ | $230$  |
-
+<emptyline>
 Largest answer $= 27 \times 9$
 </code></pre>
 </div>
@@ -3260,9 +3260,9 @@ $2456 \ \text{p}$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_unit_note
-
+<emptyline>
 Let's convert all the costs into pence.
-
+<emptyline>
 $
 \begin{aligned}
 &=\pounds17.23 + \pounds6.58 + 75\text{p}\\\\
@@ -6063,7 +6063,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>3E665D6B-1AC3-4180-8E1A-CA9EDBC34E11</p>
 </div>
@@ -6077,7 +6077,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6254,7 +6254,7 @@ $119$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$119$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6560,9 +6560,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 600 \div a                          &= 50 \\\\
@@ -7789,14 +7789,14 @@ $76 \times 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be inferred by using trial and error.
-
+<emptyline>
 | Possible numbers | Result  |
 |:----------------:|:-------:|
 |  $78 \times  6$  |  $468$  |
 |  $76 \times  8$  |  $608$  |
 |  $87 \times  6$  |  $522$  |
 |  $86 \times  7$  |  $602$  |
-
+<emptyline>
 Largest answer $= 76 \times 8 = 608$
 </code></pre>
 </div>
@@ -9998,9 +9998,9 @@ $4 \times 3 + 2 = 14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$4 \times 3 + 2 = 14$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 \times 3 + 2 \\\\
@@ -10061,9 +10061,9 @@ $(3 + 5) \div (4 - 2) = 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$(3 + 5) \div (4 - 2) = 4$
-
+<emptyline>
 Let's verify 
-
+<emptyline>
 $
 \begin{aligned}
 &= (3 + 5) \div (4 - 2) \\\\

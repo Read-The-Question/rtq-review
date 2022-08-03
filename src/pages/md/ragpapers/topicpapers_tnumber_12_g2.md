@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-g2"
 title: "TopicPaper - Number - 12 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "32"
 ---
 <ul class='question default-decimal'>
@@ -859,7 +859,7 @@ $-4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 - (2 - 5)^2 \\\\
@@ -1969,7 +1969,7 @@ $40.6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
- 
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   2  &   3  \ .  &   7 \\
@@ -2094,7 +2094,7 @@ $28.7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
         &   4  \ .  &   1 \\
@@ -2223,7 +2223,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prcc question'>
 <div class='uuid'>
 <p>97B77C39-A2A2-4F76-BDE2-9A4DD7C158A6</p>
 </div>
@@ -2237,7 +2237,7 @@ $
 <p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2350,7 +2350,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 & = 10 - 2 \times 3\\\\
@@ -2410,7 +2410,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 & = 4 \times(8 - 2)\\\\
@@ -2596,7 +2596,7 @@ $298$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 56 - 69 + 311 \\\\
@@ -3769,7 +3769,7 @@ $73$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 36 - 89 + 126 \\\\
@@ -4177,7 +4177,7 @@ $51$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 25 - 86 + 112 \\\\
@@ -4244,7 +4244,7 @@ $20000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first multiply the numbers ignoring the zeroes.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &       1       &   2     &   5 \\
@@ -4256,9 +4256,9 @@ $
 2   &       0       &   0     &   0
 \end{array}
 $
-
+<emptyline>
 Let's account for the one zeroes now.
-
+<emptyline>
 $= 20000$
 </code></pre>
 </div>
@@ -5224,16 +5224,16 @@ $0.72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Lets convert the fraction into decimal.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{5}{7} \\\\
 &= 0.71
 \end{aligned}
 $
-
+<emptyline>
 Lets's choose any number between $0.71$ and $0.8$.
-
+<emptyline>
 $= 0.72$
 </code></pre>
 </div>
@@ -5670,7 +5670,7 @@ $2220.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_decimal_point_alignment_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &       &     & 2 & 0 & 7  \ . & 0 \\
@@ -6043,9 +6043,9 @@ $((4 \times 4) + 4) \div 4 = 5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$((4 \times 4) + 4) \div 4 = 5$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= ((4 \times 4) + 4) \div 4 \\\\
@@ -6232,11 +6232,11 @@ $3, 7, 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using trial and error,
-
+<emptyline>
 Prime numbers $= 3, 7, 13$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 + 7 + 13 \\\\
@@ -6461,7 +6461,7 @@ $-60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 + 8 \times -7 - 9 \\\\
@@ -6525,7 +6525,7 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (48 \div 8) - (7 - 12) \\\\
@@ -6755,7 +6755,7 @@ $-15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= -3 \times 2 - 9 \\\\
@@ -6872,7 +6872,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 + -4 \times -3 \\\\
@@ -6935,7 +6935,7 @@ $-2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (5 - 11) \div 3 \\\\
@@ -7801,7 +7801,7 @@ $113$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 + 5 \times 21 \\\\
@@ -7861,7 +7861,7 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 - 5 + 21 \\\\
@@ -7924,7 +7924,7 @@ $-7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 21 \div (5 - 8)             \\\\
@@ -7987,7 +7987,7 @@ $-13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (-8) + (-5)             \\\\
@@ -8047,7 +8047,7 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (-8)^2             \\\\
@@ -8780,9 +8780,9 @@ $8\times4 +2 = 34$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$8\rtq_katex_color_answer{\times} 4 \rtq_katex_color_answer{+} 2 = 34$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \times 4 + 2 \\\\
@@ -8846,9 +8846,9 @@ $24\div 2 -12 = 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$24\rtq_katex_color_answer{\div} 4 \rtq_katex_color_answer{-} 8 = 4$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 24 \div 2 - 8 \\\\
@@ -8914,9 +8914,9 @@ $32\times 2 +40\div 4 = 74$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$32 \rtq_katex_color_answer{\times} 2 \rtq_katex_color_answer{+} 40 \rtq_katex_color_answer{\div} 4= 4$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 32 \times 2 + 40\div 4 \\\\
@@ -9245,9 +9245,9 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the starting number $ = a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{a+12}{2} &= 15\\\\
@@ -9316,9 +9316,9 @@ $164$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the starting number $ = a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{1}{2} \times \bigg (\dfrac{a+12}{2} + 12\bigg )  &= 50\\\\
@@ -9386,7 +9386,7 @@ $12$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{N+12}{2} &= N\\\\

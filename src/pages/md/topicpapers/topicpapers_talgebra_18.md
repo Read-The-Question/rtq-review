@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-18"
 title: "TopicPaper - Algebra - 18"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "25"
 ---
 <div class='paper'>
@@ -698,7 +698,7 @@ $\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= a - \dfrac {b} {c} \\\\
@@ -3418,9 +3418,9 @@ $\pounds 51$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total money = $\pounds 68$
-
+<emptyline>
 Money left with Ben = Total money - $\dfrac {1} {4} \ \text{of} \ \pounds 68$
-
+<emptyline>
 $
 \begin{aligned}
 &= 68 - (\dfrac {1} {4} \times 68) \\\\
@@ -3431,7 +3431,7 @@ $
 &= \pounds 51
 \end{aligned}
 $
-
+<emptyline>
 Money left with Ben $= \pounds 51$
 </code></pre>
 </div>
@@ -3626,15 +3626,15 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of pupils be $t$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Pupil present = $18$
-
+<emptyline>
 Pupil absent = $\dfrac {2} {5} \ \text{of} \ t$
-
+<emptyline>
 Total pupil = pupil present + pupil absent
-
+<emptyline>
 $
 \begin{aligned}
 t                                                               &= 18 + \dfrac {2} {5} \times t \\\\
@@ -3651,7 +3651,7 @@ t                                                               &= 6 \times 5 \\
 t                                                               &= 30
 \end{aligned}
 $
-
+<emptyline>
 Total number of pupils in the class = $30$
 </code></pre>
 </div>
@@ -3830,17 +3830,17 @@ $15 \text{rounds}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved using ratios.
-
+<emptyline>
 $
 \begin{aligned}
 1 \text{round} : \dfrac {1} {4} \text{mile} \\\\
 1 \text{round} : 0.25 \text{miles} \\\\
 1 \times 15 \text{rounds} : 0.25 \times 15 \text{miles} \\\\
 15 \text{rounds} : 3.75 \text{miles}
-
+<emptyline>
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3994,9 +3994,9 @@ $30, 135$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question, Simon by mistake multiplies by $3$ and adds $15$.
-
+<emptyline>
 $
 \begin{aligned}
 a \times 3 + 15             &= 105 \\\\
@@ -4009,9 +4009,9 @@ a                           &= \dfrac {\cancel{3} \times 30} {\cancel{3}} \\\\
 a                           &= 30
 \end{aligned}
 $
-
+<emptyline>
 The number he started with $= 30$
-
+<emptyline>
 $
 \begin{aligned}
 \text {The answer he should have obtained}  &= (30 + 15) \times 3 \\\\
@@ -4392,9 +4392,9 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Curdle $2$ and $4$
-
+<emptyline>
 $
 \begin{aligned}
 &= (2 + 4) \times (2 + 4) \\\\
@@ -4458,9 +4458,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number to be curdled = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 5) \times (a + 5)      &= 81 \\\\
@@ -4958,9 +4958,9 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number I thought $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 4) \times 3              &= 63 \\\\
@@ -5167,9 +5167,9 @@ $\pounds 27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the money Edward has = $\pounds a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {3} \times a             &= \pounds 15 \\\\
@@ -5177,7 +5177,7 @@ a                                   &= 15 \times 3 \\\\
 a                                   &= \pounds 45
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money that Olivia receives}   &= \dfrac {3} {5} \times a \\\\
@@ -5406,7 +5406,7 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved using ratios.
-
+<emptyline>
 $
 \begin{aligned}
 17 \text{people} : 1 \text{minibus} \\\\
@@ -5414,7 +5414,7 @@ $
 289 \text{people} : 17 \text{minibuses}
 \end{aligned}
 $
-
+<emptyline>
 Buses required to carry $300$ people = $17 + 1 = 18$
 </code></pre>
 </div>
@@ -5526,15 +5526,15 @@ $80m + 15t$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Cost per $1$ minibus = $\pounds 80$
-
+<emptyline>
 Cost per 'm' minibuses = $\pounds 80 \times m = 80m$
-
+<emptyline>
 Cost per $1$ ticket = $\pounds 15$
-
+<emptyline>
 Cost per 't' tickets = $\pounds 15 \times t = 15t$
-
+<emptyline>
 Total cost C = $80m + 15t$
 </code></pre>
 </div>
@@ -6266,7 +6266,7 @@ $\pounds 1.6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 6 \times a                          &= \pounds 9.60 \\\\
@@ -6279,7 +6279,7 @@ a                                   &= \dfrac {9.6} {6} \\\\
 a                                   &= \pounds 1.6
 \end{aligned}
 $
-
+<emptyline>
 The missing number $= \pounds 1.6$
 </code></pre>
 </div>

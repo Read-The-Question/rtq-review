@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-18-oldpr-prcr"
 title: "TopicPaper - Algebra - 18 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -404,7 +404,7 @@ $\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= a - \dfrac {b} {c} \\\\
@@ -1412,9 +1412,9 @@ $30, 135$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question, Simon by mistake multiplies by $3$ and adds $15$.
-
+<emptyline>
 $
 \begin{aligned}
 a \times 3 + 15             &= 105 \\\\
@@ -1427,9 +1427,9 @@ a                           &= \dfrac {\cancel{3} \times 30} {\cancel{3}} \\\\
 a                           &= 30
 \end{aligned}
 $
-
+<emptyline>
 The number he started with $= 30$
-
+<emptyline>
 $
 \begin{aligned}
 \text {The answer he should have obtained}  &= (30 + 15) \times 3 \\\\
@@ -1659,9 +1659,9 @@ $36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Curdle $2$ and $4$
-
+<emptyline>
 $
 \begin{aligned}
 &= (2 + 4) \times (2 + 4) \\\\
@@ -1725,9 +1725,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number to be curdled = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 5) \times (a + 5)      &= 81 \\\\
@@ -1930,9 +1930,9 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number I thought $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 4) \times 3              &= 63 \\\\

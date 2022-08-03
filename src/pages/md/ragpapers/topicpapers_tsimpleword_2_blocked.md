@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-2-blocked"
 title: "TopicPaper - Simpleword - 2 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -258,7 +258,7 @@ $378$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the question, the number of biscuits in a box = 54,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Biscuits in seven boxes} &= 54 \times 7 \\\\
@@ -403,7 +403,7 @@ $760 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.  The weight measurements are given in both kilograms and grams.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Rice used for four people}    &= 60 \times 4 \\\\
@@ -547,7 +547,7 @@ $2800$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, the number of bricks in a box = 400,
-
+<emptyline>
 $
 \begin{aligned}
 \text{bricks in 7 boxes} &= 400 \times 7 \\\\
@@ -691,7 +691,7 @@ $504$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, chocolate bar in a box $= 36$. So,
-
+<emptyline>
 $
 \begin{aligned}
 \text{chocolate bar in 14 boxes} &= 36 \times 14 \\\\
@@ -831,7 +831,7 @@ $528$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, the number of seats in a carriage = 88,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total seats in the train}  &= 88 \times 6 \\\\
@@ -975,9 +975,9 @@ $221$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of pens sold in a day $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 31     &= 6851 \\\\

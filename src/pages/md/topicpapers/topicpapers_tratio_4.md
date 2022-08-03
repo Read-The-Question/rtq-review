@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-4"
 title: "TopicPaper - Ratio - 4"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "15"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "15"
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -181,10 +181,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -308,7 +308,7 @@ $121$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find the interval at which green and red light flashes.
-
+<emptyline>
 $
 \begin{aligned}
 4 \text{ red flashes }  &: 1 \ \text{minute} \\\\
@@ -321,15 +321,15 @@ $
 1 \text{ green flash }      &: 10 \ \text{seconds}
 \end{aligned}
 $
-
+<emptyline>
 
 The interval at the which both the light will flash together will be the LCM of their respective intervals.
 LCM of $10 \ \text{and} \ 15 = 30$.
-
+<emptyline>
 Both the lights will flash together every $30$ seconds i.e. $2$ times every minute.
-
+<emptyline>
 Now let's find the number of times they flash together in $1$ hour (including the start and then end time)
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times 60 + 1 \\\\
@@ -365,10 +365,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -478,7 +478,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take Loaves as $l$, fish as $f$ and apples as $a$
-
+<emptyline>
 $
 \begin{aligned}
 2l &= 1f \\\\
@@ -488,7 +488,7 @@ $
       &= 6a
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -549,9 +549,9 @@ $
    &= 12a
 \end{aligned}
 $
-
+<emptyline>
 Oliver has $12$ apples.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -624,18 +624,18 @@ $
 12a &= 4l
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 Irfan bought $3f + 12a$. Now let's substitute,
-
+<emptyline>
 $
 \begin{aligned}
 &= 6l + 4l \\\\
 &= 10l
 \end{aligned}
 $
-
+<emptyline>
 Irfan had $10$ loaves of bread.
 </code></pre>
 </div>
@@ -749,7 +749,7 @@ $8$ fish
 
 <pre class='language-latex'><code class='language-latex'>
 Let's exchange $54$ apples into fish.
-
+<emptyline>
 $
 \begin{aligned}
  6a &= 1f \text {so,} \\\\
@@ -757,20 +757,20 @@ $
     &= 9f
 \end{aligned}
 $
-
+<emptyline>
 for $54$ apples Aidan gets $9$ fish.
-
+<emptyline>
 Now for $1$ loaf he needs $4$ fish. 
-
+<emptyline>
 $
 \begin{aligned}
 2l &= 1f \\\\
 9f &= 8f + 2l
 \end{aligned}
 $
-
+<emptyline>
 Aidan exchanges $54$ apples and gets $2$ loafes and $8$ fish as he wanted.
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -778,18 +778,18 @@ Aidan exchanges $54$ apples and gets $2$ loafes and $8$ fish as he wanted.
 
 <pre class='language-latex'><code class='language-latex'>
 Let's take number of fish as $4x$
-
+<emptyline>
 and number of loaf as $x$ 
-
+<emptyline>
 As per the question 
-
+<emptyline>
 $
 \begin{aligned}
 1f &= 6a \\\\
 1l &= 3a
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 54 &= (4x \times 6) + (x \times 3) \\\\
@@ -799,9 +799,9 @@ $
  x &= 2
 \end{aligned}
 $
-
+<emptyline>
 Let's substitute
-
+<emptyline>
 $
 \begin{aligned}
  \text {loaf} &= x = 2 \\\\
@@ -810,7 +810,7 @@ $
               &= 8
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -852,10 +852,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -968,9 +968,9 @@ $27 \ \text{zebras}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5$ rhinos will balance $6$ zebras and $3$ rhinos. Or $5 - 3 = 2$ rhinos will balance $6$ zebras.
-
+<emptyline>
 Putting this into ratio form we get,
-
+<emptyline>
 $
 \begin{aligned}
 2 \ \text{rhinos}               &: 6 \ \text{zebras} \\\\
@@ -982,7 +982,7 @@ $
 9 \ \text{rhinos}               &: 27 \ \text{zebras}
 \end{aligned}
 $
-
+<emptyline>
 Zebras needed $= 27$
 </code></pre>
 </div>
@@ -1052,10 +1052,10 @@ Zebras needed $= 27$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1203,10 +1203,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-b:1:1</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1371,10 +1371,10 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1484,11 +1484,11 @@ $\pounds 5.04$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved using ratio.
-
+<emptyline>
 $4.5 \ \text{litres} = 1 \ \text{gallon}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text{litre}            &: \pounds 1.12 \\\\
@@ -1497,7 +1497,7 @@ $
 1 \ \text{gallon}           &: \pounds 5.04
 \end{aligned}
 $
-
+<emptyline>
 Cost of a gallon of petrol $= \pounds 5.04$
 </code></pre>
 </div>
@@ -1527,10 +1527,10 @@ Cost of a gallon of petrol $= \pounds 5.04$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1678,9 +1678,9 @@ $84 \ \text{beads}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ratio of red beads and yellow beads = 2 : 3.
-
+<emptyline>
 She has 56 red beads altogether. i.e.,
-
+<emptyline>
 $
 \begin{aligned}
 2 \ \text{red beads} : 3 \ \text{yellow beads} \\\\
@@ -1688,7 +1688,7 @@ $
 56 \ \text{red beads} : 84 \ \text{yellow beads}
 \end{aligned}
 $
-
+<emptyline>
 Number of yellow beads required = $84 \ \text{beads}$
 </code></pre>
 </div>
@@ -1742,14 +1742,14 @@ $140 \ \text{beads}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total number of beads = Number of red beads + Number of yellow beads
-
+<emptyline>
 $
 \begin{aligned}
 &= 56 + 84 \\\\
 &= 140 \ \text{beads}
 \end{aligned}
 $
-
+<emptyline>
 Total number of beads = $140 \ \text{beads}$
 </code></pre>
 </div>
@@ -1782,10 +1782,10 @@ Total number of beads = $140 \ \text{beads}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1927,7 +1927,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FD0DC878-E1F6-4200-96B6-EF2237097FF7</p>
 </div>
@@ -1935,10 +1935,10 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2085,15 +2085,15 @@ $ = 2 \text{hours} 10 \text{minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved using ratios.
-
+<emptyline>
 $
 1 \text{kg}         : 25 \text{minutes} \\\\
 4 \text{kg}         : 25 \times 4 \text{minutes} \\\\
 4 \text{kg}         : 100 \text{minutes} \\\\
 $
-
+<emptyline>
 It takes an additional of $30 \text{minutes}$ = $100 \text{minutes} + 30 \text{minutes}$
-
+<emptyline>
 $ = 130 \text{minutes}$
 $ = 2 \text{hours} 10 \text{minutes}$
 </code></pre>
@@ -2143,9 +2143,9 @@ $= 11.05 \ \text{am}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Time taken to cook $4 \ \text{kg}$ turkey = $ = 2 \text{hours} 10 \text{minutes}$
-
+<emptyline>
 Time that cooking should be started = $1.15 \ \text{pm} - 2 \text{hours} 10 \text{minutes}$
-
+<emptyline>
 $= 11.05 \ \text{am}$
 </code></pre>
 </div>
@@ -2207,10 +2207,10 @@ $6 \ \text{kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of the turkey = $a \ \text{kg}$
-
+<emptyline>
 $3 \ \text{hours} = 3 \times 60 = 180 \ \text{minutes}$
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a \times 25) + 30             &= 180 \\\\
@@ -2222,7 +2222,7 @@ a                              &= \dfrac{\cancel {25} \times 6} {\cancel {25}} \
 a                              &= 6
 \end{aligned}
 $
-
+<emptyline>
 Let the weight of the turkey = $6 \ \text{kg}$
 </code></pre>
 </div>
@@ -2255,10 +2255,10 @@ Let the weight of the turkey = $6 \ \text{kg}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2377,15 +2377,15 @@ $\pounds 1600$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, 
-
+<emptyline>
 Cost to carpet a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $\pounds 400$
-
+<emptyline>
 Area of a room measuring $2\, \text {metres}$ by $3\, \text {metres}$ = $2 \times 3 = 6 \text{m}^2$
-
+<emptyline>
 Cost to carpet a room measuring $1\, \text {metres}$ by $1\, \text {metres}$ = $\dfrac{400} {6}$
-
+<emptyline>
 Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\dfrac{400} {6} \times 4 \times 6$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{400} {\cancel {6}} \times 4 \times \cancel {6} \\\\\
@@ -2393,7 +2393,7 @@ $
 &= \pounds 1600
 \end{aligned}
 $
-
+<emptyline>
 Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $\pounds 1600$
 </code></pre>
 </div>
@@ -2463,10 +2463,10 @@ Cost to carpet a room measuring $4\, \text {metres}$ by $6\, \text {metres}$ = $
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2614,10 +2614,10 @@ TODOANSWER
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2765,10 +2765,10 @@ TODOANSWER
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3053,10 +3053,10 @@ TODOANSWER
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

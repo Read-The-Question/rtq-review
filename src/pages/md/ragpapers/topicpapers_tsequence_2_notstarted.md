@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-notstarted"
 title: "TopicPaper - Sequence - 2 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -1768,7 +1768,7 @@ TODOANSWER
 2,  &&    3,  &&  5,  &&   10,  &&   20   &&   40   &&   80   &&   160   &&   320   &&   640 \ldots
 \end{matrix}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{First missing number}     &= 21 + 4 \\\\

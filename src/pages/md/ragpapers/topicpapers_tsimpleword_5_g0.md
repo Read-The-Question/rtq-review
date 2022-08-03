@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-g0"
 title: "TopicPaper - Simpleword - 5 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <ul class='question default-decimal'>
@@ -310,7 +310,7 @@ $7462$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The largest answer will only be possible when the two numbers are $91$ and $82$. So,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Largest possible product}  &= 91 \times 82 \\\\
@@ -598,9 +598,9 @@ $280$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total stickers $= 400$
-
+<emptyline>
 As per the question, Mark sticks 70 \% of his stickers in his book. 
-
+<emptyline>
 $
 \begin{aligned}
 &= 70 \% \ \text{of} \ 400 \\\\
@@ -611,7 +611,7 @@ $
 &= 280
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -669,9 +669,9 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Total stickers $= 400$
-
+<emptyline>
 Mark gives away $5 \%$ of his stickers.
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 \% \ \text{of} \ 400 \\\\
@@ -682,7 +682,7 @@ $
 &= 20
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -865,7 +865,7 @@ $\dfrac {1} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Fraction wearing glasses}          &= 3 \times \dfrac {1}{9} \\\\
@@ -875,7 +875,7 @@ $
                                           &= \dfrac {1} {3}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1176,11 +1176,11 @@ $7$
 
 <pre class='language-latex'><code class='language-latex'>
 Factors of $28 = 1, \ 2, \ 4, \ \bold{7}, \ 14, \ 28 $
-
+<emptyline>
 Factors of $21 =  1, \ 3, \ \bold{7}, \ 21$
-
+<emptyline>
 Factor of 28 and 21 bigger than 1 $= 7$ 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1412,19 +1412,19 @@ Smallest $= 2002$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know,
-
+<emptyline>
 The biggest single digit prime number $= 7$
-
+<emptyline>
 The smallest single digit prime number $= 2$
-
+<emptyline>
 The biggest single digit $= 9$
-
+<emptyline>
 The smallest single digit $= 0$
-
+<emptyline>
 Largest 4 digit number $= 7997$
-
+<emptyline>
 Smallest 4 digit number $= 2002$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1618,7 +1618,7 @@ $64$
 & = 64 
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -2029,7 +2029,7 @@ $5$
                                    &\approx 5
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2988,7 +2988,7 @@ $45, 53$
 
 <pre class='language-latex'><code class='language-latex'>
 $2385$ ends with $5$. So, it must either be divisible by $45$ or $55$.
-
+<emptyline>
 $45 \times 53 = 2385$
 </code></pre>
 </div>

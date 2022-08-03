@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-notstarted"
 title: "TopicPaper - Areaperimeter - 7 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -1961,15 +1961,15 @@ $250 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 Let the side of the square $= s$
-
+<emptyline>
 Number of sides in the shape $= 20$
-
+<emptyline>
 Number of squares $= 10$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 20 \times s         &= 100 \\\\

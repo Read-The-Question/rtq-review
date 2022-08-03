@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-g2"
 title: "TopicPaper - Fraction - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "34"
 ---
 <ul class='question default-decimal'>
@@ -2313,7 +2313,7 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \dfrac{1}{3} \div \dfrac {1} {6} \\\\
@@ -2914,9 +2914,9 @@ $\dfrac{3}{4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the fractions.
-
+<emptyline>
 LCM for $4, 3$ and $10 = 60$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4} , \quad \dfrac{2}{3} , \quad \dfrac{7}{10} \\\\
@@ -2924,7 +2924,7 @@ $
 &= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60}
 \end{aligned}
 $
-
+<emptyline>
 Largest fraction $= \dfrac{3}{4}$
 </code></pre>
 </div>
@@ -3497,7 +3497,7 @@ $\dfrac {5} {8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 F     &= \dfrac {1} {8} \\\\
@@ -3654,7 +3654,7 @@ $\dfrac {5} {8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 F+E+D       &= \dfrac {1}{4} \\\\

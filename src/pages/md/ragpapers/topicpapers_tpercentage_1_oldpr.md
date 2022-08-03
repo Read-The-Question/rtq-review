@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-oldpr"
 title: "TopicPaper - Percentage - 1 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>4856BEAB-6A07-4C28-8CA2-6773788E9F82</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "5"
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -99,6 +99,7 @@ Calculate $60\%$ of $765$
 
 $
 \begin{aligned}
+&= 60 \% \ \text {of} \ 765 \\\\
 &= \dfrac{60}{100} \times 765 \\\\
 &= \dfrac{60 \times 765}{100} \\\\
 &= \dfrac{45900}{100} \\\\
@@ -121,6 +122,7 @@ $459$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
+&= 60 \% \ \text {of} \ 765 \\\\
 &= \dfrac{60}{100} \times 765 \\\\
 &= \dfrac{60 \times 765}{100} \\\\
 &= \dfrac{45900}{100} \\\\
@@ -205,7 +207,7 @@ Change the [[sections.questions.answers]] (now onwards referred to as blue answe
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1F54DF7F-1E4E-4CDC-A7A2-5D50C56188C5</p>
 </div>
@@ -219,7 +221,7 @@ Change the [[sections.questions.answers]] (now onwards referred to as blue answe
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -305,16 +307,16 @@ As per the question,
 $
 \begin{aligned}
 \text {Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
-\text {Hebe score}            &= 60\% \ \text{of} \ 60 - 30 \\\\
+                              &= 60\% \ \text{of} \ 60 - 30 \\\\
                               &= \dfrac {60} {100} \times 60 - 30 \\\\
                               &= \dfrac {60 \times 60} {100} - 30 \\\\
                               &= \dfrac {6 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} -30 \\\\
-                              &=36 - 30 \\\\
+                              &= 36 - 30 \\\\
                               &= 6
 \end{aligned}
 $
 
-Marks that Hebe scored more than Emily $=6$
+Marks that Hebe scored more than Emily $= 6$
 
 </div>
 </div>
@@ -329,20 +331,20 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference in marks}   &= \text{Hebes mark's} - \text{Emily's marks} \\\\
-\text {Hebe score}            &= 60\% \ \text{of} \ 60 - 30 \\\\
+                              &= 60\% \ \text{of} \ 60 - 30 \\\\
                               &= \dfrac {60} {100} \times 60 - 30 \\\\
                               &= \dfrac {60 \times 60} {100} - 30 \\\\
                               &= \dfrac {6 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} -30 \\\\
-                              &=36 - 30 \\\\
+                              &= 36 - 30 \\\\
                               &= 6
 \end{aligned}
 $
-
-Marks that Hebe scored more than Emily $=6$
+<emptyline>
+Marks that Hebe scored more than Emily $= 6$
 </code></pre>
 </div>
 </div>
@@ -420,7 +422,7 @@ Marks that Hebe scored more than Emily $=6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>007B2641-042F-43E0-8E20-0BE481209612</p>
 </div>
@@ -434,7 +436,7 @@ Marks that Hebe scored more than Emily $=6$
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -513,13 +515,13 @@ What number is $40\%$ of $75$?
 
 $
 \begin{aligned}
-&= 40\%$ \ \text{of} \ 75 \\\\
+&= 40\% \ \text{of} \ 75 \\\\
 &= \dfrac {40} {100} \times 75 \\\\
 &= \dfrac {40 \times 75} {100} \\\\
 &= \dfrac {4 \times 10 \times 3 \times 25} {4 \times 25} \\\\
 &= \dfrac {\cancel{4} \times 10 \times 3 \times \cancel{25}} {\cancel{4} \times \cancel{25}} \\\\
 &= 10 \times 3 \\\\
-&= 30 
+&= 30
 \end{aligned}
 $
 
@@ -537,13 +539,13 @@ $30$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= 40\%$ \ \text{of} \ 75 \\\\
+&= 40\% \ \text{of} \ 75 \\\\
 &= \dfrac {40} {100} \times 75 \\\\
 &= \dfrac {40 \times 75} {100} \\\\
 &= \dfrac {4 \times 10 \times 3 \times 25} {4 \times 25} \\\\
 &= \dfrac {\cancel{4} \times 10 \times 3 \times \cancel{25}} {\cancel{4} \times \cancel{25}} \\\\
 &= 10 \times 3 \\\\
-&= 30 
+&= 30
 \end{aligned}
 $
 </code></pre>
@@ -611,7 +613,7 @@ stpe  1 = 40% od 75
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>E03AFD46-F8E5-4DA8-9B71-1BF8355CF385</p>
 </div>
@@ -625,7 +627,7 @@ stpe  1 = 40% od 75
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -708,18 +710,16 @@ Find $30 \%$ of $120$
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-&=   30\% \ \text{of} \ 120 \\\\
-&=   \dfrac{30}{100} \times 120 \\\\
-&=   \dfrac{30 \times 120}{100} \\\\
-&=   \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
-&=   3  \times 12  \\\\
-&=   36
+&= 30 \% \ \text{of} \ 120 \\\\
+&= \dfrac{30}{100} \times 120 \\\\
+&= \dfrac{30 \times 120}{100} \\\\
+&= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+&= 3 \times 12  \\\\
+&= 36
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -736,18 +736,16 @@ $36$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&=   30\% \ \text{of} \ 120 \\\\
-&=   \dfrac{30}{100} \times 120 \\\\
-&=   \dfrac{30 \times 120}{100} \\\\
-&=   \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
-&=   3  \times 12  \\\\
-&=   36
+&= 30 \% \ \text{of} \ 120 \\\\
+&= \dfrac{30}{100} \times 120 \\\\
+&= \dfrac{30 \times 120}{100} \\\\
+&= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+&= 3 \times 12  \\\\
+&= 36
 \end{aligned}
 $
-
 </code></pre>
 </div>
 </div>
@@ -813,7 +811,7 @@ from step 4: change  (dont multiply if we can cancel anything)                  
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>535CC06F-08C9-458B-B841-4C448F5D0876</p>
 </div>
@@ -827,7 +825,7 @@ from step 4: change  (dont multiply if we can cancel anything)                  
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -912,13 +910,12 @@ Write three-fifths as a percentage.
 
 $
 \begin{aligned}
-&= \text{three-fifths as a percentage} \\\\
-&= \dfrac{3}{5} \times 100 \% \\\\
+&= \dfrac{3}{5} \times 100 \\\\
 &= \dfrac{3 \times 100}{5} \\\\
 &= \dfrac{3 \times 20 \times 5}{5} \\\\
-&= \dfrac{3 \times 20 \times \cancel{5}}{\cancel{5}} \\\\
+&= \dfrac{3 \times 20 \times \cancel{5}} {\cancel{5}} \\\\
 &= 3 \times 20 \\\\
-&= 60\%
+&= 60 \%
 \end{aligned}
 $
 
@@ -939,13 +936,12 @@ $60 \%$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-&= \text{three-fifths as a percentage} \\\\
-&= \dfrac{3}{5} \times 100 \% \\\\
+&= \dfrac{3}{5} \times 100 \\\\
 &= \dfrac{3 \times 100}{5} \\\\
 &= \dfrac{3 \times 20 \times 5}{5} \\\\
-&= \dfrac{3 \times 20 \times \cancel{5}}{\cancel{5}} \\\\
+&= \dfrac{3 \times 20 \times \cancel{5}} {\cancel{5}} \\\\
 &= 3 \times 20 \\\\
-&= 60\%
+&= 60 \%
 \end{aligned}
 $
 </code></pre>

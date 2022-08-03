@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-pr-prns"
 title: "TopicPaper - Time - 5 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -290,21 +290,21 @@ $ \text{Train} \ 3 \ \text{takes the longest}$
                                 &= 1 \ \text{hour} \ 19 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by train} \ 2  &= 12{:}40 - 11{:}30 \\\\
                                 &= 1 \ \text{hour} \ 10 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by train} \ 3  &= 13{:}45 - 12{:}15 \\\\
                                 &= 1 \ \text{hour} \ 30 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $ \text{Train} \ 3 \ \text{takes the longest}$
 </code></pre>
 </div>
@@ -1383,52 +1383,52 @@ $4\ \text{hrs} \ 2 \ \text{min}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$21{:}10$
-
+<emptyline>
 Following digits are needed $0, 1, 1$ and $2$
-
+<emptyline>
 With $2100$ hours no other combination is impossible
-
+<emptyline>
 With $2200$ hours no combination is possible
-
+<emptyline>
 With $2300$ hours no combination is possible
-
+<emptyline>
 With $0000$ hours no combination is possible
-
+<emptyline>
 With $0100$ hours it's possible as it already has $0$ and $1$
-
+<emptyline>
 Next time all the four digits $(0, 1, 1, 1)$ shows together is when it is 
-
+<emptyline>
 $01{:}12$ hours
-
+<emptyline>
 Let's find how long it will take from $21{:}10$ to $01{:}12$
-
+<emptyline>
 $01{:}12 - 21{:}10 =4\ \text{hrs} \ 2 \ \text{min}$
-
+<emptyline>
 
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$21{:}10$
-
+<emptyline>
 Following digits are needed $0, 1, 1$ and $2$
-
+<emptyline>
 With $2100$ hours no other combination is impossible
-
+<emptyline>
 With $2200$ hours no combination is possible
-
+<emptyline>
 With $2300$ hours no combination is possible
-
+<emptyline>
 With $0000$ hours no combination is possible
-
+<emptyline>
 With $0100$ hours it's possible as it already has $0$ and $1$
-
+<emptyline>
 Next time all the four digits $(0, 1, 1, 1)$ shows together is when it is 
-
+<emptyline>
 $01{:}12$ hours
-
+<emptyline>
 Let's find how long it will take from $21{:}10$ to $01{:}12$
-
+<emptyline>
 $01{:}12 - 21{:}10 =4\ \text{hrs} \ 2 \ \text{min}$
 </code></pre>
 </div>

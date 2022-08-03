@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-pr"
 title: "TopicPaper - Areaperimeter - 8 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -200,11 +200,11 @@ $31 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Remaining Area}      &= \text {Area of sheet} - \text {Area of square} \\\\
@@ -278,13 +278,13 @@ $8 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the side of the square $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Remaining Area}      &= \text {Area of sheet} - \text {Area of square} \\\\
@@ -296,7 +296,7 @@ s                           &= \sqrt {64} \\\\
 s                           &= 8 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the side of square that Bella cuts out $= 8 \ \text {cm}$
 </code></pre>
 </div>
@@ -366,13 +366,13 @@ $9 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the length of the sheet $= l$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of sheet} - \text {Area of square}    &= \text {Remaining Area} \\\\
@@ -386,7 +386,7 @@ l                                                 &= \dfrac {\cancel {8} \times 
 l                                                 &= 9 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the side of sheet $= 9 \ \text {cm}$
 </code></pre>
 </div>
@@ -600,15 +600,15 @@ $5 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the rectangle (in $\text{cm}$) $= w$
-
+<emptyline>
 Let the length of the rectangle (in $\text{cm}$) $= l$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 l \times w          &= 70 \\\\
@@ -617,25 +617,25 @@ l + w               &= \dfrac {38}{2} \\\\
 l + w               &= 19
 \end{aligned}
 $
-
+<emptyline>
 We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
-
+<emptyline>
 - Both the numbers should be smaller than $19$
 - The product of the $2$ numbers is $70$ 
 - The sum of the $2$ numbers is $19$.
-
+<emptyline>
 Factors of $70 = 1, 2, 5, 7, 10, 14, 35, 70$
-
+<emptyline>
 | Factors   |  Sum  | Numbers $< 19$    |
 |:-------:  |:----: |:---------------:  |
 | $2, 35$   | $37$  |        No         |
 | $5, 14$   | $19$  |       Yes         |
 | $7, 10$   | $17$  |       Yes         |
-
+<emptyline>
 A quick check shows that $5$ and $14$ meets all the criteria above.
-
+<emptyline>
 *Note: The two equations form a quadratic equation. rtq_abbr_md_quadratic_note*
-
+<emptyline>
 Width of the rectangle $= 5 \ \text{cm}$ 
 </code></pre>
 </div>
@@ -884,9 +884,9 @@ $15 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the shape}       &= \text {Number of squares} \times \text {Area of a square} \\\\
@@ -1223,7 +1223,7 @@ $3053.88 \ \text {units}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 S               &= 2\,\pi^2\,\times 63 \times 2.4 + 4\pi\,{2.4}^2 \\\\
@@ -1287,7 +1287,7 @@ $39.01$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2\,\pi^2\,\times R \times 3.1 + 4\pi\,{3.1}^2                           &= 2500 \\\\
@@ -1356,7 +1356,7 @@ $9.7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2\,\pi^2\,\times 10 \times 3.1 + 4\pi\,r^2                              &= 1800 \\\\
@@ -1697,9 +1697,9 @@ $3.46 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the radius of the sphere $= r$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4\pi\,r^2       &= 150 \\\\
@@ -1713,7 +1713,7 @@ r               &= \sqrt {12} \\\\
 r               &= 3.46 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Radius of the sphere    $= 3.46 \ \text {cm}$
 </code></pre>
 </div>
@@ -1790,14 +1790,14 @@ $3.1 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
-
+<emptyline>
 rtq_abbr_katex_formula_volume_cube
-
+<emptyline>
 Let the edge of the cube $= a$
-
+<emptyline>
 Let the radius of the sphere $= r$
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 6 \times a \times a     &= 150 \\\\
@@ -1818,7 +1818,7 @@ r                       &= \sqrt[3] {30} \\\\
 r                       &= 3.1 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Radius of the sphere $= 3.1 \ \text {cm}$
 </code></pre>
 </div>
@@ -1879,7 +1879,7 @@ $0.4 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {4\pi\,r^2} {\frac{4} {3}\pi\,r^3}                           &= \dfrac {150} {125} \\\\
@@ -1893,7 +1893,7 @@ r                                                                   &= \dfrac {2
 r                                                                   &= 0.4 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Radius of the sphere $= 0.4 \ \text {cm}$
 </code></pre>
 </div>
@@ -2145,9 +2145,9 @@ $66 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of pond}    &= 11 \times 6 \\\\
@@ -2223,11 +2223,11 @@ $102 \ \text{m}^2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with lawn divided into two parts and also show measurements for the sides which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question, the lawn can be divided into two rectangles.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of lawn}     &= \text{Rectangle 1} + \text{Rectangle 2} \\\\
@@ -2291,9 +2291,9 @@ $60 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of path}     &= \text{Area of Garden} - \text{Area of pond} - \text {Area of lawn} \\\\

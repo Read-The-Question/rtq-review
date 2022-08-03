@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-oldpr"
 title: "TopicPaper - Areaperimeter - 6 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -153,11 +153,11 @@ $28 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of the square (in cm) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a              &= 49 \\\\
@@ -166,9 +166,9 @@ a                       &= \sqrt {49} \\\\
 a                       &= 7 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the perimeter of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}       &= 4 \times a \\\\
@@ -371,9 +371,9 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of rolls}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a wallpaper roll}} \\\\
@@ -607,15 +607,15 @@ $26 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the side of the square $= a$
-
+<emptyline>
 Let the width of the first rectangle $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a              &= 28 \\\\
@@ -625,7 +625,7 @@ a                       &= \dfrac {\cancel 4 \times 7} {\cancel 4} \\\\
 a                       &= 7  \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of first rectangle} &= 16 \\\\
@@ -638,7 +638,7 @@ b                                   &= 8 - 7 \\\\
 b                                   &= 1 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of second rectangle} &=  2 \times (7 + (7-1)) \\\\
@@ -840,9 +840,9 @@ $96 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}        &= 12 \times 8 \\\\
@@ -1052,11 +1052,11 @@ $9.5 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_parallelogram_expanded
-
+<emptyline>
 Let the base of the parallelogram $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times b                    &= 38 \\\\
@@ -1066,7 +1066,7 @@ b                             &= \dfrac {\cancel {4} \times 9.5} {\cancel {4}} \
 b                             &= 9.5 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the base of the parallelogram $= 9.5 \ \text{cm}$.
 </code></pre>
 </div>
@@ -1319,11 +1319,11 @@ $272 \ \text{m}^2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add the diagram with house divided into two rectangle with measurements shown for all the sides.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram, the house can be divided into two rectangles
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Area of the house}    &= {Rectangle 1} + {Rectangle 2} \\\\
@@ -1393,7 +1393,7 @@ $528 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Area of the garden}           &= \text{Total Area} - \text{Area of the house} \\\\
@@ -1618,11 +1618,11 @@ $80 \ \text{cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
 Show the side of square is 14 + 6.*
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Side of the square}  &= 14 + 6 \\\\
@@ -1834,11 +1834,11 @@ $64 \ \text{cm}^2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
 Show the side of square is 8 cm.*
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of the shaded inner square} &= 8 \times 8 \\\\
@@ -2084,13 +2084,13 @@ $44 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a           &= 36\\\\
@@ -2100,9 +2100,9 @@ a                    &= \dfrac {9 \times \cancel{4}} {\cancel{4}} \\\\
 a                    &= 9 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the area of square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}    &= 9 \times 9 \\\\
@@ -2114,13 +2114,13 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a             &= 121 \\\\
@@ -2129,9 +2129,9 @@ a                      &= \sqrt {121} \\\\
 a                      &= 11 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the perimeter of square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}      &= 4 \times 11 \\\\

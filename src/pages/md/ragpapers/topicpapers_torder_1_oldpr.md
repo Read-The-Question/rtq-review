@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-oldpr"
 title: "TopicPaper - Order - 1 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -133,9 +133,9 @@ $65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4}, \quad 65\%,  \quad \dfrac{14}{20} \\\\
@@ -143,9 +143,9 @@ $
 &= \dfrac{75}{100}, \quad \dfrac{65}{100},  \quad \dfrac{70}{100}
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{65}{100}< \quad \dfrac{70}{100}<  \quad \dfrac{75}{100} \\\\
@@ -468,7 +468,7 @@ $0.44$
 &= 0.09 \quad     0.39 \quad    0.44 \quad     0.4 \\\
 \end{aligned}
 $
-
+<emptyline>
 $0.09 \quad     39\% \quad    \boxed{\rtq_katex_color_answer{0.44}} \quad     \dfrac{2}{5}$
 </code></pre>
 </div>
@@ -661,25 +661,25 @@ $\dfrac{6}{8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
+<emptyline>
 In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8} \\\\
 &= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &=0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
 &=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8}
 \end{aligned}
 $
-
+<emptyline>
 therefore $\dfrac{6}{8}$ is the largest fraction.
 </code></pre>
 </div>

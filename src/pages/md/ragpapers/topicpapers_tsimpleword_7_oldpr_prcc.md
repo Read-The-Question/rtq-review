@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-7-oldpr-prcc"
 title: "TopicPaper - Simpleword - 7 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -133,9 +133,9 @@ $1265 \ \text{km}$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the distance between Madrid to Paris be $= a$.
-
+<emptyline>
 Total distance $=$ distance of Lisbon to Madrid +  distance of Madrid to Paris + distance of Paris to Munich 
-
+<emptyline>
 $
 \begin{aligned}
 2730  \ \text{km} &= 638 \ \text{km} + a  \ \text{km} + 827  \ \text{km} \\\\
@@ -144,7 +144,7 @@ a                 &= 2730 - 1465 \\\\
 a                 &= 1265 \ \text{km}
 \end{aligned}
 $
-
+<emptyline>
 The distance between Madrid to Paris is $1265 \ \text{km}$
 </code></pre>
 </div>

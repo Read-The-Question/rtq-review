@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-2-oldpr-prcr"
 title: "TopicPaper - Division - 2 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -163,7 +163,7 @@ $3214$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per question,
-
+<emptyline>
 $
 \begin{aligned}
 &= 9642 \div  3 \\\\

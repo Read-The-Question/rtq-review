@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-oldpr"
 title: "TopicPaper - Algebra - 12 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "10"
 ---
 <ul class='question default-decimal'>
@@ -128,9 +128,9 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a} {3} - \dfrac {a} {4}                                     &= 5 \\\\
@@ -142,7 +142,7 @@ a                                                                   &= 5 \times 
 a                                                                   &= 60
 \end{aligned}
 $
-
+<emptyline>
 The number $= 60$
 </code></pre>
 </div>
@@ -538,7 +538,7 @@ $-1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 P   &= 9a - 7b^2 \\\\
@@ -759,13 +759,13 @@ $900$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let small cartridge $= s$
-
+<emptyline>
 Let medium cartridge $= m$
-
+<emptyline>
 Let large cartridge $= l$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s   &= 400 \ \text {pages} \\\\
@@ -785,7 +785,7 @@ l   &= \dfrac {\cancel {2} \times 900} {\cancel {2}} \\\\
 l   &= 900 \ \text {pages}
 \end{aligned}
 $
-
+<emptyline>
 A large cartridge can print $= 900 \ \text {pages}$
 </code></pre>
 </div>
@@ -986,9 +986,9 @@ $70$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 560 \div a          &= 8 \\\\
@@ -1001,7 +1001,7 @@ a                   &= \dfrac {\cancel {8} \times 70} {\cancel {8}} \\\\
 a                   &= 70
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 70$
 </code></pre>
 </div>
@@ -1197,9 +1197,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + 5  &= 19 \\\\
@@ -1402,7 +1402,7 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 C   &=  5W +10A \\\\
@@ -1631,11 +1631,11 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
+<emptyline>
 Let the second number $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times b            &= 18 \\\\
@@ -1643,11 +1643,11 @@ a - b                 &= b \\\\
 a                     &= 2 \times b
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable.
-
+<emptyline>
 Substuting the value of $a$ from second equation to first equation,
-
+<emptyline>
 $
 \begin{aligned}
 a \times b            &= 18 \\\\
@@ -1661,9 +1661,9 @@ b                     &= \sqrt {9} \\\\
 b                     &= 3
 \end{aligned}
 $
-
+<emptyline>
 Substuting the value of $b$ in second equation.
-
+<emptyline>
 $
 \begin{aligned}
 a - b &= b \\\\
@@ -1672,7 +1672,7 @@ a     &= 3 + 3 \\\\
 a     &= 6
 \end{aligned}
 $
-
+<emptyline>
 The two integers are $3$ and $6$
 </code></pre>
 </div>
@@ -1868,9 +1868,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3a - 3  &= 2a + 6 \\\\
@@ -2094,18 +2094,18 @@ $6$ and $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number be $a$ and second be $b$.
-
+<emptyline>
 As per question,
-
+<emptyline>
 $
 \begin{aligned}
 a + b      &= 14 \\
 a \times b &= 48
 \end{aligned}
 $
-
+<emptyline>
 Let's find $a$ and $b$.
-
+<emptyline>
 $
 \begin{aligned}
 &= x^2 + 14x + 48 \\\\
@@ -2113,13 +2113,13 @@ $
 &= (x + 6) (x+ 8)
 \end{aligned}
 $
-
+<emptyline>
 $x = 6$ and $x = 8$
-
+<emptyline>
 the two numbers are $6$ and $8$
-
+<emptyline>
 checking: 
-
+<emptyline>
 $
 \begin{aligned}
 &- a + b   \\   
@@ -2130,7 +2130,7 @@ $
 &= 48 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

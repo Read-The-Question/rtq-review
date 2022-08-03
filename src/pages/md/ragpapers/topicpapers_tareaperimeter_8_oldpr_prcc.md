@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-oldpr-prcc"
 title: "TopicPaper - Areaperimeter - 8 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -147,15 +147,15 @@ $144 \ \text{cm}^{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the side of the square (in $\text{cm}$) $= a$ 
-
+<emptyline>
 Length of the rectangle $= a$
-
+<emptyline>
 Width of the rectangle $= \dfrac {a} { 2 }$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times ( a + \dfrac {a} {2})                       &= 36 \\\\
@@ -169,9 +169,9 @@ a                                                    &= \dfrac {12 \times \cance
 a                                                    &= 12 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= 12 \times 12 \\\\
@@ -382,9 +382,9 @@ $13 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
@@ -608,9 +608,9 @@ $30 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of shape}      &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
@@ -809,9 +809,9 @@ $28.4 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}             &= 4.0 \times 7.1 \\\\

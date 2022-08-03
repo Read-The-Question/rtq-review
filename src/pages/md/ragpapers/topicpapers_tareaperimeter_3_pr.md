@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-3-pr"
 title: "TopicPaper - Areaperimeter - 3 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -162,9 +162,9 @@ C
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram divided into two rectangles along with the calculations for sides of the shape which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into two rectangles
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the shape}       &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
@@ -173,9 +173,9 @@ $
                                 &= 66 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the expressions given in the option and check which one matches the calculated area.
-
+<emptyline>
 $
 \begin{aligned}
 10 \times 6 + 5 \times 4 \\\\
@@ -189,7 +189,7 @@ $
 = 66
 \end{aligned}
 $
-
+<emptyline>
 Calculation C is correct for the area of the shape.
 </code></pre>
 </div>
@@ -444,9 +444,9 @@ $50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of flapjacks}         &= \dfrac {\text{Area of slab}} {\text{Area of one flapjack}} \\\\
@@ -513,9 +513,9 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of flapjacks}         &= \dfrac {\text{Area of slab}} {\text{Area of one flapjack}} \\\\
@@ -582,9 +582,9 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of flapjacks}         &= \dfrac {\text{Area of slab}} {\text{Area of one flapjack}} \\\\
@@ -805,11 +805,11 @@ $\pounds 540$
 *TODO:: Show the diagram divided in two rectangles with the calculations for the parts which do not have measurements shown.
 Show the length of the first rectangle $6 (10 - 4) \ \text{m}$ and width of the second rectangle $6 (20 - 10) \ \text{m}$.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of garden}                   &= \text{Rectangle 1} + \text{Rectangle 2} \\\\
@@ -1019,9 +1019,9 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of garden}                   &= 48 \times 10 \\\\
@@ -1294,11 +1294,11 @@ $39 \ \text {cm} ^ 2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: add a diagram to show 3 rectangles along with the measurements.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into three rectangles
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total Area}           &= \text {Rectangle 1} + \text {Rectangle 2} + {Rectangle 3} \\\\
@@ -1374,11 +1374,11 @@ $36 \ \text {cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: add a diagram with the calculations for the parts of the sides which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter}            &= 8 + 4 + 3 + (4 - (9 - 6)) + (8 - (3 + 2)) + 6 + 2 + 9 \\\\
@@ -1589,9 +1589,9 @@ $24.6 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}            &= \dfrac {1} {2} \times 8.2 \times 6 \\\\
@@ -1803,13 +1803,13 @@ $251 \ \text {cm}^2$
 *TODO:: Show the diagram with the calculations for the parts of the rectangle which do not have measurements shown.
 Show the measurements of squares.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Are of the shape}        &= \text {Area of the rectangular piece} - 4 \times \text {Area of square} \\\\
@@ -2015,15 +2015,15 @@ $36 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of the shape}          &= 2 \times (5 + 13) \\\\
                                         &= 2 \times 18 \\\\
                                         &= 36 \ \text {cm}
-                                       
+<emptyline>
 \end{aligned}
 $
 </code></pre>

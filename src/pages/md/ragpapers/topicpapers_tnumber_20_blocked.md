@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-blocked"
 title: "TopicPaper - Number - 20 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -115,7 +115,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If we divide $278$ by $13$, the quotient is $21$ and the remainder is $5$.
-
+<emptyline>
 
 So we can add $13 - 5 = 8$ to $278$ to make it exactly divisible by $13$.
 </code></pre>
@@ -309,7 +309,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's use brackets to show the sequence in which we apply the operations and give precedence to operators.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Solution } 1  &= 14 - 3 \times 4 - 2 \\\\
@@ -318,7 +318,7 @@ $
                     &= 22
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Solution } 2  &= 14 - 3 \times 4 - 2 \\\\
@@ -329,7 +329,7 @@ $
                     &= 42
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Solution } 3  &= 14 - 3 \times 4 - 2 \\\\
@@ -340,7 +340,7 @@ $
                     &= 0
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Solution } 4  &= 14 - 3 \times 4 - 2 \\\\
@@ -351,7 +351,7 @@ $
                     &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Solution } 5  &= 14 - 3 \times 4 - 2 \\\\
@@ -362,11 +362,11 @@ $
                     &= 8
 \end{aligned}
 $
-
+<emptyline>
 Let's put them in descending order
-
+<emptyline>
 $42, \quad 22, \quad 8, \quad 4, \quad 0$
-
+<emptyline>
 Answer in the middle $= 8$
 </code></pre>
 </div>
@@ -595,15 +595,15 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>
 **ROW 2**
-
+<emptyline>
 $1$st number and $2$nd number are known so rest can be solved.
-
+<emptyline>
 **ROW 3**
-
+<emptyline>
 Sum $= 154$
-
+<emptyline>
 Difference $= 5$
-
+<emptyline>
 $
 \begin{aligned}
              15 &= x + y \\
@@ -617,45 +617,45 @@ $
               y &= 10 - 5 = 5 \\
 \end{aligned}
 $
-
+<emptyline>
 **ROW 4**
-
+<emptyline>
 Product $8$ 
-
+<emptyline>
 $8$ is only a multiple of $4 \times 2$
-
+<emptyline>
 So the numbers are $2$ and $4$
-
+<emptyline>
 \underline {ROW 5}
-
+<emptyline>
 Product is $18$
-
+<emptyline>
 $18$ is a multiple of :
-
+<emptyline>
 $9 \times 2$ but $9$ is not divisible by $2$ to give quotient $2$
-
+<emptyline>
 $6 \times 3$ are the numbers with quotient $2$
-
+<emptyline>
 **ROW 6**
-
+<emptyline>
 Sum $= 21$
-
+<emptyline>
 Quotient $= 6$
-
+<emptyline>
 Let's find multiples of $6$ $<21$ and $>6$  
-
+<emptyline>
 $6 \times 2 = 12$
-
+<emptyline>
 $6 + 2 = 12 \not 21$
-
+<emptyline>
 $6 \times 3 = 18$
-
+<emptyline>
 $18 \div 3 = 6$
-
+<emptyline>
 $18 + 3 = 21$
-
+<emptyline>
 The numbers are $18$ and $3$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -699,7 +699,7 @@ The numbers are $18$ and $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>0764EC27-58BF-4C34-A78B-8EB71ECB65E3</p>
 </div>
@@ -713,7 +713,7 @@ The numbers are $18$ and $3$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -822,7 +822,7 @@ $\dfrac {31} {120}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To determine which fraction is closest to $\dfrac {1}{4}$, we can subtract $\dfrac {1}{4}$ from each fraction. The difference that is closest to zero will indicate the fraction that is closest to $\dfrac {1}{4}$.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {11} {40},  \quad \dfrac {4} {15},  \quad   \dfrac {21} {80},  \quad   \dfrac {13} {50}, \quad   \dfrac {31} {120} \\\\
@@ -832,9 +832,9 @@ $
 &= \dfrac{1}{40}, \quad \dfrac{1}{60}, \quad \dfrac{1}{80}, \quad   \dfrac{1}{100}, \quad   \dfrac {1} {120}
 \end{aligned}
 $
-
+<emptyline>
 The fraction with the biggest denominator is the smallest fraction and is nearer to zero.
-
+<emptyline>
 The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
 </code></pre>
 </div>
@@ -856,7 +856,7 @@ The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>AF41292A-EA87-4917-AA96-255A70031420</p>
 </div>
@@ -870,7 +870,7 @@ The fraction nearest to $\dfrac {1}{4}$ is $= \dfrac {31}{120}$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -982,23 +982,23 @@ $13, 39$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the question,
-
+<emptyline>
 The whole number leaves a remainder $7$ when divided into $46$.
-
+<emptyline>
 As such, the number will be a factor of $= 46 - 7 = 39$
-
+<emptyline>
 Factors of $39 = 1, 3 , 13$ and $39$.
-
+<emptyline>
 The number has to be greater than $7$ as it leaves a remainder $7$.
-
+<emptyline>
 Lets check $13$ and $39$ fulfil the criteria.
-
+<emptyline>
 $= \dfrac {46} {13} =$ Quotient $3$ Remainder $7$
-
+<emptyline>
 $= \dfrac {46} {39} =$ Quotient $1$ Remainder $7$
-
+<emptyline>
 The whole numbers which leave a remainder of $7$ when dividied into $46 = 13$ and $39$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -1216,11 +1216,11 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**ROW 1**
-
+<emptyline>
 Given that,
-
+<emptyline>
 Fraction $= \dfrac{1}{4}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Decimal} &= \dfrac{1}{4} \\\\
@@ -1229,7 +1229,7 @@ $
 &= 0.25
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Percentage} &= \dfrac{1}{4} \times 100 \% \\\\
@@ -1237,13 +1237,13 @@ $
 &= 25\%
 \end{aligned}
 $
-
+<emptyline>
 **ROW 2**
-
+<emptyline>
 Given that,
-
+<emptyline>
 Percentage = $10\%$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction} &= \dfrac{10}{100} \\\\
@@ -1251,20 +1251,20 @@ $
 &= \dfrac{1}{10}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Decimal} &= \dfrac{10}{100} \\\\
 &= 0.1
 \end{aligned}
 $
-
+<emptyline>
 **ROW 3**
-
+<emptyline>
 Given that,
-
+<emptyline>
 Decimal = $0.85$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction} &= 0.85 \times \dfrac{100}{100} \\\\
@@ -1272,7 +1272,7 @@ $
 &= \dfrac{17}{20}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Percentage} &= 0.85 \times 100 \% \\\\
@@ -1319,7 +1319,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
 </div>
@@ -1333,7 +1333,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1436,12 +1436,12 @@ $161$
 <pre class='language-latex'><code class='language-latex'>
 $53 \times 2 = 106$ ,
 $106 < 120$
-
+<emptyline>
 $53 \times 3 = 159$ ,
 $159 > 120$ 
-
+<emptyline>
 $159 + 2 = 161$
-
+<emptyline>
 The smallest whole number above $120$ which when divided by $53$ leaves a remainder of two $= 161$
 </code></pre>
 </div>
@@ -1584,18 +1584,18 @@ $0.101$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>To compare, we can convert all the numbers to fractions, decimals or percentages.
-
+<emptyline>
 Let's put them in ascending order now.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.2, \quad 0.101, \quad 0.11, \quad 0.99, \quad 0.0998, \quad 1.0 \\\\
 &= 0.0998, \quad 0.99, \quad 0.101, \quad 0.11, \quad 0.2, \quad 1.0
 \end{aligned}
 $
-
+<emptyline>
 $0.1$ lies between $0.101$ and $0.11$
-
+<emptyline>
 The number nearest to $0.1$ = $0.101$
 </code></pre>
 </div>
@@ -1752,23 +1752,23 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Bob thinks = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $a > 40$
-
+<emptyline>
 $a$ is a multiple of $3$
-
+<emptyline>
 $a$ is a multiple of $5$
-
+<emptyline>
 $a <60$
-
+<emptyline>
 Numbers between $40$ and $60$ which are multiple of $5 = {45, 50, 55}$
-
+<emptyline>
 Numbers between $40$ and $60$ which are multiple of $3 = {45, 48, 51, 54, 57}$
-
+<emptyline>
 Since $45$ is common in both, 
-
+<emptyline>
 $a = 45$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-7-notstarted"
 title: "TopicPaper - Infer - 7 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -467,7 +467,7 @@ $47$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $5$ %image%  $7$ = $5 + 7 + (5 \times 7) = 47$
 </code></pre>
 </div>
@@ -516,7 +516,7 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $0$ %image%  $9$ = $0 + 9 + (0 \times 9) = 9$
 </code></pre>
 </div>
@@ -578,7 +578,7 @@ $χ = 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 χ %image%  2            &= 23 \\\\

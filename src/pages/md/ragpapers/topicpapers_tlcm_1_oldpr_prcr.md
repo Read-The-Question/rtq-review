@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tlcm-1-oldpr-prcr"
 title: "TopicPaper - Lcm - 1 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -116,9 +116,9 @@ $63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Multiples of $7$ between $50$ and $75 = 56, 63, 70, 77$.
-
+<emptyline>
 $63$ is also a multiple of $3$. So,
-
+<emptyline>
 $63$ is the number between $50$ and $75$ which is a multiple of both $3$ and $7$.
 </code></pre>
 </div>

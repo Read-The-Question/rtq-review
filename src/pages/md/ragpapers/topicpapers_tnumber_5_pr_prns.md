@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-5-pr-prns"
 title: "TopicPaper - Number - 5 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -286,7 +286,7 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$9$
-
+<emptyline>
 It is not a prime number.
 </code></pre>
 </div>
@@ -462,7 +462,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$
-
+<emptyline>
 It is not a prime number.
 </code></pre>
 </div>
@@ -638,7 +638,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$
-
+<emptyline>
 It is not a prime number.
 </code></pre>
 </div>

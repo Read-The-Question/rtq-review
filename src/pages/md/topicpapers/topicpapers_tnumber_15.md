@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-15"
 title: "TopicPaper - Number - 15"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -660,7 +660,7 @@ $5.7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1.1 \times (4.5 + 2.5) - 2 \\\\
@@ -844,7 +844,7 @@ $\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\boxed{7} + \boxed{1} \boxed{8} = \boxed{2} \boxed{5}$
-
+<emptyline>
 $\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
 </code></pre>
 </div>
@@ -976,7 +976,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Perfect square between $190$ and $200 = 196$
-
+<emptyline>
 $14 \times 14 = 196$
 </code></pre>
 </div>
@@ -1868,7 +1868,7 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \times 3 - 10 + 6 \\\\
@@ -1931,7 +1931,7 @@ $56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{72}{9} \\\\
@@ -2161,7 +2161,7 @@ $1237 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
@@ -2225,7 +2225,7 @@ $6160 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 6.3 \ \text{km} - 140 \ \text{m} \\\\
@@ -3398,21 +3398,21 @@ $1, 2, 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s * t           &= 10 \\\\
 s ^ 2 + 3t      &= 10
 \end{aligned}
 $
-
+<emptyline>
 
 We can easily infer the values by using trial and error.
-
+<emptyline>
 A quick check shows that $1, 3$ and $2, 2$ meets the criteria above.
-
+<emptyline>
 Let's verify for $1, 3$.
-
+<emptyline>
 $
 \begin{aligned}
 &= s ^ 2 + 3t \\\\
@@ -3421,9 +3421,9 @@ $
 &= 10
 \end{aligned}
 $
-
+<emptyline>
 Let's verify for $2, 2$.
-
+<emptyline>
 $
 \begin{aligned}
 &= s ^ 2 + 3t \\\\
@@ -3432,7 +3432,7 @@ $
 &= 10
 \end{aligned}
 $
-
+<emptyline>
 Possible values for $s = 1, 2, 3$
 </code></pre>
 </div>
@@ -3660,7 +3660,7 @@ $5, 8, 20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Factors of $40 = 1, 2, 4, 5, 8, 10, 20, 40$
-
+<emptyline>
 Numbers in the list $= 5, 8, 20$
 </code></pre>
 </div>
@@ -3715,7 +3715,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>From the list, the multiples of $3 = 9, 12, 18$
-
+<emptyline>
 Count $= 3$
 </code></pre>
 </div>
@@ -4290,7 +4290,7 @@ $4.272$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &    7   &   1   &   2 \\
@@ -4299,11 +4299,11 @@ $
 4      &    2   &   7   &   2
 \end{array}\\\\
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is three.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= 4.272$
 </code></pre>
 </div>
@@ -4745,7 +4745,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4AF7B768-CBF8-4E4C-9565-AEB914711765</p>
 </div>
@@ -4759,7 +4759,7 @@ $
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4842,22 +4842,25 @@ Find the value of $59.9 + 28.6$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+
+ABBR: Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
-     &    5   &   9 &  .   &   9   \\
-{}+  &    2   &   8 &  .   &   6   \\
+    &   5  &  9 \ .   &   9 \\
+{}+ &   2  &  8 \ .   &   6 \\
 \hline
-     &    8   &   8 &  .   &   5   
+    &   8  &  8 \ .   &   5
 \end{array}
 $
+
 
 </div>
 </div>
 <div class='answers'>
 <div class='option'>
-<p>D</p>
+<p>d</p>
 </div>
 <div class='answer'>
 
@@ -4868,22 +4871,24 @@ $88.5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Remember to line up the decimal points.
-
+<pre class='language-latex'><code class='language-latex'>
+rtq_abbr_md_decimal_point_alignment_note
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
-     &    5   &   9 &  .   &   9   \\
-{}+  &    2   &   8 &  .   &   6   \\
+    &   5  &  9 \ .   &   9 \\
+{}+ &   2  &  8 \ .   &   6 \\
 \hline
-     &    8   &   8 &  .   &   5   
+    &   8  &  8 \ .   &   5
 \end{array}
 $
+<emptyline>
 </code></pre>
 </div>
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>D</code></pre>
+<pre class='language-latex'><code class='language-latex'>d</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
@@ -5285,7 +5290,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers between $20$ and $30 =  23, 29$
-
+<emptyline>
 Count $= 2$
 </code></pre>
 </div>
@@ -5481,7 +5486,7 @@ $8.32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
                       & 3     & 2     \\
@@ -5493,11 +5498,11 @@ $
                 8     & 3     & 2     \\
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $ = 8.32$
 </code></pre>
 </div>
@@ -5889,7 +5894,7 @@ $25, 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question and options given,
-
+<emptyline>
 $
 \begin{aligned}
 \text{A} &= 33 \times 67 \\\\
@@ -5904,9 +5909,9 @@ $
          &= \rtq_katex_color_wrong_answer{99} \neq 100
 \end{aligned}
 $
-
+<emptyline>
 Both options C and D multiply to $100$. But niether of the numbers should have digit $0$.
-
+<emptyline>
 Answer $= $ Option C
 </code></pre>
 </div>
@@ -6108,7 +6113,7 @@ $125, 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question and options given,
-
+<emptyline>
 $
 \begin{aligned}
 \text{A} &= 100 \times 10 \\\\
@@ -6123,9 +6128,9 @@ $
          &= \rtq_katex_color_wrong_answer{350} \neq 1000
 \end{aligned}
 $
-
+<emptyline>
 Both options C and A multiply to $1000$. But Since, niether of the numbers should have digit $0$.
-
+<emptyline>
 Answer $= $ Option C
 </code></pre>
 </div>
@@ -6404,9 +6409,9 @@ $27.9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a\div 100 &= 0.279 \\\\
@@ -6654,7 +6659,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>51EF1152-4680-4066-B3A6-9E35EA7048B4</p>
 </div>
@@ -6668,7 +6673,7 @@ $
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6742,39 +6747,10 @@ tnumber
 Given that $37 \times 56 = 2072$, write down the answers to the following calculations: 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -6906,11 +6882,14 @@ $207.2 \div 56$
 
 $
 \begin{aligned}
-37 \times 56 &= 2072 \\\\
-\dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
-\dfrac{37}{10} \times 56 &= 207.2 \\\\
-3.7 \times 56 &= 207.2 \\\\
-207.2 \div 56 &= 3.7
+&= 207.2 \div 56 \\\\
+&= \dfrac {207.2} {56} \\\\
+&= \dfrac {207.2 \times 10} {56 \times 10} \\\\
+&= \dfrac {2072} {56 \times 10} \\\\
+&= \dfrac {37 \times 56} {56 \times 10} \\\\
+&= \dfrac {37 \times \cancel{56}} {\cancel{56} \times 10} \\\\
+&= \dfrac {37} {10} \\\\
+&= 3.7
 \end{aligned}
 $
 
@@ -6928,11 +6907,14 @@ $
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-37 \times 56 &= 2072 \\\\
-\dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
-\dfrac{37}{10} \times 56 &= 207.2 \\\\
-3.7 \times 56 &= 207.2 \\\\
-207.2 \div 56 &= 3.7
+&= 207.2 \div 56 \\\\
+&= \dfrac {207.2} {56} \\\\
+&= \dfrac {207.2 \times 10} {56 \times 10} \\\\
+&= \dfrac {2072} {56 \times 10} \\\\
+&= \dfrac {37 \times 56} {56 \times 10} \\\\
+&= \dfrac {37 \times \cancel{56}} {\cancel{56} \times 10} \\\\
+&= \dfrac {37} {10} \\\\
+&= 3.7
 \end{aligned}
 $
 </code></pre>
@@ -7007,7 +6989,7 @@ part c not written the right way, do not write lhs = rhs way, write similar to a
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>29826990-7CF3-48F9-A4E1-518D0B0296D5</p>
 </div>
@@ -7021,7 +7003,7 @@ part c not written the right way, do not write lhs = rhs way, write similar to a
 <p>rag_da_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7127,7 +7109,7 @@ $1 \ \text{and} 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take the whole number (with missing digits) $=a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 7  &=  896 \\\\ 
@@ -7137,7 +7119,7 @@ a           &=  \dfrac {128 \times \cancel{7}} {\cancel{7}} \\\\
 a           &=  128
 \end{aligned}
 $
-
+<emptyline>
 The missing digits are $1 \ \text{and} 8$.
 </code></pre>
 </div>
@@ -8049,7 +8031,7 @@ $0.392$
 &= 0.392
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

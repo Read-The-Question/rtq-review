@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-2-notstarted"
 title: "TopicPaper - Permutation - 2 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -143,24 +143,24 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question each team plays every other team twice
-
+<emptyline>
 Let's take
-
+<emptyline>
 total no. of teams in a leagues as $x$ teams
-
+<emptyline>
 total no. of games played as       $n$  games
-
+<emptyline>
 $
 \begin{aligned}
 n \  &= x^2 - x \\
 30 \ &= x^2 - x 
 \end{aligned}
 $
-
+<emptyline>
 $x$ is greater than $5$ as $(5 \times 5) = 25$
-
+<emptyline>
 Let' try to substitute $x$ with $6$
-
+<emptyline>
 $
 \begin{aligned}
 30 &= 6^2 - 6 \\
@@ -169,11 +169,11 @@ $
    &= 30 \\
 \end{aligned}
 $
-
+<emptyline>
 $x$ = 6
-
+<emptyline>
 There are total of $6$ teams playing the league
-
+<emptyline>
 </code></pre>
 </div>
 </div>

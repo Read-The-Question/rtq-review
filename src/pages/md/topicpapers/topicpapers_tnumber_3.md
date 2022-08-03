@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-3"
 title: "TopicPaper - Number - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1689,7 +1689,7 @@ $273$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The difference between the two numbers: $1247 - 974$
-
+<emptyline>
 
 $
 \begin{array}{cccccccccccccc}
@@ -2122,7 +2122,7 @@ $\pounds 2.13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {1} {6} \text{ of } \pounds 12.78\\\\
@@ -2643,9 +2643,9 @@ F
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>F
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{4}{100} \\\\
@@ -2706,9 +2706,9 @@ F
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>F
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{12}{60} &= \dfrac{2}{30} \\\\
@@ -2772,9 +2772,9 @@ T
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>T 
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 3.2 \ \text{hours} &= 3 \ \text{hours} 12 \ \text{minutes} \\\\
@@ -2837,9 +2837,9 @@ F
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>F
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 54 \div \dfrac{1}{2} \\\\
@@ -3386,7 +3386,7 @@ $9596$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Larger number = a
-
+<emptyline>
 $
 \begin{aligned}
 a - 6924 &= 2672 \\\\
@@ -3772,9 +3772,9 @@ $-7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$15 + (-22) = -7$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 15 + (-22) \\\\
@@ -3893,9 +3893,9 @@ $-10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>-7 - (-10) = 3
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= -7 - (-10) \\\\
@@ -4522,7 +4522,7 @@ $12$
 \text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
 \end{aligned}
 $
-
+<emptyline>
 The Highest Common Factor of $36$ and $60 = 12$
 </code></pre>
 </div>
@@ -4577,9 +4577,9 @@ $4, 9, 36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$4, 9, 36$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned} 
 4   &= 2^2 \\\\
@@ -6080,9 +6080,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Factors of 12 = 1,2,3,4,6,12
-
+<emptyline>
 Factors of 18 = 1,2,3,6,9,18
-
+<emptyline>
 Largest Number = 6
 </code></pre>
 </div>
@@ -6131,9 +6131,9 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Factors of 12 = 1,2,3,4,6,12
-
+<emptyline>
 Factors of 18 = 1,2,3,6,9,18
-
+<emptyline>
 Smallest Number = 1
 </code></pre>
 </div>
@@ -7001,9 +7001,9 @@ $97,3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$97,3$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sum}                 &= 97 + 3 \\\\
@@ -7066,9 +7066,9 @@ $89,11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$89,11$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sum}                 &= 89 + 11 \\\\
@@ -7683,7 +7683,7 @@ $42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \times 4 + 5 \times 6 \\\\
@@ -8246,7 +8246,7 @@ $\text {One-quarter}$
 250 \ \text {millilitres}          &= 0.250 \ \text {litres}
 \end {aligned}
 $
-
+<emptyline>
 $0.250 \ \text {litres}$ is One quarter of a litre.
 </code></pre>
 </div>
@@ -10458,9 +10458,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$38 + 17 = 28 + \underline{\rtq_katex_color_answer{27}} $
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 38 + 17 &= 28 + 27 \\\\
@@ -10520,9 +10520,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$38 - 17 = 28 - \underline{\rtq_katex_color_answer{7}}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 38 - 17 &= 28 - 7 \\\\
@@ -10582,9 +10582,9 @@ $100$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$40 \times 10 = 4 \times \underline{\rtq_katex_color_answer{100}}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 40 \times 10 &= 4 \times 100 \\\\
@@ -10647,9 +10647,9 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$7000 \div 100 = 700 \div \underline{\rtq_katex_color_answer{10}}$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 7000 \div 100                                &= 700 \div 10 \\\\

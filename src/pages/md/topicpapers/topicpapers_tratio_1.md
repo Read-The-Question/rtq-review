@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-1"
 title: "TopicPaper - Ratio - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "40"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -130,7 +130,7 @@ $\pounds 57.50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 1  \text{ lollipop}                 &: \pounds 1.25 \\\\
@@ -158,7 +158,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>5860A867-7759-4511-AF82-70728B52390C</p>
 </div>
@@ -169,10 +169,10 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -251,26 +251,68 @@ If each person is to get $\dfrac{2}{3}$ of a pizza how many friends can he feed?
 <div class='workings'>
 <div class='working'>
 
-This can be solved using ratios. 
-
 $
 \begin{aligned}
-\dfrac{2}{3}  \text{ pizzas}                                                             &: 1 \text{ people} \\\\
-\dfrac{2}{3} \times \dfrac{3}{2} \text{ pizzas}                                         &: 1 \times \dfrac{3}{2} \text{ people} \\\\
-\dfrac{\cancel{2}}{\cancel{3}} \times \dfrac{\cancel{3}}{\cancel{2}} \text{ pizzas}     &: 1 \times \dfrac{3}{2} \text{ people} \\\\
-1 \text{ pizza}                                                                         &: \dfrac{3}{2} \text{ people} \\\\
-1 \times 8  \text{ pizzas}                                                                 &: \dfrac{3}{2} \times 8 \text{ people} \\\\
-8  \text{ pizzas}                                                                         &: \dfrac{3 \times 8}{2}  \text{ people} \\\\
-8  \text{ pizzas}                                                                         &: \dfrac{3 \times 4 \times 2}{2}  \text{ people} \\\\
-8  \text{ pizzas}                                                                         &: \dfrac{3 \times 4 \times \cancel{2}}{\cancel{2}}  \text{ people} \\\\
-8  \text{ pizzas}                                                                         &: 12  \text{ people}
+\text{Number of persons}    &= \dfrac {\text{Total pizzas}} {\text{Pizza per person}} \\\\
+                            &= \dfrac {8} { \dfrac {2} {3}} \\\\
+                            &= \dfrac {8 \times 3} { 2} \\\\
+                            &= \dfrac {4 \times 2 \times 3} {2} \\\\
+                            &= \dfrac {4 \times \cancel{2} \times 3} {\cancel{2}} \\\\
+                            &= 4 \times 3 \\\\
+                            &= 12 \\\\
+\text{Number of friends}    &= 12 - 1 \\\\
+                            &= 11
 \end{aligned}
 $
 
-Since we have to find the number of friends and Jeff is also counted for in the total count, adjust the answer accordingly.
+</div>
+<div class='working'>
+
+Let the number of persons $= a$
+
+Using equivalent ratio,
 
 $
 \begin{aligned}
+\dfrac{2}{3} \text{ pizzas} : 1 \text{ people}  &= 8 \text{ pizzas} : a \text{ persons} \\\\
+\dfrac{2}{3 \times 1}                           &= \dfrac {8} {a} \\\\
+a                                               &= \dfrac {8 \times 3} { 2} \\\\
+a                                               &= \dfrac {4 \times 2 \times 3} {2} \\\\
+a                                               &= \dfrac {4 \times \cancel{2} \times 3} {\cancel{2}} \\\\
+a                                               &= 4 \times 3 \\\\
+a                                               &= 12
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of persons}    &= 12 \\\\
+\text{Number of friends}    &= 12 - 1 \\\\
+                            &= 11
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text{pizzas}                                                        : \text{persons} \\\\
+&= \dfrac{2}{3}                                                         : 1 \\\\
+&= \dfrac{2}{3} \times \dfrac{3}{2}                                     : 1 \times \dfrac{3}{2} \\\\
+&= \dfrac{\cancel{2}}{\cancel{3}} \times \dfrac{\cancel{3}}{\cancel{2}} : \dfrac{3}{2} \\\\
+&= 1                                                                    : \dfrac{3}{2} \\\\
+&= 1 \times 8                                                           : \dfrac{3}{2}\times 8 \\\\
+&= 8                                                                    : \dfrac{3 \times 8}{2} \\\\
+&= 8                                                                    : \dfrac{3 \times 4 \times 2}{2} \\\\
+&= 8                                                                    : \dfrac{3 \times 4 \times \cancel{2}}{\cancel{2}} \\\\
+&= 8 \text{ pizzas}                                                     : 12 \text{ people}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of persons}    &= 12 \\\\
 \text{Number of friends}    &= 12 - 1 \\\\
                             &= 11
 \end{aligned}
@@ -281,33 +323,75 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$11$ friends
+$11$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>This can be solved using ratios. 
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\dfrac{2}{3}  \text{ pizzas}                                                             &: 1 \text{ people} \\\\
-\dfrac{2}{3} \times \dfrac{3}{2} \text{ pizzas}                                         &: 1 \times \dfrac{3}{2} \text{ people} \\\\
-\dfrac{\cancel{2}}{\cancel{3}} \times \dfrac{\cancel{3}}{\cancel{2}} \text{ pizzas}     &: 1 \times \dfrac{3}{2} \text{ people} \\\\
-1 \text{ pizza}                                                                         &: \dfrac{3}{2} \text{ people} \\\\
-1 \times 8  \text{ pizzas}                                                                 &: \dfrac{3}{2} \times 8 \text{ people} \\\\
-8  \text{ pizzas}                                                                         &: \dfrac{3 \times 8}{2}  \text{ people} \\\\
-8  \text{ pizzas}                                                                         &: \dfrac{3 \times 4 \times 2}{2}  \text{ people} \\\\
-8  \text{ pizzas}                                                                         &: \dfrac{3 \times 4 \times \cancel{2}}{\cancel{2}}  \text{ people} \\\\
-8  \text{ pizzas}                                                                         &: 12  \text{ people}
+\text{Number of persons}    &= \dfrac {\text{Total pizzas}} {\text{Pizza per person}} \\\\
+                            &= \dfrac {8} { \dfrac {2} {3}} \\\\
+                            &= \dfrac {8 \times 3} { 2} \\\\
+                            &= \dfrac {4 \times 2 \times 3} {2} \\\\
+                            &= \dfrac {4 \times \cancel{2} \times 3} {\cancel{2}} \\\\
+                            &= 4 \times 3 \\\\
+                            &= 12 \\\\
+\text{Number of friends}    &= 12 - 1 \\\\
+                            &= 11
 \end{aligned}
 $
+</code></pre>
+</div>
+<div class='workingcodeblock'>
 
-Since we have to find the number of friends and Jeff is also counted for in the total count, adjust the answer accordingly.
-
+<pre class='language-latex'><code class='language-latex'>Let the number of persons $= a$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
 $
 \begin{aligned}
+\dfrac{2}{3} \text{ pizzas} : 1 \text{ people}  &= 8 \text{ pizzas} : a \text{ persons} \\\\
+\dfrac{2}{3 \times 1}                           &= \dfrac {8} {a} \\\\
+a                                               &= \dfrac {8 \times 3} { 2} \\\\
+a                                               &= \dfrac {4 \times 2 \times 3} {2} \\\\
+a                                               &= \dfrac {4 \times \cancel{2} \times 3} {\cancel{2}} \\\\
+a                                               &= 4 \times 3 \\\\
+a                                               &= 12
+\end{aligned}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{Number of persons}    &= 12 \\\\
+\text{Number of friends}    &= 12 - 1 \\\\
+                            &= 11
+\end{aligned}
+$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \text{pizzas}                                                        : \text{persons} \\\\
+&= \dfrac{2}{3}                                                         : 1 \\\\
+&= \dfrac{2}{3} \times \dfrac{3}{2}                                     : 1 \times \dfrac{3}{2} \\\\
+&= \dfrac{\cancel{2}}{\cancel{3}} \times \dfrac{\cancel{3}}{\cancel{2}} : \dfrac{3}{2} \\\\
+&= 1                                                                    : \dfrac{3}{2} \\\\
+&= 1 \times 8                                                           : \dfrac{3}{2}\times 8 \\\\
+&= 8                                                                    : \dfrac{3 \times 8}{2} \\\\
+&= 8                                                                    : \dfrac{3 \times 4 \times 2}{2} \\\\
+&= 8                                                                    : \dfrac{3 \times 4 \times \cancel{2}}{\cancel{2}} \\\\
+&= 8 \text{ pizzas}                                                     : 12 \text{ people}
+\end{aligned}
+$
+<emptyline>
+$
+\begin{aligned}
+\text{Number of persons}    &= 12 \\\\
 \text{Number of friends}    &= 12 - 1 \\\\
                             &= 11
 \end{aligned}
@@ -323,7 +407,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$11$ friends
+<pre class='language-latex'><code class='language-latex'>$11$
 </code></pre>
 </div>
 </div>
@@ -332,35 +416,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='5860A867-7759-4511-AF82-70728B52390C' id='FORM-5860A867-7759-4511-AF82-70728B52390C' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='5860A867-7759-4511-AF82-70728B52390C' id='FORM-5860A867-7759-4511-AF82-70728B52390C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -380,10 +464,10 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -496,9 +580,9 @@ $1:4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of pupils in a class $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Ratio of girls to boys} &= \dfrac {a/4} {a} \\\\
@@ -536,10 +620,10 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -893,10 +977,10 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1242,7 +1326,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prpcr question'>
 <div class='uuid'>
 <p>3CF2E7E6-C0AF-4E86-9374-F5C10C55C419</p>
 </div>
@@ -1250,13 +1334,13 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prpcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1362,7 +1446,7 @@ $360 \ \text{ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Water required}                         &= 500 \ \text{ml} - 140 \ \text{ml} \\\\
@@ -1437,10 +1521,10 @@ $
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1590,10 +1674,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1743,10 +1827,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2038,10 +2122,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2191,10 +2275,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2479,10 +2563,10 @@ TODOANSWER
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2907,10 +2991,10 @@ TODOANSWER
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3056,7 +3140,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3AE7516E-AA59-4592-8396-27DB0D40611F</p>
 </div>
@@ -3067,10 +3151,10 @@ TODOANSWER
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3152,7 +3236,8 @@ How many millimetres are there in $25.1 \ \text{metres}$?
 $
 \begin {aligned}
 &= 25.1 \ \text{m} \\\\
-&= 25.1 \times \ 1000 \ \text{mm} \\\\
+&= 25.1 \times 100 \ \text{cm} \\\\
+&= 25.1 \times 100 \times 10 \ \text{mm} \\\\
 &= 25100 \ \text{mm}
 \end {aligned}
 $
@@ -3172,7 +3257,8 @@ $25100 \ \text{mm}$
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
 &= 25.1 \ \text{m} \\\\
-&= 25.1 \times \ 1000 \ \text{mm} \\\\
+&= 25.1 \times 100 \ \text{cm} \\\\
+&= 25.1 \times 100 \times 10 \ \text{mm} \\\\
 &= 25100 \ \text{mm}
 \end {aligned}
 $
@@ -3196,35 +3282,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' id='FORM-3AE7516E-AA59-4592-8396-27DB0D40611F' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='3AE7516E-AA59-4592-8396-27DB0D40611F' id='FORM-3AE7516E-AA59-4592-8396-27DB0D40611F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3244,10 +3330,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3358,7 +3444,7 @@ $4.565$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
@@ -3368,7 +3454,7 @@ $
 1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
 \end{aligned}
 $
-
+<emptyline>
 It is nearest to $4.565$
 </code></pre>
 </div>
@@ -3398,10 +3484,10 @@ It is nearest to $4.565$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3507,7 +3593,7 @@ $\pounds 0.23$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 48 \ \text{pencils}                 &: \pounds 11.04 \\\\
@@ -3543,10 +3629,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3663,7 +3749,7 @@ $384$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, chocolate bar in a box $= 24$. So,
-
+<emptyline>
 $
 \begin{aligned}
 \text{chocolate bar in 14 boxes} &= 24 \times 16 \\\\
@@ -3675,7 +3761,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternatively, we can solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text {Box}               &: 24 \ \text {chocolates} \\\\
@@ -3711,10 +3797,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3825,7 +3911,7 @@ $4.565$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
@@ -3835,7 +3921,7 @@ $
 1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
 \end{aligned}
 $
-
+<emptyline>
 It is nearest to $4.565$
 </code></pre>
 </div>
@@ -3865,10 +3951,10 @@ It is nearest to $4.565$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3971,7 +4057,7 @@ $\pounds 0.22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 36 \ \text{pencils}                 &: \pounds 7.92 \\\\
@@ -4007,10 +4093,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4158,10 +4244,10 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4272,7 +4358,7 @@ $4.565$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
@@ -4282,7 +4368,7 @@ $
 1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
 \end{aligned}
 $
-
+<emptyline>
 It is nearest to $4.565$
 </code></pre>
 </div>
@@ -4312,10 +4398,10 @@ It is nearest to $4.565$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4466,10 +4552,10 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4573,7 +4659,7 @@ $284 \ \text{ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text{pint}                    &: 568 \ \text{ml} \\\\
@@ -4610,10 +4696,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4719,7 +4805,7 @@ $\pounds 192$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text{month}                  &: \pounds 16 \\\\
@@ -4755,10 +4841,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4867,7 +4953,7 @@ $\dfrac {2} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers between $1$ to $20$ $= $8$
-
+<emptyline>
 Total numbers $= $20
 $
 \begin{aligned}
@@ -4906,10 +4992,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5150,7 +5236,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
 </div>
@@ -5158,10 +5244,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5285,7 +5371,7 @@ $50 \ \text{days}$
 20 \ \text {cut/day}                                                  &: 50 \ \text {days}
 \end{aligned}
 $
-
+<emptyline>
 So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
 </code></pre>
 </div>
@@ -5315,10 +5401,10 @@ So, the number of days plaster would last if we patch 20 cut knees per day $= 50
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5467,10 +5553,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5748,7 +5834,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CE8C7AD4-B1AC-4902-B427-7BDEABBF4680</p>
 </div>
@@ -5759,10 +5845,10 @@ TODOANSWER
 <p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5833,42 +5919,86 @@ tratio
 <p class='review_status initial' id='SUBTAG-STATUS-CE8C7AD4-B1AC-4902-B427-7BDEABBF4680'>Initial</p>
 <div class='question question'>
 
-In $1970$, $\pounds 1$ was worth the same as $$2.50$.
-How many pounds was $$1000$ worth? 
+In $1970$, $\pounds 1$ was worth the same as $\text{\textdollar} 2.50$.
+How many pounds was $\text{\textdollar} 1000$ worth? 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the question
+Let the value (in $\pounds$) $= p$
+
+Using equivalent ratio,
 
 $
 \begin{aligned}
-&= 2.50 \times 1000 \\\\
-&= \pounds 2500
+1 : 2.50                &= p : 1000 \\\\
+\dfrac{1}{2.5}          &= \dfrac {p} {1000} \\\\
+p                       &= \dfrac {1000 \times 1} {2.5} \\\\
+p                       &= \dfrac {25 \times 400 \times 10} {25} \\\\
+p                       &= \dfrac {\cancel{25} \times 40 \times 10} {\cancel{25}} \\\\
+p                       &= \pounds 400
 \end{aligned}
 $
+
+Value $= \pounds 400$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text{Pounds}        : \text{Dollars} \\\\
+&= \pounds 1            : \text{\textdollar} 2.50 \\\\
+&= 1 \times 400         : 2.50 \times 400 \\\\
+&= \pounds 400          : \text{\textdollar} 1000
+\end{aligned}
+$
+
+Value $= \pounds 400$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2500$
+$\pounds 400$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question
-
+<pre class='language-latex'><code class='language-latex'>Let the value (in $\pounds$) $= p$
+<emptyline>
+Using equivalent ratio,
+<emptyline>
 $
 \begin{aligned}
-&= 2.50 \times 1000 \\\\
-&= \pounds 2500
+1 : 2.50                &= p : 1000 \\\\
+\dfrac{1}{2.5}          &= \dfrac {p} {1000} \\\\
+p                       &= \dfrac {1000 \times 1} {2.5} \\\\
+p                       &= \dfrac {25 \times 400 \times 10} {25} \\\\
+p                       &= \dfrac {\cancel{25} \times 40 \times 10} {\cancel{25}} \\\\
+p                       &= \pounds 400
 \end{aligned}
 $
+<emptyline>
+Value $= \pounds 400$
+</code></pre>
+</div>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+&= \text{Pounds}        : \text{Dollars} \\\\
+&= \pounds 1            : \text{\textdollar} 2.50 \\\\
+&= 1 \times 400         : 2.50 \times 400 \\\\
+&= \pounds 400          : \text{\textdollar} 1000
+\end{aligned}
+$
+<emptyline>
+Value $= \pounds 400$
 </code></pre>
 </div>
 </div>
@@ -5880,7 +6010,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$\pounds 2500$
+<pre class='language-latex'><code class='language-latex'>$\pounds 400$
 </code></pre>
 </div>
 </div>
@@ -5889,35 +6019,35 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' id='FORM-CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' id='FORM-CE8C7AD4-B1AC-4902-B427-7BDEABBF4680' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -5937,10 +6067,10 @@ $
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6092,10 +6222,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6246,10 +6376,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:35</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6399,10 +6529,10 @@ TODOANSWER
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6559,10 +6689,10 @@ TODOANSWER
 <p>highgate-school--11-plus--maths--9999--sample-paper-a:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6711,7 +6841,7 @@ Tim uses %s paintballs. $=$ 700
 Total cost         = $\pounds 65
 Cost of paintballs = Entry cost - Total cost
 Cost of paintballs = $\pounds 42
-
+<emptyline>
 100 paintballs     : $\pounds 6
 ??? paintballs     : $\pounds 42
 100 x 7 paintballs : $\pounds 6 x 7
@@ -6774,15 +6904,15 @@ Janice uses %s litres of hot water. $=$ 75
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let c represent cold water.
-
+<emptyline>
 Cold water  = c
 Hot water   = 5 x c
 Hot water   = 5c 
 Total water = $90 \ \text{l}$ 
-
+<emptyline>
 Total water = 5c + c
             = 6c
-
+<emptyline>
 6c = $90 \ \text{l}$
 c  = $15 \ \text{l}$
 5c = $75 \ \text{l}$
@@ -6843,15 +6973,15 @@ $415 \ \text{kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$234 \ \text{kg}$ sand + gravel = $400 \ \text{kg}$ total mixture
-
+<emptyline>
 400 - $234 \ \text{kg}$ = $166 \ \text{kg}$ gravel
-
+<emptyline>
 $166 \ \text{kg}$ gravel        : $400 \ \text{kg}$ total mixture
 ???kg gravel        : $1000 \ \text{kg}$ total mixture
 $166 \ \text{kg}$ / 400         : $400 \ \text{kg}$ / 400 
 $166 \ \text{kg}$ / 400 x 1000  : $400 \ \text{kg}$ / 400 x 1000 
 $415 \ \text{kg}$ gravel        : $1000 \ \text{kg}$ total mixture
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7035,10 +7165,10 @@ TODOANSWER
 <p>highgate-school--11-plus--maths--9999--sample-paper-c:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7484,10 +7614,10 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7847,10 +7977,10 @@ TODOANSWER
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8083,10 +8213,10 @@ $
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -8244,10 +8374,10 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

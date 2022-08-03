@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-1-g0-prpcr"
 title: "TopicPaper - Time - 1 - G0 - PRPCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -127,9 +127,9 @@ $27 \ \text {minutes}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 The time is given in hours, but the final answer has to be in minutes.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Minutes stayed}  &= 15 \% \ \text {of} \ 3  \\\\

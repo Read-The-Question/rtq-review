@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-oldpr-prcc"
 title: "TopicPaper - Simpleword - 6 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -317,7 +317,7 @@ $33.6 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &=  \dfrac{235 \ \text{m}}{7} \\\\
@@ -518,7 +518,7 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of cubes} &= \dfrac {\text{Volume of bigger cube}} {\text{Volume of smaller cube}}  \\\\
@@ -712,11 +712,11 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 If the bigger cube is painted red all over
-
+<emptyline>
 then, only the corner smaller cubes can have three red faces
-
+<emptyline>
 The $8$ small cubes will have $3$ red faces.
 </code></pre>
 </div>
@@ -904,11 +904,11 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 only center small cube on the face of bigger cube shares a a face with exactly $5$ other small cubes
-
+<emptyline>
 number of faces on bigger cube is $6$      
-
+<emptyline>
 The $6$ small cubes share a faces with exactly $5$ other small cubes.
 </code></pre>
 </div>
@@ -1092,7 +1092,7 @@ $0$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 The $0$ small cubes share a faces with exactly $2$ other small cubes.
 </code></pre>
 </div>
@@ -1283,7 +1283,7 @@ $70 \ \text{hours}$
 
 <pre class='language-latex'><code class='language-latex'>
 Let's find the total hours of celebrity gossip's broadcasted by the channel each week.
-
+<emptyline>
 $
 \begin{aligned}
       &= 98 - \dfrac {2} {7} \times 98 \ \text{hours} \\\\
@@ -1296,7 +1296,7 @@ $
       & = 70 \ \text{hours}                                
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

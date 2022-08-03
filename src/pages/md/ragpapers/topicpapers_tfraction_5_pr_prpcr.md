@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-pr-prpcr"
 title: "TopicPaper - Fraction - 5 - PR - PRPCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -341,9 +341,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of edge of cube $= a$
-
+<emptyline>
 As the cube has six faces,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of all faces} \ &= \text{Area of each face} \ \times 6 \\\\
@@ -351,14 +351,14 @@ $
 &= 6a^2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of black region} \ &= 4 \times (\dfrac{a}{3} \times a) \\\\
 &= \dfrac{4a^2}{3}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of black region} &= \dfrac{\text{Area of black region}\ }{\text{Area of all faces}\ } \\\\

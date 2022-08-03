@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-pr-prccrl"
 title: "TopicPaper - Time - 4 - PR - PRCCRL"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -204,7 +204,7 @@ $01{:}04 \ \text{pm}$
                        &= 64 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time shown}      &= \text{Actual time} + \text{Time gained} \\\\
@@ -276,7 +276,7 @@ $15{:}07 $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the time passed since 12 noon = a
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -288,14 +288,14 @@ a        &= (07 {:} 40) \times \dfrac {3} {7} \\\\
 a        &= 03{:}17
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Correct time}    &=  12{:}00 \ \text{pm} + 03{:}17 \\\\
                        &=  15{:}07
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -596,7 +596,7 @@ $16 \ \text{hours}$
 \text{Time taken to show correct time}  &= 160 \ \text{hours}
 \end{aligned}
 $
-
+<emptyline>
 Time difference between first and second clock = $160 - 144 \ \text{hours}$
                                                = $16 \ \text{hours}$
 </code></pre>
@@ -1105,7 +1105,7 @@ $
 &   \text{Dolphin show}     &   13{:}00   &   13{:}40 
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

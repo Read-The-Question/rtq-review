@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -181,11 +181,11 @@ $15$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
 The track measurement is given in $\text{meters}$ while the distance is given in $\text{kilometers}$.
-
+<emptyline>
 Let's convert the distance into $\text{meters}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total rounds}  &= \dfrac {\text {Distance}} {\text {Perimeter}} \\\\
@@ -272,13 +272,13 @@ $28.4 \ \text {kilometres}$
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
 The track length is given in $\text{meters}$ while the marathon length is given in $\text{kilometers}$.
-
+<emptyline>
 Let's convert the track length into $\text{kilometers}$.
-
+<emptyline>
 Let the length of a lap through town $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 2 \times \text {Length of a lap through town}  &= \text {Total length for the marathon} - (\text {Length of the the country roads} + 3 \times \text {Length of the running track}) \\\\
@@ -526,17 +526,17 @@ $8 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_triangle
-
+<emptyline>
 Let the length of a side of a square $= a$
-
+<emptyline>
 Let the length of a side of the equilateral triangle $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a \times a                                   &= 36 \\\\
@@ -555,7 +555,7 @@ b                                            &= \dfrac {8 \times \cancel 3} {\ca
 b                                            &= 8 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Length of one side of the equilateral triangle $= 8 \ \text{cm}$
 </code></pre>
 </div>
@@ -756,13 +756,13 @@ $25 \ \text {cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the length of a side of square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 4 \times a                  &= 20 \\\\
@@ -1009,9 +1009,9 @@ $48 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of the card}  &= 2 \times (18 + 6) \\\\
@@ -1072,9 +1072,9 @@ $108 \ \text {cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Area of the card}  &= 18 \times 6 \\\\
@@ -1142,9 +1142,9 @@ $18 \ \text {stickers}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Maximum number of stickers that can fit on the card}  &= \dfrac {\text {Area of the card}} {\text {Area of a sticker}} \\\\

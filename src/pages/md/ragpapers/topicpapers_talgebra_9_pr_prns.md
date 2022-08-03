@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-pr-prns"
 title: "TopicPaper - Algebra - 9 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "15"
 ---
 <ul class='question default-decimal'>
@@ -176,7 +176,7 @@ TODOANSWER
 &= 40
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -2885,9 +2885,9 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>
 JJ, MM, CC are all multiples of $11$
-
+<emptyline>
 If you add 3 2.digit numbers as in question then the highest number achieved is 
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &    & 9     & 9  \\
@@ -2897,15 +2897,15 @@ $
        & 2  & 6     & 4
 \end{array}
 $
-
+<emptyline>
 So, the largest value of $J$ can be $2$ or smallest value $1$
-
+<emptyline>
 Now let's consider the Units places.
-
+<emptyline>
 $J + M + C = C$, i.e. $J+M$ must add to $10$, then only $J+M+C$ will result in $C$ at untis place. 
-
+<emptyline>
 Now refer to the Tens places, which has $1$ as carry over from sum of units places and $J + M = 10$ or $J + M$ will have $0$ in unit place.
-
+<emptyline>
 $
 \begin{aligned}
 1 + J + M + C &= M \\
@@ -2913,9 +2913,9 @@ $
 1 + C = M
 \end{aligned}
 $
-
+<emptyline>
 To summarise the assumptions above: 
-
+<emptyline>
 $
 \begin{aligned}
 J = 1 \text {\ or,} \\
@@ -2924,11 +2924,11 @@ J + M & = 10 \\
 1 + C = M
 \end{aligned}
 $
-
+<emptyline>
 Now let's substitute our assumptions
-
+<emptyline>
 Assumption J = 1
-
+<emptyline>
 $
 \begin{aligned}
 J + M &= 10 \\
@@ -2940,9 +2940,9 @@ C &= 9 -1 \\
   &= 8
 \end{aligned}
 $
-
+<emptyline>
 If J is $1$, M is $9$ and C is $8$
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &    & 1     & 1  \\
@@ -2952,9 +2952,9 @@ $
        & 1  & 9     & 8
 \end{array}
 $
-
+<emptyline>
 Assumption J = 2
-
+<emptyline>
 $
 \begin{aligned}
 J + M &= 10 \\
@@ -2966,9 +2966,9 @@ C + 1 &= M\\
       &= 7
 \end{aligned}
 $
-
+<emptyline>
 If J is $2$, M is $8$ and C is $7$
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
        &    & 2     & 2  \\
@@ -2978,7 +2978,7 @@ $
        & 2  & 8     & 7
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-blocked"
 title: "TopicPaper - Simpleword - 4 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -171,7 +171,7 @@ $17$
                                   &= 16.66
 \end{aligned}
 $
-
+<emptyline>
 17 boxes are required for 100 eggs
 </code></pre>
 </div>
@@ -370,11 +370,11 @@ $17$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the cabinets holding 646 DVDs $= a$,
-
+<emptyline>
 38 DVDs hold by one display cabinet,
-
+<emptyline>
 So,
-
+<emptyline>
 $
 \begin{aligned}
 a &= \dfrac {646} {38} \\\\

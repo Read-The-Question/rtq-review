@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttable-1"
 title: "TopicPaper - Table - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -1847,7 +1847,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total girls in the class}               &= 30 - 16 \\\\
@@ -2520,7 +2520,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>96D522A9-D090-405A-8EAA-4F13137334B7</p>
 </div>
@@ -2534,7 +2534,7 @@ TODOANSWER
 <p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2705,7 +2705,7 @@ $\dfrac {4} {23}$
                                 &= 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {fraction of boys who walk to school} &= \dfrac {4} {23}
@@ -5131,14 +5131,14 @@ $12, 16, 30$
                              &= 12
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of students in 6A} &= 48 - 18 \\\\
                                  &= 30
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of girls in 6A} &= 30 - 14 \\\\
@@ -5295,7 +5295,7 @@ $26$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question
-
+<emptyline>
 The number of studdents present that number of students left the school-type
 $26$
 </code></pre>
@@ -8118,24 +8118,24 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>
 No. of tricks as $n$
-
+<emptyline>
 Super tricks as $s$
-
+<emptyline>
 Good tricks as $g$
-
+<emptyline>
 Poor tricks as $p$
-
+<emptyline>
 Total points as $t$
-
+<emptyline>
 $n = s + g + p$
-
+<emptyline>
 $t = (s \times 5) + (g \times 3) + (p \times 2)$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>DEREK
-
+<emptyline>
 $
 \begin{aligned}
 n &= 8 \\\\
@@ -8143,9 +8143,9 @@ g &= 1 \\\\
 p &= 2
 \end{aligned}
 $
-
+<emptyline>
 Let's find $s$ and $t$ using the formula above.
-
+<emptyline>
 $
 \begin{aligned}
 8 &= s + 1 + 2 \\\\
@@ -8156,9 +8156,9 @@ t &= 25 + 3 + 4 \\\\
 t &= 32\\
 \end{aligned}
 $
-
+<emptyline>
 Dereck : Super points are 5 and total points are 32.
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -8166,30 +8166,30 @@ Dereck : Super points are 5 and total points are 32.
 
 <pre class='language-latex'><code class='language-latex'>
 ALI
-
+<emptyline>
 n = 9
-
+<emptyline>
 Ali scored lower points than Dereck.
-
+<emptyline>
 Dereck > Ali > 
-
+<emptyline>
 Charlie 32 > Ali >   30
-
+<emptyline>
 Ali has total of 31 points.
-
+<emptyline>
 Using trial and error. 
-
+<emptyline>
 $3$ or $2$ combinations for tricks which add up 
-
+<emptyline>
 $
 \begin{aligned}
 t &= (4 \times 5) + (3 \times 3) + (2 \times 2) \\\\
 n &= 9
 \end{aligned}
 $
-
+<emptyline>
 Let's find $s$ and $t$ using the formula above.
-
+<emptyline>
 $
 \begin{aligned}
 8 &= s + 1 + 2 \\\\
@@ -8200,9 +8200,9 @@ t &= 25 + 3 + 4\\\\
 t &= 32
 \end{aligned}
 $
-
+<emptyline>
 Dereck : Super points are 5 and total points are 32.
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -9460,9 +9460,9 @@ $10$
 
 <pre class='language-latex'><code class='language-latex'>
 (Gold $\times 3$) + (Silver $\times 2$) + (Bronze $\times 1$)
-
+<emptyline>
 Let's find the total point scores of Brussland.
-
+<emptyline>
 $
 \begin{aligned}
 &=(13 \times 3) + (8 \times 2) + (16 \times 1) \\
@@ -9470,11 +9470,11 @@ $
 &= 71 \\
 \end{aligned}
 $
-
+<emptyline>
 Brussland scored $71$ points.
-
+<emptyline>
 Let's take the Bronze points won by Ceeden as $x$.  
-
+<emptyline>
 $
 \begin{aligned}
 65 &=(14 \times 3) + (9 \times 2) + (x \times 1) \\
@@ -9484,11 +9484,11 @@ $
    &= 5   \\
 \end{aligned}
 $
-
+<emptyline>
 Ceeden won $5$ bronze points.
-
+<emptyline>
 Let's take the Gold points won by Dorway as $y$.  
-
+<emptyline>
 $
 \begin{aligned}
      62 &=(y \times 3) + (8 \times 2) + (7 \times 1) \\ 
@@ -9500,15 +9500,15 @@ $
       y &= 13 \\
 \end{aligned}
 $
-
+<emptyline>
 Dorway won $13$ Gold points.
-
+<emptyline>
 Let's find Esthopia's points.
-
+<emptyline>
 As per question Esthopia won same number of Gold, Silver and Bronze medals. 
-
+<emptyline>
 Let's take the medals won as $x$
-
+<emptyline>
 $
 \begin{aligned}
      60 &=(x \times 3) + (x \times 2) + (x \times 1) \\
@@ -9518,9 +9518,9 @@ $
         &= 10 \\
  \end{aligned}
 $
-
+<emptyline>
 Esthopia won 10 medals each of Gold, Silver and Bronze.
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9714,9 +9714,9 @@ $1^{3} + 2^{3} + 3^{3} + 4^{3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>In column $2$ the consecutive row is increasing by 1 more digit. 
-
+<emptyline>
 Row $3$ is $1^{3} + 2^{3} + 3^{3}$ 
-
+<emptyline>
 So, Row $4$  is $1^{3} + 2^{3} + 3^{3} + 4^{3}$ 
 </code></pre>
 </div>
@@ -9778,23 +9778,23 @@ $10^{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Column $5$  is sum of all the digits  in Column 1 (without cubes) and then square of the sum. 
-
+<emptyline>
 Row $4$ is Column $2$ is $1^{3} + 2^{3} + 3^{3} + 4^{3}$ 
-
+<emptyline>
 So, $1 + 2 + 3 + 4 = 10$ 
-
+<emptyline>
 $10^{2}$
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Column $3$ is $1^{3} + 2^{3} + 3^{3} + 4^{3}$  
-
+<emptyline>
 So,
-
+<emptyline>
 $1 + 8 + 27 + 64 = 100 = 10^{2}$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -9850,9 +9850,9 @@ $225$
 
 <pre class='language-latex'><code class='language-latex'>
 Let's take the available information from Row 3
-
+<emptyline>
 $36 + 4^{3} + 5^{3}$
-
+<emptyline>
 $
 \begin{aligned}
 &= 36 + 64 + 125 \\
@@ -9909,11 +9909,11 @@ $(1 + 2 + 3 + 4 + 5)^{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Column $6$ has the same numbers which are in Column $2$
-
+<emptyline>
 e.g. Let's take Row $3$ is $1^{3} + 2^{3} + 3^{3}$.  So,
-
+<emptyline>
 Column $6$ has $(1 + 2 + 3)^{2}$ So (d) in Row $5$ is, 
-
+<emptyline>
 $(1 + 2 + 3 + 4 + 5)^{2}$
 </code></pre>
 </div>
@@ -9968,7 +9968,7 @@ $441$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take the available information from Row 5 solution (c)
-
+<emptyline>
 $
 \begin{aligned}
 (c) &= 225 \\ 
@@ -9977,7 +9977,7 @@ $
     &= 441 \\
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

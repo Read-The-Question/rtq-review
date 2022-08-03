@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpermutation-2-g0"
 title: "TopicPaper - Permutation - 2 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -170,9 +170,9 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Since it is an odd number, only $5$ and $7$ can be used in the unit place.
-
+<emptyline>
 When the three digit number ends in $5$, the possible options are:
-
+<emptyline>
 - $445$
 - $555$
 - $775$
@@ -182,11 +182,11 @@ When the three digit number ends in $5$, the possible options are:
 - $745$
 - $575$
 - $755$
-
+<emptyline>
 Count $= 9$
-
+<emptyline>
 When the three digit number ends in $7$, the possible options are:
-
+<emptyline>
 - $447$
 - $557$
 - $777$
@@ -196,10 +196,10 @@ When the three digit number ends in $7$, the possible options are:
 - $747$
 - $577$
 - $757$
-
+<emptyline>
 
 Count $= 9$
- 
+<emptyline>
 $
 \begin{aligned} 
 \text{Total Count} &= 9 + 9 \\\\\
@@ -211,15 +211,15 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We can also solve this problem using permutation instead of manually counting all the arrangements.
-
+<emptyline>
 Since it is an odd number, only $5$ and $7$ can be used in the unit place.
-
+<emptyline>
 The count of digits that can be used in the hundreds place    $= 3$
-
+<emptyline>
 The count of digits that can be used in the tens place        $= 3$
-
+<emptyline>
 The count of digits that can be used in the unit place        $= 2$
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Total Arrangements}                           &= 3 \times 3 \times 2 \\\\\
@@ -437,24 +437,24 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>When using $4$ and any smaller number, the possible options are:
-
+<emptyline>
 - $4 + 1$
 - $1 + 4$
-
+<emptyline>
 Count $= 2$
-
+<emptyline>
 When using $3$ and any smaller number, the possible options are:
-
+<emptyline>
 - $3 + 2$
 - $2 + 3$
 - $3 + 1 + 1$
 - $1 + 3 + 1$
 - $1 + 1 + 3$
-
+<emptyline>
 Count $= 5$
-
+<emptyline>
 When using $2$ and any smaller number, the possible options are:
-
+<emptyline>
 - $2 + 2 + 1$
 - $2 + 1 + 2$
 - $1 + 2 + 2$
@@ -462,15 +462,15 @@ When using $2$ and any smaller number, the possible options are:
 - $1 + 2 + 1 + 1$
 - $1 + 1 + 2 + 1$
 - $1 + 1 + 1 + 2$
-
+<emptyline>
 Count $= 7$
-
+<emptyline>
 When using $1$ and any smaller number, the possible options are:
-
+<emptyline>
 - $1 + 1 + 1 + 1 + 1$
-
+<emptyline>
 Count $= 1$
-
+<emptyline>
  
 $
 \begin{aligned} 
@@ -677,27 +677,27 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find all the possible ways to put $3$ crosses in $5$ squares.
-
+<emptyline>
 $\large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {0} }$
-
+<emptyline>
 $\large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} }$
-
+<emptyline>
 $\large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} }$
-
+<emptyline>
 $\large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} }$
-
+<emptyline>
 $\large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} }$
-
+<emptyline>
 $\large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} }$
-
+<emptyline>
 $\large { \boxed {0} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} }$
-
+<emptyline>
 $\large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} }$
-
+<emptyline>
 $\large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} }$
-
+<emptyline>
 $\large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {0} } \ \large { \boxed {\text{X}} } \ \large { \boxed {\text{X}} }$
-
+<emptyline>
 Total options $= 10$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgeometry-3"
 title: "TopicPaper - Geometry - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "37"
 ---
 <div class='paper'>
@@ -4113,7 +4113,7 @@ $3.4 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1 \ \text{cm} = 10 \ \text{mm}$
-
+<emptyline>
 $
 \begin{aligned}
 &= 34 \ \text{mm} \\\\

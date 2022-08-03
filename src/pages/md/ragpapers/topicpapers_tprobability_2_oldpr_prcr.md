@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-oldpr-prcr"
 title: "TopicPaper - Probability - 2 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -122,7 +122,7 @@ $\dfrac {2} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Probability $= \dfrac{\text {Number of favorable outcomes}} {\text{Total number of outcomes}}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Probability of choosing red counter}      &= \dfrac {4} {6 + 4} \\\\

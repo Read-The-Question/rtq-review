@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-notstarted"
 title: "TopicPaper - Sequence - 5 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -539,17 +539,17 @@ square is $\underline {14}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$3$ by $3$ squares $= 1$ (The big outer square)
-
+<emptyline>
 $2$ by $2$ squares $= 4$ (as drawn in the question the centre square being common to all)
-
+<emptyline>
 $1$ by $1$ squares $= 9$ (The small squares)
-
+<emptyline>
 Total number of squares in a $3$ by $3$ square 
-
+<emptyline>
 $= 1 + 4 + 9$
-
+<emptyline>
 $=14$ squares
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -618,19 +618,19 @@ square is $\underline {30}$
 
 <pre class='language-latex'><code class='language-latex'>
 $4$ by $4$ squares $= 1$ (The big outer square)
-
+<emptyline>
 $3$ by $3$ squares $= 4$ (the $4$ centre square being common to all)
-
+<emptyline>
 $2$ by $2$ squares $= 9$ 
-
+<emptyline>
 $1$ by $1$ squares $= 16$ (The small squares)
-
+<emptyline>
 Total number of squares in a $4$ by $4$ square 
-
+<emptyline>
 $= 1 + 4 + 9 + 16$
-
+<emptyline>
 $=30$ squares
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -714,9 +714,9 @@ $55$ squares
 
 <pre class='language-latex'><code class='language-latex'>
 Let's find the pattern in the previous parts of the question.
-
+<emptyline>
 Part A : $3$ by $3$ squares 
-
+<emptyline>
 $
 \begin{aligned} 
       & = 1^2 + 2^2 + 3^2 \\\\
@@ -724,9 +724,9 @@ $
       & = 14              
 \end{aligned}
 $
-
+<emptyline>
 Part B : $4$ by $4$ squares 
-
+<emptyline>
 $
 \begin{aligned} 
       & = 1^2 + 2^2 + 3^2 + 4^2 \\\\
@@ -734,11 +734,11 @@ $
       & = 30                    
 \end{aligned}
 $
-
+<emptyline>
 **Total number of squares in a grid is the sum of all the squares of the number of grids given.**
-
+<emptyline>
 So, the total number of squares in a $5$ by $5$ square.
-
+<emptyline>
 $
 \begin{aligned} 
       & = (1^2 + 2^2 + 3^2 + 4^2) + 5^2 \\\\
@@ -746,9 +746,9 @@ $
       & = 55
 \end{aligned}
 $
-
+<emptyline>
 The total number of squares in a $5$ by $5$ square $=55$
-
+<emptyline>
 </code></pre>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g0"
 title: "TopicPaper - Money - 2 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -397,7 +397,7 @@ $\pounds 36.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total cost}   &= 8 \times (\pounds 6 - \dfrac {1} {4} \times \pounds 6) + \dfrac {1} {2} \times 30 \text {p} \\\\
@@ -599,7 +599,7 @@ $20 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cookies she can buy}   &= \dfrac {\pounds 10} {70 \text {p}} \\\\
@@ -607,9 +607,9 @@ $
                                     &= 14.28
 \end {aligned}
 $
-
+<emptyline>
 She can buy $14$ cookies with $\pounds 10$ note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Change received}     &= \pounds 10 - 14 \times 70 \text {p} \\\\
@@ -966,7 +966,7 @@ $33 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent}                   &= \pounds 20 - \pounds 14.72 \\\\
@@ -1067,11 +1067,11 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let total number of slices $= a$.
-
+<emptyline>
 Number of slices Donald bought $= \dfrac {a} {3}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of slices Alisha bought}                                      &= 3 \\\\
@@ -1088,9 +1088,9 @@ a                                                                           &= 3
 a                                                                           &= 27
 \end {aligned}
 $
-
+<emptyline>
 Total number of slices $= 27$
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of slices Donald bought}  &= \dfrac {a} {3} \\\\
@@ -1100,14 +1100,14 @@ $
                                         &= 9
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Difference}  &= 9 - 3 \\\\
                     &= 6
 \end {aligned}
 $
-
+<emptyline>
 Donald bought $6$ slices more than Alisha.
 </code></pre>
 </div>
@@ -1184,11 +1184,11 @@ $\pounds 3.60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a pork chop $= a$
-
+<emptyline>
 Cost of a lamb chop $= 3a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times 3a + 2 \times a    &= \pounds 9.60 \\\\
@@ -1198,9 +1198,9 @@ a                           &= \dfrac {9.60} {8} \\\\
 a                           &= \pounds 1.20
 \end{aligned}
 $
-
+<emptyline>
 Cost of a pork chop $= \pounds 1.20$
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of a lamb chop} &= 3 \times 1.20 \\\\
@@ -1407,11 +1407,11 @@ $40 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a bag (in \text {pence}) $= a$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 3a  &= \pounds 2 - 80 \text {p} \\\\
@@ -1423,7 +1423,7 @@ a   &= \dfrac {\cancel {3} \times 40} {\cancel {3}} \\\\
 a   &= 40 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 Cost of a bag $= 40 \text {p}$
 </code></pre>
 </div>
@@ -1651,7 +1651,7 @@ $\pounds 3.70$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent} &= 20 \text {p} + 3 \times 30 \text {p} + \pounds 2.60 \\\\
@@ -1718,7 +1718,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of times} &= \dfrac {\pounds 5 - (20 \text {p} + \pounds 2.60)} {30 \text {p}} \\\\
@@ -1728,7 +1728,7 @@ $
                         &= 7.33
 \end {aligned}
 $
-
+<emptyline>
 Anna can visit $7$ times a side show.
 </code></pre>
 </div>

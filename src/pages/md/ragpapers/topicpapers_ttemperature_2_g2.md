@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-2-g2"
 title: "TopicPaper - Temperature - 2 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -309,7 +309,7 @@ $21 \degree \text {C}$
                     &= 21 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -666,7 +666,7 @@ $
                                          &= -8 \degree \text {C}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

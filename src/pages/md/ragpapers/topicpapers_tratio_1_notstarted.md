@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tratio-1-notstarted"
 title: "TopicPaper - Ratio - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
-questions_count: "35"
+date: 2022-08-03 14:15:25
+questions_count: "36"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,10 +14,10 @@ questions_count: "35"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -120,7 +120,7 @@ $\pounds 57.50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>This can be solved using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 1  \text{ lollipop}                 &: \pounds 1.25 \\\\
@@ -156,10 +156,10 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -272,9 +272,9 @@ $1:4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of pupils in a class $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Ratio of girls to boys} &= \dfrac {a/4} {a} \\\\
@@ -312,10 +312,10 @@ $
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -669,10 +669,10 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1026,10 +1026,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1179,10 +1179,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1332,10 +1332,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1627,10 +1627,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-6:1:27</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1780,10 +1780,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2068,10 +2068,10 @@ TODOANSWER
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2496,10 +2496,10 @@ TODOANSWER
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2653,10 +2653,10 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2767,7 +2767,7 @@ $4.565$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
@@ -2777,7 +2777,7 @@ $
 1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
 \end{aligned}
 $
-
+<emptyline>
 It is nearest to $4.565$
 </code></pre>
 </div>
@@ -2807,10 +2807,10 @@ It is nearest to $4.565$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2916,7 +2916,7 @@ $\pounds 0.23$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 48 \ \text{pencils}                 &: \pounds 11.04 \\\\
@@ -2952,10 +2952,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3072,7 +3072,7 @@ $384$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, chocolate bar in a box $= 24$. So,
-
+<emptyline>
 $
 \begin{aligned}
 \text{chocolate bar in 14 boxes} &= 24 \times 16 \\\\
@@ -3084,7 +3084,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternatively, we can solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text {Box}               &: 24 \ \text {chocolates} \\\\
@@ -3120,10 +3120,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3234,7 +3234,7 @@ $4.565$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
@@ -3244,7 +3244,7 @@ $
 1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
 \end{aligned}
 $
-
+<emptyline>
 It is nearest to $4.565$
 </code></pre>
 </div>
@@ -3274,10 +3274,10 @@ It is nearest to $4.565$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3380,7 +3380,7 @@ $\pounds 0.22$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 36 \ \text{pencils}                 &: \pounds 7.92 \\\\
@@ -3416,10 +3416,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3567,10 +3567,10 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:34</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3681,7 +3681,7 @@ $4.565$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
@@ -3691,7 +3691,7 @@ $
 1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
 \end{aligned}
 $
-
+<emptyline>
 It is nearest to $4.565$
 </code></pre>
 </div>
@@ -3721,10 +3721,10 @@ It is nearest to $4.565$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:1:36</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3875,10 +3875,10 @@ TODOANSWER
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:8</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3982,7 +3982,7 @@ $284 \ \text{ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text{pint}                    &: 568 \ \text{ml} \\\\
@@ -4019,10 +4019,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:20</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4128,7 +4128,7 @@ $\pounds 192$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text{month}                  &: \pounds 16 \\\\
@@ -4164,10 +4164,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4276,7 +4276,7 @@ $\dfrac {2} {5}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers between $1$ to $20$ $= $8$
-
+<emptyline>
 Total numbers $= $20
 $
 \begin{aligned}
@@ -4315,10 +4315,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4561,16 +4561,173 @@ $
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
+<p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:13</p>
+</div>
+<div class='rag'>
+<p>Md Rameez</p>
+</div>
+<div class='rag'>
+<p>rag_mr_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='E78B9B72-6C11-4058-8FF8-DD057053DE50' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-E78B9B72-6C11-4058-8FF8-DD057053DE50'>Initial</p>
+<div class='question question'>
+
+At the school medical centre, there are enough plasters to patch up $12$ cut knees per day for $30 \ \text{days}$. 
+Work out how long the plasters would last if the medical centre were having to treat $20$ boys with cut knees a day.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
+12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 50 \ \text {days}
+\end{aligned}
+$
+
+So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50 \ \text{days}$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
+12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 50 \ \text {days}
+\end{aligned}
+$
+<emptyline>
+So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$50 \ \text{days}$
+</code></pre>
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
 <p>67B0DECD-26D8-4193-BC8B-E1164C7E3A96</p>
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4719,10 +4876,10 @@ TODOANSWER
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:12</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5008,10 +5165,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--2020--sample-paper-3:1:33</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5163,10 +5320,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5317,10 +5474,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-2:1:35</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5470,10 +5627,10 @@ TODOANSWER
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5630,10 +5787,10 @@ TODOANSWER
 <p>highgate-school--11-plus--maths--9999--sample-paper-a:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5782,7 +5939,7 @@ Tim uses %s paintballs. $=$ 700
 Total cost         = $\pounds 65
 Cost of paintballs = Entry cost - Total cost
 Cost of paintballs = $\pounds 42
-
+<emptyline>
 100 paintballs     : $\pounds 6
 ??? paintballs     : $\pounds 42
 100 x 7 paintballs : $\pounds 6 x 7
@@ -5845,15 +6002,15 @@ Janice uses %s litres of hot water. $=$ 75
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let c represent cold water.
-
+<emptyline>
 Cold water  = c
 Hot water   = 5 x c
 Hot water   = 5c 
 Total water = $90 \ \text{l}$ 
-
+<emptyline>
 Total water = 5c + c
             = 6c
-
+<emptyline>
 6c = $90 \ \text{l}$
 c  = $15 \ \text{l}$
 5c = $75 \ \text{l}$
@@ -5914,15 +6071,15 @@ $415 \ \text{kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$234 \ \text{kg}$ sand + gravel = $400 \ \text{kg}$ total mixture
-
+<emptyline>
 400 - $234 \ \text{kg}$ = $166 \ \text{kg}$ gravel
-
+<emptyline>
 $166 \ \text{kg}$ gravel        : $400 \ \text{kg}$ total mixture
 ???kg gravel        : $1000 \ \text{kg}$ total mixture
 $166 \ \text{kg}$ / 400         : $400 \ \text{kg}$ / 400 
 $166 \ \text{kg}$ / 400 x 1000  : $400 \ \text{kg}$ / 400 x 1000 
 $415 \ \text{kg}$ gravel        : $1000 \ \text{kg}$ total mixture
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6106,10 +6263,10 @@ TODOANSWER
 <p>highgate-school--11-plus--maths--9999--sample-paper-c:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6555,10 +6712,10 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6918,10 +7075,10 @@ TODOANSWER
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7154,10 +7311,10 @@ $
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7315,10 +7472,10 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

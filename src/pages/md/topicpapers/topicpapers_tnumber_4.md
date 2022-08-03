@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-4"
 title: "TopicPaper - Number - 4"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -175,10 +175,10 @@ $5.2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Value of each interval = $0.2$
-
+<emptyline>
 
 Therefore, Arrow is pointing at = $5.2$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -625,14 +625,14 @@ $112$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers between $50$ and $60 = 53, 59$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Sum} &= 53 + 59 \\\\
             &= 112
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -694,7 +694,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>1A6DCA65-5FBC-4E8C-9768-C3DF8FDDFDD5</p>
 </div>
@@ -708,7 +708,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -806,11 +806,11 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ \text {First multiple} = 5 \Rightarrow (1,4), (2,3) ,(4,1), (5,0)$
-
+<emptyline>
 $ \text {Second multiple} = 10 \Rightarrow (1,9), (2,8) ,(3,7), (4,6), (5,5), (6,4), (7,3), (8,2), (9,1) $
-
+<emptyline>
 $ \text {count} = 13$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -1478,9 +1478,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= \sqrt[3]{125} \\\\
@@ -1908,7 +1908,7 @@ $49$
 474
 484
 494
-
+<emptyline>
 Total = 49
 </code></pre>
 </div>
@@ -2053,7 +2053,7 @@ $49$
 474
 484
 494
-
+<emptyline>
 Total = 49
 </code></pre>
 </div>
@@ -2402,7 +2402,7 @@ $27400, 169, 7, 5, 64, 0.8, 1634$
 &= 27400
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 13^2 \\\\
@@ -2410,7 +2410,7 @@ $
 &= 169
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 49 \\\\
@@ -2419,7 +2419,7 @@ $
 &= 7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 125 \\\\
@@ -2428,14 +2428,14 @@ $
 &= 5
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 4^3 \\\\
 &= 64
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {240} {300} \\\\
@@ -2446,7 +2446,7 @@ $
 &= 0.8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 43 \times 38 \\\\
@@ -2889,9 +2889,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$27$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 27 &= 3 \times 3 \times 3  \\\\
@@ -2952,16 +2952,16 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$25$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 25 &= 5 \times 5 \\\\
    &= 5^2
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -3111,9 +3111,9 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$28$
-
+<emptyline>
 $\text{Let's verify.}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Factors} &= (1, 2, 4, 7, 14) \\\\
@@ -3182,9 +3182,9 @@ $25, 27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$25, 27$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 25 &= 5 \times 5 \\\\
@@ -3193,7 +3193,7 @@ $
    &= 3^3
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -3407,7 +3407,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &=   4 - ( (4 + 4) \div 4) \\\\
@@ -3630,7 +3630,7 @@ $2357$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{233343}{99} \\\\
@@ -4044,7 +4044,7 @@ $8195$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 8207 - 12 \\\\
@@ -4267,7 +4267,7 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \times 7 + 4 \\\\
@@ -4327,7 +4327,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 12 \div 6 \div 2 \\\\
@@ -4387,7 +4387,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 15 - 4 \times 2 \\\\
@@ -5074,7 +5074,7 @@ $
 &= 877400
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5321,7 +5321,7 @@ this is not done why is it up for review?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>554B3D2D-7D52-4B91-AC2E-5CBB5B5578F4</p>
 </div>
@@ -5335,7 +5335,7 @@ this is not done why is it up for review?
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5447,13 +5447,13 @@ $64$
 
 <pre class='language-latex'><code class='language-latex'>
 Using the clues,
-
+<emptyline>
 Square numbers less than $100$   $= (1, 4, 9, 16, 25, 36, 49, 64, 81)$
-
+<emptyline>
 Numbers which are one less than the multiple of $5$ in the above numbers $= (4, 9, 49, 64)$
-
+<emptyline>
 Factor of $16$ in the above numbers       = $(64)$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5631,7 +5631,7 @@ $62$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin {aligned}
 &=  9 + 7 \times 8 - 3 \\\\
@@ -5692,7 +5692,7 @@ $-480$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin {aligned}
 &= (11 + 13) \times -20 \\\\
@@ -5752,7 +5752,7 @@ $338$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin {aligned}
 &= 2 \times 13^2 \\\\
@@ -5811,7 +5811,7 @@ $-40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin {aligned}
 &= -13 - 27 \\\\
@@ -6538,16 +6538,16 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$9 \rtq_katex_color_info {7} - 65 = 32 $
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 97 - 65\\\\
 &= 32
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -6608,18 +6608,18 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$39 + \rtq_katex_color_info {7} 8 + 50 = 167 $
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 39 + 48 + 50 \\\\
 &= 167
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -6679,9 +6679,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$734 + (8 \times 2 \rtq_katex_color_info {7}) = 950$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin {aligned}
 &= 734 + (8 \times 27) \\\\
@@ -6689,7 +6689,7 @@ $
 &= 950
 \end {aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -7196,9 +7196,9 @@ $745, 91$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ \rtq_katex_color_info{745} - \rtq_katex_color_info{91} = 654$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &  7   &                           4     &   5 \\
@@ -7265,9 +7265,9 @@ $5, 4, 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\rtq_katex_color_info{5} + \rtq_katex_color_info{4} \times \rtq_katex_color_info{7} = 33$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin {aligned}
 &= 5 + 4 \times 7 \\\\
@@ -7531,7 +7531,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Even square numbers $= 16, 36$
-
+<emptyline>
 Count $= 2$
 </code></pre>
 </div>
@@ -7588,11 +7588,11 @@ $2, 7, 11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using trial and error,
-
+<emptyline>
 Prime numbers $= 2, 7, 11$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times 7 \times 11 \\\\
@@ -8664,7 +8664,7 @@ $(7 \times 5) - 4 > 7 \times (5 - 4)$
                     &= 7
 \end{aligned}
 $
-
+<emptyline>
 $(7 \times 5) - 4 \ \quad \boxed{\rtq_katex_color_answer{>}}  \quad  7 \times (5 - 4)$
 </code></pre>
 </div>
@@ -8733,7 +8733,7 @@ $
                     &= 39                   
 \end{aligned}
 $
-
+<emptyline>
 
 $4 + 7 \times 5 \ \quad \boxed{\rtq_katex_color_answer{=}}  \quad  4 + (7 \times 5)$
 </code></pre>
@@ -8801,7 +8801,7 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
                     &= 27
 \end{aligned}
 $
-
+<emptyline>
 
 $4 \times 5 + 7 \ \quad \boxed{\rtq_katex_color_answer{=}}  \quad  (5 + 4) \times (7 - 4)$
 </code></pre>
@@ -9083,14 +9083,14 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The possible arrangements are:
-
+<emptyline>
 - $7135$
 - $7153$
 - $7315$
 - $7351$
 - $7513$
 - $7531$
-
+<emptyline>
 Count $= 6$
 </code></pre>
 </div>
@@ -9789,12 +9789,12 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find all square numbers between $101$ and $200$.
-
+<emptyline>
 - $121$
 - $144$
 - $169$
 - $196$
-
+<emptyline>
 Count $= 4$
 </code></pre>
 </div>
@@ -10617,7 +10617,7 @@ $72$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (5 + 3) \times (7 + 2) \\\\
@@ -10679,7 +10679,7 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 + (3 \times 7) + 2 \\\\
@@ -10742,7 +10742,7 @@ $58$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (5 + 3) \times 7 + 2 \\\\
@@ -10811,7 +10811,7 @@ $28$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 + 3 \times 7 + 2 \\\\
@@ -10819,7 +10819,7 @@ $
 &= 28
 \end{aligned}
 $
-
+<emptyline>
 The answer is same as part (b)
 </code></pre>
 </div>
@@ -11681,7 +11681,7 @@ $3 ^ 4$
                     &= 64
 \end{aligned}
 $
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -11691,9 +11691,9 @@ $
 &= 64
 \end{aligned}
 $
-
+<emptyline>
 Therefore,
-
+<emptyline>
 $3 ^ 4$ is bigger than $4 ^ 3$.
 </code></pre>
 </div>
@@ -12207,7 +12207,7 @@ $
 &= 500 \ \text{mm}^2
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -12397,10 +12397,10 @@ $7  , 4 $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$7 ^ 2 - 4 ^ 2 = 33$
-
+<emptyline>
 
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= (7 \times 7 ) - (4 \times 4 ) \\\\

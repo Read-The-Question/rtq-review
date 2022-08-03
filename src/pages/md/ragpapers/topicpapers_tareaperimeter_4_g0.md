@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0"
 title: "TopicPaper - Areaperimeter - 4 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "20"
 ---
 <ul class='question default-decimal'>
@@ -142,7 +142,7 @@ $132 \ \text{cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of the diamond} &= \dfrac {\text{First diagonal} \times \text{Second diagonal}} {2} \\\\
@@ -349,11 +349,11 @@ $85 \ \text{cm} ^ 2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add a diagram with three rectangles.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into three rectangles
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total Area}        &= \text{Rectangle 1 + Rectangle 2 + Rectangle 3} \\\\
@@ -568,11 +568,11 @@ $41 \ \text {cm}^2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add a diagram with two rectangles.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into two rectangles
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total Area}                &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
@@ -792,11 +792,11 @@ $14 \ \text {cm}^2$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add a diagram with two triangle.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram, the shape can be divided into two triangles
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total Area}                  &= \text {Triangle 1} + \text {Triangle 2} \\\\
@@ -989,9 +989,9 @@ $70 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter} &= 4 + 9 + 5 + 9 + (12 - (5 + 4)) + 14 + 12 + 14 \\\\
@@ -1223,11 +1223,11 @@ $5 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a          &= 20 \\\\
@@ -1290,9 +1290,9 @@ $25 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}  &= 5 \times 5 \\\\
@@ -1548,22 +1548,22 @@ $4 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of square $= s$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of rectangle}      &= 8 \times 2 \\\\
                                &= 16 \ \text {cm}^2
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of square} &= \text{Area of rectangle} \\\\
@@ -1573,7 +1573,7 @@ s                     &= \sqrt {16} \\\\
 s                     &= 4 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of the side of the square is $4 \ \text{cm}$.
 </code></pre>
 </div>
@@ -1646,11 +1646,11 @@ $5 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the side of square $= s$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of rectangle} &= 2 \times (8 + 2) \\\\
@@ -1658,9 +1658,9 @@ $
                                &= 20 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of square} &= \text{Perimeter of rectangle} \\\\
@@ -1872,20 +1872,20 @@ $24 \ \text {cm}, \ 30 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}   &= 6 + 5 + 9 + 4 \\\\
                     &= 24 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let the parallel sides of trapezium $= a, b$
-
+<emptyline>
 Let the height of trapezium $= h$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of trapezium} &= \dfrac {a + b} {2} \times h \\\\
@@ -2120,9 +2120,9 @@ $18 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of shaded face} &= 3 \times 6 \\\\
@@ -2186,9 +2186,9 @@ $216 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>ABBR: $\text{Surface area} &= 2 \times (\text {length} \times \text {width} + \text {length} \times \text {height} + \text {height} \times \text {width})$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Length}              &= 6 \\\\
@@ -2391,9 +2391,9 @@ $3 \ \text {cm} ^ 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of unshaded region} &= \text {Area of whole triangle} - \text {Area of shaded region} \\\\
@@ -2596,9 +2596,9 @@ $10 n - 16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of the rectangle} &= 2 \times ((2 n + 1) + (3 n - 9)) \\\\
@@ -2797,11 +2797,11 @@ $\text {3cm, \ 3cm, \ 8cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width $= w$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter of rectangle}      &= 22 \\\\
@@ -2814,7 +2814,7 @@ w                                   &= \dfrac {\cancel {2} \times 3} {\cancel {2
 w                                   &= 3 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Other three sides of rectangle are 3cm, 3cm, 8cm.
 </code></pre>
 </div>
@@ -3005,13 +3005,13 @@ $1 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the square $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s \times s                                              &= 0.25 \\\\
@@ -3224,15 +3224,15 @@ $1.25 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the breadth of rectangle $= x$
-
+<emptyline>
 Length $= x + 2$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}                                       &= 14 \\\\
@@ -3540,11 +3540,11 @@ $2 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let each side of the individual square (in m) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a                                      &= 4 \\\\
@@ -3553,7 +3553,7 @@ a                                               &= \sqrt {4} \\\\
 a                                               &= 2 \ \text {m}
 \end{aligned}
 $
-
+<emptyline>
 The length of each side of the individual square $= 2 \ \text{m}$.
 </code></pre>
 </div>
@@ -3606,7 +3606,7 @@ $24 \ \text{m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 $
 \begin{aligned} 
 \text{Perimeter}                                    &= 2 \times 12 \\\\
@@ -3813,13 +3813,13 @@ $28 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let side of the square (in cm) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a                                      &= 49 \\\\
@@ -3828,11 +3828,11 @@ a                                               &= \sqrt {49} \\\\
 a                                               &= 7 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Side of the square $= 7 \ \text{cm}$
-
+<emptyline>
 Let's find the perimeter of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of the square}                  &= 4 \times 7 \\\\
@@ -4035,7 +4035,7 @@ Height $= 35 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the picture,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Width of the painting}                        &= \text{Total width} - 2 \times \text{Frame height} \\\\
@@ -4044,10 +4044,10 @@ $
                                                     &= 45 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 
 Let's find the height of the painting.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Height of the painting}                       &= \text{Total height} - 2 \times \text{Frame height} \\\\
@@ -4056,9 +4056,9 @@ $
                                                     &= 35 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Width $= 45 \ \text{cm}$
-
+<emptyline>
 Height $= 35 \ \text{cm}$
 </code></pre>
 </div>
@@ -4259,13 +4259,13 @@ $32 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let side of the square (in cm) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a                                      &= 64 \\\\
@@ -4274,11 +4274,11 @@ a                                               &= \sqrt {64} \\\\
 a                                               &= 8 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Side of the square $= 8 \ \text{cm}$
-
+<emptyline>
 Let's find the perimeter of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of the square}                  &= 4 \times 8 \\\\
@@ -4481,11 +4481,11 @@ $76 \ \text{m}^{2}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add the diagram with inner rectangle's length $8 \ \text {m}$ and width $11 \ \text {m}$ shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area of the path}                            &= \text{Area of garden} - \text{Area of pool} \\\\
@@ -4691,13 +4691,13 @@ $24 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the square (in cm) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a                                      &= 36 \\\\
@@ -4706,11 +4706,11 @@ a                                               &= \sqrt {36} \\\\
 a                                               &= 6 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Side of the square $= 6 \ \text{cm}$
-
+<emptyline>
 Let's find the perimeter of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter of the square}                  &= 4 \times 6 \\\\

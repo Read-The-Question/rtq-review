@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tclock-1-notstarted"
 title: "TopicPaper - Clock - 1 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -5322,9 +5322,9 @@ $30 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know the angle between every two units is equal.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Angle between 9 a.m. and 10 a.m.}    &= \dfrac {90} {3} \\\\
@@ -5387,11 +5387,11 @@ $15 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know the angle between every unit is equal.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 The time is equal to $30$ minutes which is half an hour. Using that we get,
-
+<emptyline>
 $
 \begin {aligned}
 &= \dfrac {30} {2} \\\\
@@ -5452,11 +5452,11 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As we know the angle between every hour is equal.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 The time is equal to $2$ hours and $20$ minutes. Using that we get,
-
+<emptyline>
 $
 \begin {aligned}
 &= 60 +  \\\\
@@ -6116,15 +6116,15 @@ $105$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's revise few facts about clock hands.
-
+<emptyline>
 - A minute clock hand moves $360 \degree$ in $1 \ \text{hour}$
 - A hour clock hand moves $30 \degree$ in $1 \ \text{hour}$
 - The angle between each hour number on the clock is $30 \degree$
-
+<emptyline>
 At $2{:}30$, the minute hand will be exactly on hour number $6$ but the hour hand will have moved a little ahead from $2$ and it will be somewhere between $2$ and $3$.
-
+<emptyline>
 Let's calculate the angle moved by hour hand.
-
+<emptyline>
 $
 \begin{aligned}
 1 \ \text{hour}         &: 30 \degree \\\\
@@ -6134,11 +6134,11 @@ $
 30 \ \text{minutes}     &: 15 \degree
 \end{aligned}
 $
-
+<emptyline>
 The angle between hands is the angle between number $2$ and $6$ minus the angle travelled by hour hand in $30$ minutes.
-
+<emptyline>
 Let's calculate the angle between the hands.
-
+<emptyline>
 $
 \begin{aligned}
 &= 30 \times 4 - 15 \\\\
@@ -6146,7 +6146,7 @@ $
 &= 105 \degree
 \end{aligned}
 $
-
+<emptyline>
 The smaller angle is $= 105 \degree$
 </code></pre>
 </div>

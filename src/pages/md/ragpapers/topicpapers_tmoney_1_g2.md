@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-g2"
 title: "TopicPaper - Money - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "18"
 ---
 <ul class='question default-decimal'>
@@ -125,7 +125,7 @@ $\pounds 4.90$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent}     &= \pounds 1.90 +  \pounds 2.45 + 75 \text {p} \\\\
@@ -1042,7 +1042,7 @@ $\pounds 3.20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent}     &= 2 \times 45 + 90 \\\\
@@ -1269,7 +1269,7 @@ $\pounds 5.75$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money spent}  &= \pounds 4.93 + 24 \text{p} + 58 \text{p} \\\\
@@ -1515,7 +1515,7 @@ $\pounds 18.07$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent}         &= 7 \times 72 \text{p} +  9 \times \pounds 1.21 \\\\
@@ -2300,7 +2300,7 @@ $20 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {\% Discount}     &= \dfrac {\text {Discount}} {\text {Original price}} \times 100 \\\\
@@ -2541,9 +2541,9 @@ $\pounds 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 As per the table,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money collected from Dad}    &= \pounds 5 + 8 \times 25 \text {p} \\\\
@@ -2661,7 +2661,7 @@ $\pounds 39.60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the table and using the answers above,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money from mum}      &= 8 \times 50  \\\\
@@ -2735,7 +2735,7 @@ $\pounds 3.40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the table,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money from mum}      &= 10 \times 50  \\\\
@@ -3295,7 +3295,7 @@ $\pounds 5.82$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned} 
 \text {Money spent}         &= 11 \times 38 \\\\
@@ -3482,7 +3482,7 @@ $\pounds 2.03$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned} 
 \text {Money spent}         &= 11 \times 27 \\\\

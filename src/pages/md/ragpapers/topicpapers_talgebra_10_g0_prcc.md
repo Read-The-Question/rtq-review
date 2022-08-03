@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-g0-prcc"
 title: "TopicPaper - Algebra - 10 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -237,7 +237,7 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Gemma's number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 2 a + 5     &= 23 - a \\\\

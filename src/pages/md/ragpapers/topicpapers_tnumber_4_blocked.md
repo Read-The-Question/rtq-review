@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-blocked"
 title: "TopicPaper - Number - 4 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>1A6DCA65-5FBC-4E8C-9768-C3DF8FDDFDD5</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "3"
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -118,11 +118,11 @@ $13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ \text {First multiple} = 5 \Rightarrow (1,4), (2,3) ,(4,1), (5,0)$
-
+<emptyline>
 $ \text {Second multiple} = 10 \Rightarrow (1,9), (2,8) ,(3,7), (4,6), (5,5), (6,4), (7,3), (8,2), (9,1) $
-
+<emptyline>
 $ \text {count} = 13$
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -329,7 +329,7 @@ $27400, 169, 7, 5, 64, 0.8, 1634$
 &= 27400
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 13^2 \\\\
@@ -337,7 +337,7 @@ $
 &= 169
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 49 \\\\
@@ -346,7 +346,7 @@ $
 &= 7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 125 \\\\
@@ -355,14 +355,14 @@ $
 &= 5
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 4^3 \\\\
 &= 64
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {240} {300} \\\\
@@ -373,7 +373,7 @@ $
 &= 0.8
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 &= 43 \times 38 \\\\
@@ -400,7 +400,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>554B3D2D-7D52-4B91-AC2E-5CBB5B5578F4</p>
 </div>
@@ -414,7 +414,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -526,13 +526,13 @@ $64$
 
 <pre class='language-latex'><code class='language-latex'>
 Using the clues,
-
+<emptyline>
 Square numbers less than $100$   $= (1, 4, 9, 16, 25, 36, 49, 64, 81)$
-
+<emptyline>
 Numbers which are one less than the multiple of $5$ in the above numbers $= (4, 9, 49, 64)$
-
+<emptyline>
 Factor of $16$ in the above numbers       = $(64)$
-
+<emptyline>
 </code></pre>
 </div>
 </div>

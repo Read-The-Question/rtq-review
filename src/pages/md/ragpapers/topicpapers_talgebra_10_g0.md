@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-g0"
 title: "TopicPaper - Algebra - 10 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -171,7 +171,7 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= 32 - 8 \\\\
@@ -233,7 +233,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= 96 \times 8 \\\\
@@ -298,7 +298,7 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \div 8    &= 72 \\\\
@@ -362,7 +362,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 c \div c    &= 144 \\\\
@@ -429,9 +429,9 @@ $32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Using BIDMAS
-
+<emptyline>
 $
 \begin{aligned}
 b \times 4 + 4    &= 4 \\\\
@@ -1154,15 +1154,15 @@ $60$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of people in the party $= a$
-
+<emptyline>
 Number of men in the party $= \dfrac {a} {4}$
-
+<emptyline>
 Number of girls in the party $= \dfrac {a} {2}$
-
+<emptyline>
 Number of women in the party $= \dfrac {a} {6}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5                                                                                            &= a \\\\
@@ -1177,7 +1177,7 @@ a                                                                               
 a                                                                                                                                               &= 60
 \end{aligned}
 $
-
+<emptyline>
 Total number of people $= 60$
 </code></pre>
 </div>
@@ -1487,7 +1487,7 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let Gemma's number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 2 a + 5     &= 23 - a \\\\

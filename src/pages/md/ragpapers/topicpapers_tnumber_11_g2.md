@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-g2"
 title: "TopicPaper - Number - 11 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "30"
 ---
 <ul class='question default-decimal'>
@@ -547,7 +547,7 @@ $-4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1 + 2 - 3 - 4 \\\\
@@ -607,7 +607,7 @@ $0.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 + 1 \div 2 - 3 \\\\
@@ -669,7 +669,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 - (2 - (1 - 2)) \\\\
@@ -3935,7 +3935,7 @@ $\pounds 15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using above answer,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
@@ -3999,7 +3999,7 @@ $\pounds 105$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using above answer,
-
+<emptyline>
 $
 \begin{aligned}
 &= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
@@ -5208,9 +5208,9 @@ $567890$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divisible_by_3
-
+<emptyline>
 Using that,
-
+<emptyline>
 | Number    |         Sum                                           | Multiple of $3$
 |:--------: |:----------------------------------------------------: | :-----:
 |  $12$     | $1 + 2 = \red{3}$                                     |  Yes
@@ -5218,7 +5218,7 @@ Using that,
 |  $3456$   | $3 + 4 + 5 + 6 = \red{15}$                            |  Yes
 |  $45678$  | $4 + 5 + 6 + 7 + 8 = \red{30}$                        |  Yes
 |  $567890$ | $5 + 6 + 7 + 8 + 9 + 0 = \green{35}$                  |  No
-
+<emptyline>
 
 Not a multiple of $3 = 567890$
 </code></pre>
@@ -5966,15 +5966,15 @@ $0.91 \ \text{or} \ 0.925$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first list down other percentages between $90\%$ and $95\%$ and then convert the same into decimal.
-
+<emptyline>
 $
 \begin{aligned}
 &= 90 \%, \quad \underline{91\%}, \quad \underline{92\%}, \quad \underline{93\%}, \quad \underline{94\%}, \quad 95\%
 \end{aligned}
 $
-
+<emptyline>
 Let's convert 91\% into decimal.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {91} {100}\\\\
@@ -5986,7 +5986,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternate solution,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {90\% + 95\%} {2} \\\\

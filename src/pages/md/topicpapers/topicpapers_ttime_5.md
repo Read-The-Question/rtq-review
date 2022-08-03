@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-5"
 title: "TopicPaper - Time - 5"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "39"
 ---
 <div class='paper'>
@@ -328,7 +328,7 @@ and solve further...
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>21940B64-6F2A-4A2C-BA44-8B9664CEAEAB</p>
 </div>
@@ -342,7 +342,7 @@ and solve further...
 <p>rag_ss_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -440,7 +440,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$ 18 / /text{minutes} $
+$ 18 \ \text{minutes} $
 
 </div>
 </div>
@@ -467,7 +467,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$ 18 / /text{minutes} $
+<pre class='language-latex'><code class='language-latex'>$ 18 \ \text{minutes} $
 </code></pre>
 </div>
 </div>
@@ -1237,11 +1237,11 @@ $ 4 \ \text{hours}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let total travelling time $= a$
-
+<emptyline>
 Time spent travelling in a car $= \dfrac {a} {2}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time spent in train}                            &=  2  \ \text{hours} \\\\
@@ -1253,7 +1253,7 @@ a                                                     &= 2 \times 4 \\\\
 a                                                     &= 8  \ \text{hours}
 \end{aligned}
 $
- 
+<emptyline>
 $
 \begin{aligned}
 \text{Total travelling time}                          &=  8  \ \text{hours} \\\\
@@ -1264,7 +1264,7 @@ $
                                                       &= 4 \ \text{hours}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1312,7 +1312,7 @@ $8  \ \text{hours}$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the above answer,
-
+<emptyline>
 Total travelling time $= 8 \ \text{hours}$
 </code></pre>
 </div>
@@ -2995,7 +2995,7 @@ for this refer : 19818B2F-9086-4F00-9201-4F75D3C5194C
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2ECD1434-C766-49F8-BD0F-76B2F1255AD9</p>
 </div>
@@ -3009,7 +3009,7 @@ for this refer : 19818B2F-9086-4F00-9201-4F75D3C5194C
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3191,7 +3191,7 @@ At what time does train $2$ arrive at Raymar?
 
 $
 \begin {aligned}
-\text {Arrival time for train 2}  &= 14 {:} 51 + 2 \ \text {hours} \ 19 \text {minutes} \\\\
+\text {Arrival Time}              &= 14 {:} 51 + 2 \ \text {hours} \ 19 \ \text {minutes} \\\\
                                   &= 17 {:} 10
 \end {aligned}
 $
@@ -3210,7 +3210,7 @@ $17 {:} 10$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {Arrival time for train 2}  &= 14 {:} 51 + 2 \ \text {hours} \ 19 \text {minutes} \\\\
+\text {Arrival Time}              &= 14 {:} 51 + 2 \ \text {hours} \ 19 \ \text {minutes} \\\\
                                   &= 17 {:} 10
 \end {aligned}
 $
@@ -3852,7 +3852,7 @@ replace the answer : $12 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>0EFEAB67-5E19-4D70-9808-049CC51102F6</p>
 </div>
@@ -3866,7 +3866,7 @@ replace the answer : $12 \ \text {seconds}$
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3949,9 +3949,9 @@ At what time does the concert end?
 
 $
 \begin {aligned} 
-\text {End time of concert}  &= 2 {:} 45 \ \text {p.m.} + (2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes}) \\\\
-                             &= 2 {:} 45 \ \text {p.m.} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
-                             &= 5 {:} 33 \ \text {p.m.}
+&= 2 {:} 45 \ \text {pm} + 2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes} \\\\
+&= 2 {:} 45 \ \text {pm} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
+&= 5 {:} 33 \ \text {pm}
 \end {aligned}
 $
 
@@ -3960,7 +3960,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$5 {:} 33 \ \text {p.m.}$
+$5 {:} 33 \ \text {pm}$
 
 </div>
 </div>
@@ -3969,9 +3969,9 @@ $5 {:} 33 \ \text {p.m.}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned} 
-\text {End time of concert}  &= 2 {:} 45 \ \text {p.m.} + (2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes}) \\\\
-                             &= 2 {:} 45 \ \text {p.m.} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
-                             &= 5 {:} 33 \ \text {p.m.}
+&= 2 {:} 45 \ \text {pm} + 2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes} \\\\
+&= 2 {:} 45 \ \text {pm} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
+&= 5 {:} 33 \ \text {pm}
 \end {aligned}
 $
 </code></pre>
@@ -3985,7 +3985,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$5 {:} 33 \ \text {p.m.}$
+<pre class='language-latex'><code class='language-latex'>$5 {:} 33 \ \text {pm}$
 </code></pre>
 </div>
 </div>
@@ -4729,9 +4729,9 @@ $Friday$
                            &= 11{:}10
 \end{aligned}
 $
-
+<emptyline>
 Day Bill arrived Sri Lanka $= \text {Friday}$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5363,21 +5363,21 @@ $ \text{Train} \ 3 \ \text{takes the longest}$
                                 &= 1 \ \text{hour} \ 19 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by train} \ 2  &= 12{:}40 - 11{:}30 \\\\
                                 &= 1 \ \text{hour} \ 10 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by train} \ 3  &= 13{:}45 - 12{:}15 \\\\
                                 &= 1 \ \text{hour} \ 30 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $ \text{Train} \ 3 \ \text{takes the longest}$
 </code></pre>
 </div>
@@ -5906,7 +5906,7 @@ ABCFG
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>43446268-ADB0-4C0A-8C8B-BD6F377D2D08</p>
 </div>
@@ -5920,7 +5920,7 @@ ABCFG
 <p>rag_ss_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6001,9 +6001,7 @@ At what time did Georgie reach school?
 
 $
 \begin {aligned}  
-\text {Time Georgie reach school}  &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
-                                   &= 7 {:} 55 + 5 + 40 \\\\
-                                   &= 8 {:} 00 + 40 \\\\
+\text {Arrival Time}               &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
                                    &= 8 {:} 40 \ \text {a.m.}
 \end {aligned}
 $
@@ -6022,9 +6020,7 @@ $8 {:} 40 \ \text {a.m.}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}  
-\text {Time Georgie reach school}  &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
-                                   &= 7 {:} 55 + 5 + 40 \\\\
-                                   &= 8 {:} 00 + 40 \\\\
+\text {Arrival Time}               &= 7 {:} 55 \ \text {a.m.} + 45 \ \text {minutes} \\\\
                                    &= 8 {:} 40 \ \text {a.m.}
 \end {aligned}
 $
@@ -6222,7 +6218,7 @@ $14{:}35$
                     &= 14{:}35
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6417,7 +6413,7 @@ $\text {Bus Q}$ $=$ $2 \ \text{minutes}$
                                     &= 2 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -7407,7 +7403,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B849C7F3-0940-4425-9D2F-7AFBF02E5585</p>
 </div>
@@ -7421,7 +7417,7 @@ $
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7504,13 +7500,16 @@ For how much longer could he have watched TV without breaking his rule?
 
 $
 \begin{aligned}
-\text{Cartoons duration}    &= 7{:}10 \ \text{pm} - 6{:}20 \ \text{pm} \\\\
-                            &= 50 \ \text{minutes} \\\\
-\text{Sports duration}      &= 9{:}00 \ \text{pm} - 7{:}25 \ \text{pm} \\\\
-                            &= 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
-\text{Total time spent}     &= 50 \ \text{minutes} + 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
-                            &= 2 \ \text{hr} \ 25 \ \text{minutes} \\\\
-\text{Time left}            &= 3 \ \text{hr} - 2 \ \text{hr} \ 25 \ \text{minutes}  \\\\
+\text{Total time spent}     &= 7{:}10  - 6{:}20 + 9{:}00 -7{:}25 \\\\
+                            &= 50 \ \text{minutes} + 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
+                            &= 2 \ \text{hours} \ 25 \ \text{minutes} \\\\
+\end{aligned}
+$
+
+
+$
+\begin{aligned}
+\text{Time left}            &= 3 \ \text{hours} - 2 \ \text{hours} \ 25 \ \text{minutes}  \\\\
                             &= 35 \ \text{minutes}
 \end{aligned}
 $
@@ -7529,13 +7528,16 @@ $35 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Cartoons duration}    &= 7{:}10 \ \text{pm} - 6{:}20 \ \text{pm} \\\\
-                            &= 50 \ \text{minutes} \\\\
-\text{Sports duration}      &= 9{:}00 \ \text{pm} - 7{:}25 \ \text{pm} \\\\
-                            &= 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
-\text{Total time spent}     &= 50 \ \text{minutes} + 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
-                            &= 2 \ \text{hr} \ 25 \ \text{minutes} \\\\
-\text{Time left}            &= 3 \ \text{hr} - 2 \ \text{hr} \ 25 \ \text{minutes}  \\\\
+\text{Total time spent}     &= 7{:}10  - 6{:}20 + 9{:}00 -7{:}25 \\\\
+                            &= 50 \ \text{minutes} + 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
+                            &= 2 \ \text{hours} \ 25 \ \text{minutes} \\\\
+\end{aligned}
+$
+<emptyline>
+
+$
+\begin{aligned}
+\text{Time left}            &= 3 \ \text{hours} - 2 \ \text{hours} \ 25 \ \text{minutes}  \\\\
                             &= 35 \ \text{minutes}
 \end{aligned}
 $
@@ -7775,52 +7777,52 @@ $4\ \text{hrs} \ 2 \ \text{min}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$21{:}10$
-
+<emptyline>
 Following digits are needed $0, 1, 1$ and $2$
-
+<emptyline>
 With $2100$ hours no other combination is impossible
-
+<emptyline>
 With $2200$ hours no combination is possible
-
+<emptyline>
 With $2300$ hours no combination is possible
-
+<emptyline>
 With $0000$ hours no combination is possible
-
+<emptyline>
 With $0100$ hours it's possible as it already has $0$ and $1$
-
+<emptyline>
 Next time all the four digits $(0, 1, 1, 1)$ shows together is when it is 
-
+<emptyline>
 $01{:}12$ hours
-
+<emptyline>
 Let's find how long it will take from $21{:}10$ to $01{:}12$
-
+<emptyline>
 $01{:}12 - 21{:}10 =4\ \text{hrs} \ 2 \ \text{min}$
-
+<emptyline>
 
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$21{:}10$
-
+<emptyline>
 Following digits are needed $0, 1, 1$ and $2$
-
+<emptyline>
 With $2100$ hours no other combination is impossible
-
+<emptyline>
 With $2200$ hours no combination is possible
-
+<emptyline>
 With $2300$ hours no combination is possible
-
+<emptyline>
 With $0000$ hours no combination is possible
-
+<emptyline>
 With $0100$ hours it's possible as it already has $0$ and $1$
-
+<emptyline>
 Next time all the four digits $(0, 1, 1, 1)$ shows together is when it is 
-
+<emptyline>
 $01{:}12$ hours
-
+<emptyline>
 Let's find how long it will take from $21{:}10$ to $01{:}12$
-
+<emptyline>
 $01{:}12 - 21{:}10 =4\ \text{hrs} \ 2 \ \text{min}$
 </code></pre>
 </div>

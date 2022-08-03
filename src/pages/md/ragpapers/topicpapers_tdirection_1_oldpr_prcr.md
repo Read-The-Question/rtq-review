@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdirection-1-oldpr-prcr"
 title: "TopicPaper - Direction - 1 - OLDPR - PRCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -127,14 +127,14 @@ $\text {South}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The angle between each arm $=45 \degree$
-
+<emptyline>
 $
 \begin{aligned}
 &= 45 \degree + 45 \degree + 45 \degree \\\\
 &= 135 \degree 
 \end{aligned}
 $
-
+<emptyline>
 Turning through $135 \degree$.clockwise, I will be facing 
 $\ \text{South}$
 </code></pre>
@@ -336,14 +336,14 @@ $\text {North East}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The angle between each arm $=45 \deg$
-
+<emptyline>
 $
 \begin{aligned}
 &= 45\degree + 45\degree + 45\degree + 45\degree + 45\degree + 45\degree + 45\degree \\\\
 &= 270\degree
 \end{aligned}
 $
-
+<emptyline>
 Turning through $270 \degree$ clockwise, I will be facing $\text{North East}$
 </code></pre>
 </div>

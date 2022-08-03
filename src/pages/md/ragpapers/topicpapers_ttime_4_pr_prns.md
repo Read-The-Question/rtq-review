@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-pr-prns"
 title: "TopicPaper - Time - 4 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -215,7 +215,7 @@ $
 \text{Depart} &   08{:}10   &   09{:}40   &   10{:}15 & {} 
 \end{array}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

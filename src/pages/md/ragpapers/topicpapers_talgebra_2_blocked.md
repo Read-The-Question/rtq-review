@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-blocked"
 title: "TopicPaper - Algebra - 2 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -622,7 +622,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Output}  &= 3 \times 5 + 1 \\\\
@@ -684,7 +684,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Input} \times 5 + 1  &= 36 \\\\
@@ -746,11 +746,11 @@ Hence, Molly is WRONG.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If we input an even number and multiply by $5$ the answer will be an even number but if we add $1$ the result will always be an odd number.
-
+<emptyline>
 Lets's input $= 4$
-
+<emptyline>
 $4 \times 5 + 1 = 21$
-
+<emptyline>
 Hence, Molly is WRONG.
 </code></pre>
 </div>

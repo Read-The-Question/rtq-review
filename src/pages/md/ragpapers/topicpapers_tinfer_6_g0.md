@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-6-g0"
 title: "TopicPaper - Infer - 6 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "3"
 ---
 <ul class='question default-decimal'>
@@ -247,7 +247,7 @@ $11, 9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$11 - 9 = 2$
-
+<emptyline>
 $11$ and $9$ are two palindromic numbers that have a difference of only $2$.
 </code></pre>
 </div>
@@ -553,41 +553,41 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's go through the instructions step by step and draw intermediate states for the cards.
-
+<emptyline>
 *Ten cards numbered from $1$ to $10$ are put in order in a pile, with $1$ on the top.*
-
+<emptyline>
 Let's draw the initial state of the cards with the left most card representing the top of the pile.
-
+<emptyline>
 $\large { \boxed{1} \ \boxed{2} \ \boxed{3} \ \boxed{4} \ \boxed{5} \ \boxed{6} \ \boxed{7} \ \boxed{8} \ \boxed{9} \ \boxed{10} }$
-
+<emptyline>
 *I move one card from the top and place it at the bottom, and then throw the new top card away.* 
-
+<emptyline>
 $\large { \boxed{\red{\cancel{2}}} \ \boxed{3} \ \boxed{4} \ \boxed{5} \ \boxed{6} \ \boxed{7} \ \boxed{8} \ \boxed{9} \ \boxed{10} \ \boxed{\green{1}} }$
-
+<emptyline>
 $\large { \boxed{3} \ \boxed{4} \ \boxed{5} \ \boxed{6} \ \boxed{7} \ \boxed{8} \ \boxed{9} \ \boxed{10} \ \boxed{1} }$
-
+<emptyline>
 *Then I put the new top card to the bottom, and this time a second top card to 
 the bottom, before throwing away the next one.*
-
+<emptyline>
 $\large { \boxed{\red{\cancel{5}}} \ \boxed{6} \ \boxed{7} \ \boxed{8} \ \boxed{9} \ \boxed{10} \ \boxed{1} \ \boxed{\green{3}} \ \boxed{\green{4}} }$
-
+<emptyline>
 $\large { \boxed{6} \ \boxed{7} \ \boxed{8} \ \boxed{9} \ \boxed{10} \ \boxed{1} \ \boxed{3} \ \boxed{4} }$
-
+<emptyline>
 *Now I put the new top card to the bottom, the next top card to the 
 bottom, and now a third top card to the bottom, before throwing the next one away.* 
-
+<emptyline>
 $\large { \boxed{\red{\cancel{9}}} \ \boxed{10} \ \boxed{1} \ \boxed{3} \ \boxed{4} \ \boxed{\green{6}} \ \boxed{\green{7}} \ \boxed{\green{8}} }$
-
+<emptyline>
 $\large { \boxed{10} \ \boxed{1} \ \boxed{3} \ \boxed{4} \ \boxed{6} \ \boxed{7} \ \boxed{8} }$
-
+<emptyline>
 *Finally, I put the top card to the bottom, the next top card to 
 the bottom, the next top card to the bottom, a 
 fourth top card to the bottom, and throw away the next card.*
-
+<emptyline>
 $\large { \boxed{\red{\cancel{6}}} \ \boxed{7} \ \boxed{8} \ \boxed{\green{10}} \ \boxed{\green{1}} \ \boxed{\green{3}} \ \boxed{\green{4}} }$
-
+<emptyline>
 $\large { \boxed{7} \ \boxed{8} \ \boxed{10} \ \boxed{1} \ \boxed{3} \ \boxed{4} }$
-
+<emptyline>
 Number at the top $= 7$
 </code></pre>
 </div>
@@ -846,7 +846,7 @@ $11, 13, 17, 31, 37, 71, 73, 79, 97$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's list all the $2$ digit prime numbers from $1$ to $100$.
-
+<emptyline>
 - $11$
 - $13$
 - $17$
@@ -868,9 +868,9 @@ $11, 13, 17, 31, 37, 71, 73, 79, 97$
 - $83$
 - $89$
 - $97$
-
+<emptyline>
 When the digits are reversed, we get
-
+<emptyline>
 - $11$
 - $31$
 - $71$
@@ -892,9 +892,9 @@ When the digits are reversed, we get
 - $38$
 - $98$
 - $79$
-
+<emptyline>
 The reversed number which are still primes are:
-
+<emptyline>
 - $11$
 - $13$
 - $17$
@@ -904,7 +904,7 @@ The reversed number which are still primes are:
 - $73$
 - $79$
 - $97$
-
+<emptyline>
 <!--
 $
 \begin{matrix}
@@ -915,9 +915,9 @@ $
 97
 \end{matrix}
 $
-
+<emptyline>
 When the digits are reversed, we get
-
+<emptyline>
 $
 \begin{matrix}
 11 && 31 && 71 && 91 && 32 \\\\
@@ -927,9 +927,9 @@ $
 79
 \end{matrix}
 $
-
+<emptyline>
 The reversed number which are still primes are:
-
+<emptyline>
 $
 \begin{matrix}
 11 && 13 && 17 && 31 && 37 \\\\

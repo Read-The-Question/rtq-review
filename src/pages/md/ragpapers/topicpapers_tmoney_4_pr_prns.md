@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-pr-prns"
 title: "TopicPaper - Money - 4 - PR - PRNS"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -124,7 +124,7 @@ $65 \text {p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of the packet of sweets}    &= \pounds 10 - \pounds 3.50 - 3 \times 55 \text {p} - \pounds 4.20 \\\\
@@ -320,7 +320,7 @@ $\pounds 0.85$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of a mug}   &= \dfrac {3.50} {5} \\\\
@@ -517,7 +517,7 @@ $\pounds 660$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 550 + 20 \% \ \text {of} \ 550 \\\\
@@ -582,7 +582,7 @@ $\pounds 960$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of the ring excluding VAT}  &= 1200 - 20 \% \ \text {of} \ 1200 \\\\
@@ -983,7 +983,7 @@ $\pounds 463$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 32 \times 14 + (4 - 3) \times 15 \\\\
@@ -1225,7 +1225,7 @@ $\pounds 25.80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}      &= 2 \times 6.50 + 2 \times 3 + 2.20 + 2 \times 1.50 \\\\
@@ -1527,9 +1527,9 @@ $\pounds 8.05$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 2 \times \pounds 2 + 2 \times 90 \text {p} + \dfrac {1} {2} \times \pounds 4.50 \\\\
@@ -1864,7 +1864,7 @@ $\pounds 67.10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}      &= 780 \times 7 \text {p} + \pounds 12.50 \\\\
@@ -2165,14 +2165,14 @@ $100 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 1 \ \text {g of jam cost}   &= \dfrac {20} {100} \\\\
                             &= 0.20 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total cost}  &= 200 \times 0.20 + 10 + 50 \\\\
@@ -2236,9 +2236,9 @@ $25 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of lid}     &= \pounds 1.55 - 350 \times 0.20 \text {p} - 60 \text {p} \\\\
@@ -2316,11 +2316,11 @@ $160 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of lid (in $\text {pence}$) $= a$
-
+<emptyline>
 Cost of jar (in $\text {pence}$) $= 4a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 500 \times 0.20 \text {p} + a + 4a      &= \pounds 3 \\\\
@@ -2333,7 +2333,7 @@ a                                       &= \dfrac {\cancel {5} \times 40} {\canc
 a                                       &= 40 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Cost of lid}     &= 40 \text {p} \\\\
@@ -2410,9 +2410,9 @@ $1000 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of jam (in $\text {pence}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 65 \text {p} + \pounds 2 + a        &= \pounds 4.65 \\\\
@@ -2422,9 +2422,9 @@ a                                   &= 465 - 265 \\\\
 a                                   &= 200 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 Cost of jam $= 200 \text {p}$
-
+<emptyline>
 $
 \begin {aligned}
 \text {Weight of jam} \times 0.20 \text {p}     &= 200 \text {p} \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g2"
 title: "TopicPaper - Number - 13 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -162,7 +162,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1 + 2 \times 3 \\\\
@@ -223,7 +223,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 + 7 - 2 \times 4 \\\\
@@ -284,7 +284,7 @@ $7.48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points.
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   1   &   1 \ .   &   9   &   0 \\
@@ -357,7 +357,7 @@ $3.99$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
             &   2   &   1 \\
@@ -369,11 +369,11 @@ $
 3           &   9   &   9
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now.
-
+<emptyline>
 $= 3.99$
 </code></pre>
 </div>
@@ -2295,7 +2295,7 @@ Y
 &= \text {Y}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2479,7 +2479,7 @@ $27.23$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &=  28.30 - 1.64 + 0.57 \\\\
@@ -4194,7 +4194,7 @@ $1.881$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.871 - 0.39 + 1.4 \\\\
@@ -4709,7 +4709,7 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 21 \times 6 + 9 \times 6   &= a \times 6       \\\\
@@ -4776,7 +4776,7 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$ 
-
+<emptyline>
 $
 \begin{aligned}
 17 \times 14 + 16 \times 7                &=  a \times 7 + a \times 7                       \\\\
@@ -5352,7 +5352,7 @@ $780$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the table,
-
+<emptyline>
 $
 \begin{aligned}
 &= 12 \times 65  \\\\
@@ -5415,7 +5415,7 @@ $1300$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the table,
-
+<emptyline>
 $
 \begin{aligned}
 &= 20 \times 65 \\\\
@@ -5479,7 +5479,7 @@ $0.7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the table,
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4.55}{6.5} \\\\

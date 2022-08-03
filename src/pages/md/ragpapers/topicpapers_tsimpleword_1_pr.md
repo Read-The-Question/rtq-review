@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-pr"
 title: "TopicPaper - Simpleword - 1 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "12"
 ---
 <ul class='question default-decimal'>
@@ -195,9 +195,9 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 20 \% \ \text{of} \ a           &= 3.2 \\\\
@@ -263,7 +263,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 135 \div (1 + 3 + 5) \\\\
@@ -1044,7 +1044,7 @@ $\dfrac {9} {16}$
 \text{Shaded squares}            &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Unshaded squares}          &= 4 + 8 \times \dfrac {1} {2} + 4 \times \dfrac {1} {4} \\\\
@@ -1053,7 +1053,7 @@ $
                                  &= 7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of shaded squares}          &= \dfrac {\text{Shaded squares}} {\text{Total squares}} \\\\
@@ -1253,9 +1253,9 @@ Number of $5$ seated tables $= 4$
 |              3              |             3              |      39     |      3      |
 |              2              |             4              |      36     |      0      |
 |              1              |             6              |      38     |      2      |
-
+<emptyline>
 Number of $8$ seated tables $= 2$
-
+<emptyline>
 Number of $5$ seated tables $= 4$
 </code></pre>
 </div>
@@ -1522,11 +1522,11 @@ $123 - 45 - 67 + 89 = 100$
 67  \ \boxed{\ + \ } \ 
 89 = \ 100
 $
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 123 - 45 - 67 + 89 \\\\
@@ -1595,7 +1595,7 @@ $297$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of boys this year $= a$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Proportion of boys this year} &= \text{Proportion of boys last year} \\\\
@@ -1676,13 +1676,13 @@ $250 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the longest piece length $= a \ \text{cm}$
-
+<emptyline>
 Length of middle piece $= (a - 40) \ \text{cm}$
-
+<emptyline>
 Length of shortest piece $= (a - 40) - 70 = (a - 110) \ \text{cm}$
-
+<emptyline>
 Total Length of string,
-
+<emptyline>
 $
 \begin{aligned}
 a \ \text{cm} + (a - 40) \ \text{cm} + (a - 110) \ \text{cm}   &= 6 \ \text{m} \\\\
@@ -2007,7 +2007,7 @@ $14 \ \text{years}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the required time $= t \ \text{years}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Parent's age}                 &= 2 \times \text{Child's age} \\\\
@@ -2073,9 +2073,9 @@ West
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let North direction $= 0 \ \text{degrees}$
-
+<emptyline>
 South East direction $= 135 \ \text{degrees}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Current direction}            &= 135 - 225 \ \text{degrees} \\\\
@@ -2275,9 +2275,9 @@ Number of $5$ seated tables $= 4$
 |              3              |             3              |      39     |      3      |
 |              2              |             4              |      36     |      0      |
 |              1              |             6              |      38     |      2      |
-
+<emptyline>
 Number of $8$ seated tables $= 2$
-
+<emptyline>
 Number of $5$ seated tables $= 4$
 </code></pre>
 </div>
@@ -2457,7 +2457,7 @@ $104$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of ewes with two new born lambs $= a$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total lambs}                  &= a \times 2 + (364 - a) \times 1 \\\\
@@ -2766,7 +2766,7 @@ M
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the value of the missing letter be $=a$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sum of letters}               &= - 19 \\\\
@@ -3003,7 +3003,7 @@ Bella
                                             &= \pounds \ 0.47
 \end {aligned}
 $
-
+<emptyline>
 Best value $=$ Bella
 </code></pre>
 </div>
@@ -3331,7 +3331,7 @@ $23$
                                             &= 161
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of days the credit will last}  &= \dfrac {161} {7} \\\\

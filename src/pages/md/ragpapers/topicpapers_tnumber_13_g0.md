@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-g0"
 title: "TopicPaper - Number - 13 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -94,39 +94,10 @@ tnumber
 I live $0.6$ miles from Goodison Park football stadium. There are $1760$ yards in a mile. 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -173,7 +144,7 @@ $1056 \ \text{yards}$
                     &= 1056 \ \text{yards}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -237,7 +208,7 @@ $2.5 \ \text {miles}$
                     &= 2.5 \ \text {miles}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -270,14 +241,14 @@ As per the question,
 
 $
 \begin{aligned}
-\because\ 1\ \text{kilometer}&=\dfrac{5}{8}\ \text {miles} \\\\
-\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometer} \\\\
-2.5\times 1 &= 2.5\times\dfrac{8}{5}\ \text {kilometer} \\\\
-&= \dfrac {2.5\times 8} {5} \\\\
-&= \dfrac {20} {5} \\\\
-&= \dfrac {4\times5} {5} \\\\
-&= \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
-&= 4 \ \text {kilometer}
+\because\ 1\ \text{kilometers}&=\dfrac{5}{8}\ \text {miles} \\\\
+\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometers} \\\\
+2.5\times 1 & = 2.5\times\dfrac{8}{5}\ \text {kilometers} \\\\
+& = \dfrac {2.5\times 8} {5} \\\\
+& = \dfrac {20} {5} \\\\
+& = \dfrac {4\times5} {5} \\\\
+& = \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
+& = 4 \ \text {kilometers}
 \end{aligned}
 $
 
@@ -287,7 +258,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4 \ \text {km}$
+$4 \ \text {kilometers}$
 
 </div>
 </div>
@@ -295,20 +266,20 @@ $4 \ \text {km}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
-\because\ 1\ \text{kilometer}&=\dfrac{5}{8}\ \text {miles} \\\\
-\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometer} \\\\
-2.5\times 1 &= 2.5\times\dfrac{8}{5}\ \text {kilometer} \\\\
-&= \dfrac {2.5\times 8} {5} \\\\
-&= \dfrac {20} {5} \\\\
-&= \dfrac {4\times5} {5} \\\\
-&= \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
-&= 4 \ \text {kilometer}
+\because\ 1\ \text{kilometers}&=\dfrac{5}{8}\ \text {miles} \\\\
+\therefore\ 1\ \text{miles}&=\dfrac{8}{5}\ \text {kilometers} \\\\
+2.5\times 1 & = 2.5\times\dfrac{8}{5}\ \text {kilometers} \\\\
+& = \dfrac {2.5\times 8} {5} \\\\
+& = \dfrac {20} {5} \\\\
+& = \dfrac {4\times5} {5} \\\\
+& = \dfrac {4\times\cancel{5}} {\cancel{5}} \\\\
+& = 4 \ \text {kilometers}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -320,7 +291,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>$4 \ \text {km}$
+<pre class='language-latex'><code class='language-latex'>$4 \ \text {kilometers}$
 </code></pre>
 </div>
 </div>

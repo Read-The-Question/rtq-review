@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-g0-prcc"
 title: "TopicPaper - Algebra - 14 - G0 - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "14"
 ---
 <ul class='question default-decimal'>
@@ -125,9 +125,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 18 &= 8 \times 4 \\\\
@@ -365,7 +365,7 @@ $9, \ 18, \ 10, \ 5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the function machine,
-
+<emptyline>
 $
 \begin{aligned}
 &= ((((4 + 5) \times 2) - 8) \div 2) \\\\
@@ -449,7 +449,7 @@ $0, \ 10, \ 2, \ 1$
 
 <pre class='language-latex'><code class='language-latex'>Let the input number $= a$
 Let the output number $= b$
-
+<emptyline>
 $
 \begin{aligned}
 (a + 5) \times 2 &= 10 \\\\
@@ -461,7 +461,7 @@ a                &= 5 - 5 \\\\
 a                &= 0
 \end{aligned}
 $
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -470,9 +470,9 @@ b &= 2 \div 2 \\\\
 b &= 1
 \end{aligned}
 $
-
+<emptyline>
 Input number $=0$
-
+<emptyline>
 Onput number $=1$
 </code></pre>
 </div>
@@ -681,13 +681,13 @@ $2 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of each triangle $= t$
-
+<emptyline>
 Cost of each heart $= \dfrac {t} {2}$
-
+<emptyline>
 Cost of each star $= 2t$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times t + 4 \times \dfrac {t} {2} + 4 \times 2t           &= 52 \\\\
@@ -702,7 +702,7 @@ t                                                            &= \dfrac{\cancel {
 t                                                            &= 4p                                                                                 
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of each heart} &= \dfrac {t} {2} \\\\
@@ -930,9 +930,9 @@ $31$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 8 \times 7 + a &= 87 \\\\
@@ -1000,9 +1000,9 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a + 7) \times 6 &= 54 \\\\
@@ -1014,7 +1014,7 @@ a                &= 9 - 7 \\\\
 a                &= 2 
 \end{aligned}
 $
-
+<emptyline>
 Missing number $=2$
 </code></pre>
 </div>
@@ -1075,9 +1075,9 @@ $1000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 14.4 \times a  &= 144000 \\\\
@@ -1089,7 +1089,7 @@ a              &= \dfrac{\cancel {144} \times 10000}{\cancel {144}} \\\\
 a              &= 10000
 \end{aligned}
 $
-
+<emptyline>
 Missing number $=10000$
 </code></pre>
 </div>
@@ -1290,26 +1290,26 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the two numbers $= a$ and $b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + b               &= 17 \\\\
 a \times b          &= 66 
 \end{aligned}
 $
-
+<emptyline>
 We can easily infer the values by using trial and error.
-
+<emptyline>
 
 Factors of $66 = 1, 6, 11, 66$
-
+<emptyline>
 | Numbers   |  Multiplication  |  Sum  |
 |:-------:  |:---------------: |:----: |
 | $1, 66$   | $66$             | $67$  |
 | $6, 11$   | $66$             | $17$  |
-
+<emptyline>
 The two number $= 6$ and $11$
 </code></pre>
 </div>
@@ -1499,9 +1499,9 @@ $20.3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 100 &= 2030 \\\\
@@ -1726,7 +1726,7 @@ $555$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 $
 \begin{aligned}
 45 + a &= 600 \\\\
@@ -1734,7 +1734,7 @@ a      &= 600 - 45 \\\\
 a      &= 555
 \end{aligned}
 $
-
+<emptyline>
 Missing number $=555$
 </code></pre>
 </div>
@@ -1794,7 +1794,7 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 $
 \begin{aligned}
 360 \div 10                  &= 3.6 \times a \\\\
@@ -1807,7 +1807,7 @@ a                            &= \dfrac {\cancel {36} \times 10} {\cancel {36}} \
 a                            &= 10
 \end{aligned}
 $
-
+<emptyline>
 Missing number $=10$
 </code></pre>
 </div>
@@ -1865,7 +1865,7 @@ $152$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $=a$
-
+<emptyline>
 $
 \begin{aligned}
 24 \div (a - 8)   &= 6 \\\\
@@ -1876,7 +1876,7 @@ a                 &= 144 + 8 \\\\
 a                 &= 152
 \end{aligned}
 $
-
+<emptyline>
 Missing number $=152$
 </code></pre>
 </div>
@@ -2355,9 +2355,9 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times a - 7 &= 31 \\\\
@@ -2369,7 +2369,7 @@ a              &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
 a              &= 19
 \end{aligned}
 $
-
+<emptyline>
 Number Caley started with $=19$
 </code></pre>
 </div>
@@ -2659,9 +2659,9 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of jumpers hung $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times 5 + 2 \times a &= 21 \\\\
@@ -2674,7 +2674,7 @@ a                       &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
 a                       &= 3
 \end{aligned}
 $
-
+<emptyline>
 Number of jumpers $=3$
 </code></pre>
 </div>
@@ -2740,11 +2740,11 @@ $13, \ 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of jumpers  $= a$
-
+<emptyline>
 Number of shirts  $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times a + 2 \times a &= 65 \\\\
@@ -2755,7 +2755,7 @@ a                       &= \dfrac {13 \times \cancel {5}} {\cancel {5}} \\\\
 a                       &= 13
 \end{aligned}
 $
-
+<emptyline>
 Number of Shirts $= 13$
 </code></pre>
 </div>
@@ -2938,9 +2938,9 @@ $34$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 \dfrac {1} {2} \times a                           &= 17 \\\\
@@ -3016,10 +3016,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Ayushi Mishra</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_am_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -3334,9 +3334,9 @@ $48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a \div 4) + 6 &= 18 \\\\
@@ -3411,9 +3411,9 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (((a \div 4) + 6)\div 4) + 6 &= 9 \\\\
@@ -3427,7 +3427,7 @@ a                            &= 6 \times 4 \\\\
 a                            &= 24
 \end{aligned}
 $
-
+<emptyline>
 Input number $=24$
 </code></pre>
 </div>
@@ -3625,9 +3625,9 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note. Let's convert all the units into $\text {ml}$.
-
+<emptyline>
 $ \text {As per the question,} $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Largest number of cups}                  &= \dfrac {3.25 \ \text {litres} - 500 \ \text {ml} \times 3} {150 \ \text {ml}} \\\\
@@ -3640,7 +3640,7 @@ $
                                                 &= 11.67
 \end{aligned}
 $
-
+<emptyline>
 $ \text{Largest number of cups}= 11$.
 </code></pre>
 </div>
@@ -3829,9 +3829,9 @@ $37, 38$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the number $=a$
-
+<emptyline>
 So other number $=a+1$
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 1 &=  75 \\\\
@@ -3844,7 +3844,7 @@ a  &= \dfrac{37 \times \cancel    2}{\cancel 2} \\\\
 a  &= 37
 \end{aligned}
 $
-
+<emptyline>
 Two consecutive numbers $= 37$ and $38$
 </code></pre>
 </div>

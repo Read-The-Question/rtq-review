@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-pr"
 title: "TopicPaper - Statistics - 1 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F1E56932-CB02-461E-B942-E010863A089F</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -144,10 +144,8 @@ The mean length.
 
 ABBR: It is really important to use the right units in calculations and convert where required.
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 
-Lengths of pieces of wood:
-
-$3.05 \ \text{m}, \quad 2.95 \ \text{m}, \quad 2.25 \ \text{m}, \quad 3.60 \ \text{m}, \quad 3.15 \ \text{m}$
 
 As per the question,
 
@@ -174,13 +172,10 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
-Lengths of pieces of wood:
-
-$3.05 \ \text{m}, \quad 2.95 \ \text{m}, \quad 2.25 \ \text{m}, \quad 3.60 \ \text{m}, \quad 3.15 \ \text{m}$
-
+rtq_abbr_md_statistics_formula_mean
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Mean length}     &= \dfrac {3.05 + 2.95 + 2.25 + 3.60 + 3.15} {5} \\\\
@@ -218,21 +213,14 @@ The median length.
 <div class='workings'>
 <div class='working'>
 
-Let's frist arrange the lenghts in ascending order :
-
-$2.25 \ \text{m}, \quad 2.95 \ \text{m}, \quad 3.05 \ \text{m}, \quad 3.15 \ \text{m}, \quad 3.60 \ \text{m}$
-
 $
 \begin {aligned}
-\text {Median}  &= \dfrac {5 + 1} {2} \\\\
-                &= \dfrac {6} {2} \\\\
-                &= \dfrac {2 \times 3} {2} \\\\
-                &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
-                &= 3 \ \text {rd term}
+\text {Lengths} &= 3.05, 2.95, 2.25, 3.60, 3.15 \\\\
+\text {Lengths} &= 2,25, 2.95, \maroonC
+{3.05}, 3.15, 3.60 \\\\
+\text {Median}  &= 3.05 \\\\
 \end {aligned}
 $
-
-Median $= 3.05 \ \text {m}$
 
 </div>
 </div>
@@ -246,21 +234,13 @@ $3.05 \ \text {m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let's frist arrange the lenghts in ascending order :
-
-$2.25 \ \text{m}, \quad 2.95 \ \text{m}, \quad 3.05 \ \text{m}, \quad 3.15 \ \text{m}, \quad 3.60 \ \text{m}$
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin {aligned}
-\text {Median}  &= \dfrac {5 + 1} {2} \\\\
-                &= \dfrac {6} {2} \\\\
-                &= \dfrac {2 \times 3} {2} \\\\
-                &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
-                &= 3 \ \text {rd term}
+\text {Lengths} &= 3.05, 2.95, 2.25, 3.60, 3.15 \\\\
+\text {Lengths} &= 2,25, 2.95, \rtq_katex_color_info{3.05}, 3.15, 3.60 \\\\
+\text {Median}  &= 3.05 \\\\
 \end {aligned}
 $
-
-Median $= 3.05 \ \text {m}$
 </code></pre>
 </div>
 </div>
@@ -289,6 +269,9 @@ The range of the lengths.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
+
+
 As per the question,
 
 $
@@ -311,8 +294,10 @@ $1.35$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_range
+<emptyline>
+As per the question,
+<emptyline>
 $
 \begin {aligned}
 \text {Range}   &= \text {Largest length} - \text {Smallest length} \\\\
@@ -383,7 +368,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F506E507-7A45-42B3-B41D-B307DB9B1B2C</p>
 </div>
@@ -397,7 +382,7 @@ $
 <p>rag_mm_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -534,7 +519,7 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Number of dogs $= 9$
 </code></pre>
 </div>
@@ -564,18 +549,16 @@ Find the mode of the ages of all the dogs.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+Lets find the most occuring number,
 
-$
-\begin {aligned}
-\text {Number of occurrence of} \ 1     &= 1 \\\\
-\text {Number of occurrence of} \ 3     &= 1 \\\\
-\text {Number of occurrence of} \ 4     &= 2 \\\\
-\text {Number of occurrence of} \ 5     &= 1 \\\\
-\text {Number of occurrence of} \ 6     &= 3 \\\\
-\text {Number of occurrence of} \ 10    &= 1
-\end {aligned}
-$
+| Number    | Count     |
+|:------:   |:-----:    |
+|   $1$     |    $1$    |
+|   $3$     |    $1$    |
+|   $4$     |    $2$    |
+|   $5$     |    $1$    |
+|   $6$     |    $3$    |
+|   $10$    |    $1$    |
 
 Mode $= 6$
 
@@ -591,19 +574,17 @@ $6$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
-\begin {aligned}
-\text {Number of occurrence of} \ 1     &= 1 \\\\
-\text {Number of occurrence of} \ 3     &= 1 \\\\
-\text {Number of occurrence of} \ 4     &= 2 \\\\
-\text {Number of occurrence of} \ 5     &= 1 \\\\
-\text {Number of occurrence of} \ 6     &= 3 \\\\
-\text {Number of occurrence of} \ 10    &= 1
-\end {aligned}
-$
-
+<pre class='language-latex'><code class='language-latex'>Lets find the most occuring number,
+<emptyline>
+| Number    | Count     |
+|:------:   |:-----:    |
+|   $1$     |    $1$    |
+|   $3$     |    $1$    |
+|   $4$     |    $2$    |
+|   $5$     |    $1$    |
+|   $6$     |    $3$    |
+|   $10$    |    $1$    |
+<emptyline>
 Mode $= 6$
 </code></pre>
 </div>
@@ -655,7 +636,7 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total age}   &= 1 + 3 + 4 + 4 + 5 + 6 + 6 + 6 + 10 \\\\
@@ -690,6 +671,9 @@ Find the mean of the ages of the dogs. Explain how you did it.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 $
 \begin {aligned}
 \text {Mean}    &= \dfrac {1 + 3 + 4 + 4 + 5 + 6 + 6 + 6 + 10} {9} \\\\
@@ -712,7 +696,9 @@ $5$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+$
 \begin {aligned}
 \text {Mean}    &= \dfrac {1 + 3 + 4 + 4 + 5 + 6 + 6 + 6 + 10} {9} \\\\
                 &= \dfrac {45} {9} \\\\

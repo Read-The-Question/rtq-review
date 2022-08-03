@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>45CA540D-6B4E-432C-AF62-A63ACD57A941</p>
 </div>
@@ -27,7 +27,7 @@ questions_count: "40"
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -174,7 +174,7 @@ $\dfrac {8} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>LCM of $5 , 9 = 45$
-
+<emptyline>
 $
 \begin{aligned}
 &= \text{four fifths or eight ninths} \\\\
@@ -213,21 +213,21 @@ Write down a fraction which is greater than two fifths, but less than four fifth
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\dfrac{3}{5}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{3}{5}
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{5}$
 </code></pre>
 </div>
 </div>
@@ -239,7 +239,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{3}{5}
 </code></pre>
 </div>
 </div>
@@ -256,36 +256,21 @@ Write down a fraction that is greater than three fifths, but less than four fift
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\dfrac{35}{50}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac{35}{50}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\dfrac{35}{50}$
 </code></pre>
 </div>
 </div>
@@ -297,17 +282,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{35}{50}$
 </code></pre>
 </div>
 </div>
@@ -324,36 +299,21 @@ Write down a fraction which is less than one seventh, but greater than zero.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\dfrac{1}{8}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac{1}{8}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{8}$
 </code></pre>
 </div>
 </div>
@@ -365,17 +325,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{1}{8}$
 </code></pre>
 </div>
 </div>
@@ -500,10 +450,50 @@ $
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='45CA540D-6B4E-432C-AF62-A63ACD57A941' id='FORM-45CA540D-6B4E-432C-AF62-A63ACD57A941' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-45CA540D-6B4E-432C-AF62-A63ACD57A941'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7F8B7DAA-2971-4079-9737-6D7B149AA96E</p>
 </div>
@@ -514,7 +504,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -759,7 +749,10 @@ Four cakes are divided equally amongst seven people. One fifth of a cake is left
 
 $
 \begin{aligned}
-
+&= \dfrac{7}{4} - \dfrac{1}{5} \\\\ 
+&= \dfrac{7 \times 5}{4 \times 5} - \dfrac{1 \times 4}{5 \times 4} \\\\
+&= \dfrac{35}{20} - \dfrac{4}{20} \\\\
+&= \dfrac{31}{20}
 \end{aligned}
 $
 
@@ -768,7 +761,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac{31}{20}$
 
 </div>
 </div>
@@ -777,7 +770,10 @@ TODOANSWER
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-
+&= \dfrac{7}{4} - \dfrac{1}{5} \\\\ 
+&= \dfrac{7 \times 5}{4 \times 5} - \dfrac{1 \times 4}{5 \times 4} \\\\
+&= \dfrac{35}{20} - \dfrac{4}{20} \\\\
+&= \dfrac{31}{20}
 \end{aligned}
 $
 </code></pre>
@@ -791,7 +787,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{31}{20}$
 </code></pre>
 </div>
 </div>
@@ -862,7 +858,52 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+add first statement with of and run in katex.org (\cancel problem)
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' id='FORM-7F8B7DAA-2971-4079-9737-6D7B149AA96E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7F8B7DAA-2971-4079-9737-6D7B149AA96E'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -1263,7 +1304,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>4F9F4C6D-374B-4A3F-A930-14B9759C0925</p>
 </div>
@@ -1274,7 +1315,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1450,11 +1491,7 @@ Write down a fraction which is greater than two fifths, but less than four fifth
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\dfrac{8}{20}
-\end{aligned}
-$
+$\dfrac{8}{20}$
 
 </div>
 </div>
@@ -1468,11 +1505,7 @@ $\dfrac{8}{20}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
-\begin{aligned}
-\dfrac{8}{20}
-\end{aligned}
-$
+<pre class='language-latex'><code class='language-latex'>$\dfrac{8}{20}$
 </code></pre>
 </div>
 </div>
@@ -1501,36 +1534,21 @@ Write down a fraction that is greater than three fifths, but less than four fift
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$\dfrac{35}{50}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac{35}{50}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\dfrac{35}{50}$
 </code></pre>
 </div>
 </div>
@@ -1542,17 +1560,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{35}{50}$
 </code></pre>
 </div>
 </div>
@@ -1713,11 +1721,56 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+third part not solved
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='4F9F4C6D-374B-4A3F-A930-14B9759C0925' id='FORM-4F9F4C6D-374B-4A3F-A930-14B9759C0925' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4F9F4C6D-374B-4A3F-A930-14B9759C0925'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
 </div>
@@ -1731,7 +1784,7 @@ $
 <p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1876,7 +1929,7 @@ $\dfrac {17} {20}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Half-way between two numbers is the same as finding the average of two numbers.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {0.8 + 0.9} {2} \\\\
@@ -1961,7 +2014,7 @@ $0.45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Half-way between two numbers is the same as finding the average of two numbers.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
@@ -1978,9 +2031,9 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternative solution 
-
+<emptyline>
 Half-way between two numbers is the same as finding the average of two numbers.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
@@ -2200,7 +2253,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>585D7D24-FBE3-4E4D-B423-652E2F3266C8</p>
 </div>
@@ -2211,7 +2264,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2299,36 +2352,21 @@ Shade in $\text{seven twelths}$ of the flag below.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+Out of 24 squares, 14 squares needs to be shaded.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Out of 24 squares, 14 squares needs to be shaded.
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Out of 24 squares, 14 squares needs to be shaded.
 </code></pre>
 </div>
 </div>
@@ -2340,22 +2378,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Out of 24 squares, 14 squares needs to be shaded.
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='585D7D24-FBE3-4E4D-B423-652E2F3266C8' id='FORM-585D7D24-FBE3-4E4D-B423-652E2F3266C8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-585D7D24-FBE3-4E4D-B423-652E2F3266C8'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2732,7 +2800,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AF2B9471-06EF-4591-B1D0-AC32990B4022</p>
 </div>
@@ -2743,7 +2811,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2826,36 +2894,21 @@ Shade in two fifths of the flag below.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+Out of 20 squares, 8 squares needs to be shaded.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Out of 20 squares, 8 squares needs to be shaded.
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>Out of 20 squares, 8 squares needs to be shaded.
 </code></pre>
 </div>
 </div>
@@ -2867,22 +2920,52 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>Out of 20 squares, 8 squares needs to be shaded.
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='AF2B9471-06EF-4591-B1D0-AC32990B4022' id='FORM-AF2B9471-06EF-4591-B1D0-AC32990B4022' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AF2B9471-06EF-4591-B1D0-AC32990B4022'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3070,7 +3153,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6</p>
 </div>
@@ -3081,7 +3164,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3206,9 +3289,9 @@ $\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\\ \\\\ \dfrac {4} {9} \text{ of } 360
 &= 40
 \end{aligned}
 $
-
+<emptyline>
 Using the above answer to find $\dfrac {4} {9} \ \text{of} \ 360$.
-
+<emptyline>
 $
 \begin{aligned}
 \text{four ninths of 360} &= 4 \times \text{one ninth of 360} \\\\
@@ -3233,6 +3316,46 @@ $
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' id='FORM-A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4198,7 +4321,7 @@ $160$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using our previous answer
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4} {7} \ \text{of} \ 280 \\\\
@@ -4271,7 +4394,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7C3DC077-F159-440D-95DC-21DDF801F0B4</p>
 </div>
@@ -4282,7 +4405,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4518,7 +4641,52 @@ $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+Sentence
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' id='FORM-7C3DC077-F159-440D-95DC-21DDF801F0B4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7C3DC077-F159-440D-95DC-21DDF801F0B4'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -5216,7 +5384,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>9F3349DA-53D7-4B90-AF97-44661D4FDBE4</p>
 </div>
@@ -5230,7 +5398,7 @@ $
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5337,9 +5505,9 @@ $\dfrac {5} {12}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator same for all fractions
-
+<emptyline>
 LCM for $4, \quad 3 \ \text{and} \ 12 = 12$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4}, \quad \dfrac{2}{3}, \quad \dfrac{5}{12}, \quad \dfrac{9}{4} \\\\
@@ -5347,7 +5515,7 @@ $
 &= \dfrac {9} {12}, \quad \dfrac {8} {12}, \quad \dfrac {5} {12}, \quad \dfrac {27} {12}
 \end{aligned}
 $
-
+<emptyline>
 The smallest fraction is $\dfrac {5} {12}$
 </code></pre>
 </div>
@@ -5422,7 +5590,7 @@ part (a)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>82754E73-D876-45A7-8AA1-76C9E05BCE77</p>
 </div>
@@ -5436,7 +5604,7 @@ part (a)
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5524,9 +5692,11 @@ $
 \end{aligned}
 $
 
-$\dfrac {28} {20}$ is the biggest amongst all.
-
-Therefore, $\dfrac{3+4}{2+3}$ is the biggest.
+$
+\begin{aligned}
+\ \text{Smallest Fraction } = \dfrac{3 + 4}{2 + 3}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -5548,10 +5718,12 @@ $\dfrac{3+4}{2+3}$
 &= \dfrac{12}{20} , \quad \dfrac{24}{20} , \quad \dfrac{6}{20}, \quad \dfrac{28}{20}, \quad \dfrac{25}{20}
 \end{aligned}
 $
-
-$\dfrac {28} {20}$ is the biggest amongst all.
-
-Therefore, $\dfrac{3+4}{2+3}$ is the biggest.
+<emptyline>
+$
+\begin{aligned}
+\ \text{Smallest Fraction } = \dfrac{3 + 4}{2 + 3}
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6183,7 +6355,7 @@ $\dfrac {3} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {8} \div \dfrac {1} {4} \\\\
@@ -7197,7 +7369,7 @@ $\dfrac {9} {2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'> rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {4} \div \dfrac {1} {6} \\\\
@@ -7643,7 +7815,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>C957490D-C2D2-48AD-80EA-F4EAAF92A7A1</p>
 </div>
@@ -7657,7 +7829,7 @@ $
 <p>rag_an_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7740,21 +7912,21 @@ A class of $32$ students vote on their favourite colour. They then draw a pie ch
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7766,7 +7938,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7840,9 +8012,10 @@ How many students favourite colour is NOT Blue?
 <div class='workings'>
 <div class='working'>
 
+Not Blue = Total Students - Favorite Colour Blue
+
 $
 \begin{aligned}
-\text{Not blue} &= \text{Total students} - \text{Favourite colour blue} \\\\
 &= 32 - \dfrac{3}{8} \times 32 \\\\
 &= 32 - \dfrac{3 \times 32}{8} \\\\
 &= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
@@ -7863,9 +8036,10 @@ $20$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>Not Blue = Total Students - Favorite Colour Blue
+<emptyline>
+$
 \begin{aligned}
-\text{Not blue} &= \text{Total students} - \text{Favourite colour blue} \\\\
 &= 32 - \dfrac{3}{8} \times 32 \\\\
 &= 32 - \dfrac{3 \times 32}{8} \\\\
 &= 32 - \dfrac{3 \times 4 \times \cancel 8}{\cancel 8} \\\\
@@ -8349,7 +8523,7 @@ $\dfrac {6} {7}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {3} {7} \div \dfrac {1} {2} \\\\
@@ -9536,7 +9710,7 @@ $\dfrac {44} {45}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {4} {9} \div \dfrac {5} {11} \\\\
@@ -9608,7 +9782,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
 </div>
@@ -9622,7 +9796,7 @@ $
 <p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9737,13 +9911,13 @@ $\dfrac {4} {9}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the figure,
-
+<emptyline>
 If we look at the large square, we can see that $8$ portions have been shaded and there are $18$ portions in total.
-
+<emptyline>
 The fraction that has been shaded $= \dfrac {8} {18}$
-
+<emptyline>
 Let's find out what fraction of the large square is shaded.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {8} {18} \\\\
@@ -9752,7 +9926,7 @@ $
 &= \dfrac {4} {9}
 \end{aligned}
 $
-
+<emptyline>
 Fraction of large square that has been shaded in simple fraction $= \dfrac {4} {9}$
 </code></pre>
 </div>

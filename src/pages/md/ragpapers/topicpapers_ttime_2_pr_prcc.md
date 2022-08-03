@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-pr-prcc"
 title: "TopicPaper - Time - 2 - PR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -242,7 +242,7 @@ $10{:}30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the timetable, Anja should take $10{:}30$ train from London to avoid being late.
-
+<emptyline>
 If she takes the $11{:}30$ train, she will reach Newcastle just $2$ minutes before the meeting.
 </code></pre>
 </div>
@@ -1123,7 +1123,7 @@ Train 2
                               &= 53 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by Train 2}  &= 17{:}25 - 16{:}20 \\\\
@@ -1133,16 +1133,16 @@ $
                               &= 65 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Time taken by Train 3}  &= 18{:}03 - 17{:}07 \\\\
                               &= 56 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 $\text {Train 2 is slowest}$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1240,7 +1240,7 @@ $56 \ \text{minutes}$
                    &= 56 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

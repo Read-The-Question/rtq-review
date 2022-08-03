@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvenn-1"
 title: "TopicPaper - Venn - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "36"
 ---
 <div class='paper'>
@@ -2872,7 +2872,7 @@ $18$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cars neither blue nor red}              &= \text{Total cars - Blue cars - Red cars}  \\\\
@@ -3064,7 +3064,7 @@ $23$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cars neither red nor blue}              &= \text{Total cars - Red cars - Blue cars}  \\\\
@@ -3484,7 +3484,7 @@ $138\degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The value of $x \degree$ is given by,
-
+<emptyline>
 $
 \begin{aligned}
 x\degree &= 360\degree - (76\degree + 84\degree + 62\degree) \\\\
@@ -3733,17 +3733,17 @@ Brown-eyed Brunettes $= 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Number of Girls $= 50$,
-
+<emptyline>
 Number of blue-eyed blondes $= 14$,
-
+<emptyline>
 Number of brunettes $= 31$,
-
+<emptyline>
 Number of brown-eyed $= 18$,
-
+<emptyline>
 Let's calculate the number of blondes,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of blondes} &= \text { Number of Girls } - \text { Number of brunettes} \\\\
@@ -3751,11 +3751,11 @@ $
                           &= 19 
 \end{aligned}
 $
-
+<emptyline>
 Number of blondes $= 19$.
-
+<emptyline>
 Let's calculate the number of brown-eyed blondes,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of brown-eyed blondes} &= \text { Number of blondes } - \text { Number of blue-eyed blondes} \\\\
@@ -3763,11 +3763,11 @@ $
                                      &= 5 
 \end{aligned}
 $
-
+<emptyline>
 Number of brown-eyed blondes $= 5$.
-
+<emptyline>
 Let's calculate the number of brown-eyed brunettes,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Number of brown-eyed brunettes} &= \text { Number of brown-eyed girls } - \text { Number of brown-eyed blondes} \\\\
@@ -3775,7 +3775,7 @@ $
                                        &= 13 
 \end{aligned}
 $
-
+<emptyline>
 Number of brown-eyed brunettes $= 13$.
 </code></pre>
 </div>
@@ -4217,14 +4217,14 @@ $103$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>First number of students
-
+<emptyline>
 $
 \begin{aligned}
 &= 384 + 376 \\\\
 &= 760
 \end{aligned}
 $
-
+<emptyline>
 Present time students
 $
 &= 760 - 657 \\\\
@@ -4372,11 +4372,11 @@ $4 \leq x > 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A box of Kiddimix contains $20$ chocolates.
-
+<emptyline>
 which $8$ are plain chocolates.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 \text{If 16 of the 20 have soft centres} \\
@@ -4709,16 +4709,16 @@ $5$
 
 <pre class='language-latex'><code class='language-latex'>
 As per the question not all boys in the class are right-handed. The rest are then left-handed boys.
-
+<emptyline>
 
 Let's take the total boys $= t =26$
-
+<emptyline>
 Let's take the total right-handed boys $=r = 21$
-
+<emptyline>
 Let's take the total left-handed boys $=l$
-
+<emptyline>
 $l = t - r$
-
+<emptyline>
 $
 \begin{aligned} 
 &= t - r \\\\
@@ -4726,15 +4726,15 @@ $
 &= 5    
 \end{aligned}
 $
-
+<emptyline>
 Total left-handed boys in the class $5$
-
+<emptyline>
 Total boys who weare glasses $=10$
-
+<emptyline>
 Let's assume that the total of $5$ left-handed boys all wear glasses.
-
+<emptyline>
 So, total of right-handed boys who wear glasses = Total boys with glasses - Left-handed boys with glasses 
-
+<emptyline>
 
 $
 \begin{aligned} 
@@ -4742,11 +4742,11 @@ $
 &= 5    
 \end{aligned}
 $
-
+<emptyline>
 Total of right-handed boys who wear glasses $=5$
-
+<emptyline>
 The least number of boys in the class who are both right-handed and wear glasses $=5$
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7103,17 +7103,17 @@ $18$
 
 <pre class='language-latex'><code class='language-latex'>
 Let's take number of children who liked
-
+<emptyline>
 orange juice as $o$
-
+<emptyline>
 lemonade as $l$
-
+<emptyline>
 both orange and lemonade as $b$
-
+<emptyline>
 water as $w$
-
+<emptyline>
 As per question number of children who liked :
-
+<emptyline>
 $
 \begin{aligned}
 o &= 12\\
@@ -7122,13 +7122,13 @@ b &= 7\\
 w &= 3\\
 \end{aligned}
 $
-
+<emptyline>
 Total children = (only Orange juice + only lemonade  + water) - both orange and lemonade
-
+<emptyline>
 Total children $= (o + l + w) - b$
-
+<emptyline>
 Let's substitute,
-
+<emptyline>
 $
 \begin{aligned}
 &= (12 + 10 + 3) - 7\\
@@ -7136,7 +7136,7 @@ $
 &= 18
 \end{aligned}
 $
-
+<emptyline>
 $18$ children were at the birthday party.
 </code></pre>
 </div>

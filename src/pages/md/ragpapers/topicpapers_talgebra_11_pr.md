@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-pr"
 title: "TopicPaper - Algebra - 11 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -137,11 +137,11 @@ $42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 Let the total number of coins $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {c} {3} \times 5 \text {p} + \dfrac {c} {3} \times 10 \text {p} + \dfrac {c} {3} \times 20 \text {p}     &= \pounds 4.90 \\\\
@@ -155,7 +155,7 @@ c                                                                               
 c                                                                                                               &= 42
 \end{aligned}
 $
-
+<emptyline>
 Total number of coins $= 42$
 </code></pre>
 </div>
@@ -374,7 +374,7 @@ $48 \ \text{moos}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \ \text {quacks} + 1 \ \text {oink} \\\\
@@ -750,7 +750,7 @@ $4$
 &= 16
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 &= 4 \ 0 \\\\
@@ -825,7 +825,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 3 \ b           &= 15 \\\\
@@ -916,7 +916,7 @@ $-5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a \ a                                   &= 20 \\\\
@@ -927,18 +927,18 @@ a \times (a + 5) - 4 \times (a + 5)     &= 0 \\\\
 (a - 4) \times (a + 5)                  &= 0
 \end {aligned}
 $
-
+<emptyline>
 As per the above calcuations there are two possible values of a,
-
+<emptyline>
 $
 \begin {aligned}
 a - 4   &= 0 \\\\
 a       &= 4
 \end {aligned}
 $
-
+<emptyline>
 Or 
-
+<emptyline>
 $
 \begin {aligned}
 a + 5   &= 0 \\\\
@@ -1227,7 +1227,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 5n                                              &> 60 \\\\
@@ -1237,9 +1237,9 @@ n                                               &> \dfrac {\cancel {5} \times 12
 n                                               &> 12
 \end{aligned}
 $
-
+<emptyline>
 Also,
-
+<emptyline>
 $
 \begin{aligned}
 n + 5       &< 20 \\\\
@@ -1247,11 +1247,11 @@ n + 5 - 5   &< 20 - 5 \\\\
 n           &< 15
 \end{aligned}
 $
-
+<emptyline>
 As per the above calcuations,
-
+<emptyline>
 $12 < n < 15$
-
+<emptyline>
 Hence the possible values of $n$ $= 13, 14$
 </code></pre>
 </div>
@@ -1468,11 +1468,11 @@ $30 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of a banana (in $\text {p}$) $= a$
-
+<emptyline>
 Let the cost of a pear (in $\text {p}$) $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 2b  &= 94 \text {p} \\\\
@@ -1480,9 +1480,9 @@ a + b   &= 62 \text {p} \\\\
 b       &= 62 - a
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation,
-
+<emptyline>
 $
 \begin {aligned}
 a + 2b                  &= 94 \\\\
@@ -1494,7 +1494,7 @@ a + 124 - 2a            &= 94 \\\\
 a                       &= 30 \text {p}
 \end {aligned}
 $
-
+<emptyline>
 A banana cost $= 30 \text {p}$
 </code></pre>
 </div>
@@ -1681,9 +1681,9 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of coins $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {c} {3}                                                          &= \dfrac {c} {4} + 2 \\\\
@@ -1696,7 +1696,7 @@ c                                                                       &= 2 \ti
 c                                                                       &= 24
 \end{aligned}
 $
-
+<emptyline>
 Number of coins on the table $= 24$
 </code></pre>
 </div>
@@ -1924,15 +1924,15 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the gifts in second pile $= a$
-
+<emptyline>
 Gifts in first pile $= a - 3$
-
+<emptyline>
 Gifts in third pile $= a - 2$
-
+<emptyline>
 Gifts in fourth pile $= 2a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a - 3 + a + a - 2 + 2a  &= 20 \\\\
@@ -1945,7 +1945,7 @@ a                       &= \dfrac {\cancel {5} \times 5} {\cancel {5}} \\\\
 a                       &= 5
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Gifts in second pile}    &= 5 \\\\
@@ -2173,9 +2173,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 5 - 14     &= 46 \\\\
@@ -2187,7 +2187,7 @@ a                   &= \dfrac {\cancel {5} \times 12} {\cancel {5}} \\\\
 a                   &= 12
 \end{aligned}
 $
-
+<emptyline>
 The number $= 12$
 </code></pre>
 </div>
@@ -2382,9 +2382,9 @@ $\pounds 48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let total money (in $\pounds$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a - \dfrac {3} {8} \times a - \dfrac {1} {2} \times (a - \dfrac {3} {8} \times a)                  &= \pounds 15 \\\\
@@ -2405,7 +2405,7 @@ a                                                                               
 a                                                                                                  &= \pounds 48 
 \end{aligned}
 $
-
+<emptyline>
 Total money $= \pounds 48$
 </code></pre>
 </div>

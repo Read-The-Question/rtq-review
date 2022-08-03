@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-18"
 title: "TopicPaper - Number - 18"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -760,7 +760,7 @@ Correct
 1175 - 20 &= 21 \times 55
 \end{aligned}
 $
-
+<emptyline>
 Hence the equation is correct.
 </code></pre>
 </div>
@@ -807,7 +807,7 @@ Incorrect
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The given equation can not be derived from original equation.
-
+<emptyline>
 Hence, it is incorrect.
 </code></pre>
 </div>
@@ -854,7 +854,7 @@ Correct
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Since, both, given equation and the original equation are same.
-
+<emptyline>
 The given equation is correct.
 </code></pre>
 </div>
@@ -911,7 +911,7 @@ Correct
 20 &= 1175 - (21 \times 55)
 \end{aligned}
 $
-
+<emptyline>
 Hence, equation is correct.
 </code></pre>
 </div>
@@ -958,7 +958,7 @@ Incorrect
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The given equation can not be derived from original equation.
-
+<emptyline>
 Hence, it is incorrect.
 </code></pre>
 </div>
@@ -1274,7 +1274,7 @@ $
                               &= 10 \neq 12
 \end{aligned}
 $
-
+<emptyline>
 12 is not a perfect number.
 </code></pre>
 </div>
@@ -1332,9 +1332,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$6$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Factors of 6}           &= 1, 2, 3 \\\\
@@ -1620,7 +1620,7 @@ $20306$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>A87AA655-D5C6-4729-987B-172DBA858D1D</p>
 </div>
@@ -1634,7 +1634,7 @@ $20306$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1728,7 +1728,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$
-
+<emptyline>
 $1$ is the smallest number that leaves remainder $1$ when divided by $5$ or $6$ or $7$
 </code></pre>
 </div>
@@ -2220,14 +2220,14 @@ $8 \dfrac {1} {20}, \quad 8.05$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert the numbers into decimals.
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \dfrac {1} {20} \quad \dfrac {17} {2} \quad 8.1 \quad 8.05 \quad \dfrac {1} {5} \\\\
 &= 8.05 \quad 8.5 \quad 8.1 \quad 8.05 \quad 0.2
 \end{aligned}
 $
-
+<emptyline>
 Equal numbers $= 8 \dfrac {1} {20}, \quad 8.05$
 </code></pre>
 </div>
@@ -2819,7 +2819,7 @@ $1.006$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the difference between the number and $1$.
-
+<emptyline>
 | Number   |     Difference      |
 |:--------:|:-------------------:|
 |  $0.993$ | $1 - 0.993 = 0.007$ |
@@ -2827,9 +2827,9 @@ $1.006$
 |  $1.1$   | $1.1 - 1 = 0.1$     |
 |  $0.94$  | $1 - 0.94 = 0.06$   |
 |  $0.99$  | $1 - 0.99 = 0.01$   |
-
+<emptyline>
 From the calculation above, the smallest difference is $0.006$.
-
+<emptyline>
 Number closest in value $= 1.006$
 </code></pre>
 </div>
@@ -3181,16 +3181,16 @@ $0.06, \ 0.09$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$0.06, \ 0.09$
-
+<emptyline>
 Let's verify it.
-
+<emptyline>
 $
 \begin{aligned}
 &= 0.06 + 0.09 \\\\
 &= 0.15
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3615,7 +3615,7 @@ TODOANSWER
 \dfrac{3}{5} & < & 70\%
 \end{array}
 $
-
+<emptyline>
 Therefore, $70\%$ is greater than $\dfrac{3}{5}$
 </code></pre>
 </div>
@@ -4004,9 +4004,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**Row 1**
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= (7 - 3) \times 2 \\\\
@@ -4014,13 +4014,13 @@ $
 &= 8
 \end{aligned}
 $
-
+<emptyline>
 **Row 2**
-
+<emptyline>
 Let the input $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a - 3) \times 2 &= 34 \\\\
@@ -4029,13 +4029,13 @@ a - 3 &= 17 \\\\
 a &= 20
 \end{aligned}
 $
-
+<emptyline>
 **Row 3**
-
+<emptyline>
 Let the input $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a - 3) \times 2 &= 0 \\\\
@@ -4127,9 +4127,9 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input and output $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a - 3) \times 2 &= a \\\\
@@ -4285,29 +4285,29 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the output $= x$
-
+<emptyline>
 Let the rule $= a \times x + b$
-
+<emptyline>
 From Row 1, where $x = 2$,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + b &= 6 \\\\
 2a + b &= 6
 \end{aligned}
 $
-
+<emptyline>
 From Row 2, where $x = 4$,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 4 + b &= 7 \\\\
 4a + b &= 7
 \end{aligned}
 $
-
+<emptyline>
 Lets solve the equations for \' a \'
-
+<emptyline>
 $
 \begin{aligned}
 4a + b &= 7 \\\\
@@ -4317,9 +4317,9 @@ $
 a &= \dfrac{1}{2}
 \end{aligned}
 $
-
+<emptyline>
 Lets solve the equations for \' b \'
-
+<emptyline>
 $
 \begin{aligned}
 2a + b &= 6 \\\\
@@ -4328,11 +4328,11 @@ $
 b &= 5
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the rule $= \dfrac{x}{2} + 5$
-
+<emptyline>
 Lets verify the same for Row 3
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{x}{2} + 5 \\\\
@@ -4341,9 +4341,9 @@ $
 &= 9 = 9
 \end{aligned}
 $
-
+<emptyline>
 Lets verify the same for Row 4
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{x}{2} + 5 \\\\
@@ -4352,7 +4352,7 @@ $
 &= 11 = 11
 \end{aligned}
 $
-
+<emptyline>
 The rule is **Divide the number by 2 and add 5**
 </code></pre>
 </div>
@@ -6582,9 +6582,9 @@ $8, 14, 21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$8, 14, 21$
-
+<emptyline>
 Let's verify it.
-
+<emptyline>
 $
 \begin{aligned}
 &=  8 + 14 + 21 \\\\
@@ -6813,9 +6813,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a + 8  &= 44 \\\\
@@ -6882,9 +6882,9 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times (5 - a)    &= 12 \\\\
@@ -6951,9 +6951,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 40 \div a         &= 4 ^ 2 \div 2 \\\\
@@ -7186,7 +7186,7 @@ $83330$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 130 \times 641             \\\\
@@ -7309,7 +7309,7 @@ $14743$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 23 \times 641 \\\\
@@ -8370,7 +8370,7 @@ $2 \times 3 \times 7 = 42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$2 + 3 + 7 = 12$
-
+<emptyline>
 $2 \times 3 \times 7 = 42$ 
 </code></pre>
 </div>
@@ -8583,7 +8583,7 @@ $21, 9, \dfrac{1}{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>**Row 1**
-
+<emptyline>
 $
 \begin{aligned}
 &= 6 \times 4 - 3 \\\\
@@ -8591,11 +8591,11 @@ $
 &= 21
 \end{aligned}
 $
-
+<emptyline>
 **Row 2**
-
+<emptyline>
 Let input $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 4 - 3 &= 33 \\\\
@@ -8605,11 +8605,11 @@ a &= \dfrac{36}{4} \\\\
 a &= 9
 \end{aligned}
 $
-
+<emptyline>
 **Row 3**
-
+<emptyline>
 Let input $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a \times 4 - 3 &= -1 \\\\
@@ -8728,29 +8728,29 @@ $\times 2 \ \text{then}\ + 2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the input $= x$
-
+<emptyline>
 Let the rule $= a \times x + b$
-
+<emptyline>
 From Row 1, where $x = -1$
-
+<emptyline>
 $
 \begin{aligned}
 a \times -1 + b &= 0 \\\\
 b - a &= 0
 \end{aligned}
 $
-
+<emptyline>
 From Row 2, where $x = 0$,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 0 + b &= 2 \\\\
 b &= 2
 \end{aligned}
 $
-
+<emptyline>
 Lets solve the equations for \' a \'
-
+<emptyline>
 $
 \begin{aligned}
 b - a &= 0 \\\\
@@ -8758,11 +8758,11 @@ a &= b \\\\
 a &= 2
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the rule $= 2 \times x + 2$
-
+<emptyline>
 Lets verify the same for Row 3
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times x + 2 \\\\
@@ -8771,9 +8771,9 @@ $
 &= 4 = 4
 \end{aligned}
 $
-
+<emptyline>
 Lets verify the same for Row 4
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times x + 2 \\\\
@@ -8782,7 +8782,7 @@ $
 &= 6 = 6
 \end{aligned}
 $
-
+<emptyline>
 a, b $= 2, 2$
 </code></pre>
 </div>
@@ -9312,7 +9312,7 @@ $140.4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &=7.84 \times 18 \\\\
@@ -9594,7 +9594,7 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let output $= a$
-
+<emptyline>
 $
 \begin{aligned}
 & 40 \times 3 + 6 &= a \\\\
@@ -9602,9 +9602,9 @@ $
 & a &= 126
 \end{aligned}
 $
-
+<emptyline>
 Let the input $= b$
-
+<emptyline>
 $
 \begin{aligned}
 & b \times 3 + 6 &= 54 \\\\
@@ -9777,25 +9777,25 @@ $+ 4, \times -3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let first label $= \times a$
-
+<emptyline>
 Let second label $= + b$
-
+<emptyline>
 $
 \begin{aligned}
 & a \times 6 + b &= 12 \\\\
 & 6a + b &= 12
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 & a \times 8 + b &= 20 \\\\
 & 8a + b &= 20
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\'
-
+<emptyline>
 $
 \begin{aligned}
 & 8a + b &= 20 \\\\
@@ -9806,9 +9806,9 @@ $
 & a &= 4
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'b\'
-
+<emptyline>
 $
 \begin{aligned}
 & 6a + b &= 12 \\\\
@@ -9818,34 +9818,34 @@ $
 & b &= - 12
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the labels $= \times 4, -12$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Second possible labels
-
+<emptyline>
 Let first label $= + a$
-
+<emptyline>
 Let second label $= \times b$
-
+<emptyline>
 $
 \begin{aligned}
 (6 + a) \times b &= 12 \\\\
 6b + ab &= 12
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (8 + a) \times b &= 20 \\\\
 8b + ab &= 20
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'b\'
-
+<emptyline>
 $
 \begin{aligned}
 8b + (12 - 6b) &= 20 \\\\
@@ -9855,9 +9855,9 @@ b &= \dfrac{8}{2} \\\\
 b &= 4
 \end{aligned}
 $
-
+<emptyline>
 Lets solve for \'a\'
-
+<emptyline>
 $
 \begin{aligned}
 (6 + a) \times 4 &= 12 \\\\
@@ -9869,7 +9869,7 @@ a &= \dfrac{-12}{4} \\\\
 a &= -3
 \end{aligned}
 $
-
+<emptyline>
 Therefore, the labels $= + 4, \times -3$
 </code></pre>
 </div>
@@ -10096,7 +10096,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$14$
-
+<emptyline>
 Factors $= 1, 2, 7, 14$
 </code></pre>
 </div>
@@ -11273,9 +11273,9 @@ $31$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We can easily infer the number by using trial and error.
-
+<emptyline>
 $31$
-
+<emptyline>
 On reversing $31$, $13$ is also a prime.
 </code></pre>
 </div>

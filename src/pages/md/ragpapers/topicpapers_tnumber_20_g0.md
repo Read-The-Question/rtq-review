@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-g0"
 title: "TopicPaper - Number - 20 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -121,9 +121,9 @@ $70, 5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know, if the last digit of a number is $0$ or $5$ , then the number is divisible by $5$ .
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 Numbers divisible by $5 = 70$ and $5$
 </code></pre>
 </div>

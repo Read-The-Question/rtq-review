@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-pr"
 title: "TopicPaper - Number - 15 - PR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>51EF1152-4680-4066-B3A6-9E35EA7048B4</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "1"
 <p>rag_da_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -94,39 +94,10 @@ tnumber
 Given that $37 \times 56 = 2072$, write down the answers to the following calculations: 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-%empty%
 
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
 
-%empty%
 
-</div>
-</div>
-<div class='workingscodeblock'>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
-<div class='answers'>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%
-</code></pre>
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -258,11 +229,14 @@ $207.2 \div 56$
 
 $
 \begin{aligned}
-37 \times 56 &= 2072 \\\\
-\dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
-\dfrac{37}{10} \times 56 &= 207.2 \\\\
-3.7 \times 56 &= 207.2 \\\\
-207.2 \div 56 &= 3.7
+&= 207.2 \div 56 \\\\
+&= \dfrac {207.2} {56} \\\\
+&= \dfrac {207.2 \times 10} {56 \times 10} \\\\
+&= \dfrac {2072} {56 \times 10} \\\\
+&= \dfrac {37 \times 56} {56 \times 10} \\\\
+&= \dfrac {37 \times \cancel{56}} {\cancel{56} \times 10} \\\\
+&= \dfrac {37} {10} \\\\
+&= 3.7
 \end{aligned}
 $
 
@@ -280,11 +254,14 @@ $
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-37 \times 56 &= 2072 \\\\
-\dfrac{37 \times 56}{10} &= \dfrac{2072}{10} \\\\
-\dfrac{37}{10} \times 56 &= 207.2 \\\\
-3.7 \times 56 &= 207.2 \\\\
-207.2 \div 56 &= 3.7
+&= 207.2 \div 56 \\\\
+&= \dfrac {207.2} {56} \\\\
+&= \dfrac {207.2 \times 10} {56 \times 10} \\\\
+&= \dfrac {2072} {56 \times 10} \\\\
+&= \dfrac {37 \times 56} {56 \times 10} \\\\
+&= \dfrac {37 \times \cancel{56}} {\cancel{56} \times 10} \\\\
+&= \dfrac {37} {10} \\\\
+&= 3.7
 \end{aligned}
 $
 </code></pre>

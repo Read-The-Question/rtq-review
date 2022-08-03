@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-g2"
 title: "TopicPaper - Areaperimeter - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "8"
 ---
 <ul class='question default-decimal'>
@@ -139,11 +139,11 @@ $32 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {1} {2} \times 12 \times h   &= 24 \times 8 \\\\
@@ -154,7 +154,7 @@ h                                   &= 2 \times 8 \times 2 \\\\
 h                                   &= 32 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Height of the triangle $= 32 \ \text {cm}$.
 </code></pre>
 </div>
@@ -391,14 +391,14 @@ $48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
 The wall measurement is given in $\text{meters}$ while the tile measurement is given in $\text{cm}$.
-
+<emptyline>
 Let's convert the wall measurements into $\text{cm}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of tiles}  &= \dfrac {\text{Area of the wall}} {\text{Area of a tile}} \\\\
@@ -467,7 +467,7 @@ $150$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the wall}} {\text{Area of a tile}} \\\\
@@ -672,9 +672,9 @@ $56 \ \text {cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter}   &= 20 + 5  + (20 - 12)  + (8 - 5)  + 12  + 8  \\\\
@@ -879,13 +879,13 @@ $25 \ \text{cm}^{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of the square (in $\text{cm}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a  &= 20 \\\\
@@ -895,9 +895,9 @@ a           &= \dfrac {5 \times \cancel {4}} {\cancel {4}}  \\\\
 a           &= 5 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Now, let's find the area of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= a \times a \\\\
@@ -1090,9 +1090,9 @@ $44$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of stickers}  &= \dfrac {\text{Area of the wall}} {\text{Area of a sticker}} \\\\
@@ -1306,13 +1306,13 @@ $24 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the square (in $\text{cm}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a \times a                      &= 36 \\\\
@@ -1321,7 +1321,7 @@ a                               &= \sqrt {36} \\\\
 a                               &= 6 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter}   &= 4 \times a \\\\
@@ -1517,9 +1517,9 @@ $240$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of paving stones} &= \dfrac {\text{Area of the garden}} {\text{Area of a stone}} \\\\
@@ -1767,16 +1767,16 @@ $126 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
 Show the two missing sides are 11 and 4.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into a rectangle and a square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= \text{Area of the rectangle} + \text{Area of the square} \\\\

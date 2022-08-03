@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-g0"
 title: "TopicPaper - Areaperimeter - 5 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "5"
 ---
 <ul class='question default-decimal'>
@@ -176,13 +176,13 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side length of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a                  &= 4 \times a \\\\
@@ -192,7 +192,7 @@ a                           &= \dfrac {4 \cancel{a}} {\cancel{a}} \\\\
 a                           &= 4
 \end{aligned}
 $
-
+<emptyline>
 Side length of the square $= 4$
 </code></pre>
 </div>
@@ -265,15 +265,15 @@ $6 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the rectangle $= a$
-
+<emptyline>
 Length of the rectangle $= 2a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2a \times a                         &= 2 \times (2a + a) \\\\
@@ -283,7 +283,7 @@ a                                   &= \dfrac{\cancel{2} \times 3 \times \cancel
 a                                   &= 3
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Length of rectangle} &= 2 \times a \\\\
@@ -493,13 +493,13 @@ $14 \ \text {cm}, 7 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the width of the  rectangle (in cm) $= w$
-
+<emptyline>
 Length $= 2 w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}                            
 2\times w \times w  &= 98 \\\\\
@@ -512,9 +512,9 @@ w                   &= \sqrt {49} \\\\
 w                   &= 7
 \end{aligned}
 $
-
+<emptyline>
 Width $= 7 \ \text {cm}$
-
+<emptyline>
 $
 \begin{aligned}                            
 \text {Length}    &= 2 \times w \\\\
@@ -720,18 +720,18 @@ Perimeter $=$ $32 \ \text {m}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area} &= 9 \times 7 \\\\
              &= 63 \ \text {m}^2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter} &= 2 \times (9 + 7) \\\\
@@ -937,13 +937,13 @@ $30 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the figure,
-
+<emptyline>
 Height $= 6 \text {cm}$
-
+<emptyline>
 Base $= 10 \text {cm}$
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}             &= \dfrac {1} {2} \times 10 \times 6 \\\\
@@ -1173,9 +1173,9 @@ $216 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_parallelogram_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}         &=  18 \times  12 \\\\
@@ -1236,9 +1236,9 @@ $64 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_parallelogram
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Perimeter} &=   2 \times (14 +  18) \\\\

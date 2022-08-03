@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-oldpr"
 title: "TopicPaper - Angle - 3 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "2"
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:1:4</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -186,7 +186,7 @@ $110 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sum of angles}                                  &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
@@ -259,7 +259,7 @@ $130 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sum of angles}                                                           &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
@@ -347,9 +347,9 @@ $45 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sum of angles}                        &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
@@ -362,9 +362,9 @@ x                                           &= \dfrac {135 \times \cancel{8}} {\
 x                                           &= 135 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $x$ to find $c$.
-
+<emptyline>
 $
 \begin{aligned}
 x + c                        &= 180 \\\\
@@ -444,10 +444,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:1:5</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -564,11 +564,11 @@ $27 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the missing angle $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 71 + 82     &= 180 \\\\
@@ -577,7 +577,7 @@ a               &= 180 - 153 \\\\
 a               &= 27 \degree
 \end{aligned}
 $
-
+<emptyline>
 Missing angle $= 27 \degree$
 </code></pre>
 </div>

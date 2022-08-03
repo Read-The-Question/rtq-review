@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-2-pr-prpcr"
 title: "TopicPaper - Time - 2 - PR - PRPCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -254,9 +254,9 @@ $21{:}45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 Add the diagram with the following details
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
 &   32   &   16   &   8   &   4  &  2 & 1  \\
@@ -264,7 +264,7 @@ $
 &   1   &   0   &   1   &   1  &  0 & 1  \\
 \end{array}
 $
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
 </code></pre>
 </div>

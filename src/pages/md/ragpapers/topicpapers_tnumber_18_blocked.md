@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-18-blocked"
 title: "TopicPaper - Number - 18 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "4"
 ---
 <ul class='question default-decimal'>
@@ -271,7 +271,7 @@ $50 \text{ cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>A87AA655-D5C6-4729-987B-172DBA858D1D</p>
 </div>
@@ -285,7 +285,7 @@ $50 \text{ cm}$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -379,7 +379,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$
-
+<emptyline>
 $1$ is the smallest number that leaves remainder $1$ when divided by $5$ or $6$ or $7$
 </code></pre>
 </div>
@@ -651,7 +651,7 @@ $2 \times 3 \times 7 = 42$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$2 + 3 + 7 = 12$
-
+<emptyline>
 $2 \times 3 \times 7 = 42$ 
 </code></pre>
 </div>

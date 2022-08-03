@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-10-blocked"
 title: "TopicPaper - Number - 10 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "11"
 ---
 <ul class='question default-decimal'>
@@ -219,7 +219,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>836169C8-E272-4A22-ACB9-5D73CCEFC167</p>
 </div>
@@ -233,7 +233,7 @@ $17$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -398,7 +398,7 @@ TODOANSWER
 &=6
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 <div class='workingcodeblock'>
@@ -525,7 +525,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9</p>
 </div>
@@ -539,7 +539,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -926,7 +926,7 @@ $=3 \times 2^3$
 &= 24
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 &= 2 \times 3^2 \\\\
@@ -934,7 +934,7 @@ $
 &= 18
 \end{aligned}
 $
-
+<emptyline>
 Larger number $=3 \times 2^3$
 </code></pre>
 </div>
@@ -1961,7 +1961,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>FF8263CB-765D-4212-B45C-E95A8847AA0A</p>
 </div>
@@ -1975,7 +1975,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2155,17 +2155,17 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Find the prime factorization of 357
-
+<emptyline>
 = $3\times7\times17$
-
+<emptyline>
 Find the prime factorization of 255
-
+<emptyline>
 = $3\times5\times17$
-
+<emptyline>
 To find the GCF, multiply all the prime factors common to both numbers:
-
+<emptyline>
 = $3\times 17$
-
+<emptyline>
 = $51$
 </code></pre>
 </div>
@@ -2247,17 +2247,17 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Find the prime factorization of 357
-
+<emptyline>
 = $3\times7\times17$
-
+<emptyline>
 Find the prime factorization of 255
-
+<emptyline>
 = $3\times5\times17$
-
+<emptyline>
 Multiply each factor the greater number of times it occurs in steps i) or ii) above to find the LCM:
-
+<emptyline>
 = $3\times5\times7\times 17$
-
+<emptyline>
 = $1785$
 </code></pre>
 </div>
@@ -2449,7 +2449,7 @@ $123456, \ 654321$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Smallest $= 123456$
-
+<emptyline>
 Largest $= 654321$
 </code></pre>
 </div>
@@ -2560,7 +2560,7 @@ $6!$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>154CF3A5-8DE7-4C0B-BB62-B260198A6014</p>
 </div>
@@ -2574,7 +2574,7 @@ $6!$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3005,7 +3005,7 @@ $-1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 11 + 39 \div 13 - 5 \times 3 \\\\
@@ -3227,7 +3227,7 @@ $63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number be a, so consecutive odd numbers will be a + 2 and a + 4
-
+<emptyline>
 $
 \begin{aligned}
 a \times ( a + 2 ) \times ( a + 4 )                         &= 9177 \\\\
@@ -3235,15 +3235,15 @@ a                                                           &= \sqrt[3]{9177} \\
 a                                                           &= 21 \, \text{approx.}
 \end{aligned}
 $
-
+<emptyline>
 |    Numbers     |  Product  |
 |----------------|-----------|
 | $17, 19, 21$   |  $6783$   |
 | $19, 21, 23$   |  $9177$   |
 | $21, 23, 25$   |  $12075$  |
-
+<emptyline>
 So the numbers are $= 19 , 21 , 23$
-
+<emptyline>
 Sum of these numbers are $= 19 + 21 + 23 = 63$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g2"
 title: "TopicPaper - Money - 4 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "17"
 ---
 <ul class='question default-decimal'>
@@ -894,7 +894,7 @@ $\pounds 0.71$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 &= \pounds 1.28 - 57 \text {p} \\\\
@@ -1532,7 +1532,7 @@ $57 \text{p}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of sugar}       &= \pounds 5.15 - \pounds 3.69 - 89 \text {p} \\\\
@@ -1732,7 +1732,7 @@ $\pounds 1.33$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the table,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent}     &= 2 \times 1.49 + 0.69 \\\\
@@ -1931,7 +1931,7 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Count of muffins}    &= \dfrac {\text {Total money}} {\text {Cost of one muffin}} \\\\
@@ -2489,7 +2489,7 @@ $\pounds 0.95$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Money spent}     &= 3 \times 85 + 5 \times 30 \\\\
@@ -2719,7 +2719,7 @@ $\pounds 2.15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Money spent} &= \pounds 1.50 + 65 \text {p} \\\\
@@ -3265,7 +3265,7 @@ $\pounds 11.25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Difference}  &= 5 \times \pounds 5 - (5 \times \pounds 3.50 - 5 \times 75 \text {p}) \\\\

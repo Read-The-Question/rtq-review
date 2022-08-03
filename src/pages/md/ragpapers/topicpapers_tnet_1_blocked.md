@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnet-1-blocked"
 title: "TopicPaper - Net - 1 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -127,7 +127,7 @@ $U$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 After assuming a cube , and pointing side we get that the opposite side of $M$ is $U$.
 </code></pre>
 </div>

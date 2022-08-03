@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -2323,7 +2323,7 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_divide_by_fraction_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 3 \dfrac{1}{3} \div \dfrac {1} {6} \\\\
@@ -2848,7 +2848,7 @@ $6$
                                                   &= 6
 \end{aligned}
 $
-
+<emptyline>
 6th division is to be marked.
 </code></pre>
 </div>
@@ -3389,9 +3389,9 @@ $\dfrac{3}{4}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's make the denominator the same for all the fractions.
-
+<emptyline>
 LCM for $4, 3$ and $10 = 60$
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{3}{4} , \quad \dfrac{2}{3} , \quad \dfrac{7}{10} \\\\
@@ -3399,7 +3399,7 @@ $
 &= \dfrac{45}{60}, \quad \dfrac{40}{60}, \quad \dfrac{42}{60}
 \end{aligned}
 $
-
+<emptyline>
 Largest fraction $= \dfrac{3}{4}$
 </code></pre>
 </div>
@@ -3571,7 +3571,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4AE454C7-A1FE-4AA5-81F3-60BA4730C49F</p>
 </div>
@@ -3585,7 +3585,7 @@ $
 <p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4279,7 +4279,7 @@ $\dfrac {5} {8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 F     &= \dfrac {1} {8} \\\\
@@ -4436,7 +4436,7 @@ $\dfrac {5} {8}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 F+E+D       &= \dfrac {1}{4} \\\\
@@ -6671,7 +6671,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>65688ECE-F658-464B-830E-A58D425C3DCF</p>
 </div>
@@ -6682,7 +6682,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6765,36 +6765,43 @@ Even though the method of cancelling shown below is incorrect, the student has g
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\dfrac{4}{10}$
 
-</div>
-<div class='working'>
+Lets verify.
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac{4}{10} \\\\
+&= \dfrac{2 \times 2}{2 \times 5} \\\\
+&= \dfrac{\cancel{2} \times 2}{\cancel{2} \times 5} \\\\
+&= \dfrac{2}{5} 
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac{4}{10}$
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
-</code></pre>
-</div>
-<div class='workingcodeblock'>
-
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>$\dfrac{4}{10}$
+<emptyline>
+Lets verify.
+<emptyline>
+$
+\begin{aligned}
+&= \dfrac{4}{10} \\\\
+&= \dfrac{2 \times 2}{2 \times 5} \\\\
+&= \dfrac{\cancel{2} \times 2}{\cancel{2} \times 5} \\\\
+&= \dfrac{2}{5} 
+\end{aligned}
+$
 </code></pre>
 </div>
 </div>
@@ -6806,26 +6813,56 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
-</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
-</div>
-<div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>$\dfrac{4}{10}$
 </code></pre>
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='65688ECE-F658-464B-830E-A58D425C3DCF' id='FORM-65688ECE-F658-464B-830E-A58D425C3DCF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-65688ECE-F658-464B-830E-A58D425C3DCF'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prbd question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B24A40C7-A2EB-46D8-9E64-2F701D48B7E1</p>
 </div>
@@ -6839,7 +6876,7 @@ TODOANSWER
 <p>rag_an_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6916,21 +6953,21 @@ tfraction
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>TODOWORKING
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -6942,7 +6979,7 @@ TODOANSWER
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>TODOANSWER
+<pre class='language-latex'><code class='language-latex'>%empty%
 </code></pre>
 </div>
 </div>
@@ -7480,7 +7517,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DC86C66C-E58D-4ADC-8C65-42A99B583CEC</p>
 </div>
@@ -7491,7 +7528,7 @@ $
 <p>Anushka Srivastava</p>
 </div>
 <div class='rag'>
-<p>rag_an_notstarted</p>
+<p>rag_an_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7633,6 +7670,46 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='DC86C66C-E58D-4ADC-8C65-42A99B583CEC' id='FORM-DC86C66C-E58D-4ADC-8C65-42A99B583CEC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DC86C66C-E58D-4ADC-8C65-42A99B583CEC'>Initial</p>
+</div>
 </div>
 </li>
 <li>

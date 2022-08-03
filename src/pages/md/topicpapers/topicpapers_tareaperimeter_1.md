@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-1"
 title: "TopicPaper - Areaperimeter - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -145,9 +145,9 @@ $8 \ \text{mm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (10 + t)                          &= 36 \\\\
@@ -217,7 +217,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>818A3399-A21C-4308-BB9A-424A3CC74F98</p>
 </div>
@@ -231,7 +231,7 @@ $
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -371,11 +371,11 @@ Length $= 9 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the width of the rectangle (in $\text{cm}$) $= w$
-
+<emptyline>
 Let the length of the rectangle (in $\text{cm}$) $= l$
-
+<emptyline>
 Using the formula for area and perimeter for a rectangle, we get
-
+<emptyline>
 $
 \begin{aligned}
 l \times w          &= 36 \\\\
@@ -384,27 +384,27 @@ l + w               &= \dfrac {26}{2} \\\\
 l + w               &= 13
 \end{aligned}
 $
-
+<emptyline>
 We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
-
+<emptyline>
 - Both the numbers should be smaller than $13$
 - The product of the $2$ numbers is $36$ 
 - The sum of the $2$ numbers is $13$.
-
+<emptyline>
 Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
-
+<emptyline>
 | Factors   |  Sum  | Numbers $< 13$    |
 |:-------:  |:----: |:---------------:  |
 | $2, 18$   | $20$  |        No         |
 | $3, 12$   | $15$  |       Yes         |
 | $4, 9$    | $13$  |       Yes         |
-
+<emptyline>
 A quick check shows that $4$ and $9$ meets all the criteria above.
-
+<emptyline>
 *Note: The two equations form a quadratic equation. rtq_abbr_md_quadratic_note*
-
+<emptyline>
 Width of the rectangle $= 4 \ \text{cm}$ 
-
+<emptyline>
 Length of the rectangle $= 9 \ \text{cm}$ 
 </code></pre>
 </div>
@@ -569,11 +569,11 @@ $32 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {1} {2} \times 12 \times h   &= 24 \times 8 \\\\
@@ -584,7 +584,7 @@ h                                   &= 2 \times 8 \times 2 \\\\
 h                                   &= 32 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Height of the triangle $= 32 \ \text {cm}$.
 </code></pre>
 </div>
@@ -821,14 +821,14 @@ $48$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
 The wall measurement is given in $\text{meters}$ while the tile measurement is given in $\text{cm}$.
-
+<emptyline>
 Let's convert the wall measurements into $\text{cm}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of tiles}  &= \dfrac {\text{Area of the wall}} {\text{Area of a tile}} \\\\
@@ -897,7 +897,7 @@ $150$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the wall}} {\text{Area of a tile}} \\\\
@@ -1118,11 +1118,11 @@ $32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of the square garden (in $\text{m}$) $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s \times s                          &= 81 \\\\
@@ -1131,11 +1131,11 @@ s                                   &= \sqrt{81} \\\\
 s                                   &= 9 \ \text{m}
 \end{aligned}
 $
-
+<emptyline>
 ** INFER_DESCRIPTION_STARTS The $4$ corners will be counted twice, so ensure we account for that in the final calculation INFER_DESCRIPTION_ENDS **
-
+<emptyline>
 *Note: The $4$ corners will be counted twice, so ensure we account for that in the final calculation.*
-
+<emptyline>
 $
 \begin{aligned}
 \text{Tree height after second year}    &= 4 \times 9 - 4 \\\\
@@ -1337,9 +1337,9 @@ $56 \ \text {cm}$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter}   &= 20 + 5  + (20 - 12)  + (8 - 5)  + 12  + 8  \\\\
@@ -1764,13 +1764,13 @@ $25 \ \text{cm}^{2}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of the square (in $\text{cm}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a  &= 20 \\\\
@@ -1780,9 +1780,9 @@ a           &= \dfrac {5 \times \cancel {4}} {\cancel {4}}  \\\\
 a           &= 5 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Now, let's find the area of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= a \times a \\\\
@@ -1977,11 +1977,11 @@ $3 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 Let the height of the second triangle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {1} {2} \times 8 \ \times a        &= \dfrac {1} {2} \times 6 \ \times 4 \\\\
@@ -1993,7 +1993,7 @@ a                                         &= \dfrac {3 \times \cancel {8} \times
 a                                         &= 3 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Triangle is $3 \ \text{cm}$ tall.
 </code></pre>
 </div>
@@ -2328,11 +2328,11 @@ $16 \ \text {cm}^2, 16 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the square A}            &= 8 \times 8 \\\\
@@ -2346,11 +2346,11 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Width of the rectangle B}        &= 8 \ \text {cm} \\\\
@@ -2370,11 +2370,11 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Side of the square}              &= \dfrac {8} {2} \\\\
@@ -2749,9 +2749,9 @@ $864 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the square}      &= 12 \times 12 \\\\
@@ -3020,11 +3020,11 @@ $= 7a + 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_regular_polygon
-
+<emptyline>
 Let the side of the hexagon $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 6 \times s  &= 42a + 18 \\\\
@@ -3036,7 +3036,7 @@ s           &= \dfrac {\cancel {6} \times (7a + 3)} {\cancel {6}} \\\\
 s           &= 7a + 3
 \end{aligned}
 $
-
+<emptyline>
 Length of the one side of hexagon $= 7a + 3$.
 </code></pre>
 </div>
@@ -3103,11 +3103,11 @@ The regular polygon has 5 sides.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_regular_polygon
-
+<emptyline>
 Let the number of sides in polygon $= n$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 n \times (15b - 4)  &= 75b - 20 \\\\
@@ -3118,7 +3118,7 @@ n                   &= \dfrac {5 \times (\cancel {15b - 4})} {\cancel {15b - 4}}
 n                   &= 5
 \end{aligned}
 $
-
+<emptyline>
 The regular polygon has 5 sides.
 </code></pre>
 </div>
@@ -3195,13 +3195,13 @@ $36 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the sqaure $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a         &= 4(c - 9) \\\\
@@ -3213,9 +3213,9 @@ a                  &= 15 - 9 \\\\
 a                  &= 6 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}            &= a \times a \\\\
@@ -3486,14 +3486,14 @@ $49 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
 The original length is given in $\text{meters}$ while the new length measurement is given in $\text{cm}$.
-
+<emptyline>
 Let's convert the original measurements into $\text{cm}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Original length of cane}         &= 2.05 \ \text {m} \\\\
@@ -3562,9 +3562,9 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Number of packets}   &= \dfrac {\text {Area of the garden}} {\text {Area per packet of seeds}} \\\\
@@ -3762,9 +3762,9 @@ $44$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of stickers}  &= \dfrac {\text{Area of the wall}} {\text{Area of a sticker}} \\\\
@@ -3978,13 +3978,13 @@ $24 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 Let the side of the square (in $\text{cm}$) $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a \times a                      &= 36 \\\\
@@ -3993,7 +3993,7 @@ a                               &= \sqrt {36} \\\\
 a                               &= 6 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Perimeter}   &= 4 \times a \\\\
@@ -4185,9 +4185,9 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of stickers}  &= \dfrac {\text{Area of the wall}} {\text{Area of a sticker}} \\\\
@@ -4528,7 +4528,7 @@ Tile $E$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 Tile $E$ could be removed without changing the perimeter of the shape.
 </code></pre>
 </div>
@@ -4796,11 +4796,11 @@ Ali
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of Vikram's square}             &= 64 \ \text{cm}^2 \\\\
@@ -4817,7 +4817,7 @@ a                                           &= 16 \ \text {cm} \\\\
                                             &= 256 \ \text {cm}^2
 \end{aligned}
 $
-
+<emptyline>
 Ali has the largest square.
 </code></pre>
 </div>
@@ -4887,11 +4887,11 @@ Vikram
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of Vikram's square}             &= 64 \ \text{cm}^2 \\\\
@@ -4908,7 +4908,7 @@ a                                           &= 16 \ \text {cm} \\\\
                                             &= 256 \ \text {cm}^2
 \end{aligned}
 $
-
+<emptyline>
 Vikram has the smallest square.
 </code></pre>
 </div>
@@ -5153,13 +5153,13 @@ $100$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \sqrt{10000}    &= 100
 \end{aligned}
 $
-
+<emptyline>
 Square numbers between $1$ to $10000 = 100$.
 </code></pre>
 </div>
@@ -5230,13 +5230,13 @@ $4 \ \text {cm} \ , 16 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_triangle_expanded
-
+<emptyline>
 Let the height of the triangle $= h$
-
+<emptyline>
 Let the base of the triangle $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1} {2} \times b \times h    &= 32 \\\\
@@ -5245,11 +5245,11 @@ b \times h                          &= 32 \times 2 \\\\
 b \times h                          &= 64
 \end{aligned}
 $
-
+<emptyline>
 Factors of $64 = 1, 2, 4, 8, 16, 32, 64$
-
+<emptyline>
 Factor pairs of $64$ that are both different square numbers $ = 4, 16$
-
+<emptyline>
 Length of the two shorter sides are $4 \ \text {cm}$ and $16 \ \text {cm}$.
 </code></pre>
 </div>
@@ -5520,13 +5520,13 @@ TODOANSWER
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
-
+<emptyline>
 rtq_abbr_katex_formula_face_area_cube
-
+<emptyline>
 Let the edge of the cube $= a$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 6 \times a \times a                       &= 96 \\\\
@@ -5539,9 +5539,9 @@ a                                         &= \sqrt {16} \\\\
 a                                         &= 4 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of one face of the cube.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of once face}       &= a \times a \\\\
@@ -5615,13 +5615,13 @@ $4 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_surface_area_cube
-
+<emptyline>
 rtq_abbr_katex_formula_face_area_cube
-
+<emptyline>
 Let the edge of the cube $= a$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 6 \times a \times a                       &= 96 \\\\
@@ -5634,7 +5634,7 @@ a                                         &= \sqrt {16} \\\\
 a                                         &= 4 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of one edge of cube $= 4 \ \text{cm}$ 
 </code></pre>
 </div>
@@ -6073,18 +6073,18 @@ $24 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_equilateral_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Add two diagram a small equilateral triangle and a hexagon which is made by adding 6 small ones.
 Show each side of hexagon is equal to triangle.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 Let the side of equilateral triangle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times a          &= 12 \\\\
@@ -6094,9 +6094,9 @@ a                   &= \dfrac {\cancel {3} \times 4} {\cancel {3}} \\\\
 a                   &= 4 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Side of hexagon}                 &= a \\\\
@@ -6190,16 +6190,16 @@ $24 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_perimeter_equilateral_triangle
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Add two diagram a small equilateral triangle and a larger equilateral triangle which is made by adding 4 small ones.
 Show each side of larger triangle is $2 \times \ \text {side of smaller triangle}$.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 Let the side of smaller equilateral triangle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times a          &= 12 \\\\
@@ -6209,9 +6209,9 @@ a                   &= \dfrac {\cancel {3} \times 4} {\cancel {3}} \\\\
 a                   &= 4 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Side of larger triangle}         &= 2 \times a \\\\
@@ -6417,9 +6417,9 @@ $64 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Overlapped Area}         &= \text {Area of smaller rectangle} - \text {Area of grey region} \\\\
@@ -6492,7 +6492,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>7FC4B66E-B5D3-4DC6-B852-F721C19FA720</p>
 </div>
@@ -6500,10 +6500,10 @@ $
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:2:6</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_na_prbd</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -6979,7 +6979,7 @@ $49 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of one tile}            &= \dfrac {\text {Area of the cross}} {\text {Number of tiles}} \\\\
@@ -7048,11 +7048,11 @@ $7 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the length of one side of tile $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a          &= 49 \\\\
@@ -7061,7 +7061,7 @@ a                   &= \sqrt {49} \\\\
 a                   &= 7 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Length of one side of tile $= 7 \ \text {cm}$.
 </code></pre>
 </div>
@@ -7119,11 +7119,11 @@ $84 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 *TODO: ADD an explanation to count total number of sides in the shape is 12*.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}       &= \text {Total sides} \times \text {Length of one side} \\\\
@@ -7194,7 +7194,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>0EECF7A5-9141-40B4-9FF1-7DC9F43A7624</p>
 </div>
@@ -7202,10 +7202,10 @@ $
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:21</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_na_prbd</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -7537,7 +7537,7 @@ $4800 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of Building}            &= \dfrac {3} {5} \times \text {Area of site} \\\\
@@ -7604,7 +7604,7 @@ $2000 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of playground}          &= \dfrac {1} {4} \times \text {Area of site} \\\\
@@ -7667,7 +7667,7 @@ $1200 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of footpath and grass}  &= \text {Area of site} - \text {Area of Building} - \text {Area of playground} \\\\
@@ -7746,11 +7746,11 @@ $1050 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the area of the footpath $= a$
-
+<emptyline>
 Area of the grass $= 7a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of grass} + \text {Area of footpath}    &= 1200 \\\\
@@ -7762,9 +7762,9 @@ a                                                   &= \dfrac {\cancel {8} \time
 a                                                   &= 150 \ \text {cm}^2
 \end {aligned}
 $
-
+<emptyline>
 Let's find the area of the grass.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area of the grass}   &= 7 \times a \\\\
@@ -8273,19 +8273,19 @@ $6 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 Let the width of the path $= a$
-
+<emptyline>
 Let the length of the garden $= l$
-
+<emptyline>
 Let the width of the garden $= w$
-
+<emptyline>
 Length of outside edge of the path $= l + a$
-
+<emptyline>
 Width of outside edge of the path $= w + a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times ((l + a) + (w + a)) - 24   &= 2 \times (l + w) \\\\
@@ -8299,7 +8299,7 @@ a                                   &= \dfrac {\cancel {4} \times 6} {\cancel {4
 a                                   &= 6 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Width of the path $= 6 \ \text {cm}$
 </code></pre>
 </div>
@@ -8492,11 +8492,11 @@ $24$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add the diagram with given wooden cube divided into 8 smaller cubes such that each cube has only 3 painted face.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 Each smaller cube has 3 three face painted with blue.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total faces}         &= 8 \times 3 \\\\
@@ -8769,13 +8769,13 @@ $25 \ \text{cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a          &= 20 \\\\
@@ -8786,9 +8786,9 @@ a                   &= \dfrac {\cancel {4} \times 5} {\cancel {4}} \\\\
 a                   &= 5 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the area of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Area}            &= a \times a \\\\
@@ -8871,15 +8871,15 @@ $24 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the width of the rectangle $= w$
-
+<emptyline>
 Length of the rectangle $= w + 2$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (w + (w + 2))          &= 20 \\\\
@@ -8970,15 +8970,15 @@ $16 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_rectangle
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 Let the width of the rectangle $= w$
-
+<emptyline>
 Length of the rectangle $= 4w$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times (w + 4w)               &= 20 \\\\
@@ -9066,13 +9066,13 @@ $36 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_square
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 Let the side of the square $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times a          &= 81 \\\\
@@ -9081,9 +9081,9 @@ a                   &= \sqrt {81} \\\\
 a                   &= 9 \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the perimeter of the square.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}       &= 4 \times a \\\\
@@ -9285,11 +9285,11 @@ $24$
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
 *TODO:: Add the diagram with given wooden cube divided into 8 smaller cubes such that each cube has only 3 painted face.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 Each smaller cube has 3 three face painted with blue.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total faces}         &= 8 \times 3 \\\\
@@ -9484,9 +9484,9 @@ $240$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of paving stones} &= \dfrac {\text{Area of the garden}} {\text{Area of a stone}} \\\\
@@ -9734,16 +9734,16 @@ $126 \ \text{m}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_katex_formula_area_square_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
 Show the two missing sides are 11 and 4.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into a rectangle and a square.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Area}     &= \text{Area of the rectangle} + \text{Area of the square} \\\\
@@ -10378,15 +10378,15 @@ $36 \ \text {cm}, \ 36 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram divided into three rectangles along with the calculations for the sides of the shape which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into three rectangles.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}   &= 3 + 2 + 6 + 2 + 3 + 4 + 12 + 4 \\\\
@@ -10469,15 +10469,15 @@ $48 \ \text {cm}, \ 86 \ \text {cm}^2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_expanded_perimeter_polygon
-
+<emptyline>
 rtq_abbr_katex_formula_area_rectangle_expanded
-
+<emptyline>
 rtq_abbr_md_add_drawing_starts
 *TODO:: Show the diagram divided into two rectangles along with the calculations for the sides of the shape which do not have measurements shown.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram, the shape can be divided into two rectangles.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Perimeter}   &= 10 + 3 + 7 + 4 + 14 + 4 + 3 + 3 \\\\
@@ -10551,7 +10551,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_prbd rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>AFE5DE8A-41A6-495C-A5F6-FAD016E34EBE</p>
 </div>
@@ -10559,10 +10559,10 @@ $
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Waffles Woof</p>
 </div>
 <div class='rag'>
-<p>rag_na_prbd</p>
+<p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -11051,9 +11051,9 @@ $496 \ \text {cm}^2$
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown.
 Show the length of rectangle $43 \ \text {cm}$ and width $112 \ \text {cm}$.*
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Total area of the path}          &= \text {Total Area} - 6 \times \text {Area of tennis court}  \\\\

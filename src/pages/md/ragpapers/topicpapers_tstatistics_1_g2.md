@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-g2"
 title: "TopicPaper - Statistics - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "6"
 ---
 <ul class='question default-decimal'>
@@ -173,9 +173,9 @@ $70$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_median
-
+<emptyline>
 Let's arrange the pages read in ascending order.
-
+<emptyline>
 $
 \begin {aligned}
 \text{Pages read}           &= 70, \quad 60, \quad 70, \quad 30, \quad 90 \\\\
@@ -216,10 +216,12 @@ Find the range of the number of pets owned.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
+
+
 $
 \begin {aligned}
-\text {Range}   &= \text {Highest number of pets} - \text {Lowest number of pets} \\\\
-                &= 9 - 2 \\\\
+\text {Range}   &= 9 - 2 \\\\
                 &= 7
 \end {aligned}
 $
@@ -236,10 +238,11 @@ $2$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_range
+<emptyline>
+$
 \begin {aligned}
-\text {Range}   &= \text {Highest number of pets} - \text {Lowest number of pets} \\\\
-                &= 9 - 2 \\\\
+\text {Range}   &= 9 - 2 \\\\
                 &= 7
 \end {aligned}
 $
@@ -403,6 +406,9 @@ What is the average height of all five girls?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 $
 \begin {aligned}
 \text {Total height of 4 girls}     &= 4 \times 1.4 \\\\
@@ -428,7 +434,9 @@ $1.36 \ \text {m}$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+$
 \begin {aligned}
 \text {Total height of 4 girls}     &= 4 \times 1.4 \\\\
                                     &= 5.6 \ \text {m} \\\\
@@ -589,6 +597,9 @@ is minus two. What is the other number?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 Let the other number $= a$
 
 As per the question,
@@ -615,10 +626,12 @@ $14$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the other number $= a$
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+Let the other number $= a$
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a + (-2)} {2}   &= 6 \\\\
@@ -852,7 +865,7 @@ $\text {Whale}$
 &= 365 \text{ days}
 \end {aligned}
 $
-
+<emptyline>
 Whale
 </code></pre>
 </div>
@@ -911,7 +924,7 @@ Seal
 &= 350 \ \text {days}
 \end {aligned}
 $
-
+<emptyline>
 Seal
 </code></pre>
 </div>
@@ -972,7 +985,7 @@ Dolphin
 &= 270 \ \text {days}
 \end {aligned}
 $
-
+<emptyline>
 Dolphin
 </code></pre>
 </div>
@@ -1134,15 +1147,20 @@ Use the information in the box to work out what numbers she threw.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
+ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
+
+
 Let the highest number $= h$
 
 Let the middle number $= m$
 
-As per the question,
+As per the question, equating for range,
 
 $
 \begin {aligned}
-\text {Range}       &= \text {Highest number} - \text {Lowest number} \\\\
 10                  &= h - 10 \\\\
 h                   &= 10 + 10 \\\\
 h                   &= 20
@@ -1151,9 +1169,7 @@ $
 
 Highest number $= 20$
 
-Let's use that to find the middle number.
-
-As per the question,
+As per the question, equating for mean,
 
 $
 \begin {aligned}
@@ -1185,27 +1201,28 @@ $15$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the highest number $= h$
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+rtq_abbr_md_statistics_formula_range
+<emptyline>
+Let the highest number $= h$
+<emptyline>
 Let the middle number $= m$
-
-As per the question,
-
+<emptyline>
+As per the question, equating for range,
+<emptyline>
 $
 \begin {aligned}
-\text {Range}       &= \text {Highest number} - \text {Lowest number} \\\\
 10                  &= h - 10 \\\\
 h                   &= 10 + 10 \\\\
 h                   &= 20
 \end {aligned}
 $
-
+<emptyline>
 Highest number $= 20$
-
-Let's use that to find the middle number.
-
-As per the question,
-
+<emptyline>
+As per the question, equating for mean,
+<emptyline>
 $
 \begin {aligned}
 \dfrac {h + m + 10} {3}     &= 15 \\\\
@@ -1216,7 +1233,7 @@ m                           &= 45 - 30 \\\\
 m                           &= 15
 \end {aligned}
 $
-
+<emptyline>
 Middle number $= 15$
 </code></pre>
 </div>
@@ -1422,10 +1439,12 @@ What was the mean score for the games he counted?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
+
+
 $
 \begin {aligned}
-\text {Mean score}  &= \dfrac {\text {Total goals}} {\text {Number of matches}} \\\\
-                    &= \dfrac {3 + 4 + 2 + 0 + 1 + 8} {6} \\\\
+\text {Mean score}  &= \dfrac {3 + 4 + 2 + 0 + 1 + 8} {6} \\\\
                     &= \dfrac {18} {6} \\\\
                     &= \dfrac {3 \times 6} {6} \\\\
                     &= \dfrac {3 \times \cancel {6}} {\cancel {6}} \\\\
@@ -1445,10 +1464,11 @@ $3$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_mean
+<emptyline>
+$
 \begin {aligned}
-\text {Mean score}  &= \dfrac {\text {Total goals}} {\text {Number of matches}} \\\\
-                    &= \dfrac {3 + 4 + 2 + 0 + 1 + 8} {6} \\\\
+\text {Mean score}  &= \dfrac {3 + 4 + 2 + 0 + 1 + 8} {6} \\\\
                     &= \dfrac {18} {6} \\\\
                     &= \dfrac {3 \times 6} {6} \\\\
                     &= \dfrac {3 \times \cancel {6}} {\cancel {6}} \\\\
@@ -1483,10 +1503,12 @@ What was the range?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Range} = \text{Highest number} - \text{Lowest number}$
+
+
 $
 \begin {aligned}
-\text {Range}   &= \text {Highest score} - \text {Lowest score} \\\\
-                &= 8 - 0 \\\\
+\text {Range}   &= 8 - 0 \\\\
                 &= 8
 \end {aligned}
 $
@@ -1503,10 +1525,11 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>$
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_statistics_formula_range
+<emptyline>
+$
 \begin {aligned}
-\text {Range}   &= \text {Highest score} - \text {Lowest score} \\\\
-                &= 8 - 0 \\\\
+\text {Range}   &= 8 - 0 \\\\
                 &= 8
 \end {aligned}
 $
@@ -1567,9 +1590,9 @@ $10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let goals scored in the seventh game $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {3 + 4 + 2 + 0 + 1 + 8 + a} {7}  &= 4 \\\\
@@ -1579,7 +1602,7 @@ a                                       &= 28 - 18 \\\\
 a                                       &= 10
 \end {aligned}
 $
-
+<emptyline>
 Goals scored in the seventh game $= 10$
 </code></pre>
 </div>

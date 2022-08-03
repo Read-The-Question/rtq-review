@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-3-notstarted"
 title: "TopicPaper - Statistics - 3 - NOTSTARTED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "22"
 ---
 <ul class='question default-decimal'>
@@ -4783,34 +4783,34 @@ $1.27m$
 
 <pre class='language-latex'><code class='language-latex'>
 As per questions the average height of three boys is  $1.29$
-
+<emptyline>
 So total height of three boys is,
-
+<emptyline>
 $
 \begin{aligned}
 &= 1.29 \times 3 \\
 &= 3.87 \\
 \end{aligned}
 $
-
+<emptyline>
 Total height of four boys is $1.29 \times 3$ + Stephen's height.
-
+<emptyline>
 $
 \begin{aligned}
         &= 3.87 + 1.21\\
         &= 5.08\\
 \end{aligned}
 $
-
+<emptyline>
 New average = $\dfrac {\text{Total height of 4 boys}}{\text{Total boys}}$
-
+<emptyline>
 $
 \begin{aligned}
 &=\dfrac {5.08}{4}\\
 &= 1.27 \text{metres} \\
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -4878,17 +4878,17 @@ $1.34m$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The total height of $4$ boys from above answer is $5.08$
-
+<emptyline>
 Let's take the Nigel's height as $x$
-
+<emptyline>
 The total height of $6$ boys 
-
+<emptyline>
 $= 5.08$ + Richard + Nigel
-
+<emptyline>
 $= 5.08 + 1.26 + x$
-
+<emptyline>
 Average = $\dfrac {\text{Total height of 6 boys}}{\text{Total number of boys}}$
-
+<emptyline>
 $
 \begin{aligned}
            1.28  &=  \dfrac {5.08 + 1.26 + x}{6} \\\\
@@ -4898,7 +4898,7 @@ $
 1.34 \ \text{metres}&= x \\
 \end{aligned}
 $
-
+<emptyline>
 
 Nigels height is $1.34 \ \text{metres}$
 </code></pre>

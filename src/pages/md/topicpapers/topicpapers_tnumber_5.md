@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-5"
 title: "TopicPaper - Number - 5"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -470,9 +470,9 @@ $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A fraction will be bigger than $\dfrac{1}{2}$ if twice of its numerator is bigger than the denominator.
-
+<emptyline>
 Using trial and error,
-
+<emptyline>
 
 | Fraction  |$2 \times$ Numerator|         $> \dfrac{1}{2}$         |
 |:-------:  |:------------------:|:-------------------------------: |
@@ -481,7 +481,7 @@ Using trial and error,
 | $5, 12$   |  $5 \times 2 = 6$  |              No                  |
 | $8, 15$   |  $8 \times 2 = 6$  |             Yes                  |
 | $11, 15$  |  $11 \times 2 = 6$ |             Yes                  |
-
+<emptyline>
 
 $ \dfrac{3}{5}, \dfrac{8}{15}, \dfrac{11}{15} $
 </code></pre>
@@ -663,9 +663,9 @@ $121$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 513 + a + 130 &= 764 \\\\
@@ -907,7 +907,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8BD54549-B03B-40B3-B556-5623FEB36B82</p>
 </div>
@@ -921,7 +921,7 @@ $15$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1198,7 +1198,7 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 8 * 3   &= (8 \times 3) - 8 \\\\
@@ -2066,7 +2066,7 @@ $29$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 \times (6.2 + 1.05)  \\\\
@@ -2599,7 +2599,7 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$9$
-
+<emptyline>
 It is not a prime number.
 </code></pre>
 </div>
@@ -3114,7 +3114,7 @@ $41.36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 8 \times (4.1 + 1.07)  \\\\
@@ -3465,7 +3465,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$
-
+<emptyline>
 It is not a prime number.
 </code></pre>
 </div>
@@ -4500,7 +4500,7 @@ $177.68$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= 4 \times (43.4 + 1.02)  \\\\
@@ -4688,7 +4688,7 @@ $150 \ \text {miles}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the given method,
-
+<emptyline>
 $
 \begin{aligned}
 &=  240 \ \text {kilometers} \\\\
@@ -5582,7 +5582,7 @@ $42 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert all the units to $\text {cm}$. 
-
+<emptyline>
 $
 \begin{aligned}
 &= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
@@ -5590,7 +5590,7 @@ $
 &= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 1.47 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
 \end{aligned}
 $
-
+<emptyline>
 Longest length $= 42 \ \text{cm}$
 </code></pre>
 </div>
@@ -5936,7 +5936,7 @@ $31.02$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 &= 6 \times (4.1 + 1.07)  \\\\
@@ -6467,7 +6467,7 @@ $1$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$
-
+<emptyline>
 It is not a prime number.
 </code></pre>
 </div>

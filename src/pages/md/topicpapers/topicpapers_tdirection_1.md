@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdirection-1"
 title: "TopicPaper - Direction - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "13"
 ---
 <div class='paper'>
@@ -1265,14 +1265,14 @@ $\text {South}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The angle between each arm $=45 \degree$
-
+<emptyline>
 $
 \begin{aligned}
 &= 45 \degree + 45 \degree + 45 \degree \\\\
 &= 135 \degree 
 \end{aligned}
 $
-
+<emptyline>
 Turning through $135 \degree$.clockwise, I will be facing 
 $\ \text{South}$
 </code></pre>
@@ -1474,14 +1474,14 @@ $\text {North East}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>The angle between each arm $=45 \deg$
-
+<emptyline>
 $
 \begin{aligned}
 &= 45\degree + 45\degree + 45\degree + 45\degree + 45\degree + 45\degree + 45\degree \\\\
 &= 270\degree
 \end{aligned}
 $
-
+<emptyline>
 Turning through $270 \degree$ clockwise, I will be facing $\text{North East}$
 </code></pre>
 </div>
@@ -1812,9 +1812,9 @@ Angle $= 60\ \text{degrees}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>An anticlockwise movement is +ve (positive) and a clockwise movement is -ve(negative).
-
+<emptyline>
 As per the question, I turn
-
+<emptyline>
 $
 \begin{aligned}
 & = -40 + 70 - 90 \\\\
@@ -1822,15 +1822,15 @@ $
 & = -60 \ \text{degrees}
 \end{aligned}
 $
-
+<emptyline>
 $-60 \ \text{degrees}$ is negative, so a clockwise movement.
-
+<emptyline>
 As my first turn was in clockwise direction, to return to my original position I need to turn in
-
+<emptyline>
 Direction $=  \text{anticlockwise}$ 
-
+<emptyline>
 Angle $= 60\ \text{degrees}$ 
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1982,7 +1982,7 @@ South
 
 <pre class='language-latex'><code class='language-latex'>
 If I face West and turn
-
+<emptyline>
 $
 \begin{aligned}
       & = 270 \ \text{degrees \ clockwise}    \\\\
@@ -1990,7 +1990,7 @@ $
       & = 90 \text {(North)} + 90 \text {(East)} + 90 \text {(South)} 
 \end{aligned}
 $
-
+<emptyline>
 If I face West and turn $270 \ \text{degrees}$ clockwise the direction I am now facing = South.
 </code></pre>
 </div>

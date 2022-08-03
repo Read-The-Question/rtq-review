@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g2"
 title: "TopicPaper - Percentage - 1 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "27"
 ---
 <ul class='question default-decimal'>
@@ -1868,9 +1868,9 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a} {100} \times 52             &= 13 \\\\
@@ -1880,7 +1880,7 @@ a                                      &= \dfrac {\cancel{13} \times \cancel{4} 
 a                                      &= 25
 \end{aligned}
 $
-
+<emptyline>
 Number $= 25$
 </code></pre>
 </div>
@@ -1940,9 +1940,9 @@ $400$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {15} {100} \times a             &= 60 \\\\
@@ -1953,7 +1953,7 @@ a                                      &= 4 \times 100 \\\\
 a                                      &= 400
 \end{aligned}
 $
-
+<emptyline>
 Number $= 400$
 </code></pre>
 </div>
@@ -2529,7 +2529,7 @@ $30\% \text{ of } \ 30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the first value.
-
+<emptyline>
 $
 \begin{aligned}
 \text{First value}      &= 50\% \text{ of }  10 \\\\
@@ -2554,9 +2554,9 @@ $
                         &= 8
 \end{aligned}
 $
-
+<emptyline>
 Using the calculation above,
-
+<emptyline>
 Biggest value $= 30 \% \text{ of } 30$
 </code></pre>
 </div>
@@ -2738,7 +2738,7 @@ $60 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the diagram,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Percentage shaded}   &= \dfrac {3} 5 \times 100 \\\\
@@ -6380,7 +6380,7 @@ $20 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Percentage red sweets}       &= \dfrac {4} {16 + 4} \ \times \ 100 \\\\

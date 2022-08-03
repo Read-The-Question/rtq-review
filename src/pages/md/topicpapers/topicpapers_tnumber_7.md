@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-7"
 title: "TopicPaper - Number - 7"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -506,7 +506,7 @@ $101$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= (999 - 99 + 9) \div 9 \\\\
@@ -705,7 +705,7 @@ $9$
 \text{Count}                &= 9
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -766,7 +766,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AB7057B1-8C72-4023-A583-CA2D1B61CFD9</p>
 </div>
@@ -780,7 +780,7 @@ $
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -888,7 +888,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 |    | Remainder <br>Divided by 2 | Remainder <br>Divided by 3 | Remainder |
 |:--:|:--------------------------:|:--------------------------:|:---------:|
 |  5 |              1             |              2             |  Not same |
@@ -1080,7 +1080,7 @@ $1999$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 19 + 99 + 19 \times 99 \\\\
@@ -1324,7 +1324,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>601C328B-929D-4CC4-9443-D89375DA371E</p>
 </div>
@@ -1338,7 +1338,7 @@ $12$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1646,9 +1646,9 @@ $45 \times 56$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$45 \times 56$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 \text{A} &= 34 \times 45 \\\\
@@ -1864,7 +1864,7 @@ $9 \times 6 + 73 = 96 + 7 \times 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 \text {A. First value }    &= 4 \times 5 + 67 \\\\
@@ -4788,9 +4788,9 @@ $24, 44$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$44, 24$
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 $
 \begin {aligned}
 &= 44 - 24 \\\\
@@ -5060,9 +5060,9 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ 27 + \rtq_katex_color_answer{64} = 91$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 27 + 64 \\\\
@@ -5122,9 +5122,9 @@ $19$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ 58 - \rtq_katex_color_answer{19} = 39$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 58-19 \\\\
@@ -5184,9 +5184,9 @@ $52$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$ \rtq_katex_color_answer{52} \times 7 = 364$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 52 \times 7 \\\\
@@ -5246,9 +5246,9 @@ $138$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$161 - \rtq_katex_color_answer{138} = 23$
-
+<emptyline>
 Lets verify.
-
+<emptyline>
 $
 \begin{aligned}
 &= 161 - 138 \\\\
@@ -6092,9 +6092,9 @@ $0.142$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the other number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {1}{2} \times (0.11 + a)     &= 0.126 \\\\
@@ -6104,7 +6104,7 @@ a                                    &= 0.252 - 0.11 \\\\
 a                                    &= 0.142
 \end{aligned}
 $
-
+<emptyline>
 Other number $= 0.142$
 </code></pre>
 </div>
@@ -6472,7 +6472,7 @@ $
 &= 210
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -7244,13 +7244,13 @@ $0.06$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $2 \times 3 = 6$
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two.
-
+<emptyline>
 Let's account for the decimal point now. 
-
+<emptyline>
 $= 0.06$
 </code></pre>
 </div>
@@ -7774,7 +7774,7 @@ $5600$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using the above method,
-
+<emptyline>
 $
 \begin{aligned}
 &= 83 ^ {2} - 17 ^ {2} \\\\
@@ -8015,7 +8015,7 @@ $2020020$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5944BAB9-F811-4821-A822-19421386ED7E</p>
 </div>
@@ -8029,7 +8029,7 @@ $2020020$
 <p>rag_an_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8481,9 +8481,9 @@ $5 \text{th May} 2020$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$5 \text{th May} 2020$
-
+<emptyline>
 Lets verfy.
-
+<emptyline>
 $
 \begin{aligned}
 &= 5 \text{th May} 2020 \\\\
@@ -8982,7 +8982,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Prime numbers $= 23, 29$
-
+<emptyline>
 Count $= 2$
 </code></pre>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-blocked"
 title: "TopicPaper - Simpleword - 1 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "1"
 ---
 <ul class='question default-decimal'>
@@ -148,7 +148,7 @@ $80 \%$ of $20 \%$ of $200$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Calculation for $90 \%$ of $10 \%$ of $300$ ,
-
+<emptyline>
 $
 \begin{aligned} 
 &= 90 \% \text { of } 10 \% \text { of } 300                    \\\\
@@ -162,9 +162,9 @@ $
 &= 27
 \end{aligned}
 $
-
+<emptyline>
 Calculation for $80 \%$ of $20 \%$ of $200$ ,
-
+<emptyline>
 $
 \begin{aligned} 
 &= 80 \% \text { of } 20 \% \text { of } 200                    \\\\
@@ -178,9 +178,9 @@ $
 &= 32
 \end{aligned}
 $
-
+<emptyline>
 From the above Calculations, its Observed that 32 > 27,
-
+<emptyline>
 Therefore, $80 \%$ of $20 \%$ of $200$ is greater then $90 \%$ of $10 \%$ of $300$ .
 </code></pre>
 </div>

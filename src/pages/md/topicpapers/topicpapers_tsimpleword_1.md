@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-1"
 title: "TopicPaper - Simpleword - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -905,7 +905,7 @@ $4, 58$
 |   $4 \times 58$   |    232     |
 |   $4 \times 120$  |    480     |
 |   $23 \times 45$  |    1035    |
-
+<emptyline>
 Required two numbers $= 4, 58$
 </code></pre>
 </div>
@@ -1697,7 +1697,7 @@ $\text {Hannah}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's calculate the percentage score for both.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Freya's score}      &= \dfrac {16} {20} \times 100 \\\\
@@ -1709,7 +1709,7 @@ $
 \text {Hannah's score}     &= 85 \%
 \end {aligned}
 $
-
+<emptyline>
 From the calculation above, Hannah did better than Freya.
 </code></pre>
 </div>
@@ -2676,9 +2676,9 @@ $16$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 20 \% \ \text{of} \ a           &= 3.2 \\\\
@@ -2744,7 +2744,7 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 135 \div (1 + 3 + 5) \\\\
@@ -3837,7 +3837,7 @@ $\dfrac {9} {16}$
 \text{Shaded squares}            &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Unshaded squares}          &= 4 + 8 \times \dfrac {1} {2} + 4 \times \dfrac {1} {4} \\\\
@@ -3846,7 +3846,7 @@ $
                                  &= 7
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of shaded squares}          &= \dfrac {\text{Shaded squares}} {\text{Total squares}} \\\\
@@ -4046,9 +4046,9 @@ Number of $5$ seated tables $= 4$
 |              3              |             3              |      39     |      3      |
 |              2              |             4              |      36     |      0      |
 |              1              |             6              |      38     |      2      |
-
+<emptyline>
 Number of $8$ seated tables $= 2$
-
+<emptyline>
 Number of $5$ seated tables $= 4$
 </code></pre>
 </div>
@@ -4315,11 +4315,11 @@ $123 - 45 - 67 + 89 = 100$
 67  \ \boxed{\ + \ } \ 
 89 = \ 100
 $
-
+<emptyline>
 Let's verify.
-
+<emptyline>
 rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 123 - 45 - 67 + 89 \\\\
@@ -4388,7 +4388,7 @@ $297$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of boys this year $= a$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Proportion of boys this year} &= \text{Proportion of boys last year} \\\\
@@ -4469,13 +4469,13 @@ $250 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the longest piece length $= a \ \text{cm}$
-
+<emptyline>
 Length of middle piece $= (a - 40) \ \text{cm}$
-
+<emptyline>
 Length of shortest piece $= (a - 40) - 70 = (a - 110) \ \text{cm}$
-
+<emptyline>
 Total Length of string,
-
+<emptyline>
 $
 \begin{aligned}
 a \ \text{cm} + (a - 40) \ \text{cm} + (a - 110) \ \text{cm}   &= 6 \ \text{m} \\\\
@@ -4800,7 +4800,7 @@ $14 \ \text{years}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the required time $= t \ \text{years}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Parent's age}                 &= 2 \times \text{Child's age} \\\\
@@ -4866,9 +4866,9 @@ West
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let North direction $= 0 \ \text{degrees}$
-
+<emptyline>
 South East direction $= 135 \ \text{degrees}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Current direction}            &= 135 - 225 \ \text{degrees} \\\\
@@ -5068,9 +5068,9 @@ Number of $5$ seated tables $= 4$
 |              3              |             3              |      39     |      3      |
 |              2              |             4              |      36     |      0      |
 |              1              |             6              |      38     |      2      |
-
+<emptyline>
 Number of $8$ seated tables $= 2$
-
+<emptyline>
 Number of $5$ seated tables $= 4$
 </code></pre>
 </div>
@@ -5250,7 +5250,7 @@ $104$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of ewes with two new born lambs $= a$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total lambs}                  &= a \times 2 + (364 - a) \times 1 \\\\
@@ -5458,7 +5458,7 @@ $2 \dfrac {1} {2} \ \text{jugs of water required}$
                      &= 800 \ \text{ml}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{One half jug} &= \dfrac {400} {2} \\\\
@@ -5467,7 +5467,7 @@ $
                     &= 200 \ \text{ml}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total} &= 800 + 200 \\\\
@@ -6005,7 +6005,7 @@ $80 \%$ of $20 \%$ of $200$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Calculation for $90 \%$ of $10 \%$ of $300$ ,
-
+<emptyline>
 $
 \begin{aligned} 
 &= 90 \% \text { of } 10 \% \text { of } 300                    \\\\
@@ -6019,9 +6019,9 @@ $
 &= 27
 \end{aligned}
 $
-
+<emptyline>
 Calculation for $80 \%$ of $20 \%$ of $200$ ,
-
+<emptyline>
 $
 \begin{aligned} 
 &= 80 \% \text { of } 20 \% \text { of } 200                    \\\\
@@ -6035,9 +6035,9 @@ $
 &= 32
 \end{aligned}
 $
-
+<emptyline>
 From the above Calculations, its Observed that 32 > 27,
-
+<emptyline>
 Therefore, $80 \%$ of $20 \%$ of $200$ is greater then $90 \%$ of $10 \%$ of $300$ .
 </code></pre>
 </div>
@@ -6299,7 +6299,7 @@ M
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the value of the missing letter be $=a$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Sum of letters}               &= - 19 \\\\
@@ -7379,7 +7379,7 @@ $12 \%$
 &= 12.5 \%
 \end {aligned}
 $
-
+<emptyline>
 The best answer is $= 12 \%$.
 </code></pre>
 </div>
@@ -7603,7 +7603,7 @@ $€ 600$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \pounds 100             &= € 120 \\\\
@@ -7662,7 +7662,7 @@ $\pounds 250$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the above answer,
-
+<emptyline>
 $
 \begin {aligned}
 \pounds 500                 &= € 600 \\\\
@@ -7736,9 +7736,9 @@ $\text {Bruno}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's convert pounds into euros to compare them.
-
+<emptyline>
 As per the above answers,
-
+<emptyline>
 $
 \begin {aligned}
 \text {Bruno has}   &= \pounds 600 \\\\
@@ -7747,7 +7747,7 @@ $
                     &= € 720
 \end {aligned}
 $
-
+<emptyline>
 $
 \begin {aligned}
 \text {Difference}  &= \text {Bruno} - \text {Marie} \\\\
@@ -7755,9 +7755,9 @@ $
                     &= € 20
 \end {aligned}
 $
-
+<emptyline>
 Bruno $\pounds 600$ > Marie $ € 700$
-
+<emptyline>
 Bruno has $€ 20$ more than Marie.
 </code></pre>
 </div>
@@ -7985,7 +7985,7 @@ Bella
                                             &= \pounds \ 0.47
 \end {aligned}
 $
-
+<emptyline>
 Best value $=$ Bella
 </code></pre>
 </div>
@@ -8638,11 +8638,11 @@ $90 \%$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
-
+<emptyline>
 Total number of multiples of $10 = 10$.
-
+<emptyline>
 So numbers that are not multiples of $10 = 100 - 10 = 90$.
-
+<emptyline>
 $
 \begin{aligned}
 \text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
@@ -9175,7 +9175,7 @@ $23$
                                             &= 161
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of days the credit will last}  &= \dfrac {161} {7} \\\\

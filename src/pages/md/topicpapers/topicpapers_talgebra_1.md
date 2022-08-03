@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -16,7 +16,7 @@ questions_count: "40"
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F57C9C9-F2AD-4B34-BB50-53249F45FAE3</p>
 </div>
@@ -30,7 +30,7 @@ questions_count: "40"
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -118,9 +118,12 @@ $p - 71$
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
 <div class='answer'>
 
-c
+$p - 71$
 
 </div>
 </div>
@@ -133,13 +136,13 @@ c
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>c
+<pre class='language-latex'><code class='language-latex'>$p - 71$
 </code></pre>
 </div>
 </div>
@@ -330,9 +333,9 @@ $21$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of students in year $4 = a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac{2}{5} \times a                          &= 14  \\\\
@@ -344,7 +347,7 @@ a                                              &= \dfrac{14 \times 5}{2} \\\\
                                                &= 35
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total children}   &= 35 \\\\
@@ -570,7 +573,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2a -b \\\\
@@ -632,7 +635,7 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= c - (a - b) \\\\
@@ -695,7 +698,7 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 3b^2 \\\\
@@ -768,7 +771,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3B389935-2713-4E79-B41A-797356ED47C0</p>
 </div>
@@ -782,7 +785,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -912,7 +915,7 @@ $
 \dfrac {a + 5} { 2}    &= 6 \\\\
 a + 5                  &= 6 \times 2 \\\\
 a + 5                  &= 12 \\\\
-a                      &= 12 - 5\\\\
+a                      &= 12 - 5 \\\\
 a                      &= 7
 \end{aligned}
 $
@@ -932,19 +935,19 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {a + 5} { 2}    &= 6 \\\\
 a + 5                  &= 6 \times 2 \\\\
 a + 5                  &= 12 \\\\
-a                      &= 12 - 5\\\\
+a                      &= 12 - 5 \\\\
 a                      &= 7
 \end{aligned}
 $
-
+<emptyline>
 The number I am thinking of $= 7$
 </code></pre>
 </div>
@@ -982,6 +985,8 @@ $
 5x             &= 43 + 7 \\\\
 5x             &= 50 \\\\
 x              &= \dfrac {50} {5} \\\\
+x              &= \dfrac {5 \times 10} {5} \\\\
+x              &= \dfrac {\cancel 5 \times 10} {\cancel 5} \\\\
 x              &= 10
 \end{aligned}
 $
@@ -1004,6 +1009,8 @@ $10$
 5x             &= 43 + 7 \\\\
 5x             &= 50 \\\\
 x              &= \dfrac {50} {5} \\\\
+x              &= \dfrac {5 \times 10} {5} \\\\
+x              &= \dfrac {\cancel 5 \times 10} {\cancel 5} \\\\
 x              &= 10
 \end{aligned}
 $
@@ -1216,9 +1223,9 @@ $12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Gino thought of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \bigg(\dfrac{a}{2} + 5 \bigg)^2     &= 121 \\\\
@@ -1229,7 +1236,7 @@ a                                   &= 2 \times 6 \\\\
 a                                   &= 12 
 \end {aligned}
 $
-
+<emptyline>
 The number that Gino thought of $= 12$.
 </code></pre>
 </div>
@@ -1291,7 +1298,7 @@ The number that Gino thought of $= 12$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>56B40B8C-468B-4A69-83E1-B687C31C142F</p>
 </div>
@@ -1305,7 +1312,7 @@ The number that Gino thought of $= 12$.
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1425,14 +1432,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Total cost} &= 2 \times \text{Adult} + 4 \times \text{Child}  \\\\
-                  &= 2 \times \pounds 6.25 + 4 \times \pounds 2.50 \\\\
-                  &= 12.5 + 10 \\\\
-                  &= \pounds 22.50
+\text {Total cost} &= 2 \times \text {Adult} + 4 \times \text {Child}  \\\\
+                   &= 2 \times 6.25 + 4 \times 2.50 \\\\
+                   &= 12.5 + 10 \\\\
+                   &= \pounds 22.50
 \end{aligned}
 $
-
-The cost for $2$ adults and $4$ children to visit the theme park $= \pounds 22.50$
 
 </div>
 </div>
@@ -1447,17 +1452,15 @@ $\pounds 22.50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
-\text{Total cost} &= 2 \times \text{Adult} + 4 \times \text{Child}  \\\\
-                  &= 2 \times \pounds 6.25 + 4 \times \pounds 2.50 \\\\
-                  &= 12.5 + 10 \\\\
-                  &= \pounds 22.50
+\text {Total cost} &= 2 \times \text {Adult} + 4 \times \text {Child}  \\\\
+                   &= 2 \times 6.25 + 4 \times 2.50 \\\\
+                   &= 12.5 + 10 \\\\
+                   &= \pounds 22.50
 \end{aligned}
 $
-
-The cost for $2$ adults and $4$ children to visit the theme park $= \pounds 22.50$
 </code></pre>
 </div>
 </div>
@@ -1507,6 +1510,8 @@ $
 3c                            &= 44 - 20 \\\\
 3c                            &= 24 \\\\
 c                             &= \dfrac {24} {3} \\\\
+c                             &= \dfrac {3 \times 8} {3} \\\\
+c                             &= \dfrac {\cancel 3 \times 8} {\cancel 3} \\\\
 c                             &= 8
 \end{aligned}
 $
@@ -1526,9 +1531,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of children $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times 5 + c \times 3       &= 44 \\\\
@@ -1536,10 +1541,12 @@ $
 3c                            &= 44 - 20 \\\\
 3c                            &= 24 \\\\
 c                             &= \dfrac {24} {3} \\\\
+c                             &= \dfrac {3 \times 8} {3} \\\\
+c                             &= \dfrac {\cancel 3 \times 8} {\cancel 3} \\\\
 c                             &= 8
 \end{aligned}
 $
-
+<emptyline>
 Number of children $= 8$
 </code></pre>
 </div>
@@ -1781,9 +1788,9 @@ $275 \ \text{grams}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the weight of a small can (in $\text{grams}$) $= w$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total weight} &= 1.25 \ \text{kg}\\\\
@@ -1791,9 +1798,9 @@ $
                     &= 1250 \ \text{grams}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 425 + 3w              &= 1250  \\\\
@@ -1805,7 +1812,7 @@ w                     &= \dfrac{275 \times \cancel 3} {\cancel 3}  \\\\
 w                     &= 275 \ \text{grams}
 \end{aligned}
 $
-
+<emptyline>
 Weight of a small can $= 275 \ \text{grams}$
 </code></pre>
 </div>
@@ -1963,16 +1970,18 @@ How many of pupils in $7$S are boys with brown hair?
 <div class='workings'>
 <div class='working'>
 
+Let the number of boys $= a$
+
 As per the question,
 
 $
 \begin{aligned}
-\text{Number of boys}     &= \dfrac {2} {3} \times 24 \\\\
-                          &= \dfrac {2 \times 24} {3} \\\\
-                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
-                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
-                          &= 2 \times 8 \\\\
-                          &= 16
+\text{Number of boys}      &= \dfrac {2} {3} \times 24 \\\\
+a                          &= \dfrac {2 \times 24} {3} \\\\
+a                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
+a                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+a                          &= 2 \times 8 \\\\
+a                          &= 16
 \end{aligned}
 $
 
@@ -1996,19 +2005,21 @@ $8$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
+<pre class='language-latex'><code class='language-latex'>Let the number of boys $= a$
+<emptyline>
+As per the question,
+<emptyline>
 $
 \begin{aligned}
-\text{Number of boys}     &= \dfrac {2} {3} \times 24 \\\\
-                          &= \dfrac {2 \times 24} {3} \\\\
-                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
-                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
-                          &= 2 \times 8 \\\\
-                          &= 16
+\text{Number of boys}      &= \dfrac {2} {3} \times 24 \\\\
+a                          &= \dfrac {2 \times 24} {3} \\\\
+a                          &= \dfrac {2 \times 8 \times 3} {3} \\\\
+a                          &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+a                          &= 2 \times 8 \\\\
+a                          &= 16
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Boys with brown hair}       &= \dfrac {1} {2} \times a\\\\
@@ -2036,6 +2047,22 @@ $
 
 <h4>Review Comments</h4>
 \text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\    DELETE RED ONE
+
+
+
+Add a line at the starting
+
+\"Let the number of boys = a\"
+
+
+
+then change the \"Number of boys = 2/3 * 24\"
+
+to \"a = 2/3 * 24\"
+
+(solve further)
+
+
 </div>
 
 <div class='review'>
@@ -2081,7 +2108,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7125F2EC-250C-48A5-96EC-68872015C687</p>
 </div>
@@ -2095,7 +2122,7 @@ $
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2194,13 +2221,11 @@ $
 \begin{aligned}
 \text{Number of glasses} &= \dfrac {\text{Total Water in cooler}} {\text{Water in a glass}} \\\\
                          &= \dfrac {5000} {200} \\\\
-                         &= \dfrac {50\cancel{0}\cancel{0}} {2\cancel{0}\cancel{0}} \\\\
-                         &= \dfrac {50} {2} \\\\
+                         &= \dfrac {200 \times 25} {200} \\\\
+                         &= \dfrac {\cancel {200} \times 25} {\cancel {200}} \\\\
                          &= 25
 \end{aligned}
 $
-
-Number of glasses of water $= 25$
 
 </div>
 </div>
@@ -2215,7 +2240,7 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total water}       &= 5 \ \text{litres} \\\\
@@ -2223,20 +2248,18 @@ $
                          &= 5000 \ \text{ml}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of glasses} &= \dfrac {\text{Total Water in cooler}} {\text{Water in a glass}} \\\\
                          &= \dfrac {5000} {200} \\\\
-                         &= \dfrac {50\cancel{0}\cancel{0}} {2\cancel{0}\cancel{0}} \\\\
-                         &= \dfrac {50} {2} \\\\
+                         &= \dfrac {200 \times 25} {200} \\\\
+                         &= \dfrac {\cancel {200} \times 25} {\cancel {200}} \\\\
                          &= 25
 \end{aligned}
 $
-
-Number of glasses of water $= 25$
 </code></pre>
 </div>
 </div>
@@ -2482,33 +2505,33 @@ Cost of a banana $= 50 \ \text{pence}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of an apple (in $\text{pence}$) $= a$
-
+<emptyline>
 Let the cost of a banana (in $\text{pence}$) $= b$
-
+<emptyline>
 rtq_abbr_md_unit_no_dot_note. Let's convert all the costs into $\text{pence}$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned} 
 2a + b &=  120 \\\\
 a + 2b &= 135
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
+<emptyline>
 Multiply the second equation by $2$.
-
+<emptyline>
 $
 \begin{aligned} 
 2 \times a + 2 \times 2b     &= 2 \times 135 \\\\
 2a + 4b                      &= 270
 \end{aligned}
 $
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned} 
 2a + 4b - (2a + b)     &= 270 - 120 \\\\
@@ -2518,11 +2541,11 @@ b                      &= \dfrac {150} {3} \\\\
 b                      &= 50 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of a banana $= 50 \ \text{pence}$.
-
+<emptyline>
 Let's substitute the value of $b$ in one of the initial equations to find the cost of an apple.
-
+<emptyline>
 $
 \begin{aligned} 
 2a + b     &=  120 \\\\
@@ -2533,7 +2556,7 @@ a          &= \dfrac {70} {2} \\\\
 a          &= 35 \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 Cost of an apple $= 35 \ \text{pence}$.
 </code></pre>
 </div>
@@ -2597,7 +2620,7 @@ Cost of a banana $= 50 \ \text{pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C6F4AD83-598E-4D8C-8FE2-F30239151865</p>
 </div>
@@ -2611,7 +2634,7 @@ Cost of a banana $= 50 \ \text{pence}$
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2692,11 +2715,9 @@ How many students studied Spanish?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
-\begin {aligned}
-\text{Students (Spanish)}       &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+\begin{aligned}
+\text {Students (Spanish)}      &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
                                 &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
                                 &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
                                 &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
@@ -2704,10 +2725,8 @@ $
                                 &=  180 -  2 \times 36 - 45 \\\\
                                 &=  180 -  72 - 45 \\\\
                                 &=  63
-\end {aligned}
+\end{aligned}
 $
-
-Number of students who studied Spanish $= 63$
 
 </div>
 </div>
@@ -2721,11 +2740,9 @@ $63$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
-\begin {aligned}
-\text{Students (Spanish)}       &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+\text {Students (Spanish)}      &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
                                 &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
                                 &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
                                 &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
@@ -2733,10 +2750,8 @@ $
                                 &=  180 -  2 \times 36 - 45 \\\\
                                 &=  180 -  72 - 45 \\\\
                                 &=  63
-\end {aligned}
+\end{aligned}
 $
-
-Number of students who studied Spanish $= 63$
 </code></pre>
 </div>
 </div>
@@ -2760,23 +2775,13 @@ Number of students who studied Spanish $= 63$
 
 
 
-1. Remove extra space 
-
-\begin {aligned}  ==> \begin{aligned}
-
-Do the same for end {aligned}.
+Remove \"As per the....\"
 
 
 
-2. Add space between \text and {}
+Instead of \"Students(Spanish)\" write \"Spanish student\"
 
-\text{Students (Spanish)}  ==> \text {Students (Spanish)}
-
-
-
-Remove: As per the question,
-
-Remove last line: Number of students who stud....
+do this wherever required.
 </div>
 
 <div class='review'>
@@ -2822,7 +2827,7 @@ Remove last line: Number of students who stud....
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>36F489C8-4D43-443D-8436-ED8F6DD25EB8</p>
 </div>
@@ -2836,7 +2841,7 @@ Remove last line: Number of students who stud....
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2922,31 +2927,33 @@ How many cookies did they need to sell to reach their target?
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required
-.
+
 
 $
-\begin {aligned}
-\text{Total amount}     &= \pounds 200 \\\\
-                        &= 200 \times 100 \text{p} \\\\
-                        &= 20000 \text{p}
-\end {aligned}
+\begin{aligned}
+\text {Total amount}     &= \pounds 200 \\\\
+                        &= 200 \times 100 \text {p} \\\\
+                        &= 20000 \text {p}
+\end{aligned}
 $
 
 $
-\begin {aligned}
-\text {Cost of each cookie}              &= 10 \text{p} \\\\
-\text {Sale Price for each cookie}       &= 50 \text{p} \\\\
+\begin{aligned}
+\text {Cost of each cookie}              &= 10 \text {p} \\\\
+\text {Sale Price for each cookie}       &= 50 \text {p} \\\\
 \text {Profit per cookie}                &= 50 - 10 \\\\
-                                         &= 40 \text{p}
-\end {aligned}
+                                         &= 40 \text {p}
+\end{aligned}
 $
 
 $
-\begin {aligned}
-\text {Number of cookies needed}             &= \dfrac {\text{Total target}} {\text{Profit per cookie}} \\\\
+\begin{aligned}
+\text {Number of cookies needed}             &= \dfrac {\text {Total target}} {\text {Profit per cookie}} \\\\
                                              &= \dfrac {20000} {40} \\\\
+                                             &= \dfrac {40 \times 500} {40} \\\\
+                                             &= \dfrac {\cancel {40} \times 500} {\cancel {40}} \\\\
                                              &= 500
-\end {aligned}
+\end{aligned}
 $
 
 </div>
@@ -2963,6 +2970,8 @@ $
 (50 - 10) \times c              &= 20000 \\\\
 40c                             &= 20000 \\\\
 c                               &= \dfrac {20000} {40} \\\\
+c                               &= \dfrac {40 \times 500} {40} \\\\
+c                               &= \dfrac {\cancel {40} \times 500} {\cancel {40}} \\\\
 c                               &= 500
 \end {aligned}
 $
@@ -2981,51 +2990,55 @@ $500$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
+<emptyline>
 $
-\begin {aligned}
-\text{Total amount}     &= \pounds 200 \\\\
-                        &= 200 \times 100 \text{p} \\\\
-                        &= 20000 \text{p}
-\end {aligned}
+\begin{aligned}
+\text {Total amount}     &= \pounds 200 \\\\
+                        &= 200 \times 100 \text {p} \\\\
+                        &= 20000 \text {p}
+\end{aligned}
 $
-
+<emptyline>
 $
-\begin {aligned}
-\text {Cost of each cookie}              &= 10 \text{p} \\\\
-\text {Sale Price for each cookie}       &= 50 \text{p} \\\\
+\begin{aligned}
+\text {Cost of each cookie}              &= 10 \text {p} \\\\
+\text {Sale Price for each cookie}       &= 50 \text {p} \\\\
 \text {Profit per cookie}                &= 50 - 10 \\\\
-                                         &= 40 \text{p}
-\end {aligned}
+                                         &= 40 \text {p}
+\end{aligned}
 $
-
+<emptyline>
 $
-\begin {aligned}
-\text {Number of cookies needed}             &= \dfrac {\text{Total target}} {\text{Profit per cookie}} \\\\
+\begin{aligned}
+\text {Number of cookies needed}             &= \dfrac {\text {Total target}} {\text {Profit per cookie}} \\\\
                                              &= \dfrac {20000} {40} \\\\
+                                             &= \dfrac {40 \times 500} {40} \\\\
+                                             &= \dfrac {\cancel {40} \times 500} {\cancel {40}} \\\\
                                              &= 500
-\end {aligned}
+\end{aligned}
 $
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternate solution.
-
+<emptyline>
 Let the number of cookies $= c$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (50 - 10) \times c              &= 20000 \\\\
 40c                             &= 20000 \\\\
 c                               &= \dfrac {20000} {40} \\\\
+c                               &= \dfrac {40 \times 500} {40} \\\\
+c                               &= \dfrac {\cancel {40} \times 500} {\cancel {40}} \\\\
 c                               &= 500
 \end {aligned}
 $
-
+<emptyline>
 Number of cookies needed $= 500$.
 </code></pre>
 </div>
@@ -3457,7 +3470,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>91D59936-06F2-4B60-9E45-CE6157C7CD5F</p>
 </div>
@@ -3471,7 +3484,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3624,9 +3637,9 @@ $17$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 (a + 6) \times 2            &= 46 \\\\
@@ -3638,7 +3651,7 @@ a                           &= 23 - 6 \\\\
 a                           &= 17
 \end {aligned}
 $
-
+<emptyline>
 The number I am thinking of $= 17$
 </code></pre>
 </div>
@@ -3676,6 +3689,8 @@ $
 9x          &= 37 + 17 \\\\
 9x          &= 54 \\\\
 x           &= \dfrac {54} {9} \\\\
+x           &= \dfrac {9 \times 6} {9} \\\\
+x           &= \dfrac {\cancel 9 \times 6} {\cancel 9} \\\\
 x           &= 6
 \end{aligned}
 $
@@ -3698,6 +3713,8 @@ $6$
 9x          &= 37 + 17 \\\\
 9x          &= 54 \\\\
 x           &= \dfrac {54} {9} \\\\
+x           &= \dfrac {9 \times 6} {9} \\\\
+x           &= \dfrac {\cancel 9 \times 6} {\cancel 9} \\\\
 x           &= 6
 \end{aligned}
 $
@@ -3928,7 +3945,7 @@ $292.5 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If the height increased by $30 \%$, then the new height will be $100 + 30 = 130 \%$ of the previous height. Using that, we get
-
+<emptyline>
 $
 \begin {aligned}
 \text {Tree height after first year}  &= \dfrac {130} {100} \times 180 \\\\
@@ -3938,9 +3955,9 @@ $
                                       &= 234 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 If the height increased by $25 \%$, then the new height will be $100 + 25 = 125 \%$ of the previous height. Using that, we get
-
+<emptyline>
 $
 \begin {aligned}
 \text {Tree height after second year} &= \dfrac {125} {100} \times 234 \\\\
@@ -3949,14 +3966,14 @@ $
                                       &= 292.5 \ \text {cm}
 \end {aligned}
 $
-
+<emptyline>
 Tree height at the end of the second year $= 292.5$ cm.
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternate solution.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Tree height after second year}  &= \dfrac {125} {100} \times \dfrac {130} {100} \times 180 \\\\
@@ -3967,7 +3984,7 @@ $
                                        &= 292.5 \ \text{cm}
 \end {aligned}
 $
-
+<emptyline>
 Tree height at the end of the second year $= 292.5$ cm.
 </code></pre>
 </div>
@@ -4029,7 +4046,7 @@ Tree height at the end of the second year $= 292.5$ cm.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>EED93740-E026-4C7A-A7F1-CCA71D506BCC</p>
 </div>
@@ -4040,10 +4057,10 @@ Tree height at the end of the second year $= 292.5$ cm.
 <p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_mr_g0</p>
+<p>rag_mr_g1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4174,30 +4191,30 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>If George gave $\dfrac {1} {2}$ to his Granny, then he is left with $1 - \dfrac {1} {2} = \dfrac {1} {2}$ of the apples. Using that, we get
-
+<emptyline>
 $
 \begin {aligned}
 \text {Apples left}     &= \dfrac {1} {2} \times 24 \\\\
                         &= 12
 \end {aligned}
 $
-
+<emptyline>
 If George gave $\dfrac {2} {3}$ to his friends, then he is left with $1 - \dfrac {2} {3} = \dfrac {1} {3}$ of the remaining apples. Using that, we get
-
+<emptyline>
 $
 \begin {aligned}
 \text {Apples left in the fruit bowl}     &= \dfrac {1} {3} \times 12 \\\\
                                           &= 4
 \end {aligned}
 $
-
+<emptyline>
 Number of apples left in his fruit bowl $= 4$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Alternate solution.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Apples left in the fruit bowl} &= 24 \times \dfrac {1} {2} \times \dfrac {1} {3} \\\\
@@ -4206,7 +4223,7 @@ $
                                       &= 4
 \end {aligned}
 $
-
+<emptyline>
 Number of apples left in the fruit bowl $= 4$
 </code></pre>
 </div>
@@ -4228,35 +4245,35 @@ Number of apples left in the fruit bowl $= 4$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prg2' data-rag='PRG2' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRG2</button>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRG2</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRPCR</button>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRPCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCCRL</button>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCCRL</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G0' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' id='FORM-EED93740-E026-4C7A-A7F1-CCA71D506BCC' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='EED93740-E026-4C7A-A7F1-CCA71D506BCC' id='FORM-EED93740-E026-4C7A-A7F1-CCA71D506BCC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4398,9 +4415,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Emilie thought of $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 (a + 2 ) ^ {2} - 4     &= 60 \\\\
@@ -4412,7 +4429,7 @@ a                      &= 8 - 2 \\\\
 a                      &= 6
 \end {aligned}
 $
-
+<emptyline>
 Number that Emilie thought is $= 6$.
 </code></pre>
 </div>
@@ -4632,7 +4649,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {a} {18} + \dfrac {1} {18}     &= \dfrac {1} {2} \\\\
@@ -4698,7 +4715,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $= a$
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {a} {24} + \dfrac {1} {3}                       &= \dfrac {1} {2} \\\\
@@ -4773,7 +4790,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FCDA8DA7-63FA-4DE6-B114-DC8D5BBB3D6C</p>
 </div>
@@ -4787,7 +4804,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4880,9 +4897,12 @@ $
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
 <div class='answer'>
 
-c
+$21$
 
 </div>
 </div>
@@ -4901,13 +4921,13 @@ $
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>C</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>c
+<pre class='language-latex'><code class='language-latex'>$21$
 </code></pre>
 </div>
 </div>
@@ -4967,7 +4987,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2E74314D-F920-4315-9637-FCA3246945FC</p>
 </div>
@@ -4981,7 +5001,7 @@ $
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5076,9 +5096,12 @@ $
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
 <div class='answer'>
 
-d
+$47$
 
 </div>
 </div>
@@ -5086,7 +5109,7 @@ d
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{My answer}        &= 21 \times 2 + 5 \\\\
@@ -5099,13 +5122,13 @@ $
 </div>
 <div class='answers'>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+<pre class='language-latex'><code class='language-latex'>D</code></pre>
 </div>
 <div class='answercodeblock'>
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>d
+<pre class='language-latex'><code class='language-latex'>$47$
 </code></pre>
 </div>
 </div>
@@ -5165,7 +5188,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>F2F1A365-9B27-4327-9C11-647F071C0FCD</p>
 </div>
@@ -5179,7 +5202,7 @@ $
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5267,6 +5290,14 @@ Let the number of bags of crisps $= b$
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
+$
+\begin{aligned}
+\text{Total weight of the bags}         &= 1 \ \text{kg} \\\\
+                                        &= 1 \times 1000 \ \text{grams} \\\\
+                                        &= 1000 \ \text{grams}
+\end{aligned}
+$
+
 Total weight of the bags of crisps $= 1 \ \text{kg} = 1000 \ \text{grams}$
 
 As per the question,
@@ -5296,13 +5327,21 @@ $40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of bags of crisps $= b$
-
+<emptyline>
 rtq_abbr_md_unit_note
-
+<emptyline>
+$
+\begin{aligned}
+\text{Total weight of the bags}         &= 1 \ \text{kg} \\\\
+                                        &= 1 \times 1000 \ \text{grams} \\\\
+                                        &= 1000 \ \text{grams}
+\end{aligned}
+$
+<emptyline>
 Total weight of the bags of crisps $= 1 \ \text{kg} = 1000 \ \text{grams}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 b \times 25                 &= 1000 \\\\
@@ -5312,7 +5351,7 @@ b                           &= \dfrac {\cancel {25} \times 40} {\cancel {25}} \\
 b                           &= 40
 \end{aligned}
 $
-
+<emptyline>
 Number of bags of crisps inside the box $= 40$.
 </code></pre>
 </div>
@@ -5925,9 +5964,9 @@ $7a + 3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the length of one of its sides $= l$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 6 \times l                      &= 42a + 18 \\\\
@@ -5938,7 +5977,7 @@ l                               &= \dfrac {\cancel 6 \times 7a} {\cancel 6} + \d
 l                               &= 7a + 3
 \end{aligned}
 $
-
+<emptyline>
 Expression for the length of one of its sides $= 7a + 3$.
 </code></pre>
 </div>
@@ -6000,9 +6039,9 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of sides $= s$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 s \times (15b - 4)              &= 75b - 20 \\\\
@@ -6013,7 +6052,7 @@ s                               &= \dfrac {5 \times \cancel {(15b - 4)}} {\cance
 s                               &= 5
 \end{aligned}
 $
-
+<emptyline>
 Number of sides of the polygon $= 5$.
 </code></pre>
 </div>
@@ -6349,9 +6388,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of egg boxes needed $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 6                          &= 50 \\\\
@@ -6363,7 +6402,7 @@ a                                   &= 8 \dfrac {1} {3} \\\\
 a                                   &= 9
 \end{aligned}
 $
-
+<emptyline>
 Number of egg boxes needed $= 9$.
 </code></pre>
 </div>
@@ -6549,9 +6588,9 @@ $3.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3.6 \times a                 &= 1.8 \times 7  \\\\
@@ -6563,7 +6602,7 @@ a                            &= \dfrac {7} {2} \\\\
 a                            &= 3.5
 \end{aligned}
 $
-
+<emptyline>
 The missing number $= 3.5$
 </code></pre>
 </div>
@@ -6625,7 +6664,7 @@ The missing number $= 3.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B1B9C7A4-30E0-4823-87AE-54149E9DBA84</p>
 </div>
@@ -6639,7 +6678,7 @@ The missing number $= 3.5$
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6755,11 +6794,11 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Total cost of $5$ rulers and $5$ pens $= 5 (k + m) \ \text{pence}$.
+$5 (k + m) \ \text{pence}$.
 
-The cost of $5$ pens is $5m - 5k \ \text{pence}$ more than the cost of $5$ rulers.
+$5m - 5k \ \text{pence}$
 
-The change from $\pounds 5$, when you buy $5$ pens $= 500 - 5m \ \text{pence}$.
+$500 - 5m \ \text{pence}$
 
 </div>
 </div>
@@ -6767,7 +6806,7 @@ The change from $\pounds 5$, when you buy $5$ pens $= 500 - 5m \ \text{pence}$.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of 5 rulers and 5 pens}              &= \text{Cost of 5 rulers} + \text{Cost of 5 pens} \\\\
@@ -6775,14 +6814,14 @@ $
                                                 &= 5 (k + m) \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Difference}                               &= \text{Cost of 5 pens} - \text{Cost of 5 rulers} \\\\
                                                 &= 5m - 5k \ \text{pence}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{The change}                               &= \pounds 5 - \text{Cost of 5 pens} \\\\
@@ -6801,11 +6840,11 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Total cost of $5$ rulers and $5$ pens $= 5 (k + m) \ \text{pence}$.
+<pre class='language-latex'><code class='language-latex'>$5 (k + m) \ \text{pence}$.
 
-The cost of $5$ pens is $5m - 5k \ \text{pence}$ more than the cost of $5$ rulers.
+$5m - 5k \ \text{pence}$
 
-The change from $\pounds 5$, when you buy $5$ pens $= 500 - 5m \ \text{pence}$.
+$500 - 5m \ \text{pence}$
 </code></pre>
 </div>
 </div>
@@ -6873,7 +6912,7 @@ In case of any doubt ping me on slack.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B69E6255-458B-48F4-BE35-F45C3F505D00</p>
 </div>
@@ -6887,7 +6926,7 @@ In case of any doubt ping me on slack.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6986,8 +7025,6 @@ $
 \end{aligned}
 $
 
-The height of the pile of $5$ boxes $= 90 \ \text{cm}$.
-
 </div>
 </div>
 <div class='answers'>
@@ -7001,7 +7038,7 @@ $90 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Height of the pile of 5 boxes}            &= 5 \times \dfrac {72} {4} \ \text{cm} \\\\
@@ -7012,8 +7049,6 @@ $
                                                 &= 90 \ \text{cm}
 \end{aligned}
 $
-
-The height of the pile of $5$ boxes $= 90 \ \text{cm}$.
 </code></pre>
 </div>
 </div>
@@ -7083,7 +7118,7 @@ Remove the last line \"The height of the pile of 55 boxes = 90 \ \text{cm}=90 cm
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prpcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>734F4C9F-BA17-40EC-BE44-F910FF8517D0</p>
 </div>
@@ -7097,7 +7132,7 @@ Remove the last line \"The height of the pile of 55 boxes = 90 \ \text{cm}=90 cm
 <p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7342,12 +7377,12 @@ $
 
 | Expression           |        $x = -4$           |        $x = 4$          | Equal or not |
 |----------------------|---------------------------|-------------------------|--------------|
-| $y = 2x$             | y = 2 \times -4 = -8      | y = 2 \times 4 = 8      |     No       |
-| $y = 2 + x$          | y = 2 + (-4) = -2         | y = 2 + 4 = 6           |     No       |
-| $y = x ^2$           | y = (-4) ^ 2 = 16         | y = 4 ^ 2 = 16          |     Yes      |
-| $y = \dfrac {x} {2}$ | y = \dfrac {-4} {2} = -2  | y = \dfrac {4} {2} = 2  |     No       |
+| $y = 2x$             | $y = 2 \times -4 = -8$    | $y = 2 \times 4 = 8$    |     No       |
+| $y = 2 + x$          | $y = 2 + (-4) = -2$       | $y = 2 + 4 = 6$         |     No       |
+| $y = x ^ 2$          | $y = (-4) ^ 2 = 16$       | $y = 4 ^ 2 = 16$        |     Yes      |
+| $y = \dfrac {x} {2}$ | $y = \dfrac {-4} {2} = -2$| $y = \dfrac {4} {2} = 2$|     No       |
 
-$y = x ^ 2$ gives the same value if $y$ for both $x = 4$ and $x = -4$.
+$y = x ^ 2$ gives the same value of $y$ for both $x = 4$ and $x = -4$.
 
 </div>
 </div>
@@ -7363,12 +7398,12 @@ $y = x ^ 2$
 
 <pre class='language-latex'><code class='language-latex'>| Expression           |        $x = -4$           |        $x = 4$          | Equal or not |
 |----------------------|---------------------------|-------------------------|--------------|
-| $y = 2x$             | y = 2 \times -4 = -8      | y = 2 \times 4 = 8      |     No       |
-| $y = 2 + x$          | y = 2 + (-4) = -2         | y = 2 + 4 = 6           |     No       |
-| $y = x ^2$           | y = (-4) ^ 2 = 16         | y = 4 ^ 2 = 16          |     Yes      |
-| $y = \dfrac {x} {2}$ | y = \dfrac {-4} {2} = -2  | y = \dfrac {4} {2} = 2  |     No       |
-
-$y = x ^ 2$ gives the same value if $y$ for both $x = 4$ and $x = -4$.
+| $y = 2x$             | $y = 2 \times -4 = -8$    | $y = 2 \times 4 = 8$    |     No       |
+| $y = 2 + x$          | $y = 2 + (-4) = -2$       | $y = 2 + 4 = 6$         |     No       |
+| $y = x ^ 2$          | $y = (-4) ^ 2 = 16$       | $y = 4 ^ 2 = 16$        |     Yes      |
+| $y = \dfrac {x} {2}$ | $y = \dfrac {-4} {2} = -2$| $y = \dfrac {4} {2} = 2$|     No       |
+<emptyline>
+$y = x ^ 2$ gives the same value of $y$ for both $x = 4$ and $x = -4$.
 </code></pre>
 </div>
 </div>
@@ -7645,7 +7680,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>84822D8F-EA5C-49F0-97FB-8F065EFA3D25</p>
 </div>
@@ -7659,7 +7694,7 @@ TODOANSWER
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -7822,11 +7857,11 @@ $
 6y - 4y                                 &= 7 - 1 \\\\
 2y                                      &= 6 \\\\
 y                                       &= \dfrac {6} {2} \\\\
+y                                       &= \dfrac {2 \times 3} {2} \\\\
+y                                       &= \dfrac {\cancel 2 \times 3} {\cancel 2} \\\\
 y                                       &= 3
 \end{aligned}
 $
-
-The value of y $= 3$.
 
 </div>
 </div>
@@ -7841,7 +7876,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of counters in Bag A}      &= \text{Number of counters in Bag B} \\\\
@@ -7849,11 +7884,11 @@ $
 6y - 4y                                 &= 7 - 1 \\\\
 2y                                      &= 6 \\\\
 y                                       &= \dfrac {6} {2} \\\\
+y                                       &= \dfrac {2 \times 3} {2} \\\\
+y                                       &= \dfrac {\cancel 2 \times 3} {\cancel 2} \\\\
 y                                       &= 3
 \end{aligned}
 $
-
-The value of y $= 3$.
 </code></pre>
 </div>
 </div>
@@ -7916,7 +7951,7 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 | k | Counters in Bag C | Counters in Bag D |
 |:-:|:-----------------:|:-----------------:|
 |$1$| $4 \times 1 = 4$  |   $1 + 12 = 13$   |
@@ -7924,7 +7959,7 @@ $5$
 |$3$| $4 \times 3 = 12$ |   $3 + 12 = 15$   |
 |$4$| $4 \times 4 = 16$ |   $4 + 12 = 16$   |
 |$5$| $4 \times 5 = 20$ |   $5 + 12 = 17$   |
-
+<emptyline>
 The smallest possible value of k $= 5$.
 </code></pre>
 </div>
@@ -8004,7 +8039,7 @@ Remove the last line \"The value of y = 3.\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6D5C94CF-2D87-4416-AAA2-9227B6C1AC6A</p>
 </div>
@@ -8018,7 +8053,7 @@ Remove the last line \"The value of y = 3.\"
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8106,14 +8141,14 @@ I buy a pen and a pencil for $\pounds 1.10$. The pen costs $50 \text{p}$ more th
 
 Let the price of pencil $= a$ (in pence)
 
-then the price of pen $= a + 50$ (in pence)
+Price of pen $= a + 50$ (in pence)
 
 
 As per the question,
 
 $
 \begin{aligned}
-(a + a + 50) \text{p}   &= 1.1 \times 100 \text{p} \\\\
+(a + a + 50)            &= 1.1 \times 100 \\\\
 2a + 50                 &= 110 \\\\
 2a                      &= 110 - 50 \\\\
 a                       &= \dfrac {60} {2} \\\\
@@ -8125,7 +8160,7 @@ $
 
 $
 \begin{aligned}
-\text {price of pen} &= 50 + a \\\\
+\text {Price of pen} &= 50 + a \\\\
                      &= 50 + 30 \\\\
                      &= 80 \text{p}
 \end{aligned}
@@ -8139,7 +8174,7 @@ $
 </div>
 <div class='answer'>
 
-d
+$80 \text{p}$
 
 </div>
 </div>
@@ -8147,15 +8182,15 @@ d
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the price of pencil $= a$ (in pence)
-
-then the price of pen $= a + 50$ (in pence)
-
+<emptyline>
+Price of pen $= a + 50$ (in pence)
+<emptyline>
 
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
-(a + a + 50) \text{p}   &= 1.1 \times 100 \text{p} \\\\
+(a + a + 50)            &= 1.1 \times 100 \\\\
 2a + 50                 &= 110 \\\\
 2a                      &= 110 - 50 \\\\
 a                       &= \dfrac {60} {2} \\\\
@@ -8164,10 +8199,10 @@ a                       &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
 a                       &= 30 \text{p}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
-\text {price of pen} &= 50 + a \\\\
+\text {Price of pen} &= 50 + a \\\\
                      &= 50 + 30 \\\\
                      &= 80 \text{p}
 \end{aligned}
@@ -8183,7 +8218,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>d
+<pre class='language-latex'><code class='language-latex'>$80 \text{p}$
 </code></pre>
 </div>
 </div>
@@ -8259,7 +8294,7 @@ to
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>49AD1A8F-44C5-4AA8-8600-14F8B353DC88</p>
 </div>
@@ -8273,7 +8308,7 @@ to
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -8422,18 +8457,22 @@ An icicle measured $2.14 \ \text{m}$ at the start of a sunny day, but only $87 \
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
-Length of icicle at the start of the day $= 2.14 \ \text{m} = 214 \ \text{cm}$
+$
+\begin{aligned}
+\text{Length of icicle at start of the day}         &= 2.14 \ \text{m} \\\\
+                                                    &= 2.14 \times 100 \ \text{cm} \\\\
+                                                    &= 214 \ \text{cm}
+\end{aligned}
+$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Length of icicle melted}          &= 214 - 87 \ \text{cm} \\\\
+\text{Length of icicle melted}          &= 214 - 87 \\\\
                                         &= 127 \ \text{cm}
 \end{aligned}
 $
-
-Length of the icicle melted $= 127 \ \text{cm}$.
 
 </div>
 </div>
@@ -8448,19 +8487,23 @@ $127 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
-Length of icicle at the start of the day $= 2.14 \ \text{m} = 214 \ \text{cm}$
-
-As per the question,
-
+<emptyline>
 $
 \begin{aligned}
-\text{Length of icicle melted}          &= 214 - 87 \ \text{cm} \\\\
+\text{Length of icicle at start of the day}         &= 2.14 \ \text{m} \\\\
+                                                    &= 2.14 \times 100 \ \text{cm} \\\\
+                                                    &= 214 \ \text{cm}
+\end{aligned}
+$
+<emptyline>
+As per the question,
+<emptyline>
+$
+\begin{aligned}
+\text{Length of icicle melted}          &= 214 - 87 \\\\
                                         &= 127 \ \text{cm}
 \end{aligned}
 $
-
-Length of the icicle melted $= 127 \ \text{cm}$.
 </code></pre>
 </div>
 </div>
@@ -8502,8 +8545,6 @@ $
 \end{aligned}
 $
 
-Number of bags needed to buy $= 25$.
-
 </div>
 </div>
 <div class='answers'>
@@ -8517,7 +8558,7 @@ $25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of bags}               &= \dfrac {290} {12} \\\\
@@ -8528,8 +8569,6 @@ $
                                     &= 25
 \end{aligned}
 $
-
-Number of bags needed to buy $= 25$.
 </code></pre>
 </div>
 </div>
@@ -8766,13 +8805,13 @@ $42857$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 The number by putting $1$ at the beginning $= 100000 + a$
-
+<emptyline>
 The number by putting $1$ at the end $= 1 + 10a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 1 + 10a                       &= 3 \times ( 100000 + a ) \\\\
@@ -8785,7 +8824,7 @@ a                             &= \dfrac {42857 \times \cancel 7} {\cancel 7} \\\
 a                             &= 42857
 \end{aligned}
 $
-
+<emptyline>
 The required $5$-digit number $= 42857$.
 </code></pre>
 </div>
@@ -8847,7 +8886,7 @@ The required $5$-digit number $= 42857$.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>71748A3D-9EB9-407F-BE74-AE1F06A04E99</p>
 </div>
@@ -8861,7 +8900,7 @@ The required $5$-digit number $= 42857$.
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9004,7 +9043,7 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 55 + a                              &= 82 \\\\
@@ -9012,7 +9051,7 @@ a                                   &= 82 - 55 \\\\
 a                                   &= 27
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 27$
 </code></pre>
 </div>
@@ -9067,7 +9106,7 @@ $68$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a - 23                              &= 45 \\\\
@@ -9075,7 +9114,7 @@ a                                   &= 45 + 23 \\\\
 a                                   &= 68
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 68$
 </code></pre>
 </div>
@@ -9133,7 +9172,7 @@ $5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 60 \div a                           &= 12 \\\\
@@ -9144,7 +9183,7 @@ a                                   &= \dfrac {5 \times \cancel{12}} {\cancel{12
 a                                   &= 5
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 5$
 </code></pre>
 </div>
@@ -9201,7 +9240,7 @@ $20$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 32 \times a                         &= 640 \\\\
@@ -9211,7 +9250,7 @@ a                                   &= \dfrac {20 \times \cancel{32}} {\cancel{3
 a                                   &= 20
 \end{aligned}
 $
-
+<emptyline>
 Missing number $= 20$
 </code></pre>
 </div>
@@ -9252,8 +9291,6 @@ $
 \end{aligned}
 $
 
-Missing number $= 1$
-
 </div>
 </div>
 <div class='answers'>
@@ -9276,8 +9313,6 @@ $1$
 &= 1
 \end{aligned}
 $
-
-Missing number $= 1$
 </code></pre>
 </div>
 </div>
@@ -9350,7 +9385,7 @@ Remove the last line \"Missing number = 1\" in part e)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A9BB615E-D457-47F6-AF4E-CD7BA00D2171</p>
 </div>
@@ -9364,7 +9399,7 @@ Remove the last line \"Missing number = 1\" in part e)
 <p>rag_mr_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9483,19 +9518,15 @@ How many stickers do they each get?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
+\text{Stickers each person will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
                                               &= \dfrac {756} {7} \\\\
                                               &= \dfrac {7 \times 108} {7} \\\\
                                               &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
                                               &= 108
 \end{aligned}
 $
-
-Each person will get $= 108$ stickers
 
 </div>
 </div>
@@ -9509,19 +9540,15 @@ $108$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
+\text{Stickers each person will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
                                               &= \dfrac {756} {7} \\\\
                                               &= \dfrac {7 \times 108} {7} \\\\
                                               &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
                                               &= 108
 \end{aligned}
 $
-
-Each person will get $= 108$ stickers
 </code></pre>
 </div>
 </div>
@@ -9550,8 +9577,6 @@ Today is Emma's $29 \text{th}$ birthday. How many months old is she?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Emma's age in month}                    &= 29 \times 12 \\\\
@@ -9571,9 +9596,7 @@ $348$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Emma's age in month}                    &= 29 \times 12 \\\\
                                               &= 348
@@ -9609,8 +9632,6 @@ How much is that per week?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
@@ -9620,8 +9641,6 @@ $
                                               &= \pounds 14
 \end{aligned}
 $
-
-Amar's travelling cost $= \pounds 14$ per week
 
 </div>
 </div>
@@ -9635,9 +9654,7 @@ $\pounds 14$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 \text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
                                               &= \dfrac {630} {45} \\\\
@@ -9646,8 +9663,6 @@ $
                                               &= \pounds 14
 \end{aligned}
 $
-
-Amar's travelling cost $= \pounds 14$ per week
 </code></pre>
 </div>
 </div>
@@ -9738,7 +9753,7 @@ ii) Remove last line \"Amars travelling cost...\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>4DB6221C-968F-4194-8EA8-F75DD9FDEBE2</p>
 </div>
@@ -9752,7 +9767,7 @@ ii) Remove last line \"Amars travelling cost...\"
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -9897,7 +9912,7 @@ Two numbers have a difference of $3$ and a sum of $27$. What are the two numbers
 
 Let the first number $= a$
 
-then the second number $= a + 3$
+Second number $= a + 3$
 
 As per the question,
 
@@ -9907,18 +9922,15 @@ a + (a + 3)                 &= 27 \\\\
 2a + 3                      &= 27 \\\\
 2a                          &= 27 - 3 \\\\
 a                           &= \dfrac {24} {2} \\\\
+a                           &= \dfrac {2 \times 12} {2} \\\\
+a                           &= \dfrac {\cancel 2 \times 12} {\cancel 2} \\\\
 a                           &= 12
 \end{aligned}
 $
 
 $
 \begin{aligned}
-\text{The first number} &= 12
-\end{aligned}
-$
-
-$
-\begin{aligned}
+\text{The first number} &= 12 \\\\
 \text{The second number} &= 12 + 3 \\\\
                          &= 15
 \end{aligned}
@@ -9937,29 +9949,26 @@ $12, 15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the first number $= a$
-
-then the second number $= a + 3$
-
+<emptyline>
+Second number $= a + 3$
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + (a + 3)                 &= 27 \\\\
 2a + 3                      &= 27 \\\\
 2a                          &= 27 - 3 \\\\
 a                           &= \dfrac {24} {2} \\\\
+a                           &= \dfrac {2 \times 12} {2} \\\\
+a                           &= \dfrac {\cancel 2 \times 12} {\cancel 2} \\\\
 a                           &= 12
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
-\text{The first number} &= 12
-\end{aligned}
-$
-
-$
-\begin{aligned}
+\text{The first number} &= 12 \\\\
 \text{The second number} &= 12 + 3 \\\\
                          &= 15
 \end{aligned}
@@ -10024,7 +10033,7 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 &= (20 \times 4 + 16) \div 12 \times \dfrac {3} {4} \\\\
@@ -10036,7 +10045,7 @@ $
 &= 6
 \end{aligned}
 $
-
+<emptyline>
 Required number $= 6$.
 </code></pre>
 </div>
@@ -10122,7 +10131,7 @@ iii) Put both \"The first number\" and \"The second number\" inside one begin-en
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>A7879165-EAE0-4869-9FB1-0CA2600DB446</p>
 </div>
@@ -10136,7 +10145,7 @@ iii) Put both \"The first number\" and \"The second number\" inside one begin-en
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10319,7 +10328,7 @@ Value of a club $= 7$.
 <div class='answers'>
 <div class='answer'>
 
-Value of a club $= 7$.
+$7$.
 
 </div>
 </div>
@@ -10327,22 +10336,22 @@ Value of a club $= 7$.
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the value of spade $= a$
-
+<emptyline>
 then the value of club $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2a + 2b             &= 20 \\\\
 2a + 3b             &= 27
 \end{aligned}
 $
-
+<emptyline>
 We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable.
-
+<emptyline>
 Subtract the first equation from the second to reduce it to one variable.
-
+<emptyline>
 $
 \begin{aligned}
 2a + 3b - (2a + 2b)                 &= 27 - 20 \\\\
@@ -10350,7 +10359,7 @@ $
 b                                   &= 7
 \end{aligned}
 $
-
+<emptyline>
 Value of a club $= 7$.
 </code></pre>
 </div>
@@ -10363,7 +10372,7 @@ Value of a club $= 7$.
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>Value of a club $= 7$.
+<pre class='language-latex'><code class='language-latex'>$7$.
 </code></pre>
 </div>
 </div>
@@ -10426,7 +10435,7 @@ Remove the \"value of a club\" part and write only $7$ into the answer section.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>B1C64F6A-081A-4555-A7F5-0374D76EA86A</p>
 </div>
@@ -10440,7 +10449,7 @@ Remove the \"value of a club\" part and write only $7$ into the answer section.
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -10585,8 +10594,6 @@ to work out the value of $34 \times 36 \times 38$.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 &= 34 \times 36 \times 38 \\\\
@@ -10596,8 +10603,6 @@ $
 &= 46512
 \end{aligned}
 $
-
-The value of ($34 \times 36 \times 38$) $= 46512$.
 
 </div>
 </div>
@@ -10611,9 +10616,7 @@ $46512$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>As per the question,
-
-$
+<pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
 &= 34 \times 36 \times 38 \\\\
 &= 17 \times 2 \times 18 \times 2 \times 19 \times 2 \\\\
@@ -10622,8 +10625,6 @@ $
 &= 46512
 \end{aligned}
 $
-
-The value of ($34 \times 36 \times 38$) $= 46512$.
 </code></pre>
 </div>
 </div>
@@ -10652,7 +10653,7 @@ Seven *consecutive* whole numbers add up to $7357$.  What is the largest of the 
 <div class='workings'>
 <div class='working'>
 
-Let the seven whole numbers $= a, a+1, a+2, a+3, a+4, a+5, a+6$
+Let the seven consecutive whole numbers $= a, a+1, a+2, a+3, a+4, a+5, a+6$
 
 As per the question,
 
@@ -10688,10 +10689,10 @@ $1054$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the seven whole numbers $= a, a+1, a+2, a+3, a+4, a+5, a+6$
-
+<pre class='language-latex'><code class='language-latex'>Let the seven consecutive whole numbers $= a, a+1, a+2, a+3, a+4, a+5, a+6$
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + a + 1 + a + 2 + a + 3 + a + 4 + a + 5 + a + 6   &= 7357 \\\\
@@ -10704,7 +10705,7 @@ a                                                   &= \dfrac {\cancel 7 \times 
 a                                                   &= 1048
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{The largest whole number}     &= 1048 + 6 \\\\
@@ -10739,7 +10740,7 @@ When three *consecutive* whole numbers are multiplied together, the answer is $9
 <div class='workings'>
 <div class='working'>
 
-Let the three whole numbers $= a-1, a, a+1$
+Let the three consecutive whole numbers $= a-1, a, a+1$
 
 As per the question,
 
@@ -10774,10 +10775,10 @@ $9, 10, 11$
 <div class='workingscodeblock'>
 <div class='workingcodeblock'>
 
-<pre class='language-latex'><code class='language-latex'>Let the three whole numbers $= a-1, a, a+1$
-
+<pre class='language-latex'><code class='language-latex'>Let the three consecutive whole numbers $= a-1, a, a+1$
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a - 1) \times a \times (a + 1)         &= 990 \\\\
@@ -10788,13 +10789,13 @@ a                                       &\approx 990 ^ {\dfrac {1} {3}} \\\\
 a                                       &\approx 9
 \end{aligned}
 $
-
+<emptyline>
 |  Triplets   |  Product  |
 |:-----------:|:---------:|
 | $7, 8, 9$   |   $504$   |
 | $8, 9, 10$  |   $720$   |
 | $9, 10, 11$ |   $990$   |
-
+<emptyline>
 The three whole numbers $= 9, 10, 11$.
 </code></pre>
 </div>
@@ -10884,7 +10885,7 @@ Same mistake as part b)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prpcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>87DD43D2-0743-438D-822B-510F1C7AB73E</p>
 </div>
@@ -10898,7 +10899,7 @@ Same mistake as part b)
 <p>rag_mr_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -11094,16 +11095,16 @@ $6$
                                 &= 12
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of tinkles per clink}      &= \dfrac {12} {2} \\\\
                                         &= 6
 \end{aligned}
 $
-
+<emptyline>
 $6$ tinkles $= 1$ clink.
 </code></pre>
 </div>
@@ -11144,7 +11145,7 @@ ABBR: It is really important to use the right units in calculations and convert 
 $
 \begin{aligned}
 \text{First number}                     &= 4 \ \text{clinks} + 3 \ \text{tinkles} \\\\
-                                        &= (4 \times 6 + 3) \ \text{tinkles} \\\\
+                                        &= 4 \times 6 \ \text{tinkles} + 3 \ \text{tinkles} \\\\
                                         &= 24 + 3 \\\\
                                         &= 27 \ \text{tinkles}
 \end{aligned}
@@ -11153,7 +11154,7 @@ $
 $
 \begin{aligned}
 \text{Second number}                    &= 2 \ \text{clinks} + 5 \ \text{tinkles} \\\\
-                                        &= (2 \times 6 + 5) \ \text{tinkles} \\\\
+                                        &= 2 \times 6 \ \text{tinkles} + 5 \ \text{tinkles} \\\\
                                         &= 12 + 5 \\\\
                                         &= 17 \ \text{tinkles}
 \end{aligned}
@@ -11164,7 +11165,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Subtraction}                      &= \text{First Number} - \text{Second Number} \\\\
-                                        &= (27 - 17) \ \text{tinkles} \\\\
+                                        &= 27 - 17 \\\\
                                         &= 10 \\\\
                                         &= 6 + 4 \\\\
                                         &= 1 \ \text{clink} + 4 \ \text{tinkles}
@@ -11184,31 +11185,31 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 \text{First number}                     &= 4 \ \text{clinks} + 3 \ \text{tinkles} \\\\
-                                        &= (4 \times 6 + 3) \ \text{tinkles} \\\\
+                                        &= 4 \times 6 \ \text{tinkles} + 3 \ \text{tinkles} \\\\
                                         &= 24 + 3 \\\\
                                         &= 27 \ \text{tinkles}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Second number}                    &= 2 \ \text{clinks} + 5 \ \text{tinkles} \\\\
-                                        &= (2 \times 6 + 5) \ \text{tinkles} \\\\
+                                        &= 2 \times 6 \ \text{tinkles} + 5 \ \text{tinkles} \\\\
                                         &= 12 + 5 \\\\
                                         &= 17 \ \text{tinkles}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Subtraction}                      &= \text{First Number} - \text{Second Number} \\\\
-                                        &= (27 - 17) \ \text{tinkles} \\\\
+                                        &= 27 - 17 \\\\
                                         &= 10 \\\\
                                         &= 6 + 4 \\\\
                                         &= 1 \ \text{clink} + 4 \ \text{tinkles}
@@ -11253,7 +11254,7 @@ ABBR: It is really important to use the right units in calculations and convert 
 $
 \begin{aligned}
 \text{The dividend}                     &= 7 \ \text{clinks} + 2 \ \text{tinkles} \\\\
-                                        &= (7 \times 6 + 2) \ \text{tinkles} \\\\
+                                        &= 7 \times 6 \ \text{tinkles} + 2 \ \text{tinkles} \\\\
                                         &= 42 + 3 \\\\
                                         &= 44 \ \text{tinkles}
 \end{aligned}
@@ -11285,18 +11286,18 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 \text{The dividend}                     &= 7 \ \text{clinks} + 2 \ \text{tinkles} \\\\
-                                        &= (7 \times 6 + 2) \ \text{tinkles} \\\\
+                                        &= 7 \times 6 \ \text{tinkles} + 2 \ \text{tinkles} \\\\
                                         &= 42 + 3 \\\\
                                         &= 44 \ \text{tinkles}
 \end{aligned}
 $
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{The answer}                       &= \dfrac {44} {4} \\\\

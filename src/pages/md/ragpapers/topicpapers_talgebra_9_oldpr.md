@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-oldpr"
 title: "TopicPaper - Algebra - 9 - OLDPR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -136,9 +136,9 @@ $\pounds 32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the money Gary have $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money Martin have} + \text{Money Gary have}       &= \text{Total money} \\\\
@@ -152,7 +152,7 @@ a                                                       &= \dfrac {\cancel{2} \t
 a                                                       &= \pounds 19
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money Gary have}                                   &= \pounds 19 \\\\
@@ -400,13 +400,13 @@ $11, 12, 13$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the First number $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Second consecutive number $= a + 1$.
-
+<emptyline>
 Third consecutive number $= a + 2$.
-
+<emptyline>
 $
 \begin {aligned}
 a + (a+1) + (a+2)  &= 36 \\\\
@@ -419,11 +419,11 @@ a                  &= \dfrac {\cancel{3} \times 11} {\cancel{3}} \\\\
 a                  &= 11
 \end {aligned}
 $
-
+<emptyline>
 Second consecutive number is $11 + 1 = 12$.
-
+<emptyline>
 Third consecutive number is $12 + 1 = 13$.
-
+<emptyline>
 The three consecutive numbers are $11, 12, 13$.
 </code></pre>
 </div>
@@ -480,17 +480,17 @@ $6, 7, 8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 We can easily infer the values by using trial and error. Let's find out $3$ numbers which give a product of 336.
-
+<emptyline>
 Factors of $336 = 1, 2, 3, 4, 6, 7, 8, 12, 14, 16, 21, 24, 28, 42, 48, 56, 84, 112, 168, 336$
-
+<emptyline>
 | Factors    | Product   | Consecutive  |
 |:----------:|:--------: |:-----------: |
 | $6, 7, 8$  |   $336$   |    Yes       |
 | $21, 2, 8$ |   $336$   |    No        |
 | $14, 3, 8$ |   $336$   |    No        |
-
+<emptyline>
 A quick check shows that $6$, $7$ and $8$  are the consecutive numbers which gives a product $= 336$.
 </code></pre>
 </div>
@@ -709,13 +709,13 @@ $\pounds 2.65$ and $\pounds 2.25$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the cost of First item as $= a$
-
+<emptyline>
 the cost of 2nd item is $a + 40 \text{p}$ or $a + \pounds 0.40$
-
+<emptyline>
 As per the question, 
-
+<emptyline>
 rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 \text{Cost of item} \ 1 + \ \text{Cost of item} \ 2 &= \ \text{Total cost spend} \\\\ 
@@ -728,11 +728,11 @@ a                                                 &= \dfrac {4.50} {2} \\\\
 a                                                 &= \pounds 2.25
 \end{aligned}
 $
-
+<emptyline>
 Cost of the Item $1$ is $\pounds 2.25$
-
+<emptyline>
 Let's find cost of the Item $2$.
-
+<emptyline>
 $
 \begin{aligned}
 &= a + \pounds 0.40 \\\\
@@ -741,7 +741,7 @@ $
 &= \pounds 2.65
 \end{aligned}
 $
-
+<emptyline>
 Cost of the 2nd item is $\pounds 2.65$
 </code></pre>
 </div>
@@ -933,7 +933,7 @@ $20 \ \text {cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Length}(x)         &= \text{Length}(\text{Lower figure}) + \dfrac{1}{3} \times \text{Length}(\text{Upper figure}) \\\\
@@ -944,7 +944,7 @@ x                        &= 15 + 5  \\\\
 x                        &= 20 \ \text {cm}
 \end{aligned}
 $
-
+<emptyline>
 The total length of marked $x$ is $20 \ \text {cm}$
 </code></pre>
 </div>
@@ -1171,18 +1171,18 @@ $3$ minibuses
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Let's find how many buses are needed to accomadate $39$ members.
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac{39} {15} \\\\
 &= 2 \dfrac{9} {15} \\\\
 \end{aligned}
 $
-
+<emptyline>
 2 full buses and for rest $9$ one more bus
-
+<emptyline>
 So, total of $3$ minibuses are needed for $39$ members.
 </code></pre>
 </div>
@@ -1235,11 +1235,11 @@ $6$ seats
 
 <pre class='language-latex'><code class='language-latex'>
 As per the answer above there were $9$ members in the $3$rd bus.
-
+<emptyline>
 A bus could seat up to $15$ members
-
+<emptyline>
 So, $15 - 9 = 6$
-
+<emptyline>
 There were $6$ spares seats.
 </code></pre>
 </div>
@@ -1306,7 +1306,7 @@ $\pounds 13.5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total Expenses}        &= \ \text{Transport cost} + \text{Leisure centre costs} \\\\
@@ -1314,9 +1314,9 @@ $
                              &= \pounds 240
 \end{aligned}
 $
-
+<emptyline>
 Let's calculate the money Leftover,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money left}        &= \ \text{Total money collected} - \text{Total Expenses} \\\\
@@ -1518,11 +1518,11 @@ $15$ coins of $10$p and $15$ coins of $50$p
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's take the number of coins as $= a$ 
-
+<emptyline>
 As per question,
-
+<emptyline>
 rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 10a + 50a         &= 900 \text{p} \\\\
@@ -1754,11 +1754,11 @@ $54$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number Archie thinks of $= a$
-
+<emptyline>
 Let's first find the number.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 \dfrac {5} {6} \times a  &= 60 \\\\
@@ -1770,9 +1770,9 @@ a                        &= 12 \times 6 \\\\
 a                        &= 72
 \end {aligned}
 $
-
+<emptyline>
 Now, let's find $\dfrac {3} {4}$ of the number.
-
+<emptyline>
 $
 \begin {aligned} 
 &= \dfrac {3} {4} \ \text {of} \ 72 \\\\

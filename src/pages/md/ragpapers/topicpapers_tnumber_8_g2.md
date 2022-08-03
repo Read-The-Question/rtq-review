@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-g2"
 title: "TopicPaper - Number - 8 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "26"
 ---
 <ul class='question default-decimal'>
@@ -162,7 +162,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 \times 3 - 4 \\\\
@@ -222,7 +222,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 12 + 8 \div 4 \\\\
@@ -283,7 +283,7 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 2 ^ 2 \times 3 - 4 \\\\
@@ -344,7 +344,7 @@ $2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 14 - 6 \times 2 \\\\
@@ -1188,9 +1188,9 @@ $74$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 92 + 29       &= 47 + a \\\\
@@ -1253,9 +1253,9 @@ $24$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 87 - 48 &= 63 - a \\\\
@@ -1320,9 +1320,9 @@ $50$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 50 \times 9                 &= 9 \times a \\\\
@@ -1389,9 +1389,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 9600 \div 80         &= 720 \div a \\\\
@@ -1798,7 +1798,7 @@ $55.94$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 52.7 + 8.54 - 5.3 \\\\
@@ -2695,7 +2695,7 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 12 + 6 \div 3 \\\\
@@ -2755,7 +2755,7 @@ $3$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas,
-
+<emptyline>
 $
 \begin{aligned}
 &= 26 - (19 + 4) \\\\
@@ -3028,9 +3028,9 @@ $92$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 5 \times a &= 460 \\\\
@@ -3138,9 +3138,9 @@ $30$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \dfrac {2} {5} \ \text {of} \ a  &= 12 \\\\
@@ -3719,7 +3719,7 @@ $24 \div 3 + 7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Using trial and error.
-
+<emptyline>
 $
 \begin {aligned}
 &= 24 \div 3 + 7 \\\\
@@ -5258,9 +5258,9 @@ $120$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 90                              &= 210 \\\\
@@ -6083,7 +6083,7 @@ $\pounds 85$
 &  \approx \pounds 85
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

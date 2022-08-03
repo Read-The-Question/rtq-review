@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-blocked"
 title: "TopicPaper - Algebra - 9 - BLOCKED"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -129,13 +129,13 @@ $\dfrac {a} {3}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the total number of pens be a,
-
+<emptyline>
 As per the question,
-
+<emptyline>
 Fraction of black pens are $\dfrac{a}{2}$
-
+<emptyline>
 Fraction of red pens are $\dfrac{a}{6}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Fraction of blue pens are} &= \text{Total Pens} - \text{Black Pens} - \text{Red Pens} \\\\ 
@@ -290,15 +290,15 @@ $\dfrac {1} {12}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 water increases its volume by $= \dfrac {1} {11}$,
-
+<emptyline>
 As we all know unit quantity of water the volume of ice would be $= \dfrac {12} {11}$
-
+<emptyline>
 Hence melting ice would lose its volume by $\dfrac {1} {V}$
-
+<emptyline>
 So $\dfrac {12} {11} $ unit of ice shrinks by $\dfrac {1} {11}$ on melting
-
+<emptyline>
 $
 \begin{aligned}
 \text{Volume decreases by}  &= \dfrac {1/11} {12/11} \\\\
@@ -307,7 +307,7 @@ $
                             &= \dfrac {1} {12}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

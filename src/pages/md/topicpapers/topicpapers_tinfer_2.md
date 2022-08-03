@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-2"
 title: "TopicPaper - Infer - 2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "40"
 ---
 <div class='paper'>
@@ -3190,14 +3190,14 @@ $25 \times 4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
-
+<emptyline>
 | Number    |         Sum                                           | Divisible $3$
 |:------:   |:----------------------------------------------------: | :-----:
 |  $25$     | $2 + 5 = \green{7}$                                   |  No
 |  $42$     | $4 + 2 = \red{6}$                                     |  Yes
 |  $54$     | $5 + 4 = \red{9}$                                     |  Yes
 |  $24$     | $2 + 4 = \red{6}$                                     |  Yes
-
+<emptyline>
 The answer that could not be possible $= 25 \times 4$
 </code></pre>
 </div>

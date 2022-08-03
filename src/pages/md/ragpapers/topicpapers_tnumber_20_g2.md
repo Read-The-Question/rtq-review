@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-20-g2"
 title: "TopicPaper - Number - 20 - G2"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "23"
 ---
 <ul class='question default-decimal'>
@@ -331,7 +331,7 @@ $47$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 17954 \div 382 \\\\
@@ -455,7 +455,7 @@ $4.7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= 179.54 \div 38.2\\\\
@@ -881,7 +881,7 @@ $51$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 &= (13 \times 6) - (62 - 35) \\\\
@@ -1266,7 +1266,7 @@ $(8 + 4) \times 6 - 5$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_bidmas
-
+<emptyline>
 $
 \begin{aligned}
 \text{Option A}
@@ -1276,7 +1276,7 @@ $
 &= \rtq_katex_color_wrong_answer{27} \neq 67
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Option B}     
@@ -1285,7 +1285,7 @@ $
 &= \rtq_katex_color_wrong_answer{12} \neq 67
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Option C}
@@ -1295,7 +1295,7 @@ $
 &= \rtq_katex_color_answer{67}
 \end{aligned}
 $
-
+<emptyline>
 Answer $= \text{Option C}$
 </code></pre>
 </div>
@@ -1476,7 +1476,7 @@ $231 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note
-
+<emptyline>
 $
 \begin{aligned}
 &= 1.4 \ \text{m} + 33 \ \text{cm} + 580 \ \text{mm} \\\\
@@ -1741,7 +1741,7 @@ $5814$
 &= 5814
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2046,20 +2046,20 @@ $7050$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's first multiply the numbers ignoring the decimal points and zeroes.
-
+<emptyline>
 $
 \begin{aligned}
 &=235\times 3\\\\
 &=705
 \end{aligned}
 $
-
+<emptyline>
 Let's account for the three zeroes now.
-
+<emptyline>
 $= 705000$
-
+<emptyline>
 The total number of digits after the decimal point is two. Let's account for the decimal point now.
-
+<emptyline>
 $= 7050$
 </code></pre>
 </div>
@@ -3291,7 +3291,7 @@ $78.76$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Ensure to line up the decimal points
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
     &   6   &   8 \ .   &   9    &   0 \\
@@ -3825,9 +3825,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 19 \times a &= 152 \\\\
@@ -3837,7 +3837,7 @@ a &= \dfrac {\cancel {19} \times 8} {\cancel {19}} \\\\
 a &= 8 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4458,13 +4458,13 @@ $5.78$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 578 \times 1 = 578
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is two. Let's account for the decimal point now.
-
+<emptyline>
 $=5.78$
 </code></pre>
 </div>
@@ -4806,7 +4806,7 @@ $32.4$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $
 \begin{array}{cccccccccccccc}
             &   3   &   6 \\
@@ -4815,9 +4815,9 @@ $
 3           &   2   &   4
 \end{array}
 $
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is one. Let's account for the decimal point now.
-
+<emptyline>
 $= 32.4$
 </code></pre>
 </div>
@@ -4997,11 +4997,11 @@ $0.872$
 
 <pre class='language-latex'><code class='language-latex'>
 rtq_abbr_md_multiply_when_decimal_points_note
-
+<emptyline>
 $872 \times 1 = 872$
-
+<emptyline>
 Between the two numbers, the total number of digits after the decimal point is three. Let's account for the decimal point now.
-
+<emptyline>
 $= 0.872$
 </code></pre>
 </div>
@@ -5465,7 +5465,7 @@ $401$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing number $= a$
-
+<emptyline>
 $
 \begin{aligned}
 2005    &= 5 \times a \\\\

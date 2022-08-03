@@ -1,8 +1,8 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-pr"
 title: "TopicPaper - Angle - 3 - PR"
-date: 2022-08-01 21:41:58
-questions_count: "6"
+date: 2022-08-03 14:15:25
+questions_count: "8"
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,10 +14,10 @@ questions_count: "6"
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:27</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -173,13 +173,13 @@ $20 \degree, 80 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the second angle $= a$
-
+<emptyline>
 As the triangle is an isosceles triangle, the third angle $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a  + a + 80                             &= 180 \\\\
@@ -192,22 +192,22 @@ a                                       &= \dfrac {50 \times \cancel {2}} {\canc
 a                                       &= 50 \degree
 \end{aligned}
 $
-
+<emptyline>
 Second angle $= 50 \degree$
-
+<emptyline>
 Third angle $= 50 \degree$
 </code></pre>
 </div>
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the second angle $= a$
-
+<emptyline>
 As the triangle is an isosceles triangle, the third angle $= 80$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a  + 80 + 80                            &= 180 \\\\
@@ -216,9 +216,9 @@ a                                       &= 180 - 160 \\\\
 a                                       &= 20 \degree
 \end{aligned}
 $
-
+<emptyline>
 Second angle $= 20 \degree$
-
+<emptyline>
 Third angle $= 80 \degree$
 </code></pre>
 </div>
@@ -292,16 +292,574 @@ Third angle $= 80 \degree$
 <li>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
+<p>2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:1:18</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C'>Initial</p>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%
+</code></pre>
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Jake hangs a peg basket on a washing line.
+
+![missing image](/papers/missing_image.svg)
+
+
+Find the size of one of the shaded angles in the diagram above, if both are the same size.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+a + a + 140     &= 360 \\\\
+2a              &= 220 \\\\
+a               &= \dfrac {220} {2} \\\\
+a               &= \dfrac {2 \times 110} {2} \\\\
+a               &= \dfrac {\cancel {2} \times 110} {\cancel {2}} \\\\
+a               &= 110 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$110 \degree$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>$
+\begin{aligned}
+a + a + 140     &= 360 \\\\
+2a              &= 220 \\\\
+a               &= \dfrac {220} {2} \\\\
+a               &= \dfrac {2 \times 110} {2} \\\\
+a               &= \dfrac {\cancel {2} \times 110} {\cancel {2}} \\\\
+a               &= 110 \degree
+\end{aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$110 \degree$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The diagram below shows two straight lines.
+
+Find the sizes of the angles marked $a, b$ and $c$.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin {aligned}
+a       &= 30 \degree \\\\
+b + 30  &= 180 \\\\
+b       &= 180 - 30 \\\\
+b       &= 150 \degree \\\\
+c       &= b \\\\
+c       &= 150 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+a $=$ $30 \degree$
+
+</div>
+<div class='answer'>
+
+b $=$ $150 \degree$
+
+</div>
+<div class='answer'>
+
+c $=$ $150 \degree$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>As per the diagram,
+<emptyline>
+$
+\begin {aligned}
+a       &= 30 \degree \\\\
+b + 30  &= 180 \\\\
+b       &= 180 - 30 \\\\
+b       &= 150 \degree \\\\
+c       &= b \\\\
+c       &= 150 \degree
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>a</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$30 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>b</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$150 \degree$
+</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>c</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$150 \degree$
+</code></pre>
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' id='FORM-2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2C2E71DE-A70D-4EEA-8A53-510E6B8CC43C'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>F7B13CED-C215-4AE0-A046-CA11FC93E811</p>
+</div>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:18</p>
+</div>
+<div class='rag'>
+<p>Abhay Kandpal</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='addsubtag'>
+<h5>ADD: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='addSubTag(event)'>12</button>
+</ul>
+</div>
+<div class='removesubtag'>
+<h5>REMOVE: SUBTAGS</h5>
+<ul class='subtag'>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='1' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>1</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='2' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>2</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='3' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>3</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='4' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>4</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='5' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>5</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='6' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>6</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='7' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>7</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='8' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>8</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='9' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>9</button>
+<li class='subtag'></li>
+<button class='subtag selected' data-subtag='10' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>10</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='11' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>11</button>
+<li class='subtag'></li>
+<button class='subtag' data-subtag='12' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='removeSubTag(event)'>12</button>
+</ul>
+</div>
+
+<p class='review_status initial' id='SUBTAG-STATUS-F7B13CED-C215-4AE0-A046-CA11FC93E811'>Initial</p>
+<div class='question question'>
+
+Work out the value of the angle labelled $x$ in the diagram below. The diagram is NOT drawn to scale.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+Let the third angle in triangle $= y$
+
+As per the diagram,
+
+$
+\begin{aligned}
+y + 36 + 42  &= 180 \\\\
+y + 78       &= 180 \\\\
+y            &= 180 - 78 \\\\
+y            &= 50 \degree
+\end{aligned}
+$
+
+$
+\begin {aligned}
+x + y   &= 180 \\\\
+x + 50  &= 180 \\\\
+x       &= 180 - 50 \\\\
+x       &= 130 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$130 \degree$
+
+</div>
+</div>
+<div class='workingscodeblock'>
+<div class='workingcodeblock'>
+
+<pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
+<emptyline>
+rtq_abbr_katex_formula_angles_on_a_straight_line
+<emptyline>
+Let the third angle in triangle $= y$
+<emptyline>
+As per the diagram,
+<emptyline>
+$
+\begin{aligned}
+y + 36 + 42  &= 180 \\\\
+y + 78       &= 180 \\\\
+y            &= 180 - 78 \\\\
+y            &= 50 \degree
+\end{aligned}
+$
+<emptyline>
+$
+\begin {aligned}
+x + y   &= 180 \\\\
+x + 50  &= 180 \\\\
+x       &= 180 - 50 \\\\
+x       &= 130 \degree
+\end {aligned}
+$
+</code></pre>
+</div>
+</div>
+<div class='answers'>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
+</div>
+<div class='answercodeblock'>
+<pre class='language-latex'><code class='language-latex'>$130 \degree$
+</code></pre>
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prg2' data-rag='PRG2' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRG2</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prpcr' data-rag='PRPCR' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRPCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prccrl' data-rag='PRCCRL' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRCCRL</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='F7B13CED-C215-4AE0-A046-CA11FC93E811' id='FORM-F7B13CED-C215-4AE0-A046-CA11FC93E811' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F7B13CED-C215-4AE0-A046-CA11FC93E811'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
 <p>92AD100E-4F0C-43B3-8449-31A16D2E0DEA</p>
 </div>
 <div class='papername'>
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:1:17</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -431,13 +989,13 @@ $80 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_md_formula_vertically_opposite_angles
-
+<emptyline>
 Let the third angle of triangle $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a  + 40 + 60                            &= 180 \\\\
@@ -446,11 +1004,11 @@ a                                       &= 180 - 100 \\\\
 a                                       &= 80 \degree
 \end{aligned}
 $
-
+<emptyline>
 $x$ is vertically opposite to $a$.
-
+<emptyline>
 Using this we get,
-
+<emptyline>
 $
 \begin{aligned}
 x &= a \\\\
@@ -525,10 +1083,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:29</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -649,13 +1207,13 @@ $210 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_equilateral_triangle
-
+<emptyline>
 $\text{Each angle of a square} = 90 \degree$
-
+<emptyline>
 rtq_abbr_katex_formula_angles_around_a_point
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 p + 60 + 90  &= 360 \\\\
@@ -732,10 +1290,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:1:19</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -886,21 +1444,21 @@ $130 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_add_drawing_starts
-
+<emptyline>
 *TODO:: Add an image with other two angles of triangle marked as a (beside $110 \degree$) and b (beside $χ \degree$).*
-
+<emptyline>
 rtq_abbr_md_add_drawing_ends
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the second angle in the triangle $= a$
-
+<emptyline>
 Let the third angle in the triangle $= b$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 110         &= 180 \\\\
@@ -908,9 +1466,9 @@ a               &= 180 - 110 \\\\
 a               &= 70 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $b$.
-
+<emptyline>
 $
 \begin{aligned}
 a + b + 60              &= 180 \\\\
@@ -918,9 +1476,9 @@ a + b + 60              &= 180 \\\\
 b                       &= 50 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $b$ to find $χ$.
-
+<emptyline>
 $
 \begin{aligned}
 χ + 50              &= 180 \\\\
@@ -996,10 +1554,10 @@ $
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1129,19 +1687,19 @@ $
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>ABBR: $\text{Interior opposite angles are equal when two parallel lines crossed by a transversal}$.
-
+<emptyline>
 ABBR: $\text{Coressponding angles are equal when two parallel lines crossed by a transversal}$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $a = 28 \degree$
-
+<emptyline>
 $b = 28 \degree$
-
+<emptyline>
 Let's use the value of $b$ to find $c$.
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 b + c   &= 50 \\\\
@@ -1229,10 +1787,10 @@ Angle but explanatory
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1366,13 +1924,13 @@ $67 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the third angle in triangle $= a$
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 a + 134             &= 180 \\\\
@@ -1380,9 +1938,9 @@ a                   &= 180 - 134 \\\\
 a                   &= 46 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ to find $b$.
-
+<emptyline>
 $
 \begin{aligned}
 x + x + a               &= 180 \\\\

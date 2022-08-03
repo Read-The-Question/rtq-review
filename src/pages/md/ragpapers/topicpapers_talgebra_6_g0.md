@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-6-g0"
 title: "TopicPaper - Algebra - 6 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "29"
 ---
 <ul class='question default-decimal'>
@@ -144,11 +144,11 @@ $64$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let one number $= a$
-
+<emptyline>
 Other number $= \dfrac {a} {2}$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 \times a + \dfrac {a} {2}                         &= 160 \\\\
@@ -384,9 +384,9 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times a + 15  &= 39 \\\\
@@ -455,9 +455,9 @@ $-2$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times (a + 15)  &= 39 \\\\
@@ -527,9 +527,9 @@ $14$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 71 - 3 \times a                               &= 1 + 2 \times a \\\\
@@ -726,9 +726,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 3 \times a + 7   &= 25 \\\\
@@ -960,9 +960,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 4 \times a &= 36 \\\\
@@ -1025,9 +1025,9 @@ $45$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing value = $a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a - 13  &= 32 \\\\
@@ -1252,7 +1252,7 @@ $15$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Leena brought}  &= 28 - 13 \\\\
@@ -1309,7 +1309,7 @@ $78$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Total tokens}  &= 28 + (28 - 13) + (28 + 7) \\\\
@@ -2183,7 +2183,7 @@ $\pounds 1500$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text {Cost of the materials} &= 25 \% \ \text {of} \  6000 \\\\
@@ -2832,7 +2832,7 @@ $18, 32, 36$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text{First expression} &= 3 k \\\\
@@ -2840,9 +2840,9 @@ $
 &= 18
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 $
 \begin{aligned}
 \text{Second expression} &= 4(k + 2) \\\\
@@ -2851,9 +2851,9 @@ $
 &= 32
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 $
 \begin{aligned}
 \text{Third expression} &= k ^ 2 \\\\
@@ -2933,7 +2933,7 @@ $-30, -32, 100$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text{First expression} &= 3 k \\\\
@@ -2941,9 +2941,9 @@ $
 &= - 30
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 $
 \begin{aligned}
 \text{Second expression} &= 4(k + 2) \\\\
@@ -2952,9 +2952,9 @@ $
 &= - 32
 \end{aligned}
 $
+<emptyline>
 
-
-
+<emptyline>
 $
 \begin{aligned}
 \text{Third expression} &= k ^ 2 \\\\
@@ -4225,9 +4225,9 @@ $7$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 3 - 6   &= 15 \\\\
@@ -4829,9 +4829,9 @@ $26 \ \text {computers}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of computer she sells $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 10000 + 100a &= 12600 \\\\
@@ -5470,9 +5470,9 @@ $27$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the missing term $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \div 3 - 1 &= 8 \\\\
@@ -5665,9 +5665,9 @@ $6$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number of books be $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 2 + 1 - 4 + a &= 5 \\\\
@@ -6083,9 +6083,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + 11 &= 29 \\\\
@@ -6156,9 +6156,9 @@ $9$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (a \times 5 + 11) \div 2 &= 28 \\\\
@@ -6229,9 +6229,9 @@ $11$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number they both start with $= a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \times 2 + 11     &= (a \times 5 + 11) \div 2 \\\\
@@ -6762,44 +6762,44 @@ p \ \Psi \ q     &= 20 \\\\
 (p + 1) \times q &= 20
 \end{aligned}
 $
-
+<emptyline>
 Possible values $=$
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 4 \quad \text{and} \quad q = 5 \\\\
 p       &= 3 \quad \text{and} \quad q = 5
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 5 \quad \text{and} \quad q = 4 \\\\
 p       &= 4 \quad \text{and} \quad q = 4
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 10 \quad \text{and} \quad q = 2 \\\\
 p       &= 9 \quad \text{and} \quad q = 2
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 2 \quad \text{and} \quad q = 10 \\\\
 p       &= 1 \quad \text{and} \quad q = 10
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 20 \quad \text{and} \quad q = 1 \\\\
 p       &= 19 \quad \text{and} \quad q = 1
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 (p + 1) &= 1 \quad \text{and} \quad q = 20 \\\\
@@ -7087,16 +7087,16 @@ $8$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the day be $n$th day
-
+<emptyline>
 $
 \begin{aligned}
 \text{Day on which there are less than 2000 leaves} &= \dfrac {400000} {2^n} \\\\
                                                     &= \dfrac {2000 \times 200} {2^n}
 \end{aligned}
 $
-
+<emptyline>
 Since $2^8 = 256$
-
+<emptyline>
 Hence $n = 8$
 </code></pre>
 </div>
@@ -7468,13 +7468,13 @@ $600 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the chocolate with Beth $= a$
-
+<emptyline>
 Chocolate with Ali $= 6 a$
-
+<emptyline>
 Chocolate with Carl $= 2 a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Chocolate with Beth} &= \dfrac {\text {Chocolate with Carl}} {2} \\\\
@@ -7484,7 +7484,7 @@ a                          &= \dfrac {100 \times \cancel {2}} {\cancel {2}} \\\\
 a                          &= 100 \ \text{g}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Chocolate with Ali}  &= 6 \times a \\\\

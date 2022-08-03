@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-oldpr-prpcr"
 title: "TopicPaper - Algebra - 10 - OLDPR - PRPCR"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
@@ -160,7 +160,7 @@ $\pounds 40$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money Peter received}   &= 2 \times \pounds 20 \\\\
@@ -225,7 +225,7 @@ $\pounds 96$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Money Helen received}   &= \dfrac {60} {2} \\\\
@@ -302,13 +302,13 @@ $\pounds 10$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the money John received (in $\pounds$) $= a$
-
+<emptyline>
 Money Helen received $= 5a$
-
+<emptyline>
 Money Peter received $= 10a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 5a + 10a      &= \pounds 160 \\\\
@@ -319,7 +319,7 @@ a                 &= \dfrac {10 \times \cancel {16}} {\cancel {16}} \\\\
 a                 &= \pounds 10
 \end{aligned}
 $
-
+<emptyline>
 Money John received $= \pounds 10$
 </code></pre>
 </div>
@@ -567,9 +567,9 @@ $63$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let the number $=a$ 
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a \div 7 -3       &= 6 \\\\
@@ -579,7 +579,7 @@ a                 &= 9 \times 7 \\\\
 a                 &= 63
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -638,7 +638,7 @@ $4$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 (x + 7) \times 8  &= x \times 22 \\\\

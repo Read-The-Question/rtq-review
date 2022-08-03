@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-7"
 title: "TopicPaper - Simpleword - 7"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "28"
 ---
 <div class='paper'>
@@ -503,9 +503,9 @@ $1265 \ \text{km}$
 
 <pre class='language-latex'><code class='language-latex'>
 Let the distance between Madrid to Paris be $= a$.
-
+<emptyline>
 Total distance $=$ distance of Lisbon to Madrid +  distance of Madrid to Paris + distance of Paris to Munich 
-
+<emptyline>
 $
 \begin{aligned}
 2730  \ \text{km} &= 638 \ \text{km} + a  \ \text{km} + 827  \ \text{km} \\\\
@@ -514,7 +514,7 @@ a                 &= 2730 - 1465 \\\\
 a                 &= 1265 \ \text{km}
 \end{aligned}
 $
-
+<emptyline>
 The distance between Madrid to Paris is $1265 \ \text{km}$
 </code></pre>
 </div>
@@ -2365,9 +2365,9 @@ $600 \ \text{ml}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$1$ litre $= 1000$ ml
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Water taken} &= 1 \ \text{litre} - 400 \ \text{ml} \\\\
@@ -3862,13 +3862,13 @@ $2000 \ \text {kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>In position $1$ 
-
+<emptyline>
 height = $5 \ \text {cm}$
-
+<emptyline>
 width  = $8 \ \text {cm}$
-
+<emptyline>
 Load in positon $1$
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times 5 \times 5 \times 8 \\\\
@@ -3876,7 +3876,7 @@ $
 &= 2000 \ \text {kg}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3945,13 +3945,13 @@ $1200 \ \text {kg}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's find the load in position $2$.
-
+<emptyline>
 In position $2$ 
-
+<emptyline>
 height = $8 \ \text {cm}$
-
+<emptyline>
 width  = $5 \ \text {cm}$
-
+<emptyline>
 $
 \begin{aligned}
 &= 10 \times 8 \times 8 \times 5 \\\\
@@ -3959,9 +3959,9 @@ $
 &= 3200 \ \text {kg}
 \end{aligned}
 $
-
+<emptyline>
 Let's find the difference in the loads between the two positions
-
+<emptyline>
 $
 \begin{aligned}
 &= \text {Load \ } 2 - \text {Load \ } 1 \\\\
@@ -3969,7 +3969,7 @@ $
 &= 1200 \ \text {kg}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4035,11 +4035,11 @@ $9 \ \text {cm}$
 
 <pre class='language-latex'><code class='language-latex'>
 Width $= 6 \text {cm}$
-
+<emptyline>
 Load $= 4860 \ \text {kg}$
-
+<emptyline>
 Let's find the height $h$ of the beam.
-
+<emptyline>
 $
 \begin{aligned}
 4860 &= 10 \times h \times h \times 6 \\\\
@@ -4236,7 +4236,7 @@ $80$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text{Number of pieces}     &= \dfrac { 1.2 \ \text{kg} } { 15 \ \text{g}} \\\\
@@ -4247,7 +4247,7 @@ $
                             &= 80
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -5873,7 +5873,7 @@ $0.0008 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 200 \ \text {sheets}                                   & \ratio \dfrac {16}{10} \ \text {cm}                                    \\\\
@@ -5944,7 +5944,7 @@ $0.008 \ \text{mm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_note
-
+<emptyline>
 $
 \begin{aligned}
 200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                               \\\\
@@ -6734,7 +6734,7 @@ $
 &= 4 \ \text {teachers}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -6929,7 +6929,7 @@ $
 144 \text{biscuits}             : 12 \text{packets}
 \end{aligned}
 $
-
+<emptyline>
 To get $144$ biscuits you need to buy $12$ packets. 
 To get $148$ biscuits you need to buy atleast $12 + 1 = 13$ packets.
 </code></pre>
@@ -7129,7 +7129,7 @@ $
 &= \pounds \ 38.75 
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

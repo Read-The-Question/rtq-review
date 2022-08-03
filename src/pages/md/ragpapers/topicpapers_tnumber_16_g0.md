@@ -1,12 +1,12 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0"
 title: "TopicPaper - Number - 16 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "2"
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4AED5958-F04F-45F1-A4E4-5E09C607BC13</p>
 </div>
@@ -20,7 +20,7 @@ questions_count: "2"
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -99,9 +99,9 @@ Convert $7.4 \ \text{kilograms}$ into grams.
 
 $
 \begin{aligned}
-1 \ \text{kilograms}   &= 1000 \ \text{grams} \\\\
-7.4 \ \text{kilograms} &= 1000 \times 7.4 \\\\
-                       &= 7400 \ \text{grams}
+&= 7.4 \ \text{kilograms} \\\\
+&= 7.4 \times 1000 \ \text{grams} \\\\
+&= 7400 \ \text{grams} \\\\
 \end{aligned}
 $
 
@@ -119,9 +119,9 @@ $7400 \ \text{grams}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \ \text{kilograms}   &= 1000 \ \text{grams} \\\\
-7.4 \ \text{kilograms} &= 1000 \times 7.4 \\\\
-                       &= 7400 \ \text{grams}
+&= 7.4 \ \text{kilograms} \\\\
+&= 7.4 \times 1000 \ \text{grams} \\\\
+&= 7400 \ \text{grams} \\\\
 \end{aligned}
 $
 </code></pre>
@@ -193,7 +193,7 @@ do not write lhs = rhs way
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prpcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AFF5896F-8064-498C-8114-C2B6BAFEF3AE</p>
 </div>
@@ -207,7 +207,7 @@ do not write lhs = rhs way
 <p>rag_da_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prpcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -278,7 +278,7 @@ tnumber
 <p class='review_status initial' id='SUBTAG-STATUS-AFF5896F-8064-498C-8114-C2B6BAFEF3AE'>Initial</p>
 <div class='question question'>
 
-How many millimetres are there in a kilometre? 
+How many millimeters are there in a kilometer? 
 Give your answer in words.
 
 </div>
@@ -287,9 +287,11 @@ Give your answer in words.
 
 $
 \begin{aligned}
-1 \text { Kilometre}        &= 1 \times 1000 \times 1000 \\\\
-                            &= 1,000,000 \ \text {millimetres} \\\\
-                            &= \text {One million millimetres}
+&= 1 \ \text{kilometer} \\\\
+&= 1 \times 1000 \ \text{meters} \\\\
+&= 1 \times 1000 \times 1000 \ \text{millimeters} \\\\
+&= 1000000 \ \text{millimeters} \\\\
+&= \text {One million millimeters}
 \end{aligned}
 $
 
@@ -298,7 +300,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-One million millimetres
+One million millimeters
 
 </div>
 </div>
@@ -307,9 +309,11 @@ One million millimetres
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-1 \text { Kilometre}        &= 1 \times 1000 \times 1000 \\\\
-                            &= 1,000,000 \ \text {millimetres} \\\\
-                            &= \text {One million millimetres}
+&= 1 \ \text{kilometer} \\\\
+&= 1 \times 1000 \ \text{meters} \\\\
+&= 1 \times 1000 \times 1000 \ \text{millimeters} \\\\
+&= 1000000 \ \text{millimeters} \\\\
+&= \text {One million millimeters}
 \end{aligned}
 $
 </code></pre>
@@ -323,7 +327,7 @@ $
 <pre class='language-latex'><code class='language-latex'>%empty%</code></pre>
 </div>
 <div class='answercodeblock'>
-<pre class='language-latex'><code class='language-latex'>One million millimetres
+<pre class='language-latex'><code class='language-latex'>One million millimeters
 </code></pre>
 </div>
 </div>

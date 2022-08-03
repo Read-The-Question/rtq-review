@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-oldpr-prcc"
 title: "TopicPaper - Simpleword - 5 - OLDPR - PRCC"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "19"
 ---
 <ul class='question default-decimal'>
@@ -157,9 +157,9 @@ $\pounds 190.12$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Cost of 28 calculators $= \pounds 6.79 \times 28$
-
+<emptyline>
 $= \pounds 190.12$
 </code></pre>
 </div>
@@ -223,7 +223,7 @@ $
                                    &\approx{12}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -970,7 +970,7 @@ $
 &= 4480
 \end {aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1285,7 +1285,7 @@ $\pounds 31.32$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'> 
-
+<emptyline>
 $
 \begin{aligned}
 \text{Each month}&= \dfrac {\pounds 375.84} {12} \\\\
@@ -1351,7 +1351,7 @@ $\pounds 1879.20$
 &= \pounds 1879.20                                                  
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1691,7 +1691,7 @@ $640$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>$\text{Average goals} = \dfrac{\text{Total goals}}{\text{No. of matches}}$
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -2109,7 +2109,7 @@ $220$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>According to the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Not Coffee Crèmes}  &= 250 - 12 \ \% \ \text{of} \ 250 \\\\
@@ -2530,7 +2530,7 @@ $2375 \text{grams}$
 
 <pre class='language-latex'><code class='language-latex'>
 mass of one sheet $= 4.75 \  \text{grams}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Let mass} &= a \\\\
@@ -2592,7 +2592,7 @@ $2.3475 \ \text{kilograms}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
   1  \ \text{grams} & = \dfrac{1}{1000}  \ \text{kilograms}  \\\\
@@ -2600,7 +2600,7 @@ $
                        & = 2.375   \ \text{grams} 
 \end{aligned}
 $
-
+<emptyline>
 $2375 \ \text{grams} = 2.3475 \ \text{kilograms}$
 </code></pre>
 </div>
@@ -2854,7 +2854,7 @@ $
 &= 9072
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -3110,7 +3110,7 @@ $60 \ \text{cm}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total Width}&= 30 \ \text{cm} + 1.5 \ \text{m} + 150 \ \text{mm} \\\\
@@ -3323,7 +3323,7 @@ $\pounds 14000$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 \text{Total earning}    &= \text {Number of matches} \times \pounds 500 \times  + \text {Number of goals} \times \pounds 100 \\\\
@@ -3571,7 +3571,7 @@ $
 &= \pounds 40
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4059,14 +4059,14 @@ $72$
 
 <pre class='language-latex'><code class='language-latex'>
 Let's find multiples of $8 \times 3$ that have $2$ at the end
-
+<emptyline>
 $
 \begin{aligned}
 &= 24, 48, 72, .... \\\\
 &= 72
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4279,7 +4279,7 @@ $
 &\approx{27}
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -4697,7 +4697,7 @@ $
                                 &= 27
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>

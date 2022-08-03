@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-g0"
 title: "TopicPaper - Time - 5 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "9"
 ---
 <ul class='question default-decimal'>
@@ -1181,7 +1181,7 @@ $14{:}35$
                     &= 14{:}35
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -1376,7 +1376,7 @@ $\text {Bus Q}$ $=$ $2 \ \text{minutes}$
                                     &= 2 \ \text{minutes}
 \end{aligned}
 $
-
+<emptyline>
 
 </code></pre>
 </div>
@@ -1795,7 +1795,7 @@ part (c) : add a l.H.S :
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B849C7F3-0940-4425-9D2F-7AFBF02E5585</p>
 </div>
@@ -1809,7 +1809,7 @@ part (c) : add a l.H.S :
 <p>rag_ss_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1892,13 +1892,16 @@ For how much longer could he have watched TV without breaking his rule?
 
 $
 \begin{aligned}
-\text{Cartoons duration}    &= 7{:}10 \ \text{pm} - 6{:}20 \ \text{pm} \\\\
-                            &= 50 \ \text{minutes} \\\\
-\text{Sports duration}      &= 9{:}00 \ \text{pm} - 7{:}25 \ \text{pm} \\\\
-                            &= 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
-\text{Total time spent}     &= 50 \ \text{minutes} + 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
-                            &= 2 \ \text{hr} \ 25 \ \text{minutes} \\\\
-\text{Time left}            &= 3 \ \text{hr} - 2 \ \text{hr} \ 25 \ \text{minutes}  \\\\
+\text{Total time spent}     &= 7{:}10  - 6{:}20 + 9{:}00 -7{:}25 \\\\
+                            &= 50 \ \text{minutes} + 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
+                            &= 2 \ \text{hours} \ 25 \ \text{minutes} \\\\
+\end{aligned}
+$
+
+
+$
+\begin{aligned}
+\text{Time left}            &= 3 \ \text{hours} - 2 \ \text{hours} \ 25 \ \text{minutes}  \\\\
                             &= 35 \ \text{minutes}
 \end{aligned}
 $
@@ -1917,13 +1920,16 @@ $35 \ \text{minutes}$
 
 <pre class='language-latex'><code class='language-latex'>$
 \begin{aligned}
-\text{Cartoons duration}    &= 7{:}10 \ \text{pm} - 6{:}20 \ \text{pm} \\\\
-                            &= 50 \ \text{minutes} \\\\
-\text{Sports duration}      &= 9{:}00 \ \text{pm} - 7{:}25 \ \text{pm} \\\\
-                            &= 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
-\text{Total time spent}     &= 50 \ \text{minutes} + 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
-                            &= 2 \ \text{hr} \ 25 \ \text{minutes} \\\\
-\text{Time left}            &= 3 \ \text{hr} - 2 \ \text{hr} \ 25 \ \text{minutes}  \\\\
+\text{Total time spent}     &= 7{:}10  - 6{:}20 + 9{:}00 -7{:}25 \\\\
+                            &= 50 \ \text{minutes} + 1 \ \text{hour} \ 35 \ \text{minutes} \\\\
+                            &= 2 \ \text{hours} \ 25 \ \text{minutes} \\\\
+\end{aligned}
+$
+<emptyline>
+
+$
+\begin{aligned}
+\text{Time left}            &= 3 \ \text{hours} - 2 \ \text{hours} \ 25 \ \text{minutes}  \\\\
                             &= 35 \ \text{minutes}
 \end{aligned}
 $

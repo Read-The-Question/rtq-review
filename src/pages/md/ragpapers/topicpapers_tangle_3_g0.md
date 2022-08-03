@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-g0"
 title: "TopicPaper - Angle - 3 - G0"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "7"
 ---
 <ul class='question default-decimal'>
@@ -14,10 +14,10 @@ questions_count: "7"
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:1:6</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -143,13 +143,13 @@ $108 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the two equal angles $= a$
-
+<emptyline>
 Third angle $= 3a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + a + 3a      &= 180 \degree \\\\
@@ -160,9 +160,9 @@ a               &= \dfrac {36 \times \cancel{5}} {\cancel{5}} \\\\
 a               &= 36 \degree
 \end {aligned}
 $
-
+<emptyline>
 Let's use $a$ to find the biggest angle.
-
+<emptyline>
 $
 \begin {aligned}
 \text {Biggest angle}   &= 3a \\\\
@@ -247,10 +247,10 @@ Uday: look again after changes.
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:1:2</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -403,9 +403,9 @@ $60 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the third angle $= a$
-
+<emptyline>
 $
 \begin{aligned}
 a + 39 + 81   &= 180 \\\\
@@ -414,7 +414,7 @@ a             &= 180 - 120 \\\\
 a             &= 60 \degree
 \end{aligned}
 $
-
+<emptyline>
 Third angle $= 60 \degree$
 </code></pre>
 </div>
@@ -501,11 +501,11 @@ $48 \degree, 84 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the two missing angles $= a$.
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 a + a + 48           &= 180 \\\\
@@ -516,17 +516,17 @@ a                    &= \dfrac {132} {2} \\\\
 a                    &= 66 \degree
 \end {aligned}
 $
-
+<emptyline>
 Two mising angles are $66 \degree , 66 \degree$.
-
+<emptyline>
 Or,
-
+<emptyline>
 Let one of the missing angles $= 48 \degree$
-
+<emptyline>
 Let the third angle $= b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin {aligned}
 48 + 48 + b    &= 180 \\\\
@@ -535,7 +535,7 @@ b              &= 180 - 96 \\\\
 b              &= 84 \degree
 \end {aligned}
 $
-
+<emptyline>
 Two missing angles are $48 \degree, 84 \degree$. 
 </code></pre>
 </div>
@@ -608,9 +608,9 @@ $40 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 A + B + C        &= 180 \degree \\\\
@@ -623,7 +623,7 @@ A                &= \dfrac {\cancel {4} \times 40} {\cancel {4} } \\\\
 A                &= 40 \degree
 \end{aligned}
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -695,10 +695,10 @@ $
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:1:9</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -828,13 +828,13 @@ $105 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the remaining angle $= a$
-
+<emptyline>
 Larger angle $= 3a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 3a + 40             &= 180 \\\\
@@ -847,7 +847,7 @@ a                       &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
 a                       &= 35 \degree
 \end{aligned}
 $
-
+<emptyline>
 
 $
 \begin{aligned}
@@ -857,7 +857,7 @@ $
                              &= 105  \degree
 \end{aligned}
 $
-
+<emptyline>
 Largest angle $= 105 \degree$
 </code></pre>
 </div>
@@ -927,10 +927,10 @@ Largest angle $= 105 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:1:12</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1056,15 +1056,15 @@ $108 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 Let the smallest angle $= a$
-
+<emptyline>
 Middle angle $= 3a$
-
+<emptyline>
 Largest angle $= 6a$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a + 3a + 6a     &= 180 \\\\
@@ -1074,7 +1074,7 @@ a               &= \dfrac {18\cancel{0}} {1\cancel{0}} \\\\
 a               &= 18 \degree
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text {Smallest angle}  &= 18 \degree \\\\
@@ -1151,10 +1151,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1277,9 +1277,9 @@ $x = 117 \degree, \ \ y = 29 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 As per the diagram,
-
+<emptyline>
 $
 \begin{aligned}
 x + 63                  &= 180 \\\\
@@ -1287,7 +1287,7 @@ x                       &= 180 - 63 \\\\
 x                       &= 117 \degree
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 y + 63  + 88                        &= 180 \\\\
@@ -1364,10 +1364,10 @@ $
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:1:16</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1502,29 +1502,29 @@ $30 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_on_a_straight_line
-
+<emptyline>
 Let the other angles in the triangle $=a, b$
-
+<emptyline>
 As per the question,
-
+<emptyline>
 $
 \begin{aligned}
 a              &= 180 - 110 \\\\
 a              &= 70 \degree
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 b              &= 180 - 100 \\\\
 b              &= 80 \degree
 \end{aligned}
 $
-
+<emptyline>
 Let's use the value of $a$ and $b$ to find $χ$.
-
+<emptyline>
 $
 \begin{aligned}
 χ + a + b           &= 180 \\\\
@@ -1602,10 +1602,10 @@ $
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Naman Pant</p>
+<p>Abhay Kandpal</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcc</p>
@@ -1724,11 +1724,11 @@ $16 \degree$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_katex_formula_angles_of_equilateral_triangle
-
+<emptyline>
 rtq_abbr_katex_formula_angles_of_rectangle
-
+<emptyline>
 As per the figure,
-
+<emptyline>
 $
 \begin{aligned}
 x + 60 + 14     &= 90 \\\\

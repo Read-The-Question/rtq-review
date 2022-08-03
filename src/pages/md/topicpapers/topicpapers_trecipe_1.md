@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-trecipe-1"
 title: "TopicPaper - Recipe - 1"
-date: 2022-08-01 21:41:58
+date: 2022-08-03 14:15:25
 questions_count: "21"
 ---
 <div class='paper'>
@@ -24,10 +24,10 @@ questions_count: "21"
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:1:23</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -182,7 +182,7 @@ $540 \ \text{g}$ flour
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 12  \text{ cupcakes}                 &: 180 \ \text{g flour} \\\\
@@ -245,7 +245,7 @@ $60$ cupcakes
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>rtq_abbr_md_unit_no_dot_note.
-
+<emptyline>
 $
 \begin{aligned}
 12  \text{ cupcakes}                 &: 200 \ \text{g caster sugar} \\\\
@@ -325,10 +325,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -434,7 +434,7 @@ $300 \ \text{g sugar}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 10 \ \text{g jam}                &: 6 \ \text{g sugar} \\\\
@@ -470,10 +470,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -576,7 +576,7 @@ $330 \ \text{g sugar}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 10 \ \text{g jam}                &: 5.5 \ \text{g sugar} \\\\
@@ -612,10 +612,10 @@ $
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -725,7 +725,7 @@ $225 \ \text{g flour}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>Let's solve this using ratios. 
-
+<emptyline>
 $
 \begin{aligned}
 4 \ \text{people}                                                       &: 150 \ \text{g flour} \\\\
@@ -765,10 +765,10 @@ $
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:14</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -921,10 +921,10 @@ TODOANSWER
 <p>forest-school--11-plus--maths--9999--sample-paper-1:1:30</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1074,10 +1074,10 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1439,10 +1439,10 @@ TODOANSWER
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1875,10 +1875,10 @@ TODOANSWER
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:25</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2043,9 +2043,9 @@ $360 \ \text{gm} \ \text{Plain Flour} ,  9 \ \text{Eggs} , 630 \ \text{ml}  \ \t
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>As per the question,
-
+<emptyline>
 Ingredient is needed to make $18$ pancakes = Each ingredient is needed to make $6$ pancakes $\times 3$
-
+<emptyline>
 $
 \begin{aligned}
 \text{The plain flour needed to make 18 pancakes} &= \text{The plain flour used to make 6 Pancakes} \times 3 \\\\
@@ -2053,7 +2053,7 @@ $
 &=  360 \ \text{gm}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{The Eggs needed to make 18 pancakes} &= \text{The Eggs used to make 6 Pancakes} \times 3 \\\\
@@ -2061,7 +2061,7 @@ $
 &= 9
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{The milk needed to make 18 pancakes} &= \text{The  milk used to make 6 Pancakes} \times 3 \\\\
@@ -2159,7 +2159,7 @@ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \t
 &= 70 \ \text{ml}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{ingredients required to make 8 pancakes} &= \text{required to make 6 pancakes} + \text{required to make 2 pancakes}  \\\\
@@ -2248,10 +2248,10 @@ call Aravind
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:11</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_mr_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2447,7 +2447,7 @@ $Sugar 160 \ \text{g}, Eggs 4, Butter 213.33 \ \text{g}, Flour 240 \ \text{g}$
 <div class='workingcodeblock'>
 
 <pre class='language-latex'><code class='language-latex'>A recipe for making $16$ cupcakes includes the following ingredients:
-
+<emptyline>
 Sugar
 $
 \begin{aligned}
@@ -2458,7 +2458,7 @@ $
 &= 160 \ \text{g}
 \end{aligned}
 $ 
-
+<emptyline>
 Eggs
 $
 \begin{aligned}
@@ -2470,7 +2470,7 @@ $
 &= 4 
 \end{aligned}
 $ 
-
+<emptyline>
 Butter
 $
 \begin{aligned}
@@ -2482,7 +2482,7 @@ $
 &= 213.33 \ \text{g}
 \end{aligned}
 $
-
+<emptyline>
 
 Flour
 $
@@ -2615,10 +2615,10 @@ Show the wroking please.. for both parts
 <p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2801,16 +2801,16 @@ $
 
 <pre class='language-latex'><code class='language-latex'>$
 $100 \ \text{grams}$ of margarine
-
+<emptyline>
 $150 \ \text{grams}$ of oats
-
+<emptyline>
 $100 \ \text{grams}$ of sugar
-
+<emptyline>
 $50 \ \text{grams}$ of flour
-
+<emptyline>
 $66.66$ tablespoons of syrup
 $
-
+<emptyline>
 </code></pre>
 </div>
 </div>
@@ -2886,20 +2886,20 @@ $250 \ \text {g}$
 
 <pre class='language-latex'><code class='language-latex'>$
 According to question,
-
+<emptyline>
 20 flapjacks need $=100gm$
-
+<emptyline>
 1 flapjack need
-
+<emptyline>
 $
 \begin{aligned}
 &= \dfrac {100} {20} \\\\
 &= 5
 \end{aligned}
 $
-
+<emptyline>
 50 flapjacks will need, 
-
+<emptyline>
 \begin{aligned}
 &= 5 \times 50 \\\\
 &= 250 \ \text {g}
@@ -2995,10 +2995,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3227,10 +3227,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:13</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3368,10 +3368,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:17</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3605,10 +3605,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3866,13 +3866,13 @@ $345 \ \text{grams}, \ 345 \ \text{grams} , \ 345 \ \text{grams}, \ 6$
                       &= 345 \ \text{grams}
 \end{aligned}
 $
-
+<emptyline>
 Similarly
-
+<emptyline>
 Butter required $= 345 \ \text{grams}$
-
+<emptyline>
 Sugar required $= 345 \ \text{grams}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Eggs required}  &= 4 \times \dfrac {3} {2} \\\\
@@ -4018,10 +4018,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_mr_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4345,9 +4345,9 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
                         &= 210 \ \text{grams}
 \end{aligned}
 $
-
+<emptyline>
 Similarly Porridge oats required $= 210 \ \text{grams}$
-
+<emptyline>
 $
 \begin{aligned}
 \text{Black pepper required} &= \dfrac {9} {6} \times 10 \\\\
@@ -4358,7 +4358,7 @@ $
                              &= 15 \ \text{twists}
 \end{aligned}
 $
-
+<emptyline>
 $
 \begin{aligned}
 \text{Olive oil required} &= \dfrac {9} {6} \times 80 \\\\
@@ -4440,10 +4440,10 @@ $
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:15</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4808,10 +4808,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:1:18</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5077,10 +5077,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:1:16</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5508,10 +5508,10 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:19</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -5727,10 +5727,10 @@ TODOANSWER
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:1:22</p>
 </div>
 <div class='rag'>
-<p>Waffles Woof</p>
+<p>Md Rameez</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_mr_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

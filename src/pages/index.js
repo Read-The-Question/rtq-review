@@ -130,6 +130,86 @@ const linkStyle = {
 
 // markup
 const IndexPage = ({data}) => {
+  const questionOnlyPrccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prcc") || 
+        (slug.includes("-prns"))
+      ) &&
+      !(
+        (slug.includes("-prccrl"))
+      );
+
+    });
+  }
+
+  const questionOnlyPrccrlNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prccrl")
+      );
+    });
+  }
+
+  const questionOnlyPrpcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prpcr")
+      );
+    });
+  }
+
+  const questionOnlyPrcrNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      console.log(slug);
+      return slug.startsWith("questionsonlyragpapers") && 
+      (
+        slug.includes("-prcr")
+      );
+    });
+  }
+
+  const questionOnlyBlockedNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      return slug.startsWith("questionsonlyragpapers") && slug.includes("-blocked");
+    });
+  }
+
+  const questionOnlyNotstartedNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      return slug.startsWith("questionsonlyragpapers") && slug.includes("-notstarted");
+    });
+  }
+
+
+  const questionOnlyRestOfNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return slug.startsWith("questionsonlyragpapers") && 
+      !(
+        (slug.includes("-blocked")) || 
+        (slug.includes("-notstarted")) || 
+        (slug.includes("-prcc")) || 
+        (slug.includes("-prcr")) || 
+        (slug.includes("-prpcr")) ||
+        (slug.includes("-prns"))
+        );
+    });
+  }
+
   const prccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
@@ -218,7 +298,7 @@ const IndexPage = ({data}) => {
       </h1>
 
       <h2 style={headingStyles}>
-        TopicPapers - RAG - PRPCR
+        Answers - TopicPapers - RAG - PRPCR
       </h2>
 
       {/* Filter Ragpapers and PRCC */}
@@ -244,7 +324,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-        TopicPapers - RAG - PRCR
+      Answers - TopicPapers - RAG - PRCR
       </h2>
 
       <ul style={listStyles}>
@@ -268,7 +348,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-        TopicPapers - RAG - Not Started
+      Answers - TopicPapers - RAG - Not Started
       </h2>
 
       <ul style={listStyles}>
@@ -292,7 +372,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-        TopicPapers - RAG - PRCC
+      Answers - TopicPapers - RAG - PRCC
       </h2>
 
       {/* Filter Ragpapers and PRCC */}
@@ -317,7 +397,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-        TopicPapers - RAG - PRCCRL
+      Answers - TopicPapers - RAG - PRCCRL
       </h2>
 
       {/* Filter Ragpapers and PRCC */}
@@ -342,7 +422,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-        TopicPapers - RAG
+      Answers - TopicPapers - RAG
       </h2>
 
       {/* Filter Rest */}
@@ -367,7 +447,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-        TopicPapers - Blocked
+      Answers - TopicPapers - Blocked
       </h2>
 
       {/* Filter Ragpapers and Blocked */}
@@ -396,7 +476,7 @@ const IndexPage = ({data}) => {
 
 
       <h2 style={headingStyles}>
-        TopicPapers
+      Answers - TopicPapers
       </h2>
 
       <ul style={listStyles}>
@@ -420,9 +500,212 @@ const IndexPage = ({data}) => {
       </ul>
 
 
+      <h2 style={headingStyles}>
+        Questions - TopicPapers - RAG - PRPCR
+      </h2>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {questionOnlyPrpcrNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
 
       <h2 style={headingStyles}>
-        Owners
+      Questions - TopicPapers - RAG - PRCR
+      </h2>
+
+      <ul style={listStyles}>
+        {questionOnlyPrcrNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h2 style={headingStyles}>
+      Questions - TopicPapers - RAG - Not Started
+      </h2>
+
+      <ul style={listStyles}>
+        {questionOnlyNotstartedNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h2 style={headingStyles}>
+      Questions - TopicPapers - RAG - PRCC
+      </h2>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {questionOnlyPrccNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h2 style={headingStyles}>
+      Questions - TopicPapers - RAG - PRCCRL
+      </h2>
+
+      {/* Filter Ragpapers and PRCC */}
+      <ul style={listStyles}>
+        {questionOnlyPrccrlNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h2 style={headingStyles}>
+      Questions - TopicPapers - RAG
+      </h2>
+
+      {/* Filter Rest */}
+      <ul style={listStyles}>
+        {questionOnlyRestOfNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+      <h2 style={headingStyles}>
+      Questions - TopicPapers - Blocked
+      </h2>
+
+      {/* Filter Ragpapers and Blocked */}
+      <ul style={listStyles}>
+        {questionOnlyBlockedNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+
+
+
+
+      <h2 style={headingStyles}>
+      Questions - TopicPapers
+      </h2>
+
+      <ul style={listStyles}>
+        {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("questionsonlytopicpapers"))).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "} 
+              </Link>
+
+            </span>
+            <span>
+             ({node.frontmatter.questions_count})
+            </span>
+
+          </li>
+        ))}
+      </ul>
+
+
+
+      <h2 style={headingStyles}>
+      Answers - Owners
       </h2>
 
       <ul style={listStyles}>
@@ -446,7 +729,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-        Reviewers
+      Answers - Reviewers
       </h2>
 
       <ul style={listStyles}>
@@ -470,7 +753,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-        Topics
+      Answers -  Topics
       </h2>
 
       <ul style={listStyles}>
@@ -494,7 +777,7 @@ const IndexPage = ({data}) => {
       </ul>
 
       <h2 style={headingStyles}>
-        Papers
+      Answers - Papers
       </h2>
 
       <ul style={listStyles}>

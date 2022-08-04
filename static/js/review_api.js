@@ -40,14 +40,22 @@ const submitReview = (event) => {
     const uuid = btn.dataset.uuid;
     const sheet = btn.dataset.sheet;
     const rag = btn.dataset.rag;
+    const reviewType = btn.dataset.reviewType;
 
     const body = {uuid, sheet, rag};
     console.log(body);
+    console.log(reviewType);
+    console.log(btn.dataset);
 
     // const url = 'http://localhost:5000/rag';
-    const url = 'https://read-the-question-20220609.herokuapp.com/rag';
+    const answer_url = 'https://read-the-question-20220609.herokuapp.com/rag';
+    const question_url = 'https://read-the-question-20220609.herokuapp.com/questionrag';
 
-    submitAsyncRequest(uuid, body, url, 'REVIEW');
+    if (reviewType == "REVIEW_QUESTION") {
+        submitAsyncRequest(uuid, body, question_url, 'REVIEW');
+    } else {
+        submitAsyncRequest(uuid, body, answer_url, 'REVIEW');
+    }
 }
 
 const submitComment = (event) => {
@@ -63,14 +71,22 @@ const submitComment = (event) => {
     const comment = formObj.comment;
     const uuid = form.dataset.uuid;
     const sheet = form.dataset.sheet;
+    const reviewType = btn.dataset.reviewType;
 
     const body = {uuid, sheet, comment};
     console.log(body);
 
     // const url = 'http://localhost:5000/comments';
-    const url = 'https://read-the-question-20220609.herokuapp.com/comments';
+    const answer_url = 'https://read-the-question-20220609.herokuapp.com/comments';
+    const question_url = 'https://read-the-question-20220609.herokuapp.com/questioncomments';
 
     submitAsyncRequest(uuid, body, url, 'REVIEW');
+    if (reviewType == "REVIEW_QUESTION") {
+        submitAsyncRequest(uuid, body, question_url, 'REVIEW');
+    } else {
+        submitAsyncRequest(uuid, body, answer_url, 'REVIEW');
+    }
+
 }
 
 async function submitAsyncRequest(uuid, body, url, reviewPrefix) {

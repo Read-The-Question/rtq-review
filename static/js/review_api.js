@@ -71,7 +71,7 @@ const submitComment = (event) => {
     const comment = formObj.comment;
     const uuid = form.dataset.uuid;
     const sheet = form.dataset.sheet;
-    const reviewType = btn.dataset.reviewType;
+    const reviewType = form.dataset.reviewType;
 
     const body = {uuid, sheet, comment};
     console.log(body);
@@ -80,7 +80,6 @@ const submitComment = (event) => {
     const answer_url = 'https://read-the-question-20220609.herokuapp.com/comments';
     const question_url = 'https://read-the-question-20220609.herokuapp.com/questioncomments';
 
-    submitAsyncRequest(uuid, body, url, 'REVIEW');
     if (reviewType == "REVIEW_QUESTION") {
         submitAsyncRequest(uuid, body, question_url, 'REVIEW');
     } else {
